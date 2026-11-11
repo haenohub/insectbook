@@ -1,0 +1,21 @@
+{
+  "scanned": "2026-11-11",
+  "findings": {
+    "fonts": "Noto Sans CJK KR + Noto Serif CJK KR (src/styles.css:2)",
+    "palette": "paper #f7f6f0, green #315b44, ink #293a2d (src/styles.css:2)",
+    "framework": "React 19 + Vite 8 (package.json:18)",
+    "material": "721 saved colored-pencil illustrations (data/web-catalog.json:1)",
+    "scope": "app: catalog, favorites and battle in src/App.jsx"
+  },
+  "preserve": [
+    "brand palette and Korean fonts",
+    "all image and source records",
+    "search, filters, favorites, detail, battle handlers",
+    "16px body and 14px secondary type"
+  ],
+  "introduce": [
+    "central tokens",
+    "field-guide catalog composition",
+    "Hallmark floor and rendered audit"
+  ]
+}

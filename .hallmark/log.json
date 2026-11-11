@@ -1,0 +1,47 @@
+[
+ {
+  "mode": "redesign",
+  "depth": "full",
+  "scope": "app",
+  "shape": "insect catalog with feature filter rail",
+  "genre": "playful",
+  "theme": "brand",
+  "axes": "warm paper / Korean serif / forest green",
+  "posture": "restrained",
+  "nav": "existing three-view tabs",
+  "footer": "wordmark, original source and unchanged disclaimer",
+  "imagery": "721 existing user colored-pencil insect images, no new generation",
+  "photos": [],
+  "entry": "catalog search",
+  "signature": "the user colored-pencil insect collection",
+  "waived": [
+   "39b",
+   "16"
+  ],
+  "prompt": "Apply Hallmark to improve the existing Korean illustrated insect guide while retaining readable text, search, favorites and battles.",
+  "sweep": {
+   "fails": 0,
+   "reflex": 0,
+   "warns": 0,
+   "waived": 2,
+   "rejected": 0,
+   "answered": 6,
+   "dismissed": 0,
+   "notes": 0,
+   "files": 6,
+   "render": "ran",
+   "kept": "kept: links 2/2, fields 5/5, handlers 64/64, headings 7/10 (3 dropped on record); before 346 FAIL, 426 REFLEX, now 0 FAIL, 0 REFLEX"
+  },
+  "review": {
+   "type": "subagent",
+   "findings": 2,
+   "resolved": 2
+  },
+  "validation": {
+   "unit": 10,
+   "browser": 8,
+   "illustrationHashes": 721
+  },
+  "date": "2026-11-11"
+ }
+]

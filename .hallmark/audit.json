@@ -1,0 +1,89 @@
+{
+  "summary": {
+    "fails": 0,
+    "reflex": 0,
+    "warns": 0,
+    "waived": 2,
+    "rejected": 0,
+    "answered": 6,
+    "dismissed": 0,
+    "notes": 0,
+    "files": 6,
+    "render": "ran",
+    "kept": "kept: links 2/2, fields 5/5, handlers 64/64, headings 7/10 (3 dropped on record); before 346 FAIL, 426 REFLEX, now 0 FAIL, 0 REFLEX"
+  },
+  "findings": [
+    {
+      "gate": "39b",
+      "grade": "WAIVED",
+      "tier": "reflex",
+      "file": "http://127.0.0.1:5173",
+      "line": 1,
+      "evidence": "[1440px] control height outside 32 to 52px: button.hero-mini-sketch 244px",
+      "fix": "Marketing controls stand 44 to 52px; app UI 32 to 40px with a 44px hit target"
+    },
+    {
+      "gate": "39b",
+      "grade": "WAIVED",
+      "tier": "reflex",
+      "file": "http://127.0.0.1:5173/?view=battle",
+      "line": 1,
+      "evidence": "[1440px] control height outside 32 to 52px: button.empty-fighter 300px, button.empty-fighter 300px",
+      "fix": "Marketing controls stand 44 to 52px; app UI 32 to 40px with a 44px hit target"
+    },
+    {
+      "gate": "F6",
+      "grade": "ANSWERED",
+      "tier": "finish",
+      "file": "src/styles.css",
+      "line": 83,
+      "evidence": "numeric selector .collection-count at display size without tabular figures",
+      "fix": "Add font-variant-numeric: tabular-nums"
+    },
+    {
+      "gate": "F6",
+      "grade": "ANSWERED",
+      "tier": "finish",
+      "file": "src/styles.css",
+      "line": 123,
+      "evidence": "numeric selector .specimen-number at display size without tabular figures",
+      "fix": "Add font-variant-numeric: tabular-nums"
+    },
+    {
+      "gate": "F6",
+      "grade": "ANSWERED",
+      "tier": "finish",
+      "file": "src/styles.css",
+      "line": 160,
+      "evidence": "numeric selector .empty-state h3 at display size without tabular figures",
+      "fix": "Add font-variant-numeric: tabular-nums"
+    },
+    {
+      "gate": "F6",
+      "grade": "ANSWERED",
+      "tier": "finish",
+      "file": "src/styles.css",
+      "line": 232,
+      "evidence": "numeric selector .picker-count at display size without tabular figures",
+      "fix": "Add font-variant-numeric: tabular-nums"
+    },
+    {
+      "gate": "F6",
+      "grade": "ANSWERED",
+      "tier": "finish",
+      "file": "src/styles.css",
+      "line": 261,
+      "evidence": "numeric selector .fighter-stat-line > span at display size without tabular figures",
+      "fix": "Add font-variant-numeric: tabular-nums"
+    },
+    {
+      "gate": "F6",
+      "grade": "ANSWERED",
+      "tier": "finish",
+      "file": "src/styles.css",
+      "line": 303,
+      "evidence": "numeric selector .history-count at display size without tabular figures",
+      "fix": "Add font-variant-numeric: tabular-nums"
+    }
+  ]
+}

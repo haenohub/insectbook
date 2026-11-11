@@ -83,10 +83,12 @@ test('battles are reproducible, terminate, respect HP and never attack after a K
     let hp = pair.map(i => i.stats.hp);
     for (const e of result.events) {
       assert.ok(hp.every(n => n > 0), 'no turn after a KO');
-      assert.equal(e.hp[e.actor], hp[e.actor]);
+      assert.equal(e.hp[e.actor], hp[e.actor] + e.heal);
       assert.equal(e.hp[e.target], hp[e.target] - e.damage);
-      assert.ok(e.hp.every(n => n >= 0));
-      assert.equal(e.dodge, e.damage === 0);
+      assert.ok(e.hp.every((n, k) => n >= 0 && n <= pair[k].stats.hp));
+      assert.ok(e.damage >= 0 && e.heal >= 0 && e.absorbed >= 0);
+      assert.ok(e.damage + e.absorbed <= e.rawDamage);
+      if (e.dodge) assert.equal(e.rawDamage, 0);
       hp = e.hp;
     }
     assert.deepEqual(result.hp, hp);
@@ -95,8 +97,8 @@ test('battles are reproducible, terminate, respect HP and never attack after a K
 });
 
 test('agility changes first-move probability; higher evasion actually avoids hits', () => {
-  const slow = { ...byId.ZRED0008, id: 'slow', stats: { hp: 160, attack: 20, defense: 12, agility: 25, evasion: 5 } };
-  const fast = { ...byId.ZRED0008, id: 'fast', stats: { hp: 160, attack: 20, defense: 12, agility: 96, evasion: 32 } };
+  const slow = { ...byId.ZRED0008, id: 'slow', traits: [], stats: { hp: 160, attack: 20, defense: 12, agility: 25, evasion: 5 } };
+  const fast = { ...byId.ZRED0008, id: 'fast', traits: [], stats: { hp: 160, attack: 20, defense: 12, agility: 96, evasion: 32 } };
   let fastFirst = 0, fastDodge = 0, slowDodge = 0;
   for (let seed = 0; seed < 1000; seed++) {
     const r = simulateBattle(slow, fast, seededRandom(seed));

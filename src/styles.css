@@ -303,3 +303,33 @@ body:has(.selection-tray) { padding-bottom: 170px; }
   .battle-invitation { grid-template-columns: 36px minmax(0, 1fr); gap: 14px; }
   .battle-invitation > .text-button { margin: 0; }
 }
+/* Title abilities keep the established field-guide design and readable type. */
+.fighter-action{display:flex;align-items:center;justify-content:center;gap:8px;min-height:48px;margin:14px 0 0;font-size:16px;font-weight:600;color:#536b43;text-align:center;line-height:1.6}
+.fighter-action.is-skill{color:#315b44;background:#e6eddb;border-radius:6px;padding:8px 10px;animation:skill-appear .3s ease-out}
+.fighter-effects{display:flex;flex-wrap:wrap;gap:7px;margin-top:16px;min-height:28px;align-items:flex-start}
+.fighter-effects>span{display:inline-flex;align-items:center;gap:5px;font-size:14px;padding:5px 8px;border-radius:4px;line-height:1.5}
+.shield-status,.effect-positive{background:#e4ecd9;color:#47613b}.fighter-effects .effect-negative{background:#f0e3dc;color:#8a523b}
+.fighter-abilities{margin-top:22px;border-top:1px solid #d9dfcc;padding-top:18px}
+.fighter-abilities h4{margin:0 0 12px;font-size:16px;font-weight:600;display:flex;align-items:baseline;justify-content:space-between;gap:8px}
+.fighter-abilities h4 small{font-size:14px;color:#626d5a;font-weight:400}
+.skill-list{display:grid;gap:8px;min-width:0}
+.skill-entry{border-bottom:1px solid #dde2d2;padding-bottom:6px;min-width:0}
+.skill-entry summary{display:flex;align-items:center;gap:8px;min-height:48px;cursor:pointer;list-style:none;font-size:14px;padding:6px 0}
+.skill-entry summary::-webkit-details-marker{display:none}.skill-entry summary>span{min-width:0;flex:1}
+.skill-entry strong{font-size:16px;line-height:1.55;font-weight:500;display:block;overflow-wrap:anywhere}
+.skill-entry summary small{display:block;font-size:14px;color:#626d5a;line-height:1.65;margin-top:2px}
+.skill-entry em{font-size:14px;font-style:normal;color:#626d5a;white-space:nowrap}
+.skill-entry summary>svg:last-child{width:14px;height:14px;transition:transform .15s}.skill-entry[open] summary>svg:last-child{transform:rotate(180deg)}
+.skill-entry p{font-size:16px;color:#56634b;line-height:1.8;padding:10px 0 6px;overflow-wrap:anywhere}
+.skill-cooldown{font-size:14px;display:block;color:#626d5a;padding-bottom:8px}
+.skill-entry.skill-active{border-bottom-color:#8fa879}.skill-active strong,.skill-active em{color:#315b44;font-weight:600}
+.skill-help{font-size:14px;color:#626d5a;line-height:1.8;margin-bottom:12px}
+.heal-pop{position:absolute;left:8px;top:40%;background:#e0edd9;color:#3d6c3b;padding:8px 10px;font-size:16px;border-radius:5px;animation:skill-appear .35s ease-out}
+.battle-log>p.skill-log-entry{color:#315b44}.skill-log-entry>span>svg{display:inline-block;vertical-align:-2px;margin-right:6px}
+.battle-replay{margin-top:20px;padding-top:16px;border-top:1px solid #dce3ce}
+.battle-replay summary{cursor:pointer;font-size:16px;line-height:1.7;min-height:44px;color:#315b44}
+.battle-replay ol{margin:10px 0 0;padding:0 0 0 24px;max-height:360px;overflow:auto;overscroll-behavior:contain}
+.battle-replay li{font-size:14px;line-height:1.9;padding:8px 0;color:#59684e}.battle-replay li b{font-weight:500;margin-right:5px}
+@keyframes skill-appear{from{opacity:.5;transform:translateY(4px)}to{opacity:1;transform:translateY(0)}}
+@media(max-width:600px){.fighter{padding:20px}.fighter-abilities{margin-top:20px}.skill-entry summary{gap:6px}.skill-entry summary>svg:first-child{width:16px;height:16px}.fighter-action{font-size:16px}.battle-in-progress{font-size:16px;overflow-wrap:anywhere}.battle-log>p{font-size:16px}.battle-replay li{font-size:14px}.skill-entry em{font-size:14px}}
+@media(prefers-reduced-motion:reduce){.fighter-action,.heal-pop{animation:none}.skill-entry summary>svg:last-child{transition:none}}

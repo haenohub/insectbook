@@ -1,0 +1,118 @@
+{
+  "id": "ZRDS0557",
+  "name_ko": "흰줄태극나방",
+  "scientific_name": "Metopta rectifasciata (Ménétriès, 1863)",
+  "display_name": "흰줄태극나방",
+  "family_ko": "태극나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "태극나방과",
+      "name_latin": "Erebidae"
+    },
+    "subfamily": {
+      "name_ko": "태극나방아과",
+      "name_latin": "Erebinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Metopta"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 태극나방과 (Erebidae)\n아과 : 태극나방아과 (Erebinae)\n속 : (Metopta)",
+  "basic_information": {
+    "곤충명": "흰줄태극나방",
+    "학명": "Metopta rectifasciata (Ménétriès, 1863)"
+  },
+  "information": {
+    "general_description": "수컷의 더듬이는 빗살 모양이며, 아랫입술수염은 잘 발달되었는데, 제 3마디는 가늘고 길음. 머리와 가슴의 등쪽면은 암갈색을 띠며, 가운데다리의 종아리마디에는 자침이 있음.\n앞날개는 암갈색을 띠는데 중실의 끝에는 커다랗게 둥근 무늬가 있으며, 그 주위를 백색 선이 둘러싸고 있음. 중횡선은 흑갈색을 띠는데 태극 무늬의 바깥쪽을 싸고 있으며, 중횡선의 안쪽과 전연부는 약간 담회갈색을 띰. 외횡선은 폭넓은 백색띠로 되었음.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 5～8월경에 출현됨. 유충은 자귀나무, 청미래덩굴, 밀나물 등의 잎을 먹음. 성충은 특히 감귤 등의 과즙(果汁)을 흡수하는 해충임.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[러시아]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "수컷의 더듬이는 빗살 모양이며, 아랫입술수염은 잘 발달되었는데, 제 3마디는 가늘고 길음. 머리와 가슴의 등쪽면은 암갈색을 띠며, 가운데다리의 종아리마디에는 자침이 있음.\n앞날개는 암갈색을 띠는데 중실의 끝에는 커다랗게 둥근 무늬가 있으며, 그 주위를 백색 선이 둘러싸고 있음. 중횡선은 흑갈색을 띠는데 태극 무늬의 바깥쪽을 싸고 있으며, 중횡선의 안쪽과 전연부는 약간 담회갈색을 띰. 외횡선은 폭넓은 백색띠로 되었음."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 5～8월경에 출현됨. 유충은 자귀나무, 청미래덩굴, 밀나물 등의 잎을 먹음. 성충은 특히 감귤 등의 과즙(果汁)을 흡수하는 해충임."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[러시아]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0557-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0557_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0557_2_th.jpg",
+      "alt": "흰줄태극나방 1번째 사진 : 흰줄태극나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0557_2_th2.jpg",
+      "caption": "흰줄태극나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDS0557-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0557_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0557_1_th.jpg",
+      "alt": "흰줄태극나방 2번째 사진 : 흰줄태극나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0557_1_th2.jpg",
+      "caption": "흰줄태극나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0557-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0408121024",
+      "description": "[KNAE0408121024] 흰줄태극나방 1999.06.23 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0408121025",
+      "description": "[KNAE0408121025] 흰줄태극나방 1999.06.23 / / 국립수목원"
+    },
+    {
+      "id": "JFNE0305121041",
+      "description": "[JFNE0305121041] 흰줄태극나방 1996.08.11 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDS0557-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0557&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:55+00:00",
+    "html_sha256": "9510c622cb01b69f8ab0297d6448de42640e7682bf3fa3e65f717b69b316b5cc",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

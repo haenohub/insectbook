@@ -1,0 +1,106 @@
+{
+  "id": "ZDAG0007",
+  "name_ko": "산잠자리",
+  "scientific_name": "Epophthalmia elegans (Brauer, 1865)",
+  "display_name": "산잠자리",
+  "family_ko": "잔산잠자리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "잠자리목",
+      "name_latin": "Odonata"
+    },
+    "family": {
+      "name_ko": "잔산잠자리과",
+      "name_latin": "Macromiidae"
+    },
+    "subfamily": {
+      "name_ko": "멧잠자리아과",
+      "name_latin": "Macromiinae"
+    },
+    "genus": {
+      "name_ko": "산잠자리속",
+      "name_latin": "Epophthalmia"
+    }
+  },
+  "taxonomy_text": "목 : 잠자리목 (Odonata)\n과 : 잔산잠자리과 (Macromiidae)\n아과 : 멧잠자리아과 (Macromiinae)\n속 : 산잠자리속 (Epophthalmia)",
+  "basic_information": {
+    "곤충명": "산잠자리",
+    "학명": "Epophthalmia elegans (Brauer, 1865)"
+  },
+  "information": {
+    "general_description": "뒷날개의 길이는 48~53 mm이다. 얼굴은 황색이고, 뒷머리는 흑색이며, 이마혹은 금속 청흑색이고, 이마는 옆면에 황색 무늬가 있다. 날개는 투명하고, 뒷날개의 뒷각은 연한 감색이다. 날개맥은 흑갈색이고, 뒷날개의 삼각실에는 반드시 1개의 가로맥이 있다. 뒷날개 삼각실의 바깥가두리맥은 물결 모양으로 굴곡되었다. 가두리 무늬는 흑갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "뒷날개의 길이는 48~53 mm이다. 얼굴은 황색이고, 뒷머리는 흑색이며, 이마혹은 금속 청흑색이고, 이마는 옆면에 황색 무늬가 있다. 날개는 투명하고, 뒷날개의 뒷각은 연한 감색이다. 날개맥은 흑갈색이고, 뒷날개의 삼각실에는 반드시 1개의 가로맥이 있다. 뒷날개 삼각실의 바깥가두리맥은 물결 모양으로 굴곡되었다. 가두리 무늬는 흑갈색이다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZDAG0007-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAG0007_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAG0007_2_th.jpg",
+      "alt": "산잠자리 1번째 사진 : 산잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAG0007_2_th2.jpg",
+      "caption": "산잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZDAG0007-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAG0007_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAG0007_1_th.jpg",
+      "alt": "산잠자리 2번째 사진 : 산잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAG0007_1_th2.jpg",
+      "caption": "산잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZDAG0007-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0204261083",
+      "description": "[FRIE0204261083] 산잠자리 1986.05.27 / / 국립산림과학원"
+    },
+    {
+      "id": "JFNE0202051031",
+      "description": "[JFNE0202051031] 산잠자리 2001.07.04 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0202051032",
+      "description": "[JFNE0202051032] 산잠자리 2001.07.05 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZDAG0007-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZDAG0007&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:36+00:00",
+    "html_sha256": "5cc7ff93906ca19d89815be13acbb210b71d661ae7b98c00e010495152f08b3c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

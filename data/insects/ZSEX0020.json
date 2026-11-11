@@ -1,0 +1,103 @@
+{
+  "id": "ZSEX0020",
+  "name_ko": "줄각다귀",
+  "scientific_name": "Tipula (Pterelachisus) taikun Alexander, 1921",
+  "display_name": "줄각다귀",
+  "family_ko": "각다귀과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "각다귀상과",
+      "name_latin": "Tipuloidea"
+    },
+    "family": {
+      "name_ko": "각다귀과",
+      "name_latin": "Tipulidae"
+    },
+    "subfamily": {
+      "name_ko": "각다귀아과",
+      "name_latin": "Tipulinae"
+    },
+    "genus": {
+      "name_ko": "각다귀속",
+      "name_latin": "Tipula"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 각다귀상과 (Tipuloidea)\n과 : 각다귀과 (Tipulidae)\n아과 : 각다귀아과 (Tipulinae)\n속 : 각다귀속 (Tipula)",
+  "basic_information": {
+    "곤충명": "줄각다귀",
+    "학명": "Tipula (Pterelachisus) taikun Alexander, 1921"
+  },
+  "information": {
+    "general_description": "몸길이 12~16mm, 앞날개길이 13~14mm. 몸색깔은 암갈색 혹은 회갈색이며 머리도 회갈색이나 겹눈 사이가 약간 융기함. 주둥이와 작은턱수염은 암갈색이고 더듬이는 황갈색이며 13마디로 되었고 4마디 이하가 암색임. 가슴등면은 회갈색이고 앞방패판의 중앙에 있는 가는 3줄과 그 양옆의 각 1줄의 암색 세로줄은 뚜렷하지 않을 수 있음. 배는 황갈색이나 등면중앙과 양옆면에 1개의 암색 줄 존재. 날개는 투명하고 갈색을 약간 띠며 2~3무색부가 있음. 앞가장자리부분 밑 연문과 Cu에 따른 부분은 진한 암갈색임. 다리는 연갈색이고 넓적다리마디 끝부터 안쪽으로 대단히 불명료한 고리무늬 존재. 종아리마디 끝 이하는 약간 암색임.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 12~16mm, 앞날개길이 13~14mm. 몸색깔은 암갈색 혹은 회갈색이며 머리도 회갈색이나 겹눈 사이가 약간 융기함. 주둥이와 작은턱수염은 암갈색이고 더듬이는 황갈색이며 13마디로 되었고 4마디 이하가 암색임. 가슴등면은 회갈색이고 앞방패판의 중앙에 있는 가는 3줄과 그 양옆의 각 1줄의 암색 세로줄은 뚜렷하지 않을 수 있음. 배는 황갈색이나 등면중앙과 양옆면에 1개의 암색 줄 존재. 날개는 투명하고 갈색을 약간 띠며 2~3무색부가 있음. 앞가장자리부분 밑 연문과 Cu에 따른 부분은 진한 암갈색임. 다리는 연갈색이고 넓적다리마디 끝부터 안쪽으로 대단히 불명료한 고리무늬 존재. 종아리마디 끝 이하는 약간 암색임."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSEX0020-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEX0020_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEX0020_1_th.jpg",
+      "alt": "줄각다귀 1번째 사진 : 줄각다귀전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEX0020_1_th2.jpg",
+      "caption": "줄각다귀전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSEX0020-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0407261051",
+      "description": "[MPME0407261051] 줄각다귀 1998.08.01 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0407261052",
+      "description": "[MPME0407261052] 줄각다귀 1998.08.01 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0407261053",
+      "description": "[MPME0407261053] 줄각다귀 1998.08.01 / / 목포자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZSEX0020-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSEX0020&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:02+00:00",
+    "html_sha256": "bac23f7f4f9e10e40f117388da962e824211ddd7bad2eb1ce69b2445bbdc8691",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

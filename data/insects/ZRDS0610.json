@@ -1,0 +1,118 @@
+{
+  "id": "ZRDS0610",
+  "name_ko": "목검은나방",
+  "scientific_name": "Lygephila recta (Bremer, 1864)",
+  "display_name": "목검은나방",
+  "family_ko": "태극나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "태극나방과",
+      "name_latin": "Erebidae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Toxocampinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Lygephila"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 태극나방과 (Erebidae)\n아과 : (Toxocampinae)\n속 : (Lygephila)",
+  "basic_information": {
+    "곤충명": "목검은나방",
+    "학명": "Lygephila recta (Bremer, 1864)"
+  },
+  "information": {
+    "general_description": "정수리와 경판은 흑색을 띠고, 가슴의 등쪽면과 배는 담회갈색을 띰. 앞날개는 회갈색을 디며, 내횡선과 중횡선은 다소 암색의 띠를 이룸. 콩팥 모양 무늬는 흑색의 점으로 나타나며, 중횡대는 콩팥 모양 무늬에서 전연을 향해 안쪽으로 굽었음. 외횡선과 아외연선은 담색을 띠는데 외횡선은 제 4맥에서 제 7맥 사이가 바깥쪽으로 굴곡 되었음.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6-8월 경에 출현됨.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "정수리와 경판은 흑색을 띠고, 가슴의 등쪽면과 배는 담회갈색을 띰. 앞날개는 회갈색을 디며, 내횡선과 중횡선은 다소 암색의 띠를 이룸. 콩팥 모양 무늬는 흑색의 점으로 나타나며, 중횡대는 콩팥 모양 무늬에서 전연을 향해 안쪽으로 굽었음. 외횡선과 아외연선은 담색을 띠는데 외횡선은 제 4맥에서 제 7맥 사이가 바깥쪽으로 굴곡 되었음."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6-8월 경에 출현됨."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0610-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0610_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0610_2_th.jpg",
+      "alt": "목검은나방 1번째 사진 : 목검은밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0610_2_th2.jpg",
+      "caption": "목검은밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDS0610-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0610_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0610_1_th.jpg",
+      "alt": "목검은나방 2번째 사진 : 목검은밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0610_1_th2.jpg",
+      "caption": "목검은밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0610-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0303051045",
+      "description": "[FRIE0303051045] 목검은나방 1997.06.23 / / 국립산림과학원"
+    },
+    {
+      "id": "KNUE0212191135",
+      "description": "[KNUE0212191135] 목검은나방 1984.09.04 / / 강원대학교"
+    },
+    {
+      "id": "KNAE0301032014",
+      "description": "[KNAE0301032014] 목검은나방 1991.08.21 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDS0610-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0610&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:21+00:00",
+    "html_sha256": "4f88fbebb60962663b09027c0e2101eaccaa8dfd3094df0ed732dda30764ddcd",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "ZREL0239",
+  "name_ko": "날개뾰족명나방",
+  "scientific_name": "Endotricha minialis (Fabricius, 1794)",
+  "display_name": "날개뾰족명나방",
+  "family_ko": "명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "명나방과",
+      "name_latin": "Pyralidae"
+    },
+    "subfamily": {
+      "name_ko": "비단명나방아과",
+      "name_latin": "Pyralinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Endotricha"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 명나방과 (Pyralidae)\n아과 : 비단명나방아과 (Pyralinae)\n속 : (Endotricha)",
+  "basic_information": {
+    "곤충명": "날개뾰족명나방",
+    "학명": "Endotricha minialis (Fabricius, 1794)"
+  },
+  "information": {
+    "general_description": "일본 타이완 자바 보르네오에 분포하며 머리는 황갈색이고, 더듬이는 담갈색에 적갈색 인편이 섞여 있으며, 수컷은 미모상이다. 아랫입술수염은 비스듬히 위로 향하고 적갈색이며, 제 2마디의 아래 부분과 제 3마디의 선단은 황색이다. 가슴 및 배 등면은 갈색이며, 복면에는 다소 적갈색기가 섞여 있다. 수컷에서는 어깨판이 아주 길고, 배의 끝마디는 연한 갈색 털에 의해 볼록해진다. 가슴의 복면은 연하게 흑다색 섞인 갈색이며, 배의 복면은 담갈색이다. 다리는 갈색으로 바깥쪽은 흑갈색에 야간 붉은 빛을 띤 비늘이 섞여 있다. 개체에 따라 날개 무늬의 변화가 많다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "일본 타이완 자바 보르네오에 분포하며 머리는 황갈색이고, 더듬이는 담갈색에 적갈색 인편이 섞여 있으며, 수컷은 미모상이다. 아랫입술수염은 비스듬히 위로 향하고 적갈색이며, 제 2마디의 아래 부분과 제 3마디의 선단은 황색이다. 가슴 및 배 등면은 갈색이며, 복면에는 다소 적갈색기가 섞여 있다. 수컷에서는 어깨판이 아주 길고, 배의 끝마디는 연한 갈색 털에 의해 볼록해진다. 가슴의 복면은 연하게 흑다색 섞인 갈색이며, 배의 복면은 담갈색이다. 다리는 갈색으로 바깥쪽은 흑갈색에 야간 붉은 빛을 띤 비늘이 섞여 있다. 개체에 따라 날개 무늬의 변화가 많다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0239-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0239_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0239_1_th.jpg",
+      "alt": "날개뾰족명나방 1번째 사진 : 날개뾰족명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0239_1_th2.jpg",
+      "caption": "날개뾰족명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0239-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0203261004",
+      "description": "[FRIE0203261004] 날개뾰족명나방 1984.07.13 / / 국립산림과학원"
+    },
+    {
+      "id": "UIBE0203221211",
+      "description": "[UIBE0203221211] 날개뾰족명나방 1997.06.08 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0203221212",
+      "description": "[UIBE0203221212] 날개뾰족명나방 2000.07.04 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZREL0239.png",
+    "reference_image_id": "ZREL0239-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T16:09:04.564902+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "116e25050790c7e2f5eb0d71e9c24127cc8ec82fcc39862d9febe92fe492598f"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0239&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:16+00:00",
+    "html_sha256": "9c46aa0dcb5b66eea81fbd3b070fc27a8c264847ae092238d7645dd575425bfd",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

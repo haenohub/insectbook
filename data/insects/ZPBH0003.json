@@ -1,0 +1,99 @@
+{
+  "id": "ZPBH0003",
+  "name_ko": "참밑들이",
+  "scientific_name": "Panorpa coreana Okamoto, 1925",
+  "display_name": "참밑들이",
+  "family_ko": "밑들이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "밑들이목",
+      "name_latin": "Mecoptera"
+    },
+    "family": {
+      "name_ko": "밑들이과",
+      "name_latin": "Panorpidae"
+    },
+    "genus": {
+      "name_ko": "밑들이속",
+      "name_latin": "Panorpa"
+    }
+  },
+  "taxonomy_text": "목 : 밑들이목 (Mecoptera)\n과 : 밑들이과 (Panorpidae)\n속 : 밑들이속 (Panorpa)",
+  "basic_information": {
+    "곤충명": "참밑들이",
+    "학명": "Panorpa coreana Okamoto, 1925"
+  },
+  "information": {
+    "general_description": "앞날개 길이는 15 mm 내외이다. 머리 겹눈은 검정색이고, 가슴, 배, 다리는 황갈색이다. 앞날개의 끝띠, 연문띠, 안띠는 검정색이다. 연문띠, 안띠의 넓이에는 변화가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "그늘진 숲 속에서 볼 수 있다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "앞날개 길이는 15 mm 내외이다. 머리 겹눈은 검정색이고, 가슴, 배, 다리는 황갈색이다. 앞날개의 끝띠, 연문띠, 안띠는 검정색이다. 연문띠, 안띠의 넓이에는 변화가 있다."
+    },
+    {
+      "title": "습성",
+      "text": "그늘진 숲 속에서 볼 수 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZPBH0003-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/P2/ZPBH0003_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/P2/ZPBH0003_1_th.jpg",
+      "alt": "참밑들이 1번째 사진 : 참밑들이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/P2/ZPBH0003_1_th2.jpg",
+      "caption": "참밑들이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZPBH0003-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0301059387",
+      "description": "[YNUE0301059387] 참밑들이 1987.05.24 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301059388",
+      "description": "[YNUE0301059388] 참밑들이 1987.05.14 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301059390",
+      "description": "[YNUE0301059390] 참밑들이 1987.03.24 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZPBH0003-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZPBH0003&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:54+00:00",
+    "html_sha256": "c71e39aa6e29e800d90db58c44d0bd2df65c59a75fa791b43a024aee11b817a0",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

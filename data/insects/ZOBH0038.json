@@ -1,0 +1,99 @@
+{
+  "id": "ZOBH0038",
+  "name_ko": "홍도홍단딱정벌레",
+  "scientific_name": "Coptolabrus smaragdinus hongdoensis (Kwon & Lee, 1984)",
+  "display_name": "홍도홍단딱정벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "딱정벌레아과",
+      "name_latin": "Carabinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Coptolabrus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 딱정벌레아과 (Carabinae)\n속 : (Coptolabrus)",
+  "basic_information": {
+    "곤충명": "홍도홍단딱정벌레",
+    "학명": "Coptolabrus smaragdinus hongdoensis (Kwon & Lee, 1984)"
+  },
+  "information": {
+    "general_description": "몸길이는 40mm 내외이며, 두부와 앞가슴등판은 적동색이고, 딱지날개는 다소 어두운 색이다. 딱지날개 끝은 뾰족하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[포식성]\n[한국고유종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 40mm 내외이며, 두부와 앞가슴등판은 적동색이고, 딱지날개는 다소 어두운 색이다. 딱지날개 끝은 뾰족하다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[포식성]\n[한국고유종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0038-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0038_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0038_1_th.jpg",
+      "alt": "홍도홍단딱정벌레 1번째 사진 : 홍도홍단딱정벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0038_1_th2.jpg",
+      "caption": "홍도홍단딱정벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0038-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0112314014",
+      "description": "[YNUE0112314014] 홍도홍단딱정벌레 1996.06.24 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0112314012",
+      "description": "[YNUE0112314012] 홍도홍단딱정벌레 1993.05.23 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0112314013",
+      "description": "[YNUE0112314013] 홍도홍단딱정벌레 1998.05.02 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0038-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0038&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:35+00:00",
+    "html_sha256": "89f878f9077db926fac255f800a4496bfb961bd6a513703195ad0275bba724ee",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "id": "ZRDS0162",
+  "name_ko": "갈색점밤나방",
+  "scientific_name": "Analetia postica (Hampson, 1905)",
+  "display_name": "갈색점밤나방",
+  "family_ko": "밤나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "밤나방과",
+      "name_latin": "Noctuidae"
+    },
+    "subfamily": {
+      "name_ko": "밤나방아과",
+      "name_latin": "Noctuinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Analetia"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 밤나방과 (Noctuidae)\n아과 : 밤나방아과 (Noctuinae)\n속 : (Analetia)",
+  "basic_information": {
+    "곤충명": "갈색점밤나방",
+    "학명": "Analetia postica (Hampson, 1905)"
+  },
+  "information": {
+    "general_description": "날개편 길이 15～17mm. 앞날개는 담황색 바탕으로 시맥은 적갈색을 띠는데 이 줄무늬 사이에는 담황색의 줄무늬도 나타난다. 뒷날개는 암갈색 바탕인데 기부 쪽은 담색을 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 5～9월에 걸쳐 연 2회 출현된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 15～17mm. 앞날개는 담황색 바탕으로 시맥은 적갈색을 띠는데 이 줄무늬 사이에는 담황색의 줄무늬도 나타난다. 뒷날개는 암갈색 바탕인데 기부 쪽은 담색을 띤다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 5～9월에 걸쳐 연 2회 출현된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0162-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0162_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0162_2_th.jpg",
+      "alt": "갈색점밤나방 1번째 사진 : 갈색점밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0162_2_th2.jpg",
+      "caption": "갈색점밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDS0162-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0162_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0162_1_th.jpg",
+      "alt": "갈색점밤나방 2번째 사진 : 갈색점밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0162_1_th2.jpg",
+      "caption": "갈색점밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0162-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303101067",
+      "description": "[KNAE0303101067] 갈색점밤나방 1993.08.15 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0302191045",
+      "description": "[KNAE0302191045] 갈색점밤나방 2000.06.07 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0302191046",
+      "description": "[KNAE0302191046] 갈색점밤나방 2000.06.07 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDS0162.png",
+    "reference_image_id": "ZRDS0162-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T16:45:58.029855+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "2c0bc8625d5909d5f465e61f45d2797ea299831031f21c6c02f43aba33cf8ee3"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0162&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:34+00:00",
+    "html_sha256": "a6794f573485a574be0d761d7144495d37993c08d26bc92ef75ba95ec91e43ae",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

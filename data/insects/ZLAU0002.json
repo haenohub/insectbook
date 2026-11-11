@@ -1,0 +1,118 @@
+{
+  "id": "ZLAU0002",
+  "name_ko": "소금쟁이",
+  "scientific_name": "Aquarius paludum paludum (Fabricius, 1794)",
+  "display_name": "소금쟁이",
+  "family_ko": "소금쟁이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "소금쟁이상과",
+      "name_latin": "Gerroidea"
+    },
+    "family": {
+      "name_ko": "소금쟁이과",
+      "name_latin": "Gerridae"
+    },
+    "subfamily": {
+      "name_ko": "소금쟁이아과",
+      "name_latin": "Gerrinae"
+    },
+    "genus": {
+      "name_ko": "왕소금쟁이속",
+      "name_latin": "Aquarius"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 소금쟁이상과 (Gerroidea)\n과 : 소금쟁이과 (Gerridae)\n아과 : 소금쟁이아과 (Gerrinae)\n속 : 왕소금쟁이속 (Aquarius)",
+  "basic_information": {
+    "곤충명": "소금쟁이",
+    "학명": "Aquarius paludum paludum (Fabricius, 1794)"
+  },
+  "information": {
+    "general_description": "몸길이 : 수컷 11.2~14.2mm, 암컷 13.2~16.2mm\n몸은 흑갈색 또는 갈색을 띠고, 은빛 털이 밀생한다. 머리에는 V자 모양의 갈색 무늬가 있다. 더듬이는 가늘고 매우 짧아서 몸길이의 절반 이하이다. 제 1마디는 2-3마디를 합한 길이보다 더 길다. 앞가슴등판은 앞쪽 1/4부위에서 협착되고 가로로 굴곡을 이룬다. 중앙부는 종주선이 볼록하다. 옆가장자리는 후반부에서 약간 돌출하였다가 좁아진다. 앞날개는 장시형과 단시형 모두가 나타난다. 장시형은 막질부가 배 끝까지 도달한다. 앞다리의 허벅마디는 똑바르고 중앙부가 약간 굵다. 발목마디는 제 1마디가 제 2마디보다 짧다. 가운데다리와 뒷다리의 허벅마디는 몸길이와 비슷하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "하천이나 저수지의 고요한 물 위에서 생활하며, 다른 곤충류의 체액을 빨아 먹는다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[대만]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 수컷 11.2~14.2mm, 암컷 13.2~16.2mm\n몸은 흑갈색 또는 갈색을 띠고, 은빛 털이 밀생한다. 머리에는 V자 모양의 갈색 무늬가 있다. 더듬이는 가늘고 매우 짧아서 몸길이의 절반 이하이다. 제 1마디는 2-3마디를 합한 길이보다 더 길다. 앞가슴등판은 앞쪽 1/4부위에서 협착되고 가로로 굴곡을 이룬다. 중앙부는 종주선이 볼록하다. 옆가장자리는 후반부에서 약간 돌출하였다가 좁아진다. 앞날개는 장시형과 단시형 모두가 나타난다. 장시형은 막질부가 배 끝까지 도달한다. 앞다리의 허벅마디는 똑바르고 중앙부가 약간 굵다. 발목마디는 제 1마디가 제 2마디보다 짧다. 가운데다리와 뒷다리의 허벅마디는 몸길이와 비슷하다."
+    },
+    {
+      "title": "생태",
+      "text": "하천이나 저수지의 고요한 물 위에서 생활하며, 다른 곤충류의 체액을 빨아 먹는다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[대만]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLAU0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAU0002_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAU0002_2_th.jpg",
+      "alt": "소금쟁이 1번째 사진 : 소금쟁이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAU0002_2_th2.jpg",
+      "caption": "소금쟁이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZLAU0002-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAU0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAU0002_1_th.jpg",
+      "alt": "소금쟁이 2번째 사진 : 소금쟁이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAU0002_1_th2.jpg",
+      "caption": "소금쟁이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLAU0002-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408021007",
+      "description": "[MPME0408021007] 소금쟁이 2003.06.29 / / 목포자연사박물관"
+    },
+    {
+      "id": "KNAE0301172007",
+      "description": "[KNAE0301172007] 소금쟁이 1994.07.12 / / 국립수목원"
+    },
+    {
+      "id": "SNUE0203262014",
+      "description": "[SNUE0203262014] 소금쟁이 2001.10.07 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLAU0002-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLAU0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:09+00:00",
+    "html_sha256": "9609f5c16706e881e4f4c750176245873ef2616b242c34d1d23aa2b14ab8e742",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

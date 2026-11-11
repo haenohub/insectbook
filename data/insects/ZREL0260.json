@@ -1,0 +1,107 @@
+{
+  "id": "ZREL0260",
+  "name_ko": "검은점알락명나방",
+  "scientific_name": "Furcata dichromella (Ragonot, 1893)",
+  "display_name": "검은점알락명나방",
+  "family_ko": "명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "명나방과",
+      "name_latin": "Pyralidae"
+    },
+    "subfamily": {
+      "name_ko": "알락명나방아과",
+      "name_latin": "Phycitinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Furcata"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 명나방과 (Pyralidae)\n아과 : 알락명나방아과 (Phycitinae)\n속 : (Furcata)",
+  "basic_information": {
+    "곤충명": "검은점알락명나방",
+    "학명": "Furcata dichromella (Ragonot, 1893)"
+  },
+  "information": {
+    "general_description": "머리는 흑갈색,앞이마는 둥글다.수컷 더듬이는 병절에 돌기가 없음.작은턱수염은 작고 흑갈색,아랫입술수염은 뿔 모양으로 위쪽을 향하고,제 1마디의 아래쪽은 다소 백색을 나타내나 다른 부분은 흑갈색이며,제3마디는 뾰족함.가슴과 배의 등쪽면은 회갈색이고,가슴의 배쪽면은 흑갈색에 회색이 가미됨.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 주로 5~8월에 출현하며,유충은 노박덩굴의 잎을 먹는 것으로 알려짐.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "머리는 흑갈색,앞이마는 둥글다.수컷 더듬이는 병절에 돌기가 없음.작은턱수염은 작고 흑갈색,아랫입술수염은 뿔 모양으로 위쪽을 향하고,제 1마디의 아래쪽은 다소 백색을 나타내나 다른 부분은 흑갈색이며,제3마디는 뾰족함.가슴과 배의 등쪽면은 회갈색이고,가슴의 배쪽면은 흑갈색에 회색이 가미됨."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 주로 5~8월에 출현하며,유충은 노박덩굴의 잎을 먹는 것으로 알려짐."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0260-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0260_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0260_1_th.jpg",
+      "alt": "검은점알락명나방 1번째 사진 : 검은점알락명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0260_1_th2.jpg",
+      "caption": "검은점알락명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0260-1",
+  "specimen_examples": [
+    {
+      "id": "CBNE0202231024",
+      "description": "[CBNE0202231024] 검은점알락명나방 2000.08.03 / / 충북대학교"
+    },
+    {
+      "id": "KNUE0407241126",
+      "description": "[KNUE0407241126] 검은점알락명나방 1992.07.08 / / 강원대학교"
+    },
+    {
+      "id": "KNUE0407241127",
+      "description": "[KNUE0407241127] 검은점알락명나방 1991.05.31 / / 강원대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZREL0260.png",
+    "reference_image_id": "ZREL0260-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T10:58:37.699804+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "537eaaf0453958011397bc9c4508293785542c290c91c1453405a7e6bf196607"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0260&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:01+00:00",
+    "html_sha256": "0bbdb25c1b95d9b1afb54413817269dd17a782e6f6758cc9c2b797a96798e409",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

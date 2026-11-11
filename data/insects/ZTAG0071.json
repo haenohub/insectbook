@@ -1,0 +1,107 @@
+{
+  "id": "ZTAG0071",
+  "name_ko": "머리뿔가위벌",
+  "scientific_name": "Osmia cornifrons (Radoszkowski, 1887)",
+  "display_name": "머리뿔가위벌",
+  "family_ko": "가위벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "가위벌과",
+      "name_latin": "Megachilidae"
+    },
+    "subfamily": {
+      "name_ko": "가위벌아과",
+      "name_latin": "Megachilinae"
+    },
+    "genus": {
+      "name_ko": "뿔가위벌속",
+      "name_latin": "Osmia"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 가위벌과 (Megachilidae)\n아과 : 가위벌아과 (Megachilinae)\n속 : 뿔가위벌속 (Osmia)",
+  "basic_information": {
+    "곤충명": "머리뿔가위벌",
+    "학명": "Osmia cornifrons (Radoszkowski, 1887)"
+  },
+  "information": {
+    "general_description": "암컷의 몸길이는 8.0-11.5mm이다. 몸은 구리 빛이고 몸에 촘촘히 나 있는 긴 털은 암색이다. 머리방패 양 옆의 돌기는 폭이 넓게 대립하고 머리방패의 중앙부는 거의 납작하고 앞쪽으로 1개의 작은 돌기가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[감소추세종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷의 몸길이는 8.0-11.5mm이다. 몸은 구리 빛이고 몸에 촘촘히 나 있는 긴 털은 암색이다. 머리방패 양 옆의 돌기는 폭이 넓게 대립하고 머리방패의 중앙부는 거의 납작하고 앞쪽으로 1개의 작은 돌기가 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[감소추세종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0071-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0071_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0071_1_th.jpg",
+      "alt": "머리뿔가위벌 1번째 사진 : 머리뿔가위벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0071_1_th2.jpg",
+      "caption": "머리뿔가위벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0071-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0111303029",
+      "description": "[YNUE0111303029] 머리뿔가위벌 1997.05.22 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0111191043",
+      "description": "[YNUE0111191043] 머리뿔가위벌 1961.04.23 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0111303002",
+      "description": "[YNUE0111303002] 머리뿔가위벌 1985.04.21 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAG0071-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0071&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:56+00:00",
+    "html_sha256": "4887cfc499b7e3addd986b5610cf2e4e5c8cf1eb80b693f9bc5c3cff21a57bf1",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

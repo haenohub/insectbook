@@ -1,0 +1,129 @@
+{
+  "id": "ZREL0272",
+  "name_ko": "두점알락명나방",
+  "scientific_name": "Protoetiella bipunctella Inoue, 1959",
+  "display_name": "두점알락명나방",
+  "family_ko": "명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "명나방과",
+      "name_latin": "Pyralidae"
+    },
+    "subfamily": {
+      "name_ko": "알락명나방아과",
+      "name_latin": "Phycitinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Protoetiella"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 명나방과 (Pyralidae)\n아과 : 알락명나방아과 (Phycitinae)\n속 : (Protoetiella)",
+  "basic_information": {
+    "곤충명": "두점알락명나방",
+    "학명": "Protoetiella bipunctella Inoue, 1959"
+  },
+  "information": {
+    "general_description": "아랫입술수염은 위쪽을 향하며 정수리를 초과함. 수컷의 더듬이는 한쪽 면에 짧은 빗살이 있으며, 병절 위쪽에는 인모가 모여 있음.\n앞날개는 길게 세장되었으며, 중횡선 안쪽과 날개끝 부분에 명료한 흑색의 큰점 무늬가 있음.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 5－6월에 출현함.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "아랫입술수염은 위쪽을 향하며 정수리를 초과함. 수컷의 더듬이는 한쪽 면에 짧은 빗살이 있으며, 병절 위쪽에는 인모가 모여 있음.\n앞날개는 길게 세장되었으며, 중횡선 안쪽과 날개끝 부분에 명료한 흑색의 큰점 무늬가 있음."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 5－6월에 출현함."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0272-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0272_7.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0272_7_th.jpg",
+      "alt": "두점알락명나방 1번째 사진 : 두점알락명나방가슴 확대 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0272_7_th2.jpg",
+      "caption": "두점알락명나방가슴 확대 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREL0272-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0272_6.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0272_6_th.jpg",
+      "alt": "두점알락명나방 2번째 사진 : 두점알락명나방배 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0272_6_th2.jpg",
+      "caption": "두점알락명나방배 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREL0272-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0272_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0272_1_th.jpg",
+      "alt": "두점알락명나방 3번째 사진 : 두점알락명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0272_1_th2.jpg",
+      "caption": "두점알락명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0272-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0303271093",
+      "description": "[UIBE0303271093] 두점알락명나방 1999.06.12 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0303271092",
+      "description": "[UIBE0303271092] 두점알락명나방 1999.05.07 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0303271100",
+      "description": "[UIBE0303271100] 두점알락명나방 1999.06.12 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREL0272-3"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0272&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:43+00:00",
+    "html_sha256": "b50e7a93c7d7056f5dc1d3c51a7fb8fd69c6f555dccd39cf9e329174034d921f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

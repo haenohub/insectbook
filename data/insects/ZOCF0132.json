@@ -1,0 +1,111 @@
+{
+  "id": "ZOCF0132",
+  "name_ko": "청날개바구미",
+  "scientific_name": "Ceutorhynchus ibukianus Hustache, 1916",
+  "display_name": "청날개바구미",
+  "family_ko": "바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "바구미과",
+      "name_latin": "Curculionidae"
+    },
+    "subfamily": {
+      "name_ko": "좁쌀바구미아과",
+      "name_latin": "Ceutorhynchinae"
+    },
+    "genus": {
+      "name_ko": "좁쌀바구미속",
+      "name_latin": "Ceutorhynchus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 바구미과 (Curculionidae)\n아과 : 좁쌀바구미아과 (Ceutorhynchinae)\n속 : 좁쌀바구미속 (Ceutorhynchus)",
+  "basic_information": {
+    "곤충명": "청날개바구미",
+    "학명": "Ceutorhynchus ibukianus Hustache, 1916"
+  },
+  "information": {
+    "general_description": "몸길이 2.6-3.2mm. 체색은 검은색이고 딱지날개는 검푸른색이다. 소순판의 점이 없다. 등면은 털이 피복되어 있지 않다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "십자화과를 기주식물로 한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대한민국] 제주특별자치도\n[일본] 혼슈(本州)\n[일본] 시고쿠(四國)\n[일본] 규슈(九州)",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 2.6-3.2mm. 체색은 검은색이고 딱지날개는 검푸른색이다. 소순판의 점이 없다. 등면은 털이 피복되어 있지 않다."
+    },
+    {
+      "title": "생태",
+      "text": "십자화과를 기주식물로 한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대한민국] 제주특별자치도\n[일본] 혼슈(本州)\n[일본] 시고쿠(四國)\n[일본] 규슈(九州)"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCF0132-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0132_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0132_1_th.jpg",
+      "alt": "청날개바구미 1번째 사진 : 청날개바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0132_1_th2.jpg",
+      "caption": "청날개바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCF0132-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303142002",
+      "description": "[KNAE0303142002] 청날개바구미 1997.05.24 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303132068",
+      "description": "[KNAE0303132068] 청날개바구미 1997.10.03 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303132069",
+      "description": "[KNAE0303132069] 청날개바구미 1997.05.21 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOCF0132-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCF0132&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:11+00:00",
+    "html_sha256": "ed2f87570dc479183e4129ef743f66f2a3234cbf27835ae7d35cc39ffdc3e0a1",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

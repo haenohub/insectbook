@@ -1,0 +1,133 @@
+{
+  "id": "ZREV0035",
+  "name_ko": "포도박각시",
+  "scientific_name": "Acosmeryx naga (Moore, 1857)",
+  "display_name": "포도박각시",
+  "family_ko": "박각시과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "누에나방상과",
+      "name_latin": "Bombycoidea"
+    },
+    "family": {
+      "name_ko": "박각시과",
+      "name_latin": "Sphingidae"
+    },
+    "subfamily": {
+      "name_ko": "꼬리박각시아과",
+      "name_latin": "Macroglossinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Acosmeryx"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 누에나방상과 (Bombycoidea)\n과 : 박각시과 (Sphingidae)\n아과 : 꼬리박각시아과 (Macroglossinae)\n속 : (Acosmeryx)",
+  "basic_information": {
+    "곤충명": "포도박각시",
+    "학명": "Acosmeryx naga (Moore, 1857)"
+  },
+  "information": {
+    "general_description": "날개편 길이 73～90mm. 산포도박각시와 비슷하나 대체로 크며, 날개의 적색기가 덜하다. 앞날개의 아외연선이 후각까지 이른다. 이 종은 전국적으로 아주 흔한데 비해 산포도박각시는 남부 지방에서 드물게 채집된다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "5월초부터 8월중순까지 출현.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]\n[대만]\n[인도]\n[부탄]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 73～90mm. 산포도박각시와 비슷하나 대체로 크며, 날개의 적색기가 덜하다. 앞날개의 아외연선이 후각까지 이른다. 이 종은 전국적으로 아주 흔한데 비해 산포도박각시는 남부 지방에서 드물게 채집된다."
+    },
+    {
+      "title": "생태",
+      "text": "5월초부터 8월중순까지 출현."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]\n[대만]\n[인도]\n[부탄]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREV0035-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0035_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0035_2_th.jpg",
+      "alt": "포도박각시 1번째 사진 : 포도박각시전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0035_2_th2.jpg",
+      "caption": "포도박각시전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREV0035-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0035_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0035_1_th.jpg",
+      "alt": "포도박각시 2번째 사진 : 포도박각시전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0035_1_th2.jpg",
+      "caption": "포도박각시전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREV0035-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304171001",
+      "description": "[KNAE0304171001] 포도박각시 1999.04.09 / / 국립수목원"
+    },
+    {
+      "id": "JFNE0304161001",
+      "description": "[JFNE0304161001] 포도박각시 1996.07.02 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0304161003",
+      "description": "[JFNE0304161003] 포도박각시 1996.07.04 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "개머루",
+      "scientific_name": "Ampelopsis glandulosa var. heterophylla (Thunb.) Momiy."
+    },
+    {
+      "group": "식물",
+      "name_ko": "포도",
+      "scientific_name": "Vitis vinifera L."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREV0035-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREV0035&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:42+00:00",
+    "html_sha256": "1545e49bed29d54d8d4e424fb8d13244fac40a302ded851a694ed61c0aa8ef32",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

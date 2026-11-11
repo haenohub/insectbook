@@ -1,0 +1,114 @@
+{
+  "id": "ZLBG0022",
+  "name_ko": "애십자무늬긴노린재",
+  "scientific_name": "Lygaeus hanseni (Jakovlev, 1883)",
+  "display_name": "애십자무늬긴노린재",
+  "family_ko": "긴노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "긴노린재상과",
+      "name_latin": "Lygaeioidea"
+    },
+    "family": {
+      "name_ko": "긴노린재과",
+      "name_latin": "Lygaeidae"
+    },
+    "subfamily": {
+      "name_ko": "긴노린재아과",
+      "name_latin": "Lygaeinae"
+    },
+    "genus": {
+      "name_ko": "긴노린재속",
+      "name_latin": "Lygaeus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 긴노린재상과 (Lygaeioidea)\n과 : 긴노린재과 (Lygaeidae)\n아과 : 긴노린재아과 (Lygaeinae)\n속 : 긴노린재속 (Lygaeus)",
+  "basic_information": {
+    "곤충명": "애십자무늬긴노린재",
+    "학명": "Lygaeus hanseni (Jakovlev, 1883)"
+  },
+  "information": {
+    "general_description": "몸길이는 8-9mm. 몸의 등면은 주홍색으로 흑색의 무늬가 있고 광택은 없다. 머리는 흑색이고 겹눈은 적갈색이다. 앞가슴등판은 주홍색으로 그 뒤편에 2개의 큰 흑색의 무늬가 있다. 작은 방패판은 흑색이며, 빈시초도 첨단과 기부를 제외하고는 흑색이다. 배면은 주홍색이나 각 가슴마디의 양 옆과 각 배마디의 중앙부는 흑색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 8-9mm. 몸의 등면은 주홍색으로 흑색의 무늬가 있고 광택은 없다. 머리는 흑색이고 겹눈은 적갈색이다. 앞가슴등판은 주홍색으로 그 뒤편에 2개의 큰 흑색의 무늬가 있다. 작은 방패판은 흑색이며, 빈시초도 첨단과 기부를 제외하고는 흑색이다. 배면은 주홍색이나 각 가슴마디의 양 옆과 각 배마디의 중앙부는 흑색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLBG0022-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBG0022_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBG0022_2_th.jpg",
+      "alt": "애십자무늬긴노린재 1번째 사진 : 애십자무늬긴노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBG0022_2_th2.jpg",
+      "caption": "애십자무늬긴노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZLBG0022-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBG0022_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBG0022_1_th.jpg",
+      "alt": "애십자무늬긴노린재 2번째 사진 : 애십자무늬긴노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBG0022_1_th2.jpg",
+      "caption": "애십자무늬긴노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLBG0022-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0212236113",
+      "description": "[YNUE0212236113] 애십자무늬긴노린재 1996.05.12 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0201122017",
+      "description": "[YNUE0201122017] 애십자무늬긴노린재 1992.07.06 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0201122018",
+      "description": "[YNUE0201122018] 애십자무늬긴노린재 1997.08.01 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLBG0022-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLBG0022&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:15+00:00",
+    "html_sha256": "489c58ca3d341a55970da0f91a38ae893f80d386c1689f146e8508c13af3b253",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

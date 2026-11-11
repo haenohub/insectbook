@@ -1,0 +1,118 @@
+{
+  "id": "ZRCI0019",
+  "name_ko": "붉은무늬푸른자나방",
+  "scientific_name": "Comibaena delicatior (Warren, 1897)",
+  "display_name": "붉은무늬푸른자나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "푸른자나방아과",
+      "name_latin": "Geometrinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Comibaena"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 푸른자나방아과 (Geometrinae)\n속 : (Comibaena)",
+  "basic_information": {
+    "곤충명": "붉은무늬푸른자나방",
+    "학명": "Comibaena delicatior (Warren, 1897)"
+  },
+  "information": {
+    "general_description": "더듬이는 수컷이 빗살, 암컷이 실모양\n가슴, 배의 전반부, 날개의 앞면은 녹색\n머리, 배의 후반부, 앞날개의 전연은 백색\n앞,뒷날개는 모두 횡맥상에 백색으로 테진 암갈색의 점이 존재\n날개의 뒷면은 앞날개 전반을 빼고 음백색\n뒷날개의 시정에 암갈색 무늬 존재",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 수컷이 빗살, 암컷이 실모양\n가슴, 배의 전반부, 날개의 앞면은 녹색\n머리, 배의 후반부, 앞날개의 전연은 백색\n앞,뒷날개는 모두 횡맥상에 백색으로 테진 암갈색의 점이 존재\n날개의 뒷면은 앞날개 전반을 빼고 음백색\n뒷날개의 시정에 암갈색 무늬 존재"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0019-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0019_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0019_2_th.jpg",
+      "alt": "붉은무늬푸른자나방 1번째 사진 : 붉은무늬푸른자나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0019_2_th2.jpg",
+      "caption": "붉은무늬푸른자나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0019-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0019_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0019_1_th.jpg",
+      "alt": "붉은무늬푸른자나방 2번째 사진 : 붉은무늬푸른자나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0019_1_th2.jpg",
+      "caption": "붉은무늬푸른자나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0019-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303071070",
+      "description": "[KNAE0303071070] 붉은무늬푸른자나방 2000.07.10 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303111084",
+      "description": "[KNAE0303111084] 붉은무늬푸른자나방 1996.08.20 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303111085",
+      "description": "[KNAE0303111085] 붉은무늬푸른자나방 1996.08.21 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCI0019-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0019&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:50+00:00",
+    "html_sha256": "e2875b7ff8570137679dafbf9f487d0a6186a50bb880cfaea02b86d41519e03f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "id": "ZTDO0108",
+  "name_ko": "검은끝잎벌",
+  "scientific_name": "Tenthredo (Olivacedo) fuscoterminata Marlatt, 1898",
+  "display_name": "검은끝잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "잎벌아과",
+      "name_latin": "Tenthredininae"
+    },
+    "genus": {
+      "name_ko": "잎벌속",
+      "name_latin": "Tenthredo"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 잎벌아과 (Tenthredininae)\n속 : 잎벌속 (Tenthredo)",
+  "basic_information": {
+    "곤충명": "검은끝잎벌",
+    "학명": "Tenthredo (Olivacedo) fuscoterminata Marlatt, 1898"
+  },
+  "information": {
+    "general_description": "암컷은 머리가 매우 크고 구형이며 배는 기부가 강하게 잘록하다. 뒷머리의 언저리는 강하고 에리하게 되었다. 다리는 다소 담색이나 발목마디 특히 뒷다리의 것은 적갈색이다. 날개는 연한 황색이고 , 거의 투명하나 앞날개의 끝 1/3은 암색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[몽골]\n[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷은 머리가 매우 크고 구형이며 배는 기부가 강하게 잘록하다. 뒷머리의 언저리는 강하고 에리하게 되었다. 다리는 다소 담색이나 발목마디 특히 뒷다리의 것은 적갈색이다. 날개는 연한 황색이고 , 거의 투명하나 앞날개의 끝 1/3은 암색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[몽골]\n[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0108-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0108_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0108_2_th.jpg",
+      "alt": "검은끝잎벌 1번째 사진 : 검은끝잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0108_2_th2.jpg",
+      "caption": "검은끝잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTDO0108-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0108_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0108_1_th.jpg",
+      "alt": "검은끝잎벌 2번째 사진 : 검은끝잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0108_1_th2.jpg",
+      "caption": "검은끝잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0108-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305211010",
+      "description": "[YNUE0305211010] 검은끝잎벌 1999.06.29 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301046172",
+      "description": "[YNUE0301046172] 검은끝잎벌 1985.07.23 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301046173",
+      "description": "[YNUE0301046173] 검은끝잎벌 1991.06.06 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTDO0108.png",
+    "reference_image_id": "ZTDO0108-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T17:45:59.196440+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "5659e24285901eb452fe2790a917730f43d8ba2f69d5ce07ebbd5a303a0708c2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0108&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:53+00:00",
+    "html_sha256": "cfffda28cac79bcc810402e67bf25c1e7ccc86e2255b13cb6570c17f844b7687",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

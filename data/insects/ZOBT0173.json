@@ -1,0 +1,99 @@
+{
+  "id": "ZOBT0173",
+  "name_ko": "남방잎벌레",
+  "scientific_name": "Apophylia beeneni Bezdĕk, 2003",
+  "display_name": "남방잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "긴더듬이잎벌레아과",
+      "name_latin": "Galerucinae"
+    },
+    "genus": {
+      "name_ko": "길쭉긴더듬이잎벌레속",
+      "name_latin": "Apophylia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 긴더듬이잎벌레아과 (Galerucinae)\n속 : 길쭉긴더듬이잎벌레속 (Apophylia)",
+  "basic_information": {
+    "곤충명": "남방잎벌레",
+    "학명": "Apophylia beeneni Bezdĕk, 2003"
+  },
+  "information": {
+    "general_description": "몸길이는 4.5~5.8mm, 배판은 검은색이다. 겹눈은 작으며 뺨은 눈의 1/2 지름의 가량된다. 앞가슴등판은 노란색이다. 한국, 중국, 하이난다오에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 4.5~5.8mm, 배판은 검은색이다. 겹눈은 작으며 뺨은 눈의 1/2 지름의 가량된다. 앞가슴등판은 노란색이다. 한국, 중국, 하이난다오에 분포되어있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0173-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0173_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0173_1_th.jpg",
+      "alt": "남방잎벌레 1번째 사진 : 남방잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0173_1_th2.jpg",
+      "caption": "남방잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0173-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0407231376",
+      "description": "[KPNE0407231376] 남방잎벌레 1994.07.18 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBT0173.png",
+    "reference_image_id": "ZOBT0173-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T16:34:07.753172+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "481e5822da53a3baa89fd4a9476c6833b177e5fdc1d29a7103c4e10963553e13"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0173&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:24+00:00",
+    "html_sha256": "a26955fbcae5d8ec6e5fe75d2172b7e4ca3ada86d87381651e8ff0bbb201f1d5",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

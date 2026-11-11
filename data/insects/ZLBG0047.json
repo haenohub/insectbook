@@ -1,0 +1,103 @@
+{
+  "id": "ZLBG0047",
+  "name_ko": "아샘긴노린재",
+  "scientific_name": "Neolethaeus assamensis (Distant, 1901)",
+  "display_name": "아샘긴노린재",
+  "family_ko": "무늬긴노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "긴노린재상과",
+      "name_latin": "Lygaeioidea"
+    },
+    "family": {
+      "name_ko": "무늬긴노린재과",
+      "name_latin": "Rhyparochromidae"
+    },
+    "subfamily": {
+      "name_ko": "좁쌀긴노린재아과",
+      "name_latin": "Plinthisinae"
+    },
+    "genus": {
+      "name_ko": "달라스긴노린재속",
+      "name_latin": "Neolethaeus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 긴노린재상과 (Lygaeioidea)\n과 : 무늬긴노린재과 (Rhyparochromidae)\n아과 : 좁쌀긴노린재아과 (Plinthisinae)\n속 : 달라스긴노린재속 (Neolethaeus)",
+  "basic_information": {
+    "곤충명": "아샘긴노린재",
+    "학명": "Neolethaeus assamensis (Distant, 1901)"
+  },
+  "information": {
+    "general_description": "몸길이 : 11mm정도\n몸은 흑갈색이고 광택이 있으며, 머리의 중엽은 돌출되지 않으며 더듬이 제 3마디의 전반은 황색이고, 각 다리의 종아리마디는 흑색이며, 앞가슴등판의 옆뒷모서리부에 1쌍의 황색 무늬가 있다. 조상부에는 한 쌍의 작은 황색무늬가 있고 혁질부의 2개의 작은 무늬도 황색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 11mm정도\n몸은 흑갈색이고 광택이 있으며, 머리의 중엽은 돌출되지 않으며 더듬이 제 3마디의 전반은 황색이고, 각 다리의 종아리마디는 흑색이며, 앞가슴등판의 옆뒷모서리부에 1쌍의 황색 무늬가 있다. 조상부에는 한 쌍의 작은 황색무늬가 있고 혁질부의 2개의 작은 무늬도 황색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLBG0047-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBG0047_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBG0047_1_th.jpg",
+      "alt": "아샘긴노린재 1번째 사진 : 아샘긴노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBG0047_1_th2.jpg",
+      "caption": "아샘긴노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLBG0047-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0112133060",
+      "description": "[YNUE0112133060] 아샘긴노린재 2001.07.26 / / 영남대학교"
+    },
+    {
+      "id": "HNUE0408123051",
+      "description": "[HNUE0408123051] 아샘긴노린재 1997.08.19 / / 한남대학교 자연사박물관"
+    },
+    {
+      "id": "HNUE0408123050",
+      "description": "[HNUE0408123050] 아샘긴노린재 2001.06.27 / / 한남대학교 자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLBG0047-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLBG0047&tabId=tab1",
+    "collected_at": "2026-11-04T14:14:20+00:00",
+    "html_sha256": "8be40adee5bf71c786aa4f4b091559dd95fdc956c1cc8a71bd0b30fb1dafe4c0",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

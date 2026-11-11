@@ -1,0 +1,111 @@
+{
+  "id": "ZLCG0028",
+  "name_ko": "호리납작침노린재",
+  "scientific_name": "Pygolampis bidentata (Goeze, 1778)",
+  "display_name": "호리납작침노린재",
+  "family_ko": "침노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "침노린재상과",
+      "name_latin": "Reduvioidea"
+    },
+    "family": {
+      "name_ko": "침노린재과",
+      "name_latin": "Reduviidae"
+    },
+    "subfamily": {
+      "name_ko": "천적침노린재아과",
+      "name_latin": "Stenopodainae"
+    },
+    "genus": {
+      "name_ko": "호리납작침노린재속",
+      "name_latin": "Pygolampis"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 침노린재상과 (Reduvioidea)\n과 : 침노린재과 (Reduviidae)\n아과 : 천적침노린재아과 (Stenopodainae)\n속 : 호리납작침노린재속 (Pygolampis)",
+  "basic_information": {
+    "곤충명": "호리납작침노린재",
+    "학명": "Pygolampis bidentata (Goeze, 1778)"
+  },
+  "information": {
+    "general_description": "몸길이 : 14-18mm\n몸은 가늘고 길며, 배는 납작하고, 연한 갈색 내지 암갈색이다. 머리는 길고, 앞끝중앙에 원뿔 모양의 돌기가 있고, 겹눈은 옆가장자리의 중앙에 위치하며, 측면에서 보면 원형이다. 겹눈 사이를 잇는 가로홈이 있고, 겹눈 뒤쪽 아랫가장자리에서 정수리 뒷가장자리에 걸쳐 센털이 있는 작은 돌기가 병렬한다. 홑눈은 가로홈의 바로 뒤에 존재한다. 더듬이는 4마디이고, 제 1마디는 굵고 위끝으로 향해서 가늘며, 머리보다 길고, 제 2마디가 가장 길고, 제 3마디가 가장 짧다. 앞가슴등은 길고 뒤쪽을 향해서 폭이 넓어졌으며, 중앙부에 가로홈이 있고 뒷가장자리에는 불명료한 4개의 융기가 있다. 작은방패판은 작고, 반시초는 균일하게 연한 갈색 내지 암갈색이며 배끝에 이르지 않는다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": "배는 편평하며 뒤쪽으로 향해서 폭이 넓고 위끝은 가늘어진다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "잡초지의 지표에서 생활하고 등불에 날아와 모인다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 14-18mm\n몸은 가늘고 길며, 배는 납작하고, 연한 갈색 내지 암갈색이다. 머리는 길고, 앞끝중앙에 원뿔 모양의 돌기가 있고, 겹눈은 옆가장자리의 중앙에 위치하며, 측면에서 보면 원형이다. 겹눈 사이를 잇는 가로홈이 있고, 겹눈 뒤쪽 아랫가장자리에서 정수리 뒷가장자리에 걸쳐 센털이 있는 작은 돌기가 병렬한다. 홑눈은 가로홈의 바로 뒤에 존재한다. 더듬이는 4마디이고, 제 1마디는 굵고 위끝으로 향해서 가늘며, 머리보다 길고, 제 2마디가 가장 길고, 제 3마디가 가장 짧다. 앞가슴등은 길고 뒤쪽을 향해서 폭이 넓어졌으며, 중앙부에 가로홈이 있고 뒷가장자리에는 불명료한 4개의 융기가 있다. 작은방패판은 작고, 반시초는 균일하게 연한 갈색 내지 암갈색이며 배끝에 이르지 않는다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "배는 편평하며 뒤쪽으로 향해서 폭이 넓고 위끝은 가늘어진다."
+    },
+    {
+      "title": "생태",
+      "text": "잡초지의 지표에서 생활하고 등불에 날아와 모인다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLCG0028-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCG0028_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCG0028_1_th.jpg",
+      "alt": "호리납작침노린재 1번째 사진 : 호리납작침노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCG0028_1_th2.jpg",
+      "caption": "호리납작침노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLCG0028-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0112043002",
+      "description": "[YNUE0112043002] 호리납작침노린재 1989.05.20 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0201122048",
+      "description": "[YNUE0201122048] 호리납작침노린재 1987.05.23 / / 영남대학교"
+    },
+    {
+      "id": "KNAE0710170052",
+      "description": "[KNAE0710170052] 호리납작침노린재 2007.07.11 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLCG0028-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLCG0028&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:15+00:00",
+    "html_sha256": "aafa580a88f6ece8dde3df43005f0b5bc66271811470c3a1db8016184693d6e9",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

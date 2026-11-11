@@ -1,0 +1,107 @@
+{
+  "id": "ZOBT0080",
+  "name_ko": "광릉잎벌레",
+  "scientific_name": "Cryptocephalus (Cryptocephalus) luridipennis pallescens Kraatz, 1879",
+  "display_name": "광릉잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "통잎벌레아과",
+      "name_latin": "Cryptocephalinae"
+    },
+    "genus": {
+      "name_ko": "통잎벌레속",
+      "name_latin": "Cryptocephalus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 통잎벌레아과 (Cryptocephalinae)\n속 : 통잎벌레속 (Cryptocephalus)",
+  "basic_information": {
+    "곤충명": "광릉잎벌레",
+    "학명": "Cryptocephalus (Cryptocephalus) luridipennis pallescens Kraatz, 1879"
+  },
+  "information": {
+    "general_description": "몸길이는 4.5~5.0mm, 앞가슴등판에 약한 점각이 있다. 앞날개에 불규칙 점각. 등판에 적갈색이며 3개의 흑색무늬가 있고 다리와 복부가 흑색이다. 한국(북부,중부,남부), 일본(혼슈), 중국(만주,북부,중부,남부), 러시아(시베리아)에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 4.5~5.0mm, 앞가슴등판에 약한 점각이 있다. 앞날개에 불규칙 점각. 등판에 적갈색이며 3개의 흑색무늬가 있고 다리와 복부가 흑색이다. 한국(북부,중부,남부), 일본(혼슈), 중국(만주,북부,중부,남부), 러시아(시베리아)에 분포되어있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0080-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0080_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0080_1_th.jpg",
+      "alt": "광릉잎벌레 1번째 사진 : 광릉잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0080_1_th2.jpg",
+      "caption": "광릉잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0080-1",
+  "specimen_examples": [
+    {
+      "id": "DJUE0406211098",
+      "description": "[DJUE0406211098] 광릉잎벌레 1993.06.03 / / 대전대학교"
+    },
+    {
+      "id": "HNUE0408174091",
+      "description": "[HNUE0408174091] 광릉잎벌레 2002.05.22 / / 한남대학교 자연사박물관"
+    },
+    {
+      "id": "HNUE0408174092",
+      "description": "[HNUE0408174092] 광릉잎벌레 2002.06.03 / / 한남대학교 자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBT0080.png",
+    "reference_image_id": "ZOBT0080-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T13:25:40.620834+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "38984d44c22f5066f7122f2ccb6bd871558172bc142c6f8047dec56e562fd5a4"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0080&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:13+00:00",
+    "html_sha256": "3f01f6193d6df477d8ba1939ffac1c4b0186af9cf6706d0ee035f1e1ac770b4e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

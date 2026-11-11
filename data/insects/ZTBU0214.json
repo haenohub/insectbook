@@ -1,0 +1,99 @@
+{
+  "id": "ZTBU0214",
+  "name_ko": "하키뭉툭맵시벌",
+  "scientific_name": "Metopius (Ceratopius) hakiensis Matsumura, 1912",
+  "display_name": "하키뭉툭맵시벌",
+  "family_ko": "맵시벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "맵시벌과",
+      "name_latin": "Ichneumonidae"
+    },
+    "subfamily": {
+      "name_ko": "줄뭉툭맵시벌아과",
+      "name_latin": "Metopiinae"
+    },
+    "genus": {
+      "name_ko": "줄뭉툭맵시벌속",
+      "name_latin": "Metopius"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 맵시벌과 (Ichneumonidae)\n아과 : 줄뭉툭맵시벌아과 (Metopiinae)\n속 : 줄뭉툭맵시벌속 (Metopius)",
+  "basic_information": {
+    "곤충명": "하키뭉툭맵시벌",
+    "학명": "Metopius (Ceratopius) hakiensis Matsumura, 1912"
+  },
+  "information": {
+    "general_description": "흑색종이고, 황갈색 짧은 털이 났다. 앞머리 겹눈의 안슭, 큰턱의 기부, 더듬이 자루마디의 아랫면, 가운데가슴 등면의 1개의 무늬, 제1배마디의 2개의 무늬, 제3배마디의 뒷슭 양 옆 무늬 제4배마디와 마지막 배마디, 뒷슭 띠 무늬는 황색이다. 작은방패판의 안쪽에 용골 모양의 융기가 있고 뒷가슴에는 그물 모양의 융기가 있다. 날개는 투명에 가깝고 암황색을 띠고 있다. 다리는 황색인데 밑마디와 넓적다리마디는 흑색이고, 종아리마디와 발목마디는 암갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "흑색종이고, 황갈색 짧은 털이 났다. 앞머리 겹눈의 안슭, 큰턱의 기부, 더듬이 자루마디의 아랫면, 가운데가슴 등면의 1개의 무늬, 제1배마디의 2개의 무늬, 제3배마디의 뒷슭 양 옆 무늬 제4배마디와 마지막 배마디, 뒷슭 띠 무늬는 황색이다. 작은방패판의 안쪽에 용골 모양의 융기가 있고 뒷가슴에는 그물 모양의 융기가 있다. 날개는 투명에 가깝고 암황색을 띠고 있다. 다리는 황색인데 밑마디와 넓적다리마디는 흑색이고, 종아리마디와 발목마디는 암갈색이다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBU0214-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0214_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0214_1_th.jpg",
+      "alt": "하키뭉툭맵시벌 1번째 사진 : 하키뭉툭맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0214_1_th2.jpg",
+      "caption": "하키뭉툭맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBU0214-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0301089034",
+      "description": "[YNUE0301089034] 하키뭉툭맵시벌 1988.08.01 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306031012",
+      "description": "[YNUE0306031012] 하키뭉툭맵시벌 1982.08.03 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306031014",
+      "description": "[YNUE0306031014] 하키뭉툭맵시벌 1983.06.18 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTBU0214-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBU0214&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:00+00:00",
+    "html_sha256": "20927e1ac170b74eb3e2ce2fd554b0209e0ecc5a45f993a0fb92cf7088d9475a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

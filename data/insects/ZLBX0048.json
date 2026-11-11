@@ -1,0 +1,193 @@
+{
+  "id": "ZLBX0048",
+  "name_ko": "풀색노린재",
+  "scientific_name": "Nezara antennata Scott, 1874",
+  "display_name": "풀색노린재",
+  "family_ko": "노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "노린재상과",
+      "name_latin": "Pentatomoidea"
+    },
+    "family": {
+      "name_ko": "노린재과",
+      "name_latin": "Pentatomidae"
+    },
+    "subfamily": {
+      "name_ko": "노린재아과",
+      "name_latin": "Pentatominae"
+    },
+    "genus": {
+      "name_ko": "풀색노린재속",
+      "name_latin": "Nezara"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 노린재상과 (Pentatomoidea)\n과 : 노린재과 (Pentatomidae)\n아과 : 노린재아과 (Pentatominae)\n속 : 풀색노린재속 (Nezara)",
+  "basic_information": {
+    "곤충명": "풀색노린재",
+    "학명": "Nezara antennata Scott, 1874"
+  },
+  "information": {
+    "general_description": "뒷머리의 목 기부는 대개 흑갈색을 띠는데 배의 등면은 결합판과 제5-6 마디를 제외하고는 흑갈색 또는 흑색을 띤다. 앞가슴 등면의 옆 모서리(側角)는 반시초(半翅稍)의 기부 외연의 선보다 현저히 돌출하여 그 선단(先端)이 거의 삼각형이다. 개체에 따라 변이가 있어 몸 전체가 선명한 녹색을 띠는 녹색형과 머리와 앞가슴등의 앞쪽 절반 정도가 황색을 띠는 황대형이 있다.",
+    "adult": null,
+    "adult_male": "체장은 11-14 mm 가량이다.",
+    "adult_female": "체장은 14-17 mm 가량이다.",
+    "larva": null,
+    "egg": "알은 원통형이고 크기는 1 mm 정도이다.",
+    "pupa": null,
+    "ecology": "연 2회 발생한다. 월동 성충은 3월 하순~4월 중순에 기주식물로 이동하고 6~7월에 산란한다. 7~8월경에는 신 성충이 나타나 60~160개의 알을 무더기로 낳는다. 9~10월에는 제2 세대 성충이 나타난다.",
+    "habits": "대단한 잡식성으로, 각종 콩과 식물에 기생하는 주요 해충으로서 채소나 많은 재배 식물을 해친다. 약충은 4월 하순~7월에 기주식물의 잎 뒷면에서 수액을 흡즙하고 성충은 주로 과실에서 과즙을 흡즙한다. 피해 받은 과실은 피해 부위에 직경 8~10 mm의 둥그런 모양의 반점이 생기고 검게 변색되는데 그 반점 중앙부를 절개하여 보면 과육이 흰 스폰지 모양으로 되었다. 성충은 주로 야간에 가해한다.",
+    "season": null,
+    "overwintering": "성충으로 월동한다.",
+    "distribution": "[일본]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "뒷머리의 목 기부는 대개 흑갈색을 띠는데 배의 등면은 결합판과 제5-6 마디를 제외하고는 흑갈색 또는 흑색을 띤다. 앞가슴 등면의 옆 모서리(側角)는 반시초(半翅稍)의 기부 외연의 선보다 현저히 돌출하여 그 선단(先端)이 거의 삼각형이다. 개체에 따라 변이가 있어 몸 전체가 선명한 녹색을 띠는 녹색형과 머리와 앞가슴등의 앞쪽 절반 정도가 황색을 띠는 황대형이 있다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "체장은 11-14 mm 가량이다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "체장은 14-17 mm 가량이다."
+    },
+    {
+      "title": "생태",
+      "text": "연 2회 발생한다. 월동 성충은 3월 하순~4월 중순에 기주식물로 이동하고 6~7월에 산란한다. 7~8월경에는 신 성충이 나타나 60~160개의 알을 무더기로 낳는다. 9~10월에는 제2 세대 성충이 나타난다."
+    },
+    {
+      "title": "습성",
+      "text": "대단한 잡식성으로, 각종 콩과 식물에 기생하는 주요 해충으로서 채소나 많은 재배 식물을 해친다. 약충은 4월 하순~7월에 기주식물의 잎 뒷면에서 수액을 흡즙하고 성충은 주로 과실에서 과즙을 흡즙한다. 피해 받은 과실은 피해 부위에 직경 8~10 mm의 둥그런 모양의 반점이 생기고 검게 변색되는데 그 반점 중앙부를 절개하여 보면 과육이 흰 스폰지 모양으로 되었다. 성충은 주로 야간에 가해한다."
+    },
+    {
+      "title": "월동",
+      "text": "성충으로 월동한다."
+    },
+    {
+      "title": "알",
+      "text": "알은 원통형이고 크기는 1 mm 정도이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLBX0048-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0048_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0048_2_th.jpg",
+      "alt": "풀색노린재 1번째 사진 : 풀색노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0048_2_th2.jpg",
+      "caption": "풀색노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZLBX0048-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0048_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0048_1_th.jpg",
+      "alt": "풀색노린재 2번째 사진 : 풀색노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0048_1_th2.jpg",
+      "caption": "풀색노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLBX0048-1",
+  "specimen_examples": [
+    {
+      "id": "JFNE0306071023",
+      "description": "[JFNE0306071023] 풀색노린재 1994.07.30 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0306071024",
+      "description": "[JFNE0306071024] 풀색노린재 1994.07.31 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0306071025",
+      "description": "[JFNE0306071025] 풀색노린재 1994.08.01 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "감나무",
+      "scientific_name": "Diospyros kaki Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "무화과나무",
+      "scientific_name": "Ficus carica L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "밤나무",
+      "scientific_name": "Castanea crenata Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "벚나무",
+      "scientific_name": "Prunus serrulata f. spontanea (Maxim.) Chin S.Chang"
+    },
+    {
+      "group": "식물",
+      "name_ko": "복사나무",
+      "scientific_name": "Prunus persica (L.) Batsch"
+    },
+    {
+      "group": "식물",
+      "name_ko": "비파나무",
+      "scientific_name": "Eriobotrya japonica (Thunb.) Lindl."
+    },
+    {
+      "group": "식물",
+      "name_ko": "뽕나무",
+      "scientific_name": "Morus alba L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "산돌배",
+      "scientific_name": "Pyrus ussuriensis Maxim. ex Rupr."
+    },
+    {
+      "group": "식물",
+      "name_ko": "온주밀감",
+      "scientific_name": "Citrus unshiu (Yu.Tanaka ex Swingle) Marcow."
+    },
+    {
+      "group": "식물",
+      "name_ko": "콩",
+      "scientific_name": "Glycine max (L.) Merr."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLBX0048-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLBX0048&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:52+00:00",
+    "html_sha256": "7b0416c658c67749cfba4682b58309ce237578a705d4d18d26f74d6c41c7625d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

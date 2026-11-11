@@ -1,0 +1,111 @@
+{
+  "id": "ZLCG0021",
+  "name_ko": "검정무늬침노린재",
+  "scientific_name": "Peirates turpis Walker, 1873",
+  "display_name": "검정무늬침노린재",
+  "family_ko": "침노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "침노린재상과",
+      "name_latin": "Reduvioidea"
+    },
+    "family": {
+      "name_ko": "침노린재과",
+      "name_latin": "Reduviidae"
+    },
+    "subfamily": {
+      "name_ko": "검정침노린재아과",
+      "name_latin": "Peiratinae"
+    },
+    "genus": {
+      "name_ko": "검정침노린재아속",
+      "name_latin": "Peirates"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 침노린재상과 (Reduvioidea)\n과 : 침노린재과 (Reduviidae)\n아과 : 검정침노린재아과 (Peiratinae)\n속 : 검정침노린재아속 (Peirates)",
+  "basic_information": {
+    "곤충명": "검정무늬침노린재",
+    "학명": "Peirates turpis Walker, 1873"
+  },
+  "information": {
+    "general_description": "몸길이 : 13.5-15mm\n몸은 흑색을 띤다. 머리는 작고 겹눈은 반구상이며 양 겹눈 사이에 ㅗ모양의 홈이 있다. 더듬이는 4마디이고 위끝을 향해서 가늘다. 주둥이는 굵고 짧다. 앞가슴은 가로홈에 의해 2분되고, 그 전반은 구상이며 정중선에 잇달아 크고 오목하게 패인 선이 있다. 작은방패판은 작고 삼각형이며, 반시초는 흑갈색 또는 일부 주갈색을 나타내고, 기어갈 때는 배끝에 달하거나 약간 넓지만, 여러 가지 정도의 단시형이 나타난다. 막질부는 칠흑색이고 전혀 광택이 없는 무늬가 있다. 다리와 몸의 아랫면은 모두 흑색이고, 앞다리의 넓적다리마디는 대단히 굵으며, 또 종아리마디도 위끝을 향해서 굵다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "땅 위를 기어다니는 종류이고, 날개가 긴 장시형은 등불에도 날아든다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 13.5-15mm\n몸은 흑색을 띤다. 머리는 작고 겹눈은 반구상이며 양 겹눈 사이에 ㅗ모양의 홈이 있다. 더듬이는 4마디이고 위끝을 향해서 가늘다. 주둥이는 굵고 짧다. 앞가슴은 가로홈에 의해 2분되고, 그 전반은 구상이며 정중선에 잇달아 크고 오목하게 패인 선이 있다. 작은방패판은 작고 삼각형이며, 반시초는 흑갈색 또는 일부 주갈색을 나타내고, 기어갈 때는 배끝에 달하거나 약간 넓지만, 여러 가지 정도의 단시형이 나타난다. 막질부는 칠흑색이고 전혀 광택이 없는 무늬가 있다. 다리와 몸의 아랫면은 모두 흑색이고, 앞다리의 넓적다리마디는 대단히 굵으며, 또 종아리마디도 위끝을 향해서 굵다."
+    },
+    {
+      "title": "생태",
+      "text": "땅 위를 기어다니는 종류이고, 날개가 긴 장시형은 등불에도 날아든다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLCG0021-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCG0021_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCG0021_1_th.jpg",
+      "alt": "검정무늬침노린재 1번째 사진 : 검정무늬침노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCG0021_1_th2.jpg",
+      "caption": "검정무늬침노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLCG0021-1",
+  "specimen_examples": [
+    {
+      "id": "GSNE0302201004",
+      "description": "[GSNE0302201004] 검정무늬침노린재 1986.06.04 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0302201005",
+      "description": "[GSNE0302201005] 검정무늬침노린재 1985.07.08 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0302201006",
+      "description": "[GSNE0302201006] 검정무늬침노린재 1992.07.28 / / 경상대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZLCG0021.png",
+    "reference_image_id": "ZLCG0021-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T11:31:51.774251+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "9e63ae6000ee48a714151abdf713767960a849a6e44ffee884f04d486f701839"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLCG0021&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:19+00:00",
+    "html_sha256": "82796ff380fc9aabe8e2d63526451990a783223d20cd528db10609acf839f289",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

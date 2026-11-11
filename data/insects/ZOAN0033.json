@@ -1,0 +1,99 @@
+{
+  "id": "ZOAN0033",
+  "name_ko": "희귀한똥풍뎅이",
+  "scientific_name": "Aphodius (Plagiogonus) culminarius Reitter, 1900",
+  "display_name": "희귀한똥풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "똥풍뎅이아과",
+      "name_latin": "Aphodiinae"
+    },
+    "genus": {
+      "name_ko": "똥풍뎅이속",
+      "name_latin": "Aphodius"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 똥풍뎅이아과 (Aphodiinae)\n속 : 똥풍뎅이속 (Aphodius)",
+  "basic_information": {
+    "곤충명": "희귀한똥풍뎅이",
+    "학명": "Aphodius (Plagiogonus) culminarius Reitter, 1900"
+  },
+  "information": {
+    "general_description": "중국에 분포하며 미소형이나 두껍고 뒤쪽이 약간 넓으며, 전흉배판은 흑색이나 가장자리는 적갈색이다. 딱지날개 앞쪽은 밝고 나머지는 농갈색, 퇴절은 황색, 경절은 황갈색이다. 머리는 길고 편평하고 앞쪽에 미세한 털이 있으며, 방패의 앞테두리는 뚜렷하다. 전흉배판 기부테는 없고 딱지날개의 제7과 9번 간실은 뒤쪽에서 매우 높게 합쳐져 굵은 가지 모양이다. 경절단극모열의 길이는 서로 다르다. 제1후부절은 다음 3마디의 합보다 짧다. BL:2~4mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중국에 분포하며 미소형이나 두껍고 뒤쪽이 약간 넓으며, 전흉배판은 흑색이나 가장자리는 적갈색이다. 딱지날개 앞쪽은 밝고 나머지는 농갈색, 퇴절은 황색, 경절은 황갈색이다. 머리는 길고 편평하고 앞쪽에 미세한 털이 있으며, 방패의 앞테두리는 뚜렷하다. 전흉배판 기부테는 없고 딱지날개의 제7과 9번 간실은 뒤쪽에서 매우 높게 합쳐져 굵은 가지 모양이다. 경절단극모열의 길이는 서로 다르다. 제1후부절은 다음 3마디의 합보다 짧다. BL:2~4mm."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAN0033-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAN0033_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAN0033_1_th.jpg",
+      "alt": "희귀한똥풍뎅이 1번째 사진 : 희귀한똥풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAN0033_1_th2.jpg",
+      "caption": "희귀한똥풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAN0033-1",
+  "specimen_examples": [
+    {
+      "id": "SSUE0303051032",
+      "description": "[SSUE0303051032] 희귀한똥풍뎅이 1983.10.18 / / 성신여자대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAN0033-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAN0033&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:17+00:00",
+    "html_sha256": "57743192db8320296ca3b281c53e183dfb0094f6c62f8be110a04ff35d36b27b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

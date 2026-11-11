@@ -1,0 +1,110 @@
+{
+  "id": "ZREL0214",
+  "name_ko": "흰날개집명나방",
+  "scientific_name": "Termioptycha margarita (Butler, 1879)",
+  "display_name": "흰날개집명나방",
+  "family_ko": "명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "명나방과",
+      "name_latin": "Pyralidae"
+    },
+    "subfamily": {
+      "name_ko": "집명나방아과",
+      "name_latin": "Epipaschiinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Termioptycha"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 명나방과 (Pyralidae)\n아과 : 집명나방아과 (Epipaschiinae)\n속 : (Termioptycha)",
+  "basic_information": {
+    "곤충명": "흰날개집명나방",
+    "학명": "Termioptycha margarita (Butler, 1879)"
+  },
+  "information": {
+    "general_description": "일본, 타이완, 스리랑카, 인디아, 보르네오에 분포하며 더듬이는 다소 길고 미모상이며, 머리는 백색에 약간의 흑갈색 인편이 혼\n합. 아랫입술수염은 수컷의 경우 백색에 약간 갈색이 섞여 있으며, 위로\n향하고 제 3마디가 뾰족하며 길다. 반면 암컷은 백색에 회색 및 흑색 인\n편이 섞여 있다. 28mm 내외의 날개를 가지고 있으며, 앞날개의 내,외횡선\n사이 부분과 뒷날개의 외횡선 안쪽은 백색이며, 그 밖의 날개 표면은 흑\n갈색이다. 가슴의 등쪽면은 담백갈색이고, 암컷은 약간의 흑색 인편이 섞여있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "일본, 타이완, 스리랑카, 인디아, 보르네오에 분포하며 더듬이는 다소 길고 미모상이며, 머리는 백색에 약간의 흑갈색 인편이 혼\n합. 아랫입술수염은 수컷의 경우 백색에 약간 갈색이 섞여 있으며, 위로\n향하고 제 3마디가 뾰족하며 길다. 반면 암컷은 백색에 회색 및 흑색 인\n편이 섞여 있다. 28mm 내외의 날개를 가지고 있으며, 앞날개의 내,외횡선\n사이 부분과 뒷날개의 외횡선 안쪽은 백색이며, 그 밖의 날개 표면은 흑\n갈색이다. 가슴의 등쪽면은 담백갈색이고, 암컷은 약간의 흑색 인편이 섞여있다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0214-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0214_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0214_2_th.jpg",
+      "alt": "흰날개집명나방 1번째 사진 : 흰날개집명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0214_2_th2.jpg",
+      "caption": "흰날개집명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREL0214-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0214_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0214_1_th.jpg",
+      "alt": "흰날개집명나방 2번째 사진 : 흰날개집명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0214_1_th2.jpg",
+      "caption": "흰날개집명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0214-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0301132058",
+      "description": "[KNAE0301132058] 흰날개집명나방 1991.07.14 / / 국립수목원"
+    },
+    {
+      "id": "FRIE0203161068",
+      "description": "[FRIE0203161068] 흰날개집명나방 1986.06.11 / / 국립산림과학원"
+    },
+    {
+      "id": "UIBE0203202089",
+      "description": "[UIBE0203202089] 흰날개집명나방 1998.07.31 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREL0214-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0214&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:22+00:00",
+    "html_sha256": "27b49669f1c6721ca1028288790f58a1eb26bcddbe99d13f53cab4fb3bd92281",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

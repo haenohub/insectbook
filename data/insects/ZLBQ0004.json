@@ -1,0 +1,103 @@
+{
+  "id": "ZLBQ0004",
+  "name_ko": "방게아재비",
+  "scientific_name": "Ranatra (Ranatra) unicolor Scott, 1874",
+  "display_name": "방게아재비",
+  "family_ko": "장구애비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "장구애비상과",
+      "name_latin": "Nepoidea"
+    },
+    "family": {
+      "name_ko": "장구애비과",
+      "name_latin": "Nepidae"
+    },
+    "subfamily": {
+      "name_ko": "게아재비아과",
+      "name_latin": "Ranatrinae"
+    },
+    "genus": {
+      "name_ko": "게아재비속",
+      "name_latin": "Ranatra"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 장구애비상과 (Nepoidea)\n과 : 장구애비과 (Nepidae)\n아과 : 게아재비아과 (Ranatrinae)\n속 : 게아재비속 (Ranatra)",
+  "basic_information": {
+    "곤충명": "방게아재비",
+    "학명": "Ranatra (Ranatra) unicolor Scott, 1874"
+  },
+  "information": {
+    "general_description": "몸길이 : 24-32mm\n게아재비와 비슷하나 훨씬 작고, 호흡관의 길이는 몸 길이의 약 2/3정도의 짧은 종류이며, 몸은 대단히 가늘고 회갈색이다. 머리는 작고, 겹눈은 구상이며, 흑갈색이다. 더듬이는 3마디이며 제 2마디는 앞옆쪽으로 뻗어 약간 삼각형에 가깝게 보이고, 제 3마디는 끝이 가늘고 약간 구부러졌다. 주둥이는 짧고 예리하다. 앞가슴등의 전반은 원통형이고 후반은 폭이 넓다. 작은방패판은 작고 약간 알모양이다. 반시초는 배끝에 달하지 않으며, 암컷의 아생식판은 끝이 심히 날카롭고 뾰족하여 전체는 예각 삼각형의 창모양이고, 수컷의 아생식판은 끝이 예리하지 않고 긴 혀모양이다. 앞다리는 포획각이고, 밑마디는 길며, 넓적다리마디의 중앙부에 작은 가시가 있고 그 옆뒤쪽에 센털다발이 있는 융기가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 24-32mm\n게아재비와 비슷하나 훨씬 작고, 호흡관의 길이는 몸 길이의 약 2/3정도의 짧은 종류이며, 몸은 대단히 가늘고 회갈색이다. 머리는 작고, 겹눈은 구상이며, 흑갈색이다. 더듬이는 3마디이며 제 2마디는 앞옆쪽으로 뻗어 약간 삼각형에 가깝게 보이고, 제 3마디는 끝이 가늘고 약간 구부러졌다. 주둥이는 짧고 예리하다. 앞가슴등의 전반은 원통형이고 후반은 폭이 넓다. 작은방패판은 작고 약간 알모양이다. 반시초는 배끝에 달하지 않으며, 암컷의 아생식판은 끝이 심히 날카롭고 뾰족하여 전체는 예각 삼각형의 창모양이고, 수컷의 아생식판은 끝이 예리하지 않고 긴 혀모양이다. 앞다리는 포획각이고, 밑마디는 길며, 넓적다리마디의 중앙부에 작은 가시가 있고 그 옆뒤쪽에 센털다발이 있는 융기가 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLBQ0004-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBQ0004_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBQ0004_1_th.jpg",
+      "alt": "방게아재비 1번째 사진 : 방게아재비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBQ0004_1_th2.jpg",
+      "caption": "방게아재비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLBQ0004-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0407291033",
+      "description": "[MPME0407291033] 방게아재비 1999.09.24 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0407291034",
+      "description": "[MPME0407291034] 방게아재비 1999.09.24 / / 목포자연사박물관"
+    },
+    {
+      "id": "KNAE0304012050",
+      "description": "[KNAE0304012050] 방게아재비 1994.08.07 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLBQ0004-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLBQ0004&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:18+00:00",
+    "html_sha256": "71ef71198f7aba0d01b5c36706370ac26af899a7c59fae06c40611684718dda5",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

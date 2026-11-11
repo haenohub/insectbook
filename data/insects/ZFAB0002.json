@@ -1,0 +1,138 @@
+{
+  "id": "ZFAB0002",
+  "name_ko": "날개대벌레",
+  "scientific_name": "Micadina yasumatsui Shiraki, 1935",
+  "display_name": "날개대벌레",
+  "family_ko": "날개대벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "대벌레목",
+      "name_latin": "Phasmida"
+    },
+    "family": {
+      "name_ko": "날개대벌레과",
+      "name_latin": "Diapheromeridae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Micadina"
+    }
+  },
+  "taxonomy_text": "목 : 대벌레목 (Phasmida)\n과 : 날개대벌레과 (Diapheromeridae)\n속 : (Micadina)",
+  "basic_information": {
+    "곤충명": "날개대벌레",
+    "학명": "Micadina yasumatsui Shiraki, 1935"
+  },
+  "information": {
+    "general_description": "몸길이는 약 42-54 ㎜이며 가늘고 녹색이다. 더듬이는 흑갈색으로 길고 가늘다. 앞날개는 폭보다 길이가 길며 날개가 겹치는 부분은 홍적색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "알의 표면에는 불규칙한 융기부가 있으며 알로 월동한다. 밤나무, 상수리나무 등의 잎을 갉아 먹는다. 수컷은 알려지지 않았다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 약 42-54 ㎜이며 가늘고 녹색이다. 더듬이는 흑갈색으로 길고 가늘다. 앞날개는 폭보다 길이가 길며 날개가 겹치는 부분은 홍적색이다."
+    },
+    {
+      "title": "생태",
+      "text": "알의 표면에는 불규칙한 융기부가 있으며 알로 월동한다. 밤나무, 상수리나무 등의 잎을 갉아 먹는다. 수컷은 알려지지 않았다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZFAB0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/F1/ZFAB0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/F1/ZFAB0002_1_th.jpg",
+      "alt": "날개대벌레 1번째 사진 : 날개대벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/F1/ZFAB0002_1_th2.jpg",
+      "caption": "날개대벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZFAB0002-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0306271006",
+      "description": "[FRIE0306271006] 날개대벌레 1981.09.06 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0303171054",
+      "description": "[FRIE0303171054] 날개대벌레 1981.09.05 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE374232",
+      "description": "[KNAE374232] 날개대벌레 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "구실잣밤나무",
+      "scientific_name": "Castanopsis sieboldii (Makino) Hatus. ex T.Yamaz. & Mashiba"
+    },
+    {
+      "group": "식물",
+      "name_ko": "너도밤나무",
+      "scientific_name": "Fagus multinervis Nakai"
+    },
+    {
+      "group": "식물",
+      "name_ko": "떡갈나무",
+      "scientific_name": "Quercus dentata Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "밤나무",
+      "scientific_name": "Castanea crenata Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "상수리나무",
+      "scientific_name": "Quercus acutissima Carruth."
+    },
+    {
+      "group": "식물",
+      "name_ko": "종가시나무",
+      "scientific_name": "Quercus glauca Thunb."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZFAB0002.png",
+    "reference_image_id": "ZFAB0002-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T15:57:02.880626+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "5774ad59af1b7e8e0b3c8052e5dea9cc69b84847d60e573afd8e465bae79483d"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZFAB0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:15+00:00",
+    "html_sha256": "b6c08f7804a97340dd8550207882a5717876c9fb99d92c654e8625e155fe2e02",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "id": "ZOBL0247",
+  "name_ko": "닮은새똥하늘소",
+  "scientific_name": "Pogonocherus fasciculatus fasciculatus (De Geer, 1775)",
+  "display_name": "닮은새똥하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "목하늘소아과",
+      "name_latin": "Lamiinae"
+    },
+    "genus": {
+      "name_ko": "새똥하늘소속",
+      "name_latin": "Pogonocherus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 목하늘소아과 (Lamiinae)\n속 : 새똥하늘소속 (Pogonocherus)",
+  "basic_information": {
+    "곤충명": "닮은새똥하늘소",
+    "학명": "Pogonocherus fasciculatus fasciculatus (De Geer, 1775)"
+  },
+  "information": {
+    "general_description": "체장 5.0~8.0 mm. 머리와 앞가슴등판은 짙은 갈색에서 적갈색이며, 노란색 또는 흰색의 연모가 덮여 있다. 머리는 얼룩덜룩하고, 등면에는 짧은 매끈한 중앙선과 옆 부분에 두 혹이 있다. 딱지날개 기부는 얼룩덜룩한 갈색이고, 딱지날개에는 두 가지색의 소순판 뒤와 넓은 가로의 흰색 띠 사이에 융기되어 있다. 더듬이는 길고 짙은 갈색이며, 모든 마디의 기부는 밝은 적갈색이며, 회색 연모가 밀집한다.",
+    "adult": null,
+    "adult_male": "더듬이는 딱지날개 말단을 초과한다.",
+    "adult_female": "더듬이는 딱지날개 말단에 이르지 못한다.",
+    "larva": "몸은 흰색이며, 머리의 반 이상이 앞가슴에 함입된다. 홑눈은 더듬이 아래에 있으며, 작다. 이마방패는 투명하고 사다리꼴이다. 윗입술은 흰색이며, 너비가 넓다. 복부는 길쭉하고 4~5마디에서 특징적으로 홀쭉하다.",
+    "egg": "흰색이며, 길쭉하다. 난포막은 매끈하고 불투명하다.",
+    "pupa": "중앙, 뒷 가슴등판에는 강한 강모가 밀집하고, 복부 등판에는 매우 가는 털들이 산재하는 것이 특징적이다.",
+    "ecology": "Picea, Pinus, Abies, Larix속과 같은 침엽수에서 생장하지만, 활엽수에서도 생장하는 경우도 있다. 유충은 기주식물의 죽은 줄기나 가지를 섭식한다. 러시아에서는 해발 2500 m 이상의 지역에서 발견된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": "유충",
+    "distribution": null,
+    "notes": null,
+    "pest_control": "경제적 피해 유발 해충으로 알려져 있지 않아, 종 특이적 방제법은 현재까지 없다.",
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체장 5.0~8.0 mm. 머리와 앞가슴등판은 짙은 갈색에서 적갈색이며, 노란색 또는 흰색의 연모가 덮여 있다. 머리는 얼룩덜룩하고, 등면에는 짧은 매끈한 중앙선과 옆 부분에 두 혹이 있다. 딱지날개 기부는 얼룩덜룩한 갈색이고, 딱지날개에는 두 가지색의 소순판 뒤와 넓은 가로의 흰색 띠 사이에 융기되어 있다. 더듬이는 길고 짙은 갈색이며, 모든 마디의 기부는 밝은 적갈색이며, 회색 연모가 밀집한다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "더듬이는 딱지날개 말단을 초과한다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "더듬이는 딱지날개 말단에 이르지 못한다."
+    },
+    {
+      "title": "번데기",
+      "text": "중앙, 뒷 가슴등판에는 강한 강모가 밀집하고, 복부 등판에는 매우 가는 털들이 산재하는 것이 특징적이다."
+    },
+    {
+      "title": "유충",
+      "text": "몸은 흰색이며, 머리의 반 이상이 앞가슴에 함입된다. 홑눈은 더듬이 아래에 있으며, 작다. 이마방패는 투명하고 사다리꼴이다. 윗입술은 흰색이며, 너비가 넓다. 복부는 길쭉하고 4~5마디에서 특징적으로 홀쭉하다."
+    },
+    {
+      "title": "생태",
+      "text": "Picea, Pinus, Abies, Larix속과 같은 침엽수에서 생장하지만, 활엽수에서도 생장하는 경우도 있다. 유충은 기주식물의 죽은 줄기나 가지를 섭식한다. 러시아에서는 해발 2500 m 이상의 지역에서 발견된다."
+    },
+    {
+      "title": "월동",
+      "text": "유충"
+    },
+    {
+      "title": "방제법",
+      "text": "경제적 피해 유발 해충으로 알려져 있지 않아, 종 특이적 방제법은 현재까지 없다."
+    },
+    {
+      "title": "알",
+      "text": "흰색이며, 길쭉하다. 난포막은 매끈하고 불투명하다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0247-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0247_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0247_1_th.jpg",
+      "alt": "닮은새똥하늘소 1번째 사진 : 닮은새똥하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0247_1_th2.jpg",
+      "caption": "닮은새똥하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0247-1",
+  "specimen_examples": [
+    {
+      "id": "SJNE0301221194",
+      "description": "[SJNE0301221194] 닮은새똥하늘소 1999.05.14 / / 상주대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0247-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0247&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:55+00:00",
+    "html_sha256": "4dd708316279b92f8cb72aa1f4c6ec0d6bb85c3cdaeb017749346610d2f6936c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

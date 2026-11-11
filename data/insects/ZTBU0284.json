@@ -1,0 +1,114 @@
+{
+  "id": "ZTBU0284",
+  "name_ko": "세줄박이맵시벌",
+  "scientific_name": "Diphyus akaashii (Uchida, 1955)",
+  "display_name": "세줄박이맵시벌",
+  "family_ko": "맵시벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "맵시벌과",
+      "name_latin": "Ichneumonidae"
+    },
+    "subfamily": {
+      "name_ko": "맵시벌아과",
+      "name_latin": "Ichneumoninae"
+    },
+    "genus": {
+      "name_ko": "세줄박이맵시벌속",
+      "name_latin": "Diphyus"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 맵시벌과 (Ichneumonidae)\n아과 : 맵시벌아과 (Ichneumoninae)\n속 : 세줄박이맵시벌속 (Diphyus)",
+  "basic_information": {
+    "곤충명": "세줄박이맵시벌",
+    "학명": "Diphyus akaashii (Uchida, 1955)"
+  },
+  "information": {
+    "general_description": "전체가 흑색이며, 광택이 있다. 머리방패의 앞슭과 겹눈의 안가두리, ♂은 얼굴 전면, 더듬이의 중앙부, 앞가슴의 등면 뒷가두리, 가운데가슴의 등면 중앙의 4각형 무늬, 작은방패판과 뒷방패판, 뒷가슴의 뒤쪽 무늬, 제2·3·4배마디의 기부의 무늬, 배끝마디의 무늬 등은 황색이다. 그 중에서 배마디의 무늬에는 변이가 많다. 제2배마디의 무늬는 짙은 색이고 제3배마디 기부에만 무늬가 있는 것이 f.ainoicus MATSUMURA 이다.\n그 밖에도 다리에 많은 황색부가 있는 var. miikunii MATSUMURA가 있다. 13∼16mm",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "전체가 흑색이며, 광택이 있다. 머리방패의 앞슭과 겹눈의 안가두리, ♂은 얼굴 전면, 더듬이의 중앙부, 앞가슴의 등면 뒷가두리, 가운데가슴의 등면 중앙의 4각형 무늬, 작은방패판과 뒷방패판, 뒷가슴의 뒤쪽 무늬, 제2·3·4배마디의 기부의 무늬, 배끝마디의 무늬 등은 황색이다. 그 중에서 배마디의 무늬에는 변이가 많다. 제2배마디의 무늬는 짙은 색이고 제3배마디 기부에만 무늬가 있는 것이 f.ainoicus MATSUMURA 이다.\n그 밖에도 다리에 많은 황색부가 있는 var. miikunii MATSUMURA가 있다. 13∼16mm"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBU0284-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0284_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0284_2_th.jpg",
+      "alt": "세줄박이맵시벌 1번째 사진 : 세줄박이맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0284_2_th2.jpg",
+      "caption": "세줄박이맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTBU0284-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0284_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0284_1_th.jpg",
+      "alt": "세줄박이맵시벌 2번째 사진 : 세줄박이맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0284_1_th2.jpg",
+      "caption": "세줄박이맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBU0284-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305261145",
+      "description": "[YNUE0305261145] 세줄박이맵시벌 1974.04.14 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305261146",
+      "description": "[YNUE0305261146] 세줄박이맵시벌 1961.05.08 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305261147",
+      "description": "[YNUE0305261147] 세줄박이맵시벌 1972.05.28 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTBU0284-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBU0284&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:05+00:00",
+    "html_sha256": "07bc184a4251f0846098dd914cd4ff6377152516a082b230c43978207461f8ff",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

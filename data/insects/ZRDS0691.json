@@ -1,0 +1,118 @@
+{
+  "id": "ZRDS0691",
+  "name_ko": "물결수염나방",
+  "scientific_name": "Herminia innocens Butler, 1878",
+  "display_name": "물결수염나방",
+  "family_ko": "태극나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "태극나방과",
+      "name_latin": "Erebidae"
+    },
+    "subfamily": {
+      "name_ko": "줄수염나방아과",
+      "name_latin": "Herminiinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Herminia"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 태극나방과 (Erebidae)\n아과 : 줄수염나방아과 (Herminiinae)\n속 : (Herminia)",
+  "basic_information": {
+    "곤충명": "물결수염나방",
+    "학명": "Herminia innocens Butler, 1878"
+  },
+  "information": {
+    "general_description": "머리, 가슴의 등면, 배는 암회색을 띰. 앞날개는 암회색바탕인데 날개의 중앙과 외연부가 암갈색을 띰. 내횡선, 외횡선, 아외연선은 가는 암갈색을 띠며 외행선이 별로 바깥쪽으로 굴곡되지 않았음. 콩팥무늬는 가는 암색의 둘레로 길쭉한 고리모양을 이룸.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 5~7월경에 출현됨.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "머리, 가슴의 등면, 배는 암회색을 띰. 앞날개는 암회색바탕인데 날개의 중앙과 외연부가 암갈색을 띰. 내횡선, 외횡선, 아외연선은 가는 암갈색을 띠며 외행선이 별로 바깥쪽으로 굴곡되지 않았음. 콩팥무늬는 가는 암색의 둘레로 길쭉한 고리모양을 이룸."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 5~7월경에 출현됨."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0691-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0691_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0691_2_th.jpg",
+      "alt": "물결수염나방 1번째 사진 : 물결수염나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0691_2_th2.jpg",
+      "caption": "물결수염나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDS0691-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0691_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0691_1_th.jpg",
+      "alt": "물결수염나방 2번째 사진 : 물결수염나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0691_1_th2.jpg",
+      "caption": "물결수염나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0691-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0408111040",
+      "description": "[KNAE0408111040] 물결수염나방 1998.08.27 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0408111042",
+      "description": "[KNAE0408111042] 물결수염나방 1998.09.10 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0408111043",
+      "description": "[KNAE0408111043] 물결수염나방 1998.09.10 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDS0691-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0691&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:38+00:00",
+    "html_sha256": "be85cacd751331c78edec9d2cea3bc8bc07d2f39d5cde65fef2e4c936558ea27",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

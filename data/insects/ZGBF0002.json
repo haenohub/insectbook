@@ -1,0 +1,106 @@
+{
+  "id": "ZGBF0002",
+  "name_ko": "좀집게벌레",
+  "scientific_name": "Anechura japonica (Bormans, 1880)",
+  "display_name": "좀집게벌레",
+  "family_ko": "집게벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "집게벌레목",
+      "name_latin": "Dermaptera"
+    },
+    "family": {
+      "name_ko": "집게벌레과",
+      "name_latin": "Forficulidae"
+    },
+    "genus": {
+      "name_ko": "좀집게벌레속",
+      "name_latin": "Anechura"
+    }
+  },
+  "taxonomy_text": "목 : 집게벌레목 (Dermaptera)\n과 : 집게벌레과 (Forficulidae)\n속 : 좀집게벌레속 (Anechura)",
+  "basic_information": {
+    "곤충명": "좀집게벌레",
+    "학명": "Anechura japonica (Bormans, 1880)"
+  },
+  "information": {
+    "general_description": "몸길이 16mm. 몸은 오갈색 또는 흑갈색이고 뒷머리의 종선은 명백함. 촉각은 담색이고 제 1마디는 굵고 제 1마디는 미소함. 앞가슴등은 뒷가두리가 둥글고 옆가두리는 황색을 띠었고 배에는 약간 바깥쪽으로 만곡된 옆가두리가 있음. 집게의 기부에 1개의 짧은 가시가 있으나 암컷에는 없으며 집게는 가늘고 길며 기부근처 등면에 1개의 짧은 가시가 있음. 중앙의 앞 안쪽에 비껴 아랫쪽으로 향한 1개의 이가 있으며 날개가 발달하였음.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 16mm. 몸은 오갈색 또는 흑갈색이고 뒷머리의 종선은 명백함. 촉각은 담색이고 제 1마디는 굵고 제 1마디는 미소함. 앞가슴등은 뒷가두리가 둥글고 옆가두리는 황색을 띠었고 배에는 약간 바깥쪽으로 만곡된 옆가두리가 있음. 집게의 기부에 1개의 짧은 가시가 있으나 암컷에는 없으며 집게는 가늘고 길며 기부근처 등면에 1개의 짧은 가시가 있음. 중앙의 앞 안쪽에 비껴 아랫쪽으로 향한 1개의 이가 있으며 날개가 발달하였음."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZGBF0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/G2/ZGBF0002_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/G2/ZGBF0002_2_th.jpg",
+      "alt": "좀집게벌레 1번째 사진 : 좀집게벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/G2/ZGBF0002_2_th2.jpg",
+      "caption": "좀집게벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZGBF0002-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/G2/ZGBF0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/G2/ZGBF0002_1_th.jpg",
+      "alt": "좀집게벌레 2번째 사진 : 좀집게벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/G2/ZGBF0002_1_th2.jpg",
+      "caption": "좀집게벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZGBF0002-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0203141036",
+      "description": "[SNUE0203141036] 좀집게벌레 1994.06.26 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0203141037",
+      "description": "[SNUE0203141037] 좀집게벌레 1992.05.20 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0203141038",
+      "description": "[SNUE0203141038] 좀집게벌레 1995.08.18 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZGBF0002-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZGBF0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:50+00:00",
+    "html_sha256": "5e0f2f685152fef9e545e11fe8ed885c57fa27f319c28785fb10c57efabc8089",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

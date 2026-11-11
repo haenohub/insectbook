@@ -1,0 +1,114 @@
+{
+  "id": "ZOGP0028",
+  "name_ko": "좀송장벌레",
+  "scientific_name": "Thanatophilus sinuatus (Fabricius, 1775)",
+  "display_name": "좀송장벌레",
+  "family_ko": "송장벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "반날개상과",
+      "name_latin": "Staphylinoidea"
+    },
+    "family": {
+      "name_ko": "송장벌레과",
+      "name_latin": "Silphidae"
+    },
+    "subfamily": {
+      "name_ko": "송장벌레아과",
+      "name_latin": "Silphinae"
+    },
+    "genus": {
+      "name_ko": "좀송장벌레속",
+      "name_latin": "Thanatophilus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 반날개상과 (Staphylinoidea)\n과 : 송장벌레과 (Silphidae)\n아과 : 송장벌레아과 (Silphinae)\n속 : 좀송장벌레속 (Thanatophilus)",
+  "basic_information": {
+    "곤충명": "좀송장벌레",
+    "학명": "Thanatophilus sinuatus (Fabricius, 1775)"
+  },
+  "information": {
+    "general_description": "한국, 일본, 대만, 중국에 분포하며, 체장은 14mm 정도이다. 몸은 가늘고 긴 흑색종인데 머리는 볼록한 모양이고 아주 가는 점각을 밀포하였다. 머리방패는 등황색이고 촉각과 양 수염은 흑갈색이다. 앞가슴등판은 광택이 나고 아주 작은 점각을 밀포하였다. 복판에는 점각이 있으나 전반에는 황색털이 밀생하였다. 다리는 흑갈색이다. 딱지날개는 짧고 작은 흑색이며 배끝의 세마디는 노출하였다. 몸아랫면은 가슴아래와 각 배마디의 뒷가두리에 황색 털이 났다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 대만, 중국에 분포하며, 체장은 14mm 정도이다. 몸은 가늘고 긴 흑색종인데 머리는 볼록한 모양이고 아주 가는 점각을 밀포하였다. 머리방패는 등황색이고 촉각과 양 수염은 흑갈색이다. 앞가슴등판은 광택이 나고 아주 작은 점각을 밀포하였다. 복판에는 점각이 있으나 전반에는 황색털이 밀생하였다. 다리는 흑갈색이다. 딱지날개는 짧고 작은 흑색이며 배끝의 세마디는 노출하였다. 몸아랫면은 가슴아래와 각 배마디의 뒷가두리에 황색 털이 났다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGP0028-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0028_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0028_2_th.jpg",
+      "alt": "좀송장벌레 1번째 사진 : 좀송장벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0028_2_th2.jpg",
+      "caption": "좀송장벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOGP0028-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0028_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0028_1_th.jpg",
+      "alt": "좀송장벌레 2번째 사진 : 좀송장벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0028_1_th2.jpg",
+      "caption": "좀송장벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGP0028-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0302251029",
+      "description": "[KPNE0302251029] 좀송장벌레 1972.06.08 / / 경북대학교"
+    },
+    {
+      "id": "HNUE0405161018",
+      "description": "[HNUE0405161018] 좀송장벌레 2002.09.12 / / 한남대학교 자연사박물관"
+    },
+    {
+      "id": "HNUE0405161019",
+      "description": "[HNUE0405161019] 좀송장벌레 2000.07.02 / / 한남대학교 자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGP0028-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGP0028&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:49+00:00",
+    "html_sha256": "0e0b38e3f382f2611d3987d75342767e71059467b63f1574a00be086719760d2",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

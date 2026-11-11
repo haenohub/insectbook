@@ -1,0 +1,107 @@
+{
+  "id": "ZOBT0215",
+  "name_ko": "두줄박이애잎벌레",
+  "scientific_name": "Medythia nigrobilineata (Motschulsky, 1860)",
+  "display_name": "두줄박이애잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "긴더듬이잎벌레아과",
+      "name_latin": "Galerucinae"
+    },
+    "genus": {
+      "name_ko": "줄무늬잎벌레속",
+      "name_latin": "Medythia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 긴더듬이잎벌레아과 (Galerucinae)\n속 : 줄무늬잎벌레속 (Medythia)",
+  "basic_information": {
+    "곤충명": "두줄박이애잎벌레",
+    "학명": "Medythia nigrobilineata (Motschulsky, 1860)"
+  },
+  "information": {
+    "general_description": "몸길이는 3.0~3.4mm, 다리는 황갈색이며, 종아리마디는 암갈색이다. 더듬이는 가늘며 길다. 몸색깔은 적갈색이다. 앞날개는 가늘다. 한국, 동시베리아, 중국(남부), 일본(훗카이도,혼슈,시코쿠,큐슈)에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 5월에 보이며, 5월에 산란, 콩과식물을 가해한다. 유충은 뿌리를 가해한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 3.0~3.4mm, 다리는 황갈색이며, 종아리마디는 암갈색이다. 더듬이는 가늘며 길다. 몸색깔은 적갈색이다. 앞날개는 가늘다. 한국, 동시베리아, 중국(남부), 일본(훗카이도,혼슈,시코쿠,큐슈)에 분포되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 5월에 보이며, 5월에 산란, 콩과식물을 가해한다. 유충은 뿌리를 가해한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0215-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0215_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0215_1_th.jpg",
+      "alt": "두줄박이애잎벌레 1번째 사진 : 두줄박이애잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0215_1_th2.jpg",
+      "caption": "두줄박이애잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0215-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303142030",
+      "description": "[KNAE0303142030] 두줄박이애잎벌레 1997.05.11 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303142031",
+      "description": "[KNAE0303142031] 두줄박이애잎벌레 1997.06.11 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303142032",
+      "description": "[KNAE0303142032] 두줄박이애잎벌레 1997.05.21 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0215-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0215&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:48+00:00",
+    "html_sha256": "6e9e2d69c048cd04775c1269cdfadc0f0824445124446fe2a498f5ee3f33c620",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

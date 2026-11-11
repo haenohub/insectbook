@@ -1,0 +1,122 @@
+{
+  "id": "ZRDS0221",
+  "name_ko": "황색예쁜밤나방",
+  "scientific_name": "Hemiglaea costalis (Butler, 1789)",
+  "display_name": "황색예쁜밤나방",
+  "family_ko": "밤나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "밤나방과",
+      "name_latin": "Noctuidae"
+    },
+    "subfamily": {
+      "name_ko": "밤나방아과",
+      "name_latin": "Noctuinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Hemiglaea"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 밤나방과 (Noctuidae)\n아과 : 밤나방아과 (Noctuinae)\n속 : (Hemiglaea)",
+  "basic_information": {
+    "곤충명": "황색예쁜밤나방",
+    "학명": "Hemiglaea costalis (Butler, 1789)"
+  },
+  "information": {
+    "general_description": "날개편 길이 15～16mm. 앞날개는 흑갈색 바탕인데 전연부에는 넓게 황색을 띤다. 뒷날개는 회황색을 띠고 뚜렷한 횡맥 무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 10월경에 출현된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 15～16mm. 앞날개는 흑갈색 바탕인데 전연부에는 넓게 황색을 띤다. 뒷날개는 회황색을 띠고 뚜렷한 횡맥 무늬가 있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 10월경에 출현된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0221-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0221_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0221_2_th.jpg",
+      "alt": "황색예쁜밤나방 1번째 사진 : 황색예쁜밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0221_2_th2.jpg",
+      "caption": "황색예쁜밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDS0221-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0221_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0221_1_th.jpg",
+      "alt": "황색예쁜밤나방 2번째 사진 : 황색예쁜밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0221_1_th2.jpg",
+      "caption": "황색예쁜밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0221-1",
+  "specimen_examples": [
+    {
+      "id": "KNUE0208211012",
+      "description": "[KNUE0208211012] 황색예쁜밤나방 1989.10.27 / / 강원대학교"
+    },
+    {
+      "id": "KNUE0208211013",
+      "description": "[KNUE0208211013] 황색예쁜밤나방 1989.10.27 / / 강원대학교"
+    },
+    {
+      "id": "KNAE0112212073",
+      "description": "[KNAE0112212073] 황색예쁜밤나방 1988.10.16 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDS0221-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0221&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:57+00:00",
+    "html_sha256": "af52a3d1ac67a287b0cda5940c390b21425d95fe7c46591e7877ed1c1bb51b08",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

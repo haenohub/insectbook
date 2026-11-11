@@ -1,0 +1,103 @@
+{
+  "id": "ZOCS0019",
+  "name_ko": "루이스방아벌레",
+  "scientific_name": "Tetrigus lewisi Candèze, 1873",
+  "display_name": "루이스방아벌레",
+  "family_ko": "방아벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "방아벌레상과",
+      "name_latin": "Elateroidea"
+    },
+    "family": {
+      "name_ko": "방아벌레과",
+      "name_latin": "Elateridae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Agrypninae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Tetrigus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 방아벌레상과 (Elateroidea)\n과 : 방아벌레과 (Elateridae)\n아과 : (Agrypninae)\n속 : (Tetrigus)",
+  "basic_information": {
+    "곤충명": "루이스방아벌레",
+    "학명": "Tetrigus lewisi Candèze, 1873"
+  },
+  "information": {
+    "general_description": "한국, 일본, 대만, 중국에 분포하며, 체장은 21-33mm 정도이다. 머리는 점각을 밀포하고 앞부분에 가로 융기선이 있고 촉각은 황적갈색이고 제1마디는 짙은색이고 제2,3마디는 짧고 작다. 딱지날개는 점각이 있는 종구가 있는데 간실은 기부에서 과립 모양으로 점각되었다. 몸아랫면은 점각과 황갈색 털이 있고 점각은 뒷가슴판에서는 강한 가로 주름 모양으로 되었다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 대만, 중국에 분포하며, 체장은 21-33mm 정도이다. 머리는 점각을 밀포하고 앞부분에 가로 융기선이 있고 촉각은 황적갈색이고 제1마디는 짙은색이고 제2,3마디는 짧고 작다. 딱지날개는 점각이 있는 종구가 있는데 간실은 기부에서 과립 모양으로 점각되었다. 몸아랫면은 점각과 황갈색 털이 있고 점각은 뒷가슴판에서는 강한 가로 주름 모양으로 되었다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCS0019-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCS0019_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCS0019_1_th.jpg",
+      "alt": "루이스방아벌레 1번째 사진 : 루이스방아벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCS0019_1_th2.jpg",
+      "caption": "루이스방아벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCS0019-1",
+  "specimen_examples": [
+    {
+      "id": "JFNE0303141025",
+      "description": "[JFNE0303141025] 루이스방아벌레 1993.07.25 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0303141026",
+      "description": "[JFNE0303141026] 루이스방아벌레 1993.07.26 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0303141028",
+      "description": "[JFNE0303141028] 루이스방아벌레 1993.07.28 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOCS0019-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCS0019&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:37+00:00",
+    "html_sha256": "77c7aa95be4e8e92cee029c73a5d42092053da31c345d3c5e053462e4a785704",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

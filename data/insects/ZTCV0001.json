@@ -1,0 +1,114 @@
+{
+  "id": "ZTCV0001",
+  "name_ko": "별대모벌",
+  "scientific_name": "Anoplius (Anoplius) eous Yasumatsu, 1936",
+  "display_name": "별대모벌",
+  "family_ko": "대모벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "말벌상과",
+      "name_latin": "Vespoidea"
+    },
+    "family": {
+      "name_ko": "대모벌과",
+      "name_latin": "Pompilidae"
+    },
+    "subfamily": {
+      "name_ko": "대모벌아과",
+      "name_latin": "Pompilinae"
+    },
+    "genus": {
+      "name_ko": "별대모벌속",
+      "name_latin": "Anoplius"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 말벌상과 (Vespoidea)\n과 : 대모벌과 (Pompilidae)\n아과 : 대모벌아과 (Pompilinae)\n속 : 별대모벌속 (Anoplius)",
+  "basic_information": {
+    "곤충명": "별대모벌",
+    "학명": "Anoplius (Anoplius) eous Yasumatsu, 1936"
+  },
+  "information": {
+    "general_description": "몸은 흑색이고 머리. 가슴과 제 2~4배마디등판의 기부에는 회백색 미모가 나서 무늬 또는 띠 모양 무늬를 나타낸다. 그러나 수컷에서는 뚜렷하지 않다. 날개는 기부 1/3을 제외하고는 암색이고 암컷의 제 6배마디등판에는 센털이 밀생했다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸은 흑색이고 머리. 가슴과 제 2~4배마디등판의 기부에는 회백색 미모가 나서 무늬 또는 띠 모양 무늬를 나타낸다. 그러나 수컷에서는 뚜렷하지 않다. 날개는 기부 1/3을 제외하고는 암색이고 암컷의 제 6배마디등판에는 센털이 밀생했다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTCV0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTCV0001_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTCV0001_2_th.jpg",
+      "alt": "별대모벌 1번째 사진 : 별대모벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTCV0001_2_th2.jpg",
+      "caption": "별대모벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTCV0001-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTCV0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTCV0001_1_th.jpg",
+      "alt": "별대모벌 2번째 사진 : 별대모벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTCV0001_1_th2.jpg",
+      "caption": "별대모벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTCV0001-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306261059",
+      "description": "[YNUE0306261059] 별대모벌 1990.07.20 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306261056",
+      "description": "[YNUE0306261056] 별대모벌 1974.05.06 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306261057",
+      "description": "[YNUE0306261057] 별대모벌 1989.07.03 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTCV0001-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTCV0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:59+00:00",
+    "html_sha256": "5569bd7ac3507a73c69d2548484c8f12a60860a063d4914e4c43d1f404495b3e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

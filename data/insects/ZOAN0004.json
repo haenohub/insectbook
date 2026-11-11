@@ -1,0 +1,107 @@
+{
+  "id": "ZOAN0004",
+  "name_ko": "고려똥풍뎅이",
+  "scientific_name": "Aphodius (Acrossus) koreanensis Kim, 1986",
+  "display_name": "고려똥풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "똥풍뎅이아과",
+      "name_latin": "Aphodiinae"
+    },
+    "genus": {
+      "name_ko": "똥풍뎅이속",
+      "name_latin": "Aphodius"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 똥풍뎅이아과 (Aphodiinae)\n속 : 똥풍뎅이속 (Aphodius)",
+  "basic_information": {
+    "곤충명": "고려똥풍뎅이",
+    "학명": "Aphodius (Acrossus) koreanensis Kim, 1986"
+  },
+  "information": {
+    "general_description": "한국에 분포하며 소형으로 적갈색이나 두정, 전흉배판 기부, 날개 봉합선은 보다 짙고, 몸은 높고 점각이 강하며, 전흉배판 측연테는 넓지 않다. 소순판의 앞쪽은 거의 평행형이며, 중,후경절단극모의 길이는 3종류이고, 제1후부절은 다음 3마디의 합과 같은 길이이며, 경절상거보다 짧다. BL:6~6.5mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[한국고유종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국에 분포하며 소형으로 적갈색이나 두정, 전흉배판 기부, 날개 봉합선은 보다 짙고, 몸은 높고 점각이 강하며, 전흉배판 측연테는 넓지 않다. 소순판의 앞쪽은 거의 평행형이며, 중,후경절단극모의 길이는 3종류이고, 제1후부절은 다음 3마디의 합과 같은 길이이며, 경절상거보다 짧다. BL:6~6.5mm."
+    },
+    {
+      "title": "특기사항",
+      "text": "[한국고유종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAN0004-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAN0004_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAN0004_1_th.jpg",
+      "alt": "고려똥풍뎅이 1번째 사진 : 고려똥풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAN0004_1_th2.jpg",
+      "caption": "고려똥풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAN0004-1",
+  "specimen_examples": [
+    {
+      "id": "SSUE0302241035",
+      "description": "[SSUE0302241035] 고려똥풍뎅이 1986.07.24 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0302241036",
+      "description": "[SSUE0302241036] 고려똥풍뎅이 1990.06.13 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0302241037",
+      "description": "[SSUE0302241037] 고려똥풍뎅이 1986.07.24 / / 성신여자대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOAN0004.png",
+    "reference_image_id": "ZOAN0004-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T12:23:47.487740+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "5195978dc3bc93c303b0add436f889afca8325bd300107472266c21245115bed"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAN0004&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:44+00:00",
+    "html_sha256": "db065cf62205d516946fa4ad75413ad1c6a561bc3ea215ac36fb814c6254fbb9",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

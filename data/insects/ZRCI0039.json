@@ -1,0 +1,118 @@
+{
+  "id": "ZRCI0039",
+  "name_ko": "흰줄큰푸른자나방",
+  "scientific_name": "Geometra valida Felder & Rogenhofer, 1875",
+  "display_name": "흰줄큰푸른자나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "푸른자나방아과",
+      "name_latin": "Geometrinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Geometra"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 푸른자나방아과 (Geometrinae)\n속 : (Geometra)",
+  "basic_information": {
+    "곤충명": "흰줄큰푸른자나방",
+    "학명": "Geometra valida Felder & Rogenhofer, 1875"
+  },
+  "information": {
+    "general_description": "몸과 날개는 모두 녹색이고, 이마, 몸의 복면, 다리는 백색이다. 아랫입술수염은 암갈색이고, 앞가슴다리에는 암갈색 무늬가 있다. 앞․뒷날개는 모두 외연이 물결 모양이고, 뒷날개는 제3중맥(M3)부분이 돌출한다. 앞날개의 내횡선은 백색으로 바깥쪽이 가늘게 암록색으로 테지어 있다. 횡맥상에는 암록색의 짧은 선이 1개 있다. 앞․뒷날개 모두 백색의 외횡선이 있고 ,그 안쪽은 가늘게 암록색을 띤다. 아외연선은 백색으로 아주 가늘고 물결 모양으로 굴곡한다. 연모는 백색이다. 뒷면은 색깔이 연하고, 앞날개에 내횡선이 없다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸과 날개는 모두 녹색이고, 이마, 몸의 복면, 다리는 백색이다. 아랫입술수염은 암갈색이고, 앞가슴다리에는 암갈색 무늬가 있다. 앞․뒷날개는 모두 외연이 물결 모양이고, 뒷날개는 제3중맥(M3)부분이 돌출한다. 앞날개의 내횡선은 백색으로 바깥쪽이 가늘게 암록색으로 테지어 있다. 횡맥상에는 암록색의 짧은 선이 1개 있다. 앞․뒷날개 모두 백색의 외횡선이 있고 ,그 안쪽은 가늘게 암록색을 띤다. 아외연선은 백색으로 아주 가늘고 물결 모양으로 굴곡한다. 연모는 백색이다. 뒷면은 색깔이 연하고, 앞날개에 내횡선이 없다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0039-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0039_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0039_2_th.jpg",
+      "alt": "흰줄큰푸른자나방 1번째 사진 : 흰줄큰푸른자나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0039_2_th2.jpg",
+      "caption": "흰줄큰푸른자나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0039-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0039_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0039_1_th.jpg",
+      "alt": "흰줄큰푸른자나방 2번째 사진 : 흰줄큰푸른자나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0039_1_th2.jpg",
+      "caption": "흰줄큰푸른자나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0039-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0305091069",
+      "description": "[FRIE0305091069] 흰줄큰푸른자나방 1985.07.03 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0305091070",
+      "description": "[FRIE0305091070] 흰줄큰푸른자나방 1984.06.20 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0305091071",
+      "description": "[FRIE0305091071] 흰줄큰푸른자나방 1984.06.24 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCI0039-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0039&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:55+00:00",
+    "html_sha256": "ed91eab7d07b8c91793c609233b95f1dd49cf05d992ee1ccce4759c687fdcd5c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

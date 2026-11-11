@@ -1,0 +1,118 @@
+{
+  "id": "ZOBL0292",
+  "name_ko": "무늬박이긴하늘소",
+  "scientific_name": "Saperda (Lopezcolonia) interrupta Gebler, 1825",
+  "display_name": "무늬박이긴하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "목하늘소아과",
+      "name_latin": "Lamiinae"
+    },
+    "genus": {
+      "name_ko": "긴하늘소속",
+      "name_latin": "Saperda"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 목하늘소아과 (Lamiinae)\n속 : 긴하늘소속 (Saperda)",
+  "basic_information": {
+    "곤충명": "무늬박이긴하늘소",
+    "학명": "Saperda (Lopezcolonia) interrupta Gebler, 1825"
+  },
+  "information": {
+    "general_description": "몸길이는 9~12mm 수컷의 색깔은 흑청색이고 암컷은 회록색이며 등판의 무늬는 네개이다. 딱지날개는 네쌍인데 둥글고 매우 커서 날개의 옆쪽을 모두 차지한다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 9~12mm 수컷의 색깔은 흑청색이고 암컷은 회록색이며 등판의 무늬는 네개이다. 딱지날개는 네쌍인데 둥글고 매우 커서 날개의 옆쪽을 모두 차지한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0292-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0292_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0292_1_th.jpg",
+      "alt": "무늬박이긴하늘소 1번째 사진 : 무늬박이긴하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0292_1_th2.jpg",
+      "caption": "무늬박이긴하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0292-1",
+  "specimen_examples": [
+    {
+      "id": "CBNE0204301002",
+      "description": "[CBNE0204301002] 무늬박이긴하늘소 2001.06.19 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0204301003",
+      "description": "[CBNE0204301003] 무늬박이긴하늘소 2001.06.20 / / 충북대학교"
+    },
+    {
+      "id": "GSNE0609192827",
+      "description": "[GSNE0609192827] 무늬박이긴하늘소 2000.05.30 / / 경상대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "분비나무",
+      "scientific_name": "Abies nephrolepis (Trautv. ex Maxim.) Maxim."
+    },
+    {
+      "group": "식물",
+      "name_ko": "울릉솔송나무",
+      "scientific_name": "Tsuga ulleungensis G.P.Holman, Del Tredici, Havill, N.S.Lee & C.S.Campb."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0292-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0292&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:28+00:00",
+    "html_sha256": "c9822468c6a0ab2bba8e1918cd46ff9c8ff0e53455770663ba24ae26de2fac7a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

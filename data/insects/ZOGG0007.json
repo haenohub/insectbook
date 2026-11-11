@@ -1,0 +1,198 @@
+{
+  "id": "ZOGG0007",
+  "name_ko": "구리풍뎅이",
+  "scientific_name": "Anomala cuprea Hope, 1839",
+  "display_name": "구리풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "풍뎅이아과",
+      "name_latin": "Rutelinae"
+    },
+    "genus": {
+      "name_ko": "청동풍뎅이속",
+      "name_latin": "Anomala"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 풍뎅이아과 (Rutelinae)\n속 : 청동풍뎅이속 (Anomala)",
+  "basic_information": {
+    "곤충명": "구리풍뎅이",
+    "학명": "Anomala cuprea Hope, 1839"
+  },
+  "information": {
+    "general_description": "전신이 구릿빛 흑색 또는 구릿빛 적색이며, 보다 타원형이다. 전미절판의 강모는 넓게 조밀히다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": "노숙 유충의 몸길이는 35 mm 정도로서 풍뎅이류 가운데에서 대형종이다.",
+    "egg": null,
+    "pupa": null,
+    "ecology": "보통은 연 1회 발생한다. 일본 북해도 지방에서는 2~3년에 1회 발생한다고 한다. 성충은 7~9월에 출현하며 우화 최성기는 8월이다. 부화한 유충은 부식질(腐植質)이나 식물의 잔뿌리를 먹고 2~3령의 노숙 유충기에는 묘포(苗圃)에서 묘목의 뿌리를 먹는다.",
+    "habits": "성충은 밤나무, 참나무류, 포플러류의 잎을 식해하고 유충은 땅 속에서 각종 묘목의 뿌리를 잘라 먹거나 껍질을 갉아 먹어 큰 피해를 준다.",
+    "season": null,
+    "overwintering": "2령~3령 유충으로 월동한다.",
+    "distribution": "[일본]\n[중국] 동북지방\n[러시아] 동시베리아지역",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "전신이 구릿빛 흑색 또는 구릿빛 적색이며, 보다 타원형이다. 전미절판의 강모는 넓게 조밀히다."
+    },
+    {
+      "title": "유충",
+      "text": "노숙 유충의 몸길이는 35 mm 정도로서 풍뎅이류 가운데에서 대형종이다."
+    },
+    {
+      "title": "생태",
+      "text": "보통은 연 1회 발생한다. 일본 북해도 지방에서는 2~3년에 1회 발생한다고 한다. 성충은 7~9월에 출현하며 우화 최성기는 8월이다. 부화한 유충은 부식질(腐植質)이나 식물의 잔뿌리를 먹고 2~3령의 노숙 유충기에는 묘포(苗圃)에서 묘목의 뿌리를 먹는다."
+    },
+    {
+      "title": "습성",
+      "text": "성충은 밤나무, 참나무류, 포플러류의 잎을 식해하고 유충은 땅 속에서 각종 묘목의 뿌리를 잘라 먹거나 껍질을 갉아 먹어 큰 피해를 준다."
+    },
+    {
+      "title": "월동",
+      "text": "2령~3령 유충으로 월동한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국] 동북지방\n[러시아] 동시베리아지역"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGG0007-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0007_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0007_1_th.jpg",
+      "alt": "구리풍뎅이 1번째 사진 : 구리풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0007_1_th2.jpg",
+      "caption": "구리풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGG0007-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0301292079",
+      "description": "[UIBE0301292079] 구리풍뎅이 1995.08.12 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301292080",
+      "description": "[UIBE0301292080] 구리풍뎅이 1986.08.18 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301292081",
+      "description": "[UIBE0301292081] 구리풍뎅이 2000.08.19 / / 인천대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "감나무",
+      "scientific_name": "Diospyros kaki Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "매실나무",
+      "scientific_name": "Prunus mume (Siebold) Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "모란",
+      "scientific_name": "Paeonia × suffruticosa Andrews"
+    },
+    {
+      "group": "식물",
+      "name_ko": "밤나무",
+      "scientific_name": "Castanea crenata Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "배롱나무",
+      "scientific_name": "Lagerstroemia indica L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "복사나무",
+      "scientific_name": "Prunus persica (L.) Batsch"
+    },
+    {
+      "group": "식물",
+      "name_ko": "산돌배",
+      "scientific_name": "Pyrus ussuriensis Maxim. ex Rupr."
+    },
+    {
+      "group": "식물",
+      "name_ko": "삼나무",
+      "scientific_name": "Cryptomeria japonica (Thunb. ex L.f.) D.Don"
+    },
+    {
+      "group": "식물",
+      "name_ko": "일본잎갈나무",
+      "scientific_name": "Larix kaempferi (Lamb.) Carrière"
+    },
+    {
+      "group": "식물",
+      "name_ko": "자귀나무",
+      "scientific_name": "Albizia julibrissin Durazz."
+    },
+    {
+      "group": "식물",
+      "name_ko": "진달래",
+      "scientific_name": "Rhododendron mucronulatum Turcz."
+    },
+    {
+      "group": "식물",
+      "name_ko": "편백",
+      "scientific_name": "Chamaecyparis obtusa (Siebold & Zucc.) Endl."
+    },
+    {
+      "group": "식물",
+      "name_ko": "포도",
+      "scientific_name": "Vitis vinifera L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "해당화",
+      "scientific_name": "Rosa rugosa Thunb."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOGG0007.png",
+    "reference_image_id": "ZOGG0007-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T13:45:44.337984+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "a5105bd3d4b5345ef39436b29c26284bbf83938adbfd79e5f22e72f90935b18b"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGG0007&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:20+00:00",
+    "html_sha256": "cdc6249bf5771017d9a706062adaac1751c2e2d7ffe60f5361891dfda0739198",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

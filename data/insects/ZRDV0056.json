@@ -1,0 +1,152 @@
+{
+  "id": "ZRDV0056",
+  "name_ko": "세줄나비",
+  "scientific_name": "Neptis philyra Ménétriès, 1859",
+  "display_name": "세줄나비",
+  "family_ko": "네발나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "네발나비과",
+      "name_latin": "Nymphalidae"
+    },
+    "subfamily": {
+      "name_ko": "줄나비아과",
+      "name_latin": "Limenitidinae"
+    },
+    "genus": {
+      "name_ko": "세줄나비속",
+      "name_latin": "Neptis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 네발나비과 (Nymphalidae)\n아과 : 줄나비아과 (Limenitidinae)\n속 : 세줄나비속 (Neptis)",
+  "basic_information": {
+    "곤충명": "세줄나비",
+    "학명": "Neptis philyra Ménétriès, 1859"
+  },
+  "information": {
+    "general_description": "앞날개 윗면 기부에서 나온 흰띠가 매끄럽게 잘리는 일 없이 곤봉모양으로 뻗어 있어 다른 세줄나비와 구별된다.",
+    "adult": null,
+    "adult_male": "수컷은 암컷에 비하여 작고 뒷날개 윗면 제7실의 검정색이 연하고 광택이 있어 암컷과 구별된다.",
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "계곡이나 숲 가장자리에 서식하며, 습지에서 물을 먹거나 오물, 썩은 과일 등에서 즙을 빠는 습성이 강하다. 수컷은 나뭇잎 위에 앉아 점유행동을 약하게 나타낸다. 애벌레는 잎자루에 실을 내어 잎이 떨어지지 않게 한 다음 그 잎 의에서 지낸다.",
+    "season": null,
+    "overwintering": "애벌레",
+    "distribution": "[일본]\n[중국]\n[러시아]\n[대만]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "앞날개 윗면 기부에서 나온 흰띠가 매끄럽게 잘리는 일 없이 곤봉모양으로 뻗어 있어 다른 세줄나비와 구별된다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "수컷은 암컷에 비하여 작고 뒷날개 윗면 제7실의 검정색이 연하고 광택이 있어 암컷과 구별된다."
+    },
+    {
+      "title": "습성",
+      "text": "계곡이나 숲 가장자리에 서식하며, 습지에서 물을 먹거나 오물, 썩은 과일 등에서 즙을 빠는 습성이 강하다. 수컷은 나뭇잎 위에 앉아 점유행동을 약하게 나타낸다. 애벌레는 잎자루에 실을 내어 잎이 떨어지지 않게 한 다음 그 잎 의에서 지낸다."
+    },
+    {
+      "title": "월동",
+      "text": "애벌레"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]\n[대만]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDV0056-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0056_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0056_3.jpg",
+      "alt": "세줄나비 1번째 사진 : 세줄나비 수컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0056_3_th2.jpg",
+      "caption": "세줄나비 수컷 이미지",
+      "photographed_at": "20190528",
+      "location": "경기도 포천시 소흘읍 광릉숲",
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRDV0056-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0056_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0056_2_th.jpg",
+      "alt": "세줄나비 2번째 사진 : 세줄나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0056_2_th2.jpg",
+      "caption": "세줄나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDV0056-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0056_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0056_1_th.jpg",
+      "alt": "세줄나비 3번째 사진 : 세줄나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0056_1_th2.jpg",
+      "caption": "세줄나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDV0056-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0306021053",
+      "description": "[FRIE0306021053] 세줄나비 1981.06.16 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0306021054",
+      "description": "[FRIE0306021054] 세줄나비 1989.05.30 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0306021055",
+      "description": "[FRIE0306021055] 세줄나비 1983.06.04 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "고로쇠나무",
+      "scientific_name": "Acer pictum var. mono (Maxim.) Maxim. ex Franch."
+    },
+    {
+      "group": "식물",
+      "name_ko": "단풍나무",
+      "scientific_name": "Acer palmatum Thunb."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDV0056-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDV0056&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:03+00:00",
+    "html_sha256": "333367900ce3c8fa8b8ed5e0994be94ba08f75fd28b545da7a6d50da0c2b0536",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

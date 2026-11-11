@@ -1,0 +1,133 @@
+{
+  "id": "ZRFF0016",
+  "name_ko": "한국잎말이나방",
+  "scientific_name": "Archips subrufana (Snellen, 1883)",
+  "display_name": "한국잎말이나방",
+  "family_ko": "잎말이나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎말이나방상과",
+      "name_latin": "Tortricoidea"
+    },
+    "family": {
+      "name_ko": "잎말이나방과",
+      "name_latin": "Tortricidae"
+    },
+    "subfamily": {
+      "name_ko": "잎말이나방아과",
+      "name_latin": "Tortricinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Archips"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 잎말이나방상과 (Tortricoidea)\n과 : 잎말이나방과 (Tortricidae)\n아과 : 잎말이나방아과 (Tortricinae)\n속 : (Archips)",
+  "basic_information": {
+    "곤충명": "한국잎말이나방",
+    "학명": "Archips subrufana (Snellen, 1883)"
+  },
+  "information": {
+    "general_description": "국내분포 경기도\n국외분포 유럽\n외견상으로는 왕사과잎말이나방과 비슷하나 크기가 작고, 특히 뒷날개의 바탕색이 황백색을 띠므로 전자와 구별된다.\n이 종은 필자에 의해 Archippus coreensis로 발표되었으나, 그 후 라조우스키에 의하여 동의어로 절리된 바 있으므로 이를 따르기로 한다.",
+    "adult": null,
+    "adult_male": "수컷 생식기의 특징으로 알 수 있다. 파악판은 반 달갈 모양이며, 삭쿨루스의 끝돌기가 막대 모양으로 자유롭고 작은 자모가 조밀하게 나 있다. 삽입기는 약간 구부러져 있으며, 아주 강한 뿔 모양 돌기가 가지를 이루고 있다.",
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[유럽]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "국내분포 경기도\n국외분포 유럽\n외견상으로는 왕사과잎말이나방과 비슷하나 크기가 작고, 특히 뒷날개의 바탕색이 황백색을 띠므로 전자와 구별된다.\n이 종은 필자에 의해 Archippus coreensis로 발표되었으나, 그 후 라조우스키에 의하여 동의어로 절리된 바 있으므로 이를 따르기로 한다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "수컷 생식기의 특징으로 알 수 있다. 파악판은 반 달갈 모양이며, 삭쿨루스의 끝돌기가 막대 모양으로 자유롭고 작은 자모가 조밀하게 나 있다. 삽입기는 약간 구부러져 있으며, 아주 강한 뿔 모양 돌기가 가지를 이루고 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[유럽]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRFF0016-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0016_7.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0016_7_th.jpg",
+      "alt": "한국잎말이나방 1번째 사진 : 한국잎말이나방가슴 확대 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0016_7_th2.jpg",
+      "caption": "한국잎말이나방가슴 확대 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRFF0016-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0016_6.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0016_6_th.jpg",
+      "alt": "한국잎말이나방 2번째 사진 : 한국잎말이나방배 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0016_6_th2.jpg",
+      "caption": "한국잎말이나방배 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRFF0016-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0016_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0016_1_th.jpg",
+      "alt": "한국잎말이나방 3번째 사진 : 한국잎말이나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0016_1_th2.jpg",
+      "caption": "한국잎말이나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRFF0016-1",
+  "specimen_examples": [
+    {
+      "id": "ENHE0408261032",
+      "description": "[ENHE0408261032] 한국잎말이나방 1986.06.14 / / 이화여자대학교 자연사박물관"
+    },
+    {
+      "id": "KNUE0408111165",
+      "description": "[KNUE0408111165] 한국잎말이나방 1986.06.14 / / 강원대학교"
+    },
+    {
+      "id": "KNUE0408011098",
+      "description": "[KNUE0408011098] 한국잎말이나방 1989.08.02 / / 강원대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRFF0016-3"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRFF0016&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:04+00:00",
+    "html_sha256": "8e2ca957301e7a4f6dc85bf823dc9e961da5e39789782930cc90f79c34500cf0",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

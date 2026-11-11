@@ -1,0 +1,107 @@
+{
+  "id": "ZRDS0705",
+  "name_ko": "둥근줄수염나방",
+  "scientific_name": "Paracolax tristalis (Fabricius, 1794)",
+  "display_name": "둥근줄수염나방",
+  "family_ko": "태극나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "태극나방과",
+      "name_latin": "Erebidae"
+    },
+    "subfamily": {
+      "name_ko": "줄수염나방아과",
+      "name_latin": "Herminiinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Paracolax"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 태극나방과 (Erebidae)\n아과 : 줄수염나방아과 (Herminiinae)\n속 : (Paracolax)",
+  "basic_information": {
+    "곤충명": "둥근줄수염나방",
+    "학명": "Paracolax tristalis (Fabricius, 1794)"
+  },
+  "information": {
+    "general_description": "수컷의 더듬이는 섬모상인데 각 마디에는 긴 털이 나 있음. 아랫입술수염의 제 2마디는 길며, 제 4마디는 별로 길지 않음. 앞날개는 황갈색 바탕인데 내횡선과 외횡선이 암갈색으로 바깥쪽을 향해 둥그스름하게 굴곡됨. 중실의 끝쪽에는 가늘게‘〈’자 모양의 무늬가 있으나 뚜렷하지 않음．날개도 앞날개와 같은 바탕색으로 암갈색의 중횡선이 있으며 내횡선은 전연부에서만 나타남.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6～8월에 출현.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[튀르키예공화국]\n[중국]\n[일본]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "수컷의 더듬이는 섬모상인데 각 마디에는 긴 털이 나 있음. 아랫입술수염의 제 2마디는 길며, 제 4마디는 별로 길지 않음. 앞날개는 황갈색 바탕인데 내횡선과 외횡선이 암갈색으로 바깥쪽을 향해 둥그스름하게 굴곡됨. 중실의 끝쪽에는 가늘게‘〈’자 모양의 무늬가 있으나 뚜렷하지 않음．날개도 앞날개와 같은 바탕색으로 암갈색의 중횡선이 있으며 내횡선은 전연부에서만 나타남."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6～8월에 출현."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[튀르키예공화국]\n[중국]\n[일본]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0705-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0705_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0705_1_th.jpg",
+      "alt": "둥근줄수염나방 1번째 사진 : 둥근줄수염나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0705_1_th2.jpg",
+      "caption": "둥근줄수염나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0705-1",
+  "specimen_examples": [
+    {
+      "id": "KNUE0212201875",
+      "description": "[KNUE0212201875] 둥근줄수염나방 1988.07.22 / / 강원대학교"
+    },
+    {
+      "id": "KNUE0212201876",
+      "description": "[KNUE0212201876] 둥근줄수염나방 1973.06.25 / / 강원대학교"
+    },
+    {
+      "id": "KNUE0212201865",
+      "description": "[KNUE0212201865] 둥근줄수염나방 1991.08.01 / / 강원대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDS0705-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0705&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:55+00:00",
+    "html_sha256": "efd3836315d5ecb8dffc4a0363ad0266ad949245b89ef1a40a474fa6d2a51458",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

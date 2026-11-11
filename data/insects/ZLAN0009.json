@@ -1,0 +1,124 @@
+{
+  "id": "ZLAN0009",
+  "name_ko": "시골가시허리노린재",
+  "scientific_name": "Cletus punctiger (Dallas, 1852)",
+  "display_name": "시골가시허리노린재",
+  "family_ko": "허리노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "허리노린재상과",
+      "name_latin": "Coreoidea"
+    },
+    "family": {
+      "name_ko": "허리노린재과",
+      "name_latin": "Coreidae"
+    },
+    "subfamily": {
+      "name_ko": "허리노린재아과",
+      "name_latin": "Coreinae"
+    },
+    "genus": {
+      "name_ko": "가시허리노린재족",
+      "name_latin": "Cletus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 허리노린재상과 (Coreoidea)\n과 : 허리노린재과 (Coreidae)\n아과 : 허리노린재아과 (Coreinae)\n속 : 가시허리노린재족 (Cletus)",
+  "basic_information": {
+    "곤충명": "시골가시허리노린재",
+    "학명": "Cletus punctiger (Dallas, 1852)"
+  },
+  "information": {
+    "general_description": "몸길이 : 11-12mm\n몸은 진한 색이고 몸 길이에 대한 폭의 비율이 크며 더 투박해보인다. 몸의 등면은 암갈색이고, 흑색의 점각이 산포되어 있다. 정수리에는 점각이 많아 암색으로 보이고 점각의 배치로써 손바닥 모양 비슷한 얼룩 무늬를 나타낸다. 더듬이는 4마디이고 적갈색이다. 제 1마디와 제 4마디는 같은 정도로 굵고, 제 2마디와 제 3마디는 원통모양이며 가늘다. 제 4마디는 곤봉 모양이고 현저히 암색이다. 앞가슴등판의 앞옆가장자리는 만입하고 연한 색이며 정중선 위에 연한 색의 선이 있다. 옆모서리는 흑색이고 예리한 침모양이며, 그 뒷가장자리는 약간 톱니 모양이다. 배의 결합판의 바깥쪽 반은 오황색이고, 안쪽반은 흑색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 11-12mm\n몸은 진한 색이고 몸 길이에 대한 폭의 비율이 크며 더 투박해보인다. 몸의 등면은 암갈색이고, 흑색의 점각이 산포되어 있다. 정수리에는 점각이 많아 암색으로 보이고 점각의 배치로써 손바닥 모양 비슷한 얼룩 무늬를 나타낸다. 더듬이는 4마디이고 적갈색이다. 제 1마디와 제 4마디는 같은 정도로 굵고, 제 2마디와 제 3마디는 원통모양이며 가늘다. 제 4마디는 곤봉 모양이고 현저히 암색이다. 앞가슴등판의 앞옆가장자리는 만입하고 연한 색이며 정중선 위에 연한 색의 선이 있다. 옆모서리는 흑색이고 예리한 침모양이며, 그 뒷가장자리는 약간 톱니 모양이다. 배의 결합판의 바깥쪽 반은 오황색이고, 안쪽반은 흑색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLAN0009-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0009_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0009_2_th.jpg",
+      "alt": "시골가시허리노린재 1번째 사진 : 시골가시허리노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0009_2_th2.jpg",
+      "caption": "시골가시허리노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZLAN0009-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0009_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0009_1_th.jpg",
+      "alt": "시골가시허리노린재 2번째 사진 : 시골가시허리노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0009_1_th2.jpg",
+      "caption": "시골가시허리노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLAN0009-1",
+  "specimen_examples": [
+    {
+      "id": "GSNE0408202136",
+      "description": "[GSNE0408202136] 시골가시허리노린재 1999.07.20 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0408202137",
+      "description": "[GSNE0408202137] 시골가시허리노린재 1999.07.24 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0408202138",
+      "description": "[GSNE0408202138] 시골가시허리노린재 1999.06.12 / / 경상대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "감나무",
+      "scientific_name": "Diospyros kaki Thunb."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLAN0009-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLAN0009&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:45+00:00",
+    "html_sha256": "2b0a7d62e7f13458c415bbc617a8f75e7f0bc403666fa01d8e880453b8f27a28",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

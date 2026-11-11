@@ -1,0 +1,128 @@
+{
+  "id": "ZLBX0004",
+  "name_ko": "왕주둥이노린재",
+  "scientific_name": "Dinorhynchus dybowskyi Jakovlev, 1876",
+  "display_name": "왕주둥이노린재",
+  "family_ko": "노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "노린재상과",
+      "name_latin": "Pentatomoidea"
+    },
+    "family": {
+      "name_ko": "노린재과",
+      "name_latin": "Pentatomidae"
+    },
+    "subfamily": {
+      "name_ko": "주둥이노린재아과",
+      "name_latin": "Asopinae"
+    },
+    "genus": {
+      "name_ko": "왕주둥이노린재속",
+      "name_latin": "Dinorhynchus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 노린재상과 (Pentatomoidea)\n과 : 노린재과 (Pentatomidae)\n아과 : 주둥이노린재아과 (Asopinae)\n속 : 왕주둥이노린재속 (Dinorhynchus)",
+  "basic_information": {
+    "곤충명": "왕주둥이노린재",
+    "학명": "Dinorhynchus dybowskyi Jakovlev, 1876"
+  },
+  "information": {
+    "general_description": "몸길이 : 18-23mm\n몸은 녹색 또는 갈색을 띠며 금속 광택이 있다. 머리는 폭넓게 앞쪽을 향하여 돌출되고, 그 중엽은 갈색이며, 측엽에 의해서 포위되어 있다. 겹눈은 암갈색이다. 더듬이는 4마디로서 길고 흑갈색이다 앞가슴등판은 뚜렷하게 양 옆으로 돌출되고, 그 옆모서리는 뾰족하고 그 앞가장자리와 앞옆가장자리는 적갈색이고 후자는 톱니 모양이다. 옆모서리 부분은 암색이다. 작은방패판의 선단부는 갈색이다. 막질부는 반투명하고, 암갈색을 띤다. 몸의 아랫면과 다리는 연한 갈색이고, 또 뚜렷한 적갈색을 띠는 개체도 있다. 주둥이는 매우 굵고, 뒷다리의 밑마디 사이에 이른다. 앞다리의 넓적다리마디에는 작은 가시가 없고, 제 3배마디 중앙에 앞쪽을 향한 원뿔 모양의 뾰족하고 날카로운 돌기가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "나비 목의 유충을 포식한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 18-23mm\n몸은 녹색 또는 갈색을 띠며 금속 광택이 있다. 머리는 폭넓게 앞쪽을 향하여 돌출되고, 그 중엽은 갈색이며, 측엽에 의해서 포위되어 있다. 겹눈은 암갈색이다. 더듬이는 4마디로서 길고 흑갈색이다 앞가슴등판은 뚜렷하게 양 옆으로 돌출되고, 그 옆모서리는 뾰족하고 그 앞가장자리와 앞옆가장자리는 적갈색이고 후자는 톱니 모양이다. 옆모서리 부분은 암색이다. 작은방패판의 선단부는 갈색이다. 막질부는 반투명하고, 암갈색을 띤다. 몸의 아랫면과 다리는 연한 갈색이고, 또 뚜렷한 적갈색을 띠는 개체도 있다. 주둥이는 매우 굵고, 뒷다리의 밑마디 사이에 이른다. 앞다리의 넓적다리마디에는 작은 가시가 없고, 제 3배마디 중앙에 앞쪽을 향한 원뿔 모양의 뾰족하고 날카로운 돌기가 있다."
+    },
+    {
+      "title": "생태",
+      "text": "나비 목의 유충을 포식한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLBX0004-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0004_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0004_2_th.jpg",
+      "alt": "왕주둥이노린재 1번째 사진 : 왕주둥이노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0004_2_th2.jpg",
+      "caption": "왕주둥이노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZLBX0004-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0004_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0004_1_th.jpg",
+      "alt": "왕주둥이노린재 2번째 사진 : 왕주둥이노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0004_1_th2.jpg",
+      "caption": "왕주둥이노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLBX0004-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0303191169",
+      "description": "[KPNE0303191169] 왕주둥이노린재 1972.06.25 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0303191171",
+      "description": "[KPNE0303191171] 왕주둥이노린재 1997.06.19 / / 경북대학교"
+    },
+    {
+      "id": "DJUE0406041032",
+      "description": "[DJUE0406041032] 왕주둥이노린재 2001.06.05 / / 대전대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "느티나무",
+      "scientific_name": "Zelkova serrata (Thunb.) Makino"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLBX0004-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLBX0004&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:45+00:00",
+    "html_sha256": "2a7a1c0418d1a20a881c4fdc6e2878a669cc9bfae6b8352a4bef5c623f58c9e4",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

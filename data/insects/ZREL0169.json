@@ -1,0 +1,107 @@
+{
+  "id": "ZREL0169",
+  "name_ko": "줄검은들명나방",
+  "scientific_name": "Tyspanodes hypsalis Warren, 1891",
+  "display_name": "줄검은들명나방",
+  "family_ko": "풀명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "풀명나방과",
+      "name_latin": "Crambidae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Spilomelinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Tyspanodes"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 풀명나방과 (Crambidae)\n아과 : (Spilomelinae)\n속 : (Tyspanodes)",
+  "basic_information": {
+    "곤충명": "줄검은들명나방",
+    "학명": "Tyspanodes hypsalis Warren, 1891"
+  },
+  "information": {
+    "general_description": "날개 길이 27-29 mm. 앞날개는 흑갈색 바탕이며 시맥을 따라 황백색을 나타내고 있다. 앞날개 기부의 중실 앞에 명료한 원형의 흑색 점이 있다. 뒷날개는 흑갈색으로 무늬가 없으며. 후연의 연모는 황백색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대한민국] 경기도\n[대한민국] 서울특별시\n[대한민국] 강원특별자치도\n[대한민국] 경기도\n[대한민국] 전북특별자치도\n[대한민국] 제주특별자치도\n[중국]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개 길이 27-29 mm. 앞날개는 흑갈색 바탕이며 시맥을 따라 황백색을 나타내고 있다. 앞날개 기부의 중실 앞에 명료한 원형의 흑색 점이 있다. 뒷날개는 흑갈색으로 무늬가 없으며. 후연의 연모는 황백색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대한민국] 경기도\n[대한민국] 서울특별시\n[대한민국] 강원특별자치도\n[대한민국] 경기도\n[대한민국] 전북특별자치도\n[대한민국] 제주특별자치도\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0169-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0169_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0169_1_th.jpg",
+      "alt": "줄검은들명나방 1번째 사진 : 줄검은들명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0169_1_th2.jpg",
+      "caption": "줄검은들명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0169-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0407261115",
+      "description": "[UIBE0407261115] 줄검은들명나방 2003.07.19 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0407261112",
+      "description": "[UIBE0407261112] 줄검은들명나방 2003.07.25 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0407261121",
+      "description": "[UIBE0407261121] 줄검은들명나방 2003.07.25 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREL0169-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0169&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:03+00:00",
+    "html_sha256": "3fb5824b1fa2f430bb612b0cad99df7053d0ea25d59e7e23d72b9cd8674f07dd",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

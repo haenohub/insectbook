@@ -1,0 +1,111 @@
+{
+  "id": "ZTBO0001",
+  "name_ko": "왕침개미",
+  "scientific_name": "Brachyponera chinensis (Emery, 1895)",
+  "display_name": "왕침개미",
+  "family_ko": "개미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "말벌상과",
+      "name_latin": "Vespoidea"
+    },
+    "family": {
+      "name_ko": "개미과",
+      "name_latin": "Formicidae"
+    },
+    "subfamily": {
+      "name_ko": "침개미아과",
+      "name_latin": "Ponerinae"
+    },
+    "genus": {
+      "name_ko": "왕침개미속",
+      "name_latin": "Brachyponera"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 말벌상과 (Vespoidea)\n과 : 개미과 (Formicidae)\n아과 : 침개미아과 (Ponerinae)\n속 : 왕침개미속 (Brachyponera)",
+  "basic_information": {
+    "곤충명": "왕침개미",
+    "학명": "Brachyponera chinensis (Emery, 1895)"
+  },
+  "information": {
+    "general_description": "몸길이는 4-4.5mm 정도이며, 흑갈색내지 흑색이고 더듬이는 다소 담색이고 다리 큰턱과 꼬리 끝은 암적갈색이다. 온몸에는 회백색 미세한 털이 많이 났고 갈색의 긴 털이 성기게 났다. 머리, 배자루, 배는 다소 거칠다. 머리는 긴 알 모양이고 뒤쪽으로는거의 곧고 양 옆이 모가 졌고 큰턱은 크고 삼각형이다. 가슴은 가느다랗게 길고 뒷가슴부가 잘록하며 배자루는 비늘모양으로 위쪽으로 솟아 났다. 독침을 가졌다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "꽃파리의 유충을 잡아 먹는다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[뉴질랜드]\n[일본]\n[중국]",
+    "notes": "[감소추세종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 4-4.5mm 정도이며, 흑갈색내지 흑색이고 더듬이는 다소 담색이고 다리 큰턱과 꼬리 끝은 암적갈색이다. 온몸에는 회백색 미세한 털이 많이 났고 갈색의 긴 털이 성기게 났다. 머리, 배자루, 배는 다소 거칠다. 머리는 긴 알 모양이고 뒤쪽으로는거의 곧고 양 옆이 모가 졌고 큰턱은 크고 삼각형이다. 가슴은 가느다랗게 길고 뒷가슴부가 잘록하며 배자루는 비늘모양으로 위쪽으로 솟아 났다. 독침을 가졌다."
+    },
+    {
+      "title": "생태",
+      "text": "꽃파리의 유충을 잡아 먹는다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[뉴질랜드]\n[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[감소추세종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBO0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0001_1_th.jpg",
+      "alt": "왕침개미 1번째 사진 : 왕침개미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0001_1_th2.jpg",
+      "caption": "왕침개미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBO0001-1",
+  "specimen_examples": [
+    {
+      "id": "CBNE0204261045",
+      "description": "[CBNE0204261045] 왕침개미 1990.10.02 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0204261046",
+      "description": "[CBNE0204261046] 왕침개미 1995.07.22 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0204261039",
+      "description": "[CBNE0204261039] 왕침개미 1991.09.12 / / 충북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTBO0001-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBO0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:46+00:00",
+    "html_sha256": "7f55408211870e7c2fa8dd992d8683774fb14d4b78e2940aee8aa3e386ae8aaf",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

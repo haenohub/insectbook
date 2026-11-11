@@ -1,0 +1,107 @@
+{
+  "id": "ZREL0126",
+  "name_ko": "노랑띠들명나방",
+  "scientific_name": "Piletocera luteosignata Park, 1990",
+  "display_name": "노랑띠들명나방",
+  "family_ko": "풀명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "풀명나방과",
+      "name_latin": "Crambidae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Spilomelinae"
+    },
+    "genus": {
+      "name_ko": "노랑띠들명나방속",
+      "name_latin": "Piletocera"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 풀명나방과 (Crambidae)\n아과 : (Spilomelinae)\n속 : 노랑띠들명나방속 (Piletocera)",
+  "basic_information": {
+    "곤충명": "노랑띠들명나방",
+    "학명": "Piletocera luteosignata Park, 1990"
+  },
+  "information": {
+    "general_description": "날개길이는 18-22㎜임. 뒷날개의 기부는 황색이고, 중실에 굵은 황색의 무늬가 존재하며, 외연과 후연이 만나는 지점의 연모는 황색임.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[반출금지종] 환경부고시제2001-210호",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개길이는 18-22㎜임. 뒷날개의 기부는 황색이고, 중실에 굵은 황색의 무늬가 존재하며, 외연과 후연이 만나는 지점의 연모는 황색임."
+    },
+    {
+      "title": "특기사항",
+      "text": "[반출금지종] 환경부고시제2001-210호"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0126-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0126_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0126_1_th.jpg",
+      "alt": "노랑띠들명나방 1번째 사진 : 노랑띠들명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0126_1_th2.jpg",
+      "caption": "노랑띠들명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0126-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0301021109",
+      "description": "[UIBE0301021109] 노랑띠들명나방 2000.06.14 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301021065",
+      "description": "[UIBE0301021065] 노랑띠들명나방 2002.07.04 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301021066",
+      "description": "[UIBE0301021066] 노랑띠들명나방 2002.07.04 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZREL0126.png",
+    "reference_image_id": "ZREL0126-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T11:50:43.856732+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "472af54655fb8b8c881216ff33f993faa4817c20fcc644d7870758742127324b"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0126&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:08+00:00",
+    "html_sha256": "d599ec01843e0008218d80d3031f00b4283bcce03b4691d21aada647ecb96838",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

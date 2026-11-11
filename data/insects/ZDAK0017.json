@@ -1,0 +1,110 @@
+{
+  "id": "ZDAK0017",
+  "name_ko": "어리장수잠자리",
+  "scientific_name": "Sieboldius albardae Selys, 1886",
+  "display_name": "어리장수잠자리",
+  "family_ko": "측범잠자리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "잠자리목",
+      "name_latin": "Odonata"
+    },
+    "family": {
+      "name_ko": "측범잠자리과",
+      "name_latin": "Gomphidae"
+    },
+    "subfamily": {
+      "name_ko": "장수측범잠자리아과",
+      "name_latin": "Hageniinae"
+    },
+    "genus": {
+      "name_ko": "어리장수잠자리속",
+      "name_latin": "Sieboldius"
+    }
+  },
+  "taxonomy_text": "목 : 잠자리목 (Odonata)\n과 : 측범잠자리과 (Gomphidae)\n아과 : 장수측범잠자리아과 (Hageniinae)\n속 : 어리장수잠자리속 (Sieboldius)",
+  "basic_information": {
+    "곤충명": "어리장수잠자리",
+    "학명": "Sieboldius albardae Selys, 1886"
+  },
+  "information": {
+    "general_description": "배길이 63mm, 뒷날개길이 50~53mm. 뒷날개길이 머리, 얼굴, 뒷머리는 흑색. 좌우겹눈은 멀리 떨어짐. 이마흑, 이마조각, 윗입술조각, 윗입술, 아랫입술, 가슴은 흑색. 이마 위는 황록색, 턱 밑은 흑색. 가운데가슴 앞면중앙에 녹황색 줄무늬. 가슴 옆에는 녹황색 띠 3개. 배는 흑색이고 1~2마디 등위 중앙에 녹황색 무늬가 있고 각 마디의 앞가두리에 녹황색 무늬가 1쌍 존재. 미부 상부기는 흑색이며 짧음. 앞 끝은 가늘어져서 안쪽으로 향함. 날개는 투명하고 날개맥은 흑갈색이며 가두리 무늬는 적갈색임.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "배길이 63mm, 뒷날개길이 50~53mm. 뒷날개길이 머리, 얼굴, 뒷머리는 흑색. 좌우겹눈은 멀리 떨어짐. 이마흑, 이마조각, 윗입술조각, 윗입술, 아랫입술, 가슴은 흑색. 이마 위는 황록색, 턱 밑은 흑색. 가운데가슴 앞면중앙에 녹황색 줄무늬. 가슴 옆에는 녹황색 띠 3개. 배는 흑색이고 1~2마디 등위 중앙에 녹황색 무늬가 있고 각 마디의 앞가두리에 녹황색 무늬가 1쌍 존재. 미부 상부기는 흑색이며 짧음. 앞 끝은 가늘어져서 안쪽으로 향함. 날개는 투명하고 날개맥은 흑갈색이며 가두리 무늬는 적갈색임."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZDAK0017-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAK0017_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAK0017_2_th.jpg",
+      "alt": "어리장수잠자리 1번째 사진 : 어리장수잠자리전체 옆면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAK0017_2_th2.jpg",
+      "caption": "어리장수잠자리전체 옆면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZDAK0017-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAK0017_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAK0017_1_th.jpg",
+      "alt": "어리장수잠자리 2번째 사진 : 어리장수잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAK0017_1_th2.jpg",
+      "caption": "어리장수잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZDAK0017-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0301221004",
+      "description": "[KNAE0301221004] 어리장수잠자리 1994.06.22 / / 국립수목원"
+    },
+    {
+      "id": "CBNE0203151025",
+      "description": "[CBNE0203151025] 어리장수잠자리 1996.05.29 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0203151026",
+      "description": "[CBNE0203151026] 어리장수잠자리 1994.07.13 / / 충북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZDAK0017-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZDAK0017&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:43+00:00",
+    "html_sha256": "85b74014d4f60211e5d679ac84ecf82dcec047ce9f16226e80a95f0f15a68767",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

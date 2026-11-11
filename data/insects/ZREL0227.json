@@ -1,0 +1,114 @@
+{
+  "id": "ZREL0227",
+  "name_ko": "빗수염줄명나방",
+  "scientific_name": "Sacada approximans Leech, 1888",
+  "display_name": "빗수염줄명나방",
+  "family_ko": "명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "명나방과",
+      "name_latin": "Pyralidae"
+    },
+    "subfamily": {
+      "name_ko": "비단명나방아과",
+      "name_latin": "Pyralinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Sacada"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 명나방과 (Pyralidae)\n아과 : 비단명나방아과 (Pyralinae)\n속 : (Sacada)",
+  "basic_information": {
+    "곤충명": "빗수염줄명나방",
+    "학명": "Sacada approximans Leech, 1888"
+  },
+  "information": {
+    "general_description": "국외에는 일본에 분포하며 머리는 백색에 흑갈색 인편이 섞여 있다. 더듬이는 흑색에 약간의 다갈색 인편이 섞여 있으며 병절에는 앞쪽으로 털다발이 있고, 수컷은 빗살 모양이다. 아랫입술 수염은 짧고 앞으로 뻗어 있으며, 제 2마디의 끝은 다소 팽대되어 삼각향 모양을 이루고 제3마디는 거의 보이지 않는다. 가슴의 등면은 갈색이고 약간의 흑색 인편이 섞여 있다. 앞날개의 무늬는 앞의 종에 비해 반대로 내횡선과 외횡선 사이 부분이 농색을 띠고 있으며 양 횡선이 전연에서는 각각 1/3과 2/3에서 시작되나 후연에서는 아주 가까워져서 사이가 좁아지고 있다. 뒷날개의 색깔은 농다갈색으로 앞알개보다 전체적으로 암색을 띠고 있다. 앞,뒷날개의 제 2중맥과 제 3중맥은 아주 근접하고 있으나 같은 자루를 이루지는 않는다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "국외에는 일본에 분포하며 머리는 백색에 흑갈색 인편이 섞여 있다. 더듬이는 흑색에 약간의 다갈색 인편이 섞여 있으며 병절에는 앞쪽으로 털다발이 있고, 수컷은 빗살 모양이다. 아랫입술 수염은 짧고 앞으로 뻗어 있으며, 제 2마디의 끝은 다소 팽대되어 삼각향 모양을 이루고 제3마디는 거의 보이지 않는다. 가슴의 등면은 갈색이고 약간의 흑색 인편이 섞여 있다. 앞날개의 무늬는 앞의 종에 비해 반대로 내횡선과 외횡선 사이 부분이 농색을 띠고 있으며 양 횡선이 전연에서는 각각 1/3과 2/3에서 시작되나 후연에서는 아주 가까워져서 사이가 좁아지고 있다. 뒷날개의 색깔은 농다갈색으로 앞알개보다 전체적으로 암색을 띠고 있다. 앞,뒷날개의 제 2중맥과 제 3중맥은 아주 근접하고 있으나 같은 자루를 이루지는 않는다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0227-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0227_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0227_2_th.jpg",
+      "alt": "빗수염줄명나방 1번째 사진 : 빗수염줄명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0227_2_th2.jpg",
+      "caption": "빗수염줄명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREL0227-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0227_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0227_1_th.jpg",
+      "alt": "빗수염줄명나방 2번째 사진 : 빗수염줄명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0227_1_th2.jpg",
+      "caption": "빗수염줄명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0227-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0305021054",
+      "description": "[FRIE0305021054] 빗수염줄명나방 1986.08.09 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0302181030",
+      "description": "[FRIE0302181030] 빗수염줄명나방 1998.07.08 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0302062033",
+      "description": "[KNAE0302062033] 빗수염줄명나방 1988.07.21 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREL0227-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0227&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:01+00:00",
+    "html_sha256": "5939d5333a408633f99f6f3be3131db04fc7c1ab2b3dd876f63b6c3d315d5dbe",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

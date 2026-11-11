@@ -1,0 +1,99 @@
+{
+  "id": "ZOGG0001",
+  "name_ko": "장수붙이풍뎅이",
+  "scientific_name": "Parastasia ferrieri Nonfried, 1895",
+  "display_name": "장수붙이풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "풍뎅이아과",
+      "name_latin": "Rutelinae"
+    },
+    "genus": {
+      "name_ko": "장수붙이풍뎅이속",
+      "name_latin": "Parastasia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 풍뎅이아과 (Rutelinae)\n속 : 장수붙이풍뎅이속 (Parastasia)",
+  "basic_information": {
+    "곤충명": "장수붙이풍뎅이",
+    "학명": "Parastasia ferrieri Nonfried, 1895"
+  },
+  "information": {
+    "general_description": "짧고 두꺼운 공모양이며, 등쪽은 흑색 내지 적갈색, 배쪽은 보다 엷은색인데, 옴 몸이 긴 황갈색 직립모로 덮였고, 광택이 있다. 머리방패의 전연은 직선형인데 앞면이 넓고 위쪽으로 4개의 이빨처럼 돌출하였고, 옆쪽에도 2개의 뾰족한 돌기가 있으며, 양옆은 평행형인데 봉합선 근처에도 2개의 뾰족한 돌기가 있으며, 점각은 복잡하고 다양하다. 앞가슴등판은 앞쪽이 약간 높고 중앙 근처가 약간 돌출하였다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "짧고 두꺼운 공모양이며, 등쪽은 흑색 내지 적갈색, 배쪽은 보다 엷은색인데, 옴 몸이 긴 황갈색 직립모로 덮였고, 광택이 있다. 머리방패의 전연은 직선형인데 앞면이 넓고 위쪽으로 4개의 이빨처럼 돌출하였고, 옆쪽에도 2개의 뾰족한 돌기가 있으며, 양옆은 평행형인데 봉합선 근처에도 2개의 뾰족한 돌기가 있으며, 점각은 복잡하고 다양하다. 앞가슴등판은 앞쪽이 약간 높고 중앙 근처가 약간 돌출하였다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGG0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0001_1_th.jpg",
+      "alt": "장수붙이풍뎅이 1번째 사진 : 장수붙이풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0001_1_th2.jpg",
+      "caption": "장수붙이풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGG0001-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304092003",
+      "description": "[KNAE0304092003] 장수붙이풍뎅이 1993.08.05 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304092004",
+      "description": "[KNAE0304092004] 장수붙이풍뎅이 1995.08.25 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304092006",
+      "description": "[KNAE0304092006] 장수붙이풍뎅이 1991.07.30 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGG0001-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGG0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:07+00:00",
+    "html_sha256": "0aa3a1ecb2c8b3e576990c8a2225fac369946ff203b13ab888d59cf01c852fd9",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

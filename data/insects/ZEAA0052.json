@@ -1,0 +1,110 @@
+{
+  "id": "ZEAA0052",
+  "name_ko": "풀무치",
+  "scientific_name": "Locusta migratoria migratoria Linnaeus, 1758",
+  "display_name": "풀무치",
+  "family_ko": "메뚜기과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "메뚜기목",
+      "name_latin": "Orthoptera"
+    },
+    "family": {
+      "name_ko": "메뚜기과",
+      "name_latin": "Acrididae"
+    },
+    "subfamily": {
+      "name_ko": "풀무치아과",
+      "name_latin": "Oedipodinae"
+    },
+    "genus": {
+      "name_ko": "풀무치속",
+      "name_latin": "Locusta"
+    }
+  },
+  "taxonomy_text": "목 : 메뚜기목 (Orthoptera)\n과 : 메뚜기과 (Acrididae)\n아과 : 풀무치아과 (Oedipodinae)\n속 : 풀무치속 (Locusta)",
+  "basic_information": {
+    "곤충명": "풀무치",
+    "학명": "Locusta migratoria migratoria Linnaeus, 1758"
+  },
+  "information": {
+    "general_description": "몸길이 48~65 mm이다. 콩중이와 비슷하나 구별점은 다음과 같다: 1. 앞가슴의 중앙종융기선은 뚜렷하지 않고 중앙에서 명백히 횡구로 절단되었다. 2. 앞가슴은 어깨에서 뚜렷이 모가 났고 뒷쪽으로 심하게 퍼졌다. 3. 앞날개는 가늘고 길며 옅은 색이고 무늬는 불규칙하고 볼기부는 녹색인 것이 없다. 4. 뒷날개에 흑갈색의 중앙대가 없다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 48~65 mm이다. 콩중이와 비슷하나 구별점은 다음과 같다: 1. 앞가슴의 중앙종융기선은 뚜렷하지 않고 중앙에서 명백히 횡구로 절단되었다. 2. 앞가슴은 어깨에서 뚜렷이 모가 났고 뒷쪽으로 심하게 퍼졌다. 3. 앞날개는 가늘고 길며 옅은 색이고 무늬는 불규칙하고 볼기부는 녹색인 것이 없다. 4. 뒷날개에 흑갈색의 중앙대가 없다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZEAA0052-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0052_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0052_2_th.jpg",
+      "alt": "풀무치 1번째 사진 : 풀무치전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0052_2_th2.jpg",
+      "caption": "풀무치전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZEAA0052-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0052_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0052_1_th.jpg",
+      "alt": "풀무치 2번째 사진 : 풀무치전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0052_1_th2.jpg",
+      "caption": "풀무치전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZEAA0052-1",
+  "specimen_examples": [
+    {
+      "id": "CBNE0301201001",
+      "description": "[CBNE0301201001] 풀무치 2002.09.14 / / 충북대학교"
+    },
+    {
+      "id": "SCNE0301211025",
+      "description": "[SCNE0301211025] 풀무치 1988.10.16 / / 순천대학교"
+    },
+    {
+      "id": "SCNE0301211027",
+      "description": "[SCNE0301211027] 풀무치 1987.10.16 / / 순천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZEAA0052-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZEAA0052&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:51+00:00",
+    "html_sha256": "c693eeec58f633c4d5060fa13054c4817391baf062111a98a4dcb320d6b35293",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

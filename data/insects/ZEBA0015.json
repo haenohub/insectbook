@@ -1,0 +1,99 @@
+{
+  "id": "ZEBA0015",
+  "name_ko": "애매부리",
+  "scientific_name": "Ruspolia dubia (Redtenbacher, 1891)",
+  "display_name": "애매부리",
+  "family_ko": "여치과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "메뚜기목",
+      "name_latin": "Orthoptera"
+    },
+    "family": {
+      "name_ko": "여치과",
+      "name_latin": "Tettigoniidae"
+    },
+    "subfamily": {
+      "name_ko": "쌕쌔기아과",
+      "name_latin": "Conocephalinae"
+    },
+    "genus": {
+      "name_ko": "매부리속",
+      "name_latin": "Ruspolia"
+    }
+  },
+  "taxonomy_text": "목 : 메뚜기목 (Orthoptera)\n과 : 여치과 (Tettigoniidae)\n아과 : 쌕쌔기아과 (Conocephalinae)\n속 : 매부리속 (Ruspolia)",
+  "basic_information": {
+    "곤충명": "애매부리",
+    "학명": "Ruspolia dubia (Redtenbacher, 1891)"
+  },
+  "information": {
+    "general_description": "몸길이 30mm내외이고 쌕쌔기와 근사하나 쌕쌔기보다 작고 얼굴옆 경도는 더 크고 앞면보다 좁고 길며 앞머리는 돌출도보다 좁고 길며 앞면보다 좁은 부채 모양이다. 겹눈은 더 작고 촉각은 보다 굵고 앞가슴의 윗가슴등은 보다 좁고 길며 옆가슴아랬가두리는 앞가두리와 거의 길이가 같다. 옆가슴의 구부러져 나온 도는 크고 수컷의 왼쪽앞날개∙발음부는 약간 둥글고 오른쪽앞날개 발음경은 좀 더 길고 산란관 길이의 변이는 크나 이 종이 더 길고 큰 개체가 많다. 옅은 녹색인 개체는 각 종아리마디가 갈색이 아니고 앞가슴등의 가장자리 등쪽에 횡선이 종주하였다. 갈색 개체도 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아] 동시베리아지역\n[러시아] 서시베리아지역\n[유럽]\n[중국] 동북지방",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 30mm내외이고 쌕쌔기와 근사하나 쌕쌔기보다 작고 얼굴옆 경도는 더 크고 앞면보다 좁고 길며 앞머리는 돌출도보다 좁고 길며 앞면보다 좁은 부채 모양이다. 겹눈은 더 작고 촉각은 보다 굵고 앞가슴의 윗가슴등은 보다 좁고 길며 옆가슴아랬가두리는 앞가두리와 거의 길이가 같다. 옆가슴의 구부러져 나온 도는 크고 수컷의 왼쪽앞날개∙발음부는 약간 둥글고 오른쪽앞날개 발음경은 좀 더 길고 산란관 길이의 변이는 크나 이 종이 더 길고 큰 개체가 많다. 옅은 녹색인 개체는 각 종아리마디가 갈색이 아니고 앞가슴등의 가장자리 등쪽에 횡선이 종주하였다. 갈색 개체도 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아] 동시베리아지역\n[러시아] 서시베리아지역\n[유럽]\n[중국] 동북지방"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZEBA0015-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0015_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0015_1_th.jpg",
+      "alt": "애매부리 1번째 사진 : 애매부리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0015_1_th2.jpg",
+      "caption": "애매부리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZEBA0015-1",
+  "specimen_examples": [
+    {
+      "id": "SCNE0301211094",
+      "description": "[SCNE0301211094] 애매부리 2001.08.13 / / 순천대학교"
+    },
+    {
+      "id": "SCNE0301211096",
+      "description": "[SCNE0301211096] 애매부리 2001.08.13 / / 순천대학교"
+    },
+    {
+      "id": "SCNE0301211097",
+      "description": "[SCNE0301211097] 애매부리 2001.08.13 / / 순천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZEBA0015-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZEBA0015&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:08+00:00",
+    "html_sha256": "a757dab9f66952cec04633d1b95181235598a830cf395690c31fe012cc9881b1",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

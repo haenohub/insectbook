@@ -1,0 +1,126 @@
+{
+  "id": "ZMAR0104",
+  "name_ko": "주걱매미충",
+  "scientific_name": "Hecalus prasinus (Matsumura, 1905)",
+  "display_name": "주걱매미충",
+  "family_ko": "매미충과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "뿔매미상과",
+      "name_latin": "Membracoidea"
+    },
+    "family": {
+      "name_ko": "매미충과",
+      "name_latin": "Cicadellidae"
+    },
+    "subfamily": {
+      "name_ko": "매미충아과",
+      "name_latin": "Deltocephalinae"
+    },
+    "genus": {
+      "name_ko": "주걱매미충속",
+      "name_latin": "Hecalus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 뿔매미상과 (Membracoidea)\n과 : 매미충과 (Cicadellidae)\n아과 : 매미충아과 (Deltocephalinae)\n속 : 주걱매미충속 (Hecalus)",
+  "basic_information": {
+    "곤충명": "주걱매미충",
+    "학명": "Hecalus prasinus (Matsumura, 1905)"
+  },
+  "information": {
+    "general_description": "몸길이:수컷5.4mm, 암컷8.7mm(산란관까지)\n몸의 등면은 담황록색이다. 머리의 등면은 편평하고 평활하며 앞쪽으로 돌출되고 담황록색이며 그 앞가장자리는 황색과 담갈색의 테두리가 있다. 겹눈은 적황색이고 길게 뒤쪽으로 처져 있다. 홑눈은 겹눈으 ㅣ바로 앞 능선에 위치한다. 앞가슴등판은 마름모꼴에 가깝다. 앞쪽과 양 옆은 황색과 황록색이 얼룩져 있고 뒤쪽은 뒷가장자리르 밑변으로하는 삼각형 부분으로서 미세한 가로줄이 있다. 작은방패판도 민숭하나 가로홈은 확실하다. 날개는 무색투명하나 배의 빛이 머리 및 가슴과 같은 색으로 보인다. 몸의 밑면은 일정하게 담황록색이다.",
+    "adult": null,
+    "adult_male": "머리 윤곽이 삼각형에 가깝다. 머리 앞가장자리 에는 암갈색의 선이 둘러져 있다.",
+    "adult_female": "머리 윤곽이 타원형이다. 배의 끝이 날개끝을 훨씬 넘어 튀어나온다. 산란돌기는 복숭아 색을 띤다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[태국]\n[필리핀]\n[라오스]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이:수컷5.4mm, 암컷8.7mm(산란관까지)\n몸의 등면은 담황록색이다. 머리의 등면은 편평하고 평활하며 앞쪽으로 돌출되고 담황록색이며 그 앞가장자리는 황색과 담갈색의 테두리가 있다. 겹눈은 적황색이고 길게 뒤쪽으로 처져 있다. 홑눈은 겹눈으 ㅣ바로 앞 능선에 위치한다. 앞가슴등판은 마름모꼴에 가깝다. 앞쪽과 양 옆은 황색과 황록색이 얼룩져 있고 뒤쪽은 뒷가장자리르 밑변으로하는 삼각형 부분으로서 미세한 가로줄이 있다. 작은방패판도 민숭하나 가로홈은 확실하다. 날개는 무색투명하나 배의 빛이 머리 및 가슴과 같은 색으로 보인다. 몸의 밑면은 일정하게 담황록색이다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "머리 윤곽이 삼각형에 가깝다. 머리 앞가장자리 에는 암갈색의 선이 둘러져 있다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "머리 윤곽이 타원형이다. 배의 끝이 날개끝을 훨씬 넘어 튀어나온다. 산란돌기는 복숭아 색을 띤다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[태국]\n[필리핀]\n[라오스]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMAR0104-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0104_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0104_2_th.jpg",
+      "alt": "주걱매미충 1번째 사진 : 주걱매미충전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0104_2_th2.jpg",
+      "caption": "주걱매미충전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZMAR0104-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0104_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0104_1_th.jpg",
+      "alt": "주걱매미충 2번째 사진 : 주걱매미충전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0104_1_th2.jpg",
+      "caption": "주걱매미충전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMAR0104-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0407151001",
+      "description": "[KPNE0407151001] 주걱매미충 1984.07.12 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0407151002",
+      "description": "[KPNE0407151002] 주걱매미충 1984.07.12 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0407151003",
+      "description": "[KPNE0407151003] 주걱매미충 1984.07.12 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZMAR0104-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMAR0104&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:55+00:00",
+    "html_sha256": "52cc62868787818fa54edf41f2c49581a7b4717ebfdf8e56db09a1911e39923e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

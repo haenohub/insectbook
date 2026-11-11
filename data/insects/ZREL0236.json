@@ -1,0 +1,103 @@
+{
+  "id": "ZREL0236",
+  "name_ko": "노랑꼬리뾰족명나방",
+  "scientific_name": "Endotricha flavofascialis (Bremer, 1864)",
+  "display_name": "노랑꼬리뾰족명나방",
+  "family_ko": "명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "명나방과",
+      "name_latin": "Pyralidae"
+    },
+    "subfamily": {
+      "name_ko": "비단명나방아과",
+      "name_latin": "Pyralinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Endotricha"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 명나방과 (Pyralidae)\n아과 : 비단명나방아과 (Pyralinae)\n속 : (Endotricha)",
+  "basic_information": {
+    "곤충명": "노랑꼬리뾰족명나방",
+    "학명": "Endotricha flavofascialis (Bremer, 1864)"
+  },
+  "information": {
+    "general_description": "일본 시베리아에 분포하며흰띠뾰족명나방과 비슷하며 다른점은 횡백상에 황색 무늬가 없고 뒷날개의 중앙횡대는 좁으며 개체에 따라서는 전반이 소실된경우도 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "일본 시베리아에 분포하며흰띠뾰족명나방과 비슷하며 다른점은 횡백상에 황색 무늬가 없고 뒷날개의 중앙횡대는 좁으며 개체에 따라서는 전반이 소실된경우도 있다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0236-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0236_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0236_1_th.jpg",
+      "alt": "노랑꼬리뾰족명나방 1번째 사진 : 노랑꼬리뾰족명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0236_1_th2.jpg",
+      "caption": "노랑꼬리뾰족명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0236-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0302061007",
+      "description": "[FRIE0302061007] 노랑꼬리뾰족명나방 1998.06.17 / / 국립산림과학원"
+    },
+    {
+      "id": "UIBE0203261036",
+      "description": "[UIBE0203261036] 노랑꼬리뾰족명나방 1999.07.15 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0203261037",
+      "description": "[UIBE0203261037] 노랑꼬리뾰족명나방 2001.06.26 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZREL0236.png",
+    "reference_image_id": "ZREL0236-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T11:36:56.607864+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "5b339a5fa2e7be88fed1af4cab96e8bb10e27ebf32ee933d5e1fdbefb21294bb"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0236&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:02+00:00",
+    "html_sha256": "08300565e3e825113bbe682d37101d9e2d412d9237a98e7db11327174815f9c6",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

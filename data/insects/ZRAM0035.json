@@ -1,0 +1,118 @@
+{
+  "id": "ZRAM0035",
+  "name_ko": "알락노랑불나방",
+  "scientific_name": "Stigmatophora flava (Bremer & Grey, 1852)",
+  "display_name": "알락노랑불나방",
+  "family_ko": "태극나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "태극나방과",
+      "name_latin": "Erebidae"
+    },
+    "subfamily": {
+      "name_ko": "불나방아과",
+      "name_latin": "Arctiinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Stigmatophora"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 태극나방과 (Erebidae)\n아과 : 불나방아과 (Arctiinae)\n속 : (Stigmatophora)",
+  "basic_information": {
+    "곤충명": "알락노랑불나방",
+    "학명": "Stigmatophora flava (Bremer & Grey, 1852)"
+  },
+  "information": {
+    "general_description": "더듬이는 실 모양으로 되어 있는데 섬모가 나 있고 담황색을 띰. 머리, 가슴, 배는 황색이며, 아랫입술수염의 위쪽은 농갈색을 띰. 가슴 등쪽면의 경판 밑족에는 좌우에 1쌍의 흑색점이 있음. 앞날개는 등황색인데 기부에1개, 내횡선에 3개, 외횡선에 6개, 아외연선에 5개의 각기 작은 흥색점이 있음. 이 흑색 점의 크기는 일본산에 비해 한국산이 작은 편. 날개길이 13～15mm",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6월～8월에 연 2회 발생. 유충은 지의류와 선류를 먹고 산다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 실 모양으로 되어 있는데 섬모가 나 있고 담황색을 띰. 머리, 가슴, 배는 황색이며, 아랫입술수염의 위쪽은 농갈색을 띰. 가슴 등쪽면의 경판 밑족에는 좌우에 1쌍의 흑색점이 있음. 앞날개는 등황색인데 기부에1개, 내횡선에 3개, 외횡선에 6개, 아외연선에 5개의 각기 작은 흥색점이 있음. 이 흑색 점의 크기는 일본산에 비해 한국산이 작은 편. 날개길이 13～15mm"
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6월～8월에 연 2회 발생. 유충은 지의류와 선류를 먹고 산다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRAM0035-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0035_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0035_2_th.jpg",
+      "alt": "알락노랑불나방 1번째 사진 : 알락노랑불나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0035_2_th2.jpg",
+      "caption": "알락노랑불나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRAM0035-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0035_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0035_1_th.jpg",
+      "alt": "알락노랑불나방 2번째 사진 : 알락노랑불나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0035_1_th2.jpg",
+      "caption": "알락노랑불나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRAM0035-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303131100",
+      "description": "[KNAE0303131100] 알락노랑불나방 1994.08.22 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0302251053",
+      "description": "[KNAE0302251053] 알락노랑불나방 1988.07.27 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0302251054",
+      "description": "[KNAE0302251054] 알락노랑불나방 1983.07.14 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRAM0035-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRAM0035&tabId=tab1",
+    "collected_at": "2026-11-04T14:14:28+00:00",
+    "html_sha256": "96599340370e108196b8ae3f664b11b1272a421a2a5de3cb818a97802527dba5",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

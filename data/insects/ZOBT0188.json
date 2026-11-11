@@ -1,0 +1,136 @@
+{
+  "id": "ZOBT0188",
+  "name_ko": "암갈색날개잎벌레",
+  "scientific_name": "Pyrrhalta fuscipennis (Jacoby, 1885)",
+  "display_name": "암갈색날개잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "긴더듬이잎벌레아과",
+      "name_latin": "Galerucinae"
+    },
+    "genus": {
+      "name_ko": "참긴더듬이잎벌레속",
+      "name_latin": "Pyrrhalta"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 긴더듬이잎벌레아과 (Galerucinae)\n속 : 참긴더듬이잎벌레속 (Pyrrhalta)",
+  "basic_information": {
+    "곤충명": "암갈색날개잎벌레",
+    "학명": "Pyrrhalta fuscipennis (Jacoby, 1885)"
+  },
+  "information": {
+    "general_description": "몸길이는 8.0mm, 다리는 흑색이며 넓적다리 기부의 3/4는 황갈색이다. 배판은 황갈색. 앞가슴등판은 황갈색. 앞날개는 암록색이다. 한국, 일본(훗카이도,혼슈,시코쿠,큐슈), 동시베리아에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "유충은 5월에 나타난다. 성충은 9~10월에 나타난다.",
+    "habits": "기주식물 단풍나무류, Populus spp.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 8.0mm, 다리는 흑색이며 넓적다리 기부의 3/4는 황갈색이다. 배판은 황갈색. 앞가슴등판은 황갈색. 앞날개는 암록색이다. 한국, 일본(훗카이도,혼슈,시코쿠,큐슈), 동시베리아에 분포되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "유충은 5월에 나타난다. 성충은 9~10월에 나타난다."
+    },
+    {
+      "title": "습성",
+      "text": "기주식물 단풍나무류, Populus spp."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0188-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0188_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0188_1_th.jpg",
+      "alt": "암갈색날개잎벌레 1번째 사진 : 암갈색날개잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0188_1_th2.jpg",
+      "caption": "암갈색날개잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0188-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0407231211",
+      "description": "[KPNE0407231211] 암갈색날개잎벌레 1982.07.30 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0407231212",
+      "description": "[KPNE0407231212] 암갈색날개잎벌레 1982.07.30 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0407231213",
+      "description": "[KPNE0407231213] 암갈색날개잎벌레 1982.07.30 / / 경북대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "계수나무",
+      "scientific_name": "Cercidiphyllum japonicum Siebold & Zucc. ex J.J.Hoffm. & J.H.Schult.bis"
+    },
+    {
+      "group": "식물",
+      "name_ko": "고로쇠나무",
+      "scientific_name": "Acer pictum var. mono (Maxim.) Maxim. ex Franch."
+    },
+    {
+      "group": "식물",
+      "name_ko": "너도밤나무",
+      "scientific_name": "Fagus multinervis Nakai"
+    },
+    {
+      "group": "식물",
+      "name_ko": "칠엽수",
+      "scientific_name": "Aesculus turbinata Blume"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0188-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0188&tabId=tab1",
+    "collected_at": "2026-11-04T14:14:39+00:00",
+    "html_sha256": "92d2b8eff44693ad6a3f77bf3bd57afefc79ab2025d832bf37a2d340da6f9eec",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

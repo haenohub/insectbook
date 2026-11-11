@@ -1,0 +1,99 @@
+{
+  "id": "ZOCR0042",
+  "name_ko": "잿빛물방개",
+  "scientific_name": "Eretes griseus (Fabricius, 1781)",
+  "display_name": "잿빛물방개",
+  "family_ko": "물방개과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "물방개과",
+      "name_latin": "Dytiscidae"
+    },
+    "subfamily": {
+      "name_ko": "물방개붙이아과",
+      "name_latin": "Dytiscinae"
+    },
+    "genus": {
+      "name_ko": "잿빛물방개속",
+      "name_latin": "Eretes"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 물방개과 (Dytiscidae)\n아과 : 물방개붙이아과 (Dytiscinae)\n속 : 잿빛물방개속 (Eretes)",
+  "basic_information": {
+    "곤충명": "잿빛물방개",
+    "학명": "Eretes griseus (Fabricius, 1781)"
+  },
+  "information": {
+    "general_description": "한국, 일본, 대만, 만주, 중국, 인도, 태국, 유럽, 북아메리카, 호주, 아프리카, 슨다 섬에 분포하며, 체장은 12-16mm 정도이다. 몸은 황색 또는 담황갈색이고 머리꼭대기와 뒷머리에는 흑색 얼룩무늬가 있다. 더듬이는 담황색인데 기부의 3마디는 거의 폭이 같고 굵으며 밑마디는 가장 길고 제2마디는 가장 짧고 제3마디는 다시 길며 제4마디는 가늘고 그 이하는 점점 가늘어진다. 딱지날개에는 세줄의 흑색 점각열이 있고 그 간실에 흑색이고 과립 모양인 점각이 있고 뒷쪽의 점각은 드물다. 제3점각열은 가장 적다. 앞가두리의 중앙에 흑색 얼룩이 있고 암컷에서는 그 부분이 배밑 모양으로 오목 들어갔다. 딱지날개의 뒷쪽에는 흑색의 주름살 모양의 가로로 된 얼룩 무늬가 있는데 변이가 많다. 날개끝 가까이에도 작은 흑색 얼룩점이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 대만, 만주, 중국, 인도, 태국, 유럽, 북아메리카, 호주, 아프리카, 슨다 섬에 분포하며, 체장은 12-16mm 정도이다. 몸은 황색 또는 담황갈색이고 머리꼭대기와 뒷머리에는 흑색 얼룩무늬가 있다. 더듬이는 담황색인데 기부의 3마디는 거의 폭이 같고 굵으며 밑마디는 가장 길고 제2마디는 가장 짧고 제3마디는 다시 길며 제4마디는 가늘고 그 이하는 점점 가늘어진다. 딱지날개에는 세줄의 흑색 점각열이 있고 그 간실에 흑색이고 과립 모양인 점각이 있고 뒷쪽의 점각은 드물다. 제3점각열은 가장 적다. 앞가두리의 중앙에 흑색 얼룩이 있고 암컷에서는 그 부분이 배밑 모양으로 오목 들어갔다. 딱지날개의 뒷쪽에는 흑색의 주름살 모양의 가로로 된 얼룩 무늬가 있는데 변이가 많다. 날개끝 가까이에도 작은 흑색 얼룩점이 있다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCR0042-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCR0042_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCR0042_1_th.jpg",
+      "alt": "잿빛물방개 1번째 사진 : 잿빛물방개전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCR0042_1_th2.jpg",
+      "caption": "잿빛물방개전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCR0042-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304032016",
+      "description": "[KNAE0304032016] 잿빛물방개 1994.08.09 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304032017",
+      "description": "[KNAE0304032017] 잿빛물방개 1993.08.23 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304032018",
+      "description": "[KNAE0304032018] 잿빛물방개 1994.08.31 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOCR0042-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCR0042&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:12+00:00",
+    "html_sha256": "756a115028757cbb0e1935407db89991e00059f2eb3d92c68c5d18dd4099dc7f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "ZODP0011",
+  "name_ko": "애넓적물땡땡이",
+  "scientific_name": "Enochrus (Holcophilydrus) simulans (Sharp, 1873)",
+  "display_name": "애넓적물땡땡이",
+  "family_ko": "물땡땡이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "물땡땡이상과",
+      "name_latin": "Hydrophiloidea"
+    },
+    "family": {
+      "name_ko": "물땡땡이과",
+      "name_latin": "Hydrophilidae"
+    },
+    "subfamily": {
+      "name_ko": "넓적물땡땡이아과",
+      "name_latin": "Enochrinae"
+    },
+    "genus": {
+      "name_ko": "넓적물땡땡이속",
+      "name_latin": "Enochrus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 물땡땡이상과 (Hydrophiloidea)\n과 : 물땡땡이과 (Hydrophilidae)\n아과 : 넓적물땡땡이아과 (Enochrinae)\n속 : 넓적물땡땡이속 (Enochrus)",
+  "basic_information": {
+    "곤충명": "애넓적물땡땡이",
+    "학명": "Enochrus (Holcophilydrus) simulans (Sharp, 1873)"
+  },
+  "information": {
+    "general_description": "몸의 길이는 4.9~6mm 이며, 몸전체 황갈색을 띠고, 광택이 난다. 몸은 약간 넓적하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의 길이는 4.9~6mm 이며, 몸전체 황갈색을 띠고, 광택이 난다. 몸은 약간 넓적하다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZODP0011-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODP0011_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODP0011_1_th.jpg",
+      "alt": "애넓적물땡땡이 1번째 사진 : 애넓적물땡땡이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODP0011_1_th2.jpg",
+      "caption": "애넓적물땡땡이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZODP0011-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304032042",
+      "description": "[KNAE0304032042] 애넓적물땡땡이 1994.07.03 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304032043",
+      "description": "[KNAE0304032043] 애넓적물땡땡이 1995.07.22 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304032044",
+      "description": "[KNAE0304032044] 애넓적물땡땡이 1995.09.01 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZODP0011-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZODP0011&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:05+00:00",
+    "html_sha256": "6aee898d8b95c00f3001c996620db8973c649cc0ef384d344c367f879e222dd6",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

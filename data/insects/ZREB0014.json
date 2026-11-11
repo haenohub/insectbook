@@ -1,0 +1,153 @@
+{
+  "id": "ZREB0014",
+  "name_ko": "모시나비",
+  "scientific_name": "Parnassius stubbendorfii Ménétriès, 1849",
+  "display_name": "모시나비",
+  "family_ko": "호랑나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "호랑나비과",
+      "name_latin": "Papilionidae"
+    },
+    "subfamily": {
+      "name_ko": "모시나비아과",
+      "name_latin": "Parnassiinae"
+    },
+    "genus": {
+      "name_ko": "모시나비속",
+      "name_latin": "Parnassius"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 호랑나비과 (Papilionidae)\n아과 : 모시나비아과 (Parnassiinae)\n속 : 모시나비속 (Parnassius)",
+  "basic_information": {
+    "곤충명": "모시나비",
+    "학명": "Parnassius stubbendorfii Ménétriès, 1849"
+  },
+  "information": {
+    "general_description": "날개가 반투명한데서 그 이름이 유래한다.",
+    "adult": null,
+    "adult_male": "수컷의 배 전면에는 긴 털이 나 있다.",
+    "adult_female": "암컷에는 긴털이 없다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "산지의 숲가장자리 초지나 경작지에 서식한다",
+    "habits": "낮게 풀 위를 날아다니다가 엉겅퀴, 자운영, 토끼풀, 기린초, 나무딸기 등의 꽃에서 흡밀하며, 꽤 흐리거나 비가 약간 내려도 날아다닌다. 암컷은 5월 말경 서식지 주변의 풀잎 위나 낙엽, 작은 돌 위에 한 개씩 산란하다.",
+    "season": null,
+    "overwintering": "알",
+    "distribution": "[일본]\n[중국]",
+    "notes": "[보통종]",
+    "pest_control": "독성이 낮은 유기인계 살충제인 씨디알 유제를 산란기에 10일간격으로 1일 2회 살포한다.\n근접살포 유의.",
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개가 반투명한데서 그 이름이 유래한다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "수컷의 배 전면에는 긴 털이 나 있다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "암컷에는 긴털이 없다."
+    },
+    {
+      "title": "생태",
+      "text": "산지의 숲가장자리 초지나 경작지에 서식한다"
+    },
+    {
+      "title": "습성",
+      "text": "낮게 풀 위를 날아다니다가 엉겅퀴, 자운영, 토끼풀, 기린초, 나무딸기 등의 꽃에서 흡밀하며, 꽤 흐리거나 비가 약간 내려도 날아다닌다. 암컷은 5월 말경 서식지 주변의 풀잎 위나 낙엽, 작은 돌 위에 한 개씩 산란하다."
+    },
+    {
+      "title": "월동",
+      "text": "알"
+    },
+    {
+      "title": "방제법",
+      "text": "독성이 낮은 유기인계 살충제인 씨디알 유제를 산란기에 10일간격으로 1일 2회 살포한다.\n근접살포 유의."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREB0014-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZREB0014_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZREB0014_3.jpg",
+      "alt": "모시나비 1번째 사진 : 모시나비 수컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZREB0014_3_th2.jpg",
+      "caption": "모시나비 수컷 이미지",
+      "photographed_at": "20200514",
+      "location": "경기도 포천시 소흘읍 광릉숲",
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZREB0014-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREB0014_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREB0014_2_th.jpg",
+      "alt": "모시나비 2번째 사진 : 모시나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREB0014_2_th2.jpg",
+      "caption": "모시나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREB0014-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREB0014_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREB0014_1_th.jpg",
+      "alt": "모시나비 3번째 사진 : 모시나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREB0014_1_th2.jpg",
+      "caption": "모시나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREB0014-1",
+  "specimen_examples": [
+    {
+      "id": "ADUE0408241092",
+      "description": "[ADUE0408241092] 모시나비 2004.05.07 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0408241093",
+      "description": "[ADUE0408241093] 모시나비 2004.05.07 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0408241095",
+      "description": "[ADUE0408241095] 모시나비 2004.05.08 / / 안동대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREB0014-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREB0014&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:18+00:00",
+    "html_sha256": "13d6d6603a97dd6c77beeb8e1523bb8840f79d617287029d6d115c8df0143e5f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

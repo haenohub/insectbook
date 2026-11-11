@@ -1,0 +1,107 @@
+{
+  "id": "ZTAG0031",
+  "name_ko": "둥근허리애꽃벌",
+  "scientific_name": "Andrena (Simandrena) yamato Tadauchi & Hirashima, 1983",
+  "display_name": "둥근허리애꽃벌",
+  "family_ko": "애꽃벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "애꽃벌과",
+      "name_latin": "Andrenidae"
+    },
+    "subfamily": {
+      "name_ko": "애꽃벌아과",
+      "name_latin": "Andreninae"
+    },
+    "genus": {
+      "name_ko": "애꽃벌속",
+      "name_latin": "Andrena"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 애꽃벌과 (Andrenidae)\n아과 : 애꽃벌아과 (Andreninae)\n속 : 애꽃벌속 (Andrena)",
+  "basic_information": {
+    "곤충명": "둥근허리애꽃벌",
+    "학명": "Andrena (Simandrena) yamato Tadauchi & Hirashima, 1983"
+  },
+  "information": {
+    "general_description": "암컷의 머리는 폭이 넓다. 얼굴 전체에 흰털이 성글게 나있다. 머리방패기부에는 비늘모양의 조각이 있고 양가장자리 쪽으로 약하게 주름져 있다. 표면은 광택이 강하고 전체에 점각이 성글게 분포한다. 가슴에는 갈색털이 성글게 나있다. 표면에는 비늘모양의 조각들이 있고 약한 광택이 있으며 작은 점각들이 성글게 분포한다. 가슴옆면에는 비늘 모양의 조각들이 있다. 배는 검은 색이고 각마디 끝은 갈색이다.표면에는 비늘모양의 조각들이 규칙적으로 되어 있고 전체에 걸쳐 작은 점각이 조밀하게 분포한다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "국내학자에 의해 신종기재된 종으로 국외로의 반출이 법으로 금지된 종이다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[반출금지종] 환경부고시제2001-210호",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷의 머리는 폭이 넓다. 얼굴 전체에 흰털이 성글게 나있다. 머리방패기부에는 비늘모양의 조각이 있고 양가장자리 쪽으로 약하게 주름져 있다. 표면은 광택이 강하고 전체에 점각이 성글게 분포한다. 가슴에는 갈색털이 성글게 나있다. 표면에는 비늘모양의 조각들이 있고 약한 광택이 있으며 작은 점각들이 성글게 분포한다. 가슴옆면에는 비늘 모양의 조각들이 있다. 배는 검은 색이고 각마디 끝은 갈색이다.표면에는 비늘모양의 조각들이 규칙적으로 되어 있고 전체에 걸쳐 작은 점각이 조밀하게 분포한다."
+    },
+    {
+      "title": "생태",
+      "text": "국내학자에 의해 신종기재된 종으로 국외로의 반출이 법으로 금지된 종이다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[반출금지종] 환경부고시제2001-210호"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0031-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0031_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0031_1_th.jpg",
+      "alt": "둥근허리애꽃벌 1번째 사진 : 둥근허리애꽃벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0031_1_th2.jpg",
+      "caption": "둥근허리애꽃벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0031-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306288001",
+      "description": "[YNUE0306288001] 둥근허리애꽃벌 1997.05.22 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306288002",
+      "description": "[YNUE0306288002] 둥근허리애꽃벌 1997.05.22 / / 영남대학교"
+    },
+    {
+      "id": "SNUE0304082058",
+      "description": "[SNUE0304082058] 둥근허리애꽃벌 1995.05.23 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAG0031-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0031&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:55+00:00",
+    "html_sha256": "f7debb8883ec3913a3949be261be89549289910f145f7b011582d4495739d0b9",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "ZSEM0032",
+  "name_ko": "꼬마꽃등에",
+  "scientific_name": "Sphaerophoria menthastri (Linnaeus, 1758)",
+  "display_name": "꼬마꽃등에",
+  "family_ko": "꽃등에과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "꽃등에상과",
+      "name_latin": "Syrphoidea"
+    },
+    "family": {
+      "name_ko": "꽃등에과",
+      "name_latin": "Syrphidae"
+    },
+    "subfamily": {
+      "name_ko": "꽃등에아과",
+      "name_latin": "Syrphinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Sphaerophoria"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 꽃등에상과 (Syrphoidea)\n과 : 꽃등에과 (Syrphidae)\n아과 : 꽃등에아과 (Syrphinae)\n속 : (Sphaerophoria)",
+  "basic_information": {
+    "곤충명": "꼬마꽃등에",
+    "학명": "Sphaerophoria menthastri (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "성충의 몸길이는 8~9mm. 몸은 가늘고 흑색이나 수컷에서는 황적색부가 많다. 머리는 크고 겹눈 사이는 머리 폭의 약1/5이며 앞머리는 넓고 황색이다. 앞아마의 돌기는 뚜렷하지 않으나 황색이고 얼굴도 황색이나 금속성 광택이 있고 가운데융기는 뚜렷하다. 더듬이는 연한 황색 또는 오렌지 색인데 제3마디는 앞의 두 마디를 합친 것보다 짧고 알모양이며 자모는 간단하다. 가슴등판은 구리빛 나는 흑색이나 옆구리는 넓게 오렌지 색이다. 작은방패판은 황색 내지 오렌지 색이고 날개는 비교적 짧고 끝은 심하게 좁아졌고 거의 무색이다. 이들은 과거에 애꽃등에로 오동정되어 많은 문헌에 기록되었으나 애꽃등에는 모식지가 미국 필라델피아로 분포가 북미에 한정되어 있는 종이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충의 몸길이는 8~9mm. 몸은 가늘고 흑색이나 수컷에서는 황적색부가 많다. 머리는 크고 겹눈 사이는 머리 폭의 약1/5이며 앞머리는 넓고 황색이다. 앞아마의 돌기는 뚜렷하지 않으나 황색이고 얼굴도 황색이나 금속성 광택이 있고 가운데융기는 뚜렷하다. 더듬이는 연한 황색 또는 오렌지 색인데 제3마디는 앞의 두 마디를 합친 것보다 짧고 알모양이며 자모는 간단하다. 가슴등판은 구리빛 나는 흑색이나 옆구리는 넓게 오렌지 색이다. 작은방패판은 황색 내지 오렌지 색이고 날개는 비교적 짧고 끝은 심하게 좁아졌고 거의 무색이다. 이들은 과거에 애꽃등에로 오동정되어 많은 문헌에 기록되었으나 애꽃등에는 모식지가 미국 필라델피아로 분포가 북미에 한정되어 있는 종이다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSEM0032-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0032_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0032_1_th.jpg",
+      "alt": "꼬마꽃등에 1번째 사진 : 꼬마꽃등에전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0032_1_th2.jpg",
+      "caption": "꼬마꽃등에전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSEM0032-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0201023007",
+      "description": "[YNUE0201023007] 꼬마꽃등에 1992.05.22 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0201023008",
+      "description": "[YNUE0201023008] 꼬마꽃등에 1992.05.22 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0408291014",
+      "description": "[YNUE0408291014] 꼬마꽃등에 1992.05.15 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZSEM0032.png",
+    "reference_image_id": "ZSEM0032-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T13:19:31.282215+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "83f2016ee0b4ad3c3982ac98ca380aa5906d58fd54d2dcca61687811a635c25c"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSEM0032&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:31+00:00",
+    "html_sha256": "42444e0cdb09ee81e25428ae3d62eb3d3b58a80583db0edda0dc30738b5b48c6",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

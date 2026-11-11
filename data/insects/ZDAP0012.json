@@ -1,0 +1,114 @@
+{
+  "id": "ZDAP0012",
+  "name_ko": "긴꼬리고추잠자리",
+  "scientific_name": "Sympetrum cordulegaster (Selys, 1883)",
+  "display_name": "긴꼬리고추잠자리",
+  "family_ko": "잠자리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "잠자리목",
+      "name_latin": "Odonata"
+    },
+    "family": {
+      "name_ko": "잠자리과",
+      "name_latin": "Libellulidae"
+    },
+    "subfamily": {
+      "name_ko": "고추잠자리아과",
+      "name_latin": "Sympetrinae"
+    },
+    "genus": {
+      "name_ko": "좀잠자리속",
+      "name_latin": "Sympetrum"
+    }
+  },
+  "taxonomy_text": "목 : 잠자리목 (Odonata)\n과 : 잠자리과 (Libellulidae)\n아과 : 고추잠자리아과 (Sympetrinae)\n속 : 좀잠자리속 (Sympetrum)",
+  "basic_information": {
+    "곤충명": "긴꼬리고추잠자리",
+    "학명": "Sympetrum cordulegaster (Selys, 1883)"
+  },
+  "information": {
+    "general_description": "배길이 24mm, 뒷날개길이 27mm. 앞날개 결절의 가로맥은 약 6.5, 가슴 옆쪽에 가는 흑색줄이 있고 가로무늬는 없음. 수컷 제 7배마디의 배판의 뒷끝은 돌출하고 미부 상부기는 강하게 굴곡되지 않고 그 뒤아랫각은 현저히 팽대되지 않음. 암컷 음판은 길어서 배 끝을 초월함.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "배길이 24mm, 뒷날개길이 27mm. 앞날개 결절의 가로맥은 약 6.5, 가슴 옆쪽에 가는 흑색줄이 있고 가로무늬는 없음. 수컷 제 7배마디의 배판의 뒷끝은 돌출하고 미부 상부기는 강하게 굴곡되지 않고 그 뒤아랫각은 현저히 팽대되지 않음. 암컷 음판은 길어서 배 끝을 초월함."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZDAP0012-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0012_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0012_2_th.jpg",
+      "alt": "긴꼬리고추잠자리 1번째 사진 : 대마도좀잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0012_2_th2.jpg",
+      "caption": "대마도좀잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZDAP0012-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0012_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0012_1_th.jpg",
+      "alt": "긴꼬리고추잠자리 2번째 사진 : 대마도좀잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0012_1_th2.jpg",
+      "caption": "대마도좀잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZDAP0012-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0204261063",
+      "description": "[FRIE0204261063] 긴꼬리고추잠자리 1987.08.05 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0204261064",
+      "description": "[FRIE0204261064] 긴꼬리고추잠자리 1987.08.05 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0203121008",
+      "description": "[KNAE0203121008] 긴꼬리고추잠자리 1995.08.01 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZDAP0012.png",
+    "reference_image_id": "ZDAP0012-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T08:35:59.092054+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "1b5ba557af3ea1729a5bed77640dd2d6ea97a8b360f8329c87cdd0c02ac79e0c"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZDAP0012&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:53+00:00",
+    "html_sha256": "13ad31f347751f0766b4b1cf0ce07bd039f342cb4a40fc6fdc3cc84ba0970fb8",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

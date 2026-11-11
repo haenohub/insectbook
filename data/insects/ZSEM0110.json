@@ -1,0 +1,103 @@
+{
+  "id": "ZSEM0110",
+  "name_ko": "눈루리꽃등에",
+  "scientific_name": "Eristalinus tarsalis (Macquart, 1855)",
+  "display_name": "눈루리꽃등에",
+  "family_ko": "꽃등에과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "꽃등에상과",
+      "name_latin": "Syrphoidea"
+    },
+    "family": {
+      "name_ko": "꽃등에과",
+      "name_latin": "Syrphidae"
+    },
+    "subfamily": {
+      "name_ko": "순꽃등에아과",
+      "name_latin": "Eristalinae"
+    },
+    "genus": {
+      "name_ko": "루리꽃등에속",
+      "name_latin": "Eristalinus"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 꽃등에상과 (Syrphoidea)\n과 : 꽃등에과 (Syrphidae)\n아과 : 순꽃등에아과 (Eristalinae)\n속 : 루리꽃등에속 (Eristalinus)",
+  "basic_information": {
+    "곤충명": "눈루리꽃등에",
+    "학명": "Eristalinus tarsalis (Macquart, 1855)"
+  },
+  "information": {
+    "general_description": "성충의 몸길이는 11~12mm. 몸은 흑색이다. 수컷의 머리는 흑색이고 이마는 고르게 암색가루로 덮여있다. 더듬이는 갈색이고 겹눈은 황색을 띠지만 보라색 대형 무늬가 분포한다. 가운데가슴등판은 뚜렷이 광택이 있고 그 옆가장자리와 옆판은 둔한 회색가루로 덮였다. 다리는 흑색이나 부분적으로 황색이다. 날개는 털없이 투명하며 어깨판과 평균곤은 황색이다. 암컷에서는 폭이 넓고 중앙 부근 흑색의 1개의 띠무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충의 몸길이는 11~12mm. 몸은 흑색이다. 수컷의 머리는 흑색이고 이마는 고르게 암색가루로 덮여있다. 더듬이는 갈색이고 겹눈은 황색을 띠지만 보라색 대형 무늬가 분포한다. 가운데가슴등판은 뚜렷이 광택이 있고 그 옆가장자리와 옆판은 둔한 회색가루로 덮였다. 다리는 흑색이나 부분적으로 황색이다. 날개는 털없이 투명하며 어깨판과 평균곤은 황색이다. 암컷에서는 폭이 넓고 중앙 부근 흑색의 1개의 띠무늬가 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSEM0110-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0110_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0110_1_th.jpg",
+      "alt": "눈루리꽃등에 1번째 사진 : 눈루리꽃등에전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0110_1_th2.jpg",
+      "caption": "눈루리꽃등에전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSEM0110-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0307191355",
+      "description": "[KUIE0307191355] 눈루리꽃등에 1978.06.25 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307191356",
+      "description": "[KUIE0307191356] 눈루리꽃등에 1978.07.04 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307191358",
+      "description": "[KUIE0307191358] 눈루리꽃등에 1972.09.10 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZSEM0110-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSEM0110&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:39+00:00",
+    "html_sha256": "8fb6d9bc111db91046554274dee15de0d2d3523eac7636a892a692f4f4733804",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

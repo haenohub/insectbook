@@ -1,0 +1,118 @@
+{
+  "id": "ZTAG0062",
+  "name_ko": "어리장미가위벌",
+  "scientific_name": "Megachile humilis Smith, 1879",
+  "display_name": "어리장미가위벌",
+  "family_ko": "가위벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "가위벌과",
+      "name_latin": "Megachilidae"
+    },
+    "subfamily": {
+      "name_ko": "가위벌아과",
+      "name_latin": "Megachilinae"
+    },
+    "genus": {
+      "name_ko": "가위벌속",
+      "name_latin": "Megachile"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 가위벌과 (Megachilidae)\n아과 : 가위벌아과 (Megachilinae)\n속 : 가위벌속 (Megachile)",
+  "basic_information": {
+    "곤충명": "어리장미가위벌",
+    "학명": "Megachile humilis Smith, 1879"
+  },
+  "information": {
+    "general_description": "암컷은 17mm정도이며, 몸은 흑색이다. 어깨판은 담갈색, 다리는 흑갈색이다. 날개는 투명하고 담황색을 띠나 바깥쪽으로는 다소 짙은 색이다. 얼굴의 윗부분, 양 옆 및 정수리에는 털이 촘촘히 나있고, 흑색갈이다. 뒤쪽 뺨의 털은 담황색내지 황백색인데 약간 털이 섞였다. 머리방패위의 털은 황갈색인데 흑갈색 털이 섞였다. 가슴에는 털이 많이 났으나, 가슴의 등판에서는 짧다. 수컷의 몸길이는 13.5mm정도이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": "[감소추세종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷은 17mm정도이며, 몸은 흑색이다. 어깨판은 담갈색, 다리는 흑갈색이다. 날개는 투명하고 담황색을 띠나 바깥쪽으로는 다소 짙은 색이다. 얼굴의 윗부분, 양 옆 및 정수리에는 털이 촘촘히 나있고, 흑색갈이다. 뒤쪽 뺨의 털은 담황색내지 황백색인데 약간 털이 섞였다. 머리방패위의 털은 황갈색인데 흑갈색 털이 섞였다. 가슴에는 털이 많이 났으나, 가슴의 등판에서는 짧다. 수컷의 몸길이는 13.5mm정도이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[감소추세종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0062-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0062_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0062_2_th.jpg",
+      "alt": "어리장미가위벌 1번째 사진 : 어리장미가위벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0062_2_th2.jpg",
+      "caption": "어리장미가위벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTAG0062-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0062_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0062_1_th.jpg",
+      "alt": "어리장미가위벌 2번째 사진 : 어리장미가위벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0062_1_th2.jpg",
+      "caption": "어리장미가위벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0062-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0111303010",
+      "description": "[YNUE0111303010] 어리장미가위벌 1988.09.02 / / 영남대학교"
+    },
+    {
+      "id": "GSNE0408272203",
+      "description": "[GSNE0408272203] 어리장미가위벌 1999.09.10 / / 경상대학교"
+    },
+    {
+      "id": "KUIE0408112038",
+      "description": "[KUIE0408112038] 어리장미가위벌 1998.09.05 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAG0062-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0062&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:43+00:00",
+    "html_sha256": "36f1f7e640213f84568a64315a1016e27db8167fdb8855fe460fa6b56126c867",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

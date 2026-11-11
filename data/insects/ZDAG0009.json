@@ -1,0 +1,114 @@
+{
+  "id": "ZDAG0009",
+  "name_ko": "노란잔산잠자리",
+  "scientific_name": "Macromia daimoji Okumura, 1949",
+  "display_name": "노란잔산잠자리",
+  "family_ko": "잔산잠자리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "잠자리목",
+      "name_latin": "Odonata"
+    },
+    "family": {
+      "name_ko": "잔산잠자리과",
+      "name_latin": "Macromiidae"
+    },
+    "subfamily": {
+      "name_ko": "멧잠자리아과",
+      "name_latin": "Macromiinae"
+    },
+    "genus": {
+      "name_ko": "잔산잠자리속",
+      "name_latin": "Macromia"
+    }
+  },
+  "taxonomy_text": "목 : 잠자리목 (Odonata)\n과 : 잔산잠자리과 (Macromiidae)\n아과 : 멧잠자리아과 (Macromiinae)\n속 : 잔산잠자리속 (Macromia)",
+  "basic_information": {
+    "곤충명": "노란잔산잠자리",
+    "학명": "Macromia daimoji Okumura, 1949"
+  },
+  "information": {
+    "general_description": "배길이 55~60mm, 뒷날개길이 45~50mm. 전체적으로 흑색 바탕에 황색 줄무늬가 있는 큰 잠자리임. 성숙한 수컷의 가슴은 금속성이 강한 흑청록색이며 겹눈은 청남색임. 잔산잠자리와 비슷한 생김새이나 배마디의 황색 무늬가 선명하고 교미 부속기의 미모가 더 짧음. 몸 색상과 무늬는 암수가 약간 다르며 성숙한 암컷의 날개에는 등황색 무늬가 넓게 퍼짐.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": "[II급 멸종위기야생동식물]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "배길이 55~60mm, 뒷날개길이 45~50mm. 전체적으로 흑색 바탕에 황색 줄무늬가 있는 큰 잠자리임. 성숙한 수컷의 가슴은 금속성이 강한 흑청록색이며 겹눈은 청남색임. 잔산잠자리와 비슷한 생김새이나 배마디의 황색 무늬가 선명하고 교미 부속기의 미모가 더 짧음. 몸 색상과 무늬는 암수가 약간 다르며 성숙한 암컷의 날개에는 등황색 무늬가 넓게 퍼짐."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[II급 멸종위기야생동식물]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZDAG0009-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAG0009_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAG0009_2_th.jpg",
+      "alt": "노란잔산잠자리 1번째 사진 : 노란잔산잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAG0009_2_th2.jpg",
+      "caption": "노란잔산잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZDAG0009-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAG0009_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAG0009_1_th.jpg",
+      "alt": "노란잔산잠자리 2번째 사진 : 노란잔산잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAG0009_1_th2.jpg",
+      "caption": "노란잔산잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZDAG0009-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0203111013",
+      "description": "[KNAE0203111013] 노란잔산잠자리 1991.05.30 / / 국립수목원"
+    },
+    {
+      "id": "ADUE0201241157",
+      "description": "[ADUE0201241157] 노란잔산잠자리 2001.06.30 / / 안동대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZDAG0009.png",
+    "reference_image_id": "ZDAG0009-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T11:17:18.634495+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "ef74d376bcac350c697da6223a31a6aff8f670e159ac6b824e64a93edeeefb95"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZDAG0009&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:56+00:00",
+    "html_sha256": "f78a65695439792293ad97630e53a195f6aad53fc3099fce624f334613be7954",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

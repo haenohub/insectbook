@@ -1,0 +1,118 @@
+{
+  "id": "ZOBC0006",
+  "name_ko": "검정무늬비단벌레",
+  "scientific_name": "Lamprodila (Palmar) virgata (Motschulsky, 1859)",
+  "display_name": "검정무늬비단벌레",
+  "family_ko": "비단벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "비단벌레상과",
+      "name_latin": "Buprestoidea"
+    },
+    "family": {
+      "name_ko": "비단벌레과",
+      "name_latin": "Buprestidae"
+    },
+    "subfamily": {
+      "name_ko": "비단벌레아과",
+      "name_latin": "Chrysochroinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Lamprodila"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 비단벌레상과 (Buprestoidea)\n과 : 비단벌레과 (Buprestidae)\n아과 : 비단벌레아과 (Chrysochroinae)\n속 : (Lamprodila)",
+  "basic_information": {
+    "곤충명": "검정무늬비단벌레",
+    "학명": "Lamprodila (Palmar) virgata (Motschulsky, 1859)"
+  },
+  "information": {
+    "general_description": "한국, 일본, 만주, 중국, 시베리아에 분포하며, 체장은 13mm 정도이다. 머리는 금록색이고 점각이 많고 머리꼭대기에 흑색 점무늬가 1개 있다. 겹눈은 흑색, 촉각은 금록색인데 톱날 모양이다. 딱지날개는 금록색이고 점각이 밀포하고 종구가 있고 닥지날개면에는 불규칙한 흑람색 얼룩무늬가 많다. 날개끝은 절단되었다. 배면과 다리는 금록색이고 점각이 밀포하였다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 만주, 중국, 시베리아에 분포하며, 체장은 13mm 정도이다. 머리는 금록색이고 점각이 많고 머리꼭대기에 흑색 점무늬가 1개 있다. 겹눈은 흑색, 촉각은 금록색인데 톱날 모양이다. 딱지날개는 금록색이고 점각이 밀포하고 종구가 있고 닥지날개면에는 불규칙한 흑람색 얼룩무늬가 많다. 날개끝은 절단되었다. 배면과 다리는 금록색이고 점각이 밀포하였다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBC0006-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBC0006_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBC0006_1_th.jpg",
+      "alt": "검정무늬비단벌레 1번째 사진 : 검정무늬비단벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBC0006_1_th2.jpg",
+      "caption": "검정무늬비단벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBC0006-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0112296041",
+      "description": "[YNUE0112296041] 검정무늬비단벌레 1994.08.04 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0112216016",
+      "description": "[YNUE0112216016] 검정무늬비단벌레 1996.08.02 / / 영남대학교"
+    },
+    {
+      "id": "KNAE414559",
+      "description": "[KNAE414559] 검정무늬비단벌레 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "갈참나무",
+      "scientific_name": "Quercus aliena Blume"
+    },
+    {
+      "group": "식물",
+      "name_ko": "밤나무",
+      "scientific_name": "Castanea crenata Siebold & Zucc."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBC0006.png",
+    "reference_image_id": "ZOBC0006-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T11:22:39.419062+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "51de955399ef60ba37c407d53f9e0e955445f292728f048c8da2a7d1c86dc3e8"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBC0006&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:17+00:00",
+    "html_sha256": "b0d0d3deed541849bc642e0a1f3b755b3354cba5e8843849fab4e0e43e41fae0",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

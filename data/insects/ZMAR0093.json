@@ -1,0 +1,118 @@
+{
+  "id": "ZMAR0093",
+  "name_ko": "둥근머리각시매미충",
+  "scientific_name": "Drabescus limbaticeps (Stål, 1858)",
+  "display_name": "둥근머리각시매미충",
+  "family_ko": "매미충과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "뿔매미상과",
+      "name_latin": "Membracoidea"
+    },
+    "family": {
+      "name_ko": "매미충과",
+      "name_latin": "Cicadellidae"
+    },
+    "subfamily": {
+      "name_ko": "매미충아과",
+      "name_latin": "Deltocephalinae"
+    },
+    "genus": {
+      "name_ko": "각시매미충속",
+      "name_latin": "Drabescus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 뿔매미상과 (Membracoidea)\n과 : 매미충과 (Cicadellidae)\n아과 : 매미충아과 (Deltocephalinae)\n속 : 각시매미충속 (Drabescus)",
+  "basic_information": {
+    "곤충명": "둥근머리각시매미충",
+    "학명": "Drabescus limbaticeps (Stål, 1858)"
+  },
+  "information": {
+    "general_description": "몸길이:9.5-11mm. 암컷이 수컷에 비해 약간 더크다. 몸은 광택을 가지고, 회황색 또는 황록색 바탕에 흑갈색 또는 검정색의 불규칙한 무늬를 가진다. 아랫면은 흑갈색 또는 검정색을 띤다. 머리는 매우 폭이 좁고 넓이가 넓으며, 길이는 겹눈 사이 폭의 1/5이고 둥글게 돌출하였는데, 앞가슴등판보다 약간 넓다. 얼굴은 적갈색이거나 검고 넓적하며, 이마의 앞가장자리는 좁은 가로홈이 있다. 앞가슴등판은 미세한 가로즈름이 흔적으로 나타나고, 후반부에는 불규칙한 반점이 산재한다. 작은 방패판은 황록색 또는 노란색을 띤다. 앞날개는 검으나 중앙부에 가로로 투명한 띠를 가지며, 미세한 잔주름이 산재한다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "주로 낮은 산림지대에 서식한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대만]\n[일본]\n[중국]\n[스리랑카]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이:9.5-11mm. 암컷이 수컷에 비해 약간 더크다. 몸은 광택을 가지고, 회황색 또는 황록색 바탕에 흑갈색 또는 검정색의 불규칙한 무늬를 가진다. 아랫면은 흑갈색 또는 검정색을 띤다. 머리는 매우 폭이 좁고 넓이가 넓으며, 길이는 겹눈 사이 폭의 1/5이고 둥글게 돌출하였는데, 앞가슴등판보다 약간 넓다. 얼굴은 적갈색이거나 검고 넓적하며, 이마의 앞가장자리는 좁은 가로홈이 있다. 앞가슴등판은 미세한 가로즈름이 흔적으로 나타나고, 후반부에는 불규칙한 반점이 산재한다. 작은 방패판은 황록색 또는 노란색을 띤다. 앞날개는 검으나 중앙부에 가로로 투명한 띠를 가지며, 미세한 잔주름이 산재한다."
+    },
+    {
+      "title": "생태",
+      "text": "주로 낮은 산림지대에 서식한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대만]\n[일본]\n[중국]\n[스리랑카]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMAR0093-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0093_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0093_2_th.jpg",
+      "alt": "둥근머리각시매미충 1번째 사진 : 둥근머리각시매미충전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0093_2_th2.jpg",
+      "caption": "둥근머리각시매미충전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZMAR0093-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0093_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0093_1_th.jpg",
+      "alt": "둥근머리각시매미충 2번째 사진 : 둥근머리각시매미충전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0093_1_th2.jpg",
+      "caption": "둥근머리각시매미충전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMAR0093-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0305171149",
+      "description": "[KPNE0305171149] 둥근머리각시매미충 1980.06.28 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0305171150",
+      "description": "[KPNE0305171150] 둥근머리각시매미충 1980.06.28 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0305171151",
+      "description": "[KPNE0305171151] 둥근머리각시매미충 1997.07.14 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZMAR0093-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMAR0093&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:53+00:00",
+    "html_sha256": "3a4d344850f7e63819feedfe650d8ba59bba7c4f14d505c9dac784401bc6b17b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

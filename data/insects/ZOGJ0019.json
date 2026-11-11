@@ -1,0 +1,99 @@
+{
+  "id": "ZOGJ0019",
+  "name_ko": "황소뿔소똥풍뎅이",
+  "scientific_name": "Onthophagus (Onthophagus) bivertex Heyden, 1887",
+  "display_name": "황소뿔소똥풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "소똥구리아과",
+      "name_latin": "Scarabaeinae"
+    },
+    "genus": {
+      "name_ko": "소똥풍뎅이속",
+      "name_latin": "Onthophagus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 소똥구리아과 (Scarabaeinae)\n속 : 소똥풍뎅이속 (Onthophagus)",
+  "basic_information": {
+    "곤충명": "황소뿔소똥풍뎅이",
+    "학명": "Onthophagus (Onthophagus) bivertex Heyden, 1887"
+  },
+  "information": {
+    "general_description": "중국 북부, 우수리, 일본에 분포하며 흑갈색이나 딱지날개는 암갈색 내지 적갈색 개체가 많다. 머리방패의 전연은 둥글고 조밀한 주름살모양의 점각이 있으며, 수컷의 두정융기는 2개인데 끝이 예리하며 아래쪽이 굽은 소뿔모양이다. 암컷은 윗면이 파상이며, 전흉배판 점각은 크고, 안상. BL:6~10mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중국 북부, 우수리, 일본에 분포하며 흑갈색이나 딱지날개는 암갈색 내지 적갈색 개체가 많다. 머리방패의 전연은 둥글고 조밀한 주름살모양의 점각이 있으며, 수컷의 두정융기는 2개인데 끝이 예리하며 아래쪽이 굽은 소뿔모양이다. 암컷은 윗면이 파상이며, 전흉배판 점각은 크고, 안상. BL:6~10mm."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGJ0019-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0019_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0019_1_th.jpg",
+      "alt": "황소뿔소똥풍뎅이 1번째 사진 : 황소뿔소똥풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0019_1_th2.jpg",
+      "caption": "황소뿔소똥풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGJ0019-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0304011008",
+      "description": "[FRIE0304011008] 황소뿔소똥풍뎅이 1982.05.05 / / 국립산림과학원"
+    },
+    {
+      "id": "ADUE0304031011",
+      "description": "[ADUE0304031011] 황소뿔소똥풍뎅이 2002.06.21 / / 안동대학교"
+    },
+    {
+      "id": "SSUE0301281096",
+      "description": "[SSUE0301281096] 황소뿔소똥풍뎅이 1985.04.28 / / 성신여자대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGJ0019-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGJ0019&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:58+00:00",
+    "html_sha256": "9dde9e43f3c9a7e458e8fcb78c2c1a7cd41370802ce15ab23160e810529418f6",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

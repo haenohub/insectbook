@@ -1,0 +1,118 @@
+{
+  "id": "ZRCI0321",
+  "name_ko": "노박덩굴가지나방",
+  "scientific_name": "Amraica superans (Butler, 1878)",
+  "display_name": "노박덩굴가지나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "가지나방아과",
+      "name_latin": "Ennominae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Amraica"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 가지나방아과 (Ennominae)\n속 : (Amraica)",
+  "basic_information": {
+    "곤충명": "노박덩굴가지나방",
+    "학명": "Amraica superans (Butler, 1878)"
+  },
+  "information": {
+    "general_description": "더듬이는 수컷이 한쪽만 빗살 모양,암컷은 실모양. 몸과 날개는 모두 암회색.이마와 어깨판은 갈색.날개에 명확하지 않은 암색의 가는 선이 산재.\n앞날개는 흑색의 내횡선과 외횡선 존재. 뒷날개는 암색의 불명료한 중횡선과 흑색의 외횡선 존재. 앞,뒷날개 모두가 아외연선은 회백색인데 잔 물결 모양으로 굴곡 되있음. 외연에 흑색 점의 줄. 뒷면은 회색으로 약간 암색의 가는선 산재.흑색의 횡맥 무늬와 외횡선이 존재.앞날개는 날개끝 가까이에 1개의 암색무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6-7월에 출현. 유충은 노박덩굴 등의 잎을 먹음.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[인도네시아]\n[중국]\n[인도]\n[베트남]\n[미얀마]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 수컷이 한쪽만 빗살 모양,암컷은 실모양. 몸과 날개는 모두 암회색.이마와 어깨판은 갈색.날개에 명확하지 않은 암색의 가는 선이 산재.\n앞날개는 흑색의 내횡선과 외횡선 존재. 뒷날개는 암색의 불명료한 중횡선과 흑색의 외횡선 존재. 앞,뒷날개 모두가 아외연선은 회백색인데 잔 물결 모양으로 굴곡 되있음. 외연에 흑색 점의 줄. 뒷면은 회색으로 약간 암색의 가는선 산재.흑색의 횡맥 무늬와 외횡선이 존재.앞날개는 날개끝 가까이에 1개의 암색무늬가 있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6-7월에 출현. 유충은 노박덩굴 등의 잎을 먹음."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[인도네시아]\n[중국]\n[인도]\n[베트남]\n[미얀마]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0321-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0321_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0321_2_th.jpg",
+      "alt": "노박덩굴가지나방 1번째 사진 : 노박덩굴가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0321_2_th2.jpg",
+      "caption": "노박덩굴가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0321-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0321_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0321_1_th.jpg",
+      "alt": "노박덩굴가지나방 2번째 사진 : 노박덩굴가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0321_1_th2.jpg",
+      "caption": "노박덩굴가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0321-1",
+  "specimen_examples": [
+    {
+      "id": "JFNE0305291070",
+      "description": "[JFNE0305291070] 노박덩굴가지나방 1998.05.09 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0305291067",
+      "description": "[JFNE0305291067] 노박덩굴가지나방 1998.05.25 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0305291069",
+      "description": "[JFNE0305291069] 노박덩굴가지나방 1993.07.22 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCI0321-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0321&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:30+00:00",
+    "html_sha256": "855a0ea86c4ffa792b5411eacf9d2e759010429d736de1905214d9a21e12c629",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

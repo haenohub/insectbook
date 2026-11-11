@@ -1,0 +1,118 @@
+{
+  "id": "ZRFL0014",
+  "name_ko": "포도유리날개알락나방",
+  "scientific_name": "Hedina tenuis (Butler, 1877)",
+  "display_name": "포도유리날개알락나방",
+  "family_ko": "알락나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "알락나방상과",
+      "name_latin": "Zygaenoidea"
+    },
+    "family": {
+      "name_ko": "알락나방과",
+      "name_latin": "Zygaenidae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Procridinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Hedina"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 알락나방상과 (Zygaenoidea)\n과 : 알락나방과 (Zygaenidae)\n아과 : (Procridinae)\n속 : (Hedina)",
+  "basic_information": {
+    "곤충명": "포도유리날개알락나방",
+    "학명": "Hedina tenuis (Butler, 1877)"
+  },
+  "information": {
+    "general_description": "경상남도․강원특별자치도․경기도․전북특별자치도․부산․서울․경상북도와 일본·중국·만주·아무르에 분포.\n수컷의 더듬이는 빗살 모양이고, 암컷은 실 모양인데 끝은 가늘고 뾰족하다. 몸과 날개의 바탕색은 흑색인데 몸에서는 청남색의 광택이 난다. 날개는 대체로 반투명한 막실인데, 앞날개의 후연과 뒷날개의 전연은 넓게 흑색 인분으로 덮여 있다. 대체적으로 모양이 사과알락나방과 비슷한데 앞날개의 횡맥은 농흑색이고, 뒷날개의 중실 중앙과 제 2 중맥(제 5 맥, M2), 제 1 중맥(제 6 맥, M1)은 특히 흑색이 강하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": "포도나무의 잎을 먹는다.",
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "경상남도․강원특별자치도․경기도․전북특별자치도․부산․서울․경상북도와 일본·중국·만주·아무르에 분포.\n수컷의 더듬이는 빗살 모양이고, 암컷은 실 모양인데 끝은 가늘고 뾰족하다. 몸과 날개의 바탕색은 흑색인데 몸에서는 청남색의 광택이 난다. 날개는 대체로 반투명한 막실인데, 앞날개의 후연과 뒷날개의 전연은 넓게 흑색 인분으로 덮여 있다. 대체적으로 모양이 사과알락나방과 비슷한데 앞날개의 횡맥은 농흑색이고, 뒷날개의 중실 중앙과 제 2 중맥(제 5 맥, M2), 제 1 중맥(제 6 맥, M1)은 특히 흑색이 강하다."
+    },
+    {
+      "title": "유충",
+      "text": "포도나무의 잎을 먹는다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRFL0014-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFL0014_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFL0014_2_th.jpg",
+      "alt": "포도유리날개알락나방 1번째 사진 : 포도유리날개알락나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFL0014_2_th2.jpg",
+      "caption": "포도유리날개알락나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRFL0014-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFL0014_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFL0014_1_th.jpg",
+      "alt": "포도유리날개알락나방 2번째 사진 : 포도유리날개알락나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFL0014_1_th2.jpg",
+      "caption": "포도유리날개알락나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRFL0014-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303031089",
+      "description": "[KNAE0303031089] 포도유리날개알락나방 1981.04.23 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303031090",
+      "description": "[KNAE0303031090] 포도유리날개알락나방 1988.04.25 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303031092",
+      "description": "[KNAE0303031092] 포도유리날개알락나방 1985.04.15 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRFL0014-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRFL0014&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:42+00:00",
+    "html_sha256": "281ddeee51f6fdeae936a91e8d766151ce486b612ffebc454785261f5293f624",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

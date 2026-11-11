@@ -1,0 +1,110 @@
+{
+  "id": "ZOBH0186",
+  "name_ko": "한국길쭉먼지벌레",
+  "scientific_name": "Myas (Trigonognatha) coreanus (Tschitschérine, 1895)",
+  "display_name": "한국길쭉먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "먼지벌레아과",
+      "name_latin": "Harpalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Myas"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 먼지벌레아과 (Harpalinae)\n속 : (Myas)",
+  "basic_information": {
+    "곤충명": "한국길쭉먼지벌레",
+    "학명": "Myas (Trigonognatha) coreanus (Tschitschérine, 1895)"
+  },
+  "information": {
+    "general_description": "몸길이는 19~21mm 이며 넓적한 먼지벌레다. 몸색깔은 검정색 광택이 나며 등쪽은 보랏빛의 금속성 광택이 난다. 앞가슴등판은 전체적으로 사각형이다. 날개면에 7줄의 세로로 깊은 홈줄 무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 19~21mm 이며 넓적한 먼지벌레다. 몸색깔은 검정색 광택이 나며 등쪽은 보랏빛의 금속성 광택이 난다. 앞가슴등판은 전체적으로 사각형이다. 날개면에 7줄의 세로로 깊은 홈줄 무늬가 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0186-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0186_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0186_2_th.jpg",
+      "alt": "한국길쭉먼지벌레 1번째 사진 : 한국길쭉먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0186_2_th2.jpg",
+      "caption": "한국길쭉먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0186-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0186_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0186_1_th.jpg",
+      "alt": "한국길쭉먼지벌레 2번째 사진 : 한국길쭉먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0186_1_th2.jpg",
+      "caption": "한국길쭉먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0186-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408201066",
+      "description": "[MPME0408201066] 한국길쭉먼지벌레 2000.06.29 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408201065",
+      "description": "[MPME0408201065] 한국길쭉먼지벌레 2000.06.29 / / 목포자연사박물관"
+    },
+    {
+      "id": "SJNE0408171036",
+      "description": "[SJNE0408171036] 한국길쭉먼지벌레 2001.08.08 / / 상주대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0186-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0186&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:01+00:00",
+    "html_sha256": "4305dfe0101b39b8fddd93d411746fdc517492bb70c4004aa8d119b905b9efbf",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

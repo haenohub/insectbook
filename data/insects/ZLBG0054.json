@@ -1,0 +1,103 @@
+{
+  "id": "ZLBG0054",
+  "name_ko": "측무늬표주박긴노린재",
+  "scientific_name": "Horridipamera lateralis (Scott, 1874)",
+  "display_name": "측무늬표주박긴노린재",
+  "family_ko": "무늬긴노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "긴노린재상과",
+      "name_latin": "Lygaeioidea"
+    },
+    "family": {
+      "name_ko": "무늬긴노린재과",
+      "name_latin": "Rhyparochromidae"
+    },
+    "subfamily": {
+      "name_ko": "좁쌀긴노린재아과",
+      "name_latin": "Plinthisinae"
+    },
+    "genus": {
+      "name_ko": "검정알락긴노린재속",
+      "name_latin": "Horridipamera"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 긴노린재상과 (Lygaeioidea)\n과 : 무늬긴노린재과 (Rhyparochromidae)\n아과 : 좁쌀긴노린재아과 (Plinthisinae)\n속 : 검정알락긴노린재속 (Horridipamera)",
+  "basic_information": {
+    "곤충명": "측무늬표주박긴노린재",
+    "학명": "Horridipamera lateralis (Scott, 1874)"
+  },
+  "information": {
+    "general_description": "몸길이 : 5.5mm\n머리와 앞가슴등판 및 작은방패판은 칠흑색이고, 앞가슴등판의 뒤옆모서리만은 연한 색이다. 겹눈과 홑눈도 흑색이고, 더듬이는 갈색이나 제 3마디의 선반부와 기부를 제외한 제 4마디는 흑색이다. 앞가슴등판의 앞가장자리에 뚜렷한 깃모양이 있고 중앙보다 약간 뒤쪽에 가로홈이 있어서, 그 전엽은 팽대되어 둥글다. 후엽은 전엽보다 짧고 넓어 그 뒤옆모서리는 약간 등쪽으로 융기되어 있다. 전엽은 점각이 없으나 후엽은 점각이 있다. 작은방패판은 길고 예각 삼각형이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 5.5mm\n머리와 앞가슴등판 및 작은방패판은 칠흑색이고, 앞가슴등판의 뒤옆모서리만은 연한 색이다. 겹눈과 홑눈도 흑색이고, 더듬이는 갈색이나 제 3마디의 선반부와 기부를 제외한 제 4마디는 흑색이다. 앞가슴등판의 앞가장자리에 뚜렷한 깃모양이 있고 중앙보다 약간 뒤쪽에 가로홈이 있어서, 그 전엽은 팽대되어 둥글다. 후엽은 전엽보다 짧고 넓어 그 뒤옆모서리는 약간 등쪽으로 융기되어 있다. 전엽은 점각이 없으나 후엽은 점각이 있다. 작은방패판은 길고 예각 삼각형이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLBG0054-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBG0054_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBG0054_1_th.jpg",
+      "alt": "측무늬표주박긴노린재 1번째 사진 : 측무늬표주박긴노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBG0054_1_th2.jpg",
+      "caption": "측무늬표주박긴노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLBG0054-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0304281020",
+      "description": "[FRIE0304281020] 측무늬표주박긴노린재 1995.08.14 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0303181053",
+      "description": "[FRIE0303181053] 측무늬표주박긴노린재 1983.07.16 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE101513",
+      "description": "[KNAE101513] 측무늬표주박긴노린재 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLBG0054-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLBG0054&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:23+00:00",
+    "html_sha256": "6d2355751b94fa878fda86744301a818a037b12d1b4f04ec90f2a2605e96029d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

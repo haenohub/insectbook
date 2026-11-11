@@ -1,0 +1,157 @@
+{
+  "id": "ZOBL0166",
+  "name_ko": "줄하늘소",
+  "scientific_name": "Xylotrechus (Rusticoclytus) rusticus (Linnaeus, 1758)",
+  "display_name": "줄하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "하늘소아과",
+      "name_latin": "Cerambycinae"
+    },
+    "genus": {
+      "name_ko": "호랑하늘소속",
+      "name_latin": "Xylotrechus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 하늘소아과 (Cerambycinae)\n속 : 호랑하늘소속 (Xylotrechus)",
+  "basic_information": {
+    "곤충명": "줄하늘소",
+    "학명": "Xylotrechus (Rusticoclytus) rusticus (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "성충의 몸은 회흑색으로 황색 반점과 무늬가 있다.",
+    "adult": null,
+    "adult_male": "몸길이가 17 mm 정도이다.",
+    "adult_female": "몸길이가 20 mm 정도이다.",
+    "larva": null,
+    "egg": "알은 직경이 2 mm 정도로 유백색이다.",
+    "pupa": null,
+    "ecology": "월동한 유충이 봄에 번데기가 되어 5월 하순~6월 하순(최성기는 6월 상순)에 성충이 출현한다. 암컷은 6월 상순~7월 중순에 수피에 산란한다. 부화 유충은 목질부 표면을 식해하면서 성장한다.",
+    "habits": "줄기의 직경이 20 cm 이상으로 굵고 수피가 얇은 수간의 형성층과 목질부 사이를 식해하여 나무를 쇠약하게 하고 죽이기도 한다. 가해 초기에는 피해목을 발견하기가 힘드나 피해가 진전되면 수피가 부풀어 오르기 때문에 두드리면 속이 빈 소리가 난다.",
+    "season": null,
+    "overwintering": "목질부 갱도 속에서 유충으로 월동한다.",
+    "distribution": "[일본]\n[중국]\n[유럽]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충의 몸은 회흑색으로 황색 반점과 무늬가 있다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "몸길이가 17 mm 정도이다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "몸길이가 20 mm 정도이다."
+    },
+    {
+      "title": "생태",
+      "text": "월동한 유충이 봄에 번데기가 되어 5월 하순~6월 하순(최성기는 6월 상순)에 성충이 출현한다. 암컷은 6월 상순~7월 중순에 수피에 산란한다. 부화 유충은 목질부 표면을 식해하면서 성장한다."
+    },
+    {
+      "title": "습성",
+      "text": "줄기의 직경이 20 cm 이상으로 굵고 수피가 얇은 수간의 형성층과 목질부 사이를 식해하여 나무를 쇠약하게 하고 죽이기도 한다. 가해 초기에는 피해목을 발견하기가 힘드나 피해가 진전되면 수피가 부풀어 오르기 때문에 두드리면 속이 빈 소리가 난다."
+    },
+    {
+      "title": "월동",
+      "text": "목질부 갱도 속에서 유충으로 월동한다."
+    },
+    {
+      "title": "알",
+      "text": "알은 직경이 2 mm 정도로 유백색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[유럽]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0166-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0166_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0166_1_th.jpg",
+      "alt": "줄하늘소 1번째 사진 : 줄하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0166_1_th2.jpg",
+      "caption": "줄하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0166-1",
+  "specimen_examples": [
+    {
+      "id": "KNUE0202212116",
+      "description": "[KNUE0202212116] 줄하늘소 1992.06.09 / / 강원대학교"
+    },
+    {
+      "id": "KNUE0202212117",
+      "description": "[KNUE0202212117] 줄하늘소 1990.06.05 / / 강원대학교"
+    },
+    {
+      "id": "KNUE0202212119",
+      "description": "[KNUE0202212119] 줄하늘소 1990.05.28 / / 강원대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "사시나무",
+      "scientific_name": "Populus tremula var. davidiana (Dode) C.K.Schneid."
+    },
+    {
+      "group": "식물",
+      "name_ko": "상수리나무",
+      "scientific_name": "Quercus acutissima Carruth."
+    },
+    {
+      "group": "식물",
+      "name_ko": "오리나무",
+      "scientific_name": "Alnus japonica (Thunb.) Steud."
+    },
+    {
+      "group": "식물",
+      "name_ko": "자작나무",
+      "scientific_name": "Betula pendula Roth"
+    },
+    {
+      "group": "식물",
+      "name_ko": "황철나무",
+      "scientific_name": "Populus suaveolens Fisch. ex Poit. & A.Vilm."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0166-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0166&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:19+00:00",
+    "html_sha256": "b17be9a08cad82c98559d53c8c096154cfdb18ceb727f667d4490ad84da4c785",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

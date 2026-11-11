@@ -1,0 +1,107 @@
+{
+  "id": "ZOAR0036",
+  "name_ko": "북방거위벌레",
+  "scientific_name": "Compsapoderus (Compsapoderus) erythropterus (Gmelin, 1790)",
+  "display_name": "북방거위벌레",
+  "family_ko": "거위벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "거위벌레과",
+      "name_latin": "Attelabidae"
+    },
+    "subfamily": {
+      "name_ko": "목거위벌레아과",
+      "name_latin": "Apoderinae"
+    },
+    "genus": {
+      "name_ko": "둥근가슴목거위벌레속",
+      "name_latin": "Compsapoderus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 거위벌레과 (Attelabidae)\n아과 : 목거위벌레아과 (Apoderinae)\n속 : 둥근가슴목거위벌레속 (Compsapoderus)",
+  "basic_information": {
+    "곤충명": "북방거위벌레",
+    "학명": "Compsapoderus (Compsapoderus) erythropterus (Gmelin, 1790)"
+  },
+  "information": {
+    "general_description": "한국, 일본, 중국, 몽고, 러시아, 유럽에 분포하며, 체장은 3.5-4.5mm 정도이다. 체색은 검은색을 띤다. 수컷은 머리 뒤쪽이 둥글며, 기부쪽으로 점차 좁아진다. 눈은 튀어나와 있다. 주둥이는 길이와 폭이 같으며, 기부가 좁고 앞쪽으로 넓어진다. 앞가슴등판은 앞쪽으로 심하게 좁아지며, 시초는 기부 뒤쪽으로 약간 오목하게 들어간다. 점각열은 뒤쪽으로 가면서 작아진다. 경절의 안쪽으로는 톱니가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[몽골]\n[일본]\n[중국]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 중국, 몽고, 러시아, 유럽에 분포하며, 체장은 3.5-4.5mm 정도이다. 체색은 검은색을 띤다. 수컷은 머리 뒤쪽이 둥글며, 기부쪽으로 점차 좁아진다. 눈은 튀어나와 있다. 주둥이는 길이와 폭이 같으며, 기부가 좁고 앞쪽으로 넓어진다. 앞가슴등판은 앞쪽으로 심하게 좁아지며, 시초는 기부 뒤쪽으로 약간 오목하게 들어간다. 점각열은 뒤쪽으로 가면서 작아진다. 경절의 안쪽으로는 톱니가 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[몽골]\n[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAR0036-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0036_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0036_1_th.jpg",
+      "alt": "북방거위벌레 1번째 사진 : 북방거위벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0036_1_th2.jpg",
+      "caption": "북방거위벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAR0036-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0407192020",
+      "description": "[KUIE0407192020] 북방거위벌레 1974.06.06 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0407192021",
+      "description": "[KUIE0407192021] 북방거위벌레 1974.06.06 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0407192023",
+      "description": "[KUIE0407192023] 북방거위벌레 1974.06.07 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAR0036-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAR0036&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:23+00:00",
+    "html_sha256": "417f111458ab2d2b11fe5960a1806701fa38d886bc2a8caea7e8f16e46b7745d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

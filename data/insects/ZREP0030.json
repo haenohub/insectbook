@@ -1,0 +1,115 @@
+{
+  "id": "ZREP0030",
+  "name_ko": "함경산뱀눈나비",
+  "scientific_name": "Oeneis urda (Eversmann, 1847)",
+  "display_name": "함경산뱀눈나비",
+  "family_ko": "네발나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "네발나비과",
+      "name_latin": "Nymphalidae"
+    },
+    "subfamily": {
+      "name_ko": "뱀눈나비아과",
+      "name_latin": "Satyrinae"
+    },
+    "genus": {
+      "name_ko": "산뱀눈나비속",
+      "name_latin": "Oeneis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 네발나비과 (Nymphalidae)\n아과 : 뱀눈나비아과 (Satyrinae)\n속 : 산뱀눈나비속 (Oeneis)",
+  "basic_information": {
+    "곤충명": "함경산뱀눈나비",
+    "학명": "Oeneis urda (Eversmann, 1847)"
+  },
+  "information": {
+    "general_description": "참산뱀눈나비와 유사하나 뒷날개 아랫면 기반부의 짙은 암갈색 무늬가 뚜렷하고 제4맥을 따라 뾰족하게 돌출하고 있는 점으로 구별된다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": "암컷은 수컷에 비하여 날개 윗면 바탕색이 일반적으로 밝은 편이며(때로는 그렇지 않은 개체도 있다), 날개모양은 폭이 넓고 둥그스름하며 눈알모양 무늬가 크다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "참산뱀눈나비보다 늦게 출현하는데 높은 산지에 발달한 초지의 양지바른 장소에 서식한다. 암수 보두 일광욕을 하기 위하여 태양에 비스듬히 날개를 펴고 앉는 경우가 많다. 수컷은 일정한 공간에서 점유행동을 하며 날 때에는 민첩하나 그다지 멀리 가지 않는다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[중국]",
+    "notes": "[국지적분포종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "참산뱀눈나비와 유사하나 뒷날개 아랫면 기반부의 짙은 암갈색 무늬가 뚜렷하고 제4맥을 따라 뾰족하게 돌출하고 있는 점으로 구별된다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "암컷은 수컷에 비하여 날개 윗면 바탕색이 일반적으로 밝은 편이며(때로는 그렇지 않은 개체도 있다), 날개모양은 폭이 넓고 둥그스름하며 눈알모양 무늬가 크다."
+    },
+    {
+      "title": "습성",
+      "text": "참산뱀눈나비보다 늦게 출현하는데 높은 산지에 발달한 초지의 양지바른 장소에 서식한다. 암수 보두 일광욕을 하기 위하여 태양에 비스듬히 날개를 펴고 앉는 경우가 많다. 수컷은 일정한 공간에서 점유행동을 하며 날 때에는 민첩하나 그다지 멀리 가지 않는다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[국지적분포종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREP0030-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREP0030_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREP0030_1_th.jpg",
+      "alt": "함경산뱀눈나비 1번째 사진 : 함경산뱀눈나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREP0030_1_th2.jpg",
+      "caption": "함경산뱀눈나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREP0030-1",
+  "specimen_examples": [
+    {
+      "id": "JFNE0304071037",
+      "description": "[JFNE0304071037] 함경산뱀눈나비 2001.11.07 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0304071039",
+      "description": "[JFNE0304071039] 함경산뱀눈나비 2001.11.09 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0304071040",
+      "description": "[JFNE0304071040] 함경산뱀눈나비 2001.11.10 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREP0030-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREP0030&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:07+00:00",
+    "html_sha256": "2271fe3335270b4dc21760007e965624a42c3022236c09f712614f1a6314fc6e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

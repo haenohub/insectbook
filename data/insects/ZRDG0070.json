@@ -1,0 +1,126 @@
+{
+  "id": "ZRDG0070",
+  "name_ko": "극남부전나비",
+  "scientific_name": "Zizina emelina (de l’Orza, 1869)",
+  "display_name": "극남부전나비",
+  "family_ko": "부전나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "부전나비과",
+      "name_latin": "Lycaenidae"
+    },
+    "subfamily": {
+      "name_ko": "부전나비아과",
+      "name_latin": "Polyommatinae"
+    },
+    "genus": {
+      "name_ko": "극남부전나비속",
+      "name_latin": "Zizina"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 부전나비과 (Lycaenidae)\n아과 : 부전나비아과 (Polyommatinae)\n속 : 극남부전나비속 (Zizina)",
+  "basic_information": {
+    "곤충명": "극남부전나비",
+    "학명": "Zizina emelina (de l’Orza, 1869)"
+  },
+  "information": {
+    "general_description": "남방부전나비와 유사하나 크기가 다소 작고 뒷날개 아랫면 제 6실의 검은 점무늬가 심하게 밑부분쪽으로 자리하여 제7의 검은 점무늬 바로 아래에 있으며 앞날개 아랫면 중실 내부의 검은 점이 없다는 점(남방부전나비에는 2개 있다)등으로 구별된다.",
+    "adult": null,
+    "adult_male": "수컷은 날개 윗면이 청남색으로 폭 넓은 검정색 테가 둘러져 있으나 암컷은 검정색으로 청색이 약간 보인다.",
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[대만]\n[호주]",
+    "notes": "[국지적분포종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "남방부전나비와 유사하나 크기가 다소 작고 뒷날개 아랫면 제 6실의 검은 점무늬가 심하게 밑부분쪽으로 자리하여 제7의 검은 점무늬 바로 아래에 있으며 앞날개 아랫면 중실 내부의 검은 점이 없다는 점(남방부전나비에는 2개 있다)등으로 구별된다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "수컷은 날개 윗면이 청남색으로 폭 넓은 검정색 테가 둘러져 있으나 암컷은 검정색으로 청색이 약간 보인다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[대만]\n[호주]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[국지적분포종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDG0070-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0070_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0070_1_th.jpg",
+      "alt": "극남부전나비 1번째 사진 : 극남부전나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0070_1_th2.jpg",
+      "caption": "극남부전나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDG0070-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0211112141",
+      "description": "[YNUE0211112141] 극남부전나비 1994.06.24 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0211112145",
+      "description": "[YNUE0211112145] 극남부전나비 1994.06.23 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0211112146",
+      "description": "[YNUE0211112146] 극남부전나비 1994.04.21 / / 영남대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "벌노랑이",
+      "scientific_name": "Lotus corniculatus var. japonica Regel"
+    },
+    {
+      "group": "식물",
+      "name_ko": "토끼풀",
+      "scientific_name": "Trifolium repens L."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDG0070.png",
+    "reference_image_id": "ZRDG0070-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T14:49:43.289306+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "d271bc3f2b1d8e5650114cd3b263ac3f60c5b81ea4602e63d39ffbd05d264640"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDG0070&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:38+00:00",
+    "html_sha256": "dc096160c183f8d3eaab1384fa5ac4ff25ddd2dd54710b6023840541cbcc12e7",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

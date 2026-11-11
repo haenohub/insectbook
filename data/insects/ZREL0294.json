@@ -1,0 +1,137 @@
+{
+  "id": "ZREL0294",
+  "name_ko": "검은줄알락명나방",
+  "scientific_name": "Ceroprepes nigrolineatella Shibuya, 1927",
+  "display_name": "검은줄알락명나방",
+  "family_ko": "명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "명나방과",
+      "name_latin": "Pyralidae"
+    },
+    "subfamily": {
+      "name_ko": "알락명나방아과",
+      "name_latin": "Phycitinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Ceroprepes"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 명나방과 (Pyralidae)\n아과 : 알락명나방아과 (Phycitinae)\n속 : (Ceroprepes)",
+  "basic_information": {
+    "곤충명": "검은줄알락명나방",
+    "학명": "Ceroprepes nigrolineatella Shibuya, 1927"
+  },
+  "information": {
+    "general_description": "Winsspan 25mm. Labial palpus upturned. Antennae of male typically unipectinated. head yellowish brown. Thorax fuscous brown. Ground color of forewing light grayish brown; antemedian line black; central area between antemedian and submarginal line light gray except costal margin. Hindwing yellowish brown; female darker than male.",
+    "adult": null,
+    "adult_male": "Male genitalia. Uncus triangulated, dorsal surface of apex and lateral part covered with hairs, apical hairs stronger than lateral hairs; apical process of gnathos elongate; juxta with long and falttened lateral arms, apex pointed; valva with clasper, terminal margin of valva rounded, costa syraight; sacculus broad at base, with acutely pointed hook at apex; vinculum rounded at terminal margin. Aedeagus armed with numerous spines at end of posterior part, rather stout. Structure of VIII abdominal sternite characteristic.",
+    "adult_female": "Apophyses posteriores longer than apophyses anteriores; ductus bursae constricted in the middle, sclerotized; corpus bursae membranous with a signum, surrounded by a cluster of numerous scobinations.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]\n[인도]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "Winsspan 25mm. Labial palpus upturned. Antennae of male typically unipectinated. head yellowish brown. Thorax fuscous brown. Ground color of forewing light grayish brown; antemedian line black; central area between antemedian and submarginal line light gray except costal margin. Hindwing yellowish brown; female darker than male."
+    },
+    {
+      "title": "성충(수)",
+      "text": "Male genitalia. Uncus triangulated, dorsal surface of apex and lateral part covered with hairs, apical hairs stronger than lateral hairs; apical process of gnathos elongate; juxta with long and falttened lateral arms, apex pointed; valva with clasper, terminal margin of valva rounded, costa syraight; sacculus broad at base, with acutely pointed hook at apex; vinculum rounded at terminal margin. Aedeagus armed with numerous spines at end of posterior part, rather stout. Structure of VIII abdominal sternite characteristic."
+    },
+    {
+      "title": "성충(암)",
+      "text": "Apophyses posteriores longer than apophyses anteriores; ductus bursae constricted in the middle, sclerotized; corpus bursae membranous with a signum, surrounded by a cluster of numerous scobinations."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]\n[인도]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0294-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0294_7.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0294_7_th.jpg",
+      "alt": "검은줄알락명나방 1번째 사진 : 검은줄알락명나방가슴 확대 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0294_7_th2.jpg",
+      "caption": "검은줄알락명나방가슴 확대 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREL0294-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0294_6.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0294_6_th.jpg",
+      "alt": "검은줄알락명나방 2번째 사진 : 검은줄알락명나방배 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0294_6_th2.jpg",
+      "caption": "검은줄알락명나방배 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREL0294-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0294_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0294_1_th.jpg",
+      "alt": "검은줄알락명나방 3번째 사진 : 검은줄알락명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0294_1_th2.jpg",
+      "caption": "검은줄알락명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0294-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0303251008",
+      "description": "[UIBE0303251008] 검은줄알락명나방 1999.07.14 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0303251009",
+      "description": "[UIBE0303251009] 검은줄알락명나방 1999.07.14 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0303251011",
+      "description": "[UIBE0303251011] 검은줄알락명나방 1999.07.14 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZREL0294.png",
+    "reference_image_id": "ZREL0294-3",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T11:03:29.457269+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "03b35a75d44bff753730a59b294b772d3817592d0c378e20f044ae087b55aa2e"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0294&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:03+00:00",
+    "html_sha256": "feac59eaa08d8f5ee3e51b2e54aaa6a621c7a887717b60b848e89524344fa2d0",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

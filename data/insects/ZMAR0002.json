@@ -1,0 +1,128 @@
+{
+  "id": "ZMAR0002",
+  "name_ko": "소금강귀매미",
+  "scientific_name": "Ledropsis discolor (Uhler, 1896)",
+  "display_name": "소금강귀매미",
+  "family_ko": "매미충과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "뿔매미상과",
+      "name_latin": "Membracoidea"
+    },
+    "family": {
+      "name_ko": "매미충과",
+      "name_latin": "Cicadellidae"
+    },
+    "subfamily": {
+      "name_ko": "귀매미아과",
+      "name_latin": "Ledrinae"
+    },
+    "genus": {
+      "name_ko": "고려귀매미속",
+      "name_latin": "Ledropsis"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 뿔매미상과 (Membracoidea)\n과 : 매미충과 (Cicadellidae)\n아과 : 귀매미아과 (Ledrinae)\n속 : 고려귀매미속 (Ledropsis)",
+  "basic_information": {
+    "곤충명": "소금강귀매미",
+    "학명": "Ledropsis discolor (Uhler, 1896)"
+  },
+  "information": {
+    "general_description": "몸길이:수컷 약 9mm, 암컷 12-13mm.\n몸은 암갈색 또는 흑갈색이고 펴면에는 점각 및 작은 과립들이 있다. 몸의 색갈은 변화가 심하며 때로는 적갈색을 띤 개체도 있다. 머기는 주걱모양이고 앞쪽으로 돌출하였으며 앙가슴등의 길이보다 길다. 정중선위에느 옅은색을 띤 세로줄이 나타나는 수가 많고 겹눈은 작고 흑갈색이며 홑눈은 어두운 색을 띤다. 앞가슴드은 뒤쪽이 융기되었고 작은방패판은 어두운 색이며 3개의 옅운 색 무늬가 있는 개체도 많다. 앞날개는 길고 담갈색을 띠고 반투명하며 암갈색을 띤다. 중앙에는 가로로 옅은 색의 넓은 띠가 나타난다. 날개의 끝부분은 다소 투명하고 그물눈 모양이다.",
+    "adult": null,
+    "adult_male": "머리가 암컷보다 짧다.",
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[중국]\n[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이:수컷 약 9mm, 암컷 12-13mm.\n몸은 암갈색 또는 흑갈색이고 펴면에는 점각 및 작은 과립들이 있다. 몸의 색갈은 변화가 심하며 때로는 적갈색을 띤 개체도 있다. 머기는 주걱모양이고 앞쪽으로 돌출하였으며 앙가슴등의 길이보다 길다. 정중선위에느 옅은색을 띤 세로줄이 나타나는 수가 많고 겹눈은 작고 흑갈색이며 홑눈은 어두운 색을 띤다. 앞가슴드은 뒤쪽이 융기되었고 작은방패판은 어두운 색이며 3개의 옅운 색 무늬가 있는 개체도 많다. 앞날개는 길고 담갈색을 띠고 반투명하며 암갈색을 띤다. 중앙에는 가로로 옅은 색의 넓은 띠가 나타난다. 날개의 끝부분은 다소 투명하고 그물눈 모양이다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "머리가 암컷보다 짧다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMAR0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0002_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0002_2_th.jpg",
+      "alt": "소금강귀매미 1번째 사진 : 소금강귀매미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0002_2_th2.jpg",
+      "caption": "소금강귀매미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZMAR0002-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0002_1_th.jpg",
+      "alt": "소금강귀매미 2번째 사진 : 소금강귀매미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0002_1_th2.jpg",
+      "caption": "소금강귀매미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMAR0002-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0306251200",
+      "description": "[KPNE0306251200] 소금강귀매미 1991.08.18 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0306251201",
+      "description": "[KPNE0306251201] 소금강귀매미 1998.09.19 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0306251198",
+      "description": "[KPNE0306251198] 소금강귀매미 1992.10.03 / / 경북대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "상수리나무",
+      "scientific_name": "Quercus acutissima Carruth."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZMAR0002-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMAR0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:08+00:00",
+    "html_sha256": "de4a3fed77d0ec0ec872114e9b9f9aa62f84cd01ecdef791532aa4200f4b8575",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

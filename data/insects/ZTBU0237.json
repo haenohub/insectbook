@@ -1,0 +1,99 @@
+{
+  "id": "ZTBU0237",
+  "name_ko": "어리가락지자루맵시벌",
+  "scientific_name": "Heteropelma amictum (Fabricius, 1775)",
+  "display_name": "어리가락지자루맵시벌",
+  "family_ko": "맵시벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "맵시벌과",
+      "name_latin": "Ichneumonidae"
+    },
+    "subfamily": {
+      "name_ko": "그물등자루맵시벌아과",
+      "name_latin": "Anomaloninae"
+    },
+    "genus": {
+      "name_ko": "긴가락지자루맵시벌속",
+      "name_latin": "Heteropelma"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 맵시벌과 (Ichneumonidae)\n아과 : 그물등자루맵시벌아과 (Anomaloninae)\n속 : 긴가락지자루맵시벌속 (Heteropelma)",
+  "basic_information": {
+    "곤충명": "어리가락지자루맵시벌",
+    "학명": "Heteropelma amictum (Fabricius, 1775)"
+  },
+  "information": {
+    "general_description": "날개 길이 7-16mm이다. 머리, 가슴, 뒷다리 일부는 검은색이며 더듬이, 복부는 진한 적갈색이다. 앞다리와 중간다리는 적황색이다. 더듬이는 날개보다 길고 52-64개의 마디를 가진다. 산란관도 복부 말단의 높이보다 길다. 경포는 없으며 연문은 길다. IOD 0.65, CI: 0.68-1.10, BI: 1.92, RI: 4.0, LBI: 7.00",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개 길이 7-16mm이다. 머리, 가슴, 뒷다리 일부는 검은색이며 더듬이, 복부는 진한 적갈색이다. 앞다리와 중간다리는 적황색이다. 더듬이는 날개보다 길고 52-64개의 마디를 가진다. 산란관도 복부 말단의 높이보다 길다. 경포는 없으며 연문은 길다. IOD 0.65, CI: 0.68-1.10, BI: 1.92, RI: 4.0, LBI: 7.00"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBU0237-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0237_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0237_1_th.jpg",
+      "alt": "어리가락지자루맵시벌 1번째 사진 : 긴얼룩가락지자루맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0237_1_th2.jpg",
+      "caption": "긴얼룩가락지자루맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBU0237-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306021046",
+      "description": "[YNUE0306021046] 어리가락지자루맵시벌 1994.08.04 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306021047",
+      "description": "[YNUE0306021047] 어리가락지자루맵시벌 1986.08.09 / / 영남대학교"
+    },
+    {
+      "id": "KNAE348194",
+      "description": "[KNAE348194] 어리가락지자루맵시벌 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTBU0237-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBU0237&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:29+00:00",
+    "html_sha256": "d8e18b7394501ff4bea85b39cd5e26c4b3f05b3e465100ad4e59c25a071527ca",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

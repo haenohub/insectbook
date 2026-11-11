@@ -1,0 +1,147 @@
+{
+  "id": "ZRDV0062",
+  "name_ko": "높은산세줄나비",
+  "scientific_name": "Neptis speyeri Staudinger, 1887",
+  "display_name": "높은산세줄나비",
+  "family_ko": "네발나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "네발나비과",
+      "name_latin": "Nymphalidae"
+    },
+    "subfamily": {
+      "name_ko": "줄나비아과",
+      "name_latin": "Limenitidinae"
+    },
+    "genus": {
+      "name_ko": "세줄나비속",
+      "name_latin": "Neptis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 네발나비과 (Nymphalidae)\n아과 : 줄나비아과 (Limenitidinae)\n속 : 세줄나비속 (Neptis)",
+  "basic_information": {
+    "곤충명": "높은산세줄나비",
+    "학명": "Neptis speyeri Staudinger, 1887"
+  },
+  "information": {
+    "general_description": "애기세줄나비와 유사하나 앞날개 중실 속에 있는 흰 줄무늬가 두조각으로 완전히 갈라지지 않았고 제1a실과 제1b실의 흰무늬가 작은 점 등으로 쉽게 구별할 수 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": "암컷은 수컷에 비하여 다소 크나 식별이 어려우므로 배끝을 조사하는 것이 확실하고 안전하다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "활엽수림 계곡의 그늘진 곳, 개울가. 임도에 서식하며 애기세줄나비에 비해 개체수는 매우 적다. 오전에는 길가에 습지에 수컷이 내려오는 경우가 많다. 가끔 잎이나 바위 위에서 날개르 편 상태로 일광욕을 한다.",
+    "season": null,
+    "overwintering": "애벌레",
+    "distribution": "[러시아]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "애기세줄나비와 유사하나 앞날개 중실 속에 있는 흰 줄무늬가 두조각으로 완전히 갈라지지 않았고 제1a실과 제1b실의 흰무늬가 작은 점 등으로 쉽게 구별할 수 있다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "암컷은 수컷에 비하여 다소 크나 식별이 어려우므로 배끝을 조사하는 것이 확실하고 안전하다."
+    },
+    {
+      "title": "습성",
+      "text": "활엽수림 계곡의 그늘진 곳, 개울가. 임도에 서식하며 애기세줄나비에 비해 개체수는 매우 적다. 오전에는 길가에 습지에 수컷이 내려오는 경우가 많다. 가끔 잎이나 바위 위에서 날개르 편 상태로 일광욕을 한다."
+    },
+    {
+      "title": "월동",
+      "text": "애벌레"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDV0062-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0062_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0062_3.jpg",
+      "alt": "높은산세줄나비 1번째 사진 : 높은산세줄나비 수컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0062_3_th2.jpg",
+      "caption": "높은산세줄나비 수컷 이미지",
+      "photographed_at": "20190528",
+      "location": "경기도 포천시 소흘읍 광릉숲",
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRDV0062-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0062_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0062_2_th.jpg",
+      "alt": "높은산세줄나비 2번째 사진 : 높은산세줄나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0062_2_th2.jpg",
+      "caption": "높은산세줄나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDV0062-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0062_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0062_1_th.jpg",
+      "alt": "높은산세줄나비 3번째 사진 : 높은산세줄나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0062_1_th2.jpg",
+      "caption": "높은산세줄나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDV0062-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0306031001",
+      "description": "[FRIE0306031001] 높은산세줄나비 1987.06.09 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0306031002",
+      "description": "[FRIE0306031002] 높은산세줄나비 1986.06.08 / / 국립산림과학원"
+    },
+    {
+      "id": "KUIE0303141124",
+      "description": "[KUIE0303141124] 높은산세줄나비 1977.06.04 / / 고려대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "까치박달",
+      "scientific_name": "Carpinus cordata Blume"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDV0062-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDV0062&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:35+00:00",
+    "html_sha256": "2583508eb79a5b64a47084d358516f6e39fad0247003c3428ff2e27e81deb791",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

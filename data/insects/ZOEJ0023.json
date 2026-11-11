@@ -1,0 +1,118 @@
+{
+  "id": "ZOEJ0023",
+  "name_ko": "고려노랑풍뎅이",
+  "scientific_name": "Pseudosymmachia impressifrons (Fairmaire, 1887)",
+  "display_name": "고려노랑풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "검정풍뎅이아과",
+      "name_latin": "Melolonthinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Pseudosymmachia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 검정풍뎅이아과 (Melolonthinae)\n속 : (Pseudosymmachia)",
+  "basic_information": {
+    "곤충명": "고려노랑풍뎅이",
+    "학명": "Pseudosymmachia impressifrons (Fairmaire, 1887)"
+  },
+  "information": {
+    "general_description": "중국, 일본에 분포하며, 비교적 대형으로 촉각은 9마디이며, 정수리 뒤쪽에 1개의 가로 융기선이 있고, 발톱은 중앙 뒤쪽에서 직각으로 나간 1개의 이빨을 가진 점이 이 속의 특징이다. 몸은 황갈색의 알모양이며 등쪽은 매끈하나 가슴의 복면은 황색의 긴 털이 나있다. 머리에는 융기와 함몰부가 있고, 방패는 짧으나 폭이 넓고, 앞쪽으로 좁아지며, 테두리는 위로 상하였고 점각은 작고 드물다. 딱지날개는 가슴 폭의 2배길이이며, 앞가슴등판보다 가는 점각이 조밀하게 분포한다. 보부복판은 매끈하나 중앙 외에는 점각이 흩어져 있으며, 짧은 가시털을 동반하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중국, 일본에 분포하며, 비교적 대형으로 촉각은 9마디이며, 정수리 뒤쪽에 1개의 가로 융기선이 있고, 발톱은 중앙 뒤쪽에서 직각으로 나간 1개의 이빨을 가진 점이 이 속의 특징이다. 몸은 황갈색의 알모양이며 등쪽은 매끈하나 가슴의 복면은 황색의 긴 털이 나있다. 머리에는 융기와 함몰부가 있고, 방패는 짧으나 폭이 넓고, 앞쪽으로 좁아지며, 테두리는 위로 상하였고 점각은 작고 드물다. 딱지날개는 가슴 폭의 2배길이이며, 앞가슴등판보다 가는 점각이 조밀하게 분포한다. 보부복판은 매끈하나 중앙 외에는 점각이 흩어져 있으며, 짧은 가시털을 동반하다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOEJ0023-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0023_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0023_1_th.jpg",
+      "alt": "고려노랑풍뎅이 1번째 사진 : 고려노랑풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0023_1_th2.jpg",
+      "caption": "고려노랑풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOEJ0023-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0306162039",
+      "description": "[SNUE0306162039] 고려노랑풍뎅이 1992.06.15 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0306182213",
+      "description": "[SNUE0306182213] 고려노랑풍뎅이 1989.06.17 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0306182214",
+      "description": "[SNUE0306182214] 고려노랑풍뎅이 1992.06.23 / / 서울대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "밤나무",
+      "scientific_name": "Castanea crenata Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "포도",
+      "scientific_name": "Vitis vinifera L."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOEJ0023.png",
+    "reference_image_id": "ZOEJ0023-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T12:22:34.620489+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "28252a1ab4a84474dd122d4b190b2bd8611687a6c7ca2bde82ef13188b321f7e"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOEJ0023&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:42+00:00",
+    "html_sha256": "c150459077261267e3b1dd41d6e48218973cdfd5eea9d615ba5ac253d31349bb",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

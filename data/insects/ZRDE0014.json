@@ -1,0 +1,103 @@
+{
+  "id": "ZRDE0014",
+  "name_ko": "꼬마얼룩무늬쐐기나방",
+  "scientific_name": "Narosa fulgens (Leech, 1889)",
+  "display_name": "꼬마얼룩무늬쐐기나방",
+  "family_ko": "쐐기나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "알락나방상과",
+      "name_latin": "Zygaenoidea"
+    },
+    "family": {
+      "name_ko": "쐐기나방과",
+      "name_latin": "Limacodidae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Narosa"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 알락나방상과 (Zygaenoidea)\n과 : 쐐기나방과 (Limacodidae)\n속 : (Narosa)",
+  "basic_information": {
+    "곤충명": "꼬마얼룩무늬쐐기나방",
+    "학명": "Narosa fulgens (Leech, 1889)"
+  },
+  "information": {
+    "general_description": "국내분포 경기도, 서울, 충청남도\n국외분포 일본, 중국\n더듬이는 실 모양이며, 아랫입술수염은 약간 길게 쪽으로 향하였다. 머리, 가슴의 등쪽면, 배는 유백색바탕에 황색의 인모가 섞여있다. 앞날개는 유백색이며, 전연을 제외한 중실의 주변부는 황갈색의 무늬가 있다. 외연에는 작은 흑갈색의 점의 열이 있으나, 뚜렷하지 않은 경우도 있다. 뒷날개는 유백색이며 무늬는 없다. 날개의 길이는 18～22㎜이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 7～8월경에 출현",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "국내분포 경기도, 서울, 충청남도\n국외분포 일본, 중국\n더듬이는 실 모양이며, 아랫입술수염은 약간 길게 쪽으로 향하였다. 머리, 가슴의 등쪽면, 배는 유백색바탕에 황색의 인모가 섞여있다. 앞날개는 유백색이며, 전연을 제외한 중실의 주변부는 황갈색의 무늬가 있다. 외연에는 작은 흑갈색의 점의 열이 있으나, 뚜렷하지 않은 경우도 있다. 뒷날개는 유백색이며 무늬는 없다. 날개의 길이는 18～22㎜이다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 7～8월경에 출현"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDE0014-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDE0014_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDE0014_1_th.jpg",
+      "alt": "꼬마얼룩무늬쐐기나방 1번째 사진 : 꼬마얼룩무늬쐐기나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDE0014_1_th2.jpg",
+      "caption": "꼬마얼룩무늬쐐기나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDE0014-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0301281065",
+      "description": "[FRIE0301281065] 꼬마얼룩무늬쐐기나방 1998.07.29 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0301281066",
+      "description": "[FRIE0301281066] 꼬마얼룩무늬쐐기나방 1998.07.08 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0301281067",
+      "description": "[FRIE0301281067] 꼬마얼룩무늬쐐기나방 1998.07.29 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDE0014.png",
+    "reference_image_id": "ZRDE0014-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T14:16:25.689406+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "899bee3247909c8b3d6aebf91db82a3f5ac8e9ec7e20a3120535587ee673ad79"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDE0014&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:45+00:00",
+    "html_sha256": "3050d86b8fa5a4038558791afcb487a2899b31fb3adb687944d1af688e8df99e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

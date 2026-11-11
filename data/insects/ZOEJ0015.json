@@ -1,0 +1,99 @@
+{
+  "id": "ZOEJ0015",
+  "name_ko": "큰다색풍뎅이",
+  "scientific_name": "Holotrichia niponensis (Lewis, 1895)",
+  "display_name": "큰다색풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "검정풍뎅이아과",
+      "name_latin": "Melolonthinae"
+    },
+    "genus": {
+      "name_ko": "검정풍뎅이속",
+      "name_latin": "Holotrichia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 검정풍뎅이아과 (Melolonthinae)\n속 : 검정풍뎅이속 (Holotrichia)",
+  "basic_information": {
+    "곤충명": "큰다색풍뎅이",
+    "학명": "Holotrichia niponensis (Lewis, 1895)"
+  },
+  "information": {
+    "general_description": "중국, 동부 시베리아, 일본에 분포하며, 몸이 넓고 국내에서 가장 큰 종이다. 담갈색 내지 적갈색인데 배쪽은 보다 엷은 색이며, 따기날개는 각질이 얇고, 무지개 빛처럼 연한 갈색의 반사광이 있다. 수컷의 촉각 곤봉부는 자루부분 의 절반 길이이며, 앞가슴등판의 점각은 작고 낮으며 드물다. 미절판은 뚜렷한 테두리가 있고, 판이 전체적으로 높으나 앞쪽이 좀 더 높고, 점각은 매우 작고 드물며, 수컷은 뒤끝이 넓으나 암컷은 약간 뾰족하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중국, 동부 시베리아, 일본에 분포하며, 몸이 넓고 국내에서 가장 큰 종이다. 담갈색 내지 적갈색인데 배쪽은 보다 엷은 색이며, 따기날개는 각질이 얇고, 무지개 빛처럼 연한 갈색의 반사광이 있다. 수컷의 촉각 곤봉부는 자루부분 의 절반 길이이며, 앞가슴등판의 점각은 작고 낮으며 드물다. 미절판은 뚜렷한 테두리가 있고, 판이 전체적으로 높으나 앞쪽이 좀 더 높고, 점각은 매우 작고 드물며, 수컷은 뒤끝이 넓으나 암컷은 약간 뾰족하다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOEJ0015-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0015_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0015_1_th.jpg",
+      "alt": "큰다색풍뎅이 1번째 사진 : 큰다색풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0015_1_th2.jpg",
+      "caption": "큰다색풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOEJ0015-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0204291121",
+      "description": "[KUIE0204291121] 큰다색풍뎅이 1959.08.02 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0204291122",
+      "description": "[KUIE0204291122] 큰다색풍뎅이 1967.05.05 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0204291123",
+      "description": "[KUIE0204291123] 큰다색풍뎅이 1956.07.23 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOEJ0015-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOEJ0015&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:45+00:00",
+    "html_sha256": "e7c294e4bb97d24ddd2b364e677ebe7bff89f41c004341312e6f0fd38ac6002c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

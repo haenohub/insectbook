@@ -1,0 +1,95 @@
+{
+  "id": "ZODD0003",
+  "name_ko": "물맴이",
+  "scientific_name": "Gyrinus (Gyrinus) japonicus Sharp, 1873",
+  "display_name": "물맴이",
+  "family_ko": "물맴이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "물맴이과",
+      "name_latin": "Gyrinidae"
+    },
+    "genus": {
+      "name_ko": "물맴이속",
+      "name_latin": "Gyrinus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 물맴이과 (Gyrinidae)\n속 : 물맴이속 (Gyrinus)",
+  "basic_information": {
+    "곤충명": "물맴이",
+    "학명": "Gyrinus (Gyrinus) japonicus Sharp, 1873"
+  },
+  "information": {
+    "general_description": "한국, 일본, 대만에 분포하며, 체장은 6-7.5mm 내외이다. 머리에는 점각이 없고 겨분은 비교적 크며 겹눈 사이에는 두개의 오목 들어간 곳이 있고 머리방패에는 세로로 주름살이 많고 촉각은 전부가 흑색이며 윗입술도 흑색이고 큰턱, 작은턱, 아랫입술은 암적갈색이다. 그러나 양쪽 수염의 끝은 흑갈색이다. 딱지날개는 광택이 둔하고 열한줄의 점각열이 있고 날개끝은 둥글다. 배면은 흑색이고 광택이 강하고 다리는 황갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 대만에 분포하며, 체장은 6-7.5mm 내외이다. 머리에는 점각이 없고 겨분은 비교적 크며 겹눈 사이에는 두개의 오목 들어간 곳이 있고 머리방패에는 세로로 주름살이 많고 촉각은 전부가 흑색이며 윗입술도 흑색이고 큰턱, 작은턱, 아랫입술은 암적갈색이다. 그러나 양쪽 수염의 끝은 흑갈색이다. 딱지날개는 광택이 둔하고 열한줄의 점각열이 있고 날개끝은 둥글다. 배면은 흑색이고 광택이 강하고 다리는 황갈색이다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZODD0003-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODD0003_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODD0003_1_th.jpg",
+      "alt": "물맴이 1번째 사진 : 물맴이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODD0003_1_th2.jpg",
+      "caption": "물맴이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZODD0003-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408191074",
+      "description": "[MPME0408191074] 물맴이 1994.08.07 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0407231011",
+      "description": "[MPME0407231011] 물맴이 1994.06.18 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0407231012",
+      "description": "[MPME0407231012] 물맴이 1994.06.18 / / 목포자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZODD0003-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZODD0003&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:41+00:00",
+    "html_sha256": "26109c33b961693a98146a2b61233c46b19f4824da23f67f74353ab2964c6c3e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "id": "ZOBL0003",
+  "name_ko": "장수하늘소",
+  "scientific_name": "Callipogon (Eoxenus) relictus Semenov, 1899",
+  "display_name": "장수하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "톱하늘소아과",
+      "name_latin": "Prioninae"
+    },
+    "genus": {
+      "name_ko": "장수하늘소속",
+      "name_latin": "Callipogon"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 톱하늘소아과 (Prioninae)\n속 : 장수하늘소속 (Callipogon)",
+  "basic_information": {
+    "곤충명": "장수하늘소",
+    "학명": "Callipogon (Eoxenus) relictus Semenov, 1899"
+  },
+  "information": {
+    "general_description": "구북구 지역에서 가장 큰 하늘소로, 수컷이 암컷에 비해 몸이 크다. 머리와 가슴은 흑색이고 날개는 적갈색이며 배는 황색 잔털로 덮여 있다. 큰턱은 크고 튼튼하게 생겼으며 위로 구부러져 있고 바깥 쪽에 1개의 가지가 있다. 앞가슴등판의 옆가장자리에는 톱니 모양의 돌기가 나 있으며, 등판에는 황갈색의 털뭉치가 있다.\n우리 나라에서는 현재 그 서식지가 극히 국한되어 있으며, 우리 나라에서 서식하는 곤충 중 유일하게 천연기념물 제218호로 지정되어 있다.",
+    "adult": null,
+    "adult_male": ".몸길이가 85∼110 mm 가량 되며, 암컷에 비해 큰턱이 잘 발달되어 있다. 큰턱의 발달 정도에 따라 장치형, 중치형, 단치형 등으로 구분된다.",
+    "adult_female": "몸길이는 60∼90 mm 가량 되며, 수컷에 비해 몸의 크기가 작다. 암컷은 수컷에 비해 큰턱이 잘 발달되어 있지 않다",
+    "larva": "유충은 대형으로 황백색이다.",
+    "egg": null,
+    "pupa": null,
+    "ecology": "수령이 오래 된 서어나무 노목들이 자생하고 있는 곳에 서식한다. 성충은 6~9월에 나타나며, 수피에 구멍을 뚫고 한 알씩 산란한다. 유충은 목질부를 식해한다. 유충 기간은 불명하나 3~5년인 것으로 추정된다.",
+    "habits": "생존목보다 다소 썩은 나무에 서식한다. 성충은 신갈나무 수간에서 수액을 빨아먹는데 암컷 한 마리가 있으면 수컷 3~4마리가 모여 서로 상대방을 물어 죽이는 싸움이 벌어지기도 한다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대한민국] 강원특별자치도\n[러시아] 극동지역",
+    "notes": "[I급 멸종위기야생동식물] 환경부지정\n[반출금지종] 환경부지정\n[천연기념물] 문화재청 지정. 우리 나라에서는 현재 그 서식지가 극히 국한되어 있으며, 우리 나라에서 서식하는 곤충 중 유일하게 천연기념물 제218호로 지정되어 있다.\n[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": "우리나라에 서식하는 곤충중 가장 큰 곤충으로 알려져 있다."
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "구북구 지역에서 가장 큰 하늘소로, 수컷이 암컷에 비해 몸이 크다. 머리와 가슴은 흑색이고 날개는 적갈색이며 배는 황색 잔털로 덮여 있다. 큰턱은 크고 튼튼하게 생겼으며 위로 구부러져 있고 바깥 쪽에 1개의 가지가 있다. 앞가슴등판의 옆가장자리에는 톱니 모양의 돌기가 나 있으며, 등판에는 황갈색의 털뭉치가 있다.\n우리 나라에서는 현재 그 서식지가 극히 국한되어 있으며, 우리 나라에서 서식하는 곤충 중 유일하게 천연기념물 제218호로 지정되어 있다."
+    },
+    {
+      "title": "성충(수)",
+      "text": ".몸길이가 85∼110 mm 가량 되며, 암컷에 비해 큰턱이 잘 발달되어 있다. 큰턱의 발달 정도에 따라 장치형, 중치형, 단치형 등으로 구분된다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "몸길이는 60∼90 mm 가량 되며, 수컷에 비해 몸의 크기가 작다. 암컷은 수컷에 비해 큰턱이 잘 발달되어 있지 않다"
+    },
+    {
+      "title": "유충",
+      "text": "유충은 대형으로 황백색이다."
+    },
+    {
+      "title": "참고사항",
+      "text": "우리나라에 서식하는 곤충중 가장 큰 곤충으로 알려져 있다."
+    },
+    {
+      "title": "생태",
+      "text": "수령이 오래 된 서어나무 노목들이 자생하고 있는 곳에 서식한다. 성충은 6~9월에 나타나며, 수피에 구멍을 뚫고 한 알씩 산란한다. 유충은 목질부를 식해한다. 유충 기간은 불명하나 3~5년인 것으로 추정된다."
+    },
+    {
+      "title": "습성",
+      "text": "생존목보다 다소 썩은 나무에 서식한다. 성충은 신갈나무 수간에서 수액을 빨아먹는데 암컷 한 마리가 있으면 수컷 3~4마리가 모여 서로 상대방을 물어 죽이는 싸움이 벌어지기도 한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대한민국] 강원특별자치도\n[러시아] 극동지역"
+    },
+    {
+      "title": "특기사항",
+      "text": "[I급 멸종위기야생동식물] 환경부지정\n[반출금지종] 환경부지정\n[천연기념물] 문화재청 지정. 우리 나라에서는 현재 그 서식지가 극히 국한되어 있으며, 우리 나라에서 서식하는 곤충 중 유일하게 천연기념물 제218호로 지정되어 있다.\n[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0003-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0003_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0003_3.jpg",
+      "alt": "장수하늘소 1번째 사진 : ",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0003_3_th2.jpg",
+      "caption": null,
+      "photographed_at": "20170721",
+      "location": null,
+      "photographer": "국립수목원(임종옥)"
+    },
+    {
+      "id": "ZOBL0003-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0003_2.JPG",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0003_2_th.JPG",
+      "alt": "장수하늘소 2번째 사진 : 장수하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0003_2_th2.JPG",
+      "caption": "장수하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBL0003-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0003_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0003_1_th.jpg",
+      "alt": "장수하늘소 3번째 사진 : 장수하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0003_1_th2.jpg",
+      "caption": "장수하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0003-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0207259002",
+      "description": "[KNAE0207259002] 장수하늘소 1990.07.20 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0207259001",
+      "description": "[KNAE0207259001] 장수하늘소 1990.07.20 / / 국립수목원"
+    },
+    {
+      "id": "ENHE1108103239",
+      "description": "[ENHE1108103239] 장수하늘소 1967.07.25 / / 이화여자대학교 자연사박물관"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "서어나무",
+      "scientific_name": "Carpinus laxiflora (Siebold & Zucc.) Blume"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0003-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0003&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:10+00:00",
+    "html_sha256": "bdf12557b83e5f7ea042181758c3801b11693e47109c10f2181dcae17f991027",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

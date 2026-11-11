@@ -1,0 +1,107 @@
+{
+  "id": "ZSAH0006",
+  "name_ko": "빨간뒤영벌파리매",
+  "scientific_name": "Laphria rufa Roder, 1887",
+  "display_name": "빨간뒤영벌파리매",
+  "family_ko": "파리매과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "파리매상과",
+      "name_latin": "Asiloidea"
+    },
+    "family": {
+      "name_ko": "파리매과",
+      "name_latin": "Asilidae"
+    },
+    "subfamily": {
+      "name_ko": "벌파리매아과",
+      "name_latin": "Laphriinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Laphria"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 파리매상과 (Asiloidea)\n과 : 파리매과 (Asilidae)\n아과 : 벌파리매아과 (Laphriinae)\n속 : (Laphria)",
+  "basic_information": {
+    "곤충명": "빨간뒤영벌파리매",
+    "학명": "Laphria rufa Roder, 1887"
+  },
+  "information": {
+    "general_description": "몸길이는 23 mm 내외이다. 몸은 흑색이고, 얼굴에 긴 황색 털이 나 있다. 가슴등판에는 적황색 털이 나 있으며, 날개는 투명하고 맥은 황갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "돌멩이 위나 바위에 숨어 있다가 산 벌레들이 날아들면 재빠르게 잡아먹는다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 23 mm 내외이다. 몸은 흑색이고, 얼굴에 긴 황색 털이 나 있다. 가슴등판에는 적황색 털이 나 있으며, 날개는 투명하고 맥은 황갈색이다."
+    },
+    {
+      "title": "습성",
+      "text": "돌멩이 위나 바위에 숨어 있다가 산 벌레들이 날아들면 재빠르게 잡아먹는다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSAH0006-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSAH0006_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSAH0006_1_th.jpg",
+      "alt": "빨간뒤영벌파리매 1번째 사진 : 빨간뒤영벌파리매전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSAH0006_1_th2.jpg",
+      "caption": "빨간뒤영벌파리매전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSAH0006-1",
+  "specimen_examples": [
+    {
+      "id": "CBNE0304071005",
+      "description": "[CBNE0304071005] 빨간뒤영벌파리매 2000.08.17 / / 충북대학교"
+    },
+    {
+      "id": "KNAE0303251085",
+      "description": "[KNAE0303251085] 빨간뒤영벌파리매 1995.06.01 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303251086",
+      "description": "[KNAE0303251086] 빨간뒤영벌파리매 1993.08.06 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZSAH0006-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSAH0006&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:02+00:00",
+    "html_sha256": "859ef636e3220d1d7db9633efd42ebb3e134f368900e0ee17f32a89f61d7cb5d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

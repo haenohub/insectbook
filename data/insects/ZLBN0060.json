@@ -1,0 +1,107 @@
+{
+  "id": "ZLBN0060",
+  "name_ko": "무늬고리장님노린재",
+  "scientific_name": "Apolygus limbatus (Fallén, 1807)",
+  "display_name": "무늬고리장님노린재",
+  "family_ko": "장님노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "장님노린재상과",
+      "name_latin": "Miroidea"
+    },
+    "family": {
+      "name_ko": "장님노린재과",
+      "name_latin": "Miridae"
+    },
+    "subfamily": {
+      "name_ko": "장님노린재아과",
+      "name_latin": "Mirinae"
+    },
+    "genus": {
+      "name_ko": "무늬고리장님노린재속",
+      "name_latin": "Apolygus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 장님노린재상과 (Miroidea)\n과 : 장님노린재과 (Miridae)\n아과 : 장님노린재아과 (Mirinae)\n속 : 무늬고리장님노린재속 (Apolygus)",
+  "basic_information": {
+    "곤충명": "무늬고리장님노린재",
+    "학명": "Apolygus limbatus (Fallén, 1807)"
+  },
+  "information": {
+    "general_description": "몸길이 : 5.5-7.5mm\n몸은 연두색을 띠며, 등면에 광택이 있다. 죽은 뒤에는 체색이 회황색또는 황갈색으로 변한다. 표면에 미세한 잔털이 산재한다. 더듬이는 가늘고 몸길이보다 약간 더 길며, 제 2마디가 가장 길고 선반부는 갈색을 띤다. 앞가슴등판은 중앙부가 불룩하고, 개체에 따라 희미한 녹갈색의 구름 무늬가 나타난다. 작은방패판은 정삼각형이고 단순하다. 조상부의 끝지점이 가장 높으며, 그 이후부터 아래로 급격히 경사진다. 이 부분과 막질부와의 경계지점에 현저한 흑갈색 또는 흑식 무늬를 갖고, 막질부는 흑갈색을 띠며 반투명하다. 다리는 연두색을 띠고 길게 발달하였다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "산야의 초원지대나 경작지 주변에 널리 분포한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[유럽]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 5.5-7.5mm\n몸은 연두색을 띠며, 등면에 광택이 있다. 죽은 뒤에는 체색이 회황색또는 황갈색으로 변한다. 표면에 미세한 잔털이 산재한다. 더듬이는 가늘고 몸길이보다 약간 더 길며, 제 2마디가 가장 길고 선반부는 갈색을 띤다. 앞가슴등판은 중앙부가 불룩하고, 개체에 따라 희미한 녹갈색의 구름 무늬가 나타난다. 작은방패판은 정삼각형이고 단순하다. 조상부의 끝지점이 가장 높으며, 그 이후부터 아래로 급격히 경사진다. 이 부분과 막질부와의 경계지점에 현저한 흑갈색 또는 흑식 무늬를 갖고, 막질부는 흑갈색을 띠며 반투명하다. 다리는 연두색을 띠고 길게 발달하였다."
+    },
+    {
+      "title": "생태",
+      "text": "산야의 초원지대나 경작지 주변에 널리 분포한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[유럽]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLBN0060-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBN0060_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBN0060_1_th.jpg",
+      "alt": "무늬고리장님노린재 1번째 사진 : 무늬고리장님노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBN0060_1_th2.jpg",
+      "caption": "무늬고리장님노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLBN0060-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0212236182",
+      "description": "[YNUE0212236182] 무늬고리장님노린재 1996.06.01 / / 영남대학교"
+    },
+    {
+      "id": "HNUE0408175011",
+      "description": "[HNUE0408175011] 무늬고리장님노린재 2002.05.22 / / 한남대학교 자연사박물관"
+    },
+    {
+      "id": "HNUE0408175012",
+      "description": "[HNUE0408175012] 무늬고리장님노린재 2002.05.22 / / 한남대학교 자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLBN0060-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLBN0060&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:26+00:00",
+    "html_sha256": "2ac9c3db67c061e69699e8dc18b91d7323c2163b13ed29e8653c63345560b18b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

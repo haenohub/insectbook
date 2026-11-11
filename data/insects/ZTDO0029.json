@@ -1,0 +1,107 @@
+{
+  "id": "ZTDO0029",
+  "name_ko": "낙엽송테두리잎벌",
+  "scientific_name": "Pristiphora (Lygaeonematus) erichsonii (Hartig, 1837)",
+  "display_name": "낙엽송테두리잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "수염잎벌아과",
+      "name_latin": "Nematinae"
+    },
+    "genus": {
+      "name_ko": "테두리잎벌속",
+      "name_latin": "Pristiphora"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 수염잎벌아과 (Nematinae)\n속 : 테두리잎벌속 (Pristiphora)",
+  "basic_information": {
+    "곤충명": "낙엽송테두리잎벌",
+    "학명": "Pristiphora (Lygaeonematus) erichsonii (Hartig, 1837)"
+  },
+  "information": {
+    "general_description": "머리방패는 앞가두리가 보통 잘린형이다. 머리의 이마부위에는 보통lateral wall이 없으나 가끔 희미한 주름이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "머리방패는 앞가두리가 보통 잘린형이다. 머리의 이마부위에는 보통lateral wall이 없으나 가끔 희미한 주름이 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0029-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0029_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0029_1_th.jpg",
+      "alt": "낙엽송테두리잎벌 1번째 사진 : 낙엽송테두리잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0029_1_th2.jpg",
+      "caption": "낙엽송테두리잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0029-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305141004",
+      "description": "[YNUE0305141004] 낙엽송테두리잎벌 1999.05.06 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305141003",
+      "description": "[YNUE0305141003] 낙엽송테두리잎벌 1997.07.24 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305141002",
+      "description": "[YNUE0305141002] 낙엽송테두리잎벌 1998.05.28 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTDO0029.png",
+    "reference_image_id": "ZTDO0029-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T15:48:59.045803+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "872d6c3889fa1b6fead3bc7a5bcd112a7266f259baf83248c979295167f5b610"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0029&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:12+00:00",
+    "html_sha256": "02be16aa38dd6c66216e1f52da235017e204ff8702256f76e6ecf7753441747a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

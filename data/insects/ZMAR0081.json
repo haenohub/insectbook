@@ -1,0 +1,128 @@
+{
+  "id": "ZMAR0081",
+  "name_ko": "두점끝동매미충",
+  "scientific_name": "Nephotettix virescens (Distant, 1908)",
+  "display_name": "두점끝동매미충",
+  "family_ko": "매미충과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "뿔매미상과",
+      "name_latin": "Membracoidea"
+    },
+    "family": {
+      "name_ko": "매미충과",
+      "name_latin": "Cicadellidae"
+    },
+    "subfamily": {
+      "name_ko": "매미충아과",
+      "name_latin": "Deltocephalinae"
+    },
+    "genus": {
+      "name_ko": "끝동매미충속",
+      "name_latin": "Nephotettix"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 뿔매미상과 (Membracoidea)\n과 : 매미충과 (Cicadellidae)\n아과 : 매미충아과 (Deltocephalinae)\n속 : 끝동매미충속 (Nephotettix)",
+  "basic_information": {
+    "곤충명": "두점끝동매미충",
+    "학명": "Nephotettix virescens (Distant, 1908)"
+  },
+  "information": {
+    "general_description": "몸길이: 4-7mm.\n끝동매미충과 매우 닮았으나 수컷 앞날개의 끝이 암갈색을 띠는 외에 날개 중앙 부분에는 검은 점이 각각1개가 있어서 수비게 구별 할 수가 있다. 머리는 둥글고 앞끝가장자리 가까이에 흑갈색의 가로선이 있다. 앞가슴등의 앞가장자리는 황록색을 띠며 나머지 전체는 초록빛을 띤다. 작은방패판은 황록색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "동양구에 널리 분포. 우리나라 남부에 널리 분포하고있는것으로 예상된다. 여름철 태풍에 의해 다른 동남 아시아산의 곤충들과 우리나라로 집단 이동할 가능성도 있다고 하나 정확하지는 않다.",
+    "habits": null,
+    "season": null,
+    "overwintering": "우리나라 남부에서는 겨울을 쉽게 지낼수 있다.",
+    "distribution": "[대만]\n[일본]\n[인도]\n[버마]\n[태국]\n[스리랑카]\n[필리핀]\n[말레이시아]",
+    "notes": "[산림해충] Chung et al.(1995)\n[농업해충] Chung et al.(1995)\n농업해충으로 벼의 위축병을 매개한다.",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이: 4-7mm.\n끝동매미충과 매우 닮았으나 수컷 앞날개의 끝이 암갈색을 띠는 외에 날개 중앙 부분에는 검은 점이 각각1개가 있어서 수비게 구별 할 수가 있다. 머리는 둥글고 앞끝가장자리 가까이에 흑갈색의 가로선이 있다. 앞가슴등의 앞가장자리는 황록색을 띠며 나머지 전체는 초록빛을 띤다. 작은방패판은 황록색이다."
+    },
+    {
+      "title": "생태",
+      "text": "동양구에 널리 분포. 우리나라 남부에 널리 분포하고있는것으로 예상된다. 여름철 태풍에 의해 다른 동남 아시아산의 곤충들과 우리나라로 집단 이동할 가능성도 있다고 하나 정확하지는 않다."
+    },
+    {
+      "title": "월동",
+      "text": "우리나라 남부에서는 겨울을 쉽게 지낼수 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대만]\n[일본]\n[인도]\n[버마]\n[태국]\n[스리랑카]\n[필리핀]\n[말레이시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)\n[농업해충] Chung et al.(1995)\n농업해충으로 벼의 위축병을 매개한다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMAR0081-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0081_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0081_2_th.jpg",
+      "alt": "두점끝동매미충 1번째 사진 : 두점끝동매미충전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0081_2_th2.jpg",
+      "caption": "두점끝동매미충전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZMAR0081-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0081_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0081_1_th.jpg",
+      "alt": "두점끝동매미충 2번째 사진 : 두점끝동매미충전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0081_1_th2.jpg",
+      "caption": "두점끝동매미충전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMAR0081-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0407141052",
+      "description": "[KPNE0407141052] 두점끝동매미충 1973.10.05 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0407141051",
+      "description": "[KPNE0407141051] 두점끝동매미충 1974.10.03 / / 경북대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "벼",
+      "scientific_name": "Oryza sativa L."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZMAR0081-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMAR0081&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:41+00:00",
+    "html_sha256": "52a2040c4e9496770e6f7223c238ec58ac18a0a594a0f405345c0b8eb64a96c5",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

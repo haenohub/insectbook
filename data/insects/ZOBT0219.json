@@ -1,0 +1,103 @@
+{
+  "id": "ZOBT0219",
+  "name_ko": "노랑발톱잎벌레",
+  "scientific_name": "Monolepta pallidula (Baly, 1874)",
+  "display_name": "노랑발톱잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "긴더듬이잎벌레아과",
+      "name_latin": "Galerucinae"
+    },
+    "genus": {
+      "name_ko": "외발톱잎벌레속",
+      "name_latin": "Monolepta"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 긴더듬이잎벌레아과 (Galerucinae)\n속 : 외발톱잎벌레속 (Monolepta)",
+  "basic_information": {
+    "곤충명": "노랑발톱잎벌레",
+    "학명": "Monolepta pallidula (Baly, 1874)"
+  },
+  "information": {
+    "general_description": "몸길이는 4.2~5.0mm, 앞가슴등판의 측연은 직선이다 종아리마디끝은 황갈색이다. 몸색깔은 홍갈색이다. 더듬이는 암갈색이며 기부의 수개벌은 호아갈색이다. 한국, 일본(혼슈,시코쿠,큐슈), 중국(남부), 대만에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대만]\n[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 4.2~5.0mm, 앞가슴등판의 측연은 직선이다 종아리마디끝은 황갈색이다. 몸색깔은 홍갈색이다. 더듬이는 암갈색이며 기부의 수개벌은 호아갈색이다. 한국, 일본(혼슈,시코쿠,큐슈), 중국(남부), 대만에 분포되어있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대만]\n[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0219-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0219_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0219_1_th.jpg",
+      "alt": "노랑발톱잎벌레 1번째 사진 : 노랑발톱잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0219_1_th2.jpg",
+      "caption": "노랑발톱잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0219-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0304181031",
+      "description": "[FRIE0304181031] 노랑발톱잎벌레 2001.08.08 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0304181032",
+      "description": "[FRIE0304181032] 노랑발톱잎벌레 2001.08.08 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0304181033",
+      "description": "[FRIE0304181033] 노랑발톱잎벌레 2001.07.17 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0219-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0219&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:17+00:00",
+    "html_sha256": "6b54a8d9ace5be19a7b04f9ce761025554df6ddd053688c644ed462756336338",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

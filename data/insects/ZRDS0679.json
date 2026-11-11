@@ -1,0 +1,118 @@
+{
+  "id": "ZRDS0679",
+  "name_ko": "줄꼬마수염나방",
+  "scientific_name": "Rhynchina cramboides (Butler, 1879)",
+  "display_name": "줄꼬마수염나방",
+  "family_ko": "태극나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "태극나방과",
+      "name_latin": "Erebidae"
+    },
+    "subfamily": {
+      "name_ko": "노랑수염나방아과",
+      "name_latin": "Hypeninae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Rhynchina"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 태극나방과 (Erebidae)\n아과 : 노랑수염나방아과 (Hypeninae)\n속 : (Rhynchina)",
+  "basic_information": {
+    "곤충명": "줄꼬마수염나방",
+    "학명": "Rhynchina cramboides (Butler, 1879)"
+  },
+  "information": {
+    "general_description": "수컷이 더듬이는 톱니 모양이며 긴 털이 나 있음. 얼굴에도 긴 털이 나 있고, 아랫입술수염은 길게 발달되었고 그 등면에는 긴 인모가 나 있음. 앞날개는 회황색을 띠는데 약간의 회자색 빛이 남. 시정은 뾰족하게 되었으며, 후연의 중앙까지는 백색 띠 무늬가 비스듬히 달리고 있음. 이띠무늬에서 전연 쪽은 다소 회색 빛이 강하며, 후연 쪽은 다소 암갈색 빛이 강하다. 아외연은 암갈색을 띠는데 외연부는 회색 띠 무늬를 이루고, 연모는 회색임. 뒷날개는 옅은 암갈색을 띠고, 연모는 담색임.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 4～5월경에 출현.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[인도]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "수컷이 더듬이는 톱니 모양이며 긴 털이 나 있음. 얼굴에도 긴 털이 나 있고, 아랫입술수염은 길게 발달되었고 그 등면에는 긴 인모가 나 있음. 앞날개는 회황색을 띠는데 약간의 회자색 빛이 남. 시정은 뾰족하게 되었으며, 후연의 중앙까지는 백색 띠 무늬가 비스듬히 달리고 있음. 이띠무늬에서 전연 쪽은 다소 회색 빛이 강하며, 후연 쪽은 다소 암갈색 빛이 강하다. 아외연은 암갈색을 띠는데 외연부는 회색 띠 무늬를 이루고, 연모는 회색임. 뒷날개는 옅은 암갈색을 띠고, 연모는 담색임."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 4～5월경에 출현."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[인도]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0679-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0679_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0679_2_th.jpg",
+      "alt": "줄꼬마수염나방 1번째 사진 : 줄꼬마수염나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0679_2_th2.jpg",
+      "caption": "줄꼬마수염나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDS0679-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0679_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0679_1_th.jpg",
+      "alt": "줄꼬마수염나방 2번째 사진 : 줄꼬마수염나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0679_1_th2.jpg",
+      "caption": "줄꼬마수염나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0679-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0302182078",
+      "description": "[KNAE0302182078] 줄꼬마수염나방 1995.06.23 / / 국립수목원"
+    },
+    {
+      "id": "UIBE0202251025",
+      "description": "[UIBE0202251025] 줄꼬마수염나방 2000.05.06 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0202251026",
+      "description": "[UIBE0202251026] 줄꼬마수염나방 2000.05.06 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDS0679-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0679&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:06+00:00",
+    "html_sha256": "72f3595ed86dbd96f317b59dc32b9e365768c3e11685f9a3facd7c73d341741a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

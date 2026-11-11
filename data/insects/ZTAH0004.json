@@ -1,0 +1,110 @@
+{
+  "id": "ZTAH0004",
+  "name_ko": "청람등에잎벌",
+  "scientific_name": "Arge cyanocrocea (Förster, 1771)",
+  "display_name": "청람등에잎벌",
+  "family_ko": "등에잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "등에잎벌과",
+      "name_latin": "Argidae"
+    },
+    "subfamily": {
+      "name_ko": "등에잎벌아과",
+      "name_latin": "Arginae"
+    },
+    "genus": {
+      "name_ko": "등에잎벌속",
+      "name_latin": "Arge"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 등에잎벌과 (Argidae)\n아과 : 등에잎벌아과 (Arginae)\n속 : 등에잎벌속 (Arge)",
+  "basic_information": {
+    "곤충명": "청람등에잎벌",
+    "학명": "Arge cyanocrocea (Förster, 1771)"
+  },
+  "information": {
+    "general_description": "몸길이 8-9mm. 머리와 가슴은 검정색이다. 이마방패는 각이 있다. 머리, 가슴, 배의 털은 노란색이다. 날개는 투명하지만 노란빛이 있다. 연문은 갈색이다. 산란관집은 검은색이고 안쪽 가두리는 노란색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 8-9mm. 머리와 가슴은 검정색이다. 이마방패는 각이 있다. 머리, 가슴, 배의 털은 노란색이다. 날개는 투명하지만 노란빛이 있다. 연문은 갈색이다. 산란관집은 검은색이고 안쪽 가두리는 노란색이다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAH0004-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAH0004_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAH0004_2_th.jpg",
+      "alt": "청람등에잎벌 1번째 사진 : 청람등에잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAH0004_2_th2.jpg",
+      "caption": "청람등에잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTAH0004-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAH0004_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAH0004_1_th.jpg",
+      "alt": "청람등에잎벌 2번째 사진 : 청람등에잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAH0004_1_th2.jpg",
+      "caption": "청람등에잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAH0004-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0212269026",
+      "description": "[YNUE0212269026] 청람등에잎벌 2002.05.24 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0111281031",
+      "description": "[YNUE0111281031] 청람등에잎벌 2001.05.05 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0111291001",
+      "description": "[YNUE0111291001] 청람등에잎벌 2001.05.05 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAH0004-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAH0004&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:15+00:00",
+    "html_sha256": "130302f1315a0f8afb828d6c0629b5d2eceae062547f5bd391e2a16d26cba471",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

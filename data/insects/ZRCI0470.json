@@ -1,0 +1,122 @@
+{
+  "id": "ZRCI0470",
+  "name_ko": "네눈푸른가지나방",
+  "scientific_name": "Ophthalmitis irrorataria (Bremer & Grey, 1853)",
+  "display_name": "네눈푸른가지나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "가지나방아과",
+      "name_latin": "Ennominae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Ophthalmitis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 가지나방아과 (Ennominae)\n속 : (Ophthalmitis)",
+  "basic_information": {
+    "곤충명": "네눈푸른가지나방",
+    "학명": "Ophthalmitis irrorataria (Bremer & Grey, 1853)"
+  },
+  "information": {
+    "general_description": "더듬이는 암수 모두 빗살 모양이나 암컷의 빗살은 짧음．머리, 가슴, 날개는 녹색이며 배는 회색이며，등쪽면에는 흑색 점줄이 있음.횡선은　흑색임．앞날개 내횡선은 크게 물결 모양으로 굴곡함. 중횡선은 횡맥의 바깥쪽에 원을 그리나, 대부분의 경우 전연과 후연에서만 명료함.외횡선은　톱니모양이고，　후연에서는　중횡선에　근접함．아외연선은　회백색이고　톱니　모양이며，안쪽이　흑갈색으로　테지어　있음．뒷날개는　밑부분에서　외횡선까지　흑갈색　비늘이　산재하며，개체에　따라서는　횡맥부근에　흑색　띠가　있음．",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6~8월에 출현함.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 암수 모두 빗살 모양이나 암컷의 빗살은 짧음．머리, 가슴, 날개는 녹색이며 배는 회색이며，등쪽면에는 흑색 점줄이 있음.횡선은　흑색임．앞날개 내횡선은 크게 물결 모양으로 굴곡함. 중횡선은 횡맥의 바깥쪽에 원을 그리나, 대부분의 경우 전연과 후연에서만 명료함.외횡선은　톱니모양이고，　후연에서는　중횡선에　근접함．아외연선은　회백색이고　톱니　모양이며，안쪽이　흑갈색으로　테지어　있음．뒷날개는　밑부분에서　외횡선까지　흑갈색　비늘이　산재하며，개체에　따라서는　횡맥부근에　흑색　띠가　있음．"
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6~8월에 출현함."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0470-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0470_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0470_2_th.jpg",
+      "alt": "네눈푸른가지나방 1번째 사진 : 네눈푸른가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0470_2_th2.jpg",
+      "caption": "네눈푸른가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0470-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0470_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0470_1_th.jpg",
+      "alt": "네눈푸른가지나방 2번째 사진 : 네눈푸른가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0470_1_th2.jpg",
+      "caption": "네눈푸른가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0470-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0302171036",
+      "description": "[KNAE0302171036] 네눈푸른가지나방 2000.06.07 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0302151011",
+      "description": "[KNAE0302151011] 네눈푸른가지나방 1995.06.15 / / 국립수목원"
+    },
+    {
+      "id": "FRIE0302131028",
+      "description": "[FRIE0302131028] 네눈푸른가지나방 1981.07.09 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRCI0470.png",
+    "reference_image_id": "ZRCI0470-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T10:38:35.379350+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "7b5d331bd2daa9f18333bc47e6c29348c654b4ce2894eadcf7ed9c92ef9284f9"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0470&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:46+00:00",
+    "html_sha256": "e8a50ef537c91513af3de896ae4f9750d80aaa6409f19c77db9c1efda1f018ef",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

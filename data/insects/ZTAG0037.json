@@ -1,0 +1,103 @@
+{
+  "id": "ZTAG0037",
+  "name_ko": "굴파기수중다리꽃벌",
+  "scientific_name": "Pseudapis (Nomiapis) mandschurica (Hedicke, 1940)",
+  "display_name": "굴파기수중다리꽃벌",
+  "family_ko": "꼬마꽃벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "꼬마꽃벌과",
+      "name_latin": "Halictidae"
+    },
+    "subfamily": {
+      "name_ko": "띠꼬마꽃벌아과",
+      "name_latin": "Nomiinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Pseudapis"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 꼬마꽃벌과 (Halictidae)\n아과 : 띠꼬마꽃벌아과 (Nomiinae)\n속 : (Pseudapis)",
+  "basic_information": {
+    "곤충명": "굴파기수중다리꽃벌",
+    "학명": "Pseudapis (Nomiapis) mandschurica (Hedicke, 1940)"
+  },
+  "information": {
+    "general_description": "몸길이는 9.5mm 정도이며, 몸은 흑색이고, 회백색 털로 덮여 있다. 앞가슴등판과 뒷가슴등판은 융털이 나있다. 머리는 둥글고 성긴 점각이 촘촘히 났고, 앞가슴등판은 옆판의 혹부분까지 걸쳐 크게 뻗었다. 수컷의 뒷다리는 크게 변형했고, 종아리마디의 끝은 며느리발톱이 없다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 9.5mm 정도이며, 몸은 흑색이고, 회백색 털로 덮여 있다. 앞가슴등판과 뒷가슴등판은 융털이 나있다. 머리는 둥글고 성긴 점각이 촘촘히 났고, 앞가슴등판은 옆판의 혹부분까지 걸쳐 크게 뻗었다. 수컷의 뒷다리는 크게 변형했고, 종아리마디의 끝은 며느리발톱이 없다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0037-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0037_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0037_1_th.jpg",
+      "alt": "굴파기수중다리꽃벌 1번째 사진 : 굴파기수중다리꽃벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0037_1_th2.jpg",
+      "caption": "굴파기수중다리꽃벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0037-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306278004",
+      "description": "[YNUE0306278004] 굴파기수중다리꽃벌 1957.09.14 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306278005",
+      "description": "[YNUE0306278005] 굴파기수중다리꽃벌 1960.05.08 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTAG0037.png",
+    "reference_image_id": "ZTAG0037-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T14:10:51.792554+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "eda87d5d6f72da09ec379e931d594ecb9ab7ed117aeee448fb72f51084bf2710"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0037&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:27+00:00",
+    "html_sha256": "366216bca64eb473ca827e4dfd003bf9823df602c697f640e77914bdd7fc86b2",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

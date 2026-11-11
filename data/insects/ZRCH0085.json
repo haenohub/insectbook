@@ -1,0 +1,107 @@
+{
+  "id": "ZRCH0085",
+  "name_ko": "고구마뿔나방",
+  "scientific_name": "Helcystogramma triannulella (Herrich-Schäffer, 1854)",
+  "display_name": "고구마뿔나방",
+  "family_ko": "뿔나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "뿔나방상과",
+      "name_latin": "Gelechioidea"
+    },
+    "family": {
+      "name_ko": "뿔나방과",
+      "name_latin": "Gelechiidae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Dichomeridinae"
+    },
+    "genus": {
+      "name_ko": "고구마뿔나방속",
+      "name_latin": "Helcystogramma"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 뿔나방상과 (Gelechioidea)\n과 : 뿔나방과 (Gelechiidae)\n아과 : (Dichomeridinae)\n속 : 고구마뿔나방속 (Helcystogramma)",
+  "basic_information": {
+    "곤충명": "고구마뿔나방",
+    "학명": "Helcystogramma triannulella (Herrich-Schäffer, 1854)"
+  },
+  "information": {
+    "general_description": "앞날개에는 원형의 큰 점무늬가 23개 있으며, 흑갈색 또는 백색의 인편이 섞여 백색을 나타내는 개체도 있음.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[인도]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "앞날개에는 원형의 큰 점무늬가 23개 있으며, 흑갈색 또는 백색의 인편이 섞여 백색을 나타내는 개체도 있음."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[인도]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCH0085-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCH0085_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCH0085_1_th.jpg",
+      "alt": "고구마뿔나방 1번째 사진 : 고구마뿔나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCH0085_1_th2.jpg",
+      "caption": "고구마뿔나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCH0085-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0304301024",
+      "description": "[FRIE0304301024] 고구마뿔나방 1998.03.25 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0304301025",
+      "description": "[FRIE0304301025] 고구마뿔나방 1998.10.28 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0302171029",
+      "description": "[FRIE0302171029] 고구마뿔나방 1998.04.01 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRCH0085.png",
+    "reference_image_id": "ZRCH0085-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T12:15:55.862943+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "47d18c6d6b1b896bff1dd4dab124d81353b25c0fce7374dcf53f2edfa0d91a29"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCH0085&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:38+00:00",
+    "html_sha256": "02d061ac56a9bcbecd4762a90439307dcf4b49c30afc2f09a8016105e7b34f52",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

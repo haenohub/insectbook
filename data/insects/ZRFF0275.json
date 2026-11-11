@@ -1,0 +1,118 @@
+{
+  "id": "ZRFF0275",
+  "name_ko": "흰빛점애기잎말이나방",
+  "scientific_name": "Phaecasiophora obraztsovi Diakonoff, 1973",
+  "display_name": "흰빛점애기잎말이나방",
+  "family_ko": "잎말이나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎말이나방상과",
+      "name_latin": "Tortricoidea"
+    },
+    "family": {
+      "name_ko": "잎말이나방과",
+      "name_latin": "Tortricidae"
+    },
+    "subfamily": {
+      "name_ko": "애기잎말이나방아과",
+      "name_latin": "Olethreutinae"
+    },
+    "genus": {
+      "name_ko": "흰다리애기잎말이나방속",
+      "name_latin": "Phaecasiophora"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 잎말이나방상과 (Tortricoidea)\n과 : 잎말이나방과 (Tortricidae)\n아과 : 애기잎말이나방아과 (Olethreutinae)\n속 : 흰다리애기잎말이나방속 (Phaecasiophora)",
+  "basic_information": {
+    "곤충명": "흰빛점애기잎말이나방",
+    "학명": "Phaecasiophora obraztsovi Diakonoff, 1973"
+  },
+  "information": {
+    "general_description": "수컷 뒷다리 종아리마디에는 인모가 빽빽이 나 있음. 종전에 프라이애기잎말이나방으로 오동정 되었을 가능성이 많음. 앞날개의 개체에 따라 바탕색은 변이가 많으나, 무늬에는 변화가 적음. 중실의 끝쪽 상단에 백색의 짧은 선으로 된 무늬가 비스듬히 위치함",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "유충은 참나무류의 잎을 먹는 것으로 알려지고 있음",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "수컷 뒷다리 종아리마디에는 인모가 빽빽이 나 있음. 종전에 프라이애기잎말이나방으로 오동정 되었을 가능성이 많음. 앞날개의 개체에 따라 바탕색은 변이가 많으나, 무늬에는 변화가 적음. 중실의 끝쪽 상단에 백색의 짧은 선으로 된 무늬가 비스듬히 위치함"
+    },
+    {
+      "title": "생태",
+      "text": "유충은 참나무류의 잎을 먹는 것으로 알려지고 있음"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRFF0275-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0275_6.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0275_6_th.jpg",
+      "alt": "흰빛점애기잎말이나방 1번째 사진 : 흰빛점애기잎말이나방배 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0275_6_th2.jpg",
+      "caption": "흰빛점애기잎말이나방배 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRFF0275-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0275_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0275_1_th.jpg",
+      "alt": "흰빛점애기잎말이나방 2번째 사진 : 흰빛점애기잎말이나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0275_1_th2.jpg",
+      "caption": "흰빛점애기잎말이나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRFF0275-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0302131224",
+      "description": "[UIBE0302131224] 흰빛점애기잎말이나방 1998.05.14 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0302131226",
+      "description": "[UIBE0302131226] 흰빛점애기잎말이나방 1998.05.19 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0302131227",
+      "description": "[UIBE0302131227] 흰빛점애기잎말이나방 1998.07.25 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRFF0275-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRFF0275&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:39+00:00",
+    "html_sha256": "c652fd886d353e5b94298d3905a55e95c10838cb0259ed12ec4d51d680fdd9f8",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "ZTDO0139",
+  "name_ko": "굵은무늬날개잎벌",
+  "scientific_name": "Conaspidia guttata (Matsumura, 1912)",
+  "display_name": "굵은무늬날개잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "잎벌아과",
+      "name_latin": "Tenthredininae"
+    },
+    "genus": {
+      "name_ko": "굵은무늬날개잎벌속",
+      "name_latin": "Conaspidia"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 잎벌아과 (Tenthredininae)\n속 : 굵은무늬날개잎벌속 (Conaspidia)",
+  "basic_information": {
+    "곤충명": "굵은무늬날개잎벌",
+    "학명": "Conaspidia guttata (Matsumura, 1912)"
+  },
+  "information": {
+    "general_description": "윗입술은 크며 편평하고 끝이 뾰족하다. 머리방패는 깊고 둥글게 패여져 있으며 측엽은 좁고 거의 삼각형이다. 큰턱은 비대칭이고 좌측은 3개, 우측은 1개의 이를 갖는다. 복안내면은 거의 평행하다. 뒷다리 넓적다리마디는 배마디 끝까지 달하지 않는다. 뒷다리 발목마디 기절은 나머지 마디의 합보다 짧다. 가운데가슴 측판은 강한 점각이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "윗입술은 크며 편평하고 끝이 뾰족하다. 머리방패는 깊고 둥글게 패여져 있으며 측엽은 좁고 거의 삼각형이다. 큰턱은 비대칭이고 좌측은 3개, 우측은 1개의 이를 갖는다. 복안내면은 거의 평행하다. 뒷다리 넓적다리마디는 배마디 끝까지 달하지 않는다. 뒷다리 발목마디 기절은 나머지 마디의 합보다 짧다. 가운데가슴 측판은 강한 점각이 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0139-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0139_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0139_1_th.jpg",
+      "alt": "굵은무늬날개잎벌 1번째 사진 : 굵은무늬날개잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0139_1_th2.jpg",
+      "caption": "굵은무늬날개잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0139-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0301059114",
+      "description": "[YNUE0301059114] 굵은무늬날개잎벌 1984.07.15 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTDO0139.png",
+    "reference_image_id": "ZTDO0139-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T14:07:48.960508+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "511306f83f6268a718392425c48b8294e6d096de918c78a156e6d43b972e6f7d"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0139&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:28+00:00",
+    "html_sha256": "ce2dd110aac0d25f8c5ae55484f7c214b6137bb775aead07ad0c40fb9bed4048",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

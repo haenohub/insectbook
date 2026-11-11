@@ -1,0 +1,117 @@
+{
+  "id": "ZOBT0364",
+  "name_ko": "루이스큰남생이잎벌레",
+  "scientific_name": "Thlaspida lewisii (Baly, 1874)",
+  "display_name": "루이스큰남생이잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "남생이잎벌레아과",
+      "name_latin": "Cassidinae"
+    },
+    "genus": {
+      "name_ko": "큰남생이잎벌레속",
+      "name_latin": "Thlaspida"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 남생이잎벌레아과 (Cassidinae)\n속 : 큰남생이잎벌레속 (Thlaspida)",
+  "basic_information": {
+    "곤충명": "루이스큰남생이잎벌레",
+    "학명": "Thlaspida lewisii (Baly, 1874)"
+  },
+  "information": {
+    "general_description": "체장은 5.2~6.8㎜이고,체배면은 암갈색, 앞가슴등판의 측면부는 황갈색이다.촉각과 다리는 적갈색이며,체복면은 흑색으로 나타난다. 분포는 한국,일본, 중국, 시베리아등지이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "5월 초순경 쇠물푸레에서 성충이 발견되며, 중순에 산란을 한다.알은 1개씩 갈색의 알주머니에 싸여서 잎의 뒷면에 부착되어 있고, 알주머니에 배설물은 않칠한다.연 1화성으로 성충 월동한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체장은 5.2~6.8㎜이고,체배면은 암갈색, 앞가슴등판의 측면부는 황갈색이다.촉각과 다리는 적갈색이며,체복면은 흑색으로 나타난다. 분포는 한국,일본, 중국, 시베리아등지이다."
+    },
+    {
+      "title": "생태",
+      "text": "5월 초순경 쇠물푸레에서 성충이 발견되며, 중순에 산란을 한다.알은 1개씩 갈색의 알주머니에 싸여서 잎의 뒷면에 부착되어 있고, 알주머니에 배설물은 않칠한다.연 1화성으로 성충 월동한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0364-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0364_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0364_1_th.jpg",
+      "alt": "루이스큰남생이잎벌레 1번째 사진 : 루이스큰남생이잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0364_1_th2.jpg",
+      "caption": "루이스큰남생이잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0364-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0307151585",
+      "description": "[KUIE0307151585] 루이스큰남생이잎벌레 1988.07.27 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307161186",
+      "description": "[KUIE0307161186] 루이스큰남생이잎벌레 1990.05.17 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307151537",
+      "description": "[KUIE0307151537] 루이스큰남생이잎벌레 1975.06.11 / / 고려대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "쥐똥나무",
+      "scientific_name": "Ligustrum obtusifolium Siebold & Zucc."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0364-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0364&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:37+00:00",
+    "html_sha256": "0a12b48c19e113e69f0d3a0c409ca21a72283c8972bf178de424c06f5e47b2d7",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

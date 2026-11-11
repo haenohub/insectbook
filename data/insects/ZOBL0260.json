@@ -1,0 +1,107 @@
+{
+  "id": "ZOBL0260",
+  "name_ko": "꼬마수염하늘소",
+  "scientific_name": "Acanthocinus (Acanthobatesianus) guttatus (Bates, 1873)",
+  "display_name": "꼬마수염하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "목하늘소아과",
+      "name_latin": "Lamiinae"
+    },
+    "genus": {
+      "name_ko": "곤봉수염하늘소속",
+      "name_latin": "Acanthocinus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 목하늘소아과 (Lamiinae)\n속 : 곤봉수염하늘소속 (Acanthocinus)",
+  "basic_information": {
+    "곤충명": "꼬마수염하늘소",
+    "학명": "Acanthocinus (Acanthobatesianus) guttatus (Bates, 1873)"
+  },
+  "information": {
+    "general_description": "몸의 길이는 6.5~8mm 이며, 몸전체 색깔은 회색과 검은색을 띈다. 딱지날개 밑부분은 가시 모양으로 되어 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의 길이는 6.5~8mm 이며, 몸전체 색깔은 회색과 검은색을 띈다. 딱지날개 밑부분은 가시 모양으로 되어 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0260-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0260_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0260_1_th.jpg",
+      "alt": "꼬마수염하늘소 1번째 사진 : 꼬마수염하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0260_1_th2.jpg",
+      "caption": "꼬마수염하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0260-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304162016",
+      "description": "[KNAE0304162016] 꼬마수염하늘소 1989.07.12 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304162018",
+      "description": "[KNAE0304162018] 꼬마수염하늘소 1989.07.08 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304162019",
+      "description": "[KNAE0304162019] 꼬마수염하늘소 1989.07.06 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBL0260.png",
+    "reference_image_id": "ZOBL0260-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T14:04:30.723567+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "4552acd02e73b9d69243ab6aa231d3010a42a07b351829d5247c1cb611f7d871"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0260&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:43+00:00",
+    "html_sha256": "6670cf41c21615bbc5bb119b7fa0981ef87e49517ea8e03b245a081c63467122",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

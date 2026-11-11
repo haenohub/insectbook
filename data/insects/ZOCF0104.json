@@ -1,0 +1,103 @@
+{
+  "id": "ZOCF0104",
+  "name_ko": "알바구미",
+  "scientific_name": "Tychius (Tychius) ovalis Roelofs, 1875",
+  "display_name": "알바구미",
+  "family_ko": "바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "바구미과",
+      "name_latin": "Curculionidae"
+    },
+    "subfamily": {
+      "name_ko": "밤바구미아과",
+      "name_latin": "Curculioninae"
+    },
+    "genus": {
+      "name_ko": "알바구미속",
+      "name_latin": "Tychius"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 바구미과 (Curculionidae)\n아과 : 밤바구미아과 (Curculioninae)\n속 : 알바구미속 (Tychius)",
+  "basic_information": {
+    "곤충명": "알바구미",
+    "학명": "Tychius (Tychius) ovalis Roelofs, 1875"
+  },
+  "information": {
+    "general_description": "몸길이는 2.2~2.5mm 이며 다리의 퇴절에는 이빨모양의 돌기가 없다. 몸전체가 회갈색의 털로 덮혀있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 2.2~2.5mm 이며 다리의 퇴절에는 이빨모양의 돌기가 없다. 몸전체가 회갈색의 털로 덮혀있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCF0104-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0104_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0104_1_th.jpg",
+      "alt": "알바구미 1번째 사진 : 알바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0104_1_th2.jpg",
+      "caption": "알바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCF0104-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0205131074",
+      "description": "[FRIE0205131074] 알바구미 1981.06.04 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0205131075",
+      "description": "[FRIE0205131075] 알바구미 1980.06.15 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0205131076",
+      "description": "[FRIE0205131076] 알바구미 1983.06.30 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOCF0104-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCF0104&tabId=tab1",
+    "collected_at": "2026-11-04T14:14:37+00:00",
+    "html_sha256": "bd9c4ce8a4242675815d7ebefbe6ec646473a2c22ece4ce932a8126c3bfcce67",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

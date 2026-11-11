@@ -1,0 +1,107 @@
+{
+  "id": "ZOEI0011",
+  "name_ko": "남가뢰",
+  "scientific_name": "Meloe (Meloe) proscarabaeus proscarabaeus Linnaeus, 1758",
+  "display_name": "남가뢰",
+  "family_ko": "가뢰과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "거저리상과",
+      "name_latin": "Tenebrionoidea"
+    },
+    "family": {
+      "name_ko": "가뢰과",
+      "name_latin": "Meloidae"
+    },
+    "subfamily": {
+      "name_ko": "가뢰아과",
+      "name_latin": "Meloinae"
+    },
+    "genus": {
+      "name_ko": "남가뢰속",
+      "name_latin": "Meloe"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 거저리상과 (Tenebrionoidea)\n과 : 가뢰과 (Meloidae)\n아과 : 가뢰아과 (Meloinae)\n속 : 남가뢰속 (Meloe)",
+  "basic_information": {
+    "곤충명": "남가뢰",
+    "학명": "Meloe (Meloe) proscarabaeus proscarabaeus Linnaeus, 1758"
+  },
+  "information": {
+    "general_description": "한국, 일본, 코카서스, 유럽에 분포하며, 체장은 12-30mm 정도이다. 몸은 흑청색 또는 보라빛이고 머리와 앞가슴등판의 점각은 조밀하다. 뒷다리 발목마디의 아랫쪽에 황갈색의 털이 밀생하였다. 수컷의 촉각은 중앙부가 팽대하였고 암컷의 촉각은 중앙부가 약간 굵어졌다. 딱지날개의 점각은 주름 모양으로 되었다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 코카서스, 유럽에 분포하며, 체장은 12-30mm 정도이다. 몸은 흑청색 또는 보라빛이고 머리와 앞가슴등판의 점각은 조밀하다. 뒷다리 발목마디의 아랫쪽에 황갈색의 털이 밀생하였다. 수컷의 촉각은 중앙부가 팽대하였고 암컷의 촉각은 중앙부가 약간 굵어졌다. 딱지날개의 점각은 주름 모양으로 되었다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOEI0011-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEI0011_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEI0011_1_th.jpg",
+      "alt": "남가뢰 1번째 사진 : 남가뢰전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEI0011_1_th2.jpg",
+      "caption": "남가뢰전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOEI0011-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0212177082",
+      "description": "[YNUE0212177082] 남가뢰 1996.05.18 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0212177083",
+      "description": "[YNUE0212177083] 남가뢰 1994.07.19 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0212177085",
+      "description": "[YNUE0212177085] 남가뢰 1995.06.22 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOEI0011.png",
+    "reference_image_id": "ZOEI0011-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T16:18:52.661578+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "d241cdc1d2742c4068ea4e22e6f0542f00264748930455919a26d9269564a3fd"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOEI0011&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:19+00:00",
+    "html_sha256": "06f1386cbd3dd39589cf075d3817fe8892d66f9a3c162aa5ef2cf8ce99d9a7d1",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

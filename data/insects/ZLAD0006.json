@@ -1,0 +1,113 @@
+{
+  "id": "ZLAD0006",
+  "name_ko": "호리허리노린재",
+  "scientific_name": "Leptocorisa chinensis (Dallas, 1852)",
+  "display_name": "호리허리노린재",
+  "family_ko": "호리허리노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "허리노린재상과",
+      "name_latin": "Coreoidea"
+    },
+    "family": {
+      "name_ko": "호리허리노린재과",
+      "name_latin": "Alydidae"
+    },
+    "subfamily": {
+      "name_ko": "참호리허리노린재아과",
+      "name_latin": "Leptocorisinae"
+    },
+    "genus": {
+      "name_ko": "호리허리노린재속",
+      "name_latin": "Leptocorisa"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 허리노린재상과 (Coreoidea)\n과 : 호리허리노린재과 (Alydidae)\n아과 : 참호리허리노린재아과 (Leptocorisinae)\n속 : 호리허리노린재속 (Leptocorisa)",
+  "basic_information": {
+    "곤충명": "호리허리노린재",
+    "학명": "Leptocorisa chinensis (Dallas, 1852)"
+  },
+  "information": {
+    "general_description": "몸길이 : 15-17mm\n몸은 황록색이다. 체형은 가늘고 길며, 머리는 작고, 머리의 폭은 앞가슴폭보다 좁다. 측엽은 좌우가 밀착하여 앞쪽으로 돌출하여 있고, 겹눈은 흑색이며, 머리의 옆면과 겹눈의 앞뒤에는 흑갈색의 줄이 있다. 더듬이는 극히 가늘고 길며 오황색이다. 앞가슴등판은 길고, 전연부는 깃모양으로 구별되고, 옆가장자리는 황백색이다. 반시초는 꼬리 끝에 달하고, 막질부는 심히 크며, 연한 갈색을 띠고 투명하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 15-17mm\n몸은 황록색이다. 체형은 가늘고 길며, 머리는 작고, 머리의 폭은 앞가슴폭보다 좁다. 측엽은 좌우가 밀착하여 앞쪽으로 돌출하여 있고, 겹눈은 흑색이며, 머리의 옆면과 겹눈의 앞뒤에는 흑갈색의 줄이 있다. 더듬이는 극히 가늘고 길며 오황색이다. 앞가슴등판은 길고, 전연부는 깃모양으로 구별되고, 옆가장자리는 황백색이다. 반시초는 꼬리 끝에 달하고, 막질부는 심히 크며, 연한 갈색을 띠고 투명하다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLAD0006-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAD0006_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAD0006_1_th.jpg",
+      "alt": "호리허리노린재 1번째 사진 : 호리허리노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAD0006_1_th2.jpg",
+      "caption": "호리허리노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLAD0006-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0408091004",
+      "description": "[KNAE0408091004] 호리허리노린재 2002.09.09 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0408091005",
+      "description": "[KNAE0408091005] 호리허리노린재 2002.09.09 / / 국립수목원"
+    },
+    {
+      "id": "KNAE601272",
+      "description": "[KNAE601272] 호리허리노린재 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "감나무",
+      "scientific_name": "Diospyros kaki Thunb."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLAD0006-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLAD0006&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:16+00:00",
+    "html_sha256": "70e7d73e176a8143c525f3f4adfd2487805fabcd51651a7018bdac8e20f367b6",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

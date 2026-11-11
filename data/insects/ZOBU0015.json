@@ -1,0 +1,110 @@
+{
+  "id": "ZOBU0015",
+  "name_ko": "쇠길앞잡이",
+  "scientific_name": "Myriochila (Myriochila) speculifera speculifera (Chevrolat, 1845)",
+  "display_name": "쇠길앞잡이",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "길앞잡이아과",
+      "name_latin": "Cicindelinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Myriochila"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 길앞잡이아과 (Cicindelinae)\n속 : (Myriochila)",
+  "basic_information": {
+    "곤충명": "쇠길앞잡이",
+    "학명": "Myriochila (Myriochila) speculifera speculifera (Chevrolat, 1845)"
+  },
+  "information": {
+    "general_description": "한국, 일본, 대만, 중국, 캄보디아에 분포하며, 체장은 12mm 정도이다. 몸은 비교적 가늘고 길며 흑색이고 약간 녹색을 띤 구리색 광택이 난다. 날개끝의 무늬는 완전하고 아랫끝은 날개끝에 달하였고 윗끝보다는 비껴 안쪽으로 향하여 한 개의 다리가 나 있다. 몸의 아랫면과 다리는 녹청자색의 금속 광택이 난다. 촉각은 암적갈색인데 기부의 네마디만은 금속 광택이 난다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 대만, 중국, 캄보디아에 분포하며, 체장은 12mm 정도이다. 몸은 비교적 가늘고 길며 흑색이고 약간 녹색을 띤 구리색 광택이 난다. 날개끝의 무늬는 완전하고 아랫끝은 날개끝에 달하였고 윗끝보다는 비껴 안쪽으로 향하여 한 개의 다리가 나 있다. 몸의 아랫면과 다리는 녹청자색의 금속 광택이 난다. 촉각은 암적갈색인데 기부의 네마디만은 금속 광택이 난다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBU0015-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0015_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0015_2_th.jpg",
+      "alt": "쇠길앞잡이 1번째 사진 : 쇠길앞잡이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0015_2_th2.jpg",
+      "caption": "쇠길앞잡이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBU0015-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0015_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0015_1_th.jpg",
+      "alt": "쇠길앞잡이 2번째 사진 : 쇠길앞잡이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0015_1_th2.jpg",
+      "caption": "쇠길앞잡이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBU0015-1",
+  "specimen_examples": [
+    {
+      "id": "JFNE0212311006",
+      "description": "[JFNE0212311006] 쇠길앞잡이 1994.07.09 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0212311007",
+      "description": "[JFNE0212311007] 쇠길앞잡이 1994.07.09 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0212311009",
+      "description": "[JFNE0212311009] 쇠길앞잡이 1994.07.09 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBU0015-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBU0015&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:27+00:00",
+    "html_sha256": "84c8c5a898b4d4edcfc7e6882cbb5b5daa514bfc6b074b1a5bfa2c261f992a49",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

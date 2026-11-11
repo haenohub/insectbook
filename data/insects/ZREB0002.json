@@ -1,0 +1,149 @@
+{
+  "id": "ZREB0002",
+  "name_ko": "청띠제비나비",
+  "scientific_name": "Graphium sarpedon (Linnaeus, 1758)",
+  "display_name": "청띠제비나비",
+  "family_ko": "호랑나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "호랑나비과",
+      "name_latin": "Papilionidae"
+    },
+    "subfamily": {
+      "name_ko": "호랑나비아과",
+      "name_latin": "Papilioninae"
+    },
+    "genus": {
+      "name_ko": "청띠제비나비속",
+      "name_latin": "Graphium"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 호랑나비과 (Papilionidae)\n아과 : 호랑나비아과 (Papilioninae)\n속 : 청띠제비나비속 (Graphium)",
+  "basic_information": {
+    "곤충명": "청띠제비나비",
+    "학명": "Graphium sarpedon (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "앞, 뒷날개의 중앙부에는 청색의 뚜렷한 줄무늬가 특징적이다. 봄형은 여름형에 비해 크기가 작고 청띠 폭이 넓다.",
+    "adult": null,
+    "adult_male": "수컷에서는 뒷날개 내연이 안쪽으로 말려 그 속에서 담갈색의 긴털이 밀생하고 있다",
+    "adult_female": "암컷에는 긴털이 없다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "제주특별자치도와 남해안 일대의 섬들의 상록활엽수림 주변 또는 사찰, 공원 주변에 서식하는 것으로 기록되어 있다. 춘형은 5월경, 하형은 6월에서 9월에 걸쳐 연 2회 발생한다.",
+    "habits": "수컷은 습지에 집단으로 모여 흡수하는 경우가 많으며, 접도를 형성한다. 오전 일찍 또는 오후 늦게 암수 모두 누리장나무, 아카시아나무, 엉겅퀴, 토끼풀 등의 꽃에서 흡밀한다. 암컷은 밝은 쪽의 기주식물의 잎 뒷면이나 줄기 등에 낱개로 산란한다. 애벌레는 잎 표면에서 생활하며 번데기는 잎 뒷면이나 가지에서 관찰된다.",
+    "season": null,
+    "overwintering": "번데기",
+    "distribution": "[일본]\n[중국]\n[대만]\n[오스트리아]",
+    "notes": "[보통종]\n[흡밀곤충] 누리장나무, 아카시아나무, 엉겅퀴,",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "앞, 뒷날개의 중앙부에는 청색의 뚜렷한 줄무늬가 특징적이다. 봄형은 여름형에 비해 크기가 작고 청띠 폭이 넓다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "수컷에서는 뒷날개 내연이 안쪽으로 말려 그 속에서 담갈색의 긴털이 밀생하고 있다"
+    },
+    {
+      "title": "성충(암)",
+      "text": "암컷에는 긴털이 없다."
+    },
+    {
+      "title": "생태",
+      "text": "제주특별자치도와 남해안 일대의 섬들의 상록활엽수림 주변 또는 사찰, 공원 주변에 서식하는 것으로 기록되어 있다. 춘형은 5월경, 하형은 6월에서 9월에 걸쳐 연 2회 발생한다."
+    },
+    {
+      "title": "습성",
+      "text": "수컷은 습지에 집단으로 모여 흡수하는 경우가 많으며, 접도를 형성한다. 오전 일찍 또는 오후 늦게 암수 모두 누리장나무, 아카시아나무, 엉겅퀴, 토끼풀 등의 꽃에서 흡밀한다. 암컷은 밝은 쪽의 기주식물의 잎 뒷면이나 줄기 등에 낱개로 산란한다. 애벌레는 잎 표면에서 생활하며 번데기는 잎 뒷면이나 가지에서 관찰된다."
+    },
+    {
+      "title": "월동",
+      "text": "번데기"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[대만]\n[오스트리아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]\n[흡밀곤충] 누리장나무, 아카시아나무, 엉겅퀴,"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREB0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREB0002_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREB0002_2_th.jpg",
+      "alt": "청띠제비나비 1번째 사진 : 청띠제비나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREB0002_2_th2.jpg",
+      "caption": "청띠제비나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREB0002-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREB0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREB0002_1_th.jpg",
+      "alt": "청띠제비나비 2번째 사진 : 청띠제비나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREB0002_1_th2.jpg",
+      "caption": "청띠제비나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREB0002-1",
+  "specimen_examples": [
+    {
+      "id": "SJNE0306141017",
+      "description": "[SJNE0306141017] 청띠제비나비 2001.06.08 / / 상주대학교"
+    },
+    {
+      "id": "FRIE0304281003",
+      "description": "[FRIE0304281003] 청띠제비나비 1995.08.11 / / 국립산림과학원"
+    },
+    {
+      "id": "ADUE0305131039",
+      "description": "[ADUE0305131039] 청띠제비나비 2001.07.15 / / 안동대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "녹나무",
+      "scientific_name": "Camphora officinarum Nees"
+    },
+    {
+      "group": "식물",
+      "name_ko": "후박나무",
+      "scientific_name": "Machilus thunbergii Siebold & Zucc."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREB0002-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREB0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:14+00:00",
+    "html_sha256": "7d76f62c46af10a96d6cb69ce399dd23007533fa3fb96171ee2d4d45d79b0ea2",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

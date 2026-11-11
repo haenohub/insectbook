@@ -1,0 +1,132 @@
+{
+  "id": "ZLAN0008",
+  "name_ko": "애허리노린재",
+  "scientific_name": "Hygia (Hygia) opaca (Uhler, 1860)",
+  "display_name": "애허리노린재",
+  "family_ko": "허리노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "허리노린재상과",
+      "name_latin": "Coreoidea"
+    },
+    "family": {
+      "name_ko": "허리노린재과",
+      "name_latin": "Coreidae"
+    },
+    "subfamily": {
+      "name_ko": "허리노린재아과",
+      "name_latin": "Coreinae"
+    },
+    "genus": {
+      "name_ko": "애허리노린재속",
+      "name_latin": "Hygia"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 허리노린재상과 (Coreoidea)\n과 : 허리노린재과 (Coreidae)\n아과 : 허리노린재아과 (Coreinae)\n속 : 애허리노린재속 (Hygia)",
+  "basic_information": {
+    "곤충명": "애허리노린재",
+    "학명": "Hygia (Hygia) opaca (Uhler, 1860)"
+  },
+  "information": {
+    "general_description": "몸길이 : 8-9mm\n몸은 균일하게 흑갈색이고, 광택은 없다. 미세한 센털로 덮여 있다. 머리는 짧고, 겹눈과 홑눈은 흑갈색이다. 더듬이는 4마디로 되어 있으며, 짧은 침 모양의 센털이 돌려 났고, 흑갈색이지만, 제 4마디는 기부를 제외하고 황갈색이며, 제 1마디는 굵고 제 2마디는 가장 길다. 반시초는 보통 배끝에 이르지 않고, 혁질부의 막질부에 접하는 부분의 중앙에 작은 회색의 점무늬가 있으나 똑똑하지 않은 개체도 있다.",
+    "adult": null,
+    "adult_male": "생식절의 말단부에는 돌기는 없다.",
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "괭이밥, 뽕나무, 기타 잡초, 관목위에 군서한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 8-9mm\n몸은 균일하게 흑갈색이고, 광택은 없다. 미세한 센털로 덮여 있다. 머리는 짧고, 겹눈과 홑눈은 흑갈색이다. 더듬이는 4마디로 되어 있으며, 짧은 침 모양의 센털이 돌려 났고, 흑갈색이지만, 제 4마디는 기부를 제외하고 황갈색이며, 제 1마디는 굵고 제 2마디는 가장 길다. 반시초는 보통 배끝에 이르지 않고, 혁질부의 막질부에 접하는 부분의 중앙에 작은 회색의 점무늬가 있으나 똑똑하지 않은 개체도 있다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "생식절의 말단부에는 돌기는 없다."
+    },
+    {
+      "title": "생태",
+      "text": "괭이밥, 뽕나무, 기타 잡초, 관목위에 군서한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLAN0008-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0008_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0008_2_th.jpg",
+      "alt": "애허리노린재 1번째 사진 : 애허리노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0008_2_th2.jpg",
+      "caption": "애허리노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZLAN0008-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0008_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0008_1_th.jpg",
+      "alt": "애허리노린재 2번째 사진 : 애허리노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0008_1_th2.jpg",
+      "caption": "애허리노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLAN0008-1",
+  "specimen_examples": [
+    {
+      "id": "GSNE0304151168",
+      "description": "[GSNE0304151168] 애허리노린재 1992.06.15 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0304151169",
+      "description": "[GSNE0304151169] 애허리노린재 1998.08.27 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0304151170",
+      "description": "[GSNE0304151170] 애허리노린재 1992.06.16 / / 경상대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "무화과나무",
+      "scientific_name": "Ficus carica L."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLAN0008-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLAN0008&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:19+00:00",
+    "html_sha256": "af8d93018453a6972a6e6390443d04c103ad6b904e0440f924ddcffed91e5900",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

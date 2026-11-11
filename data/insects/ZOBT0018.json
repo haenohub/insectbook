@@ -1,0 +1,126 @@
+{
+  "id": "ZOBT0018",
+  "name_ko": "백합긴가슴잎벌레",
+  "scientific_name": "Lilioceris (Lilioceris) merdigera (Linnaeus, 1758)",
+  "display_name": "백합긴가슴잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "긴가슴잎벌레아과",
+      "name_latin": "Criocerinae"
+    },
+    "genus": {
+      "name_ko": "긴가슴잎벌레속",
+      "name_latin": "Lilioceris"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 긴가슴잎벌레아과 (Criocerinae)\n속 : 긴가슴잎벌레속 (Lilioceris)",
+  "basic_information": {
+    "곤충명": "백합긴가슴잎벌레",
+    "학명": "Lilioceris (Lilioceris) merdigera (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "몸길이가 7.0~8.5mm, 몸 전체는 광택이 나는 적색이며 딱지날개에 강한점각이 많다. 앞가슴등판의 중앙에 한개의 세로 홈이있다. 겹눈과 다리각각의 끝 부분은 흑색이다. 한국(북부,중부,남부, 제주특별자치도), 일본(혼슈,규슈), 중국(만주,북부,중부,남부,대만), 러시아(시베리아,사할린), 유럽, 멕시코, 브라질에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6월에 백합식물 잎에서 볼수있다. 성충과 유충 모두 백합과 나리류의 잎을 먹는다. 다른 종과 달리 변이 딱딱하다. 땅속에들어가 번데기 생활을 한다.",
+    "habits": "기주식물 백합, 참나리",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]\n[러시아]\n[브라질]",
+    "notes": "[농업해충]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이가 7.0~8.5mm, 몸 전체는 광택이 나는 적색이며 딱지날개에 강한점각이 많다. 앞가슴등판의 중앙에 한개의 세로 홈이있다. 겹눈과 다리각각의 끝 부분은 흑색이다. 한국(북부,중부,남부, 제주특별자치도), 일본(혼슈,규슈), 중국(만주,북부,중부,남부,대만), 러시아(시베리아,사할린), 유럽, 멕시코, 브라질에 분포되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6월에 백합식물 잎에서 볼수있다. 성충과 유충 모두 백합과 나리류의 잎을 먹는다. 다른 종과 달리 변이 딱딱하다. 땅속에들어가 번데기 생활을 한다."
+    },
+    {
+      "title": "습성",
+      "text": "기주식물 백합, 참나리"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]\n[러시아]\n[브라질]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[농업해충]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0018-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0018_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0018_2_th.jpg",
+      "alt": "백합긴가슴잎벌레 1번째 사진 : 백합긴가슴잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0018_2_th2.jpg",
+      "caption": "백합긴가슴잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBT0018-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0018_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0018_1_th.jpg",
+      "alt": "백합긴가슴잎벌레 2번째 사진 : 백합긴가슴잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0018_1_th2.jpg",
+      "caption": "백합긴가슴잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0018-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0306241014",
+      "description": "[FRIE0306241014] 백합긴가슴잎벌레 1984.05.02 / / 국립산림과학원"
+    },
+    {
+      "id": "ADUE0202021085",
+      "description": "[ADUE0202021085] 백합긴가슴잎벌레 1995.06.22 / / 안동대학교"
+    },
+    {
+      "id": "KPNE0407231123",
+      "description": "[KPNE0407231123] 백합긴가슴잎벌레 1984.08.09 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0018-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0018&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:36+00:00",
+    "html_sha256": "9e45c4f1557c9ece737537bb4213340d15a3ca137ac2f2b4cbf88aac72d031f3",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

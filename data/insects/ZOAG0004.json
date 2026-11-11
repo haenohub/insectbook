@@ -1,0 +1,91 @@
+{
+  "id": "ZOAG0004",
+  "name_ko": "밤빛썩덩벌레",
+  "scientific_name": "Borboresthes acicularis (Marseul, 1876)",
+  "display_name": "밤빛썩덩벌레",
+  "family_ko": "거저리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "거저리상과",
+      "name_latin": "Tenebrionoidea"
+    },
+    "family": {
+      "name_ko": "거저리과",
+      "name_latin": "Tenebrionidae"
+    },
+    "subfamily": {
+      "name_ko": "썩덩벌레아과",
+      "name_latin": "Alleculinae"
+    },
+    "genus": {
+      "name_ko": "밤빛썩덩벌레속",
+      "name_latin": "Borboresthes"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 거저리상과 (Tenebrionoidea)\n과 : 거저리과 (Tenebrionidae)\n아과 : 썩덩벌레아과 (Alleculinae)\n속 : 밤빛썩덩벌레속 (Borboresthes)",
+  "basic_information": {
+    "곤충명": "밤빛썩덩벌레",
+    "학명": "Borboresthes acicularis (Marseul, 1876)"
+  },
+  "information": {
+    "general_description": "몸길이는 8mm내외로 등쪽은 흑갈색이데 황색의 짧은 털로 빽빽하게 덮여있다. 다리와 촉각은 적갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 8mm내외로 등쪽은 흑갈색이데 황색의 짧은 털로 빽빽하게 덮여있다. 다리와 촉각은 적갈색이다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAG0004-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAG0004_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAG0004_1_th.jpg",
+      "alt": "밤빛썩덩벌레 1번째 사진 : 밤빛썩덩벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAG0004_1_th2.jpg",
+      "caption": "밤빛썩덩벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAG0004-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0303251016",
+      "description": "[FRIE0303251016] 밤빛썩덩벌레 1983.06.30 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAG0004-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAG0004&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:14+00:00",
+    "html_sha256": "9e032ff30569895727b051173f3ada6b364cbca67b52d4cd19d7094ed2eb691c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

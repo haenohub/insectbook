@@ -1,0 +1,107 @@
+{
+  "id": "ZTAG0055",
+  "name_ko": "열점박이알락가위벌",
+  "scientific_name": "Anthidium (Anthidium) septemspinosum Le Peletier, 1841",
+  "display_name": "열점박이알락가위벌",
+  "family_ko": "가위벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "가위벌과",
+      "name_latin": "Megachilidae"
+    },
+    "subfamily": {
+      "name_ko": "가위벌아과",
+      "name_latin": "Megachilinae"
+    },
+    "genus": {
+      "name_ko": "알락가위벌속",
+      "name_latin": "Anthidium"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 가위벌과 (Megachilidae)\n아과 : 가위벌아과 (Megachilinae)\n속 : 알락가위벌속 (Anthidium)",
+  "basic_information": {
+    "곤충명": "열점박이알락가위벌",
+    "학명": "Anthidium (Anthidium) septemspinosum Le Peletier, 1841"
+  },
+  "information": {
+    "general_description": "암컷의 몸길이는 18mm 정도이다. 몸은 흑색인데, 제1-6배마디의 양 옆의 불규칙적인 무늬는 황색이다. 머리, 가슴, 다리와 배의 등판 기부의 바깥쪽에는 연한 털이 났는데 등의 것은 회갈색이고 아랫면으로 가에 따라 회백색이다. 머리에는 점각이 밀포하고 배에도 있으나 적고 광택이 있다. 수컷은 암컷과 비슷하나 얼굴에 무늬가 없고 제1-5배마디에 황색 무늬가 있다. 꼬리 끝에는 돌기가 없고 둥글다. 수컷의 길이는 14mm 정도.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[감소추세종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷의 몸길이는 18mm 정도이다. 몸은 흑색인데, 제1-6배마디의 양 옆의 불규칙적인 무늬는 황색이다. 머리, 가슴, 다리와 배의 등판 기부의 바깥쪽에는 연한 털이 났는데 등의 것은 회갈색이고 아랫면으로 가에 따라 회백색이다. 머리에는 점각이 밀포하고 배에도 있으나 적고 광택이 있다. 수컷은 암컷과 비슷하나 얼굴에 무늬가 없고 제1-5배마디에 황색 무늬가 있다. 꼬리 끝에는 돌기가 없고 둥글다. 수컷의 길이는 14mm 정도."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[감소추세종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0055-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0055_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0055_1_th.jpg",
+      "alt": "열점박이알락가위벌 1번째 사진 : 열점박이뾰족벌붙이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0055_1_th2.jpg",
+      "caption": "열점박이뾰족벌붙이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0055-1",
+  "specimen_examples": [
+    {
+      "id": "CBNE0301211112",
+      "description": "[CBNE0301211112] 열점박이알락가위벌 1996.06.29 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0301211113",
+      "description": "[CBNE0301211113] 열점박이알락가위벌 1996.06.29 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0301211114",
+      "description": "[CBNE0301211114] 열점박이알락가위벌 1993.06.22 / / 충북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAG0055-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0055&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:12+00:00",
+    "html_sha256": "7b2972b51e8681c76897e8299d96d0b868475c283e394dc8d64bac01e60fcdba",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

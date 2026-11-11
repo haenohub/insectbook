@@ -1,0 +1,114 @@
+{
+  "id": "ZDAK0002",
+  "name_ko": "마아키측범잠자리",
+  "scientific_name": "Anisogomphus maacki (Selys, 1872)",
+  "display_name": "마아키측범잠자리",
+  "family_ko": "측범잠자리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "잠자리목",
+      "name_latin": "Odonata"
+    },
+    "family": {
+      "name_ko": "측범잠자리과",
+      "name_latin": "Gomphidae"
+    },
+    "subfamily": {
+      "name_ko": "측범잠자리아과",
+      "name_latin": "Gomphinae"
+    },
+    "genus": {
+      "name_ko": "마아키측범잠자리속",
+      "name_latin": "Anisogomphus"
+    }
+  },
+  "taxonomy_text": "목 : 잠자리목 (Odonata)\n과 : 측범잠자리과 (Gomphidae)\n아과 : 측범잠자리아과 (Gomphinae)\n속 : 마아키측범잠자리속 (Anisogomphus)",
+  "basic_information": {
+    "곤충명": "마아키측범잠자리",
+    "학명": "Anisogomphus maacki (Selys, 1872)"
+  },
+  "information": {
+    "general_description": "뒷날개의 길이는 31~33 mm이다. 배의 제8~9마디가 다른 마디에 비해 매우 넓으며, 꼬리의 부속기 모양이 특이하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "깊은 산의 하천이나 계류에서 산다. 때때로 등산로 주변의 돌 위나 나뭇잎에 앉아 있는 것을 볼 수 있다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아] 극동지역",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "뒷날개의 길이는 31~33 mm이다. 배의 제8~9마디가 다른 마디에 비해 매우 넓으며, 꼬리의 부속기 모양이 특이하다."
+    },
+    {
+      "title": "습성",
+      "text": "깊은 산의 하천이나 계류에서 산다. 때때로 등산로 주변의 돌 위나 나뭇잎에 앉아 있는 것을 볼 수 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아] 극동지역"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZDAK0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAK0002_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAK0002_2_th.jpg",
+      "alt": "마아키측범잠자리 1번째 사진 : 마아키측범잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAK0002_2_th2.jpg",
+      "caption": "마아키측범잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZDAK0002-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAK0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAK0002_1_th.jpg",
+      "alt": "마아키측범잠자리 2번째 사진 : 마아키측범잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAK0002_1_th2.jpg",
+      "caption": "마아키측범잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZDAK0002-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306281056",
+      "description": "[YNUE0306281056] 마아키측범잠자리 1991.05.01 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306281057",
+      "description": "[YNUE0306281057] 마아키측범잠자리 2000.06.14 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306281058",
+      "description": "[YNUE0306281058] 마아키측범잠자리 2000.05.07 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZDAK0002-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZDAK0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:41+00:00",
+    "html_sha256": "526969318eca20ac36ad8d1bdeacc1dddd6268b2b9a40bbf17bfa2638dab7050",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

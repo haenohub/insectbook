@@ -1,0 +1,111 @@
+{
+  "id": "ZLBN0052",
+  "name_ko": "날개홍선장님노린재",
+  "scientific_name": "Creontiades coloripes Hsiao & Meng, 1963",
+  "display_name": "날개홍선장님노린재",
+  "family_ko": "장님노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "장님노린재상과",
+      "name_latin": "Miroidea"
+    },
+    "family": {
+      "name_ko": "장님노린재과",
+      "name_latin": "Miridae"
+    },
+    "subfamily": {
+      "name_ko": "장님노린재아과",
+      "name_latin": "Mirinae"
+    },
+    "genus": {
+      "name_ko": "날개홍선장님노린재속",
+      "name_latin": "Creontiades"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 장님노린재상과 (Miroidea)\n과 : 장님노린재과 (Miridae)\n아과 : 장님노린재아과 (Mirinae)\n속 : 날개홍선장님노린재속 (Creontiades)",
+  "basic_information": {
+    "곤충명": "날개홍선장님노린재",
+    "학명": "Creontiades coloripes Hsiao & Meng, 1963"
+  },
+  "information": {
+    "general_description": "몸길이 : 6.5-7mm\n몸은 약간 광택이 있는 연한 황록색에 암색줄이 있고, 가는 털이 성기게 분포하였다. 머리는 갈색이고, 작은방패판도 갈색이며, 조상부의 내연, 봉합선, 혁질부의 후내연에 연해서 암적색이다. 막질부의 날개맥은 적색을 띤다. 정수리에는 뚜렷한 세로홈이 있고, 주둥이는 길며, 뒷다리의 밑마디에 달한다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "포아풀 과 식물에 기생한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 6.5-7mm\n몸은 약간 광택이 있는 연한 황록색에 암색줄이 있고, 가는 털이 성기게 분포하였다. 머리는 갈색이고, 작은방패판도 갈색이며, 조상부의 내연, 봉합선, 혁질부의 후내연에 연해서 암적색이다. 막질부의 날개맥은 적색을 띤다. 정수리에는 뚜렷한 세로홈이 있고, 주둥이는 길며, 뒷다리의 밑마디에 달한다."
+    },
+    {
+      "title": "생태",
+      "text": "포아풀 과 식물에 기생한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLBN0052-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBN0052_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBN0052_1_th.jpg",
+      "alt": "날개홍선장님노린재 1번째 사진 : 날개홍선장님노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBN0052_1_th2.jpg",
+      "caption": "날개홍선장님노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLBN0052-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0408071038",
+      "description": "[KNAE0408071038] 날개홍선장님노린재 2002.09.08 / / 국립수목원"
+    },
+    {
+      "id": "SNUE0408232055",
+      "description": "[SNUE0408232055] 날개홍선장님노린재 1990.05.02 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0408232056",
+      "description": "[SNUE0408232056] 날개홍선장님노린재 1973.05.06 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZLBN0052.png",
+    "reference_image_id": "ZLBN0052-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T16:16:06.829654+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "8489e8056cc01a8a6d13650ae439d488a252c5d75b12239ce1ce098abb8bd61a"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLBN0052&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:18+00:00",
+    "html_sha256": "31211cff01d7cc8f696bba9e07b411eca660ec74857eab0522015a9d046e7059",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "ZTBU0308",
+  "name_ko": "팔점보라맵시벌",
+  "scientific_name": "Coelichneumon (Coelichneumon) cyaniventris (Wesmael, 1859)",
+  "display_name": "팔점보라맵시벌",
+  "family_ko": "맵시벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "맵시벌과",
+      "name_latin": "Ichneumonidae"
+    },
+    "subfamily": {
+      "name_ko": "맵시벌아과",
+      "name_latin": "Ichneumoninae"
+    },
+    "genus": {
+      "name_ko": "대한맵시벌속",
+      "name_latin": "Coelichneumon"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 맵시벌과 (Ichneumonidae)\n아과 : 맵시벌아과 (Ichneumoninae)\n속 : 대한맵시벌속 (Coelichneumon)",
+  "basic_information": {
+    "곤충명": "팔점보라맵시벌",
+    "학명": "Coelichneumon (Coelichneumon) cyaniventris (Wesmael, 1859)"
+  },
+  "information": {
+    "general_description": "대체로 흑색이나 배는 남색빛이 돌며 광택이 세다. 몸에는 많은 황백색 무늬가 있다고, 특히 그 무늬에는 변이가 많다. 특히 배마디에 있어서는 제1∼4마디 양 옆에 무늬가 있고 제5마디에도 있다. 그리고 제7마디 등쪽에도 있는 것이 있다. 머리와 가슴 제1∼3배마디에는 점각이 배게 있고 제1∼4배마디에는 중앙부에 세로주름이 있다. 날개는 투명하다. 몸크기에도 여러 가지가 있다.\n버들하늘나방의 유충과 번데기에 기생한다. 15∼22mm",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[네덜란드]\n[폴란드]\n[오스트리아]\n[벨기에]\n[루마니아]\n[러시아]\n[라트비아]\n[일본]\n[이탈리아]\n[헝가리]\n[영국]\n[프랑스]\n[핀란드]\n[스페인]\n[독일]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "대체로 흑색이나 배는 남색빛이 돌며 광택이 세다. 몸에는 많은 황백색 무늬가 있다고, 특히 그 무늬에는 변이가 많다. 특히 배마디에 있어서는 제1∼4마디 양 옆에 무늬가 있고 제5마디에도 있다. 그리고 제7마디 등쪽에도 있는 것이 있다. 머리와 가슴 제1∼3배마디에는 점각이 배게 있고 제1∼4배마디에는 중앙부에 세로주름이 있다. 날개는 투명하다. 몸크기에도 여러 가지가 있다.\n버들하늘나방의 유충과 번데기에 기생한다. 15∼22mm"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[네덜란드]\n[폴란드]\n[오스트리아]\n[벨기에]\n[루마니아]\n[러시아]\n[라트비아]\n[일본]\n[이탈리아]\n[헝가리]\n[영국]\n[프랑스]\n[핀란드]\n[스페인]\n[독일]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBU0308-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0308_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0308_1_th.jpg",
+      "alt": "팔점보라맵시벌 1번째 사진 : 팔점보라맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0308_1_th2.jpg",
+      "caption": "팔점보라맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBU0308-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305261092",
+      "description": "[YNUE0305261092] 팔점보라맵시벌 1981.07.23 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305301015",
+      "description": "[YNUE0305301015] 팔점보라맵시벌 1973.06.10 / / 영남대학교"
+    },
+    {
+      "id": "KNAE0303251016",
+      "description": "[KNAE0303251016] 팔점보라맵시벌 1990.11.12 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTBU0308-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBU0308&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:37+00:00",
+    "html_sha256": "e152381e926345f22b26fc4e7f8ca53d389583b18cb359c36d214a4c97db5374",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

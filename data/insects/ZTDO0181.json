@@ -1,0 +1,103 @@
+{
+  "id": "ZTDO0181",
+  "name_ko": "다줄상제잎벌",
+  "scientific_name": "Rhogogaster convergens Malaise, 1931",
+  "display_name": "다줄상제잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "잎벌아과",
+      "name_latin": "Tenthredininae"
+    },
+    "genus": {
+      "name_ko": "상제잎벌속",
+      "name_latin": "Rhogogaster"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 잎벌아과 (Tenthredininae)\n속 : 상제잎벌속 (Rhogogaster)",
+  "basic_information": {
+    "곤충명": "다줄상제잎벌",
+    "학명": "Rhogogaster convergens Malaise, 1931"
+  },
+  "information": {
+    "general_description": "몸의 길이는 11mm, 더듬이 길이는 4.7mm, 앞날개 길이는 8.5mm이다. 몸은 밝은 황색이다. 더듬이의 등면, 큰턱 끝, 홑눈부위, 가운데가슴, 배마디 등면의 노란줄을 제외하고는 흑색이다. 앞다리 넓적다리마디 끝가두리, 종아리다리 바깥면, 발목마디의 바깥면은 흑색이다.가운데가슴 배판은 흑색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의 길이는 11mm, 더듬이 길이는 4.7mm, 앞날개 길이는 8.5mm이다. 몸은 밝은 황색이다. 더듬이의 등면, 큰턱 끝, 홑눈부위, 가운데가슴, 배마디 등면의 노란줄을 제외하고는 흑색이다. 앞다리 넓적다리마디 끝가두리, 종아리다리 바깥면, 발목마디의 바깥면은 흑색이다.가운데가슴 배판은 흑색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0181-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0181_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0181_1_th.jpg",
+      "alt": "다줄상제잎벌 1번째 사진 : 다줄상제잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0181_1_th2.jpg",
+      "caption": "다줄상제잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0181-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0301059119",
+      "description": "[YNUE0301059119] 다줄상제잎벌 1992.05.30 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301059120",
+      "description": "[YNUE0301059120] 다줄상제잎벌 1985.06.01 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301059122",
+      "description": "[YNUE0301059122] 다줄상제잎벌 1992.05.30 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDO0181-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0181&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:48+00:00",
+    "html_sha256": "6296265ca4119a8680971e464608f00f566d7049e14a6c0f6f68265dc03bf223",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

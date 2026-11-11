@@ -1,0 +1,107 @@
+{
+  "id": "ZTDO0177",
+  "name_ko": "검정테두리잎벌",
+  "scientific_name": "Pristiphora (Lygaeonematus) wesmaeli (Tischbein, 1853)",
+  "display_name": "검정테두리잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "수염잎벌아과",
+      "name_latin": "Nematinae"
+    },
+    "genus": {
+      "name_ko": "테두리잎벌속",
+      "name_latin": "Pristiphora"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 수염잎벌아과 (Nematinae)\n속 : 테두리잎벌속 (Pristiphora)",
+  "basic_information": {
+    "곤충명": "검정테두리잎벌",
+    "학명": "Pristiphora (Lygaeonematus) wesmaeli (Tischbein, 1853)"
+  },
+  "information": {
+    "general_description": "암컷의 몸길이는 8mm이고 검은색이다. 앞가슴등판 뒷옆모서리와 어깨판은 황갈색이거나 암갈색이다. 제 3~5배마디는 적갈색이고 그 양 옆이 가끔 검은색이다. 머리와 가슴에는 미세한 점각이 밀포하였으나 정수리는 점각이 성글고 광택이 강하다. 뒷다리 발톱은 1개의 이가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷의 몸길이는 8mm이고 검은색이다. 앞가슴등판 뒷옆모서리와 어깨판은 황갈색이거나 암갈색이다. 제 3~5배마디는 적갈색이고 그 양 옆이 가끔 검은색이다. 머리와 가슴에는 미세한 점각이 밀포하였으나 정수리는 점각이 성글고 광택이 강하다. 뒷다리 발톱은 1개의 이가 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0177-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0177_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0177_1_th.jpg",
+      "alt": "검정테두리잎벌 1번째 사진 : 검정테두리잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0177_1_th2.jpg",
+      "caption": "검정테두리잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0177-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305121083",
+      "description": "[YNUE0305121083] 검정테두리잎벌 1999.05.16 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305121080",
+      "description": "[YNUE0305121080] 검정테두리잎벌 1999.05.16 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305121081",
+      "description": "[YNUE0305121081] 검정테두리잎벌 1999.05.16 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTDO0177.png",
+    "reference_image_id": "ZTDO0177-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T11:59:07.999961+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "d10b97da75bc4009b7d7995e5fe0eea7a82478fe6baba9608c37e743b80704af"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0177&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:31+00:00",
+    "html_sha256": "838c73b3a551de00f621e16c5e5d6b54b8ded3eeca0914bbdd7bbec6cba927fd",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

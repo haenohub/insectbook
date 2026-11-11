@@ -1,0 +1,126 @@
+{
+  "id": "ZRDU0072",
+  "name_ko": "까마귀재주나방",
+  "scientific_name": "Allodonta plebeja (Oberthür, 1880)",
+  "display_name": "까마귀재주나방",
+  "family_ko": "재주나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "재주나방과",
+      "name_latin": "Notodontidae"
+    },
+    "subfamily": {
+      "name_ko": "기린재주나방아과",
+      "name_latin": "Ptilodoninae"
+    },
+    "genus": {
+      "name_ko": "까마귀재주나방속",
+      "name_latin": "Allodonta"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 재주나방과 (Notodontidae)\n아과 : 기린재주나방아과 (Ptilodoninae)\n속 : 까마귀재주나방속 (Allodonta)",
+  "basic_information": {
+    "곤충명": "까마귀재주나방",
+    "학명": "Allodonta plebeja (Oberthür, 1880)"
+  },
+  "information": {
+    "general_description": "날개편 길이 50～57mm. 중횡선은 톱니모양이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 7～8월에 출현한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[중국]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 50～57mm. 중횡선은 톱니모양이다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 7～8월에 출현한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDU0072-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0072_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0072_2_th.jpg",
+      "alt": "까마귀재주나방 1번째 사진 : 까마귀재주나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0072_2_th2.jpg",
+      "caption": "까마귀재주나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDU0072-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0072_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0072_1_th.jpg",
+      "alt": "까마귀재주나방 2번째 사진 : 까마귀재주나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0072_1_th2.jpg",
+      "caption": "까마귀재주나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDU0072-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0301092021",
+      "description": "[KNAE0301092021] 까마귀재주나방 1991.07.26 / / 국립수목원"
+    },
+    {
+      "id": "GSNE0301151024",
+      "description": "[GSNE0301151024] 까마귀재주나방 2001.08.18 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0301151025",
+      "description": "[GSNE0301151025] 까마귀재주나방 2001.08.18 / / 경상대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDU0072.png",
+    "reference_image_id": "ZRDU0072-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T09:52:40.872893+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "cb201a74e248b325ce113cfb8cdb64fd11024c742b176b11d7e5cf4a120e2570"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDU0072&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:17+00:00",
+    "html_sha256": "541947b451d759322e4bf05c126118c068e6bd0fb31d70b4a5251219fa259e21",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

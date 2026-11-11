@@ -1,0 +1,103 @@
+{
+  "id": "ZTDO0090",
+  "name_ko": "향로잎벌",
+  "scientific_name": "Pachyprotasis variegata (Fallén, 1808)",
+  "display_name": "향로잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "잎벌아과",
+      "name_latin": "Tenthredininae"
+    },
+    "genus": {
+      "name_ko": "향로잎벌속",
+      "name_latin": "Pachyprotasis"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 잎벌아과 (Tenthredininae)\n속 : 향로잎벌속 (Pachyprotasis)",
+  "basic_information": {
+    "곤충명": "향로잎벌",
+    "학명": "Pachyprotasis variegata (Fallén, 1808)"
+  },
+  "information": {
+    "general_description": "흑색에 황색 무늬가 많다. 다리는 오렌지색이고 각 밑마디는 황색이며 뒷다리의 넓적다리마디 끝, 앞다리, 가운데다리의 종아리마디 바깥쪽, 뒷다리의 종아리마디 끝과 각 발목마디는 흑색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "흑색에 황색 무늬가 많다. 다리는 오렌지색이고 각 밑마디는 황색이며 뒷다리의 넓적다리마디 끝, 앞다리, 가운데다리의 종아리마디 바깥쪽, 뒷다리의 종아리마디 끝과 각 발목마디는 흑색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0090-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0090_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0090_1_th.jpg",
+      "alt": "향로잎벌 1번째 사진 : 향로잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0090_1_th2.jpg",
+      "caption": "향로잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0090-1",
+  "specimen_examples": [
+    {
+      "id": "GSNE0408272212",
+      "description": "[GSNE0408272212] 향로잎벌 1999.07.13 / / 경상대학교"
+    },
+    {
+      "id": "KNAE624519",
+      "description": "[KNAE624519] 향로잎벌 / / 국립수목원"
+    },
+    {
+      "id": "KNAE624520",
+      "description": "[KNAE624520] 향로잎벌 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDO0090-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0090&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:11+00:00",
+    "html_sha256": "cfda2572a9ca7211e33991e145d0e52b06529ab257a935293b4eb5390e2022c9",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

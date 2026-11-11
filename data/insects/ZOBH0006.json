@@ -1,0 +1,95 @@
+{
+  "id": "ZOBH0006",
+  "name_ko": "혹줄딱정벌레",
+  "scientific_name": "Carabus granulatus telluris Bates, 1883",
+  "display_name": "혹줄딱정벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "딱정벌레아과",
+      "name_latin": "Carabinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Carabus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 딱정벌레아과 (Carabinae)\n속 : (Carabus)",
+  "basic_information": {
+    "곤충명": "혹줄딱정벌레",
+    "학명": "Carabus granulatus telluris Bates, 1883"
+  },
+  "information": {
+    "general_description": "몸길이는 18~26mm이며. 머리는 점무늬가 많고, 머리방패는 오목하다. 딱지날개는 흑청색을 띠고, 배부분은 광택이 나는 흑갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 18~26mm이며. 머리는 점무늬가 많고, 머리방패는 오목하다. 딱지날개는 흑청색을 띠고, 배부분은 광택이 나는 흑갈색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0006-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0006_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0006_1_th.jpg",
+      "alt": "혹줄딱정벌레 1번째 사진 : 혹줄딱정벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0006_1_th2.jpg",
+      "caption": "혹줄딱정벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0006-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0112314016",
+      "description": "[YNUE0112314016] 혹줄딱정벌레 1993.08.11 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0112184012",
+      "description": "[YNUE0112184012] 혹줄딱정벌레 1993.07.28 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0006-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0006&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:22+00:00",
+    "html_sha256": "226223739b2b6d2ba1f825804175c8a3a96ade0882d25af1f14655a391d20f44",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

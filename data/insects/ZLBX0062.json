@@ -1,0 +1,107 @@
+{
+  "id": "ZLBX0062",
+  "name_ko": "애기노린재",
+  "scientific_name": "Rubiconia intermedia (Wolff, 1811)",
+  "display_name": "애기노린재",
+  "family_ko": "노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "노린재상과",
+      "name_latin": "Pentatomoidea"
+    },
+    "family": {
+      "name_ko": "노린재과",
+      "name_latin": "Pentatomidae"
+    },
+    "subfamily": {
+      "name_ko": "노린재아과",
+      "name_latin": "Pentatominae"
+    },
+    "genus": {
+      "name_ko": "애기노린재속",
+      "name_latin": "Rubiconia"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 노린재상과 (Pentatomoidea)\n과 : 노린재과 (Pentatomidae)\n아과 : 노린재아과 (Pentatominae)\n속 : 애기노린재속 (Rubiconia)",
+  "basic_information": {
+    "곤충명": "애기노린재",
+    "학명": "Rubiconia intermedia (Wolff, 1811)"
+  },
+  "information": {
+    "general_description": "몸길이 : 6.5-8mm\n몸은 회황색 또는 담갈색의 바탕에 검정색 또는 학갈색 무늬를 가지며, 광택이 있다. 머리는 크며 점각이 무수히 산재한다. 앞가슴등판은 앞가장자리와 옆가장자리를 따라 황갈색 실 무늬가 있고, 주변에 현저한 흑갈색 무늬가 나타난다. 작은방패판은 크고, 기부에 희미한 흑갈색 무늬가 불규칙하게 있다. 선단부에는 손톱 모양의 회황색 무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "산야의 초원지대에 서식한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[몽골]\n[유럽]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 6.5-8mm\n몸은 회황색 또는 담갈색의 바탕에 검정색 또는 학갈색 무늬를 가지며, 광택이 있다. 머리는 크며 점각이 무수히 산재한다. 앞가슴등판은 앞가장자리와 옆가장자리를 따라 황갈색 실 무늬가 있고, 주변에 현저한 흑갈색 무늬가 나타난다. 작은방패판은 크고, 기부에 희미한 흑갈색 무늬가 불규칙하게 있다. 선단부에는 손톱 모양의 회황색 무늬가 있다."
+    },
+    {
+      "title": "생태",
+      "text": "산야의 초원지대에 서식한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[몽골]\n[유럽]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLBX0062-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0062_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0062_1_th.jpg",
+      "alt": "애기노린재 1번째 사진 : 애기노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0062_1_th2.jpg",
+      "caption": "애기노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLBX0062-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0212186057",
+      "description": "[YNUE0212186057] 애기노린재 1991.05.10 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0212186140",
+      "description": "[YNUE0212186140] 애기노린재 1991.05.10 / / 영남대학교"
+    },
+    {
+      "id": "FRIE0303201034",
+      "description": "[FRIE0303201034] 애기노린재 1984.05.18 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLBX0062-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLBX0062&tabId=tab1",
+    "collected_at": "2026-11-04T14:14:53+00:00",
+    "html_sha256": "44355e30b2421c0082510cbf102673d8bda1df6daedb7d72fc4f0ccf57792424",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

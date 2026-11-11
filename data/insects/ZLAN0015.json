@@ -1,0 +1,128 @@
+{
+  "id": "ZLAN0015",
+  "name_ko": "장수허리노린재",
+  "scientific_name": "Anoplocnemis dallasi Kiritshenko, 1916",
+  "display_name": "장수허리노린재",
+  "family_ko": "허리노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "허리노린재상과",
+      "name_latin": "Coreoidea"
+    },
+    "family": {
+      "name_ko": "허리노린재과",
+      "name_latin": "Coreidae"
+    },
+    "subfamily": {
+      "name_ko": "장수허리노린재아과",
+      "name_latin": "Mictinae"
+    },
+    "genus": {
+      "name_ko": "장수허리노린재속",
+      "name_latin": "Anoplocnemis"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 허리노린재상과 (Coreoidea)\n과 : 허리노린재과 (Coreidae)\n아과 : 장수허리노린재아과 (Mictinae)\n속 : 장수허리노린재속 (Anoplocnemis)",
+  "basic_information": {
+    "곤충명": "장수허리노린재",
+    "학명": "Anoplocnemis dallasi Kiritshenko, 1916"
+  },
+  "information": {
+    "general_description": "몸길이 : 18.5-19.5mm\n몸은 전체가 흑갈색, 암갈색 또는 개체에 따라 갈색을 띠며, 광택이 없다. 체표면에 미세한 황갈색의 부드럽고 짧은 털이 산재한다. 앞가슴등판은 사다리꼴이고 옆가장자리의 뒷모서리가 세모꼴로 돌출하였다. 작은방패판은 정삼각형이다. 배마디의 옆가장자리는 좁게 확장되어서 앞날개의 바깥가장자리 밖으로 약간 돌출한다.뒷다리의 허벅마디는 특히 굵다.",
+    "adult": null,
+    "adult_male": "뒷다리의 허벅마디는 특히 굵고 원추형으로 비대하며 안쪽으로 삼각형의 현저형 뿔돌기가 발달했다.",
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "도시나 공원지역에 식재된 족제비싸리의 새순을 가해하는 것을 흔히 볼 수가 있다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 18.5-19.5mm\n몸은 전체가 흑갈색, 암갈색 또는 개체에 따라 갈색을 띠며, 광택이 없다. 체표면에 미세한 황갈색의 부드럽고 짧은 털이 산재한다. 앞가슴등판은 사다리꼴이고 옆가장자리의 뒷모서리가 세모꼴로 돌출하였다. 작은방패판은 정삼각형이다. 배마디의 옆가장자리는 좁게 확장되어서 앞날개의 바깥가장자리 밖으로 약간 돌출한다.뒷다리의 허벅마디는 특히 굵다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "뒷다리의 허벅마디는 특히 굵고 원추형으로 비대하며 안쪽으로 삼각형의 현저형 뿔돌기가 발달했다."
+    },
+    {
+      "title": "생태",
+      "text": "도시나 공원지역에 식재된 족제비싸리의 새순을 가해하는 것을 흔히 볼 수가 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLAN0015-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0015_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0015_2_th.jpg",
+      "alt": "장수허리노린재 1번째 사진 : 장수허리노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0015_2_th2.jpg",
+      "caption": "장수허리노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZLAN0015-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0015_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0015_1_th.jpg",
+      "alt": "장수허리노린재 2번째 사진 : 장수허리노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0015_1_th2.jpg",
+      "caption": "장수허리노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLAN0015-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408191145",
+      "description": "[MPME0408191145] 장수허리노린재 2003.08.12 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408191144",
+      "description": "[MPME0408191144] 장수허리노린재 2003.08.12 / / 목포자연사박물관"
+    },
+    {
+      "id": "KPNE0305091093",
+      "description": "[KPNE0305091093] 장수허리노린재 1998.05.09 / / 경북대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "족제비싸리",
+      "scientific_name": "Amorpha fruticosa L."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLAN0015-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLAN0015&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:09+00:00",
+    "html_sha256": "57debc66b51d7ab888042ba49c2e105394613912b4d13b7a6967ef2089d3e13f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

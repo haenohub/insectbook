@@ -1,0 +1,107 @@
+{
+  "id": "ZOBT0059",
+  "name_ko": "금강산잎벌레",
+  "scientific_name": "Pachybrachis (Pachybrachis) ochropygus (Solsky, 1872)",
+  "display_name": "금강산잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "통잎벌레아과",
+      "name_latin": "Cryptocephalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Pachybrachis"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 통잎벌레아과 (Cryptocephalinae)\n속 : (Pachybrachis)",
+  "basic_information": {
+    "곤충명": "금강산잎벌레",
+    "학명": "Pachybrachis (Pachybrachis) ochropygus (Solsky, 1872)"
+  },
+  "information": {
+    "general_description": "한국(북부,중부,남부), 중국(만주,북부,서부,중부), 러시아(동시메리아)에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국(북부,중부,남부), 중국(만주,북부,서부,중부), 러시아(동시메리아)에 분포되어있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0059-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0059_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0059_1_th.jpg",
+      "alt": "금강산잎벌레 1번째 사진 : 금강산잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0059_1_th2.jpg",
+      "caption": "금강산잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0059-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0306241036",
+      "description": "[FRIE0306241036] 금강산잎벌레 1997.07.09 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0306241037",
+      "description": "[FRIE0306241037] 금강산잎벌레 1997.07.08 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0306241038",
+      "description": "[FRIE0306241038] 금강산잎벌레 1999.07.20 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBT0059.png",
+    "reference_image_id": "ZOBT0059-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T14:54:40.422510+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "fba435f04068e267b367e842d9357082b58dc7f9470de28bf13d312b7fbde4c5"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0059&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:44+00:00",
+    "html_sha256": "d54eade9c004932a2f1437d1b79009a8dd92064c54c9cd16aac3a99bbe2ba1ff",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

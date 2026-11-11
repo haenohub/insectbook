@@ -1,0 +1,128 @@
+{
+  "id": "ZRDS0017",
+  "name_ko": "뿔무늬저녁나방",
+  "scientific_name": "Acronicta leucocuspis (Butler, 1878)",
+  "display_name": "뿔무늬저녁나방",
+  "family_ko": "밤나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "밤나방과",
+      "name_latin": "Noctuidae"
+    },
+    "subfamily": {
+      "name_ko": "저녁나방아과",
+      "name_latin": "Acronictinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Acronicta"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 밤나방과 (Noctuidae)\n아과 : 저녁나방아과 (Acronictinae)\n속 : (Acronicta)",
+  "basic_information": {
+    "곤충명": "뿔무늬저녁나방",
+    "학명": "Acronicta leucocuspis (Butler, 1878)"
+  },
+  "information": {
+    "general_description": "날개편 길이 18～22mm. 앞날개는 밝은 회색 바탕에 흑색의 칼 모양 무늬가 있으며, 외횡선의 제 1실과 제 5실에도 짧은 흑색 줄 무늬가 교차되어 있다. 뒷날개는 담갈색 바탕으로 횡맥 무늬와 외횡선이 있으며, 외연부는 암갈색을 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6～8월경에 출현된다",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 18～22mm. 앞날개는 밝은 회색 바탕에 흑색의 칼 모양 무늬가 있으며, 외횡선의 제 1실과 제 5실에도 짧은 흑색 줄 무늬가 교차되어 있다. 뒷날개는 담갈색 바탕으로 횡맥 무늬와 외횡선이 있으며, 외연부는 암갈색을 띤다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6～8월경에 출현된다"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0017-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0017_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0017_2_th.jpg",
+      "alt": "뿔무늬저녁나방 1번째 사진 : 뿔무늬저녁나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0017_2_th2.jpg",
+      "caption": "뿔무늬저녁나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDS0017-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0017_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0017_1_th.jpg",
+      "alt": "뿔무늬저녁나방 2번째 사진 : 뿔무늬저녁나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0017_1_th2.jpg",
+      "caption": "뿔무늬저녁나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0017-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0112151044",
+      "description": "[KNAE0112151044] 뿔무늬저녁나방 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303051086",
+      "description": "[KNAE0303051086] 뿔무늬저녁나방 1987.07.27 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303051087",
+      "description": "[KNAE0303051087] 뿔무늬저녁나방 1988.05.17 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "황벽나무",
+      "scientific_name": "Phellodendron amurense Rupr."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDS0017-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0017&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:13+00:00",
+    "html_sha256": "744eea27a86f390da056e4579ad5ed55997d25070305c220a127f1d2adb2b684",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

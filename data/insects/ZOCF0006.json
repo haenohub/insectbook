@@ -1,0 +1,107 @@
+{
+  "id": "ZOCF0006",
+  "name_ko": "털줄바구미",
+  "scientific_name": "Calomycterus setarius Roelofs, 1873",
+  "display_name": "털줄바구미",
+  "family_ko": "바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "바구미과",
+      "name_latin": "Curculionidae"
+    },
+    "subfamily": {
+      "name_ko": "줄바구미아과",
+      "name_latin": "Entiminae"
+    },
+    "genus": {
+      "name_ko": "털줄바구미속",
+      "name_latin": "Calomycterus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 바구미과 (Curculionidae)\n아과 : 줄바구미아과 (Entiminae)\n속 : 털줄바구미속 (Calomycterus)",
+  "basic_information": {
+    "곤충명": "털줄바구미",
+    "학명": "Calomycterus setarius Roelofs, 1873"
+  },
+  "information": {
+    "general_description": "몸길이 3.6-4.5 mm. 하순기절에 2개의 강모가 있다. 더듬이 채찍마디 제1마디는 제2마디보다 길다. 앞가슴 전측 가두리에 목향엽이 있다. 눈은 크고 난형. 딱지날개는 어깨가 없고 난형이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]\n[대한민국] 제주특별자치도",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 3.6-4.5 mm. 하순기절에 2개의 강모가 있다. 더듬이 채찍마디 제1마디는 제2마디보다 길다. 앞가슴 전측 가두리에 목향엽이 있다. 눈은 크고 난형. 딱지날개는 어깨가 없고 난형이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]\n[대한민국] 제주특별자치도"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCF0006-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0006_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0006_1_th.jpg",
+      "alt": "털줄바구미 1번째 사진 : 털줄바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0006_1_th2.jpg",
+      "caption": "털줄바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCF0006-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0203274015",
+      "description": "[SNUE0203274015] 털줄바구미 1999.07.21 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0203141019",
+      "description": "[SNUE0203141019] 털줄바구미 1975.07.01 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0203141020",
+      "description": "[SNUE0203141020] 털줄바구미 1996.08.04 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOCF0006-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCF0006&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:22+00:00",
+    "html_sha256": "8dcfc2143d9092333773cec893fb5df076d0547397b637fcc7caf621c92cf155",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

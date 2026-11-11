@@ -1,0 +1,118 @@
+{
+  "id": "ZOGP0001",
+  "name_ko": "검정송장벌레",
+  "scientific_name": "Nicrophorus concolor Kraatz, 1877",
+  "display_name": "검정송장벌레",
+  "family_ko": "송장벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "반날개상과",
+      "name_latin": "Staphylinoidea"
+    },
+    "family": {
+      "name_ko": "송장벌레과",
+      "name_latin": "Silphidae"
+    },
+    "subfamily": {
+      "name_ko": "검정송장벌레아과",
+      "name_latin": "Nicrophorinae"
+    },
+    "genus": {
+      "name_ko": "송장벌레속",
+      "name_latin": "Nicrophorus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 반날개상과 (Staphylinoidea)\n과 : 송장벌레과 (Silphidae)\n아과 : 검정송장벌레아과 (Nicrophorinae)\n속 : 송장벌레속 (Nicrophorus)",
+  "basic_information": {
+    "곤충명": "검정송장벌레",
+    "학명": "Nicrophorus concolor Kraatz, 1877"
+  },
+  "information": {
+    "general_description": "한국, 일본, 대만, 중국에 분포하며, 체장은 30-45mm 정도이다. 흑색의 대형종이며 머리는 볼록한 모양이고 앞머리로 향하여 세줄의 종구가 있다. 그 중앙의 것은 짧고 작다. 머리방패는 등황색이다. 앞가슴등판은 원반형이고 흑색의 아주 작은 점각이 있고 주변가두리는 폭이 넓고 수평하고 모자의 악상으로 되었다. 복판은 크고 후반부의 점각도 크다. 다리는 흑색이다. 딱지날개는 흑색이고 불규칙한 두줄의 종융이 있다. 그 간실에는 작은 점각을 밀포하였다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 대만, 중국에 분포하며, 체장은 30-45mm 정도이다. 흑색의 대형종이며 머리는 볼록한 모양이고 앞머리로 향하여 세줄의 종구가 있다. 그 중앙의 것은 짧고 작다. 머리방패는 등황색이다. 앞가슴등판은 원반형이고 흑색의 아주 작은 점각이 있고 주변가두리는 폭이 넓고 수평하고 모자의 악상으로 되었다. 복판은 크고 후반부의 점각도 크다. 다리는 흑색이다. 딱지날개는 흑색이고 불규칙한 두줄의 종융이 있다. 그 간실에는 작은 점각을 밀포하였다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGP0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0001_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0001_2_th.jpg",
+      "alt": "검정송장벌레 1번째 사진 : 검정송장벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0001_2_th2.jpg",
+      "caption": "검정송장벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOGP0001-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0001_1_th.jpg",
+      "alt": "검정송장벌레 2번째 사진 : 검정송장벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0001_1_th2.jpg",
+      "caption": "검정송장벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGP0001-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0408111068",
+      "description": "[UIBE0408111068] 검정송장벌레 1998.09.07 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0408111070",
+      "description": "[UIBE0408111070] 검정송장벌레 2000.05.24 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0408111071",
+      "description": "[UIBE0408111071] 검정송장벌레 2001.06.29 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOGP0001.png",
+    "reference_image_id": "ZOGP0001-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T11:36:50.204034+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "7df9d40a51e34b9f43f209df6e0e1ac1780d4c3e9000e27a3f6c924539616b70"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGP0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:25+00:00",
+    "html_sha256": "13f3f82794972f0f75f6e94ff0566f0200d2e0d9142dbb98e78bae7467eab424",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

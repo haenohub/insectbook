@@ -1,0 +1,110 @@
+{
+  "id": "ZOCR0034",
+  "name_ko": "애기물방개",
+  "scientific_name": "Rhantus (Rhantus) suturalis (Macleay, 1825)",
+  "display_name": "애기물방개",
+  "family_ko": "물방개과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "물방개과",
+      "name_latin": "Dytiscidae"
+    },
+    "subfamily": {
+      "name_ko": "애기물방개아과",
+      "name_latin": "Colymbetinae"
+    },
+    "genus": {
+      "name_ko": "애기물방개속",
+      "name_latin": "Rhantus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 물방개과 (Dytiscidae)\n아과 : 애기물방개아과 (Colymbetinae)\n속 : 애기물방개속 (Rhantus)",
+  "basic_information": {
+    "곤충명": "애기물방개",
+    "학명": "Rhantus (Rhantus) suturalis (Macleay, 1825)"
+  },
+  "information": {
+    "general_description": "한국, 일본, 대만, 만주, 사할린, 호주, 슨다 섬, 북아프리카에 분포하며, 체장은 12mm 내외이다. 머리는 황갈색이고 뒷머리와 겹눈 사이에 흑색 얼룩 무늬가 있고 머리방패, 더듬이, 양쪽 수염은 황갈색이다. 배면은 흑색이고 앞가슴판 돌기는 흑갈색이며 배고리마디의 뒤쪽 3-4마디의 뒷가두리는 적갈색이다. 앞다리와 가운데다리는 황갈색이고 종아리마디 이하는 적흑색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 대만, 만주, 사할린, 호주, 슨다 섬, 북아프리카에 분포하며, 체장은 12mm 내외이다. 머리는 황갈색이고 뒷머리와 겹눈 사이에 흑색 얼룩 무늬가 있고 머리방패, 더듬이, 양쪽 수염은 황갈색이다. 배면은 흑색이고 앞가슴판 돌기는 흑갈색이며 배고리마디의 뒤쪽 3-4마디의 뒷가두리는 적갈색이다. 앞다리와 가운데다리는 황갈색이고 종아리마디 이하는 적흑색이다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCR0034-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCR0034_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCR0034_2_th.jpg",
+      "alt": "애기물방개 1번째 사진 : 애기물방개전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCR0034_2_th2.jpg",
+      "caption": "애기물방개전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOCR0034-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCR0034_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCR0034_1_th.jpg",
+      "alt": "애기물방개 2번째 사진 : 애기물방개전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCR0034_1_th2.jpg",
+      "caption": "애기물방개전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCR0034-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0306191006",
+      "description": "[FRIE0306191006] 애기물방개 1999.08.10 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0306191007",
+      "description": "[FRIE0306191007] 애기물방개 1998.08.30 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0306191008",
+      "description": "[FRIE0306191008] 애기물방개 1999.07.13 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOCR0034-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCR0034&tabId=tab1",
+    "collected_at": "2026-11-04T14:14:56+00:00",
+    "html_sha256": "222c5049a8fa41f67ae515ec8db0bafd33a8a312d5db3446c62c8c9adfab474e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

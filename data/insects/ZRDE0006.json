@@ -1,0 +1,99 @@
+{
+  "id": "ZRDE0006",
+  "name_ko": "갈고리쐐기나방",
+  "scientific_name": "Heterogenea asella (Denis & Schiffermüller, 1775)",
+  "display_name": "갈고리쐐기나방",
+  "family_ko": "쐐기나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "알락나방상과",
+      "name_latin": "Zygaenoidea"
+    },
+    "family": {
+      "name_ko": "쐐기나방과",
+      "name_latin": "Limacodidae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Heterogenea"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 알락나방상과 (Zygaenoidea)\n과 : 쐐기나방과 (Limacodidae)\n속 : (Heterogenea)",
+  "basic_information": {
+    "곤충명": "갈고리쐐기나방",
+    "학명": "Heterogenea asella (Denis & Schiffermüller, 1775)"
+  },
+  "information": {
+    "general_description": "국내분포 경기도\n국외분포 일본, 아무르, 우수리, 아르메니아, 유럽\n더듬이는 실 모양이며, 아랫입술수염은 정수리에 미치지 못하였는데 등쪽면은 갈색이고, 배쪽면은 황색을 띠고 있다. 뒷다리의 종아리마디에는 며느리발톱이 없다. 앞？뒷날개 모두 다갈색 바탕으로 되었는데 앞날개의 날개끝은 뾰족하며, 약간 갈고리 모양으로 굽었다. 암컷이 수컷에 비해 약간 크며, 색깔은 다소 담색이다. 날개의 길이는 13～15㎜이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "국내분포 경기도\n국외분포 일본, 아무르, 우수리, 아르메니아, 유럽\n더듬이는 실 모양이며, 아랫입술수염은 정수리에 미치지 못하였는데 등쪽면은 갈색이고, 배쪽면은 황색을 띠고 있다. 뒷다리의 종아리마디에는 며느리발톱이 없다. 앞？뒷날개 모두 다갈색 바탕으로 되었는데 앞날개의 날개끝은 뾰족하며, 약간 갈고리 모양으로 굽었다. 암컷이 수컷에 비해 약간 크며, 색깔은 다소 담색이다. 날개의 길이는 13～15㎜이다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDE0006-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDE0006_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDE0006_1_th.jpg",
+      "alt": "갈고리쐐기나방 1번째 사진 : 갈고리쐐기나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDE0006_1_th2.jpg",
+      "caption": "갈고리쐐기나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDE0006-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0203261014",
+      "description": "[FRIE0203261014] 갈고리쐐기나방 1983.07.15 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0604190045",
+      "description": "[KNAE0604190045] 갈고리쐐기나방 2005.07.29 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0604190046",
+      "description": "[KNAE0604190046] 갈고리쐐기나방 2005.06.08 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDE0006.png",
+    "reference_image_id": "ZRDE0006-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T16:06:42.757516+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "7ce6986f863543b888bea0d52c41f0db400fbc39bce0a5ff772078906721adf8"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDE0006&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:23+00:00",
+    "html_sha256": "7a3aea7394b609b70f120fe186ded65aaedc57a5226589006fab38baba0b24b3",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

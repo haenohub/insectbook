@@ -1,0 +1,110 @@
+{
+  "id": "ZTBO0106",
+  "name_ko": "가시개미",
+  "scientific_name": "Polyrhachis lamellidens Smith F., 1874",
+  "display_name": "가시개미",
+  "family_ko": "개미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "말벌상과",
+      "name_latin": "Vespoidea"
+    },
+    "family": {
+      "name_ko": "개미과",
+      "name_latin": "Formicidae"
+    },
+    "subfamily": {
+      "name_ko": "불개미아과",
+      "name_latin": "Formicinae"
+    },
+    "genus": {
+      "name_ko": "가시개미속",
+      "name_latin": "Polyrhachis"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 말벌상과 (Vespoidea)\n과 : 개미과 (Formicidae)\n아과 : 불개미아과 (Formicinae)\n속 : 가시개미속 (Polyrhachis)",
+  "basic_information": {
+    "곤충명": "가시개미",
+    "학명": "Polyrhachis lamellidens Smith F., 1874"
+  },
+  "information": {
+    "general_description": "몸길이는 6-8mm 정도이며 몸은 흑색이고 가슴과 배자루는 암적색이나 가시의 끝은 흑색이다. 미세한 털은 적고 다리,머리, 배는 넓적하고 광택이 강하다. 가슴에 3쌍, 배자루에 1쌍의 가시 모양 돌기가 등쪽 여쪽에서 돌출했다. 배자루의 것은 길고 끝이 갈고리 모양으로 구부러졌다. 가슴과 배자루는 주름 조각이 많다. 암컷은 몸이 비대하고 날개는 회갈색이다. 배자루만은 암갈색이고 나머지는 흑색이며 온몸에 광택이 많다. 수컷은 몸이 좁고 길며 가시가 없다. 다만 배자루에 돌기가 있을 뿐이고 흑색인데 갈색 센털과 미세한 털이 비교적 많다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "입목(立木)의 썩은 곳에 둥우리를 짓고 산다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 6-8mm 정도이며 몸은 흑색이고 가슴과 배자루는 암적색이나 가시의 끝은 흑색이다. 미세한 털은 적고 다리,머리, 배는 넓적하고 광택이 강하다. 가슴에 3쌍, 배자루에 1쌍의 가시 모양 돌기가 등쪽 여쪽에서 돌출했다. 배자루의 것은 길고 끝이 갈고리 모양으로 구부러졌다. 가슴과 배자루는 주름 조각이 많다. 암컷은 몸이 비대하고 날개는 회갈색이다. 배자루만은 암갈색이고 나머지는 흑색이며 온몸에 광택이 많다. 수컷은 몸이 좁고 길며 가시가 없다. 다만 배자루에 돌기가 있을 뿐이고 흑색인데 갈색 센털과 미세한 털이 비교적 많다."
+    },
+    {
+      "title": "생태",
+      "text": "입목(立木)의 썩은 곳에 둥우리를 짓고 산다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBO0106-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0106_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0106_1_th.jpg",
+      "alt": "가시개미 1번째 사진 : 가시개미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0106_1_th2.jpg",
+      "caption": "가시개미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBO0106-1",
+  "specimen_examples": [
+    {
+      "id": "CBNE0204171001",
+      "description": "[CBNE0204171001] 가시개미 1999.07.23 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0204181034",
+      "description": "[CBNE0204181034] 가시개미 1996.09.20 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0204181035",
+      "description": "[CBNE0204181035] 가시개미 1996.09.20 / / 충북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTBO0106.png",
+    "reference_image_id": "ZTBO0106-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T15:26:07.987907+00:00",
+    "sha256": "19f2e253785ef4d124d1ad3275494d3041068ab0e7a36ea5690633d3daca2482"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBO0106&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:08+00:00",
+    "html_sha256": "28fd49cef868c1d21576f7ecdce5b5b31b70ad98e805be0ff81eb873321ffd61",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "id": "ZOGG0018",
+  "name_ko": "어깨무늬풍뎅이",
+  "scientific_name": "Blitopertha conspurcata (Harold, 1878)",
+  "display_name": "어깨무늬풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "풍뎅이아과",
+      "name_latin": "Rutelinae"
+    },
+    "genus": {
+      "name_ko": "연노랑풍뎅이속",
+      "name_latin": "Blitopertha"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 풍뎅이아과 (Rutelinae)\n속 : 연노랑풍뎅이속 (Blitopertha)",
+  "basic_information": {
+    "곤충명": "어깨무늬풍뎅이",
+    "학명": "Blitopertha conspurcata (Harold, 1878)"
+  },
+  "information": {
+    "general_description": "등쪽은 구릿빛을 띠는 흑색이며, 전신이 백색 내지 약간 검은 황색의 긴 털로 덮였는데 수컷이 더 분명하다. 딱지날개는 황갈색인데 가늘고 길이가 다양한 갈색 무늬가 전체적으로 흩어져 있으며, 날개가 짧아서 전미절판이 노출되었다. 머리방패는 짧으나 넓고, 전연은 직선형으로서 높게 반전하였고, 점각은 크고 깊으며 가로주름형이다. 앞가슴등판 앞쪽 점각은 가로주름형이고 뒤쪽은 그물모양이다. 딱지날개의 조구점각은 가늘고, 길며, 서로 가깝고 불규칙하며, 열상이 조구점각과 혼동된다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[러시아] 동시베리아지역\n[러시아] 서시베리아지역\n[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "등쪽은 구릿빛을 띠는 흑색이며, 전신이 백색 내지 약간 검은 황색의 긴 털로 덮였는데 수컷이 더 분명하다. 딱지날개는 황갈색인데 가늘고 길이가 다양한 갈색 무늬가 전체적으로 흩어져 있으며, 날개가 짧아서 전미절판이 노출되었다. 머리방패는 짧으나 넓고, 전연은 직선형으로서 높게 반전하였고, 점각은 크고 깊으며 가로주름형이다. 앞가슴등판 앞쪽 점각은 가로주름형이고 뒤쪽은 그물모양이다. 딱지날개의 조구점각은 가늘고, 길며, 서로 가깝고 불규칙하며, 열상이 조구점각과 혼동된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[러시아] 동시베리아지역\n[러시아] 서시베리아지역\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGG0018-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0018_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0018_2_th.jpg",
+      "alt": "어깨무늬풍뎅이 1번째 사진 : 어깨무늬풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0018_2_th2.jpg",
+      "caption": "어깨무늬풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOGG0018-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0018_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0018_1_th.jpg",
+      "alt": "어깨무늬풍뎅이 2번째 사진 : 어깨무늬풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0018_1_th2.jpg",
+      "caption": "어깨무늬풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGG0018-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408201090",
+      "description": "[MPME0408201090] 어깨무늬풍뎅이 1998.06.17 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408201089",
+      "description": "[MPME0408201089] 어깨무늬풍뎅이 1998.06.17 / / 목포자연사박물관"
+    },
+    {
+      "id": "UIBE0408181001",
+      "description": "[UIBE0408181001] 어깨무늬풍뎅이 1998.05.28 / / 인천대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "해당화",
+      "scientific_name": "Rosa rugosa Thunb."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGG0018-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGG0018&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:29+00:00",
+    "html_sha256": "30f96e3765ac8d696e2164ef33a472cc5de5986b8166f98e33331c118a8b5940",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

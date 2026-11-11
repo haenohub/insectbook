@@ -1,0 +1,190 @@
+{
+  "id": "ZOEJ0043",
+  "name_ko": "애우단풍뎅이",
+  "scientific_name": "Maladera orientalis (Motschulsky, 1857)",
+  "display_name": "애우단풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "검정풍뎅이아과",
+      "name_latin": "Melolonthinae"
+    },
+    "genus": {
+      "name_ko": "애우단풍뎅이속",
+      "name_latin": "Maladera"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 검정풍뎅이아과 (Melolonthinae)\n속 : 애우단풍뎅이속 (Maladera)",
+  "basic_information": {
+    "곤충명": "애우단풍뎅이",
+    "학명": "Maladera orientalis (Motschulsky, 1857)"
+  },
+  "information": {
+    "general_description": "중국, 몽고, 사할린, 일본, 대만에 분포하며,몸은 작고 난형이며, 흑자색 내지 흑갈색인데 어린 개체는 갈색을 띤다. 등쪽은 광택이 없는 우단 모양이나 보는 각도에 따라서는 진주빛을 띤다. 두정의 강모열은 없고, 뒷머리는 점각이 없이 광택이 강하다. 머리방패의 윤곽은 전 종과 비슷하나 점각과 갈색 털이 많고, 가운데 세로 융기가 있다.촉각은 9마디이나 때로는 10마디인 개체도 있으며, 수컷의 곤봉부는 겨우 자루마디 길이에 달하나 암컷은 훨씬 짧다. 겹눈은 크고 돌출하였다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": "유충의 체장은 15~16 mm이며 원통형이고 머리는 갈색, 몸통은 유백색(乳白色)이다. 배 끝에는 자모가 환상(環狀)으로 나 있으며 그 중앙에 자모로 된 줄이 세로로 뻗어 있고 좌우에 자모가 빽빽이 나 있다.",
+    "egg": "알은 원형(圓形)이고 유백색(乳白色)이지만 나중에는 황갈색이 되며 직경은 약 2 mm이다.",
+    "pupa": null,
+    "ecology": "년 1회 발생하며 주로 성충으로 땅속에서 월동한다. 암컷은 땅속 5~6 cm 되는 곳에다 산란하며 난 기간은 5~6일이다. 유충은 각종 식물의 뿌리를 먹고 자라며 7월 중순~8월 하순에 번데기가 되고 7월 하순~9월 중순에 우화한다. 용 기간은 8~16일이며 성충의 수명은 10개월 이상이다.",
+    "habits": "성충은 기주식물의 어린 잎이나 꽃을 가해하고 유충은 묘목의 뿌리를 가해하여 고사시킨다.",
+    "season": null,
+    "overwintering": "주로 성충으로 땅속에서 월동한다.",
+    "distribution": null,
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중국, 몽고, 사할린, 일본, 대만에 분포하며,몸은 작고 난형이며, 흑자색 내지 흑갈색인데 어린 개체는 갈색을 띤다. 등쪽은 광택이 없는 우단 모양이나 보는 각도에 따라서는 진주빛을 띤다. 두정의 강모열은 없고, 뒷머리는 점각이 없이 광택이 강하다. 머리방패의 윤곽은 전 종과 비슷하나 점각과 갈색 털이 많고, 가운데 세로 융기가 있다.촉각은 9마디이나 때로는 10마디인 개체도 있으며, 수컷의 곤봉부는 겨우 자루마디 길이에 달하나 암컷은 훨씬 짧다. 겹눈은 크고 돌출하였다."
+    },
+    {
+      "title": "유충",
+      "text": "유충의 체장은 15~16 mm이며 원통형이고 머리는 갈색, 몸통은 유백색(乳白色)이다. 배 끝에는 자모가 환상(環狀)으로 나 있으며 그 중앙에 자모로 된 줄이 세로로 뻗어 있고 좌우에 자모가 빽빽이 나 있다."
+    },
+    {
+      "title": "생태",
+      "text": "년 1회 발생하며 주로 성충으로 땅속에서 월동한다. 암컷은 땅속 5~6 cm 되는 곳에다 산란하며 난 기간은 5~6일이다. 유충은 각종 식물의 뿌리를 먹고 자라며 7월 중순~8월 하순에 번데기가 되고 7월 하순~9월 중순에 우화한다. 용 기간은 8~16일이며 성충의 수명은 10개월 이상이다."
+    },
+    {
+      "title": "습성",
+      "text": "성충은 기주식물의 어린 잎이나 꽃을 가해하고 유충은 묘목의 뿌리를 가해하여 고사시킨다."
+    },
+    {
+      "title": "월동",
+      "text": "주로 성충으로 땅속에서 월동한다."
+    },
+    {
+      "title": "알",
+      "text": "알은 원형(圓形)이고 유백색(乳白色)이지만 나중에는 황갈색이 되며 직경은 약 2 mm이다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOEJ0043-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0043_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0043_2_th.jpg",
+      "alt": "애우단풍뎅이 1번째 사진 : 애우단풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0043_2_th2.jpg",
+      "caption": "애우단풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOEJ0043-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0043_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0043_1_th.jpg",
+      "alt": "애우단풍뎅이 2번째 사진 : 애우단풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0043_1_th2.jpg",
+      "caption": "애우단풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOEJ0043-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0306171007",
+      "description": "[FRIE0306171007] 애우단풍뎅이 1982.04.18 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0306171008",
+      "description": "[FRIE0306171008] 애우단풍뎅이 1983.05.11 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0306171009",
+      "description": "[FRIE0306171009] 애우단풍뎅이 1999.06.11 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "감나무",
+      "scientific_name": "Diospyros kaki Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "닥나무",
+      "scientific_name": "Broussonetia × kazinoki Siebold"
+    },
+    {
+      "group": "식물",
+      "name_ko": "밤나무",
+      "scientific_name": "Castanea crenata Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "복사나무",
+      "scientific_name": "Prunus persica (L.) Batsch"
+    },
+    {
+      "group": "식물",
+      "name_ko": "산돌배",
+      "scientific_name": "Pyrus ussuriensis Maxim. ex Rupr."
+    },
+    {
+      "group": "식물",
+      "name_ko": "삼나무",
+      "scientific_name": "Cryptomeria japonica (Thunb. ex L.f.) D.Don"
+    },
+    {
+      "group": "식물",
+      "name_ko": "소나무",
+      "scientific_name": "Pinus densiflora Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "일본잎갈나무",
+      "scientific_name": "Larix kaempferi (Lamb.) Carrière"
+    },
+    {
+      "group": "식물",
+      "name_ko": "자두나무",
+      "scientific_name": "Prunus salicina Lindl."
+    },
+    {
+      "group": "식물",
+      "name_ko": "편백",
+      "scientific_name": "Chamaecyparis obtusa (Siebold & Zucc.) Endl."
+    },
+    {
+      "group": "식물",
+      "name_ko": "포도",
+      "scientific_name": "Vitis vinifera L."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOEJ0043-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOEJ0043&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:16+00:00",
+    "html_sha256": "1d9642537ab6dca18f37c6786c338d9e6f4f2bc70fe77fbf9ae5fd2aedc4f56d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

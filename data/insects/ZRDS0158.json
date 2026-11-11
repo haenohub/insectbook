@@ -1,0 +1,122 @@
+{
+  "id": "ZRDS0158",
+  "name_ko": "두점줄무늬밤나방",
+  "scientific_name": "Mythimna radiata (Bremer, 1861)",
+  "display_name": "두점줄무늬밤나방",
+  "family_ko": "밤나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "밤나방과",
+      "name_latin": "Noctuidae"
+    },
+    "subfamily": {
+      "name_ko": "밤나방아과",
+      "name_latin": "Noctuinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Mythimna"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 밤나방과 (Noctuidae)\n아과 : 밤나방아과 (Noctuinae)\n속 : (Mythimna)",
+  "basic_information": {
+    "곤충명": "두점줄무늬밤나방",
+    "학명": "Mythimna radiata (Bremer, 1861)"
+  },
+  "information": {
+    "general_description": "날개편 길이 14～16mm. 앞날개는 담황색 바탕으로 작은 흑색 점이 여러군데 있다. 뒷날개는 넓게 암갈색을 이루고 있는데 전연부는 백색을 띤다. 연모는 앞·뒷날개 모두 백색을 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6～7월경에 출현된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]\n[인도]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 14～16mm. 앞날개는 담황색 바탕으로 작은 흑색 점이 여러군데 있다. 뒷날개는 넓게 암갈색을 이루고 있는데 전연부는 백색을 띤다. 연모는 앞·뒷날개 모두 백색을 띤다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6～7월경에 출현된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]\n[인도]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0158-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0158_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0158_2_th.jpg",
+      "alt": "두점줄무늬밤나방 1번째 사진 : 두점줄무늬밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0158_2_th2.jpg",
+      "caption": "두점줄무늬밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDS0158-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0158_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0158_1_th.jpg",
+      "alt": "두점줄무늬밤나방 2번째 사진 : 두점줄무늬밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0158_1_th2.jpg",
+      "caption": "두점줄무늬밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0158-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303111022",
+      "description": "[KNAE0303111022] 두점줄무늬밤나방 1993.08.10 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0302192061",
+      "description": "[KNAE0302192061] 두점줄무늬밤나방 1994.07.22 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0302192062",
+      "description": "[KNAE0302192062] 두점줄무늬밤나방 1994.05.26 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDS0158-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0158&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:44+00:00",
+    "html_sha256": "28bad2721deddcb1bb2ae48d735f3d86751b9b97ff50b65245811833004b93d0",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

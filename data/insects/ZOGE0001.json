@@ -1,0 +1,166 @@
+{
+  "id": "ZOGE0001",
+  "name_ko": "왕바구미",
+  "scientific_name": "Sipalinus gigas (Fabricius, 1775)",
+  "display_name": "왕바구미",
+  "family_ko": "왕바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "왕바구미과",
+      "name_latin": "Dryophthoridae"
+    },
+    "subfamily": {
+      "name_ko": "왕바구미아과",
+      "name_latin": "Orthognathinae"
+    },
+    "genus": {
+      "name_ko": "왕바구미속",
+      "name_latin": "Sipalinus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 왕바구미과 (Dryophthoridae)\n아과 : 왕바구미아과 (Orthognathinae)\n속 : 왕바구미속 (Sipalinus)",
+  "basic_information": {
+    "곤충명": "왕바구미",
+    "학명": "Sipalinus gigas (Fabricius, 1775)"
+  },
+  "information": {
+    "general_description": "바구미 중 가장 큰 종류로서 크기에 많은 변이가 있다. 성충의 몸길이는 12~24 mm이며, 몸은 검고 회갈색의 가루 같은 것이 덮혀 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 4~5월경에 출현하여 쇠약목, 원목 또는 벌근(伐根)에 산란한다.",
+    "habits": "수세 쇠약목, 벌채된 원목에 피해가 많으며 유충이 목질부를 파먹어 들어가 목재의 질을 저하시킨다. 외부로 톱밥 같은 것을 배출하므로 피해를 쉽게 식별할 수 있다.",
+    "season": null,
+    "overwintering": "성충으로 월동한다.",
+    "distribution": "[일본]\n[중국]\n[대만]\n[인도]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "바구미 중 가장 큰 종류로서 크기에 많은 변이가 있다. 성충의 몸길이는 12~24 mm이며, 몸은 검고 회갈색의 가루 같은 것이 덮혀 있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 4~5월경에 출현하여 쇠약목, 원목 또는 벌근(伐根)에 산란한다."
+    },
+    {
+      "title": "습성",
+      "text": "수세 쇠약목, 벌채된 원목에 피해가 많으며 유충이 목질부를 파먹어 들어가 목재의 질을 저하시킨다. 외부로 톱밥 같은 것을 배출하므로 피해를 쉽게 식별할 수 있다."
+    },
+    {
+      "title": "월동",
+      "text": "성충으로 월동한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[대만]\n[인도]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGE0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGE0001_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGE0001_2_th.jpg",
+      "alt": "왕바구미 1번째 사진 : 왕바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGE0001_2_th2.jpg",
+      "caption": "왕바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOGE0001-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGE0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGE0001_1_th.jpg",
+      "alt": "왕바구미 2번째 사진 : 왕바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGE0001_1_th2.jpg",
+      "caption": "왕바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGE0001-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0408171150",
+      "description": "[UIBE0408171150] 왕바구미 2000.05.27 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0408171151",
+      "description": "[UIBE0408171151] 왕바구미 1987.07.21 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0408171153",
+      "description": "[UIBE0408171153] 왕바구미 1997.05.04 / / 인천대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "밤나무",
+      "scientific_name": "Castanea crenata Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "삼나무",
+      "scientific_name": "Cryptomeria japonica (Thunb. ex L.f.) D.Don"
+    },
+    {
+      "group": "식물",
+      "name_ko": "소나무",
+      "scientific_name": "Pinus densiflora Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "잣나무",
+      "scientific_name": "Pinus koraiensis Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "전나무",
+      "scientific_name": "Abies holophylla Maxim."
+    },
+    {
+      "group": "식물",
+      "name_ko": "종비나무",
+      "scientific_name": "Picea koraiensis Nakai"
+    },
+    {
+      "group": "식물",
+      "name_ko": "편백",
+      "scientific_name": "Chamaecyparis obtusa (Siebold & Zucc.) Endl."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGE0001-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGE0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:37+00:00",
+    "html_sha256": "e103d4558070c3ac4948d7744270860efa2fc78060d1036594c09c6ce70bce9e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

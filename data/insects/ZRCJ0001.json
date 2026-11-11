@@ -1,0 +1,107 @@
+{
+  "id": "ZRCJ0001",
+  "name_ko": "노랑띠그림날개나방",
+  "scientific_name": "Glyphipterix gaudialis Diakonoff & Arita, 1976",
+  "display_name": "노랑띠그림날개나방",
+  "family_ko": "그림날개나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "집나방상과",
+      "name_latin": "Yponomeutoidea"
+    },
+    "family": {
+      "name_ko": "그림날개나방과",
+      "name_latin": "Glyphipterigidae"
+    },
+    "subfamily": {
+      "name_ko": "그림날개나방아과",
+      "name_latin": "Glyphipteriginae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Glyphipterix"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 집나방상과 (Yponomeutoidea)\n과 : 그림날개나방과 (Glyphipterigidae)\n아과 : 그림날개나방아과 (Glyphipteriginae)\n속 : (Glyphipterix)",
+  "basic_information": {
+    "곤충명": "노랑띠그림날개나방",
+    "학명": "Glyphipterix gaudialis Diakonoff & Arita, 1976"
+  },
+  "information": {
+    "general_description": "앞날개의 기부부근에 현저한 농황색의 띠가 있으며, 전연을 따라 발달된 백색의 짧은 무늬는 6개 있음. 뒷날개는 갈색임.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "앞날개의 기부부근에 현저한 농황색의 띠가 있으며, 전연을 따라 발달된 백색의 짧은 무늬는 6개 있음. 뒷날개는 갈색임."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCJ0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCJ0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCJ0001_1_th.jpg",
+      "alt": "노랑띠그림날개나방 1번째 사진 : 노랑띠그림날개나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCJ0001_1_th2.jpg",
+      "caption": "노랑띠그림날개나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCJ0001-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0302181025",
+      "description": "[UIBE0302181025] 노랑띠그림날개나방 1996.07.07 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0302181024",
+      "description": "[UIBE0302181024] 노랑띠그림날개나방 1996.07.07 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0302181023",
+      "description": "[UIBE0302181023] 노랑띠그림날개나방 1996.07.07 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRCJ0001.png",
+    "reference_image_id": "ZRCJ0001-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T11:50:42.616245+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "dbf9903775525d2fed155f83ddcdca37d21acbbc766a426065e4d0a62299065a"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCJ0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:08+00:00",
+    "html_sha256": "ca678ef4addec7b4baaafaf3256c90c917ba2c996a93a211ef24b375c17ad086",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

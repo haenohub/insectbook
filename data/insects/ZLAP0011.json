@@ -1,0 +1,107 @@
+{
+  "id": "ZLAP0011",
+  "name_ko": "흰테두리땅노린재",
+  "scientific_name": "Canthophorus niveimarginatus Scott, 1874",
+  "display_name": "흰테두리땅노린재",
+  "family_ko": "땅노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "노린재상과",
+      "name_latin": "Pentatomoidea"
+    },
+    "family": {
+      "name_ko": "땅노린재과",
+      "name_latin": "Cydnidae"
+    },
+    "subfamily": {
+      "name_ko": "삼점땅노린재아과",
+      "name_latin": "Sehirinae"
+    },
+    "genus": {
+      "name_ko": "흰테두리땅노린재속",
+      "name_latin": "Canthophorus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 노린재상과 (Pentatomoidea)\n과 : 땅노린재과 (Cydnidae)\n아과 : 삼점땅노린재아과 (Sehirinae)\n속 : 흰테두리땅노린재속 (Canthophorus)",
+  "basic_information": {
+    "곤충명": "흰테두리땅노린재",
+    "학명": "Canthophorus niveimarginatus Scott, 1874"
+  },
+  "information": {
+    "general_description": "몸길이 : 6-8mm\n몸은 흑갈색이고 작고 가는 점각이 있다. 머리의 등면 앞끝 가까이는 강하게 옴푹하고, 측엽은 크고 중엽의 등 앞쪽에서 좌우가 접촉한다. 더듬이는 5마디이고, 흑색이며 처음 2마디는 짧다. 앞가슴등판은 폭이 넓고 그 옆가장자리의 가까운 부분에는 점각이 없고 약간 융기한 가로띠가 있다. 작은방패판의 위끝은 아래쪽으로 굴곡하였다. 반시초는 잘 발달하고 혁질부의 옆가장자리는 황백색이다. 막질부는 암갈색이고 반투명하다. 종아리마디에는 가시모양의 돌기가 많고, 발목마디는 암갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "포아풀 과 식물의 잡초 사이에서 채집된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[유럽]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 6-8mm\n몸은 흑갈색이고 작고 가는 점각이 있다. 머리의 등면 앞끝 가까이는 강하게 옴푹하고, 측엽은 크고 중엽의 등 앞쪽에서 좌우가 접촉한다. 더듬이는 5마디이고, 흑색이며 처음 2마디는 짧다. 앞가슴등판은 폭이 넓고 그 옆가장자리의 가까운 부분에는 점각이 없고 약간 융기한 가로띠가 있다. 작은방패판의 위끝은 아래쪽으로 굴곡하였다. 반시초는 잘 발달하고 혁질부의 옆가장자리는 황백색이다. 막질부는 암갈색이고 반투명하다. 종아리마디에는 가시모양의 돌기가 많고, 발목마디는 암갈색이다."
+    },
+    {
+      "title": "생태",
+      "text": "포아풀 과 식물의 잡초 사이에서 채집된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[유럽]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLAP0011-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAP0011_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAP0011_1_th.jpg",
+      "alt": "흰테두리땅노린재 1번째 사진 : 흰테두리땅노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAP0011_1_th2.jpg",
+      "caption": "흰테두리땅노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLAP0011-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0201122075",
+      "description": "[YNUE0201122075] 흰테두리땅노린재 1997.07.02 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0201122076",
+      "description": "[YNUE0201122076] 흰테두리땅노린재 1988.05.19 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0201122077",
+      "description": "[YNUE0201122077] 흰테두리땅노린재 1987.05.29 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLAP0011-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLAP0011&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:57+00:00",
+    "html_sha256": "118b545d6ba1f4a35cefbdbbc5cc582540e6804feceefe9756cdf51ab7effccd",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

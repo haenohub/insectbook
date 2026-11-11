@@ -1,0 +1,103 @@
+{
+  "id": "ZTBU0324",
+  "name_ko": "검정뿔맵시벌",
+  "scientific_name": "Platylabus nigricornis Uchida, 1926",
+  "display_name": "검정뿔맵시벌",
+  "family_ko": "맵시벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "맵시벌과",
+      "name_latin": "Ichneumonidae"
+    },
+    "subfamily": {
+      "name_ko": "맵시벌아과",
+      "name_latin": "Ichneumoninae"
+    },
+    "genus": {
+      "name_ko": "검정뿔맵시벌속",
+      "name_latin": "Platylabus"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 맵시벌과 (Ichneumonidae)\n아과 : 맵시벌아과 (Ichneumoninae)\n속 : 검정뿔맵시벌속 (Platylabus)",
+  "basic_information": {
+    "곤충명": "검정뿔맵시벌",
+    "학명": "Platylabus nigricornis Uchida, 1926"
+  },
+  "information": {
+    "general_description": "♀의 몸은 청람색이고 더듬이는 흑색이며, 다리는 자남색이다. 앞·가운데다리의 넓적다리마디와 모든 밑마디는 청람색이다. 날개는 투명하고 작은방패판은 옆쪽에 세로로 달리는 융기가 있다. 전신복절의 전중획은 사각형으로 돌출한다. 제1배마디등판의 끝은 뚜렷한 점각이나 주름이 없고 제2∼3배마디등판에는 가는 점각이 밀포한다. 13mm정도",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "♀의 몸은 청람색이고 더듬이는 흑색이며, 다리는 자남색이다. 앞·가운데다리의 넓적다리마디와 모든 밑마디는 청람색이다. 날개는 투명하고 작은방패판은 옆쪽에 세로로 달리는 융기가 있다. 전신복절의 전중획은 사각형으로 돌출한다. 제1배마디등판의 끝은 뚜렷한 점각이나 주름이 없고 제2∼3배마디등판에는 가는 점각이 밀포한다. 13mm정도"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBU0324-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0324_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0324_1_th.jpg",
+      "alt": "검정뿔맵시벌 1번째 사진 : 검정뿔맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0324_1_th2.jpg",
+      "caption": "검정뿔맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBU0324-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305301017",
+      "description": "[YNUE0305301017] 검정뿔맵시벌 1995.08.17 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305281017",
+      "description": "[YNUE0305281017] 검정뿔맵시벌 1961.06.01 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTBU0324.png",
+    "reference_image_id": "ZTBU0324-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T11:35:11.501319+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "0fdcc25ea84a3dc72c53e2253c99c6c9b389cb03058ea4ffa6224d06d344dc71"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBU0324&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:23+00:00",
+    "html_sha256": "fa848b959835114e567c6c2d7653229d365e2ee8b8f6b6cef0329a8869ea27ad",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "ZTDK0023",
+  "name_ko": "곰보어리나나니",
+  "scientific_name": "Pison punctifrons Shuckard, 1838",
+  "display_name": "곰보어리나나니",
+  "family_ko": "은주둥이벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "은주둥이벌과",
+      "name_latin": "Crabronidae"
+    },
+    "subfamily": {
+      "name_ko": "은주둥이벌아과",
+      "name_latin": "Crabroninae"
+    },
+    "genus": {
+      "name_ko": "윤어리나나니속",
+      "name_latin": "Pison"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 은주둥이벌과 (Crabronidae)\n아과 : 은주둥이벌아과 (Crabroninae)\n속 : 윤어리나나니속 (Pison)",
+  "basic_information": {
+    "곤충명": "곰보어리나나니",
+    "학명": "Pison punctifrons Shuckard, 1838"
+  },
+  "information": {
+    "general_description": "몸길이는 8.5-15mm 암컷의 머리와 가슴에는 점각이 많이 있고 가운데가슴등판과 작은방패판의 것은 특히 크다. 배의 것은 작다.겹눈 안가두리는 깊이 패여서 오므라 들었고 더듬이의 제3마디는 제4마디보다 길다. 배마디 사이는 제1배마디 뒷가두리가 특히 잘록하다. 온몸에 회백색 긴 털이 성기게 났고 얼굴과 가슴 다리 등에 비교적 많다. 몸은 거의 흑색이나 어깨판은 흑갈색이고 광택이 난다. 날개는 투명하고 약간 회색을 띠며 바깥가두리는 짙은 빛이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[스리랑카]\n[일본]\n[인도]\n[인도네시아]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 8.5-15mm 암컷의 머리와 가슴에는 점각이 많이 있고 가운데가슴등판과 작은방패판의 것은 특히 크다. 배의 것은 작다.겹눈 안가두리는 깊이 패여서 오므라 들었고 더듬이의 제3마디는 제4마디보다 길다. 배마디 사이는 제1배마디 뒷가두리가 특히 잘록하다. 온몸에 회백색 긴 털이 성기게 났고 얼굴과 가슴 다리 등에 비교적 많다. 몸은 거의 흑색이나 어깨판은 흑갈색이고 광택이 난다. 날개는 투명하고 약간 회색을 띠며 바깥가두리는 짙은 빛이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[스리랑카]\n[일본]\n[인도]\n[인도네시아]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDK0023-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0023_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0023_1_th.jpg",
+      "alt": "곰보어리나나니 1번째 사진 : 곰보어리나나니전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0023_1_th2.jpg",
+      "caption": "곰보어리나나니전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDK0023-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306262030",
+      "description": "[YNUE0306262030] 곰보어리나나니 1963.08.07 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306262029",
+      "description": "[YNUE0306262029] 곰보어리나나니 1961.06.05 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTDK0023.png",
+    "reference_image_id": "ZTDK0023-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T13:04:21.700258+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "a2765b18bd40084c517264df7870cffc0f0661cde2ce11c70ce480079451e1ae"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDK0023&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:04+00:00",
+    "html_sha256": "2cdca342c1afef1c081393e8eba3116330fab01ab37cb4c2988a0efc1aa5de6d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

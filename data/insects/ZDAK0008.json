@@ -1,0 +1,114 @@
+{
+  "id": "ZDAK0008",
+  "name_ko": "쇠측범잠자리",
+  "scientific_name": "Davidius lunatus (Bartenef, 1914)",
+  "display_name": "쇠측범잠자리",
+  "family_ko": "측범잠자리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "잠자리목",
+      "name_latin": "Odonata"
+    },
+    "family": {
+      "name_ko": "측범잠자리과",
+      "name_latin": "Gomphidae"
+    },
+    "subfamily": {
+      "name_ko": "측범잠자리아과",
+      "name_latin": "Gomphinae"
+    },
+    "genus": {
+      "name_ko": "쇠측범잠자리속",
+      "name_latin": "Davidius"
+    }
+  },
+  "taxonomy_text": "목 : 잠자리목 (Odonata)\n과 : 측범잠자리과 (Gomphidae)\n아과 : 측범잠자리아과 (Gomphinae)\n속 : 쇠측범잠자리속 (Davidius)",
+  "basic_information": {
+    "곤충명": "쇠측범잠자리",
+    "학명": "Davidius lunatus (Bartenef, 1914)"
+  },
+  "information": {
+    "general_description": "뒷날개의 길이는 25 mm 안팎이다. 가운데가슴의 앞면은 흑색이고, 어깨판 부근에 작은 황색 무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "비교적 잘 날지 않는 편이며, 숲이나 물가의 돌 위나 나뭇잎에 잘 앉는다. 유충은 평지나 구릉지의 계류 및 하천 등 부식질이 많이 쌓인 곳에서 산다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "뒷날개의 길이는 25 mm 안팎이다. 가운데가슴의 앞면은 흑색이고, 어깨판 부근에 작은 황색 무늬가 있다."
+    },
+    {
+      "title": "습성",
+      "text": "비교적 잘 날지 않는 편이며, 숲이나 물가의 돌 위나 나뭇잎에 잘 앉는다. 유충은 평지나 구릉지의 계류 및 하천 등 부식질이 많이 쌓인 곳에서 산다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZDAK0008-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAK0008_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAK0008_2_th.jpg",
+      "alt": "쇠측범잠자리 1번째 사진 : 쇠측범잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAK0008_2_th2.jpg",
+      "caption": "쇠측범잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZDAK0008-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAK0008_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAK0008_1_th.jpg",
+      "alt": "쇠측범잠자리 2번째 사진 : 쇠측범잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAK0008_1_th2.jpg",
+      "caption": "쇠측범잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZDAK0008-1",
+  "specimen_examples": [
+    {
+      "id": "CBNE0306151004",
+      "description": "[CBNE0306151004] 쇠측범잠자리 2003.05.02 / / 충북대학교"
+    },
+    {
+      "id": "GSNE0305121220",
+      "description": "[GSNE0305121220] 쇠측범잠자리 1998.05.09 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0305121221",
+      "description": "[GSNE0305121221] 쇠측범잠자리 1999.05.22 / / 경상대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZDAK0008-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZDAK0008&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:29+00:00",
+    "html_sha256": "65b5dca29427b392946828fe46e1bf83fb560bba37fad90e8493f4d881aca393",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

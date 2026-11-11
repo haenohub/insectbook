@@ -1,0 +1,98 @@
+{
+  "id": "ZTDO0154",
+  "name_ko": "가는줄잎벌",
+  "scientific_name": "Thrinax angustatus (Zhelochovtsev, 1951)",
+  "display_name": "가는줄잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "줄잎벌아과",
+      "name_latin": "Selandriinae"
+    },
+    "genus": {
+      "name_ko": "가는줄잎벌속",
+      "name_latin": "Thrinax"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 줄잎벌아과 (Selandriinae)\n속 : 가는줄잎벌속 (Thrinax)",
+  "basic_information": {
+    "곤충명": "가는줄잎벌",
+    "학명": "Thrinax angustatus (Zhelochovtsev, 1951)"
+  },
+  "information": {
+    "general_description": "암컷의 몸길이는 5.7mm, 머리방패와 윗입술은 노란색이다. 배마디의 가운데 배등판은 적갈색이다. 발톱은 단순하다. 뒷날개의 둔실은 짧은 Pedicel을 가지고 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷의 몸길이는 5.7mm, 머리방패와 윗입술은 노란색이다. 배마디의 가운데 배등판은 적갈색이다. 발톱은 단순하다. 뒷날개의 둔실은 짧은 Pedicel을 가지고 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0154-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0154_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0154_1_th.jpg",
+      "alt": "가는줄잎벌 1번째 사진 : 가는줄잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0154_1_th2.jpg",
+      "caption": "가는줄잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0154-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305141032",
+      "description": "[YNUE0305141032] 가는줄잎벌 1999.05.05 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTDO0154.png",
+    "reference_image_id": "ZTDO0154-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T15:10:26.508782+00:00",
+    "sha256": "edb55fd6168b8917ea13496e0e9342459f02f26f6307679811b4fea2e1400c05"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0154&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:02+00:00",
+    "html_sha256": "9d679db9579f6ab6a0bacdb6f1360530170924001a0ae4336223f01486566785",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

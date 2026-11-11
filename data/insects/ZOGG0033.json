@@ -1,0 +1,99 @@
+{
+  "id": "ZOGG0033",
+  "name_ko": "참콩풍뎅이",
+  "scientific_name": "Popillia flavosellata Fairmaire, 1886",
+  "display_name": "참콩풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "풍뎅이아과",
+      "name_latin": "Rutelinae"
+    },
+    "genus": {
+      "name_ko": "콩풍뎅이속",
+      "name_latin": "Popillia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 풍뎅이아과 (Rutelinae)\n속 : 콩풍뎅이속 (Popillia)",
+  "basic_information": {
+    "곤충명": "참콩풍뎅이",
+    "학명": "Popillia flavosellata Fairmaire, 1886"
+  },
+  "information": {
+    "general_description": "Primorskij, 중국, 베트남에 분포하며, 흑남색, 가끔 청자색 내지 흑녹색인데 딱지날개에 넓은 갈색 무늬를 갖는 개체도 있다. 미절판과 각 복부 복절의 양 옆에는 백색 내지 황백색의 강모 뭉치가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "Primorskij, 중국, 베트남에 분포하며, 흑남색, 가끔 청자색 내지 흑녹색인데 딱지날개에 넓은 갈색 무늬를 갖는 개체도 있다. 미절판과 각 복부 복절의 양 옆에는 백색 내지 황백색의 강모 뭉치가 있다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGG0033-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0033_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0033_1_th.jpg",
+      "alt": "참콩풍뎅이 1번째 사진 : 참콩풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0033_1_th2.jpg",
+      "caption": "참콩풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGG0033-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408201088",
+      "description": "[MPME0408201088] 참콩풍뎅이 2003.08.12 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408201087",
+      "description": "[MPME0408201087] 참콩풍뎅이 2003.08.12 / / 목포자연사박물관"
+    },
+    {
+      "id": "KNAE0408101058",
+      "description": "[KNAE0408101058] 참콩풍뎅이 2001.06.16 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGG0033-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGG0033&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:03+00:00",
+    "html_sha256": "14e3ec5ed9da1945f3c0545347f5223bce074b1e98c5f5235380565ab67fdde5",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

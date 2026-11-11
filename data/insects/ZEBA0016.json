@@ -1,0 +1,110 @@
+{
+  "id": "ZEBA0016",
+  "name_ko": "매부리",
+  "scientific_name": "Ruspolia lineosa (Walker, 1869)",
+  "display_name": "매부리",
+  "family_ko": "여치과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "메뚜기목",
+      "name_latin": "Orthoptera"
+    },
+    "family": {
+      "name_ko": "여치과",
+      "name_latin": "Tettigoniidae"
+    },
+    "subfamily": {
+      "name_ko": "쌕쌔기아과",
+      "name_latin": "Conocephalinae"
+    },
+    "genus": {
+      "name_ko": "매부리속",
+      "name_latin": "Ruspolia"
+    }
+  },
+  "taxonomy_text": "목 : 메뚜기목 (Orthoptera)\n과 : 여치과 (Tettigoniidae)\n아과 : 쌕쌔기아과 (Conocephalinae)\n속 : 매부리속 (Ruspolia)",
+  "basic_information": {
+    "곤충명": "매부리",
+    "학명": "Ruspolia lineosa (Walker, 1869)"
+  },
+  "information": {
+    "general_description": "몸길이 30mm내외이고 좀매붙이와 비슷하나 다음과 같은 점으로 구별이 된다 1. 머리꼭대기돌기는 짧고 말단과 아랫면은 둥글고 뚜렷한 갈고리가 없고 앞이마돌기와 서로 접하였다. 2.앞가슴은 짧고 때로는 중앙에 흑갈색의 가는 2개의 종선이 있다. 옆조각은 수컷에 있어서는 뒷모가 둔각으로 되었고 흑색부가 뚜렷하다. 3. 수컷의 미모끝의 2개의 가시는 가늘고 길며 산란관은 직선(좀매붙이는 다소 구부러졌다)이다. 4. 앞날개는 비교적 짧고 끝은 둥그렇다. 그리고 경맥의 앞뒤에 흑색 무늬가 드문드문 나란히 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]\n[대만]\n[미얀마]\n[인도]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 30mm내외이고 좀매붙이와 비슷하나 다음과 같은 점으로 구별이 된다 1. 머리꼭대기돌기는 짧고 말단과 아랫면은 둥글고 뚜렷한 갈고리가 없고 앞이마돌기와 서로 접하였다. 2.앞가슴은 짧고 때로는 중앙에 흑갈색의 가는 2개의 종선이 있다. 옆조각은 수컷에 있어서는 뒷모가 둔각으로 되었고 흑색부가 뚜렷하다. 3. 수컷의 미모끝의 2개의 가시는 가늘고 길며 산란관은 직선(좀매붙이는 다소 구부러졌다)이다. 4. 앞날개는 비교적 짧고 끝은 둥그렇다. 그리고 경맥의 앞뒤에 흑색 무늬가 드문드문 나란히 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]\n[대만]\n[미얀마]\n[인도]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZEBA0016-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0016_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0016_2_th.jpg",
+      "alt": "매부리 1번째 사진 : 매부리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0016_2_th2.jpg",
+      "caption": "매부리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZEBA0016-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0016_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0016_1_th.jpg",
+      "alt": "매부리 2번째 사진 : 매부리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0016_1_th2.jpg",
+      "caption": "매부리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZEBA0016-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0301272040",
+      "description": "[UIBE0301272040] 매부리 2000.08.10 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301272041",
+      "description": "[UIBE0301272041] 매부리 1999.09.10 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301272042",
+      "description": "[UIBE0301272042] 매부리 2000.08.01 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZEBA0016-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZEBA0016&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:49+00:00",
+    "html_sha256": "686ef58ad711ca616478ba23bbbf2795bb73566ea338a9a18e314b3984b09a59",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

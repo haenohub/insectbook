@@ -1,0 +1,152 @@
+{
+  "id": "ZRDV0032",
+  "name_ko": "흑백알락나비",
+  "scientific_name": "Hestina japonica (C. & R. Felder, 1862)",
+  "display_name": "흑백알락나비",
+  "family_ko": "네발나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "네발나비과",
+      "name_latin": "Nymphalidae"
+    },
+    "subfamily": {
+      "name_ko": "오색나비아과",
+      "name_latin": "Apaturinae"
+    },
+    "genus": {
+      "name_ko": "홍점알락나비속",
+      "name_latin": "Hestina"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 네발나비과 (Nymphalidae)\n아과 : 오색나비아과 (Apaturinae)\n속 : 홍점알락나비속 (Hestina)",
+  "basic_information": {
+    "곤충명": "흑백알락나비",
+    "학명": "Hestina japonica (C. & R. Felder, 1862)"
+  },
+  "information": {
+    "general_description": "암컷은 수컷에 비하여 다소 크고 날개폭이 넓으며 날개 윗면의 검은색이 다소 연하다. 봄형은 여름형보다 크기가 크고 흰색 알락무늬도 넓게 발달한다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "암컷은 나뭇가지나 잎 등 여러 장소에 1∼수십 개씩 산란한다.",
+    "habits": "참나무가 많은 숲 가장자리나 그 근처의 계곡에서 주로 서식하며, 춘형보다 하형의 개체수가 적은 편이다, 춘형의 수컷은 암컷을 찾아 높은 나무 사이를 빠르게 날아다닌다. 참나무의 진이나 썩은 과일, 짐승의 배설물에 모이는 일이 있으나 습지에서 흡수하는 일은 꽤 드물다.",
+    "season": null,
+    "overwintering": "애벌레",
+    "distribution": "[일본]\n[중국]\n[러시아]\n[대만]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷은 수컷에 비하여 다소 크고 날개폭이 넓으며 날개 윗면의 검은색이 다소 연하다. 봄형은 여름형보다 크기가 크고 흰색 알락무늬도 넓게 발달한다."
+    },
+    {
+      "title": "생태",
+      "text": "암컷은 나뭇가지나 잎 등 여러 장소에 1∼수십 개씩 산란한다."
+    },
+    {
+      "title": "습성",
+      "text": "참나무가 많은 숲 가장자리나 그 근처의 계곡에서 주로 서식하며, 춘형보다 하형의 개체수가 적은 편이다, 춘형의 수컷은 암컷을 찾아 높은 나무 사이를 빠르게 날아다닌다. 참나무의 진이나 썩은 과일, 짐승의 배설물에 모이는 일이 있으나 습지에서 흡수하는 일은 꽤 드물다."
+    },
+    {
+      "title": "월동",
+      "text": "애벌레"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]\n[대만]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDV0032-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0032_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0032_3.jpg",
+      "alt": "흑백알락나비 1번째 사진 : 흑백알락나비 수컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0032_3_th2.jpg",
+      "caption": "흑백알락나비 수컷 이미지",
+      "photographed_at": "20200721",
+      "location": null,
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRDV0032-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0032_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0032_2_th.jpg",
+      "alt": "흑백알락나비 2번째 사진 : 흑백알락나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0032_2_th2.jpg",
+      "caption": "흑백알락나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDV0032-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0032_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0032_1_th.jpg",
+      "alt": "흑백알락나비 3번째 사진 : 흑백알락나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0032_1_th2.jpg",
+      "caption": "흑백알락나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDV0032-1",
+  "specimen_examples": [
+    {
+      "id": "SJNE0306131247",
+      "description": "[SJNE0306131247] 흑백알락나비 2001.07.02 / / 상주대학교"
+    },
+    {
+      "id": "YNUE0210292034",
+      "description": "[YNUE0210292034] 흑백알락나비 2000.05.27 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0210292033",
+      "description": "[YNUE0210292033] 흑백알락나비 1995.05.27 / / 영남대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "팽나무",
+      "scientific_name": "Celtis sinensis Pers."
+    },
+    {
+      "group": "식물",
+      "name_ko": "풍게나무",
+      "scientific_name": "Celtis jessoensis Koidz."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDV0032-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDV0032&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:11+00:00",
+    "html_sha256": "c688346d18575069d63dc41e755cbfc6476a0a711031fc301b8a24e12ab434a3",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "id": "ZRCI0017",
+  "name_ko": "네점푸른자나방",
+  "scientific_name": "Comibaena amoenaria (Oberthür, 1880)",
+  "display_name": "네점푸른자나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "푸른자나방아과",
+      "name_latin": "Geometrinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Comibaena"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 푸른자나방아과 (Geometrinae)\n속 : (Comibaena)",
+  "basic_information": {
+    "곤충명": "네점푸른자나방",
+    "학명": "Comibaena amoenaria (Oberthür, 1880)"
+  },
+  "information": {
+    "general_description": "더듬이는 수컷이 빗살모양, 암컷은 실모양\n몸과 날개 모두 녹색인데 배는 회백색\n날개의 맥사이는 적갈색 점이 있으나 앞날개에서는 명료치 않음\n연모는 백색으로 적갈색이 섞이어 있고 적갈색 무늬가 있는곳에서 적갈색을 이루고 있음\n뒷면은 은백색으로 횡맥상에 미소한점이있음",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": "졸참나무 등의 잎을 먹는다.",
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 수컷이 빗살모양, 암컷은 실모양\n몸과 날개 모두 녹색인데 배는 회백색\n날개의 맥사이는 적갈색 점이 있으나 앞날개에서는 명료치 않음\n연모는 백색으로 적갈색이 섞이어 있고 적갈색 무늬가 있는곳에서 적갈색을 이루고 있음\n뒷면은 은백색으로 횡맥상에 미소한점이있음"
+    },
+    {
+      "title": "유충",
+      "text": "졸참나무 등의 잎을 먹는다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0017-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0017_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0017_2_th.jpg",
+      "alt": "네점푸른자나방 1번째 사진 : 네점푸른자나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0017_2_th2.jpg",
+      "caption": "네점푸른자나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0017-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0017_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0017_1_th.jpg",
+      "alt": "네점푸른자나방 2번째 사진 : 네점푸른자나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0017_1_th2.jpg",
+      "caption": "네점푸른자나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0017-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0302111036",
+      "description": "[FRIE0302111036] 네점푸른자나방 1986.06.02 / / 국립산림과학원"
+    },
+    {
+      "id": "JFNE0201111017",
+      "description": "[JFNE0201111017] 네점푸른자나방 1998.05.26 / / 제주자연사박물관"
+    },
+    {
+      "id": "KNAE0201141090",
+      "description": "[KNAE0201141090] 네점푸른자나방 1992.09.03 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRCI0017.png",
+    "reference_image_id": "ZRCI0017-2",
+    "reference_review_note": "첫 사진의 배가 심하게 가늘어진 손상 표본이므로 더 온전한 두 번째 표본을 선택. 두 사진에서 다리와 더듬이가 불완전해 형태 전문가 확인 필요.",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T10:57:54.715218+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "b635a5f04b8dfd17b72a789ada55f9c83e40f20f1fb50118307a920941dc1846"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0017&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:51+00:00",
+    "html_sha256": "e4bc102c67818fb8fdbcd60d60d47a6cee1854080dcbd2c1c0cc1dc0dc725c38",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

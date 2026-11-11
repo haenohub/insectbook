@@ -1,0 +1,107 @@
+{
+  "id": "ZOBL0061",
+  "name_ko": "메꽃하늘소",
+  "scientific_name": "Judolidia znojkoi Plavilstshikov, 1936",
+  "display_name": "메꽃하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "꽃하늘소아과",
+      "name_latin": "Lepturinae"
+    },
+    "genus": {
+      "name_ko": "메꽃하늘소속",
+      "name_latin": "Judolidia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 꽃하늘소아과 (Lepturinae)\n속 : 메꽃하늘소속 (Judolidia)",
+  "basic_information": {
+    "곤충명": "메꽃하늘소",
+    "학명": "Judolidia znojkoi Plavilstshikov, 1936"
+  },
+  "information": {
+    "general_description": "몸길이는 8~12mm 이며 전체적으로 남색이고 광택이 둔하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "온대지역의 침엽수림에서 서식하며 꽃에도 보인다. 성충은 7~8월에 나타난다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 8~12mm 이며 전체적으로 남색이고 광택이 둔하다."
+    },
+    {
+      "title": "생태",
+      "text": "온대지역의 침엽수림에서 서식하며 꽃에도 보인다. 성충은 7~8월에 나타난다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0061-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0061_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0061_1_th.jpg",
+      "alt": "메꽃하늘소 1번째 사진 : 메꽃하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0061_1_th2.jpg",
+      "caption": "메꽃하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0061-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0304221055",
+      "description": "[FRIE0304221055] 메꽃하늘소 1994.05.18 / / 국립산림과학원"
+    },
+    {
+      "id": "YNUE0211152100",
+      "description": "[YNUE0211152100] 메꽃하늘소 1991.05.28 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0211152102",
+      "description": "[YNUE0211152102] 메꽃하늘소 1991.05.10 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0061-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0061&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:09+00:00",
+    "html_sha256": "f9a41af03ccfc27b13b23202e4059f26af71c953477a2540ca613bfaad4336b3",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

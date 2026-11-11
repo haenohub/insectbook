@@ -1,0 +1,111 @@
+{
+  "id": "ZRDW0001",
+  "name_ko": "갈색띠원뿔나방",
+  "scientific_name": "Meleonoma malacobyrsa (Meyrick, 1921)",
+  "display_name": "갈색띠원뿔나방",
+  "family_ko": "판날개뿔나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "뿔나방상과",
+      "name_latin": "Gelechioidea"
+    },
+    "family": {
+      "name_ko": "판날개뿔나방과",
+      "name_latin": "Xyloryctidae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Periacminae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Meleonoma"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 뿔나방상과 (Gelechioidea)\n과 : 판날개뿔나방과 (Xyloryctidae)\n아과 : (Periacminae)\n속 : (Meleonoma)",
+  "basic_information": {
+    "곤충명": "갈색띠원뿔나방",
+    "학명": "Meleonoma malacobyrsa (Meyrick, 1921)"
+  },
+  "information": {
+    "general_description": "더듬이는 날개 길이의 4/5정도로 가늘고 김. 아랫입술수염은 매끈하여 아주 길게 위로 구부러졌으며, 제 2마디가 제 3마디보다 김. 머리와 가슴 윗부분은 담황색임. 앞날개의 바탕색은 주황색이고, 회선과 중실 내의 반문은 뚜렷하여 쉽게 구분됨.",
+    "adult": null,
+    "adult_male": "구상돌기는 삼각형으로 뽀족하고, 파악판은 부채모양으로 넓고 크며 긴털이 밀생되어 있음.",
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 날개 길이의 4/5정도로 가늘고 김. 아랫입술수염은 매끈하여 아주 길게 위로 구부러졌으며, 제 2마디가 제 3마디보다 김. 머리와 가슴 윗부분은 담황색임. 앞날개의 바탕색은 주황색이고, 회선과 중실 내의 반문은 뚜렷하여 쉽게 구분됨."
+    },
+    {
+      "title": "성충(수)",
+      "text": "구상돌기는 삼각형으로 뽀족하고, 파악판은 부채모양으로 넓고 크며 긴털이 밀생되어 있음."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDW0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDW0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDW0001_1_th.jpg",
+      "alt": "갈색띠원뿔나방 1번째 사진 : 갈색띠원뿔나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDW0001_1_th2.jpg",
+      "caption": "갈색띠원뿔나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDW0001-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0302062080",
+      "description": "[KNAE0302062080] 갈색띠원뿔나방 1992.09.06 / / 국립수목원"
+    },
+    {
+      "id": "UIBE0303111013",
+      "description": "[UIBE0303111013] 갈색띠원뿔나방 1996.08.05 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0303111036",
+      "description": "[UIBE0303111036] 갈색띠원뿔나방 1998.08.25 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDW0001.png",
+    "reference_image_id": "ZRDW0001-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T16:37:50.964658+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "07018d06aef860a36f3830fe18e16b04b883a4a1c876346a5d92a508d82bbda4"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDW0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:31+00:00",
+    "html_sha256": "b0b833c82a0b96c70399b94d0f9a2b270805462555cfe540d70b6cd3e2590aa7",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

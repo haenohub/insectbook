@@ -1,0 +1,143 @@
+{
+  "id": "ZRCQ0021",
+  "name_ko": "산줄점팔랑나비",
+  "scientific_name": "Pelopidas jansonis (Butler, 1878)",
+  "display_name": "산줄점팔랑나비",
+  "family_ko": "팔랑나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "팔랑나비과",
+      "name_latin": "Hesperiidae"
+    },
+    "subfamily": {
+      "name_ko": "팔랑나비아과",
+      "name_latin": "Hesperiinae"
+    },
+    "genus": {
+      "name_ko": "산줄점팔랑나비속",
+      "name_latin": "Pelopidas"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 팔랑나비과 (Hesperiidae)\n아과 : 팔랑나비아과 (Hesperiinae)\n속 : 산줄점팔랑나비속 (Pelopidas)",
+  "basic_information": {
+    "곤충명": "산줄점팔랑나비",
+    "학명": "Pelopidas jansonis (Butler, 1878)"
+  },
+  "information": {
+    "general_description": "암컷은 수컷보다 다소 크고 날개의 폭이 넓으며 앞날개 윗면의 흰무늬가 크다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "잡목림 숲 가장자리나 양지바른 초지에 서식한다. 제1화기 개체는 봄에 발생하여 수컷들은 마른 풀이나 나뭇가지 위에 앉아 날개를 반즘 편 상태로 점유행동을 하는 경우가 많다. 애벌레는 가을에 개울가에서 자라는 참억새의 잎을 길게 말아 그 속에서 지내다가 번데기가 된다.",
+    "season": null,
+    "overwintering": "번데기",
+    "distribution": "[일본]\n[중국]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷은 수컷보다 다소 크고 날개의 폭이 넓으며 앞날개 윗면의 흰무늬가 크다."
+    },
+    {
+      "title": "습성",
+      "text": "잡목림 숲 가장자리나 양지바른 초지에 서식한다. 제1화기 개체는 봄에 발생하여 수컷들은 마른 풀이나 나뭇가지 위에 앉아 날개를 반즘 편 상태로 점유행동을 하는 경우가 많다. 애벌레는 가을에 개울가에서 자라는 참억새의 잎을 길게 말아 그 속에서 지내다가 번데기가 된다."
+    },
+    {
+      "title": "월동",
+      "text": "번데기"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCQ0021-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRCQ0021_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRCQ0021_3.jpg",
+      "alt": "산줄점팔랑나비 1번째 사진 : 산줄점팔랑나비 수컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRCQ0021_3_th2.jpg",
+      "caption": "산줄점팔랑나비 수컷 이미지",
+      "photographed_at": "20200517",
+      "location": null,
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRCQ0021-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0021_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0021_2_th.jpg",
+      "alt": "산줄점팔랑나비 2번째 사진 : 산줄점팔랑나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0021_2_th2.jpg",
+      "caption": "산줄점팔랑나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCQ0021-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0021_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0021_1_th.jpg",
+      "alt": "산줄점팔랑나비 3번째 사진 : 산줄점팔랑나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0021_1_th2.jpg",
+      "caption": "산줄점팔랑나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCQ0021-1",
+  "specimen_examples": [
+    {
+      "id": "CBNE0301131003",
+      "description": "[CBNE0301131003] 산줄점팔랑나비 2002.04.27 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0201091035",
+      "description": "[CBNE0201091035] 산줄점팔랑나비 1999.09.20 / / 충북대학교"
+    },
+    {
+      "id": "GSNE0112272032",
+      "description": "[GSNE0112272032] 산줄점팔랑나비 1986.08.10 / / 경상대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "참억새",
+      "scientific_name": "Miscanthus sinensis Andersson"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCQ0021-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCQ0021&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:37+00:00",
+    "html_sha256": "070e508a23bb704cc81958c8e148cc1fd3e6e009ad079c17c415187336b75646",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

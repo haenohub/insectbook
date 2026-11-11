@@ -1,0 +1,99 @@
+{
+  "id": "ZOAN0048",
+  "name_ko": "한강모래풍뎅이",
+  "scientific_name": "Psammodius hangangnensis Kim, 1980",
+  "display_name": "한강모래풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "똥풍뎅이아과",
+      "name_latin": "Aphodiinae"
+    },
+    "genus": {
+      "name_ko": "모래풍뎅이속",
+      "name_latin": "Psammodius"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 똥풍뎅이아과 (Aphodiinae)\n속 : 모래풍뎅이속 (Psammodius)",
+  "basic_information": {
+    "곤충명": "한강모래풍뎅이",
+    "학명": "Psammodius hangangnensis Kim, 1980"
+  },
+  "information": {
+    "general_description": "한국에 분포하며 적갈색이나 노숙개체는 흑화현상이 강하다. 개체변이도 커서 다음 종과 혼동되는 수도 있다. 두정융기선중 앞에 것은 길지만 가늘고 낮으며, 뒤의 것은 매우 낮다. 소순판은 딱지날개보다 낮고, 털은 없다. 뒷날개는 몸과 같은 길이이며, 전경절거의 길이는 처음 2부절의 합과 거의 같다. 중,후경절 돌기는 뚜렷하며 20여개의 강모를 동반한다. 마지막 복부복판에는 약간의 강모가 있고 미절판에는 6~10개의 강모가 있다. BL:2.6~3mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[한국고유종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국에 분포하며 적갈색이나 노숙개체는 흑화현상이 강하다. 개체변이도 커서 다음 종과 혼동되는 수도 있다. 두정융기선중 앞에 것은 길지만 가늘고 낮으며, 뒤의 것은 매우 낮다. 소순판은 딱지날개보다 낮고, 털은 없다. 뒷날개는 몸과 같은 길이이며, 전경절거의 길이는 처음 2부절의 합과 거의 같다. 중,후경절 돌기는 뚜렷하며 20여개의 강모를 동반한다. 마지막 복부복판에는 약간의 강모가 있고 미절판에는 6~10개의 강모가 있다. BL:2.6~3mm."
+    },
+    {
+      "title": "특기사항",
+      "text": "[한국고유종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAN0048-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAN0048_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAN0048_1_th.jpg",
+      "alt": "한강모래풍뎅이 1번째 사진 : 한강모래풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAN0048_1_th2.jpg",
+      "caption": "한강모래풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAN0048-1",
+  "specimen_examples": [
+    {
+      "id": "SSUE0303071039",
+      "description": "[SSUE0303071039] 한강모래풍뎅이 1989.04.13 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0303071040",
+      "description": "[SSUE0303071040] 한강모래풍뎅이 1989.08.20 / / 성신여자대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAN0048-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAN0048&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:01+00:00",
+    "html_sha256": "76ac7655f8a36afa6f5adf0ffca8328c9642fcc8e3b43aab83139753cdd62e0b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

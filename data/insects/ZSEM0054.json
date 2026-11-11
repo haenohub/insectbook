@@ -1,0 +1,114 @@
+{
+  "id": "ZSEM0054",
+  "name_ko": "삿포로수염치레꽃등에",
+  "scientific_name": "Chrysotoxum sapporense Matsumura, 1916",
+  "display_name": "삿포로수염치레꽃등에",
+  "family_ko": "꽃등에과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "꽃등에상과",
+      "name_latin": "Syrphoidea"
+    },
+    "family": {
+      "name_ko": "꽃등에과",
+      "name_latin": "Syrphidae"
+    },
+    "subfamily": {
+      "name_ko": "꽃등에아과",
+      "name_latin": "Syrphinae"
+    },
+    "genus": {
+      "name_ko": "수염치레꽃등에속",
+      "name_latin": "Chrysotoxum"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 꽃등에상과 (Syrphoidea)\n과 : 꽃등에과 (Syrphidae)\n아과 : 꽃등에아과 (Syrphinae)\n속 : 수염치레꽃등에속 (Chrysotoxum)",
+  "basic_information": {
+    "곤충명": "삿포로수염치레꽃등에",
+    "학명": "Chrysotoxum sapporense Matsumura, 1916"
+  },
+  "information": {
+    "general_description": "성충의 몸길이는 15mm내외. 각 배마디 뒷가장자리는 가늘게 갈색이고 배면의 3개 황색 띠는 중앙에 흑색 무늬가 있는 점으로 구별이 된다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충의 몸길이는 15mm내외. 각 배마디 뒷가장자리는 가늘게 갈색이고 배면의 3개 황색 띠는 중앙에 흑색 무늬가 있는 점으로 구별이 된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSEM0054-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0054_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0054_2_th.jpg",
+      "alt": "삿포로수염치레꽃등에 1번째 사진 : 삿포로수염치레꽃등에전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0054_2_th2.jpg",
+      "caption": "삿포로수염치레꽃등에전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZSEM0054-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0054_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0054_1_th.jpg",
+      "alt": "삿포로수염치레꽃등에 2번째 사진 : 삿포로수염치레꽃등에전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0054_1_th2.jpg",
+      "caption": "삿포로수염치레꽃등에전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSEM0054-1",
+  "specimen_examples": [
+    {
+      "id": "ADUE0202021017",
+      "description": "[ADUE0202021017] 삿포로수염치레꽃등에 1998.05.22 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0202021018",
+      "description": "[ADUE0202021018] 삿포로수염치레꽃등에 1998.05.22 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0202021019",
+      "description": "[ADUE0202021019] 삿포로수염치레꽃등에 1998.05.23 / / 안동대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZSEM0054-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSEM0054&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:44+00:00",
+    "html_sha256": "fa841f5092bae98d15e5fb20519f324dfaafe8f5ad9943cb41cd6acb24677b40",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

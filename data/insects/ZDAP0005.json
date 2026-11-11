@@ -1,0 +1,114 @@
+{
+  "id": "ZDAP0005",
+  "name_ko": "중간밀잠자리",
+  "scientific_name": "Orthetrum japonicum (Uhler, 1858)",
+  "display_name": "중간밀잠자리",
+  "family_ko": "잠자리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "잠자리목",
+      "name_latin": "Odonata"
+    },
+    "family": {
+      "name_ko": "잠자리과",
+      "name_latin": "Libellulidae"
+    },
+    "subfamily": {
+      "name_ko": "잠자리아과",
+      "name_latin": "Libellulinae"
+    },
+    "genus": {
+      "name_ko": "밀잠자리속",
+      "name_latin": "Orthetrum"
+    }
+  },
+  "taxonomy_text": "목 : 잠자리목 (Odonata)\n과 : 잠자리과 (Libellulidae)\n아과 : 잠자리아과 (Libellulinae)\n속 : 밀잠자리속 (Orthetrum)",
+  "basic_information": {
+    "곤충명": "중간밀잠자리",
+    "학명": "Orthetrum japonicum (Uhler, 1858)"
+  },
+  "information": {
+    "general_description": "뒷날개의 길이는 약 33 mm이다. 이마혹은 흑색이며, 이마는 녹황색이다. 배는 회백색이며 무늬가 없고 끝부분만 흑색이다. 날개는 투명하고 밑에는 작은 황색 무늬가 있다. 날개맥은 흑갈색이고, 가두리 무늬는 황색 또는 갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": "암컷은 황색인데, 옆에 있는 흑색 줄은 현저하고 꼬리 끝은 황색이다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[대만]\n[중국]\n[인도]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "뒷날개의 길이는 약 33 mm이다. 이마혹은 흑색이며, 이마는 녹황색이다. 배는 회백색이며 무늬가 없고 끝부분만 흑색이다. 날개는 투명하고 밑에는 작은 황색 무늬가 있다. 날개맥은 흑갈색이고, 가두리 무늬는 황색 또는 갈색이다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "암컷은 황색인데, 옆에 있는 흑색 줄은 현저하고 꼬리 끝은 황색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[대만]\n[중국]\n[인도]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZDAP0005-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0005_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0005_2_th.jpg",
+      "alt": "중간밀잠자리 1번째 사진 : 중간밀잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0005_2_th2.jpg",
+      "caption": "중간밀잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZDAP0005-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0005_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0005_1_th.jpg",
+      "alt": "중간밀잠자리 2번째 사진 : 중간밀잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0005_1_th2.jpg",
+      "caption": "중간밀잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZDAP0005-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408201131",
+      "description": "[MPME0408201131] 중간밀잠자리 2003.06.19 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408201130",
+      "description": "[MPME0408201130] 중간밀잠자리 2003.06.19 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0407211019",
+      "description": "[MPME0407211019] 중간밀잠자리 2003.06.19 / / 목포자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZDAP0005-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZDAP0005&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:21+00:00",
+    "html_sha256": "242c1486696c6d4204a8cd3f061670581c8365d4a386a2ad1da26f7dd2fd86da",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

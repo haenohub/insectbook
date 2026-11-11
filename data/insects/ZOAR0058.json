@@ -1,0 +1,122 @@
+{
+  "id": "ZOAR0058",
+  "name_ko": "싸리남색거위벌레",
+  "scientific_name": "Euops (Parasynaptopsis) lespedezae koreanus Sawada & Morimoto, 1985",
+  "display_name": "싸리남색거위벌레",
+  "family_ko": "거위벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "거위벌레과",
+      "name_latin": "Attelabidae"
+    },
+    "subfamily": {
+      "name_ko": "거위벌레아과",
+      "name_latin": "Attelabinae"
+    },
+    "genus": {
+      "name_ko": "남색거위벌레속",
+      "name_latin": "Euops"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 거위벌레과 (Attelabidae)\n아과 : 거위벌레아과 (Attelabinae)\n속 : 남색거위벌레속 (Euops)",
+  "basic_information": {
+    "곤충명": "싸리남색거위벌레",
+    "학명": "Euops (Parasynaptopsis) lespedezae koreanus Sawada & Morimoto, 1985"
+  },
+  "information": {
+    "general_description": "한국, 일본, 러시아에 분포하며, 체장은 2.5-3.0mm 정도이다. 머리는 폭보다 길지 않으며, 이마와 측면에 동그랗고 깊은 점각홈을 가진다. 체색은 청색 혹은 옅은 남색을 띠며, 금속광택을 가진다. 더듬이는 짧은 편이며, 두 눈사이는 매우 좁다. 앞다리의 경절은 길며, 안쪽으로 강하게 휘어져 있다. 또한 말단부위에는 뾰족한 돌기를 가진다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "졸참나무, 물참나무, 싸리류를 기주식물로 한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]",
+    "notes": "[산림해충] Chung et al.(1995)\n[보통종] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 러시아에 분포하며, 체장은 2.5-3.0mm 정도이다. 머리는 폭보다 길지 않으며, 이마와 측면에 동그랗고 깊은 점각홈을 가진다. 체색은 청색 혹은 옅은 남색을 띠며, 금속광택을 가진다. 더듬이는 짧은 편이며, 두 눈사이는 매우 좁다. 앞다리의 경절은 길며, 안쪽으로 강하게 휘어져 있다. 또한 말단부위에는 뾰족한 돌기를 가진다."
+    },
+    {
+      "title": "생태",
+      "text": "졸참나무, 물참나무, 싸리류를 기주식물로 한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)\n[보통종] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAR0058-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0058_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0058_1_th.jpg",
+      "alt": "싸리남색거위벌레 1번째 사진 : 싸리남색거위벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0058_1_th2.jpg",
+      "caption": "싸리남색거위벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAR0058-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0205021011",
+      "description": "[SNUE0205021011] 싸리남색거위벌레 1992.08.19 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0205021012",
+      "description": "[SNUE0205021012] 싸리남색거위벌레 1999.07.09 / / 서울대학교"
+    },
+    {
+      "id": "KNAE1006291288",
+      "description": "[KNAE1006291288] 싸리남색거위벌레 2009.06.20 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "물참나무",
+      "scientific_name": "Quercus mongolica var. crispula (Blume) H.Ohashi"
+    },
+    {
+      "group": "식물",
+      "name_ko": "졸참나무",
+      "scientific_name": "Quercus serrata Murray"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAR0058-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAR0058&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:54+00:00",
+    "html_sha256": "42bf0d4e4811a87d76a01376e0619dccc817d13f7b1b359f0d563ee1008d7e34",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

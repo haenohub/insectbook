@@ -1,0 +1,110 @@
+{
+  "id": "ZOBU0010",
+  "name_ko": "산길앞잡이",
+  "scientific_name": "Cicindela (Cicindela) sachalinensis raddei Morawitz, 1862",
+  "display_name": "산길앞잡이",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "길앞잡이아과",
+      "name_latin": "Cicindelinae"
+    },
+    "genus": {
+      "name_ko": "길앞잡이속",
+      "name_latin": "Cicindela"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 길앞잡이아과 (Cicindelinae)\n속 : 길앞잡이속 (Cicindela)",
+  "basic_information": {
+    "곤충명": "산길앞잡이",
+    "학명": "Cicindela (Cicindela) sachalinensis raddei Morawitz, 1862"
+  },
+  "information": {
+    "general_description": "한국, 만주, 중국, 아무르, 일본, 쿠릴열도에 분포하며, 체자은 15-20mm 정도이다. 윗입술은 크고 앞쪽으로 돌출하고 중앙은 뾰족하다. 체색에는 변화가 많다.딱지날개에는 점각이 밀포되었고 각 점각 사이에는 작은 과립이 있다. 딱지나개 중앙에 있는 물결 모양의 횡대는 개체에 따라 여러 가지 모양으로 되었다. 촉각은 기부에 네마디만 다소 금속 광택이 나고 그 외의 것은 황색으로 광택이 없다. 배는 녹청색 또는 자색이고 구리색 광택이 난다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 만주, 중국, 아무르, 일본, 쿠릴열도에 분포하며, 체자은 15-20mm 정도이다. 윗입술은 크고 앞쪽으로 돌출하고 중앙은 뾰족하다. 체색에는 변화가 많다.딱지날개에는 점각이 밀포되었고 각 점각 사이에는 작은 과립이 있다. 딱지나개 중앙에 있는 물결 모양의 횡대는 개체에 따라 여러 가지 모양으로 되었다. 촉각은 기부에 네마디만 다소 금속 광택이 나고 그 외의 것은 황색으로 광택이 없다. 배는 녹청색 또는 자색이고 구리색 광택이 난다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBU0010-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0010_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0010_2_th.jpg",
+      "alt": "산길앞잡이 1번째 사진 : 산길앞잡이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0010_2_th2.jpg",
+      "caption": "산길앞잡이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBU0010-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0010_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0010_1_th.jpg",
+      "alt": "산길앞잡이 2번째 사진 : 산길앞잡이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0010_1_th2.jpg",
+      "caption": "산길앞잡이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBU0010-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0212279183",
+      "description": "[YNUE0212279183] 산길앞잡이 1987.05.30 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0212279184",
+      "description": "[YNUE0212279184] 산길앞잡이 1987.05.30 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0212279185",
+      "description": "[YNUE0212279185] 산길앞잡이 1987.04.18 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBU0010-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBU0010&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:31+00:00",
+    "html_sha256": "2c47d53c08bba763ef075b2690679fade8250d4131b645ba7e5566e37c6094a0",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

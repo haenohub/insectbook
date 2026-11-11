@@ -1,0 +1,110 @@
+{
+  "id": "ZRFL0009",
+  "name_ko": "여덟무늬알락나방",
+  "scientific_name": "Balataea octomaculata (Bremer, 1861)",
+  "display_name": "여덟무늬알락나방",
+  "family_ko": "알락나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "알락나방상과",
+      "name_latin": "Zygaenoidea"
+    },
+    "family": {
+      "name_ko": "알락나방과",
+      "name_latin": "Zygaenidae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Balataea"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 알락나방상과 (Zygaenoidea)\n과 : 알락나방과 (Zygaenidae)\n속 : (Balataea)",
+  "basic_information": {
+    "곤충명": "여덟무늬알락나방",
+    "학명": "Balataea octomaculata (Bremer, 1861)"
+  },
+  "information": {
+    "general_description": "인천․경기도․부산․서울․경상북도․전북특별자치도․제주특별자치도와 일본·중국·아무르에 분포한다. 수컷의 더듬이는 빗살 모양이고, 몸과 날개의 바탕색은 흑갈색이며, 몸에는 남색의 광택이 약간 난다. 암컷의 더듬이는 끝이 뾰족하며, 그 가늘어진 부분이 백색을 띠고 있다. 대체로 애기무늬알락나방과 모양이 비슷하나 앞날개의 황색 무늬가 다르다. 즉, 앞날개에는 한쪽에 4개씩 모두 8개의 뚜렷한 황색 무늬가 나타나 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "인천․경기도․부산․서울․경상북도․전북특별자치도․제주특별자치도와 일본·중국·아무르에 분포한다. 수컷의 더듬이는 빗살 모양이고, 몸과 날개의 바탕색은 흑갈색이며, 몸에는 남색의 광택이 약간 난다. 암컷의 더듬이는 끝이 뾰족하며, 그 가늘어진 부분이 백색을 띠고 있다. 대체로 애기무늬알락나방과 모양이 비슷하나 앞날개의 황색 무늬가 다르다. 즉, 앞날개에는 한쪽에 4개씩 모두 8개의 뚜렷한 황색 무늬가 나타나 있다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRFL0009-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFL0009_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFL0009_2_th.jpg",
+      "alt": "여덟무늬알락나방 1번째 사진 : 여덟무늬알락나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFL0009_2_th2.jpg",
+      "caption": "여덟무늬알락나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRFL0009-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFL0009_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFL0009_1_th.jpg",
+      "alt": "여덟무늬알락나방 2번째 사진 : 여덟무늬알락나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFL0009_1_th2.jpg",
+      "caption": "여덟무늬알락나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRFL0009-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0211062029",
+      "description": "[YNUE0211062029] 여덟무늬알락나방 2001.06.01 / / 영남대학교"
+    },
+    {
+      "id": "CBNE0203061005",
+      "description": "[CBNE0203061005] 여덟무늬알락나방 2000.06.21 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0203061007",
+      "description": "[CBNE0203061007] 여덟무늬알락나방 2000.06.22 / / 충북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRFL0009-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRFL0009&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:01+00:00",
+    "html_sha256": "0977da8b3833d420daee281aafff1c15b315a5158995419675e06025411baa96",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

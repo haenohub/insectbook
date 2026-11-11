@@ -1,0 +1,125 @@
+{
+  "id": "ZREV0003",
+  "name_ko": "갈고리박각시",
+  "scientific_name": "Ambulyx koreana koreana Inoue, 1993",
+  "display_name": "갈고리박각시",
+  "family_ko": "박각시과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "누에나방상과",
+      "name_latin": "Bombycoidea"
+    },
+    "family": {
+      "name_ko": "박각시과",
+      "name_latin": "Sphingidae"
+    },
+    "subfamily": {
+      "name_ko": "박각시아과",
+      "name_latin": "Sphinginae"
+    },
+    "genus": {
+      "name_ko": "갈고리박각시속",
+      "name_latin": "Ambulyx"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 누에나방상과 (Bombycoidea)\n과 : 박각시과 (Sphingidae)\n아과 : 박각시아과 (Sphinginae)\n속 : 갈고리박각시속 (Ambulyx)",
+  "basic_information": {
+    "곤충명": "갈고리박각시",
+    "학명": "Ambulyx koreana koreana Inoue, 1993"
+  },
+  "information": {
+    "general_description": "날개편 길이 81～86mm. 앞날개 중횡대에는 흑색의 굵은 띠가 있어 같은 속의 다른 종과 구별된다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "4월말부터 7월말까지 출현.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[대만]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 81～86mm. 앞날개 중횡대에는 흑색의 굵은 띠가 있어 같은 속의 다른 종과 구별된다."
+    },
+    {
+      "title": "생태",
+      "text": "4월말부터 7월말까지 출현."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[대만]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREV0003-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0003_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0003_2_th.jpg",
+      "alt": "갈고리박각시 1번째 사진 : 갈고리박각시전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0003_2_th2.jpg",
+      "caption": "갈고리박각시전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREV0003-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0003_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0003_1_th.jpg",
+      "alt": "갈고리박각시 2번째 사진 : 갈고리박각시전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0003_1_th2.jpg",
+      "caption": "갈고리박각시전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREV0003-1",
+  "specimen_examples": [
+    {
+      "id": "JFNE0305111075",
+      "description": "[JFNE0305111075] 갈고리박각시 1996.06.22 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0305111076",
+      "description": "[JFNE0305111076] 갈고리박각시 1996.06.23 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0305111077",
+      "description": "[JFNE0305111077] 갈고리박각시 1996.06.24 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZREV0003.png",
+    "reference_image_id": "ZREV0003-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T15:56:35.607533+00:00",
+    "sha256": "3050d8b849fee62b89a81e03b65b98b3b28339b13fbdb91b0dbd46f06bbec7b3"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREV0003&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:22+00:00",
+    "html_sha256": "1412ee94cd87fa19f39f3b8c62cb92d3be0d578d3c86a3fce010f7a3b3c518a1",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

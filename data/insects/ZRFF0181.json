@@ -1,0 +1,163 @@
+{
+  "id": "ZRFF0181",
+  "name_ko": "백송애기잎말이나방",
+  "scientific_name": "Gravitarmata margarotana (Heinemann, 1863)",
+  "display_name": "백송애기잎말이나방",
+  "family_ko": "잎말이나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎말이나방상과",
+      "name_latin": "Tortricoidea"
+    },
+    "family": {
+      "name_ko": "잎말이나방과",
+      "name_latin": "Tortricidae"
+    },
+    "subfamily": {
+      "name_ko": "애기잎말이나방아과",
+      "name_latin": "Olethreutinae"
+    },
+    "genus": {
+      "name_ko": "백송애기잎말이나방속",
+      "name_latin": "Gravitarmata"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 잎말이나방상과 (Tortricoidea)\n과 : 잎말이나방과 (Tortricidae)\n아과 : 애기잎말이나방아과 (Olethreutinae)\n속 : 백송애기잎말이나방속 (Gravitarmata)",
+  "basic_information": {
+    "곤충명": "백송애기잎말이나방",
+    "학명": "Gravitarmata margarotana (Heinemann, 1863)"
+  },
+  "information": {
+    "general_description": "아랫입술수염은 가늘고 길며, 앞으로 뻗어 있으며, 제2 마디는 팽대되지 않았다. 제3 마디는 길고 약간 아래로 처져 있다. 앞날개에는 회갈색, 적갈색, 흑갈색의 인모로 만들어진 불규칙한 구름 모양의 무늬들이 적당한 간격을 이루고 있다. 날개 끝에는 아치형의 백색 반점이 있다. 뒷날개는 회갈색, 외연은 암갈색이고, 연모는 담회색이다. 날개 길이: 16-20 mm.",
+    "adult": null,
+    "adult_male": "수컷 생식기의 파악판은 배면 중앙이 심히 함입된 목을 이루며, 쿠쿨루스(cucullus)는 삼각형을 이룬다. 삼입기는 짧고, 사정낭침은 여러 개이다.",
+    "adult_female": "암컷 생식기의 교미구는 원형이며 밖으로 노출되어 있다. 시그눔(signum)은 2개인데 1개는 길고 다른 1개는짧다.",
+    "larva": "유충의 몸길이는 11 mm 정도이고 머리는 다갈색, 몸은 다소 붉은색이다.",
+    "egg": null,
+    "pupa": null,
+    "ecology": "중국에서는 연 1회 발생하는 것으로 보고되어 있다. 산란은 나뭇가지 또는 침엽 위에 산란하며, 산란 시기는 약 2주간이다. 유충은 5월 상, 중순에 부화하여 노숙 유충이 되면 마른 가지와 낙엽, 잡초 사이에 실을 토해 고치를 만들어 번데기가 된 후 월동한다.",
+    "habits": "유충은 소나무류의 열매 및 새 순을 해치는 중요 해충으로, 피해를 받은 나무는 생장이 순조롭지 못하며 구과는 일찍 말라 떨어지게 된다. 대발생한 해에는 잣나무 구과의 70% 이상이 피해를 받는다.",
+    "season": null,
+    "overwintering": "노숙 유충은 마른 가지와 낙엽, 잡초 사이에 실을 토해 고치를 만들어 번데기가 된 후 월동한다.",
+    "distribution": "[일본]\n[유럽]\n[중국]\n[대한민국] 경기도",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "아랫입술수염은 가늘고 길며, 앞으로 뻗어 있으며, 제2 마디는 팽대되지 않았다. 제3 마디는 길고 약간 아래로 처져 있다. 앞날개에는 회갈색, 적갈색, 흑갈색의 인모로 만들어진 불규칙한 구름 모양의 무늬들이 적당한 간격을 이루고 있다. 날개 끝에는 아치형의 백색 반점이 있다. 뒷날개는 회갈색, 외연은 암갈색이고, 연모는 담회색이다. 날개 길이: 16-20 mm."
+    },
+    {
+      "title": "성충(수)",
+      "text": "수컷 생식기의 파악판은 배면 중앙이 심히 함입된 목을 이루며, 쿠쿨루스(cucullus)는 삼각형을 이룬다. 삼입기는 짧고, 사정낭침은 여러 개이다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "암컷 생식기의 교미구는 원형이며 밖으로 노출되어 있다. 시그눔(signum)은 2개인데 1개는 길고 다른 1개는짧다."
+    },
+    {
+      "title": "유충",
+      "text": "유충의 몸길이는 11 mm 정도이고 머리는 다갈색, 몸은 다소 붉은색이다."
+    },
+    {
+      "title": "생태",
+      "text": "중국에서는 연 1회 발생하는 것으로 보고되어 있다. 산란은 나뭇가지 또는 침엽 위에 산란하며, 산란 시기는 약 2주간이다. 유충은 5월 상, 중순에 부화하여 노숙 유충이 되면 마른 가지와 낙엽, 잡초 사이에 실을 토해 고치를 만들어 번데기가 된 후 월동한다."
+    },
+    {
+      "title": "습성",
+      "text": "유충은 소나무류의 열매 및 새 순을 해치는 중요 해충으로, 피해를 받은 나무는 생장이 순조롭지 못하며 구과는 일찍 말라 떨어지게 된다. 대발생한 해에는 잣나무 구과의 70% 이상이 피해를 받는다."
+    },
+    {
+      "title": "월동",
+      "text": "노숙 유충은 마른 가지와 낙엽, 잡초 사이에 실을 토해 고치를 만들어 번데기가 된 후 월동한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[유럽]\n[중국]\n[대한민국] 경기도"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRFF0181-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0181_7.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0181_7_th.jpg",
+      "alt": "백송애기잎말이나방 1번째 사진 : 백송애기잎말이나방가슴 확대 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0181_7_th2.jpg",
+      "caption": "백송애기잎말이나방가슴 확대 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRFF0181-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0181_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0181_1_th.jpg",
+      "alt": "백송애기잎말이나방 2번째 사진 : 백송애기잎말이나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0181_1_th2.jpg",
+      "caption": "백송애기잎말이나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRFF0181-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0307112051",
+      "description": "[KNAE0307112051] 백송애기잎말이나방 1998.03.30 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0307112052",
+      "description": "[KNAE0307112052] 백송애기잎말이나방 1998.03.29 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0307112048",
+      "description": "[KNAE0307112048] 백송애기잎말이나방 1999.04.09 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "백송",
+      "scientific_name": "Pinus bungeana Zucc. ex Endl."
+    },
+    {
+      "group": "식물",
+      "name_ko": "소나무",
+      "scientific_name": "Pinus densiflora Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "잣나무",
+      "scientific_name": "Pinus koraiensis Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "전나무",
+      "scientific_name": "Abies holophylla Maxim."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRFF0181-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRFF0181&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:35+00:00",
+    "html_sha256": "e5bd8a86276dd3ed4e3e68057be4f377621a84769ef40625e6eb31f6fec9f897",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

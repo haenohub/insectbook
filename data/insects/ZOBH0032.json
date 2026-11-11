@@ -1,0 +1,114 @@
+{
+  "id": "ZOBH0032",
+  "name_ko": "강원멋쟁이딱정벌레",
+  "scientific_name": "Coptolabrus jankowskii taebeagsanensis (Ishikawa & Kim, 1983)",
+  "display_name": "강원멋쟁이딱정벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "딱정벌레아과",
+      "name_latin": "Carabinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Coptolabrus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 딱정벌레아과 (Carabinae)\n속 : (Coptolabrus)",
+  "basic_information": {
+    "곤충명": "강원멋쟁이딱정벌레",
+    "학명": "Coptolabrus jankowskii taebeagsanensis (Ishikawa & Kim, 1983)"
+  },
+  "information": {
+    "general_description": "몸길이는 30~35mm, 두부는 보라색 광택또는 초록색 광택이 있고, 앞가슴 등판은 보라색 또는 진한 초록색 광택이 있다. 딱지날개는 검은색 바탕의 보라빛또는 초록색 광택이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[포식성]\n[한국고유종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 30~35mm, 두부는 보라색 광택또는 초록색 광택이 있고, 앞가슴 등판은 보라색 또는 진한 초록색 광택이 있다. 딱지날개는 검은색 바탕의 보라빛또는 초록색 광택이 있다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[포식성]\n[한국고유종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0032-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0032_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0032_2_th.jpg",
+      "alt": "강원멋쟁이딱정벌레 1번째 사진 : 강원멋쟁이딱정벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0032_2_th2.jpg",
+      "caption": "강원멋쟁이딱정벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0032-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0032_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0032_1_th.jpg",
+      "alt": "강원멋쟁이딱정벌레 2번째 사진 : 강원멋쟁이딱정벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0032_1_th2.jpg",
+      "caption": "강원멋쟁이딱정벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0032-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0304251039",
+      "description": "[FRIE0304251039] 강원멋쟁이딱정벌레 1995.08.15 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0301152041",
+      "description": "[KNAE0301152041] 강원멋쟁이딱정벌레 1991.08.01 / / 국립수목원"
+    },
+    {
+      "id": "KPNE0203111001",
+      "description": "[KPNE0203111001] 강원멋쟁이딱정벌레 1976.06.27 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBH0032.png",
+    "reference_image_id": "ZOBH0032-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T17:01:25.485802+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "3b8b083b66d31d7f4d343fd9c2d284ebd25ae3dd183c9322416cc8d8fc421b7e"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0032&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:42+00:00",
+    "html_sha256": "10b951e6ad016123a6dc9efdb6e73dbea8f310e1da8c0b687d28e3c79adf9ce5",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

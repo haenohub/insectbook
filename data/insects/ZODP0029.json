@@ -1,0 +1,103 @@
+{
+  "id": "ZODP0029",
+  "name_ko": "새가슴물땡땡이",
+  "scientific_name": "Berosus (Berosus) japonicus Sharp, 1873",
+  "display_name": "새가슴물땡땡이",
+  "family_ko": "물땡땡이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "물땡땡이상과",
+      "name_latin": "Hydrophiloidea"
+    },
+    "family": {
+      "name_ko": "물땡땡이과",
+      "name_latin": "Hydrophilidae"
+    },
+    "subfamily": {
+      "name_ko": "물땡땡이아과",
+      "name_latin": "Hydrophilinae"
+    },
+    "genus": {
+      "name_ko": "점박이물땡땡이속",
+      "name_latin": "Berosus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 물땡땡이상과 (Hydrophiloidea)\n과 : 물땡땡이과 (Hydrophilidae)\n아과 : 물땡땡이아과 (Hydrophilinae)\n속 : 점박이물땡땡이속 (Berosus)",
+  "basic_information": {
+    "곤충명": "새가슴물땡땡이",
+    "학명": "Berosus (Berosus) japonicus Sharp, 1873"
+  },
+  "information": {
+    "general_description": "몸의 길이는 4.4~5.2mm, 두부는 광택을 띠는 녹색이다. 전체적으로 황갈색인데 딱지날개에 적갈색의 무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의 길이는 4.4~5.2mm, 두부는 광택을 띠는 녹색이다. 전체적으로 황갈색인데 딱지날개에 적갈색의 무늬가 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZODP0029-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODP0029_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODP0029_1_th.jpg",
+      "alt": "새가슴물땡땡이 1번째 사진 : 새가슴물땡땡이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODP0029_1_th2.jpg",
+      "caption": "새가슴물땡땡이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZODP0029-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0301221031",
+      "description": "[KNAE0301221031] 새가슴물땡땡이 1989.08.01 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0301221032",
+      "description": "[KNAE0301221032] 새가슴물땡땡이 1989.08.01 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0301221033",
+      "description": "[KNAE0301221033] 새가슴물땡땡이 1989.08.01 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZODP0029-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZODP0029&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:49+00:00",
+    "html_sha256": "9468fd8e97c8ab1a5a14ee66a34de812f1723cc2a9dcbf37721aca0304ab184b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

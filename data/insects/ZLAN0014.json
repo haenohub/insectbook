@@ -1,0 +1,129 @@
+{
+  "id": "ZLAN0014",
+  "name_ko": "큰허리노린재",
+  "scientific_name": "Molipteryx fuliginosa (Uhler, 1860)",
+  "display_name": "큰허리노린재",
+  "family_ko": "허리노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "허리노린재상과",
+      "name_latin": "Coreoidea"
+    },
+    "family": {
+      "name_ko": "허리노린재과",
+      "name_latin": "Coreidae"
+    },
+    "subfamily": {
+      "name_ko": "장수허리노린재아과",
+      "name_latin": "Mictinae"
+    },
+    "genus": {
+      "name_ko": "큰허리노린재속",
+      "name_latin": "Molipteryx"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 허리노린재상과 (Coreoidea)\n과 : 허리노린재과 (Coreidae)\n아과 : 장수허리노린재아과 (Mictinae)\n속 : 큰허리노린재속 (Molipteryx)",
+  "basic_information": {
+    "곤충명": "큰허리노린재",
+    "학명": "Molipteryx fuliginosa (Uhler, 1860)"
+  },
+  "information": {
+    "general_description": "몸길이 : 20.5-24.5mm\n대형종이며 암컷이 더 크다. 몸은 전체가 암갈색이며, 광택이 없다. 체표면에 미세한 황갈색의 부드럽고 짧은 털이 산재한다. 더듬이는 제 1마디가 제일 길고 굵다. 앞가슴등판은 양 어깨가 나뭇잎 모양으로 넓적하게 돌출하였고 약간 윗쪽으로 휘어졌다. 그 가장자리는 톱니 모양의 돌기를 가진다. 작은방패판은 정삼각형이다. 배마디의 옆가장자리는 넓고 둥글게 확장되어서 앞날개의 바깥가장자리 밖으로 돌출한다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "산야의 초원지대에서 흔히 서식하며, 엉컹퀴, 양지꽃, 머위 등에 모인다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 20.5-24.5mm\n대형종이며 암컷이 더 크다. 몸은 전체가 암갈색이며, 광택이 없다. 체표면에 미세한 황갈색의 부드럽고 짧은 털이 산재한다. 더듬이는 제 1마디가 제일 길고 굵다. 앞가슴등판은 양 어깨가 나뭇잎 모양으로 넓적하게 돌출하였고 약간 윗쪽으로 휘어졌다. 그 가장자리는 톱니 모양의 돌기를 가진다. 작은방패판은 정삼각형이다. 배마디의 옆가장자리는 넓고 둥글게 확장되어서 앞날개의 바깥가장자리 밖으로 돌출한다."
+    },
+    {
+      "title": "생태",
+      "text": "산야의 초원지대에서 흔히 서식하며, 엉컹퀴, 양지꽃, 머위 등에 모인다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLAN0014-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZLAN0014_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZLAN0014_3.jpg",
+      "alt": "큰허리노린재 1번째 사진 : ",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZLAN0014_3_th2.jpg",
+      "caption": null,
+      "photographed_at": "20120705",
+      "location": null,
+      "photographer": "국립수목원(임종옥)"
+    },
+    {
+      "id": "ZLAN0014-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0014_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0014_2_th.jpg",
+      "alt": "큰허리노린재 2번째 사진 : 큰허리노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0014_2_th2.jpg",
+      "caption": "큰허리노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZLAN0014-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0014_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0014_1_th.jpg",
+      "alt": "큰허리노린재 3번째 사진 : 큰허리노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0014_1_th2.jpg",
+      "caption": "큰허리노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLAN0014-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0406202112",
+      "description": "[KUIE0406202112] 큰허리노린재 1974.05.19 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0406202111",
+      "description": "[KUIE0406202111] 큰허리노린재 1973.06.10 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0406202110",
+      "description": "[KUIE0406202110] 큰허리노린재 1973.06.06 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLAN0014-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLAN0014&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:06+00:00",
+    "html_sha256": "9f1a0f7a15653c0b1086c1cc2499137d353bb47ed1f37d576162cc146163d34f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

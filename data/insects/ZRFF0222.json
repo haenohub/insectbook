@@ -1,0 +1,111 @@
+{
+  "id": "ZRFF0222",
+  "name_ko": "꼬마밤색애기잎말이나방",
+  "scientific_name": "Celypha cornigerus Oku, 1968",
+  "display_name": "꼬마밤색애기잎말이나방",
+  "family_ko": "잎말이나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎말이나방상과",
+      "name_latin": "Tortricoidea"
+    },
+    "family": {
+      "name_ko": "잎말이나방과",
+      "name_latin": "Tortricidae"
+    },
+    "subfamily": {
+      "name_ko": "애기잎말이나방아과",
+      "name_latin": "Olethreutinae"
+    },
+    "genus": {
+      "name_ko": "홍갈애기잎말이나방속",
+      "name_latin": "Celypha"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 잎말이나방상과 (Tortricoidea)\n과 : 잎말이나방과 (Tortricidae)\n아과 : 애기잎말이나방아과 (Olethreutinae)\n속 : 홍갈애기잎말이나방속 (Celypha)",
+  "basic_information": {
+    "곤충명": "꼬마밤색애기잎말이나방",
+    "학명": "Celypha cornigerus Oku, 1968"
+  },
+  "information": {
+    "general_description": "한국, 일본에 분포하며 개체에 따라 색깔 및 크기에 차이가 있다. 앞날개의 바탕색은 회갈색에 오렌지색을 띠며, 내횡선은 중앙에서 밖으로 심하게 돌출되어 있으며, 그 안쪽은 물결 모양 무늬를 이룬다. 날개끝 부분은 오렌지색이 강하고, 날개 후각 부분은 다소 황백색을 띤다. 뒷날개는 강한 담회황색에 갈색기가 약간 가미되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 5~10월에 출현하며, 유충의 먹이풀에 대해 알려진 것은 아직 없다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본에 분포하며 개체에 따라 색깔 및 크기에 차이가 있다. 앞날개의 바탕색은 회갈색에 오렌지색을 띠며, 내횡선은 중앙에서 밖으로 심하게 돌출되어 있으며, 그 안쪽은 물결 모양 무늬를 이룬다. 날개끝 부분은 오렌지색이 강하고, 날개 후각 부분은 다소 황백색을 띤다. 뒷날개는 강한 담회황색에 갈색기가 약간 가미되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 5~10월에 출현하며, 유충의 먹이풀에 대해 알려진 것은 아직 없다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRFF0222-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0222_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0222_1_th.jpg",
+      "alt": "꼬마밤색애기잎말이나방 1번째 사진 : 꼬마밤색애기잎말이나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0222_1_th2.jpg",
+      "caption": "꼬마밤색애기잎말이나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRFF0222-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0302101062",
+      "description": "[UIBE0302101062] 꼬마밤색애기잎말이나방 1997.06.08 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0302101063",
+      "description": "[UIBE0302101063] 꼬마밤색애기잎말이나방 1998.07.08 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0302101064",
+      "description": "[UIBE0302101064] 꼬마밤색애기잎말이나방 2001.07.06 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRFF0222.png",
+    "reference_image_id": "ZRFF0222-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T13:44:50.071468+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "478afecf22f974b1306da1b607a51c32a4a5f36facbdb48ca5a951f5990ef305"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRFF0222&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:37+00:00",
+    "html_sha256": "346c1820dcddf43daa2c9fdba8a4d092869c5ece48584b74d85e961040bf17e8",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

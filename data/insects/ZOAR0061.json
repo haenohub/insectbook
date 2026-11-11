@@ -1,0 +1,99 @@
+{
+  "id": "ZOAR0061",
+  "name_ko": "장다리거위벌레",
+  "scientific_name": "Henicolabus (Henicolabus) giganteus (Faust, 1882)",
+  "display_name": "장다리거위벌레",
+  "family_ko": "거위벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "거위벌레과",
+      "name_latin": "Attelabidae"
+    },
+    "subfamily": {
+      "name_ko": "거위벌레아과",
+      "name_latin": "Attelabinae"
+    },
+    "genus": {
+      "name_ko": "볼록눈거위벌레속",
+      "name_latin": "Henicolabus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 거위벌레과 (Attelabidae)\n아과 : 거위벌레아과 (Attelabinae)\n속 : 볼록눈거위벌레속 (Henicolabus)",
+  "basic_information": {
+    "곤충명": "장다리거위벌레",
+    "학명": "Henicolabus (Henicolabus) giganteus (Faust, 1882)"
+  },
+  "information": {
+    "general_description": "한국, 중국, 러시아에 분포하며, 체장은 7.0-9.0mm 정도이다. 체색은 황갈색이며, 전퇴절의 말단부분, 경절, 더듬이 부위는 검은 빛이다. 목은 앞가슴등판보다 훨씬 가늘며, 앞가슴등판은 길이보다 폭이 넓다. 앞다리 퇴절의 끝부분에 하나씩의 작은 돌기를 가진다. 앞다리가 훨씬 긴 편이며, 퇴절마디는 부풀어 있는 모양이다. 또한, 경절의 안쪽으로 세로로 된 작은 치상돌기가 열지어 있다. 앞가슴등판은 매끈하며, 시초의 점각열의 크기는 거의 일정하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 중국, 러시아에 분포하며, 체장은 7.0-9.0mm 정도이다. 체색은 황갈색이며, 전퇴절의 말단부분, 경절, 더듬이 부위는 검은 빛이다. 목은 앞가슴등판보다 훨씬 가늘며, 앞가슴등판은 길이보다 폭이 넓다. 앞다리 퇴절의 끝부분에 하나씩의 작은 돌기를 가진다. 앞다리가 훨씬 긴 편이며, 퇴절마디는 부풀어 있는 모양이다. 또한, 경절의 안쪽으로 세로로 된 작은 치상돌기가 열지어 있다. 앞가슴등판은 매끈하며, 시초의 점각열의 크기는 거의 일정하다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAR0061-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0061_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0061_1_th.jpg",
+      "alt": "장다리거위벌레 1번째 사진 : 장다리거위벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0061_1_th2.jpg",
+      "caption": "장다리거위벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAR0061-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0204161382",
+      "description": "[SNUE0204161382] 장다리거위벌레 1992.06.07 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0204161383",
+      "description": "[SNUE0204161383] 장다리거위벌레 1992.06.19 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAR0061-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAR0061&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:03+00:00",
+    "html_sha256": "625e815915e820bc3975ee82887c5acd262640e293f58678458160cb9d41ce3c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

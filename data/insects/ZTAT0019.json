@@ -1,0 +1,114 @@
+{
+  "id": "ZTAT0019",
+  "name_ko": "왜청벌",
+  "scientific_name": "Hedychrum japonicum Cameron, 1887",
+  "display_name": "왜청벌",
+  "family_ko": "청벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "청벌상과",
+      "name_latin": "Chrysidoidea"
+    },
+    "family": {
+      "name_ko": "청벌과",
+      "name_latin": "Chrysididae"
+    },
+    "subfamily": {
+      "name_ko": "청벌아과",
+      "name_latin": "Chrysidinae"
+    },
+    "genus": {
+      "name_ko": "왜청벌속",
+      "name_latin": "Hedychrum"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 청벌상과 (Chrysidoidea)\n과 : 청벌과 (Chrysididae)\n아과 : 청벌아과 (Chrysidinae)\n속 : 왜청벌속 (Hedychrum)",
+  "basic_information": {
+    "곤충명": "왜청벌",
+    "학명": "Hedychrum japonicum Cameron, 1887"
+  },
+  "information": {
+    "general_description": "몸은 7-9mm 정도이며 몸은 반짝이는 녹색, 청록색, 녹청색, 자청색, 등 변이가 많고 배는 금빛 적갈색을 띤 적색이다. 다리는 흑색이고 발목마디는 흑색이고, 발목마디를 제외하고는 대부분 금록색 광택이 있다. 배의 뒷면은 자적색이고 배 끝 양 옆의 치상돌기는 명백하지 않다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸은 7-9mm 정도이며 몸은 반짝이는 녹색, 청록색, 녹청색, 자청색, 등 변이가 많고 배는 금빛 적갈색을 띤 적색이다. 다리는 흑색이고 발목마디는 흑색이고, 발목마디를 제외하고는 대부분 금록색 광택이 있다. 배의 뒷면은 자적색이고 배 끝 양 옆의 치상돌기는 명백하지 않다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAT0019-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAT0019_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAT0019_2_th.jpg",
+      "alt": "왜청벌 1번째 사진 : 왜청벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAT0019_2_th2.jpg",
+      "caption": "왜청벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTAT0019-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAT0019_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAT0019_1_th.jpg",
+      "alt": "왜청벌 2번째 사진 : 왜청벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAT0019_1_th2.jpg",
+      "caption": "왜청벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAT0019-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306051126",
+      "description": "[YNUE0306051126] 왜청벌 1987.07.30 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306051127",
+      "description": "[YNUE0306051127] 왜청벌 1987.07.29 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306051128",
+      "description": "[YNUE0306051128] 왜청벌 1995.08.16 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAT0019-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAT0019&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:51+00:00",
+    "html_sha256": "6eb4642288d56313971849227ee1e3792abeb64bc7573e0c959d7e59c1cbcf9f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

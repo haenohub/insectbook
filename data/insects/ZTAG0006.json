@@ -1,0 +1,99 @@
+{
+  "id": "ZTAG0006",
+  "name_ko": "작은솔애꽃벌",
+  "scientific_name": "Andrena (Andrena) brevihirtiscopa Hirashima, 1962",
+  "display_name": "작은솔애꽃벌",
+  "family_ko": "애꽃벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "애꽃벌과",
+      "name_latin": "Andrenidae"
+    },
+    "subfamily": {
+      "name_ko": "애꽃벌아과",
+      "name_latin": "Andreninae"
+    },
+    "genus": {
+      "name_ko": "애꽃벌속",
+      "name_latin": "Andrena"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 애꽃벌과 (Andrenidae)\n아과 : 애꽃벌아과 (Andreninae)\n속 : 애꽃벌속 (Andrena)",
+  "basic_information": {
+    "곤충명": "작은솔애꽃벌",
+    "학명": "Andrena (Andrena) brevihirtiscopa Hirashima, 1962"
+  },
+  "information": {
+    "general_description": "몸전체에 흰털이 있고 뒷다리 종아리마디의 안쪽이 패여 있으며 꽃가루솔이 짧고 성글다. 암컷의 머리는 길이보다 폭이 넓다. 얼굴에는 흰털이 성글게 나있으며 얼굴홈부위는 검은색이다. 점각이 없는 중앙선이 있으나 몇몇개의 드문 점각이 나타난다. 가슴등면에는 길고 흰털들이 나 있고 뒷쪽으로 갈수록 더욱 길고 촘촘해진다. 표면은 비늘모양의 조각들이 강하게 덮여 있어서 광택이 없다. 꽃가루솔이 매우 발달되어있다. 배등면은 검은색이고 각 마디 끝쪽만 좁게 갈색을 띠며 전체에 짧고 흰털이 성글게 나있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸전체에 흰털이 있고 뒷다리 종아리마디의 안쪽이 패여 있으며 꽃가루솔이 짧고 성글다. 암컷의 머리는 길이보다 폭이 넓다. 얼굴에는 흰털이 성글게 나있으며 얼굴홈부위는 검은색이다. 점각이 없는 중앙선이 있으나 몇몇개의 드문 점각이 나타난다. 가슴등면에는 길고 흰털들이 나 있고 뒷쪽으로 갈수록 더욱 길고 촘촘해진다. 표면은 비늘모양의 조각들이 강하게 덮여 있어서 광택이 없다. 꽃가루솔이 매우 발달되어있다. 배등면은 검은색이고 각 마디 끝쪽만 좁게 갈색을 띠며 전체에 짧고 흰털이 성글게 나있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0006-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0006_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0006_1_th.jpg",
+      "alt": "작은솔애꽃벌 1번째 사진 : 작은솔애꽃벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0006_1_th2.jpg",
+      "caption": "작은솔애꽃벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0006-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306278025",
+      "description": "[YNUE0306278025] 작은솔애꽃벌 1997.05.03 / / 영남대학교"
+    },
+    {
+      "id": "KNAE153575",
+      "description": "[KNAE153575] 작은솔애꽃벌 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAG0006-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0006&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:52+00:00",
+    "html_sha256": "be6759f7198ffef2a29ee5ac490075c7c679e60d7e0f121585d654a2d26aa1b6",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

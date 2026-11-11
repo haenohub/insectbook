@@ -1,0 +1,91 @@
+{
+  "id": "ZTBU0292",
+  "name_ko": "천마산맵시벌",
+  "scientific_name": "Diphyus temmazanensis (Uchida, 1955)",
+  "display_name": "천마산맵시벌",
+  "family_ko": "맵시벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "맵시벌과",
+      "name_latin": "Ichneumonidae"
+    },
+    "subfamily": {
+      "name_ko": "맵시벌아과",
+      "name_latin": "Ichneumoninae"
+    },
+    "genus": {
+      "name_ko": "세줄박이맵시벌속",
+      "name_latin": "Diphyus"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 맵시벌과 (Ichneumonidae)\n아과 : 맵시벌아과 (Ichneumoninae)\n속 : 세줄박이맵시벌속 (Diphyus)",
+  "basic_information": {
+    "곤충명": "천마산맵시벌",
+    "학명": "Diphyus temmazanensis (Uchida, 1955)"
+  },
+  "information": {
+    "general_description": "♂은 흑색이며 광택이 없다. 더듬이 아랫면은 적갈색이고 윗면은 흑색이고, 자루마디는 흰빛을 띤 황색이다. 얼굴, 머리방패, 큰턱, 윗입술, 수염, 어깨판, 날개의 앞과 아래 무늬, 배판 등은 달걀 노른자위 빛이고 앞·가운데다리는 황적색이나 밑마디는 완전히, 도래마디는 기부 반이, 종아리마디는 기부를 제외하고 흑색이다. 발목마디는 암갈색이다. 호리호리한 몸에 배마디는 양 옆이 평행하게 길다. 이마에는 배게 주름 융기가 있고 더듬이는 가늘고 길다. 전신복절은 주름 돌기가 있고 전중획은 구형이고 분할선은 없다. 모든 배마디등판은 너비보다 길고 미세한 점각이 있다. 15mm",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "♂은 흑색이며 광택이 없다. 더듬이 아랫면은 적갈색이고 윗면은 흑색이고, 자루마디는 흰빛을 띤 황색이다. 얼굴, 머리방패, 큰턱, 윗입술, 수염, 어깨판, 날개의 앞과 아래 무늬, 배판 등은 달걀 노른자위 빛이고 앞·가운데다리는 황적색이나 밑마디는 완전히, 도래마디는 기부 반이, 종아리마디는 기부를 제외하고 흑색이다. 발목마디는 암갈색이다. 호리호리한 몸에 배마디는 양 옆이 평행하게 길다. 이마에는 배게 주름 융기가 있고 더듬이는 가늘고 길다. 전신복절은 주름 돌기가 있고 전중획은 구형이고 분할선은 없다. 모든 배마디등판은 너비보다 길고 미세한 점각이 있다. 15mm"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBU0292-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0292_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0292_1_th.jpg",
+      "alt": "천마산맵시벌 1번째 사진 : 천마산맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0292_1_th2.jpg",
+      "caption": "천마산맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBU0292-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305301029",
+      "description": "[YNUE0305301029] 천마산맵시벌 1961.06.11 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTBU0292-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBU0292&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:09+00:00",
+    "html_sha256": "d52152cc110534ace5734d7272d46c0d642f6ffc6fc00b878edbd55a4876c11e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

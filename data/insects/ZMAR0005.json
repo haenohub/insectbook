@@ -1,0 +1,118 @@
+{
+  "id": "ZMAR0005",
+  "name_ko": "우리귀매미",
+  "scientific_name": "Petalocephala engelhardti Kusnezov, 1931",
+  "display_name": "우리귀매미",
+  "family_ko": "매미충과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "뿔매미상과",
+      "name_latin": "Membracoidea"
+    },
+    "family": {
+      "name_ko": "매미충과",
+      "name_latin": "Cicadellidae"
+    },
+    "subfamily": {
+      "name_ko": "귀매미아과",
+      "name_latin": "Ledrinae"
+    },
+    "genus": {
+      "name_ko": "만주귀매미속",
+      "name_latin": "Petalocephala"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 뿔매미상과 (Membracoidea)\n과 : 매미충과 (Cicadellidae)\n아과 : 귀매미아과 (Ledrinae)\n속 : 만주귀매미속 (Petalocephala)",
+  "basic_information": {
+    "곤충명": "우리귀매미",
+    "학명": "Petalocephala engelhardti Kusnezov, 1931"
+  },
+  "information": {
+    "general_description": "몸길이:수컷 6.2-6.5mm, 암컷 7.7-8mm.\n몸은 황갈색을 띠나 밑면은 암갈색에 가깝다. 정수리는 세밀하게 점각되고 과립같은 작은 돌기들이 산재한다. 머리의 옆가장자리는 겹눈의 바로 앞에서 볼록하게 모서리지고 끝쪽으로 갈수록 좁혀지면서 굽어져서 다소 삼각형의 모양을 갖는다. 머리의 등면에는 가운데 세로 융기선이 있고 얼굴은 암갈색을 띤다. 앞가슴등은 점각되고 과립이 산재 했으며 앞날개는 반투명하며 점각이 세밀하며 날개맥에는 작고 암갈색을 띤 과립이 엉성하다.",
+    "adult": null,
+    "adult_male": "수컷의 둔절은 나비보다 길이가 다소길고 배면은 등면보다 짧다. 뒷가장자리에는 돌기가 있고 아생식판은 둔절보다 길고 또 토끼의 귀모양을 하고있다. 음경은 옆으로 넓적하며 뒷쪽 가장자리에 1쌍의 돌기가 있다.",
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이:수컷 6.2-6.5mm, 암컷 7.7-8mm.\n몸은 황갈색을 띠나 밑면은 암갈색에 가깝다. 정수리는 세밀하게 점각되고 과립같은 작은 돌기들이 산재한다. 머리의 옆가장자리는 겹눈의 바로 앞에서 볼록하게 모서리지고 끝쪽으로 갈수록 좁혀지면서 굽어져서 다소 삼각형의 모양을 갖는다. 머리의 등면에는 가운데 세로 융기선이 있고 얼굴은 암갈색을 띤다. 앞가슴등은 점각되고 과립이 산재 했으며 앞날개는 반투명하며 점각이 세밀하며 날개맥에는 작고 암갈색을 띤 과립이 엉성하다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "수컷의 둔절은 나비보다 길이가 다소길고 배면은 등면보다 짧다. 뒷가장자리에는 돌기가 있고 아생식판은 둔절보다 길고 또 토끼의 귀모양을 하고있다. 음경은 옆으로 넓적하며 뒷쪽 가장자리에 1쌍의 돌기가 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMAR0005-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0005_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0005_2_th.jpg",
+      "alt": "우리귀매미 1번째 사진 : 우리귀매미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0005_2_th2.jpg",
+      "caption": "우리귀매미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZMAR0005-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0005_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0005_1_th.jpg",
+      "alt": "우리귀매미 2번째 사진 : 우리귀매미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0005_1_th2.jpg",
+      "caption": "우리귀매미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMAR0005-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0306261066",
+      "description": "[KPNE0306261066] 우리귀매미 1981.05.15 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0306261067",
+      "description": "[KPNE0306261067] 우리귀매미 1985.05.26 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0306261068",
+      "description": "[KPNE0306261068] 우리귀매미 2001.05.06 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZMAR0005-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMAR0005&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:00+00:00",
+    "html_sha256": "c48fa8038c1db93f7a8b874ac89549116462b419a82564175bed3996c614901e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

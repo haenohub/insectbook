@@ -1,0 +1,156 @@
+{
+  "id": "ZRDV0027",
+  "name_ko": "금빛어리표범나비",
+  "scientific_name": "Euphydryas davidi (Oberthür, 1881)",
+  "display_name": "금빛어리표범나비",
+  "family_ko": "네발나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "네발나비과",
+      "name_latin": "Nymphalidae"
+    },
+    "subfamily": {
+      "name_ko": "네발나비아과",
+      "name_latin": "Nymphalinae"
+    },
+    "genus": {
+      "name_ko": "금빛어리표범나비속",
+      "name_latin": "Euphydryas"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 네발나비과 (Nymphalidae)\n아과 : 네발나비아과 (Nymphalinae)\n속 : 금빛어리표범나비속 (Euphydryas)",
+  "basic_information": {
+    "곤충명": "금빛어리표범나비",
+    "학명": "Euphydryas davidi (Oberthür, 1881)"
+  },
+  "information": {
+    "general_description": "암컷은 수컷보다 크며 날개 모양이 둥그스름하고 날개 윗면의 검은색 무늬의 발달이 약하다. 뒷날개 아랫면의 외연 가까이에 있는 금빛의 넓은 띠 속에 검은 점이 줄지어 있다. 이 특징은 다른 유사종에서는 볼 수 없는 것이므로 구별점이 되고 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "암컷은 기주식물 잎 뒷면 150∼200여 개의 한꺼번에 산란한다. 애벌레는 기주식물에 거미줄같은 실을 내어 그 속에서 집단으로 지낸다.",
+    "habits": "건조한 석회암 지대의 계곡을 낀 초지나 경사진 언덕의 초지에 서식한다. 암수 모두 주변의 엉겅퀴, 토끼풀, 덤불조팝나무 등의 꽃에서 흡밀하는데 아직 물가에 모이는 습성은 발견되지 않았다.",
+    "season": null,
+    "overwintering": "애벌레",
+    "distribution": "[중국]\n[러시아]",
+    "notes": "[국지적분포종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷은 수컷보다 크며 날개 모양이 둥그스름하고 날개 윗면의 검은색 무늬의 발달이 약하다. 뒷날개 아랫면의 외연 가까이에 있는 금빛의 넓은 띠 속에 검은 점이 줄지어 있다. 이 특징은 다른 유사종에서는 볼 수 없는 것이므로 구별점이 되고 있다."
+    },
+    {
+      "title": "생태",
+      "text": "암컷은 기주식물 잎 뒷면 150∼200여 개의 한꺼번에 산란한다. 애벌레는 기주식물에 거미줄같은 실을 내어 그 속에서 집단으로 지낸다."
+    },
+    {
+      "title": "습성",
+      "text": "건조한 석회암 지대의 계곡을 낀 초지나 경사진 언덕의 초지에 서식한다. 암수 모두 주변의 엉겅퀴, 토끼풀, 덤불조팝나무 등의 꽃에서 흡밀하는데 아직 물가에 모이는 습성은 발견되지 않았다."
+    },
+    {
+      "title": "월동",
+      "text": "애벌레"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[국지적분포종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDV0027-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0027_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0027_3.jpg",
+      "alt": "금빛어리표범나비 1번째 사진 : 금빛어리표범나비 암컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0027_3_th2.jpg",
+      "caption": "금빛어리표범나비 암컷 이미지",
+      "photographed_at": "20130601",
+      "location": "충청북도 제천시 수산면",
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRDV0027-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0027_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0027_2_th.jpg",
+      "alt": "금빛어리표범나비 2번째 사진 : 금빛어리표범나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0027_2_th2.jpg",
+      "caption": "금빛어리표범나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDV0027-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0027_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0027_1_th.jpg",
+      "alt": "금빛어리표범나비 3번째 사진 : 금빛어리표범나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0027_1_th2.jpg",
+      "caption": "금빛어리표범나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDV0027-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0302041173",
+      "description": "[KUIE0302041173] 금빛어리표범나비 1967.06.04 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0302041174",
+      "description": "[KUIE0302041174] 금빛어리표범나비 1971.06.13 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0302041175",
+      "description": "[KUIE0302041175] 금빛어리표범나비 1971.06.06 / / 고려대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "솔체꽃",
+      "scientific_name": "Scabiosa comosa Fisch. ex Roem. & Schult."
+    },
+    {
+      "group": "식물",
+      "name_ko": "인동덩굴",
+      "scientific_name": "Lonicera japonica Thunb."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDV0027.png",
+    "reference_image_id": "ZRDV0027-2",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T15:07:21.943243+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "ac50877abec788bcbc144020b807d08cfc49eaaee2489831d2c444803fcc114c"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDV0027&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:47+00:00",
+    "html_sha256": "71754775acb3cb2bb145ca0552149dc88a104e9f565de888187a77fc33f095e5",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

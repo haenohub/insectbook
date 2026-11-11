@@ -1,0 +1,99 @@
+{
+  "id": "ZGBA0003",
+  "name_ko": "노랑다리집게벌레",
+  "scientific_name": "Euborellia annulata (Fabricius, 1793)",
+  "display_name": "노랑다리집게벌레",
+  "family_ko": "민집게벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "집게벌레목",
+      "name_latin": "Dermaptera"
+    },
+    "family": {
+      "name_ko": "민집게벌레과",
+      "name_latin": "Anisolabididae"
+    },
+    "genus": {
+      "name_ko": "노란다리민집게벌레속",
+      "name_latin": "Euborellia"
+    }
+  },
+  "taxonomy_text": "목 : 집게벌레목 (Dermaptera)\n과 : 민집게벌레과 (Anisolabididae)\n속 : 노란다리민집게벌레속 (Euborellia)",
+  "basic_information": {
+    "곤충명": "노랑다리집게벌레",
+    "학명": "Euborellia annulata (Fabricius, 1793)"
+  },
+  "information": {
+    "general_description": "몸길이 8mm. 몸은 흑갈색이며 머리는 다소 둥글고 소형의 겹눈이 있음. 촉각은 담갈색인데 실 모양임. 앞가슴등은 구형에 가깝고 가운데가슴등은 횡형이고 양쪽에 채찍 모양의 작은 앞날개가 있음. 뒷가슴등은 극히 짧고 작으며 뒷날개가 없음. 배는 길고 집게는 크고 굵으며 암수차가 적음. 다리는 담황색임.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 8mm. 몸은 흑갈색이며 머리는 다소 둥글고 소형의 겹눈이 있음. 촉각은 담갈색인데 실 모양임. 앞가슴등은 구형에 가깝고 가운데가슴등은 횡형이고 양쪽에 채찍 모양의 작은 앞날개가 있음. 뒷가슴등은 극히 짧고 작으며 뒷날개가 없음. 배는 길고 집게는 크고 굵으며 암수차가 적음. 다리는 담황색임."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZGBA0003-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/G2/ZGBA0003_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/G2/ZGBA0003_1_th.jpg",
+      "alt": "노랑다리집게벌레 1번째 사진 : 노랑다리집게벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/G2/ZGBA0003_1_th2.jpg",
+      "caption": "노랑다리집게벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZGBA0003-1",
+  "specimen_examples": [
+    {
+      "id": "ADUE0202041088",
+      "description": "[ADUE0202041088] 노랑다리집게벌레 1999.05.30 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0201101061",
+      "description": "[ADUE0201101061] 노랑다리집게벌레 2001.05.12 / / 안동대학교"
+    },
+    {
+      "id": "YNUE0201102004",
+      "description": "[YNUE0201102004] 노랑다리집게벌레 1994.06.06 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZGBA0003.png",
+    "reference_image_id": "ZGBA0003-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T11:44:39.288581+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "2a7ec642981e3fbba0162730a33f34f8b8dd985dd1b75995e673d9de8d635362"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZGBA0003&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:05+00:00",
+    "html_sha256": "b2f0c10f6e5211d9f95e3f5aa20501b890b6ef9f0081d4ed4923d685e876eeee",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

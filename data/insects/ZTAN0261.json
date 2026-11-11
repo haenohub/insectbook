@@ -1,0 +1,103 @@
+{
+  "id": "ZTAN0261",
+  "name_ko": "배추나비고치벌",
+  "scientific_name": "Cotesia glomerata (Linnaeus, 1758)",
+  "display_name": "배추나비고치벌",
+  "family_ko": "고치벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "고치벌과",
+      "name_latin": "Braconidae"
+    },
+    "subfamily": {
+      "name_ko": "밤나방살이고치벌아과",
+      "name_latin": "Microgastrinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Cotesia"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 고치벌과 (Braconidae)\n아과 : 밤나방살이고치벌아과 (Microgastrinae)\n속 : (Cotesia)",
+  "basic_information": {
+    "곤충명": "배추나비고치벌",
+    "학명": "Cotesia glomerata (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "몸길이는 2-3mm이다. 더듬이는 몸길이와 거의 같고, 끝부분은 약간 좁다. 홑눈을 연결한 가상선의 삼각형의 각은 적다. 가운데가슴등판은 광택이 강하고 , 점각으로 되어있다. 작은 방패판은 볼록하고, 광택이있으며, 점각들이 있다. 배판의아래 부분은 밝은 황색이다. 뒷다리 넓적다리마디는 밝은 황적색이고, 끝부분에 어두운 반점이 있다. 배의 등판과 다리의 밑마디, 적어도 뒷다리 밑마디는 흑색 또는 갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]\n[호주]\n[중국]\n[인도]\n[미국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 2-3mm이다. 더듬이는 몸길이와 거의 같고, 끝부분은 약간 좁다. 홑눈을 연결한 가상선의 삼각형의 각은 적다. 가운데가슴등판은 광택이 강하고 , 점각으로 되어있다. 작은 방패판은 볼록하고, 광택이있으며, 점각들이 있다. 배판의아래 부분은 밝은 황색이다. 뒷다리 넓적다리마디는 밝은 황적색이고, 끝부분에 어두운 반점이 있다. 배의 등판과 다리의 밑마디, 적어도 뒷다리 밑마디는 흑색 또는 갈색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]\n[호주]\n[중국]\n[인도]\n[미국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAN0261-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAN0261_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAN0261_1_th.jpg",
+      "alt": "배추나비고치벌 1번째 사진 : 배추나비고치벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAN0261_1_th2.jpg",
+      "caption": "배추나비고치벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAN0261-1",
+  "specimen_examples": [
+    {
+      "id": "GSNE0408302066",
+      "description": "[GSNE0408302066] 배추나비고치벌 1981.07.16 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0408302067",
+      "description": "[GSNE0408302067] 배추나비고치벌 1982.05.31 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0408302068",
+      "description": "[GSNE0408302068] 배추나비고치벌 1982.05.24 / / 경상대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAN0261-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAN0261&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:30+00:00",
+    "html_sha256": "5db940415d60e49c419717d2c9b6ee69a4141c3792fe67d6a7b125051c973e98",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "id": "ZTAG0089",
+  "name_ko": "네줄벌",
+  "scientific_name": "Amegilla (Amegilla) quadrifasciata (Villers, 1789)",
+  "display_name": "네줄벌",
+  "family_ko": "꿀벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "꿀벌과",
+      "name_latin": "Apidae"
+    },
+    "subfamily": {
+      "name_ko": "꿀벌아과",
+      "name_latin": "Apinae"
+    },
+    "genus": {
+      "name_ko": "청줄벌속",
+      "name_latin": "Amegilla"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 꿀벌과 (Apidae)\n아과 : 꿀벌아과 (Apinae)\n속 : 청줄벌속 (Amegilla)",
+  "basic_information": {
+    "곤충명": "네줄벌",
+    "학명": "Amegilla (Amegilla) quadrifasciata (Villers, 1789)"
+  },
+  "information": {
+    "general_description": "몸길이는 15mm 정도이고, 몸은 흑색이다. 얼굴, 목, 가슴, 옆구리, 뒷가슴의 뒤쪽, 배의 밑 마디의 뒤쪽으로 중앙을 제외하고는 백색이다. 배면에는 흑색 털이 많다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]\n[중국]",
+    "notes": "[감소추세종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 15mm 정도이고, 몸은 흑색이다. 얼굴, 목, 가슴, 옆구리, 뒷가슴의 뒤쪽, 배의 밑 마디의 뒤쪽으로 중앙을 제외하고는 백색이다. 배면에는 흑색 털이 많다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[감소추세종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0089-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0089_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0089_2_th.jpg",
+      "alt": "네줄벌 1번째 사진 : 네줄벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0089_2_th2.jpg",
+      "caption": "네줄벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTAG0089-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0089_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0089_1_th.jpg",
+      "alt": "네줄벌 2번째 사진 : 네줄벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0089_1_th2.jpg",
+      "caption": "네줄벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0089-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0111303053",
+      "description": "[YNUE0111303053] 네줄벌 1997.05.23 / / 영남대학교"
+    },
+    {
+      "id": "KNAE0703020299",
+      "description": "[KNAE0703020299] 네줄벌 1997.09.13 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0911162241",
+      "description": "[KNAE0911162241] 네줄벌 1997.09.13 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTAG0089.png",
+    "reference_image_id": "ZTAG0089-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T11:07:46.043977+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "44d71edfe1d69fd0b68941a80f5b4c8e341bb2dc95e11ef387c6c7ad0de7de65"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0089&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:52+00:00",
+    "html_sha256": "dca5e605de0d3ab6c2b1dc9514f09a066fab83884660b22ac81002a23c7e1802",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

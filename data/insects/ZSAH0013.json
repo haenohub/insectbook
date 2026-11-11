@@ -1,0 +1,111 @@
+{
+  "id": "ZSAH0013",
+  "name_ko": "왕파리매",
+  "scientific_name": "Cophinopoda chinensis (Fabricius, 1794)",
+  "display_name": "왕파리매",
+  "family_ko": "파리매과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "파리매상과",
+      "name_latin": "Asiloidea"
+    },
+    "family": {
+      "name_ko": "파리매과",
+      "name_latin": "Asilidae"
+    },
+    "subfamily": {
+      "name_ko": "왕파리매아과",
+      "name_latin": "Ommatiinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Cophinopoda"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 파리매상과 (Asiloidea)\n과 : 파리매과 (Asilidae)\n아과 : 왕파리매아과 (Ommatiinae)\n속 : (Cophinopoda)",
+  "basic_information": {
+    "곤충명": "왕파리매",
+    "학명": "Cophinopoda chinensis (Fabricius, 1794)"
+  },
+  "information": {
+    "general_description": "몸길이는 20~28 mm가량이다. 몸은 황갈색 또는 적갈색을 띤다. 겹눈 사이의 폭은 머리 폭의 약 1/5정도이며 황갈색 가루로 덮여 있다. 머리의 옆쪽 가장자리의 앞부분에는 연한 황색의 짧은 털이 나 있다. 더듬이는 황색 내지 황적색을 띠는데 제3마디는 흑색인데 앞의 두 마디를 합한 것보다 짧다. 가슴등판은 등황색 또는 황색 가루로 덮여 있으며 중앙의 굵은 세로띠와 2쌍의 옆 세로무늬는 암갈색을 띤다. 또한 뒷가장자리 부근에 다시 3개의 세로무늬가 있다. 날개는 연한 황갈색이고, 다리는 흑색을 띠는데 종아리마디는 황색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "7~8월에 가장 많이 볼 수 있다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[대만]\n[중국]\n[인도]",
+    "notes": "[보통종] 대단히 흔한 종이다.",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 20~28 mm가량이다. 몸은 황갈색 또는 적갈색을 띤다. 겹눈 사이의 폭은 머리 폭의 약 1/5정도이며 황갈색 가루로 덮여 있다. 머리의 옆쪽 가장자리의 앞부분에는 연한 황색의 짧은 털이 나 있다. 더듬이는 황색 내지 황적색을 띠는데 제3마디는 흑색인데 앞의 두 마디를 합한 것보다 짧다. 가슴등판은 등황색 또는 황색 가루로 덮여 있으며 중앙의 굵은 세로띠와 2쌍의 옆 세로무늬는 암갈색을 띤다. 또한 뒷가장자리 부근에 다시 3개의 세로무늬가 있다. 날개는 연한 황갈색이고, 다리는 흑색을 띠는데 종아리마디는 황색이다."
+    },
+    {
+      "title": "생태",
+      "text": "7~8월에 가장 많이 볼 수 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[대만]\n[중국]\n[인도]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종] 대단히 흔한 종이다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSAH0013-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSAH0013_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSAH0013_1_th.jpg",
+      "alt": "왕파리매 1번째 사진 : 왕파리매전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSAH0013_1_th2.jpg",
+      "caption": "왕파리매전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSAH0013-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0307201216",
+      "description": "[KUIE0307201216] 왕파리매 1961.08.05 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307201218",
+      "description": "[KUIE0307201218] 왕파리매 1971.09.12 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307191173",
+      "description": "[KUIE0307191173] 왕파리매 1973.08.08 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZSAH0013-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSAH0013&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:47+00:00",
+    "html_sha256": "50fc62234c6167071e6f920684c112472c7b1630581b0ba4c397f7e613bc8a8f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

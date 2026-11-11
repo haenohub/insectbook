@@ -1,0 +1,115 @@
+{
+  "id": "ZREV0030",
+  "name_ko": "갈색박각시",
+  "scientific_name": "Sphingulus mus Staudinger, 1887",
+  "display_name": "갈색박각시",
+  "family_ko": "박각시과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "누에나방상과",
+      "name_latin": "Bombycoidea"
+    },
+    "family": {
+      "name_ko": "박각시과",
+      "name_latin": "Sphingidae"
+    },
+    "subfamily": {
+      "name_ko": "박각시아과",
+      "name_latin": "Sphinginae"
+    },
+    "genus": {
+      "name_ko": "갈색박각시속",
+      "name_latin": "Sphingulus"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 누에나방상과 (Bombycoidea)\n과 : 박각시과 (Sphingidae)\n아과 : 박각시아과 (Sphinginae)\n속 : 갈색박각시속 (Sphingulus)",
+  "basic_information": {
+    "곤충명": "갈색박각시",
+    "학명": "Sphingulus mus Staudinger, 1887"
+  },
+  "information": {
+    "general_description": "날개편 길이 57～59mm. 이 종은 붉은솔박각시와 유사하나 날개의 폭이 더 넓고, 앞날개에 있는 흑색의 사선들이 뚜렷하지 않다. 앞날개 외연과 아외연선에는 흑갈색 점무늬가 열지어 나타난다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "6월에서 7월에 출현.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 57～59mm. 이 종은 붉은솔박각시와 유사하나 날개의 폭이 더 넓고, 앞날개에 있는 흑색의 사선들이 뚜렷하지 않다. 앞날개 외연과 아외연선에는 흑갈색 점무늬가 열지어 나타난다."
+    },
+    {
+      "title": "생태",
+      "text": "6월에서 7월에 출현."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREV0030-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0030_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0030_1_th.jpg",
+      "alt": "갈색박각시 1번째 사진 : 갈색박각시전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0030_1_th2.jpg",
+      "caption": "갈색박각시전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREV0030-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0202202002",
+      "description": "[UIBE0202202002] 갈색박각시 2001.05.19 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0202202003",
+      "description": "[UIBE0202202003] 갈색박각시 2001.06.03 / / 인천대학교"
+    },
+    {
+      "id": "KUIE0405141005",
+      "description": "[KUIE0405141005] 갈색박각시 1973.07.22 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZREV0030.png",
+    "reference_image_id": "ZREV0030-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T16:43:08.459747+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "ebacd7f7e8bfbd8a6e614ebbabe6bd1f8daf42bd5ab8eceed7dd428481124d7d"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREV0030&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:33+00:00",
+    "html_sha256": "93116a54276bae12a9c86fdf7eb70d84ce79f4c79e6d8bdbbf3cc068cc3dd2e3",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

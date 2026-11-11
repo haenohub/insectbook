@@ -1,0 +1,142 @@
+{
+  "id": "ZLCT0005",
+  "name_ko": "작은주걱참나무노린재",
+  "scientific_name": "Urostylis annulicornis Scott, 1874",
+  "display_name": "작은주걱참나무노린재",
+  "family_ko": "참나무노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "노린재상과",
+      "name_latin": "Pentatomoidea"
+    },
+    "family": {
+      "name_ko": "참나무노린재과",
+      "name_latin": "Urostylididae"
+    },
+    "subfamily": {
+      "name_ko": "참나무노린재아과",
+      "name_latin": "Urostylidinae"
+    },
+    "genus": {
+      "name_ko": "참나무노린재속",
+      "name_latin": "Urostylis"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 노린재상과 (Pentatomoidea)\n과 : 참나무노린재과 (Urostylididae)\n아과 : 참나무노린재아과 (Urostylidinae)\n속 : 참나무노린재속 (Urostylis)",
+  "basic_information": {
+    "곤충명": "작은주걱참나무노린재",
+    "학명": "Urostylis annulicornis Scott, 1874"
+  },
+  "information": {
+    "general_description": "몸길이 : 10-13.5mm\n몸은 황록색 바탕에 초록색 무늬를 가진다. 가을철이 되면 점차 주황색을 띠는 경향이 있다. 등면에는 검은 점각이 산재한다. 더듬이는 길고 4-5마디는 각각 기부절반은 노랑색, 나머지는 흑갈색을 띤다. 앞가슴등판은 사다리꼴이고 뒷가장자리는 앞가장자리의 2.5배 가량 넓다.",
+    "adult": null,
+    "adult_male": "생식기 중앙에 주걱 모양의 돌기가 길게 발달했는데, 말단부가 약간 확장되었다.",
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "참나무류의 잎에서 흔히 발견된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 10-13.5mm\n몸은 황록색 바탕에 초록색 무늬를 가진다. 가을철이 되면 점차 주황색을 띠는 경향이 있다. 등면에는 검은 점각이 산재한다. 더듬이는 길고 4-5마디는 각각 기부절반은 노랑색, 나머지는 흑갈색을 띤다. 앞가슴등판은 사다리꼴이고 뒷가장자리는 앞가장자리의 2.5배 가량 넓다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "생식기 중앙에 주걱 모양의 돌기가 길게 발달했는데, 말단부가 약간 확장되었다."
+    },
+    {
+      "title": "생태",
+      "text": "참나무류의 잎에서 흔히 발견된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLCT0005-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCT0005_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCT0005_2_th.jpg",
+      "alt": "작은주걱참나무노린재 1번째 사진 : 작은주걱참나무노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCT0005_2_th2.jpg",
+      "caption": "작은주걱참나무노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZLCT0005-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCT0005_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCT0005_1_th.jpg",
+      "alt": "작은주걱참나무노린재 2번째 사진 : 작은주걱참나무노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCT0005_1_th2.jpg",
+      "caption": "작은주걱참나무노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLCT0005-1",
+  "specimen_examples": [
+    {
+      "id": "GSNE0408242133",
+      "description": "[GSNE0408242133] 작은주걱참나무노린재 2001.08.17 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0408242135",
+      "description": "[GSNE0408242135] 작은주걱참나무노린재 2001.07.24 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0408242136",
+      "description": "[GSNE0408242136] 작은주걱참나무노린재 2001.08.18 / / 경상대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "갈참나무",
+      "scientific_name": "Quercus aliena Blume"
+    },
+    {
+      "group": "식물",
+      "name_ko": "떡갈나무",
+      "scientific_name": "Quercus dentata Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "상수리나무",
+      "scientific_name": "Quercus acutissima Carruth."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLCT0005-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLCT0005&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:53+00:00",
+    "html_sha256": "d20d426b2170c2f665d77a7c6ad59f2bcf264448504ab3a174180f2fd86af023",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

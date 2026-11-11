@@ -1,0 +1,103 @@
+{
+  "id": "ZTBU0273",
+  "name_ko": "말맵시벌",
+  "scientific_name": "Chasmias major (Uchida, 1926)",
+  "display_name": "말맵시벌",
+  "family_ko": "맵시벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "맵시벌과",
+      "name_latin": "Ichneumonidae"
+    },
+    "subfamily": {
+      "name_ko": "맵시벌아과",
+      "name_latin": "Ichneumoninae"
+    },
+    "genus": {
+      "name_ko": "말맵시벌속",
+      "name_latin": "Chasmias"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 맵시벌과 (Ichneumonidae)\n아과 : 맵시벌아과 (Ichneumoninae)\n속 : 말맵시벌속 (Chasmias)",
+  "basic_information": {
+    "곤충명": "말맵시벌",
+    "학명": "Chasmias major (Uchida, 1926)"
+  },
+  "information": {
+    "general_description": "강대하고 흑색이며 광택이 없고 ♂은 얼굴, 어깨판, 작은방패판, 제6·7배마디등면, 다리의 밑마디와 각 종아리마디, 발목마디 등이 황색이다. 날개는 암황색이다. 성충은 10월에 채집되었다. 성충의 몸의 길이는 29mm 정도 이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "강대하고 흑색이며 광택이 없고 ♂은 얼굴, 어깨판, 작은방패판, 제6·7배마디등면, 다리의 밑마디와 각 종아리마디, 발목마디 등이 황색이다. 날개는 암황색이다. 성충은 10월에 채집되었다. 성충의 몸의 길이는 29mm 정도 이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBU0273-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0273_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0273_1_th.jpg",
+      "alt": "말맵시벌 1번째 사진 : 말맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0273_1_th2.jpg",
+      "caption": "말맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBU0273-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305301037",
+      "description": "[YNUE0305301037] 말맵시벌 1989.05.13 / / 영남대학교"
+    },
+    {
+      "id": "FRIE0204261035",
+      "description": "[FRIE0204261035] 말맵시벌 1984.06.07 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE324384",
+      "description": "[KNAE324384] 말맵시벌 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTBU0273-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBU0273&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:47+00:00",
+    "html_sha256": "8ab2c1e741063bca4744e98127a3cf81c509045a9ed597aeb0b533b6573d303f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

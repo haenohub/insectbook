@@ -1,0 +1,134 @@
+{
+  "id": "ZRDV0054",
+  "name_ko": "구름표범나비",
+  "scientific_name": "Argynnis anadyomene C. & R. Felder, 1862",
+  "display_name": "구름표범나비",
+  "family_ko": "네발나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "네발나비과",
+      "name_latin": "Nymphalidae"
+    },
+    "subfamily": {
+      "name_ko": "독나비아과",
+      "name_latin": "Heliconiinae"
+    },
+    "genus": {
+      "name_ko": "은점표범나비속",
+      "name_latin": "Argynnis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 네발나비과 (Nymphalidae)\n아과 : 독나비아과 (Heliconiinae)\n속 : 은점표범나비속 (Argynnis)",
+  "basic_information": {
+    "곤충명": "구름표범나비",
+    "학명": "Argynnis anadyomene C. & R. Felder, 1862"
+  },
+  "information": {
+    "general_description": "뒷날개 윗면 중앙의 점줄은 이어지지 않고 각 실마다 독립된 점이 되며 아랫면은 주황색을 띤 녹색으로 무늬가 거의 없고 전연에 흰 무늬가 하나 나타나는 점에 의해 다른 표범나비류와 쉽게 구별된다.",
+    "adult": null,
+    "adult_male": "수컷은 제2맥상에 굵은 검정색 줄 성표가 있고 앞날개 끝에 흰점이 없다.",
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "한 여름에 하면(夏眠)하고 8월에 다시 활동하게 되는데 암컷은 이 때 산란한다. 대형 표범나비류 중에서 가장 이른 시기에 출현한다.",
+    "habits": "산지의 숲 가장자리나 넓게 확 트인 초지에 서식한다. 수컷은 오전 중 온도가 높아지면 습지에 잘 모이며, 엉겅퀴나 개망초 등에서도 흡밀하는 일이 많다. 간혹 산지의 소로 위에서 일정한 장소를 맴도는 모습을 볼 수 있다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "뒷날개 윗면 중앙의 점줄은 이어지지 않고 각 실마다 독립된 점이 되며 아랫면은 주황색을 띤 녹색으로 무늬가 거의 없고 전연에 흰 무늬가 하나 나타나는 점에 의해 다른 표범나비류와 쉽게 구별된다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "수컷은 제2맥상에 굵은 검정색 줄 성표가 있고 앞날개 끝에 흰점이 없다."
+    },
+    {
+      "title": "생태",
+      "text": "한 여름에 하면(夏眠)하고 8월에 다시 활동하게 되는데 암컷은 이 때 산란한다. 대형 표범나비류 중에서 가장 이른 시기에 출현한다."
+    },
+    {
+      "title": "습성",
+      "text": "산지의 숲 가장자리나 넓게 확 트인 초지에 서식한다. 수컷은 오전 중 온도가 높아지면 습지에 잘 모이며, 엉겅퀴나 개망초 등에서도 흡밀하는 일이 많다. 간혹 산지의 소로 위에서 일정한 장소를 맴도는 모습을 볼 수 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDV0054-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0054_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0054_2_th.jpg",
+      "alt": "구름표범나비 1번째 사진 : 구름표범나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0054_2_th2.jpg",
+      "caption": "구름표범나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDV0054-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0054_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0054_1_th.jpg",
+      "alt": "구름표범나비 2번째 사진 : 구름표범나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0054_1_th2.jpg",
+      "caption": "구름표범나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDV0054-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0305301038",
+      "description": "[FRIE0305301038] 구름표범나비 1989.05.28 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0305301039",
+      "description": "[FRIE0305301039] 구름표범나비 1983.05.27 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0305301037",
+      "description": "[FRIE0305301037] 구름표범나비 1983.05.25 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDV0054.png",
+    "reference_image_id": "ZRDV0054-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T13:42:48.310490+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "f9de822d08217144b9ffdb34c1d4ea2f2a789fe25e200b7cc1e2895fd212909f"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDV0054&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:19+00:00",
+    "html_sha256": "cfd32cfe9c99678168f8ce8067835604af2397663e6d3cf75c6ab40b5adb2722",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

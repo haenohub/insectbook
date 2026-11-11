@@ -1,0 +1,114 @@
+{
+  "id": "ZGBF0009",
+  "name_ko": "고마로브집게벌레",
+  "scientific_name": "Timomenus komarowi (Semenov, 1901)",
+  "display_name": "고마로브집게벌레",
+  "family_ko": "집게벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "집게벌레목",
+      "name_latin": "Dermaptera"
+    },
+    "family": {
+      "name_ko": "집게벌레과",
+      "name_latin": "Forficulidae"
+    },
+    "genus": {
+      "name_ko": "세장집게벌레속",
+      "name_latin": "Timomenus"
+    }
+  },
+  "taxonomy_text": "목 : 집게벌레목 (Dermaptera)\n과 : 집게벌레과 (Forficulidae)\n속 : 세장집게벌레속 (Timomenus)",
+  "basic_information": {
+    "곤충명": "고마로브집게벌레",
+    "학명": "Timomenus komarowi (Semenov, 1901)"
+  },
+  "information": {
+    "general_description": "몸길이 6mm. 몸은 흑갈색이며 촉각, 앞가슴등의 양쪽 뒷날개 노출부, 종아리마디와 발목마디는 황갈색임. 앞가슴등의 중앙에 반원형의 흠이 있고 뒷부분에는 얕은 가로주름이 있음. 수컷 집게는 말단이 활처럼 구부러졌고 그것의 기부와 중앙에는 한 개의 이가 있으며 앞의 것은 비스듬히 위로 향했음. 암컷의 집게는 이가 없으며 곧음.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "보통 습한 곳이나 풀숲에서 자주 관찰된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 6mm. 몸은 흑갈색이며 촉각, 앞가슴등의 양쪽 뒷날개 노출부, 종아리마디와 발목마디는 황갈색임. 앞가슴등의 중앙에 반원형의 흠이 있고 뒷부분에는 얕은 가로주름이 있음. 수컷 집게는 말단이 활처럼 구부러졌고 그것의 기부와 중앙에는 한 개의 이가 있으며 앞의 것은 비스듬히 위로 향했음. 암컷의 집게는 이가 없으며 곧음."
+    },
+    {
+      "title": "생태",
+      "text": "보통 습한 곳이나 풀숲에서 자주 관찰된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZGBF0009-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/G2/ZGBF0009_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/G2/ZGBF0009_2_th.jpg",
+      "alt": "고마로브집게벌레 1번째 사진 : 고마로브집게벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/G2/ZGBF0009_2_th2.jpg",
+      "caption": "고마로브집게벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZGBF0009-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/G2/ZGBF0009_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/G2/ZGBF0009_1_th.jpg",
+      "alt": "고마로브집게벌레 2번째 사진 : 고마로브집게벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/G2/ZGBF0009_1_th2.jpg",
+      "caption": "고마로브집게벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZGBF0009-1",
+  "specimen_examples": [
+    {
+      "id": "CBNE0301231074",
+      "description": "[CBNE0301231074] 고마로브집게벌레 2002.05.13 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0301231075",
+      "description": "[CBNE0301231075] 고마로브집게벌레 2002.07.08 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0301231076",
+      "description": "[CBNE0301231076] 고마로브집게벌레 2002.07.02 / / 충북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZGBF0009.png",
+    "reference_image_id": "ZGBF0009-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T12:37:36.735339+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "ea46dba33bdddffc1f3b464a991416b13d04b07784b432a32891fc815b275c8d"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZGBF0009&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:52+00:00",
+    "html_sha256": "4fae68e8c9f43a5f24fe972f189bbaa7ce390f49011307575e6ee88b79add757",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

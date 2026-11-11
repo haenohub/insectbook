@@ -1,0 +1,133 @@
+{
+  "id": "ZOCF0171",
+  "name_ko": "밤바구미",
+  "scientific_name": "Curculio sikkimensis (Heller, 1927)",
+  "display_name": "밤바구미",
+  "family_ko": "바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "바구미과",
+      "name_latin": "Curculionidae"
+    },
+    "subfamily": {
+      "name_ko": "밤바구미아과",
+      "name_latin": "Curculioninae"
+    },
+    "genus": {
+      "name_ko": "밤바구미속",
+      "name_latin": "Curculio"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 바구미과 (Curculionidae)\n아과 : 밤바구미아과 (Curculioninae)\n속 : 밤바구미속 (Curculio)",
+  "basic_information": {
+    "곤충명": "밤바구미",
+    "학명": "Curculio sikkimensis (Heller, 1927)"
+  },
+  "information": {
+    "general_description": "성충의 몸길이는 6~10 mm이며 몸은 진한 갈색 바탕에 회황색의 인모가 밀생되어 있다. 날개에는 크고 작은 담갈색 무늬가 있고 중앙에 회황색의 가로 띠 무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": "유충의 몸길이는 약 12 mm이고, 머리는 갈색이며 몸통은 유백색이다.",
+    "egg": "알의 장경(長徑)은 1.5 mm이고 타원형이며 유백색이다.",
+    "pupa": null,
+    "ecology": "9월 하순 이후부터 피해 과(果)에서 탈출한 노숙 유충이 땅 속에서 흙집을 짓고 월동한다. 이듬해 7월 이후부터 번데기가 되며 성충의 우화 최성기는 8월 중순~9월 중순이고 수명은 15~23일이다. 길이 5 mm 가량 되는 긴 주둥이로 종피까지 구멍을 뚫고 산란관을 꽂아 과육과 종피 사이에 1~2개의 알을 낳는데 보통 수확하기 20여 일 전부터 산란한다. 난 기간은 12일 내외이고 알에서 부화한 유충은 과육 표면을 불규칙하게 식해하다가 점차 자라면서 과육 속으로 먹어 들어간다. 노숙 유충은 9월 하순부터 종피를 뚫고 나와 땅 속으로 들어가 흙집을 짓고 월동한다.",
+    "habits": "복숭아명나방과 함께 밤나무의 중요한 종실 해충이다. 종피와 과육 사이에 산란된 알에서 부화한 유충이 과육을 먹고 자라는데 밤나방, 복숭아명나방과는 다르게 똥을 밖으로 배출하지 않으므로, 밤을 수확해 밤을 쪼개 보거나 또는 유충이 탈출하기 전까지는 피해를 식별하기가 어렵다.",
+    "season": null,
+    "overwintering": "노숙 유충이 땅 속에서 흙집을 짓고 월동한다.",
+    "distribution": "[중국]\n[일본]\n[러시아]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충의 몸길이는 6~10 mm이며 몸은 진한 갈색 바탕에 회황색의 인모가 밀생되어 있다. 날개에는 크고 작은 담갈색 무늬가 있고 중앙에 회황색의 가로 띠 무늬가 있다."
+    },
+    {
+      "title": "유충",
+      "text": "유충의 몸길이는 약 12 mm이고, 머리는 갈색이며 몸통은 유백색이다."
+    },
+    {
+      "title": "생태",
+      "text": "9월 하순 이후부터 피해 과(果)에서 탈출한 노숙 유충이 땅 속에서 흙집을 짓고 월동한다. 이듬해 7월 이후부터 번데기가 되며 성충의 우화 최성기는 8월 중순~9월 중순이고 수명은 15~23일이다. 길이 5 mm 가량 되는 긴 주둥이로 종피까지 구멍을 뚫고 산란관을 꽂아 과육과 종피 사이에 1~2개의 알을 낳는데 보통 수확하기 20여 일 전부터 산란한다. 난 기간은 12일 내외이고 알에서 부화한 유충은 과육 표면을 불규칙하게 식해하다가 점차 자라면서 과육 속으로 먹어 들어간다. 노숙 유충은 9월 하순부터 종피를 뚫고 나와 땅 속으로 들어가 흙집을 짓고 월동한다."
+    },
+    {
+      "title": "습성",
+      "text": "복숭아명나방과 함께 밤나무의 중요한 종실 해충이다. 종피와 과육 사이에 산란된 알에서 부화한 유충이 과육을 먹고 자라는데 밤나방, 복숭아명나방과는 다르게 똥을 밖으로 배출하지 않으므로, 밤을 수확해 밤을 쪼개 보거나 또는 유충이 탈출하기 전까지는 피해를 식별하기가 어렵다."
+    },
+    {
+      "title": "월동",
+      "text": "노숙 유충이 땅 속에서 흙집을 짓고 월동한다."
+    },
+    {
+      "title": "알",
+      "text": "알의 장경(長徑)은 1.5 mm이고 타원형이며 유백색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCF0171-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0171_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0171_1_th.jpg",
+      "alt": "밤바구미 1번째 사진 : 밤바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0171_1_th2.jpg",
+      "caption": "밤바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCF0171-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0408111007",
+      "description": "[KNAE0408111007] 밤바구미 2001.07.20 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303132002",
+      "description": "[KNAE0303132002] 밤바구미 1990.09.05 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303132003",
+      "description": "[KNAE0303132003] 밤바구미 1990.09.29 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "밤나무",
+      "scientific_name": "Castanea crenata Siebold & Zucc."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOCF0171-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCF0171&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:14+00:00",
+    "html_sha256": "0a24a9dee98522de5bd2eae68c5a30e21ff1109e9e82bfdb3d7910959c9a9ea7",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

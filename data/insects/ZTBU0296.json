@@ -1,0 +1,107 @@
+{
+  "id": "ZTBU0296",
+  "name_ko": "나방살이맵시벌",
+  "scientific_name": "Eutanyacra picta (Schrank, 1776)",
+  "display_name": "나방살이맵시벌",
+  "family_ko": "맵시벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "맵시벌과",
+      "name_latin": "Ichneumonidae"
+    },
+    "subfamily": {
+      "name_ko": "맵시벌아과",
+      "name_latin": "Ichneumoninae"
+    },
+    "genus": {
+      "name_ko": "나방살이맵시벌속",
+      "name_latin": "Eutanyacra"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 맵시벌과 (Ichneumonidae)\n아과 : 맵시벌아과 (Ichneumoninae)\n속 : 나방살이맵시벌속 (Eutanyacra)",
+  "basic_information": {
+    "곤충명": "나방살이맵시벌",
+    "학명": "Eutanyacra picta (Schrank, 1776)"
+  },
+  "information": {
+    "general_description": "♀의 머리와 가슴은 흑색이나 작은방패판은 황색이고 제2배마디 전부와 제3배마디의 기부를 제외한 부분은 황적색이다. 제3배마디 기부와 제1배마디는 흑색이고 제4배마디 이하도 흑색인데 각 마디의 뒷슭에도 황백색 띠가 있다. 더듬이도 기부 1/3은 황적색이고 자루마디와 끝 2/3는 갈흑색이다. 날개는 약간 흐리고 다리는 대부분 황적색이나 각 밑마디, 도래마디와 종아리마디의 끝 등은 흑색이다. 몸 전체에 가는 점각이 배게 있고 전중획은 거의 정방형이다. 14mm 정도",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[스웨덴]\n[아프가니스탄]\n[오스트리아]\n[러시아]\n[폴란드]\n[몽골]\n[몰타]\n[몰도바]\n[일본]\n[이탈리아]\n[이란]\n[헝가리]\n[프랑스]\n[스페인]\n[독일]\n[중국]\n[벨기에]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "♀의 머리와 가슴은 흑색이나 작은방패판은 황색이고 제2배마디 전부와 제3배마디의 기부를 제외한 부분은 황적색이다. 제3배마디 기부와 제1배마디는 흑색이고 제4배마디 이하도 흑색인데 각 마디의 뒷슭에도 황백색 띠가 있다. 더듬이도 기부 1/3은 황적색이고 자루마디와 끝 2/3는 갈흑색이다. 날개는 약간 흐리고 다리는 대부분 황적색이나 각 밑마디, 도래마디와 종아리마디의 끝 등은 흑색이다. 몸 전체에 가는 점각이 배게 있고 전중획은 거의 정방형이다. 14mm 정도"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[스웨덴]\n[아프가니스탄]\n[오스트리아]\n[러시아]\n[폴란드]\n[몽골]\n[몰타]\n[몰도바]\n[일본]\n[이탈리아]\n[이란]\n[헝가리]\n[프랑스]\n[스페인]\n[독일]\n[중국]\n[벨기에]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBU0296-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0296_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0296_1_th.jpg",
+      "alt": "나방살이맵시벌 1번째 사진 : 나방살이맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0296_1_th2.jpg",
+      "caption": "나방살이맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBU0296-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305261150",
+      "description": "[YNUE0305261150] 나방살이맵시벌 1968.06.05 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305261089",
+      "description": "[YNUE0305261089] 나방살이맵시벌 1981.06.13 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305261091",
+      "description": "[YNUE0305261091] 나방살이맵시벌 1988.07.30 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTBU0296.png",
+    "reference_image_id": "ZTBU0296-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T15:37:15.001743+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "5f9772592187f166aa8e332a60c70dda9f531742a86192379ea6ec48b4d6dc21"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBU0296&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:10+00:00",
+    "html_sha256": "04cb7bd156ac2b9f7cea0cd4ad8525058020b9c2eadf2a2de2e11d2e5a861108",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": "ZOBP0003",
+  "name_ko": "긴다리호랑꽃무지",
+  "scientific_name": "Gnorimus subopacus Motschulsky, 1860",
+  "display_name": "긴다리호랑꽃무지",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "꽃무지아과",
+      "name_latin": "Cetoniinae"
+    },
+    "genus": {
+      "name_ko": "긴다리호랑꽃무지속",
+      "name_latin": "Gnorimus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 꽃무지아과 (Cetoniinae)\n속 : 긴다리호랑꽃무지속 (Gnorimus)",
+  "basic_information": {
+    "곤충명": "긴다리호랑꽃무지",
+    "학명": "Gnorimus subopacus Motschulsky, 1860"
+  },
+  "information": {
+    "general_description": "중국, 동부 시베리아, 일본에 분포하며, 녹색 내지 구릿빛 갈색으로 광택은 없으며, 앞가슴등판과 딱지날개에 작고 불규칙한 황백색무늬가 흩어져 있따. 수컷은 중경절 기부가 강하게 굽었고, 딱지날개에는 미약한 2개의 세로융기선이 있으며, 복부는 홀쭉한데 복판의 중앙은 세로로 함몰하였다. 암컷은 미절판 끝의 가운데가 크게 파였다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중국, 동부 시베리아, 일본에 분포하며, 녹색 내지 구릿빛 갈색으로 광택은 없으며, 앞가슴등판과 딱지날개에 작고 불규칙한 황백색무늬가 흩어져 있따. 수컷은 중경절 기부가 강하게 굽었고, 딱지날개에는 미약한 2개의 세로융기선이 있으며, 복부는 홀쭉한데 복판의 중앙은 세로로 함몰하였다. 암컷은 미절판 끝의 가운데가 크게 파였다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBP0003-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBP0003_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBP0003_2_th.jpg",
+      "alt": "긴다리호랑꽃무지 1번째 사진 : 긴다리호랑꽃무지전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBP0003_2_th2.jpg",
+      "caption": "긴다리호랑꽃무지전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBP0003-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBP0003_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBP0003_1_th.jpg",
+      "alt": "긴다리호랑꽃무지 2번째 사진 : 긴다리호랑꽃무지전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBP0003_1_th2.jpg",
+      "caption": "긴다리호랑꽃무지전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBP0003-1",
+  "specimen_examples": [
+    {
+      "id": "KNUE0202182020",
+      "description": "[KNUE0202182020] 긴다리호랑꽃무지 1997.05.05 / / 강원대학교"
+    },
+    {
+      "id": "KNUE0202182021",
+      "description": "[KNUE0202182021] 긴다리호랑꽃무지 1997.05.18 / / 강원대학교"
+    },
+    {
+      "id": "KNUE0202182001",
+      "description": "[KNUE0202182001] 긴다리호랑꽃무지 1992.06.12 / / 강원대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBP0003.png",
+    "reference_image_id": "ZOBP0003-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T08:59:39.284921+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "f308c086a2ef15140664f6ae8ec57f60a0252f04b374c0ec26d3a4b67bea39c9"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBP0003&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:58+00:00",
+    "html_sha256": "ccfd36c41850335dfc3be06d44e56eb04e96b56df9ab28b19fe17ccda8530a27",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

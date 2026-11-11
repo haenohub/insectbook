@@ -1,0 +1,111 @@
+{
+  "id": "ZOBL0295",
+  "name_ko": "노란팔점긴하늘소",
+  "scientific_name": "Saperda (Lopezcolonia) tetrastigma Bates, 1879",
+  "display_name": "노란팔점긴하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "목하늘소아과",
+      "name_latin": "Lamiinae"
+    },
+    "genus": {
+      "name_ko": "긴하늘소속",
+      "name_latin": "Saperda"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 목하늘소아과 (Lamiinae)\n속 : 긴하늘소속 (Saperda)",
+  "basic_information": {
+    "곤충명": "노란팔점긴하늘소",
+    "학명": "Saperda (Lopezcolonia) tetrastigma Bates, 1879"
+  },
+  "information": {
+    "general_description": "몸의 길이는 11~15MM이고, 다리와 촉각은 검은색이고 몸은 암녹색이고 둥근검은반점이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의 길이는 11~15MM이고, 다리와 촉각은 검은색이고 몸은 암녹색이고 둥근검은반점이 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0295-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0295_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0295_1_th.jpg",
+      "alt": "노란팔점긴하늘소 1번째 사진 : 노란팔점긴하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0295_1_th2.jpg",
+      "caption": "노란팔점긴하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0295-1",
+  "specimen_examples": [
+    {
+      "id": "CBNE0204261002",
+      "description": "[CBNE0204261002] 노란팔점긴하늘소 2001.06.19 / / 충북대학교"
+    },
+    {
+      "id": "YNUE0201072042",
+      "description": "[YNUE0201072042] 노란팔점긴하늘소 1991.04.09 / / 영남대학교"
+    },
+    {
+      "id": "KNAE0804100019",
+      "description": "[KNAE0804100019] 노란팔점긴하늘소 2006.06.16 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBL0295.png",
+    "reference_image_id": "ZOBL0295-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T11:22:12.364652+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "2b4c116ab31b4559478037f334704251a1e7526a8d55b43b8c1d7b0cd832f9cd"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0295&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:58+00:00",
+    "html_sha256": "7c02fa729888dc8d01ad643dcb23d5eb82ea41c17d0c08f17be85db572d96515",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

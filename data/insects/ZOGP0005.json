@@ -1,0 +1,114 @@
+{
+  "id": "ZOGP0005",
+  "name_ko": "송장벌레",
+  "scientific_name": "Nicrophorus japonicus Harold, 1877",
+  "display_name": "송장벌레",
+  "family_ko": "송장벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "반날개상과",
+      "name_latin": "Staphylinoidea"
+    },
+    "family": {
+      "name_ko": "송장벌레과",
+      "name_latin": "Silphidae"
+    },
+    "subfamily": {
+      "name_ko": "검정송장벌레아과",
+      "name_latin": "Nicrophorinae"
+    },
+    "genus": {
+      "name_ko": "송장벌레속",
+      "name_latin": "Nicrophorus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 반날개상과 (Staphylinoidea)\n과 : 송장벌레과 (Silphidae)\n아과 : 검정송장벌레아과 (Nicrophorinae)\n속 : 송장벌레속 (Nicrophorus)",
+  "basic_information": {
+    "곤충명": "송장벌레",
+    "학명": "Nicrophorus japonicus Harold, 1877"
+  },
+  "information": {
+    "general_description": "한국, 일본, 대만, 중국, 몽고에 분포하며, 체장은 22mm 내외이다. 머리는 흑색이고 볼록하고 아주 가는 점각을 조포하였다. 머리꼭대기는 적황색이고 그 양쪽에 각각 1개의 종구가 있다. 촉각은 흑색이고 말단의 세마디는 적황색이고 양 수염은 적갈색이다. 딱지날개는 흑색이고 날개밑과 날개끝 근처에 네개의 물결 모양의 얼룩누늬가 있고 앞가두리 하절부는 황적색이고 날개끝은 절단되고 배끝의 세마디는 노출하였다. 몸아랫면의 가슴부에는 황색의 긴 털이 났다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 대만, 중국, 몽고에 분포하며, 체장은 22mm 내외이다. 머리는 흑색이고 볼록하고 아주 가는 점각을 조포하였다. 머리꼭대기는 적황색이고 그 양쪽에 각각 1개의 종구가 있다. 촉각은 흑색이고 말단의 세마디는 적황색이고 양 수염은 적갈색이다. 딱지날개는 흑색이고 날개밑과 날개끝 근처에 네개의 물결 모양의 얼룩누늬가 있고 앞가두리 하절부는 황적색이고 날개끝은 절단되고 배끝의 세마디는 노출하였다. 몸아랫면의 가슴부에는 황색의 긴 털이 났다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGP0005-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0005_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0005_2_th.jpg",
+      "alt": "송장벌레 1번째 사진 : 송장벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0005_2_th2.jpg",
+      "caption": "송장벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOGP0005-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0005_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0005_1_th.jpg",
+      "alt": "송장벌레 2번째 사진 : 송장벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0005_1_th2.jpg",
+      "caption": "송장벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGP0005-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0302201109",
+      "description": "[KPNE0302201109] 송장벌레 1976.08.20 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0302201110",
+      "description": "[KPNE0302201110] 송장벌레 1973.08.18 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0302201108",
+      "description": "[KPNE0302201108] 송장벌레 1969.05.01 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGP0005-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGP0005&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:26+00:00",
+    "html_sha256": "5af4eaaadce54381ab9bd6e8a388daf7ddbe93a47408298cdcd85063b96f55a1",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

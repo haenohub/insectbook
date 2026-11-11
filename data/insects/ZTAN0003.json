@@ -1,0 +1,118 @@
+{
+  "id": "ZTAN0003",
+  "name_ko": "먹고치벌",
+  "scientific_name": "Cremnops desertor (Linnaeus, 1758)",
+  "display_name": "먹고치벌",
+  "family_ko": "고치벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "고치벌과",
+      "name_latin": "Braconidae"
+    },
+    "subfamily": {
+      "name_ko": "줄고치벌아과",
+      "name_latin": "Agathidinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Cremnops"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 고치벌과 (Braconidae)\n아과 : 줄고치벌아과 (Agathidinae)\n속 : (Cremnops)",
+  "basic_information": {
+    "곤충명": "먹고치벌",
+    "학명": "Cremnops desertor (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "몸길이는 4.7-9.3mm. 더듬이는 37-43마디이다. 몸은 대무분 황적색이고, 뒷다리 발목마디는 갈색이다. 더듬이 정수리, 뒷다리 종아리마디의 끝 부분은 흑색을 띤다. 앞날개는 대개 암색의 띠가 있다. 연문은 부분적 또는 전체적으로 황색을 띤다. 뒷다리 도래마디는 세로로 된 융기선이 없다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "나비목 명나방과의 종들에 한정되어 기생하는 것으로 추정됨",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]\n[네덜란드]\n[인도]\n[러시아]\n[캐나다]\n[미얀마]\n[미국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 4.7-9.3mm. 더듬이는 37-43마디이다. 몸은 대무분 황적색이고, 뒷다리 발목마디는 갈색이다. 더듬이 정수리, 뒷다리 종아리마디의 끝 부분은 흑색을 띤다. 앞날개는 대개 암색의 띠가 있다. 연문은 부분적 또는 전체적으로 황색을 띤다. 뒷다리 도래마디는 세로로 된 융기선이 없다."
+    },
+    {
+      "title": "습성",
+      "text": "나비목 명나방과의 종들에 한정되어 기생하는 것으로 추정됨"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]\n[네덜란드]\n[인도]\n[러시아]\n[캐나다]\n[미얀마]\n[미국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAN0003-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAN0003_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAN0003_2_th.jpg",
+      "alt": "먹고치벌 1번째 사진 : 먹고치벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAN0003_2_th2.jpg",
+      "caption": "먹고치벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTAN0003-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAN0003_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAN0003_1_th.jpg",
+      "alt": "먹고치벌 2번째 사진 : 먹고치벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAN0003_1_th2.jpg",
+      "caption": "먹고치벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAN0003-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0111221042",
+      "description": "[YNUE0111221042] 먹고치벌 1998.09.06 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0111221043",
+      "description": "[YNUE0111221043] 먹고치벌 1998.10.15 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0111221044",
+      "description": "[YNUE0111221044] 먹고치벌 1998.09.15 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAN0003-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAN0003&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:58+00:00",
+    "html_sha256": "9caaf378b951204e2773b59284f9f8e33c4140a85b8cacdf4fa62805c616ad86",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

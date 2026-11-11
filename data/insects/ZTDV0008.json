@@ -1,0 +1,126 @@
+{
+  "id": "ZTDV0008",
+  "name_ko": "털보말벌",
+  "scientific_name": "Vespa simillima simillima Smith, 1868",
+  "display_name": "털보말벌",
+  "family_ko": "말벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "말벌상과",
+      "name_latin": "Vespoidea"
+    },
+    "family": {
+      "name_ko": "말벌과",
+      "name_latin": "Vespidae"
+    },
+    "subfamily": {
+      "name_ko": "말벌아과",
+      "name_latin": "Vespinae"
+    },
+    "genus": {
+      "name_ko": "말벌속",
+      "name_latin": "Vespa"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 말벌상과 (Vespoidea)\n과 : 말벌과 (Vespidae)\n아과 : 말벌아과 (Vespinae)\n속 : 말벌속 (Vespa)",
+  "basic_information": {
+    "곤충명": "털보말벌",
+    "학명": "Vespa simillima simillima Smith, 1868"
+  },
+  "information": {
+    "general_description": "말벌속의 일반특징에 추가하여, 머리는 이마방패를 제외하고 검은색의 털을 가지고 있다. 두순은 작고 성근 점각을 가지고 있으며, 정단부 함입은 얕으며 치상돌기는 반원형이다. 전흉배판 측면 하방에는 주름이 없다. 견판전용골선은 불완전하다. 가슴은 검은색과 황색의 털이 섞여 있다. 등면에서 보아 제1복절배판의 전연은 직선상이거나 약간 오목하다. 이마방패의 점각과 불완전한 견판용골선 및 무늬 양상에 의하여 다른 종들과 구분된다.",
+    "adult": null,
+    "adult_male": "암컷과 유사하며, 말벌상과에서 보여지는 성적이형이 나타난다(배마디는 7마디이며, 촉각은 13마디이다).",
+    "adult_female": "다음의 부분 및 무늬들이 노란색, 오렌지색 혹은 황적색이다. 단안역 주변부의 넓은 부위를 제외하고 머리 전면은 오렌지색이다. 촉각 1-3절은 적갈색이며, 나머지 마디에서는 하면이 적갈색이다. 견판의 가두리는 갈색이다. 중흉측판은 삼각형의 노란색 무늬를 가진다. 전흉배판 등면부는 오렌지색이다. 소순판은 한 쌍의 오렌지색 무늬를 가진다. 후흉배판의 전연은 오렌지색이다. 퇴절의 일부분을 제외한 모든 다리는 오렌지색이다. 모든 복절배판은 갈색조이며, 후연에는 오렌지색의 띠무늬가 있으며, 제6복절배판은 전면이 오렌지색이다",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": "사회성벌로서, 지난해 가을부터 다음 해 가을까지 군체를 형성하는 1년생이다."
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "말벌속의 일반특징에 추가하여, 머리는 이마방패를 제외하고 검은색의 털을 가지고 있다. 두순은 작고 성근 점각을 가지고 있으며, 정단부 함입은 얕으며 치상돌기는 반원형이다. 전흉배판 측면 하방에는 주름이 없다. 견판전용골선은 불완전하다. 가슴은 검은색과 황색의 털이 섞여 있다. 등면에서 보아 제1복절배판의 전연은 직선상이거나 약간 오목하다. 이마방패의 점각과 불완전한 견판용골선 및 무늬 양상에 의하여 다른 종들과 구분된다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "암컷과 유사하며, 말벌상과에서 보여지는 성적이형이 나타난다(배마디는 7마디이며, 촉각은 13마디이다)."
+    },
+    {
+      "title": "성충(암)",
+      "text": "다음의 부분 및 무늬들이 노란색, 오렌지색 혹은 황적색이다. 단안역 주변부의 넓은 부위를 제외하고 머리 전면은 오렌지색이다. 촉각 1-3절은 적갈색이며, 나머지 마디에서는 하면이 적갈색이다. 견판의 가두리는 갈색이다. 중흉측판은 삼각형의 노란색 무늬를 가진다. 전흉배판 등면부는 오렌지색이다. 소순판은 한 쌍의 오렌지색 무늬를 가진다. 후흉배판의 전연은 오렌지색이다. 퇴절의 일부분을 제외한 모든 다리는 오렌지색이다. 모든 복절배판은 갈색조이며, 후연에는 오렌지색의 띠무늬가 있으며, 제6복절배판은 전면이 오렌지색이다"
+    },
+    {
+      "title": "참고사항",
+      "text": "사회성벌로서, 지난해 가을부터 다음 해 가을까지 군체를 형성하는 1년생이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDV0008-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDV0008_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDV0008_2_th.jpg",
+      "alt": "털보말벌 1번째 사진 : 털보말벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDV0008_2_th2.jpg",
+      "caption": "털보말벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTDV0008-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDV0008_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDV0008_1_th.jpg",
+      "alt": "털보말벌 2번째 사진 : 털보말벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDV0008_1_th2.jpg",
+      "caption": "털보말벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDV0008-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408191053",
+      "description": "[MPME0408191053] 털보말벌 2003.10.03 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408191052",
+      "description": "[MPME0408191052] 털보말벌 2003.10.03 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408161103",
+      "description": "[MPME0408161103] 털보말벌 2003.10.03 / / 목포자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDV0008-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDV0008&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:17+00:00",
+    "html_sha256": "997ce490fd4dd73235cf6de9d234da3b78f7c92b6f52fbb54970cdb2d2387a3d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "id": "ZOAM0039",
+  "name_ko": "민무늬애기소바구미",
+  "scientific_name": "Uncifer difficilis (Sharp, 1891)",
+  "display_name": "민무늬애기소바구미",
+  "family_ko": "소바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "소바구미과",
+      "name_latin": "Anthribidae"
+    },
+    "subfamily": {
+      "name_ko": "소바구미아과",
+      "name_latin": "Anthribinae"
+    },
+    "genus": {
+      "name_ko": "애기소바구미속",
+      "name_latin": "Uncifer"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 소바구미과 (Anthribidae)\n아과 : 소바구미아과 (Anthribinae)\n속 : 애기소바구미속 (Uncifer)",
+  "basic_information": {
+    "곤충명": "민무늬애기소바구미",
+    "학명": "Uncifer difficilis (Sharp, 1891)"
+  },
+  "information": {
+    "general_description": "몸길이는 2.0~2.4mm이며, 몸은 흑색이다. 전흉배판의 양측면과 소순판 부위에 흰색의 털무늬를 가진다. 전흉배판의 후융기선은 모서리 직전에서는 부드럽게 곡선을 이룬다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 2.0~2.4mm이며, 몸은 흑색이다. 전흉배판의 양측면과 소순판 부위에 흰색의 털무늬를 가진다. 전흉배판의 후융기선은 모서리 직전에서는 부드럽게 곡선을 이룬다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAM0039-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0039_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0039_2_th.jpg",
+      "alt": "민무늬애기소바구미 1번째 사진 : 민무늬애기소바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0039_2_th2.jpg",
+      "caption": "민무늬애기소바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOAM0039-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0039_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0039_1_th.jpg",
+      "alt": "민무늬애기소바구미 2번째 사진 : 민무늬애기소바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0039_1_th2.jpg",
+      "caption": "민무늬애기소바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAM0039-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0203071034",
+      "description": "[SNUE0203071034] 민무늬애기소바구미 1985.06.18 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0203071035",
+      "description": "[SNUE0203071035] 민무늬애기소바구미 1995.06.23 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAM0039-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAM0039&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:52+00:00",
+    "html_sha256": "a62ad828a1b09ae8f92f4b3e14167acfe0c354398d6bdc631592e4a43d88c124",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

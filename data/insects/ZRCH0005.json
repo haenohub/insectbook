@@ -1,0 +1,107 @@
+{
+  "id": "ZRCH0005",
+  "name_ko": "괴불잎말이뿔나방",
+  "scientific_name": "Anarsia bipinnata (Meyrick, 1932)",
+  "display_name": "괴불잎말이뿔나방",
+  "family_ko": "뿔나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "뿔나방상과",
+      "name_latin": "Gelechioidea"
+    },
+    "family": {
+      "name_ko": "뿔나방과",
+      "name_latin": "Gelechiidae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Dichomeridinae"
+    },
+    "genus": {
+      "name_ko": "괴불잎말이뿔나방속",
+      "name_latin": "Anarsia"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 뿔나방상과 (Gelechioidea)\n과 : 뿔나방과 (Gelechiidae)\n아과 : (Dichomeridinae)\n속 : 괴불잎말이뿔나방속 (Anarsia)",
+  "basic_information": {
+    "곤충명": "괴불잎말이뿔나방",
+    "학명": "Anarsia bipinnata (Meyrick, 1932)"
+  },
+  "information": {
+    "general_description": "수컷의 아랫입술수염 제 2 마디에는 앞쪽 아래로 돌출되고 긴 털로 덮여 사다리꼴의 큰 털다발을 만들며, 제 3 마디는 숨겨져 있음. 암컷에서는 털다발이 작고, 제 3 마지는 기며, 3개의 흑색 둥근 띠를 가짐.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "수컷의 아랫입술수염 제 2 마디에는 앞쪽 아래로 돌출되고 긴 털로 덮여 사다리꼴의 큰 털다발을 만들며, 제 3 마디는 숨겨져 있음. 암컷에서는 털다발이 작고, 제 3 마지는 기며, 3개의 흑색 둥근 띠를 가짐."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCH0005-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCH0005_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCH0005_1_th.jpg",
+      "alt": "괴불잎말이뿔나방 1번째 사진 : 괴불잎말이뿔나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCH0005_1_th2.jpg",
+      "caption": "괴불잎말이뿔나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCH0005-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0407091104",
+      "description": "[UIBE0407091104] 괴불잎말이뿔나방 1997.06.28 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0407091105",
+      "description": "[UIBE0407091105] 괴불잎말이뿔나방 1999.06.20 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0407091107",
+      "description": "[UIBE0407091107] 괴불잎말이뿔나방 1999.06.12 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRCH0005.png",
+    "reference_image_id": "ZRCH0005-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T13:29:44.716860+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "b219bb102702189f0bd5e236600890faed298f53b800b35f770f40eff4a523de"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCH0005&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:16+00:00",
+    "html_sha256": "ae58e7bf87bc54b983fc2bb86bd38f44102eea1f857ed81bb64c22fafd25480c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

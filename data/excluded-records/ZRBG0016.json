@@ -1,0 +1,113 @@
+{
+  "id": "ZRBG0016",
+  "name_ko": "꼬마가는잎말이나방",
+  "scientific_name": "Gynnidomorpha minimana (Caradja, 1916)",
+  "display_name": "꼬마가는잎말이나방",
+  "family_ko": "잎말이나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎말이나방상과",
+      "name_latin": "Tortricoidea"
+    },
+    "family": {
+      "name_ko": "잎말이나방과",
+      "name_latin": "Tortricidae"
+    },
+    "subfamily": {
+      "name_ko": "잎말이나방아과",
+      "name_latin": "Tortricinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Gynnidomorpha"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 잎말이나방상과 (Tortricoidea)\n과 : 잎말이나방과 (Tortricidae)\n아과 : 잎말이나방아과 (Tortricinae)\n속 : (Gynnidomorpha)",
+  "basic_information": {
+    "곤충명": "꼬마가는잎말이나방",
+    "학명": "Gynnidomorpha minimana (Caradja, 1916)"
+  },
+  "information": {
+    "general_description": "개체에 따라 변이가 많으며, 암화형도 있다. 자두가는잎말이나방과 외형상으로 비슷하여 구별이 어려울 때가 있다. 날개길이는 9～12mm 이다.",
+    "adult": null,
+    "adult_male": "생식기의 옆돌기는 잘 발달되었고, 안쪽 중간에 혹 모양의 돌기가 나와 있고, 그 뒤는 점차 가늘어진다. 파악판은 가늘고 길며, 2/3지점에서 굴곡을 이루며 구부러져 있다. 삭쿨루스는 기부에만 다소 발달되어 있다. 삽입기는 가늘며 직선형이고, 끝에 뾰족한 돌기를 가지고 있으며, 1개의 긴 사정낭침을 가지고 있다.",
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "유충은 높은 지대의 습지에 자생하는 부전송이풀의 씨앗을 가해하는 것으로 알려져 있으나, 우리 나라에서 확인된 먹이풀은 아직 없다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대한민국] 경기도\n[일본]\n[스웨덴]\n[러시아] 극동지역",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "개체에 따라 변이가 많으며, 암화형도 있다. 자두가는잎말이나방과 외형상으로 비슷하여 구별이 어려울 때가 있다. 날개길이는 9～12mm 이다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "생식기의 옆돌기는 잘 발달되었고, 안쪽 중간에 혹 모양의 돌기가 나와 있고, 그 뒤는 점차 가늘어진다. 파악판은 가늘고 길며, 2/3지점에서 굴곡을 이루며 구부러져 있다. 삭쿨루스는 기부에만 다소 발달되어 있다. 삽입기는 가늘며 직선형이고, 끝에 뾰족한 돌기를 가지고 있으며, 1개의 긴 사정낭침을 가지고 있다."
+    },
+    {
+      "title": "생태",
+      "text": "유충은 높은 지대의 습지에 자생하는 부전송이풀의 씨앗을 가해하는 것으로 알려져 있으나, 우리 나라에서 확인된 먹이풀은 아직 없다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대한민국] 경기도\n[일본]\n[스웨덴]\n[러시아] 극동지역"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRBG0016-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/ZRBG0016_7.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/ZRBG0016_7_th.jpg",
+      "alt": "꼬마가는잎말이나방 1번째 사진 : 꼬마가는잎말이나방가슴 확대 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/ZRBG0016_7_th2.jpg",
+      "caption": "꼬마가는잎말이나방가슴 확대 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRBG0016-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/ZRBG0016_6.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/ZRBG0016_6_th.jpg",
+      "alt": "꼬마가는잎말이나방 2번째 사진 : 꼬마가는잎말이나방배 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/ZRBG0016_6_th2.jpg",
+      "caption": "꼬마가는잎말이나방배 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRBG0016-1",
+  "specimen_examples": [],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRBG0016-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRBG0016&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:26+00:00",
+    "html_sha256": "e3d1edfbdcd305c2f61c61e8ac5dd20c71e5468ee5868fcc3985a91231f672b3",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

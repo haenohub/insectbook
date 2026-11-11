@@ -1,0 +1,99 @@
+{
+  "id": "ZOAJ0001",
+  "name_ko": "빗살수염벌레",
+  "scientific_name": "Ptilineurus marmoratus (Reitter, 1877)",
+  "display_name": "빗살수염벌레",
+  "family_ko": "표본벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "개나무좀상과",
+      "name_latin": "Bostrichoidea"
+    },
+    "family": {
+      "name_ko": "표본벌레과",
+      "name_latin": "Ptinidae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Dryophilinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Ptilineurus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 개나무좀상과 (Bostrichoidea)\n과 : 표본벌레과 (Ptinidae)\n아과 : (Dryophilinae)\n속 : (Ptilineurus)",
+  "basic_information": {
+    "곤충명": "빗살수염벌레",
+    "학명": "Ptilineurus marmoratus (Reitter, 1877)"
+  },
+  "information": {
+    "general_description": "한국, 일본, 대만, 인도에 분포하며, 체장은 2.2-3.5mm 정도이다. 몸은 원통형이고 흑갈색이다. 회백색 털을 얼룩 무늬 모양으로 밀생하였다. 머리는 앞가슴 안에 퇴축하였다. 촉각은 제 1-2마디 말단절의 절반은 갈색이고 수컷의 것은 제3-11마디가 빗살모양이고 암컷의 것은 톱니모양이다. 딱지날개 어깨부의 안쪽에는 앞쪽으로 돌출한 부분이 있다. 5줄의 종융이 있으나 판연하지 않다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[대만]\n[인도]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 대만, 인도에 분포하며, 체장은 2.2-3.5mm 정도이다. 몸은 원통형이고 흑갈색이다. 회백색 털을 얼룩 무늬 모양으로 밀생하였다. 머리는 앞가슴 안에 퇴축하였다. 촉각은 제 1-2마디 말단절의 절반은 갈색이고 수컷의 것은 제3-11마디가 빗살모양이고 암컷의 것은 톱니모양이다. 딱지날개 어깨부의 안쪽에는 앞쪽으로 돌출한 부분이 있다. 5줄의 종융이 있으나 판연하지 않다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[대만]\n[인도]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAJ0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAJ0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAJ0001_1_th.jpg",
+      "alt": "빗살수염벌레 1번째 사진 : 빗살수염벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAJ0001_1_th2.jpg",
+      "caption": "빗살수염벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAJ0001-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304122003",
+      "description": "[KNAE0304122003] 빗살수염벌레 1995.06.12 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAJ0001-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAJ0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:00+00:00",
+    "html_sha256": "eb498a3cb0666822fd772ead44ea999f2936b48f31a5bb4ceeff315c0623354b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

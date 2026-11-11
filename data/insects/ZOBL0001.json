@@ -1,0 +1,128 @@
+{
+  "id": "ZOBL0001",
+  "name_ko": "깔따구하늘소",
+  "scientific_name": "Distenia gracilis gracilis (Blessig, 1872)",
+  "display_name": "깔따구하늘소",
+  "family_ko": "깔따구하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "깔따구하늘소과",
+      "name_latin": "Disteniidae"
+    },
+    "genus": {
+      "name_ko": "깔따구하늘소속",
+      "name_latin": "Distenia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 깔따구하늘소과 (Disteniidae)\n속 : 깔따구하늘소속 (Distenia)",
+  "basic_information": {
+    "곤충명": "깔따구하늘소",
+    "학명": "Distenia gracilis gracilis (Blessig, 1872)"
+  },
+  "information": {
+    "general_description": "몸길이 20∼30mm이다. 몸색은 흑갈색이고 온몸이 회백색의 연한 털로 덮여 있어 어두운 회갈색을 나타낸다. 머리는 앞으로 튀어나와 있고 정중부에 세로홈이 있다. 촉각(더듬이)은 위턱 기부에서 나왔고 몸길이보다 길며, 셋째마디에서 끝까지 긴 털이 있다. 딱지날개(굳은날개)는 가늘고 길다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6∼9월에 나타나는데, 밤에 등불에 날아든다. 국내에서는 강원특별자치도(설악산, 소금강, 오대산), 경기도(앵무봉, 광릉), 경북(주왕산), 경남(가야산), 제주(한라산) 등지에 분포하는 것으로 기록되어 있다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 20∼30mm이다. 몸색은 흑갈색이고 온몸이 회백색의 연한 털로 덮여 있어 어두운 회갈색을 나타낸다. 머리는 앞으로 튀어나와 있고 정중부에 세로홈이 있다. 촉각(더듬이)은 위턱 기부에서 나왔고 몸길이보다 길며, 셋째마디에서 끝까지 긴 털이 있다. 딱지날개(굳은날개)는 가늘고 길다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6∼9월에 나타나는데, 밤에 등불에 날아든다. 국내에서는 강원특별자치도(설악산, 소금강, 오대산), 경기도(앵무봉, 광릉), 경북(주왕산), 경남(가야산), 제주(한라산) 등지에 분포하는 것으로 기록되어 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0001_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0001_2_th.jpg",
+      "alt": "깔따구하늘소 1번째 사진 : 깔따구하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0001_2_th2.jpg",
+      "caption": "깔따구하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBL0001-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0001_1_th.jpg",
+      "alt": "깔따구하늘소 2번째 사진 : 깔따구하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0001_1_th2.jpg",
+      "caption": "깔따구하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0001-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0408101013",
+      "description": "[UIBE0408101013] 깔따구하늘소 1993.08.24 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0408101015",
+      "description": "[UIBE0408101015] 깔따구하늘소 1999.07.20 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0408101016",
+      "description": "[UIBE0408101016] 깔따구하늘소 1999.07.16 / / 인천대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "소나무",
+      "scientific_name": "Pinus densiflora Siebold & Zucc."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBL0001.png",
+    "reference_image_id": "ZOBL0001-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T10:00:55.788839+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "130910254fa3fddeb362964b033b92d7b9caca6f2eccffce7300290113e683bb"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:18+00:00",
+    "html_sha256": "657b2a50dcea4f3e9cd140a2abdf0377ed6f87dde3c65c1f5c341c2aa1b31d6d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

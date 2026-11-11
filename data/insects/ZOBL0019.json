@@ -1,0 +1,111 @@
+{
+  "id": "ZOBL0019",
+  "name_ko": "황줄박이풀색하늘소",
+  "scientific_name": "Acmaeops septentrionis (C.G. Thomson, 1866)",
+  "display_name": "황줄박이풀색하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "꽃하늘소아과",
+      "name_latin": "Lepturinae"
+    },
+    "genus": {
+      "name_ko": "풀색하늘소속",
+      "name_latin": "Acmaeops"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 꽃하늘소아과 (Lepturinae)\n속 : 풀색하늘소속 (Acmaeops)",
+  "basic_information": {
+    "곤충명": "황줄박이풀색하늘소",
+    "학명": "Acmaeops septentrionis (C.G. Thomson, 1866)"
+  },
+  "information": {
+    "general_description": "몸길이는 6~8mm 이다. 몸색깔은 흑색이며 딱지날개는 남색에 가까운색이며 광택이 난다. 앞가슴은 앞쪽이 가로로 넓게 파여서 목도리 모양이며 딱지날개는 매우 넓으며 곰보모양의 점각이 거의 보이지 않는다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 4~7월사이 온대성 나무들이 자라는 곳에 많다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 6~8mm 이다. 몸색깔은 흑색이며 딱지날개는 남색에 가까운색이며 광택이 난다. 앞가슴은 앞쪽이 가로로 넓게 파여서 목도리 모양이며 딱지날개는 매우 넓으며 곰보모양의 점각이 거의 보이지 않는다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 4~7월사이 온대성 나무들이 자라는 곳에 많다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0019-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0019_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0019_1_th.jpg",
+      "alt": "황줄박이풀색하늘소 1번째 사진 : 황줄박이풀색하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0019_1_th2.jpg",
+      "caption": "황줄박이풀색하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0019-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0112204030",
+      "description": "[YNUE0112204030] 황줄박이풀색하늘소 1997.07.14 / / 영남대학교"
+    },
+    {
+      "id": "KNAE1107014008",
+      "description": "[KNAE1107014008] 황줄박이풀색하늘소 2010.06.17 / / 국립수목원"
+    },
+    {
+      "id": "KNAE1107014009",
+      "description": "[KNAE1107014009] 황줄박이풀색하늘소 2010.06.18 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0019-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0019&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:00+00:00",
+    "html_sha256": "933c678afcad497d2e51ec4fe60eabf27c556347a0ec747cad219fdf18d86f73",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

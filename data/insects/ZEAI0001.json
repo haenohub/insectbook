@@ -1,0 +1,142 @@
+{
+  "id": "ZEAI0001",
+  "name_ko": "땅강아지",
+  "scientific_name": "Gryllotalpa orientalis Burmmeister, 1838",
+  "display_name": "땅강아지",
+  "family_ko": "땅강아지과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "메뚜기목",
+      "name_latin": "Orthoptera"
+    },
+    "family": {
+      "name_ko": "땅강아지과",
+      "name_latin": "Gryllotalpidae"
+    },
+    "subfamily": {
+      "name_ko": "땅강아지아과",
+      "name_latin": "Gryllotalpinae"
+    },
+    "genus": {
+      "name_ko": "땅강아지속",
+      "name_latin": "Gryllotalpa"
+    }
+  },
+  "taxonomy_text": "목 : 메뚜기목 (Orthoptera)\n과 : 땅강아지과 (Gryllotalpidae)\n아과 : 땅강아지아과 (Gryllotalpinae)\n속 : 땅강아지속 (Gryllotalpa)",
+  "basic_information": {
+    "곤충명": "땅강아지",
+    "학명": "Gryllotalpa orientalis Burmmeister, 1838"
+  },
+  "information": {
+    "general_description": "성충의 몸길이는 30~35 mm이며 체색은 황갈색 내지 흑갈색이고 온몸에 융과 같은 털이 덮혀 있으며 앞다리는 두더지와 같이 땅을 파는데 알맞도록 강하고 넓적하게 되어 있다. 앞날개는 작고 뒷날개는 크며, 날지 않을 때는 가늘고 길게 등 위에 접어 놓는다. 암컷은 앞날개 중앙에 종맥(縱脈)을, 수컷은 시맥(翅脈)을 가지고 있다. 암, 수 모두 시맥에 발음 돌기가 10여 개 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "대부분 연 1회 발생한다. 산란기는 5월~7월이며 5월~6월에 부화한 약충은 9월 하순~10월 하순에 우화하여 성충으로 월동하고 6월 하순~7월 하순에 부화된 것은 약충으로 월동하여 이듬해 8월 중순~9월 상순에 우화하므로 2년에 1세대를 경과한다. 땅강아지는 본래 습기를 좋아하며 저지대에 산란하는데 땅 속 10~20 cm의 흙집을 만들어 200~350개의 알을 낳는다. 부화된 약충은 일정 기간 동안 흙집 속에서 알껍질을 먹고 자라며 그 이후에도 산란 장소를 멀리 떠나지 않고 땅속 10~30 cm에서 우화한다. 성충은 주로 밤에 활동하며 비상(飛翔) 시간은 해가 지고 어둠이 깔린 직후부터 2~3시간 동안인데 이때 수컷의 울음소리가 중요한 정보 교환의 수단이 되는 것으로 추측되고 있다.",
+    "habits": "약충과 성충이 흙 속에서 이동하며 각종 기주식물의 뿌리를 갉아 먹고 땅을 들뜨게 하여 고사시킨다. 밤에는 지표 위에서 묘목 줄기를 잘라 먹거나 새 순을 식해하기도 한다. 가해 시기는 주로 5~6월과 9~10월이다.",
+    "season": null,
+    "overwintering": "흙 속에서 약충 또는 성충으로 월동한다.",
+    "distribution": "[일본]\n[대만]\n[뉴질랜드]\n[호주]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충의 몸길이는 30~35 mm이며 체색은 황갈색 내지 흑갈색이고 온몸에 융과 같은 털이 덮혀 있으며 앞다리는 두더지와 같이 땅을 파는데 알맞도록 강하고 넓적하게 되어 있다. 앞날개는 작고 뒷날개는 크며, 날지 않을 때는 가늘고 길게 등 위에 접어 놓는다. 암컷은 앞날개 중앙에 종맥(縱脈)을, 수컷은 시맥(翅脈)을 가지고 있다. 암, 수 모두 시맥에 발음 돌기가 10여 개 있다."
+    },
+    {
+      "title": "생태",
+      "text": "대부분 연 1회 발생한다. 산란기는 5월~7월이며 5월~6월에 부화한 약충은 9월 하순~10월 하순에 우화하여 성충으로 월동하고 6월 하순~7월 하순에 부화된 것은 약충으로 월동하여 이듬해 8월 중순~9월 상순에 우화하므로 2년에 1세대를 경과한다. 땅강아지는 본래 습기를 좋아하며 저지대에 산란하는데 땅 속 10~20 cm의 흙집을 만들어 200~350개의 알을 낳는다. 부화된 약충은 일정 기간 동안 흙집 속에서 알껍질을 먹고 자라며 그 이후에도 산란 장소를 멀리 떠나지 않고 땅속 10~30 cm에서 우화한다. 성충은 주로 밤에 활동하며 비상(飛翔) 시간은 해가 지고 어둠이 깔린 직후부터 2~3시간 동안인데 이때 수컷의 울음소리가 중요한 정보 교환의 수단이 되는 것으로 추측되고 있다."
+    },
+    {
+      "title": "습성",
+      "text": "약충과 성충이 흙 속에서 이동하며 각종 기주식물의 뿌리를 갉아 먹고 땅을 들뜨게 하여 고사시킨다. 밤에는 지표 위에서 묘목 줄기를 잘라 먹거나 새 순을 식해하기도 한다. 가해 시기는 주로 5~6월과 9~10월이다."
+    },
+    {
+      "title": "월동",
+      "text": "흙 속에서 약충 또는 성충으로 월동한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[대만]\n[뉴질랜드]\n[호주]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZEAI0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAI0001_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAI0001_2_th.jpg",
+      "alt": "땅강아지 1번째 사진 : 땅강아지전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAI0001_2_th2.jpg",
+      "caption": "땅강아지전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZEAI0001-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAI0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAI0001_1_th.jpg",
+      "alt": "땅강아지 2번째 사진 : 땅강아지전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAI0001_1_th2.jpg",
+      "caption": "땅강아지전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZEAI0001-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0408241129",
+      "description": "[UIBE0408241129] 땅강아지 2003.10.02 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301272070",
+      "description": "[UIBE0301272070] 땅강아지 1999.09.10 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301272068",
+      "description": "[UIBE0301272068] 땅강아지 1999.09.17 / / 인천대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "소나무",
+      "scientific_name": "Pinus densiflora Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "온주밀감",
+      "scientific_name": "Citrus unshiu (Yu.Tanaka ex Swingle) Marcow."
+    },
+    {
+      "group": "식물",
+      "name_ko": "포도",
+      "scientific_name": "Vitis vinifera L."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZEAI0001-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZEAI0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:24+00:00",
+    "html_sha256": "97728631570a4a27d1eee3f86f3123dc9c5e3de69526116cc02f450478d09138",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

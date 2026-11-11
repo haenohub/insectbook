@@ -1,0 +1,91 @@
+{
+  "id": "ZOGG0030",
+  "name_ko": "녹색장발풍뎅이",
+  "scientific_name": "Phyllopertha horticola (Linnaeus, 1758)",
+  "display_name": "녹색장발풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "풍뎅이아과",
+      "name_latin": "Rutelinae"
+    },
+    "genus": {
+      "name_ko": "다색풍뎅이속",
+      "name_latin": "Phyllopertha"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 풍뎅이아과 (Rutelinae)\n속 : 다색풍뎅이속 (Phyllopertha)",
+  "basic_information": {
+    "곤충명": "녹색장발풍뎅이",
+    "학명": "Phyllopertha horticola (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "유럽부터 코카사스, 북아시아, 만주를 거쳐 분한까지 분포한다. 광택이 있으며, 흑색 내지 구릿빛 흑색이나 등쪽은 녹색내지 녹청색 빛이 감돌고 딱지 날개는 황갈색 내지 흑갈색이다. 머리방패는 좁고, 전연은 거의 직선형이며, 점각은 크고 거의 그물모양이다. 이마의 점각은 방패와 비슷하나 정수리는 보다 깊고 조밀하다. 수컷의 촉각 곤봉부는 자루마디보다 짧다. 소순판은 넓고, 약간의 미세한 점각이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "유럽부터 코카사스, 북아시아, 만주를 거쳐 분한까지 분포한다. 광택이 있으며, 흑색 내지 구릿빛 흑색이나 등쪽은 녹색내지 녹청색 빛이 감돌고 딱지 날개는 황갈색 내지 흑갈색이다. 머리방패는 좁고, 전연은 거의 직선형이며, 점각은 크고 거의 그물모양이다. 이마의 점각은 방패와 비슷하나 정수리는 보다 깊고 조밀하다. 수컷의 촉각 곤봉부는 자루마디보다 짧다. 소순판은 넓고, 약간의 미세한 점각이 있다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGG0030-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0030_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0030_1_th.jpg",
+      "alt": "녹색장발풍뎅이 1번째 사진 : 녹색장발풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0030_1_th2.jpg",
+      "caption": "녹색장발풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGG0030-1",
+  "specimen_examples": [
+    {
+      "id": "SSUE0202021001",
+      "description": "[SSUE0202021001] 녹색장발풍뎅이 1934.07.19 / / 성신여자대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGG0030-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGG0030&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:34+00:00",
+    "html_sha256": "e3df2ac74b1f5b17d0dc5954ae121727b4c998a53c501382aea2ad69cf1330da",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

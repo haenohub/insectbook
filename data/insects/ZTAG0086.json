@@ -1,0 +1,118 @@
+{
+  "id": "ZTAG0086",
+  "name_ko": "왜알락꽃벌",
+  "scientific_name": "Nomada japonica Smith, 1873",
+  "display_name": "왜알락꽃벌",
+  "family_ko": "꿀벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "꿀벌과",
+      "name_latin": "Apidae"
+    },
+    "subfamily": {
+      "name_ko": "알락꽃벌아과",
+      "name_latin": "Nomadinae"
+    },
+    "genus": {
+      "name_ko": "알락꽃벌속",
+      "name_latin": "Nomada"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 꿀벌과 (Apidae)\n아과 : 알락꽃벌아과 (Nomadinae)\n속 : 알락꽃벌속 (Nomada)",
+  "basic_information": {
+    "곤충명": "왜알락꽃벌",
+    "학명": "Nomada japonica Smith, 1873"
+  },
+  "information": {
+    "general_description": "몸길이는 13mm 정도이고, 몸은 흑색이며 황색 무늬와 적색무늬가 있다. 윗입술, 큰 턱의 대부분, 얼굴의 하부는 황색이고 겹눈에 따라 줄 모양으로 뻗었다. 정수리는 흑색이다. 다리는 도래마디 이하가 적갈색이고 기부 위쪽에는 흑색무늬가 있다. 배는 흑갈색이고 각 마디의 중앙에 황색 가로 무늬가 있고 제1배마디의 것은 적갈색, 제1.2배마디의 것은 좌우 완전히 나누어지거나 또는 약간 접촉한다. 날개는 암갈색이고 날개 끝 부근에 담색 무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[감소추세종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 13mm 정도이고, 몸은 흑색이며 황색 무늬와 적색무늬가 있다. 윗입술, 큰 턱의 대부분, 얼굴의 하부는 황색이고 겹눈에 따라 줄 모양으로 뻗었다. 정수리는 흑색이다. 다리는 도래마디 이하가 적갈색이고 기부 위쪽에는 흑색무늬가 있다. 배는 흑갈색이고 각 마디의 중앙에 황색 가로 무늬가 있고 제1배마디의 것은 적갈색, 제1.2배마디의 것은 좌우 완전히 나누어지거나 또는 약간 접촉한다. 날개는 암갈색이고 날개 끝 부근에 담색 무늬가 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[감소추세종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0086-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0086_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0086_2_th.jpg",
+      "alt": "왜알락꽃벌 1번째 사진 : 왜알락꽃벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0086_2_th2.jpg",
+      "caption": "왜알락꽃벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTAG0086-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0086_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0086_1_th.jpg",
+      "alt": "왜알락꽃벌 2번째 사진 : 왜알락꽃벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0086_1_th2.jpg",
+      "caption": "왜알락꽃벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0086-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0301119045",
+      "description": "[YNUE0301119045] 왜알락꽃벌 1998.04.26 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301119046",
+      "description": "[YNUE0301119046] 왜알락꽃벌 1995.06.07 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301119047",
+      "description": "[YNUE0301119047] 왜알락꽃벌 1995.06.07 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAG0086-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0086&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:50+00:00",
+    "html_sha256": "6fa9f676e129f0604243fe5f84e18de485a0f06a48e0a41333ac225810898a7c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

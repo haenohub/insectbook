@@ -1,0 +1,107 @@
+{
+  "id": "ZOAR0056",
+  "name_ko": "주름앞다리톱거위벌레",
+  "scientific_name": "Cyrtolabus christophi (Faust, 1884)",
+  "display_name": "주름앞다리톱거위벌레",
+  "family_ko": "거위벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "거위벌레과",
+      "name_latin": "Attelabidae"
+    },
+    "subfamily": {
+      "name_ko": "거위벌레아과",
+      "name_latin": "Attelabinae"
+    },
+    "genus": {
+      "name_ko": "앞다리톱거위벌레속",
+      "name_latin": "Cyrtolabus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 거위벌레과 (Attelabidae)\n아과 : 거위벌레아과 (Attelabinae)\n속 : 앞다리톱거위벌레속 (Cyrtolabus)",
+  "basic_information": {
+    "곤충명": "주름앞다리톱거위벌레",
+    "학명": "Cyrtolabus christophi (Faust, 1884)"
+  },
+  "information": {
+    "general_description": "한국, 중국, 러시아에 분포하며, 체장은 4.0mm 정도이다. 앞다리톱거위벌레와 유사하지만, 앞가슴등판이 길이보다 폭이 훨씬 넓고, 불규칙적인 점각이 주름지고, 강하게 밀포한다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[러시아]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 중국, 러시아에 분포하며, 체장은 4.0mm 정도이다. 앞다리톱거위벌레와 유사하지만, 앞가슴등판이 길이보다 폭이 훨씬 넓고, 불규칙적인 점각이 주름지고, 강하게 밀포한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAR0056-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0056_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0056_1_th.jpg",
+      "alt": "주름앞다리톱거위벌레 1번째 사진 : 주름앞다리톱거위벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0056_1_th2.jpg",
+      "caption": "주름앞다리톱거위벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAR0056-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0408082059",
+      "description": "[KUIE0408082059] 주름앞다리톱거위벌레 1981.06.06 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0408082055",
+      "description": "[KUIE0408082055] 주름앞다리톱거위벌레 1974.07.24 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0408082056",
+      "description": "[KUIE0408082056] 주름앞다리톱거위벌레 1977.06.05 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAR0056-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAR0056&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:56+00:00",
+    "html_sha256": "b52bfd2905657cfae46780946ebf800ad6cf9a04a7a165f9e52ad16dd37ba1bb",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

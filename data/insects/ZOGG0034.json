@@ -1,0 +1,103 @@
+{
+  "id": "ZOGG0034",
+  "name_ko": "남방콩풍뎅이",
+  "scientific_name": "Popillia formosana Arrow, 1913",
+  "display_name": "남방콩풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "풍뎅이아과",
+      "name_latin": "Rutelinae"
+    },
+    "genus": {
+      "name_ko": "콩풍뎅이속",
+      "name_latin": "Popillia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 풍뎅이아과 (Rutelinae)\n속 : 콩풍뎅이속 (Popillia)",
+  "basic_information": {
+    "곤충명": "남방콩풍뎅이",
+    "학명": "Popillia formosana Arrow, 1913"
+  },
+  "information": {
+    "general_description": "대만, 중국 남부에 분포하며, 광택이 강하고 머리방패와 앞가슴등판의 대부분은 녹색 내지 구릿빛 녹색이나 방패의 가장 자리는 구릿빛 황색 내지 불분명한 갈색으로 이중적이며, 다리와 복부는 지저분해 보이는 갈색내지 흑갈색이다. 앞가슴등판 점각은 현미경적 크기이며, 매우 드물다. 제 1시간실의 세로 점각열은 없다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "대만, 중국 남부에 분포하며, 광택이 강하고 머리방패와 앞가슴등판의 대부분은 녹색 내지 구릿빛 녹색이나 방패의 가장 자리는 구릿빛 황색 내지 불분명한 갈색으로 이중적이며, 다리와 복부는 지저분해 보이는 갈색내지 흑갈색이다. 앞가슴등판 점각은 현미경적 크기이며, 매우 드물다. 제 1시간실의 세로 점각열은 없다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGG0034-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0034_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0034_1_th.jpg",
+      "alt": "남방콩풍뎅이 1번째 사진 : 남방콩풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0034_1_th2.jpg",
+      "caption": "남방콩풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGG0034-1",
+  "specimen_examples": [
+    {
+      "id": "SSUE0201311042",
+      "description": "[SSUE0201311042] 남방콩풍뎅이 1985.07.15 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0201311043",
+      "description": "[SSUE0201311043] 남방콩풍뎅이 1983.07.12 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0201311044",
+      "description": "[SSUE0201311044] 남방콩풍뎅이 1983.07.12 / / 성신여자대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOGG0034.png",
+    "reference_image_id": "ZOGG0034-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T16:36:16.109545+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "eba7bb947d64b6be98add62d1d993d6fe27773fe3c7f648e83068333e34eb578"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGG0034&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:25+00:00",
+    "html_sha256": "701ea1b514c5e797cd202d71b9adf0caa50474cd4d9c5171314267502b42f608",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

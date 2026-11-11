@@ -1,0 +1,118 @@
+{
+  "id": "ZRDS0277",
+  "name_ko": "소리쟁이밤나방",
+  "scientific_name": "Atrachea nitens (Butler, 1878)",
+  "display_name": "소리쟁이밤나방",
+  "family_ko": "밤나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "밤나방과",
+      "name_latin": "Noctuidae"
+    },
+    "subfamily": {
+      "name_ko": "밤나방아과",
+      "name_latin": "Noctuinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Atrachea"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 밤나방과 (Noctuidae)\n아과 : 밤나방아과 (Noctuinae)\n속 : (Atrachea)",
+  "basic_information": {
+    "곤충명": "소리쟁이밤나방",
+    "학명": "Atrachea nitens (Butler, 1878)"
+  },
+  "information": {
+    "general_description": "수컷은 이가 짧은 톱니 모양의 더듬이. 가슴의 등쪽면은 회록색의 작은 털뭉치가 나 있음. 아랫입술수염의 제 3마디는 짧으며, 다리에서 각 발목마디의 마디 끝에는 가르게 회황색을 띰. 앞날개는 회갈색 바탕으로 황록색의 인편이 섞여 있음. 아기선, 내횡선, 외횡선, 아외연선 회갈색. 외연은 작은 흑색점의 열로 되어있음. 뒷날개는 암회갈색 바탕인데 기부 쪽은 다소 담색임.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 5~6월경에 출현. 유충은 뽕나무류, 소루쟁이 등의 잎을 먹음",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "수컷은 이가 짧은 톱니 모양의 더듬이. 가슴의 등쪽면은 회록색의 작은 털뭉치가 나 있음. 아랫입술수염의 제 3마디는 짧으며, 다리에서 각 발목마디의 마디 끝에는 가르게 회황색을 띰. 앞날개는 회갈색 바탕으로 황록색의 인편이 섞여 있음. 아기선, 내횡선, 외횡선, 아외연선 회갈색. 외연은 작은 흑색점의 열로 되어있음. 뒷날개는 암회갈색 바탕인데 기부 쪽은 다소 담색임."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 5~6월경에 출현. 유충은 뽕나무류, 소루쟁이 등의 잎을 먹음"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0277-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0277_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0277_2_th.jpg",
+      "alt": "소리쟁이밤나방 1번째 사진 : 소루쟁이밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0277_2_th2.jpg",
+      "caption": "소루쟁이밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDS0277-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0277_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0277_1_th.jpg",
+      "alt": "소리쟁이밤나방 2번째 사진 : 소루쟁이밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0277_1_th2.jpg",
+      "caption": "소루쟁이밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0277-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0302181005",
+      "description": "[KNAE0302181005] 소리쟁이밤나방 1997.06.18 / / 국립수목원"
+    },
+    {
+      "id": "KNUE0212191287",
+      "description": "[KNUE0212191287] 소리쟁이밤나방 1998.05.27 / / 강원대학교"
+    },
+    {
+      "id": "KNUE0212191288",
+      "description": "[KNUE0212191288] 소리쟁이밤나방 1992.07.21 / / 강원대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDS0277-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0277&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:13+00:00",
+    "html_sha256": "a4550d89ae6e067663cc3c9b3ce8caf9bd53617e332bba0ef96ec39d80be6a89",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

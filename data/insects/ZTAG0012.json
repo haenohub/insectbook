@@ -1,0 +1,103 @@
+{
+  "id": "ZTAG0012",
+  "name_ko": "크누드애꽃벌",
+  "scientific_name": "Andrena (Chlorandrena) knuthi Alfken, 1900",
+  "display_name": "크누드애꽃벌",
+  "family_ko": "애꽃벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "애꽃벌과",
+      "name_latin": "Andrenidae"
+    },
+    "subfamily": {
+      "name_ko": "애꽃벌아과",
+      "name_latin": "Andreninae"
+    },
+    "genus": {
+      "name_ko": "애꽃벌속",
+      "name_latin": "Andrena"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 애꽃벌과 (Andrenidae)\n아과 : 애꽃벌아과 (Andreninae)\n속 : 애꽃벌속 (Andrena)",
+  "basic_information": {
+    "곤충명": "크누드애꽃벌",
+    "학명": "Andrena (Chlorandrena) knuthi Alfken, 1900"
+  },
+  "information": {
+    "general_description": "암컷은 9mm. 몸은 흑색이고 때로는 밝은 갈색이다. 몸은 황색 털로 덮이나 배 특히 제1.2배마디등판에는 털이 적다. 수컷은 8mm정도이고 머리 방패는 밝은 황색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷은 9mm. 몸은 흑색이고 때로는 밝은 갈색이다. 몸은 황색 털로 덮이나 배 특히 제1.2배마디등판에는 털이 적다. 수컷은 8mm정도이고 머리 방패는 밝은 황색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0012-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0012_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0012_1_th.jpg",
+      "alt": "크누드애꽃벌 1번째 사진 : 크누드애꽃벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0012_1_th2.jpg",
+      "caption": "크누드애꽃벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0012-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306278031",
+      "description": "[YNUE0306278031] 크누드애꽃벌 1991.05.29 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306278032",
+      "description": "[YNUE0306278032] 크누드애꽃벌 1996.04.21 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306278012",
+      "description": "[YNUE0306278012] 크누드애꽃벌 1967.08.29 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAG0012-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0012&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:33+00:00",
+    "html_sha256": "8910ec330a5f52977cc1117d849b0cbeecc41165ce25ba6df70b8864121dc1cd",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

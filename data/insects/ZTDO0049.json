@@ -1,0 +1,114 @@
+{
+  "id": "ZTDO0049",
+  "name_ko": "무잎벌",
+  "scientific_name": "Athalia rosae ruficornis Jakowlew, 1888",
+  "display_name": "무잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "무잎벌아과",
+      "name_latin": "Athaliinae"
+    },
+    "genus": {
+      "name_ko": "무잎벌속",
+      "name_latin": "Athalia"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 무잎벌아과 (Athaliinae)\n속 : 무잎벌속 (Athalia)",
+  "basic_information": {
+    "곤충명": "무잎벌",
+    "학명": "Athalia rosae ruficornis Jakowlew, 1888"
+  },
+  "information": {
+    "general_description": "암컷은 머리가 암색이고 머리방패, 윗입술, 큰터그이 기부, 수염은 회황색이다. 얼굴아랫쪽과 입은 회백색 털이 났다. 가슴과 배는 황갈색이다. 날개는 황색이며 투명하고 다리도 황갈색이나 종아리마디와 발목마디 각끝은 흑색이다. 산란관집은 대부분 흑색이다. 가슴에는 거의 점각이 없고 짧은 회백색 털이 났다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]\n[인도]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷은 머리가 암색이고 머리방패, 윗입술, 큰터그이 기부, 수염은 회황색이다. 얼굴아랫쪽과 입은 회백색 털이 났다. 가슴과 배는 황갈색이다. 날개는 황색이며 투명하고 다리도 황갈색이나 종아리마디와 발목마디 각끝은 흑색이다. 산란관집은 대부분 흑색이다. 가슴에는 거의 점각이 없고 짧은 회백색 털이 났다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]\n[인도]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0049-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0049_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0049_2_th.jpg",
+      "alt": "무잎벌 1번째 사진 : 무잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0049_2_th2.jpg",
+      "caption": "무잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTDO0049-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0049_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0049_1_th.jpg",
+      "alt": "무잎벌 2번째 사진 : 무잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0049_1_th2.jpg",
+      "caption": "무잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0049-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306072001",
+      "description": "[YNUE0306072001] 무잎벌 1998.09.04 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305201080",
+      "description": "[YNUE0305201080] 무잎벌 1999.05.09 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305201047",
+      "description": "[YNUE0305201047] 무잎벌 1999.09.12 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDO0049-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0049&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:34+00:00",
+    "html_sha256": "fef7b060e504d257f0988abd6ef32ba78d2c7dc31bc71817c4dfe8b4c021f7c7",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

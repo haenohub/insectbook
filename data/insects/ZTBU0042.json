@@ -1,0 +1,103 @@
+{
+  "id": "ZTBU0042",
+  "name_ko": "가슴검은자루맵시벌",
+  "scientific_name": "Netelia (Bessobates) coreensis Cha & Lee, 1988",
+  "display_name": "가슴검은자루맵시벌",
+  "family_ko": "맵시벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "맵시벌과",
+      "name_latin": "Ichneumonidae"
+    },
+    "subfamily": {
+      "name_ko": "뭉툭맵시벌아과",
+      "name_latin": "Tryphoninae"
+    },
+    "genus": {
+      "name_ko": "자루맵시벌속",
+      "name_latin": "Netelia"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 맵시벌과 (Ichneumonidae)\n아과 : 뭉툭맵시벌아과 (Tryphoninae)\n속 : 자루맵시벌속 (Netelia)",
+  "basic_information": {
+    "곤충명": "가슴검은자루맵시벌",
+    "학명": "Netelia (Bessobates) coreensis Cha & Lee, 1988"
+  },
+  "information": {
+    "general_description": "전체적으로 노란색이며 가슴의 등판에는 3줄의 암적색 무늬를 가진다. 복안의 폭은 높이의 1.38-1.45배이다. 단안은 작다. 후두용골도랑은 없다. 이마방패는 크고 가두리가 끊어진 형태를 가진다. 더듬이는 45-49개의 마디를 가지고 갈색을 띤 노란색이다. 앞날개의 길이에 1.20-1.25배이다. 첫 번째마디는 2번째마디의 1.29-1.38배이다. 등판도랑은 강하다. PI: 0.40-0.54, TO: 2.33-3.50, CI: 0.33-0.75, BI: 0.94-1.71, DBI: 0.73-0.83, MI: 1.74-2.06, ICI: 0.36-0.57, NI: 0.42-0.56, RI: 2.93-3.46, IOD/POD: 0, IOD/MOD: 0.3-0.4, POD/MOD: 0.50-0.67.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "전체적으로 노란색이며 가슴의 등판에는 3줄의 암적색 무늬를 가진다. 복안의 폭은 높이의 1.38-1.45배이다. 단안은 작다. 후두용골도랑은 없다. 이마방패는 크고 가두리가 끊어진 형태를 가진다. 더듬이는 45-49개의 마디를 가지고 갈색을 띤 노란색이다. 앞날개의 길이에 1.20-1.25배이다. 첫 번째마디는 2번째마디의 1.29-1.38배이다. 등판도랑은 강하다. PI: 0.40-0.54, TO: 2.33-3.50, CI: 0.33-0.75, BI: 0.94-1.71, DBI: 0.73-0.83, MI: 1.74-2.06, ICI: 0.36-0.57, NI: 0.42-0.56, RI: 2.93-3.46, IOD/POD: 0, IOD/MOD: 0.3-0.4, POD/MOD: 0.50-0.67."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBU0042-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0042_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0042_1_th.jpg",
+      "alt": "가슴검은자루맵시벌 1번째 사진 : 가슴검은자루맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0042_1_th2.jpg",
+      "caption": "가슴검은자루맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBU0042-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306288023",
+      "description": "[YNUE0306288023] 가슴검은자루맵시벌 1968.06.02 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306288024",
+      "description": "[YNUE0306288024] 가슴검은자루맵시벌 1968.05.28 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306288017",
+      "description": "[YNUE0306288017] 가슴검은자루맵시벌 1968.05.22 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTBU0042.png",
+    "reference_image_id": "ZTBU0042-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T16:26:29.497335+00:00",
+    "sha256": "f55adbdb0775dbfa8380fe929b34eb7a2299e6d399880c3d9da548a7e50ad486",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBU0042&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:07+00:00",
+    "html_sha256": "88946bf9956acc4f0fd0f7f63ba2e9982cc058f6a6f11f107e1e5fcb12ee4b81",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

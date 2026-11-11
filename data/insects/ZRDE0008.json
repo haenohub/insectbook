@@ -1,0 +1,152 @@
+{
+  "id": "ZRDE0008",
+  "name_ko": "장수쐐기나방",
+  "scientific_name": "Parasa consocia Walker, 1865",
+  "display_name": "장수쐐기나방",
+  "family_ko": "쐐기나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "알락나방상과",
+      "name_latin": "Zygaenoidea"
+    },
+    "family": {
+      "name_ko": "쐐기나방과",
+      "name_latin": "Limacodidae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Parasa"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 알락나방상과 (Zygaenoidea)\n과 : 쐐기나방과 (Limacodidae)\n속 : (Parasa)",
+  "basic_information": {
+    "곤충명": "장수쐐기나방",
+    "학명": "Parasa consocia Walker, 1865"
+  },
+  "information": {
+    "general_description": "국내분포 서울, 전라남도, 강원특별자치도, 경기도, 경상북도\n성충의 앞날개 길이는 15~16 mm이며 담록색으로 앞날개 외연부에는 둥근 황갈색 띠가 있고 기부에는 갈색 무늬가 있다. 수컷의 더듬이는 빗살모양이며. 암컷은 실 모양이다. 머리와 가슴의 등쪽면은 담초록색을 띠고 있으며, 배는 담갈색이다. 앞날개는 담초록색 바탕이며, 날개의 기부에는 전연에 접하여 다갈색을 띤다. 외연부에는 넓게 담황색부가 있으며, 각 시맥상에는 적갈색의 가는 선이 있다. 뒷날개는 담황색을 띠며. 연모의 끝은 갈색이다. 날개의 길이는 28～33㎜이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": "유충의 체장은 25 mm 정도이며 체색은 황록색으로 체폭이 넓고 앞가슴 등쪽에 2개의 검은 점이 있다. 등 중앙에 파란색의 종선(縱線)이 있고 아배부(亞背部)에는 혹이 나란히 있으며 그 위에 많은 속상(束狀) 돌기가 있다.",
+    "egg": null,
+    "pupa": null,
+    "ecology": "연 1~2회 발생한다. 1화기 성충은 6월 상순~7월 상순에 나타나며 유충은 6월부터 나타나 7월 하순~8월 중순에 노숙하여 줄기의 틈이나 가지 사이에 고치를 만든다. 2화기 성충은 8월 중순~9월 상순에 나타나며 10월에 노숙하여 고치를 짓고 전용이 된다.",
+    "habits": "어린 유충은 군서하며 엽육(葉肉)만을 식해하나, 성장하면 분산하여 잎 전체를 가해한다.",
+    "season": null,
+    "overwintering": "고치 속에서 전용으로 월동한다.",
+    "distribution": "[일본]\n[중국]\n[대만]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "국내분포 서울, 전라남도, 강원특별자치도, 경기도, 경상북도\n성충의 앞날개 길이는 15~16 mm이며 담록색으로 앞날개 외연부에는 둥근 황갈색 띠가 있고 기부에는 갈색 무늬가 있다. 수컷의 더듬이는 빗살모양이며. 암컷은 실 모양이다. 머리와 가슴의 등쪽면은 담초록색을 띠고 있으며, 배는 담갈색이다. 앞날개는 담초록색 바탕이며, 날개의 기부에는 전연에 접하여 다갈색을 띤다. 외연부에는 넓게 담황색부가 있으며, 각 시맥상에는 적갈색의 가는 선이 있다. 뒷날개는 담황색을 띠며. 연모의 끝은 갈색이다. 날개의 길이는 28～33㎜이다."
+    },
+    {
+      "title": "유충",
+      "text": "유충의 체장은 25 mm 정도이며 체색은 황록색으로 체폭이 넓고 앞가슴 등쪽에 2개의 검은 점이 있다. 등 중앙에 파란색의 종선(縱線)이 있고 아배부(亞背部)에는 혹이 나란히 있으며 그 위에 많은 속상(束狀) 돌기가 있다."
+    },
+    {
+      "title": "생태",
+      "text": "연 1~2회 발생한다. 1화기 성충은 6월 상순~7월 상순에 나타나며 유충은 6월부터 나타나 7월 하순~8월 중순에 노숙하여 줄기의 틈이나 가지 사이에 고치를 만든다. 2화기 성충은 8월 중순~9월 상순에 나타나며 10월에 노숙하여 고치를 짓고 전용이 된다."
+    },
+    {
+      "title": "습성",
+      "text": "어린 유충은 군서하며 엽육(葉肉)만을 식해하나, 성장하면 분산하여 잎 전체를 가해한다."
+    },
+    {
+      "title": "월동",
+      "text": "고치 속에서 전용으로 월동한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[대만]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDE0008-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDE0008_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDE0008_2_th.jpg",
+      "alt": "장수쐐기나방 1번째 사진 : 장수쐐기나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDE0008_2_th2.jpg",
+      "caption": "장수쐐기나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDE0008-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDE0008_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDE0008_1_th.jpg",
+      "alt": "장수쐐기나방 2번째 사진 : 장수쐐기나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDE0008_1_th2.jpg",
+      "caption": "장수쐐기나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDE0008-1",
+  "specimen_examples": [
+    {
+      "id": "GSNE0304101156",
+      "description": "[GSNE0304101156] 장수쐐기나방 1985.07.23 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0304101157",
+      "description": "[GSNE0304101157] 장수쐐기나방 1996.07.18 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0304101158",
+      "description": "[GSNE0304101158] 장수쐐기나방 1999.07.11 / / 경상대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "물푸레나무",
+      "scientific_name": "Fraxinus rhynchophylla Hance"
+    },
+    {
+      "group": "식물",
+      "name_ko": "미루나무",
+      "scientific_name": "Populus deltoides W.Bartram ex Marshall"
+    },
+    {
+      "group": "식물",
+      "name_ko": "밤나무",
+      "scientific_name": "Castanea crenata Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "벚나무",
+      "scientific_name": "Prunus serrulata f. spontanea (Maxim.) Chin S.Chang"
+    },
+    {
+      "group": "식물",
+      "name_ko": "사과나무",
+      "scientific_name": "Malus domestica (Suckow) Borkh."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDE0008-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDE0008&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:08+00:00",
+    "html_sha256": "b8e2a3e1f3c48a06863e5633b8664d448e4901872e06ae530288f2517f2e8f29",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

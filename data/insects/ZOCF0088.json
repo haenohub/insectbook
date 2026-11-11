@@ -1,0 +1,118 @@
+{
+  "id": "ZOCF0088",
+  "name_ko": "올리브곰보바구미",
+  "scientific_name": "Pimelocerus perforatus (Roelofs, 1873)",
+  "display_name": "올리브곰보바구미",
+  "family_ko": "바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "바구미과",
+      "name_latin": "Curculionidae"
+    },
+    "subfamily": {
+      "name_ko": "참바구미아과",
+      "name_latin": "Molytinae"
+    },
+    "genus": {
+      "name_ko": "곰보바구미속",
+      "name_latin": "Pimelocerus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 바구미과 (Curculionidae)\n아과 : 참바구미아과 (Molytinae)\n속 : 곰보바구미속 (Pimelocerus)",
+  "basic_information": {
+    "곤충명": "올리브곰보바구미",
+    "학명": "Pimelocerus perforatus (Roelofs, 1873)"
+  },
+  "information": {
+    "general_description": "몸길이는 12~15mm이며, 딱지날개는 흑색의 바탕에 위쪽은 금색광택의 점각이 있고, 밑쪽으로는 금색의 기다란무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 12~15mm이며, 딱지날개는 흑색의 바탕에 위쪽은 금색광택의 점각이 있고, 밑쪽으로는 금색의 기다란무늬가 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCF0088-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0088_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0088_1_th.jpg",
+      "alt": "올리브곰보바구미 1번째 사진 : 올리브곰보바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0088_1_th2.jpg",
+      "caption": "올리브곰보바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCF0088-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303112063",
+      "description": "[KNAE0303112063] 올리브곰보바구미 1994.08.04 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0609042073",
+      "description": "[KNAE0609042073] 올리브곰보바구미 1996.07.29 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0911111058",
+      "description": "[KNAE0911111058] 올리브곰보바구미 1996.07.29 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "광나무",
+      "scientific_name": "Ligustrum japonicum Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "쥐똥나무",
+      "scientific_name": "Ligustrum obtusifolium Siebold & Zucc."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOCF0088-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCF0088&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:27+00:00",
+    "html_sha256": "5c6b750408a079a7b22877041447cae379de26d0552464d0ebc469a389a6625d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

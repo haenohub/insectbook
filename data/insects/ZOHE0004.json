@@ -1,0 +1,99 @@
+{
+  "id": "ZOHE0004",
+  "name_ko": "검은털송장풍뎅이",
+  "scientific_name": "Trox mandli Balthasar, 1931",
+  "display_name": "검은털송장풍뎅이",
+  "family_ko": "송장풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "송장풍뎅이과",
+      "name_latin": "Trogidae"
+    },
+    "genus": {
+      "name_ko": "송장풍뎅이속",
+      "name_latin": "Trox"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 송장풍뎅이과 (Trogidae)\n속 : 송장풍뎅이속 (Trox)",
+  "basic_information": {
+    "곤충명": "검은털송장풍뎅이",
+    "학명": "Trox mandli Balthasar, 1931"
+  },
+  "information": {
+    "general_description": "일본에 분포하며 흑색이나 담황색 분비물로 뎦여있다. 넓은 종. 점각에 수반된 극모는 마모가 심함. 이마융기는 높고 굷으며, 눈의 앞쪽으로 경사지게 위치한다. 전흉배판의 양옆은 파상이며 담황색 극모는 잎모양이나 마모된 것은 곤봉형으로 보임. 딱지날개 홀수 간실의 융기부는 높고 20~25개의 흑갈색 가시털 다발이, 짝수 간실은 울퉁불퉁한데 작은 돌기물 위에 2개의 미세한 극모가 가로로 배열함. BL:6~7mm. BW:3.9~4.3mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "일본에 분포하며 흑색이나 담황색 분비물로 뎦여있다. 넓은 종. 점각에 수반된 극모는 마모가 심함. 이마융기는 높고 굷으며, 눈의 앞쪽으로 경사지게 위치한다. 전흉배판의 양옆은 파상이며 담황색 극모는 잎모양이나 마모된 것은 곤봉형으로 보임. 딱지날개 홀수 간실의 융기부는 높고 20~25개의 흑갈색 가시털 다발이, 짝수 간실은 울퉁불퉁한데 작은 돌기물 위에 2개의 미세한 극모가 가로로 배열함. BL:6~7mm. BW:3.9~4.3mm."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOHE0004-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOHE0004_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOHE0004_1_th.jpg",
+      "alt": "검은털송장풍뎅이 1번째 사진 : 검은털송장풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOHE0004_1_th2.jpg",
+      "caption": "검은털송장풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOHE0004-1",
+  "specimen_examples": [
+    {
+      "id": "SSUE0302191002",
+      "description": "[SSUE0302191002] 검은털송장풍뎅이 1990.05.12 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0302191001",
+      "description": "[SSUE0302191001] 검은털송장풍뎅이 1990.05.20 / / 성신여자대학교"
+    },
+    {
+      "id": "KNAE359783",
+      "description": "[KNAE359783] 검은털송장풍뎅이 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOHE0004.png",
+    "reference_image_id": "ZOHE0004-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T11:05:15.654874+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "13c9ca209484f644f5f08559e078eafaccb36d91c355c870ea9ffe98ed2ec22e"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOHE0004&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:03+00:00",
+    "html_sha256": "c5556ec4f0c98ba2d45ee4526af49d41fe4c9f13acf44eb2351ba4f2d2e8ad11",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

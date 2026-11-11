@@ -1,0 +1,123 @@
+{
+  "id": "ZRCQ0012",
+  "name_ko": "꽃팔랑나비",
+  "scientific_name": "Hesperia florinda (Butler, 1878)",
+  "display_name": "꽃팔랑나비",
+  "family_ko": "팔랑나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "팔랑나비과",
+      "name_latin": "Hesperiidae"
+    },
+    "subfamily": {
+      "name_ko": "팔랑나비아과",
+      "name_latin": "Hesperiinae"
+    },
+    "genus": {
+      "name_ko": "꽃팔랑나비속",
+      "name_latin": "Hesperia"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 팔랑나비과 (Hesperiidae)\n아과 : 팔랑나비아과 (Hesperiinae)\n속 : 꽃팔랑나비속 (Hesperia)",
+  "basic_information": {
+    "곤충명": "꽃팔랑나비",
+    "학명": "Hesperia florinda (Butler, 1878)"
+  },
+  "information": {
+    "general_description": "수풀떠들썩팔랑나비와 비슷하여 혼동하기 쉽다.",
+    "adult": null,
+    "adult_male": "수컷은 앞날개 중실 부근에 있는 검은색 성표 중앙이 은백색이다. 날개 윗면의 바탕색이 암컷에 비하여 붉은색이 강하고 앞날개 중실 아래에 광택이 나는 검정색 성표가 있다.",
+    "adult_female": "암컷은 앞날개 윗면 제2실 안쪽에 노랑색 작은 무늬가 없다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "한라산 정상 부위나 강원특별자치도 산지의 양지바른 초지, 숲 가장자리의 넓은 공터 서식한다. 유사종 보다는 약간 늦게 발생하는 편이다. 갈퀴나물, 엉겅퀴, 큰까치수영 등의 꽃에서 흡밀한다. 수컷은 풀 잎 위에서 일광욕을 하던 중 점유행동을 할 때도 있으며, 축축한 습지에 흡수할 때도 있다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]\n[유럽]",
+    "notes": "[국지적분포종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "수풀떠들썩팔랑나비와 비슷하여 혼동하기 쉽다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "수컷은 앞날개 중실 부근에 있는 검은색 성표 중앙이 은백색이다. 날개 윗면의 바탕색이 암컷에 비하여 붉은색이 강하고 앞날개 중실 아래에 광택이 나는 검정색 성표가 있다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "암컷은 앞날개 윗면 제2실 안쪽에 노랑색 작은 무늬가 없다."
+    },
+    {
+      "title": "습성",
+      "text": "한라산 정상 부위나 강원특별자치도 산지의 양지바른 초지, 숲 가장자리의 넓은 공터 서식한다. 유사종 보다는 약간 늦게 발생하는 편이다. 갈퀴나물, 엉겅퀴, 큰까치수영 등의 꽃에서 흡밀한다. 수컷은 풀 잎 위에서 일광욕을 하던 중 점유행동을 할 때도 있으며, 축축한 습지에 흡수할 때도 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]\n[유럽]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[국지적분포종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCQ0012-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0012_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0012_1_th.jpg",
+      "alt": "꽃팔랑나비 1번째 사진 : 꽃팔랑나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0012_1_th2.jpg",
+      "caption": "꽃팔랑나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCQ0012-1",
+  "specimen_examples": [
+    {
+      "id": "JFNE0201281001",
+      "description": "[JFNE0201281001] 꽃팔랑나비 1978.08.17 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0201281002",
+      "description": "[JFNE0201281002] 꽃팔랑나비 1978.07.27 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0201281003",
+      "description": "[JFNE0201281003] 꽃팔랑나비 1996.08.10 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRCQ0012.png",
+    "reference_image_id": "ZRCQ0012-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T14:56:19.458757+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "6dfb3ecf6e31892bae7afc532bfa64b160a8ef1056a62c5906b311b151965ab4"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCQ0012&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:57+00:00",
+    "html_sha256": "789f44ae88e14044ef62faf7baf504e17285c23aa706fd180aa38b6e7cbce69d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

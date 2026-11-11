@@ -1,0 +1,140 @@
+{
+  "id": "ZRED0002",
+  "name_ko": "상제나비",
+  "scientific_name": "Aporia crataegi (Linnaeus, 1758)",
+  "display_name": "상제나비",
+  "family_ko": "흰나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "흰나비과",
+      "name_latin": "Pieridae"
+    },
+    "subfamily": {
+      "name_ko": "흰나비아과",
+      "name_latin": "Pierinae"
+    },
+    "genus": {
+      "name_ko": "상제나비속",
+      "name_latin": "Aporia"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 흰나비과 (Pieridae)\n아과 : 흰나비아과 (Pierinae)\n속 : 상제나비속 (Aporia)",
+  "basic_information": {
+    "곤충명": "상제나비",
+    "학명": "Aporia crataegi (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "앞뒤 날개모두 흰색을 띠는데 전반적으로 발달된 무늬는 없다. 최근 그 개체수가 줄어들고 있는 희귀종이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": "암컷은 수컷에 비하여 비늘가루가 적고 약간 어두워 보이며 앞날개 기부에서 중앙에 걸쳐 특히 반투명하다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "일반적으로 나무가 별로 없는 구릉이나 개살구가 야생화된 지역에 서식하는 것으로 알려져 있으나, 최근 거의 채집되지 않고 있는 종이다. 5월중순에서 6월초에 걸쳐 연 1회 발생한다.",
+    "habits": "암수 모두 엉겅퀴, 조뱅이, 토끼풀 등의 꽃에서 흡밀한다. 암컷은 기주식물의 잎 뒷면에 5-60개 가량의 알을 한꺼번에 산란하는데, 애벌레들도 집단으로 실을 엮고 생활한다. 일반적으로 먹을때에만 새 잎으로 이동하는 경향이 있다. 월동후 성장하여 종령애벌레가 되는데 이 시기부터 독립생활을 한다. 번데기는 기주식물 주변의 나무줄기에서 발견된다고 한다.",
+    "season": null,
+    "overwintering": "애벌레",
+    "distribution": "[일본]\n[중국]\n[러시아]\n[유럽]",
+    "notes": "[I급 멸종위기야생동식물] 환경부지정\n[흡밀곤충] 엉겅퀴, 조뱅이, 토끼풀\n[희귀종] 환경부지정",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "앞뒤 날개모두 흰색을 띠는데 전반적으로 발달된 무늬는 없다. 최근 그 개체수가 줄어들고 있는 희귀종이다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "암컷은 수컷에 비하여 비늘가루가 적고 약간 어두워 보이며 앞날개 기부에서 중앙에 걸쳐 특히 반투명하다."
+    },
+    {
+      "title": "생태",
+      "text": "일반적으로 나무가 별로 없는 구릉이나 개살구가 야생화된 지역에 서식하는 것으로 알려져 있으나, 최근 거의 채집되지 않고 있는 종이다. 5월중순에서 6월초에 걸쳐 연 1회 발생한다."
+    },
+    {
+      "title": "습성",
+      "text": "암수 모두 엉겅퀴, 조뱅이, 토끼풀 등의 꽃에서 흡밀한다. 암컷은 기주식물의 잎 뒷면에 5-60개 가량의 알을 한꺼번에 산란하는데, 애벌레들도 집단으로 실을 엮고 생활한다. 일반적으로 먹을때에만 새 잎으로 이동하는 경향이 있다. 월동후 성장하여 종령애벌레가 되는데 이 시기부터 독립생활을 한다. 번데기는 기주식물 주변의 나무줄기에서 발견된다고 한다."
+    },
+    {
+      "title": "월동",
+      "text": "애벌레"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]\n[유럽]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[I급 멸종위기야생동식물] 환경부지정\n[흡밀곤충] 엉겅퀴, 조뱅이, 토끼풀\n[희귀종] 환경부지정"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRED0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRED0002_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRED0002_2_th.jpg",
+      "alt": "상제나비 1번째 사진 : 상제나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRED0002_2_th2.jpg",
+      "caption": "상제나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRED0002-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRED0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRED0002_1_th.jpg",
+      "alt": "상제나비 2번째 사진 : 상제나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRED0002_1_th2.jpg",
+      "caption": "상제나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRED0002-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0201151131",
+      "description": "[UIBE0201151131] 상제나비 1987.05.21 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0201151132",
+      "description": "[UIBE0201151132] 상제나비 1987.05.28 / / 인천대학교"
+    },
+    {
+      "id": "ENHE0405141001",
+      "description": "[ENHE0405141001] 상제나비 2001.07.06 / / 이화여자대학교 자연사박물관"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "털야광나무",
+      "scientific_name": "Malus mandshurica (Maxim.) Kom. ex Skvortsov"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRED0002-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRED0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:47+00:00",
+    "html_sha256": "aa6e07e3c601e48a31a50dcecc83e56bed625bc551d5c666236dc932d1d66333",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

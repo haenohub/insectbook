@@ -1,0 +1,111 @@
+{
+  "id": "ZRCI0293",
+  "name_ko": "노랑다리물결자나방",
+  "scientific_name": "Xanthorhoe abraxina (Butler, 1879)",
+  "display_name": "노랑다리물결자나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "물결자나방아과",
+      "name_latin": "Larentiinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Xanthorhoe"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 물결자나방아과 (Larentiinae)\n속 : (Xanthorhoe)",
+  "basic_information": {
+    "곤충명": "노랑다리물결자나방",
+    "학명": "Xanthorhoe abraxina (Butler, 1879)"
+  },
+  "information": {
+    "general_description": "더듬이는 수컷이 빗살모양.\n가슴과 배는 황색이며, 배의 등면에 흑색 점줄 있음.\n날개는 백색이고, 무늬는 흑색.\n연모는 흑색이나 간간히 백색을 띰,\n뒷면에서는 흑색 무늬가 더 뚜렷.\n날개길이 32-34mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 수컷이 빗살모양.\n가슴과 배는 황색이며, 배의 등면에 흑색 점줄 있음.\n날개는 백색이고, 무늬는 흑색.\n연모는 흑색이나 간간히 백색을 띰,\n뒷면에서는 흑색 무늬가 더 뚜렷.\n날개길이 32-34mm."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0293-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0293_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0293_1_th.jpg",
+      "alt": "노랑다리물결자나방 1번째 사진 : 노랑다리물결자나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0293_1_th2.jpg",
+      "caption": "노랑다리물결자나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0293-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0202062071",
+      "description": "[UIBE0202062071] 노랑다리물결자나방 2000.06.13 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0202062072",
+      "description": "[UIBE0202062072] 노랑다리물결자나방 1995.07.06 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0202062073",
+      "description": "[UIBE0202062073] 노랑다리물결자나방 1995.07.06 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRCI0293.png",
+    "reference_image_id": "ZRCI0293-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T11:44:38.031434+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "dad4ae17225431d23189886c60319a17b13080607ea1ac90d9f98293288af2e9"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0293&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:05+00:00",
+    "html_sha256": "d47fa152780f58156ce72c00108fbaf94d0cc06369a5f88d1eb6d51acb63888a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

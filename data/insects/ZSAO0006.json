@@ -1,0 +1,107 @@
+{
+  "id": "ZSAO0006",
+  "name_ko": "빌로오도재니등에",
+  "scientific_name": "Bombylius major Linnaeus, 1758",
+  "display_name": "빌로오도재니등에",
+  "family_ko": "재니등에과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "파리매상과",
+      "name_latin": "Asiloidea"
+    },
+    "family": {
+      "name_ko": "재니등에과",
+      "name_latin": "Bombyliidae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Bombyliinae"
+    },
+    "genus": {
+      "name_ko": "재니등에속",
+      "name_latin": "Bombylius"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 파리매상과 (Asiloidea)\n과 : 재니등에과 (Bombyliidae)\n아과 : (Bombyliinae)\n속 : 재니등에속 (Bombylius)",
+  "basic_information": {
+    "곤충명": "빌로오도재니등에",
+    "학명": "Bombylius major Linnaeus, 1758"
+  },
+  "information": {
+    "general_description": "몸길이는 7~11 mm이다. 몸은 흑색이며, 연한 황색의 긴 털이 밀생하였다. 더듬이는 가늘고 길며 흑색이다. 배는 짧고 굵으며 꼬리 끝과 옆 가장자리의 중앙부에 흑색 털이 나 있다. 가슴의 옆구리에는 긴 흰 털이 밀생하고 가장자리는 갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "4~5월과 9~10월에 흔히 출현한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[미국]\n[유럽]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 7~11 mm이다. 몸은 흑색이며, 연한 황색의 긴 털이 밀생하였다. 더듬이는 가늘고 길며 흑색이다. 배는 짧고 굵으며 꼬리 끝과 옆 가장자리의 중앙부에 흑색 털이 나 있다. 가슴의 옆구리에는 긴 흰 털이 밀생하고 가장자리는 갈색이다."
+    },
+    {
+      "title": "생태",
+      "text": "4~5월과 9~10월에 흔히 출현한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[미국]\n[유럽]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSAO0006-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSAO0006_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSAO0006_1_th.jpg",
+      "alt": "빌로오도재니등에 1번째 사진 : 빌로오드재니등에전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSAO0006_1_th2.jpg",
+      "caption": "빌로오드재니등에전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSAO0006-1",
+  "specimen_examples": [
+    {
+      "id": "CBNE0306021001",
+      "description": "[CBNE0306021001] 빌로오도재니등에 2002.04.07 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0306021003",
+      "description": "[CBNE0306021003] 빌로오도재니등에 2002.04.05 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0306021004",
+      "description": "[CBNE0306021004] 빌로오도재니등에 2002.04.12 / / 충북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZSAO0006-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSAO0006&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:58+00:00",
+    "html_sha256": "2a4cab45abd6c4985f8d6bc5ed3016559915f36134b78f8ea3a9e5185ed13166",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

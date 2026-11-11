@@ -1,0 +1,103 @@
+{
+  "id": "ZOAR0014",
+  "name_ko": "참나무꼬마거위벌레",
+  "scientific_name": "Caenorhinus (Caenorhinus) mannerheimi (Hummel, 1823)",
+  "display_name": "참나무꼬마거위벌레",
+  "family_ko": "거위벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "거위벌레과",
+      "name_latin": "Attelabidae"
+    },
+    "subfamily": {
+      "name_ko": "주둥이거위벌레아과",
+      "name_latin": "Rhynchitinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Caenorhinus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 거위벌레과 (Attelabidae)\n아과 : 주둥이거위벌레아과 (Rhynchitinae)\n속 : (Caenorhinus)",
+  "basic_information": {
+    "곤충명": "참나무꼬마거위벌레",
+    "학명": "Caenorhinus (Caenorhinus) mannerheimi (Hummel, 1823)"
+  },
+  "information": {
+    "general_description": "한국, 일본, 중국, 몽고, 러시아, 유럽, 인도에 분포하며, 체장은 3.2-4.4mm 정도이다. 체색은 청흑색이며, 가늘고 깉 편이다. 주둥이는 짧으며, 더듬이는 길다. 더듬이의 셋째마디가 다른 마디들보다 길다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]\n[몽골]\n[인도]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 중국, 몽고, 러시아, 유럽, 인도에 분포하며, 체장은 3.2-4.4mm 정도이다. 체색은 청흑색이며, 가늘고 깉 편이다. 주둥이는 짧으며, 더듬이는 길다. 더듬이의 셋째마디가 다른 마디들보다 길다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]\n[몽골]\n[인도]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAR0014-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0014_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0014_1_th.jpg",
+      "alt": "참나무꼬마거위벌레 1번째 사진 : 참나무꼬마거위벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0014_1_th2.jpg",
+      "caption": "참나무꼬마거위벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAR0014-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0306131058",
+      "description": "[FRIE0306131058] 참나무꼬마거위벌레 1999.07.20 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE300284",
+      "description": "[KNAE300284] 참나무꼬마거위벌레 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAR0014-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAR0014&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:49+00:00",
+    "html_sha256": "b66ee5fd2c45953f690a74c718dd4226572100f5058ca5eb17a5637c865118a3",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

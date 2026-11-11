@@ -1,0 +1,111 @@
+{
+  "id": "ZLBN0118",
+  "name_ko": "명아주장님노린재",
+  "scientific_name": "Orthotylus flavosparsus (Sahlberg, 1841)",
+  "display_name": "명아주장님노린재",
+  "family_ko": "장님노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "장님노린재상과",
+      "name_latin": "Miroidea"
+    },
+    "family": {
+      "name_ko": "장님노린재과",
+      "name_latin": "Miridae"
+    },
+    "subfamily": {
+      "name_ko": "들장님노린재아과",
+      "name_latin": "Orthotylinae"
+    },
+    "genus": {
+      "name_ko": "들장님노린재속",
+      "name_latin": "Orthotylus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 장님노린재상과 (Miroidea)\n과 : 장님노린재과 (Miridae)\n아과 : 들장님노린재아과 (Orthotylinae)\n속 : 들장님노린재속 (Orthotylus)",
+  "basic_information": {
+    "곤충명": "명아주장님노린재",
+    "학명": "Orthotylus flavosparsus (Sahlberg, 1841)"
+  },
+  "information": {
+    "general_description": "몸길이 : 3.5mm정도\n몸은 황록색에 황색 점이 불규칙하게 산포되었고, 막질부는 녹색을 띤다. 머리, 앞가슴등, 작은방패판에는 연한 색 털과 회백색의 복와한 편평모가 산포되고, 반시초 위에는 암색 털과 소수의 복와한 회백색 편평모가 있다. 또 반시초의 암색 털 기부에는 진한 녹색의 작은 점이 있다. 종아리마디 위의 극모는 연한 색이다. 정수리의 뒷가장자리는 가로능을 형성한다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "사탕무우를 해치고 명아주 과 식물의 잡초에 많다.",
+    "habits": "등불에 날아든다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 3.5mm정도\n몸은 황록색에 황색 점이 불규칙하게 산포되었고, 막질부는 녹색을 띤다. 머리, 앞가슴등, 작은방패판에는 연한 색 털과 회백색의 복와한 편평모가 산포되고, 반시초 위에는 암색 털과 소수의 복와한 회백색 편평모가 있다. 또 반시초의 암색 털 기부에는 진한 녹색의 작은 점이 있다. 종아리마디 위의 극모는 연한 색이다. 정수리의 뒷가장자리는 가로능을 형성한다."
+    },
+    {
+      "title": "생태",
+      "text": "사탕무우를 해치고 명아주 과 식물의 잡초에 많다."
+    },
+    {
+      "title": "습성",
+      "text": "등불에 날아든다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLBN0118-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBN0118_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBN0118_1_th.jpg",
+      "alt": "명아주장님노린재 1번째 사진 : 명아주장님노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBN0118_1_th2.jpg",
+      "caption": "명아주장님노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLBN0118-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0408182196",
+      "description": "[SNUE0408182196] 명아주장님노린재 2003.06.26 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0408182197",
+      "description": "[SNUE0408182197] 명아주장님노린재 2003.06.26 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0408182198",
+      "description": "[SNUE0408182198] 명아주장님노린재 1991.06.28 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLBN0118-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLBN0118&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:12+00:00",
+    "html_sha256": "e98dfc045df7fff9897ec3cc0bcf173399535f8ba0de2eced2008ee7f0e04672",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

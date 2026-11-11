@@ -1,0 +1,99 @@
+{
+  "id": "ZTBU0293",
+  "name_ko": "삼색맵시벌",
+  "scientific_name": "Diphyus tricolor (Kim, 1955)",
+  "display_name": "삼색맵시벌",
+  "family_ko": "맵시벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "맵시벌과",
+      "name_latin": "Ichneumonidae"
+    },
+    "subfamily": {
+      "name_ko": "맵시벌아과",
+      "name_latin": "Ichneumoninae"
+    },
+    "genus": {
+      "name_ko": "세줄박이맵시벌속",
+      "name_latin": "Diphyus"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 맵시벌과 (Ichneumonidae)\n아과 : 맵시벌아과 (Ichneumoninae)\n속 : 세줄박이맵시벌속 (Diphyus)",
+  "basic_information": {
+    "곤충명": "삼색맵시벌",
+    "학명": "Diphyus tricolor (Kim, 1955)"
+  },
+  "information": {
+    "general_description": "몸은 흑색이고, 더듬이의 중앙(제12∼22마디)의 윗면은 백색이고, 얼굴, 머리방패, 이마 양 옆, 수염, 큰턱의 끝을 제외한 부분, 자루마디의 아랫면, 앞가슴등판, 어깨판, 날개 밑 비늘 그 아래의 무늬, 작은방패판, 제1·2·3배마디의 뒤 양 옆과 다리는 황색이다. 앞·가운데다리의 넓적다리마디의 윗면, 뒷다리의 밑마디는 완전히 도래마디는 기부만, 그리고 그 종아리마디(끝을 제외), 발목마디 끝 등은 암갈색이다. 제2·3배마디는 황적색이나 제2마디는 완전히 또는 중앙이 그리고 제3마디는 뒷슭이 흑색을 띠고 있다.성충의 몸길이는 16mm정도 이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸은 흑색이고, 더듬이의 중앙(제12∼22마디)의 윗면은 백색이고, 얼굴, 머리방패, 이마 양 옆, 수염, 큰턱의 끝을 제외한 부분, 자루마디의 아랫면, 앞가슴등판, 어깨판, 날개 밑 비늘 그 아래의 무늬, 작은방패판, 제1·2·3배마디의 뒤 양 옆과 다리는 황색이다. 앞·가운데다리의 넓적다리마디의 윗면, 뒷다리의 밑마디는 완전히 도래마디는 기부만, 그리고 그 종아리마디(끝을 제외), 발목마디 끝 등은 암갈색이다. 제2·3배마디는 황적색이나 제2마디는 완전히 또는 중앙이 그리고 제3마디는 뒷슭이 흑색을 띠고 있다.성충의 몸길이는 16mm정도 이다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBU0293-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0293_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0293_1_th.jpg",
+      "alt": "삼색맵시벌 1번째 사진 : 삼색맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0293_1_th2.jpg",
+      "caption": "삼색맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBU0293-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305301027",
+      "description": "[YNUE0305301027] 삼색맵시벌 1987.08.19 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305301028",
+      "description": "[YNUE0305301028] 삼색맵시벌 1988.07.30 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305261095",
+      "description": "[YNUE0305261095] 삼색맵시벌 1976.07.07 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTBU0293-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBU0293&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:42+00:00",
+    "html_sha256": "6971ccb6a785a7cde6785f61652c4ac5b3cba8ed5a2e937ef466a03a603a2b25",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

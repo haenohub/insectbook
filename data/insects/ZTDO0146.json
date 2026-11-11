@@ -1,0 +1,91 @@
+{
+  "id": "ZTDO0146",
+  "name_ko": "마디두스잎벌",
+  "scientific_name": "Dolerus (Achaetoprion) madidus (Klug, 1818)",
+  "display_name": "마디두스잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "줄잎벌아과",
+      "name_latin": "Selandriinae"
+    },
+    "genus": {
+      "name_ko": "보리잎벌속",
+      "name_latin": "Dolerus"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 줄잎벌아과 (Selandriinae)\n속 : 보리잎벌속 (Dolerus)",
+  "basic_information": {
+    "곤충명": "마디두스잎벌",
+    "학명": "Dolerus (Achaetoprion) madidus (Klug, 1818)"
+  },
+  "information": {
+    "general_description": "윗입술은 작고 편평하며, 머리방패는 점각이 깊고 거칠며 때때로 비대칭적으로 오목하여 우엽이 좌엽보다 조금 길게 나타나기도 한다. cenchrus는 보통 크기이고, metapostnotum은 중앙 위에서 매우 좁게 나타나 있다. 제 1발목마디는 제 2,3 발목마디 길이의 합보다 짧으며 sheath는 강모를 가지고 산란관과 함R 여러 가지 형태를 가진다. 복부의 전신복절의 흑색을 제외하고는 전체가 황갈색이다",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "윗입술은 작고 편평하며, 머리방패는 점각이 깊고 거칠며 때때로 비대칭적으로 오목하여 우엽이 좌엽보다 조금 길게 나타나기도 한다. cenchrus는 보통 크기이고, metapostnotum은 중앙 위에서 매우 좁게 나타나 있다. 제 1발목마디는 제 2,3 발목마디 길이의 합보다 짧으며 sheath는 강모를 가지고 산란관과 함R 여러 가지 형태를 가진다. 복부의 전신복절의 흑색을 제외하고는 전체가 황갈색이다"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0146-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0146_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0146_1_th.jpg",
+      "alt": "마디두스잎벌 1번째 사진 : 마디두스잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0146_1_th2.jpg",
+      "caption": "마디두스잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0146-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305191009",
+      "description": "[YNUE0305191009] 마디두스잎벌 1985.04.21 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDO0146-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0146&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:40+00:00",
+    "html_sha256": "b9a81f72c5e97a59b9b0abf730fdb1681ea114bdc7df58a4ec2ac7004e9b2aa9",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": "ZRCI0054",
+  "name_ko": "붉은줄푸른자나방",
+  "scientific_name": "Neohipparchus vallata (Butler, 1878)",
+  "display_name": "붉은줄푸른자나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "푸른자나방아과",
+      "name_latin": "Geometrinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Neohipparchus"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 푸른자나방아과 (Geometrinae)\n속 : (Neohipparchus)",
+  "basic_information": {
+    "곤충명": "붉은줄푸른자나방",
+    "학명": "Neohipparchus vallata (Butler, 1878)"
+  },
+  "information": {
+    "general_description": "더듬이 : 수컷은 빗살모양, 암컷은 실모양\n몸과 날개 : 청록색\n날 개 : 뒷날개의 전연은 회황색으로 흑색점이 흩어져 있음\n내횡선과 외횡선은 백색이고 뒷날개는 외횡선만 존재\n뒷날개는 제3주맥과 제3중맥부분이 암색을 띈다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이 : 수컷은 빗살모양, 암컷은 실모양\n몸과 날개 : 청록색\n날 개 : 뒷날개의 전연은 회황색으로 흑색점이 흩어져 있음\n내횡선과 외횡선은 백색이고 뒷날개는 외횡선만 존재\n뒷날개는 제3주맥과 제3중맥부분이 암색을 띈다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0054-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0054_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0054_2_th.jpg",
+      "alt": "붉은줄푸른자나방 1번째 사진 : 붉은줄푸른자나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0054_2_th2.jpg",
+      "caption": "붉은줄푸른자나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0054-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0054_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0054_1_th.jpg",
+      "alt": "붉은줄푸른자나방 2번째 사진 : 붉은줄푸른자나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0054_1_th2.jpg",
+      "caption": "붉은줄푸른자나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0054-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0302111027",
+      "description": "[FRIE0302111027] 붉은줄푸른자나방 1987.08.08 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0302111028",
+      "description": "[FRIE0302111028] 붉은줄푸른자나방 1987.08.06 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0201142049",
+      "description": "[KNAE0201142049] 붉은줄푸른자나방 1993.08.10 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCI0054-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0054&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:54+00:00",
+    "html_sha256": "ef95ff8a1912adb580b742808ef0d2143b5fc5a2ccdfb3a9b9aac43fc8929584",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "ZOAN0053",
+  "name_ko": "곤봉털모래풍뎅이",
+  "scientific_name": "Trichiorhyssemus asperulus (Waterhouse, 1875)",
+  "display_name": "곤봉털모래풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "똥풍뎅이아과",
+      "name_latin": "Aphodiinae"
+    },
+    "genus": {
+      "name_ko": "곤봉털모래풍뎅이속",
+      "name_latin": "Trichiorhyssemus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 똥풍뎅이아과 (Aphodiinae)\n속 : 곤봉털모래풍뎅이속 (Trichiorhyssemus)",
+  "basic_information": {
+    "곤충명": "곤봉털모래풍뎅이",
+    "학명": "Trichiorhyssemus asperulus (Waterhouse, 1875)"
+  },
+  "information": {
+    "general_description": "일본에 분포하며 가늘고 길며 광택은 없다. 흑색~짙은 흑갈색이나 머리의 둘레, 전흉배판 앞모서리 근처, 다리는 적갈색이다. 후두부 양측의 융기선은 짧고, 전흉배판에는 5개의 깊은 가로홈과 1개의 중앙 뒤쪽 세로홈이 있고 둘레는 끝이 굵은 강모가, 배판의 가로홈과 딱지날개에는 짧은 강모가 났다. 딱지날개의 견치는 크고, 간실의 과립열은 두가지 크기이며, 강모열도 발달하였다. 전퇴절은 중,후퇴절보다 굵고, 후부절은 후경절과 거의 같은 길이이며, 제1후부절은 다음 3마디의 합보다 짧다. BL:3~3.5mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "일본에 분포하며 가늘고 길며 광택은 없다. 흑색~짙은 흑갈색이나 머리의 둘레, 전흉배판 앞모서리 근처, 다리는 적갈색이다. 후두부 양측의 융기선은 짧고, 전흉배판에는 5개의 깊은 가로홈과 1개의 중앙 뒤쪽 세로홈이 있고 둘레는 끝이 굵은 강모가, 배판의 가로홈과 딱지날개에는 짧은 강모가 났다. 딱지날개의 견치는 크고, 간실의 과립열은 두가지 크기이며, 강모열도 발달하였다. 전퇴절은 중,후퇴절보다 굵고, 후부절은 후경절과 거의 같은 길이이며, 제1후부절은 다음 3마디의 합보다 짧다. BL:3~3.5mm."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAN0053-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAN0053_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAN0053_1_th.jpg",
+      "alt": "곤봉털모래풍뎅이 1번째 사진 : 곤봉털모래풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAN0053_1_th2.jpg",
+      "caption": "곤봉털모래풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAN0053-1",
+  "specimen_examples": [
+    {
+      "id": "SSUE0303071033",
+      "description": "[SSUE0303071033] 곤봉털모래풍뎅이 1999.08.08 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0303071034",
+      "description": "[SSUE0303071034] 곤봉털모래풍뎅이 1999.08.08 / / 성신여자대학교"
+    },
+    {
+      "id": "KNAE357938",
+      "description": "[KNAE357938] 곤봉털모래풍뎅이 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOAN0053.png",
+    "reference_image_id": "ZOAN0053-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T12:54:57.483589+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "4c1c6627813037548662d51e6ecc4ee390c8994de420ee4906924e72bde1c087"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAN0053&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:59+00:00",
+    "html_sha256": "b85b60d20263e6039154240137f3e5e35a8067b17c73e0364e14ed4ce1e0ed5d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "ZSAO0007",
+  "name_ko": "좀털보재니등에",
+  "scientific_name": "Bombylius shibakawae Matsumura, 1916",
+  "display_name": "좀털보재니등에",
+  "family_ko": "재니등에과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "파리매상과",
+      "name_latin": "Asiloidea"
+    },
+    "family": {
+      "name_ko": "재니등에과",
+      "name_latin": "Bombyliidae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Bombyliinae"
+    },
+    "genus": {
+      "name_ko": "재니등에속",
+      "name_latin": "Bombylius"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 파리매상과 (Asiloidea)\n과 : 재니등에과 (Bombyliidae)\n아과 : (Bombyliinae)\n속 : 재니등에속 (Bombylius)",
+  "basic_information": {
+    "곤충명": "좀털보재니등에",
+    "학명": "Bombylius shibakawae Matsumura, 1916"
+  },
+  "information": {
+    "general_description": "빌로오도재니등에와 비슷. 몸이 훨씬 작고 얼굴에 털이 적음. (수컷은 흑색, 암컷은 황색) 더듬이의 하부는 곧 주둥이의 기부로 되고 뚜렷하게 융기. 가슴의 옆구리와 배의 아랫면에는 백색 털이 없고 전체에 황갈색 털이 밀생했고 제2,3배마디의 옆가장자리는 흑색 털이 섞여 남. 날개는 투명하고 기부는 흑갈색. 다만 암컷은 수컷보다 더 연한 색. 뒷가장자리는 차차 희미해지고 r-m 가로맥은 중실의 중앙에 위치.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "빌로오도재니등에와 비슷. 몸이 훨씬 작고 얼굴에 털이 적음. (수컷은 흑색, 암컷은 황색) 더듬이의 하부는 곧 주둥이의 기부로 되고 뚜렷하게 융기. 가슴의 옆구리와 배의 아랫면에는 백색 털이 없고 전체에 황갈색 털이 밀생했고 제2,3배마디의 옆가장자리는 흑색 털이 섞여 남. 날개는 투명하고 기부는 흑갈색. 다만 암컷은 수컷보다 더 연한 색. 뒷가장자리는 차차 희미해지고 r-m 가로맥은 중실의 중앙에 위치."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSAO0007-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSAO0007_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSAO0007_1_th.jpg",
+      "alt": "좀털보재니등에 1번째 사진 : 좀털보재니등에전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSAO0007_1_th2.jpg",
+      "caption": "좀털보재니등에전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSAO0007-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0307191459",
+      "description": "[KUIE0307191459] 좀털보재니등에 1968.06.16 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307191424",
+      "description": "[KUIE0307191424] 좀털보재니등에 1977.05.06 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307191425",
+      "description": "[KUIE0307191425] 좀털보재니등에 1962.04.29 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZSAO0007-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSAO0007&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:51+00:00",
+    "html_sha256": "e4b7c53d15e730f7623ec681963625e12f97ccded1d8bb4bc164c101888f74db",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

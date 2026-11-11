@@ -1,0 +1,103 @@
+{
+  "id": "ZREL0204",
+  "name_ko": "타이형집명나방",
+  "scientific_name": "Stericta kogii Inoue & Sasaki, 1995",
+  "display_name": "타이형집명나방",
+  "family_ko": "명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "명나방과",
+      "name_latin": "Pyralidae"
+    },
+    "subfamily": {
+      "name_ko": "집명나방아과",
+      "name_latin": "Epipaschiinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Stericta"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 명나방과 (Pyralidae)\n아과 : 집명나방아과 (Epipaschiinae)\n속 : (Stericta)",
+  "basic_information": {
+    "곤충명": "타이형집명나방",
+    "학명": "Stericta kogii Inoue & Sasaki, 1995"
+  },
+  "information": {
+    "general_description": "일본, 우수리에 분포하며 머리는 흑색이며, 더듬이는 갈색에 약간 흑색을 나타냄. 수컷 더듬이의\n병절에는 아주 긴 털로 이루어진 돌기가 있다. 아랫입술수염은 가늘고 흑\n갈색이며 위로 향한다. 제3마디는 뾰족하고 길며, 암컷의 정수리에는 흑\n갈색 인편이 거칠게 솟아 있다.\n앞날개의 내횡선은 곧고, 그 안쪽은 명료한 흑색이며, 바깥쪽은 녹색이\n가미된 황백색을 띰. 전연에 명료한 2개의 흑색정이 있고, 외연부 및 후\n각주위에는 흑갈색을 띰.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 7-8월경에 출현하며, 주로 산지에서 채집됨.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "일본, 우수리에 분포하며 머리는 흑색이며, 더듬이는 갈색에 약간 흑색을 나타냄. 수컷 더듬이의\n병절에는 아주 긴 털로 이루어진 돌기가 있다. 아랫입술수염은 가늘고 흑\n갈색이며 위로 향한다. 제3마디는 뾰족하고 길며, 암컷의 정수리에는 흑\n갈색 인편이 거칠게 솟아 있다.\n앞날개의 내횡선은 곧고, 그 안쪽은 명료한 흑색이며, 바깥쪽은 녹색이\n가미된 황백색을 띰. 전연에 명료한 2개의 흑색정이 있고, 외연부 및 후\n각주위에는 흑갈색을 띰."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 7-8월경에 출현하며, 주로 산지에서 채집됨."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0204-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0204_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0204_1_th.jpg",
+      "alt": "타이형집명나방 1번째 사진 : 타이형집명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0204_1_th2.jpg",
+      "caption": "타이형집명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0204-1",
+  "specimen_examples": [
+    {
+      "id": "CBNE0202251050",
+      "description": "[CBNE0202251050] 타이형집명나방 2000.07.13 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0202251051",
+      "description": "[CBNE0202251051] 타이형집명나방 2000.08.03 / / 충북대학교"
+    },
+    {
+      "id": "KNAE0604170040",
+      "description": "[KNAE0604170040] 타이형집명나방 2005.07.29 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREL0204-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0204&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:09+00:00",
+    "html_sha256": "92a3983cb6bc3805e8e0acc1d6c096febbc48651b012805ecf4725bdc9be8463",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

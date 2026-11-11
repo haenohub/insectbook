@@ -1,0 +1,132 @@
+{
+  "id": "ZREV0044",
+  "name_ko": "꼬리박각시",
+  "scientific_name": "Macroglossum stellatarum (Linnaeus, 1758)",
+  "display_name": "꼬리박각시",
+  "family_ko": "박각시과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "누에나방상과",
+      "name_latin": "Bombycoidea"
+    },
+    "family": {
+      "name_ko": "박각시과",
+      "name_latin": "Sphingidae"
+    },
+    "subfamily": {
+      "name_ko": "꼬리박각시아과",
+      "name_latin": "Macroglossinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Macroglossum"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 누에나방상과 (Bombycoidea)\n과 : 박각시과 (Sphingidae)\n아과 : 꼬리박각시아과 (Macroglossinae)\n속 : (Macroglossum)",
+  "basic_information": {
+    "곤충명": "꼬리박각시",
+    "학명": "Macroglossum stellatarum (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "날개편 길이 48～56mm. 이 속에 속하는 종들은 주간에 활동하며 각종 꽃에서 흡밀한다. 이 종은 앞날개 중실내에 흑색점이 있고 더듬이는 곤봉 모양이다. 뒷날개에는 외연부만 제외하고 등황색을 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "4월초부터 10월말까지 출현.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[유럽]\n[러시아]\n[중국]\n[일본]\n[인도]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 48～56mm. 이 속에 속하는 종들은 주간에 활동하며 각종 꽃에서 흡밀한다. 이 종은 앞날개 중실내에 흑색점이 있고 더듬이는 곤봉 모양이다. 뒷날개에는 외연부만 제외하고 등황색을 띤다."
+    },
+    {
+      "title": "생태",
+      "text": "4월초부터 10월말까지 출현."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[유럽]\n[러시아]\n[중국]\n[일본]\n[인도]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREV0044-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0044_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0044_2_th.jpg",
+      "alt": "꼬리박각시 1번째 사진 : 꼬리박각시전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0044_2_th2.jpg",
+      "caption": "꼬리박각시전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREV0044-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0044_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0044_1_th.jpg",
+      "alt": "꼬리박각시 2번째 사진 : 꼬리박각시전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0044_1_th2.jpg",
+      "caption": "꼬리박각시전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREV0044-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0305121065",
+      "description": "[FRIE0305121065] 꼬리박각시 1981.10.03 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0305121064",
+      "description": "[FRIE0305121064] 꼬리박각시 1988.03.23 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0305121066",
+      "description": "[FRIE0305121066] 꼬리박각시 1983.04.06 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "큰잎갈퀴",
+      "scientific_name": "Galium dahuricum Turcz. ex Ledeb."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZREV0044.png",
+    "reference_image_id": "ZREV0044-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T10:18:54.448278+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "c7743249965985477db9428ccc56bf425455ddfa3269335f1acb96a8fdfb9c02"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREV0044&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:25+00:00",
+    "html_sha256": "9c5dd1dc6013d58feea2b31b7b5f5cd71051688e5a7f528c687a1927b88bb0cd",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

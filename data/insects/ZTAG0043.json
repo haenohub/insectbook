@@ -1,0 +1,103 @@
+{
+  "id": "ZTAG0043",
+  "name_ko": "페레쯔꼬마꽃벌",
+  "scientific_name": "Lasioglossum (Lasioglossum) laeviventre (Pérez, 1905)",
+  "display_name": "페레쯔꼬마꽃벌",
+  "family_ko": "꼬마꽃벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "꼬마꽃벌과",
+      "name_latin": "Halictidae"
+    },
+    "subfamily": {
+      "name_ko": "꼬마꽃벌아과",
+      "name_latin": "Halictinae"
+    },
+    "genus": {
+      "name_ko": "줄꼬마꽃벌속",
+      "name_latin": "Lasioglossum"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 꼬마꽃벌과 (Halictidae)\n아과 : 꼬마꽃벌아과 (Halictinae)\n속 : 줄꼬마꽃벌속 (Lasioglossum)",
+  "basic_information": {
+    "곤충명": "페레쯔꼬마꽃벌",
+    "학명": "Lasioglossum (Lasioglossum) laeviventre (Pérez, 1905)"
+  },
+  "information": {
+    "general_description": "몸길이는 8-9mm정도이고, 몸은 흑색이 배는 에나멜 모양의 광택이다. 머리와 가슴에는 황색이 도는 회백색 털이 났으나 수컷에서는 회백색이다. 암컷의 머리방패는 폭이 좁고 강하게 아래쪽으로 돌출했다. 가운데 가슴등판은 광택이 없고 다소 작은 점각이 있다. 배에는 극히 미세한 그물모양 조각이 있고 점각은 없다. 수컷의 머리 방패 앞 부근에는 황색 가로 무늬가 있고 더듬이는 길다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 8-9mm정도이고, 몸은 흑색이 배는 에나멜 모양의 광택이다. 머리와 가슴에는 황색이 도는 회백색 털이 났으나 수컷에서는 회백색이다. 암컷의 머리방패는 폭이 좁고 강하게 아래쪽으로 돌출했다. 가운데 가슴등판은 광택이 없고 다소 작은 점각이 있다. 배에는 극히 미세한 그물모양 조각이 있고 점각은 없다. 수컷의 머리 방패 앞 부근에는 황색 가로 무늬가 있고 더듬이는 길다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0043-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0043_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0043_1_th.jpg",
+      "alt": "페레쯔꼬마꽃벌 1번째 사진 : 페레쯔줄애꽃벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0043_1_th2.jpg",
+      "caption": "페레쯔줄애꽃벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0043-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0211162098",
+      "description": "[YNUE0211162098] 페레쯔꼬마꽃벌 1994.08.18 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0211162097",
+      "description": "[YNUE0211162097] 페레쯔꼬마꽃벌 1995.08.15 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0201182063",
+      "description": "[YNUE0201182063] 페레쯔꼬마꽃벌 1994.05.12 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAG0043-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0043&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:39+00:00",
+    "html_sha256": "536750c216834b0abdd19bb98aa6f433c797a9e9d145a6c99d78b494ab49ac40",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

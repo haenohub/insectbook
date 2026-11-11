@@ -1,0 +1,126 @@
+{
+  "id": "ZRDU0024",
+  "name_ko": "남방섬재주나방",
+  "scientific_name": "Hagapteryx mirabilior (Oberthür, 1911)",
+  "display_name": "남방섬재주나방",
+  "family_ko": "재주나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "재주나방과",
+      "name_latin": "Notodontidae"
+    },
+    "subfamily": {
+      "name_ko": "기린재주나방아과",
+      "name_latin": "Ptilodoninae"
+    },
+    "genus": {
+      "name_ko": "남방섬재주나방속",
+      "name_latin": "Hagapteryx"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 재주나방과 (Notodontidae)\n아과 : 기린재주나방아과 (Ptilodoninae)\n속 : 남방섬재주나방속 (Hagapteryx)",
+  "basic_information": {
+    "곤충명": "남방섬재주나방",
+    "학명": "Hagapteryx mirabilior (Oberthür, 1911)"
+  },
+  "information": {
+    "general_description": "날개편 길이 34～45mm. 앞날개는 적갈색과 흑색이 섞여 있고 외횡선은 이중으로 심한 톱니모양을 한다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6～8월에 출현한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[중국]\n[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 34～45mm. 앞날개는 적갈색과 흑색이 섞여 있고 외횡선은 이중으로 심한 톱니모양을 한다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6～8월에 출현한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDU0024-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0024_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0024_2_th.jpg",
+      "alt": "남방섬재주나방 1번째 사진 : 남방섬재주나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0024_2_th2.jpg",
+      "caption": "남방섬재주나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDU0024-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0024_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0024_1_th.jpg",
+      "alt": "남방섬재주나방 2번째 사진 : 남방섬재주나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0024_1_th2.jpg",
+      "caption": "남방섬재주나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDU0024-1",
+  "specimen_examples": [
+    {
+      "id": "GSNE0301151047",
+      "description": "[GSNE0301151047] 남방섬재주나방 2001.05.26 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0301151046",
+      "description": "[GSNE0301151046] 남방섬재주나방 2001.07.21 / / 경상대학교"
+    },
+    {
+      "id": "CBNE0201241105",
+      "description": "[CBNE0201241105] 남방섬재주나방 1995.06.20 / / 충북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDU0024.png",
+    "reference_image_id": "ZRDU0024-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T16:31:28.390022+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "e36b6f5c3164903839498f1a3c6305f2935c3383e1fc568de33e417310a2be05"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDU0024&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:22+00:00",
+    "html_sha256": "ea8dfaaf4ad0955d404ae0101c48038e5c2aacec90f642222e519d3e1f15b9b3",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

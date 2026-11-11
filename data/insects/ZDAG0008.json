@@ -1,0 +1,110 @@
+{
+  "id": "ZDAG0008",
+  "name_ko": "잔산잠자리",
+  "scientific_name": "Macromia amphigena Selys, 1871",
+  "display_name": "잔산잠자리",
+  "family_ko": "잔산잠자리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "잠자리목",
+      "name_latin": "Odonata"
+    },
+    "family": {
+      "name_ko": "잔산잠자리과",
+      "name_latin": "Macromiidae"
+    },
+    "subfamily": {
+      "name_ko": "멧잠자리아과",
+      "name_latin": "Macromiinae"
+    },
+    "genus": {
+      "name_ko": "잔산잠자리속",
+      "name_latin": "Macromia"
+    }
+  },
+  "taxonomy_text": "목 : 잠자리목 (Odonata)\n과 : 잔산잠자리과 (Macromiidae)\n아과 : 멧잠자리아과 (Macromiinae)\n속 : 잔산잠자리속 (Macromia)",
+  "basic_information": {
+    "곤충명": "잔산잠자리",
+    "학명": "Macromia amphigena Selys, 1871"
+  },
+  "information": {
+    "general_description": "배길이 48~55mm, 뒷날개길이 46~53mm. 머리는 청흑색이고 얼굴 아래에는 황색 띠 존재. 뒷머리는 흑색이고 이마혹은 청흑색이며 윗쪽에 황색무늬 2개. 등가슴 앞족에 가로 2줄, 세로 2줄의 짧은 황색 줄무늬 존재. 옆가슴은 청록바탕에 황색 줄무늬 2개. 배는 흑색이고 2~5마디와 7~8마디에 황색 띠. 미부 하부기는 갈색이며 날개는 투명하고 다색인 것도 있음. 뒷날개의 밑 부근은 연한 감색이며 날개맥은 짙은 갈색이고 앞날개 삼각실은 앞가두리가 가장 짧음. 가두리 무늬는 적갈색임.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "배길이 48~55mm, 뒷날개길이 46~53mm. 머리는 청흑색이고 얼굴 아래에는 황색 띠 존재. 뒷머리는 흑색이고 이마혹은 청흑색이며 윗쪽에 황색무늬 2개. 등가슴 앞족에 가로 2줄, 세로 2줄의 짧은 황색 줄무늬 존재. 옆가슴은 청록바탕에 황색 줄무늬 2개. 배는 흑색이고 2~5마디와 7~8마디에 황색 띠. 미부 하부기는 갈색이며 날개는 투명하고 다색인 것도 있음. 뒷날개의 밑 부근은 연한 감색이며 날개맥은 짙은 갈색이고 앞날개 삼각실은 앞가두리가 가장 짧음. 가두리 무늬는 적갈색임."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZDAG0008-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAG0008_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAG0008_2_th.jpg",
+      "alt": "잔산잠자리 1번째 사진 : 잔산잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAG0008_2_th2.jpg",
+      "caption": "잔산잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZDAG0008-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAG0008_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAG0008_1_th.jpg",
+      "alt": "잔산잠자리 2번째 사진 : 잔산잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAG0008_1_th2.jpg",
+      "caption": "잔산잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZDAG0008-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408201126",
+      "description": "[MPME0408201126] 잔산잠자리 2003.08.11 / / 목포자연사박물관"
+    },
+    {
+      "id": "KNAE0301271041",
+      "description": "[KNAE0301271041] 잔산잠자리 1993.06.23 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0203111016",
+      "description": "[KNAE0203111016] 잔산잠자리 1991.05.29 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZDAG0008-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZDAG0008&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:59+00:00",
+    "html_sha256": "e747008c3c1387bc164f110a3a463e2602e0de55704785f0b7939b074ba869f1",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

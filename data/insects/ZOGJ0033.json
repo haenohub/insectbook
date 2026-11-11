@@ -1,0 +1,110 @@
+{
+  "id": "ZOGJ0033",
+  "name_ko": "렌지소똥풍뎅이",
+  "scientific_name": "Onthophagus (Strandius) lenzii Harold, 1874",
+  "display_name": "렌지소똥풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "소똥구리아과",
+      "name_latin": "Scarabaeinae"
+    },
+    "genus": {
+      "name_ko": "소똥풍뎅이속",
+      "name_latin": "Onthophagus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 소똥구리아과 (Scarabaeinae)\n속 : 소똥풍뎅이속 (Onthophagus)",
+  "basic_information": {
+    "곤충명": "렌지소똥풍뎅이",
+    "학명": "Onthophagus (Strandius) lenzii Harold, 1874"
+  },
+  "information": {
+    "general_description": "중국 중,북부, 대만, 일본에 분포하며 광택있는 흑색이며 약간 대형이 많다. 머리에 2개의 가로띠가 있고, 수컷의 전흉배판은 후각근처가 높아졌고 그 돌출부는 측연과 평행하는 능선을 이루어 등판이 넓고 앞쪽에서 각을 이룬형. 암컷은 앞쪽이 각을 이루지는 않으나 두껍고 윗면은 넓다. BL:6~12mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중국 중,북부, 대만, 일본에 분포하며 광택있는 흑색이며 약간 대형이 많다. 머리에 2개의 가로띠가 있고, 수컷의 전흉배판은 후각근처가 높아졌고 그 돌출부는 측연과 평행하는 능선을 이루어 등판이 넓고 앞쪽에서 각을 이룬형. 암컷은 앞쪽이 각을 이루지는 않으나 두껍고 윗면은 넓다. BL:6~12mm."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGJ0033-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0033_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0033_2_th.jpg",
+      "alt": "렌지소똥풍뎅이 1번째 사진 : 렌지소똥풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0033_2_th2.jpg",
+      "caption": "렌지소똥풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOGJ0033-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0033_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0033_1_th.jpg",
+      "alt": "렌지소똥풍뎅이 2번째 사진 : 렌지소똥풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0033_1_th2.jpg",
+      "caption": "렌지소똥풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGJ0033-1",
+  "specimen_examples": [
+    {
+      "id": "JFNE0408161192",
+      "description": "[JFNE0408161192] 렌지소똥풍뎅이 1995.10.07 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0408161193",
+      "description": "[JFNE0408161193] 렌지소똥풍뎅이 1995.10.08 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0408161194",
+      "description": "[JFNE0408161194] 렌지소똥풍뎅이 1995.10.09 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGJ0033-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGJ0033&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:34+00:00",
+    "html_sha256": "6547a5212f66ea9fff038d2a98e9f918265ae193690e56884c044ead9597c810",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "ZDAK0005",
+  "name_ko": "어리측범잠자리",
+  "scientific_name": "Shaogomphus postocularis (Selys, 1869)",
+  "display_name": "어리측범잠자리",
+  "family_ko": "측범잠자리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "잠자리목",
+      "name_latin": "Odonata"
+    },
+    "family": {
+      "name_ko": "측범잠자리과",
+      "name_latin": "Gomphidae"
+    },
+    "subfamily": {
+      "name_ko": "측범잠자리아과",
+      "name_latin": "Gomphinae"
+    },
+    "genus": {
+      "name_ko": "어리측범잠자리속",
+      "name_latin": "Shaogomphus"
+    }
+  },
+  "taxonomy_text": "목 : 잠자리목 (Odonata)\n과 : 측범잠자리과 (Gomphidae)\n아과 : 측범잠자리아과 (Gomphinae)\n속 : 어리측범잠자리속 (Shaogomphus)",
+  "basic_information": {
+    "곤충명": "어리측범잠자리",
+    "학명": "Shaogomphus postocularis (Selys, 1869)"
+  },
+  "information": {
+    "general_description": "배길이: 35mm, 뒷날개: 32mm. 머리와 가슴에 흑색 털 많음. 얼굴은 흑색, 뒷머리와 이마는 황색. 가운데가슴은 앞면이 흑색이고 황록색 띠 존재. 가슴 옆면은 황록색이며 흑색 줄무늬 1개 존재. 배는 굵고 흑색이며 1~7마디의 등위앞가두리에 황색 무늬, 1~3마디에는 옆면에도 황색무늬 존재. 수컷의 8~9마디는 굵고 9마디 옆면에 황색무늬.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "배길이: 35mm, 뒷날개: 32mm. 머리와 가슴에 흑색 털 많음. 얼굴은 흑색, 뒷머리와 이마는 황색. 가운데가슴은 앞면이 흑색이고 황록색 띠 존재. 가슴 옆면은 황록색이며 흑색 줄무늬 1개 존재. 배는 굵고 흑색이며 1~7마디의 등위앞가두리에 황색 무늬, 1~3마디에는 옆면에도 황색무늬 존재. 수컷의 8~9마디는 굵고 9마디 옆면에 황색무늬."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZDAK0005-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAK0005_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAK0005_1_th.jpg",
+      "alt": "어리측범잠자리 1번째 사진 : 어리측범잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAK0005_1_th2.jpg",
+      "caption": "어리측범잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZDAK0005-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0204261042",
+      "description": "[FRIE0204261042] 어리측범잠자리 1987.07.26 / / 국립산림과학원"
+    },
+    {
+      "id": "SNUE0203231049",
+      "description": "[SNUE0203231049] 어리측범잠자리 1987.06.10 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0203231050",
+      "description": "[SNUE0203231050] 어리측범잠자리 1987.06.23 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZDAK0005-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZDAK0005&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:44+00:00",
+    "html_sha256": "92934773943216d50829c0d223986d64bd3eec2bc8d140e9d533c46559604cdb",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

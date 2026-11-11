@@ -1,0 +1,118 @@
+{
+  "id": "ZOBL0164",
+  "name_ko": "포도호랑하늘소",
+  "scientific_name": "Xylotrechus (Xylotrechus) pyrrhoderus pyrrhoderus Bates, 1873",
+  "display_name": "포도호랑하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "하늘소아과",
+      "name_latin": "Cerambycinae"
+    },
+    "genus": {
+      "name_ko": "호랑하늘소속",
+      "name_latin": "Xylotrechus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 하늘소아과 (Cerambycinae)\n속 : 호랑하늘소속 (Xylotrechus)",
+  "basic_information": {
+    "곤충명": "포도호랑하늘소",
+    "학명": "Xylotrechus (Xylotrechus) pyrrhoderus pyrrhoderus Bates, 1873"
+  },
+  "information": {
+    "general_description": "몸길이는 9~14mm이며, 몸빛깔은 검은색이고, 머리는 붉은빛을 띤 갈색이다. 앞가슴등판과 작은방패판은 홍적색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 9~14mm이며, 몸빛깔은 검은색이고, 머리는 붉은빛을 띤 갈색이다. 앞가슴등판과 작은방패판은 홍적색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0164-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0164_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0164_1_th.jpg",
+      "alt": "포도호랑하늘소 1번째 사진 : 포도호랑하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0164_1_th2.jpg",
+      "caption": "포도호랑하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0164-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0301242017",
+      "description": "[KNAE0301242017] 포도호랑하늘소 1990.09.13 / / 국립수목원"
+    },
+    {
+      "id": "CBNE0204291060",
+      "description": "[CBNE0204291060] 포도호랑하늘소 1996.06.29 / / 충북대학교"
+    },
+    {
+      "id": "YNUE0112207013",
+      "description": "[YNUE0112207013] 포도호랑하늘소 1986.08.26 / / 영남대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "개머루",
+      "scientific_name": "Ampelopsis glandulosa var. heterophylla (Thunb.) Momiy."
+    },
+    {
+      "group": "식물",
+      "name_ko": "포도",
+      "scientific_name": "Vitis vinifera L."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0164-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0164&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:43+00:00",
+    "html_sha256": "0df45c21f2959a54a1bcd77bfa884d9093e0f648d7e99c2f99bed24b60217d79",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

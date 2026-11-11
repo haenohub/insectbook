@@ -1,0 +1,107 @@
+{
+  "id": "ZLAN0016",
+  "name_ko": "양털허리노린재",
+  "scientific_name": "Coriomeris scabricornis scabricornis (Panzer, 1805)",
+  "display_name": "양털허리노린재",
+  "family_ko": "허리노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "허리노린재상과",
+      "name_latin": "Coreoidea"
+    },
+    "family": {
+      "name_ko": "허리노린재과",
+      "name_latin": "Coreidae"
+    },
+    "subfamily": {
+      "name_ko": "양털허리노린재아과",
+      "name_latin": "Pseudophloeinae"
+    },
+    "genus": {
+      "name_ko": "양털허리노린재속",
+      "name_latin": "Coriomeris"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 허리노린재상과 (Coreoidea)\n과 : 허리노린재과 (Coreidae)\n아과 : 양털허리노린재아과 (Pseudophloeinae)\n속 : 양털허리노린재속 (Coriomeris)",
+  "basic_information": {
+    "곤충명": "양털허리노린재",
+    "학명": "Coriomeris scabricornis scabricornis (Panzer, 1805)"
+  },
+  "information": {
+    "general_description": "몸길이 : 7-9mm\n몸은 균일하게 회갈색이고 약간 편평하다. 몸의 표면에는 회색의 부드러운 털이 조밀하게 덮여 있고, 센털도 있다. 머리는 진한 색이며 정수리에는 세로홈은 없다. 더듬이돌기의 첨단은 약간 안쪽으로 만곡했다. 더듬이는 굵고 4마디이고, 갈색을 띤다. 첨단에 센털이 있는 돌기가 톱니모양으로 배열되어 있다. 또 뒷가장자리의 작은방패판의 바깥쪽에 작은 이모양의 돌기가 1쌍 있다. 작은방패판은 대단히 작고, 막질부는 거의 무색 투명하며, 날개맥에는 군데군데 갈색부가 있다. 결합판은 약간 황색을 띠고 있으며 암색 무늬가 있다. 몸의 아랫면과 다리는 연한 황갈색이며 넓적다리마디위에는 불규칙한 진한 색의 무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "건조지의 잡초의 뿌리 사이에서 발견되고 특히 해안 지대에 많이 발견된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 7-9mm\n몸은 균일하게 회갈색이고 약간 편평하다. 몸의 표면에는 회색의 부드러운 털이 조밀하게 덮여 있고, 센털도 있다. 머리는 진한 색이며 정수리에는 세로홈은 없다. 더듬이돌기의 첨단은 약간 안쪽으로 만곡했다. 더듬이는 굵고 4마디이고, 갈색을 띤다. 첨단에 센털이 있는 돌기가 톱니모양으로 배열되어 있다. 또 뒷가장자리의 작은방패판의 바깥쪽에 작은 이모양의 돌기가 1쌍 있다. 작은방패판은 대단히 작고, 막질부는 거의 무색 투명하며, 날개맥에는 군데군데 갈색부가 있다. 결합판은 약간 황색을 띠고 있으며 암색 무늬가 있다. 몸의 아랫면과 다리는 연한 황갈색이며 넓적다리마디위에는 불규칙한 진한 색의 무늬가 있다."
+    },
+    {
+      "title": "생태",
+      "text": "건조지의 잡초의 뿌리 사이에서 발견되고 특히 해안 지대에 많이 발견된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLAN0016-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0016_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0016_1_th.jpg",
+      "alt": "양털허리노린재 1번째 사진 : 양털허리노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0016_1_th2.jpg",
+      "caption": "양털허리노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLAN0016-1",
+  "specimen_examples": [
+    {
+      "id": "GSNE0303171087",
+      "description": "[GSNE0303171087] 양털허리노린재 1998.09.20 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0303171088",
+      "description": "[GSNE0303171088] 양털허리노린재 1991.04.27 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0303171089",
+      "description": "[GSNE0303171089] 양털허리노린재 1992.06.12 / / 경상대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLAN0016-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLAN0016&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:28+00:00",
+    "html_sha256": "93369b51272805c4752ac48f3247dcc85d53066d8a78349fcf71573b85eb6cd0",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

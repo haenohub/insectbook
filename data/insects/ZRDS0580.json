@@ -1,0 +1,122 @@
+{
+  "id": "ZRDS0580",
+  "name_ko": "남방쌍무늬밤나방",
+  "scientific_name": "Brevipecten consanguis Leech, 1900",
+  "display_name": "남방쌍무늬밤나방",
+  "family_ko": "밤나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "밤나방과",
+      "name_latin": "Noctuidae"
+    },
+    "subfamily": {
+      "name_ko": "봉인밤나방아과",
+      "name_latin": "Bagisarinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Brevipecten"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 밤나방과 (Noctuidae)\n아과 : 봉인밤나방아과 (Bagisarinae)\n속 : (Brevipecten)",
+  "basic_information": {
+    "곤충명": "남방쌍무늬밤나방",
+    "학명": "Brevipecten consanguis Leech, 1900"
+  },
+  "information": {
+    "general_description": "수컷의 더듬이는 기부에서 약 ⅔정도는 빗살모양이고, 나머지 ⅓정도는 섬모상임. 아랫입술수염의 제 2마디는 약간 긴편이며, 제 3마디는 ？고 백색을 띔. 머리와 가슴의 등면은 자회색을 띠고, 배는 담갈색임. 앞날개는 회자색 바탕인데, 전연에는 2개의 커다란 흑색 무늬가 있음. 내횡선과 중횡선은 평행하며, 외횡선은 바깥쪽으로 크게 굽어졌는데, 흑갈색을 띔. 뒷날개는 담황갈색을 띠는데, 외연부는 다소 암갈색임.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6~8월경에 출현함.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "수컷의 더듬이는 기부에서 약 ⅔정도는 빗살모양이고, 나머지 ⅓정도는 섬모상임. 아랫입술수염의 제 2마디는 약간 긴편이며, 제 3마디는 ？고 백색을 띔. 머리와 가슴의 등면은 자회색을 띠고, 배는 담갈색임. 앞날개는 회자색 바탕인데, 전연에는 2개의 커다란 흑색 무늬가 있음. 내횡선과 중횡선은 평행하며, 외횡선은 바깥쪽으로 크게 굽어졌는데, 흑갈색을 띔. 뒷날개는 담황갈색을 띠는데, 외연부는 다소 암갈색임."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6~8월경에 출현함."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0580-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0580_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0580_2_th.jpg",
+      "alt": "남방쌍무늬밤나방 1번째 사진 : 남방쌍무늬짤름나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0580_2_th2.jpg",
+      "caption": "남방쌍무늬짤름나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDS0580-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0580_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0580_1_th.jpg",
+      "alt": "남방쌍무늬밤나방 2번째 사진 : 남방쌍무늬짤름나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0580_1_th2.jpg",
+      "caption": "남방쌍무늬짤름나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0580-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0301091023",
+      "description": "[FRIE0301091023] 남방쌍무늬밤나방 2002.07.16 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0301091024",
+      "description": "[FRIE0301091024] 남방쌍무늬밤나방 2002.07.16 / / 국립산림과학원"
+    },
+    {
+      "id": "KNUE0202251149",
+      "description": "[KNUE0202251149] 남방쌍무늬밤나방 1993.07.31 / / 강원대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDS0580.png",
+    "reference_image_id": "ZRDS0580-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T16:32:58.750266+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "57fa7a3ed1cefe174c18c0427ee77bba461522528ed4127155b135ba2ede3cff"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0580&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:23+00:00",
+    "html_sha256": "96f93bf1f261e435757983516c47801df19045fe00b43c80951d6a55d984c3e6",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

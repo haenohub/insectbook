@@ -1,0 +1,107 @@
+{
+  "id": "ZRDH0045",
+  "name_ko": "어리사과독나방",
+  "scientific_name": "Calliteara pudibunda (Linnaeus, 1758)",
+  "display_name": "어리사과독나방",
+  "family_ko": "태극나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "태극나방과",
+      "name_latin": "Erebidae"
+    },
+    "subfamily": {
+      "name_ko": "독나방아과",
+      "name_latin": "Lymantriinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Calliteara"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 태극나방과 (Erebidae)\n아과 : 독나방아과 (Lymantriinae)\n속 : (Calliteara)",
+  "basic_information": {
+    "곤충명": "어리사과독나방",
+    "학명": "Calliteara pudibunda (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "더듬이는 황갈색을 띠고 있는데 줄기가 타원형으로 비스듬히 굽어 있음. 아랫입술수염은 선단부를 제외한 양옆 부분이 암갈색을 띠고 있음. 앞다리의 종아리마디에는 2개의 흑색 점무늬가 있으며 뒷다리의 종아리마디에는 2쌍의 며느리발톱이 있음. 앞날개의 중앙에는 폭넓은 암갈색의 띠가 있으며 아기선, 내횡선, 외횡선은 가는 흑갈색 줄로 되었으나 부분적으로는 소실되어 점선으로 나타나는 경우도 많음. 중실 끝에 있는 초승달모양의 횡맥 무늬는 흑색으로 테두리지어 있음.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 5～7월에 연 1회 출현됨. 유충은 사과나무, 배나무, 벚나무 등의 잎을 먹음.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 황갈색을 띠고 있는데 줄기가 타원형으로 비스듬히 굽어 있음. 아랫입술수염은 선단부를 제외한 양옆 부분이 암갈색을 띠고 있음. 앞다리의 종아리마디에는 2개의 흑색 점무늬가 있으며 뒷다리의 종아리마디에는 2쌍의 며느리발톱이 있음. 앞날개의 중앙에는 폭넓은 암갈색의 띠가 있으며 아기선, 내횡선, 외횡선은 가는 흑갈색 줄로 되었으나 부분적으로는 소실되어 점선으로 나타나는 경우도 많음. 중실 끝에 있는 초승달모양의 횡맥 무늬는 흑색으로 테두리지어 있음."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 5～7월에 연 1회 출현됨. 유충은 사과나무, 배나무, 벚나무 등의 잎을 먹음."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDH0045-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDH0045_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDH0045_1_th.jpg",
+      "alt": "어리사과독나방 1번째 사진 : 어리사과독나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDH0045_1_th2.jpg",
+      "caption": "어리사과독나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDH0045-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0301302091",
+      "description": "[KNAE0301302091] 어리사과독나방 1986.06.27 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0301302092",
+      "description": "[KNAE0301302092] 어리사과독나방 1986.05.03 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0301302094",
+      "description": "[KNAE0301302094] 어리사과독나방 1986.05.25 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDH0045-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDH0045&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:38+00:00",
+    "html_sha256": "b99d65f353eb49adbc40db6f4420b173621487e4ee81b64d5da6849006fa086c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

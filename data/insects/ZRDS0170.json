@@ -1,0 +1,152 @@
+{
+  "id": "ZRDS0170",
+  "name_ko": "네점밤나방",
+  "scientific_name": "Orthosia incerta (Hufnagel, 1766)",
+  "display_name": "네점밤나방",
+  "family_ko": "밤나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "밤나방과",
+      "name_latin": "Noctuidae"
+    },
+    "subfamily": {
+      "name_ko": "밤나방아과",
+      "name_latin": "Noctuinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Orthosia"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 밤나방과 (Noctuidae)\n아과 : 밤나방아과 (Noctuinae)\n속 : (Orthosia)",
+  "basic_information": {
+    "곤충명": "네점밤나방",
+    "학명": "Orthosia incerta (Hufnagel, 1766)"
+  },
+  "information": {
+    "general_description": "날개편 길이 18～20mm. 앞날개는 회갈색 바탕인데 암갈색의 인편이 산포되어 있으며, 중실안에는 기부 쪽 가까기에 작은 흑색 점이 1개 있다. 뒷날개는 담암갈색 바탕으로 중앙에 흑갈색의 횡맥 무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 5월경에 출현된다",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 18～20mm. 앞날개는 회갈색 바탕인데 암갈색의 인편이 산포되어 있으며, 중실안에는 기부 쪽 가까기에 작은 흑색 점이 1개 있다. 뒷날개는 담암갈색 바탕으로 중앙에 흑갈색의 횡맥 무늬가 있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 5월경에 출현된다"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0170-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0170_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0170_2_th.jpg",
+      "alt": "네점밤나방 1번째 사진 : 네점밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0170_2_th2.jpg",
+      "caption": "네점밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDS0170-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0170_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0170_1_th.jpg",
+      "alt": "네점밤나방 2번째 사진 : 네점밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0170_1_th2.jpg",
+      "caption": "네점밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0170-1",
+  "specimen_examples": [
+    {
+      "id": "KNUE0212181146",
+      "description": "[KNUE0212181146] 네점밤나방 1997.04.11 / / 강원대학교"
+    },
+    {
+      "id": "KNUE0212181147",
+      "description": "[KNUE0212181147] 네점밤나방 1993.04.18 / / 강원대학교"
+    },
+    {
+      "id": "KNUE0212181148",
+      "description": "[KNUE0212181148] 네점밤나방 1995.04.04 / / 강원대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "떡갈나무",
+      "scientific_name": "Quercus dentata Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "사과나무",
+      "scientific_name": "Malus domestica (Suckow) Borkh."
+    },
+    {
+      "group": "식물",
+      "name_ko": "자두나무",
+      "scientific_name": "Prunus salicina Lindl."
+    },
+    {
+      "group": "식물",
+      "name_ko": "자작나무",
+      "scientific_name": "Betula pendula Roth"
+    },
+    {
+      "group": "식물",
+      "name_ko": "황철나무",
+      "scientific_name": "Populus suaveolens Fisch. ex Poit. & A.Vilm."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDS0170.png",
+    "reference_image_id": "ZRDS0170-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T10:53:37.744590+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "2e5ea60307a7ad000ac1516a62a25ae9ed46e0d6658f6c8eaa92e2be7612d291"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0170&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:50+00:00",
+    "html_sha256": "634a7d01b6ddae5a90fa3477fb7b7903934eb16a2d2186d7af5912f28b4eaf94",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "ZOBT0342",
+  "name_ko": "금자라남생이잎벌레",
+  "scientific_name": "Aspidomorpha (Aspidomorpha) difformis (Motschulsky, 1861)",
+  "display_name": "금자라남생이잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "남생이잎벌레아과",
+      "name_latin": "Cassidinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Aspidomorpha"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 남생이잎벌레아과 (Cassidinae)\n속 : (Aspidomorpha)",
+  "basic_information": {
+    "곤충명": "금자라남생이잎벌레",
+    "학명": "Aspidomorpha (Aspidomorpha) difformis (Motschulsky, 1861)"
+  },
+  "information": {
+    "general_description": "몸길이는 7.0~8.5mm, 앞날개는 노란색을 보이는 갈색이며, 미세한 점각열이 함몰된 곳이 없다. 한국(중부,남부), 일본(훗카이도,혼슈,시코쿠,큐슈), 중국, 대만, 러시아에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대만]\n[일본]\n[중국]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 7.0~8.5mm, 앞날개는 노란색을 보이는 갈색이며, 미세한 점각열이 함몰된 곳이 없다. 한국(중부,남부), 일본(훗카이도,혼슈,시코쿠,큐슈), 중국, 대만, 러시아에 분포되어있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대만]\n[일본]\n[중국]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0342-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0342_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0342_1_th.jpg",
+      "alt": "금자라남생이잎벌레 1번째 사진 : 금자라남생이잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0342_1_th2.jpg",
+      "caption": "금자라남생이잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0342-1",
+  "specimen_examples": [
+    {
+      "id": "DJUE0406211099",
+      "description": "[DJUE0406211099] 금자라남생이잎벌레 1999.05.21 / / 대전대학교"
+    },
+    {
+      "id": "KNAE0612220013",
+      "description": "[KNAE0612220013] 금자라남생이잎벌레 2005.07.22 / / 국립수목원"
+    },
+    {
+      "id": "YNUE0201092059",
+      "description": "[YNUE0201092059] 금자라남생이잎벌레 1999.06.29 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBT0342.png",
+    "reference_image_id": "ZOBT0342-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T15:08:37.220038+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "a3c9572ce05bb66afaca2db140596c2a29fc9e370ac72c9bf21117fcba6ad718"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0342&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:48+00:00",
+    "html_sha256": "6eef6ff6bf194d72c57bd58bb081460e1f8c07287d16c96e4b95558756674173",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

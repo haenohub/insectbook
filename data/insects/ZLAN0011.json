@@ -1,0 +1,114 @@
+{
+  "id": "ZLAN0011",
+  "name_ko": "벼가시허리노린재",
+  "scientific_name": "Cletus trigonus (Thunberg, 1783)",
+  "display_name": "벼가시허리노린재",
+  "family_ko": "허리노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "허리노린재상과",
+      "name_latin": "Coreoidea"
+    },
+    "family": {
+      "name_ko": "허리노린재과",
+      "name_latin": "Coreidae"
+    },
+    "subfamily": {
+      "name_ko": "허리노린재아과",
+      "name_latin": "Coreinae"
+    },
+    "genus": {
+      "name_ko": "가시허리노린재족",
+      "name_latin": "Cletus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 허리노린재상과 (Coreoidea)\n과 : 허리노린재과 (Coreidae)\n아과 : 허리노린재아과 (Coreinae)\n속 : 가시허리노린재족 (Cletus)",
+  "basic_information": {
+    "곤충명": "벼가시허리노린재",
+    "학명": "Cletus trigonus (Thunberg, 1783)"
+  },
+  "information": {
+    "general_description": "몸길이 : 8.5-11mm\n몸은 균일하게 황갈색이나 약간 진한 색의 개체도 있으며, 암갈색의 점각이 산포되어 있다. 정수리는 갈색의 점각이 조밀하게 분포하여 더 짙게 보이고, 정중선위에 세구선이 있다. 더듬이는 4마디로 되어 있고 황갈색 내지 적갈색이다. 앞가슴등판의 앞옆가장자리는 크게 만입했으며, 옆모서리는 옆쪽으로 돌출하고 침모양으로 예리하고 흑색이고, 뒷가장자리는 약간 톱니 모양이다. 반시초의 앞가장자리는 황백색이고, 혁질부의 첨단부는 약간 진한 색이며 막질부와의 경계부 뒷가장자리 가까이에 작은 황백색 점이 있다. 막질부는 거의 무색 투명하다. 결합판은 연한 황갈색이고, 몸의 아랫면과 다리는 황백색 내지 연한 황갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 8.5-11mm\n몸은 균일하게 황갈색이나 약간 진한 색의 개체도 있으며, 암갈색의 점각이 산포되어 있다. 정수리는 갈색의 점각이 조밀하게 분포하여 더 짙게 보이고, 정중선위에 세구선이 있다. 더듬이는 4마디로 되어 있고 황갈색 내지 적갈색이다. 앞가슴등판의 앞옆가장자리는 크게 만입했으며, 옆모서리는 옆쪽으로 돌출하고 침모양으로 예리하고 흑색이고, 뒷가장자리는 약간 톱니 모양이다. 반시초의 앞가장자리는 황백색이고, 혁질부의 첨단부는 약간 진한 색이며 막질부와의 경계부 뒷가장자리 가까이에 작은 황백색 점이 있다. 막질부는 거의 무색 투명하다. 결합판은 연한 황갈색이고, 몸의 아랫면과 다리는 황백색 내지 연한 황갈색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLAN0011-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0011_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0011_2_th.jpg",
+      "alt": "벼가시허리노린재 1번째 사진 : 벼가시허리노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0011_2_th2.jpg",
+      "caption": "벼가시허리노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZLAN0011-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0011_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0011_1_th.jpg",
+      "alt": "벼가시허리노린재 2번째 사진 : 벼가시허리노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0011_1_th2.jpg",
+      "caption": "벼가시허리노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLAN0011-1",
+  "specimen_examples": [
+    {
+      "id": "GSNE0408242001",
+      "description": "[GSNE0408242001] 벼가시허리노린재 2001.08.22 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0408242003",
+      "description": "[GSNE0408242003] 벼가시허리노린재 2000.05.27 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0408242004",
+      "description": "[GSNE0408242004] 벼가시허리노린재 2001.07.24 / / 경상대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLAN0011-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLAN0011&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:52+00:00",
+    "html_sha256": "d14571c66c929579064ed0b8a06e94ccd3199b3082666672b386ecad339e5999",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

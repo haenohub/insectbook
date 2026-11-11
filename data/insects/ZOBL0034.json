@@ -1,0 +1,107 @@
+{
+  "id": "ZOBL0034",
+  "name_ko": "노랑각시하늘소",
+  "scientific_name": "Pidonia (Mumon) debilis (Kraatz, 1879)",
+  "display_name": "노랑각시하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "꽃하늘소아과",
+      "name_latin": "Lepturinae"
+    },
+    "genus": {
+      "name_ko": "각시하늘소속",
+      "name_latin": "Pidonia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 꽃하늘소아과 (Lepturinae)\n속 : 각시하늘소속 (Pidonia)",
+  "basic_information": {
+    "곤충명": "노랑각시하늘소",
+    "학명": "Pidonia (Mumon) debilis (Kraatz, 1879)"
+  },
+  "information": {
+    "general_description": "몸길이가 6~9mm 이다. 몸은 가늘고 길며 온몸이 황색이며 작은 원통형이며, 앞가슴은 길이와 폭이 거의 같으며 가장자리의 뒤에 가로홈이 있다. 딱지날개는 뒤쪽이 둥글다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이가 6~9mm 이다. 몸은 가늘고 길며 온몸이 황색이며 작은 원통형이며, 앞가슴은 길이와 폭이 거의 같으며 가장자리의 뒤에 가로홈이 있다. 딱지날개는 뒤쪽이 둥글다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0034-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0034_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0034_1_th.jpg",
+      "alt": "노랑각시하늘소 1번째 사진 : 노랑각시하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0034_1_th2.jpg",
+      "caption": "노랑각시하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0034-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0306161017",
+      "description": "[FRIE0306161017] 노랑각시하늘소 1997.06.23 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0302132019",
+      "description": "[KNAE0302132019] 노랑각시하늘소 1982.05.27 / / 국립수목원"
+    },
+    {
+      "id": "SJNE0302141110",
+      "description": "[SJNE0302141110] 노랑각시하늘소 1989.05.28 / / 상주대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBL0034.png",
+    "reference_image_id": "ZOBL0034-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T11:28:26.138367+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "22e60c003343d913e0f9624df2ebd4c0de445ce26a1cada889e3c46f5f3668e2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0034&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:00+00:00",
+    "html_sha256": "f96de026e4c5e98c1469d2b26d1077673fb0b69ff5b5c1d082ebf808de3cfd4e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

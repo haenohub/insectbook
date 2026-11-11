@@ -1,0 +1,111 @@
+{
+  "id": "ZOBT0345",
+  "name_ko": "적갈색남생이잎벌레",
+  "scientific_name": "Cassida (Cassida) fuscorufa Motschulsky, 1866",
+  "display_name": "적갈색남생이잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "남생이잎벌레아과",
+      "name_latin": "Cassidinae"
+    },
+    "genus": {
+      "name_ko": "남생이잎벌레속",
+      "name_latin": "Cassida"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 남생이잎벌레아과 (Cassidinae)\n속 : 남생이잎벌레속 (Cassida)",
+  "basic_information": {
+    "곤충명": "적갈색남생이잎벌레",
+    "학명": "Cassida (Cassida) fuscorufa Motschulsky, 1866"
+  },
+  "information": {
+    "general_description": "몸길이는 5.5~6.2mm, 더듬이는 흑색이며 기부5절은 적갈색이다. 다리는 흑색이며, 윗날개의 점각은 불규칙한 열상을 보인다. 등판은 암갈색, 배판은 흑색이다. 한국, 일본(훗카이도,혼슈,시코쿠,큐슈,쓰시마), 중국, 대만에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 4~5월에 활동하며 5월에 알을 1개씩 2층의 박으로 둘러싸여 잎의 표면에 산란후 배설물로 감싼다. 유충은 5~7월에 걸쳐 쑥잎에서 관찰되어진다.",
+    "habits": "기주식물 쑥.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대만]\n[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 5.5~6.2mm, 더듬이는 흑색이며 기부5절은 적갈색이다. 다리는 흑색이며, 윗날개의 점각은 불규칙한 열상을 보인다. 등판은 암갈색, 배판은 흑색이다. 한국, 일본(훗카이도,혼슈,시코쿠,큐슈,쓰시마), 중국, 대만에 분포되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 4~5월에 활동하며 5월에 알을 1개씩 2층의 박으로 둘러싸여 잎의 표면에 산란후 배설물로 감싼다. 유충은 5~7월에 걸쳐 쑥잎에서 관찰되어진다."
+    },
+    {
+      "title": "습성",
+      "text": "기주식물 쑥."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대만]\n[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0345-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0345_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0345_1_th.jpg",
+      "alt": "적갈색남생이잎벌레 1번째 사진 : 적갈색남생이잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0345_1_th2.jpg",
+      "caption": "적갈색남생이잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0345-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0306131002",
+      "description": "[FRIE0306131002] 적갈색남생이잎벌레 1976.06.26 / / 국립산림과학원"
+    },
+    {
+      "id": "ADUE1207161051",
+      "description": "[ADUE1207161051] 적갈색남생이잎벌레 2011.06.18 / / 안동대학교"
+    },
+    {
+      "id": "ADUE1206141019",
+      "description": "[ADUE1206141019] 적갈색남생이잎벌레 2011.07.27 / / 안동대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0345-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0345&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:14+00:00",
+    "html_sha256": "314911cd9898c8abafcfae5eb0f1fe2a5ccb2a7dd5b4202be5d44a3e70583d75",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

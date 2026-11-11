@@ -1,0 +1,118 @@
+{
+  "id": "ZOGP0027",
+  "name_ko": "곰보송장벌레",
+  "scientific_name": "Thanatophilus rugosus (Linnaeus, 1758)",
+  "display_name": "곰보송장벌레",
+  "family_ko": "송장벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "반날개상과",
+      "name_latin": "Staphylinoidea"
+    },
+    "family": {
+      "name_ko": "송장벌레과",
+      "name_latin": "Silphidae"
+    },
+    "subfamily": {
+      "name_ko": "송장벌레아과",
+      "name_latin": "Silphinae"
+    },
+    "genus": {
+      "name_ko": "좀송장벌레속",
+      "name_latin": "Thanatophilus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 반날개상과 (Staphylinoidea)\n과 : 송장벌레과 (Silphidae)\n아과 : 송장벌레아과 (Silphinae)\n속 : 좀송장벌레속 (Thanatophilus)",
+  "basic_information": {
+    "곤충명": "곰보송장벌레",
+    "학명": "Thanatophilus rugosus (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "한국, 일본에 분포하며, 체장은 11mm 내외이다. 몸은 흑갈색이고 회황색의 짧은 털을 밀생하였다. 머리는 작고 짧은 털이 특히 많다. 촉각은 흑색인데 말단의 세마디는 팽대하였다. 머리방패의 앞가두리는 오목 들어가있고 적갈색이다. 딱지날개는 세줄의 종융이 있고 그 간실에는 큰 돌기와 작은 돌기가 있다. 몸 아랫면은 흑갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본에 분포하며, 체장은 11mm 내외이다. 몸은 흑갈색이고 회황색의 짧은 털을 밀생하였다. 머리는 작고 짧은 털이 특히 많다. 촉각은 흑색인데 말단의 세마디는 팽대하였다. 머리방패의 앞가두리는 오목 들어가있고 적갈색이다. 딱지날개는 세줄의 종융이 있고 그 간실에는 큰 돌기와 작은 돌기가 있다. 몸 아랫면은 흑갈색이다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGP0027-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0027_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0027_2_th.jpg",
+      "alt": "곰보송장벌레 1번째 사진 : 곰보송장벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0027_2_th2.jpg",
+      "caption": "곰보송장벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOGP0027-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0027_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0027_1_th.jpg",
+      "alt": "곰보송장벌레 2번째 사진 : 곰보송장벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0027_1_th2.jpg",
+      "caption": "곰보송장벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGP0027-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304042046",
+      "description": "[KNAE0304042046] 곰보송장벌레 1994.04.18 / / 국립수목원"
+    },
+    {
+      "id": "FRIE0304031028",
+      "description": "[FRIE0304031028] 곰보송장벌레 1982.10.17 / / 국립산림과학원"
+    },
+    {
+      "id": "KPNE0302251009",
+      "description": "[KPNE0302251009] 곰보송장벌레 1983.06.02 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOGP0027.png",
+    "reference_image_id": "ZOGP0027-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T13:03:39.037278+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "bdea9f60006d27b734c6f27b16b8e0e8d1c0a19bdbebd571f648aa3079f0ceb1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGP0027&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:04+00:00",
+    "html_sha256": "3ff98a35802d52d4f65cdf71354dabb9bfec796eba2b748bf2d3ae5d79b68928",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

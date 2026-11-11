@@ -1,0 +1,111 @@
+{
+  "id": "ZOBC0011",
+  "name_ko": "고려비단벌레",
+  "scientific_name": "Buprestis (Ancylocheira) haemorrhoidalis japanensis Saunders, 1873",
+  "display_name": "고려비단벌레",
+  "family_ko": "비단벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "비단벌레상과",
+      "name_latin": "Buprestoidea"
+    },
+    "family": {
+      "name_ko": "비단벌레과",
+      "name_latin": "Buprestidae"
+    },
+    "subfamily": {
+      "name_ko": "넓적비단벌레아과",
+      "name_latin": "Buprestinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Buprestis"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 비단벌레상과 (Buprestoidea)\n과 : 비단벌레과 (Buprestidae)\n아과 : 넓적비단벌레아과 (Buprestinae)\n속 : (Buprestis)",
+  "basic_information": {
+    "곤충명": "고려비단벌레",
+    "학명": "Buprestis (Ancylocheira) haemorrhoidalis japanensis Saunders, 1873"
+  },
+  "information": {
+    "general_description": "체장은 19mm 정도이다. 머리에는 점각이 밀포하고 앞머리의 중앙에는 세로로 돌기가 있다. 겹눈은 회갈색이고 촉각은 흑갈색이다. 앞가슴등판에는 점각이 거칠고 크며 특히 앞가두리 가까이에 많고 중앙과 좌우에 평활부가 많다. 머리와 앞가슴부는 구리색을 띤 흑색이다.딱지날개면은 흑색을 띤 청동색이다. 날개끝은 절단되었다. 배쪽은 적동색인데 광택이 나고 점각을 밀포하였다. 다리는 청동색인데 점각이 많다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체장은 19mm 정도이다. 머리에는 점각이 밀포하고 앞머리의 중앙에는 세로로 돌기가 있다. 겹눈은 회갈색이고 촉각은 흑갈색이다. 앞가슴등판에는 점각이 거칠고 크며 특히 앞가두리 가까이에 많고 중앙과 좌우에 평활부가 많다. 머리와 앞가슴부는 구리색을 띤 흑색이다.딱지날개면은 흑색을 띤 청동색이다. 날개끝은 절단되었다. 배쪽은 적동색인데 광택이 나고 점각을 밀포하였다. 다리는 청동색인데 점각이 많다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBC0011-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBC0011_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBC0011_1_th.jpg",
+      "alt": "고려비단벌레 1번째 사진 : 고려비단벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBC0011_1_th2.jpg",
+      "caption": "고려비단벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBC0011-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303062034",
+      "description": "[KNAE0303062034] 고려비단벌레 1993.08.06 / / 국립수목원"
+    },
+    {
+      "id": "FRIE0303271022",
+      "description": "[FRIE0303271022] 고려비단벌레 1986.06.25 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0303271021",
+      "description": "[FRIE0303271021] 고려비단벌레 1986.05.28 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBC0011.png",
+    "reference_image_id": "ZOBC0011-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T12:30:10.296070+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "6548542526c2404e048543bd215b94dbbbd472d210d7f158cba300761134e8d8"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBC0011&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:45+00:00",
+    "html_sha256": "cbdb35cba576a82c9317c9c4b1490bbcee4f242feb98a0316a15ebf3f3254051",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

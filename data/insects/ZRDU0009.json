@@ -1,0 +1,133 @@
+{
+  "id": "ZRDU0009",
+  "name_ko": "뒷검은재주나방",
+  "scientific_name": "Cnethodonta grisescens Staudinger, 1887",
+  "display_name": "뒷검은재주나방",
+  "family_ko": "재주나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "재주나방과",
+      "name_latin": "Notodontidae"
+    },
+    "subfamily": {
+      "name_ko": "꽃무늬재주나방아과",
+      "name_latin": "Dicranurinae"
+    },
+    "genus": {
+      "name_ko": "뒷검은재주나방속",
+      "name_latin": "Cnethodonta"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 재주나방과 (Notodontidae)\n아과 : 꽃무늬재주나방아과 (Dicranurinae)\n속 : 뒷검은재주나방속 (Cnethodonta)",
+  "basic_information": {
+    "곤충명": "뒷검은재주나방",
+    "학명": "Cnethodonta grisescens Staudinger, 1887"
+  },
+  "information": {
+    "general_description": "날개편 길이 34～50mm. 앞날개의 내횡선은 흑색점의 열이 있으며, 중실의 끝쪽에는 2개의 흑색점이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 5～6월, 7～9월 연 2회 출현한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[중국]\n[대만]\n[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 34～50mm. 앞날개의 내횡선은 흑색점의 열이 있으며, 중실의 끝쪽에는 2개의 흑색점이 있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 5～6월, 7～9월 연 2회 출현한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]\n[대만]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDU0009-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0009_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0009_2_th.jpg",
+      "alt": "뒷검은재주나방 1번째 사진 : 뒷검은재주나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0009_2_th2.jpg",
+      "caption": "뒷검은재주나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDU0009-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0009_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0009_1_th.jpg",
+      "alt": "뒷검은재주나방 2번째 사진 : 뒷검은재주나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0009_1_th2.jpg",
+      "caption": "뒷검은재주나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDU0009-1",
+  "specimen_examples": [
+    {
+      "id": "JFNE0305041112",
+      "description": "[JFNE0305041112] 뒷검은재주나방 1999.06.14 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0305041113",
+      "description": "[JFNE0305041113] 뒷검은재주나방 1999.06.13 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0305041114",
+      "description": "[JFNE0305041114] 뒷검은재주나방 1999.06.14 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "물오리나무",
+      "scientific_name": "Alnus incana subsp. hirsuta (Turcz. ex Spach) Á.Löve & D.Löve"
+    },
+    {
+      "group": "식물",
+      "name_ko": "버드나무",
+      "scientific_name": "Salix pierotii Miq."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDU0009-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDU0009&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:01+00:00",
+    "html_sha256": "ed5fcf4b535b695fe454fcbbb7bb592750bae75b057d6df6d3f763f91daf6c6b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

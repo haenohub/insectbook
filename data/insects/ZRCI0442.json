@@ -1,0 +1,118 @@
+{
+  "id": "ZRCI0442",
+  "name_ko": "두줄흰가지나방",
+  "scientific_name": "Lomographa subspersata (Wehrli, 1939)",
+  "display_name": "두줄흰가지나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "가지나방아과",
+      "name_latin": "Ennominae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Lomographa"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 가지나방아과 (Ennominae)\n속 : (Lomographa)",
+  "basic_information": {
+    "곤충명": "두줄흰가지나방",
+    "학명": "Lomographa subspersata (Wehrli, 1939)"
+  },
+  "information": {
+    "general_description": "경기도, 충청남도와 한국, 일본, 시베리아 남동부에 분포한다. 더듬이는 암수가 모두 미모상이나 수컷에서는 털이 극히 짧다. 앞·뒷날개는 모두 백색 바탕에 회색 비늘이 산재하며, 개체에 따라서는 아주 작은 횡맥점이 있다. 외횡선은 다소 굵은 편이나 명료하지 않으며, 드물게는 앞날개 후연부에 굵은 내횡선의 흔적이 나타나는 것이 있다.\n날개길이는 22mm 내외이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6~7월에 출현한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "경기도, 충청남도와 한국, 일본, 시베리아 남동부에 분포한다. 더듬이는 암수가 모두 미모상이나 수컷에서는 털이 극히 짧다. 앞·뒷날개는 모두 백색 바탕에 회색 비늘이 산재하며, 개체에 따라서는 아주 작은 횡맥점이 있다. 외횡선은 다소 굵은 편이나 명료하지 않으며, 드물게는 앞날개 후연부에 굵은 내횡선의 흔적이 나타나는 것이 있다.\n날개길이는 22mm 내외이다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6~7월에 출현한다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0442-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0442_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0442_2_th.jpg",
+      "alt": "두줄흰가지나방 1번째 사진 : 두줄흰가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0442_2_th2.jpg",
+      "caption": "두줄흰가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0442-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0442_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0442_1_th.jpg",
+      "alt": "두줄흰가지나방 2번째 사진 : 두줄흰가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0442_1_th2.jpg",
+      "caption": "두줄흰가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0442-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0409101004",
+      "description": "[KNAE0409101004] 두줄흰가지나방 1998.06.29 / / 국립수목원"
+    },
+    {
+      "id": "FRIE0303171031",
+      "description": "[FRIE0303171031] 두줄흰가지나방 1985.05.14 / / 국립산림과학원"
+    },
+    {
+      "id": "CBNE0301081023",
+      "description": "[CBNE0301081023] 두줄흰가지나방 2002.05.14 / / 충북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCI0442-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0442&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:51+00:00",
+    "html_sha256": "53b08573c495f715f71ab8c94f570b8c4ebf8063dc92b36c987fa2f9a67fe4f8",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

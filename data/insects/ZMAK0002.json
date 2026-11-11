@@ -1,0 +1,147 @@
+{
+  "id": "ZMAK0002",
+  "name_ko": "광대거품벌레",
+  "scientific_name": "Lepyronia coleoptrata (Linnaeus, 1758)",
+  "display_name": "광대거품벌레",
+  "family_ko": "거품벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "거품벌레상과",
+      "name_latin": "Cercopoidea"
+    },
+    "family": {
+      "name_ko": "거품벌레과",
+      "name_latin": "Aphrophoridae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Aphrophorinae"
+    },
+    "genus": {
+      "name_ko": "광대거품벌레속",
+      "name_latin": "Lepyronia"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 거품벌레상과 (Cercopoidea)\n과 : 거품벌레과 (Aphrophoridae)\n아과 : (Aphrophorinae)\n속 : 광대거품벌레속 (Lepyronia)",
+  "basic_information": {
+    "곤충명": "광대거품벌레",
+    "학명": "Lepyronia coleoptrata (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "몸길이: 6-8mm내외. 암 수간 체형이 현저히 다른 다형현상을 가진다. 수컷은암컷에 비해 몸이 작고 잛으며 훨씬더 둥근 공 모양이다. 몸은 담황색또는 회황색의 바탕에 현저한 암갈색 무늬를 가진다. 앞날개에 름모꼴로 폭넓게 나타나며 특히수컷에 더진하게 나타난다. 머리와 앞가슴등판은 편평하고 얼구이 크개 팽출하였으나, 앞날개의 후반부는 둥글등글하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "성충은 뒷다리가 잘 발달하여 방해를 받으면 튀어서 도망가는 습성이있다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[유럽]\n[일본]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이: 6-8mm내외. 암 수간 체형이 현저히 다른 다형현상을 가진다. 수컷은암컷에 비해 몸이 작고 잛으며 훨씬더 둥근 공 모양이다. 몸은 담황색또는 회황색의 바탕에 현저한 암갈색 무늬를 가진다. 앞날개에 름모꼴로 폭넓게 나타나며 특히수컷에 더진하게 나타난다. 머리와 앞가슴등판은 편평하고 얼구이 크개 팽출하였으나, 앞날개의 후반부는 둥글등글하다."
+    },
+    {
+      "title": "습성",
+      "text": "성충은 뒷다리가 잘 발달하여 방해를 받으면 튀어서 도망가는 습성이있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[유럽]\n[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMAK0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAK0002_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAK0002_2_th.jpg",
+      "alt": "광대거품벌레 1번째 사진 : 광대거품벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAK0002_2_th2.jpg",
+      "caption": "광대거품벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZMAK0002-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAK0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAK0002_1_th.jpg",
+      "alt": "광대거품벌레 2번째 사진 : 광대거품벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAK0002_1_th2.jpg",
+      "caption": "광대거품벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMAK0002-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0305111077",
+      "description": "[KPNE0305111077] 광대거품벌레 1997.05.26 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0305111078",
+      "description": "[KPNE0305111078] 광대거품벌레 2000.08.11 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0305111080",
+      "description": "[KPNE0305111080] 광대거품벌레 1998.06.11 / / 경북대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "버드나무",
+      "scientific_name": "Salix pierotii Miq."
+    },
+    {
+      "group": "식물",
+      "name_ko": "수리취",
+      "scientific_name": "Synurus deltoides (Aiton) Nakai"
+    },
+    {
+      "group": "식물",
+      "name_ko": "쑥",
+      "scientific_name": "Artemisia indica Willd."
+    },
+    {
+      "group": "식물",
+      "name_ko": "자작나무",
+      "scientific_name": "Betula pendula Roth"
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZMAK0002.png",
+    "reference_image_id": "ZMAK0002-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T13:17:55.334670+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "c6188e9e275df0deff35f2b500b6ff2370f66f189432f187b71cc53613521173"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMAK0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:09+00:00",
+    "html_sha256": "aad7005a16e1efa2b459155ef037786f0b9ff7a765033343f354955942433246",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

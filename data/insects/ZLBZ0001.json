@@ -1,0 +1,122 @@
+{
+  "id": "ZLBZ0001",
+  "name_ko": "억새노린재",
+  "scientific_name": "Gonopsis affinis (Uhler, 1860)",
+  "display_name": "억새노린재",
+  "family_ko": "노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "노린재상과",
+      "name_latin": "Pentatomoidea"
+    },
+    "family": {
+      "name_ko": "노린재과",
+      "name_latin": "Pentatomidae"
+    },
+    "subfamily": {
+      "name_ko": "억새노린재아과",
+      "name_latin": "Phyllocephalinae"
+    },
+    "genus": {
+      "name_ko": "억새노린재속",
+      "name_latin": "Gonopsis"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 노린재상과 (Pentatomoidea)\n과 : 노린재과 (Pentatomidae)\n아과 : 억새노린재아과 (Phyllocephalinae)\n속 : 억새노린재속 (Gonopsis)",
+  "basic_information": {
+    "곤충명": "억새노린재",
+    "학명": "Gonopsis affinis (Uhler, 1860)"
+  },
+  "information": {
+    "general_description": "몸 길이: 15~18mm\n몸은 항갈색 또는 주황색을 띠며 회황색 무늬를 가진다. 온몸에 미세점각이 주름 모양으로 분포한다. 머리는 세모꼴로 뾰족하게 돌출하였다. 더듬이의 제 5절은 흑갈색을 띤다. 앞가슴등판은 양옆이 세모꼴로 돌출하였고, 앞옆가장자리는 가는 톱니 모양이다. 중앙부는 가로로 능선을 이루며 양 옆돌기와 연결된다. 작은방패판은 크고 길게 발달하였고 앞날개의 절반을 초과한다. 앞날개의 혁질부는 다소 주황색을 띠고, 바깥가장자리는 회황색 줄무늬로 나타난다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "5월 하순부터 산란이 시작되며 2줄로 된 알덩이를 만든다. 약충은 몸전체가 얇고 편평하며, 붉은 줄무늬를 가진다.",
+    "habits": null,
+    "season": null,
+    "overwintering": "성충으로 월동하며 억새에 기생한다.",
+    "distribution": "[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸 길이: 15~18mm\n몸은 항갈색 또는 주황색을 띠며 회황색 무늬를 가진다. 온몸에 미세점각이 주름 모양으로 분포한다. 머리는 세모꼴로 뾰족하게 돌출하였다. 더듬이의 제 5절은 흑갈색을 띤다. 앞가슴등판은 양옆이 세모꼴로 돌출하였고, 앞옆가장자리는 가는 톱니 모양이다. 중앙부는 가로로 능선을 이루며 양 옆돌기와 연결된다. 작은방패판은 크고 길게 발달하였고 앞날개의 절반을 초과한다. 앞날개의 혁질부는 다소 주황색을 띠고, 바깥가장자리는 회황색 줄무늬로 나타난다."
+    },
+    {
+      "title": "생태",
+      "text": "5월 하순부터 산란이 시작되며 2줄로 된 알덩이를 만든다. 약충은 몸전체가 얇고 편평하며, 붉은 줄무늬를 가진다."
+    },
+    {
+      "title": "월동",
+      "text": "성충으로 월동하며 억새에 기생한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLBZ0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBZ0001_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBZ0001_2_th.jpg",
+      "alt": "억새노린재 1번째 사진 : 억새노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBZ0001_2_th2.jpg",
+      "caption": "억새노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZLBZ0001-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBZ0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBZ0001_1_th.jpg",
+      "alt": "억새노린재 2번째 사진 : 억새노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBZ0001_1_th2.jpg",
+      "caption": "억새노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLBZ0001-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0303171206",
+      "description": "[KPNE0303171206] 억새노린재 1998.06.11 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0303171207",
+      "description": "[KPNE0303171207] 억새노린재 1998.09.04 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0303171209",
+      "description": "[KPNE0303171209] 억새노린재 1997.05.26 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLBZ0001-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLBZ0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:46+00:00",
+    "html_sha256": "3464da4162c3ff1636865d698a4a640b6a9db4c3ec01fc69baef4b55c4f7ad6f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

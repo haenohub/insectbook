@@ -1,0 +1,103 @@
+{
+  "id": "ZOBT0040",
+  "name_ko": "북방긴가슴잎벌레",
+  "scientific_name": "Oulema viridula (Gressitt, 1942)",
+  "display_name": "북방긴가슴잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "긴가슴잎벌레아과",
+      "name_latin": "Criocerinae"
+    },
+    "genus": {
+      "name_ko": "벼잎벌레속",
+      "name_latin": "Oulema"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 긴가슴잎벌레아과 (Criocerinae)\n속 : 벼잎벌레속 (Oulema)",
+  "basic_information": {
+    "곤충명": "북방긴가슴잎벌레",
+    "학명": "Oulema viridula (Gressitt, 1942)"
+  },
+  "information": {
+    "general_description": "몸길이는3.5~4.8mm, 전체몸이 청색을 보이며, 앞가슴등판 중앙세로에 큰 점각이 있으며 옆판에 미세 점각이 있다. 한국(중부,남부), 중국(만주,북부,서부,중부,남부)에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는3.5~4.8mm, 전체몸이 청색을 보이며, 앞가슴등판 중앙세로에 큰 점각이 있으며 옆판에 미세 점각이 있다. 한국(중부,남부), 중국(만주,북부,서부,중부,남부)에 분포되어있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0040-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0040_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0040_1_th.jpg",
+      "alt": "북방긴가슴잎벌레 1번째 사진 : 북방긴가슴잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0040_1_th2.jpg",
+      "caption": "북방긴가슴잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0040-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0407221327",
+      "description": "[KPNE0407221327] 북방긴가슴잎벌레 1981.06.29 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0407221328",
+      "description": "[KPNE0407221328] 북방긴가슴잎벌레 1981.05.27 / / 경북대학교"
+    },
+    {
+      "id": "KNAE0611220060",
+      "description": "[KNAE0611220060] 북방긴가슴잎벌레 2006.05.06 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0040-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0040&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:24+00:00",
+    "html_sha256": "96789486253db397a8b190fbe4003c678f4ee9cd6391c470ce275a498420eb23",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

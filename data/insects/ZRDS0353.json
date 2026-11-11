@@ -1,0 +1,127 @@
+{
+  "id": "ZRDS0353",
+  "name_ko": "네줄붉은밤나방",
+  "scientific_name": "Pygopteryx suava Staudinger, 1887",
+  "display_name": "네줄붉은밤나방",
+  "family_ko": "밤나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "밤나방과",
+      "name_latin": "Noctuidae"
+    },
+    "subfamily": {
+      "name_ko": "밤나방아과",
+      "name_latin": "Noctuinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Pygopteryx"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 밤나방과 (Noctuidae)\n아과 : 밤나방아과 (Noctuinae)\n속 : (Pygopteryx)",
+  "basic_information": {
+    "곤충명": "네줄붉은밤나방",
+    "학명": "Pygopteryx suava Staudinger, 1887"
+  },
+  "information": {
+    "general_description": "날개편 길이 16～19mm. 앞날개는 등갈색 또는 회갈색을 띠는데 전연 쪽은 좁게 백색을 띠고, 외연부는 넓게 적갈색을 띤다. 뒷날개는 보통 등회갈색을 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 9월경에 출현된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 16～19mm. 앞날개는 등갈색 또는 회갈색을 띠는데 전연 쪽은 좁게 백색을 띠고, 외연부는 넓게 적갈색을 띤다. 뒷날개는 보통 등회갈색을 띤다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 9월경에 출현된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0353-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0353_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0353_2_th.jpg",
+      "alt": "네줄붉은밤나방 1번째 사진 : 네줄붉은밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0353_2_th2.jpg",
+      "caption": "네줄붉은밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDS0353-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0353_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0353_1_th.jpg",
+      "alt": "네줄붉은밤나방 2번째 사진 : 네줄붉은밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0353_1_th2.jpg",
+      "caption": "네줄붉은밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0353-1",
+  "specimen_examples": [
+    {
+      "id": "GSNE0408182070",
+      "description": "[GSNE0408182070] 네줄붉은밤나방 2000.09.30 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0408182071",
+      "description": "[GSNE0408182071] 네줄붉은밤나방 2002.10.03 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0408182072",
+      "description": "[GSNE0408182072] 네줄붉은밤나방 2000.10.01 / / 경상대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDS0353.png",
+    "reference_image_id": "ZRDS0353-2",
+    "reference_review_note": "몸과 더듬이가 더 온전한 두 번째 표본 선택. 남은 날개·가슴 표본 손상은 복구하며 전문가 검토 필요.",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T11:07:47.318136+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "f27a3cc51d08c86b86bb1bded2297adaf09f138bac1253e456018438e1b9d036"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0353&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:53+00:00",
+    "html_sha256": "a8f46c463bd09e94c599fc0f0c1e5203cfe8d8a11f978165cc08340bf8754c5a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

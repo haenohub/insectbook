@@ -1,0 +1,146 @@
+{
+  "id": "ZOBL0096",
+  "name_ko": "네눈박이하늘소",
+  "scientific_name": "Stenygrinum quadrinotatu Bates, 1873",
+  "display_name": "네눈박이하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "하늘소아과",
+      "name_latin": "Cerambycinae"
+    },
+    "genus": {
+      "name_ko": "네눈박이하늘소속",
+      "name_latin": "Stenygrinum"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 하늘소아과 (Cerambycinae)\n속 : 네눈박이하늘소속 (Stenygrinum)",
+  "basic_information": {
+    "곤충명": "네눈박이하늘소",
+    "학명": "Stenygrinum quadrinotatu Bates, 1873"
+  },
+  "information": {
+    "general_description": "몸길이는 8~14mm이며 몸색은 적갈색이다. 딱지날개위에 2개의 노란색 얼룩무늬가 있고 그 둘레는 어두운 갈색으로 되어있다. 더듬이에 짧은 가두리털이 있다. 몸전체가 원통형이며 비교적 길며 강한 점무늬가 밀집되어있다. 앞날개밍 회합선이 오목하다 다리마디는 곤봉모양이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 5~8월에 볼수있으며 유충으로서 월동하며. 주로 나무의 수피를 먹는다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[인도]\n[일본]\n[미얀마]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 8~14mm이며 몸색은 적갈색이다. 딱지날개위에 2개의 노란색 얼룩무늬가 있고 그 둘레는 어두운 갈색으로 되어있다. 더듬이에 짧은 가두리털이 있다. 몸전체가 원통형이며 비교적 길며 강한 점무늬가 밀집되어있다. 앞날개밍 회합선이 오목하다 다리마디는 곤봉모양이다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 5~8월에 볼수있으며 유충으로서 월동하며. 주로 나무의 수피를 먹는다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[인도]\n[일본]\n[미얀마]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0096-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0096_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0096_1_th.jpg",
+      "alt": "네눈박이하늘소 1번째 사진 : 네눈박이하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0096_1_th2.jpg",
+      "caption": "네눈박이하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0096-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304141033",
+      "description": "[KNAE0304141033] 네눈박이하늘소 1988.06.21 / / 국립수목원"
+    },
+    {
+      "id": "FRIE0304081024",
+      "description": "[FRIE0304081024] 네눈박이하늘소 1988.06.19 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0304081025",
+      "description": "[FRIE0304081025] 네눈박이하늘소 1970.06.10 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "갈참나무",
+      "scientific_name": "Quercus aliena Blume"
+    },
+    {
+      "group": "식물",
+      "name_ko": "밤나무",
+      "scientific_name": "Castanea crenata Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "붉가시나무",
+      "scientific_name": "Quercus acuta Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "상수리나무",
+      "scientific_name": "Quercus acutissima Carruth."
+    },
+    {
+      "group": "식물",
+      "name_ko": "옻나무",
+      "scientific_name": "Toxicodendron vernicifluum (Stokes) F.A.Barkley"
+    },
+    {
+      "group": "식물",
+      "name_ko": "졸참나무",
+      "scientific_name": "Quercus serrata Murray"
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBL0096.png",
+    "reference_image_id": "ZOBL0096-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T10:32:22.608776+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "b923fb8343b4b2a2c16530c4a2f77dbdd74a5f6f9dae2b8e749165ec474a63da"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0096&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:46+00:00",
+    "html_sha256": "161ecc8b3d20feaf71a24bb58d29d06b43c5becab8d6b88ed9ca1b5289edf1f9",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

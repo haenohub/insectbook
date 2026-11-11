@@ -1,0 +1,107 @@
+{
+  "id": "ZRDS0698",
+  "name_ko": "굵은수염나방",
+  "scientific_name": "Nodaria tristis (Butler, 1879)",
+  "display_name": "굵은수염나방",
+  "family_ko": "태극나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "태극나방과",
+      "name_latin": "Erebidae"
+    },
+    "subfamily": {
+      "name_ko": "줄수염나방아과",
+      "name_latin": "Herminiinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Nodaria"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 태극나방과 (Erebidae)\n아과 : 줄수염나방아과 (Herminiinae)\n속 : (Nodaria)",
+  "basic_information": {
+    "곤충명": "굵은수염나방",
+    "학명": "Nodaria tristis (Butler, 1879)"
+  },
+  "information": {
+    "general_description": "수컷의 더듬이는 섬모상인데 각 마디에는 1쌍의 약한 가시가 있으며, 중아의 마디에서는 작은 털뭉치가 있음. 아랫입술수염은 위쪽으로 향해있는데 제3마디는 길고 끝이 뾰족함. 앞날개는 암회갈색을 띠며, 내횡선과 외횡선은 물결 모양으로 된 암색을 띰. 콩팥 모양무늬는 암색 점 무늬로 나타나며, 아외연선은 연속되지 않았는데 가늘게 황백색의 물결 모양 선이 접하여 있음. 외연의 미소한 흑색 점의 열로 되었음. 뒷날개는 담회갈색을 띠며, 후연각 부근의 회백색 띠 무늬 안쪽으로는 다소 암색을 띰.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "수컷의 더듬이는 섬모상인데 각 마디에는 1쌍의 약한 가시가 있으며, 중아의 마디에서는 작은 털뭉치가 있음. 아랫입술수염은 위쪽으로 향해있는데 제3마디는 길고 끝이 뾰족함. 앞날개는 암회갈색을 띠며, 내횡선과 외횡선은 물결 모양으로 된 암색을 띰. 콩팥 모양무늬는 암색 점 무늬로 나타나며, 아외연선은 연속되지 않았는데 가늘게 황백색의 물결 모양 선이 접하여 있음. 외연의 미소한 흑색 점의 열로 되었음. 뒷날개는 담회갈색을 띠며, 후연각 부근의 회백색 띠 무늬 안쪽으로는 다소 암색을 띰."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0698-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0698_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0698_1_th.jpg",
+      "alt": "굵은수염나방 1번째 사진 : 굵은수염나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0698_1_th2.jpg",
+      "caption": "굵은수염나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0698-1",
+  "specimen_examples": [
+    {
+      "id": "KNUE0212201923",
+      "description": "[KNUE0212201923] 굵은수염나방 1998.05.15 / / 강원대학교"
+    },
+    {
+      "id": "KNUE0212191208",
+      "description": "[KNUE0212191208] 굵은수염나방 1990.05.18 / / 강원대학교"
+    },
+    {
+      "id": "KNUE0212191210",
+      "description": "[KNUE0212191210] 굵은수염나방 1991.08.12 / / 강원대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDS0698.png",
+    "reference_image_id": "ZRDS0698-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T14:09:11.963082+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "40c9bd7f3d1c22f9a0a51ef3b97a26df366dbafe83519ef6378e92f1b3185775"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0698&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:29+00:00",
+    "html_sha256": "b89015d06eef1f8962c993a1828147708e238a2374d9c7d2831a2720168b7b59",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "id": "ZOBP0018",
+  "name_ko": "매끈한점박이꽃무지",
+  "scientific_name": "Protaetia lugubris (Herbst, 1786)",
+  "display_name": "매끈한점박이꽃무지",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "꽃무지아과",
+      "name_latin": "Cetoniinae"
+    },
+    "genus": {
+      "name_ko": "점박이꽃무지속",
+      "name_latin": "Protaetia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 꽃무지아과 (Cetoniinae)\n속 : 점박이꽃무지속 (Protaetia)",
+  "basic_information": {
+    "곤충명": "매끈한점박이꽃무지",
+    "학명": "Protaetia lugubris (Herbst, 1786)"
+  },
+  "information": {
+    "general_description": "일본, 러시아, 유럽에 분포한다. 몸은 어두운 녹동색이며, 털과 점각이 거의 없이 매끈하며, 광택이 강하다. 머리방패의 앞쪽은 직선형이며, 상반하였다. 중흉돌기는 앞쪽이 직선형인 은행모양이며 편평하다. 전경절 외치는 3개이며, 경절 안쪽은 열상의 적갈색 털이 나있다. 딱지날개는 무늬가 매우 가늘고, 인각도 드물어 매끈하나 어깨에서 뒤쪽으로 연결된 융기는 분명하다. 복부복판의 중앙은 오목하며, 세로로 약하게 함몰하였으나 암컷은 함몰부가 없다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "일본, 러시아, 유럽에 분포한다. 몸은 어두운 녹동색이며, 털과 점각이 거의 없이 매끈하며, 광택이 강하다. 머리방패의 앞쪽은 직선형이며, 상반하였다. 중흉돌기는 앞쪽이 직선형인 은행모양이며 편평하다. 전경절 외치는 3개이며, 경절 안쪽은 열상의 적갈색 털이 나있다. 딱지날개는 무늬가 매우 가늘고, 인각도 드물어 매끈하나 어깨에서 뒤쪽으로 연결된 융기는 분명하다. 복부복판의 중앙은 오목하며, 세로로 약하게 함몰하였으나 암컷은 함몰부가 없다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBP0018-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBP0018_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBP0018_2_th.jpg",
+      "alt": "매끈한점박이꽃무지 1번째 사진 : 매끈한점박이꽃무지전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBP0018_2_th2.jpg",
+      "caption": "매끈한점박이꽃무지전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBP0018-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBP0018_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBP0018_1_th.jpg",
+      "alt": "매끈한점박이꽃무지 2번째 사진 : 매끈한점박이꽃무지전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBP0018_1_th2.jpg",
+      "caption": "매끈한점박이꽃무지전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBP0018-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0301302035",
+      "description": "[UIBE0301302035] 매끈한점박이꽃무지 1988.06.23 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301302036",
+      "description": "[UIBE0301302036] 매끈한점박이꽃무지 1988.06.23 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301302047",
+      "description": "[UIBE0301302047] 매끈한점박이꽃무지 1989.08.05 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBP0018-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBP0018&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:48+00:00",
+    "html_sha256": "e2ee2a943eb895e98524d4a459559f28be52900e07d4cde5e458245434870613",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

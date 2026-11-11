@@ -1,0 +1,113 @@
+{
+  "id": "ZOCF0025",
+  "name_ko": "황초록바구미",
+  "scientific_name": "Chlorophanus grandis Roelofs, 1873",
+  "display_name": "황초록바구미",
+  "family_ko": "바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "바구미과",
+      "name_latin": "Curculionidae"
+    },
+    "subfamily": {
+      "name_ko": "줄바구미아과",
+      "name_latin": "Entiminae"
+    },
+    "genus": {
+      "name_ko": "청바구미속",
+      "name_latin": "Chlorophanus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 바구미과 (Curculionidae)\n아과 : 줄바구미아과 (Entiminae)\n속 : 청바구미속 (Chlorophanus)",
+  "basic_information": {
+    "곤충명": "황초록바구미",
+    "학명": "Chlorophanus grandis Roelofs, 1873"
+  },
+  "information": {
+    "general_description": "한국, 일본, 러시아(사할린)에 분포하며, 몸길이 12.0-14.0 mm. 앞가슴 측전방 가두리에 강모열이 있다. 발톱기부는 분리되어 자유롭다. 이마에 가로 도랑이 없다. 딱지날개에 어깨가 있다. 딱지날개 8번 간실에 노란색 인편이 있어 띠 무늬를 형성한다. 앞가슴등판은 사각형이며 양쪽옆은 기부에서 중앙까지 평행하다. 기부는 강하게 2개의 호상을 그린다. 더듬이 마디들은 길고 가늘다. 더듬이 제1채찍마디는 제2마디와 보다 짧고, 제3채찍마디는 제4마디보다 길다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "Salix spp., Malus pumila, Rosa spp. 및 Lespedeza bicolor 가 기주식물",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 러시아(사할린)에 분포하며, 몸길이 12.0-14.0 mm. 앞가슴 측전방 가두리에 강모열이 있다. 발톱기부는 분리되어 자유롭다. 이마에 가로 도랑이 없다. 딱지날개에 어깨가 있다. 딱지날개 8번 간실에 노란색 인편이 있어 띠 무늬를 형성한다. 앞가슴등판은 사각형이며 양쪽옆은 기부에서 중앙까지 평행하다. 기부는 강하게 2개의 호상을 그린다. 더듬이 마디들은 길고 가늘다. 더듬이 제1채찍마디는 제2마디와 보다 짧고, 제3채찍마디는 제4마디보다 길다."
+    },
+    {
+      "title": "생태",
+      "text": "Salix spp., Malus pumila, Rosa spp. 및 Lespedeza bicolor 가 기주식물"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCF0025-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0025_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0025_1_th.jpg",
+      "alt": "황초록바구미 1번째 사진 : 황초록바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0025_1_th2.jpg",
+      "caption": "황초록바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCF0025-1",
+  "specimen_examples": [
+    {
+      "id": "ADUE0201311015",
+      "description": "[ADUE0201311015] 황초록바구미 1999.07.10 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0201311016",
+      "description": "[ADUE0201311016] 황초록바구미 1999.07.06 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0201311017",
+      "description": "[ADUE0201311017] 황초록바구미 1999.06.25 / / 안동대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "싸리",
+      "scientific_name": "Lespedeza bicolor Turcz."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOCF0025-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCF0025&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:02+00:00",
+    "html_sha256": "63ba4089d374942ee336c078a3d4bd0d41da3eb007a109f876bc73cca1e70779",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

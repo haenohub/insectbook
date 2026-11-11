@@ -1,0 +1,111 @@
+{
+  "id": "ZREL0170",
+  "name_ko": "꽃날개들명나방",
+  "scientific_name": "Tyspanodes striata (Butler, 1879)",
+  "display_name": "꽃날개들명나방",
+  "family_ko": "풀명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "풀명나방과",
+      "name_latin": "Crambidae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Spilomelinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Tyspanodes"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 풀명나방과 (Crambidae)\n아과 : (Spilomelinae)\n속 : (Tyspanodes)",
+  "basic_information": {
+    "곤충명": "꽃날개들명나방",
+    "학명": "Tyspanodes striata (Butler, 1879)"
+  },
+  "information": {
+    "general_description": "날개 길이 26-32 mm. 앞날개는 황색 내지 오렌지색이며, 시맥 사이는 흑갈색이다. 중실 상단에 2개의 흑색 점이 있다. 뒷날개는 황갈색이며, 외연부는 갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대한민국] 전북특별자치도\n[대한민국] 강원특별자치도\n[대한민국] 강원특별자치도\n[대한민국] 경상남도\n[일본]\n[대만]\n[중국]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개 길이 26-32 mm. 앞날개는 황색 내지 오렌지색이며, 시맥 사이는 흑갈색이다. 중실 상단에 2개의 흑색 점이 있다. 뒷날개는 황갈색이며, 외연부는 갈색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대한민국] 전북특별자치도\n[대한민국] 강원특별자치도\n[대한민국] 강원특별자치도\n[대한민국] 경상남도\n[일본]\n[대만]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0170-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0170_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0170_1_th.jpg",
+      "alt": "꽃날개들명나방 1번째 사진 : 꽃날개들명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0170_1_th2.jpg",
+      "caption": "꽃날개들명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0170-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0304231030",
+      "description": "[FRIE0304231030] 꽃날개들명나방 1996.07.25 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0305011005",
+      "description": "[FRIE0305011005] 꽃날개들명나방 1987.06.01 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0302281020",
+      "description": "[KNAE0302281020] 꽃날개들명나방 1998.05.06 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZREL0170.png",
+    "reference_image_id": "ZREL0170-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T14:42:56.352833+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "380d1e64fb2fa530f4ef04b44bf432ea0e48b7044ce57262f786dfc89053746a"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0170&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:55+00:00",
+    "html_sha256": "9e77c944f20ecc23048ca1b632c3c3038752baf8cc2918d131a706119453cb34",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

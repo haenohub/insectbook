@@ -1,0 +1,107 @@
+{
+  "id": "ZREL0101",
+  "name_ko": "깃노랑줄들명나방",
+  "scientific_name": "Loxostege sticticalis (Linnaeus, 1761)",
+  "display_name": "깃노랑줄들명나방",
+  "family_ko": "풀명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "풀명나방과",
+      "name_latin": "Crambidae"
+    },
+    "subfamily": {
+      "name_ko": "들명나방아과",
+      "name_latin": "Pyraustinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Loxostege"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 풀명나방과 (Crambidae)\n아과 : 들명나방아과 (Pyraustinae)\n속 : (Loxostege)",
+  "basic_information": {
+    "곤충명": "깃노랑줄들명나방",
+    "학명": "Loxostege sticticalis (Linnaeus, 1761)"
+  },
+  "information": {
+    "general_description": "날개길이 22mm 내외. 앞날개와 뒷날개는 흑갈색 인편이 고루 섞여 있는 회갈색이고, 외연부는 약간의 좁은 황색 부분을 이루는 것이 보통이나 개체에 따라서는 없는 것도 있음. 외횡선은 불명료하나 가운데가 돌출한 톱니 모양을 이루며, 횡맥 무늬는 명료함. 뒷날개의 외횡선 안쪽은 바깥쪽보다 색깔이 연함. 뒷날개의 연모는 흰색임. 날개 뒷면에는 담황색 바탕에 회갈색 띠무늬가 있음.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개길이 22mm 내외. 앞날개와 뒷날개는 흑갈색 인편이 고루 섞여 있는 회갈색이고, 외연부는 약간의 좁은 황색 부분을 이루는 것이 보통이나 개체에 따라서는 없는 것도 있음. 외횡선은 불명료하나 가운데가 돌출한 톱니 모양을 이루며, 횡맥 무늬는 명료함. 뒷날개의 외횡선 안쪽은 바깥쪽보다 색깔이 연함. 뒷날개의 연모는 흰색임. 날개 뒷면에는 담황색 바탕에 회갈색 띠무늬가 있음."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0101-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0101_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0101_1_th.jpg",
+      "alt": "깃노랑줄들명나방 1번째 사진 : 깃노랑줄들명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0101_1_th2.jpg",
+      "caption": "깃노랑줄들명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0101-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0203201056",
+      "description": "[FRIE0203201056] 깃노랑줄들명나방 1982.09.03 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0203201057",
+      "description": "[FRIE0203201057] 깃노랑줄들명나방 1982.09.07 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0203201058",
+      "description": "[FRIE0203201058] 깃노랑줄들명나방 1982.08.31 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZREL0101.png",
+    "reference_image_id": "ZREL0101-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T09:46:04.315944+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "87ee3dd62eebe36d19baa2e4d90c283f180bfa4e9b4001b9a00542fa9eddd711"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0101&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:15+00:00",
+    "html_sha256": "f9e62352dfe86346ac5fe339597e1368fea1cbf9687d40f5d30d1972fa5c2840",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

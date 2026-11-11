@@ -1,0 +1,111 @@
+{
+  "id": "ZOAR0039",
+  "name_ko": "갈색무늬거위벌레",
+  "scientific_name": "Leptapoderus (Pseudoleptapoderus) balteatus (Roelofs, 1874)",
+  "display_name": "갈색무늬거위벌레",
+  "family_ko": "거위벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "거위벌레과",
+      "name_latin": "Attelabidae"
+    },
+    "subfamily": {
+      "name_ko": "목거위벌레아과",
+      "name_latin": "Apoderinae"
+    },
+    "genus": {
+      "name_ko": "삼각가슴목거위벌레속",
+      "name_latin": "Leptapoderus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 거위벌레과 (Attelabidae)\n아과 : 목거위벌레아과 (Apoderinae)\n속 : 삼각가슴목거위벌레속 (Leptapoderus)",
+  "basic_information": {
+    "곤충명": "갈색무늬거위벌레",
+    "학명": "Leptapoderus (Pseudoleptapoderus) balteatus (Roelofs, 1874)"
+  },
+  "information": {
+    "general_description": "한국, 일본, 러시아에 분포하며, 체장은 5.5-6.5mm 정도이다. 체색은 황색 또는 황갈색이며, 머리, 곤봉부를 제외한 더듬이, 앞가슴등판의 측면, 시초 기부근처의 둥근 무늬를 제외한 부분, 퇴절, 미절판은 검은색 또는 어두운 갈색이다. 머리는 폭보다 1.5배정도 길다. 전경절은 안쪽으로 약간 굽어 있으며, 가운데다리와 뒷다리의 경절은 강하게 굽어있다. 경절의 안쪽으로는 작은 톱니가 나 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 러시아에 분포하며, 체장은 5.5-6.5mm 정도이다. 체색은 황색 또는 황갈색이며, 머리, 곤봉부를 제외한 더듬이, 앞가슴등판의 측면, 시초 기부근처의 둥근 무늬를 제외한 부분, 퇴절, 미절판은 검은색 또는 어두운 갈색이다. 머리는 폭보다 1.5배정도 길다. 전경절은 안쪽으로 약간 굽어 있으며, 가운데다리와 뒷다리의 경절은 강하게 굽어있다. 경절의 안쪽으로는 작은 톱니가 나 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAR0039-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0039_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0039_1_th.jpg",
+      "alt": "갈색무늬거위벌레 1번째 사진 : 갈색무늬거위벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0039_1_th2.jpg",
+      "caption": "갈색무늬거위벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAR0039-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0407282001",
+      "description": "[KUIE0407282001] 갈색무늬거위벌레 1967.06.02 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0407282003",
+      "description": "[KUIE0407282003] 갈색무늬거위벌레 1972.05.14 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0407282004",
+      "description": "[KUIE0407282004] 갈색무늬거위벌레 1974.06.06 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOAR0039.png",
+    "reference_image_id": "ZOAR0039-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T16:38:24.711353+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "9003031fb92fefed38442a7e4c4b939e9e2c2003dea822e44909c8102d7e66eb"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAR0039&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:32+00:00",
+    "html_sha256": "a745a8206ade8963e5f1303d2079bcd65d50069a9f3caa2e30e1456d86df51c6",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

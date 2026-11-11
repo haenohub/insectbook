@@ -1,0 +1,99 @@
+{
+  "id": "ZOCS0010",
+  "name_ko": "애녹슬은방아벌레",
+  "scientific_name": "Agrypnus scrofa (Candèze, 1873)",
+  "display_name": "애녹슬은방아벌레",
+  "family_ko": "방아벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "방아벌레상과",
+      "name_latin": "Elateroidea"
+    },
+    "family": {
+      "name_ko": "방아벌레과",
+      "name_latin": "Elateridae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Agrypninae"
+    },
+    "genus": {
+      "name_ko": "녹슬은방아벌레속",
+      "name_latin": "Agrypnus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 방아벌레상과 (Elateroidea)\n과 : 방아벌레과 (Elateridae)\n아과 : (Agrypninae)\n속 : 녹슬은방아벌레속 (Agrypnus)",
+  "basic_information": {
+    "곤충명": "애녹슬은방아벌레",
+    "학명": "Agrypnus scrofa (Candèze, 1873)"
+  },
+  "information": {
+    "general_description": "한국, 일본, 유럽에 분포하며, 체장은 8-10mm 정도이다. 몸은 편평하고 암흑색의 비늘털을 밀생하였다. 앞가슴등판은 팽융하고 비틀털을 밀생하였고 앞가두리각은 예리하고 뒷가두리각은 윗끝이 절단되었다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 유럽에 분포하며, 체장은 8-10mm 정도이다. 몸은 편평하고 암흑색의 비늘털을 밀생하였다. 앞가슴등판은 팽융하고 비틀털을 밀생하였고 앞가두리각은 예리하고 뒷가두리각은 윗끝이 절단되었다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCS0010-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCS0010_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCS0010_1_th.jpg",
+      "alt": "애녹슬은방아벌레 1번째 사진 : 애녹슬은방아벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCS0010_1_th2.jpg",
+      "caption": "애녹슬은방아벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCS0010-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0201052006",
+      "description": "[YNUE0201052006] 애녹슬은방아벌레 1991.05.09 / / 영남대학교"
+    },
+    {
+      "id": "DJUE0609121037",
+      "description": "[DJUE0609121037] 애녹슬은방아벌레 2005.07.06 / / 대전대학교"
+    },
+    {
+      "id": "DJUE0609061002",
+      "description": "[DJUE0609061002] 애녹슬은방아벌레 2005.07.08 / / 대전대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOCS0010-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCS0010&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:06+00:00",
+    "html_sha256": "a64b8ae834b30e8941559a0ef9266b5555b8cae5633774832f353efac617b19b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

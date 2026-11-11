@@ -1,0 +1,103 @@
+{
+  "id": "ZTBU0338",
+  "name_ko": "박각시살이맵시벌",
+  "scientific_name": "Ichneumon longicrus Uchida, 1926",
+  "display_name": "박각시살이맵시벌",
+  "family_ko": "맵시벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "맵시벌과",
+      "name_latin": "Ichneumonidae"
+    },
+    "subfamily": {
+      "name_ko": "맵시벌아과",
+      "name_latin": "Ichneumoninae"
+    },
+    "genus": {
+      "name_ko": "진맵시벌속",
+      "name_latin": "Ichneumon"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 맵시벌과 (Ichneumonidae)\n아과 : 맵시벌아과 (Ichneumoninae)\n속 : 진맵시벌속 (Ichneumon)",
+  "basic_information": {
+    "곤충명": "박각시살이맵시벌",
+    "학명": "Ichneumon longicrus Uchida, 1926"
+  },
+  "information": {
+    "general_description": "머리는 가슴보다 다소 좁다. ♀은 뺨이 넓고 얼굴과 머리방패에 점각이 밀포하고 ♂은 얼굴과 겹눈의 안슭 무늬는 백색이다. 가슴은 다소 광택이 있는 흑색이다. 분할선(costula)과 뒷가슴의 침돌기(apophysis)는 불명하고 날개는 다소 황색을 띤다. 경포는 거의 4각형으로 길이보다 약간 넓다. 제2·3배마디에는 점각이 밀포하나 나머지는 빤빤하다.성충의 몸길이는 14∼16mm정도 이다.",
+    "adult": null,
+    "adult_male": "♂에서는 앞다리의 종아리마디와 뒷다리의 종아리마디의 기부는 담색이다.",
+    "adult_female": "다리는 흑색이나 ♀에서는 앞다리의 넓적다리마디와 종아리마디의 안쪽은 회갈색이다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "머리는 가슴보다 다소 좁다. ♀은 뺨이 넓고 얼굴과 머리방패에 점각이 밀포하고 ♂은 얼굴과 겹눈의 안슭 무늬는 백색이다. 가슴은 다소 광택이 있는 흑색이다. 분할선(costula)과 뒷가슴의 침돌기(apophysis)는 불명하고 날개는 다소 황색을 띤다. 경포는 거의 4각형으로 길이보다 약간 넓다. 제2·3배마디에는 점각이 밀포하나 나머지는 빤빤하다.성충의 몸길이는 14∼16mm정도 이다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "♂에서는 앞다리의 종아리마디와 뒷다리의 종아리마디의 기부는 담색이다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "다리는 흑색이나 ♀에서는 앞다리의 넓적다리마디와 종아리마디의 안쪽은 회갈색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBU0338-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0338_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0338_1_th.jpg",
+      "alt": "박각시살이맵시벌 1번째 사진 : 박각시살이맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0338_1_th2.jpg",
+      "caption": "박각시살이맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBU0338-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305261153",
+      "description": "[YNUE0305261153] 박각시살이맵시벌 1962.10.06 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTBU0338-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBU0338&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:02+00:00",
+    "html_sha256": "350f82da96f8e37a1485813fd58727017affeb15e53e07fdadd1c736f21cedc7",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

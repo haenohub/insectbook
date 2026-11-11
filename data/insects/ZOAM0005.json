@@ -1,0 +1,103 @@
+{
+  "id": "ZOAM0005",
+  "name_ko": "참소바구미",
+  "scientific_name": "Anthribus niveovariegatus (Roelofs, 1879)",
+  "display_name": "참소바구미",
+  "family_ko": "소바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "소바구미과",
+      "name_latin": "Anthribidae"
+    },
+    "subfamily": {
+      "name_ko": "소바구미아과",
+      "name_latin": "Anthribinae"
+    },
+    "genus": {
+      "name_ko": "참소바구미속",
+      "name_latin": "Anthribus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 소바구미과 (Anthribidae)\n아과 : 소바구미아과 (Anthribinae)\n속 : 참소바구미속 (Anthribus)",
+  "basic_information": {
+    "곤충명": "참소바구미",
+    "학명": "Anthribus niveovariegatus (Roelofs, 1879)"
+  },
+  "information": {
+    "general_description": "크기 2.3-4.5mm\n체색은 회흑색. 촉각은 짧은 편.\n앞가슴과 시초에는 밝은 회색의 털무늬가 있슴\n머리의 점각 모양은 둥근 것, 타원형 또는 세로로 길게 패인 모습이며, 불규칙적이다.\n시초에는 세로로 길게 패인 홈 안에 점각열이 열지어 있다.\n주둥이는 짧고, 측면으로 촉각홈의 윗부분에 약간 위로 솟은 짧은 융기선을 가진다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": "복판들은 약간 볼록.\n미절판이 수컷보다 더 넓다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "크기 2.3-4.5mm\n체색은 회흑색. 촉각은 짧은 편.\n앞가슴과 시초에는 밝은 회색의 털무늬가 있슴\n머리의 점각 모양은 둥근 것, 타원형 또는 세로로 길게 패인 모습이며, 불규칙적이다.\n시초에는 세로로 길게 패인 홈 안에 점각열이 열지어 있다.\n주둥이는 짧고, 측면으로 촉각홈의 윗부분에 약간 위로 솟은 짧은 융기선을 가진다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "복판들은 약간 볼록.\n미절판이 수컷보다 더 넓다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAM0005-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0005_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0005_1_th.jpg",
+      "alt": "참소바구미 1번째 사진 : 참소바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0005_1_th2.jpg",
+      "caption": "참소바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAM0005-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0202141006",
+      "description": "[SNUE0202141006] 참소바구미 1958.06.26 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAM0005-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAM0005&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:58+00:00",
+    "html_sha256": "67815fcacd16550c3f91724771a41eee7c850495855f3b426fbe77387b318844",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

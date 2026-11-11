@@ -1,0 +1,95 @@
+{
+  "id": "ZOBH0279",
+  "name_ko": "긴목칠납작먼지벌레",
+  "scientific_name": "Synuchus (Synuchus) crocatus (Bates, 1883)",
+  "display_name": "긴목칠납작먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "먼지벌레아과",
+      "name_latin": "Harpalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Synuchus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 먼지벌레아과 (Harpalinae)\n속 : (Synuchus)",
+  "basic_information": {
+    "곤충명": "긴목칠납작먼지벌레",
+    "학명": "Synuchus (Synuchus) crocatus (Bates, 1883)"
+  },
+  "information": {
+    "general_description": "몸길이는 9~11mm 이며 검은색이며 다소 광택이있다. 딱지날개는 광택이없다. 수컷생식기는 일자형이다. 앞가슴등판은 둥근형이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 9~11mm 이며 검은색이며 다소 광택이있다. 딱지날개는 광택이없다. 수컷생식기는 일자형이다. 앞가슴등판은 둥근형이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0279-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0279_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0279_1_th.jpg",
+      "alt": "긴목칠납작먼지벌레 1번째 사진 : 긴목칠납작먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0279_1_th2.jpg",
+      "caption": "긴목칠납작먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0279-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0201022025",
+      "description": "[YNUE0201022025] 긴목칠납작먼지벌레 1990.05.17 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBH0279.png",
+    "reference_image_id": "ZOBH0279-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T09:05:12.467388+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "e3e3c551e89a2174db3f54add7074bf919f9421d4b4a69a71497353f00c5dbf3"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0279&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:01+00:00",
+    "html_sha256": "6ad58973e262ab1458cab50b3333d150d8194a10e86056e2ee95d90067e2ed26",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

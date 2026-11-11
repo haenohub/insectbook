@@ -1,0 +1,111 @@
+{
+  "id": "ZTAN0093",
+  "name_ko": "검고치벌",
+  "scientific_name": "Microchelonus (Microchelonus) pectiniphorae (Cushman, 1931)",
+  "display_name": "검고치벌",
+  "family_ko": "고치벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "고치벌과",
+      "name_latin": "Braconidae"
+    },
+    "subfamily": {
+      "name_ko": "흰허리고치벌아과",
+      "name_latin": "Cheloninae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Microchelonus"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 고치벌과 (Braconidae)\n아과 : 흰허리고치벌아과 (Cheloninae)\n속 : (Microchelonus)",
+  "basic_information": {
+    "곤충명": "검고치벌",
+    "학명": "Microchelonus (Microchelonus) pectiniphorae (Cushman, 1931)"
+  },
+  "information": {
+    "general_description": "몸길이는 3-4mm 정도이며, 더듬이는 2mm이다. 더듬이는 16마디로 되어있다. 모든 도래마디, 앞다리 종아리마디의 앞부분, 발목마디는 아이보리다. 뒷다리 종아리마디의 기부에 흰색의 띠가 있다. 날개는 반투명하고, 담황색이며, 미세한 잔털이 났다. 배의 기부1/3은 옅은 황색이고, 배마디의 끝은 둥글다. 수컷의 배 기부 1/3은 옅은 황색이다. 날개는 투명하다. 몸길이는 3mm정도이고, 더듬이는 24마디이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "목화다래나방의 알.유충 기생벌레이다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[멕시코]\n[미국]\n[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 3-4mm 정도이며, 더듬이는 2mm이다. 더듬이는 16마디로 되어있다. 모든 도래마디, 앞다리 종아리마디의 앞부분, 발목마디는 아이보리다. 뒷다리 종아리마디의 기부에 흰색의 띠가 있다. 날개는 반투명하고, 담황색이며, 미세한 잔털이 났다. 배의 기부1/3은 옅은 황색이고, 배마디의 끝은 둥글다. 수컷의 배 기부 1/3은 옅은 황색이다. 날개는 투명하다. 몸길이는 3mm정도이고, 더듬이는 24마디이다."
+    },
+    {
+      "title": "생태",
+      "text": "목화다래나방의 알.유충 기생벌레이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[멕시코]\n[미국]\n[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAN0093-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAN0093_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAN0093_1_th.jpg",
+      "alt": "검고치벌 1번째 사진 : 검고치벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAN0093_1_th2.jpg",
+      "caption": "검고치벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAN0093-1",
+  "specimen_examples": [
+    {
+      "id": "GSNE0408302028",
+      "description": "[GSNE0408302028] 검고치벌 2001.08.18 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0408302030",
+      "description": "[GSNE0408302030] 검고치벌 2001.08.18 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0408302031",
+      "description": "[GSNE0408302031] 검고치벌 2001.07.25 / / 경상대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTAN0093.png",
+    "reference_image_id": "ZTAN0093-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T17:35:17.819574+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "672d3206f9b7a85d5cf821118d3233ea58f4be916b6f063648afed9ec9b06d24"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAN0093&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:49+00:00",
+    "html_sha256": "1042d62c3e2fd04feb59586116dcf483a5185f50799c6fdcf2c413edf1e82a07",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

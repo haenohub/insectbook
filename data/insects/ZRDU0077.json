@@ -1,0 +1,164 @@
+{
+  "id": "ZRDU0077",
+  "name_ko": "곱추재주나방",
+  "scientific_name": "Euhampsonia cristata (Butler, 1877)",
+  "display_name": "곱추재주나방",
+  "family_ko": "재주나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "재주나방과",
+      "name_latin": "Notodontidae"
+    },
+    "subfamily": {
+      "name_ko": "왕재주나방아과",
+      "name_latin": "Dudusinae"
+    },
+    "genus": {
+      "name_ko": "곱추재주나방속",
+      "name_latin": "Euhampsonia"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 재주나방과 (Notodontidae)\n아과 : 왕재주나방아과 (Dudusinae)\n속 : 곱추재주나방속 (Euhampsonia)",
+  "basic_information": {
+    "곤충명": "곱추재주나방",
+    "학명": "Euhampsonia cristata (Butler, 1877)"
+  },
+  "information": {
+    "general_description": "성충의 앞날개 길이는 암컷이 37~43 mm, 수컷이 32~36 mm이고 황갈색이며 가슴의 등 중앙에 털 무더기가 솟아 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": "유충의 몸길이는 50 mm이며 머리 폭은 8 mm 정도이고 회녹색을 띤다. 기문은 적갈색이다.",
+    "egg": null,
+    "pupa": null,
+    "ecology": "연 1회 발생하며 성충은 6~7월에 나타난다. 유충은 8월에 노숙하여 흙 속으로 들어가 번데기가 되어 월동한다.",
+    "habits": "유충이 잎을 식해하며 몸이 커서 섭식량이 많으며 대발생하여 큰 피해를 주는 경우가 있다. 1990~1991년에 충남 일부 지역의 참나무림에 대발생하였다.",
+    "season": null,
+    "overwintering": "흙 속에서 번데기가 되어 월동한다.",
+    "distribution": "[러시아]\n[중국]\n[대만]\n[일본]\n[미얀마]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충의 앞날개 길이는 암컷이 37~43 mm, 수컷이 32~36 mm이고 황갈색이며 가슴의 등 중앙에 털 무더기가 솟아 있다."
+    },
+    {
+      "title": "유충",
+      "text": "유충의 몸길이는 50 mm이며 머리 폭은 8 mm 정도이고 회녹색을 띤다. 기문은 적갈색이다."
+    },
+    {
+      "title": "생태",
+      "text": "연 1회 발생하며 성충은 6~7월에 나타난다. 유충은 8월에 노숙하여 흙 속으로 들어가 번데기가 되어 월동한다."
+    },
+    {
+      "title": "습성",
+      "text": "유충이 잎을 식해하며 몸이 커서 섭식량이 많으며 대발생하여 큰 피해를 주는 경우가 있다. 1990~1991년에 충남 일부 지역의 참나무림에 대발생하였다."
+    },
+    {
+      "title": "월동",
+      "text": "흙 속에서 번데기가 되어 월동한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]\n[대만]\n[일본]\n[미얀마]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDU0077-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0077_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0077_2_th.jpg",
+      "alt": "곱추재주나방 1번째 사진 : 곱추재주나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0077_2_th2.jpg",
+      "caption": "곱추재주나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDU0077-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0077_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0077_1_th.jpg",
+      "alt": "곱추재주나방 2번째 사진 : 곱추재주나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0077_1_th2.jpg",
+      "caption": "곱추재주나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDU0077-1",
+  "specimen_examples": [
+    {
+      "id": "ADUE0305121076",
+      "description": "[ADUE0305121076] 곱추재주나방 2002.05.21 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0305121077",
+      "description": "[ADUE0305121077] 곱추재주나방 2002.05.21 / / 안동대학교"
+    },
+    {
+      "id": "KNAE0302101013",
+      "description": "[KNAE0302101013] 곱추재주나방 1998.06.29 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "가시나무",
+      "scientific_name": "Quercus myrsinifolia Blume"
+    },
+    {
+      "group": "식물",
+      "name_ko": "떡갈나무",
+      "scientific_name": "Quercus dentata Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "상수리나무",
+      "scientific_name": "Quercus acutissima Carruth."
+    },
+    {
+      "group": "식물",
+      "name_ko": "신갈나무",
+      "scientific_name": "Quercus mongolica Fisch. ex Ledeb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "졸참나무",
+      "scientific_name": "Quercus serrata Murray"
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDU0077.png",
+    "reference_image_id": "ZRDU0077-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T13:12:54.927902+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "fd6ee4c1d9a59b85852ce88fae6ce95fa5646ba238c8d1103f15c39661cec102"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDU0077&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:07+00:00",
+    "html_sha256": "db79965c7f03819f7cbe65cbb42132dd5d0fc0006f56d8e2ce7a1038b1688088",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

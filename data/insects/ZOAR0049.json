@@ -1,0 +1,107 @@
+{
+  "id": "ZOAR0049",
+  "name_ko": "톱수염왕거위벌레",
+  "scientific_name": "Paratrachelophorus longicornis (Roelofs, 1874)",
+  "display_name": "톱수염왕거위벌레",
+  "family_ko": "거위벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "거위벌레과",
+      "name_latin": "Attelabidae"
+    },
+    "subfamily": {
+      "name_ko": "목거위벌레아과",
+      "name_latin": "Apoderinae"
+    },
+    "genus": {
+      "name_ko": "톱수염자루목거위벌레속",
+      "name_latin": "Paratrachelophorus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 거위벌레과 (Attelabidae)\n아과 : 목거위벌레아과 (Apoderinae)\n속 : 톱수염자루목거위벌레속 (Paratrachelophorus)",
+  "basic_information": {
+    "곤충명": "톱수염왕거위벌레",
+    "학명": "Paratrachelophorus longicornis (Roelofs, 1874)"
+  },
+  "information": {
+    "general_description": "한국, 일본, 중국, 러시아에 분포하며, 체장은 8.5-12.0mm 정도이다. 체색은 담적갈색이며, 다리의 토절 말단부위는 흑갈색이다. 더듬이는 비교적 긴 편으로 앞가슴등판의 선단부까지 다다르며, 더듬이의 길이는 폭보다 훨씬 길다. 목의 선단부위는 원통형부분으로, 앞쪽으로 살짝 신장되었다가 다시 넓어진다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 중국, 러시아에 분포하며, 체장은 8.5-12.0mm 정도이다. 체색은 담적갈색이며, 다리의 토절 말단부위는 흑갈색이다. 더듬이는 비교적 긴 편으로 앞가슴등판의 선단부까지 다다르며, 더듬이의 길이는 폭보다 훨씬 길다. 목의 선단부위는 원통형부분으로, 앞쪽으로 살짝 신장되었다가 다시 넓어진다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAR0049-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0049_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0049_1_th.jpg",
+      "alt": "톱수염왕거위벌레 1번째 사진 : 톱수염왕거위벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0049_1_th2.jpg",
+      "caption": "톱수염왕거위벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAR0049-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0408191092",
+      "description": "[UIBE0408191092] 톱수염왕거위벌레 1988.06.23 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0408191093",
+      "description": "[UIBE0408191093] 톱수염왕거위벌레 1988.08.26 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0408191094",
+      "description": "[UIBE0408191094] 톱수염왕거위벌레 1988.08.22 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAR0049-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAR0049&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:29+00:00",
+    "html_sha256": "327a2c32822a5aa7e3bea3ec36c331a73c8f34c67b1d4563485da9ea7520f27c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

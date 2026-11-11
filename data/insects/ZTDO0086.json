@@ -1,0 +1,114 @@
+{
+  "id": "ZTDO0086",
+  "name_ko": "홍다리검정잎벌",
+  "scientific_name": "Macrophya (Macrophya) vacillans Malaise, 1931",
+  "display_name": "홍다리검정잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "잎벌아과",
+      "name_latin": "Tenthredininae"
+    },
+    "genus": {
+      "name_ko": "검정잎벌속",
+      "name_latin": "Macrophya"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 잎벌아과 (Tenthredininae)\n속 : 검정잎벌속 (Macrophya)",
+  "basic_information": {
+    "곤충명": "홍다리검정잎벌",
+    "학명": "Macrophya (Macrophya) vacillans Malaise, 1931"
+  },
+  "information": {
+    "general_description": "암컷의 몸은 흑색이다. 윗입술과 큰턱 기분의 반점, 앞가슴 등판의 뒷슭, 작은방패판과 그 뒷판, 제 2~5배마디 양 옆의 점은 백색이다. 더듬이는 흑색이고 다리도 흑색이나 뒷다리의 넓적다리마디의 끝은 적색, 그 다음부터는 백색이다. 날개는 황색, 투명하고 더듬이는 거의 실 모양이고 가운데가슴등판은 잔 점각이 밀포하고 작은방패판은 약간 돌출하고 중앙의 광택은 세다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷의 몸은 흑색이다. 윗입술과 큰턱 기분의 반점, 앞가슴 등판의 뒷슭, 작은방패판과 그 뒷판, 제 2~5배마디 양 옆의 점은 백색이다. 더듬이는 흑색이고 다리도 흑색이나 뒷다리의 넓적다리마디의 끝은 적색, 그 다음부터는 백색이다. 날개는 황색, 투명하고 더듬이는 거의 실 모양이고 가운데가슴등판은 잔 점각이 밀포하고 작은방패판은 약간 돌출하고 중앙의 광택은 세다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0086-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0086_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0086_2_th.jpg",
+      "alt": "홍다리검정잎벌 1번째 사진 : 홍다리검정잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0086_2_th2.jpg",
+      "caption": "홍다리검정잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTDO0086-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0086_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0086_1_th.jpg",
+      "alt": "홍다리검정잎벌 2번째 사진 : 홍다리검정잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0086_1_th2.jpg",
+      "caption": "홍다리검정잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0086-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0212269023",
+      "description": "[YNUE0212269023] 홍다리검정잎벌 2002.05.24 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0201172033",
+      "description": "[YNUE0201172033] 홍다리검정잎벌 1999.06.29 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0201172031",
+      "description": "[YNUE0201172031] 홍다리검정잎벌 1999.06.29 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDO0086-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0086&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:30+00:00",
+    "html_sha256": "0db3cdaf176b13b74c2b429e3e45c7ceb323587d2a85b4197373c3413dfd54b6",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "id": "ZOBL0182",
+  "name_ko": "깨다시하늘소",
+  "scientific_name": "Mesosa (Mesosa) myops (Dalman, 1817)",
+  "display_name": "깨다시하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "목하늘소아과",
+      "name_latin": "Lamiinae"
+    },
+    "genus": {
+      "name_ko": "깨다시하늘소속",
+      "name_latin": "Mesosa"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 목하늘소아과 (Lamiinae)\n속 : 깨다시하늘소속 (Mesosa)",
+  "basic_information": {
+    "곤충명": "깨다시하늘소",
+    "학명": "Mesosa (Mesosa) myops (Dalman, 1817)"
+  },
+  "information": {
+    "general_description": "몸길이는 10-17mm가량이며, 4-8월에 걸쳐 출현한다. 광엽수의 벌채목에 비래하는 것으로 알려져 있다 (이, 1987). 한반도 전역과 제주특별자치도에도 분포한다. 우리나라외에도 중국동북, 일본, 러시아 시베리아 지역등에 분포한다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 10-17mm가량이며, 4-8월에 걸쳐 출현한다. 광엽수의 벌채목에 비래하는 것으로 알려져 있다 (이, 1987). 한반도 전역과 제주특별자치도에도 분포한다. 우리나라외에도 중국동북, 일본, 러시아 시베리아 지역등에 분포한다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0182-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0182_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0182_3.jpg",
+      "alt": "깨다시하늘소 1번째 사진 : ",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0182_3_th2.jpg",
+      "caption": null,
+      "photographed_at": "20120601",
+      "location": null,
+      "photographer": "국립수목원(임종옥)"
+    },
+    {
+      "id": "ZOBL0182-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0182_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0182_2_th.jpg",
+      "alt": "깨다시하늘소 2번째 사진 : 깨다시하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0182_2_th2.jpg",
+      "caption": "깨다시하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBL0182-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0182_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0182_1_th.jpg",
+      "alt": "깨다시하늘소 3번째 사진 : 깨다시하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0182_1_th2.jpg",
+      "caption": "깨다시하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0182-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0301282102",
+      "description": "[UIBE0301282102] 깨다시하늘소 1999.07.29 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301282103",
+      "description": "[UIBE0301282103] 깨다시하늘소 1995.05.27 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301282104",
+      "description": "[UIBE0301282104] 깨다시하늘소 1985.07.28 / / 인천대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "옻나무",
+      "scientific_name": "Toxicodendron vernicifluum (Stokes) F.A.Barkley"
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBL0182.png",
+    "reference_image_id": "ZOBL0182-2",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T10:10:58.401184+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "062bb87f230f8d08766da65cecd6abb423a39acf66cd786469ba62881e6c52c9"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0182&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:21+00:00",
+    "html_sha256": "2d116de20e75da2204e83afd6fad472bcbcdf52a90193524c7168131f9ec73de",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

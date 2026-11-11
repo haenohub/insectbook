@@ -1,0 +1,111 @@
+{
+  "id": "ZREL0111",
+  "name_ko": "조명나방",
+  "scientific_name": "Ostrinia furnacalis (Guenée, 1854)",
+  "display_name": "조명나방",
+  "family_ko": "풀명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "풀명나방과",
+      "name_latin": "Crambidae"
+    },
+    "subfamily": {
+      "name_ko": "들명나방아과",
+      "name_latin": "Pyraustinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Ostrinia"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 풀명나방과 (Crambidae)\n아과 : 들명나방아과 (Pyraustinae)\n속 : (Ostrinia)",
+  "basic_information": {
+    "곤충명": "조명나방",
+    "학명": "Ostrinia furnacalis (Guenée, 1854)"
+  },
+  "information": {
+    "general_description": "한국 일본 만주 중국 소련 타이완 인디아 말레이시아 자바 오스트레일리에 분포하며 먹이풀 및 개체에 따라 형태를 달리하나 대체로 머리, 가슴, 앞날개는 황갈색이고, 배는 암갈색이다. 날개길이 23~32mm",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": "20~30일 극치 잡식성이어서 잎, 줄기, 가지 ,열매 등의 부분도 먹는다.",
+    "egg": null,
+    "pupa": "흑갈색이고 얇은 고치 속에 들어있다. 6~7일",
+    "ecology": "성충은 연2~3회 발생한다. 6월 상순에 1화기 성충이 출현하며, 7월 중하순에 2화기 성충이, 8월 중하순에 3화기 성충이 나타난다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국 일본 만주 중국 소련 타이완 인디아 말레이시아 자바 오스트레일리에 분포하며 먹이풀 및 개체에 따라 형태를 달리하나 대체로 머리, 가슴, 앞날개는 황갈색이고, 배는 암갈색이다. 날개길이 23~32mm"
+    },
+    {
+      "title": "번데기",
+      "text": "흑갈색이고 얇은 고치 속에 들어있다. 6~7일"
+    },
+    {
+      "title": "유충",
+      "text": "20~30일 극치 잡식성이어서 잎, 줄기, 가지 ,열매 등의 부분도 먹는다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 연2~3회 발생한다. 6월 상순에 1화기 성충이 출현하며, 7월 중하순에 2화기 성충이, 8월 중하순에 3화기 성충이 나타난다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0111-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0111_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0111_1_th.jpg",
+      "alt": "조명나방 1번째 사진 : 조명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0111_1_th2.jpg",
+      "caption": "조명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0111-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0305011027",
+      "description": "[FRIE0305011027] 조명나방 1984.07.20 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0302121005",
+      "description": "[FRIE0302121005] 조명나방 1996.09.23 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0302121006",
+      "description": "[FRIE0302121006] 조명나방 1998.06.03 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREL0111-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0111&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:40+00:00",
+    "html_sha256": "f4eb3b9f32c242534cf5591a8131d826d457ae14b92b8e72a18a2dc3674910e3",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

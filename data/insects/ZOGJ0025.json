@@ -1,0 +1,103 @@
+{
+  "id": "ZOGJ0025",
+  "name_ko": "꼬마붙이소똥풍뎅이",
+  "scientific_name": "Onthophagus (Parascatonomus) nitidus Waterhouse, 1875",
+  "display_name": "꼬마붙이소똥풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "소똥구리아과",
+      "name_latin": "Scarabaeinae"
+    },
+    "genus": {
+      "name_ko": "소똥풍뎅이속",
+      "name_latin": "Onthophagus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 소똥구리아과 (Scarabaeinae)\n속 : 소똥풍뎅이속 (Onthophagus)",
+  "basic_information": {
+    "곤충명": "꼬마붙이소똥풍뎅이",
+    "학명": "Onthophagus (Parascatonomus) nitidus Waterhouse, 1875"
+  },
+  "information": {
+    "general_description": "일본, 대만, 인도, Sunda도 에 분포하며 작고, 흑색이나 두흉부는 구릿빛 광택이 강하다. 머리방패는 반원형에 가깝고, 조밀한 과립이 가로 주름형으로 분포한다. 이마융기는 없고, 두정융기는 짧고 빈약하다. 전흉배판 점각은 단순한데 양옆에서는 거칠고 조밀하다. 몸의 아랫면에는 담갈색의 짧은 털들이 나있다. BL:5~8mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "일본, 대만, 인도, Sunda도 에 분포하며 작고, 흑색이나 두흉부는 구릿빛 광택이 강하다. 머리방패는 반원형에 가깝고, 조밀한 과립이 가로 주름형으로 분포한다. 이마융기는 없고, 두정융기는 짧고 빈약하다. 전흉배판 점각은 단순한데 양옆에서는 거칠고 조밀하다. 몸의 아랫면에는 담갈색의 짧은 털들이 나있다. BL:5~8mm."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGJ0025-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0025_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0025_1_th.jpg",
+      "alt": "꼬마붙이소똥풍뎅이 1번째 사진 : 꼬마붙이소똥풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0025_1_th2.jpg",
+      "caption": "꼬마붙이소똥풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGJ0025-1",
+  "specimen_examples": [
+    {
+      "id": "SSUE0301071002",
+      "description": "[SSUE0301071002] 꼬마붙이소똥풍뎅이 1984.07.13 / / 성신여자대학교"
+    },
+    {
+      "id": "KNAE564839",
+      "description": "[KNAE564839] 꼬마붙이소똥풍뎅이 / / 국립수목원"
+    },
+    {
+      "id": "KNAE601060",
+      "description": "[KNAE601060] 꼬마붙이소똥풍뎅이 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOGJ0025.png",
+    "reference_image_id": "ZOGJ0025-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T13:53:51.625850+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "f4a2766f90199aa1a8888c7e295e4a8e03f742ce24daf314db882680d724c175"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGJ0025&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:40+00:00",
+    "html_sha256": "e32946d7fb1a77efe70585e8ed18105c0e16d3ead0e573f0a19362141ef471d8",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

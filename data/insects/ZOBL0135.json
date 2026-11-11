@@ -1,0 +1,109 @@
+{
+  "id": "ZOBL0135",
+  "name_ko": "육점박이범하늘소",
+  "scientific_name": "Chlorophorus simillimus (Kraatz, 1879)",
+  "display_name": "육점박이범하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "하늘소아과",
+      "name_latin": "Cerambycinae"
+    },
+    "genus": {
+      "name_ko": "범하늘소속",
+      "name_latin": "Chlorophorus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 하늘소아과 (Cerambycinae)\n속 : 범하늘소속 (Chlorophorus)",
+  "basic_information": {
+    "곤충명": "육점박이범하늘소",
+    "학명": "Chlorophorus simillimus (Kraatz, 1879)"
+  },
+  "information": {
+    "general_description": "몸 길이는 7~13mm이다. 몸 색깔은 연녹색이며 가늘고 길며 원통형이다. 온몸은 녹색, 황색을 띠며 회색의 짧은 철이 있으며 녹회색 또는 황회색으로 보인다. 딱지날개에 6개의 흑색무늬가 있는데 어깨 쪽의 것은 갈고리 모양의 무늬이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6~7월에 나타나나며 여러 꽃에 모여든다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸 길이는 7~13mm이다. 몸 색깔은 연녹색이며 가늘고 길며 원통형이다. 온몸은 녹색, 황색을 띠며 회색의 짧은 철이 있으며 녹회색 또는 황회색으로 보인다. 딱지날개에 6개의 흑색무늬가 있는데 어깨 쪽의 것은 갈고리 모양의 무늬이다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6~7월에 나타나나며 여러 꽃에 모여든다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0135-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0135_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0135_1_th.jpg",
+      "alt": "육점박이범하늘소 1번째 사진 : 육점박이범하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0135_1_th2.jpg",
+      "caption": "육점박이범하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0135-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0301282042",
+      "description": "[UIBE0301282042] 육점박이범하늘소 1998.07.04 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301282041",
+      "description": "[UIBE0301282041] 육점박이범하늘소 2000.07.04 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301282040",
+      "description": "[UIBE0301282040] 육점박이범하늘소 1986.07.20 / / 인천대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "찔레꽃",
+      "scientific_name": "Rosa multiflora Thunb."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0135-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0135&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:16+00:00",
+    "html_sha256": "31e5e5671a9c37ae45467473b7891a5710cdfbee0919c21aeb877bd2cc724652",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

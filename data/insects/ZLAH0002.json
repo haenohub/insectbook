@@ -1,0 +1,122 @@
+{
+  "id": "ZLAH0002",
+  "name_ko": "물장군",
+  "scientific_name": "Lethocerus deyrolli (Vuillefroy, 1864)",
+  "display_name": "물장군",
+  "family_ko": "물장군과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "family": {
+      "name_ko": "물장군과",
+      "name_latin": "Belostomatidae"
+    },
+    "subfamily": {
+      "name_ko": "물장군아과",
+      "name_latin": "Belostomatinae"
+    },
+    "genus": {
+      "name_ko": "물장군속",
+      "name_latin": "Lethocerus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n과 : 물장군과 (Belostomatidae)\n아과 : 물장군아과 (Belostomatinae)\n속 : 물장군속 (Lethocerus)",
+  "basic_information": {
+    "곤충명": "물장군",
+    "학명": "Lethocerus deyrolli (Vuillefroy, 1864)"
+  },
+  "information": {
+    "general_description": "몸길이는 48-65 mm 가량이며, 우리 나라 노린재 무리 중 가장 큰 것으로 알려져 있다. 몸은 갈색이며, 머리는 비교적 작고, 더듬이는 겹눈 밑에 감추어져 있어 보이지 않는다. 앞다리는 포획다리로 끝에 발톱이 1개 나 있고, 가운뎃다리와 뒷다리는 헤엄다리로 종아리마디와 발톱마디에 긴 털이 나 있다. 꼬리 끝에는 신축성이 있는 짧은 호흡관이 발달되어 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "기록에 의하면 성충은 5-9월에 출현하며, 늪이나 연못, 하천의 괸 물 등지에서 사는 것으로 알려져 있다.",
+    "habits": "작은 물고기나 올챙이, 개구리 등을 날카로운 발톱으로 잡아 체액을 빨아 먹는다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[대만]",
+    "notes": "[II급 멸종위기야생동식물] 최근에 수질 오염으로 그 수가 현저히 감소하고 있어 환경부에 의해 보호종으로 지정되었다.",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 48-65 mm 가량이며, 우리 나라 노린재 무리 중 가장 큰 것으로 알려져 있다. 몸은 갈색이며, 머리는 비교적 작고, 더듬이는 겹눈 밑에 감추어져 있어 보이지 않는다. 앞다리는 포획다리로 끝에 발톱이 1개 나 있고, 가운뎃다리와 뒷다리는 헤엄다리로 종아리마디와 발톱마디에 긴 털이 나 있다. 꼬리 끝에는 신축성이 있는 짧은 호흡관이 발달되어 있다."
+    },
+    {
+      "title": "생태",
+      "text": "기록에 의하면 성충은 5-9월에 출현하며, 늪이나 연못, 하천의 괸 물 등지에서 사는 것으로 알려져 있다."
+    },
+    {
+      "title": "습성",
+      "text": "작은 물고기나 올챙이, 개구리 등을 날카로운 발톱으로 잡아 체액을 빨아 먹는다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[대만]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[II급 멸종위기야생동식물] 최근에 수질 오염으로 그 수가 현저히 감소하고 있어 환경부에 의해 보호종으로 지정되었다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLAH0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAH0002_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAH0002_2_th.jpg",
+      "alt": "물장군 1번째 사진 : 물장군전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAH0002_2_th2.jpg",
+      "caption": "물장군전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZLAH0002-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAH0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAH0002_1_th.jpg",
+      "alt": "물장군 2번째 사진 : 물장군전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAH0002_1_th2.jpg",
+      "caption": "물장군전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLAH0002-1",
+  "specimen_examples": [
+    {
+      "id": "ADUE0302261154",
+      "description": "[ADUE0302261154] 물장군 2002.10.04 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0302261124",
+      "description": "[ADUE0302261124] 물장군 2002.10.04 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0302261125",
+      "description": "[ADUE0302261125] 물장군 2002.10.04 / / 안동대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLAH0002-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLAH0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:42+00:00",
+    "html_sha256": "bd8af9f493c1bf8ab98ba3b4cc5191e34c84982f4cf730294d112ee118782421",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

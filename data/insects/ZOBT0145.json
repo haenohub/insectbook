@@ -1,0 +1,111 @@
+{
+  "id": "ZOBT0145",
+  "name_ko": "좀남색잎벌레",
+  "scientific_name": "Gastrophysa (Gastrophysa) atrocyanea Motschulsky, 1860",
+  "display_name": "좀남색잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "잎벌레아과",
+      "name_latin": "Chrysomelinae"
+    },
+    "genus": {
+      "name_ko": "가시다리잎벌레속",
+      "name_latin": "Gastrophysa"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 잎벌레아과 (Chrysomelinae)\n속 : 가시다리잎벌레속 (Gastrophysa)",
+  "basic_information": {
+    "곤충명": "좀남색잎벌레",
+    "학명": "Gastrophysa (Gastrophysa) atrocyanea Motschulsky, 1860"
+  },
+  "information": {
+    "general_description": "몸길이는 5.2~5.8mm, 몸전체 색깔이 흑청색이다. 등판의 강한 점각. 앞날개 불규칙 점각. 한국, 동시베리아, 일본(혼슈,시코쿠,큐슈,유큐섬), 중국, 대만, 베트남에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 3~5월에 활동을 한다. 참소리쟁이 잎에 알을 뭉쳐서 산란 유충은 집단으로 서식하며 땅속으로 들어가 용화한다.",
+    "habits": "기주식물 참소리쟁이.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[베트남]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 5.2~5.8mm, 몸전체 색깔이 흑청색이다. 등판의 강한 점각. 앞날개 불규칙 점각. 한국, 동시베리아, 일본(혼슈,시코쿠,큐슈,유큐섬), 중국, 대만, 베트남에 분포되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 3~5월에 활동을 한다. 참소리쟁이 잎에 알을 뭉쳐서 산란 유충은 집단으로 서식하며 땅속으로 들어가 용화한다."
+    },
+    {
+      "title": "습성",
+      "text": "기주식물 참소리쟁이."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[베트남]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0145-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0145_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0145_1_th.jpg",
+      "alt": "좀남색잎벌레 1번째 사진 : 좀남색잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0145_1_th2.jpg",
+      "caption": "좀남색잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0145-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408201117",
+      "description": "[MPME0408201117] 좀남색잎벌레 1998.05.29 / / 목포자연사박물관"
+    },
+    {
+      "id": "FRIE0306231045",
+      "description": "[FRIE0306231045] 좀남색잎벌레 1982.04.15 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0306241024",
+      "description": "[FRIE0306241024] 좀남색잎벌레 1980.06.07 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0145-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0145&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:46+00:00",
+    "html_sha256": "3f0d73440e08f4a968e2622192b4bf2a059b36f31efae2f5ce338e71e91da0f7",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

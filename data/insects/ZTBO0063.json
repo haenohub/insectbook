@@ -1,0 +1,114 @@
+{
+  "id": "ZTBO0063",
+  "name_ko": "주름개미",
+  "scientific_name": "Tetramorium tsushimae Emery, 1925",
+  "display_name": "주름개미",
+  "family_ko": "개미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "말벌상과",
+      "name_latin": "Vespoidea"
+    },
+    "family": {
+      "name_ko": "개미과",
+      "name_latin": "Formicidae"
+    },
+    "subfamily": {
+      "name_ko": "두배자루마디개미아과",
+      "name_latin": "Myrmicinae"
+    },
+    "genus": {
+      "name_ko": "주름개미속",
+      "name_latin": "Tetramorium"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 말벌상과 (Vespoidea)\n과 : 개미과 (Formicidae)\n아과 : 두배자루마디개미아과 (Myrmicinae)\n속 : 주름개미속 (Tetramorium)",
+  "basic_information": {
+    "곤충명": "주름개미",
+    "학명": "Tetramorium tsushimae Emery, 1925"
+  },
+  "information": {
+    "general_description": "몸길이는 3-3.5mm 정도이며 몸은 흑갈색이고 개체에 따라 옅고 짙은 차이가 있다. 다리는 다소 담색이다. 담갈색 털이 났다. 머리에는 세로 주름줄이 뚜렷하고 가슴도 역시 세로 주름이 있다. 배는 넓고 광택이 있다. 머리는 타원형이고 큰턱은 폭이 넓은 삼각형이다. 가슴은 앞쪽이 폭이 넓은 삼각형이고 모가 졌고 뒤쪽 양옆에 이 모양의 돌기가 났다. 배는 공모양이다. 날개맥은 비교적 많다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 3-3.5mm 정도이며 몸은 흑갈색이고 개체에 따라 옅고 짙은 차이가 있다. 다리는 다소 담색이다. 담갈색 털이 났다. 머리에는 세로 주름줄이 뚜렷하고 가슴도 역시 세로 주름이 있다. 배는 넓고 광택이 있다. 머리는 타원형이고 큰턱은 폭이 넓은 삼각형이다. 가슴은 앞쪽이 폭이 넓은 삼각형이고 모가 졌고 뒤쪽 양옆에 이 모양의 돌기가 났다. 배는 공모양이다. 날개맥은 비교적 많다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBO0063-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0063_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0063_2_th.jpg",
+      "alt": "주름개미 1번째 사진 : 주름개미전체 옆면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0063_2_th2.jpg",
+      "caption": "주름개미전체 옆면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTBO0063-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0063_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0063_1_th.jpg",
+      "alt": "주름개미 2번째 사진 : 주름개미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0063_1_th2.jpg",
+      "caption": "주름개미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBO0063-1",
+  "specimen_examples": [
+    {
+      "id": "CBNE0204221012",
+      "description": "[CBNE0204221012] 주름개미 1995.07.23 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0204221013",
+      "description": "[CBNE0204221013] 주름개미 1995.07.22 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0204221014",
+      "description": "[CBNE0204221014] 주름개미 1996.08.11 / / 충북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTBO0063-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBO0063&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:56+00:00",
+    "html_sha256": "0f94efffc6edad4bc2a424bf9e70cc84c765b64f3af06b9c5df0696e482b69de",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

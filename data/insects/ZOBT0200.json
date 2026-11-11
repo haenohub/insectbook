@@ -1,0 +1,125 @@
+{
+  "id": "ZOBT0200",
+  "name_ko": "검정오이잎벌레",
+  "scientific_name": "Aulacophora nigripennis nigripennis Motschulsky, 1858",
+  "display_name": "검정오이잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "긴더듬이잎벌레아과",
+      "name_latin": "Galerucinae"
+    },
+    "genus": {
+      "name_ko": "오이잎벌레속",
+      "name_latin": "Aulacophora"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 긴더듬이잎벌레아과 (Galerucinae)\n속 : 오이잎벌레속 (Aulacophora)",
+  "basic_information": {
+    "곤충명": "검정오이잎벌레",
+    "학명": "Aulacophora nigripennis nigripennis Motschulsky, 1858"
+  },
+  "information": {
+    "general_description": "몸길이는 5.8~6.3mm, 앞날개, 중간가슴,뒷가슴등판은 흑색이다. 더듬이와 다리는 흑색이다. 머리와 앞가슴등판과 복부는 황갈색이다. 한국, 일본(혼슈,시코쿠,큐슈),대만, 중국, 동시베리아에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 4~11월까지 보이며 5~6월에 산란 집단으로 월동한다. 연 1화성 성충으로 월동.",
+    "habits": "기주식물 콩.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 5.8~6.3mm, 앞날개, 중간가슴,뒷가슴등판은 흑색이다. 더듬이와 다리는 흑색이다. 머리와 앞가슴등판과 복부는 황갈색이다. 한국, 일본(혼슈,시코쿠,큐슈),대만, 중국, 동시베리아에 분포되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 4~11월까지 보이며 5~6월에 산란 집단으로 월동한다. 연 1화성 성충으로 월동."
+    },
+    {
+      "title": "습성",
+      "text": "기주식물 콩."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0200-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0200_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0200_1_th.jpg",
+      "alt": "검정오이잎벌레 1번째 사진 : 검정오이잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0200_1_th2.jpg",
+      "caption": "검정오이잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0200-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0307131206",
+      "description": "[KUIE0307131206] 검정오이잎벌레 1982.05.27 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307131207",
+      "description": "[KUIE0307131207] 검정오이잎벌레 1982.05.28 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307131208",
+      "description": "[KUIE0307131208] 검정오이잎벌레 1967.09.09 / / 고려대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "등",
+      "scientific_name": "Wisteria floribunda (Willd.) DC."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBT0200.png",
+    "reference_image_id": "ZOBT0200-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T11:56:25.414809+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "8d2601ac4a8f89b9a1e0e0de173e5442d2e7be4a36826feeb9d079822ae540d7"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0200&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:27+00:00",
+    "html_sha256": "abcd5d746059589c4a8f919ff7ed3620d617e00e4978df97a4b3711978cdd578",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

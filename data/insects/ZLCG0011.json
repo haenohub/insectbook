@@ -1,0 +1,107 @@
+{
+  "id": "ZLCG0011",
+  "name_ko": "민날개침노린재",
+  "scientific_name": "Coranus (Velinoides) dilatatus (Matsumura, 1913)",
+  "display_name": "민날개침노린재",
+  "family_ko": "침노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "침노린재상과",
+      "name_latin": "Reduvioidea"
+    },
+    "family": {
+      "name_ko": "침노린재과",
+      "name_latin": "Reduviidae"
+    },
+    "subfamily": {
+      "name_ko": "무늬침노린재아과",
+      "name_latin": "Harpactorinae"
+    },
+    "genus": {
+      "name_ko": "민날개침노린재속",
+      "name_latin": "Coranus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 침노린재상과 (Reduvioidea)\n과 : 침노린재과 (Reduviidae)\n아과 : 무늬침노린재아과 (Harpactorinae)\n속 : 민날개침노린재속 (Coranus)",
+  "basic_information": {
+    "곤충명": "민날개침노린재",
+    "학명": "Coranus (Velinoides) dilatatus (Matsumura, 1913)"
+  },
+  "information": {
+    "general_description": "몸길이 : 15-19mm\n몸은 흑색이고 머리와 앞가슴등에는 긴 털이 산포되어 있다. 머리는 길고, 겹눈은 중앙에 있으며, 양 눈 사이에는 약간 반원형으로 뒤쪽으로 굽은 가로홈이 있다. 겹눈은 비교적 크고 흑색이며, 더듬이는 가늘지만 그리 긴 편은 아니고, 제 1마디가 가장 길며, 제 2마디와 제 3마디는 거의 같은 길이이고, 제 1마디의 약 반이다. 제 3마디는 약간 길다. 앞가슴등은 폭이 좁고, 앞 뒤 2엽으로 나뉘었으며, 전엽은 표면이 거칠고 중앙에 얕은 세로홈이 있고, 복잡한 융기가 있다. 후엽은 짧고, 과립상의 작은 돌기가 밀포되어, 상어 피부 모양이고, 또 긴 센털이 있다. 작은방패판은 작고, 뒤끝이 약간 날카롭고 뾰족하게 융기되어 있다. 보통 반시초와 뒷날개는 전혀 발달되지 않았으나, 유시형도 보고되어 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "산야의 잡초의 뿌리나 관목 위에 산다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 15-19mm\n몸은 흑색이고 머리와 앞가슴등에는 긴 털이 산포되어 있다. 머리는 길고, 겹눈은 중앙에 있으며, 양 눈 사이에는 약간 반원형으로 뒤쪽으로 굽은 가로홈이 있다. 겹눈은 비교적 크고 흑색이며, 더듬이는 가늘지만 그리 긴 편은 아니고, 제 1마디가 가장 길며, 제 2마디와 제 3마디는 거의 같은 길이이고, 제 1마디의 약 반이다. 제 3마디는 약간 길다. 앞가슴등은 폭이 좁고, 앞 뒤 2엽으로 나뉘었으며, 전엽은 표면이 거칠고 중앙에 얕은 세로홈이 있고, 복잡한 융기가 있다. 후엽은 짧고, 과립상의 작은 돌기가 밀포되어, 상어 피부 모양이고, 또 긴 센털이 있다. 작은방패판은 작고, 뒤끝이 약간 날카롭고 뾰족하게 융기되어 있다. 보통 반시초와 뒷날개는 전혀 발달되지 않았으나, 유시형도 보고되어 있다."
+    },
+    {
+      "title": "생태",
+      "text": "산야의 잡초의 뿌리나 관목 위에 산다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLCG0011-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCG0011_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCG0011_1_th.jpg",
+      "alt": "민날개침노린재 1번째 사진 : 민날개침노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCG0011_1_th2.jpg",
+      "caption": "민날개침노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLCG0011-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0304011019",
+      "description": "[FRIE0304011019] 민날개침노린재 1982.08.02 / / 국립산림과학원"
+    },
+    {
+      "id": "ADUE0202221106",
+      "description": "[ADUE0202221106] 민날개침노린재 1998.06.28 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0202221105",
+      "description": "[ADUE0202221105] 민날개침노린재 1998.08.20 / / 안동대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLCG0011-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLCG0011&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:50+00:00",
+    "html_sha256": "78754da1a31c7ac4090755d123c6009108ae146dcd4889c6464204cf782654bb",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

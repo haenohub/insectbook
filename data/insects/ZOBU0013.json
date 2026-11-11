@@ -1,0 +1,107 @@
+{
+  "id": "ZOBU0013",
+  "name_ko": "깔따구길앞잡이",
+  "scientific_name": "Cylindera (Cylindera) gracilis (Pallas, 1773)",
+  "display_name": "깔따구길앞잡이",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "길앞잡이아과",
+      "name_latin": "Cicindelinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Cylindera"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 길앞잡이아과 (Cicindelinae)\n속 : (Cylindera)",
+  "basic_information": {
+    "곤충명": "깔따구길앞잡이",
+    "학명": "Cylindera (Cylindera) gracilis (Pallas, 1773)"
+  },
+  "information": {
+    "general_description": "몸길이는 10~12mm이며, 몸색은 흑색인데 전체적으로 긴 편이다. 앞가슴은 원통모양이며 딱지날개의 끝부분에는 적갈색무늬가있는 종도 있다. 배부분은 청자색의 약한 광택이 나는 흑색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 7~8월에 나타나며 야산의 등산로 주변에서 개미종류를 잡아 먹는다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 10~12mm이며, 몸색은 흑색인데 전체적으로 긴 편이다. 앞가슴은 원통모양이며 딱지날개의 끝부분에는 적갈색무늬가있는 종도 있다. 배부분은 청자색의 약한 광택이 나는 흑색이다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 7~8월에 나타나며 야산의 등산로 주변에서 개미종류를 잡아 먹는다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBU0013-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0013_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0013_1_th.jpg",
+      "alt": "깔따구길앞잡이 1번째 사진 : 깔다구길앞잡이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0013_1_th2.jpg",
+      "caption": "깔다구길앞잡이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBU0013-1",
+  "specimen_examples": [
+    {
+      "id": "KNUE0202061008",
+      "description": "[KNUE0202061008] 깔따구길앞잡이 2000.05.11 / / 강원대학교"
+    },
+    {
+      "id": "DJUE0406231137",
+      "description": "[DJUE0406231137] 깔따구길앞잡이 1992.06.10 / / 대전대학교"
+    },
+    {
+      "id": "KKFE0606281032",
+      "description": "[KKFE0606281032] 깔따구길앞잡이 2002.07.04 / / 경기산림환경연구소"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBU0013.png",
+    "reference_image_id": "ZOBU0013-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T09:55:50.863702+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "9550b2aa42f3d6fdbc1a7b2e4d01599f45b4b49988d80978c7d11bb8961103ce"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBU0013&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:18+00:00",
+    "html_sha256": "32dc2b42999d2b627eb339381e10317e636fa9332155c3f3273b11babd99f762",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

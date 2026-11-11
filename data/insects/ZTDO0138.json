@@ -1,0 +1,99 @@
+{
+  "id": "ZTDO0138",
+  "name_ko": "광대발톱잎벌",
+  "scientific_name": "Beleses satonis (Takeuchi, 1929)",
+  "display_name": "광대발톱잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "검정날개잎벌아과",
+      "name_latin": "Allantinae"
+    },
+    "genus": {
+      "name_ko": "광대발톱잎벌속",
+      "name_latin": "Beleses"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 검정날개잎벌아과 (Allantinae)\n속 : 광대발톱잎벌속 (Beleses)",
+  "basic_information": {
+    "곤충명": "광대발톱잎벌",
+    "학명": "Beleses satonis (Takeuchi, 1929)"
+  },
+  "information": {
+    "general_description": "윗입술은 작고 볼록하며 반달모양이다. 머리방패는 볼록하며 앞가두리가 넓게 잘린형이다. 큰턱의 이는 두 개로 거의 대칭이다. malar space는 실질적으로 존재하지 않는다. 복안은 크고 거의 평행하며 각각의 높이보다 복안사이가 좁다. 더듬이는 다소 길고 통통하며 pedicel은 넓이보다 훨씬 길며 제 3마디는 제 4마디보다 길다. 뒷날개에는 중실이 있으며 암컷에서는 여분의 둔실을 갖는다. 수컷에서는 가두리맥을 갖는다. 뒷다리는 잘 발달되어 있으며 넓적다리마디는 복부 끝까지 달한다. 발목마디의 기절은 원통형이며 마디의 길이보다 훨씬 길다. 앞다리 종아리마디의 며느리발톱은 보통이며 발톱은 큰 inner tooth 와 basal lobe를 갖는다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "윗입술은 작고 볼록하며 반달모양이다. 머리방패는 볼록하며 앞가두리가 넓게 잘린형이다. 큰턱의 이는 두 개로 거의 대칭이다. malar space는 실질적으로 존재하지 않는다. 복안은 크고 거의 평행하며 각각의 높이보다 복안사이가 좁다. 더듬이는 다소 길고 통통하며 pedicel은 넓이보다 훨씬 길며 제 3마디는 제 4마디보다 길다. 뒷날개에는 중실이 있으며 암컷에서는 여분의 둔실을 갖는다. 수컷에서는 가두리맥을 갖는다. 뒷다리는 잘 발달되어 있으며 넓적다리마디는 복부 끝까지 달한다. 발목마디의 기절은 원통형이며 마디의 길이보다 훨씬 길다. 앞다리 종아리마디의 며느리발톱은 보통이며 발톱은 큰 inner tooth 와 basal lobe를 갖는다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0138-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0138_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0138_1_th.jpg",
+      "alt": "광대발톱잎벌 1번째 사진 : 광대발톱잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0138_1_th2.jpg",
+      "caption": "광대발톱잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0138-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0212249084",
+      "description": "[YNUE0212249084] 광대발톱잎벌 2002.05.11 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTDO0138.png",
+    "reference_image_id": "ZTDO0138-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T13:23:33.984053+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "83d04aaabd8c8e2a4afb2eda74a3f4d47c5d3b983ca67bfe2cef1ef20af72103"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0138&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:11+00:00",
+    "html_sha256": "721009c79fff9c395df57d42e23b3ee3db3e5d5dadff699c1fbd1016e2b71441",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

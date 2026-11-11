@@ -1,0 +1,103 @@
+{
+  "id": "ZOEE0002",
+  "name_ko": "홍반디",
+  "scientific_name": "Lycostomus (Lycostomus) modestus (Kiesenwetter, 1874)",
+  "display_name": "홍반디",
+  "family_ko": "홍반디과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "방아벌레상과",
+      "name_latin": "Elateroidea"
+    },
+    "family": {
+      "name_ko": "홍반디과",
+      "name_latin": "Lycidae"
+    },
+    "subfamily": {
+      "name_ko": "홍반디아과",
+      "name_latin": "Lycinae"
+    },
+    "genus": {
+      "name_ko": "홍반디속",
+      "name_latin": "Lycostomus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 방아벌레상과 (Elateroidea)\n과 : 홍반디과 (Lycidae)\n아과 : 홍반디아과 (Lycinae)\n속 : 홍반디속 (Lycostomus)",
+  "basic_information": {
+    "곤충명": "홍반디",
+    "학명": "Lycostomus (Lycostomus) modestus (Kiesenwetter, 1874)"
+  },
+  "information": {
+    "general_description": "한국, 일본, 중국에 분포하며, 체장은 9-14mm 정도이다. 머리는 앞가슴 아래에 숨어 있고 겹눈은 크고 그 중간은 삼각형으로 팽융하였고 주둥이는 길다. 촉각은 편평하고 톱날 모양이다. 딱지날개는 암주홍색인데 주홍색의 짧은 털을 밀새하였고 각각 4줄의 종융이 있다. 그 간실에는 불규칙한 가로 주름살이 많다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 중국에 분포하며, 체장은 9-14mm 정도이다. 머리는 앞가슴 아래에 숨어 있고 겹눈은 크고 그 중간은 삼각형으로 팽융하였고 주둥이는 길다. 촉각은 편평하고 톱날 모양이다. 딱지날개는 암주홍색인데 주홍색의 짧은 털을 밀새하였고 각각 4줄의 종융이 있다. 그 간실에는 불규칙한 가로 주름살이 많다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOEE0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEE0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEE0002_1_th.jpg",
+      "alt": "홍반디 1번째 사진 : 홍반디전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEE0002_1_th2.jpg",
+      "caption": "홍반디전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOEE0002-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304091038",
+      "description": "[KNAE0304091038] 홍반디 1991.07.21 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0301272025",
+      "description": "[KNAE0301272025] 홍반디 1990.08.03 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0301272026",
+      "description": "[KNAE0301272026] 홍반디 1990.06.30 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOEE0002-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOEE0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:37+00:00",
+    "html_sha256": "b117437d725dbf09ab22046dd534f96254dd8672416026a490d90c6e040e2593",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

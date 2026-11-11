@@ -1,0 +1,126 @@
+{
+  "id": "ZLAA0008",
+  "name_ko": "남방뿔노린재",
+  "scientific_name": "Elasmostethus nubilus (Dallas, 1851)",
+  "display_name": "남방뿔노린재",
+  "family_ko": "뿔노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "노린재상과",
+      "name_latin": "Pentatomoidea"
+    },
+    "family": {
+      "name_ko": "뿔노린재과",
+      "name_latin": "Acanthosomatidae"
+    },
+    "subfamily": {
+      "name_ko": "뿔노린재아과",
+      "name_latin": "Acanthosomatinae"
+    },
+    "genus": {
+      "name_ko": "얼룩뿔노린재속",
+      "name_latin": "Elasmostethus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 노린재상과 (Pentatomoidea)\n과 : 뿔노린재과 (Acanthosomatidae)\n아과 : 뿔노린재아과 (Acanthosomatinae)\n속 : 얼룩뿔노린재속 (Elasmostethus)",
+  "basic_information": {
+    "곤충명": "남방뿔노린재",
+    "학명": "Elasmostethus nubilus (Dallas, 1851)"
+  },
+  "information": {
+    "general_description": "몸길이 : 7.5-9.5mm\n몸의 등면은 황록색 또는 초록색을 띠며 적갈색 또는 암적색의 무늬를 띤다. 아랫면과 다리는 황록색을 띠거나 황갈색이다. 체표면은 광택이 있고 검은 점각이 산재한다. 앞가슴등판은 양 옆으로 돌출하여 짧고 뭉툭한 돌기를 가지며, 그 끝은 검다. 중앙부는 가로로 능선을 이루며 양 옆돌기와 연결된다. 작은방패판의 기부는 적갈색이나 황갈색을 띠고 암적색 반점을 가지기도 한다. 앞날개의 혁질부는 뒷가장자리와 말단부를 연결하는 적갈색의 폭넓은 무늬가 있는데. 좌우가 합쳐서 X자를 이룬다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "층층나무, 독활이나 다른 미나리과 식물, 팔손이나무의 꽃과 열매에 잘 모인다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[대만]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 7.5-9.5mm\n몸의 등면은 황록색 또는 초록색을 띠며 적갈색 또는 암적색의 무늬를 띤다. 아랫면과 다리는 황록색을 띠거나 황갈색이다. 체표면은 광택이 있고 검은 점각이 산재한다. 앞가슴등판은 양 옆으로 돌출하여 짧고 뭉툭한 돌기를 가지며, 그 끝은 검다. 중앙부는 가로로 능선을 이루며 양 옆돌기와 연결된다. 작은방패판의 기부는 적갈색이나 황갈색을 띠고 암적색 반점을 가지기도 한다. 앞날개의 혁질부는 뒷가장자리와 말단부를 연결하는 적갈색의 폭넓은 무늬가 있는데. 좌우가 합쳐서 X자를 이룬다."
+    },
+    {
+      "title": "습성",
+      "text": "층층나무, 독활이나 다른 미나리과 식물, 팔손이나무의 꽃과 열매에 잘 모인다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[대만]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLAA0008-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAA0008_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAA0008_1_th.jpg",
+      "alt": "남방뿔노린재 1번째 사진 : 남방뿔노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAA0008_1_th2.jpg",
+      "caption": "남방뿔노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLAA0008-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0303191030",
+      "description": "[FRIE0303191030] 남방뿔노린재 1980.09.30 / / 국립산림과학원"
+    },
+    {
+      "id": "YNUE0201122088",
+      "description": "[YNUE0201122088] 남방뿔노린재 1988.05.19 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0201122087",
+      "description": "[YNUE0201122087] 남방뿔노린재 1988.05.19 / / 영남대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "두릅나무",
+      "scientific_name": "Aralia elata (Miq.) Seem."
+    },
+    {
+      "group": "식물",
+      "name_ko": "송악",
+      "scientific_name": "Hedera rhombea (Miq.) Bean"
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZLAA0008.png",
+    "reference_image_id": "ZLAA0008-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T16:29:07.352817+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "a1b09e72f8e5517c53561f137003beb165f9026c0d07f6c5ee96370f71d9802c"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLAA0008&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:22+00:00",
+    "html_sha256": "5c4c1b0b29e7f926cb2fb632c4619900c28bfd980489a740ac2e0d1102e65260",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

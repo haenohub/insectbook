@@ -1,0 +1,103 @@
+{
+  "id": "ZSEM0046",
+  "name_ko": "광택꽃등에",
+  "scientific_name": "Paragus (Pandasyopthalmus) politus Wiedemann, 1830",
+  "display_name": "광택꽃등에",
+  "family_ko": "꽃등에과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "꽃등에상과",
+      "name_latin": "Syrphoidea"
+    },
+    "family": {
+      "name_ko": "꽃등에과",
+      "name_latin": "Syrphidae"
+    },
+    "subfamily": {
+      "name_ko": "꽃등에아과",
+      "name_latin": "Syrphinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Paragus"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 꽃등에상과 (Syrphoidea)\n과 : 꽃등에과 (Syrphidae)\n아과 : 꽃등에아과 (Syrphinae)\n속 : (Paragus)",
+  "basic_information": {
+    "곤충명": "광택꽃등에",
+    "학명": "Paragus (Pandasyopthalmus) politus Wiedemann, 1830"
+  },
+  "information": {
+    "general_description": "성충의 몸길이는 5mm 내외. 종아리꽃등에(Paragus tibialis)와 비슷하나 배에 뚜렷한 털의 띠가 있다. 입가장자리가 앞으로 돌출했고, 수컷의 배 끝부분은 황적색 또는 흑색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충의 몸길이는 5mm 내외. 종아리꽃등에(Paragus tibialis)와 비슷하나 배에 뚜렷한 털의 띠가 있다. 입가장자리가 앞으로 돌출했고, 수컷의 배 끝부분은 황적색 또는 흑색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSEM0046-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0046_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0046_1_th.jpg",
+      "alt": "광택꽃등에 1번째 사진 : 광택꽃등에전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0046_1_th2.jpg",
+      "caption": "광택꽃등에전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSEM0046-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0201023029",
+      "description": "[YNUE0201023029] 광택꽃등에 1992.06.22 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0201023030",
+      "description": "[YNUE0201023030] 광택꽃등에 1992.06.22 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZSEM0046.png",
+    "reference_image_id": "ZSEM0046-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T13:27:39.172087+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "b0e20497ac9dfb34d4137befba7e6a92b9762f8a5f047d0658568f31ad37ed46"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSEM0046&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:15+00:00",
+    "html_sha256": "30f14344f6541ba7d190d7daa69c6a0355f2ed758180013a035443b46bf8c4b6",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

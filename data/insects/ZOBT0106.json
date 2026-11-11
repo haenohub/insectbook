@@ -1,0 +1,119 @@
+{
+  "id": "ZOBT0106",
+  "name_ko": "고구마잎벌레",
+  "scientific_name": "Colasposoma dauricum Mannerheim, 1849",
+  "display_name": "고구마잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "꼽추잎벌레아과",
+      "name_latin": "Eumolpinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Colasposoma"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 꼽추잎벌레아과 (Eumolpinae)\n속 : (Colasposoma)",
+  "basic_information": {
+    "곤충명": "고구마잎벌레",
+    "학명": "Colasposoma dauricum Mannerheim, 1849"
+  },
+  "information": {
+    "general_description": "몸길이는 5.3~6.0mm, 몸이 흑색이며 등쪽은 구리색과 남색을 보이며 광택이난다. 앞가슴등판은 (점각)홈이 많이있다. 한국(북부,중부,남부,제주특별자치도), 일본(혼슈,시코쿠,큐슈,쓰시마), 중국(만주,북부,서부,중부,남부), 러시아(동시베리아)에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6~7월에 활동하며, 녹색의 알을 산란한다. 유충은 땅속으로 들어가 뿌리를 벅고살며, 5~7월까지 우화한다. 알,유충,번데기 각각 10개월,20일 정도이다.",
+    "habits": "기주식물 고구마, 메꽃.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 5.3~6.0mm, 몸이 흑색이며 등쪽은 구리색과 남색을 보이며 광택이난다. 앞가슴등판은 (점각)홈이 많이있다. 한국(북부,중부,남부,제주특별자치도), 일본(혼슈,시코쿠,큐슈,쓰시마), 중국(만주,북부,서부,중부,남부), 러시아(동시베리아)에 분포되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6~7월에 활동하며, 녹색의 알을 산란한다. 유충은 땅속으로 들어가 뿌리를 벅고살며, 5~7월까지 우화한다. 알,유충,번데기 각각 10개월,20일 정도이다."
+    },
+    {
+      "title": "습성",
+      "text": "기주식물 고구마, 메꽃."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0106-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0106_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0106_1_th.jpg",
+      "alt": "고구마잎벌레 1번째 사진 : 고구마잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0106_1_th2.jpg",
+      "caption": "고구마잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0106-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0307161098",
+      "description": "[KUIE0307161098] 고구마잎벌레 1978.06.19 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307161099",
+      "description": "[KUIE0307161099] 고구마잎벌레 1984.06.26 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307161100",
+      "description": "[KUIE0307161100] 고구마잎벌레 1984.06.21 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBT0106.png",
+    "reference_image_id": "ZOBT0106-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T12:16:29.720397+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "a8fac7f2403e812938c8057878a0896d46a3dcc3ba028ea0d0a821d14bce4c75"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0106&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:38+00:00",
+    "html_sha256": "481ddc817f1955e9deb5aa2d3b1ceaa6c9d44188f35f51807c1856ad6d97e1a9",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

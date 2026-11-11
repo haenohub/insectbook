@@ -1,0 +1,105 @@
+{
+  "id": "ZOBP0008",
+  "name_ko": "검정풍이",
+  "scientific_name": "Rhomborhina polita Waterhouse, 1875",
+  "display_name": "검정풍이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "꽃무지아과",
+      "name_latin": "Cetoniinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Rhomborhina"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 꽃무지아과 (Cetoniinae)\n속 : (Rhomborhina)",
+  "basic_information": {
+    "곤충명": "검정풍이",
+    "학명": "Rhomborhina polita Waterhouse, 1875"
+  },
+  "information": {
+    "general_description": "일본에 분포하며, 몸은 광택이 강한 흑색이며, 이마는 융기하였고, 전경절의 외치는 1개이나 수컷은 흔적적이며, 후경절 안쪽의 털은 적갈색이다. 주융돌기는 폭보다 짧고 앞쪽은 넓게 잘린 형이며, 끝에는 짧은 갈색 털이 나있다. 수컷의 복부복판은 세로로 파였다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "일본에 분포하며, 몸은 광택이 강한 흑색이며, 이마는 융기하였고, 전경절의 외치는 1개이나 수컷은 흔적적이며, 후경절 안쪽의 털은 적갈색이다. 주융돌기는 폭보다 짧고 앞쪽은 넓게 잘린 형이며, 끝에는 짧은 갈색 털이 나있다. 수컷의 복부복판은 세로로 파였다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBP0008-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBP0008_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBP0008_1_th.jpg",
+      "alt": "검정풍이 1번째 사진 : 검정풍이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBP0008_1_th2.jpg",
+      "caption": "검정풍이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBP0008-1",
+  "specimen_examples": [
+    {
+      "id": "SSUE0202261086",
+      "description": "[SSUE0202261086] 검정풍이 1935.07.09 / / 성신여자대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "무화과나무",
+      "scientific_name": "Ficus carica L."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBP0008.png",
+    "reference_image_id": "ZOBP0008-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T12:00:57.944632+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "ed91ca41e5283ec701de2046ded3413ea52aee27f22d684b2b3ca14672a5bfe4"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBP0008&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:33+00:00",
+    "html_sha256": "0671d8e075b85803655359e5c6d57cb82984a791f0c7427ae4d3b4a11da8bd6c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

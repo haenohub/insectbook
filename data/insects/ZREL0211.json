@@ -1,0 +1,103 @@
+{
+  "id": "ZREL0211",
+  "name_ko": "흰무늬집명나방",
+  "scientific_name": "Teliphasa amica (Butler, 1879)",
+  "display_name": "흰무늬집명나방",
+  "family_ko": "명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "명나방과",
+      "name_latin": "Pyralidae"
+    },
+    "subfamily": {
+      "name_ko": "집명나방아과",
+      "name_latin": "Epipaschiinae"
+    },
+    "genus": {
+      "name_ko": "흰날개큰집명나방속",
+      "name_latin": "Teliphasa"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 명나방과 (Pyralidae)\n아과 : 집명나방아과 (Epipaschiinae)\n속 : 흰날개큰집명나방속 (Teliphasa)",
+  "basic_information": {
+    "곤충명": "흰무늬집명나방",
+    "학명": "Teliphasa amica (Butler, 1879)"
+  },
+  "information": {
+    "general_description": "일본, 타이완에 분포하며 수컷의 더듬이는 섬모상, 암컷은 실모양. 수컷의 아랫입술수염은 크고, 이\n마에 근접하여 위로 구부러지며, 더듬이의 기부를 덮는다. 가슴의 등쪽면\n은 약간 적색을 띤 흑갈색이며, 배의 등쪽면은 적색을 띤 흑갈색이나 백\n색의 인편이 섞여 있다. 35-42mm 의 날개를 가지며, 앞날개의 내횡선과\n외횡선 사이는 백색을 띠며, 뒷날개의 외연부는 흑갈색이나 그 안쪽은 백\n색에 가깝다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6-8월에 주로 출현.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "일본, 타이완에 분포하며 수컷의 더듬이는 섬모상, 암컷은 실모양. 수컷의 아랫입술수염은 크고, 이\n마에 근접하여 위로 구부러지며, 더듬이의 기부를 덮는다. 가슴의 등쪽면\n은 약간 적색을 띤 흑갈색이며, 배의 등쪽면은 적색을 띤 흑갈색이나 백\n색의 인편이 섞여 있다. 35-42mm 의 날개를 가지며, 앞날개의 내횡선과\n외횡선 사이는 백색을 띠며, 뒷날개의 외연부는 흑갈색이나 그 안쪽은 백\n색에 가깝다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6-8월에 주로 출현."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0211-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0211_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0211_1_th.jpg",
+      "alt": "흰무늬집명나방 1번째 사진 : 흰무늬집명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0211_1_th2.jpg",
+      "caption": "흰무늬집명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0211-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0409091019",
+      "description": "[KNAE0409091019] 흰무늬집명나방 1998.06.29 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0409091020",
+      "description": "[KNAE0409091020] 흰무늬집명나방 1998.07.27 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0409091022",
+      "description": "[KNAE0409091022] 흰무늬집명나방 1998.07.27 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREL0211-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0211&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:36+00:00",
+    "html_sha256": "3b3b6e4ee5795905b282e0d45fe734fe71546c7f79f903bb944b2e4d0a7d042c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

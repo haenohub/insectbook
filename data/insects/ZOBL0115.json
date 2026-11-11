@@ -1,0 +1,126 @@
+{
+  "id": "ZOBL0115",
+  "name_ko": "노랑띠하늘소",
+  "scientific_name": "Polyzonus (Polyzonus) fasciatus (Fabricius, 1781)",
+  "display_name": "노랑띠하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "하늘소아과",
+      "name_latin": "Cerambycinae"
+    },
+    "genus": {
+      "name_ko": "노랑띠하늘소속",
+      "name_latin": "Polyzonus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 하늘소아과 (Cerambycinae)\n속 : 노랑띠하늘소속 (Polyzonus)",
+  "basic_information": {
+    "곤충명": "노랑띠하늘소",
+    "학명": "Polyzonus (Polyzonus) fasciatus (Fabricius, 1781)"
+  },
+  "information": {
+    "general_description": "몸 길이는15~20mm 몸 색깔이 흑청색이며 몸 이 매우 가늘고 길며 원통형이다. 딱지날개에는 두 줄의 노란색 가로띠 무늬가 있으며 더듬이는 흑갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 8월에 꽃에 모여드는데, 그곳에서 짝짓기를 하곤한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸 길이는15~20mm 몸 색깔이 흑청색이며 몸 이 매우 가늘고 길며 원통형이다. 딱지날개에는 두 줄의 노란색 가로띠 무늬가 있으며 더듬이는 흑갈색이다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 8월에 꽃에 모여드는데, 그곳에서 짝짓기를 하곤한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0115-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0115_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0115_2_th.jpg",
+      "alt": "노랑띠하늘소 1번째 사진 : 노랑띠하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0115_2_th2.jpg",
+      "caption": "노랑띠하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBL0115-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0115_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0115_1_th.jpg",
+      "alt": "노랑띠하늘소 2번째 사진 : 노랑띠하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0115_1_th2.jpg",
+      "caption": "노랑띠하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0115-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0301282037",
+      "description": "[UIBE0301282037] 노랑띠하늘소 1986.07.20 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301282038",
+      "description": "[UIBE0301282038] 노랑띠하늘소 1986.07.20 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301282039",
+      "description": "[UIBE0301282039] 노랑띠하늘소 1986.07.20 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBL0115.png",
+    "reference_image_id": "ZOBL0115-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T12:00:12.173069+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "fbcbfe88b89474e61f8bae0fcd293a293d43d19aef863861669e5dc7fdd68ceb"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0115&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:10+00:00",
+    "html_sha256": "5661d7bf22bc34ca43edce0949b439733ecbb7996164152f53f1df1814e4f8f6",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "id": "ZOBH0022",
+  "name_ko": "우리딱정벌레",
+  "scientific_name": "Eucarabus (Parhomopterus) sternbergi sternbergi (Roeschke, 1898)",
+  "display_name": "우리딱정벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "딱정벌레아과",
+      "name_latin": "Carabinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Eucarabus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 딱정벌레아과 (Carabinae)\n속 : (Eucarabus)",
+  "basic_information": {
+    "곤충명": "우리딱정벌레",
+    "학명": "Eucarabus (Parhomopterus) sternbergi sternbergi (Roeschke, 1898)"
+  },
+  "information": {
+    "general_description": "몸길이는 16~22mm이며, 몸색은 산지에 따라 다르다. 딱지날개는 대체로 긴 타원형이나 앞쪽이 약간 좁으며, 위에는 3줄의 굵은 점선 모양의 매우 너비가 좁은 홈이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 16~22mm이며, 몸색은 산지에 따라 다르다. 딱지날개는 대체로 긴 타원형이나 앞쪽이 약간 좁으며, 위에는 3줄의 굵은 점선 모양의 매우 너비가 좁은 홈이 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0022-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBH0022_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBH0022_3.jpg",
+      "alt": "우리딱정벌레 1번째 사진 : ",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBH0022_3_th2.jpg",
+      "caption": null,
+      "photographed_at": null,
+      "location": null,
+      "photographer": "국립수목원(이승규)"
+    },
+    {
+      "id": "ZOBH0022-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0022_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0022_2_th.jpg",
+      "alt": "우리딱정벌레 2번째 사진 : 우리딱정벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0022_2_th2.jpg",
+      "caption": "우리딱정벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0022-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0022_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0022_1_th.jpg",
+      "alt": "우리딱정벌레 3번째 사진 : 우리딱정벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0022_1_th2.jpg",
+      "caption": "우리딱정벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0022-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408201063",
+      "description": "[MPME0408201063] 우리딱정벌레 1999.03.24 / / 목포자연사박물관"
+    },
+    {
+      "id": "SJNE0408181048",
+      "description": "[SJNE0408181048] 우리딱정벌레 1989.05.12 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0408181049",
+      "description": "[SJNE0408181049] 우리딱정벌레 1989.05.12 / / 상주대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0022-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0022&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:00+00:00",
+    "html_sha256": "e87cc3db6e980a3f9d058f55c59e8da27ce82c00dbc20ee1fd42e9fab6833c08",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

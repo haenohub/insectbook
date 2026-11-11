@@ -1,0 +1,111 @@
+{
+  "id": "ZRDS0339",
+  "name_ko": "흰무늬박이밤나방",
+  "scientific_name": "Leucapamea askoldis (Oberthür, 1880)",
+  "display_name": "흰무늬박이밤나방",
+  "family_ko": "밤나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "밤나방과",
+      "name_latin": "Noctuidae"
+    },
+    "subfamily": {
+      "name_ko": "밤나방아과",
+      "name_latin": "Noctuinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Leucapamea"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 밤나방과 (Noctuidae)\n아과 : 밤나방아과 (Noctuinae)\n속 : (Leucapamea)",
+  "basic_information": {
+    "곤충명": "흰무늬박이밤나방",
+    "학명": "Leucapamea askoldis (Oberthür, 1880)"
+  },
+  "information": {
+    "general_description": "날개편 길이 14～16mm. 앞날개는 밝은 백색 바탕인데 전연부와 중앙부의 앞쪽 절반은 자갈색을 띤다. 뒷날개는 외연부 쪽이 암갈색이고, 그 안쪽은 약간 담색인데 중앙에 암갈색의 횡맥 무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 7～8월경에 출현하고 있다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]\n[중국]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 14～16mm. 앞날개는 밝은 백색 바탕인데 전연부와 중앙부의 앞쪽 절반은 자갈색을 띤다. 뒷날개는 외연부 쪽이 암갈색이고, 그 안쪽은 약간 담색인데 중앙에 암갈색의 횡맥 무늬가 있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 7～8월경에 출현하고 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0339-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0339_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0339_1_th.jpg",
+      "alt": "흰무늬박이밤나방 1번째 사진 : 흰무늬박이밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0339_1_th2.jpg",
+      "caption": "흰무늬박이밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0339-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0302192092",
+      "description": "[KNAE0302192092] 흰무늬박이밤나방 1991.08.24 / / 국립수목원"
+    },
+    {
+      "id": "FRIE0303041021",
+      "description": "[FRIE0303041021] 흰무늬박이밤나방 2000.06.14 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0303041033",
+      "description": "[FRIE0303041033] 흰무늬박이밤나방 2000.06.14 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDS0339-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0339&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:34+00:00",
+    "html_sha256": "b3d7e9372750df39c16274c75197fb1470bf2f2453da07d464c3ded2208fcda8",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

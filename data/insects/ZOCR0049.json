@@ -1,0 +1,103 @@
+{
+  "id": "ZOCR0049",
+  "name_ko": "검정물방개",
+  "scientific_name": "Cybister (Melanectes) brevis Aubé, 1838",
+  "display_name": "검정물방개",
+  "family_ko": "물방개과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "물방개과",
+      "name_latin": "Dytiscidae"
+    },
+    "subfamily": {
+      "name_ko": "물방개아과",
+      "name_latin": "Cybistrinae"
+    },
+    "genus": {
+      "name_ko": "물방개속",
+      "name_latin": "Cybister"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 물방개과 (Dytiscidae)\n아과 : 물방개아과 (Cybistrinae)\n속 : 물방개속 (Cybister)",
+  "basic_information": {
+    "곤충명": "검정물방개",
+    "학명": "Cybister (Melanectes) brevis Aubé, 1838"
+  },
+  "information": {
+    "general_description": "한국, 일본에 분포하며, 체장은 22mm 내외이다. 머리에는 점각이 많고, 머리방패, 윗입술, 더듬이는 황갈색이며 양쪽 수염은 암적갈색이다. 앞가슴등판에는 점각이 있으나 머리의 것보다 작고 드물게 깔려 있다. 복판은 흑색인데 평활하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본에 분포하며, 체장은 22mm 내외이다. 머리에는 점각이 많고, 머리방패, 윗입술, 더듬이는 황갈색이며 양쪽 수염은 암적갈색이다. 앞가슴등판에는 점각이 있으나 머리의 것보다 작고 드물게 깔려 있다. 복판은 흑색인데 평활하다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCR0049-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCR0049_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCR0049_1_th.jpg",
+      "alt": "검정물방개 1번째 사진 : 검정물방개전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCR0049_1_th2.jpg",
+      "caption": "검정물방개전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCR0049-1",
+  "specimen_examples": [
+    {
+      "id": "ADUE0207181090",
+      "description": "[ADUE0207181090] 검정물방개 2002.06.17 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0201101084",
+      "description": "[ADUE0201101084] 검정물방개 2001.05.22 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0201101086",
+      "description": "[ADUE0201101086] 검정물방개 2000.06.23 / / 안동대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOCR0049.png",
+    "reference_image_id": "ZOCR0049-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T11:29:09.937159+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "225cbd2bbae701647b71e040cc8cc19ce2cf3ed3e2043ebc74ec2c85f3235f0e"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCR0049&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:19+00:00",
+    "html_sha256": "0a408628af6ac9b7658631c4b0a10d0042d3f1a7946d5396e10aa2b24fc6699f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

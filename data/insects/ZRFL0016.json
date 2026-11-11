@@ -1,0 +1,111 @@
+{
+  "id": "ZRFL0016",
+  "name_ko": "검은선두리알락나방",
+  "scientific_name": "Illiberis (Euphacusa) dirce (Leech, 1888 [1889])",
+  "display_name": "검은선두리알락나방",
+  "family_ko": "알락나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "알락나방상과",
+      "name_latin": "Zygaenoidea"
+    },
+    "family": {
+      "name_ko": "알락나방과",
+      "name_latin": "Zygaenidae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Procridinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Illiberis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 알락나방상과 (Zygaenoidea)\n과 : 알락나방과 (Zygaenidae)\n아과 : (Procridinae)\n속 : (Illiberis)",
+  "basic_information": {
+    "곤충명": "검은선두리알락나방",
+    "학명": "Illiberis (Euphacusa) dirce (Leech, 1888 [1889])"
+  },
+  "information": {
+    "general_description": "더듬이는 몸과 날개에 비해 비교적 길고 간혹 금록색 또는 청색의 광택, 머리, 가슴, 배는 농흑색, 주둥이는 노랑빛, 중앙부는 넓게 투명한 막질, 뒷날개는 전연 쪽으로 약간 넓게 흑갈색, 그 뒤쪽은 투명, 외연과 후연의 연모는 흑색, 날개길이 30mm",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6~7월경에 출현",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 몸과 날개에 비해 비교적 길고 간혹 금록색 또는 청색의 광택, 머리, 가슴, 배는 농흑색, 주둥이는 노랑빛, 중앙부는 넓게 투명한 막질, 뒷날개는 전연 쪽으로 약간 넓게 흑갈색, 그 뒤쪽은 투명, 외연과 후연의 연모는 흑색, 날개길이 30mm"
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6~7월경에 출현"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRFL0016-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFL0016_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFL0016_1_th.jpg",
+      "alt": "검은선두리알락나방 1번째 사진 : 검은선두리알락나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFL0016_1_th2.jpg",
+      "caption": "검은선두리알락나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRFL0016-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0211062030",
+      "description": "[YNUE0211062030] 검은선두리알락나방 2001.06.06 / / 영남대학교"
+    },
+    {
+      "id": "FRIE0203221030",
+      "description": "[FRIE0203221030] 검은선두리알락나방 1983.06.28 / / 국립산림과학원"
+    },
+    {
+      "id": "YNUE0201163040",
+      "description": "[YNUE0201163040] 검은선두리알락나방 1995.06.23 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRFL0016.png",
+    "reference_image_id": "ZRFL0016-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T18:01:28.211038+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "d4f0fd3e1ee57ddc13a151d00f84a4342ed241a41730c31826e198032681df8a"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRFL0016&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:59+00:00",
+    "html_sha256": "86bcafd9fa63801c6cb742a2b405fd2b2ee86eadfe78c648883f9d734fbc8959",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "id": "ZRAM0006",
+  "name_ko": "붉은줄불나방",
+  "scientific_name": "Cyana hamata (Walker, 1854)",
+  "display_name": "붉은줄불나방",
+  "family_ko": "태극나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "태극나방과",
+      "name_latin": "Erebidae"
+    },
+    "subfamily": {
+      "name_ko": "불나방아과",
+      "name_latin": "Arctiinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Cyana"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 태극나방과 (Erebidae)\n아과 : 불나방아과 (Arctiinae)\n속 : (Cyana)",
+  "basic_information": {
+    "곤충명": "붉은줄불나방",
+    "학명": "Cyana hamata (Walker, 1854)"
+  },
+  "information": {
+    "general_description": "더듬이는 가는 미모상이고 갈색을 띰. 수컷의 더듬이가 암컷보다 김.\n머리는 백색이고 아랫입술수염은 갈색을 띰. 목과 어깨판의 전단부는\n붉은색을 띰. 가슴의 등쪽면 양쪽 어깨판 아래에 각 1개와 가운데가슴\n작은방패판의 돌출부에는 1개씩의 붉은 무늬가 있음.\n배는 백색이고 배의 말단부에는 황갈색의 털이 나 있음. 앞날개에는 백색\n바탕에 붉은 줄무늬가 있음.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "유충은 선태류나 지의류를 먹음. 성충은 6~7월에 연 1회 발생함.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[인도]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 가는 미모상이고 갈색을 띰. 수컷의 더듬이가 암컷보다 김.\n머리는 백색이고 아랫입술수염은 갈색을 띰. 목과 어깨판의 전단부는\n붉은색을 띰. 가슴의 등쪽면 양쪽 어깨판 아래에 각 1개와 가운데가슴\n작은방패판의 돌출부에는 1개씩의 붉은 무늬가 있음.\n배는 백색이고 배의 말단부에는 황갈색의 털이 나 있음. 앞날개에는 백색\n바탕에 붉은 줄무늬가 있음."
+    },
+    {
+      "title": "생태",
+      "text": "유충은 선태류나 지의류를 먹음. 성충은 6~7월에 연 1회 발생함."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[인도]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRAM0006-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0006_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0006_2_th.jpg",
+      "alt": "붉은줄불나방 1번째 사진 : 붉은줄불나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0006_2_th2.jpg",
+      "caption": "붉은줄불나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRAM0006-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0006_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0006_1_th.jpg",
+      "alt": "붉은줄불나방 2번째 사진 : 붉은줄불나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0006_1_th2.jpg",
+      "caption": "붉은줄불나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRAM0006-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304191021",
+      "description": "[KNAE0304191021] 붉은줄불나방 1998.07.27 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303131095",
+      "description": "[KNAE0303131095] 붉은줄불나방 1990.07.03 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303131096",
+      "description": "[KNAE0303131096] 붉은줄불나방 1996.08.05 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRAM0006-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRAM0006&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:54+00:00",
+    "html_sha256": "f496ea2210fcc500288c2de289e9ea96c32b97990f07c5b6625ba234c0081afe",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

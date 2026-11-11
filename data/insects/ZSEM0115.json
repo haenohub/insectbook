@@ -1,0 +1,130 @@
+{
+  "id": "ZSEM0115",
+  "name_ko": "꽃등에",
+  "scientific_name": "Eristalis tenax (Linnaeus, 1758)",
+  "display_name": "꽃등에",
+  "family_ko": "꽃등에과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "꽃등에상과",
+      "name_latin": "Syrphoidea"
+    },
+    "family": {
+      "name_ko": "꽃등에과",
+      "name_latin": "Syrphidae"
+    },
+    "subfamily": {
+      "name_ko": "순꽃등에아과",
+      "name_latin": "Eristalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Eristalis"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 꽃등에상과 (Syrphoidea)\n과 : 꽃등에과 (Syrphidae)\n아과 : 순꽃등에아과 (Eristalinae)\n속 : (Eristalis)",
+  "basic_information": {
+    "곤충명": "꽃등에",
+    "학명": "Eristalis tenax (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "몸길이는 14 mm 내외이다. 몸은 크고 흑갈색이며, 겹눈이 크다. 가슴등판은 어두운 색의 가루로 덮여 있고, 앞의 절반에는 5개의 짙은 회색 세로 줄과 중앙이 끊긴 1개의 가로 띠 무늬가 보인다. 배가 크고 황적색이며, 등면에는 가운데 흑색 무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": "기부의 긴 숨관이 특징이다.",
+    "egg": null,
+    "pupa": null,
+    "ecology": "유충은 수서 생활을 한다.",
+    "habits": "전세계적으로 분포한다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종] 흔한 종이다.",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 14 mm 내외이다. 몸은 크고 흑갈색이며, 겹눈이 크다. 가슴등판은 어두운 색의 가루로 덮여 있고, 앞의 절반에는 5개의 짙은 회색 세로 줄과 중앙이 끊긴 1개의 가로 띠 무늬가 보인다. 배가 크고 황적색이며, 등면에는 가운데 흑색 무늬가 있다."
+    },
+    {
+      "title": "유충",
+      "text": "기부의 긴 숨관이 특징이다."
+    },
+    {
+      "title": "생태",
+      "text": "유충은 수서 생활을 한다."
+    },
+    {
+      "title": "습성",
+      "text": "전세계적으로 분포한다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종] 흔한 종이다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSEM0115-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0115_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0115_2_th.jpg",
+      "alt": "꽃등에 1번째 사진 : 꽃등에전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0115_2_th2.jpg",
+      "caption": "꽃등에전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZSEM0115-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0115_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0115_1_th.jpg",
+      "alt": "꽃등에 2번째 사진 : 꽃등에전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0115_1_th2.jpg",
+      "caption": "꽃등에전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSEM0115-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0407261090",
+      "description": "[MPME0407261090] 꽃등에 2001.05.16 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0407261091",
+      "description": "[MPME0407261091] 꽃등에 2001.05.16 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0407261092",
+      "description": "[MPME0407261092] 꽃등에 2001.05.16 / / 목포자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZSEM0115.png",
+    "reference_image_id": "ZSEM0115-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T14:45:56.319423+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "603510fe57b356abec3a5ee028ec2b4effc971cdd460a964f88e506a70474f66"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSEM0115&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:55+00:00",
+    "html_sha256": "de05eb4c10dde673a42701bcc791bae43192414f317e6687a168bf7d18232ba7",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

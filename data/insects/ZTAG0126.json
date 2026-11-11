@@ -1,0 +1,110 @@
+{
+  "id": "ZTAG0126",
+  "name_ko": "떡벌",
+  "scientific_name": "Bombus (Psithyrus) sylvestris popovi Yasumatsu, 1933",
+  "display_name": "떡벌",
+  "family_ko": "꿀벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "꿀벌과",
+      "name_latin": "Apidae"
+    },
+    "subfamily": {
+      "name_ko": "꿀벌아과",
+      "name_latin": "Apinae"
+    },
+    "genus": {
+      "name_ko": "뒤영벌속",
+      "name_latin": "Bombus"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 꿀벌과 (Apidae)\n아과 : 꿀벌아과 (Apinae)\n속 : 뒤영벌속 (Bombus)",
+  "basic_information": {
+    "곤충명": "떡벌",
+    "학명": "Bombus (Psithyrus) sylvestris popovi Yasumatsu, 1933"
+  },
+  "information": {
+    "general_description": "암컷의 길이는 19mm 정도이며 정수리 중앙부, 앞가슴등판, 가운데가슴등판의 앞부분, 작은 방패판, 제1마디와 제3마디의 등판 양 옆, 제4배마디의 등판 위의 털은 더러운 황백색이고 그 외 부분의 털은 거의 흑갈색이다. 몸의 아래면은 더러운 황백색 털과 갈색 털이 섞여 있다. 어깨판은 적흑색이고 날개는 담황색으로 흐리고 바깥쪽으로는 다소 색이 짙다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷의 길이는 19mm 정도이며 정수리 중앙부, 앞가슴등판, 가운데가슴등판의 앞부분, 작은 방패판, 제1마디와 제3마디의 등판 양 옆, 제4배마디의 등판 위의 털은 더러운 황백색이고 그 외 부분의 털은 거의 흑갈색이다. 몸의 아래면은 더러운 황백색 털과 갈색 털이 섞여 있다. 어깨판은 적흑색이고 날개는 담황색으로 흐리고 바깥쪽으로는 다소 색이 짙다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0126-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0126_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0126_2_th.jpg",
+      "alt": "떡벌 1번째 사진 : 떡벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0126_2_th2.jpg",
+      "caption": "떡벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTAG0126-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0126_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0126_1_th.jpg",
+      "alt": "떡벌 2번째 사진 : 떡벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0126_1_th2.jpg",
+      "caption": "떡벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0126-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0301119136",
+      "description": "[YNUE0301119136] 떡벌 1990.04.15 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301119137",
+      "description": "[YNUE0301119137] 떡벌 1990.06.20 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301119139",
+      "description": "[YNUE0301119139] 떡벌 1992.05.13 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAG0126-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0126&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:27+00:00",
+    "html_sha256": "e5b37fc473531ee59a724c112aa0e466379a4f2b3148be3ca449b2eb4e607991",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

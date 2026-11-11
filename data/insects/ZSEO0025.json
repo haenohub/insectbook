@@ -1,0 +1,103 @@
+{
+  "id": "ZSEO0025",
+  "name_ko": "뒤영벌기생파리",
+  "scientific_name": "Tachina akovlewii (Portschinsky, 1882)",
+  "display_name": "뒤영벌기생파리",
+  "family_ko": "기생파리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "쇠파리상과",
+      "name_latin": "Oestroidea"
+    },
+    "family": {
+      "name_ko": "기생파리과",
+      "name_latin": "Tachinidae"
+    },
+    "subfamily": {
+      "name_ko": "기생파리아과",
+      "name_latin": "Tachininae"
+    },
+    "genus": {
+      "name_ko": "기생파리속",
+      "name_latin": "Tachina"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 쇠파리상과 (Oestroidea)\n과 : 기생파리과 (Tachinidae)\n아과 : 기생파리아과 (Tachininae)\n속 : 기생파리속 (Tachina)",
+  "basic_information": {
+    "곤충명": "뒤영벌기생파리",
+    "학명": "Tachina akovlewii (Portschinsky, 1882)"
+  },
+  "information": {
+    "general_description": "체장: 14-17mm. 머리는 흰색가루가 덮인 등황색. 더듬이 제3마디의 기부는 적황색. 가슴은 흑색바탕에 회황색 가루를 가짐. 배는 옆으로 갈색을 가진 반짝이는 흑색바탕.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[몽골]\n[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체장: 14-17mm. 머리는 흰색가루가 덮인 등황색. 더듬이 제3마디의 기부는 적황색. 가슴은 흑색바탕에 회황색 가루를 가짐. 배는 옆으로 갈색을 가진 반짝이는 흑색바탕."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[몽골]\n[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSEO0025-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEO0025_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEO0025_1_th.jpg",
+      "alt": "뒤영벌기생파리 1번째 사진 : 뒤병기생파리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEO0025_1_th2.jpg",
+      "caption": "뒤병기생파리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSEO0025-1",
+  "specimen_examples": [
+    {
+      "id": "CBNE0304071020",
+      "description": "[CBNE0304071020] 뒤영벌기생파리 1997.07.05 / / 충북대학교"
+    },
+    {
+      "id": "UIBE0304061066",
+      "description": "[UIBE0304061066] 뒤영벌기생파리 1995.09.05 / / 인천대학교"
+    },
+    {
+      "id": "KNAE0408071002",
+      "description": "[KNAE0408071002] 뒤영벌기생파리 2002.10.07 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZSEO0025-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSEO0025&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:58+00:00",
+    "html_sha256": "df2ddce87743150e31613e8146ba98a79041444af7468fee27d5bdee38418b36",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

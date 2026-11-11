@@ -1,0 +1,114 @@
+{
+  "id": "ZTAG0003",
+  "name_ko": "에사키어리꿀벌",
+  "scientific_name": "Colletes (Colletes) esakii Hirashima, 1958",
+  "display_name": "에사키어리꿀벌",
+  "family_ko": "어리꿀벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "어리꿀벌과",
+      "name_latin": "Colletidae"
+    },
+    "subfamily": {
+      "name_ko": "어리꿀벌아과",
+      "name_latin": "Colletinae"
+    },
+    "genus": {
+      "name_ko": "어리꿀벌속",
+      "name_latin": "Colletes"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 어리꿀벌과 (Colletidae)\n아과 : 어리꿀벌아과 (Colletinae)\n속 : 어리꿀벌속 (Colletes)",
+  "basic_information": {
+    "곤충명": "에사키어리꿀벌",
+    "학명": "Colletes (Colletes) esakii Hirashima, 1958"
+  },
+  "information": {
+    "general_description": "몸길이는 12mm. 가슴등면에는 황갈색의 짧은 털이 촘촘이 나 있다. 제1배마디등판의 기부 반에는 담황회색의 성기고 강한 짧을 털이 나있다. 배의 등판의 황백색 털띠는 극히 현저하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 12mm. 가슴등면에는 황갈색의 짧은 털이 촘촘이 나 있다. 제1배마디등판의 기부 반에는 담황회색의 성기고 강한 짧을 털이 나있다. 배의 등판의 황백색 털띠는 극히 현저하다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0003-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0003_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0003_2_th.jpg",
+      "alt": "에사키어리꿀벌 1번째 사진 : 에사키어리꿀벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0003_2_th2.jpg",
+      "caption": "에사키어리꿀벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTAG0003-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0003_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0003_1_th.jpg",
+      "alt": "에사키어리꿀벌 2번째 사진 : 에사키어리꿀벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0003_1_th2.jpg",
+      "caption": "에사키어리꿀벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0003-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0111231027",
+      "description": "[YNUE0111231027] 에사키어리꿀벌 1998.05.23 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0111231028",
+      "description": "[YNUE0111231028] 에사키어리꿀벌 1998.05.23 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0201182047",
+      "description": "[YNUE0201182047] 에사키어리꿀벌 1990.04.28 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAG0003-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0003&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:58+00:00",
+    "html_sha256": "77a8f2f8b81c23396c122eb12b6fe0ea21ee7948982710889e16395774a6a13b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

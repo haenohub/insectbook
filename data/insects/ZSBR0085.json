@@ -1,0 +1,99 @@
+{
+  "id": "ZSBR0085",
+  "name_ko": "긴얼굴꼬마초파리",
+  "scientific_name": "Microdrosophila latifrons Okada, 1965",
+  "display_name": "긴얼굴꼬마초파리",
+  "family_ko": "초파리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "물가파리상과",
+      "name_latin": "Ephydroidea"
+    },
+    "family": {
+      "name_ko": "초파리과",
+      "name_latin": "Drosophilidae"
+    },
+    "subfamily": {
+      "name_ko": "초파리아과",
+      "name_latin": "Drosophilinae"
+    },
+    "genus": {
+      "name_ko": "꼬마초파리속",
+      "name_latin": "Microdrosophila"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 물가파리상과 (Ephydroidea)\n과 : 초파리과 (Drosophilidae)\n아과 : 초파리아과 (Drosophilinae)\n속 : 꼬마초파리속 (Microdrosophila)",
+  "basic_information": {
+    "곤충명": "긴얼굴꼬마초파리",
+    "학명": "Microdrosophila latifrons Okada, 1965"
+  },
+  "information": {
+    "general_description": "체장: 2.4mm. 체색은 연한 황색. 더듬이는 황갈색. 더듬이센털은 8개이며 2개는 아래로 향함. 작은턱수염은 황갈색이며 1개의 긴털과 2개의 짧은 털을 지님. 눈은 붉은색이고 미모를 지님. 뺨폭과 눈길이 비 1/5. 등털줄 수는 8~10줄인데 불규칙함. 배가슴옆센털 지수 0.8. 종아리마디아말단센털은 가운데다리와 뒷다리에 있음. 종아리마디말단센털은 가운데다리에만 있음. 배 등판은 황색. 날개에 갈색 띠가 있음. 날개는 투명하고 끝이 뾰족함. 전연맥 지수 1.7. 제4긴맥 지수 4.2. 제4전연맥 지수 2.4. 제5뒷가로맥 지수 4.5. 앞가장자리센털은 전체에 나있음.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체장: 2.4mm. 체색은 연한 황색. 더듬이는 황갈색. 더듬이센털은 8개이며 2개는 아래로 향함. 작은턱수염은 황갈색이며 1개의 긴털과 2개의 짧은 털을 지님. 눈은 붉은색이고 미모를 지님. 뺨폭과 눈길이 비 1/5. 등털줄 수는 8~10줄인데 불규칙함. 배가슴옆센털 지수 0.8. 종아리마디아말단센털은 가운데다리와 뒷다리에 있음. 종아리마디말단센털은 가운데다리에만 있음. 배 등판은 황색. 날개에 갈색 띠가 있음. 날개는 투명하고 끝이 뾰족함. 전연맥 지수 1.7. 제4긴맥 지수 4.2. 제4전연맥 지수 2.4. 제5뒷가로맥 지수 4.5. 앞가장자리센털은 전체에 나있음."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSBR0085-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSBR0085_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSBR0085_1_th.jpg",
+      "alt": "긴얼굴꼬마초파리 1번째 사진 : 긴얼굴꼬마초파리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSBR0085_1_th2.jpg",
+      "caption": "긴얼굴꼬마초파리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSBR0085-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0307191066",
+      "description": "[KUIE0307191066] 긴얼굴꼬마초파리 1983.05.14 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZSBR0085.png",
+    "reference_image_id": "ZSBR0085-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T09:18:20.758638+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "924c767aba71ab32907c9987645c606e63b6252701d0746de4ea909e6ffd0b25"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSBR0085&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:07+00:00",
+    "html_sha256": "fcf4f541c0ea24c1d4b2e6476652aa4d3fa3386332d2047eaacf998dc0dbf8c6",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

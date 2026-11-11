@@ -1,0 +1,126 @@
+{
+  "id": "ZREV0052",
+  "name_ko": "노랑갈고리박각시",
+  "scientific_name": "Ambulyx schauffelbergeri Bremer & Grey, 1852",
+  "display_name": "노랑갈고리박각시",
+  "family_ko": "박각시과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "누에나방상과",
+      "name_latin": "Bombycoidea"
+    },
+    "family": {
+      "name_ko": "박각시과",
+      "name_latin": "Sphingidae"
+    },
+    "subfamily": {
+      "name_ko": "박각시아과",
+      "name_latin": "Sphinginae"
+    },
+    "genus": {
+      "name_ko": "갈고리박각시속",
+      "name_latin": "Ambulyx"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 누에나방상과 (Bombycoidea)\n과 : 박각시과 (Sphingidae)\n아과 : 박각시아과 (Sphinginae)\n속 : 갈고리박각시속 (Ambulyx)",
+  "basic_information": {
+    "곤충명": "노랑갈고리박각시",
+    "학명": "Ambulyx schauffelbergeri Bremer & Grey, 1852"
+  },
+  "information": {
+    "general_description": "날개편 길이 88～94mm. 아시아갈고리박각시보다 소형으로 날개의 바탕색이 밝은 편이다. 특히 이 종은 앞날개 아외연선이 중앙부에서 기부쪽으로 활모양으로 심하게 구부라진다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "6월에서 8월에 걸쳐 출현.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 88～94mm. 아시아갈고리박각시보다 소형으로 날개의 바탕색이 밝은 편이다. 특히 이 종은 앞날개 아외연선이 중앙부에서 기부쪽으로 활모양으로 심하게 구부라진다."
+    },
+    {
+      "title": "생태",
+      "text": "6월에서 8월에 걸쳐 출현."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREV0052-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0052_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0052_2_th.jpg",
+      "alt": "노랑갈고리박각시 1번째 사진 : 노랑갈고리박각시전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0052_2_th2.jpg",
+      "caption": "노랑갈고리박각시전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREV0052-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0052_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0052_1_th.jpg",
+      "alt": "노랑갈고리박각시 2번째 사진 : 노랑갈고리박각시전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0052_1_th2.jpg",
+      "caption": "노랑갈고리박각시전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREV0052-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0212262017",
+      "description": "[KNAE0212262017] 노랑갈고리박각시 1991.08.24 / / 국립수목원"
+    },
+    {
+      "id": "KKFE0406021072",
+      "description": "[KKFE0406021072] 노랑갈고리박각시 2000.07.13 / / 경기산림환경연구소"
+    },
+    {
+      "id": "CBNE0407131047",
+      "description": "[CBNE0407131047] 노랑갈고리박각시 2004.04.30 / / 충북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZREV0052.png",
+    "reference_image_id": "ZREV0052-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T11:31:48.946224+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "e62d0ee4002aac3967dbbed33912efabbcddb6ee74157d766b28cd317d719b04"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREV0052&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:00+00:00",
+    "html_sha256": "1a4db48b61960d5ca1dc4a44aac9064c89f8956573c455ba25fef65d13722a4a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

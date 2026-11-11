@@ -1,0 +1,118 @@
+{
+  "id": "ZRCI0373",
+  "name_ko": "검은점박이가지나방",
+  "scientific_name": "Arichanna mandschuriaria (Bremer, 1864)",
+  "display_name": "검은점박이가지나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "가지나방아과",
+      "name_latin": "Ennominae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Arichanna"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 가지나방아과 (Ennominae)\n속 : (Arichanna)",
+  "basic_information": {
+    "곤충명": "검은점박이가지나방",
+    "학명": "Arichanna mandschuriaria (Bremer, 1864)"
+  },
+  "information": {
+    "general_description": "날개 편길이 37~46mm. 수컷의 더듬이는 양빗살모양임. 앞날개에는 흰색 바탕에 검은색 무늬가 있으며 이 무늬는 개체에 따라 변화가 있지만, 식별하는 데 어려움은 없음.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개 편길이 37~46mm. 수컷의 더듬이는 양빗살모양임. 앞날개에는 흰색 바탕에 검은색 무늬가 있으며 이 무늬는 개체에 따라 변화가 있지만, 식별하는 데 어려움은 없음."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0373-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0373_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0373_2_th.jpg",
+      "alt": "검은점박이가지나방 1번째 사진 : 검은점박이가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0373_2_th2.jpg",
+      "caption": "검은점박이가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0373-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0373_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0373_1_th.jpg",
+      "alt": "검은점박이가지나방 2번째 사진 : 검은점박이가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0373_1_th2.jpg",
+      "caption": "검은점박이가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0373-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304181012",
+      "description": "[KNAE0304181012] 검은점박이가지나방 1987.06.24 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304181011",
+      "description": "[KNAE0304181011] 검은점박이가지나방 1987.06.23 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304181014",
+      "description": "[KNAE0304181014] 검은점박이가지나방 1987.06.24 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRCI0373.png",
+    "reference_image_id": "ZRCI0373-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T10:56:46.937567+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "89c3069a2d1bd78c482dde1e7996da9e6acb70445618a3c8151da8c6ed2569ac"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0373&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:01+00:00",
+    "html_sha256": "79ad287b2a77f1d2dd0c713ce3e93920e40bb87af2911cb7291761fa991dfe58",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

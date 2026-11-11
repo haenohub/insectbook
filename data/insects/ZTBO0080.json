@@ -1,0 +1,122 @@
+{
+  "id": "ZTBO0080",
+  "name_ko": "곰개미",
+  "scientific_name": "Formica japonica Motschulsky, 1866",
+  "display_name": "곰개미",
+  "family_ko": "개미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "말벌상과",
+      "name_latin": "Vespoidea"
+    },
+    "family": {
+      "name_ko": "개미과",
+      "name_latin": "Formicidae"
+    },
+    "subfamily": {
+      "name_ko": "불개미아과",
+      "name_latin": "Formicinae"
+    },
+    "genus": {
+      "name_ko": "불개미속",
+      "name_latin": "Formica"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 말벌상과 (Vespoidea)\n과 : 개미과 (Formicidae)\n아과 : 불개미아과 (Formicinae)\n속 : 불개미속 (Formica)",
+  "basic_information": {
+    "곤충명": "곰개미",
+    "학명": "Formica japonica Motschulsky, 1866"
+  },
+  "information": {
+    "general_description": "몸길이는 5mm 정도이며 흑색내지 흑갈색이고 다리 끝은 적갈색내지 흑갈색이다. 온몸에는 광택이 있는 회갈색 연한 털이 많이 났고 약간 센털이 났다. 머리는 알 모양이다. 더듬이는 길다. 뒷가슴은 약간 튀어 나왔고 배자루는 비늘조각 모양이며 두껍다. 암컷(10-11mm)은 흑색이고 연한 털이 났고 다소 광택이 있다. 날개는 투명하다. 수컷은 몸길이가 암컷과 같으나 배가 길다. 흑색이고 다리와 배 끝은 회갈색이고 연한 털이 많이 나있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "여러 가지 나무의 씨를 먹고 모무늬매미충의 유충도 잡아 먹는다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[러시아]\n[몽골]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 5mm 정도이며 흑색내지 흑갈색이고 다리 끝은 적갈색내지 흑갈색이다. 온몸에는 광택이 있는 회갈색 연한 털이 많이 났고 약간 센털이 났다. 머리는 알 모양이다. 더듬이는 길다. 뒷가슴은 약간 튀어 나왔고 배자루는 비늘조각 모양이며 두껍다. 암컷(10-11mm)은 흑색이고 연한 털이 났고 다소 광택이 있다. 날개는 투명하다. 수컷은 몸길이가 암컷과 같으나 배가 길다. 흑색이고 다리와 배 끝은 회갈색이고 연한 털이 많이 나있다."
+    },
+    {
+      "title": "생태",
+      "text": "여러 가지 나무의 씨를 먹고 모무늬매미충의 유충도 잡아 먹는다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[러시아]\n[몽골]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBO0080-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0080_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0080_2_th.jpg",
+      "alt": "곰개미 1번째 사진 : 곰개미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0080_2_th2.jpg",
+      "caption": "곰개미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTBO0080-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0080_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0080_1_th.jpg",
+      "alt": "곰개미 2번째 사진 : 곰개미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0080_1_th2.jpg",
+      "caption": "곰개미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBO0080-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306262067",
+      "description": "[YNUE0306262067] 곰개미 1996.06.26 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306262069",
+      "description": "[YNUE0306262069] 곰개미 1996.06.26 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306262070",
+      "description": "[YNUE0306262070] 곰개미 1996.06.26 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTBO0080.png",
+    "reference_image_id": "ZTBO0080-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T13:05:37.093648+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "34e62f0d7afbc3c9e97c800ae3f52808c869f2cc52e209cdffacd892464400a2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBO0080&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:01+00:00",
+    "html_sha256": "4bdfa1cbbbb6301948a138a464a5434dcf028ed0d98c356d01ec178964f6261f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

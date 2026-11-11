@@ -1,0 +1,99 @@
+{
+  "id": "ZTBU0043",
+  "name_ko": "줄자루맵시벌",
+  "scientific_name": "Netelia (Bessobates) cristata (Thomson, 1888)",
+  "display_name": "줄자루맵시벌",
+  "family_ko": "맵시벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "맵시벌과",
+      "name_latin": "Ichneumonidae"
+    },
+    "subfamily": {
+      "name_ko": "뭉툭맵시벌아과",
+      "name_latin": "Tryphoninae"
+    },
+    "genus": {
+      "name_ko": "자루맵시벌속",
+      "name_latin": "Netelia"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 맵시벌과 (Ichneumonidae)\n아과 : 뭉툭맵시벌아과 (Tryphoninae)\n속 : 자루맵시벌속 (Netelia)",
+  "basic_information": {
+    "곤충명": "줄자루맵시벌",
+    "학명": "Netelia (Bessobates) cristata (Thomson, 1888)"
+  },
+  "information": {
+    "general_description": "가운데가슴등판에는 무늬가 없다. 산란관의 길이는 복부 높이와 같다. PI: 0.44-0.50, TI: 3.50-4.00, CI: 0.67-0.80, BI: 1.08-1.18, DBI: 0.71-0.77, MI: 1.34-1.53, ICI: 0.23-0.35, NI: 0.56-0.71, RI: 5.08-9.20, IOD/OOD: 6.00, IOD/POD: 0, IOD/MOD: 0.50-0.88, POD/MOD: 0.33-0.50.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "가운데가슴등판에는 무늬가 없다. 산란관의 길이는 복부 높이와 같다. PI: 0.44-0.50, TI: 3.50-4.00, CI: 0.67-0.80, BI: 1.08-1.18, DBI: 0.71-0.77, MI: 1.34-1.53, ICI: 0.23-0.35, NI: 0.56-0.71, RI: 5.08-9.20, IOD/OOD: 6.00, IOD/POD: 0, IOD/MOD: 0.50-0.88, POD/MOD: 0.33-0.50."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBU0043-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0043_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0043_1_th.jpg",
+      "alt": "줄자루맵시벌 1번째 사진 : 줄자루맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0043_1_th2.jpg",
+      "caption": "줄자루맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBU0043-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306288043",
+      "description": "[YNUE0306288043] 줄자루맵시벌 1992.06.12 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306288044",
+      "description": "[YNUE0306288044] 줄자루맵시벌 1969.06.24 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306288046",
+      "description": "[YNUE0306288046] 줄자루맵시벌 1988.06.23 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTBU0043-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBU0043&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:17+00:00",
+    "html_sha256": "b9d9ab8412194010f0b6e676049eed9bffa4d3cb6d4c4fc37db236355c0e22d9",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

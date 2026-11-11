@@ -1,0 +1,102 @@
+{
+  "id": "ZRFF0307",
+  "name_ko": "진검모무늬잎말이나방",
+  "scientific_name": "Archips dichotoma Falkovitsh, 1965",
+  "display_name": "진검모무늬잎말이나방",
+  "family_ko": "잎말이나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎말이나방상과",
+      "name_latin": "Tortricoidea"
+    },
+    "family": {
+      "name_ko": "잎말이나방과",
+      "name_latin": "Tortricidae"
+    },
+    "subfamily": {
+      "name_ko": "잎말이나방아과",
+      "name_latin": "Tortricinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Archips"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 잎말이나방상과 (Tortricoidea)\n과 : 잎말이나방과 (Tortricidae)\n아과 : 잎말이나방아과 (Tortricinae)\n속 : (Archips)",
+  "basic_information": {
+    "곤충명": "진검모무늬잎말이나방",
+    "학명": "Archips dichotoma Falkovitsh, 1965"
+  },
+  "information": {
+    "general_description": "일본, 한국에 분포하며 외부형태적으로 모무늬잎말이나방과 비슷하다. 형태적인 변이도 심하다.\n수컷 앞날개의 날개주름이 가늘고, 날개 길이가 모무늬잎말이나방의 절반\n정도이다.\n날개길이 : ♂ 16-22mm, ♀ 22-27mm",
+    "adult": null,
+    "adult_male": "생식기의 삭쿨루스는 다소 넓고, 끝이 뾰족하며, 아주 강하한 돌기가 있고,\n뒷가장자리에 볼록한 부분을 가진다.",
+    "adult_female": "생식기의 시그눔의 크기가 모무늬잎말이나방보다 훨씬 작다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "사과나무, 배나무, 복숭아나무, 매실나무, 왕벗나무, 자두나무, 살구나무를 기주식물로 하며\n4월 하순, 사과의 발아보다 약간 늦게 부화하여 5월 중순의 개화기에 꽃\n을 철하고 내부를 먹어 버린다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "일본, 한국에 분포하며 외부형태적으로 모무늬잎말이나방과 비슷하다. 형태적인 변이도 심하다.\n수컷 앞날개의 날개주름이 가늘고, 날개 길이가 모무늬잎말이나방의 절반\n정도이다.\n날개길이 : ♂ 16-22mm, ♀ 22-27mm"
+    },
+    {
+      "title": "성충(수)",
+      "text": "생식기의 삭쿨루스는 다소 넓고, 끝이 뾰족하며, 아주 강하한 돌기가 있고,\n뒷가장자리에 볼록한 부분을 가진다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "생식기의 시그눔의 크기가 모무늬잎말이나방보다 훨씬 작다."
+    },
+    {
+      "title": "생태",
+      "text": "사과나무, 배나무, 복숭아나무, 매실나무, 왕벗나무, 자두나무, 살구나무를 기주식물로 하며\n4월 하순, 사과의 발아보다 약간 늦게 부화하여 5월 중순의 개화기에 꽃\n을 철하고 내부를 먹어 버린다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRFF0307-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0307_6.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0307_6_th.jpg",
+      "alt": "진검모무늬잎말이나방 1번째 사진 : 진검모무늬잎말이나방배 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0307_6_th2.jpg",
+      "caption": "진검모무늬잎말이나방배 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRFF0307-1",
+  "specimen_examples": [],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRFF0307-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRFF0307&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:31+00:00",
+    "html_sha256": "54f80feff1eddeaa4c08a08f2828be69634a7f7453f513f09762a5a01de7a870",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

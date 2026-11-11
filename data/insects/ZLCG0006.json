@@ -1,0 +1,122 @@
+{
+  "id": "ZLCG0006",
+  "name_ko": "붉은등침노린재",
+  "scientific_name": "Haematoloecha rufithorax (Breddin, 1903)",
+  "display_name": "붉은등침노린재",
+  "family_ko": "침노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "침노린재상과",
+      "name_latin": "Reduvioidea"
+    },
+    "family": {
+      "name_ko": "침노린재과",
+      "name_latin": "Reduviidae"
+    },
+    "subfamily": {
+      "name_ko": "우단침노린재아과",
+      "name_latin": "Ectrichodiinae"
+    },
+    "genus": {
+      "name_ko": "등침노린재속",
+      "name_latin": "Haematoloecha"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 침노린재상과 (Reduvioidea)\n과 : 침노린재과 (Reduviidae)\n아과 : 우단침노린재아과 (Ectrichodiinae)\n속 : 등침노린재속 (Haematoloecha)",
+  "basic_information": {
+    "곤충명": "붉은등침노린재",
+    "학명": "Haematoloecha rufithorax (Breddin, 1903)"
+  },
+  "information": {
+    "general_description": "몸길이 11-13mm\n몸은 흑색 바탕에 적색의 현저한 무늬를 띠고 있다. 등면에는 광택이 있고, 잔털이 없다. 머리는 작고 겹눈은 옆가장자리 중앙부의 바로 아래에 위치한다. 더듬이는 가늘고 짧다. 제 3마디는 2개의 작은마디로, 제 4마디는 다시 4개의 작은마디로 각각 세분된다. 앞가슴등판은 적색을 띠고 중앙부에 십자 모양의 홈이 파였는데, 가로홈이 훨씬 더 깊고 흑색 무늬를 가진다. 작은방패판의 말단부에는 한 쌍의 가시돌기가 있다. 앞날개는 보통 단시형이고 혁질부의 바깥가장자리에는 붉은 무늬를 가진다. 배마디는 옆가장자리가 폭넓게 확장되어서 앞날개 옆으로 현저히 돌출하였고, 마디마다 검정색과 붉은색 무늬를 가진다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "산림 및 초원지대에서 볼수 있고, 다른 곤충의 체액을 빨아 먹는다.",
+    "habits": null,
+    "season": null,
+    "overwintering": "성충으로 월동한다.",
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 11-13mm\n몸은 흑색 바탕에 적색의 현저한 무늬를 띠고 있다. 등면에는 광택이 있고, 잔털이 없다. 머리는 작고 겹눈은 옆가장자리 중앙부의 바로 아래에 위치한다. 더듬이는 가늘고 짧다. 제 3마디는 2개의 작은마디로, 제 4마디는 다시 4개의 작은마디로 각각 세분된다. 앞가슴등판은 적색을 띠고 중앙부에 십자 모양의 홈이 파였는데, 가로홈이 훨씬 더 깊고 흑색 무늬를 가진다. 작은방패판의 말단부에는 한 쌍의 가시돌기가 있다. 앞날개는 보통 단시형이고 혁질부의 바깥가장자리에는 붉은 무늬를 가진다. 배마디는 옆가장자리가 폭넓게 확장되어서 앞날개 옆으로 현저히 돌출하였고, 마디마다 검정색과 붉은색 무늬를 가진다."
+    },
+    {
+      "title": "생태",
+      "text": "산림 및 초원지대에서 볼수 있고, 다른 곤충의 체액을 빨아 먹는다."
+    },
+    {
+      "title": "월동",
+      "text": "성충으로 월동한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLCG0006-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCG0006_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCG0006_2_th.jpg",
+      "alt": "붉은등침노린재 1번째 사진 : 붉은등침노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCG0006_2_th2.jpg",
+      "caption": "붉은등침노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZLCG0006-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCG0006_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCG0006_1_th.jpg",
+      "alt": "붉은등침노린재 2번째 사진 : 붉은등침노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCG0006_1_th2.jpg",
+      "caption": "붉은등침노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLCG0006-1",
+  "specimen_examples": [
+    {
+      "id": "GSNE0408242059",
+      "description": "[GSNE0408242059] 붉은등침노린재 1999.04.17 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0408242060",
+      "description": "[GSNE0408242060] 붉은등침노린재 1999.05.14 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0408242061",
+      "description": "[GSNE0408242061] 붉은등침노린재 2000.09.30 / / 경상대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLCG0006-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLCG0006&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:46+00:00",
+    "html_sha256": "2f14ca8b61db815c8385543e30904069c27dcd644702441004a49efc733d96fb",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

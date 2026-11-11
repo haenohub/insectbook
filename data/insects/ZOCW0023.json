@@ -1,0 +1,103 @@
+{
+  "id": "ZOCW0023",
+  "name_ko": "제주붉은줄버섯벌레",
+  "scientific_name": "Pselaphandra cinnabarina (Reitter, 1879)",
+  "display_name": "제주붉은줄버섯벌레",
+  "family_ko": "버섯벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "머리대장상과",
+      "name_latin": "Cucujoidea"
+    },
+    "family": {
+      "name_ko": "버섯벌레과",
+      "name_latin": "Erotylidae"
+    },
+    "subfamily": {
+      "name_ko": "버섯벌레아과",
+      "name_latin": "Erotylinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Pselaphandra"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 머리대장상과 (Cucujoidea)\n과 : 버섯벌레과 (Erotylidae)\n아과 : 버섯벌레아과 (Erotylinae)\n속 : (Pselaphandra)",
+  "basic_information": {
+    "곤충명": "제주붉은줄버섯벌레",
+    "학명": "Pselaphandra cinnabarina (Reitter, 1879)"
+  },
+  "information": {
+    "general_description": "몸길이는 5~5.5mm 이며 몸전체는 주홍색광택이 있으며 가슴등판에는 흔적이있는 3개의 역삼각형 반점이 있고 다리는 진한갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 5~5.5mm 이며 몸전체는 주홍색광택이 있으며 가슴등판에는 흔적이있는 3개의 역삼각형 반점이 있고 다리는 진한갈색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCW0023-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCW0023_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCW0023_1_th.jpg",
+      "alt": "제주붉은줄버섯벌레 1번째 사진 : 제주붉은줄버섯벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCW0023_1_th2.jpg",
+      "caption": "제주붉은줄버섯벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCW0023-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0305141039",
+      "description": "[FRIE0305141039] 제주붉은줄버섯벌레 1982.10.05 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0304102053",
+      "description": "[KNAE0304102053] 제주붉은줄버섯벌레 1995.09.28 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304102054",
+      "description": "[KNAE0304102054] 제주붉은줄버섯벌레 1990.10.14 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOCW0023-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCW0023&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:33+00:00",
+    "html_sha256": "0c76fd9f1d0e728575b00e280a173eeceb736a8299c9d6822be73f811b01d1fc",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

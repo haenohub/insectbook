@@ -1,0 +1,113 @@
+{
+  "id": "ZLAN0005",
+  "name_ko": "녹두허리노린재",
+  "scientific_name": "Homoeocerus (Tliponius) marginiventris Dohrn, 1860",
+  "display_name": "녹두허리노린재",
+  "family_ko": "허리노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "허리노린재상과",
+      "name_latin": "Coreoidea"
+    },
+    "family": {
+      "name_ko": "허리노린재과",
+      "name_latin": "Coreidae"
+    },
+    "subfamily": {
+      "name_ko": "허리노린재아과",
+      "name_latin": "Coreinae"
+    },
+    "genus": {
+      "name_ko": "배허리노린재속",
+      "name_latin": "Homoeocerus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 허리노린재상과 (Coreoidea)\n과 : 허리노린재과 (Coreidae)\n아과 : 허리노린재아과 (Coreinae)\n속 : 배허리노린재속 (Homoeocerus)",
+  "basic_information": {
+    "곤충명": "녹두허리노린재",
+    "학명": "Homoeocerus (Tliponius) marginiventris Dohrn, 1860"
+  },
+  "information": {
+    "general_description": "몸길이 : 13-15mm\n몸은 연한 황갈색에 암갈색의 작은 점각이 조밀하게 분포한다. 머리는 작고, 정수리의 중앙에 뚜렷하지 않은 암색의 세로줄이 있다. 더듬이는 4마디이고 적갈색이다. 앞가슴등판의 옆가장자리는 능상이며, 특히 그 전반은 암색을 띠고 옆모서리는 둔각이다. 정중선 위에는 황백색의 세로줄이 나타나고 뒤쪽으로 뻗어 작은방패판에 이른다. 가운데가슴 이하 배는 양 옆가장자리가 거의 평행이다. 반시초에는 무늬가 없고, 막질부는 투명하고 약간 갈색을 띠며 유리와 같은 광택이 있다. 앞가슴판과 가운데가슴판 및 뒷가슴판의 중앙부에는 앞뒤로 뻗은 홈이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "콩, 녹두 등 콩과작물에 발색하여 큰 해를 주는 수가 있다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 13-15mm\n몸은 연한 황갈색에 암갈색의 작은 점각이 조밀하게 분포한다. 머리는 작고, 정수리의 중앙에 뚜렷하지 않은 암색의 세로줄이 있다. 더듬이는 4마디이고 적갈색이다. 앞가슴등판의 옆가장자리는 능상이며, 특히 그 전반은 암색을 띠고 옆모서리는 둔각이다. 정중선 위에는 황백색의 세로줄이 나타나고 뒤쪽으로 뻗어 작은방패판에 이른다. 가운데가슴 이하 배는 양 옆가장자리가 거의 평행이다. 반시초에는 무늬가 없고, 막질부는 투명하고 약간 갈색을 띠며 유리와 같은 광택이 있다. 앞가슴판과 가운데가슴판 및 뒷가슴판의 중앙부에는 앞뒤로 뻗은 홈이 있다."
+    },
+    {
+      "title": "생태",
+      "text": "콩, 녹두 등 콩과작물에 발색하여 큰 해를 주는 수가 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLAN0005-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0005_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0005_1_th.jpg",
+      "alt": "녹두허리노린재 1번째 사진 : 녹두허리노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0005_1_th2.jpg",
+      "caption": "녹두허리노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLAN0005-1",
+  "specimen_examples": [
+    {
+      "id": "HNUE0408071018",
+      "description": "[HNUE0408071018] 녹두허리노린재 1986.09.09 / / 한남대학교 자연사박물관"
+    },
+    {
+      "id": "HNUE0408071019",
+      "description": "[HNUE0408071019] 녹두허리노린재 1982.09.15 / / 한남대학교 자연사박물관"
+    },
+    {
+      "id": "CJUE0910141128",
+      "description": "[CJUE0910141128] 녹두허리노린재 1982.09.26 / / 제주대학교 곤충표본관"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "콩",
+      "scientific_name": "Glycine max (L.) Merr."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLAN0005-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLAN0005&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:32+00:00",
+    "html_sha256": "bc51f503f62df050525058a110faa9bb8d47587b25db8ed4cac9080186ef8ab1",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

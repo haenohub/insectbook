@@ -1,0 +1,103 @@
+{
+  "id": "ZOCS0062",
+  "name_ko": "진홍색방아벌레",
+  "scientific_name": "Ampedus (Parelater) puniceus (Lewis, 1879)",
+  "display_name": "진홍색방아벌레",
+  "family_ko": "방아벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "방아벌레상과",
+      "name_latin": "Elateroidea"
+    },
+    "family": {
+      "name_ko": "방아벌레과",
+      "name_latin": "Elateridae"
+    },
+    "subfamily": {
+      "name_ko": "방아벌레아과",
+      "name_latin": "Elaterinae"
+    },
+    "genus": {
+      "name_ko": "색방아벌레속",
+      "name_latin": "Ampedus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 방아벌레상과 (Elateroidea)\n과 : 방아벌레과 (Elateridae)\n아과 : 방아벌레아과 (Elaterinae)\n속 : 색방아벌레속 (Ampedus)",
+  "basic_information": {
+    "곤충명": "진홍색방아벌레",
+    "학명": "Ampedus (Parelater) puniceus (Lewis, 1879)"
+  },
+  "information": {
+    "general_description": "몸길이는 10~12.5 mm 이며 두부는 검은색의 강한광택이있고 딱지날개는 주홍색으로 광택이 강하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 10~12.5 mm 이며 두부는 검은색의 강한광택이있고 딱지날개는 주홍색으로 광택이 강하다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCS0062-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCS0062_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCS0062_1_th.jpg",
+      "alt": "진홍색방아벌레 1번째 사진 : 진홍색방아벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCS0062_1_th2.jpg",
+      "caption": "진홍색방아벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCS0062-1",
+  "specimen_examples": [
+    {
+      "id": "CBNE0301021002",
+      "description": "[CBNE0301021002] 진홍색방아벌레 2001.04.28 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0301021001",
+      "description": "[CBNE0301021001] 진홍색방아벌레 2001.05.27 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0301041051",
+      "description": "[CBNE0301041051] 진홍색방아벌레 2002.05.14 / / 충북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOCS0062-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCS0062&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:38+00:00",
+    "html_sha256": "7f31ae524255b0c374ef622119b74305624d95b7fe1ba17401e059ca4db7d015",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

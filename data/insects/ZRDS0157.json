@@ -1,0 +1,111 @@
+{
+  "id": "ZRDS0157",
+  "name_ko": "황토색줄무늬밤나방",
+  "scientific_name": "Mythimna pudorina ([Denis & Schiffermüller], 1775)",
+  "display_name": "황토색줄무늬밤나방",
+  "family_ko": "밤나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "밤나방과",
+      "name_latin": "Noctuidae"
+    },
+    "subfamily": {
+      "name_ko": "밤나방아과",
+      "name_latin": "Noctuinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Mythimna"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 밤나방과 (Noctuidae)\n아과 : 밤나방아과 (Noctuinae)\n속 : (Mythimna)",
+  "basic_information": {
+    "곤충명": "황토색줄무늬밤나방",
+    "학명": "Mythimna pudorina ([Denis & Schiffermüller], 1775)"
+  },
+  "information": {
+    "general_description": "날개편 길이 17～19mm. 앞날개는 밝은 황토색을 띠는데 회색의 인편이 산재해 있다. 뒷날개는 암회색을 띠며 가장자리는 다소 담색을 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6～8월경에 출현된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[유럽]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 17～19mm. 앞날개는 밝은 황토색을 띠는데 회색의 인편이 산재해 있다. 뒷날개는 암회색을 띠며 가장자리는 다소 담색을 띤다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6～8월경에 출현된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[유럽]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0157-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0157_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0157_1_th.jpg",
+      "alt": "황토색줄무늬밤나방 1번째 사진 : 황토색줄무늬밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0157_1_th2.jpg",
+      "caption": "황토색줄무늬밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0157-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303051094",
+      "description": "[KNAE0303051094] 황토색줄무늬밤나방 2000.08.13 / / 국립수목원"
+    },
+    {
+      "id": "FRIE0303031023",
+      "description": "[FRIE0303031023] 황토색줄무늬밤나방 2000.06.14 / / 국립산림과학원"
+    },
+    {
+      "id": "KNUE0212191060",
+      "description": "[KNUE0212191060] 황토색줄무늬밤나방 1984.07.22 / / 강원대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDS0157-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0157&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:03+00:00",
+    "html_sha256": "507d809ee203ea5c2b5c239f17f986e80a26f37386c5b3eb59778aea816b51c8",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

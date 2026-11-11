@@ -1,0 +1,120 @@
+{
+  "id": "ZOBP0015",
+  "name_ko": "점박이꽃무지",
+  "scientific_name": "Protaetia orientalis submarmorea (Burmeister, 1842)",
+  "display_name": "점박이꽃무지",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "꽃무지아과",
+      "name_latin": "Cetoniinae"
+    },
+    "genus": {
+      "name_ko": "점박이꽃무지속",
+      "name_latin": "Protaetia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 꽃무지아과 (Cetoniinae)\n속 : 점박이꽃무지속 (Protaetia)",
+  "basic_information": {
+    "곤충명": "점박이꽃무지",
+    "학명": "Protaetia orientalis submarmorea (Burmeister, 1842)"
+  },
+  "information": {
+    "general_description": "인도, 히말라야, 중국, 대만, 일본, 괌에 분포한다. 몸은 광택이 강한 녹색이나 적자색 개체도있고, 명암은 개체변이가 많다. 머리방패 앞쪽은 상반하였고, 가운데가 파였다. 이마는 융기하였고, 깊고 둥근 점각이 거칠게 조밀하게 분포하였다. 앞가슴등판의 가운데는 양옆은 둥근 점각이 빽빽하다. 전경절 외치는 3개이나, 제3치는 흔적적이다. 딱지날개는 전체적으로 반원형의 인각이 조밀하게 분포하였고, 백색 무늬는 개체변이가 매우 심하다. 수컷은 미절판의 말단부가 볼록하게 부풀었고, 복부복판에는 낮은 세로홈이 있으며, 제7복판은 짧다. 암컷은 전경절의 제 3외치가 분명하고, 미절판은 양옆이 오목하게 함몰하였으며, 제 7복판은 좁고 길다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "인도, 히말라야, 중국, 대만, 일본, 괌에 분포한다. 몸은 광택이 강한 녹색이나 적자색 개체도있고, 명암은 개체변이가 많다. 머리방패 앞쪽은 상반하였고, 가운데가 파였다. 이마는 융기하였고, 깊고 둥근 점각이 거칠게 조밀하게 분포하였다. 앞가슴등판의 가운데는 양옆은 둥근 점각이 빽빽하다. 전경절 외치는 3개이나, 제3치는 흔적적이다. 딱지날개는 전체적으로 반원형의 인각이 조밀하게 분포하였고, 백색 무늬는 개체변이가 매우 심하다. 수컷은 미절판의 말단부가 볼록하게 부풀었고, 복부복판에는 낮은 세로홈이 있으며, 제7복판은 짧다. 암컷은 전경절의 제 3외치가 분명하고, 미절판은 양옆이 오목하게 함몰하였으며, 제 7복판은 좁고 길다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBP0015-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBP0015_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBP0015_2_th.jpg",
+      "alt": "점박이꽃무지 1번째 사진 : 점박이꽃무지전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBP0015_2_th2.jpg",
+      "caption": "점박이꽃무지전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBP0015-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBP0015_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBP0015_1_th.jpg",
+      "alt": "점박이꽃무지 2번째 사진 : 점박이꽃무지전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBP0015_1_th2.jpg",
+      "caption": "점박이꽃무지전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBP0015-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0301302054",
+      "description": "[UIBE0301302054] 점박이꽃무지 2001.08.20 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301302053",
+      "description": "[UIBE0301302053] 점박이꽃무지 2000.07.05 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301302051",
+      "description": "[UIBE0301302051] 점박이꽃무지 1998.08.14 / / 인천대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "온주밀감",
+      "scientific_name": "Citrus unshiu (Yu.Tanaka ex Swingle) Marcow."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBP0015-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBP0015&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:18+00:00",
+    "html_sha256": "f3fc7f7a286414d0dac134652ecd77147e6366c5387c3c45adb2ae2576b8d7e5",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

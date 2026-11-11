@@ -1,0 +1,128 @@
+{
+  "id": "ZRDS0027",
+  "name_ko": "푸른저녁나방",
+  "scientific_name": "Belciades niveola (Motschulsky, 1866)",
+  "display_name": "푸른저녁나방",
+  "family_ko": "밤나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "밤나방과",
+      "name_latin": "Noctuidae"
+    },
+    "subfamily": {
+      "name_ko": "암청색줄무늬밤나방아과",
+      "name_latin": "Dyopsinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Belciades"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 밤나방과 (Noctuidae)\n아과 : 암청색줄무늬밤나방아과 (Dyopsinae)\n속 : (Belciades)",
+  "basic_information": {
+    "곤충명": "푸른저녁나방",
+    "학명": "Belciades niveola (Motschulsky, 1866)"
+  },
+  "information": {
+    "general_description": "날개편 길이 20～21mm. 앞날개는 담록색 바탕으로 내횡선과 외횡선은 불규칙한 톱니 모양이다. 뒷날개는 갈색 바탕인데 외횡선과 외연부는 암색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6～8월경에 출현된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]\n[인도]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 20～21mm. 앞날개는 담록색 바탕으로 내횡선과 외횡선은 불규칙한 톱니 모양이다. 뒷날개는 갈색 바탕인데 외횡선과 외연부는 암색이다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6～8월경에 출현된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]\n[인도]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0027-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0027_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0027_2_th.jpg",
+      "alt": "푸른저녁나방 1번째 사진 : 푸른저녁나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0027_2_th2.jpg",
+      "caption": "푸른저녁나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDS0027-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0027_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0027_1_th.jpg",
+      "alt": "푸른저녁나방 2번째 사진 : 푸른저녁나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0027_1_th2.jpg",
+      "caption": "푸른저녁나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0027-1",
+  "specimen_examples": [
+    {
+      "id": "GSNE0408132140",
+      "description": "[GSNE0408132140] 푸른저녁나방 2000.06.30 / / 경상대학교"
+    },
+    {
+      "id": "KNAE0303111031",
+      "description": "[KNAE0303111031] 푸른저녁나방 1994.06.13 / / 국립수목원"
+    },
+    {
+      "id": "KNUE0212221028",
+      "description": "[KNUE0212221028] 푸른저녁나방 1993.06.04 / / 강원대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "벽오동나무",
+      "scientific_name": "Firmiana simplex (L.) W.Wight"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDS0027-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0027&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:49+00:00",
+    "html_sha256": "4aee2c6bf9ff6e4627e29b4e6cb5d095d43f28ed6fef928395e736fcf2bf8853",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "ZOEJ0033",
+  "name_ko": "금색우단풍뎅이",
+  "scientific_name": "Maladera aureola (Murayama, 1938)",
+  "display_name": "금색우단풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "검정풍뎅이아과",
+      "name_latin": "Melolonthinae"
+    },
+    "genus": {
+      "name_ko": "애우단풍뎅이속",
+      "name_latin": "Maladera"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 검정풍뎅이아과 (Melolonthinae)\n속 : 애우단풍뎅이속 (Maladera)",
+  "basic_information": {
+    "곤충명": "금색우단풍뎅이",
+    "학명": "Maladera aureola (Murayama, 1938)"
+  },
+  "information": {
+    "general_description": "대만에 분포하며, 몸은 작으나 긴 난형 또는 타원형이며, 전신이 금빛의 담황갈색이나 갈색으 띠는 개체도 있고, 진주빛 광택이 있으며, 곳곳에 황색 긴 털이 있다. 촉각은 10마디이며, 황색인데 공봉부는 암수 모두 자루마디보다 약간 짧다. 수컷의 중경절은 안쪽 면에 빽빽하게 강모가 나있고, 외부생식기는 부절의 좌우엽 사이에 긴 바늘모양의 돌기가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "대만에 분포하며, 몸은 작으나 긴 난형 또는 타원형이며, 전신이 금빛의 담황갈색이나 갈색으 띠는 개체도 있고, 진주빛 광택이 있으며, 곳곳에 황색 긴 털이 있다. 촉각은 10마디이며, 황색인데 공봉부는 암수 모두 자루마디보다 약간 짧다. 수컷의 중경절은 안쪽 면에 빽빽하게 강모가 나있고, 외부생식기는 부절의 좌우엽 사이에 긴 바늘모양의 돌기가 있다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOEJ0033-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0033_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0033_1_th.jpg",
+      "alt": "금색우단풍뎅이 1번째 사진 : 금색우단풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0033_1_th2.jpg",
+      "caption": "금색우단풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOEJ0033-1",
+  "specimen_examples": [
+    {
+      "id": "SSUE0201121001",
+      "description": "[SSUE0201121001] 금색우단풍뎅이 1986.07.20 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0201121002",
+      "description": "[SSUE0201121002] 금색우단풍뎅이 1984.06.27 / / 성신여자대학교"
+    },
+    {
+      "id": "KNAE1107134200",
+      "description": "[KNAE1107134200] 금색우단풍뎅이 1998.04.08 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOEJ0033.png",
+    "reference_image_id": "ZOEJ0033-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T15:03:35.729405+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "d77778372fb4d8a350bfb1367a7946a9b18c1ae5a2aac7b9c5277836e3a5bd75"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOEJ0033&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:47+00:00",
+    "html_sha256": "a1fe39aba3176c52b66c539ba801b995b4f36a575aff876d9632e76b40ea2cab",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

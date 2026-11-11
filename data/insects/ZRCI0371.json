@@ -1,0 +1,172 @@
+{
+  "id": "ZRCI0371",
+  "name_ko": "잠자리가지나방",
+  "scientific_name": "Cystidia stratonice (Stoll, 1782)",
+  "display_name": "잠자리가지나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "가지나방아과",
+      "name_latin": "Ennominae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Cystidia"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 가지나방아과 (Ennominae)\n속 : (Cystidia)",
+  "basic_information": {
+    "곤충명": "잠자리가지나방",
+    "학명": "Cystidia stratonice (Stoll, 1782)"
+  },
+  "information": {
+    "general_description": "성충의 앞날개는 길이가 25~31 mm이고, 흑갈색으로 흰색 무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": "유충의 체장은 38 mm 정도로서 머리는 검고 옆에 흰색 줄이 있으며 몸은 황색으로 등, 옆, 배 좌우에 장방형의 검은 무늬가 있다.",
+    "egg": null,
+    "pupa": null,
+    "ecology": "연 1회 발생하고 유충은 5월 하순에 노숙하며 거미줄을 토하여 몇 개 잎을 묶고 그 속에서 번데기가 되며 6월에 우화한다.",
+    "habits": "유충이 잎가부터 식해하며 피해가 심한 경우는 별로 없다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충의 앞날개는 길이가 25~31 mm이고, 흑갈색으로 흰색 무늬가 있다."
+    },
+    {
+      "title": "유충",
+      "text": "유충의 체장은 38 mm 정도로서 머리는 검고 옆에 흰색 줄이 있으며 몸은 황색으로 등, 옆, 배 좌우에 장방형의 검은 무늬가 있다."
+    },
+    {
+      "title": "생태",
+      "text": "연 1회 발생하고 유충은 5월 하순에 노숙하며 거미줄을 토하여 몇 개 잎을 묶고 그 속에서 번데기가 되며 6월에 우화한다."
+    },
+    {
+      "title": "습성",
+      "text": "유충이 잎가부터 식해하며 피해가 심한 경우는 별로 없다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0371-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0371_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0371_2_th.jpg",
+      "alt": "잠자리가지나방 1번째 사진 : 잠자리가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0371_2_th2.jpg",
+      "caption": "잠자리가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0371-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0371_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0371_1_th.jpg",
+      "alt": "잠자리가지나방 2번째 사진 : 잠자리가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0371_1_th2.jpg",
+      "caption": "잠자리가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0371-1",
+  "specimen_examples": [
+    {
+      "id": "SJNE0306141127",
+      "description": "[SJNE0306141127] 잠자리가지나방 2000.07.03 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0306141128",
+      "description": "[SJNE0306141128] 잠자리가지나방 2000.07.03 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0306141130",
+      "description": "[SJNE0306141130] 잠자리가지나방 2000.07.03 / / 상주대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "노박덩굴",
+      "scientific_name": "Celastrus orbiculatus Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "벚나무",
+      "scientific_name": "Prunus serrulata f. spontanea (Maxim.) Chin S.Chang"
+    },
+    {
+      "group": "식물",
+      "name_ko": "분꽃나무",
+      "scientific_name": "Viburnum carlesii Hemsl."
+    },
+    {
+      "group": "식물",
+      "name_ko": "사과나무",
+      "scientific_name": "Malus domestica (Suckow) Borkh."
+    },
+    {
+      "group": "식물",
+      "name_ko": "아그배나무",
+      "scientific_name": "Malus toringo (Siebold) Siebold ex de Vriese"
+    },
+    {
+      "group": "식물",
+      "name_ko": "자두나무",
+      "scientific_name": "Prunus salicina Lindl."
+    },
+    {
+      "group": "식물",
+      "name_ko": "자작나무",
+      "scientific_name": "Betula pendula Roth"
+    },
+    {
+      "group": "식물",
+      "name_ko": "쪽동백나무",
+      "scientific_name": "Styrax obassia Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "황철나무",
+      "scientific_name": "Populus suaveolens Fisch. ex Poit. & A.Vilm."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCI0371-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0371&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:00+00:00",
+    "html_sha256": "b9cd57d16349b622bcf8c8433629b87f123eae1c352bea7dc8d8a325a255fc5d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

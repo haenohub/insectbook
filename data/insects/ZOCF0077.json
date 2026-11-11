@@ -1,0 +1,103 @@
+{
+  "id": "ZOCF0077",
+  "name_ko": "흰띠길쭉바구미",
+  "scientific_name": "Lixus (Eulixus) acutipennis (Roelofs, 1873)",
+  "display_name": "흰띠길쭉바구미",
+  "family_ko": "바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "바구미과",
+      "name_latin": "Curculionidae"
+    },
+    "subfamily": {
+      "name_ko": "길쭉바구미아과",
+      "name_latin": "Lixinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Lixus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 바구미과 (Curculionidae)\n아과 : 길쭉바구미아과 (Lixinae)\n속 : (Lixus)",
+  "basic_information": {
+    "곤충명": "흰띠길쭉바구미",
+    "학명": "Lixus (Eulixus) acutipennis (Roelofs, 1873)"
+  },
+  "information": {
+    "general_description": "몸길이는 10~12mm 이며 몸은 검은색의 광택이있으며 딱지날개의 회색털이 산재 해 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 10~12mm 이며 몸은 검은색의 광택이있으며 딱지날개의 회색털이 산재 해 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCF0077-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0077_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0077_1_th.jpg",
+      "alt": "흰띠길쭉바구미 1번째 사진 : 흰띠길쭉바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0077_1_th2.jpg",
+      "caption": "흰띠길쭉바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCF0077-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0205141006",
+      "description": "[FRIE0205141006] 흰띠길쭉바구미 1980.05.23 / / 국립산림과학원"
+    },
+    {
+      "id": "SNUE0205031001",
+      "description": "[SNUE0205031001] 흰띠길쭉바구미 1990.05.19 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0205021075",
+      "description": "[SNUE0205021075] 흰띠길쭉바구미 1990.05.18 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOCF0077-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCF0077&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:26+00:00",
+    "html_sha256": "69d1df12c138d25f23b4b522d6a2107458772a26722af762d9e78623c1980b27",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

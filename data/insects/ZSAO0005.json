@@ -1,0 +1,99 @@
+{
+  "id": "ZSAO0005",
+  "name_ko": "털보재니등에",
+  "scientific_name": "Anastoechus nitidulus (Fabricius, 1794)",
+  "display_name": "털보재니등에",
+  "family_ko": "재니등에과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "파리매상과",
+      "name_latin": "Asiloidea"
+    },
+    "family": {
+      "name_ko": "재니등에과",
+      "name_latin": "Bombyliidae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Bombyliinae"
+    },
+    "genus": {
+      "name_ko": "털보재니등에속",
+      "name_latin": "Anastoechus"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 파리매상과 (Asiloidea)\n과 : 재니등에과 (Bombyliidae)\n아과 : (Bombyliinae)\n속 : 털보재니등에속 (Anastoechus)",
+  "basic_information": {
+    "곤충명": "털보재니등에",
+    "학명": "Anastoechus nitidulus (Fabricius, 1794)"
+  },
+  "information": {
+    "general_description": "좀털보재니등에와 비슷. 몸의 털은 백색에 가깝고 배마디등판은 흑색이나 기부는 연한 황색의 긴 자모가 줄로 났고 배의 털은 백색. 날개는 앞가장자리 부분이 약간 황갈색을 띠고 앞가장자리 기부에 긴 흑색 자모의 뭉치가 있음. 더듬이의 제1마디는 대단히 가늘고 길며 제2마디의 5배. 제2마디는 원통 모양이고 제3마디의 기부에 작은 하나의 밑마디가 있음.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "좀털보재니등에와 비슷. 몸의 털은 백색에 가깝고 배마디등판은 흑색이나 기부는 연한 황색의 긴 자모가 줄로 났고 배의 털은 백색. 날개는 앞가장자리 부분이 약간 황갈색을 띠고 앞가장자리 기부에 긴 흑색 자모의 뭉치가 있음. 더듬이의 제1마디는 대단히 가늘고 길며 제2마디의 5배. 제2마디는 원통 모양이고 제3마디의 기부에 작은 하나의 밑마디가 있음."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSAO0005-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSAO0005_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSAO0005_1_th.jpg",
+      "alt": "털보재니등에 1번째 사진 : 털보재니등에전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSAO0005_1_th2.jpg",
+      "caption": "털보재니등에전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSAO0005-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0112153041",
+      "description": "[YNUE0112153041] 털보재니등에 1997.04.09 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0201023063",
+      "description": "[YNUE0201023063] 털보재니등에 1990.10.05 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZSAO0005-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSAO0005&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:20+00:00",
+    "html_sha256": "c135b122fd0decaad722897aa6a7a8d2f22cf1237320fcee7b2cec7dd99dde67",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

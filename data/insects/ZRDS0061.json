@@ -1,0 +1,128 @@
+{
+  "id": "ZRDS0061",
+  "name_ko": "세모무늬밤나방",
+  "scientific_name": "Pyrrhia bifasciata (Staudinger, 1888)",
+  "display_name": "세모무늬밤나방",
+  "family_ko": "밤나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "밤나방과",
+      "name_latin": "Noctuidae"
+    },
+    "subfamily": {
+      "name_ko": "담배나방아과",
+      "name_latin": "Heliothinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Pyrrhia"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 밤나방과 (Noctuidae)\n아과 : 담배나방아과 (Heliothinae)\n속 : (Pyrrhia)",
+  "basic_information": {
+    "곤충명": "세모무늬밤나방",
+    "학명": "Pyrrhia bifasciata (Staudinger, 1888)"
+  },
+  "information": {
+    "general_description": "날개편 길이 15～16mm. 앞날개는 보통 담흑갈색 바탕인데 내횡선과 외횡선 사이에는 커다란 삼각형 모양의 암회갈색 부분이 있다. 뒷날개는 회갈색 바탕인데 전연 쪽은 유백색을 띠며, 중앙에는 횡맥 무늬가 있으나 뚜렷하지 않다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 7～8월경에 출현된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 15～16mm. 앞날개는 보통 담흑갈색 바탕인데 내횡선과 외횡선 사이에는 커다란 삼각형 모양의 암회갈색 부분이 있다. 뒷날개는 회갈색 바탕인데 전연 쪽은 유백색을 띠며, 중앙에는 횡맥 무늬가 있으나 뚜렷하지 않다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 7～8월경에 출현된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0061-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0061_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0061_2_th.jpg",
+      "alt": "세모무늬밤나방 1번째 사진 : 세모무늬밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0061_2_th2.jpg",
+      "caption": "세모무늬밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDS0061-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0061_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0061_1_th.jpg",
+      "alt": "세모무늬밤나방 2번째 사진 : 세모무늬밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0061_1_th2.jpg",
+      "caption": "세모무늬밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0061-1",
+  "specimen_examples": [
+    {
+      "id": "KNUE0212231757",
+      "description": "[KNUE0212231757] 세모무늬밤나방 1994.05.16 / / 강원대학교"
+    },
+    {
+      "id": "KNUE0212231756",
+      "description": "[KNUE0212231756] 세모무늬밤나방 1988.07.07 / / 강원대학교"
+    },
+    {
+      "id": "KNAE0112171066",
+      "description": "[KNAE0112171066] 세모무늬밤나방 1988.06.14 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "참오동나무",
+      "scientific_name": "Paulownia tomentosa (Thunb.) Steud."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDS0061-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0061&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:00+00:00",
+    "html_sha256": "c92528ee03e9c4fd92718a3a4b1b8b15abe7c47685bfe4149248c885eac3ed90",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

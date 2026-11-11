@@ -1,0 +1,125 @@
+{
+  "id": "ZOBT0326",
+  "name_ko": "곰보가슴벼룩잎벌레",
+  "scientific_name": "Sangariola punctatostriata (Motschulsky, 1860)",
+  "display_name": "곰보가슴벼룩잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "긴더듬이잎벌레아과",
+      "name_latin": "Galerucinae"
+    },
+    "genus": {
+      "name_ko": "곰보가슴벼룩잎벌레속",
+      "name_latin": "Sangariola"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 긴더듬이잎벌레아과 (Galerucinae)\n속 : 곰보가슴벼룩잎벌레속 (Sangariola)",
+  "basic_information": {
+    "곤충명": "곰보가슴벼룩잎벌레",
+    "학명": "Sangariola punctatostriata (Motschulsky, 1860)"
+  },
+  "information": {
+    "general_description": "몸길이는 5.0~6.9mm, 등판은 적갈색이다. 앞날개의 점각이 있고 강한 융기를 가지고있다. 배판, 더듬이, 다리는 흑색이다. 한국, 중국(북부), 대만, 일본(훗카이도,혼슈,시코쿠,큐슈)에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 4~6월에 잎에서 보여지며, 4월에 황색 장나형 알을 산란한다. 유충은 뿌리에서 생활을 한다.",
+    "habits": "기주식물 Lilium tigrinum Ker-Gawl.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대만]\n[중국]\n[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 5.0~6.9mm, 등판은 적갈색이다. 앞날개의 점각이 있고 강한 융기를 가지고있다. 배판, 더듬이, 다리는 흑색이다. 한국, 중국(북부), 대만, 일본(훗카이도,혼슈,시코쿠,큐슈)에 분포되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 4~6월에 잎에서 보여지며, 4월에 황색 장나형 알을 산란한다. 유충은 뿌리에서 생활을 한다."
+    },
+    {
+      "title": "습성",
+      "text": "기주식물 Lilium tigrinum Ker-Gawl."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대만]\n[중국]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0326-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0326_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0326_1_th.jpg",
+      "alt": "곰보가슴벼룩잎벌레 1번째 사진 : 곰보가슴벼룩잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0326_1_th2.jpg",
+      "caption": "곰보가슴벼룩잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0326-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0306131005",
+      "description": "[FRIE0306131005] 곰보가슴벼룩잎벌레 1981.05.25 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0304091021",
+      "description": "[FRIE0304091021] 곰보가슴벼룩잎벌레 1981.06.09 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0304091022",
+      "description": "[FRIE0304091022] 곰보가슴벼룩잎벌레 1984.06.07 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "청미래덩굴",
+      "scientific_name": "Smilax china L."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBT0326.png",
+    "reference_image_id": "ZOBT0326-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T13:01:45.972455+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "ccb26cf09891e56d815c5e4cbcbc58ea2db88419bbb0c61de016958c36aa8e97"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0326&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:02+00:00",
+    "html_sha256": "75a6f4d56be1542946c9b459274818af916a5c29e5154d51683d6f10f6da02df",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

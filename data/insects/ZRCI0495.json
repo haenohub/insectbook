@@ -1,0 +1,118 @@
+{
+  "id": "ZRCI0495",
+  "name_ko": "뿔무늬큰가지나방",
+  "scientific_name": "Phthonosema tendinosaria (Bremer, 1864)",
+  "display_name": "뿔무늬큰가지나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "가지나방아과",
+      "name_latin": "Ennominae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Phthonosema"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 가지나방아과 (Ennominae)\n속 : (Phthonosema)",
+  "basic_information": {
+    "곤충명": "뿔무늬큰가지나방",
+    "학명": "Phthonosema tendinosaria (Bremer, 1864)"
+  },
+  "information": {
+    "general_description": "더듬이는 수컷이 깃털 모양이고, 암컷은 실 모양임.　몸과 날개는 자회색임．머리， 아랫입술수염, 경판의 선단, 몸의 배쪽면, 다리는 암갈색이고, 발목마디의 각 마디 끝은 회황색을 띰．앞날개는　흑색의내횡선과　외횡선이　있으며，밑부분에서　내횡선까지，외횡선에서　외연까지가　암자갈색을　띠고，특히　양　선에　따르는　부분은　농자갈색을　띰．전연의　중앙에는　암색의　중횡선　흔적이　있음．",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 7~8월에 출현함.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 수컷이 깃털 모양이고, 암컷은 실 모양임.　몸과 날개는 자회색임．머리， 아랫입술수염, 경판의 선단, 몸의 배쪽면, 다리는 암갈색이고, 발목마디의 각 마디 끝은 회황색을 띰．앞날개는　흑색의내횡선과　외횡선이　있으며，밑부분에서　내횡선까지，외횡선에서　외연까지가　암자갈색을　띠고，특히　양　선에　따르는　부분은　농자갈색을　띰．전연의　중앙에는　암색의　중횡선　흔적이　있음．"
+    },
+    {
+      "title": "생태",
+      "text": "성충은 7~8월에 출현함."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0495-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0495_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0495_2_th.jpg",
+      "alt": "뿔무늬큰가지나방 1번째 사진 : 뿔무늬큰가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0495_2_th2.jpg",
+      "caption": "뿔무늬큰가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0495-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0495_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0495_1_th.jpg",
+      "alt": "뿔무늬큰가지나방 2번째 사진 : 뿔무늬큰가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0495_1_th2.jpg",
+      "caption": "뿔무늬큰가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0495-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304181023",
+      "description": "[KNAE0304181023] 뿔무늬큰가지나방 1998.07.07 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304181024",
+      "description": "[KNAE0304181024] 뿔무늬큰가지나방 1997.08.01 / / 국립수목원"
+    },
+    {
+      "id": "JFNE0306031076",
+      "description": "[JFNE0306031076] 뿔무늬큰가지나방 1995.08.05 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCI0495-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0495&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:13+00:00",
+    "html_sha256": "70f75a9f03c27f6e723aabaa649fb4aa981f1ba1b6eb197c44a4992f8f128710",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "id": "ZRDG0028",
+  "name_ko": "벚나무까마귀부전나비",
+  "scientific_name": "Satyrium pruni (Linnaeus, 1758)",
+  "display_name": "벚나무까마귀부전나비",
+  "family_ko": "부전나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "부전나비과",
+      "name_latin": "Lycaenidae"
+    },
+    "subfamily": {
+      "name_ko": "녹색부전나비아과",
+      "name_latin": "Theclinae"
+    },
+    "genus": {
+      "name_ko": "까마귀부전나비속",
+      "name_latin": "Satyrium"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 부전나비과 (Lycaenidae)\n아과 : 녹색부전나비아과 (Theclinae)\n속 : 까마귀부전나비속 (Satyrium)",
+  "basic_information": {
+    "곤충명": "벚나무까마귀부전나비",
+    "학명": "Satyrium pruni (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "수컷의 바탕색은 암갈색이며 암컷에 비하여 진하다. 암컷은 수컷보다 크고 날개모양이 둥글며 앞날개 윗면 외연에는 주황색의 띠가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "마을,학교 교정이나 낮은 산지의 숲 가장자리에 서식한다. 한낮에 활발히 날아다니지 않으며, 대체로 나뭇잎 위에서 날개를 접고 않아 쉬고 있다. 수컷은 점유행동을 거의 하지 않는데 가끔 큰까치수영꽃에서 흡밀하는 경우는 있다.",
+    "season": null,
+    "overwintering": "알",
+    "distribution": "[일본]\n[러시아]\n[유럽]",
+    "notes": "[국지적분포종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "수컷의 바탕색은 암갈색이며 암컷에 비하여 진하다. 암컷은 수컷보다 크고 날개모양이 둥글며 앞날개 윗면 외연에는 주황색의 띠가 있다."
+    },
+    {
+      "title": "습성",
+      "text": "마을,학교 교정이나 낮은 산지의 숲 가장자리에 서식한다. 한낮에 활발히 날아다니지 않으며, 대체로 나뭇잎 위에서 날개를 접고 않아 쉬고 있다. 수컷은 점유행동을 거의 하지 않는데 가끔 큰까치수영꽃에서 흡밀하는 경우는 있다."
+    },
+    {
+      "title": "월동",
+      "text": "알"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]\n[유럽]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[국지적분포종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDG0028-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDG0028_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDG0028_3.jpg",
+      "alt": "벚나무까마귀부전나비 1번째 사진 : 벚나무까마귀부전나비 암컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDG0028_3_th2.jpg",
+      "caption": "벚나무까마귀부전나비 암컷 이미지",
+      "photographed_at": "20080503",
+      "location": "경기도 가평군 청평면 화야산",
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRDG0028-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0028_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0028_2_th.jpg",
+      "alt": "벚나무까마귀부전나비 2번째 사진 : 벚나무까마귀부전나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0028_2_th2.jpg",
+      "caption": "벚나무까마귀부전나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDG0028-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0028_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0028_1_th.jpg",
+      "alt": "벚나무까마귀부전나비 3번째 사진 : 벚나무까마귀부전나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0028_1_th2.jpg",
+      "caption": "벚나무까마귀부전나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDG0028-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0301141255",
+      "description": "[KUIE0301141255] 벚나무까마귀부전나비 1971.05.25 / / 고려대학교"
+    },
+    {
+      "id": "CBNE0208101001",
+      "description": "[CBNE0208101001] 벚나무까마귀부전나비 2002.05.14 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0208101002",
+      "description": "[CBNE0208101002] 벚나무까마귀부전나비 2002.05.14 / / 충북대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "벚나무",
+      "scientific_name": "Prunus serrulata f. spontanea (Maxim.) Chin S.Chang"
+    },
+    {
+      "group": "식물",
+      "name_ko": "왕벚나무",
+      "scientific_name": "Prunus × yedoensis Matsum."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDG0028-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDG0028&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:47+00:00",
+    "html_sha256": "4fd3ecb4ee3c9a963dcc9fa72b6fcbfe126f507f5e2a2d69bf0f9d0c7ac255b9",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

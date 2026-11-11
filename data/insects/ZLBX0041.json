@@ -1,0 +1,120 @@
+{
+  "id": "ZLBX0041",
+  "name_ko": "두점박이노린재",
+  "scientific_name": "Laprius gastricus (Thunberg, 1822)",
+  "display_name": "두점박이노린재",
+  "family_ko": "노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "노린재상과",
+      "name_latin": "Pentatomoidea"
+    },
+    "family": {
+      "name_ko": "노린재과",
+      "name_latin": "Pentatomidae"
+    },
+    "subfamily": {
+      "name_ko": "노린재아과",
+      "name_latin": "Pentatominae"
+    },
+    "genus": {
+      "name_ko": "두점박이노린재속",
+      "name_latin": "Laprius"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 노린재상과 (Pentatomoidea)\n과 : 노린재과 (Pentatomidae)\n아과 : 노린재아과 (Pentatominae)\n속 : 두점박이노린재속 (Laprius)",
+  "basic_information": {
+    "곤충명": "두점박이노린재",
+    "학명": "Laprius gastricus (Thunberg, 1822)"
+  },
+  "information": {
+    "general_description": "몸길이 : 11-21mm\n몸은 갈색 또는 암갈색이며 표면에 흑색의 점각이 조밀하게 산재되어 있다. 머리의 중엽은 짧고, 양 측엽은 길게 돌출하여 중엽의 앞끝에서 거의 접하나 다시 분리된다. 정수리부의 둘레는 예리한 능선을 이룬다. 더듬이는 기부 3마디가 암갈색이고, 제 4, 5마디는 암갈색이나 그 기부는 적색을 띤다. 제 1마디 및 제 3마디는 거의 같은 길이이고 가장 짧으며, 제 2마디는 가장 길다. 작은방패판의 기부의 양 끝은 점각이 없고, 황색 무늬를 나타내며, 옆가장자리에는 점각이 조밀하다. 다리는 적갈색이며, 각 밑마디와 가운데다리, 뒷다리의 종아리마디의 대부분은 황색을 띠고 발목마디는 암색이다. 반시초에는 무늬가 없고, 막질부는 갈색이며 날개맥은 흑갈색이다. 숨문은 흑색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 11-21mm\n몸은 갈색 또는 암갈색이며 표면에 흑색의 점각이 조밀하게 산재되어 있다. 머리의 중엽은 짧고, 양 측엽은 길게 돌출하여 중엽의 앞끝에서 거의 접하나 다시 분리된다. 정수리부의 둘레는 예리한 능선을 이룬다. 더듬이는 기부 3마디가 암갈색이고, 제 4, 5마디는 암갈색이나 그 기부는 적색을 띤다. 제 1마디 및 제 3마디는 거의 같은 길이이고 가장 짧으며, 제 2마디는 가장 길다. 작은방패판의 기부의 양 끝은 점각이 없고, 황색 무늬를 나타내며, 옆가장자리에는 점각이 조밀하다. 다리는 적갈색이며, 각 밑마디와 가운데다리, 뒷다리의 종아리마디의 대부분은 황색을 띠고 발목마디는 암색이다. 반시초에는 무늬가 없고, 막질부는 갈색이며 날개맥은 흑갈색이다. 숨문은 흑색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLBX0041-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0041_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0041_2_th.jpg",
+      "alt": "두점박이노린재 1번째 사진 : 두점박이노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0041_2_th2.jpg",
+      "caption": "두점박이노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZLBX0041-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0041_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0041_1_th.jpg",
+      "alt": "두점박이노린재 2번째 사진 : 두점박이노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0041_1_th2.jpg",
+      "caption": "두점박이노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLBX0041-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0303181101",
+      "description": "[KPNE0303181101] 두점박이노린재 1967.08.03 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0303181103",
+      "description": "[KPNE0303181103] 두점박이노린재 1981.08.11 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0303181100",
+      "description": "[KPNE0303181100] 두점박이노린재 1996.07.24 / / 경북대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "참억새",
+      "scientific_name": "Miscanthus sinensis Andersson"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLBX0041-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLBX0041&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:41+00:00",
+    "html_sha256": "0862dd8fc239dd839244bf0778c494bba6b544398d190ade9607d5ebe4b8af22",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

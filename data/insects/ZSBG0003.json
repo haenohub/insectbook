@@ -1,0 +1,103 @@
+{
+  "id": "ZSBG0003",
+  "name_ko": "산타로벌붙이파리",
+  "scientific_name": "Conops santaroi Ôuchi, 1939",
+  "display_name": "산타로벌붙이파리",
+  "family_ko": "벌붙이파리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "벌붙이파리상과",
+      "name_latin": "Conopoidea"
+    },
+    "family": {
+      "name_ko": "벌붙이파리과",
+      "name_latin": "Conopidae"
+    },
+    "subfamily": {
+      "name_ko": "벌붙이파리아과",
+      "name_latin": "Conopinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Conops"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 벌붙이파리상과 (Conopoidea)\n과 : 벌붙이파리과 (Conopidae)\n아과 : 벌붙이파리아과 (Conopinae)\n속 : (Conops)",
+  "basic_information": {
+    "곤충명": "산타로벌붙이파리",
+    "학명": "Conops santaroi Ôuchi, 1939"
+  },
+  "information": {
+    "general_description": "몸길이는 13 mm 내외이다. 몸은 암갈색을 띠고 있으며, 머리는 가슴보다 폭이 넓다. 가슴은 좁고 등판은 양쪽 위로 융기되어 있다. 날개의 전면은 암갈색이나, 배는 마디마다 황색의 띠가 있으며 기부로 갈수록 황색 띠는 더 넓어진다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "6~8월에 가장 많이 볼 수 있다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 13 mm 내외이다. 몸은 암갈색을 띠고 있으며, 머리는 가슴보다 폭이 넓다. 가슴은 좁고 등판은 양쪽 위로 융기되어 있다. 날개의 전면은 암갈색이나, 배는 마디마다 황색의 띠가 있으며 기부로 갈수록 황색 띠는 더 넓어진다."
+    },
+    {
+      "title": "생태",
+      "text": "6~8월에 가장 많이 볼 수 있다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSBG0003-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSBG0003_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSBG0003_1_th.jpg",
+      "alt": "산타로벌붙이파리 1번째 사진 : 산타로벌붙이파리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSBG0003_1_th2.jpg",
+      "caption": "산타로벌붙이파리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSBG0003-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303251072",
+      "description": "[KNAE0303251072] 산타로벌붙이파리 1995.05.18 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303251073",
+      "description": "[KNAE0303251073] 산타로벌붙이파리 1995.05.19 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303251075",
+      "description": "[KNAE0303251075] 산타로벌붙이파리 1995.05.21 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZSBG0003-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSBG0003&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:37+00:00",
+    "html_sha256": "02a0375019fa5ba594e93e46992960a73157d8c7f1f60347909a4833ec405d9b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

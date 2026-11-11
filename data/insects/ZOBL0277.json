@@ -1,0 +1,103 @@
+{
+  "id": "ZOBL0277",
+  "name_ko": "별황하늘소",
+  "scientific_name": "Menesia (Menesia) sulphurata (Gebler, 1825)",
+  "display_name": "별황하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "목하늘소아과",
+      "name_latin": "Lamiinae"
+    },
+    "genus": {
+      "name_ko": "황하늘소속",
+      "name_latin": "Menesia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 목하늘소아과 (Lamiinae)\n속 : 황하늘소속 (Menesia)",
+  "basic_information": {
+    "곤충명": "별황하늘소",
+    "학명": "Menesia (Menesia) sulphurata (Gebler, 1825)"
+  },
+  "information": {
+    "general_description": "몸의 길이는 6~10MM이고, 두부와 딱지날개는 검은색이며 둥근 노랑반점이 있다. 다리는 적갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[중국]\n[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의 길이는 6~10MM이고, 두부와 딱지날개는 검은색이며 둥근 노랑반점이 있다. 다리는 적갈색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0277-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0277_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0277_1_th.jpg",
+      "alt": "별황하늘소 1번째 사진 : 별황하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0277_1_th2.jpg",
+      "caption": "별황하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0277-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0304081027",
+      "description": "[FRIE0304081027] 별황하늘소 1981.05.19 / / 국립산림과학원"
+    },
+    {
+      "id": "RIFI1207052048",
+      "description": "[RIFI1207052048] 별황하늘소 2011.06.30 / / 산림곤충다양성연구소"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0277-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0277&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:03+00:00",
+    "html_sha256": "ac5c04399de41c143db5e42dc8724f369e2440540908d92eed0226f6f708776e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

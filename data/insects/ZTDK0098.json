@@ -1,0 +1,95 @@
+{
+  "id": "ZTDK0098",
+  "name_ko": "대만어리코벌",
+  "scientific_name": "Bembecinus hungaricus formosanus (Sonan, 1928)",
+  "display_name": "대만어리코벌",
+  "family_ko": "은주둥이벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "은주둥이벌과",
+      "name_latin": "Crabronidae"
+    },
+    "subfamily": {
+      "name_ko": "코벌아과",
+      "name_latin": "Bemcinae"
+    },
+    "genus": {
+      "name_ko": "대만어리코벌속",
+      "name_latin": "Bembecinus"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 은주둥이벌과 (Crabronidae)\n아과 : 코벌아과 (Bemcinae)\n속 : 대만어리코벌속 (Bembecinus)",
+  "basic_information": {
+    "곤충명": "대만어리코벌",
+    "학명": "Bembecinus hungaricus formosanus (Sonan, 1928)"
+  },
+  "information": {
+    "general_description": "몸길이는 8mm. 수컷의 몸은 평활하고 광택이 세나 회백색짧은 털이 많고 머리와 가슴에 심하다. 몸은 흑색이나 다소 보라색이 도는 남색을 띠고 있다. 머리방패, 입 더듬이의 자루마디 앞면, 앞가슴등판의 뒷가두리에 이은 줄 무늬와 그 뒷옆구리에 따르는 점 무늬, 어깨판, 제1배마디등판 양 옆의 타원무늬, 제2~5배마디의 뒷가두리에 폭이 다른 띠 무늬, 다리의 넓적다리 마디나 종아리마디에 있는 무늬 등은 황색이다. 더듬이의 아랫면은 담갈색이고 윗면의 소부분은 띠 모양으로 흑갈색이고 날개는 거의 투명하고 맥은 흑색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 8mm. 수컷의 몸은 평활하고 광택이 세나 회백색짧은 털이 많고 머리와 가슴에 심하다. 몸은 흑색이나 다소 보라색이 도는 남색을 띠고 있다. 머리방패, 입 더듬이의 자루마디 앞면, 앞가슴등판의 뒷가두리에 이은 줄 무늬와 그 뒷옆구리에 따르는 점 무늬, 어깨판, 제1배마디등판 양 옆의 타원무늬, 제2~5배마디의 뒷가두리에 폭이 다른 띠 무늬, 다리의 넓적다리 마디나 종아리마디에 있는 무늬 등은 황색이다. 더듬이의 아랫면은 담갈색이고 윗면의 소부분은 띠 모양으로 흑갈색이고 날개는 거의 투명하고 맥은 흑색이다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDK0098-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0098_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0098_1_th.jpg",
+      "alt": "대만어리코벌 1번째 사진 : 대만어리코벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0098_1_th2.jpg",
+      "caption": "대만어리코벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDK0098-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306262023",
+      "description": "[YNUE0306262023] 대만어리코벌 1992.05.01 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306262024",
+      "description": "[YNUE0306262024] 대만어리코벌 1975.08.01 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDK0098-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDK0098&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:12+00:00",
+    "html_sha256": "f3eba99ec2f2132b7f204bc367861bb7f9ab3b4aae600b167965137ea8e7ab9f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

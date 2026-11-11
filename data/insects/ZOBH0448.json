@@ -1,0 +1,103 @@
+{
+  "id": "ZOBH0448",
+  "name_ko": "납작선두리먼지벌레",
+  "scientific_name": "Parena cavipennis (Bates, 1873)",
+  "display_name": "납작선두리먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "먼지벌레아과",
+      "name_latin": "Harpalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Parena"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 먼지벌레아과 (Harpalinae)\n속 : (Parena)",
+  "basic_information": {
+    "곤충명": "납작선두리먼지벌레",
+    "학명": "Parena cavipennis (Bates, 1873)"
+  },
+  "information": {
+    "general_description": "몸길이는 9~11mm 이며 몸색깔은 황적색이다. 더듬이는 절반이 검은색이며 머리는 곰보모양의 홈이 있고 앞머리에는 V자 모양의 파인 도랑이 있다. 딱지날개에는 점각으로 된 세로 도랑이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 9~11mm 이며 몸색깔은 황적색이다. 더듬이는 절반이 검은색이며 머리는 곰보모양의 홈이 있고 앞머리에는 V자 모양의 파인 도랑이 있다. 딱지날개에는 점각으로 된 세로 도랑이 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0448-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0448_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0448_1_th.jpg",
+      "alt": "납작선두리먼지벌레 1번째 사진 : 납작선두리먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0448_1_th2.jpg",
+      "caption": "납작선두리먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0448-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303261014",
+      "description": "[KNAE0303261014] 납작선두리먼지벌레 1995.08.31 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303261015",
+      "description": "[KNAE0303261015] 납작선두리먼지벌레 1995.08.06 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304031093",
+      "description": "[KNAE0304031093] 납작선두리먼지벌레 1994.07.12 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBH0448.png",
+    "reference_image_id": "ZOBH0448-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T09:46:27.449633+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "1b83ffd733446026877c2fb988fe38c60ab2d6c918ae8b8ed5a5a721506691ba"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0448&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:31+00:00",
+    "html_sha256": "b7aa41441e1c6c4b3bf45bc2d67693e40ddc783926d4b8089552d73a9b8377a9",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "id": "ZRDU0008",
+  "name_ko": "꼬마재주나방",
+  "scientific_name": "Clostera pigra (Hufnagel, 1766)",
+  "display_name": "꼬마재주나방",
+  "family_ko": "재주나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "재주나방과",
+      "name_latin": "Notodontidae"
+    },
+    "subfamily": {
+      "name_ko": "애기재주나방아과",
+      "name_latin": "Pygaerinae"
+    },
+    "genus": {
+      "name_ko": "버들재주나방속",
+      "name_latin": "Clostera"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 재주나방과 (Notodontidae)\n아과 : 애기재주나방아과 (Pygaerinae)\n속 : 버들재주나방속 (Clostera)",
+  "basic_information": {
+    "곤충명": "꼬마재주나방",
+    "학명": "Clostera pigra (Hufnagel, 1766)"
+  },
+  "information": {
+    "general_description": "날개편 길이 21～25mm. 앞날개 외횡선이 곧은 점이 Clostera 속에 속하는 다른 종들과 구별된다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 7～8월에 출현한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[유럽]\n[러시아]\n[중국]\n[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 21～25mm. 앞날개 외횡선이 곧은 점이 Clostera 속에 속하는 다른 종들과 구별된다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 7～8월에 출현한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[유럽]\n[러시아]\n[중국]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDU0008-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0008_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0008_2_th.jpg",
+      "alt": "꼬마재주나방 1번째 사진 : 꼬마재주나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0008_2_th2.jpg",
+      "caption": "꼬마재주나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDU0008-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0008_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0008_1_th.jpg",
+      "alt": "꼬마재주나방 2번째 사진 : 꼬마재주나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0008_1_th2.jpg",
+      "caption": "꼬마재주나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDU0008-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0301102050",
+      "description": "[KNAE0301102050] 꼬마재주나방 1991.08.07 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0301102051",
+      "description": "[KNAE0301102051] 꼬마재주나방 1991.08.07 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0112071014",
+      "description": "[KNAE0112071014] 꼬마재주나방 1986.09.04 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "사시나무",
+      "scientific_name": "Populus tremula var. davidiana (Dode) C.K.Schneid."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDU0008.png",
+    "reference_image_id": "ZRDU0008-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T14:20:51.340848+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "d6f8757844ba745ea0018f203f575a074aad3cb9973c498dc823ef01b744b108"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDU0008&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:48+00:00",
+    "html_sha256": "beef86987bb7a3e23eb3f73b603e74669bf65a35bfad344b35ed93d05806d8d3",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

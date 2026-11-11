@@ -1,0 +1,114 @@
+{
+  "id": "ZLAA0020",
+  "name_ko": "에사키뿔노린재",
+  "scientific_name": "Sastragala esakii Hasegawa, 1959",
+  "display_name": "에사키뿔노린재",
+  "family_ko": "뿔노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "노린재상과",
+      "name_latin": "Pentatomoidea"
+    },
+    "family": {
+      "name_ko": "뿔노린재과",
+      "name_latin": "Acanthosomatidae"
+    },
+    "subfamily": {
+      "name_ko": "뿔노린재아과",
+      "name_latin": "Acanthosomatinae"
+    },
+    "genus": {
+      "name_ko": "무늬뿔노린재속",
+      "name_latin": "Sastragala"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 노린재상과 (Pentatomoidea)\n과 : 뿔노린재과 (Acanthosomatidae)\n아과 : 뿔노린재아과 (Acanthosomatinae)\n속 : 무늬뿔노린재속 (Sastragala)",
+  "basic_information": {
+    "곤충명": "에사키뿔노린재",
+    "학명": "Sastragala esakii Hasegawa, 1959"
+  },
+  "information": {
+    "general_description": "몸길이 : 10.12.5mm\n몸은 황록색 바탕에 초록색 및 적갈색의 무늬를 가진다. 등면에는 검은 미세점각이 산재한다. 더듬이는 5마디이다. 앞가슴등판은 양 옆이 세모꼴로 돌출하였으며, 돌기의 끝은 검다. 양 돌기 사이는 가로로 능선을 이루고 후반부는 적갈색을 띤다. 작은방패판은 가운데에 하트 모양의 회황색 또는 노랑색의 독특한 무늬를 가지며, 그 주변은 암갈색을 띤다. 앞날개는 혁질부의 앞가장자리가 초록색을 띠고, 나머지는 전체는 암갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[대만]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 10.12.5mm\n몸은 황록색 바탕에 초록색 및 적갈색의 무늬를 가진다. 등면에는 검은 미세점각이 산재한다. 더듬이는 5마디이다. 앞가슴등판은 양 옆이 세모꼴로 돌출하였으며, 돌기의 끝은 검다. 양 돌기 사이는 가로로 능선을 이루고 후반부는 적갈색을 띤다. 작은방패판은 가운데에 하트 모양의 회황색 또는 노랑색의 독특한 무늬를 가지며, 그 주변은 암갈색을 띤다. 앞날개는 혁질부의 앞가장자리가 초록색을 띠고, 나머지는 전체는 암갈색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[대만]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLAA0020-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAA0020_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAA0020_2_th.jpg",
+      "alt": "에사키뿔노린재 1번째 사진 : 에사키뿔노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAA0020_2_th2.jpg",
+      "caption": "에사키뿔노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZLAA0020-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAA0020_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAA0020_1_th.jpg",
+      "alt": "에사키뿔노린재 2번째 사진 : 에사키뿔노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAA0020_1_th2.jpg",
+      "caption": "에사키뿔노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLAA0020-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303182043",
+      "description": "[KNAE0303182043] 에사키뿔노린재 1997.08.24 / / 국립수목원"
+    },
+    {
+      "id": "FRIE0303191023",
+      "description": "[FRIE0303191023] 에사키뿔노린재 1983.08.29 / / 국립산림과학원"
+    },
+    {
+      "id": "KPNE0303191222",
+      "description": "[KPNE0303191222] 에사키뿔노린재 1984.07.18 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLAA0020-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLAA0020&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:58+00:00",
+    "html_sha256": "2290693e19d4e5f1c8beec25e6a425dd20969b831d48b60d75324087fa13df7a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

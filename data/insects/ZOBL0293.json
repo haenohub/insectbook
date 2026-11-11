@@ -1,0 +1,113 @@
+{
+  "id": "ZOBL0293",
+  "name_ko": "팔점긴하늘소",
+  "scientific_name": "Saperda (Lopezcolonia) octomaculata Blessig, 1873",
+  "display_name": "팔점긴하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "목하늘소아과",
+      "name_latin": "Lamiinae"
+    },
+    "genus": {
+      "name_ko": "긴하늘소속",
+      "name_latin": "Saperda"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 목하늘소아과 (Lamiinae)\n속 : 긴하늘소속 (Saperda)",
+  "basic_information": {
+    "곤충명": "팔점긴하늘소",
+    "학명": "Saperda (Lopezcolonia) octomaculata Blessig, 1873"
+  },
+  "information": {
+    "general_description": "몸길이는 9~18mm 온몸이 회청색의 광택을 낸다. 앞가슴등판에 두개, 딱지날개에 여덟개의 흑색점무늬가 있으며, 다리와 더듬이는 흑색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 9~18mm 온몸이 회청색의 광택을 낸다. 앞가슴등판에 두개, 딱지날개에 여덟개의 흑색점무늬가 있으며, 다리와 더듬이는 흑색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0293-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0293_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0293_1_th.jpg",
+      "alt": "팔점긴하늘소 1번째 사진 : 팔점긴하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0293_1_th2.jpg",
+      "caption": "팔점긴하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0293-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304162021",
+      "description": "[KNAE0304162021] 팔점긴하늘소 1988.07.09 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304162022",
+      "description": "[KNAE0304162022] 팔점긴하늘소 1988.08.07 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304162023",
+      "description": "[KNAE0304162023] 팔점긴하늘소 1988.06.25 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "느릅나무",
+      "scientific_name": "Ulmus davidiana var. japonica (Rehder) Nakai"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0293-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0293&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:36+00:00",
+    "html_sha256": "051f2f9e784c2621f22b26e036fd72c31dcaaa12455720de63d50bc76ff2c978",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "ZOGG0008",
+  "name_ko": "애벗나무풍뎅이",
+  "scientific_name": "Anomala geniculata (Motschulsky, 1866)",
+  "display_name": "애벗나무풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "풍뎅이아과",
+      "name_latin": "Rutelinae"
+    },
+    "genus": {
+      "name_ko": "청동풍뎅이속",
+      "name_latin": "Anomala"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 풍뎅이아과 (Rutelinae)\n속 : 청동풍뎅이속 (Anomala)",
+  "basic_information": {
+    "곤충명": "애벗나무풍뎅이",
+    "학명": "Anomala geniculata (Motschulsky, 1866)"
+  },
+  "information": {
+    "general_description": "중국과 일본에 분포하며, 소형종으로써 등쪽은 녹색 광택을 띠는 황갈색이다. 딱지날개의 측연융기는 가느나 후각까지 연장되었다. 복부 측판의 세로융기선은 제 4절까지 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중국과 일본에 분포하며, 소형종으로써 등쪽은 녹색 광택을 띠는 황갈색이다. 딱지날개의 측연융기는 가느나 후각까지 연장되었다. 복부 측판의 세로융기선은 제 4절까지 있다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGG0008-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0008_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0008_1_th.jpg",
+      "alt": "애벗나무풍뎅이 1번째 사진 : 애벗나무풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0008_1_th2.jpg",
+      "caption": "애벗나무풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGG0008-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303082017",
+      "description": "[KNAE0303082017] 애벗나무풍뎅이 1992.05.24 / / 국립수목원"
+    },
+    {
+      "id": "KNAE376505",
+      "description": "[KNAE376505] 애벗나무풍뎅이 / / 국립수목원"
+    },
+    {
+      "id": "KNAE376506",
+      "description": "[KNAE376506] 애벗나무풍뎅이 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGG0008-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGG0008&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:11+00:00",
+    "html_sha256": "24cac7366e3151f9152aec41b0320170d7547bbd9da722c64399bb251ca0e3f5",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

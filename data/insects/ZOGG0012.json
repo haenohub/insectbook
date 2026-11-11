@@ -1,0 +1,109 @@
+{
+  "id": "ZOGG0012",
+  "name_ko": "참오리나무풍뎅이",
+  "scientific_name": "Anomala luculenta Erichson, 1847",
+  "display_name": "참오리나무풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "풍뎅이아과",
+      "name_latin": "Rutelinae"
+    },
+    "genus": {
+      "name_ko": "청동풍뎅이속",
+      "name_latin": "Anomala"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 풍뎅이아과 (Rutelinae)\n속 : 청동풍뎅이속 (Anomala)",
+  "basic_information": {
+    "곤충명": "참오리나무풍뎅이",
+    "학명": "Anomala luculenta Erichson, 1847"
+  },
+  "information": {
+    "general_description": "중국 북부, 시베리아 동부, 몽고에 분포한다. 광택이 강하고 등쪽이 녹갈색이나 전체 또는 부분적으로 진한 녹색, 구릿빛 갈색, 보랏빛 녹색, 검보라색 등으로 변이가 심하며, 복면은 녹색 내지 검은 구릿빛이다. 머리방패의 앞쪽은 거의 직선형이며, 소순판은 삼각형의 혀 모양이다. 전부절의 안쪽 발톱은 좀게 갈라졌고 딱지날개 측연융기는 짧아서 날개의 중각 근처에서 끝나며, 복부 측판은 세로융기선이 없다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중국 북부, 시베리아 동부, 몽고에 분포한다. 광택이 강하고 등쪽이 녹갈색이나 전체 또는 부분적으로 진한 녹색, 구릿빛 갈색, 보랏빛 녹색, 검보라색 등으로 변이가 심하며, 복면은 녹색 내지 검은 구릿빛이다. 머리방패의 앞쪽은 거의 직선형이며, 소순판은 삼각형의 혀 모양이다. 전부절의 안쪽 발톱은 좀게 갈라졌고 딱지날개 측연융기는 짧아서 날개의 중각 근처에서 끝나며, 복부 측판은 세로융기선이 없다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGG0012-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0012_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0012_1_th.jpg",
+      "alt": "참오리나무풍뎅이 1번째 사진 : 참오리나무풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0012_1_th2.jpg",
+      "caption": "참오리나무풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGG0012-1",
+  "specimen_examples": [
+    {
+      "id": "ENHE0408231060",
+      "description": "[ENHE0408231060] 참오리나무풍뎅이 1981.08.04 / / 이화여자대학교 자연사박물관"
+    },
+    {
+      "id": "KNAE0303082024",
+      "description": "[KNAE0303082024] 참오리나무풍뎅이 1991.08.02 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303082025",
+      "description": "[KNAE0303082025] 참오리나무풍뎅이 1992.07.28 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "포도",
+      "scientific_name": "Vitis vinifera L."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGG0012-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGG0012&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:01+00:00",
+    "html_sha256": "7b88c7e500325f09cbae5c1b1dafc89f6628a30ab84de9d31a103017d1a6f144",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

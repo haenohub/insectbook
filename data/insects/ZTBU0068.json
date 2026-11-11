@@ -1,0 +1,94 @@
+{
+  "id": "ZTBU0068",
+  "name_ko": "가시넓적수염맵시벌",
+  "scientific_name": "Euceros serricornis (Haliday, 1838)",
+  "display_name": "가시넓적수염맵시벌",
+  "family_ko": "맵시벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "맵시벌과",
+      "name_latin": "Ichneumonidae"
+    },
+    "subfamily": {
+      "name_ko": "넓적수염맵시벌아과",
+      "name_latin": "Eucerotinae"
+    },
+    "genus": {
+      "name_ko": "넓적수염맵시벌속",
+      "name_latin": "Euceros"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 맵시벌과 (Ichneumonidae)\n아과 : 넓적수염맵시벌아과 (Eucerotinae)\n속 : 넓적수염맵시벌속 (Euceros)",
+  "basic_information": {
+    "곤충명": "가시넓적수염맵시벌",
+    "학명": "Euceros serricornis (Haliday, 1838)"
+  },
+  "information": {
+    "general_description": "얼굴은 흰색이며 이마방패는 흰색 또는 검은색이다. 전실복절은 검은색 또는 적색이다. 복귀 말단에는 노란색 띠가 있고 앞다리와 중간 다리 밑마디는 흰색이다. 가운데가슴등판과 가운데가슴앞옆판은 검은색이다. 더듬이는 6-7mm. 앞날개는 5-9mm. 몸길이는 10mm. IOD/OOD: 0.7-0.9, IOD/POD: 1-1.4, IOD/MOD: 1.5-1.75, POD/MOD: 1.25- 1.75, PI: 1.5-2.2 CI: 1.04-1.38, DBI: 0.61-0.81, BAI: 0.62-0.68, ICI: 0.12-0.19, BI: 0.9-1.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "얼굴은 흰색이며 이마방패는 흰색 또는 검은색이다. 전실복절은 검은색 또는 적색이다. 복귀 말단에는 노란색 띠가 있고 앞다리와 중간 다리 밑마디는 흰색이다. 가운데가슴등판과 가운데가슴앞옆판은 검은색이다. 더듬이는 6-7mm. 앞날개는 5-9mm. 몸길이는 10mm. IOD/OOD: 0.7-0.9, IOD/POD: 1-1.4, IOD/MOD: 1.5-1.75, POD/MOD: 1.25- 1.75, PI: 1.5-2.2 CI: 1.04-1.38, DBI: 0.61-0.81, BAI: 0.62-0.68, ICI: 0.12-0.19, BI: 0.9-1."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBU0068-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0068_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0068_1_th.jpg",
+      "alt": "가시넓적수염맵시벌 1번째 사진 : 가시넓적수염맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0068_1_th2.jpg",
+      "caption": "가시넓적수염맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBU0068-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305281019",
+      "description": "[YNUE0305281019] 가시넓적수염맵시벌 1989.06.03 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTBU0068.png",
+    "reference_image_id": "ZTBU0068-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T15:29:28.913596+00:00",
+    "sha256": "2c4b3ec86b33bf17b3e67e66b01017b3dec72e6f5909ddb54aee91fdb288af09"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBU0068&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:09+00:00",
+    "html_sha256": "e7377e05a44f1db33f7b6b9e66fd31ea0c476238f306f0a2f219200956851503",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

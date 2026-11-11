@@ -1,0 +1,114 @@
+{
+  "id": "ZOBH0048",
+  "name_ko": "애딱정벌레",
+  "scientific_name": "Hemicarabus tuberculosus (Dejean, 1829)",
+  "display_name": "애딱정벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "딱정벌레아과",
+      "name_latin": "Carabinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Hemicarabus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 딱정벌레아과 (Carabinae)\n속 : (Hemicarabus)",
+  "basic_information": {
+    "곤충명": "애딱정벌레",
+    "학명": "Hemicarabus tuberculosus (Dejean, 1829)"
+  },
+  "information": {
+    "general_description": "수컷은 17~20mm 암컷은 19~23mm 이며 일반적으로 금은색이나 동색의 광택을 가지고있다. 드물게는 녹색의 광택이있다. 전흉배판은 길이보다 폭이 약간넓다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[러시아]\n[일본]",
+    "notes": "[포식성]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "수컷은 17~20mm 암컷은 19~23mm 이며 일반적으로 금은색이나 동색의 광택을 가지고있다. 드물게는 녹색의 광택이있다. 전흉배판은 길이보다 폭이 약간넓다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[러시아]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[포식성]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0048-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0048_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0048_2_th.jpg",
+      "alt": "애딱정벌레 1번째 사진 : 애딱정벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0048_2_th2.jpg",
+      "caption": "애딱정벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0048-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0048_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0048_1_th.jpg",
+      "alt": "애딱정벌레 2번째 사진 : 애딱정벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0048_1_th2.jpg",
+      "caption": "애딱정벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0048-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0305021076",
+      "description": "[FRIE0305021076] 애딱정벌레 1982.08.06 / / 국립산림과학원"
+    },
+    {
+      "id": "JFNE0303171183",
+      "description": "[JFNE0303171183] 애딱정벌레 1992.10.25 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0303171184",
+      "description": "[JFNE0303171184] 애딱정벌레 1992.10.26 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0048-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0048&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:07+00:00",
+    "html_sha256": "80490dab6620926e57e0a052bf8718ea7df2749b5af9b1625ae00e026b21874b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

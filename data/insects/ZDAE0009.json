@@ -1,0 +1,103 @@
+{
+  "id": "ZDAE0009",
+  "name_ko": "시골실잠자리",
+  "scientific_name": "Coenagrion ecornutum (Selys, 1872)",
+  "display_name": "시골실잠자리",
+  "family_ko": "실잠자리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "잠자리목",
+      "name_latin": "Odonata"
+    },
+    "family": {
+      "name_ko": "실잠자리과",
+      "name_latin": "Coenagrionidae"
+    },
+    "subfamily": {
+      "name_ko": "실잠자리아과",
+      "name_latin": "Coenagrionae"
+    },
+    "genus": {
+      "name_ko": "실잠자리속",
+      "name_latin": "Coenagrion"
+    }
+  },
+  "taxonomy_text": "목 : 잠자리목 (Odonata)\n과 : 실잠자리과 (Coenagrionidae)\n아과 : 실잠자리아과 (Coenagrionae)\n속 : 실잠자리속 (Coenagrion)",
+  "basic_information": {
+    "곤충명": "시골실잠자리",
+    "학명": "Coenagrion ecornutum (Selys, 1872)"
+  },
+  "information": {
+    "general_description": "배길이 23~24mm, 뒷날개길이 15~16mm. 수컷은 전체적으로 담청색 바탕에 넓은 흑색 줄무늬가 곱게 아로새겨짐. 배 9마디의 등면에 하트형의 조그만 흑색 점무늬가 있으며 암컷은 수컷에 비해 배마디 등면의 담청색 무늬가 짧고 흑색 무늬는 길며 배가 가슴에 비해 굵음. 가슴은 작고 특히 암컷은 배가 가슴에 비해 굵고 긴 편.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "직립형으로 우화함. 다른 실잠자리에게서 볼 수 있는 텃세권을 행사하지 않아 특이함. 유충은 산 속의 연못이나 물웅덩이 속에 살고 몸색상은 황록색이며 몸매가 가늘고 섬세함.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "배길이 23~24mm, 뒷날개길이 15~16mm. 수컷은 전체적으로 담청색 바탕에 넓은 흑색 줄무늬가 곱게 아로새겨짐. 배 9마디의 등면에 하트형의 조그만 흑색 점무늬가 있으며 암컷은 수컷에 비해 배마디 등면의 담청색 무늬가 짧고 흑색 무늬는 길며 배가 가슴에 비해 굵음. 가슴은 작고 특히 암컷은 배가 가슴에 비해 굵고 긴 편."
+    },
+    {
+      "title": "생태",
+      "text": "직립형으로 우화함. 다른 실잠자리에게서 볼 수 있는 텃세권을 행사하지 않아 특이함. 유충은 산 속의 연못이나 물웅덩이 속에 살고 몸색상은 황록색이며 몸매가 가늘고 섬세함."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZDAE0009-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAE0009_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAE0009_1_th.jpg",
+      "alt": "시골실잠자리 1번째 사진 : 시골실잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAE0009_1_th2.jpg",
+      "caption": "시골실잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZDAE0009-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0408061089",
+      "description": "[KNAE0408061089] 시골실잠자리 2002.07.30 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0705230055",
+      "description": "[KNAE0705230055] 시골실잠자리 2001.06.03 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0705230056",
+      "description": "[KNAE0705230056] 시골실잠자리 2001.06.03 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZDAE0009-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZDAE0009&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:46+00:00",
+    "html_sha256": "3a678585d2f6d6e7d9136221cdf8c9f284878b1a743fc3019608f4af9fb29251",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

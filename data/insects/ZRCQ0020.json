@@ -1,0 +1,154 @@
+{
+  "id": "ZRCQ0020",
+  "name_ko": "줄점팔랑나비",
+  "scientific_name": "Parnara guttata (Bremer & Grey, 1853)",
+  "display_name": "줄점팔랑나비",
+  "family_ko": "팔랑나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "팔랑나비과",
+      "name_latin": "Hesperiidae"
+    },
+    "subfamily": {
+      "name_ko": "팔랑나비아과",
+      "name_latin": "Hesperiinae"
+    },
+    "genus": {
+      "name_ko": "줄점팔랑나비속",
+      "name_latin": "Parnara"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 팔랑나비과 (Hesperiidae)\n아과 : 팔랑나비아과 (Hesperiinae)\n속 : 줄점팔랑나비속 (Parnara)",
+  "basic_information": {
+    "곤충명": "줄점팔랑나비",
+    "학명": "Parnara guttata (Bremer & Grey, 1853)"
+  },
+  "information": {
+    "general_description": "암수의 무늬에 큰 차이는 없으나, 앞날개 중실 끝에 수컷에서는 같은 크기의 흰무늬가ㅏ 2개 있으나 암컷에서는 1개만 있는 경우가 많다. 날개는 암컷쪽이 폭이 넓고 흰무늬도 크다. 확실한 구별을 하기 위해서는 배끝을 보는 것이 바람직하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "중부 지방에서는 제 1화의 개체들은 거의 볼 수 없으나 가을이 되면 제2∼3화의 개체수가 많아진다. 이 곳에서는 월동을 못하는 것으로 보이며 아마 봄에 소수가 남쪽에서 이동하여 온 것들이 가을에 대발생하는 것으로 추정된다.",
+    "habits": "마을이나 논, 밭과 하천 주변의 초지에 서식한다. 인가의 정원에 피어 있는 국화, 메밀, 고마리 등 각종 꽃에서 흡밀한다",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[대만]\n[인도]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암수의 무늬에 큰 차이는 없으나, 앞날개 중실 끝에 수컷에서는 같은 크기의 흰무늬가ㅏ 2개 있으나 암컷에서는 1개만 있는 경우가 많다. 날개는 암컷쪽이 폭이 넓고 흰무늬도 크다. 확실한 구별을 하기 위해서는 배끝을 보는 것이 바람직하다."
+    },
+    {
+      "title": "생태",
+      "text": "중부 지방에서는 제 1화의 개체들은 거의 볼 수 없으나 가을이 되면 제2∼3화의 개체수가 많아진다. 이 곳에서는 월동을 못하는 것으로 보이며 아마 봄에 소수가 남쪽에서 이동하여 온 것들이 가을에 대발생하는 것으로 추정된다."
+    },
+    {
+      "title": "습성",
+      "text": "마을이나 논, 밭과 하천 주변의 초지에 서식한다. 인가의 정원에 피어 있는 국화, 메밀, 고마리 등 각종 꽃에서 흡밀한다"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[대만]\n[인도]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCQ0020-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRCQ0020_4.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRCQ0020_4.jpg",
+      "alt": "줄점팔랑나비 1번째 사진 : 줄점팔랑나비 암컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRCQ0020_4_th2.jpg",
+      "caption": "줄점팔랑나비 암컷 이미지",
+      "photographed_at": "20190916",
+      "location": "경기도 포천시 소흘읍 광릉숲",
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRCQ0020-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRCQ0020_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRCQ0020_3.jpg",
+      "alt": "줄점팔랑나비 2번째 사진 : 줄점팔랑나비 수컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRCQ0020_3_th2.jpg",
+      "caption": "줄점팔랑나비 수컷 이미지",
+      "photographed_at": "20190923",
+      "location": "경기도 포천시 소흘읍 광릉숲",
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRCQ0020-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0020_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0020_2_th.jpg",
+      "alt": "줄점팔랑나비 3번째 사진 : 줄점팔랑나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0020_2_th2.jpg",
+      "caption": "줄점팔랑나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCQ0020-4",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0020_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0020_1_th.jpg",
+      "alt": "줄점팔랑나비 4번째 사진 : 줄점팔랑나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0020_1_th2.jpg",
+      "caption": "줄점팔랑나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCQ0020-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408111031",
+      "description": "[MPME0408111031] 줄점팔랑나비 2001.08.26 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408111030",
+      "description": "[MPME0408111030] 줄점팔랑나비 2001.08.24 / / 목포자연사박물관"
+    },
+    {
+      "id": "JFNE0304051030",
+      "description": "[JFNE0304051030] 줄점팔랑나비 2002.09.26 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "벼",
+      "scientific_name": "Oryza sativa L."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCQ0020-3"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCQ0020&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:18+00:00",
+    "html_sha256": "510acdd3eb49f91cb72d3fdccb1e23c15216a54e9f01d30345f7301f61c42e43",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

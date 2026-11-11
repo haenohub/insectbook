@@ -1,0 +1,95 @@
+{
+  "id": "ZTBO0085",
+  "name_ko": "홍개미",
+  "scientific_name": "Formica rufa Linnaeus, 1761",
+  "display_name": "홍개미",
+  "family_ko": "개미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "말벌상과",
+      "name_latin": "Vespoidea"
+    },
+    "family": {
+      "name_ko": "개미과",
+      "name_latin": "Formicidae"
+    },
+    "subfamily": {
+      "name_ko": "불개미아과",
+      "name_latin": "Formicinae"
+    },
+    "genus": {
+      "name_ko": "불개미속",
+      "name_latin": "Formica"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 말벌상과 (Vespoidea)\n과 : 개미과 (Formicidae)\n아과 : 불개미아과 (Formicinae)\n속 : 불개미속 (Formica)",
+  "basic_information": {
+    "곤충명": "홍개미",
+    "학명": "Formica rufa Linnaeus, 1761"
+  },
+  "information": {
+    "general_description": "몸길이는 2.7mm 정도이며 머리, 가슴, 배자루는 적색 또는 황적색이고 배는 흑갈색이나 각마디의 위쪽가와 꼬리마디는 황적갈색이고 더듬이와 다리는 갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 2.7mm 정도이며 머리, 가슴, 배자루는 적색 또는 황적색이고 배는 흑갈색이나 각마디의 위쪽가와 꼬리마디는 황적갈색이고 더듬이와 다리는 갈색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBO0085-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0085_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0085_1_th.jpg",
+      "alt": "홍개미 1번째 사진 : 홍개미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0085_1_th2.jpg",
+      "caption": "홍개미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBO0085-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306262071",
+      "description": "[YNUE0306262071] 홍개미 1986.06.27 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTBO0085-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBO0085&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:29+00:00",
+    "html_sha256": "065e122bc584e04bf1928f22d258838458e3d4dc76eeb7e0fef21def56d32a09",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

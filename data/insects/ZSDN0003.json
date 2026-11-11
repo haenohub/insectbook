@@ -1,0 +1,103 @@
+{
+  "id": "ZSDN0003",
+  "name_ko": "우단털파리",
+  "scientific_name": "Plecia (Plecia) adiastola Hardy & Takahashi, 1960",
+  "display_name": "우단털파리",
+  "family_ko": "털파리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "털파리상과",
+      "name_latin": "Bibionoidea"
+    },
+    "family": {
+      "name_ko": "털파리과",
+      "name_latin": "Bibionidae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Pleciinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Plecia"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 털파리상과 (Bibionoidea)\n과 : 털파리과 (Bibionidae)\n아과 : (Pleciinae)\n속 : (Plecia)",
+  "basic_information": {
+    "곤충명": "우단털파리",
+    "학명": "Plecia (Plecia) adiastola Hardy & Takahashi, 1960"
+  },
+  "information": {
+    "general_description": "몸 전체는 광택이 없는 흑갈색 혹은 흑색. 암컷의 이마 중앙에는 이마의 1/3폭을 가진 융기 띠무늬가 홑눈혹까지 뻗음. 더듬이는 짧고 수컷은 11마디이며 암컷은 12마디. 작은턱수염은 가늘고 더듬이와 거의 같은 길이. 가운데가슴등판은 약간 회색 가루로 덮였고 보기에 따라서는 빌로오도 모양으로 반짝임. 옆구리는 약간 갈색을 띰. 날개는 갈색이고 R2+3은 심하게 꼬부라짐. 평균곤은 흑갈색이고 자루부는 황갈색. 다리는 진한 갈색이고 뒷다리 밑마디는 종아리마디의 약 1/3의 길이. 뚜렷하지 않은 가운데가슴등의 홈이나 더듬이의 고리마디 수로 다른 종류와 구별이 가능.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸 전체는 광택이 없는 흑갈색 혹은 흑색. 암컷의 이마 중앙에는 이마의 1/3폭을 가진 융기 띠무늬가 홑눈혹까지 뻗음. 더듬이는 짧고 수컷은 11마디이며 암컷은 12마디. 작은턱수염은 가늘고 더듬이와 거의 같은 길이. 가운데가슴등판은 약간 회색 가루로 덮였고 보기에 따라서는 빌로오도 모양으로 반짝임. 옆구리는 약간 갈색을 띰. 날개는 갈색이고 R2+3은 심하게 꼬부라짐. 평균곤은 흑갈색이고 자루부는 황갈색. 다리는 진한 갈색이고 뒷다리 밑마디는 종아리마디의 약 1/3의 길이. 뚜렷하지 않은 가운데가슴등의 홈이나 더듬이의 고리마디 수로 다른 종류와 구별이 가능."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSDN0003-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSDN0003_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSDN0003_1_th.jpg",
+      "alt": "우단털파리 1번째 사진 : 우단털파리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSDN0003_1_th2.jpg",
+      "caption": "우단털파리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSDN0003-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0301099121",
+      "description": "[YNUE0301099121] 우단털파리 1992.05.23 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301099122",
+      "description": "[YNUE0301099122] 우단털파리 1992.05.31 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301099123",
+      "description": "[YNUE0301099123] 우단털파리 1992.05.22 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZSDN0003-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSDN0003&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:59+00:00",
+    "html_sha256": "be112a070cb7872895a7197378353141d26f460b481e5c10db3d3bbc734af658",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

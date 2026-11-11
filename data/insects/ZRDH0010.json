@@ -1,0 +1,193 @@
+{
+  "id": "ZRDH0010",
+  "name_ko": "콩독나방",
+  "scientific_name": "Cifuna locuples Walker, 1855",
+  "display_name": "콩독나방",
+  "family_ko": "태극나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "태극나방과",
+      "name_latin": "Erebidae"
+    },
+    "subfamily": {
+      "name_ko": "독나방아과",
+      "name_latin": "Lymantriinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Cifuna"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 태극나방과 (Erebidae)\n아과 : 독나방아과 (Lymantriinae)\n속 : (Cifuna)",
+  "basic_information": {
+    "곤충명": "콩독나방",
+    "학명": "Cifuna locuples Walker, 1855"
+  },
+  "information": {
+    "general_description": "성충은 몸과 날개가 갈색이며 앞날개에 짙은 무늬가 있다.",
+    "adult": null,
+    "adult_male": "앞날개 길이는 15~20 mm이다.",
+    "adult_female": "앞날개 길이는 22~25 mm이다.",
+    "larva": "유충의 몸길이는 40 mm 정도로서 머리는 검고 몸은 흑갈색 또는 흑색이며 몸 전체에 긴 털이 덮여 있으며 제1~4배마디의 등에는 암다갈색의 모속(毛束)이 있다.",
+    "egg": null,
+    "pupa": null,
+    "ecology": "월동한 유충은 4월부터 식해하기 시작하여 5~6월에 노숙 유충이 되고 체모를 섞어 엉성한 고치를 만들고 그 속에서 번데기가 된다. 성충은 6월에 우화하여 무더기로 산란하며, 어린 유충은 잎 뒤에 군서하면서 엽육을 식해한 후에 분산 가해한다. 유충은 7, 8, 9~10월에 나타난다.",
+    "habits": "유충 한 마리의 섭식량은 많으나 대발생하지는 않는다.",
+    "season": null,
+    "overwintering": "어린 유충으로 월동한다.",
+    "distribution": "[일본]\n[중국]\n[대만]\n[인도]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충은 몸과 날개가 갈색이며 앞날개에 짙은 무늬가 있다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "앞날개 길이는 15~20 mm이다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "앞날개 길이는 22~25 mm이다."
+    },
+    {
+      "title": "유충",
+      "text": "유충의 몸길이는 40 mm 정도로서 머리는 검고 몸은 흑갈색 또는 흑색이며 몸 전체에 긴 털이 덮여 있으며 제1~4배마디의 등에는 암다갈색의 모속(毛束)이 있다."
+    },
+    {
+      "title": "생태",
+      "text": "월동한 유충은 4월부터 식해하기 시작하여 5~6월에 노숙 유충이 되고 체모를 섞어 엉성한 고치를 만들고 그 속에서 번데기가 된다. 성충은 6월에 우화하여 무더기로 산란하며, 어린 유충은 잎 뒤에 군서하면서 엽육을 식해한 후에 분산 가해한다. 유충은 7, 8, 9~10월에 나타난다."
+    },
+    {
+      "title": "습성",
+      "text": "유충 한 마리의 섭식량은 많으나 대발생하지는 않는다."
+    },
+    {
+      "title": "월동",
+      "text": "어린 유충으로 월동한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[대만]\n[인도]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDH0010-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDH0010_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDH0010_2_th.jpg",
+      "alt": "콩독나방 1번째 사진 : 콩독나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDH0010_2_th2.jpg",
+      "caption": "콩독나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDH0010-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDH0010_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDH0010_1_th.jpg",
+      "alt": "콩독나방 2번째 사진 : 콩독나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDH0010_1_th2.jpg",
+      "caption": "콩독나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDH0010-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408191022",
+      "description": "[MPME0408191022] 콩독나방 2003.06.23 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408191021",
+      "description": "[MPME0408191021] 콩독나방 2003.06.23 / / 목포자연사박물관"
+    },
+    {
+      "id": "KNAE0303141041",
+      "description": "[KNAE0303141041] 콩독나방 1999.07.21 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "개아그배나무",
+      "scientific_name": "Malus micromalus Makino"
+    },
+    {
+      "group": "식물",
+      "name_ko": "느티나무",
+      "scientific_name": "Zelkova serrata (Thunb.) Makino"
+    },
+    {
+      "group": "식물",
+      "name_ko": "등",
+      "scientific_name": "Wisteria floribunda (Willd.) DC."
+    },
+    {
+      "group": "식물",
+      "name_ko": "매실나무",
+      "scientific_name": "Prunus mume (Siebold) Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "벚나무",
+      "scientific_name": "Prunus serrulata f. spontanea (Maxim.) Chin S.Chang"
+    },
+    {
+      "group": "식물",
+      "name_ko": "복사나무",
+      "scientific_name": "Prunus persica (L.) Batsch"
+    },
+    {
+      "group": "식물",
+      "name_ko": "사과나무",
+      "scientific_name": "Malus domestica (Suckow) Borkh."
+    },
+    {
+      "group": "식물",
+      "name_ko": "산딸기",
+      "scientific_name": "Rubus crataegifolius Bunge"
+    },
+    {
+      "group": "식물",
+      "name_ko": "상수리나무",
+      "scientific_name": "Quercus acutissima Carruth."
+    },
+    {
+      "group": "식물",
+      "name_ko": "아그배나무",
+      "scientific_name": "Malus toringo (Siebold) Siebold ex de Vriese"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDH0010-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDH0010&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:31+00:00",
+    "html_sha256": "eb6607003f2cc8528c132325fa7e6cfcc2c3b4fb35fd24e7a3112a128b6cd3ab",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

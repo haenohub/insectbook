@@ -1,0 +1,113 @@
+{
+  "id": "ZOBC0038",
+  "name_ko": "모무늬호리비단벌레",
+  "scientific_name": "Agrilus discalis Saunders, 1873",
+  "display_name": "모무늬호리비단벌레",
+  "family_ko": "비단벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "비단벌레상과",
+      "name_latin": "Buprestoidea"
+    },
+    "family": {
+      "name_ko": "비단벌레과",
+      "name_latin": "Buprestidae"
+    },
+    "subfamily": {
+      "name_ko": "호리비단벌레아과",
+      "name_latin": "Agrilinae"
+    },
+    "genus": {
+      "name_ko": "호리비단벌레속",
+      "name_latin": "Agrilus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 비단벌레상과 (Buprestoidea)\n과 : 비단벌레과 (Buprestidae)\n아과 : 호리비단벌레아과 (Agrilinae)\n속 : 호리비단벌레속 (Agrilus)",
+  "basic_information": {
+    "곤충명": "모무늬호리비단벌레",
+    "학명": "Agrilus discalis Saunders, 1873"
+  },
+  "information": {
+    "general_description": "몸의 길이는 5.2~10.2mm이며 두부는 적갈색이며 앞가슴 등판은 광택을 띠는 황적색이다. 딱지날개에는 나뭇잎 무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의 길이는 5.2~10.2mm이며 두부는 적갈색이며 앞가슴 등판은 광택을 띠는 황적색이다. 딱지날개에는 나뭇잎 무늬가 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBC0038-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBC0038_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBC0038_1_th.jpg",
+      "alt": "모무늬호리비단벌레 1번째 사진 : 모무늬비단벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBC0038_1_th2.jpg",
+      "caption": "모무늬비단벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBC0038-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0304251032",
+      "description": "[FRIE0304251032] 모무늬호리비단벌레 1995.05.25 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0303271016",
+      "description": "[FRIE0303271016] 모무늬호리비단벌레 1983.04.21 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE1006291211",
+      "description": "[KNAE1006291211] 모무늬호리비단벌레 2007.08.13 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "느티나무",
+      "scientific_name": "Zelkova serrata (Thunb.) Makino"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBC0038-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBC0038&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:18+00:00",
+    "html_sha256": "59229795a2e05980037a79cffa0196a79cf59f2c4b32a4e4abf782360d65f46d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

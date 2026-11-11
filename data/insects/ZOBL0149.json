@@ -1,0 +1,161 @@
+{
+  "id": "ZOBL0149",
+  "name_ko": "소범하늘소",
+  "scientific_name": "Plagionotus christophi (Kraatz, 1879)",
+  "display_name": "소범하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "하늘소아과",
+      "name_latin": "Cerambycinae"
+    },
+    "genus": {
+      "name_ko": "소범하늘소속",
+      "name_latin": "Plagionotus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 하늘소아과 (Cerambycinae)\n속 : 소범하늘소속 (Plagionotus)",
+  "basic_information": {
+    "곤충명": "소범하늘소",
+    "학명": "Plagionotus christophi (Kraatz, 1879)"
+  },
+  "information": {
+    "general_description": "체장 11.0~16.0 mm. 머리는 검은색이며, 노란색의 긴 털, 수많은 강한 점각들이 산재한다. 이마방패는 적갈색이다. 정수리에는 노란색의 가로의 연모 띠가 있다. 더듬이는 첫 번째 마디가 검은색인 것을 제외하고 붉은색이며, 각 마디들에는 안쪽으로 강모들이 있다. 앞가슴등판은 검은색이며 긴 직립 털들이 산재한다. 딱지날개의 길이는 너비의 약 2.4배이다. 검은색이며 가로의 붉은색의 띠들이 기부에 있으며, 기부 뒤에는 짧은 노란색 연모 띠가 있으며, 2쌍의 가로 노란색 띠가 중간과 말단 가까이에 있다.",
+    "adult": null,
+    "adult_male": "더듬이는 딱지날개 중간을 초과한다. 뒷다리 퇴절은 딱지날개 말단에 거의 이른다.",
+    "adult_female": "더듬이는 딱지날개 중간을 초과하지 않는다. 뒷다리 퇴절은 딱지날개 말단에 현저하게 이르지 않는다.",
+    "larva": "앞가슴등판의 너비는 길이의 약 3.0배이며, 앞쪽으로 향할수록 매끈하다. 가로의 노란 점들이 앞쪽 반에 밀생하고 좁은 흰색 부위로 나뉜다. 중간가슴, 뒷가슴, 복부의 측면에는 갈색의 연모가 밀생한다. 등면 보행돌기 앞쪽으로 가로의 홈이 있다.",
+    "egg": "흰색이며, 길쭉하다. 앞쪽 말단은 둥글며, 반대 말단은 각이 져 있다. 난포막은 매끈하고 투명하며 확연한 문양이 결여되어 있다.",
+    "pupa": "머리에는 주름들이 가로로 있으며 강모들이 결여되어 있다. 더듬이 사이의 이마는 볼록하다. 앞가슴등판은 가로형이며 측면은 둥글다. 중간가슴등판의 너비와 길이는 유사하다. 뒷가슴등판은 넓고 볼록하며 분명한 가로패턴이 있다. 복부 4~6번째 등판에는 2~4개의 강모가 있다.",
+    "ecology": "참나무류가 우점하는 광엽수림 또는 혼합림에서 서식한다. 암컷은 평생 동안 약 60여개의 알을 산란한다.",
+    "habits": "적재된 참나무류에 모이는 습성이 있다.",
+    "season": null,
+    "overwintering": "유충",
+    "distribution": null,
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": "경제적 피해 유발 해충으로 알려져 있지 않아, 종 특이적 방제법은 현재까지 없다.",
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체장 11.0~16.0 mm. 머리는 검은색이며, 노란색의 긴 털, 수많은 강한 점각들이 산재한다. 이마방패는 적갈색이다. 정수리에는 노란색의 가로의 연모 띠가 있다. 더듬이는 첫 번째 마디가 검은색인 것을 제외하고 붉은색이며, 각 마디들에는 안쪽으로 강모들이 있다. 앞가슴등판은 검은색이며 긴 직립 털들이 산재한다. 딱지날개의 길이는 너비의 약 2.4배이다. 검은색이며 가로의 붉은색의 띠들이 기부에 있으며, 기부 뒤에는 짧은 노란색 연모 띠가 있으며, 2쌍의 가로 노란색 띠가 중간과 말단 가까이에 있다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "더듬이는 딱지날개 중간을 초과한다. 뒷다리 퇴절은 딱지날개 말단에 거의 이른다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "더듬이는 딱지날개 중간을 초과하지 않는다. 뒷다리 퇴절은 딱지날개 말단에 현저하게 이르지 않는다."
+    },
+    {
+      "title": "번데기",
+      "text": "머리에는 주름들이 가로로 있으며 강모들이 결여되어 있다. 더듬이 사이의 이마는 볼록하다. 앞가슴등판은 가로형이며 측면은 둥글다. 중간가슴등판의 너비와 길이는 유사하다. 뒷가슴등판은 넓고 볼록하며 분명한 가로패턴이 있다. 복부 4~6번째 등판에는 2~4개의 강모가 있다."
+    },
+    {
+      "title": "유충",
+      "text": "앞가슴등판의 너비는 길이의 약 3.0배이며, 앞쪽으로 향할수록 매끈하다. 가로의 노란 점들이 앞쪽 반에 밀생하고 좁은 흰색 부위로 나뉜다. 중간가슴, 뒷가슴, 복부의 측면에는 갈색의 연모가 밀생한다. 등면 보행돌기 앞쪽으로 가로의 홈이 있다."
+    },
+    {
+      "title": "생태",
+      "text": "참나무류가 우점하는 광엽수림 또는 혼합림에서 서식한다. 암컷은 평생 동안 약 60여개의 알을 산란한다."
+    },
+    {
+      "title": "습성",
+      "text": "적재된 참나무류에 모이는 습성이 있다."
+    },
+    {
+      "title": "월동",
+      "text": "유충"
+    },
+    {
+      "title": "방제법",
+      "text": "경제적 피해 유발 해충으로 알려져 있지 않아, 종 특이적 방제법은 현재까지 없다."
+    },
+    {
+      "title": "알",
+      "text": "흰색이며, 길쭉하다. 앞쪽 말단은 둥글며, 반대 말단은 각이 져 있다. 난포막은 매끈하고 투명하며 확연한 문양이 결여되어 있다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0149-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0149_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0149_3.jpg",
+      "alt": "소범하늘소 1번째 사진 : ",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0149_3_th2.jpg",
+      "caption": null,
+      "photographed_at": "20110526",
+      "location": null,
+      "photographer": "국립수목원(임종옥)"
+    },
+    {
+      "id": "ZOBL0149-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0149_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0149_2.jpg",
+      "alt": "소범하늘소 2번째 사진 : ",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0149_2_th2.jpg",
+      "caption": null,
+      "photographed_at": "20120531",
+      "location": null,
+      "photographer": "국립수목원(임종옥)"
+    },
+    {
+      "id": "ZOBL0149-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0149_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0149_1_th.jpg",
+      "alt": "소범하늘소 3번째 사진 : 소범하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0149_1_th2.jpg",
+      "caption": "소범하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0149-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0408101065",
+      "description": "[UIBE0408101065] 소범하늘소 1996.05.17 / / 인천대학교"
+    },
+    {
+      "id": "FRIE0304081073",
+      "description": "[FRIE0304081073] 소범하늘소 1985.04.19 / / 국립산림과학원"
+    },
+    {
+      "id": "YNUE0211152068",
+      "description": "[YNUE0211152068] 소범하늘소 2001.05.25 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0149-3"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0149&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:15+00:00",
+    "html_sha256": "a13721ac622e3d72147c8f4fc6e76caae761ca6f1e92cbb42e90f7dd918326b4",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

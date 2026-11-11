@@ -1,0 +1,147 @@
+{
+  "id": "ZRDV0007",
+  "name_ko": "은줄표범나비",
+  "scientific_name": "Argynnis paphia (Linnaeus, 1758)",
+  "display_name": "은줄표범나비",
+  "family_ko": "네발나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "네발나비과",
+      "name_latin": "Nymphalidae"
+    },
+    "subfamily": {
+      "name_ko": "독나비아과",
+      "name_latin": "Heliconiinae"
+    },
+    "genus": {
+      "name_ko": "은점표범나비속",
+      "name_latin": "Argynnis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 네발나비과 (Nymphalidae)\n아과 : 독나비아과 (Heliconiinae)\n속 : 은점표범나비속 (Argynnis)",
+  "basic_information": {
+    "곤충명": "은줄표범나비",
+    "학명": "Argynnis paphia (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "수컷의 날개 윗면은 암컷에 비하여 붉은색이 강하게 돌고 검정색의 얼룩무늬가 작다. 수컷의 앞날개 제1b~4맥상에는 굵은 검정색 줄 성표가 있어 암컷과 쉽게 구별된다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "암컷은 어두운 수림 속에서 큰 나무 줄기에 한 개씩 산란한다.",
+    "habits": "산지의 임도 주변 공토에 서식한다. 엉겅퀴나 큰까치수영의 꽃을 즐겨 찾아 흡밀하며, 오전 중에는 잎이나 땅 위에서 일광욕을 하는 모습을 쉽게 볼 수 있다. 수컷은 축축한 물가에서 흡수한다. 하면(夏眠)을 하며 가을에 다시 활동하는 습성은 다른 표범나비류와 같다.",
+    "season": null,
+    "overwintering": "알이나 1령애벌레",
+    "distribution": "[일본]\n[중국]\n[러시아]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "수컷의 날개 윗면은 암컷에 비하여 붉은색이 강하게 돌고 검정색의 얼룩무늬가 작다. 수컷의 앞날개 제1b~4맥상에는 굵은 검정색 줄 성표가 있어 암컷과 쉽게 구별된다."
+    },
+    {
+      "title": "생태",
+      "text": "암컷은 어두운 수림 속에서 큰 나무 줄기에 한 개씩 산란한다."
+    },
+    {
+      "title": "습성",
+      "text": "산지의 임도 주변 공토에 서식한다. 엉겅퀴나 큰까치수영의 꽃을 즐겨 찾아 흡밀하며, 오전 중에는 잎이나 땅 위에서 일광욕을 하는 모습을 쉽게 볼 수 있다. 수컷은 축축한 물가에서 흡수한다. 하면(夏眠)을 하며 가을에 다시 활동하는 습성은 다른 표범나비류와 같다."
+    },
+    {
+      "title": "월동",
+      "text": "알이나 1령애벌레"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDV0007-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0007_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0007_3.jpg",
+      "alt": "은줄표범나비 1번째 사진 : 은줄표범나비 수컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0007_3_th2.jpg",
+      "caption": "은줄표범나비 수컷 이미지",
+      "photographed_at": "20200612",
+      "location": "경기도 포천시 소흘읍 광릉숲",
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRDV0007-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0007_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0007_2_th.jpg",
+      "alt": "은줄표범나비 2번째 사진 : 은줄표범나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0007_2_th2.jpg",
+      "caption": "은줄표범나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDV0007-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0007_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0007_1_th.jpg",
+      "alt": "은줄표범나비 3번째 사진 : 은줄표범나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0007_1_th2.jpg",
+      "caption": "은줄표범나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDV0007-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0305301055",
+      "description": "[FRIE0305301055] 은줄표범나비 1984.08.09 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0305301056",
+      "description": "[FRIE0305301056] 은줄표범나비 1981.07.08 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0305301057",
+      "description": "[FRIE0305301057] 은줄표범나비 1983.07.28 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "흰털제비꽃",
+      "scientific_name": "Viola hirtipes S.Moore"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDV0007-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDV0007&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:27+00:00",
+    "html_sha256": "2aaad83398a98a24dfa7227de693aa682c9716cd8fe50b7f2b749a99f823ebe7",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

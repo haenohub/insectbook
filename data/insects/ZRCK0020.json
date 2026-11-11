@@ -1,0 +1,119 @@
+{
+  "id": "ZRCK0020",
+  "name_ko": "매화가는나방",
+  "scientific_name": "Parornix multimaculata (Matsumura, 1931)",
+  "display_name": "매화가는나방",
+  "family_ko": "가는나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "가는나방상과",
+      "name_latin": "Gracillarioidea"
+    },
+    "family": {
+      "name_ko": "가는나방과",
+      "name_latin": "Gracillariidae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Parornichinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Parornix"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 가는나방상과 (Gracillarioidea)\n과 : 가는나방과 (Gracillariidae)\n아과 : (Parornichinae)\n속 : (Parornix)",
+  "basic_information": {
+    "곤충명": "매화가는나방",
+    "학명": "Parornix multimaculata (Matsumura, 1931)"
+  },
+  "information": {
+    "general_description": "날개길이 9～12㎜\n머리는 털로 덮여있고 이마는 납작, 더듬이는 앞날개 길이와 비슷\n월동 세대가 여름 세대 보다 큼\n앞․뒷날개의 나비는 넓고, 앞날개의 중실 안에 큰 암색 무늬를 가짐",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "유충은 식물의 잎에 굴을 만들고, 그 속에서 가해하는데 4령이 되면 굴에서 나와 잎을 구부리고 뒷면에서 실로 얽매어 덮고, 그 속에서 가해함\n유충은 매화나무, 벚나무, 자두나무, 털야광나무 등에 해를 끼침",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대한민국] 경기도\n[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개길이 9～12㎜\n머리는 털로 덮여있고 이마는 납작, 더듬이는 앞날개 길이와 비슷\n월동 세대가 여름 세대 보다 큼\n앞․뒷날개의 나비는 넓고, 앞날개의 중실 안에 큰 암색 무늬를 가짐"
+    },
+    {
+      "title": "생태",
+      "text": "유충은 식물의 잎에 굴을 만들고, 그 속에서 가해하는데 4령이 되면 굴에서 나와 잎을 구부리고 뒷면에서 실로 얽매어 덮고, 그 속에서 가해함\n유충은 매화나무, 벚나무, 자두나무, 털야광나무 등에 해를 끼침"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대한민국] 경기도\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCK0020-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCK0020_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCK0020_1_th.jpg",
+      "alt": "매화가는나방 1번째 사진 : 매화가는나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCK0020_1_th2.jpg",
+      "caption": "매화가는나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCK0020-1",
+  "specimen_examples": [],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "금매화",
+      "scientific_name": "Trollius ledebourii Rchb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "벚나무",
+      "scientific_name": "Prunus serrulata f. spontanea (Maxim.) Chin S.Chang"
+    },
+    {
+      "group": "식물",
+      "name_ko": "자두나무",
+      "scientific_name": "Prunus salicina Lindl."
+    },
+    {
+      "group": "식물",
+      "name_ko": "털야광나무",
+      "scientific_name": "Malus mandshurica (Maxim.) Kom. ex Skvortsov"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCK0020-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCK0020&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:49+00:00",
+    "html_sha256": "e6442a160301608b03499477094e984d0b5325a17b64dfa56528a7e7b63d098b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

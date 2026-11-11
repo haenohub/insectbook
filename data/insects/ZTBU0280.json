@@ -1,0 +1,122 @@
+{
+  "id": "ZTBU0280",
+  "name_ko": "카와무라맵시벌",
+  "scientific_name": "Ctenichneumon divisorius divisorius (Gravenhorst, 1820)",
+  "display_name": "카와무라맵시벌",
+  "family_ko": "맵시벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "맵시벌과",
+      "name_latin": "Ichneumonidae"
+    },
+    "subfamily": {
+      "name_ko": "맵시벌아과",
+      "name_latin": "Ichneumoninae"
+    },
+    "genus": {
+      "name_ko": "초상맵시벌속",
+      "name_latin": "Ctenichneumon"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 맵시벌과 (Ichneumonidae)\n아과 : 맵시벌아과 (Ichneumoninae)\n속 : 초상맵시벌속 (Ctenichneumon)",
+  "basic_information": {
+    "곤충명": "카와무라맵시벌",
+    "학명": "Ctenichneumon divisorius divisorius (Gravenhorst, 1820)"
+  },
+  "information": {
+    "general_description": "몸은 흑색이고, 작은방패판은 백색이고 제2·3배마디(끝은 흑색)는 담적색이고 끝배마디등판은 백색이다. 다리의 색에는 여러 가지가 있다. 성충의 몸길이는 15∼17mm정도 이다.",
+    "adult": null,
+    "adult_male": "♂는 겹눈 안슭이 백색이고 날개 기부 근처의 1무늬와 종아리마디의 중앙은 백색이다. 날개는 약간 흐리고 연문은 황갈색이다.",
+    "adult_female": "♀의 더듬이에는 백색 가락지 무늬가 있다. 종아리마디는 완전히 흑색이다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[오스트리아]\n[이탈리아]\n[헝가리]\n[프랑스]\n[핀란드]\n[스페인]\n[덴마크]\n[독일]\n[중국]\n[불가리아]\n[벨기에]\n[모로코]\n[몽골]\n[폴란드]\n[러시아]\n[스웨덴]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸은 흑색이고, 작은방패판은 백색이고 제2·3배마디(끝은 흑색)는 담적색이고 끝배마디등판은 백색이다. 다리의 색에는 여러 가지가 있다. 성충의 몸길이는 15∼17mm정도 이다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "♂는 겹눈 안슭이 백색이고 날개 기부 근처의 1무늬와 종아리마디의 중앙은 백색이다. 날개는 약간 흐리고 연문은 황갈색이다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "♀의 더듬이에는 백색 가락지 무늬가 있다. 종아리마디는 완전히 흑색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[오스트리아]\n[이탈리아]\n[헝가리]\n[프랑스]\n[핀란드]\n[스페인]\n[덴마크]\n[독일]\n[중국]\n[불가리아]\n[벨기에]\n[모로코]\n[몽골]\n[폴란드]\n[러시아]\n[스웨덴]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBU0280-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0280_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0280_2_th.jpg",
+      "alt": "카와무라맵시벌 1번째 사진 : 카와무라맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0280_2_th2.jpg",
+      "caption": "카와무라맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTBU0280-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0280_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0280_1_th.jpg",
+      "alt": "카와무라맵시벌 2번째 사진 : 카와무라맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0280_1_th2.jpg",
+      "caption": "카와무라맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBU0280-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305301036",
+      "description": "[YNUE0305301036] 카와무라맵시벌 1972.06.11 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0111213008",
+      "description": "[YNUE0111213008] 카와무라맵시벌 1985.05.29 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0201176041",
+      "description": "[YNUE0201176041] 카와무라맵시벌 1985.05.15 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTBU0280-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBU0280&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:28+00:00",
+    "html_sha256": "b919e7b9ca392c9b9ddf40e623b6c14864a95e802696260258c7c2363ac7f5db",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

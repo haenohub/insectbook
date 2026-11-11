@@ -1,0 +1,126 @@
+{
+  "id": "ZTAG0110",
+  "name_ko": "호박벌",
+  "scientific_name": "Bombus (Bombus) ignitus (Smith, 1869)",
+  "display_name": "호박벌",
+  "family_ko": "꿀벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "꿀벌과",
+      "name_latin": "Apidae"
+    },
+    "subfamily": {
+      "name_ko": "꿀벌아과",
+      "name_latin": "Apinae"
+    },
+    "genus": {
+      "name_ko": "뒤영벌속",
+      "name_latin": "Bombus"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 꿀벌과 (Apidae)\n아과 : 꿀벌아과 (Apinae)\n속 : 뒤영벌속 (Bombus)",
+  "basic_information": {
+    "곤충명": "호박벌",
+    "학명": "Bombus (Bombus) ignitus (Smith, 1869)"
+  },
+  "information": {
+    "general_description": "무늬의 변이가 심하여 분류, 동정상의 어려움이 있다.",
+    "adult": null,
+    "adult_male": "몸길이는 20 mm 정도이다. 수컷은 온몸이 선명한 황색 털로 덮여 있고, 얼굴에도 황색의 긴 털이 빽빽히 나 있다.",
+    "adult_female": "몸길이는 암컷은 19~23 mm이고, 일벌은 12~19 mm이다. 암컷은 온몸에 흑색 털이 나 있고, 제3배마디 이하에는 적갈색 털이 나 있다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "주로 산지에 많이 분포한다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[중국] 동북지방\n[러시아] 극동지역",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "무늬의 변이가 심하여 분류, 동정상의 어려움이 있다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "몸길이는 20 mm 정도이다. 수컷은 온몸이 선명한 황색 털로 덮여 있고, 얼굴에도 황색의 긴 털이 빽빽히 나 있다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "몸길이는 암컷은 19~23 mm이고, 일벌은 12~19 mm이다. 암컷은 온몸에 흑색 털이 나 있고, 제3배마디 이하에는 적갈색 털이 나 있다."
+    },
+    {
+      "title": "습성",
+      "text": "주로 산지에 많이 분포한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[중국] 동북지방\n[러시아] 극동지역"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0110-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0110_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0110_2_th.jpg",
+      "alt": "호박벌 1번째 사진 : 호박벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0110_2_th2.jpg",
+      "caption": "호박벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTAG0110-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0110_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0110_1_th.jpg",
+      "alt": "호박벌 2번째 사진 : 호박벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0110_1_th2.jpg",
+      "caption": "호박벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0110-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0302062033",
+      "description": "[UIBE0302062033] 호박벌 2000.04.28 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0302062034",
+      "description": "[UIBE0302062034] 호박벌 1998.09.17 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0302062036",
+      "description": "[UIBE0302062036] 호박벌 1995.08.29 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAG0110-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0110&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:17+00:00",
+    "html_sha256": "b976fd374073aea4083972739ea3b2f712eab2be2870ea84990f5d0b3f61818e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": "ZTAG0024",
+  "name_ko": "사과애꽃벌",
+  "scientific_name": "Andrena (Hoplandrena) nudigastroides Yasumatsu, 1935",
+  "display_name": "사과애꽃벌",
+  "family_ko": "애꽃벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "애꽃벌과",
+      "name_latin": "Andrenidae"
+    },
+    "subfamily": {
+      "name_ko": "애꽃벌아과",
+      "name_latin": "Andreninae"
+    },
+    "genus": {
+      "name_ko": "애꽃벌속",
+      "name_latin": "Andrena"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 애꽃벌과 (Andrenidae)\n아과 : 애꽃벌아과 (Andreninae)\n속 : 애꽃벌속 (Andrena)",
+  "basic_information": {
+    "곤충명": "사과애꽃벌",
+    "학명": "Andrena (Hoplandrena) nudigastroides Yasumatsu, 1935"
+  },
+  "information": {
+    "general_description": "암컷은 12m. 몸은 흑색이고 가슴과 등면에 다소 짧은 황갈색 털이 있다. 머리 방패는 잘 융기 했고 중앙부에 조금 광택이 있고 성긴 점각이있다. 배는 미세구조가 강하고 광택이 없다. 수컷의 더듬이 제3마디는 짧고, 제4마디 이하는 길어져서 앞으로 구부러졌다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷은 12m. 몸은 흑색이고 가슴과 등면에 다소 짧은 황갈색 털이 있다. 머리 방패는 잘 융기 했고 중앙부에 조금 광택이 있고 성긴 점각이있다. 배는 미세구조가 강하고 광택이 없다. 수컷의 더듬이 제3마디는 짧고, 제4마디 이하는 길어져서 앞으로 구부러졌다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0024-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0024_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0024_2_th.jpg",
+      "alt": "사과애꽃벌 1번째 사진 : 사과애꽃벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0024_2_th2.jpg",
+      "caption": "사과애꽃벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTAG0024-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0024_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0024_1_th.jpg",
+      "alt": "사과애꽃벌 2번째 사진 : 사과애꽃벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0024_1_th2.jpg",
+      "caption": "사과애꽃벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0024-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306278003",
+      "description": "[YNUE0306278003] 사과애꽃벌 1978.06.03 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306288003",
+      "description": "[YNUE0306288003] 사과애꽃벌 1997.05.22 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306288006",
+      "description": "[YNUE0306288006] 사과애꽃벌 1997.05.22 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAG0024-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0024&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:20+00:00",
+    "html_sha256": "4c4f0411f058b97553290a8a58d3bbaeb1b8c2a65b59cbfdac2b796061a55231",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

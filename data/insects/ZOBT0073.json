@@ -1,0 +1,107 @@
+{
+  "id": "ZOBT0073",
+  "name_ko": "소요산잎벌레",
+  "scientific_name": "Cryptocephalus (Cryptocephalus) hyacinthinus Suffrian, 1860",
+  "display_name": "소요산잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "통잎벌레아과",
+      "name_latin": "Cryptocephalinae"
+    },
+    "genus": {
+      "name_ko": "통잎벌레속",
+      "name_latin": "Cryptocephalus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 통잎벌레아과 (Cryptocephalinae)\n속 : 통잎벌레속 (Cryptocephalus)",
+  "basic_information": {
+    "곤충명": "소요산잎벌레",
+    "학명": "Cryptocephalus (Cryptocephalus) hyacinthinus Suffrian, 1860"
+  },
+  "information": {
+    "general_description": "몸길이는 3.5~4.5mm, 앞가슴등판에 아주 미세 점각, 옆판은 담색이다. 다리는 적갈색이며 간혹 흑색인 개체도있다. 한국(중부,남부), 일본(혼슈,시코쿠,큐슈,쓰시마)에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 3.5~4.5mm, 앞가슴등판에 아주 미세 점각, 옆판은 담색이다. 다리는 적갈색이며 간혹 흑색인 개체도있다. 한국(중부,남부), 일본(혼슈,시코쿠,큐슈,쓰시마)에 분포되어있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0073-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0073_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0073_1_th.jpg",
+      "alt": "소요산잎벌레 1번째 사진 : 소요산잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0073_1_th2.jpg",
+      "caption": "소요산잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0073-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0306241015",
+      "description": "[FRIE0306241015] 소요산잎벌레 1984.06.27 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0304121026",
+      "description": "[KNAE0304121026] 소요산잎벌레 1991.06.26 / / 국립수목원"
+    },
+    {
+      "id": "FRIE0303311037",
+      "description": "[FRIE0303311037] 소요산잎벌레 1987.06.14 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0073-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0073&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:16+00:00",
+    "html_sha256": "84608236a7c6e2925599df7a2c3b487b3725bfd2d7bfd4366299352ff5cb1ce1",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

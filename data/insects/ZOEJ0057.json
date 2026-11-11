@@ -1,0 +1,110 @@
+{
+  "id": "ZOEJ0057",
+  "name_ko": "하세가와다색우단풍뎅이",
+  "scientific_name": "Sericania yamauchii Sawada, 1938",
+  "display_name": "하세가와다색우단풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "검정풍뎅이아과",
+      "name_latin": "Melolonthinae"
+    },
+    "genus": {
+      "name_ko": "다색우단풍뎅이속",
+      "name_latin": "Sericania"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 검정풍뎅이아과 (Melolonthinae)\n속 : 다색우단풍뎅이속 (Sericania)",
+  "basic_information": {
+    "곤충명": "하세가와다색우단풍뎅이",
+    "학명": "Sericania yamauchii Sawada, 1938"
+  },
+  "information": {
+    "general_description": "만주, 일본에 분포하며, 모이 길고 편평하며, 광택은 없고, 암황갈색인데 황갈색의 앞가슴등판의 양옆에는 1개의 황색 파인 자국이 있다. 전경절 단거는 끝이 바깥쪽으로 굽었고, 뒷다리의 제 1발목마디는 배쪽에 1-2개의 가시털이 나있다. 암컷은 등과 배에 광택이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "만주, 일본에 분포하며, 모이 길고 편평하며, 광택은 없고, 암황갈색인데 황갈색의 앞가슴등판의 양옆에는 1개의 황색 파인 자국이 있다. 전경절 단거는 끝이 바깥쪽으로 굽었고, 뒷다리의 제 1발목마디는 배쪽에 1-2개의 가시털이 나있다. 암컷은 등과 배에 광택이 있다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOEJ0057-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0057_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0057_2_th.jpg",
+      "alt": "하세가와다색우단풍뎅이 1번째 사진 : 하세가와다색우단풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0057_2_th2.jpg",
+      "caption": "하세가와다색우단풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOEJ0057-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0057_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0057_1_th.jpg",
+      "alt": "하세가와다색우단풍뎅이 2번째 사진 : 하세가와다색우단풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0057_1_th2.jpg",
+      "caption": "하세가와다색우단풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOEJ0057-1",
+  "specimen_examples": [
+    {
+      "id": "SSUE0201091046",
+      "description": "[SSUE0201091046] 하세가와다색우단풍뎅이 1981.06.06 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0201091047",
+      "description": "[SSUE0201091047] 하세가와다색우단풍뎅이 1989.05.19 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0201091048",
+      "description": "[SSUE0201091048] 하세가와다색우단풍뎅이 1987.05.10 / / 성신여자대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOEJ0057-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOEJ0057&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:59+00:00",
+    "html_sha256": "358c47e93c3f68586ca453507a128d35baad50eadef8b525bee5d869cb542f7b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

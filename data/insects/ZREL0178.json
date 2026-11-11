@@ -1,0 +1,103 @@
+{
+  "id": "ZREL0178",
+  "name_ko": "줄붉은들명나방",
+  "scientific_name": "Uresiphita prunipennis (Butler, 1879)",
+  "display_name": "줄붉은들명나방",
+  "family_ko": "풀명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "풀명나방과",
+      "name_latin": "Crambidae"
+    },
+    "subfamily": {
+      "name_ko": "들명나방아과",
+      "name_latin": "Pyraustinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Uresiphita"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 풀명나방과 (Crambidae)\n아과 : 들명나방아과 (Pyraustinae)\n속 : (Uresiphita)",
+  "basic_information": {
+    "곤충명": "줄붉은들명나방",
+    "학명": "Uresiphita prunipennis (Butler, 1879)"
+  },
+  "information": {
+    "general_description": "한국 ,일본에 분포하며 앞날개는 홍색이며, 윤곽이 뚜렷하지 않는 갈색의 횡맥 무늬가 있다. 뒷날개는 오렌지색이며, 외곽부는 다소 갈색이 섞여 있다. 뒷면은 담황색이다. 27mm내외.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": "고삼의 잎을 먹는 것으로 알려짐.",
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국 ,일본에 분포하며 앞날개는 홍색이며, 윤곽이 뚜렷하지 않는 갈색의 횡맥 무늬가 있다. 뒷날개는 오렌지색이며, 외곽부는 다소 갈색이 섞여 있다. 뒷면은 담황색이다. 27mm내외."
+    },
+    {
+      "title": "유충",
+      "text": "고삼의 잎을 먹는 것으로 알려짐."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0178-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0178_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0178_1_th.jpg",
+      "alt": "줄붉은들명나방 1번째 사진 : 줄붉은들명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0178_1_th2.jpg",
+      "caption": "줄붉은들명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0178-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0301072045",
+      "description": "[UIBE0301072045] 줄붉은들명나방 1997.07.26 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301072047",
+      "description": "[UIBE0301072047] 줄붉은들명나방 1997.07.26 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301072049",
+      "description": "[UIBE0301072049] 줄붉은들명나방 1997.07.26 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREL0178-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0178&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:15+00:00",
+    "html_sha256": "bd43ef768deef69b6ed5cdae905a7f576adc8df4a64cb95959ede64a743b96ea",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

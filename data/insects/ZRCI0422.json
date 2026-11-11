@@ -1,0 +1,118 @@
+{
+  "id": "ZRCI0422",
+  "name_ko": "뒤끝가지나방",
+  "scientific_name": "Hypomecis lunifera (Butler, 1878)",
+  "display_name": "뒤끝가지나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "가지나방아과",
+      "name_latin": "Ennominae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Hypomecis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 가지나방아과 (Ennominae)\n속 : (Hypomecis)",
+  "basic_information": {
+    "곤충명": "뒤끝가지나방",
+    "학명": "Hypomecis lunifera (Butler, 1878)"
+  },
+  "information": {
+    "general_description": "더듬이는　수컷이　빗살　모양이고，암컷은실　모양임．몸과　날개는 모두　회색인데，회갈색　비늘이　밀포되어　있음．날개의　횡선은　암갈색인데，대부분의　 경우선명한　편이　못됨．내횡선은　크고　물결\n모양으로　굴곡함．외횡선은　톱니　모양이고，제１중맥（M1），제２중맥（M2），제３중맥(M3)상에서　가장　많이　튀어나옴．이선의　바깥쪽은　갈색을　띰．외횡선과　중횡선은　후연에서　접근하든가　결합하여　큰　흑색　반문을　형성하는　일은　없음．",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은　７～８월에　출현함． 유충은　밤나무　등의　잎을　먹음．",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는　수컷이　빗살　모양이고，암컷은실　모양임．몸과　날개는 모두　회색인데，회갈색　비늘이　밀포되어　있음．날개의　횡선은　암갈색인데，대부분의　 경우선명한　편이　못됨．내횡선은　크고　물결\n모양으로　굴곡함．외횡선은　톱니　모양이고，제１중맥（M1），제２중맥（M2），제３중맥(M3)상에서　가장　많이　튀어나옴．이선의　바깥쪽은　갈색을　띰．외횡선과　중횡선은　후연에서　접근하든가　결합하여　큰　흑색　반문을　형성하는　일은　없음．"
+    },
+    {
+      "title": "생태",
+      "text": "성충은　７～８월에　출현함． 유충은　밤나무　등의　잎을　먹음．"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0422-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0422_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0422_2_th.jpg",
+      "alt": "뒤끝가지나방 1번째 사진 : 뒤끝가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0422_2_th2.jpg",
+      "caption": "뒤끝가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0422-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0422_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0422_1_th.jpg",
+      "alt": "뒤끝가지나방 2번째 사진 : 뒤끝가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0422_1_th2.jpg",
+      "caption": "뒤끝가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0422-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0203162053",
+      "description": "[SNUE0203162053] 뒤끝가지나방 1997.07.29 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0203162052",
+      "description": "[SNUE0203162052] 뒤끝가지나방 1997.07.31 / / 서울대학교"
+    },
+    {
+      "id": "UIBE0202082056",
+      "description": "[UIBE0202082056] 뒤끝가지나방 1997.08.28 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCI0422-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0422&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:57+00:00",
+    "html_sha256": "f0da58adcaa7c6ad860007643f073f479f57b063ed87ad63c5cd8583ada9e1f4",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

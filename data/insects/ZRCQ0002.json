@@ -1,0 +1,144 @@
+{
+  "id": "ZRCQ0002",
+  "name_ko": "독수리팔랑나비",
+  "scientific_name": "Bibasis aquilina (Speyer, 1879)",
+  "display_name": "독수리팔랑나비",
+  "family_ko": "팔랑나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "팔랑나비과",
+      "name_latin": "Hesperiidae"
+    },
+    "subfamily": {
+      "name_ko": "수리팔랑나비아과",
+      "name_latin": "Coeliadinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Bibasis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 팔랑나비과 (Hesperiidae)\n아과 : 수리팔랑나비아과 (Coeliadinae)\n속 : (Bibasis)",
+  "basic_information": {
+    "곤충명": "독수리팔랑나비",
+    "학명": "Bibasis aquilina (Speyer, 1879)"
+  },
+  "information": {
+    "general_description": "수컷은 날개에 무늬가 없으나 암컷은 앞날개에 노랑색 무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "산지성의 나비로 강원특별자치도 산지에 집중하여 분포하며, 계곡 주변이나 드물게 산정에 서식한다. 주로 낮 동안에는 잘 활동하지 않으나 오후 늦게 활발하게 날아 다니는 습성이 있다. 피나무, 개망초 등의 꽃에서 흡밀한다. 물가에서 흡수하는 경우가 많은데 이 때 끝에서 나오는 액체를 함께 먹는 습성이 있다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]\n[미얀마]",
+    "notes": "[국지적분포종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "수컷은 날개에 무늬가 없으나 암컷은 앞날개에 노랑색 무늬가 있다."
+    },
+    {
+      "title": "습성",
+      "text": "산지성의 나비로 강원특별자치도 산지에 집중하여 분포하며, 계곡 주변이나 드물게 산정에 서식한다. 주로 낮 동안에는 잘 활동하지 않으나 오후 늦게 활발하게 날아 다니는 습성이 있다. 피나무, 개망초 등의 꽃에서 흡밀한다. 물가에서 흡수하는 경우가 많은데 이 때 끝에서 나오는 액체를 함께 먹는 습성이 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]\n[미얀마]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[국지적분포종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCQ0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRCQ0002_4.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRCQ0002_4.jpg",
+      "alt": "독수리팔랑나비 1번째 사진 : 독수리팔랑나비 수컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRCQ0002_4_th2.jpg",
+      "caption": "독수리팔랑나비 수컷 이미지",
+      "photographed_at": "20100712",
+      "location": "경기도 포천시 소흘읍 광릉숲",
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRCQ0002-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRCQ0002_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRCQ0002_3.jpg",
+      "alt": "독수리팔랑나비 2번째 사진 : 독수리팔랑나비 수컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRCQ0002_3_th2.jpg",
+      "caption": "독수리팔랑나비 수컷 이미지",
+      "photographed_at": "20110620",
+      "location": "경기도 포천시 소흘읍 광릉숲",
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRCQ0002-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0002_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0002_2_th.jpg",
+      "alt": "독수리팔랑나비 3번째 사진 : 독수리팔랑나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0002_2_th2.jpg",
+      "caption": "독수리팔랑나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCQ0002-4",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0002_1_th.jpg",
+      "alt": "독수리팔랑나비 4번째 사진 : 독수리팔랑나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0002_1_th2.jpg",
+      "caption": "독수리팔랑나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCQ0002-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0304212077",
+      "description": "[SNUE0304212077] 독수리팔랑나비 1992.07.14 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0304212078",
+      "description": "[SNUE0304212078] 독수리팔랑나비 1992.07.14 / / 서울대학교"
+    },
+    {
+      "id": "SJNE0203251033",
+      "description": "[SJNE0203251033] 독수리팔랑나비 2001.07.18 / / 상주대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCQ0002-3"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCQ0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:26+00:00",
+    "html_sha256": "6c59b869294d77c6200d642e253f0b87f1c4c4085c5b6070dd724eae7ee97b8c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

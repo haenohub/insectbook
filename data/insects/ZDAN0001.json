@@ -1,0 +1,103 @@
+{
+  "id": "ZDAN0001",
+  "name_ko": "좀청실잠자리",
+  "scientific_name": "Lestes japonicus Selys, 1883",
+  "display_name": "좀청실잠자리",
+  "family_ko": "청실잠자리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "잠자리목",
+      "name_latin": "Odonata"
+    },
+    "family": {
+      "name_ko": "청실잠자리과",
+      "name_latin": "Lestidae"
+    },
+    "subfamily": {
+      "name_ko": "청실잠자리아과",
+      "name_latin": "Lestinae"
+    },
+    "genus": {
+      "name_ko": "청실잠자리속",
+      "name_latin": "Lestes"
+    }
+  },
+  "taxonomy_text": "목 : 잠자리목 (Odonata)\n과 : 청실잠자리과 (Lestidae)\n아과 : 청실잠자리아과 (Lestinae)\n속 : 청실잠자리속 (Lestes)",
+  "basic_information": {
+    "곤충명": "좀청실잠자리",
+    "학명": "Lestes japonicus Selys, 1883"
+  },
+  "information": {
+    "general_description": "배길이 28mm, 뒷날개길이 20mm. 머리뒷쪽은 황백색이고 가슴옆면은 오황백색임. 가슴의 금록색은 뒷가슴 앞옆조각에 달하지 못함. 날개맥은 폭이 넓고 가두리무늬는 작으며 수컷 미부 상부기는 윗끝만 흑색이고 하부기는 좌우로 벌려졌고 윗끝은 뭉툭하고 길고 부드러운 털이 밀생함.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "국외로 반출이 금지된 종이다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[반출금지종] 환경부고시제2001-210호",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "배길이 28mm, 뒷날개길이 20mm. 머리뒷쪽은 황백색이고 가슴옆면은 오황백색임. 가슴의 금록색은 뒷가슴 앞옆조각에 달하지 못함. 날개맥은 폭이 넓고 가두리무늬는 작으며 수컷 미부 상부기는 윗끝만 흑색이고 하부기는 좌우로 벌려졌고 윗끝은 뭉툭하고 길고 부드러운 털이 밀생함."
+    },
+    {
+      "title": "생태",
+      "text": "국외로 반출이 금지된 종이다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[반출금지종] 환경부고시제2001-210호"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZDAN0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAN0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAN0001_1_th.jpg",
+      "alt": "좀청실잠자리 1번째 사진 : 좀청실잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAN0001_1_th2.jpg",
+      "caption": "좀청실잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZDAN0001-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0201043044",
+      "description": "[YNUE0201043044] 좀청실잠자리 1990.10.23 / / 영남대학교"
+    },
+    {
+      "id": "KNAE0607192010",
+      "description": "[KNAE0607192010] 좀청실잠자리 2003.10.15 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0607192011",
+      "description": "[KNAE0607192011] 좀청실잠자리 2003.10.08 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZDAN0001-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZDAN0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:50+00:00",
+    "html_sha256": "1b6aa875a729b87d931cc115af37497eade89228dc115ed9c2a16cd35809447e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

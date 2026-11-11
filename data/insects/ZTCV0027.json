@@ -1,0 +1,103 @@
+{
+  "id": "ZTCV0027",
+  "name_ko": "먹띠대모벌",
+  "scientific_name": "Priocnemis (Umbripennis) irritabilis Smith, 1873",
+  "display_name": "먹띠대모벌",
+  "family_ko": "대모벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "말벌상과",
+      "name_latin": "Vespoidea"
+    },
+    "family": {
+      "name_ko": "대모벌과",
+      "name_latin": "Pompilidae"
+    },
+    "subfamily": {
+      "name_ko": "배고랑대모벌아과",
+      "name_latin": "Pepsinae"
+    },
+    "genus": {
+      "name_ko": "두줄대모벌속",
+      "name_latin": "Priocnemis"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 말벌상과 (Vespoidea)\n과 : 대모벌과 (Pompilidae)\n아과 : 배고랑대모벌아과 (Pepsinae)\n속 : 두줄대모벌속 (Priocnemis)",
+  "basic_information": {
+    "곤충명": "먹띠대모벌",
+    "학명": "Priocnemis (Umbripennis) irritabilis Smith, 1873"
+  },
+  "information": {
+    "general_description": "암컷은 머리방패의 앞슭은 폭이 넓고 직선을 이루고 머리를 앞에서 보면 겹눈의 폭은 얼굴 폭의 1/2 이고, 좌우 겹눈의 안슭 선은 정수리로 향하여 꽤 모여들었다. 더듬이 제 3마디는 자루마디와 곧은 마디의 합친 것보다 길고 제 마디보다도 길다. 전신복절은 비교적 길고 기부만 정중선이 오므라 들었고 전면은 극히 미세한 주름이 있다. 뒷다리의 종아리마디 겉면에는 비교적 큰 혀 모양의 돌기 1줄과 작은 삼각형의 돌기 1줄이 있고, 각 돌기의 기부로부터 짧은 가시가 났다. 배 끝 등판에는 흑갈색 털이 밀생했다. 몸은 흑색이고 배는 특히 광택이 강하고 회백색 털이 났다. 날개는 투명하고 약간 흐리며 끝에 가까운 앞쪽에 무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷은 머리방패의 앞슭은 폭이 넓고 직선을 이루고 머리를 앞에서 보면 겹눈의 폭은 얼굴 폭의 1/2 이고, 좌우 겹눈의 안슭 선은 정수리로 향하여 꽤 모여들었다. 더듬이 제 3마디는 자루마디와 곧은 마디의 합친 것보다 길고 제 마디보다도 길다. 전신복절은 비교적 길고 기부만 정중선이 오므라 들었고 전면은 극히 미세한 주름이 있다. 뒷다리의 종아리마디 겉면에는 비교적 큰 혀 모양의 돌기 1줄과 작은 삼각형의 돌기 1줄이 있고, 각 돌기의 기부로부터 짧은 가시가 났다. 배 끝 등판에는 흑갈색 털이 밀생했다. 몸은 흑색이고 배는 특히 광택이 강하고 회백색 털이 났다. 날개는 투명하고 약간 흐리며 끝에 가까운 앞쪽에 무늬가 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTCV0027-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTCV0027_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTCV0027_1_th.jpg",
+      "alt": "먹띠대모벌 1번째 사진 : 먹띠대모벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTCV0027_1_th2.jpg",
+      "caption": "먹띠대모벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTCV0027-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306261052",
+      "description": "[YNUE0306261052] 먹띠대모벌 1971.06.06 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0111221005",
+      "description": "[YNUE0111221005] 먹띠대모벌 1994.06.21 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0111221007",
+      "description": "[YNUE0111221007] 먹띠대모벌 1987.07.03 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTCV0027-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTCV0027&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:01+00:00",
+    "html_sha256": "9661910c1c064d728f59c6addf5a99f4e81901fc41df46a23584a19e94259b26",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

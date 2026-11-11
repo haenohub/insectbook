@@ -1,0 +1,138 @@
+{
+  "id": "ZOBL0010",
+  "name_ko": "작은넓적하늘소",
+  "scientific_name": "Asemum striatum (Linnaeus, 1758)",
+  "display_name": "작은넓적하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "검정하늘소아과",
+      "name_latin": "Spondylidinae"
+    },
+    "genus": {
+      "name_ko": "작은넓적하늘소속",
+      "name_latin": "Asemum"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 검정하늘소아과 (Spondylidinae)\n속 : 작은넓적하늘소속 (Asemum)",
+  "basic_information": {
+    "곤충명": "작은넓적하늘소",
+    "학명": "Asemum striatum (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "몸길이는 9~22mm이며, 몸빛깔은 검은색 또는 흑갈색이다. 더듬이는 대체적으로 작다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "6~8월에 많이 분포한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[몽골]\n[일본]\n[중국]\n[러시아]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 9~22mm이며, 몸빛깔은 검은색 또는 흑갈색이다. 더듬이는 대체적으로 작다."
+    },
+    {
+      "title": "생태",
+      "text": "6~8월에 많이 분포한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[몽골]\n[일본]\n[중국]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0010-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0010_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0010_2_th.jpg",
+      "alt": "작은넓적하늘소 1번째 사진 : 작은넓적하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0010_2_th2.jpg",
+      "caption": "작은넓적하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBL0010-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0010_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0010_1_th.jpg",
+      "alt": "작은넓적하늘소 2번째 사진 : 작은넓적하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0010_1_th2.jpg",
+      "caption": "작은넓적하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0010-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0408101019",
+      "description": "[UIBE0408101019] 작은넓적하늘소 1995.07.16 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0408101020",
+      "description": "[UIBE0408101020] 작은넓적하늘소 1999.08.14 / / 인천대학교"
+    },
+    {
+      "id": "KNAE0302112041",
+      "description": "[KNAE0302112041] 작은넓적하늘소 1966.05.01 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "소나무",
+      "scientific_name": "Pinus densiflora Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "잣나무",
+      "scientific_name": "Pinus koraiensis Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "종비나무",
+      "scientific_name": "Picea koraiensis Nakai"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0010-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0010&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:49+00:00",
+    "html_sha256": "2d31de080fb7a4e33a2853a99a9f4b1782d1907f5ef4f7545cb6b66577ef11d8",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

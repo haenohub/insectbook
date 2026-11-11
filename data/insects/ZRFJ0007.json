@@ -1,0 +1,99 @@
+{
+  "id": "ZRFJ0007",
+  "name_ko": "작은갈고리좀나방",
+  "scientific_name": "Ypsolopha yasudai Moriuti, 1964",
+  "display_name": "작은갈고리좀나방",
+  "family_ko": "갈고리좀나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "집나방상과",
+      "name_latin": "Yponomeutoidea"
+    },
+    "family": {
+      "name_ko": "갈고리좀나방과",
+      "name_latin": "Ypsolophidae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Ypsolopha"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 집나방상과 (Yponomeutoidea)\n과 : 갈고리좀나방과 (Ypsolophidae)\n속 : (Ypsolopha)",
+  "basic_information": {
+    "곤충명": "작은갈고리좀나방",
+    "학명": "Ypsolopha yasudai Moriuti, 1964"
+  },
+  "information": {
+    "general_description": "머리는 백색이고, 정수리 부근에는 황백색 털이 덮여 있음. 앞의 종인 갈고리좀나방과 비슷하나 크기가 작고, 앞날개의 후연을 따라 다소 황백색을 띰.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "머리는 백색이고, 정수리 부근에는 황백색 털이 덮여 있음. 앞의 종인 갈고리좀나방과 비슷하나 크기가 작고, 앞날개의 후연을 따라 다소 황백색을 띰."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRFJ0007-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFJ0007_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFJ0007_1_th.jpg",
+      "alt": "작은갈고리좀나방 1번째 사진 : 작은갈고리좀나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFJ0007_1_th2.jpg",
+      "caption": "작은갈고리좀나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRFJ0007-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0407071035",
+      "description": "[UIBE0407071035] 작은갈고리좀나방 1998.07.17 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0407071036",
+      "description": "[UIBE0407071036] 작은갈고리좀나방 1998.07.07 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0407071037",
+      "description": "[UIBE0407071037] 작은갈고리좀나방 1998.07.17 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRFJ0007-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRFJ0007&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:47+00:00",
+    "html_sha256": "1b9419d2565551c7b166c2c02ddbcc00130e7b7fa5fe9891088c9f2ba316268c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

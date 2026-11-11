@@ -1,0 +1,103 @@
+{
+  "id": "ZMAR0163",
+  "name_ko": "일자무늬넓적매미충",
+  "scientific_name": "Limotettix (Limotettix) striola (Fallén, 1806)",
+  "display_name": "일자무늬넓적매미충",
+  "family_ko": "매미충과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "뿔매미상과",
+      "name_latin": "Membracoidea"
+    },
+    "family": {
+      "name_ko": "매미충과",
+      "name_latin": "Cicadellidae"
+    },
+    "subfamily": {
+      "name_ko": "매미충아과",
+      "name_latin": "Deltocephalinae"
+    },
+    "genus": {
+      "name_ko": "일자무늬넓적매미충속",
+      "name_latin": "Limotettix"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 뿔매미상과 (Membracoidea)\n과 : 매미충과 (Cicadellidae)\n아과 : 매미충아과 (Deltocephalinae)\n속 : 일자무늬넓적매미충속 (Limotettix)",
+  "basic_information": {
+    "곤충명": "일자무늬넓적매미충",
+    "학명": "Limotettix (Limotettix) striola (Fallén, 1806)"
+  },
+  "information": {
+    "general_description": "몸길이:수컷 약 4.2mm, 암컷 약 4.8mm.\n몸의 등면은 담황록색 내지 황록색이고 머리는 짧다. 머리의 앞가장자리는 돌출되어 곡선을 형성하고 수컷이 암컷보다 더 돌출되었다. 정수리는 황록색 내지 황색이고 그 앞에 굵은 흑색 띠무늬가 양 겹눈 사이를 가로 지르고 양쪽 옆에 등색의 홑눈이 위치하며, 앞가장자리 부분은 얼굴의 무늬가 연장되어서 수컷의 경우 중앙의 흑색 2점과 비스듬히 굽은 흑색 가로줄 무늬가 보이고, 암컷의 경우 중앙의 흑새 점 무늬는 보이지 않는다. 겹눈은 크고 황색을 띤 흑색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]\n[유럽]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이:수컷 약 4.2mm, 암컷 약 4.8mm.\n몸의 등면은 담황록색 내지 황록색이고 머리는 짧다. 머리의 앞가장자리는 돌출되어 곡선을 형성하고 수컷이 암컷보다 더 돌출되었다. 정수리는 황록색 내지 황색이고 그 앞에 굵은 흑색 띠무늬가 양 겹눈 사이를 가로 지르고 양쪽 옆에 등색의 홑눈이 위치하며, 앞가장자리 부분은 얼굴의 무늬가 연장되어서 수컷의 경우 중앙의 흑색 2점과 비스듬히 굽은 흑색 가로줄 무늬가 보이고, 암컷의 경우 중앙의 흑새 점 무늬는 보이지 않는다. 겹눈은 크고 황색을 띤 흑색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]\n[유럽]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMAR0163-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0163_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0163_1_th.jpg",
+      "alt": "일자무늬넓적매미충 1번째 사진 : 일자무늬넓적매미충전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0163_1_th2.jpg",
+      "caption": "일자무늬넓적매미충전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMAR0163-1",
+  "specimen_examples": [
+    {
+      "id": "HNUE0408134032",
+      "description": "[HNUE0408134032] 일자무늬넓적매미충 1997.08.30 / / 한남대학교 자연사박물관"
+    },
+    {
+      "id": "HNUE0408134034",
+      "description": "[HNUE0408134034] 일자무늬넓적매미충 1997.08.30 / / 한남대학교 자연사박물관"
+    },
+    {
+      "id": "HNUE0408134035",
+      "description": "[HNUE0408134035] 일자무늬넓적매미충 1997.08.30 / / 한남대학교 자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZMAR0163-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMAR0163&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:42+00:00",
+    "html_sha256": "60618d0c015036b68ac84497955a66c52f2392404b93840780b7529def69e25d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

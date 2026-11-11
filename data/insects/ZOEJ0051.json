@@ -1,0 +1,110 @@
+{
+  "id": "ZOEJ0051",
+  "name_ko": "딱부리우단풍뎅이",
+  "scientific_name": "Serica polita (Gebler, 1832)",
+  "display_name": "딱부리우단풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "검정풍뎅이아과",
+      "name_latin": "Melolonthinae"
+    },
+    "genus": {
+      "name_ko": "우단풍뎅이속",
+      "name_latin": "Serica"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 검정풍뎅이아과 (Melolonthinae)\n속 : 우단풍뎅이속 (Serica)",
+  "basic_information": {
+    "곤충명": "딱부리우단풍뎅이",
+    "학명": "Serica polita (Gebler, 1832)"
+  },
+  "information": {
+    "general_description": "만주, 시벨리아, 일본, 중부 유럽에 분포하며, 머리방패, 촉각, 다리를 제외하고는 광택이 없으나 드물게 등쪽 전체가 강한 광택을 가진 개체도 있다. 등쪽은 암갈색 내지 흑색의 작은 무늬가 퍼져있고, 짧은 비늘털이 흩어져 있는데 때로는 가는 털이 조밀하게 덮이거나 전혀 없기도 한다. 촉각은 9마디이며, 곤봉부는 3마디인데 수컷은 자루길이의 2-3배 길이이다. 뒷다리의 퇴절은 광택이 강하고, 뒷가장자리의 앞쪽 근처는 약간 톱날모양이다. 복부복판은 진주빛 광택이 있으며, 불규칙한 가시털이 나있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "만주, 시벨리아, 일본, 중부 유럽에 분포하며, 머리방패, 촉각, 다리를 제외하고는 광택이 없으나 드물게 등쪽 전체가 강한 광택을 가진 개체도 있다. 등쪽은 암갈색 내지 흑색의 작은 무늬가 퍼져있고, 짧은 비늘털이 흩어져 있는데 때로는 가는 털이 조밀하게 덮이거나 전혀 없기도 한다. 촉각은 9마디이며, 곤봉부는 3마디인데 수컷은 자루길이의 2-3배 길이이다. 뒷다리의 퇴절은 광택이 강하고, 뒷가장자리의 앞쪽 근처는 약간 톱날모양이다. 복부복판은 진주빛 광택이 있으며, 불규칙한 가시털이 나있다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOEJ0051-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0051_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0051_2_th.jpg",
+      "alt": "딱부리우단풍뎅이 1번째 사진 : 딱부리우단풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0051_2_th2.jpg",
+      "caption": "딱부리우단풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOEJ0051-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0051_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0051_1_th.jpg",
+      "alt": "딱부리우단풍뎅이 2번째 사진 : 딱부리우단풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0051_1_th2.jpg",
+      "caption": "딱부리우단풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOEJ0051-1",
+  "specimen_examples": [
+    {
+      "id": "SSUE0201111026",
+      "description": "[SSUE0201111026] 딱부리우단풍뎅이 1974.06.07 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0201111027",
+      "description": "[SSUE0201111027] 딱부리우단풍뎅이 1984.05.07 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0201111028",
+      "description": "[SSUE0201111028] 딱부리우단풍뎅이 1981.05.30 / / 성신여자대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOEJ0051-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOEJ0051&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:22+00:00",
+    "html_sha256": "1ccd6e6782e950b0f25699ec8aa11108798df364c8a5f8442566ceb27295d508",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

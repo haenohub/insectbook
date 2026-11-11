@@ -1,0 +1,95 @@
+{
+  "id": "ZEBA0017",
+  "name_ko": "어리쌕쌔기",
+  "scientific_name": "Kuzicus (Kuzicus) suzukii (Matsumura & Shiraki, 1908)",
+  "display_name": "어리쌕쌔기",
+  "family_ko": "여치과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "메뚜기목",
+      "name_latin": "Orthoptera"
+    },
+    "family": {
+      "name_ko": "여치과",
+      "name_latin": "Tettigoniidae"
+    },
+    "subfamily": {
+      "name_ko": "어리쌕쌔기아과",
+      "name_latin": "Meconematinae"
+    },
+    "genus": {
+      "name_ko": "어리쌕쌕기속",
+      "name_latin": "Kuzicus"
+    }
+  },
+  "taxonomy_text": "목 : 메뚜기목 (Orthoptera)\n과 : 여치과 (Tettigoniidae)\n아과 : 어리쌕쌔기아과 (Meconematinae)\n속 : 어리쌕쌕기속 (Kuzicus)",
+  "basic_information": {
+    "곤충명": "어리쌕쌔기",
+    "학명": "Kuzicus (Kuzicus) suzukii (Matsumura & Shiraki, 1908)"
+  },
+  "information": {
+    "general_description": "체장: 11-15mm. 머리-날개끝 22-25mm. 앞가슴등판 3.3-4.0mm. 두텁날개 14.8-16.5mm. 후퇴절 10.5-11.5mm. 산란관 8.6-10.3mm. 기본색은 청녹색. 겹눈은 홍색. 앞가슴등 정중부에 좁은 황백색 세로줄무늬가 있으며 측면으로 좁고 어두운 띠와 옅은 갈색의 V자 무늬가 가운데 어울림. 산란관 녹색.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체장: 11-15mm. 머리-날개끝 22-25mm. 앞가슴등판 3.3-4.0mm. 두텁날개 14.8-16.5mm. 후퇴절 10.5-11.5mm. 산란관 8.6-10.3mm. 기본색은 청녹색. 겹눈은 홍색. 앞가슴등 정중부에 좁은 황백색 세로줄무늬가 있으며 측면으로 좁고 어두운 띠와 옅은 갈색의 V자 무늬가 가운데 어울림. 산란관 녹색."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZEBA0017-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0017_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0017_1_th.jpg",
+      "alt": "어리쌕쌔기 1번째 사진 : 어리쌕쌔기전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0017_1_th2.jpg",
+      "caption": "어리쌕쌔기전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZEBA0017-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0301272037",
+      "description": "[UIBE0301272037] 어리쌕쌔기 2000.10.03 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301272038",
+      "description": "[UIBE0301272038] 어리쌕쌔기 2000.10.03 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301272039",
+      "description": "[UIBE0301272039] 어리쌕쌔기 1996.10.01 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZEBA0017-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZEBA0017&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:41+00:00",
+    "html_sha256": "e958c0d75119e7195415b2cc1e6b447e6f9c5dba70c991ae1975223fce5a560b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

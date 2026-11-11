@@ -1,0 +1,107 @@
+{
+  "id": "ZOAN0041",
+  "name_ko": "알락똥풍뎅이",
+  "scientific_name": "Aphodius (Chilothorax) nigrotessellatus (Motschulsky, 1866)",
+  "display_name": "알락똥풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "똥풍뎅이아과",
+      "name_latin": "Aphodiinae"
+    },
+    "genus": {
+      "name_ko": "똥풍뎅이속",
+      "name_latin": "Aphodius"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 똥풍뎅이아과 (Aphodiinae)\n속 : 똥풍뎅이속 (Aphodius)",
+  "basic_information": {
+    "곤충명": "알락똥풍뎅이",
+    "학명": "Aphodius (Chilothorax) nigrotessellatus (Motschulsky, 1866)"
+  },
+  "information": {
+    "general_description": "중국, 일본에 분포하며 몸이 납작하며 딱지날개 뒤쪽에 미세한 강모가 있다. 두흉부는 흑색이나 둘레는 붉은빛, 복면은 대부분 적갈색이며, 날개는 황갈색인데 흑색 점무늬가 퍼져있다. 머리는 앞쪽 점각이 주름상이며, 수컷은 3개의 낮은 이마융기가 있다. 전흉배판과 소순판 점각은 강하다. 중,후경절단극모열의 길이는 서로 다르며, 제1후부절은 다음 2마디의 합보다 길다. BL:4~6mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중국, 일본에 분포하며 몸이 납작하며 딱지날개 뒤쪽에 미세한 강모가 있다. 두흉부는 흑색이나 둘레는 붉은빛, 복면은 대부분 적갈색이며, 날개는 황갈색인데 흑색 점무늬가 퍼져있다. 머리는 앞쪽 점각이 주름상이며, 수컷은 3개의 낮은 이마융기가 있다. 전흉배판과 소순판 점각은 강하다. 중,후경절단극모열의 길이는 서로 다르며, 제1후부절은 다음 2마디의 합보다 길다. BL:4~6mm."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAN0041-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAN0041_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAN0041_1_th.jpg",
+      "alt": "알락똥풍뎅이 1번째 사진 : 알락똥풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAN0041_1_th2.jpg",
+      "caption": "알락똥풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAN0041-1",
+  "specimen_examples": [
+    {
+      "id": "SSUE0302281007",
+      "description": "[SSUE0302281007] 알락똥풍뎅이 1983.11.28 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0302281008",
+      "description": "[SSUE0302281008] 알락똥풍뎅이 1985.03.24 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0302281009",
+      "description": "[SSUE0302281009] 알락똥풍뎅이 1983.11.28 / / 성신여자대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAN0041-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAN0041&tabId=tab1",
+    "collected_at": "2026-11-04T14:14:28+00:00",
+    "html_sha256": "81190ddfaaf5987de915e77c09ac24cadfffd0f6262d59ff5abe904392a86f92",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "ZLBN0010",
+  "name_ko": "밀감무늬검정장님노린재",
+  "scientific_name": "Deraeocoris (Deraeocoris) ater (Jakovlev, 1889)",
+  "display_name": "밀감무늬검정장님노린재",
+  "family_ko": "장님노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "장님노린재상과",
+      "name_latin": "Miroidea"
+    },
+    "family": {
+      "name_ko": "장님노린재과",
+      "name_latin": "Miridae"
+    },
+    "subfamily": {
+      "name_ko": "무늬장님노린재아과",
+      "name_latin": "Deraeocorinae"
+    },
+    "genus": {
+      "name_ko": "무늬장님노린재속",
+      "name_latin": "Deraeocoris"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 장님노린재상과 (Miroidea)\n과 : 장님노린재과 (Miridae)\n아과 : 무늬장님노린재아과 (Deraeocorinae)\n속 : 무늬장님노린재속 (Deraeocoris)",
+  "basic_information": {
+    "곤충명": "밀감무늬검정장님노린재",
+    "학명": "Deraeocoris (Deraeocoris) ater (Jakovlev, 1889)"
+  },
+  "information": {
+    "general_description": "몸길이 : 8-9mm\n몸은 광택이 있는 흑색이다. 머리는 흑색이고 앞쪽으로 돌출되었으며, 겹눈의 안쪽과 정수리의 뒷부분에는 황갈색의 무늬가 있고, 겹눈은 흑갈색이며 크다. 더듬이는 4마디, 흑갈색이다. 앞가슴등은 흑색이고, 광택이 강하며, 그 앞가장자리 부분은 깃모양이다. 작은방패판은 정삼각형이고 흑색이다. 막질부는 갈색, 반투명하고, 기부는 암색이다. 몸의 아랫면은 균일하게 흑색이며 광택이 아주 강하다. 뒷가슴샘의 개구는 갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 8-9mm\n몸은 광택이 있는 흑색이다. 머리는 흑색이고 앞쪽으로 돌출되었으며, 겹눈의 안쪽과 정수리의 뒷부분에는 황갈색의 무늬가 있고, 겹눈은 흑갈색이며 크다. 더듬이는 4마디, 흑갈색이다. 앞가슴등은 흑색이고, 광택이 강하며, 그 앞가장자리 부분은 깃모양이다. 작은방패판은 정삼각형이고 흑색이다. 막질부는 갈색, 반투명하고, 기부는 암색이다. 몸의 아랫면은 균일하게 흑색이며 광택이 아주 강하다. 뒷가슴샘의 개구는 갈색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLBN0010-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBN0010_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBN0010_1_th.jpg",
+      "alt": "밀감무늬검정장님노린재 1번째 사진 : 밀감무늬검정장님노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBN0010_1_th2.jpg",
+      "caption": "밀감무늬검정장님노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLBN0010-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0212236086",
+      "description": "[YNUE0212236086] 밀감무늬검정장님노린재 1992.06.12 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0212236087",
+      "description": "[YNUE0212236087] 밀감무늬검정장님노린재 1986.06.27 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0212236088",
+      "description": "[YNUE0212236088] 밀감무늬검정장님노린재 1986.06.11 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLBN0010-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLBN0010&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:54+00:00",
+    "html_sha256": "613456baf31b7c9c0d8862b66d323d3452c69af00c9da947c9ff0c6d4e3084ad",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

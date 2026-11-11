@@ -1,0 +1,107 @@
+{
+  "id": "ZODK0040",
+  "name_ko": "긴풍뎅이붙이",
+  "scientific_name": "Platysoma (Cylister) lineicolle Marseul, 1873",
+  "display_name": "긴풍뎅이붙이",
+  "family_ko": "풍뎅이붙이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "물땡땡이상과",
+      "name_latin": "Hydrophiloidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이붙이과",
+      "name_latin": "Histeridae"
+    },
+    "subfamily": {
+      "name_ko": "풍뎅이붙이아과",
+      "name_latin": "Histerinae"
+    },
+    "genus": {
+      "name_ko": "긴풍뎅이붙이속",
+      "name_latin": "Platysoma"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 물땡땡이상과 (Hydrophiloidea)\n과 : 풍뎅이붙이과 (Histeridae)\n아과 : 풍뎅이붙이아과 (Histerinae)\n속 : 긴풍뎅이붙이속 (Platysoma)",
+  "basic_information": {
+    "곤충명": "긴풍뎅이붙이",
+    "학명": "Platysoma (Cylister) lineicolle Marseul, 1873"
+  },
+  "information": {
+    "general_description": "몸길이는 3.4~4.5mm 몸은 직사각형의 몸통이며 검은색의 광택이있으며 촉각과 다리는 진한갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 3.4~4.5mm 몸은 직사각형의 몸통이며 검은색의 광택이있으며 촉각과 다리는 진한갈색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZODK0040-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODK0040_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODK0040_1_th.jpg",
+      "alt": "긴풍뎅이붙이 1번째 사진 : 긴풍뎅이붙이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODK0040_1_th2.jpg",
+      "caption": "긴풍뎅이붙이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZODK0040-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304102046",
+      "description": "[KNAE0304102046] 긴풍뎅이붙이 1995.06.24 / / 국립수목원"
+    },
+    {
+      "id": "RIFI1207182005",
+      "description": "[RIFI1207182005] 긴풍뎅이붙이 2008.06.22 / / 산림곤충다양성연구소"
+    },
+    {
+      "id": "RIFI1207182006",
+      "description": "[RIFI1207182006] 긴풍뎅이붙이 2011.05.18 / / 산림곤충다양성연구소"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZODK0040.png",
+    "reference_image_id": "ZODK0040-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T09:26:25.224745+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "b2103b7af2f4283941481f1643c36042156519ad9a3f988fc728bf32e7abec24"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZODK0040&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:10+00:00",
+    "html_sha256": "232fedcde666bf326f9389634dc4e1f97e37bf8dd7982a5a6b2794714e9d1f87",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

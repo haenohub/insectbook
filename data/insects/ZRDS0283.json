@@ -1,0 +1,122 @@
+{
+  "id": "ZRDS0283",
+  "name_ko": "흰줄어린밤나방",
+  "scientific_name": "Callopistria albolineola (Graeser, [1889])",
+  "display_name": "흰줄어린밤나방",
+  "family_ko": "밤나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "밤나방과",
+      "name_latin": "Noctuidae"
+    },
+    "subfamily": {
+      "name_ko": "어린밤나방아과",
+      "name_latin": "Eriopinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Callopistria"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 밤나방과 (Noctuidae)\n아과 : 어린밤나방아과 (Eriopinae)\n속 : (Callopistria)",
+  "basic_information": {
+    "곤충명": "흰줄어린밤나방",
+    "학명": "Callopistria albolineola (Graeser, [1889])"
+  },
+  "information": {
+    "general_description": "날개편 길이 12~14mm. 앞날개는 회흑색 바탕인데 약간의 붉은색 기운이 돌며 각 횡선은 가늘게 백색을 띤다. 뒷날개는 암회갈색을 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 7~8월경에 출현된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]\n[인도]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 12~14mm. 앞날개는 회흑색 바탕인데 약간의 붉은색 기운이 돌며 각 횡선은 가늘게 백색을 띤다. 뒷날개는 암회갈색을 띤다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 7~8월경에 출현된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]\n[인도]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0283-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0283_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0283_2_th.jpg",
+      "alt": "흰줄어린밤나방 1번째 사진 : 흰줄어린밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0283_2_th2.jpg",
+      "caption": "흰줄어린밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDS0283-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0283_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0283_1_th.jpg",
+      "alt": "흰줄어린밤나방 2번째 사진 : 흰줄어린밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0283_1_th2.jpg",
+      "caption": "흰줄어린밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0283-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0305021012",
+      "description": "[FRIE0305021012] 흰줄어린밤나방 1998.06.17 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0303131018",
+      "description": "[KNAE0303131018] 흰줄어린밤나방 1997.08.16 / / 국립수목원"
+    },
+    {
+      "id": "KNUE0212191650",
+      "description": "[KNUE0212191650] 흰줄어린밤나방 1992.08.04 / / 강원대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDS0283-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0283&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:54+00:00",
+    "html_sha256": "ef5b27d86f73d53cb4feedc88f01e6d878c1f2e2077ee42c69803ae21a7dff0c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

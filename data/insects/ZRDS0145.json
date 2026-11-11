@@ -1,0 +1,126 @@
+{
+  "id": "ZRDS0145",
+  "name_ko": "긴쌍띠밤나방",
+  "scientific_name": "Mythimna divergens Butler, 1878",
+  "display_name": "긴쌍띠밤나방",
+  "family_ko": "밤나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "밤나방과",
+      "name_latin": "Noctuidae"
+    },
+    "subfamily": {
+      "name_ko": "밤나방아과",
+      "name_latin": "Noctuinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Mythimna"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 밤나방과 (Noctuidae)\n아과 : 밤나방아과 (Noctuinae)\n속 : (Mythimna)",
+  "basic_information": {
+    "곤충명": "긴쌍띠밤나방",
+    "학명": "Mythimna divergens Butler, 1878"
+  },
+  "information": {
+    "general_description": "날개편 길이 23～27mm. 앞날개는 암갈색 바탕으로 흑색의 내횡선과 외횡선이 나타나는데, 내횡선은 전연에서 비스듬히 밖으로 경사져서 후연에 이르고 있다. 뒷날개는 앞날개에 비해 다소 짙으며, 횡맥 위에는 보통 작은 흑색 점이 나타난다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 7～8월경에 출현된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 23～27mm. 앞날개는 암갈색 바탕으로 흑색의 내횡선과 외횡선이 나타나는데, 내횡선은 전연에서 비스듬히 밖으로 경사져서 후연에 이르고 있다. 뒷날개는 앞날개에 비해 다소 짙으며, 횡맥 위에는 보통 작은 흑색 점이 나타난다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 7～8월경에 출현된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0145-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0145_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0145_2_th.jpg",
+      "alt": "긴쌍띠밤나방 1번째 사진 : 긴쌍띠밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0145_2_th2.jpg",
+      "caption": "긴쌍띠밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDS0145-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0145_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0145_1_th.jpg",
+      "alt": "긴쌍띠밤나방 2번째 사진 : 긴쌍띠밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0145_1_th2.jpg",
+      "caption": "긴쌍띠밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0145-1",
+  "specimen_examples": [
+    {
+      "id": "JFNE0306041196",
+      "description": "[JFNE0306041196] 긴쌍띠밤나방 1996.06.28 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0306041198",
+      "description": "[JFNE0306041198] 긴쌍띠밤나방 1996.06.30 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0306041199",
+      "description": "[JFNE0306041199] 긴쌍띠밤나방 1996.07.01 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDS0145.png",
+    "reference_image_id": "ZRDS0145-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T09:14:20.180831+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "17da1dd849f7cf3924d5317c194b95b98677ba79675e998d69cd4eaccb8def4e"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0145&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:05+00:00",
+    "html_sha256": "2e7d984eae6d0fa0eb7a8c93db24548e4a62817ff6a0fcef82b50890732fe481",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "id": "ZOAR0055",
+  "name_ko": "등빨간거위벌레",
+  "scientific_name": "Tomapoderus ruficollis (Fabricius, 1781)",
+  "display_name": "등빨간거위벌레",
+  "family_ko": "거위벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "거위벌레과",
+      "name_latin": "Attelabidae"
+    },
+    "subfamily": {
+      "name_ko": "목거위벌레아과",
+      "name_latin": "Apoderinae"
+    },
+    "genus": {
+      "name_ko": "민등목거위벌레속",
+      "name_latin": "Tomapoderus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 거위벌레과 (Attelabidae)\n아과 : 목거위벌레아과 (Apoderinae)\n속 : 민등목거위벌레속 (Tomapoderus)",
+  "basic_information": {
+    "곤충명": "등빨간거위벌레",
+    "학명": "Tomapoderus ruficollis (Fabricius, 1781)"
+  },
+  "information": {
+    "general_description": "한국, 중국, 몽고, 러시아에 분포하며, 체장은 6.5-7.0mm 정도이다. 체색은 적색 또는 황색이며, 시초는 군청색이다. 머리와 후흉, 복부는 검은색이거나, 머리가 붉다. 일부개체들은 이마에 검은 무늬를 가진다. 이마와 주둥이에 점각이 산포한다. 전흉배판 중앙에 세로홈을 가지며, V자형의 홈안으로 긴 점각을 가지고, 점각들이 산포한다. 시초의 어깨부분에는 분명한 작은 돌기를 가진다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "느티나무를 기주식물로 한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[몽골]\n[러시아]",
+    "notes": "[산림해충] Chung et al.(1995)\n[보통종] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 중국, 몽고, 러시아에 분포하며, 체장은 6.5-7.0mm 정도이다. 체색은 적색 또는 황색이며, 시초는 군청색이다. 머리와 후흉, 복부는 검은색이거나, 머리가 붉다. 일부개체들은 이마에 검은 무늬를 가진다. 이마와 주둥이에 점각이 산포한다. 전흉배판 중앙에 세로홈을 가지며, V자형의 홈안으로 긴 점각을 가지고, 점각들이 산포한다. 시초의 어깨부분에는 분명한 작은 돌기를 가진다."
+    },
+    {
+      "title": "생태",
+      "text": "느티나무를 기주식물로 한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[몽골]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)\n[보통종] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAR0055-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0055_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0055_1_th.jpg",
+      "alt": "등빨간거위벌레 1번째 사진 : 등빨간거위벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0055_1_th2.jpg",
+      "caption": "등빨간거위벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAR0055-1",
+  "specimen_examples": [
+    {
+      "id": "CBNE0301021006",
+      "description": "[CBNE0301021006] 등빨간거위벌레 2002.05.25 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0301021007",
+      "description": "[CBNE0301021007] 등빨간거위벌레 2001.06.19 / / 충북대학교"
+    },
+    {
+      "id": "SNUE0204161372",
+      "description": "[SNUE0204161372] 등빨간거위벌레 2000.09.09 / / 서울대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "느티나무",
+      "scientific_name": "Zelkova serrata (Thunb.) Makino"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAR0055-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAR0055&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:13+00:00",
+    "html_sha256": "d9c2bdf7d8f1244b7a3a2113f5ce7655bb741a791bb0a80d63222f14d0ec55a6",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

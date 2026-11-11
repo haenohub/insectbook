@@ -1,0 +1,99 @@
+{
+  "id": "ZOGJ0013",
+  "name_ko": "황해도소똥풍뎅이",
+  "scientific_name": "Onthophagus (Matashia) hvangheus Stebnicka, 1973",
+  "display_name": "황해도소똥풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "소똥구리아과",
+      "name_latin": "Scarabaeinae"
+    },
+    "genus": {
+      "name_ko": "소똥풍뎅이속",
+      "name_latin": "Onthophagus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 소똥구리아과 (Scarabaeinae)\n속 : 소똥풍뎅이속 (Onthophagus)",
+  "basic_information": {
+    "곤충명": "황해도소똥풍뎅이",
+    "학명": "Onthophagus (Matashia) hvangheus Stebnicka, 1973"
+  },
+  "information": {
+    "general_description": "한국에 분포하며 흑색으로 약한 광택이 있고, 머리는 8각형, 머리방패의 앞쪽은 상반하였고, 가운데는 약간 함입하였다. 수컷의 전경절은 가늘고 길며, 끝의 내각에는 지상돌기가 있고, 외치는 짧으며 경절과 직각이다. 후경절의 끝은 3층의 계단모양이다.\nBL:7mm내외.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국에 분포하며 흑색으로 약한 광택이 있고, 머리는 8각형, 머리방패의 앞쪽은 상반하였고, 가운데는 약간 함입하였다. 수컷의 전경절은 가늘고 길며, 끝의 내각에는 지상돌기가 있고, 외치는 짧으며 경절과 직각이다. 후경절의 끝은 3층의 계단모양이다.\nBL:7mm내외."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGJ0013-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0013_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0013_1_th.jpg",
+      "alt": "황해도소똥풍뎅이 1번째 사진 : 황해도소똥풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0013_1_th2.jpg",
+      "caption": "황해도소똥풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGJ0013-1",
+  "specimen_examples": [
+    {
+      "id": "SSUE0302191007",
+      "description": "[SSUE0302191007] 황해도소똥풍뎅이 1988.04.29 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0302191008",
+      "description": "[SSUE0302191008] 황해도소똥풍뎅이 1986.07.24 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0302191009",
+      "description": "[SSUE0302191009] 황해도소똥풍뎅이 1990.04.29 / / 성신여자대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGJ0013-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGJ0013&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:04+00:00",
+    "html_sha256": "fc538e65d8d6b6dc292a57d58d967863a3aa38491e2bc8e766f1d3ab3ed50295",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

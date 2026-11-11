@@ -1,0 +1,121 @@
+{
+  "id": "ZMCN0004",
+  "name_ko": "남쪽날개매미충",
+  "scientific_name": "Ricania taeniata Stål, 1870",
+  "display_name": "남쪽날개매미충",
+  "family_ko": "큰날개매미충과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "꽃매미상과",
+      "name_latin": "Fulgoroidea"
+    },
+    "family": {
+      "name_ko": "큰날개매미충과",
+      "name_latin": "Ricaniidae"
+    },
+    "subfamily": {
+      "name_ko": "큰날개매미충아과",
+      "name_latin": "Ricaniinae"
+    },
+    "genus": {
+      "name_ko": "날개매미충속",
+      "name_latin": "Ricania"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 꽃매미상과 (Fulgoroidea)\n과 : 큰날개매미충과 (Ricaniidae)\n아과 : 큰날개매미충아과 (Ricaniinae)\n속 : 날개매미충속 (Ricania)",
+  "basic_information": {
+    "곤충명": "남쪽날개매미충",
+    "학명": "Ricania taeniata Stål, 1870"
+  },
+  "information": {
+    "general_description": "몸길이:약6-7mm. 양날개를 폈을때는 11-13mm 내외이다. 몸은 회황색 바탕에 청회색 무늬를 띠기도 하며, 흑갈색또는 검정색을 띠기도 한다. 채색의 변이가 심하다. 체표에는 회색 가루가 산재하기도 한다. 머리는 크고 짧게 뭉툭하고 얼굴은 단순하게 편평하다. 앞가슴등판은 매우 잘발달 하였고, 중앙 종주선과 좌우에 한개씩의 융기선을 가진다. 앞날개는 부채를 편것처럼 넓고, 가장가지로 갈수록 더욱 넓어진다. 앞날개 중앙부와 말단부 직전에 검은 줄무늬가 확실히 보이고 구사이에 계단식으로 회청색및 갈색 줄무늬를 무지개 처럼 배열한다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "산야의 경작지 주변이나 초원지대에 흔히 서식하며, 화본과 식물에 기생한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대만]\n[일본]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이:약6-7mm. 양날개를 폈을때는 11-13mm 내외이다. 몸은 회황색 바탕에 청회색 무늬를 띠기도 하며, 흑갈색또는 검정색을 띠기도 한다. 채색의 변이가 심하다. 체표에는 회색 가루가 산재하기도 한다. 머리는 크고 짧게 뭉툭하고 얼굴은 단순하게 편평하다. 앞가슴등판은 매우 잘발달 하였고, 중앙 종주선과 좌우에 한개씩의 융기선을 가진다. 앞날개는 부채를 편것처럼 넓고, 가장가지로 갈수록 더욱 넓어진다. 앞날개 중앙부와 말단부 직전에 검은 줄무늬가 확실히 보이고 구사이에 계단식으로 회청색및 갈색 줄무늬를 무지개 처럼 배열한다."
+    },
+    {
+      "title": "생태",
+      "text": "산야의 경작지 주변이나 초원지대에 흔히 서식하며, 화본과 식물에 기생한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대만]\n[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMCN0004-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMCN0004_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMCN0004_1_th.jpg",
+      "alt": "남쪽날개매미충 1번째 사진 : 남쪽날개매미충전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMCN0004_1_th2.jpg",
+      "caption": "남쪽날개매미충전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMCN0004-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408191082",
+      "description": "[MPME0408191082] 남쪽날개매미충 2002.07.23 / / 목포자연사박물관"
+    },
+    {
+      "id": "KNAE0302082025",
+      "description": "[KNAE0302082025] 남쪽날개매미충 1991.08.09 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0301282025",
+      "description": "[KNAE0301282025] 남쪽날개매미충 1994.08.04 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "칡",
+      "scientific_name": "Pueraria lobata (Willd.) Ohwi"
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZMCN0004.png",
+    "reference_image_id": "ZMCN0004-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T09:40:35.033409+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "d36e2866f07e073470b4cb600ae0cbd0e2bfb9bf5a7c6a46b0c74e9c2fe49a48"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMCN0004&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:29+00:00",
+    "html_sha256": "4faf960c3c2a0c5eb30a28b1f4b32cba2ff0f25a242f9c6d7dadcc659392b72f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

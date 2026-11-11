@@ -1,0 +1,158 @@
+{
+  "id": "ZOBL0220",
+  "name_ko": "솔수염하늘소",
+  "scientific_name": "Monochamus (Monochamus) alternatus alternatus Hope, 1842",
+  "display_name": "솔수염하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "목하늘소아과",
+      "name_latin": "Lamiinae"
+    },
+    "genus": {
+      "name_ko": "수염하늘소속",
+      "name_latin": "Monochamus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 목하늘소아과 (Lamiinae)\n속 : 수염하늘소속 (Monochamus)",
+  "basic_information": {
+    "곤충명": "솔수염하늘소",
+    "학명": "Monochamus (Monochamus) alternatus alternatus Hope, 1842"
+  },
+  "information": {
+    "general_description": "성충의 몸길이는 20~30 mm이며 몸의 색은 적갈색이다. 날개에는 백색, 황갈색, 암갈색의 작은 무늬가 불규칙하게 퍼져 있으며, 더듬이는 비교적 길어 수컷은 몸길이의 2~2.5배, 암컷은 1.5배 가량 된다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": "노숙 유충의 몸길이는 약 40 mm 가량 되는 원통형이며 머리는 갈색이고 몸은 유백색(乳白色)이다.",
+    "egg": "알은 방추형이며 장경(長徑)이 약 3.5 mm이다.",
+    "pupa": null,
+    "ecology": "연 1회 발생하며, 2년에 1회 발생하는 것도 있다. 월동한 유충은 4월경에 수피와 가까운 곳에 용실을 만들고 번데기가 된다. 성충은 5월 하순~7월 하순에 약 6 mm 가량되는 원형의 구멍을 만들고 밖으로 나와 어린 가지의 수피를 갉아 먹는다. 암컷은 우화 후 20일경부터 입으로 수피를 물어 뜯고 1개씩 산란하는데 수간이나 굵은 가지에 많이 산란한다. 유충은 1~2개월 간 수피 밑 형성층 부위를 식해하다가 목질부 속으로 먹어 들어간다.",
+    "habits": "소나무류의 수피 밑에서 유충이 형성층과 목질부를 식해한다. 주로 수세 쇠약목, 고사목에서 발견되며 건전한 나무에는 산란을 하지 않는다. 성충이 소나무 재선충을 전파하여 곰솔에 큰 피해를 주기도 한다.",
+    "season": null,
+    "overwintering": "목질부 속의 가해 부위에서 유충으로 월동한다.",
+    "distribution": "[중국]\n[일본]\n[대만]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충의 몸길이는 20~30 mm이며 몸의 색은 적갈색이다. 날개에는 백색, 황갈색, 암갈색의 작은 무늬가 불규칙하게 퍼져 있으며, 더듬이는 비교적 길어 수컷은 몸길이의 2~2.5배, 암컷은 1.5배 가량 된다."
+    },
+    {
+      "title": "유충",
+      "text": "노숙 유충의 몸길이는 약 40 mm 가량 되는 원통형이며 머리는 갈색이고 몸은 유백색(乳白色)이다."
+    },
+    {
+      "title": "생태",
+      "text": "연 1회 발생하며, 2년에 1회 발생하는 것도 있다. 월동한 유충은 4월경에 수피와 가까운 곳에 용실을 만들고 번데기가 된다. 성충은 5월 하순~7월 하순에 약 6 mm 가량되는 원형의 구멍을 만들고 밖으로 나와 어린 가지의 수피를 갉아 먹는다. 암컷은 우화 후 20일경부터 입으로 수피를 물어 뜯고 1개씩 산란하는데 수간이나 굵은 가지에 많이 산란한다. 유충은 1~2개월 간 수피 밑 형성층 부위를 식해하다가 목질부 속으로 먹어 들어간다."
+    },
+    {
+      "title": "습성",
+      "text": "소나무류의 수피 밑에서 유충이 형성층과 목질부를 식해한다. 주로 수세 쇠약목, 고사목에서 발견되며 건전한 나무에는 산란을 하지 않는다. 성충이 소나무 재선충을 전파하여 곰솔에 큰 피해를 주기도 한다."
+    },
+    {
+      "title": "월동",
+      "text": "목질부 속의 가해 부위에서 유충으로 월동한다."
+    },
+    {
+      "title": "알",
+      "text": "알은 방추형이며 장경(長徑)이 약 3.5 mm이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]\n[대만]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0220-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0220_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0220_1_th.jpg",
+      "alt": "솔수염하늘소 1번째 사진 : 솔수염하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0220_1_th2.jpg",
+      "caption": "솔수염하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0220-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304172023",
+      "description": "[KNAE0304172023] 솔수염하늘소 1989.07.11 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304172024",
+      "description": "[KNAE0304172024] 솔수염하늘소 1989.06.19 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304172011",
+      "description": "[KNAE0304172011] 솔수염하늘소 1989.06.23 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "개잎갈나무",
+      "scientific_name": "Cedrus deodara (Roxb. ex D.Don) G.Don"
+    },
+    {
+      "group": "식물",
+      "name_ko": "곰솔",
+      "scientific_name": "Pinus thunbergii Parl."
+    },
+    {
+      "group": "식물",
+      "name_ko": "삼나무",
+      "scientific_name": "Cryptomeria japonica (Thunb. ex L.f.) D.Don"
+    },
+    {
+      "group": "식물",
+      "name_ko": "소나무",
+      "scientific_name": "Pinus densiflora Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "스트로브잣나무",
+      "scientific_name": "Pinus strobus L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "전나무",
+      "scientific_name": "Abies holophylla Maxim."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0220-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0220&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:21+00:00",
+    "html_sha256": "d6bff1ad50374c4b34a5266737a73d7fa9a7336deaaa43e8e7a3e63cdf80c406",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

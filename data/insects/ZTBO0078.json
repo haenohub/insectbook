@@ -1,0 +1,107 @@
+{
+  "id": "ZTBO0078",
+  "name_ko": "불개미",
+  "scientific_name": "Formica yessensis Wheeler W.M., 1913",
+  "display_name": "불개미",
+  "family_ko": "개미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "말벌상과",
+      "name_latin": "Vespoidea"
+    },
+    "family": {
+      "name_ko": "개미과",
+      "name_latin": "Formicidae"
+    },
+    "subfamily": {
+      "name_ko": "불개미아과",
+      "name_latin": "Formicinae"
+    },
+    "genus": {
+      "name_ko": "불개미속",
+      "name_latin": "Formica"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 말벌상과 (Vespoidea)\n과 : 개미과 (Formicidae)\n아과 : 불개미아과 (Formicinae)\n속 : 불개미속 (Formica)",
+  "basic_information": {
+    "곤충명": "불개미",
+    "학명": "Formica yessensis Wheeler W.M., 1913"
+  },
+  "information": {
+    "general_description": "몸길이는 5-8mm 정도이며 몸은 암적황색이나 배는 갈색이다. 전체에 황색인 연한 털이 많이 났으나 배에 특히 많아 비단 모양 광택을 띤다. 머리는 알 모양으로 길이는 폭보다 길고 양옆은 모가 졌다. 배자루는 비늘조각 모양이다. 암컷(9-11mm)은 머리와 가슴이 적황색이고 정수리와 가운데가슴등판 위의 세로 달리는 3개의 띠는 흑갈색이며 배는 갈색이다. 온 몸에 황색 연한 털이 났다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "홍개미의 변종으로 본 일도 있다",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 5-8mm 정도이며 몸은 암적황색이나 배는 갈색이다. 전체에 황색인 연한 털이 많이 났으나 배에 특히 많아 비단 모양 광택을 띤다. 머리는 알 모양으로 길이는 폭보다 길고 양옆은 모가 졌다. 배자루는 비늘조각 모양이다. 암컷(9-11mm)은 머리와 가슴이 적황색이고 정수리와 가운데가슴등판 위의 세로 달리는 3개의 띠는 흑갈색이며 배는 갈색이다. 온 몸에 황색 연한 털이 났다."
+    },
+    {
+      "title": "생태",
+      "text": "홍개미의 변종으로 본 일도 있다"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBO0078-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0078_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0078_1_th.jpg",
+      "alt": "불개미 1번째 사진 : 불개미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0078_1_th2.jpg",
+      "caption": "불개미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBO0078-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306262052",
+      "description": "[YNUE0306262052] 불개미 1996.06.25 / / 영남대학교"
+    },
+    {
+      "id": "KNAE182262",
+      "description": "[KNAE182262] 불개미 / / 국립수목원"
+    },
+    {
+      "id": "KNAE222173",
+      "description": "[KNAE222173] 불개미 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTBO0078-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBO0078&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:42+00:00",
+    "html_sha256": "18c717262f3072da2cb407d85961498f670dfd794a1bdb4f29a74e80f4abc9cd",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

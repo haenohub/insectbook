@@ -1,0 +1,99 @@
+{
+  "id": "ZOBA0001",
+  "name_ko": "여섯무늬침봉바구미",
+  "scientific_name": "Pseudorychodes insignis (Lewis, 1883)",
+  "display_name": "여섯무늬침봉바구미",
+  "family_ko": "침봉바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "침봉바구미과",
+      "name_latin": "Brentidae"
+    },
+    "subfamily": {
+      "name_ko": "침봉바구미아과",
+      "name_latin": "Brentinae"
+    },
+    "genus": {
+      "name_ko": "무늬침봉바구미속",
+      "name_latin": "Pseudorychodes"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 침봉바구미과 (Brentidae)\n아과 : 침봉바구미아과 (Brentinae)\n속 : 무늬침봉바구미속 (Pseudorychodes)",
+  "basic_information": {
+    "곤충명": "여섯무늬침봉바구미",
+    "학명": "Pseudorychodes insignis (Lewis, 1883)"
+  },
+  "information": {
+    "general_description": "한국, 일본, 대만, 러시아에 분포하며, 체장은 13.5mm 정도이다. 앞날개의 점각열은 강하고, 간실은 융기하며, 뚜렷한 회황색의 무늬가 4-5번째 간실 기부에, 8-9번째 간실 중앙 앞에, 3-7번째 간실 중앙 뒤에 있다. 세번째 간실의 끝 가까이에는 불명료한 무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 대만, 러시아에 분포하며, 체장은 13.5mm 정도이다. 앞날개의 점각열은 강하고, 간실은 융기하며, 뚜렷한 회황색의 무늬가 4-5번째 간실 기부에, 8-9번째 간실 중앙 앞에, 3-7번째 간실 중앙 뒤에 있다. 세번째 간실의 끝 가까이에는 불명료한 무늬가 있다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBA0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBA0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBA0001_1_th.jpg",
+      "alt": "여섯무늬침봉바구미 1번째 사진 : 여섯무늬침봉바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBA0001_1_th2.jpg",
+      "caption": "여섯무늬침봉바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBA0001-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303271060",
+      "description": "[KNAE0303271060] 여섯무늬침봉바구미 1990.07.17 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303271061",
+      "description": "[KNAE0303271061] 여섯무늬침봉바구미 1991.08.23 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBA0001-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBA0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:01+00:00",
+    "html_sha256": "7f953863ff6bc200c3f40ac903472afa72a1f502c9b25e195b2d94118baef23b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

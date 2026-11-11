@@ -1,0 +1,110 @@
+{
+  "id": "ZTAG0124",
+  "name_ko": "잔떡벌",
+  "scientific_name": "Bombus (Psithyrus) coreanus Yasumatsu, 1934",
+  "display_name": "잔떡벌",
+  "family_ko": "꿀벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "꿀벌과",
+      "name_latin": "Apidae"
+    },
+    "subfamily": {
+      "name_ko": "꿀벌아과",
+      "name_latin": "Apinae"
+    },
+    "genus": {
+      "name_ko": "뒤영벌속",
+      "name_latin": "Bombus"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 꿀벌과 (Apidae)\n아과 : 꿀벌아과 (Apinae)\n속 : 뒤영벌속 (Bombus)",
+  "basic_information": {
+    "곤충명": "잔떡벌",
+    "학명": "Bombus (Psithyrus) coreanus Yasumatsu, 1934"
+  },
+  "information": {
+    "general_description": "(진떡벌)몸길이는 17mm 정도이다. 암컷은 너비보다 훨씬 길다. 머리방패는 다소 돌출했고 그 가장자리는 두 개의 가시모양이다. 홑눈 앞에 하나의 광택이 있는 긴 도랑이 있고 더듬이 기부는 약간 광택이 있고 털이 났다. 몸은 흑색이나 제 3-5발목마디는 암적색이고 제1-3배 마디는 황갈색 털이 났고 제4-8배마디는 암적색 털이 났다. 발목마디에는 암적색 털이 났고 그외 부분에는 황갈색 털이 났다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "(진떡벌)몸길이는 17mm 정도이다. 암컷은 너비보다 훨씬 길다. 머리방패는 다소 돌출했고 그 가장자리는 두 개의 가시모양이다. 홑눈 앞에 하나의 광택이 있는 긴 도랑이 있고 더듬이 기부는 약간 광택이 있고 털이 났다. 몸은 흑색이나 제 3-5발목마디는 암적색이고 제1-3배 마디는 황갈색 털이 났고 제4-8배마디는 암적색 털이 났다. 발목마디에는 암적색 털이 났고 그외 부분에는 황갈색 털이 났다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0124-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0124_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0124_2_th.jpg",
+      "alt": "잔떡벌 1번째 사진 : 잔떡벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0124_2_th2.jpg",
+      "caption": "잔떡벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTAG0124-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0124_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0124_1_th.jpg",
+      "alt": "잔떡벌 2번째 사진 : 잔떡벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0124_1_th2.jpg",
+      "caption": "잔떡벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0124-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0304042011",
+      "description": "[SNUE0304042011] 잔떡벌 1987.05.20 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0304042012",
+      "description": "[SNUE0304042012] 잔떡벌 1990.05.22 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0304042013",
+      "description": "[SNUE0304042013] 잔떡벌 1990.06.06 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAG0124-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0124&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:57+00:00",
+    "html_sha256": "840b402695b92704e12ada50bcbc499bd2c9e1a2b9d5a8bcb39163ba0a6b51de",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

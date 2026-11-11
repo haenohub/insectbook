@@ -1,0 +1,103 @@
+{
+  "id": "ZOGT0116",
+  "name_ko": "노랑털검정반날개",
+  "scientific_name": "Agelosus weisei (Harold, 1877)",
+  "display_name": "노랑털검정반날개",
+  "family_ko": "반날개과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "반날개상과",
+      "name_latin": "Staphylinoidea"
+    },
+    "family": {
+      "name_ko": "반날개과",
+      "name_latin": "Staphylinidae"
+    },
+    "subfamily": {
+      "name_ko": "반날개아과",
+      "name_latin": "Staphylininae"
+    },
+    "genus": {
+      "name_ko": "왕붉은딱지반날개속",
+      "name_latin": "Agelosus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 반날개상과 (Staphylinoidea)\n과 : 반날개과 (Staphylinidae)\n아과 : 반날개아과 (Staphylininae)\n속 : 왕붉은딱지반날개속 (Agelosus)",
+  "basic_information": {
+    "곤충명": "노랑털검정반날개",
+    "학명": "Agelosus weisei (Harold, 1877)"
+  },
+  "information": {
+    "general_description": "몸의 길이는 16~19mm 이며, 촉각,머리,다리는 적갈색이고, 딱지날개에는 노랑 무늬가 있다. 배마디는 두쌍의 노랑 점이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의 길이는 16~19mm 이며, 촉각,머리,다리는 적갈색이고, 딱지날개에는 노랑 무늬가 있다. 배마디는 두쌍의 노랑 점이 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGT0116-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGT0116_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGT0116_1_th.jpg",
+      "alt": "노랑털검정반날개 1번째 사진 : 노랑털검정반날개전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGT0116_1_th2.jpg",
+      "caption": "노랑털검정반날개전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGT0116-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0301272020",
+      "description": "[KNAE0301272020] 노랑털검정반날개 1990.08.01 / / 국립수목원"
+    },
+    {
+      "id": "CBNE0212281108",
+      "description": "[CBNE0212281108] 노랑털검정반날개 2002.05.19 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0212281109",
+      "description": "[CBNE0212281109] 노랑털검정반날개 2001.06.02 / / 충북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGT0116-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGT0116&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:27+00:00",
+    "html_sha256": "e808034e866c3a981c91829c692e0c3d355c8fcebfc1ed83702c94f315a21c14",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

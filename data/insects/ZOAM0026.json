@@ -1,0 +1,110 @@
+{
+  "id": "ZOAM0026",
+  "name_ko": "세줄애기소바구미",
+  "scientific_name": "Uncifer angulatus Park & Morimoto, 1999",
+  "display_name": "세줄애기소바구미",
+  "family_ko": "소바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "소바구미과",
+      "name_latin": "Anthribidae"
+    },
+    "subfamily": {
+      "name_ko": "소바구미아과",
+      "name_latin": "Anthribinae"
+    },
+    "genus": {
+      "name_ko": "애기소바구미속",
+      "name_latin": "Uncifer"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 소바구미과 (Anthribidae)\n아과 : 소바구미아과 (Anthribinae)\n속 : 애기소바구미속 (Uncifer)",
+  "basic_information": {
+    "곤충명": "세줄애기소바구미",
+    "학명": "Uncifer angulatus Park & Morimoto, 1999"
+  },
+  "information": {
+    "general_description": "몸길이는 1.9~2.4mm이며, 몸은 흑색이다. 더듬이는 여섯째마디까지 황갈색이고, 전흉배판의 측면과 가운데에는 황백색의 털무늬를 가지며, 소순판도 황백색의 털무늬를 가진다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 1.9~2.4mm이며, 몸은 흑색이다. 더듬이는 여섯째마디까지 황갈색이고, 전흉배판의 측면과 가운데에는 황백색의 털무늬를 가지며, 소순판도 황백색의 털무늬를 가진다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAM0026-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0026_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0026_2_th.jpg",
+      "alt": "세줄애기소바구미 1번째 사진 : 세줄애기소바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0026_2_th2.jpg",
+      "caption": "세줄애기소바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOAM0026-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0026_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0026_1_th.jpg",
+      "alt": "세줄애기소바구미 2번째 사진 : 세줄애기소바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0026_1_th2.jpg",
+      "caption": "세줄애기소바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAM0026-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0203071037",
+      "description": "[SNUE0203071037] 세줄애기소바구미 1997.05.18 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0203071038",
+      "description": "[SNUE0203071038] 세줄애기소바구미 1997.05.18 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0203071039",
+      "description": "[SNUE0203071039] 세줄애기소바구미 1997.05.18 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAM0026-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAM0026&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:06+00:00",
+    "html_sha256": "bd1ce83d16ef3728b463bb0b75d455d03339882998651724ec4646b30b9bf857",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

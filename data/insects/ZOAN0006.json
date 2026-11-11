@@ -1,0 +1,107 @@
+{
+  "id": "ZOAN0006",
+  "name_ko": "어깨뿔똥풍뎅이",
+  "scientific_name": "Aphodius (Acrossus) superatratus Nomura & Nakane, 1951",
+  "display_name": "어깨뿔똥풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "똥풍뎅이아과",
+      "name_latin": "Aphodiinae"
+    },
+    "genus": {
+      "name_ko": "똥풍뎅이속",
+      "name_latin": "Aphodius"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 똥풍뎅이아과 (Aphodiinae)\n속 : 똥풍뎅이속 (Aphodius)",
+  "basic_information": {
+    "곤충명": "어깨뿔똥풍뎅이",
+    "학명": "Aphodius (Acrossus) superatratus Nomura & Nakane, 1951"
+  },
+  "information": {
+    "general_description": "일본에서 분포하며 흑색이다. 머리방패는 널고 둥그나 테는 가늘고 약하다. 전흉배판 측연테는 굵고 후각은 둥글며 딱지말개는 작은 견치가 있고, 양옆의 뒤쪽에는 가는 털이 있다. 중,후경절단극모열의 길이는 서로 다르며, 제1후부절은 경절상거와 같은 길이이며, 다음 4마디의 합보다 약간 짧다. BL:6.5~8.5mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "일본에서 분포하며 흑색이다. 머리방패는 널고 둥그나 테는 가늘고 약하다. 전흉배판 측연테는 굵고 후각은 둥글며 딱지말개는 작은 견치가 있고, 양옆의 뒤쪽에는 가는 털이 있다. 중,후경절단극모열의 길이는 서로 다르며, 제1후부절은 경절상거와 같은 길이이며, 다음 4마디의 합보다 약간 짧다. BL:6.5~8.5mm."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAN0006-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAN0006_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAN0006_1_th.jpg",
+      "alt": "어깨뿔똥풍뎅이 1번째 사진 : 어깨뿔똥풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAN0006_1_th2.jpg",
+      "caption": "어깨뿔똥풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAN0006-1",
+  "specimen_examples": [
+    {
+      "id": "SSUE0302241021",
+      "description": "[SSUE0302241021] 어깨뿔똥풍뎅이 1997.07.15 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0302241022",
+      "description": "[SSUE0302241022] 어깨뿔똥풍뎅이 1997.07.15 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0302241023",
+      "description": "[SSUE0302241023] 어깨뿔똥풍뎅이 1997.07.15 / / 성신여자대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAN0006-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAN0006&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:29+00:00",
+    "html_sha256": "3caf0d313e63f039374830c5e328b92791e8d3b060c35640b599f5c056d0ff1a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

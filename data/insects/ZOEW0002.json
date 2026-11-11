@@ -1,0 +1,111 @@
+{
+  "id": "ZOEW0002",
+  "name_ko": "극동붙이금풍뎅이",
+  "scientific_name": "Notochodaeus maculatus koreanus (Kim, 1990)",
+  "display_name": "극동붙이금풍뎅이",
+  "family_ko": "붙이금풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "붙이금풍뎅이과",
+      "name_latin": "Ochodaeidae"
+    },
+    "subfamily": {
+      "name_ko": "붙이금풍뎅이아과",
+      "name_latin": "Ochodaeinae"
+    },
+    "genus": {
+      "name_ko": "붙이금풍뎅이속",
+      "name_latin": "Notochodaeus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 붙이금풍뎅이과 (Ochodaeidae)\n아과 : 붙이금풍뎅이아과 (Ochodaeinae)\n속 : 붙이금풍뎅이속 (Notochodaeus)",
+  "basic_information": {
+    "곤충명": "극동붙이금풍뎅이",
+    "학명": "Notochodaeus maculatus koreanus (Kim, 1990)"
+  },
+  "information": {
+    "general_description": "한국, 일본, 류큐 및 대만에 분포하며 등쪽은 과립성 점각과 긴 털이 발달. 부분적으로 흑색과 황갈색이다. 이마봉합선의 중앙 근처에는 한쌍의 작은 혹돌기가 있으며 가슴의 가장자리와 딱지날개는 대부분 오황갈색이다. 한국산은 머리방패가 황갈색이며, 머리는 흑색이고 유기가 길다. 중앙에 황갈색의 큰 세로무늬가 있다. BL:7~10mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "국내학자에 의해 신종으로 기재된 종으로서, 국외로 반출이 금지된 종이다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[반출금지종] 환경부고시제2001-210호",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 류큐 및 대만에 분포하며 등쪽은 과립성 점각과 긴 털이 발달. 부분적으로 흑색과 황갈색이다. 이마봉합선의 중앙 근처에는 한쌍의 작은 혹돌기가 있으며 가슴의 가장자리와 딱지날개는 대부분 오황갈색이다. 한국산은 머리방패가 황갈색이며, 머리는 흑색이고 유기가 길다. 중앙에 황갈색의 큰 세로무늬가 있다. BL:7~10mm."
+    },
+    {
+      "title": "생태",
+      "text": "국내학자에 의해 신종으로 기재된 종으로서, 국외로 반출이 금지된 종이다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[반출금지종] 환경부고시제2001-210호"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOEW0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEW0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEW0002_1_th.jpg",
+      "alt": "극동붙이금풍뎅이 1번째 사진 : 극동부치금풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEW0002_1_th2.jpg",
+      "caption": "극동부치금풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOEW0002-1",
+  "specimen_examples": [
+    {
+      "id": "SSUE0303051031",
+      "description": "[SSUE0303051031] 극동붙이금풍뎅이 1989.08.08 / / 성신여자대학교"
+    },
+    {
+      "id": "KNAE564842",
+      "description": "[KNAE564842] 극동붙이금풍뎅이 / / 국립수목원"
+    },
+    {
+      "id": "KNAE564843",
+      "description": "[KNAE564843] 극동붙이금풍뎅이 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOEW0002.png",
+    "reference_image_id": "ZOEW0002-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T14:44:47.111555+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "69fe3d53291aa2758de0112906ec07e828e09c69550328c8e8d8ef7dfa8eb2a8"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOEW0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:43+00:00",
+    "html_sha256": "9eb9353c9386edb016ca7af27552de0ef1ad273f29326a96e8428a8d2ff7aa54",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

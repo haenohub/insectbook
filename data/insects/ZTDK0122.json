@@ -1,0 +1,111 @@
+{
+  "id": "ZTDK0122",
+  "name_ko": "소보노래기벌",
+  "scientific_name": "Cerceris sobo Yasumatsu & Okabe, 1936",
+  "display_name": "소보노래기벌",
+  "family_ko": "은주둥이벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "은주둥이벌과",
+      "name_latin": "Crabronidae"
+    },
+    "subfamily": {
+      "name_ko": "노래기벌아과",
+      "name_latin": "Philanthinae"
+    },
+    "genus": {
+      "name_ko": "노래기벌속",
+      "name_latin": "Cerceris"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 은주둥이벌과 (Crabronidae)\n아과 : 노래기벌아과 (Philanthinae)\n속 : 노래기벌속 (Cerceris)",
+  "basic_information": {
+    "곤충명": "소보노래기벌",
+    "학명": "Cerceris sobo Yasumatsu & Okabe, 1936"
+  },
+  "information": {
+    "general_description": "제2복절 복판의 전연부에는 확연한 platform이 없다",
+    "adult": null,
+    "adult_male": "제2복절 복판의 전연부에는 확연한 platform이 없고 중앙부에 한 개의 돌기를 가지고 있다. 마지막 네마디의 촉각편절에는 짧은 촉각하유를 가지고 있다. 제1복절은 위에서 폭이 길이보다 넓다. 제2복절 복판 중앙부에 작은 돌기를 가지고 있다.",
+    "adult_female": "제2복절 복판의 전연부에는 확연한 platform이 없이 상응하는 부위에 한쌍의 약한 돌기를 가지고 있다. 두순의 부속편은 두개의 엽으로 이루어져 있다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "밤색주둥이바구미ㆍ섭주둥이바구미 등의 성충을 포식한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "제2복절 복판의 전연부에는 확연한 platform이 없다"
+    },
+    {
+      "title": "성충(수)",
+      "text": "제2복절 복판의 전연부에는 확연한 platform이 없고 중앙부에 한 개의 돌기를 가지고 있다. 마지막 네마디의 촉각편절에는 짧은 촉각하유를 가지고 있다. 제1복절은 위에서 폭이 길이보다 넓다. 제2복절 복판 중앙부에 작은 돌기를 가지고 있다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "제2복절 복판의 전연부에는 확연한 platform이 없이 상응하는 부위에 한쌍의 약한 돌기를 가지고 있다. 두순의 부속편은 두개의 엽으로 이루어져 있다."
+    },
+    {
+      "title": "생태",
+      "text": "밤색주둥이바구미ㆍ섭주둥이바구미 등의 성충을 포식한다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDK0122-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0122_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0122_1_th.jpg",
+      "alt": "소보노래기벌 1번째 사진 : 소보노래기벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0122_1_th2.jpg",
+      "caption": "소보노래기벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDK0122-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306261014",
+      "description": "[YNUE0306261014] 소보노래기벌 1996.06.26 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306261015",
+      "description": "[YNUE0306261015] 소보노래기벌 1996.06.26 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0201182038",
+      "description": "[YNUE0201182038] 소보노래기벌 1981.08.03 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDK0122-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDK0122&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:15+00:00",
+    "html_sha256": "cd8474c60a8f3a01c61d99fd8f00f2698eb713f6c6d90fa102d53c4f1e4d118f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

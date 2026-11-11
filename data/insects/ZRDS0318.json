@@ -1,0 +1,115 @@
+{
+  "id": "ZRDS0318",
+  "name_ko": "검보라밤나방",
+  "scientific_name": "Eucarta amethystina (Hübner, [1803])",
+  "display_name": "검보라밤나방",
+  "family_ko": "밤나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "밤나방과",
+      "name_latin": "Noctuidae"
+    },
+    "subfamily": {
+      "name_ko": "희미무늬밤나방아과",
+      "name_latin": "Condicinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Eucarta"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 밤나방과 (Noctuidae)\n아과 : 희미무늬밤나방아과 (Condicinae)\n속 : (Eucarta)",
+  "basic_information": {
+    "곤충명": "검보라밤나방",
+    "학명": "Eucarta amethystina (Hübner, [1803])"
+  },
+  "information": {
+    "general_description": "날개편 길이 14~15mm. 앞날개는 보라색을 띠는 담홍색인데 중실안에서는 가락지 모양 무늬의 안쪽과 바깥쪽으로는 흑갈색을 띤다. 뒷날개는 담회갈색을 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 7~8월경에 출현된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 14~15mm. 앞날개는 보라색을 띠는 담홍색인데 중실안에서는 가락지 모양 무늬의 안쪽과 바깥쪽으로는 흑갈색을 띤다. 뒷날개는 담회갈색을 띤다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 7~8월경에 출현된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0318-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0318_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0318_1_th.jpg",
+      "alt": "검보라밤나방 1번째 사진 : 검보라밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0318_1_th2.jpg",
+      "caption": "검보라밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0318-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0302192091",
+      "description": "[KNAE0302192091] 검보라밤나방 1991.07.19 / / 국립수목원"
+    },
+    {
+      "id": "FRIE0203071073",
+      "description": "[FRIE0203071073] 검보라밤나방 1983.08.07 / / 국립산림과학원"
+    },
+    {
+      "id": "KUIE0405311144",
+      "description": "[KUIE0405311144] 검보라밤나방 1972.07.09 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDS0318.png",
+    "reference_image_id": "ZRDS0318-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T17:39:44.726679+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "8dcca3e1d3503991d6eca1656075bc6e2ce66ffccb58900b535e276344b2596c"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0318&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:51+00:00",
+    "html_sha256": "7e128d9ce3dc9777b3cbedea6389b5964125d760dc826e477e4666cd5114861c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "ZTCV0007",
+  "name_ko": "황띠대모벌",
+  "scientific_name": "Parabatozonus annulatus (Fabricius, 1793)",
+  "display_name": "황띠대모벌",
+  "family_ko": "대모벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "말벌상과",
+      "name_latin": "Vespoidea"
+    },
+    "family": {
+      "name_ko": "대모벌과",
+      "name_latin": "Pompilidae"
+    },
+    "subfamily": {
+      "name_ko": "대모벌아과",
+      "name_latin": "Pompilinae"
+    },
+    "genus": {
+      "name_ko": "황띠대모벌속",
+      "name_latin": "Parabatozonus"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 말벌상과 (Vespoidea)\n과 : 대모벌과 (Pompilidae)\n아과 : 대모벌아과 (Pompilinae)\n속 : 황띠대모벌속 (Parabatozonus)",
+  "basic_information": {
+    "곤충명": "황띠대모벌",
+    "학명": "Parabatozonus annulatus (Fabricius, 1793)"
+  },
+  "information": {
+    "general_description": "암컷의 몸은 흑갈색이다 머리. 더듬이. 가슴의 등판. 날개. 다리 등은 황갈색이며 앞가슴등판의 세로 무늬와 작은방패판과 날개비늘은 담색이다. 제 1 배마디의 앞 슭에 황갈색띠가 1개 있으나 암컷에는 없다. 날개는 광택이 있고 날개 끝과 앞슭 맥은 흑갈색이다. 다리는 밑마디와 도래마디 및 발목마디 끝은 흑갈색이며 꼬리마디는 황갈색이다. 수컷은 몸이 작고 더듬이 끝과 정수리 및 가운데가슴과 뒷가슴등판은 갈색이며 뒷가슴등판에는 가로 주름이 많다. 날개는 약간 암색이다. 대모벌과 비슷하나 종아리마디 겉 슭에 돌기의 줄이 없다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[인도]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷의 몸은 흑갈색이다 머리. 더듬이. 가슴의 등판. 날개. 다리 등은 황갈색이며 앞가슴등판의 세로 무늬와 작은방패판과 날개비늘은 담색이다. 제 1 배마디의 앞 슭에 황갈색띠가 1개 있으나 암컷에는 없다. 날개는 광택이 있고 날개 끝과 앞슭 맥은 흑갈색이다. 다리는 밑마디와 도래마디 및 발목마디 끝은 흑갈색이며 꼬리마디는 황갈색이다. 수컷은 몸이 작고 더듬이 끝과 정수리 및 가운데가슴과 뒷가슴등판은 갈색이며 뒷가슴등판에는 가로 주름이 많다. 날개는 약간 암색이다. 대모벌과 비슷하나 종아리마디 겉 슭에 돌기의 줄이 없다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[인도]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTCV0007-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTCV0007_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTCV0007_1_th.jpg",
+      "alt": "황띠대모벌 1번째 사진 : 황띠대모벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTCV0007_1_th2.jpg",
+      "caption": "황띠대모벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTCV0007-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306261035",
+      "description": "[YNUE0306261035] 황띠대모벌 1972.08.04 / / 영남대학교"
+    },
+    {
+      "id": "DJUE0408241165",
+      "description": "[DJUE0408241165] 황띠대모벌 2002.07.24 / / 대전대학교"
+    },
+    {
+      "id": "KNAE468916",
+      "description": "[KNAE468916] 황띠대모벌 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTCV0007-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTCV0007&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:53+00:00",
+    "html_sha256": "bbf817485dee811ebf15721c164a1e9825c89543f77d47e73e9efabfec04b2b7",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

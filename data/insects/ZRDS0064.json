@@ -1,0 +1,128 @@
+{
+  "id": "ZRDS0064",
+  "name_ko": "회색밤나방",
+  "scientific_name": "Actebia praecox (Linnaeus, 1758)",
+  "display_name": "회색밤나방",
+  "family_ko": "밤나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "밤나방과",
+      "name_latin": "Noctuidae"
+    },
+    "subfamily": {
+      "name_ko": "밤나방아과",
+      "name_latin": "Noctuinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Actebia"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 밤나방과 (Noctuidae)\n아과 : 밤나방아과 (Noctuinae)\n속 : (Actebia)",
+  "basic_information": {
+    "곤충명": "회색밤나방",
+    "학명": "Actebia praecox (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "날개편 길이 18～21mm. 앞날개는 녹회색 바탕인데 녹색이 강하게 나타나는 개체도 있다. 뒷날개는 안쪽이 담갈색이나 바깥쪽은 암갈색이며, 연모는 가늘게 황색을 띤 기선이 있고, 끝 부분은 백색을 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6～7월경에 출현된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]\n[유럽]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 18～21mm. 앞날개는 녹회색 바탕인데 녹색이 강하게 나타나는 개체도 있다. 뒷날개는 안쪽이 담갈색이나 바깥쪽은 암갈색이며, 연모는 가늘게 황색을 띤 기선이 있고, 끝 부분은 백색을 띤다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6～7월경에 출현된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]\n[유럽]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0064-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0064_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0064_2_th.jpg",
+      "alt": "회색밤나방 1번째 사진 : 회색밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0064_2_th2.jpg",
+      "caption": "회색밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDS0064-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0064_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0064_1_th.jpg",
+      "alt": "회색밤나방 2번째 사진 : 회색밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0064_1_th2.jpg",
+      "caption": "회색밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0064-1",
+  "specimen_examples": [
+    {
+      "id": "KNUE0212231537",
+      "description": "[KNUE0212231537] 회색밤나방 1988.06.12 / / 강원대학교"
+    },
+    {
+      "id": "KNUE0212231538",
+      "description": "[KNUE0212231538] 회색밤나방 1988.07.07 / / 강원대학교"
+    },
+    {
+      "id": "KNUE0212231539",
+      "description": "[KNUE0212231539] 회색밤나방 1987.06.26 / / 강원대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "버드나무",
+      "scientific_name": "Salix pierotii Miq."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDS0064-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0064&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:05+00:00",
+    "html_sha256": "046c03189d69cab8b6e943866d2233c5f06bba067e27aef92f9e8ce73cf6fdaa",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

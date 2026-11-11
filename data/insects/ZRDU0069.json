@@ -1,0 +1,137 @@
+{
+  "id": "ZRDU0069",
+  "name_ko": "기린재주나방",
+  "scientific_name": "Ptilophora jezoensis sutchana (Bang-Haas, 1927)",
+  "display_name": "기린재주나방",
+  "family_ko": "재주나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "재주나방과",
+      "name_latin": "Notodontidae"
+    },
+    "subfamily": {
+      "name_ko": "기린재주나방아과",
+      "name_latin": "Ptilodoninae"
+    },
+    "genus": {
+      "name_ko": "빗살수염재주나방속",
+      "name_latin": "Ptilophora"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 재주나방과 (Notodontidae)\n아과 : 기린재주나방아과 (Ptilodoninae)\n속 : 빗살수염재주나방속 (Ptilophora)",
+  "basic_information": {
+    "곤충명": "기린재주나방",
+    "학명": "Ptilophora jezoensis sutchana (Bang-Haas, 1927)"
+  },
+  "information": {
+    "general_description": "날개편 길이 32～33mm. 앞날개의 외횡선이 거의 직선이므로 빗살재주수염나방과 구별된다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 11월에 출현한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 32～33mm. 앞날개의 외횡선이 거의 직선이므로 빗살재주수염나방과 구별된다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 11월에 출현한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDU0069-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0069_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0069_2_th.jpg",
+      "alt": "기린재주나방 1번째 사진 : 기린재주나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0069_2_th2.jpg",
+      "caption": "기린재주나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDU0069-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0069_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0069_1_th.jpg",
+      "alt": "기린재주나방 2번째 사진 : 기린재주나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0069_1_th2.jpg",
+      "caption": "기린재주나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDU0069-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0302131025",
+      "description": "[KNAE0302131025] 기린재주나방 1997.06.10 / / 국립수목원"
+    },
+    {
+      "id": "FRIE0204121082",
+      "description": "[FRIE0204121082] 기린재주나방 1984.11.05 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0204121083",
+      "description": "[FRIE0204121083] 기린재주나방 1985.11.07 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "자작나무",
+      "scientific_name": "Betula pendula Roth"
+    },
+    {
+      "group": "식물",
+      "name_ko": "피나무",
+      "scientific_name": "Tilia amurensis Rupr."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDU0069.png",
+    "reference_image_id": "ZRDU0069-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T15:20:07.750573+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "0d663090e230d0b7eee8dee1e6379cbfbae3ce013bf671ccc6aa530b65e4843b"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDU0069&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:50+00:00",
+    "html_sha256": "1554dc356493c844c769a77c762049d84870c8753ac22162ba1aa577bcc641d2",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "ZOBL0274",
+  "name_ko": "흰점하늘소",
+  "scientific_name": "Glenea (Glenea) relicta relicta Pascoe, 1858",
+  "display_name": "흰점하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "목하늘소아과",
+      "name_latin": "Lamiinae"
+    },
+    "genus": {
+      "name_ko": "흰점하늘소속",
+      "name_latin": "Glenea"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 목하늘소아과 (Lamiinae)\n속 : 흰점하늘소속 (Glenea)",
+  "basic_information": {
+    "곤충명": "흰점하늘소",
+    "학명": "Glenea (Glenea) relicta relicta Pascoe, 1858"
+  },
+  "information": {
+    "general_description": "몸길이는 8~13mm, 촉각과 머리, 가슴은 흑색인데 머리꼭대기에는 흰줄무늬가 있다. 앞가슴 등판가운데 줄은 흰색세로줄이다. 날개의 앞에는 적갈색이며 뒷부분은 다갈색이다. 딱지날개에 크고 작은 5개의 흰점무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 8~13mm, 촉각과 머리, 가슴은 흑색인데 머리꼭대기에는 흰줄무늬가 있다. 앞가슴 등판가운데 줄은 흰색세로줄이다. 날개의 앞에는 적갈색이며 뒷부분은 다갈색이다. 딱지날개에 크고 작은 5개의 흰점무늬가 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0274-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0274_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0274_1_th.jpg",
+      "alt": "흰점하늘소 1번째 사진 : 흰점하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0274_1_th2.jpg",
+      "caption": "흰점하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0274-1",
+  "specimen_examples": [
+    {
+      "id": "ADUE0303201013",
+      "description": "[ADUE0303201013] 흰점하늘소 1996.07.01 / / 안동대학교"
+    },
+    {
+      "id": "KNAE0612060227",
+      "description": "[KNAE0612060227] 흰점하늘소 2006.07.17 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0710180292",
+      "description": "[KNAE0710180292] 흰점하늘소 2007.06.20 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0274-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0274&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:49+00:00",
+    "html_sha256": "d970e6ad3cddd6d4cf375c235286a042b40d9bddc965838c252edfc28f027a9b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

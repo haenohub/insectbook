@@ -1,0 +1,122 @@
+{
+  "id": "ZREV0020",
+  "name_ko": "산등줄박각시",
+  "scientific_name": "Marumba maackii (Bremer, 1861)",
+  "display_name": "산등줄박각시",
+  "family_ko": "박각시과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "누에나방상과",
+      "name_latin": "Bombycoidea"
+    },
+    "family": {
+      "name_ko": "박각시과",
+      "name_latin": "Sphingidae"
+    },
+    "subfamily": {
+      "name_ko": "박각시아과",
+      "name_latin": "Sphinginae"
+    },
+    "genus": {
+      "name_ko": "등줄박각시속",
+      "name_latin": "Marumba"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 누에나방상과 (Bombycoidea)\n과 : 박각시과 (Sphingidae)\n아과 : 박각시아과 (Sphinginae)\n속 : 등줄박각시속 (Marumba)",
+  "basic_information": {
+    "곤충명": "산등줄박각시",
+    "학명": "Marumba maackii (Bremer, 1861)"
+  },
+  "information": {
+    "general_description": "날개편 길이 78～96mm. 등줄박각시와 유사하나 날개의 바탕색이 다소 어둡다. 앞날개는 녹색기가 돌고 뒷날개의 전연과 외연 부위의 황색이 두드러진다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "7월에서 8월까지 출현.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[중국]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 78～96mm. 등줄박각시와 유사하나 날개의 바탕색이 다소 어둡다. 앞날개는 녹색기가 돌고 뒷날개의 전연과 외연 부위의 황색이 두드러진다."
+    },
+    {
+      "title": "생태",
+      "text": "7월에서 8월까지 출현."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREV0020-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0020_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0020_2_th.jpg",
+      "alt": "산등줄박각시 1번째 사진 : 산등줄박각시전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0020_2_th2.jpg",
+      "caption": "산등줄박각시전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREV0020-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0020_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0020_1_th.jpg",
+      "alt": "산등줄박각시 2번째 사진 : 산등줄박각시전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0020_1_th2.jpg",
+      "caption": "산등줄박각시전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREV0020-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0204241082",
+      "description": "[FRIE0204241082] 산등줄박각시 1986.08.09 / / 국립산림과학원"
+    },
+    {
+      "id": "SNUE0203231003",
+      "description": "[SNUE0203231003] 산등줄박각시 1960.06.20 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0203231004",
+      "description": "[SNUE0203231004] 산등줄박각시 1990.08.15 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREV0020-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREV0020&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:32+00:00",
+    "html_sha256": "65319eb4f5a43c7d7321673c95445c8897c57187dd8af6b9210c372e89f6793b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

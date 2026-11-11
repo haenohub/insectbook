@@ -1,0 +1,111 @@
+{
+  "id": "ZRCI0263",
+  "name_ko": "까치물결자나방",
+  "scientific_name": "Rheumaptera hecate (Butler, 1878)",
+  "display_name": "까치물결자나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "물결자나방아과",
+      "name_latin": "Larentiinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Rheumaptera"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 물결자나방아과 (Larentiinae)\n속 : (Rheumaptera)",
+  "basic_information": {
+    "곤충명": "까치물결자나방",
+    "학명": "Rheumaptera hecate (Butler, 1878)"
+  },
+  "information": {
+    "general_description": "더듬이는 암수가 모두 실모양이다. 몸과 날개는 모두 흑색인데 아랫입술수염의 복면과 가슴의 복면은 약간 회백색을 띤다. 발목마디의 각 말단과 배의 각 환절의 말단은 가늘게 백색을 띤다. 앞뒤날개는 모두 중앙에 1개의 백색 띠가 있다. 앞날개의 것은 전연에서 제3실까지는 굵고, 이곳에서 굴곡하며,그다음부터는 약간 가늘어진다. 앞날개의 전연에는 시정 가까이에 작은 백색 점이 있다. 연모는 흑색과 백색이 반문을 이루고 있다. 뒷면도 역시 앞면과 다르지 않으나 곳곳에 백색 점이 산재하는 경우가 있다. 주간에 활동한다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 암수가 모두 실모양이다. 몸과 날개는 모두 흑색인데 아랫입술수염의 복면과 가슴의 복면은 약간 회백색을 띤다. 발목마디의 각 말단과 배의 각 환절의 말단은 가늘게 백색을 띤다. 앞뒤날개는 모두 중앙에 1개의 백색 띠가 있다. 앞날개의 것은 전연에서 제3실까지는 굵고, 이곳에서 굴곡하며,그다음부터는 약간 가늘어진다. 앞날개의 전연에는 시정 가까이에 작은 백색 점이 있다. 연모는 흑색과 백색이 반문을 이루고 있다. 뒷면도 역시 앞면과 다르지 않으나 곳곳에 백색 점이 산재하는 경우가 있다. 주간에 활동한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0263-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0263_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0263_1_th.jpg",
+      "alt": "까치물결자나방 1번째 사진 : 까치물결자나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0263_1_th2.jpg",
+      "caption": "까치물결자나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0263-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0409091002",
+      "description": "[KNAE0409091002] 까치물결자나방 1996.05.31 / / 국립수목원"
+    },
+    {
+      "id": "KNUE0212281254",
+      "description": "[KNUE0212281254] 까치물결자나방 1988.06.13 / / 강원대학교"
+    },
+    {
+      "id": "KNUE0212281255",
+      "description": "[KNUE0212281255] 까치물결자나방 1996.06.12 / / 강원대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRCI0263.png",
+    "reference_image_id": "ZRCI0263-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T09:55:09.746403+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "b2e6bb876d0c8020e8c4415da9533911136f985fa03bdee19b4aca866c9c8460"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0263&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:17+00:00",
+    "html_sha256": "ab78ebb043b42b9ca78b912181716ac95edea81805f7f5a71465cbbed60bf158",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

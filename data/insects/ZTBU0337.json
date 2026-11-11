@@ -1,0 +1,107 @@
+{
+  "id": "ZTBU0337",
+  "name_ko": "긴무늬맵시벌",
+  "scientific_name": "Ichneumon longicellus Uchida, 1926",
+  "display_name": "긴무늬맵시벌",
+  "family_ko": "맵시벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "맵시벌과",
+      "name_latin": "Ichneumonidae"
+    },
+    "subfamily": {
+      "name_ko": "맵시벌아과",
+      "name_latin": "Ichneumoninae"
+    },
+    "genus": {
+      "name_ko": "진맵시벌속",
+      "name_latin": "Ichneumon"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 맵시벌과 (Ichneumonidae)\n아과 : 맵시벌아과 (Ichneumoninae)\n속 : 진맵시벌속 (Ichneumon)",
+  "basic_information": {
+    "곤충명": "긴무늬맵시벌",
+    "학명": "Ichneumon longicellus Uchida, 1926"
+  },
+  "information": {
+    "general_description": "♀의 머리, 가슴, 제1·4·5배마디는 흑색이고 제2·3배마디는 적색이나 뒷슭은 흑색이다. 작은방패판과 제6·7배마디는 더듬이는 흑갈색이나 중앙은 황백색 무늬가 있다. 날개는 다소 흐리고 다리는 흑색이나 각 종아리마디와 발목마디는 적갈색이다. 머리와 가슴, 제1·2·3배마디에는 잔점각이 밀포하고, 제1배마디의 뒤쪽에는 세로 주름이 있고 제4배마디부터 끝은 원활하다. 16mm 정도",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "♀의 머리, 가슴, 제1·4·5배마디는 흑색이고 제2·3배마디는 적색이나 뒷슭은 흑색이다. 작은방패판과 제6·7배마디는 더듬이는 흑갈색이나 중앙은 황백색 무늬가 있다. 날개는 다소 흐리고 다리는 흑색이나 각 종아리마디와 발목마디는 적갈색이다. 머리와 가슴, 제1·2·3배마디에는 잔점각이 밀포하고, 제1배마디의 뒤쪽에는 세로 주름이 있고 제4배마디부터 끝은 원활하다. 16mm 정도"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBU0337-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0337_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0337_1_th.jpg",
+      "alt": "긴무늬맵시벌 1번째 사진 : 긴무늬맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0337_1_th2.jpg",
+      "caption": "긴무늬맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBU0337-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305281003",
+      "description": "[YNUE0305281003] 긴무늬맵시벌 1969.06.22 / / 영남대학교"
+    },
+    {
+      "id": "ADUE0202231088",
+      "description": "[ADUE0202231088] 긴무늬맵시벌 2000.05.25 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0202231089",
+      "description": "[ADUE0202231089] 긴무늬맵시벌 2000.05.20 / / 안동대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTBU0337.png",
+    "reference_image_id": "ZTBU0337-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T09:06:46.700930+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "96a264b1185846980087bfc99cfbe5f021a54c1463621748b0aa59a4f42e167d"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBU0337&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:01+00:00",
+    "html_sha256": "a770fd1e7bc327f227f36dcb3610ee378b888037d3bc0600f28b726635608719",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

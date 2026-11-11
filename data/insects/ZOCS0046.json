@@ -1,0 +1,107 @@
+{
+  "id": "ZOCS0046",
+  "name_ko": "길쭉방아벌레",
+  "scientific_name": "Ectamenogonus plebejus (Candèze, 1873)",
+  "display_name": "길쭉방아벌레",
+  "family_ko": "방아벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "방아벌레상과",
+      "name_latin": "Elateroidea"
+    },
+    "family": {
+      "name_ko": "방아벌레과",
+      "name_latin": "Elateridae"
+    },
+    "subfamily": {
+      "name_ko": "방아벌레아과",
+      "name_latin": "Elaterinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Ectamenogonus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 방아벌레상과 (Elateroidea)\n과 : 방아벌레과 (Elateridae)\n아과 : 방아벌레아과 (Elaterinae)\n속 : (Ectamenogonus)",
+  "basic_information": {
+    "곤충명": "길쭉방아벌레",
+    "학명": "Ectamenogonus plebejus (Candèze, 1873)"
+  },
+  "information": {
+    "general_description": "한국, 일본, 대만에 분포하며, 체장은 11-15mm 정도이다. 머리는 팽융하고 점각을 밀포하였으며 앞머리의 가로융기는 호상으로 돌출하였다. 촉각은 제4마디부터 톱니 모양으로 되었고 말단마디는 난형이다. 딱지날개는 양쪽이 평행하고 중앙 뒤에서 비스듬히 절단상의 날개끝이 약간 호로 되었다. 점각된 종구가 있고 간실은 융기하고 가로로 주름살이 있고 점각이 밀포하였다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 대만에 분포하며, 체장은 11-15mm 정도이다. 머리는 팽융하고 점각을 밀포하였으며 앞머리의 가로융기는 호상으로 돌출하였다. 촉각은 제4마디부터 톱니 모양으로 되었고 말단마디는 난형이다. 딱지날개는 양쪽이 평행하고 중앙 뒤에서 비스듬히 절단상의 날개끝이 약간 호로 되었다. 점각된 종구가 있고 간실은 융기하고 가로로 주름살이 있고 점각이 밀포하였다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCS0046-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCS0046_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCS0046_1_th.jpg",
+      "alt": "길쭉방아벌레 1번째 사진 : 길쭉방아벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCS0046_1_th2.jpg",
+      "caption": "길쭉방아벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCS0046-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0212176072",
+      "description": "[YNUE0212176072] 길쭉방아벌레 1993.06.19 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0212176076",
+      "description": "[YNUE0212176076] 길쭉방아벌레 1993.06.21 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0212176077",
+      "description": "[YNUE0212176077] 길쭉방아벌레 2001.05.21 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOCS0046.png",
+    "reference_image_id": "ZOCS0046-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T09:31:16.388818+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "6f54249ac398b08d002cbea54250f458047a5edc981de2c61d31492397667749"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCS0046&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:12+00:00",
+    "html_sha256": "2c887f91be0c5cb0979e3575717286d8034cda827f70fac81fd6f0ed17b97b0d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

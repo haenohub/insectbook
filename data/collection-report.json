@@ -1,0 +1,21 @@
+{
+  "generated_at": "2026-11-05T14:15:56+00:00",
+  "complete": true,
+  "counts": {
+    "source_total": 5509,
+    "included": 3303,
+    "excluded_total": 2206,
+    "excluded_without_gallery_photos": 2181,
+    "excluded_anatomy_only": 24,
+    "excluded_image_unavailable": 1,
+    "errors": 0,
+    "gallery_photos": 5330
+  },
+  "filter": "Gallery image present; visual review excludes anatomy-only and unavailable-image records",
+  "network": {
+    "max_concurrency": 8,
+    "minimum_request_interval_seconds": 0.25
+  },
+  "image_files_downloaded": false,
+  "all_image_urls_http_verified": false
+}

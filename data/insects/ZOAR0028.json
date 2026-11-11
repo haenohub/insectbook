@@ -1,0 +1,131 @@
+{
+  "id": "ZOAR0028",
+  "name_ko": "도토리거위벌레",
+  "scientific_name": "Cyllorhynchites (Cyllorhynchites) ursulus quercuphillus Legalov, 2007",
+  "display_name": "도토리거위벌레",
+  "family_ko": "거위벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "거위벌레과",
+      "name_latin": "Attelabidae"
+    },
+    "subfamily": {
+      "name_ko": "주둥이거위벌레아과",
+      "name_latin": "Rhynchitinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Cyllorhynchites"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 거위벌레과 (Attelabidae)\n아과 : 주둥이거위벌레아과 (Rhynchitinae)\n속 : (Cyllorhynchites)",
+  "basic_information": {
+    "곤충명": "도토리거위벌레",
+    "학명": "Cyllorhynchites (Cyllorhynchites) ursulus quercuphillus Legalov, 2007"
+  },
+  "information": {
+    "general_description": "성충의 몸길이는 약 9 mm이며 체색은 흑색 내지 암갈색이고 광택이 난다. 날개에 회황색의 털이 밀생해 있고 흑색의 털도 드문드문 나 있으며 날개의 길이와 비슷할 정도로 긴 주둥이를 가지고 있다. 촉각은 11절이고 선단(先端) 3절부터 팽대되어 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": "노숙 유충의 몸길이는 7~11 mm로 체색은 유백색이고 항문에 삼각형으로 배열된 3쌍의 강모가 있다.",
+    "egg": "알은 장타원형으로 장경이 약 1.3 mm, 단경이 약 0.1 mm이고 유백색이며 부화 직전에 황색으로 변한다.",
+    "pupa": "번데기는 유백색이고 꼬리에 1쌍의 갈색 강모가 있다.",
+    "ecology": "연 1회 발생한다. 5월 하순경에 번데기가 되기 시작하며 용 기간은 21~33일이다. 성충 우화 시기는 6월 중순~9월 하순 사이이고 최성기는 8월 상순이다. 우화한 성충은 나무 위에서 도토리에 주둥이를 꽂고 흡즙하며 생활한다. 성충의 산란수는 20~30여 개이다. 산란 습성은 주둥이로 도토리에 구멍을 뚫은 후 산란관을 꽂고 1회에 1~2개씩 낳으며 오후 5시경에 가장 많이 산란한다. 난 기간은 5~8일이고 7월 하순경에 유충으로 부화한다. 유충은 구과(毬果)의 과육을 섭식하며 생활하다가 20여 일 후에 피해과(被害果)에서 뚫고 나와 땅 속 3~9 cm 깊이까지 들어가 흙집을 짓고 월동한다.",
+    "habits": "참나무류의 구과(毬果)인 도토리에 주둥이로 구멍을 뚫고 산란한 후 도토리가 달린 가지를 주둥이로 잘라 땅으로 떨어뜨린다. 알에서 부화한 유충이 과육을 식해한다.",
+    "season": null,
+    "overwintering": "노숙 유충이 땅 속에서 흙집을 짓고 월동한다.",
+    "distribution": "[일본]\n[중국]\n[러시아]",
+    "notes": "[보통종]\n[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충의 몸길이는 약 9 mm이며 체색은 흑색 내지 암갈색이고 광택이 난다. 날개에 회황색의 털이 밀생해 있고 흑색의 털도 드문드문 나 있으며 날개의 길이와 비슷할 정도로 긴 주둥이를 가지고 있다. 촉각은 11절이고 선단(先端) 3절부터 팽대되어 있다."
+    },
+    {
+      "title": "번데기",
+      "text": "번데기는 유백색이고 꼬리에 1쌍의 갈색 강모가 있다."
+    },
+    {
+      "title": "유충",
+      "text": "노숙 유충의 몸길이는 7~11 mm로 체색은 유백색이고 항문에 삼각형으로 배열된 3쌍의 강모가 있다."
+    },
+    {
+      "title": "생태",
+      "text": "연 1회 발생한다. 5월 하순경에 번데기가 되기 시작하며 용 기간은 21~33일이다. 성충 우화 시기는 6월 중순~9월 하순 사이이고 최성기는 8월 상순이다. 우화한 성충은 나무 위에서 도토리에 주둥이를 꽂고 흡즙하며 생활한다. 성충의 산란수는 20~30여 개이다. 산란 습성은 주둥이로 도토리에 구멍을 뚫은 후 산란관을 꽂고 1회에 1~2개씩 낳으며 오후 5시경에 가장 많이 산란한다. 난 기간은 5~8일이고 7월 하순경에 유충으로 부화한다. 유충은 구과(毬果)의 과육을 섭식하며 생활하다가 20여 일 후에 피해과(被害果)에서 뚫고 나와 땅 속 3~9 cm 깊이까지 들어가 흙집을 짓고 월동한다."
+    },
+    {
+      "title": "습성",
+      "text": "참나무류의 구과(毬果)인 도토리에 주둥이로 구멍을 뚫고 산란한 후 도토리가 달린 가지를 주둥이로 잘라 땅으로 떨어뜨린다. 알에서 부화한 유충이 과육을 식해한다."
+    },
+    {
+      "title": "월동",
+      "text": "노숙 유충이 땅 속에서 흙집을 짓고 월동한다."
+    },
+    {
+      "title": "알",
+      "text": "알은 장타원형으로 장경이 약 1.3 mm, 단경이 약 0.1 mm이고 유백색이며 부화 직전에 황색으로 변한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]\n[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAR0028-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0028_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0028_1_th.jpg",
+      "alt": "도토리거위벌레 1번째 사진 : 도토리거위벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0028_1_th2.jpg",
+      "caption": "도토리거위벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAR0028-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0306131059",
+      "description": "[FRIE0306131059] 도토리거위벌레 1998.07.08 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0305131066",
+      "description": "[FRIE0305131066] 도토리거위벌레 1982.08.15 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0305131067",
+      "description": "[FRIE0305131067] 도토리거위벌레 1982.08.13 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAR0028-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAR0028&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:24+00:00",
+    "html_sha256": "0ac365188a992d10729ffffd4b346ff094c17b2c84bea7e93b9e2b92f2b925d7",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

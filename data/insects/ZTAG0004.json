@@ -1,0 +1,114 @@
+{
+  "id": "ZTAG0004",
+  "name_ko": "수중다리어리꿀벌",
+  "scientific_name": "Colletes (Colletes) patellatus Perez, 1905",
+  "display_name": "수중다리어리꿀벌",
+  "family_ko": "어리꿀벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "어리꿀벌과",
+      "name_latin": "Colletidae"
+    },
+    "subfamily": {
+      "name_ko": "어리꿀벌아과",
+      "name_latin": "Colletinae"
+    },
+    "genus": {
+      "name_ko": "어리꿀벌속",
+      "name_latin": "Colletes"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 어리꿀벌과 (Colletidae)\n아과 : 어리꿀벌아과 (Colletinae)\n속 : 어리꿀벌속 (Colletes)",
+  "basic_information": {
+    "곤충명": "수중다리어리꿀벌",
+    "학명": "Colletes (Colletes) patellatus Perez, 1905"
+  },
+  "information": {
+    "general_description": "몸길이는 암컷이 11mm. 수컷은 9mm 이다. 가슴의 등면은 고르게 담황갈색의 긴 털로 덮였다. 제1-5배마디등판 뒤 쪽의 백색 털 띠는 뚜렷하지만 제1 배마디의 것은 중앙에서 없어졌다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 암컷이 11mm. 수컷은 9mm 이다. 가슴의 등면은 고르게 담황갈색의 긴 털로 덮였다. 제1-5배마디등판 뒤 쪽의 백색 털 띠는 뚜렷하지만 제1 배마디의 것은 중앙에서 없어졌다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0004-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0004_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0004_2_th.jpg",
+      "alt": "수중다리어리꿀벌 1번째 사진 : 수중다리어리꿀벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0004_2_th2.jpg",
+      "caption": "수중다리어리꿀벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTAG0004-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0004_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0004_1_th.jpg",
+      "alt": "수중다리어리꿀벌 2번째 사진 : 수중다리어리꿀벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0004_1_th2.jpg",
+      "caption": "수중다리어리꿀벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0004-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0408102033",
+      "description": "[KUIE0408102033] 수중다리어리꿀벌 1998.09.06 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0408112036",
+      "description": "[KUIE0408112036] 수중다리어리꿀벌 1998.09.05 / / 고려대학교"
+    },
+    {
+      "id": "CJUE0910291007",
+      "description": "[CJUE0910291007] 수중다리어리꿀벌 2003.09.27 / / 제주대학교 곤충표본관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAG0004-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0004&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:37+00:00",
+    "html_sha256": "6372ae35298e0e844455b96ab2e1eebb388e12e583cad0f509f5808a9b8a13ca",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

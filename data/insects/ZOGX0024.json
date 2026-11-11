@@ -1,0 +1,107 @@
+{
+  "id": "ZOGX0024",
+  "name_ko": "금강산거저리",
+  "scientific_name": "Basanus tsushimensis tsushimensis Chûjô, 1963",
+  "display_name": "금강산거저리",
+  "family_ko": "거저리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "거저리상과",
+      "name_latin": "Tenebrionoidea"
+    },
+    "family": {
+      "name_ko": "거저리과",
+      "name_latin": "Tenebrionidae"
+    },
+    "subfamily": {
+      "name_ko": "르위스거저리아과",
+      "name_latin": "Diaperinae"
+    },
+    "genus": {
+      "name_ko": "금강산거저리속",
+      "name_latin": "Basanus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 거저리상과 (Tenebrionoidea)\n과 : 거저리과 (Tenebrionidae)\n아과 : 르위스거저리아과 (Diaperinae)\n속 : 금강산거저리속 (Basanus)",
+  "basic_information": {
+    "곤충명": "금강산거저리",
+    "학명": "Basanus tsushimensis tsushimensis Chûjô, 1963"
+  },
+  "information": {
+    "general_description": "몸길이는 7~9mm 이며, 날개 앞부분에 한쌍의 적갈색 무늬가 있으며, 세로로 몇개의 점각렬이 있다. 머리와 앞가슴 등판의 무늬는 조밀하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 7~9mm 이며, 날개 앞부분에 한쌍의 적갈색 무늬가 있으며, 세로로 몇개의 점각렬이 있다. 머리와 앞가슴 등판의 무늬는 조밀하다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGX0024-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGX0024_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGX0024_1_th.jpg",
+      "alt": "금강산거저리 1번째 사진 : 금강산거저리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGX0024_1_th2.jpg",
+      "caption": "금강산거저리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGX0024-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303272021",
+      "description": "[KNAE0303272021] 금강산거저리 1995.06.22 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303272022",
+      "description": "[KNAE0303272022] 금강산거저리 1990.10.12 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303272023",
+      "description": "[KNAE0303272023] 금강산거저리 1994.08.13 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOGX0024.png",
+    "reference_image_id": "ZOGX0024-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T14:53:26.328977+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "7caece92e675eb33037dc2d054ac8c2de8b2f395e230b6397f19605e8cca48ba"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGX0024&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:43+00:00",
+    "html_sha256": "8ddd34f6f2a1b31840eca662182bb4984d5a7bea5943798a1722722be106b43b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

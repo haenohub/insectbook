@@ -1,0 +1,115 @@
+{
+  "id": "ZOCF0081",
+  "name_ko": "길쭉바구미",
+  "scientific_name": "Lixus (Dilixellus) impressiventris Roelofs, 1873",
+  "display_name": "길쭉바구미",
+  "family_ko": "바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "바구미과",
+      "name_latin": "Curculionidae"
+    },
+    "subfamily": {
+      "name_ko": "길쭉바구미아과",
+      "name_latin": "Lixinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Lixus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 바구미과 (Curculionidae)\n아과 : 길쭉바구미아과 (Lixinae)\n속 : (Lixus)",
+  "basic_information": {
+    "곤충명": "길쭉바구미",
+    "학명": "Lixus (Dilixellus) impressiventris Roelofs, 1873"
+  },
+  "information": {
+    "general_description": "몸길이는 6.5~13mm 이며 딱지날개의 끝이 예리한 각을 이룬다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 4월이후에 발견된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 6.5~13mm 이며 딱지날개의 끝이 예리한 각을 이룬다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 4월이후에 발견된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCF0081-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0081_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0081_1_th.jpg",
+      "alt": "길쭉바구미 1번째 사진 : 길쭉바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0081_1_th2.jpg",
+      "caption": "길쭉바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCF0081-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303132030",
+      "description": "[KNAE0303132030] 길쭉바구미 1995.07.07 / / 국립수목원"
+    },
+    {
+      "id": "CBNE0212301071",
+      "description": "[CBNE0212301071] 길쭉바구미 2001.06.19 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0212301072",
+      "description": "[CBNE0212301072] 길쭉바구미 2001.05.13 / / 충북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOCF0081.png",
+    "reference_image_id": "ZOCF0081-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T09:30:36.060448+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "08c359bbdece762b8808378ea0a7d4220e5075d8771ec0f27d53745fd98869e1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCF0081&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:11+00:00",
+    "html_sha256": "5050c7d351f183bd27b3596a92fac811d6ec534b0675d951f9322aac333b1778",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

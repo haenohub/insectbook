@@ -1,0 +1,111 @@
+{
+  "id": "ZRCQ0003",
+  "name_ko": "큰수리팔랑나비",
+  "scientific_name": "Bibasis striata (Hewitson, 1867)",
+  "display_name": "큰수리팔랑나비",
+  "family_ko": "팔랑나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "팔랑나비과",
+      "name_latin": "Hesperiidae"
+    },
+    "subfamily": {
+      "name_ko": "수리팔랑나비아과",
+      "name_latin": "Coeliadinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Bibasis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 팔랑나비과 (Hesperiidae)\n아과 : 수리팔랑나비아과 (Coeliadinae)\n속 : (Bibasis)",
+  "basic_information": {
+    "곤충명": "큰수리팔랑나비",
+    "학명": "Bibasis striata (Hewitson, 1867)"
+  },
+  "information": {
+    "general_description": "수컷은 앞날개 윗면 제 1b,2,3맥 중간이 굵어져 잇어 암컷과 쉽게 구별된다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "참나무림 주변에 서식한다. 오전 9시 이전이나 오후 6∼7시경 참나무림의 진에 모이는 경우가 있다. 날아다닐 때에는 직선적으로 빠른데, 더운 한낮 동안에는 서식지 주변의 나뭇잎 위에서 휴식하는 것으로 보인다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": "[희귀종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "수컷은 앞날개 윗면 제 1b,2,3맥 중간이 굵어져 잇어 암컷과 쉽게 구별된다."
+    },
+    {
+      "title": "습성",
+      "text": "참나무림 주변에 서식한다. 오전 9시 이전이나 오후 6∼7시경 참나무림의 진에 모이는 경우가 있다. 날아다닐 때에는 직선적으로 빠른데, 더운 한낮 동안에는 서식지 주변의 나뭇잎 위에서 휴식하는 것으로 보인다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[희귀종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCQ0003-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0003_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0003_1_th.jpg",
+      "alt": "큰수리팔랑나비 1번째 사진 : 큰수리팔랑나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0003_1_th2.jpg",
+      "caption": "큰수리팔랑나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCQ0003-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0203082137",
+      "description": "[KPNE0203082137] 큰수리팔랑나비 1992.05.28 / / 경북대학교"
+    },
+    {
+      "id": "FRIE0111191002",
+      "description": "[FRIE0111191002] 큰수리팔랑나비 1957.08.19 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0111191003",
+      "description": "[FRIE0111191003] 큰수리팔랑나비 1987.08.11 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCQ0003-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCQ0003&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:52+00:00",
+    "html_sha256": "d4f9b02f85ae77b4956835e37cd60910aaab1f743d9551d6f7cecbfd68d61ff0",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "id": "ZTAG0095",
+  "name_ko": "일본애수염줄벌",
+  "scientific_name": "Eucera (Synhalonia) nipponensis (Pérez, 1911)",
+  "display_name": "일본애수염줄벌",
+  "family_ko": "꿀벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "꿀벌과",
+      "name_latin": "Apidae"
+    },
+    "subfamily": {
+      "name_ko": "꿀벌아과",
+      "name_latin": "Apinae"
+    },
+    "genus": {
+      "name_ko": "수염줄벌속",
+      "name_latin": "Eucera"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 꿀벌과 (Apidae)\n아과 : 꿀벌아과 (Apinae)\n속 : 수염줄벌속 (Eucera)",
+  "basic_information": {
+    "곤충명": "일본애수염줄벌",
+    "학명": "Eucera (Synhalonia) nipponensis (Pérez, 1911)"
+  },
+  "information": {
+    "general_description": "몸길이는 14mm 정도이고, 암컷의 제2-4배마디등판의 기부에는 담갈색의 연한 털이 났고, 제5.6배마디등판의 털은 등갈색이다. 수컷은 밝은 갈색 털로 덮였고 배마디 가로띠는 그다지 뚜렷하지 않다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "개나리 등의 꽃에 모인다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[감소추세종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 14mm 정도이고, 암컷의 제2-4배마디등판의 기부에는 담갈색의 연한 털이 났고, 제5.6배마디등판의 털은 등갈색이다. 수컷은 밝은 갈색 털로 덮였고 배마디 가로띠는 그다지 뚜렷하지 않다."
+    },
+    {
+      "title": "생태",
+      "text": "개나리 등의 꽃에 모인다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[감소추세종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0095-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0095_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0095_2_th.jpg",
+      "alt": "일본애수염줄벌 1번째 사진 : 일본애수염줄벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0095_2_th2.jpg",
+      "caption": "일본애수염줄벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTAG0095-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0095_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0095_1_th.jpg",
+      "alt": "일본애수염줄벌 2번째 사진 : 일본애수염줄벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0095_1_th2.jpg",
+      "caption": "일본애수염줄벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0095-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305311064",
+      "description": "[YNUE0305311064] 일본애수염줄벌 1996.06.01 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305311065",
+      "description": "[YNUE0305311065] 일본애수염줄벌 1996.06.01 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305311066",
+      "description": "[YNUE0305311066] 일본애수염줄벌 1996.06.02 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAG0095-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0095&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:39+00:00",
+    "html_sha256": "f5ebdab8324a736bb9567acf6ec8c8dff449458ab6b600b8a33740a2ac4a197e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

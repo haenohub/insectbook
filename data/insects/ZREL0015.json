@@ -1,0 +1,122 @@
+{
+  "id": "ZREL0015",
+  "name_ko": "이화명나방붙이",
+  "scientific_name": "Chilo luteellus (Motschulsky, 1866)",
+  "display_name": "이화명나방붙이",
+  "family_ko": "풀명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "풀명나방과",
+      "name_latin": "Crambidae"
+    },
+    "subfamily": {
+      "name_ko": "풀명나방아과",
+      "name_latin": "Crambinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Chilo"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 풀명나방과 (Crambidae)\n아과 : 풀명나방아과 (Crambinae)\n속 : (Chilo)",
+  "basic_information": {
+    "곤충명": "이화명나방붙이",
+    "학명": "Chilo luteellus (Motschulsky, 1866)"
+  },
+  "information": {
+    "general_description": "날개편 길이는 25-38mm. 머리는 담갈색 비늘로 덮여 있으며, 앞이마는 원추 모양으로 돌출한다. 더듬이는 황갈색이다. 작은턱수염은 담갈색에 황갈색 비늘이 섞여 있으며, 끝이 팽대되어 있다. 아랫입술수염은 백갈색으로 선단은 흑갈색이 강하고, 거의 앞으로 향하며 길다. 가슴과 배의 등쪽면은 담갈색이고 배쪽면은 백갈색이며, 다리는 약간 갈색을 띤다. 암컷은 모두 황색이 강하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "유충은 일본에서는 벼 과 식물인 달뿌리, 갈대의 줄기 속에 들어가 먹는다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대한민국] 경기도\n[중국]\n[일본]\n[유럽]\n[미국]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이는 25-38mm. 머리는 담갈색 비늘로 덮여 있으며, 앞이마는 원추 모양으로 돌출한다. 더듬이는 황갈색이다. 작은턱수염은 담갈색에 황갈색 비늘이 섞여 있으며, 끝이 팽대되어 있다. 아랫입술수염은 백갈색으로 선단은 흑갈색이 강하고, 거의 앞으로 향하며 길다. 가슴과 배의 등쪽면은 담갈색이고 배쪽면은 백갈색이며, 다리는 약간 갈색을 띤다. 암컷은 모두 황색이 강하다."
+    },
+    {
+      "title": "생태",
+      "text": "유충은 일본에서는 벼 과 식물인 달뿌리, 갈대의 줄기 속에 들어가 먹는다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대한민국] 경기도\n[중국]\n[일본]\n[유럽]\n[미국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0015-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0015_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0015_2_th.jpg",
+      "alt": "이화명나방붙이 1번째 사진 : 이화명나방붙이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0015_2_th2.jpg",
+      "caption": "이화명나방붙이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREL0015-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0015_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0015_1_th.jpg",
+      "alt": "이화명나방붙이 2번째 사진 : 이화명나방붙이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0015_1_th2.jpg",
+      "caption": "이화명나방붙이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0015-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0608101133",
+      "description": "[UIBE0608101133] 이화명나방붙이 1999.07.06 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0608101134",
+      "description": "[UIBE0608101134] 이화명나방붙이 1998.08.03 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0608101138",
+      "description": "[UIBE0608101138] 이화명나방붙이 1998.08.03 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREL0015-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0015&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:35+00:00",
+    "html_sha256": "0c4e33f370a703e0f85f76e2c6b02a49350597fc04791ec2940055387a99ebb6",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

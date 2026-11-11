@@ -1,0 +1,107 @@
+{
+  "id": "ZOAN0016",
+  "name_ko": "넉점박이똥풍뎅이",
+  "scientific_name": "Aphodius (Agrilinus) sordidus (Fabricius, 1775)",
+  "display_name": "넉점박이똥풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "똥풍뎅이아과",
+      "name_latin": "Aphodiinae"
+    },
+    "genus": {
+      "name_ko": "똥풍뎅이속",
+      "name_latin": "Aphodius"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 똥풍뎅이아과 (Aphodiinae)\n속 : 똥풍뎅이속 (Aphodius)",
+  "basic_information": {
+    "곤충명": "넉점박이똥풍뎅이",
+    "학명": "Aphodius (Agrilinus) sordidus (Fabricius, 1775)"
+  },
+  "information": {
+    "general_description": "구북구 전역에 분포하며 황갈색이나 두흉배는 암~흑갈색이고 둘레는 흐리다. 날개끝은 광택이 둔한데 한국산은 각 딱지날개의 중앙 앞,뒤에 2개의 암색 무늬를 가진 quadripunctatus형이 많다. 전흉배판 후각은 둥글고 단순하며, 소순판은 삼각형이다. 중,후경절단극모들의 길이는 서로 같고, 제1후부절은 다음 3마디의 합보다 짧다. BL:5~7mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "구북구 전역에 분포하며 황갈색이나 두흉배는 암~흑갈색이고 둘레는 흐리다. 날개끝은 광택이 둔한데 한국산은 각 딱지날개의 중앙 앞,뒤에 2개의 암색 무늬를 가진 quadripunctatus형이 많다. 전흉배판 후각은 둥글고 단순하며, 소순판은 삼각형이다. 중,후경절단극모들의 길이는 서로 같고, 제1후부절은 다음 3마디의 합보다 짧다. BL:5~7mm."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAN0016-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAN0016_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAN0016_1_th.jpg",
+      "alt": "넉점박이똥풍뎅이 1번째 사진 : 넉점박이똥풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAN0016_1_th2.jpg",
+      "caption": "넉점박이똥풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAN0016-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0304011010",
+      "description": "[FRIE0304011010] 넉점박이똥풍뎅이 1977.10.01 / / 국립산림과학원"
+    },
+    {
+      "id": "SSUE0302241001",
+      "description": "[SSUE0302241001] 넉점박이똥풍뎅이 1983.10.18 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0302241002",
+      "description": "[SSUE0302241002] 넉점박이똥풍뎅이 1984.10.01 / / 성신여자대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOAN0016.png",
+    "reference_image_id": "ZOAN0016-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T09:58:45.795254+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "24be8e74364509817e3f30e4cd432427e99055f3576a61bd0e2621ffe350002f"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAN0016&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:33+00:00",
+    "html_sha256": "2f85d30a40577d0616034a1db5b0fcef51284f318f3c360159eea924d2ffe07f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

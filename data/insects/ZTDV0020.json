@@ -1,0 +1,110 @@
+{
+  "id": "ZTDV0020",
+  "name_ko": "제주왕바다리",
+  "scientific_name": "Polistes rothneyi iwatai van der Vecht, 1968",
+  "display_name": "제주왕바다리",
+  "family_ko": "말벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "말벌상과",
+      "name_latin": "Vespoidea"
+    },
+    "family": {
+      "name_ko": "말벌과",
+      "name_latin": "Vespidae"
+    },
+    "subfamily": {
+      "name_ko": "쌍살벌아과",
+      "name_latin": "Polistinae"
+    },
+    "genus": {
+      "name_ko": "쌍살벌속",
+      "name_latin": "Polistes"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 말벌상과 (Vespoidea)\n과 : 말벌과 (Vespidae)\n아과 : 쌍살벌아과 (Polistinae)\n속 : 쌍살벌속 (Polistes)",
+  "basic_information": {
+    "곤충명": "제주왕바다리",
+    "학명": "Polistes rothneyi iwatai van der Vecht, 1968"
+  },
+  "information": {
+    "general_description": "뒷머리의 용골선은 완전하고 대악기부까지 도달한다. 가로무늬 용골선은 가장자리 끝까지 닿는다. 복부는 진한 노란색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "뒷머리의 용골선은 완전하고 대악기부까지 도달한다. 가로무늬 용골선은 가장자리 끝까지 닿는다. 복부는 진한 노란색이다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDV0020-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZTDV0020_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZTDV0020_2.jpg",
+      "alt": "제주왕바다리 1번째 사진 : ",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZTDV0020_2_th2.jpg",
+      "caption": null,
+      "photographed_at": "20130904",
+      "location": null,
+      "photographer": "국립수목원(임종옥)"
+    },
+    {
+      "id": "ZTDV0020-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDV0020_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDV0020_1_th.jpg",
+      "alt": "제주왕바다리 2번째 사진 : 제주왕바다리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDV0020_1_th2.jpg",
+      "caption": "제주왕바다리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDV0020-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0202151008",
+      "description": "[SNUE0202151008] 제주왕바다리 2001.09.08 / / 서울대학교"
+    },
+    {
+      "id": "UIBE0408051025",
+      "description": "[UIBE0408051025] 제주왕바다리 2000.08.03 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0408051026",
+      "description": "[UIBE0408051026] 제주왕바다리 1998.09.10 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDV0020-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDV0020&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:35+00:00",
+    "html_sha256": "820473e9d3998d244eefc8fa08846e072f187e55942d78a4d407c97b401d7872",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

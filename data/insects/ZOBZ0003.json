@@ -1,0 +1,115 @@
+{
+  "id": "ZOBZ0003",
+  "name_ko": "꼬마무당벌레",
+  "scientific_name": "Stethorus (Stethorus) pusillus (Herbst, 1797)",
+  "display_name": "꼬마무당벌레",
+  "family_ko": "무당벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Coccinelloidea"
+    },
+    "family": {
+      "name_ko": "무당벌레과",
+      "name_latin": "Coccinellidae"
+    },
+    "subfamily": {
+      "name_ko": "무당벌레아과",
+      "name_latin": "Coccinellinae"
+    },
+    "genus": {
+      "name_ko": "꼬마무당벌레속",
+      "name_latin": "Stethorus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : (Coccinelloidea)\n과 : 무당벌레과 (Coccinellidae)\n아과 : 무당벌레아과 (Coccinellinae)\n속 : 꼬마무당벌레속 (Stethorus)",
+  "basic_information": {
+    "곤충명": "꼬마무당벌레",
+    "학명": "Stethorus (Stethorus) pusillus (Herbst, 1797)"
+  },
+  "information": {
+    "general_description": "체형은 난원형이며 체색은 흑색이고 부분적으로 연하다. 앞가슴등판의 홈은 산만하며 중앙부에는 가늘다.\n주로 한국(남, 북한), 시베리아, 중국 및 유럽에 분포한다.",
+    "adult": null,
+    "adult_male": "수컷생식기의 음경은 길고 가는 형태이며 끝에는 실모양의 형태를 띤다. 교미구옆면에는 강모형 털이 2개정도가 나있으며 길이는 긴편이다.",
+    "adult_female": "암컷의 생식기는 2개의 ovaliole만 가지고 있다. 생식판에는 삼각형이며 가는 형태이며 끝에 짧은털이 매우 빽빽하게 나있다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "기록에 의하면 홍릉, 안암동, 청계산, 평택, 충북, 경산, 전남, 내장산 등지에서 5월~10월경에 채집된 것으로 되어 있다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[유럽]\n[러시아]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체형은 난원형이며 체색은 흑색이고 부분적으로 연하다. 앞가슴등판의 홈은 산만하며 중앙부에는 가늘다.\n주로 한국(남, 북한), 시베리아, 중국 및 유럽에 분포한다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "수컷생식기의 음경은 길고 가는 형태이며 끝에는 실모양의 형태를 띤다. 교미구옆면에는 강모형 털이 2개정도가 나있으며 길이는 긴편이다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "암컷의 생식기는 2개의 ovaliole만 가지고 있다. 생식판에는 삼각형이며 가는 형태이며 끝에 짧은털이 매우 빽빽하게 나있다."
+    },
+    {
+      "title": "생태",
+      "text": "기록에 의하면 홍릉, 안암동, 청계산, 평택, 충북, 경산, 전남, 내장산 등지에서 5월~10월경에 채집된 것으로 되어 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[유럽]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBZ0003-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBZ0003_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBZ0003_1_th.jpg",
+      "alt": "꼬마무당벌레 1번째 사진 : 꼬마무당벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBZ0003_1_th2.jpg",
+      "caption": "꼬마무당벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBZ0003-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0306171192",
+      "description": "[KUIE0306171192] 꼬마무당벌레 1986.05.31 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBZ0003.png",
+    "reference_image_id": "ZOBZ0003-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T13:42:08.297666+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "6cc86c0df8c08a49260b666ff0017f645b7f916a17f970c63d72a0fb91896351"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBZ0003&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:36+00:00",
+    "html_sha256": "346f336cd7705470edc9ad74071313c69bbcd368b3c8f837963b48dde2da94bb",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "ZSAQ0012",
+  "name_ko": "붉은등금파리",
+  "scientific_name": "Lucilia porphyrina (Walker, 1856)",
+  "display_name": "붉은등금파리",
+  "family_ko": "검정파리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "쇠파리상과",
+      "name_latin": "Oestroidea"
+    },
+    "family": {
+      "name_ko": "검정파리과",
+      "name_latin": "Calliphoridae"
+    },
+    "subfamily": {
+      "name_ko": "검정파리아과",
+      "name_latin": "Calliphorinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Lucilia"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 쇠파리상과 (Oestroidea)\n과 : 검정파리과 (Calliphoridae)\n아과 : 검정파리아과 (Calliphorinae)\n속 : (Lucilia)",
+  "basic_information": {
+    "곤충명": "붉은등금파리",
+    "학명": "Lucilia porphyrina (Walker, 1856)"
+  },
+  "information": {
+    "general_description": "몸길이 7~12mm. 겹눈은 적색, 수컷의 겹눈은 완전 상접하여 위쪽 이마는 검은 줄로 보임. 암컷의 이마폭은 한쪽 겹눈 폭의 절반이며 옆이마는 회백색 가루로 덮임. 아래쪽 이마는 삼각형 모양이고 검정색임. 낯은 갈색이며 옆얼굴은 옆이마와 같이 회백색 가루로 덮임. 더듬이는 흑갈색, 제3마디의 길이는 2마디의 4배, 아래턱수염은 진한 등색임. 가슴, 배는 광택청록색이고 가슴등판의 방패판 앞쪽 어깨부분에 흰가루가 덮임. 작은방패판은 청색이며 배의 1,2마디등판은 광택흑색. 한가운데센털은 2+2, 등가운데센털은 3+3, 앞숨문은 검정색, 날개맥은 흑갈색임. 다리는 흑색이며 각각의 넓적다리마디 위쪽과 아래쪽에 빗살모양 센털이 있음.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 이른봄에 발생하고 땅구멍에서 월동함. 위생해충으로 동물과 조류의 똥에 모이고 썩은 동물질에 산란함.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[필리핀]\n[말레이시아]\n[중국]\n[인도]\n[인도네시아]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 7~12mm. 겹눈은 적색, 수컷의 겹눈은 완전 상접하여 위쪽 이마는 검은 줄로 보임. 암컷의 이마폭은 한쪽 겹눈 폭의 절반이며 옆이마는 회백색 가루로 덮임. 아래쪽 이마는 삼각형 모양이고 검정색임. 낯은 갈색이며 옆얼굴은 옆이마와 같이 회백색 가루로 덮임. 더듬이는 흑갈색, 제3마디의 길이는 2마디의 4배, 아래턱수염은 진한 등색임. 가슴, 배는 광택청록색이고 가슴등판의 방패판 앞쪽 어깨부분에 흰가루가 덮임. 작은방패판은 청색이며 배의 1,2마디등판은 광택흑색. 한가운데센털은 2+2, 등가운데센털은 3+3, 앞숨문은 검정색, 날개맥은 흑갈색임. 다리는 흑색이며 각각의 넓적다리마디 위쪽과 아래쪽에 빗살모양 센털이 있음."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 이른봄에 발생하고 땅구멍에서 월동함. 위생해충으로 동물과 조류의 똥에 모이고 썩은 동물질에 산란함."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[필리핀]\n[말레이시아]\n[중국]\n[인도]\n[인도네시아]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSAQ0012-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSAQ0012_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSAQ0012_1_th.jpg",
+      "alt": "붉은등금파리 1번째 사진 : 붉은등금파리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSAQ0012_1_th2.jpg",
+      "caption": "붉은등금파리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSAQ0012-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0308041313",
+      "description": "[KUIE0308041313] 붉은등금파리 1972.07.29 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0308041314",
+      "description": "[KUIE0308041314] 붉은등금파리 1971.06.13 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0308041315",
+      "description": "[KUIE0308041315] 붉은등금파리 1974.06.07 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZSAQ0012-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSAQ0012&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:46+00:00",
+    "html_sha256": "58a38f9c9ff39b254cd8ab3ef43b13a706aa85dbc5d70216963ee5620c977216",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

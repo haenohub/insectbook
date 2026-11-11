@@ -1,0 +1,137 @@
+{
+  "id": "ZMAK0021",
+  "name_ko": "노랑무늬거품벌레",
+  "scientific_name": "Aphrophora major Uhler, 1896",
+  "display_name": "노랑무늬거품벌레",
+  "family_ko": "거품벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "거품벌레상과",
+      "name_latin": "Cercopoidea"
+    },
+    "family": {
+      "name_ko": "거품벌레과",
+      "name_latin": "Aphrophoridae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Aphrophorinae"
+    },
+    "genus": {
+      "name_ko": "큰거품벌레속",
+      "name_latin": "Aphrophora"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 거품벌레상과 (Cercopoidea)\n과 : 거품벌레과 (Aphrophoridae)\n아과 : (Aphrophorinae)\n속 : 큰거품벌레속 (Aphrophora)",
+  "basic_information": {
+    "곤충명": "노랑무늬거품벌레",
+    "학명": "Aphrophora major Uhler, 1896"
+  },
+  "information": {
+    "general_description": "몸기이: 12-13mm 내외. 암컷이 훨씬 더 크다. 우리나라에 분포하는 거품벌레류 중에서 제일 크다. 몸의 등면은 황갈색의 바탕에 회황색과 암갈색및 적갈색의 얼룩 무늬를 가진다. 앞날개의 말단 2/3 지점에 한쌍의 현저한 담황색 점무늬를 가지고 있다. 몸의 아랫면은 다소 진하거나 적갈색을 띤다. 등면에는 광택이 있고 많은 미세점각이 산재해 있다. 머리는 가슴보다 넓고 얼굴이 크게 팽출되어있다. 머리와 앞가슴등판의 중앙부 종주선은 미세하게 올라와있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "주로 산야의 개울가, 논가, 계곡등 다소 습한지역에 서식한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[중국]\n[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸기이: 12-13mm 내외. 암컷이 훨씬 더 크다. 우리나라에 분포하는 거품벌레류 중에서 제일 크다. 몸의 등면은 황갈색의 바탕에 회황색과 암갈색및 적갈색의 얼룩 무늬를 가진다. 앞날개의 말단 2/3 지점에 한쌍의 현저한 담황색 점무늬를 가지고 있다. 몸의 아랫면은 다소 진하거나 적갈색을 띤다. 등면에는 광택이 있고 많은 미세점각이 산재해 있다. 머리는 가슴보다 넓고 얼굴이 크게 팽출되어있다. 머리와 앞가슴등판의 중앙부 종주선은 미세하게 올라와있다."
+    },
+    {
+      "title": "생태",
+      "text": "주로 산야의 개울가, 논가, 계곡등 다소 습한지역에 서식한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMAK0021-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAK0021_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAK0021_2_th.jpg",
+      "alt": "노랑무늬거품벌레 1번째 사진 : 노랑무늬거품벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAK0021_2_th2.jpg",
+      "caption": "노랑무늬거품벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZMAK0021-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAK0021_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAK0021_1_th.jpg",
+      "alt": "노랑무늬거품벌레 2번째 사진 : 노랑무늬거품벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAK0021_1_th2.jpg",
+      "caption": "노랑무늬거품벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMAK0021-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0304011219",
+      "description": "[KPNE0304011219] 노랑무늬거품벌레 1991.09.14 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0304011220",
+      "description": "[KPNE0304011220] 노랑무늬거품벌레 1991.09.14 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0304011221",
+      "description": "[KPNE0304011221] 노랑무늬거품벌레 1991.09.14 / / 경북대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "버드나무",
+      "scientific_name": "Salix pierotii Miq."
+    },
+    {
+      "group": "식물",
+      "name_ko": "쑥",
+      "scientific_name": "Artemisia indica Willd."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZMAK0021.png",
+    "reference_image_id": "ZMAK0021-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T12:02:51.655607+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "48df0c030f6b6d0115613b9ee4243f057ffb6c7c6a5e70486e0d853876619863"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMAK0021&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:11+00:00",
+    "html_sha256": "5fc1e6f793b9e1da8bfa1c6840c00c37c911f4f8ce4e4d38e92c7cba7ec9a520",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

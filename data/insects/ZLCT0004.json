@@ -1,0 +1,114 @@
+{
+  "id": "ZLCT0004",
+  "name_ko": "애두쌍무늬노린재",
+  "scientific_name": "Urochela (Urochela) tunglingensis Yang, 1939",
+  "display_name": "애두쌍무늬노린재",
+  "family_ko": "참나무노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "노린재상과",
+      "name_latin": "Pentatomoidea"
+    },
+    "family": {
+      "name_ko": "참나무노린재과",
+      "name_latin": "Urostylididae"
+    },
+    "subfamily": {
+      "name_ko": "참나무노린재아과",
+      "name_latin": "Urostylidinae"
+    },
+    "genus": {
+      "name_ko": "배나무노린재속",
+      "name_latin": "Urochela"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 노린재상과 (Pentatomoidea)\n과 : 참나무노린재과 (Urostylididae)\n아과 : 참나무노린재아과 (Urostylidinae)\n속 : 배나무노린재속 (Urochela)",
+  "basic_information": {
+    "곤충명": "애두쌍무늬노린재",
+    "학명": "Urochela (Urochela) tunglingensis Yang, 1939"
+  },
+  "information": {
+    "general_description": "몸길이 : 10-11mm\n몸은 회갈색이고, 더듬이는 흑색이며 길다. 더듬이 돌기는 흑색이다. 홑눈은 적색이며, 겹눈은 흑색이고, 뒷머리 부분에 두 줄의 흑색 줄무늬가 있다. 앞가슴등판의 앞가장자리와 양 옆가장자리는 가늘게 위로 융기하여 있고, 흑색 점각이 산포되어 있다. 앞가슴등판과 작은방패판의 정중선 위의 전반부는 점각이 없고 약간 적색을 띤 선이 있다. 작은방패판은 정삼각형에 가깝고 전반부가 다소 볼록하며 점각이 많다. 반시초 좌우에 2쌍의 흑색 무늬가 있는데 앞의 것이 약간 희미하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 10-11mm\n몸은 회갈색이고, 더듬이는 흑색이며 길다. 더듬이 돌기는 흑색이다. 홑눈은 적색이며, 겹눈은 흑색이고, 뒷머리 부분에 두 줄의 흑색 줄무늬가 있다. 앞가슴등판의 앞가장자리와 양 옆가장자리는 가늘게 위로 융기하여 있고, 흑색 점각이 산포되어 있다. 앞가슴등판과 작은방패판의 정중선 위의 전반부는 점각이 없고 약간 적색을 띤 선이 있다. 작은방패판은 정삼각형에 가깝고 전반부가 다소 볼록하며 점각이 많다. 반시초 좌우에 2쌍의 흑색 무늬가 있는데 앞의 것이 약간 희미하다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLCT0004-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCT0004_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCT0004_2_th.jpg",
+      "alt": "애두쌍무늬노린재 1번째 사진 : 애두쌍무늬노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCT0004_2_th2.jpg",
+      "caption": "애두쌍무늬노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZLCT0004-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCT0004_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCT0004_1_th.jpg",
+      "alt": "애두쌍무늬노린재 2번째 사진 : 애두쌍무늬노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCT0004_1_th2.jpg",
+      "caption": "애두쌍무늬노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLCT0004-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0303171160",
+      "description": "[KPNE0303171160] 애두쌍무늬노린재 1985.05.26 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0303171168",
+      "description": "[KPNE0303171168] 애두쌍무늬노린재 1997.06.13 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0303171170",
+      "description": "[KPNE0303171170] 애두쌍무늬노린재 1978.05.21 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLCT0004-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLCT0004&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:06+00:00",
+    "html_sha256": "d6b93825a64810cb968bc91cfa2231fc20bf012646529a30834036c4ed390fe0",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "ZOBH0377",
+  "name_ko": "수염둥글먼지벌레",
+  "scientific_name": "Amara (Amarocelia) erratica (Duftschmid, 1812)",
+  "display_name": "수염둥글먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "먼지벌레아과",
+      "name_latin": "Harpalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Amara"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 먼지벌레아과 (Harpalinae)\n속 : (Amara)",
+  "basic_information": {
+    "곤충명": "수염둥글먼지벌레",
+    "학명": "Amara (Amarocelia) erratica (Duftschmid, 1812)"
+  },
+  "information": {
+    "general_description": "몸의길이는 6~8mm, 촉각과 입술수염 다리는 검은색이다.몸의 색깔은 변화가 많으나 동색또는 적동색의 광택이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[몽골]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의길이는 6~8mm, 촉각과 입술수염 다리는 검은색이다.몸의 색깔은 변화가 많으나 동색또는 적동색의 광택이 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[몽골]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0377-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0377_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0377_1_th.jpg",
+      "alt": "수염둥글먼지벌레 1번째 사진 : 수염둥글먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0377_1_th2.jpg",
+      "caption": "수염둥글먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0377-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0201022038",
+      "description": "[YNUE0201022038] 수염둥글먼지벌레 1997.07.14 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0377-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0377&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:33+00:00",
+    "html_sha256": "0fe69ea7f519aba085f3724902d81fd43d57a9ad2f6eeaf5d70694f5d5cedb05",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "id": "ZRDG0002",
+  "name_ko": "담색긴꼬리부전나비",
+  "scientific_name": "Antigius butleri (Fenton, 1882)",
+  "display_name": "담색긴꼬리부전나비",
+  "family_ko": "부전나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "부전나비과",
+      "name_latin": "Lycaenidae"
+    },
+    "subfamily": {
+      "name_ko": "녹색부전나비아과",
+      "name_latin": "Theclinae"
+    },
+    "genus": {
+      "name_ko": "담색긴꼬리부전나비속",
+      "name_latin": "Antigius"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 부전나비과 (Lycaenidae)\n아과 : 녹색부전나비아과 (Theclinae)\n속 : 담색긴꼬리부전나비속 (Antigius)",
+  "basic_information": {
+    "곤충명": "담색긴꼬리부전나비",
+    "학명": "Antigius butleri (Fenton, 1882)"
+  },
+  "information": {
+    "general_description": "암수에 따른 무늬의 차가 거의 없으므로 배끝을 조사할 필요가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "암컷은 기주식물 줄기의 갈라진 곳에 한 개씩 산란한다.",
+    "habits": "산지의 참나무림 주변에 서식한다. 오전 중에는 풀 위나 나뭇가지 사이에서 일광욕을 하고, 한낮에는 거의 날지 않다가 오후 3시경 이후 해질 무렵까지 높은 나무 위를 활발하게 날아다닌다.",
+    "season": null,
+    "overwintering": "알",
+    "distribution": "[일본]\n[중국]\n[러시아]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암수에 따른 무늬의 차가 거의 없으므로 배끝을 조사할 필요가 있다."
+    },
+    {
+      "title": "생태",
+      "text": "암컷은 기주식물 줄기의 갈라진 곳에 한 개씩 산란한다."
+    },
+    {
+      "title": "습성",
+      "text": "산지의 참나무림 주변에 서식한다. 오전 중에는 풀 위나 나뭇가지 사이에서 일광욕을 하고, 한낮에는 거의 날지 않다가 오후 3시경 이후 해질 무렵까지 높은 나무 위를 활발하게 날아다닌다."
+    },
+    {
+      "title": "월동",
+      "text": "알"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDG0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDG0002_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDG0002_3.jpg",
+      "alt": "담색긴꼬리부전나비 1번째 사진 : 담색긴꼬리부전나비 암컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDG0002_3_th2.jpg",
+      "caption": "담색긴꼬리부전나비 암컷 이미지",
+      "photographed_at": "20110628",
+      "location": null,
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRDG0002-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0002_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0002_2_th.jpg",
+      "alt": "담색긴꼬리부전나비 2번째 사진 : 담색긴꼬리부전나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0002_2_th2.jpg",
+      "caption": "담색긴꼬리부전나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDG0002-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0002_1_th.jpg",
+      "alt": "담색긴꼬리부전나비 3번째 사진 : 담색긴꼬리부전나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0002_1_th2.jpg",
+      "caption": "담색긴꼬리부전나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDG0002-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0305291085",
+      "description": "[FRIE0305291085] 담색긴꼬리부전나비 1983.06.23 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0305291086",
+      "description": "[FRIE0305291086] 담색긴꼬리부전나비 1984.06.18 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0305291087",
+      "description": "[FRIE0305291087] 담색긴꼬리부전나비 1984.06.19 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "갈참나무",
+      "scientific_name": "Quercus aliena Blume"
+    },
+    {
+      "group": "식물",
+      "name_ko": "떡갈나무",
+      "scientific_name": "Quercus dentata Thunb."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDG0002-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDG0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:00+00:00",
+    "html_sha256": "0f22feb7ccbe0d974e7122d5e114cd94c03e4daf16c47ee8b1c38c7a8b75dd04",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

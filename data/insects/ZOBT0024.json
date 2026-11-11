@@ -1,0 +1,122 @@
+{
+  "id": "ZOBT0024",
+  "name_ko": "배노랑긴가슴잎벌레",
+  "scientific_name": "Lema (Lema) concinnipennis Baly, 1865",
+  "display_name": "배노랑긴가슴잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "긴가슴잎벌레아과",
+      "name_latin": "Criocerinae"
+    },
+    "genus": {
+      "name_ko": "닮은벼잎벌레속",
+      "name_latin": "Lema"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 긴가슴잎벌레아과 (Criocerinae)\n속 : 닮은벼잎벌레속 (Lema)",
+  "basic_information": {
+    "곤충명": "배노랑긴가슴잎벌레",
+    "학명": "Lema (Lema) concinnipennis Baly, 1865"
+  },
+  "information": {
+    "general_description": "몸길이가 5.0~6.5mm, 앞가슴등판에 점각, 복부끝에 황갈색이며 체복면은 흑색으로 되어있다. 한국, 일본(훗가이도,혼슈, 시코쿠,큐슈), 중국(북부,중부,남부,대만), 러시아, 필리핀에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 4월에 월동하며 5월~7월에 잎 뒷면에 산란한다. 유충은 집단으로 섭식, 상체를 흔들어 방어를 하는 습성이있다. 연 1화성이며 성충은 9월에 휴면.",
+    "habits": "기주식물 Commelina communis L.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]\n[러시아]\n[필리핀]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이가 5.0~6.5mm, 앞가슴등판에 점각, 복부끝에 황갈색이며 체복면은 흑색으로 되어있다. 한국, 일본(훗가이도,혼슈, 시코쿠,큐슈), 중국(북부,중부,남부,대만), 러시아, 필리핀에 분포되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 4월에 월동하며 5월~7월에 잎 뒷면에 산란한다. 유충은 집단으로 섭식, 상체를 흔들어 방어를 하는 습성이있다. 연 1화성이며 성충은 9월에 휴면."
+    },
+    {
+      "title": "습성",
+      "text": "기주식물 Commelina communis L."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]\n[러시아]\n[필리핀]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0024-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0024_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0024_2_th.jpg",
+      "alt": "배노랑긴가슴잎벌레 1번째 사진 : 배노랑긴가슴잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0024_2_th2.jpg",
+      "caption": "배노랑긴가슴잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBT0024-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0024_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0024_1_th.jpg",
+      "alt": "배노랑긴가슴잎벌레 2번째 사진 : 배노랑긴가슴잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0024_1_th2.jpg",
+      "caption": "배노랑긴가슴잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0024-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0306251013",
+      "description": "[FRIE0306251013] 배노랑긴가슴잎벌레 1997.07.13 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0306241010",
+      "description": "[FRIE0306241010] 배노랑긴가슴잎벌레 1981.05.19 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0304121025",
+      "description": "[KNAE0304121025] 배노랑긴가슴잎벌레 1982.05.30 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0024-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0024&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:24+00:00",
+    "html_sha256": "c681143deb33079f3c13156d2f1bad1181cd441c80505819c6745ab5b0f0e224",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

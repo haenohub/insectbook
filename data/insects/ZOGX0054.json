@@ -1,0 +1,103 @@
+{
+  "id": "ZOGX0054",
+  "name_ko": "호리병거저리",
+  "scientific_name": "Misolampidius tentyrioides Solsky, 1876",
+  "display_name": "호리병거저리",
+  "family_ko": "거저리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "거저리상과",
+      "name_latin": "Tenebrionoidea"
+    },
+    "family": {
+      "name_ko": "거저리과",
+      "name_latin": "Tenebrionidae"
+    },
+    "subfamily": {
+      "name_ko": "호리병거저리아과",
+      "name_latin": "Stenochiinae"
+    },
+    "genus": {
+      "name_ko": "호리병거저리속",
+      "name_latin": "Misolampidius"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 거저리상과 (Tenebrionoidea)\n과 : 거저리과 (Tenebrionidae)\n아과 : 호리병거저리아과 (Stenochiinae)\n속 : 호리병거저리속 (Misolampidius)",
+  "basic_information": {
+    "곤충명": "호리병거저리",
+    "학명": "Misolampidius tentyrioides Solsky, 1876"
+  },
+  "information": {
+    "general_description": "몸길이는 12~14mm 전체적으로 호리병처럼 보인다. 날개는 긴타원형 모양이고 앞가슴 등판은 원모양이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 12~14mm 전체적으로 호리병처럼 보인다. 날개는 긴타원형 모양이고 앞가슴 등판은 원모양이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGX0054-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGX0054_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGX0054_1_th.jpg",
+      "alt": "호리병거저리 1번째 사진 : 호리병거저리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGX0054_1_th2.jpg",
+      "caption": "호리병거저리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGX0054-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303272033",
+      "description": "[KNAE0303272033] 호리병거저리 1995.09.27 / / 국립수목원"
+    },
+    {
+      "id": "FRIE0303251014",
+      "description": "[FRIE0303251014] 호리병거저리 1982.08.06 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0303251015",
+      "description": "[FRIE0303251015] 호리병거저리 1986.06.03 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGX0054-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGX0054&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:16+00:00",
+    "html_sha256": "70b7d33667f9f2624d9198a5edf286d752cd5cd744decd7577719397bc36a846",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

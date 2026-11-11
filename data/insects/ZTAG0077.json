@@ -1,0 +1,118 @@
+{
+  "id": "ZTAG0077",
+  "name_ko": "야노뾰족벌",
+  "scientific_name": "Coelioxys yanonis Matsumura, 1912",
+  "display_name": "야노뾰족벌",
+  "family_ko": "가위벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "가위벌과",
+      "name_latin": "Megachilidae"
+    },
+    "subfamily": {
+      "name_ko": "가위벌아과",
+      "name_latin": "Megachilinae"
+    },
+    "genus": {
+      "name_ko": "뾰족벌속",
+      "name_latin": "Coelioxys"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 가위벌과 (Megachilidae)\n아과 : 가위벌아과 (Megachilinae)\n속 : 뾰족벌속 (Coelioxys)",
+  "basic_information": {
+    "곤충명": "야노뾰족벌",
+    "학명": "Coelioxys yanonis Matsumura, 1912"
+  },
+  "information": {
+    "general_description": "몸길이는 16mm 정도이며, 몸은 흑색이다. 날개는 바깥쪽으로 약간 회색을 띤다. 얼굴에 황갈색의 짧은 털이 촘촘히 났고 머리방패는 그 아랫쪽을 제외하고 거의 밖으로 드러나 있다.. 가슴과 다리에는 짧은 털이 성기게 났고 등판의 것은 황갈색이고 배면으로 감에 따라 회백색으로 된다. 발목마디에는 갈색털이 촘촘히 났다. 배의 각 마디 뒤쪽에는 황갈색 짧은 털이 나서 줄무늬를 이룬다. 점각은 머리와 가슴에서는 성기고 배에서는 미세하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[감소추세종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 16mm 정도이며, 몸은 흑색이다. 날개는 바깥쪽으로 약간 회색을 띤다. 얼굴에 황갈색의 짧은 털이 촘촘히 났고 머리방패는 그 아랫쪽을 제외하고 거의 밖으로 드러나 있다.. 가슴과 다리에는 짧은 털이 성기게 났고 등판의 것은 황갈색이고 배면으로 감에 따라 회백색으로 된다. 발목마디에는 갈색털이 촘촘히 났다. 배의 각 마디 뒤쪽에는 황갈색 짧은 털이 나서 줄무늬를 이룬다. 점각은 머리와 가슴에서는 성기고 배에서는 미세하다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[감소추세종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0077-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0077_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0077_2_th.jpg",
+      "alt": "야노뾰족벌 1번째 사진 : 야노뾰족벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0077_2_th2.jpg",
+      "caption": "야노뾰족벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTAG0077-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0077_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0077_1_th.jpg",
+      "alt": "야노뾰족벌 2번째 사진 : 야노뾰족벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0077_1_th2.jpg",
+      "caption": "야노뾰족벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0077-1",
+  "specimen_examples": [
+    {
+      "id": "CBNE0204111002",
+      "description": "[CBNE0204111002] 야노뾰족벌 1996.08.15 / / 충북대학교"
+    },
+    {
+      "id": "YNUE0111201019",
+      "description": "[YNUE0111201019] 야노뾰족벌 1989.05.23 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0111201020",
+      "description": "[YNUE0111201020] 야노뾰족벌 1994.08.02 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAG0077-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0077&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:23+00:00",
+    "html_sha256": "2d17981fc447ff6bc53adbb50c4b63f3884a720097a0ffc0be529162d3068b74",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

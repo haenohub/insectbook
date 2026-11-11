@@ -1,0 +1,111 @@
+{
+  "id": "ZOGJ0003",
+  "name_ko": "긴다리소똥구리",
+  "scientific_name": "Sisyphus (Sisyphus) schaefferi (Linnaeus, 1758)",
+  "display_name": "긴다리소똥구리",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "소똥구리아과",
+      "name_latin": "Scarabaeinae"
+    },
+    "genus": {
+      "name_ko": "긴다리소똥구리속",
+      "name_latin": "Sisyphus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 소똥구리아과 (Scarabaeinae)\n속 : 긴다리소똥구리속 (Sisyphus)",
+  "basic_information": {
+    "곤충명": "긴다리소똥구리",
+    "학명": "Sisyphus (Sisyphus) schaefferi (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "일본과 남부 중국을 제외한 구북구에 분포하며 흑색으로 몸은 난형이나 매우 두껍고 수컷은 후퇴절이 매우 굵고 길며, 후경절은 퇴절과 거의 같은 길이인데 안쪽으로 굽었다. 머리방패의 전연은 넓고 깊게 파였으며, 양 옆은 돌기처럼 돌출하였다. 소순판은 보이지 않는다. BL:7~12mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "종보호 차원에서 국외로 반출이 금지된 종이다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[반출금지종] 환경부고시제2001-210호",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "일본과 남부 중국을 제외한 구북구에 분포하며 흑색으로 몸은 난형이나 매우 두껍고 수컷은 후퇴절이 매우 굵고 길며, 후경절은 퇴절과 거의 같은 길이인데 안쪽으로 굽었다. 머리방패의 전연은 넓고 깊게 파였으며, 양 옆은 돌기처럼 돌출하였다. 소순판은 보이지 않는다. BL:7~12mm."
+    },
+    {
+      "title": "생태",
+      "text": "종보호 차원에서 국외로 반출이 금지된 종이다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[반출금지종] 환경부고시제2001-210호"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGJ0003-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0003_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0003_1_th.jpg",
+      "alt": "긴다리소똥구리 1번째 사진 : 긴다리소똥구리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0003_1_th2.jpg",
+      "caption": "긴다리소똥구리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGJ0003-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0306172150",
+      "description": "[SNUE0306172150] 긴다리소똥구리 1968.06.08 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0306172151",
+      "description": "[SNUE0306172151] 긴다리소똥구리 1966.08.16 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0306172152",
+      "description": "[SNUE0306172152] 긴다리소똥구리 1966.08.16 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOGJ0003.png",
+    "reference_image_id": "ZOGJ0003-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T08:56:43.980594+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "974524d80d54152b6ec812a14590d1cfb6ab0ffa93a267317a4feb6ed1a617d6"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGJ0003&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:58+00:00",
+    "html_sha256": "833830c57ef2838f61c9cd3a34a9d1d1c81a09c526a860af9c588265514700a8",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

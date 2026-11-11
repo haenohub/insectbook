@@ -1,0 +1,126 @@
+{
+  "id": "ZREP0002",
+  "name_ko": "시골처녀나비",
+  "scientific_name": "Coenonympha amaryllis (Stoll, 1782)",
+  "display_name": "시골처녀나비",
+  "family_ko": "네발나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "네발나비과",
+      "name_latin": "Nymphalidae"
+    },
+    "subfamily": {
+      "name_ko": "뱀눈나비아과",
+      "name_latin": "Satyrinae"
+    },
+    "genus": {
+      "name_ko": "처녀나비속",
+      "name_latin": "Coenonympha"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 네발나비과 (Nymphalidae)\n아과 : 뱀눈나비아과 (Satyrinae)\n속 : 처녀나비속 (Coenonympha)",
+  "basic_information": {
+    "곤충명": "시골처녀나비",
+    "학명": "Coenonympha amaryllis (Stoll, 1782)"
+  },
+  "information": {
+    "general_description": "도시처녀나비나 봄처녀나비와 크기나 날개 아랫면의 눈알 모양 무늬가 있는 점 등은 유사하나, 날개 바탕색이 밝은 등황색인 점으로 쉽게 구별된다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": "암컷은 수컷보다 다소 크며 앞뒷날개 아랫면의 눈알모양 무늬가 크고 뚜렷하여 쉽게 구별된다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "건조한 초지나 남쪽 해안가의 초지에 서식한다. 보통 풀에 앉아 있거나 낮게 풀 사이를 이리저리 날아다니는데 그다지 빠르지 않다. 춘형은 기온이 낮은 아침에 풀숲 속의 땅위에서 날개를 기울여 일광욕을 할 때가 많다. 쑥부쟁이, 민들레, 엉겅퀴 등의 꽃에서 가끔 흡밀하는 경우가 있다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[러시아]\n[몽골]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "도시처녀나비나 봄처녀나비와 크기나 날개 아랫면의 눈알 모양 무늬가 있는 점 등은 유사하나, 날개 바탕색이 밝은 등황색인 점으로 쉽게 구별된다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "암컷은 수컷보다 다소 크며 앞뒷날개 아랫면의 눈알모양 무늬가 크고 뚜렷하여 쉽게 구별된다."
+    },
+    {
+      "title": "습성",
+      "text": "건조한 초지나 남쪽 해안가의 초지에 서식한다. 보통 풀에 앉아 있거나 낮게 풀 사이를 이리저리 날아다니는데 그다지 빠르지 않다. 춘형은 기온이 낮은 아침에 풀숲 속의 땅위에서 날개를 기울여 일광욕을 할 때가 많다. 쑥부쟁이, 민들레, 엉겅퀴 등의 꽃에서 가끔 흡밀하는 경우가 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[러시아]\n[몽골]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREP0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREP0002_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREP0002_2_th.jpg",
+      "alt": "시골처녀나비 1번째 사진 : 시골처녀나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREP0002_2_th2.jpg",
+      "caption": "시골처녀나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREP0002-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREP0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREP0002_1_th.jpg",
+      "alt": "시골처녀나비 2번째 사진 : 시골처녀나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREP0002_1_th2.jpg",
+      "caption": "시골처녀나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREP0002-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0210282043",
+      "description": "[YNUE0210282043] 시골처녀나비 1982.05.29 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0210282045",
+      "description": "[YNUE0210282045] 시골처녀나비 1983.05.13 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0210282044",
+      "description": "[YNUE0210282044] 시골처녀나비 1983.05.13 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREP0002-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREP0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:46+00:00",
+    "html_sha256": "be6367ef74bc70fd7f7d6a2a0b14fe54333cdb454c9b1eebe4da22245a159e67",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

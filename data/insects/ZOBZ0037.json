@@ -1,0 +1,137 @@
+{
+  "id": "ZOBZ0037",
+  "name_ko": "남생이무당벌레",
+  "scientific_name": "Aiolocaria hexaspilota (Hope, 1831)",
+  "display_name": "남생이무당벌레",
+  "family_ko": "무당벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Coccinelloidea"
+    },
+    "family": {
+      "name_ko": "무당벌레과",
+      "name_latin": "Coccinellidae"
+    },
+    "subfamily": {
+      "name_ko": "무당벌레아과",
+      "name_latin": "Coccinellinae"
+    },
+    "genus": {
+      "name_ko": "남생이무당벌레속",
+      "name_latin": "Aiolocaria"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : (Coccinelloidea)\n과 : 무당벌레과 (Coccinellidae)\n아과 : 무당벌레아과 (Coccinellinae)\n속 : 남생이무당벌레속 (Aiolocaria)",
+  "basic_information": {
+    "곤충명": "남생이무당벌레",
+    "학명": "Aiolocaria hexaspilota (Hope, 1831)"
+  },
+  "information": {
+    "general_description": "체형의 크기는 대체로 큰 편에 속하며, 방추형을 띤다. 두부와 다리의 색깔은 검은 색이며 등쪽의 체색은 붉은갈색을 띤다. 배마디의 앞쪽과 뒷쪽은 약간 어두운 색상을 띤다.\n더듬이의 기부쪽에는 약간 짧은 편이며, 흉부에쪽의 앞가슴배판은 넓은 달걀형이다. 다리의 길이와 굵기는 약간 뭉뚤한 편이고 잛다. 가느다란 털들이 분포되어 있고 긴편이었다.\n이들은 한국, 일본, 대만, 중국,연해주, 네팔, 인도북부, 미얀마 등지에서 서식한다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "가을철에 월동처를 찾아 집이나 건물등지로 모여드는 습성이 있다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[대만]\n[네팔]\n[미얀마]",
+    "notes": "[포식성]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체형의 크기는 대체로 큰 편에 속하며, 방추형을 띤다. 두부와 다리의 색깔은 검은 색이며 등쪽의 체색은 붉은갈색을 띤다. 배마디의 앞쪽과 뒷쪽은 약간 어두운 색상을 띤다.\n더듬이의 기부쪽에는 약간 짧은 편이며, 흉부에쪽의 앞가슴배판은 넓은 달걀형이다. 다리의 길이와 굵기는 약간 뭉뚤한 편이고 잛다. 가느다란 털들이 분포되어 있고 긴편이었다.\n이들은 한국, 일본, 대만, 중국,연해주, 네팔, 인도북부, 미얀마 등지에서 서식한다."
+    },
+    {
+      "title": "생태",
+      "text": "가을철에 월동처를 찾아 집이나 건물등지로 모여드는 습성이 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[대만]\n[네팔]\n[미얀마]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[포식성]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBZ0037-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBZ0037_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBZ0037_3.jpg",
+      "alt": "남생이무당벌레 1번째 사진 : ",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBZ0037_3_th2.jpg",
+      "caption": null,
+      "photographed_at": "20121020",
+      "location": null,
+      "photographer": "국립수목원(임종옥)"
+    },
+    {
+      "id": "ZOBZ0037-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBZ0037_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBZ0037_2_th.jpg",
+      "alt": "남생이무당벌레 2번째 사진 : 남생이무당벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBZ0037_2_th2.jpg",
+      "caption": "남생이무당벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBZ0037-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBZ0037_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBZ0037_1_th.jpg",
+      "alt": "남생이무당벌레 3번째 사진 : 남생이무당벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBZ0037_1_th2.jpg",
+      "caption": "남생이무당벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBZ0037-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408201039",
+      "description": "[MPME0408201039] 남생이무당벌레 2002.06.16 / / 목포자연사박물관"
+    },
+    {
+      "id": "KUIE0307031264",
+      "description": "[KUIE0307031264] 남생이무당벌레 1985.04.21 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307031265",
+      "description": "[KUIE0307031265] 남생이무당벌레 1984.05.04 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBZ0037.png",
+    "reference_image_id": "ZOBZ0037-2",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T09:38:17.223045+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "d6ae88e932eed729461d30b5c3fb80f5cf725fcb344211f1faf8e162fcb9aec1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBZ0037&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:28+00:00",
+    "html_sha256": "68f0332160cf7a5140da36b15d750fdc0844aeeaff901b07e234689da18153f4",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

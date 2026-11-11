@@ -1,0 +1,164 @@
+{
+  "id": "ZOBL0109",
+  "name_ko": "벚나무사향하늘소",
+  "scientific_name": "Aromia bungii (Faldermann, 1835)",
+  "display_name": "벚나무사향하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "하늘소아과",
+      "name_latin": "Cerambycinae"
+    },
+    "genus": {
+      "name_ko": "사향하늘소속",
+      "name_latin": "Aromia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 하늘소아과 (Cerambycinae)\n속 : 사향하늘소속 (Aromia)",
+  "basic_information": {
+    "곤충명": "벚나무사향하늘소",
+    "학명": "Aromia bungii (Faldermann, 1835)"
+  },
+  "information": {
+    "general_description": "체장 25.0~35.0 mm. 몸은 전체적으로 검은색이며, 앞가슴은 밝은 빨간색이다. 이마는 수직이다. 더듬이 경절은 말단에서 각이 져 있다. 더듬이 1번째 마디는 말단에서 잘린듯한 형태이며, 3번째 마디부터는 다소 편평하고 말단에서 각이 져 있다. 앞가슴에는 4개의 부어오른 부위가 있고 측면의 돌기물은 강하게 발달되어 있으나 짧다. 딱지날개는 광택이 나고 뒷 말단 쪽으로 너비가 좁아진다. 복부 1번째 배마디의 길이는 다음 2마디의 길이 합보다 길다.",
+    "adult": null,
+    "adult_male": "더듬이는 체장보다 약 1.3배 길다.",
+    "adult_female": "더듬이는 체장보다 짧다.",
+    "larva": "유충에 대한 특징이 알려지지 않았다.",
+    "egg": "알에 대한 특징이 알려지지 않았다.",
+    "pupa": "번데기에 대한 특징이 알려지지 않았다.",
+    "ecology": "벚나무류 수간에 모이는 것으로 알려져 있으며, 유충도 벚나무류의 생목에 기생한다. 유충은 길이 17~22 cm 정도의 갱도를 형성하여 나무의 과실 유실을 유발하거나 수세를 약화시킨다. 유충은 4월초~중순에 섭식활동이 가장 활발하다. 6월말에 번데기가 되며 성충은 7월말부터 출현하기 시작한다. 7월초에 기주식물의 주간이나 가지의 틈 사이에 산란을 하고 8~9일 이후에 부화한다.",
+    "habits": "성충은 공격을 받을 때, 냄새를 낸다.",
+    "season": null,
+    "overwintering": "유충",
+    "distribution": "[대만] 타이페이(臺北)",
+    "notes": "[산림해충] 국외반출승인대상생물자원(환경부 지정), 버드나무류 및 귀룽나무의 수목해충으로 지정되어 있다.",
+    "pest_control": "종 특이적 방제법은 현재까지 없다.",
+    "references": "아시아 원산인 본 종은 최근 2011년 독일에서도 분포가 확인되었다."
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체장 25.0~35.0 mm. 몸은 전체적으로 검은색이며, 앞가슴은 밝은 빨간색이다. 이마는 수직이다. 더듬이 경절은 말단에서 각이 져 있다. 더듬이 1번째 마디는 말단에서 잘린듯한 형태이며, 3번째 마디부터는 다소 편평하고 말단에서 각이 져 있다. 앞가슴에는 4개의 부어오른 부위가 있고 측면의 돌기물은 강하게 발달되어 있으나 짧다. 딱지날개는 광택이 나고 뒷 말단 쪽으로 너비가 좁아진다. 복부 1번째 배마디의 길이는 다음 2마디의 길이 합보다 길다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "더듬이는 체장보다 약 1.3배 길다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "더듬이는 체장보다 짧다."
+    },
+    {
+      "title": "번데기",
+      "text": "번데기에 대한 특징이 알려지지 않았다."
+    },
+    {
+      "title": "유충",
+      "text": "유충에 대한 특징이 알려지지 않았다."
+    },
+    {
+      "title": "참고사항",
+      "text": "아시아 원산인 본 종은 최근 2011년 독일에서도 분포가 확인되었다."
+    },
+    {
+      "title": "생태",
+      "text": "벚나무류 수간에 모이는 것으로 알려져 있으며, 유충도 벚나무류의 생목에 기생한다. 유충은 길이 17~22 cm 정도의 갱도를 형성하여 나무의 과실 유실을 유발하거나 수세를 약화시킨다. 유충은 4월초~중순에 섭식활동이 가장 활발하다. 6월말에 번데기가 되며 성충은 7월말부터 출현하기 시작한다. 7월초에 기주식물의 주간이나 가지의 틈 사이에 산란을 하고 8~9일 이후에 부화한다."
+    },
+    {
+      "title": "습성",
+      "text": "성충은 공격을 받을 때, 냄새를 낸다."
+    },
+    {
+      "title": "월동",
+      "text": "유충"
+    },
+    {
+      "title": "방제법",
+      "text": "종 특이적 방제법은 현재까지 없다."
+    },
+    {
+      "title": "알",
+      "text": "알에 대한 특징이 알려지지 않았다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대만] 타이페이(臺北)"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] 국외반출승인대상생물자원(환경부 지정), 버드나무류 및 귀룽나무의 수목해충으로 지정되어 있다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0109-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0109_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0109_2_th.jpg",
+      "alt": "벚나무사향하늘소 1번째 사진 : 벗나무사향하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0109_2_th2.jpg",
+      "caption": "벗나무사향하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBL0109-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0109_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0109_1_th.jpg",
+      "alt": "벚나무사향하늘소 2번째 사진 : 벗나무사향하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0109_1_th2.jpg",
+      "caption": "벗나무사향하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0109-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0305141022",
+      "description": "[FRIE0305141022] 벚나무사향하늘소 1982.07.16 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0304081031",
+      "description": "[FRIE0304081031] 벚나무사향하늘소 1967.08.20 / / 국립산림과학원"
+    },
+    {
+      "id": "ADUE0301091053",
+      "description": "[ADUE0301091053] 벚나무사향하늘소 2002.06.17 / / 안동대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "귀룽나무",
+      "scientific_name": "Prunus padus L."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0109-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0109&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:49+00:00",
+    "html_sha256": "fa45d9e17abfd244f633b63fcde26f74fd7dda23a047530c281ebf6c5b468b23",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

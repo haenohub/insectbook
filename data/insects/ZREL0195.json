@@ -1,0 +1,103 @@
+{
+  "id": "ZREL0195",
+  "name_ko": "갈매기부채명나방",
+  "scientific_name": "Cataprosopus monstrosus Butler, 1881",
+  "display_name": "갈매기부채명나방",
+  "family_ko": "명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "명나방과",
+      "name_latin": "Pyralidae"
+    },
+    "subfamily": {
+      "name_ko": "부채명나방아과",
+      "name_latin": "Galleriinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Cataprosopus"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 명나방과 (Pyralidae)\n아과 : 부채명나방아과 (Galleriinae)\n속 : (Cataprosopus)",
+  "basic_information": {
+    "곤충명": "갈매기부채명나방",
+    "학명": "Cataprosopus monstrosus Butler, 1881"
+  },
+  "information": {
+    "general_description": "일본에 분포하며 머리는 갈색이고, 앞이마는 다소 인편에 의해 앞으로 돌출되었다. 더듬이\n는 갈색이고, 수컷은 미모상이다. 아랫입술수염은 흑갈색의 긴 털로 덮여\n있으며, 아소 아래쪽으로 향한다. 30-38mm길이의 날개를 가지고 있으며,\n앞날개의 외연은 전반에서 밖으로 돌출되고, 뒷날개의 외연은 직선적이다\n앞날개의 외횡선 안쪽 날개 끝 부근에는 명료한 암흑색 점 무늬가 있고,\n외횡선과 내횡선은 가는 선으로 되어 있지만 명료하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "일본에 분포하며 머리는 갈색이고, 앞이마는 다소 인편에 의해 앞으로 돌출되었다. 더듬이\n는 갈색이고, 수컷은 미모상이다. 아랫입술수염은 흑갈색의 긴 털로 덮여\n있으며, 아소 아래쪽으로 향한다. 30-38mm길이의 날개를 가지고 있으며,\n앞날개의 외연은 전반에서 밖으로 돌출되고, 뒷날개의 외연은 직선적이다\n앞날개의 외횡선 안쪽 날개 끝 부근에는 명료한 암흑색 점 무늬가 있고,\n외횡선과 내횡선은 가는 선으로 되어 있지만 명료하다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0195-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0195_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0195_1_th.jpg",
+      "alt": "갈매기부채명나방 1번째 사진 : 갈매기부채명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0195_1_th2.jpg",
+      "caption": "갈매기부채명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0195-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0407261004",
+      "description": "[UIBE0407261004] 갈매기부채명나방 1998.06.29 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0407261002",
+      "description": "[UIBE0407261002] 갈매기부채명나방 2002.08.01 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0407261001",
+      "description": "[UIBE0407261001] 갈매기부채명나방 2000.07.13 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZREL0195.png",
+    "reference_image_id": "ZREL0195-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T16:19:23.071534+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "ceb9c3f361e966990f710b1cd78036012760a2f388999c63a7a64035bd75dbd7"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0195&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:26+00:00",
+    "html_sha256": "96b69c8fd5f233627506372ab3a4f337ca02a0ac8ce822ce4d2aed4a91a1646a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

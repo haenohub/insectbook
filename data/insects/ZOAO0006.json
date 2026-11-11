@@ -1,0 +1,111 @@
+{
+  "id": "ZOAO0006",
+  "name_ko": "목창주둥이바구미",
+  "scientific_name": "Pseudopiezotrachelus collaris (Schilsky, 1906)",
+  "display_name": "목창주둥이바구미",
+  "family_ko": "침봉바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "침봉바구미과",
+      "name_latin": "Brentidae"
+    },
+    "subfamily": {
+      "name_ko": "창주둥이바구미아과",
+      "name_latin": "Apioninae"
+    },
+    "genus": {
+      "name_ko": "목창주둥이바구미속",
+      "name_latin": "Pseudopiezotrachelus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 침봉바구미과 (Brentidae)\n아과 : 창주둥이바구미아과 (Apioninae)\n속 : 목창주둥이바구미속 (Pseudopiezotrachelus)",
+  "basic_information": {
+    "곤충명": "목창주둥이바구미",
+    "학명": "Pseudopiezotrachelus collaris (Schilsky, 1906)"
+  },
+  "information": {
+    "general_description": "한국, 일본, 중국, 인도에 분포하며, 체장은 2.0-2.3mm 정도이다. 체색은 검은색이다. 머리 앞부분은 주둥이 기부보다 좁고, 중앙에 약한 융기선이 있다. 흑색 광택이 있고 등면에 미세한 인각, 머리의 양눈 사이에 약한 종융기가 있다. 주둥이는 가슴부와 거의 같은 길이. 기부에 작은 점각이 있고 선단으로 갈수록 가늘다.",
+    "adult": null,
+    "adult_male": "콩, 팥, 녹두를 기주식물로 한다.",
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[인도]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 중국, 인도에 분포하며, 체장은 2.0-2.3mm 정도이다. 체색은 검은색이다. 머리 앞부분은 주둥이 기부보다 좁고, 중앙에 약한 융기선이 있다. 흑색 광택이 있고 등면에 미세한 인각, 머리의 양눈 사이에 약한 종융기가 있다. 주둥이는 가슴부와 거의 같은 길이. 기부에 작은 점각이 있고 선단으로 갈수록 가늘다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "콩, 팥, 녹두를 기주식물로 한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[인도]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAO0006-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAO0006_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAO0006_1_th.jpg",
+      "alt": "목창주둥이바구미 1번째 사진 : 목창주둥이바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAO0006_1_th2.jpg",
+      "caption": "목창주둥이바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAO0006-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303142010",
+      "description": "[KNAE0303142010] 목창주둥이바구미 1998.08.18 / / 국립수목원"
+    },
+    {
+      "id": "KNAE1006251055",
+      "description": "[KNAE1006251055] 목창주둥이바구미 2009.09.24 / / 국립수목원"
+    },
+    {
+      "id": "KNAE1006251056",
+      "description": "[KNAE1006251056] 목창주둥이바구미 2009.08.01 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAO0006-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAO0006&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:21+00:00",
+    "html_sha256": "38ad9d7c4c93f11bf89612b0ae0fc6f5140d67ffa0098c998c99dba6b1e293c6",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

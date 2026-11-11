@@ -1,0 +1,147 @@
+{
+  "id": "ZMCB0002",
+  "name_ko": "외뿔매미",
+  "scientific_name": "Machaerotypus sibiricus (Lethierry, 1876)",
+  "display_name": "외뿔매미",
+  "family_ko": "뿔매미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "뿔매미상과",
+      "name_latin": "Membracoidea"
+    },
+    "family": {
+      "name_ko": "뿔매미과",
+      "name_latin": "Membracidae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Centrotinae"
+    },
+    "genus": {
+      "name_ko": "고려뿔매미속",
+      "name_latin": "Machaerotypus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 뿔매미상과 (Membracoidea)\n과 : 뿔매미과 (Membracidae)\n아과 : (Centrotinae)\n속 : 고려뿔매미속 (Machaerotypus)",
+  "basic_information": {
+    "곤충명": "외뿔매미",
+    "학명": "Machaerotypus sibiricus (Lethierry, 1876)"
+  },
+  "information": {
+    "general_description": "몸길이: 약 5-6mm. 암컷이 수컷보다 크며 몸은 적갈색 암갈색,암갈색 또는 검정색을 띤다. 온몸에 점각이 산재하고, 짧은 회황색의 털이 밀생한다. 정면에서 보면 앞가슴등판의 양측 어깨상단에 잛고 넓적한 뿔돌기가 양옆으로 발달하였는데, 어깨모서리보다는 짧게 돌출되어있다. 뒷돌기는 점차 가늘고 길게 발달하여서 앞날개 회합부의 3/5까지 도달한다. 앞날개는 투명하고 기부가 경화되었으며 점각이 산재한다. 작은방패판의 기부에는 회황색의 털뭉치와 가루모양의 인편을 가진다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "주로 경작지 주변이나 산야의 관목에 서식한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이: 약 5-6mm. 암컷이 수컷보다 크며 몸은 적갈색 암갈색,암갈색 또는 검정색을 띤다. 온몸에 점각이 산재하고, 짧은 회황색의 털이 밀생한다. 정면에서 보면 앞가슴등판의 양측 어깨상단에 잛고 넓적한 뿔돌기가 양옆으로 발달하였는데, 어깨모서리보다는 짧게 돌출되어있다. 뒷돌기는 점차 가늘고 길게 발달하여서 앞날개 회합부의 3/5까지 도달한다. 앞날개는 투명하고 기부가 경화되었으며 점각이 산재한다. 작은방패판의 기부에는 회황색의 털뭉치와 가루모양의 인편을 가진다."
+    },
+    {
+      "title": "생태",
+      "text": "주로 경작지 주변이나 산야의 관목에 서식한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMCB0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMCB0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMCB0002_1_th.jpg",
+      "alt": "외뿔매미 1번째 사진 : 외뿔매미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMCB0002_1_th2.jpg",
+      "caption": "외뿔매미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMCB0002-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0408221072",
+      "description": "[UIBE0408221072] 외뿔매미 2000.10.01 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0408221073",
+      "description": "[UIBE0408221073] 외뿔매미 2000.10.12 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0408221074",
+      "description": "[UIBE0408221074] 외뿔매미 1994.10.12 / / 인천대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "감나무",
+      "scientific_name": "Diospyros kaki Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "느릅나무",
+      "scientific_name": "Ulmus davidiana var. japonica (Rehder) Nakai"
+    },
+    {
+      "group": "식물",
+      "name_ko": "닥나무",
+      "scientific_name": "Broussonetia × kazinoki Siebold"
+    },
+    {
+      "group": "식물",
+      "name_ko": "매실나무",
+      "scientific_name": "Prunus mume (Siebold) Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "밤나무",
+      "scientific_name": "Castanea crenata Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "벚나무",
+      "scientific_name": "Prunus serrulata f. spontanea (Maxim.) Chin S.Chang"
+    },
+    {
+      "group": "식물",
+      "name_ko": "포도",
+      "scientific_name": "Vitis vinifera L."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZMCB0002-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMCB0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:53+00:00",
+    "html_sha256": "f5827e20270845304b2f1e881a99e1ef1f6ed1a067d2af96176ec4be9929b47c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

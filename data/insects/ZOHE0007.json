@@ -1,0 +1,99 @@
+{
+  "id": "ZOHE0007",
+  "name_ko": "꼬마송장풍뎅이",
+  "scientific_name": "Trox scaber (Linnaeus, 1767)",
+  "display_name": "꼬마송장풍뎅이",
+  "family_ko": "송장풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "송장풍뎅이과",
+      "name_latin": "Trogidae"
+    },
+    "genus": {
+      "name_ko": "송장풍뎅이속",
+      "name_latin": "Trox"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 송장풍뎅이과 (Trogidae)\n속 : 송장풍뎅이속 (Trox)",
+  "basic_information": {
+    "곤충명": "꼬마송장풍뎅이",
+    "학명": "Trox scaber (Linnaeus, 1767)"
+  },
+  "information": {
+    "general_description": "전 세계에 분포하며 몸은 흑색이나 분비물로 덮였고, 편평한 타원형이나 뒤쪽이 약간 넓다. 이마융기는 불분명하며, 전흉배판의 함몰부는 중앙선부분과 양측 중앙의 뒤쪽에 있으며, 극모는 황색, 딱지날개의 융기부는 갈색 극모를 수반하였으며, 홀수 간실의 것은 길고 짝수 간실것은 짧다. BL:4~6.5mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "전 세계에 분포하며 몸은 흑색이나 분비물로 덮였고, 편평한 타원형이나 뒤쪽이 약간 넓다. 이마융기는 불분명하며, 전흉배판의 함몰부는 중앙선부분과 양측 중앙의 뒤쪽에 있으며, 극모는 황색, 딱지날개의 융기부는 갈색 극모를 수반하였으며, 홀수 간실의 것은 길고 짝수 간실것은 짧다. BL:4~6.5mm."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOHE0007-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOHE0007_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOHE0007_1_th.jpg",
+      "alt": "꼬마송장풍뎅이 1번째 사진 : 꼬마송장풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOHE0007_1_th2.jpg",
+      "caption": "꼬마송장풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOHE0007-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304122005",
+      "description": "[KNAE0304122005] 꼬마송장풍뎅이 1994.06.16 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304122004",
+      "description": "[KNAE0304122004] 꼬마송장풍뎅이 1994.07.16 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0607212014",
+      "description": "[KNAE0607212014] 꼬마송장풍뎅이 1999.07.05 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOHE0007.png",
+    "reference_image_id": "ZOHE0007-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T14:01:36.105747+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "a05fe570c41e4248346dc987c9b9853c4295f8f31c1593c705c03f88f3469476"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOHE0007&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:43+00:00",
+    "html_sha256": "5fd562ef67a6114e443b8f4e475b177b61f6ecc46b5357d9afef52e13f6c8ae8",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

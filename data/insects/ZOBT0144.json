@@ -1,0 +1,125 @@
+{
+  "id": "ZOBT0144",
+  "name_ko": "호두나무잎벌레",
+  "scientific_name": "Gastrolina thoracica Baly, 1864",
+  "display_name": "호두나무잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "잎벌레아과",
+      "name_latin": "Chrysomelinae"
+    },
+    "genus": {
+      "name_ko": "홍테가슴잎벌레속",
+      "name_latin": "Gastrolina"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 잎벌레아과 (Chrysomelinae)\n속 : 홍테가슴잎벌레속 (Gastrolina)",
+  "basic_information": {
+    "곤충명": "호두나무잎벌레",
+    "학명": "Gastrolina thoracica Baly, 1864"
+  },
+  "information": {
+    "general_description": "성충은 몸길이가 6.8~8.2 mm이고 흑남색이다. 더듬이와 다리는 흑색이다. 앞가슴등판과 앞날개는 자청색이고, 가슴 양편은 등황색(橙黃色)이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": "유충의 체장은 10 mm 정도이고 유령기일 때에는 전체가 흑색이나, 머리는 흑색, 몸은 암황색이 된다. 유충의 각 마디에 담흑색의 무늬가 있으며 가는 털이 나 있다.",
+    "egg": null,
+    "pupa": null,
+    "ecology": "연 1회 발생한다. 5월에 잎 뒷면에 백색 알을 무더기로 산란하고, 유충은 군서하면서 엽육을 식해한다. 6월에 종령 유충의 탈피각을 가해 잎의 엽맥에 붙여 놓고 여기에 매달려 번데기가 되고 6월 하순~7월에 우화한다.",
+    "habits": "유충이 엽육을 식해하기 때문에 잎이 망상(網狀)으로 된다. 성충은 5~6월에 가래나무, 호두나무의 잎을 먹는다.",
+    "season": null,
+    "overwintering": "성충으로 월동한다.",
+    "distribution": null,
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충은 몸길이가 6.8~8.2 mm이고 흑남색이다. 더듬이와 다리는 흑색이다. 앞가슴등판과 앞날개는 자청색이고, 가슴 양편은 등황색(橙黃色)이다."
+    },
+    {
+      "title": "유충",
+      "text": "유충의 체장은 10 mm 정도이고 유령기일 때에는 전체가 흑색이나, 머리는 흑색, 몸은 암황색이 된다. 유충의 각 마디에 담흑색의 무늬가 있으며 가는 털이 나 있다."
+    },
+    {
+      "title": "생태",
+      "text": "연 1회 발생한다. 5월에 잎 뒷면에 백색 알을 무더기로 산란하고, 유충은 군서하면서 엽육을 식해한다. 6월에 종령 유충의 탈피각을 가해 잎의 엽맥에 붙여 놓고 여기에 매달려 번데기가 되고 6월 하순~7월에 우화한다."
+    },
+    {
+      "title": "습성",
+      "text": "유충이 엽육을 식해하기 때문에 잎이 망상(網狀)으로 된다. 성충은 5~6월에 가래나무, 호두나무의 잎을 먹는다."
+    },
+    {
+      "title": "월동",
+      "text": "성충으로 월동한다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0144-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0144_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0144_1_th.jpg",
+      "alt": "호두나무잎벌레 1번째 사진 : 호두나무잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0144_1_th2.jpg",
+      "caption": "호두나무잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0144-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0306231046",
+      "description": "[FRIE0306231046] 호두나무잎벌레 1997.06.23 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0306241023",
+      "description": "[FRIE0306241023] 호두나무잎벌레 1984.06.07 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0304121012",
+      "description": "[KNAE0304121012] 호두나무잎벌레 1991.06.09 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "가래나무",
+      "scientific_name": "Juglans mandshurica Maxim."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0144-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0144&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:13+00:00",
+    "html_sha256": "941df8c1d667c5d971a7c3282b1ca0e6084aded021dabc98589a0f6f09faccfe",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

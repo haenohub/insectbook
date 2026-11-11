@@ -1,0 +1,122 @@
+{
+  "id": "ZOBL0016",
+  "name_ko": "소나무하늘소",
+  "scientific_name": "Rhagium (Rhagium) inquistor rugipenne Reitter, 1898",
+  "display_name": "소나무하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "꽃하늘소아과",
+      "name_latin": "Lepturinae"
+    },
+    "genus": {
+      "name_ko": "소나무하늘소속",
+      "name_latin": "Rhagium"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 꽃하늘소아과 (Lepturinae)\n속 : 소나무하늘소속 (Rhagium)",
+  "basic_information": {
+    "곤충명": "소나무하늘소",
+    "학명": "Rhagium (Rhagium) inquistor rugipenne Reitter, 1898"
+  },
+  "information": {
+    "general_description": "몸 길이는 12~20mm이며 몸 색깔은 어두운 갈색이며 회백색의 짧은 털이 있다. 더듬이는 짧고 작아서 몸길이의 1/2도 안된다. 앞가슴등판가운데 하나의 홈이 있고 큰 가시 모양의 돌기가 있으며 딱지날개에 황갈색의 반점이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충으로 월동하며, 벌채목껍질아래 산다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸 길이는 12~20mm이며 몸 색깔은 어두운 갈색이며 회백색의 짧은 털이 있다. 더듬이는 짧고 작아서 몸길이의 1/2도 안된다. 앞가슴등판가운데 하나의 홈이 있고 큰 가시 모양의 돌기가 있으며 딱지날개에 황갈색의 반점이 있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충으로 월동하며, 벌채목껍질아래 산다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0016-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0016_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0016_2.jpg",
+      "alt": "소나무하늘소 1번째 사진 : ",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0016_2_th2.jpg",
+      "caption": null,
+      "photographed_at": "20070329",
+      "location": null,
+      "photographer": "국립수목원(임종옥)"
+    },
+    {
+      "id": "ZOBL0016-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0016_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0016_1_th.jpg",
+      "alt": "소나무하늘소 2번째 사진 : 소나무하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0016_1_th2.jpg",
+      "caption": "소나무하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0016-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0305131017",
+      "description": "[FRIE0305131017] 소나무하늘소 1982.03.23 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0305131018",
+      "description": "[FRIE0305131018] 소나무하늘소 1982.03.25 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0305131019",
+      "description": "[FRIE0305131019] 소나무하늘소 1982.03.24 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0016-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0016&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:12+00:00",
+    "html_sha256": "f63d347fda6c8f2f137928e61c120f1f372ac0e46a26f14af788435b15ca7b2d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

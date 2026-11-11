@@ -1,0 +1,114 @@
+{
+  "id": "ZOEI0001",
+  "name_ko": "먹가뢰",
+  "scientific_name": "Epicauta (Epicauta) sibirica (Pallas, 1773)",
+  "display_name": "먹가뢰",
+  "family_ko": "가뢰과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "거저리상과",
+      "name_latin": "Tenebrionoidea"
+    },
+    "family": {
+      "name_ko": "가뢰과",
+      "name_latin": "Meloidae"
+    },
+    "subfamily": {
+      "name_ko": "가뢰아과",
+      "name_latin": "Meloinae"
+    },
+    "genus": {
+      "name_ko": "먹가뢰속",
+      "name_latin": "Epicauta"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 거저리상과 (Tenebrionoidea)\n과 : 가뢰과 (Meloidae)\n아과 : 가뢰아과 (Meloinae)\n속 : 먹가뢰속 (Epicauta)",
+  "basic_information": {
+    "곤충명": "먹가뢰",
+    "학명": "Epicauta (Epicauta) sibirica (Pallas, 1773)"
+  },
+  "information": {
+    "general_description": "한국, 일본, 만주, 중국에 분포하며, 체장은 17-19mm 정도이다. 바탕은 전부 흑색이고 머리 양쪽의 눈 중간에 1개의 작은 점무늬와 촉각 제1마디의 아랫면에 있는 1개의 점무늬는 적색이다. 머리는 점각은 밀포하였으나 양쪽면은 조조하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 만주, 중국에 분포하며, 체장은 17-19mm 정도이다. 바탕은 전부 흑색이고 머리 양쪽의 눈 중간에 1개의 작은 점무늬와 촉각 제1마디의 아랫면에 있는 1개의 점무늬는 적색이다. 머리는 점각은 밀포하였으나 양쪽면은 조조하다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOEI0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEI0001_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEI0001_2_th.jpg",
+      "alt": "먹가뢰 1번째 사진 : 먹가뢰전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEI0001_2_th2.jpg",
+      "caption": "먹가뢰전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOEI0001-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEI0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEI0001_1_th.jpg",
+      "alt": "먹가뢰 2번째 사진 : 먹가뢰전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEI0001_1_th2.jpg",
+      "caption": "먹가뢰전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOEI0001-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408201047",
+      "description": "[MPME0408201047] 먹가뢰 2001.05.19 / / 목포자연사박물관"
+    },
+    {
+      "id": "ADUE0301091097",
+      "description": "[ADUE0301091097] 먹가뢰 2002.06.22 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0301091098",
+      "description": "[ADUE0301091098] 먹가뢰 1994.06.22 / / 안동대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOEI0001-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOEI0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:57+00:00",
+    "html_sha256": "9aa2d67554285f1b6e91911a44694e63b4b1557718224f4198f502e6d7dc3adb",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "id": "ZOCQ0002",
+  "name_ko": "외뿔장수풍뎅이",
+  "scientific_name": "Eophileurus chinensis (Faldermann, 1835)",
+  "display_name": "외뿔장수풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "장수풍뎅이아과",
+      "name_latin": "Dynastinae"
+    },
+    "genus": {
+      "name_ko": "외뿔장수풍뎅이속",
+      "name_latin": "Eophileurus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 장수풍뎅이아과 (Dynastinae)\n속 : 외뿔장수풍뎅이속 (Eophileurus)",
+  "basic_information": {
+    "곤충명": "외뿔장수풍뎅이",
+    "학명": "Eophileurus chinensis (Faldermann, 1835)"
+  },
+  "information": {
+    "general_description": "일본, 대만, 중국에 분포하며, 흑색으로 약한 광택이 있다. 수컷의 머리에는 짧고 단순한 1개의 뿔이 있고, 앞가슴등판의 앞쪽은 넓고 둥글게 파였으며, 전부절의 안쪽 발톱은 그 안쪽이 크고 넓은 이빨모양이다. 암컷은 뿔이 더 짧고, 앞가슴등판의 함몰부는 보다 좁고 길다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "일본, 대만, 중국에 분포하며, 흑색으로 약한 광택이 있다. 수컷의 머리에는 짧고 단순한 1개의 뿔이 있고, 앞가슴등판의 앞쪽은 넓고 둥글게 파였으며, 전부절의 안쪽 발톱은 그 안쪽이 크고 넓은 이빨모양이다. 암컷은 뿔이 더 짧고, 앞가슴등판의 함몰부는 보다 좁고 길다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCQ0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOCQ0002_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOCQ0002_3.jpg",
+      "alt": "외뿔장수풍뎅이 1번째 사진 : ",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOCQ0002_3_th2.jpg",
+      "caption": null,
+      "photographed_at": null,
+      "location": null,
+      "photographer": "국립수목원(이승규)"
+    },
+    {
+      "id": "ZOCQ0002-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCQ0002_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCQ0002_2_th.jpg",
+      "alt": "외뿔장수풍뎅이 2번째 사진 : 외뿔장수풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCQ0002_2_th2.jpg",
+      "caption": "외뿔장수풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOCQ0002-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCQ0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCQ0002_1_th.jpg",
+      "alt": "외뿔장수풍뎅이 3번째 사진 : 외뿔장수풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCQ0002_1_th2.jpg",
+      "caption": "외뿔장수풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCQ0002-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408201104",
+      "description": "[MPME0408201104] 외뿔장수풍뎅이 2003.08.12 / / 목포자연사박물관"
+    },
+    {
+      "id": "KNAE0304102006",
+      "description": "[KNAE0304102006] 외뿔장수풍뎅이 1988.07.23 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304102007",
+      "description": "[KNAE0304102007] 외뿔장수풍뎅이 1989.06.13 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOCQ0002-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCQ0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:53+00:00",
+    "html_sha256": "90dd48c74e597f0d7011d67cced5cdeddf1708c8195f10b6ff6a2ca2196025e5",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

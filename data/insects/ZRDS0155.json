@@ -1,0 +1,122 @@
+{
+  "id": "ZRDS0155",
+  "name_ko": "애줄무늬밤나방",
+  "scientific_name": "Mythimna pallens (Linnaeus, 1758)",
+  "display_name": "애줄무늬밤나방",
+  "family_ko": "밤나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "밤나방과",
+      "name_latin": "Noctuidae"
+    },
+    "subfamily": {
+      "name_ko": "밤나방아과",
+      "name_latin": "Noctuinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Mythimna"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 밤나방과 (Noctuidae)\n아과 : 밤나방아과 (Noctuinae)\n속 : (Mythimna)",
+  "basic_information": {
+    "곤충명": "애줄무늬밤나방",
+    "학명": "Mythimna pallens (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "날개편 길이 15～18mm. 앞날개는 담황색 바탕인데 시맥을 따라서는 가늘게 갈색 무늬가 나타난다. 뒷날개는 백색 바탕으로 시맥과 외연부는 담황색을 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6～7월경에 출현된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]\n[유럽]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 15～18mm. 앞날개는 담황색 바탕인데 시맥을 따라서는 가늘게 갈색 무늬가 나타난다. 뒷날개는 백색 바탕으로 시맥과 외연부는 담황색을 띤다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6～7월경에 출현된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]\n[유럽]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0155-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0155_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0155_2_th.jpg",
+      "alt": "애줄무늬밤나방 1번째 사진 : 애줄무늬밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0155_2_th2.jpg",
+      "caption": "애줄무늬밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDS0155-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0155_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0155_1_th.jpg",
+      "alt": "애줄무늬밤나방 2번째 사진 : 애줄무늬밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0155_1_th2.jpg",
+      "caption": "애줄무늬밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0155-1",
+  "specimen_examples": [
+    {
+      "id": "KNUE0212181087",
+      "description": "[KNUE0212181087] 애줄무늬밤나방 1986.06.05 / / 강원대학교"
+    },
+    {
+      "id": "KNUE0212181088",
+      "description": "[KNUE0212181088] 애줄무늬밤나방 1988.05.24 / / 강원대학교"
+    },
+    {
+      "id": "KNUE0212181098",
+      "description": "[KNUE0212181098] 애줄무늬밤나방 1989.05.20 / / 강원대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDS0155-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0155&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:17+00:00",
+    "html_sha256": "ecca27fade4748b13e29fcc26fe85456c14ce441a043bd7ce5b01b249308f949",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

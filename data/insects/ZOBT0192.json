@@ -1,0 +1,125 @@
+{
+  "id": "ZOBT0192",
+  "name_ko": "노랑가슴녹색잎벌레",
+  "scientific_name": "Agelasa nigriceps Motschulsky, 1860",
+  "display_name": "노랑가슴녹색잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "긴더듬이잎벌레아과",
+      "name_latin": "Galerucinae"
+    },
+    "genus": {
+      "name_ko": "노란가슴녹색잎벌레속",
+      "name_latin": "Agelasa"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 긴더듬이잎벌레아과 (Galerucinae)\n속 : 노란가슴녹색잎벌레속 (Agelasa)",
+  "basic_information": {
+    "곤충명": "노랑가슴녹색잎벌레",
+    "학명": "Agelasa nigriceps Motschulsky, 1860"
+  },
+  "information": {
+    "general_description": "몸길이는 5.8~7.8mm, 앞가슴등판과 복부와 다리는 적갈색이다. 더듬이는 흑갈색이다. 머리와 중간과 뒷가슴의 복면 날개는 녹청색이다. 한국, 일본(훗카이도,혼슈,시코쿠,큐슈), 중국(남동부), 시베리아에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6~10월까지 볼 수 있다. 5월에 산란을 하며 긴 난형의 알을 잎면에 뭉쳐 산란. 유충은 3령을 거쳐 땅속에서 용화한다. 기간은 1개월이다. 연 1화성이다.",
+    "habits": "기주식물 쥐다래나무.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 5.8~7.8mm, 앞가슴등판과 복부와 다리는 적갈색이다. 더듬이는 흑갈색이다. 머리와 중간과 뒷가슴의 복면 날개는 녹청색이다. 한국, 일본(훗카이도,혼슈,시코쿠,큐슈), 중국(남동부), 시베리아에 분포되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6~10월까지 볼 수 있다. 5월에 산란을 하며 긴 난형의 알을 잎면에 뭉쳐 산란. 유충은 3령을 거쳐 땅속에서 용화한다. 기간은 1개월이다. 연 1화성이다."
+    },
+    {
+      "title": "습성",
+      "text": "기주식물 쥐다래나무."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0192-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0192_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0192_1_th.jpg",
+      "alt": "노랑가슴녹색잎벌레 1번째 사진 : 노랑가슴녹색잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0192_1_th2.jpg",
+      "caption": "노랑가슴녹색잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0192-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0408191011",
+      "description": "[UIBE0408191011] 노랑가슴녹색잎벌레 2000.04.27 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0408191012",
+      "description": "[UIBE0408191012] 노랑가슴녹색잎벌레 2002.10.10 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0408191014",
+      "description": "[UIBE0408191014] 노랑가슴녹색잎벌레 2000.04.25 / / 인천대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "다래",
+      "scientific_name": "Actinidia arguta (Siebold & Zucc.) Planch. ex Miq."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBT0192.png",
+    "reference_image_id": "ZOBT0192-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T11:23:32.384147+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "6e591f4e3dba8dbd9b70e94f20f5201df5847e8abeaf12b7456e72d0a12da33b"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0192&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:58+00:00",
+    "html_sha256": "401dea8569a657e12742debdaf67bb10893d78afc6e046b323888863499164e8",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

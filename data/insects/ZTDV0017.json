@@ -1,0 +1,114 @@
+{
+  "id": "ZTDV0017",
+  "name_ko": "등검정쌍살벌",
+  "scientific_name": "Polistes jokahamae Rodoszkowski, 1887",
+  "display_name": "등검정쌍살벌",
+  "family_ko": "말벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "말벌상과",
+      "name_latin": "Vespoidea"
+    },
+    "family": {
+      "name_ko": "말벌과",
+      "name_latin": "Vespidae"
+    },
+    "subfamily": {
+      "name_ko": "쌍살벌아과",
+      "name_latin": "Polistinae"
+    },
+    "genus": {
+      "name_ko": "쌍살벌속",
+      "name_latin": "Polistes"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 말벌상과 (Vespoidea)\n과 : 말벌과 (Vespidae)\n아과 : 쌍살벌아과 (Polistinae)\n속 : 쌍살벌속 (Polistes)",
+  "basic_information": {
+    "곤충명": "등검정쌍살벌",
+    "학명": "Polistes jokahamae Rodoszkowski, 1887"
+  },
+  "information": {
+    "general_description": "등판 바깥쪽의 2개의 무늬는 없는 것도 있다. 앞가슴등판의 앞 절반은 적 갈색이며, 전신복절에 가로 주름이 많다. 날개는 적갈색이고 다리는 황갈색이나 밑마디와 도래마디 및 넓적다리마디와 뒷다리 종아리마디의 태반은 흑색이다. 각 배마디의 뒷슭은 황갈색이나 제 2마디 이하의 호아갈색 띠는 양 옆에서 활 무늬를 이룬다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[몽골]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "등판 바깥쪽의 2개의 무늬는 없는 것도 있다. 앞가슴등판의 앞 절반은 적 갈색이며, 전신복절에 가로 주름이 많다. 날개는 적갈색이고 다리는 황갈색이나 밑마디와 도래마디 및 넓적다리마디와 뒷다리 종아리마디의 태반은 흑색이다. 각 배마디의 뒷슭은 황갈색이나 제 2마디 이하의 호아갈색 띠는 양 옆에서 활 무늬를 이룬다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[몽골]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDV0017-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDV0017_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDV0017_2_th.jpg",
+      "alt": "등검정쌍살벌 1번째 사진 : 등검정쌍살벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDV0017_2_th2.jpg",
+      "caption": "등검정쌍살벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTDV0017-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDV0017_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDV0017_1_th.jpg",
+      "alt": "등검정쌍살벌 2번째 사진 : 등검정쌍살벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDV0017_1_th2.jpg",
+      "caption": "등검정쌍살벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDV0017-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0302052121",
+      "description": "[UIBE0302052121] 등검정쌍살벌 1998.09.17 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0302052122",
+      "description": "[UIBE0302052122] 등검정쌍살벌 1994.09.21 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0302052123",
+      "description": "[UIBE0302052123] 등검정쌍살벌 1994.09.13 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDV0017-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDV0017&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:12+00:00",
+    "html_sha256": "d997985be5c5be500cd66bdb1a4c075b11d10f01820ec2911aa4314631b995dc",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

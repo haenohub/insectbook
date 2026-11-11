@@ -1,0 +1,117 @@
+{
+  "id": "ZOAR0004",
+  "name_ko": "포도거위벌레",
+  "scientific_name": "Aspidobyctiscus (Aspidobyctiscus) lacunipennis (Jekel, 1860)",
+  "display_name": "포도거위벌레",
+  "family_ko": "거위벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "거위벌레과",
+      "name_latin": "Attelabidae"
+    },
+    "subfamily": {
+      "name_ko": "주둥이거위벌레아과",
+      "name_latin": "Rhynchitinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Aspidobyctiscus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 거위벌레과 (Attelabidae)\n아과 : 주둥이거위벌레아과 (Rhynchitinae)\n속 : (Aspidobyctiscus)",
+  "basic_information": {
+    "곤충명": "포도거위벌레",
+    "학명": "Aspidobyctiscus (Aspidobyctiscus) lacunipennis (Jekel, 1860)"
+  },
+  "information": {
+    "general_description": "한국, 일본, 중국, 대만, 러시아에 분포하며, 체장은 4.4-4.6mm정도이다. 체색은 등갈색이며 광택이 있다. 머리의 폭은 좁고 주둥이는 길며, 뒷머리에는 가로로 주름살이 있고 앞머리에는 세로로 주름살이 있으며, 주둥이에는 작은 과립이 많다. 촉각은 흑색이고 곤봉모양이다. 앞가슴등판의 바깥 가두리는 둥글고 중앙에 1개의 종구가 있으며, 뒷가두리의 바로 앞에 오묵 들어간 곳이 있다.전면에 작은 주름살이 밀포하였으며, 수컷은 바깥가두리 앞쪽에 예리한 치상돌기가 있다.딱지날개에는 긴 점각이 세로로줄지어 잇으며 바깥가두리부는 명확하지 않다. 간실은 요철이 심하고 점각이 밀포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "포도를 기주식물로 한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대만]\n[러시아]\n[일본]\n[중국]",
+    "notes": "[보통종]\n[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 중국, 대만, 러시아에 분포하며, 체장은 4.4-4.6mm정도이다. 체색은 등갈색이며 광택이 있다. 머리의 폭은 좁고 주둥이는 길며, 뒷머리에는 가로로 주름살이 있고 앞머리에는 세로로 주름살이 있으며, 주둥이에는 작은 과립이 많다. 촉각은 흑색이고 곤봉모양이다. 앞가슴등판의 바깥 가두리는 둥글고 중앙에 1개의 종구가 있으며, 뒷가두리의 바로 앞에 오묵 들어간 곳이 있다.전면에 작은 주름살이 밀포하였으며, 수컷은 바깥가두리 앞쪽에 예리한 치상돌기가 있다.딱지날개에는 긴 점각이 세로로줄지어 잇으며 바깥가두리부는 명확하지 않다. 간실은 요철이 심하고 점각이 밀포되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "포도를 기주식물로 한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대만]\n[러시아]\n[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]\n[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAR0004-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0004_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0004_1_th.jpg",
+      "alt": "포도거위벌레 1번째 사진 : 포도거위벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0004_1_th2.jpg",
+      "caption": "포도거위벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAR0004-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0303261062",
+      "description": "[FRIE0303261062] 포도거위벌레 1984.05.18 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0303261063",
+      "description": "[FRIE0303261063] 포도거위벌레 1984.06.27 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0303261064",
+      "description": "[FRIE0303261064] 포도거위벌레 1980.05.24 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "포도",
+      "scientific_name": "Vitis vinifera L."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAR0004-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAR0004&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:40+00:00",
+    "html_sha256": "8f231c88d24231f2313cca6ffb67d68b1d36d1043abe2ecd6a2f9e14696fd0f0",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "id": "ZRED0016",
+  "name_ko": "기생나비",
+  "scientific_name": "Leptidea amurensis (Ménétriès, 1859)",
+  "display_name": "기생나비",
+  "family_ko": "흰나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "흰나비과",
+      "name_latin": "Pieridae"
+    },
+    "subfamily": {
+      "name_ko": "기생나비아과",
+      "name_latin": "Dismorphiinae"
+    },
+    "genus": {
+      "name_ko": "기생나비속",
+      "name_latin": "Leptidea"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 흰나비과 (Pieridae)\n아과 : 기생나비아과 (Dismorphiinae)\n속 : 기생나비속 (Leptidea)",
+  "basic_information": {
+    "곤충명": "기생나비",
+    "학명": "Leptidea amurensis (Ménétriès, 1859)"
+  },
+  "information": {
+    "general_description": "암컷은 날개의 형태가 둥글어 보이며 수컷은 날개 윗면의 날개끝의 흑색 무늬가 짙어 보인다. 날개 끝의 검은색 무늬는 암컷보다 수컷의 색이 더 짙고 암수 모두 여름형이 봄형에 비하여 이 무늬가 훨씬 발달되어 있다. 이 종은 북방기생나비와 유사하나 암수 모두 날개모양이 뾰족한 점으로 구별된다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "대개 낮은 산지나 논밭 주변에 살고 있으며 날 때에는 힘이 없어 보인다. 보통 여름과 가을보다 봄에 더 많은 편이다. 봄형은 4월말부터 5월, 여름형은 6월말부터 7월 그리고 8월말부터 9월로 연 3회 발생한다.",
+    "habits": "암컷은 맑은 날 식초의 줄기나 새순의 뒷면에 배를 구부려 알을 한 개씩 낳으며 때때로 낮은 위치의 잎 앞면에서 휴식한다. 수컷의 경우는 습지에 모이고, 꿀풀, 타래난초 등의 꽃에서 꿀을 먹는다.",
+    "season": null,
+    "overwintering": "번데기",
+    "distribution": "[일본]\n[중국]\n[러시아]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷은 날개의 형태가 둥글어 보이며 수컷은 날개 윗면의 날개끝의 흑색 무늬가 짙어 보인다. 날개 끝의 검은색 무늬는 암컷보다 수컷의 색이 더 짙고 암수 모두 여름형이 봄형에 비하여 이 무늬가 훨씬 발달되어 있다. 이 종은 북방기생나비와 유사하나 암수 모두 날개모양이 뾰족한 점으로 구별된다."
+    },
+    {
+      "title": "생태",
+      "text": "대개 낮은 산지나 논밭 주변에 살고 있으며 날 때에는 힘이 없어 보인다. 보통 여름과 가을보다 봄에 더 많은 편이다. 봄형은 4월말부터 5월, 여름형은 6월말부터 7월 그리고 8월말부터 9월로 연 3회 발생한다."
+    },
+    {
+      "title": "습성",
+      "text": "암컷은 맑은 날 식초의 줄기나 새순의 뒷면에 배를 구부려 알을 한 개씩 낳으며 때때로 낮은 위치의 잎 앞면에서 휴식한다. 수컷의 경우는 습지에 모이고, 꿀풀, 타래난초 등의 꽃에서 꿀을 먹는다."
+    },
+    {
+      "title": "월동",
+      "text": "번데기"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRED0016-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRED0016_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRED0016_2_th.jpg",
+      "alt": "기생나비 1번째 사진 : 기생나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRED0016_2_th2.jpg",
+      "caption": "기생나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRED0016-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRED0016_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRED0016_1_th.jpg",
+      "alt": "기생나비 2번째 사진 : 기생나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRED0016_1_th2.jpg",
+      "caption": "기생나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRED0016-1",
+  "specimen_examples": [
+    {
+      "id": "SJNE0306201058",
+      "description": "[SJNE0306201058] 기생나비 1999.06.06 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0306201059",
+      "description": "[SJNE0306201059] 기생나비 1999.06.06 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0306131238",
+      "description": "[SJNE0306131238] 기생나비 2002.07.01 / / 상주대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "갈퀴나물",
+      "scientific_name": "Vicia amoena Fisch. ex Ser."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRED0016.png",
+    "reference_image_id": "ZRED0016-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T15:15:00.777059+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "f46e190d73f216268c432d5e22612e5c66caa639fac04efa3d62795f6f252519"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRED0016&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:50+00:00",
+    "html_sha256": "089bec8f9aca77a58a393c7cb073c7e870e1a66b217f5dcf6bd343f3016f3c49",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

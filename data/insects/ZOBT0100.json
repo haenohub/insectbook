@@ -1,0 +1,130 @@
+{
+  "id": "ZOBT0100",
+  "name_ko": "금록색잎벌레",
+  "scientific_name": "Basilepta fulvipes (Motschulsky, 1860)",
+  "display_name": "금록색잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "꼽추잎벌레아과",
+      "name_latin": "Eumolpinae"
+    },
+    "genus": {
+      "name_ko": "애꼽추잎벌레속",
+      "name_latin": "Basilepta"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 꼽추잎벌레아과 (Eumolpinae)\n속 : 애꼽추잎벌레속 (Basilepta)",
+  "basic_information": {
+    "곤충명": "금록색잎벌레",
+    "학명": "Basilepta fulvipes (Motschulsky, 1860)"
+  },
+  "information": {
+    "general_description": "몸길이는 3.0~4.5mm, 몸색깔은 흑색이며 광택이 강하다. 앞가슴등판은 노랑색, 구리색, 녹색, 파랑색, 빨강색등 매우 다양하다. 다리 또한 다양한 색깔이다. 앞가슴등판 끝쪽에 돌출된 부분이 있어 가슴전체가 삼각형 모양으로 보인다. 한국, 중국, 대만, 시베리아, 몽고, 일본(훗카이도,혼슈,시코쿠,큐슈)에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6~7월에 활동하며 쑥,국화의 잎을 먹는다. 8월에 산란. 유충은 땅속에서 식물 뿌리를 먹고 자란다.",
+    "habits": "기주식물 쑥.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[몽골]\n[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 3.0~4.5mm, 몸색깔은 흑색이며 광택이 강하다. 앞가슴등판은 노랑색, 구리색, 녹색, 파랑색, 빨강색등 매우 다양하다. 다리 또한 다양한 색깔이다. 앞가슴등판 끝쪽에 돌출된 부분이 있어 가슴전체가 삼각형 모양으로 보인다. 한국, 중국, 대만, 시베리아, 몽고, 일본(훗카이도,혼슈,시코쿠,큐슈)에 분포되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6~7월에 활동하며 쑥,국화의 잎을 먹는다. 8월에 산란. 유충은 땅속에서 식물 뿌리를 먹고 자란다."
+    },
+    {
+      "title": "습성",
+      "text": "기주식물 쑥."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[몽골]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0100-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0100_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0100_1_th.jpg",
+      "alt": "금록색잎벌레 1번째 사진 : 금록색잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0100_1_th2.jpg",
+      "caption": "금록색잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0100-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0306231032",
+      "description": "[FRIE0306231032] 금록색잎벌레 1999.07.20 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0306231038",
+      "description": "[FRIE0306231038] 금록색잎벌레 1997.07.11 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0306231039",
+      "description": "[FRIE0306231039] 금록색잎벌레 1997.07.08 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "감나무",
+      "scientific_name": "Diospyros kaki Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "포도",
+      "scientific_name": "Vitis vinifera L."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBT0100.png",
+    "reference_image_id": "ZOBT0100-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T14:56:25.763955+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "af4d450d8701e8297e4813f3b582d8a32a47dced5e9f5ef0d889c916185bcb5f"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0100&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:44+00:00",
+    "html_sha256": "35ba05da8d992eff98dd6ef8e50d6f92a62c6ff063be9444c1e948c81a9c789d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

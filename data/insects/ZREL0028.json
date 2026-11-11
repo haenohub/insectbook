@@ -1,0 +1,107 @@
+{
+  "id": "ZREL0028",
+  "name_ko": "검은줄풀명나방",
+  "scientific_name": "Flavocrambus striatellus (Leech, 1889)",
+  "display_name": "검은줄풀명나방",
+  "family_ko": "풀명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "풀명나방과",
+      "name_latin": "Crambidae"
+    },
+    "subfamily": {
+      "name_ko": "풀명나방아과",
+      "name_latin": "Crambinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Flavocrambus"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 풀명나방과 (Crambidae)\n아과 : 풀명나방아과 (Crambinae)\n속 : (Flavocrambus)",
+  "basic_information": {
+    "곤충명": "검은줄풀명나방",
+    "학명": "Flavocrambus striatellus (Leech, 1889)"
+  },
+  "information": {
+    "general_description": "머리는 거의 백색이며, 앞이마는 약간 둥글게 돌출한다. 더듬이는 갈색이며, 안쪽에 갈색 비늘의 줄이 있다. 아랫입술수염은 거의 앞으로 향하고 담갈색이며, 바깥쪽은 약간 흑갈색을 띤다. 작은턱수염의 기부는 흑갈색이고, 그 밖은 담백갈색이다. 가슴의 등쪽면은 담백갈색이고, 배의 등쪽면은 약간 색이 짙다. 가슴, 배의 배쪽면, 다리는 담백갈색이다. 앞날개는 오렌지색 바탕에 다수의 흑갈색 세로줄이 달리고 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "머리는 거의 백색이며, 앞이마는 약간 둥글게 돌출한다. 더듬이는 갈색이며, 안쪽에 갈색 비늘의 줄이 있다. 아랫입술수염은 거의 앞으로 향하고 담갈색이며, 바깥쪽은 약간 흑갈색을 띤다. 작은턱수염의 기부는 흑갈색이고, 그 밖은 담백갈색이다. 가슴의 등쪽면은 담백갈색이고, 배의 등쪽면은 약간 색이 짙다. 가슴, 배의 배쪽면, 다리는 담백갈색이다. 앞날개는 오렌지색 바탕에 다수의 흑갈색 세로줄이 달리고 있다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0028-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0028_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0028_1_th.jpg",
+      "alt": "검은줄풀명나방 1번째 사진 : 검은줄포충나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0028_1_th2.jpg",
+      "caption": "검은줄포충나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0028-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0204031001",
+      "description": "[FRIE0204031001] 검은줄풀명나방 1984.08.29 / / 국립산림과학원"
+    },
+    {
+      "id": "UIBE0203261111",
+      "description": "[UIBE0203261111] 검은줄풀명나방 1996.08.05 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0203261112",
+      "description": "[UIBE0203261112] 검은줄풀명나방 1996.07.07 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZREL0028.png",
+    "reference_image_id": "ZREL0028-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T11:04:44.433866+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "782ce6a2508cb89d52fedf65c688b5c011ff892a7914a2b03fce18b1ceb9c773"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0028&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:03+00:00",
+    "html_sha256": "71fc30e51963059d5edc1ced5c2abe1fccac7cb81d1365c3ccf4b8d11fbd159c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

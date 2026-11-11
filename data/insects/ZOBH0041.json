@@ -1,0 +1,110 @@
+{
+  "id": "ZOBH0041",
+  "name_ko": "창언조롱박딱정벌레",
+  "scientific_name": "Acoptolabrus changeonleei (Ishikawa & Kim, 1983)",
+  "display_name": "창언조롱박딱정벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "딱정벌레아과",
+      "name_latin": "Carabinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Acoptolabrus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 딱정벌레아과 (Carabinae)\n속 : (Acoptolabrus)",
+  "basic_information": {
+    "곤충명": "창언조롱박딱정벌레",
+    "학명": "Acoptolabrus changeonleei (Ishikawa & Kim, 1983)"
+  },
+  "information": {
+    "general_description": "몸길이는 23~25mm, 두부와 앞가슴 등판은 녹동색의 광택이 있고, 딱지날개는 초록의 광택이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[포식성]\n[한국고유종]\n[II급 멸종위기야생동식물]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 23~25mm, 두부와 앞가슴 등판은 녹동색의 광택이 있고, 딱지날개는 초록의 광택이 있다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[포식성]\n[한국고유종]\n[II급 멸종위기야생동식물]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0041-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0041_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0041_2_th.jpg",
+      "alt": "창언조롱박딱정벌레 1번째 사진 : 창언조롱박딱정벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0041_2_th2.jpg",
+      "caption": "창언조롱박딱정벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0041-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0041_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0041_1_th.jpg",
+      "alt": "창언조롱박딱정벌레 2번째 사진 : 창언조롱박딱정벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0041_1_th2.jpg",
+      "caption": "창언조롱박딱정벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0041-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0301251024",
+      "description": "[KPNE0301251024] 창언조롱박딱정벌레 1987.07.13 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0301251025",
+      "description": "[KPNE0301251025] 창언조롱박딱정벌레 1990.08.18 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0301251026",
+      "description": "[KPNE0301251026] 창언조롱박딱정벌레 1989.07.13 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0041-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0041&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:07+00:00",
+    "html_sha256": "46ed37456421aa8fbd16e7d9e48f3972bf30f23575f53925ceac39370ae49b29",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

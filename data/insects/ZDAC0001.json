@@ -1,0 +1,114 @@
+{
+  "id": "ZDAC0001",
+  "name_ko": "검은물잠자리",
+  "scientific_name": "Atrocalopteryx atrata (Selys, 1853)",
+  "display_name": "검은물잠자리",
+  "family_ko": "물잠자리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "잠자리목",
+      "name_latin": "Odonata"
+    },
+    "family": {
+      "name_ko": "물잠자리과",
+      "name_latin": "Calopterygidae"
+    },
+    "subfamily": {
+      "name_ko": "물잠자리아과",
+      "name_latin": "Calopteryginae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Atrocalopteryx"
+    }
+  },
+  "taxonomy_text": "목 : 잠자리목 (Odonata)\n과 : 물잠자리과 (Calopterygidae)\n아과 : 물잠자리아과 (Calopteryginae)\n속 : (Atrocalopteryx)",
+  "basic_information": {
+    "곤충명": "검은물잠자리",
+    "학명": "Atrocalopteryx atrata (Selys, 1853)"
+  },
+  "information": {
+    "general_description": "몸 색깔은 전반적으로 검은색을 띤다. 날개의 색도 검은데 햇빛을 받으면 검푸른 빛이 나면서 번쩍이는 특징이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "주로 물살이 느리고 물풀이 많은 물가를 좋아하며, 암컷은 물풀이 많은 곳에 산란하는 경우가 많다. 알은 물 속 줄기에 산란하는데 몸을 물에 담근 채 알을 낳기도 한다. 유충 시기에는 물 속에서 생활하다가 성충이 될 때 물 밖으로 나온다. 5월부터 10월초까지 관찰되며, 남부 지방에서 더 많이 관찰된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸 색깔은 전반적으로 검은색을 띤다. 날개의 색도 검은데 햇빛을 받으면 검푸른 빛이 나면서 번쩍이는 특징이 있다."
+    },
+    {
+      "title": "생태",
+      "text": "주로 물살이 느리고 물풀이 많은 물가를 좋아하며, 암컷은 물풀이 많은 곳에 산란하는 경우가 많다. 알은 물 속 줄기에 산란하는데 몸을 물에 담근 채 알을 낳기도 한다. 유충 시기에는 물 속에서 생활하다가 성충이 될 때 물 밖으로 나온다. 5월부터 10월초까지 관찰되며, 남부 지방에서 더 많이 관찰된다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZDAC0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAC0001_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAC0001_2_th.jpg",
+      "alt": "검은물잠자리 1번째 사진 : 검은물잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAC0001_2_th2.jpg",
+      "caption": "검은물잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZDAC0001-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAC0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAC0001_1_th.jpg",
+      "alt": "검은물잠자리 2번째 사진 : 검은물잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAC0001_1_th2.jpg",
+      "caption": "검은물잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZDAC0001-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0212236050",
+      "description": "[YNUE0212236050] 검은물잠자리 2001.06.03 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0212236051",
+      "description": "[YNUE0212236051] 검은물잠자리 2001.06.04 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0212236052",
+      "description": "[YNUE0212236052] 검은물잠자리 2001.08.24 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZDAC0001.png",
+    "reference_image_id": "ZDAC0001-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T18:00:40.173350+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "b964c40222e99b1cf3752bc984777bb739b62fd762f01b6a1c5b90e801c45043"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZDAC0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:57+00:00",
+    "html_sha256": "9402d7604c6ba764c4ce67025682a6cbc32897c7c901b7f259a2a52033712e43",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

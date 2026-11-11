@@ -1,0 +1,114 @@
+{
+  "id": "ZRFJ0003",
+  "name_ko": "줄무늬좀나방",
+  "scientific_name": "Ypsolopha acuminatus (Butler, 1879)",
+  "display_name": "줄무늬좀나방",
+  "family_ko": "갈고리좀나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "집나방상과",
+      "name_latin": "Yponomeutoidea"
+    },
+    "family": {
+      "name_ko": "갈고리좀나방과",
+      "name_latin": "Ypsolophidae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Ypsolopha"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 집나방상과 (Yponomeutoidea)\n과 : 갈고리좀나방과 (Ypsolophidae)\n속 : (Ypsolopha)",
+  "basic_information": {
+    "곤충명": "줄무늬좀나방",
+    "학명": "Ypsolopha acuminatus (Butler, 1879)"
+  },
+  "information": {
+    "general_description": "머리, 더듬이, 가슴은 담회갈색 내지 암백색을 띰. 아랫입술수염의 제 3마디는 아주 작아 제 2마디의 1/10 정도이며, 제 2마디의 긴 인편에 묻혀 잘 보이지 않음. 다리와 배는 담황토색을 띰. 앞날개는 회갈색 바탕에 흑색의 인편이 흩어져 있거나 긴줄을 이루며, 날개의 나비는 좁고 날개끝은 뾰족함. 뒷날개는 밝은 황토색임.",
+    "adult": null,
+    "adult_male": "파악판은 작고 달걀 모양이며, 포낭은 길고 가늘다.",
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "머리, 더듬이, 가슴은 담회갈색 내지 암백색을 띰. 아랫입술수염의 제 3마디는 아주 작아 제 2마디의 1/10 정도이며, 제 2마디의 긴 인편에 묻혀 잘 보이지 않음. 다리와 배는 담황토색을 띰. 앞날개는 회갈색 바탕에 흑색의 인편이 흩어져 있거나 긴줄을 이루며, 날개의 나비는 좁고 날개끝은 뾰족함. 뒷날개는 밝은 황토색임."
+    },
+    {
+      "title": "성충(수)",
+      "text": "파악판은 작고 달걀 모양이며, 포낭은 길고 가늘다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRFJ0003-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFJ0003_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFJ0003_2_th.jpg",
+      "alt": "줄무늬좀나방 1번째 사진 : 줄무늬좀나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFJ0003_2_th2.jpg",
+      "caption": "줄무늬좀나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRFJ0003-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFJ0003_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFJ0003_1_th.jpg",
+      "alt": "줄무늬좀나방 2번째 사진 : 줄무늬좀나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFJ0003_1_th2.jpg",
+      "caption": "줄무늬좀나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRFJ0003-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE161538",
+      "description": "[KNAE161538] 줄무늬좀나방 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0911162112",
+      "description": "[KNAE0911162112] 줄무늬좀나방 1997.09.05 / / 국립수목원"
+    },
+    {
+      "id": "CBNE0203061024",
+      "description": "[CBNE0203061024] 줄무늬좀나방 2000.08.29 / / 충북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRFJ0003-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRFJ0003&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:12+00:00",
+    "html_sha256": "9b96e9fddfcd227c2c561769c8bfb1896d485abe7bfc81fd0e66135de3a53122",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

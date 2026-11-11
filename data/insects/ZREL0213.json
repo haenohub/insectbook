@@ -1,0 +1,114 @@
+{
+  "id": "ZREL0213",
+  "name_ko": "검스레집명나방",
+  "scientific_name": "Termioptycha inimica (Butler, 1879)",
+  "display_name": "검스레집명나방",
+  "family_ko": "명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "명나방과",
+      "name_latin": "Pyralidae"
+    },
+    "subfamily": {
+      "name_ko": "집명나방아과",
+      "name_latin": "Epipaschiinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Termioptycha"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 명나방과 (Pyralidae)\n아과 : 집명나방아과 (Epipaschiinae)\n속 : (Termioptycha)",
+  "basic_information": {
+    "곤충명": "검스레집명나방",
+    "학명": "Termioptycha inimica (Butler, 1879)"
+  },
+  "information": {
+    "general_description": "일본, 우수리에 분포하며 외형으로 보아 푸른집명나방과 비슷하나, 앞날개의 외횡선이 보다 강한\n톱니 모양을 이루고, 내횡선의 경사가 심하며, 뒷날개의 외횡선이 나타나\n보이는 것 등으로 구별. 정수리에는 인편이 거칠게 솟아 있고, 아랫입술\n수염은 위로 향하며 제 3마디는 뾰족하다. 26-28mm 길이의 날개를 가지\n고 있으며, 가슴의 등쪽면은 담백갈색이고, 배의 등쪽면은 백갈색에 약간의 갈색인편이 섞여 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "일본, 우수리에 분포하며 외형으로 보아 푸른집명나방과 비슷하나, 앞날개의 외횡선이 보다 강한\n톱니 모양을 이루고, 내횡선의 경사가 심하며, 뒷날개의 외횡선이 나타나\n보이는 것 등으로 구별. 정수리에는 인편이 거칠게 솟아 있고, 아랫입술\n수염은 위로 향하며 제 3마디는 뾰족하다. 26-28mm 길이의 날개를 가지\n고 있으며, 가슴의 등쪽면은 담백갈색이고, 배의 등쪽면은 백갈색에 약간의 갈색인편이 섞여 있다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0213-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0213_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0213_2_th.jpg",
+      "alt": "검스레집명나방 1번째 사진 : 검스레집명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0213_2_th2.jpg",
+      "caption": "검스레집명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREL0213-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0213_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0213_1_th.jpg",
+      "alt": "검스레집명나방 2번째 사진 : 검스레집명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0213_1_th2.jpg",
+      "caption": "검스레집명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0213-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0303171026",
+      "description": "[FRIE0303171026] 검스레집명나방 1996.09.26 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0305021065",
+      "description": "[FRIE0305021065] 검스레집명나방 1985.10.15 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0301101017",
+      "description": "[FRIE0301101017] 검스레집명나방 2002.07.04 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZREL0213.png",
+    "reference_image_id": "ZREL0213-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T17:42:26.240957+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "3d553a8114db6126fa5188f2439d4d3fc4ced833b7af5378250e8c3658520a9d"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0213&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:51+00:00",
+    "html_sha256": "265156c690d6053465c5e88b6cd68580a6bb990ff8c1d4f8af0ad6e538f17f79",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

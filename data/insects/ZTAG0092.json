@@ -1,0 +1,111 @@
+{
+  "id": "ZTAG0092",
+  "name_ko": "긴수염줄벌",
+  "scientific_name": "Eucera (Eucera) sociabilis (Smith, 1873)",
+  "display_name": "긴수염줄벌",
+  "family_ko": "꿀벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "꿀벌과",
+      "name_latin": "Apidae"
+    },
+    "subfamily": {
+      "name_ko": "꿀벌아과",
+      "name_latin": "Apinae"
+    },
+    "genus": {
+      "name_ko": "수염줄벌속",
+      "name_latin": "Eucera"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 꿀벌과 (Apidae)\n아과 : 꿀벌아과 (Apinae)\n속 : 수염줄벌속 (Eucera)",
+  "basic_information": {
+    "곤충명": "긴수염줄벌",
+    "학명": "Eucera (Eucera) sociabilis (Smith, 1873)"
+  },
+  "information": {
+    "general_description": "암컷의 몸길이는 13mm 정도이고, 배에는 거의 줄무늬가 없다. 수컷은 흑색이고 가슴과 배의 기부는 긴 담황색 털이 있고 얼굴의 거의 백색이다. 날개는 투명하고 그 꼭대기는 약간 흐리다. 맥은 어두운 갈색이고 어깨판은 황갈색이며 종아리마디와 발목마디는 황갈색 털이 났고 가운데 다리와 뒷다리의 기부마디는 안에서 적갈색 털이 있다 . 종아리마디의 끝가지들은 담황갈색이고 종아리마디는 적갈색이다. 수컷은 더듬이가 몸과 같은 길이고(8mm정도), 머리와 가슴의 털은 암컷 보다 담색이며 종아리마디는 적갈색이다. 배는 띠가 없고 각 마디의 변두리는 황갈색이며 머리방패는 황색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]\n[중국]",
+    "notes": "[감소추세종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷의 몸길이는 13mm 정도이고, 배에는 거의 줄무늬가 없다. 수컷은 흑색이고 가슴과 배의 기부는 긴 담황색 털이 있고 얼굴의 거의 백색이다. 날개는 투명하고 그 꼭대기는 약간 흐리다. 맥은 어두운 갈색이고 어깨판은 황갈색이며 종아리마디와 발목마디는 황갈색 털이 났고 가운데 다리와 뒷다리의 기부마디는 안에서 적갈색 털이 있다 . 종아리마디의 끝가지들은 담황갈색이고 종아리마디는 적갈색이다. 수컷은 더듬이가 몸과 같은 길이고(8mm정도), 머리와 가슴의 털은 암컷 보다 담색이며 종아리마디는 적갈색이다. 배는 띠가 없고 각 마디의 변두리는 황갈색이며 머리방패는 황색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[감소추세종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0092-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0092_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0092_1_th.jpg",
+      "alt": "긴수염줄벌 1번째 사진 : 긴수염줄벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0092_1_th2.jpg",
+      "caption": "긴수염줄벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0092-1",
+  "specimen_examples": [
+    {
+      "id": "ADUE0202191062",
+      "description": "[ADUE0202191062] 긴수염줄벌 1998.05.22 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0202191063",
+      "description": "[ADUE0202191063] 긴수염줄벌 1997.06.12 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0202191064",
+      "description": "[ADUE0202191064] 긴수염줄벌 1990.05.24 / / 안동대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTAG0092.png",
+    "reference_image_id": "ZTAG0092-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T09:11:17.152361+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "64cf71bd463e6d858cb502c70366ae75f57fb8140f80872346eaf905aa3decc6"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0092&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:05+00:00",
+    "html_sha256": "e1c8005674a8a9e5eb7005c749a962b33354d5ad08f9f1545f464b69433131aa",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

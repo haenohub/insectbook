@@ -1,0 +1,107 @@
+{
+  "id": "ZOCF0102",
+  "name_ko": "벼물바구미",
+  "scientific_name": "Lissorhoptrus oryzophilus Kuschel, 1952",
+  "display_name": "벼물바구미",
+  "family_ko": "턱바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "턱바구미과",
+      "name_latin": "Brachyceridae"
+    },
+    "subfamily": {
+      "name_ko": "벼바구미아과",
+      "name_latin": "Erirhininae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Lissorhoptrus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 턱바구미과 (Brachyceridae)\n아과 : 벼바구미아과 (Erirhininae)\n속 : (Lissorhoptrus)",
+  "basic_information": {
+    "곤충명": "벼물바구미",
+    "학명": "Lissorhoptrus oryzophilus Kuschel, 1952"
+  },
+  "information": {
+    "general_description": "몸길이는 3~3.3mm이다. 넓적하며, 주둥이는 약간 가늘고 길다. 몸 색깔은 흑갈색이며 황회색 비늘로 덮였고 등쪽은 넓게 흑갈색을 보인다. 다리의 종아리마디 끝에는 갈고리 몸양인 돌기와 안쪽으로 굽은 돌기가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 잎을 갉아먹는다. 이종은 원래 미국산이나 일본에도 침입하였다 근래 우리나라까지 침입한 벼의 해충으로 유명하다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[미국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 3~3.3mm이다. 넓적하며, 주둥이는 약간 가늘고 길다. 몸 색깔은 흑갈색이며 황회색 비늘로 덮였고 등쪽은 넓게 흑갈색을 보인다. 다리의 종아리마디 끝에는 갈고리 몸양인 돌기와 안쪽으로 굽은 돌기가 있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 잎을 갉아먹는다. 이종은 원래 미국산이나 일본에도 침입하였다 근래 우리나라까지 침입한 벼의 해충으로 유명하다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[미국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCF0102-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0102_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0102_1_th.jpg",
+      "alt": "벼물바구미 1번째 사진 : 벼물바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0102_1_th2.jpg",
+      "caption": "벼물바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCF0102-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0304211031",
+      "description": "[FRIE0304211031] 벼물바구미 2001.05.23 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0303142012",
+      "description": "[KNAE0303142012] 벼물바구미 1996.06.11 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303122071",
+      "description": "[KNAE0303122071] 벼물바구미 1988.08.11 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOCF0102-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCF0102&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:55+00:00",
+    "html_sha256": "7d98e264cea9a41810588470ef2569a04f0acdfa459d26fc4e2ab98b9608eb29",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

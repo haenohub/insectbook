@@ -1,0 +1,110 @@
+{
+  "id": "ZOBH0021",
+  "name_ko": "소백우리딱정벌레",
+  "scientific_name": "Eucarabus (Parhomopterus) sternbergi sobaeksanensis (Kwon & Lee, 1984)",
+  "display_name": "소백우리딱정벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "딱정벌레아과",
+      "name_latin": "Carabinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Eucarabus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 딱정벌레아과 (Carabinae)\n속 : (Eucarabus)",
+  "basic_information": {
+    "곤충명": "소백우리딱정벌레",
+    "학명": "Eucarabus (Parhomopterus) sternbergi sobaeksanensis (Kwon & Lee, 1984)"
+  },
+  "information": {
+    "general_description": "몸길이는 수컷이 22~24mm, 암컷은 23~27mm이다. 앞가슴등판의 측연부위는 세개또는 두개의 긴털을 가진다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[한국고유종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 수컷이 22~24mm, 암컷은 23~27mm이다. 앞가슴등판의 측연부위는 세개또는 두개의 긴털을 가진다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[한국고유종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0021-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0021_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0021_2_th.jpg",
+      "alt": "소백우리딱정벌레 1번째 사진 : 소백우리딱정벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0021_2_th2.jpg",
+      "caption": "소백우리딱정벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0021-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0021_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0021_1_th.jpg",
+      "alt": "소백우리딱정벌레 2번째 사진 : 소백우리딱정벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0021_1_th2.jpg",
+      "caption": "소백우리딱정벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0021-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0204041047",
+      "description": "[KPNE0204041047] 소백우리딱정벌레 1977.07.24 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0204041048",
+      "description": "[KPNE0204041048] 소백우리딱정벌레 1977.08.01 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0204041049",
+      "description": "[KPNE0204041049] 소백우리딱정벌레 1977.08.01 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0021-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0021&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:14+00:00",
+    "html_sha256": "7bd83eae63fe44ba40103ef4e80177c1844145c947a971ec1e001858ed1c42cf",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

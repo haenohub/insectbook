@@ -1,0 +1,107 @@
+{
+  "id": "ZREL0238",
+  "name_ko": "검은점뾰족명나방",
+  "scientific_name": "Endotricha olivacealis (Bremer, 1864)",
+  "display_name": "검은점뾰족명나방",
+  "family_ko": "명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "명나방과",
+      "name_latin": "Pyralidae"
+    },
+    "subfamily": {
+      "name_ko": "비단명나방아과",
+      "name_latin": "Pyralinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Endotricha"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 명나방과 (Pyralidae)\n아과 : 비단명나방아과 (Pyralinae)\n속 : (Endotricha)",
+  "basic_information": {
+    "곤충명": "검은점뾰족명나방",
+    "학명": "Endotricha olivacealis (Bremer, 1864)"
+  },
+  "information": {
+    "general_description": "일본 타이완 중국 시베리아 인디아 버어마 자바에 분포하며 수컷의 더듬이 병절에는 흑 모양의 돌기가 있다. 색깔은 암수에　따라 지리적, 또는 발생 시기에 따라 다소 다르게 나타난다. 수컷에서는 앞 뒷날개 내횡선 바깥쪽의 띠 부분이 황백색을 나타내지만 암컷의 경우에는 담적갈색 또는 개체에 따라 홍색을 나타낸다. 중실 끝부분 전연 쪽에 위치한 흑갈색 선 무늬가 특징적이다. 앞날개의 아외횡선은 앞의 종들보다 안쪽으로 달린다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[대만]\n[중국]\n[러시아] 동시베리아지역\n[인도]\n[미얀마]\n[인도네시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "일본 타이완 중국 시베리아 인디아 버어마 자바에 분포하며 수컷의 더듬이 병절에는 흑 모양의 돌기가 있다. 색깔은 암수에　따라 지리적, 또는 발생 시기에 따라 다소 다르게 나타난다. 수컷에서는 앞 뒷날개 내횡선 바깥쪽의 띠 부분이 황백색을 나타내지만 암컷의 경우에는 담적갈색 또는 개체에 따라 홍색을 나타낸다. 중실 끝부분 전연 쪽에 위치한 흑갈색 선 무늬가 특징적이다. 앞날개의 아외횡선은 앞의 종들보다 안쪽으로 달린다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[대만]\n[중국]\n[러시아] 동시베리아지역\n[인도]\n[미얀마]\n[인도네시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0238-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0238_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0238_1_th.jpg",
+      "alt": "검은점뾰족명나방 1번째 사진 : 검은점뾰족명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0238_1_th2.jpg",
+      "caption": "검은점뾰족명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0238-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0305021056",
+      "description": "[FRIE0305021056] 검은점뾰족명나방 1983.07.03 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0303121078",
+      "description": "[KNAE0303121078] 검은점뾰족명나방 1996.07.27 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303121079",
+      "description": "[KNAE0303121079] 검은점뾰족명나방 1997.07.06 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZREL0238.png",
+    "reference_image_id": "ZREL0238-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T10:59:40.786282+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "0ff3696d54abce8d58c2d5df7b8c6efa11d13a55626712c077fda1852fc291cd"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0238&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:01+00:00",
+    "html_sha256": "4eda002e4a77b52c1a42c413ddf44c5332416b83f38bcc0dd0a60a4ca4ce57cc",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

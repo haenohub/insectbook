@@ -1,0 +1,103 @@
+{
+  "id": "ZOBL0269",
+  "name_ko": "노랑줄점하늘소",
+  "scientific_name": "Epiglenea comes comes Bates, 1884",
+  "display_name": "노랑줄점하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "목하늘소아과",
+      "name_latin": "Lamiinae"
+    },
+    "genus": {
+      "name_ko": "노랑줄점하늘소속",
+      "name_latin": "Epiglenea"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 목하늘소아과 (Lamiinae)\n속 : 노랑줄점하늘소속 (Epiglenea)",
+  "basic_information": {
+    "곤충명": "노랑줄점하늘소",
+    "학명": "Epiglenea comes comes Bates, 1884"
+  },
+  "information": {
+    "general_description": "몸길이는 8~11mm이며 작다. 등쪽은 편평하다. 앞머리는 회백색이고, 눈의 뒤쪽은 노란 무늬가 있다. 앞가슴은 흑색인데 등판은 세로로 노란 줄무늬가 있으며 딱지날개는 흑갈색이며 같은 색인 3쌍의 무늬가 있다. 몸의 아래쪽도 회황색의 짧은 털로 덮여있다. 다리는 짧으며 황적갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[베트남]\n[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 8~11mm이며 작다. 등쪽은 편평하다. 앞머리는 회백색이고, 눈의 뒤쪽은 노란 무늬가 있다. 앞가슴은 흑색인데 등판은 세로로 노란 줄무늬가 있으며 딱지날개는 흑갈색이며 같은 색인 3쌍의 무늬가 있다. 몸의 아래쪽도 회황색의 짧은 털로 덮여있다. 다리는 짧으며 황적갈색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[베트남]\n[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0269-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0269_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0269_1_th.jpg",
+      "alt": "노랑줄점하늘소 1번째 사진 : 노랑줄점하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0269_1_th2.jpg",
+      "caption": "노랑줄점하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0269-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408041084",
+      "description": "[MPME0408041084] 노랑줄점하늘소 2002.07.07 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408041085",
+      "description": "[MPME0408041085] 노랑줄점하늘소 2002.07.07 / / 목포자연사박물관"
+    },
+    {
+      "id": "KNAE0304152034",
+      "description": "[KNAE0304152034] 노랑줄점하늘소 1995.07.07 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0269-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0269&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:25+00:00",
+    "html_sha256": "84debab58e05f2d4868cae1b0f8f7faee0b4a64fae130695043cc74e2a371082",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

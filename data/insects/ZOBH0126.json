@@ -1,0 +1,95 @@
+{
+  "id": "ZOBH0126",
+  "name_ko": "흑점꼬마먼지벌레",
+  "scientific_name": "Blemus discus discus (Fabricius, 1792)",
+  "display_name": "흑점꼬마먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "꼬마먼지벌레아과",
+      "name_latin": "Trechinae"
+    },
+    "genus": {
+      "name_ko": "점꼬마먼지벌레속",
+      "name_latin": "Blemus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 꼬마먼지벌레아과 (Trechinae)\n속 : 점꼬마먼지벌레속 (Blemus)",
+  "basic_information": {
+    "곤충명": "흑점꼬마먼지벌레",
+    "학명": "Blemus discus discus (Fabricius, 1792)"
+  },
+  "information": {
+    "general_description": "몸길이는 4.2~5.5mm 몸은 가늘고 길며 등판은 평편하다. 딱지날개에는 가는 털이 있고 뒷날개가 있다. 겹눈은 크고 돌출되어 있으며 앞가슴등판은 심장형이다. 딱지날개 중 후반 부분에 검은색의 반점이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "작은 미소곤충을 포식한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 4.2~5.5mm 몸은 가늘고 길며 등판은 평편하다. 딱지날개에는 가는 털이 있고 뒷날개가 있다. 겹눈은 크고 돌출되어 있으며 앞가슴등판은 심장형이다. 딱지날개 중 후반 부분에 검은색의 반점이 있다."
+    },
+    {
+      "title": "생태",
+      "text": "작은 미소곤충을 포식한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0126-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0126_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0126_1_th.jpg",
+      "alt": "흑점꼬마먼지벌레 1번째 사진 : 흑점꼬마먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0126_1_th2.jpg",
+      "caption": "흑점꼬마먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0126-1",
+  "specimen_examples": [
+    {
+      "id": "SJNE0301241021",
+      "description": "[SJNE0301241021] 흑점꼬마먼지벌레 1983.06.02 / / 상주대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0126-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0126&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:13+00:00",
+    "html_sha256": "6f22e038614b022cd00422031095ccaceba4b5a6862d821f83f2ef5c88678e22",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

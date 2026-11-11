@@ -1,0 +1,107 @@
+{
+  "id": "ZTAG0068",
+  "name_ko": "애가위벌",
+  "scientific_name": "Megachile spissula Cockerell, 1911",
+  "display_name": "애가위벌",
+  "family_ko": "가위벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "가위벌과",
+      "name_latin": "Megachilidae"
+    },
+    "subfamily": {
+      "name_ko": "가위벌아과",
+      "name_latin": "Megachilinae"
+    },
+    "genus": {
+      "name_ko": "가위벌속",
+      "name_latin": "Megachile"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 가위벌과 (Megachilidae)\n아과 : 가위벌아과 (Megachilinae)\n속 : 가위벌속 (Megachile)",
+  "basic_information": {
+    "곤충명": "애가위벌",
+    "학명": "Megachile spissula Cockerell, 1911"
+  },
+  "information": {
+    "general_description": "암컷은 10mm 정도이며, 몸은흑색이다. 날개는 투명하고 밝은 흑색이 도고 바깥쪽으로는 약간 짙은 색이다. 몸에는 황백색 털이 났으나 등에는 적다. 제1-5배마디의 각 뒤쪽으로는 황백색 털이 누워 있어서 가로 띠를 이룬다. 점각은 촘촘히 나있고 정수리의 것은 특히 크다. 수컷은 8mm정도이며 다리가 흑갈색이고 종아리 이하는 다시 담색이다. 제2-5배마디등판기부는 잘록하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": "[감소추세종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷은 10mm 정도이며, 몸은흑색이다. 날개는 투명하고 밝은 흑색이 도고 바깥쪽으로는 약간 짙은 색이다. 몸에는 황백색 털이 났으나 등에는 적다. 제1-5배마디의 각 뒤쪽으로는 황백색 털이 누워 있어서 가로 띠를 이룬다. 점각은 촘촘히 나있고 정수리의 것은 특히 크다. 수컷은 8mm정도이며 다리가 흑갈색이고 종아리 이하는 다시 담색이다. 제2-5배마디등판기부는 잘록하다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[감소추세종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0068-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0068_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0068_1_th.jpg",
+      "alt": "애가위벌 1번째 사진 : 애가위벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0068_1_th2.jpg",
+      "caption": "애가위벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0068-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0408102007",
+      "description": "[KUIE0408102007] 애가위벌 1997.07.23 / / 고려대학교"
+    },
+    {
+      "id": "KNAE225050",
+      "description": "[KNAE225050] 애가위벌 / / 국립수목원"
+    },
+    {
+      "id": "KNAE225051",
+      "description": "[KNAE225051] 애가위벌 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAG0068-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0068&tabId=tab1",
+    "collected_at": "2026-11-04T14:14:52+00:00",
+    "html_sha256": "6588382930a1de468d67b7124343aa540e038918053c6d9990215e5662387a06",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

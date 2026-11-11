@@ -1,0 +1,118 @@
+{
+  "id": "ZREL0143",
+  "name_ko": "끝무늬들명나방",
+  "scientific_name": "Pycnarmon pantherata (Butler, 1878)",
+  "display_name": "끝무늬들명나방",
+  "family_ko": "풀명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "풀명나방과",
+      "name_latin": "Crambidae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Spilomelinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Pycnarmon"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 풀명나방과 (Crambidae)\n아과 : (Spilomelinae)\n속 : (Pycnarmon)",
+  "basic_information": {
+    "곤충명": "끝무늬들명나방",
+    "학명": "Pycnarmon pantherata (Butler, 1878)"
+  },
+  "information": {
+    "general_description": "머리와 더듬이는 황갈색이며, 아랫입술수염의 제3마디는 가늘고 뾰족하다. 수컷의 더듬이는 짧고 작은 털로 덮여 있으나 암컷은 단순한 실 모양이다. 앞날개는 황갈색 바탕으로 날개 끝 부분에 황색의 큰 무늬를 이루고 있으며, 중실 안에 사다리꼴의 작은 백색 무늬가 있다. 배의 등쪽면은 갈색이며, 각 마디의 후연은 백색이고, 마디 사이는 흑갈색 인편으로 이루어져 있으며, 특히 제3마디는 흑색이다. 날개 길이 21-26 mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대한민국] 경기도\n[대한민국] 경기도\n[대한민국] 경기도\n[대한민국] 대전광역시\n[대한민국] 충청북도\n[대한민국] 제주특별자치도\n[대한민국] 경상남도\n[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "머리와 더듬이는 황갈색이며, 아랫입술수염의 제3마디는 가늘고 뾰족하다. 수컷의 더듬이는 짧고 작은 털로 덮여 있으나 암컷은 단순한 실 모양이다. 앞날개는 황갈색 바탕으로 날개 끝 부분에 황색의 큰 무늬를 이루고 있으며, 중실 안에 사다리꼴의 작은 백색 무늬가 있다. 배의 등쪽면은 갈색이며, 각 마디의 후연은 백색이고, 마디 사이는 흑갈색 인편으로 이루어져 있으며, 특히 제3마디는 흑색이다. 날개 길이 21-26 mm."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대한민국] 경기도\n[대한민국] 경기도\n[대한민국] 경기도\n[대한민국] 대전광역시\n[대한민국] 충청북도\n[대한민국] 제주특별자치도\n[대한민국] 경상남도\n[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0143-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0143_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0143_2_th.jpg",
+      "alt": "끝무늬들명나방 1번째 사진 : 끝무늬들명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0143_2_th2.jpg",
+      "caption": "끝무늬들명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREL0143-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0143_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0143_1_th.jpg",
+      "alt": "끝무늬들명나방 2번째 사진 : 끝무늬들명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0143_1_th2.jpg",
+      "caption": "끝무늬들명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0143-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0305011002",
+      "description": "[FRIE0305011002] 끝무늬들명나방 1987.07.12 / / 국립산림과학원"
+    },
+    {
+      "id": "UIBE0301032092",
+      "description": "[UIBE0301032092] 끝무늬들명나방 1998.07.17 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301032088",
+      "description": "[UIBE0301032088] 끝무늬들명나방 1996.07.12 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZREL0143.png",
+    "reference_image_id": "ZREL0143-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T15:18:20.508266+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "b190a29142ae36f57dbc35504a508227d793d810b06c7101015a56f566d9fee8"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0143&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:04+00:00",
+    "html_sha256": "c94b5fa503acf278dc57e4b751522cb33830ab6e44f44268a17c345eaec46db1",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

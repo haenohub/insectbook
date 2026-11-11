@@ -1,0 +1,126 @@
+{
+  "id": "ZRDS0250",
+  "name_ko": "까마귀밤나방",
+  "scientific_name": "Amphipyra livida ([Denis & Schiffermüller], 1775)",
+  "display_name": "까마귀밤나방",
+  "family_ko": "밤나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "밤나방과",
+      "name_latin": "Noctuidae"
+    },
+    "subfamily": {
+      "name_ko": "까마귀밤나방아과",
+      "name_latin": "Amphipyrinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Amphipyra"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 밤나방과 (Noctuidae)\n아과 : 까마귀밤나방아과 (Amphipyrinae)\n속 : (Amphipyra)",
+  "basic_information": {
+    "곤충명": "까마귀밤나방",
+    "학명": "Amphipyra livida ([Denis & Schiffermüller], 1775)"
+  },
+  "information": {
+    "general_description": "날개편 길이 19～21mm. 앞날개는 연모를 포함해서 모두 농흑갈색인데 약간의 흑자색 광택이 나며 뒷면은 담회흑색으로 되었다. 뒷날개는 등황색 바탕으로 전연과 후연 쪽은 흑갈색을 띠며 뒷면도 거의 마찬가지다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6～7월에 연 1회 발생되는데 성충으로서 월동을 하며, 이듬해 5월경에 유충이 출현하게 된다",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]\n[아르메니아]\n[유럽]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 19～21mm. 앞날개는 연모를 포함해서 모두 농흑갈색인데 약간의 흑자색 광택이 나며 뒷면은 담회흑색으로 되었다. 뒷날개는 등황색 바탕으로 전연과 후연 쪽은 흑갈색을 띠며 뒷면도 거의 마찬가지다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6～7월에 연 1회 발생되는데 성충으로서 월동을 하며, 이듬해 5월경에 유충이 출현하게 된다"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]\n[아르메니아]\n[유럽]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0250-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0250_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0250_2_th.jpg",
+      "alt": "까마귀밤나방 1번째 사진 : 까마귀밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0250_2_th2.jpg",
+      "caption": "까마귀밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDS0250-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0250_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0250_1_th.jpg",
+      "alt": "까마귀밤나방 2번째 사진 : 까마귀밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0250_1_th2.jpg",
+      "caption": "까마귀밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0250-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE649057",
+      "description": "[KNAE649057] 까마귀밤나방 / / 국립수목원"
+    },
+    {
+      "id": "JFNE0306051007",
+      "description": "[JFNE0306051007] 까마귀밤나방 1996.08.09 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0306051009",
+      "description": "[JFNE0306051009] 까마귀밤나방 1996.08.11 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDS0250.png",
+    "reference_image_id": "ZRDS0250-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T09:51:03.051966+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "7b776b8d0da96b4f5eb19ebd8debcf13d9e1a495626e6e97d6111026613dfe50"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0250&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:16+00:00",
+    "html_sha256": "f831f124b6f38f1e10377f14d1d85ea8d19f78684414caf914deef07d96331a5",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

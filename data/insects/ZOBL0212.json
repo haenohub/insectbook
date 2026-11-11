@@ -1,0 +1,118 @@
+{
+  "id": "ZOBL0212",
+  "name_ko": "밤우단하늘소",
+  "scientific_name": "Acalolepta kusamai Hayashi, 1969",
+  "display_name": "밤우단하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "목하늘소아과",
+      "name_latin": "Lamiinae"
+    },
+    "genus": {
+      "name_ko": "우단하늘소속",
+      "name_latin": "Acalolepta"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 목하늘소아과 (Lamiinae)\n속 : 우단하늘소속 (Acalolepta)",
+  "basic_information": {
+    "곤충명": "밤우단하늘소",
+    "학명": "Acalolepta kusamai Hayashi, 1969"
+  },
+  "information": {
+    "general_description": "몸의 길이는 5~20mm 이다. 몸의 가장자리는 짙은 갈색이며, 촉각과 다리는 적갈색이다. 몸은 대체로 검은색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "6~7월에 출연한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의 길이는 5~20mm 이다. 몸의 가장자리는 짙은 갈색이며, 촉각과 다리는 적갈색이다. 몸은 대체로 검은색이다."
+    },
+    {
+      "title": "생태",
+      "text": "6~7월에 출연한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0212-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0212_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0212_2_th.jpg",
+      "alt": "밤우단하늘소 1번째 사진 : 밤우단하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0212_2_th2.jpg",
+      "caption": "밤우단하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBL0212-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0212_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0212_1_th.jpg",
+      "alt": "밤우단하늘소 2번째 사진 : 밤우단하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0212_1_th2.jpg",
+      "caption": "밤우단하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0212-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0301272036",
+      "description": "[KNAE0301272036] 밤우단하늘소 1990.07.22 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0301272035",
+      "description": "[KNAE0301272035] 밤우단하늘소 1990.09.29 / / 국립수목원"
+    },
+    {
+      "id": "KPNE0203061047",
+      "description": "[KPNE0203061047] 밤우단하늘소 1984.08.06 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0212-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0212&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:17+00:00",
+    "html_sha256": "2ef3d89acab96ed18d57646e7f408174c109f3bf685e708bdf1abb78d2fccdd5",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

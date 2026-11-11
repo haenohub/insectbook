@@ -1,0 +1,122 @@
+{
+  "id": "ZRDS0078",
+  "name_ko": "흰점밤나방",
+  "scientific_name": "Diarsia deparca (Butler, 1879)",
+  "display_name": "흰점밤나방",
+  "family_ko": "밤나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "밤나방과",
+      "name_latin": "Noctuidae"
+    },
+    "subfamily": {
+      "name_ko": "밤나방아과",
+      "name_latin": "Noctuinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Diarsia"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 밤나방과 (Noctuidae)\n아과 : 밤나방아과 (Noctuinae)\n속 : (Diarsia)",
+  "basic_information": {
+    "곤충명": "흰점밤나방",
+    "학명": "Diarsia deparca (Butler, 1879)"
+  },
+  "information": {
+    "general_description": "날개편 길이 16～20mm. 앞날개의 색깔은 다소 변화가 있는데 수컷은 황갈색 또는 등갈색을 띠고, 암컷은 적갈색 또는 암자갈색을 띤다. 뒷날개는 암회갈색이고, 날개의 뒷면에 있는 횡맥 무늬는 ‘<’자 모양을 하고 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 5～7월, 9～10월 연 2회 출현된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 16～20mm. 앞날개의 색깔은 다소 변화가 있는데 수컷은 황갈색 또는 등갈색을 띠고, 암컷은 적갈색 또는 암자갈색을 띤다. 뒷날개는 암회갈색이고, 날개의 뒷면에 있는 횡맥 무늬는 ‘<’자 모양을 하고 있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 5～7월, 9～10월 연 2회 출현된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0078-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0078_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0078_2_th.jpg",
+      "alt": "흰점밤나방 1번째 사진 : 흰점밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0078_2_th2.jpg",
+      "caption": "흰점밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDS0078-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0078_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0078_1_th.jpg",
+      "alt": "흰점밤나방 2번째 사진 : 흰점밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0078_1_th2.jpg",
+      "caption": "흰점밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0078-1",
+  "specimen_examples": [
+    {
+      "id": "JFNE0306041209",
+      "description": "[JFNE0306041209] 흰점밤나방 1996.07.11 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0306041211",
+      "description": "[JFNE0306041211] 흰점밤나방 1996.07.13 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0306041213",
+      "description": "[JFNE0306041213] 흰점밤나방 1996.07.15 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDS0078-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0078&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:47+00:00",
+    "html_sha256": "b3520f229c3baf4c6d7ad3f11dde74593ea0677c9e0b4d16d619a9ec2f28330d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

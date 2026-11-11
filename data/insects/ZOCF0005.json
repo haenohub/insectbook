@@ -1,0 +1,95 @@
+{
+  "id": "ZOCF0005",
+  "name_ko": "청녹색가루바구미",
+  "scientific_name": "Phyllobius (Odontophyllobius) armatus Roelofs, 1875",
+  "display_name": "청녹색가루바구미",
+  "family_ko": "바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "바구미과",
+      "name_latin": "Curculionidae"
+    },
+    "subfamily": {
+      "name_ko": "줄바구미아과",
+      "name_latin": "Entiminae"
+    },
+    "genus": {
+      "name_ko": "녹색가루바구미속",
+      "name_latin": "Phyllobius"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 바구미과 (Curculionidae)\n아과 : 줄바구미아과 (Entiminae)\n속 : 녹색가루바구미속 (Phyllobius)",
+  "basic_information": {
+    "곤충명": "청녹색가루바구미",
+    "학명": "Phyllobius (Odontophyllobius) armatus Roelofs, 1875"
+  },
+  "information": {
+    "general_description": "한국(남부), 일본, 러시아에 분포하며, 몸길이 8.0-8.9 mm. 수컷은 주둥이 정단 양측에 뿔모양의 돌출물이 없다. 전경절 안쪽 가두리가 강하게 2개의 원호를 그리는 모양이며, 중아은 삼각형으로 돌출. 눈 뒤의 머리는 약하게 돌출.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국(남부), 일본, 러시아에 분포하며, 몸길이 8.0-8.9 mm. 수컷은 주둥이 정단 양측에 뿔모양의 돌출물이 없다. 전경절 안쪽 가두리가 강하게 2개의 원호를 그리는 모양이며, 중아은 삼각형으로 돌출. 눈 뒤의 머리는 약하게 돌출."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCF0005-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0005_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0005_1_th.jpg",
+      "alt": "청녹색가루바구미 1번째 사진 : 청녹색가루바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0005_1_th2.jpg",
+      "caption": "청녹색가루바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCF0005-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0112244021",
+      "description": "[YNUE0112244021] 청녹색가루바구미 1999.06.29 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOCF0005-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCF0005&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:12+00:00",
+    "html_sha256": "358f26b7c9152774a8fb6adac500a865f1f588aaa0851e8ec63e05fba6792e72",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "id": "ZLBX0032",
+  "name_ko": "점박이둥글노린재",
+  "scientific_name": "Eysarcoris guttigerus (Thunberg, 1783)",
+  "display_name": "점박이둥글노린재",
+  "family_ko": "노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "노린재상과",
+      "name_latin": "Pentatomoidea"
+    },
+    "family": {
+      "name_ko": "노린재과",
+      "name_latin": "Pentatomidae"
+    },
+    "subfamily": {
+      "name_ko": "노린재아과",
+      "name_latin": "Pentatominae"
+    },
+    "genus": {
+      "name_ko": "둥글노린재속",
+      "name_latin": "Eysarcoris"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 노린재상과 (Pentatomoidea)\n과 : 노린재과 (Pentatomidae)\n아과 : 노린재아과 (Pentatominae)\n속 : 둥글노린재속 (Eysarcoris)",
+  "basic_information": {
+    "곤충명": "점박이둥글노린재",
+    "학명": "Eysarcoris guttigerus (Thunberg, 1783)"
+  },
+  "information": {
+    "general_description": "몸길이 : 4.5-6mm\n몸은 연한 갈색에 암갈색의 점각이 산포되어 있다. 배노린재와 대단히 닮은 종이나, 몸이 비교적 짧고 넓으며 더듬이는 암갈색인 수가 많고, 작은방패판은 배노린재에 비해서 훨씬 크며 끝은 제 6배마디의 중앙부에 이르고 작은방패판은 기부 양쪽의 황백색 무늬는 뚜렷하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "포아풀 과 식물의 잡초 사이에 흔히 보이고 생활사, 습성 등도 배노린재와 비슷하다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 4.5-6mm\n몸은 연한 갈색에 암갈색의 점각이 산포되어 있다. 배노린재와 대단히 닮은 종이나, 몸이 비교적 짧고 넓으며 더듬이는 암갈색인 수가 많고, 작은방패판은 배노린재에 비해서 훨씬 크며 끝은 제 6배마디의 중앙부에 이르고 작은방패판은 기부 양쪽의 황백색 무늬는 뚜렷하다."
+    },
+    {
+      "title": "생태",
+      "text": "포아풀 과 식물의 잡초 사이에 흔히 보이고 생활사, 습성 등도 배노린재와 비슷하다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLBX0032-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0032_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0032_1_th.jpg",
+      "alt": "점박이둥글노린재 1번째 사진 : 점박이둥글노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0032_1_th2.jpg",
+      "caption": "점박이둥글노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLBX0032-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0212186139",
+      "description": "[YNUE0212186139] 점박이둥글노린재 1991.05.10 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0212186164",
+      "description": "[YNUE0212186164] 점박이둥글노린재 1987.05.23 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0212186067",
+      "description": "[YNUE0212186067] 점박이둥글노린재 1991.05.09 / / 영남대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "무화과나무",
+      "scientific_name": "Ficus carica L."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLBX0032-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLBX0032&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:18+00:00",
+    "html_sha256": "230c7dba68f7dc656a57af44c9913aa61eba6299e5ec22fd5af150c3299693fa",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

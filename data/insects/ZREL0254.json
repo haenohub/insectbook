@@ -1,0 +1,107 @@
+{
+  "id": "ZREL0254",
+  "name_ko": "배명나방",
+  "scientific_name": "Acrobasis pirivorella (Matsumura, 1899)",
+  "display_name": "배명나방",
+  "family_ko": "명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "명나방과",
+      "name_latin": "Pyralidae"
+    },
+    "subfamily": {
+      "name_ko": "알락명나방아과",
+      "name_latin": "Phycitinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Acrobasis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 명나방과 (Pyralidae)\n아과 : 알락명나방아과 (Phycitinae)\n속 : (Acrobasis)",
+  "basic_information": {
+    "곤충명": "배명나방",
+    "학명": "Acrobasis pirivorella (Matsumura, 1899)"
+  },
+  "information": {
+    "general_description": "머리는 흑회색에 회백색 인편이 섞여 있으며, 더듬이는 흑갈색임. 아랫입술수염은 흑갈색이며, 회색 인편이 산재하여 있고, 뿔 모양으로 위쪽을 향함. 제3마디는 다소 김. 작은턱수염은 아주 적음. 가슴 등쪽면은 회색기가 있는 흑갈색이고, 가슴은 마디끝이 황백색 인편으로 덮여 있음. 배쪽면은 쥐색임. 앞날개는 회자갈색이며, 외횡선과 내횡선 사이에 S자 모양의 흑색 무늬가 뚜렷하고, 내횡선 바깥 후연 쪽에는 백색 부분이 있음.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "연2회 발생하며, 배나무의 눈 속에서 유충 형태로 월동함. 월동 유충은 꽃과 눈을 갉아먹으나 개화 후에는 새로 나온 눈, 새가지, 꽃자루의 기부에 먹어 들어가며, 과일이 좀 커지면, 과육을 먹어 들어간다. 1마리가 여러 개의 과일을 가해하며, 노숙하면 과실에서 나와 실을 토해서 과경을 결속하고, 과육에 얇은 고치를 만든 다음, 번데기가 됨. 성충은 낮에는 나무의 그늘진 곳이나 잎 뒷면에 숨어 있다가 밤에만 나와서 1개의 과일에 1－2개씩 알을 낳음. 유충은 배, 사과 등을 가해함.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "머리는 흑회색에 회백색 인편이 섞여 있으며, 더듬이는 흑갈색임. 아랫입술수염은 흑갈색이며, 회색 인편이 산재하여 있고, 뿔 모양으로 위쪽을 향함. 제3마디는 다소 김. 작은턱수염은 아주 적음. 가슴 등쪽면은 회색기가 있는 흑갈색이고, 가슴은 마디끝이 황백색 인편으로 덮여 있음. 배쪽면은 쥐색임. 앞날개는 회자갈색이며, 외횡선과 내횡선 사이에 S자 모양의 흑색 무늬가 뚜렷하고, 내횡선 바깥 후연 쪽에는 백색 부분이 있음."
+    },
+    {
+      "title": "생태",
+      "text": "연2회 발생하며, 배나무의 눈 속에서 유충 형태로 월동함. 월동 유충은 꽃과 눈을 갉아먹으나 개화 후에는 새로 나온 눈, 새가지, 꽃자루의 기부에 먹어 들어가며, 과일이 좀 커지면, 과육을 먹어 들어간다. 1마리가 여러 개의 과일을 가해하며, 노숙하면 과실에서 나와 실을 토해서 과경을 결속하고, 과육에 얇은 고치를 만든 다음, 번데기가 됨. 성충은 낮에는 나무의 그늘진 곳이나 잎 뒷면에 숨어 있다가 밤에만 나와서 1개의 과일에 1－2개씩 알을 낳음. 유충은 배, 사과 등을 가해함."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0254-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0254_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0254_1_th.jpg",
+      "alt": "배명나방 1번째 사진 : 배명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0254_1_th2.jpg",
+      "caption": "배명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0254-1",
+  "specimen_examples": [
+    {
+      "id": "CBFE0405191022",
+      "description": "[CBFE0405191022] 배명나방 1995.08.17 / / 충북산림환경연구소"
+    },
+    {
+      "id": "KKFE0407191015",
+      "description": "[KKFE0407191015] 배명나방 2003.08.12 / / 경기산림환경연구소"
+    },
+    {
+      "id": "KNAE0703210094",
+      "description": "[KNAE0703210094] 배명나방 2005.08.13 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREL0254-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0254&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:26+00:00",
+    "html_sha256": "c40c717e9c97f0bed6bb793d512627c03e68fd577e40ea752dc92189d368f1f1",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

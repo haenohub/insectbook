@@ -1,0 +1,122 @@
+{
+  "id": "ZRDS0129",
+  "name_ko": "아지랑이밤나방",
+  "scientific_name": "Sideridis honeyi (Yoshimoto, 1989)",
+  "display_name": "아지랑이밤나방",
+  "family_ko": "밤나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "밤나방과",
+      "name_latin": "Noctuidae"
+    },
+    "subfamily": {
+      "name_ko": "밤나방아과",
+      "name_latin": "Noctuinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Sideridis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 밤나방과 (Noctuidae)\n아과 : 밤나방아과 (Noctuinae)\n속 : (Sideridis)",
+  "basic_information": {
+    "곤충명": "아지랑이밤나방",
+    "학명": "Sideridis honeyi (Yoshimoto, 1989)"
+  },
+  "information": {
+    "general_description": "날개편 길이 14～15mm. 앞날개는 회갈색 바탕인데 콩팥 모양 무늬와 가락지 모양 무늬는 황백색으로 테가 둘러져 있어 선명하게 나타난다. 뒷날개는 암갈색인데 암흑색의 외연선이 있으며, 연모의 기부는 황색이며 중앙은 암색이고 끝은 백색을 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 5～8월경에 출현된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]\n[튀르키예공화국]\n[아르메니아]\n[유럽]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 14～15mm. 앞날개는 회갈색 바탕인데 콩팥 모양 무늬와 가락지 모양 무늬는 황백색으로 테가 둘러져 있어 선명하게 나타난다. 뒷날개는 암갈색인데 암흑색의 외연선이 있으며, 연모의 기부는 황색이며 중앙은 암색이고 끝은 백색을 띤다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 5～8월경에 출현된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]\n[튀르키예공화국]\n[아르메니아]\n[유럽]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0129-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0129_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0129_2_th.jpg",
+      "alt": "아지랑이밤나방 1번째 사진 : 아지랑이밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0129_2_th2.jpg",
+      "caption": "아지랑이밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDS0129-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0129_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0129_1_th.jpg",
+      "alt": "아지랑이밤나방 2번째 사진 : 아지랑이밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0129_1_th2.jpg",
+      "caption": "아지랑이밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0129-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0112191012",
+      "description": "[KNAE0112191012] 아지랑이밤나방 1990.08.29 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0112191013",
+      "description": "[KNAE0112191013] 아지랑이밤나방 1988.08.07 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0112191014",
+      "description": "[KNAE0112191014] 아지랑이밤나방 1994.09.30 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDS0129-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0129&tabId=tab1",
+    "collected_at": "2026-11-04T14:14:23+00:00",
+    "html_sha256": "b4cd3a2b786de4522c6328111220ac30665ee4cbcf675e392dac46f59e87418b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

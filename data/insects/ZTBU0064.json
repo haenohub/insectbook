@@ -1,0 +1,91 @@
+{
+  "id": "ZTBU0064",
+  "name_ko": "흑점뭉툭맵시벌",
+  "scientific_name": "Tryphon (Symboethus) punctatus Kasparyan, 1973",
+  "display_name": "흑점뭉툭맵시벌",
+  "family_ko": "맵시벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "맵시벌과",
+      "name_latin": "Ichneumonidae"
+    },
+    "subfamily": {
+      "name_ko": "뭉툭맵시벌아과",
+      "name_latin": "Tryphoninae"
+    },
+    "genus": {
+      "name_ko": "신라뭉툭맵시벌속",
+      "name_latin": "Tryphon"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 맵시벌과 (Ichneumonidae)\n아과 : 뭉툭맵시벌아과 (Tryphoninae)\n속 : 신라뭉툭맵시벌속 (Tryphon)",
+  "basic_information": {
+    "곤충명": "흑점뭉툭맵시벌",
+    "학명": "Tryphon (Symboethus) punctatus Kasparyan, 1973"
+  },
+  "information": {
+    "general_description": "얼굴은 검정색이다. 가운데가슴등판과 가운데가슴앞옆판은 검은색이다. 뒷다리 종아리마디는 암갈색이다. 첫 번째 배마디는 검은색이다. 2번째에서 3번째마디는 흑갈색이다. 경포는 존재한다. PI: 0.60-0.64, TI: 3.87-4.00, CI: 2.60-2.80, BI: 1.00-0.09, DBI: 0.60-0.64, MI: 2.39-2.41, ICI: 0.60-0.57, NI: 1.70-1.75, RI: 1.97-2.00, IOD/OOD: 0.23-0.27, IOD/POD: 0.21-0.25, IOD/MOD: 0.30-0.38, POD/MOD: 1.69-1.75. 앞날개 7mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "얼굴은 검정색이다. 가운데가슴등판과 가운데가슴앞옆판은 검은색이다. 뒷다리 종아리마디는 암갈색이다. 첫 번째 배마디는 검은색이다. 2번째에서 3번째마디는 흑갈색이다. 경포는 존재한다. PI: 0.60-0.64, TI: 3.87-4.00, CI: 2.60-2.80, BI: 1.00-0.09, DBI: 0.60-0.64, MI: 2.39-2.41, ICI: 0.60-0.57, NI: 1.70-1.75, RI: 1.97-2.00, IOD/OOD: 0.23-0.27, IOD/POD: 0.21-0.25, IOD/MOD: 0.30-0.38, POD/MOD: 1.69-1.75. 앞날개 7mm."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBU0064-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0064_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0064_1_th.jpg",
+      "alt": "흑점뭉툭맵시벌 1번째 사진 : 흑점뭉툭맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0064_1_th2.jpg",
+      "caption": "흑점뭉툭맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBU0064-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306041011",
+      "description": "[YNUE0306041011] 흑점뭉툭맵시벌 1991.05.10 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTBU0064-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBU0064&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:14+00:00",
+    "html_sha256": "321f794d7696e0ac3044123ace824994f66176af7113c24e8c21eca2b4e9579f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

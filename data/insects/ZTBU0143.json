@@ -1,0 +1,99 @@
+{
+  "id": "ZTBU0143",
+  "name_ko": "잔꼬리납작맵시벌",
+  "scientific_name": "Syzeuctus coreanus Uchida, 1928",
+  "display_name": "잔꼬리납작맵시벌",
+  "family_ko": "맵시벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "맵시벌과",
+      "name_latin": "Ichneumonidae"
+    },
+    "subfamily": {
+      "name_ko": "가시뭉툭맵시벌아과",
+      "name_latin": "Banchinae"
+    },
+    "genus": {
+      "name_ko": "잔꼬리납작맵시벌속",
+      "name_latin": "Syzeuctus"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 맵시벌과 (Ichneumonidae)\n아과 : 가시뭉툭맵시벌아과 (Banchinae)\n속 : 잔꼬리납작맵시벌속 (Syzeuctus)",
+  "basic_information": {
+    "곤충명": "잔꼬리납작맵시벌",
+    "학명": "Syzeuctus coreanus Uchida, 1928"
+  },
+  "information": {
+    "general_description": "♀는 이마와 얼굴에 점각이 밀포하고 얼굴은 약간 융기했고 큰턱은 가늘고 2개의 이가 있다. 윗니가 아랫니보다 약간 길다. 더듬이는 거의 몸길이와 같고 제1마디는 제2·3마디를 합친 것과 같은 길이이다. 가슴은 조잡하고 거친 점각이 있다. 배는 가늘며 길고 원활하며 기부는 광택이 있다. 제1배마디는 너비보다 2배 길고 제4배마디까지는 너비보다 길이가 길다. 날개는 투명하고 끝이 암색으로 흐리다. 경포는 길게 자루가 있다. 산란관은 몸길이보다 다소 짧다. 다리는 암색이다. 8.5mm(♀)정도 온정리·검불랑(劍拂浪)",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "♀는 이마와 얼굴에 점각이 밀포하고 얼굴은 약간 융기했고 큰턱은 가늘고 2개의 이가 있다. 윗니가 아랫니보다 약간 길다. 더듬이는 거의 몸길이와 같고 제1마디는 제2·3마디를 합친 것과 같은 길이이다. 가슴은 조잡하고 거친 점각이 있다. 배는 가늘며 길고 원활하며 기부는 광택이 있다. 제1배마디는 너비보다 2배 길고 제4배마디까지는 너비보다 길이가 길다. 날개는 투명하고 끝이 암색으로 흐리다. 경포는 길게 자루가 있다. 산란관은 몸길이보다 다소 짧다. 다리는 암색이다. 8.5mm(♀)정도 온정리·검불랑(劍拂浪)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBU0143-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0143_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0143_1_th.jpg",
+      "alt": "잔꼬리납작맵시벌 1번째 사진 : 잔꼬리납작맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0143_1_th2.jpg",
+      "caption": "잔꼬리납작맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBU0143-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0111213007",
+      "description": "[YNUE0111213007] 잔꼬리납작맵시벌 1986.07.07 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0201176036",
+      "description": "[YNUE0201176036] 잔꼬리납작맵시벌 1986.07.03 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0201176035",
+      "description": "[YNUE0201176035] 잔꼬리납작맵시벌 1988.09.12 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTBU0143-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBU0143&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:56+00:00",
+    "html_sha256": "e51a4ea7b2cbc718a81f15404b499fe65bc5b6ef61f9f642c6efcd647a7fdfeb",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "ZTBO0068",
+  "name_ko": "왕개미",
+  "scientific_name": "Camponotus ligniperda (Latreille, 1802)",
+  "display_name": "왕개미",
+  "family_ko": "개미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "말벌상과",
+      "name_latin": "Vespoidea"
+    },
+    "family": {
+      "name_ko": "개미과",
+      "name_latin": "Formicidae"
+    },
+    "subfamily": {
+      "name_ko": "불개미아과",
+      "name_latin": "Formicinae"
+    },
+    "genus": {
+      "name_ko": "왕개미속",
+      "name_latin": "Camponotus"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 말벌상과 (Vespoidea)\n과 : 개미과 (Formicidae)\n아과 : 불개미아과 (Formicinae)\n속 : 왕개미속 (Camponotus)",
+  "basic_information": {
+    "곤충명": "왕개미",
+    "학명": "Camponotus ligniperda (Latreille, 1802)"
+  },
+  "information": {
+    "general_description": "몸은 흑색이고 더듬이 자루마디의 기부와 가운데가슴등판의 양 옆, 가슴의 옆구리 , 뒷가슴, 배자루, 제1배마디의 앞쪽절반과 뒷다리의 넓적다리마디의 안쪽은 적갈색이다. 가슴이 양 옆으로 납작하고 적갈색이고 암컷에서는 암색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[러시아]\n[일본]\n[인도네시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸은 흑색이고 더듬이 자루마디의 기부와 가운데가슴등판의 양 옆, 가슴의 옆구리 , 뒷가슴, 배자루, 제1배마디의 앞쪽절반과 뒷다리의 넓적다리마디의 안쪽은 적갈색이다. 가슴이 양 옆으로 납작하고 적갈색이고 암컷에서는 암색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[러시아]\n[일본]\n[인도네시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBO0068-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0068_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0068_1_th.jpg",
+      "alt": "왕개미 1번째 사진 : 왕개미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0068_1_th2.jpg",
+      "caption": "왕개미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBO0068-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408191048",
+      "description": "[MPME0408191048] 왕개미 2003.08.29 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408191047",
+      "description": "[MPME0408191047] 왕개미 2003.08.29 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408191046",
+      "description": "[MPME0408191046] 왕개미 2003.08.04 / / 목포자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTBO0068-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBO0068&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:29+00:00",
+    "html_sha256": "1df3cca4dd638aa08832abc1faae4a8de90d7aad0f136408afaff3aa88bf4c7d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

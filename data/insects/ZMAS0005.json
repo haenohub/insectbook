@@ -1,0 +1,128 @@
+{
+  "id": "ZMAS0005",
+  "name_ko": "애매미",
+  "scientific_name": "Meimuna opalifera Walker, 1850",
+  "display_name": "애매미",
+  "family_ko": "매미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "매미상과",
+      "name_latin": "Cicadoidea"
+    },
+    "family": {
+      "name_ko": "매미과",
+      "name_latin": "Cicadidae"
+    },
+    "subfamily": {
+      "name_ko": "매미아과",
+      "name_latin": "Cicadinae"
+    },
+    "genus": {
+      "name_ko": "애매미속",
+      "name_latin": "Meimuna"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 매미상과 (Cicadoidea)\n과 : 매미과 (Cicadidae)\n아과 : 매미아과 (Cicadinae)\n속 : 애매미속 (Meimuna)",
+  "basic_information": {
+    "곤충명": "애매미",
+    "학명": "Meimuna opalifera Walker, 1850"
+  },
+  "information": {
+    "general_description": "몸길이: 28-35 mm. 날개 끝까지 40-48 mm. 몸의 등면은 회황색 바탕에 초록색 또는 적갈색 및 흑색 무늬를 알록달록하게 갖고 있다. 특히 머리와 가슴 부위에 연두색조가 강하다. 아랫면은 연두색 또는 황갈색을 띠는데, 때때로 흑화된 경우도 있다. 수컷의 발음기는 길게 발달하였고, 암컷의 산란관은 특히 가늘고 길게 발달하였다. 때때로 체표면에 흰가루를 산포한다. 가운데 가슴등판은 W자 모양의 녹색 무늬 또는 개체에 따라 적갈색 무늬가 선명하게 나타난다. 앞날개는 투명하고 날개맥은 전반부가 초록색을 띠며 후반부는 흑갈색이다. 후반부의 가로맥은 구름 모양의 희미한 암갈색 무늬를 띠고 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "산야와 마을 주변, 그리고 도서 지방에 흔히 분포하고있으며, 해발 600m 이하에서 주로 활동한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대만]\n[중국]\n[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이: 28-35 mm. 날개 끝까지 40-48 mm. 몸의 등면은 회황색 바탕에 초록색 또는 적갈색 및 흑색 무늬를 알록달록하게 갖고 있다. 특히 머리와 가슴 부위에 연두색조가 강하다. 아랫면은 연두색 또는 황갈색을 띠는데, 때때로 흑화된 경우도 있다. 수컷의 발음기는 길게 발달하였고, 암컷의 산란관은 특히 가늘고 길게 발달하였다. 때때로 체표면에 흰가루를 산포한다. 가운데 가슴등판은 W자 모양의 녹색 무늬 또는 개체에 따라 적갈색 무늬가 선명하게 나타난다. 앞날개는 투명하고 날개맥은 전반부가 초록색을 띠며 후반부는 흑갈색이다. 후반부의 가로맥은 구름 모양의 희미한 암갈색 무늬를 띠고 있다."
+    },
+    {
+      "title": "생태",
+      "text": "산야와 마을 주변, 그리고 도서 지방에 흔히 분포하고있으며, 해발 600m 이하에서 주로 활동한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대만]\n[중국]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMAS0005-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAS0005_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAS0005_2_th.jpg",
+      "alt": "애매미 1번째 사진 : 애매미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAS0005_2_th2.jpg",
+      "caption": "애매미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZMAS0005-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAS0005_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAS0005_1_th.jpg",
+      "alt": "애매미 2번째 사진 : 애매미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAS0005_1_th2.jpg",
+      "caption": "애매미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMAS0005-1",
+  "specimen_examples": [
+    {
+      "id": "ADUE0408201200",
+      "description": "[ADUE0408201200] 애매미 2004.07.19 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0408211005",
+      "description": "[ADUE0408211005] 애매미 2004.07.14 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0408211006",
+      "description": "[ADUE0408211006] 애매미 2004.07.14 / / 안동대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "버드나무",
+      "scientific_name": "Salix pierotii Miq."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZMAS0005-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMAS0005&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:08+00:00",
+    "html_sha256": "d34cbb353b2b10aa0ddbd1ad62bfed014854c4182c2a6c78080c389a73bbd02a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

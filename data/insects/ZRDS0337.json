@@ -1,0 +1,122 @@
+{
+  "id": "ZRDS0337",
+  "name_ko": "버들밤나방",
+  "scientific_name": "Ipimorpha retusa (Linnaeus, 1761)",
+  "display_name": "버들밤나방",
+  "family_ko": "밤나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "밤나방과",
+      "name_latin": "Noctuidae"
+    },
+    "subfamily": {
+      "name_ko": "밤나방아과",
+      "name_latin": "Noctuinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Ipimorpha"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 밤나방과 (Noctuidae)\n아과 : 밤나방아과 (Noctuinae)\n속 : (Ipimorpha)",
+  "basic_information": {
+    "곤충명": "버들밤나방",
+    "학명": "Ipimorpha retusa (Linnaeus, 1761)"
+  },
+  "information": {
+    "general_description": "날개편 길이 12~13mm. 앞날개는 암갈색 바탕인데 외연에서 제 4맥 부근은 약간 돌출되었으며 여기서 시정까지는 약간 안으로 굽은 모양을 나타낸다. 뒷날개는 암회갈색을 띠며, 연모는 담색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 7~8월경에 출현된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]\n[유럽]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 12~13mm. 앞날개는 암갈색 바탕인데 외연에서 제 4맥 부근은 약간 돌출되었으며 여기서 시정까지는 약간 안으로 굽은 모양을 나타낸다. 뒷날개는 암회갈색을 띠며, 연모는 담색이다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 7~8월경에 출현된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]\n[유럽]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0337-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0337_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0337_1_th.jpg",
+      "alt": "버들밤나방 1번째 사진 : 버들밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0337_1_th2.jpg",
+      "caption": "버들밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0337-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304212059",
+      "description": "[KNAE0304212059] 버들밤나방 1999.05.29 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304212047",
+      "description": "[KNAE0304212047] 버들밤나방 1999.05.17 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304212049",
+      "description": "[KNAE0304212049] 버들밤나방 1999.05.19 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "버드나무",
+      "scientific_name": "Salix pierotii Miq."
+    },
+    {
+      "group": "식물",
+      "name_ko": "황철나무",
+      "scientific_name": "Populus suaveolens Fisch. ex Poit. & A.Vilm."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDS0337-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0337&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:40+00:00",
+    "html_sha256": "8beed5f18c7d4e5b34bb58b948066f1e7d1101b55fbeea1f62997a2bf3d2e63c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

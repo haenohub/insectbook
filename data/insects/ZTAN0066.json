@@ -1,0 +1,107 @@
+{
+  "id": "ZTAN0066",
+  "name_ko": "말총벌",
+  "scientific_name": "Euurobracon yokahamae (Dalla Torre, 1898)",
+  "display_name": "말총벌",
+  "family_ko": "고치벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "고치벌과",
+      "name_latin": "Braconidae"
+    },
+    "subfamily": {
+      "name_ko": "고치벌아과",
+      "name_latin": "Braconinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Euurobracon"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 고치벌과 (Braconidae)\n아과 : 고치벌아과 (Braconinae)\n속 : (Euurobracon)",
+  "basic_information": {
+    "곤충명": "말총벌",
+    "학명": "Euurobracon yokahamae (Dalla Torre, 1898)"
+  },
+  "information": {
+    "general_description": "암컷의 몸길이는 15.0-21.0mm이고, 앞날개의 길이는 16.5-23mm이며, 산란관의 길이는 90-178mm이다. 더듬이는 70마디 내외이고, 끝으로 갈수록 가늘어진다. 얼굴에는 긴 털이 밀집하여 있지만 머리 방패 위쪽의작은 부분은 그렇지 않다. 이마는 주로 짧은 털이 밀집하여 있다. 날개는 적황색이며, 뒷날개의 중앙부 무늬는 흑갈색이다. 앞날개늬 바깥 부분은 넓게 갈색을 띤다. 수컷은 암컷과 비슷하지만 뒷날개의 중앙무늬는 없다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "말총벌은 5월 중순에 출현하여 7월 초순까지 하늘소의 유충과 용을 숙주로 성장하는 기생성 벌이다. 5월상순부터 출현하며 교미후 산란을 한다. 성충의 수명은 약 1주일정도이다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷의 몸길이는 15.0-21.0mm이고, 앞날개의 길이는 16.5-23mm이며, 산란관의 길이는 90-178mm이다. 더듬이는 70마디 내외이고, 끝으로 갈수록 가늘어진다. 얼굴에는 긴 털이 밀집하여 있지만 머리 방패 위쪽의작은 부분은 그렇지 않다. 이마는 주로 짧은 털이 밀집하여 있다. 날개는 적황색이며, 뒷날개의 중앙부 무늬는 흑갈색이다. 앞날개늬 바깥 부분은 넓게 갈색을 띤다. 수컷은 암컷과 비슷하지만 뒷날개의 중앙무늬는 없다."
+    },
+    {
+      "title": "생태",
+      "text": "말총벌은 5월 중순에 출현하여 7월 초순까지 하늘소의 유충과 용을 숙주로 성장하는 기생성 벌이다. 5월상순부터 출현하며 교미후 산란을 한다. 성충의 수명은 약 1주일정도이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAN0066-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAN0066_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAN0066_1_th.jpg",
+      "alt": "말총벌 1번째 사진 : 말총벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAN0066_1_th2.jpg",
+      "caption": "말총벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAN0066-1",
+  "specimen_examples": [
+    {
+      "id": "CBNE0306161005",
+      "description": "[CBNE0306161005] 말총벌 2001.05.18 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0306161006",
+      "description": "[CBNE0306161006] 말총벌 2001.05.13 / / 충북대학교"
+    },
+    {
+      "id": "SNUE0204111020",
+      "description": "[SNUE0204111020] 말총벌 1970.05.07 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAN0066-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAN0066&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:48+00:00",
+    "html_sha256": "0ea5993adb80bf0a7c80d8000b548994142f79e7e3c41d63c3743102beec342f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

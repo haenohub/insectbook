@@ -1,0 +1,91 @@
+{
+  "id": "ZTBU0067",
+  "name_ko": "외가시넓적수염맵시벌",
+  "scientific_name": "Euceros sensibus Uchida, 1930",
+  "display_name": "외가시넓적수염맵시벌",
+  "family_ko": "맵시벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "맵시벌과",
+      "name_latin": "Ichneumonidae"
+    },
+    "subfamily": {
+      "name_ko": "넓적수염맵시벌아과",
+      "name_latin": "Eucerotinae"
+    },
+    "genus": {
+      "name_ko": "넓적수염맵시벌속",
+      "name_latin": "Euceros"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 맵시벌과 (Ichneumonidae)\n아과 : 넓적수염맵시벌아과 (Eucerotinae)\n속 : 넓적수염맵시벌속 (Euceros)",
+  "basic_information": {
+    "곤충명": "외가시넓적수염맵시벌",
+    "학명": "Euceros sensibus Uchida, 1930"
+  },
+  "information": {
+    "general_description": "이마방패와 얼굴은 노란색이다. 가운데가슴등판과 가운데가슴앞옆판은 검은색이다. 전신복절은 검은색이다. 앞다리, 중간다리의 밑마디는 검은색이다. 더듬이는 6mm. 앞날개 길이는6mm. 몸길이는 8mm이다. IOD/OOD: 1, IOD/POD: 1.57, IOD/MOD: 2.2, POD/MOD: 1.4. PI: 1.77, CI: 0.77, DBI: 0.6, BAI: 0.65, ICI: 0.16, BI: 0.92.\n이마방패와 얼굴은 노란색이다. 가운데가슴등판과 가운데가슴앞옆판은 검은색이다. 전신복절은 검은색이다. 앞다리, 중간다리의 밑마디는 검은색이다. 더듬이는 6mm. 앞날개 길이는6mm. 몸길이는 8mm이다. IOD/OOD: 1, IOD/POD: 1.57, IOD/MOD: 2.2, POD/MOD: 1.4. PI: 1.77, CI: 0.77, DBI: 0.6, BAI: 0.65, ICI: 0.16, BI: 0.92.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "이마방패와 얼굴은 노란색이다. 가운데가슴등판과 가운데가슴앞옆판은 검은색이다. 전신복절은 검은색이다. 앞다리, 중간다리의 밑마디는 검은색이다. 더듬이는 6mm. 앞날개 길이는6mm. 몸길이는 8mm이다. IOD/OOD: 1, IOD/POD: 1.57, IOD/MOD: 2.2, POD/MOD: 1.4. PI: 1.77, CI: 0.77, DBI: 0.6, BAI: 0.65, ICI: 0.16, BI: 0.92.\n이마방패와 얼굴은 노란색이다. 가운데가슴등판과 가운데가슴앞옆판은 검은색이다. 전신복절은 검은색이다. 앞다리, 중간다리의 밑마디는 검은색이다. 더듬이는 6mm. 앞날개 길이는6mm. 몸길이는 8mm이다. IOD/OOD: 1, IOD/POD: 1.57, IOD/MOD: 2.2, POD/MOD: 1.4. PI: 1.77, CI: 0.77, DBI: 0.6, BAI: 0.65, ICI: 0.16, BI: 0.92."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBU0067-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0067_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0067_1_th.jpg",
+      "alt": "외가시넓적수염맵시벌 1번째 사진 : 외가시넓적수염맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0067_1_th2.jpg",
+      "caption": "외가시넓적수염맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBU0067-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305281018",
+      "description": "[YNUE0305281018] 외가시넓적수염맵시벌 1988.07.31 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTBU0067-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBU0067&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:51+00:00",
+    "html_sha256": "7908f06eaa7fd0e13642290aa00e585aaca0527af8f3418ebfa98d55a9558ea3",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

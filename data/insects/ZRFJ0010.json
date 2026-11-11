@@ -1,0 +1,122 @@
+{
+  "id": "ZRFJ0010",
+  "name_ko": "꼬마집나방",
+  "scientific_name": "Ocnerostoma friesei Svensson, 1966",
+  "display_name": "꼬마집나방",
+  "family_ko": "집나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "집나방상과",
+      "name_latin": "Yponomeutoidea"
+    },
+    "family": {
+      "name_ko": "집나방과",
+      "name_latin": "Yponomeutidae"
+    },
+    "subfamily": {
+      "name_ko": "집나방아과",
+      "name_latin": "Yponomeutinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Ocnerostoma"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 집나방상과 (Yponomeutoidea)\n과 : 집나방과 (Yponomeutidae)\n아과 : 집나방아과 (Yponomeutinae)\n속 : (Ocnerostoma)",
+  "basic_information": {
+    "곤충명": "꼬마집나방",
+    "학명": "Ocnerostoma friesei Svensson, 1966"
+  },
+  "information": {
+    "general_description": "머리, 더듬이, 가슴 및 아랫입술수염은 광택이 있는 담갈색을 나타냄. 머리는 거친털로 덮여 있으나 이마는 매끈함. 아랫입술수염이 아주 작고 밑으로 처져 있으며, 더듬이의 병절은 보통이고 빗살 모양의 털이 잘 발달되었음. 배의 등쪽면은 황갈색이나 배쪽면은 회갈색임. 앞날개는 광택이 나는 담갈색이며, 다리는 회갈색임. 뒷날개는 갈색을 나타냄.",
+    "adult": null,
+    "adult_male": "옆돌기는 나비가 다소 넓고 끝은 약간 뾰족함. 파악판의 뒤쪽 절반은 가는 털이 나 있음. 삭클루스 부분은 짧은 강모로 덮여 있음.",
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": "유충",
+    "distribution": "[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "머리, 더듬이, 가슴 및 아랫입술수염은 광택이 있는 담갈색을 나타냄. 머리는 거친털로 덮여 있으나 이마는 매끈함. 아랫입술수염이 아주 작고 밑으로 처져 있으며, 더듬이의 병절은 보통이고 빗살 모양의 털이 잘 발달되었음. 배의 등쪽면은 황갈색이나 배쪽면은 회갈색임. 앞날개는 광택이 나는 담갈색이며, 다리는 회갈색임. 뒷날개는 갈색을 나타냄."
+    },
+    {
+      "title": "성충(수)",
+      "text": "옆돌기는 나비가 다소 넓고 끝은 약간 뾰족함. 파악판의 뒤쪽 절반은 가는 털이 나 있음. 삭클루스 부분은 짧은 강모로 덮여 있음."
+    },
+    {
+      "title": "월동",
+      "text": "유충"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRFJ0010-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFJ0010_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFJ0010_2_th.jpg",
+      "alt": "꼬마집나방 1번째 사진 : 꼬마집나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFJ0010_2_th2.jpg",
+      "caption": "꼬마집나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRFJ0010-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFJ0010_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFJ0010_1_th.jpg",
+      "alt": "꼬마집나방 2번째 사진 : 꼬마집나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFJ0010_1_th2.jpg",
+      "caption": "꼬마집나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRFJ0010-1",
+  "specimen_examples": [
+    {
+      "id": "CBNE0203061023",
+      "description": "[CBNE0203061023] 꼬마집나방 2000.10.07 / / 충북대학교"
+    },
+    {
+      "id": "KNAE276520",
+      "description": "[KNAE276520] 꼬마집나방 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRFJ0010.png",
+    "reference_image_id": "ZRFJ0010-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T14:26:04.111928+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "12d14653b7c62a92d75d4a74b0c7a889551cea4768fa76ac73863854096ee7b4"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRFJ0010&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:50+00:00",
+    "html_sha256": "5a8fd3741d929c128c5ce273a1214d75edddfe7936a837cdf80ae41de31fa4bc",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

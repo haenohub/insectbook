@@ -1,0 +1,137 @@
+{
+  "id": "ZLAA0002",
+  "name_ko": "등빨간뿔노린재",
+  "scientific_name": "Acanthosoma denticaudum Jakovlev, 1880",
+  "display_name": "등빨간뿔노린재",
+  "family_ko": "뿔노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "노린재상과",
+      "name_latin": "Pentatomoidea"
+    },
+    "family": {
+      "name_ko": "뿔노린재과",
+      "name_latin": "Acanthosomatidae"
+    },
+    "subfamily": {
+      "name_ko": "뿔노린재아과",
+      "name_latin": "Acanthosomatinae"
+    },
+    "genus": {
+      "name_ko": "뿔노린재속",
+      "name_latin": "Acanthosoma"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 노린재상과 (Pentatomoidea)\n과 : 뿔노린재과 (Acanthosomatidae)\n아과 : 뿔노린재아과 (Acanthosomatinae)\n속 : 뿔노린재속 (Acanthosoma)",
+  "basic_information": {
+    "곤충명": "등빨간뿔노린재",
+    "학명": "Acanthosoma denticaudum Jakovlev, 1880"
+  },
+  "information": {
+    "general_description": "몸길이 : 13.5-19.5mm\n몸의 등면은 청록색 또는 초록색을 띠며 적갈색의 무늬를 가진다. 아랫면과 다리는 연두색을 띠거나 황갈색을 띤다. 광택이 있고 검은 점각이 보통이다. 배의 등면은 노랑색을 띠며 옆가장자리와 날개의 막질부 사이로 비쳐 보이는 부분에 흑갈색 띠무늬를 가진다. 앞가슴등판은 앞가장자리 주변이 주황색 또는 적갈색을 띤다. 양 옆은 세모꼴로 돌출하여 짧고 뭉툭한 돌기를 가진다. 앞날개는 혁질부가 청록색을 띠고, 막질부는 투명하며 적갈색의 희미한 무늬를 갖는다.",
+    "adult": null,
+    "adult_male": "생식기는 버선 모양이고 선홍색을 띤다.",
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "층층나무, 말채나무, 벚나무 등에 잘 모인다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 13.5-19.5mm\n몸의 등면은 청록색 또는 초록색을 띠며 적갈색의 무늬를 가진다. 아랫면과 다리는 연두색을 띠거나 황갈색을 띤다. 광택이 있고 검은 점각이 보통이다. 배의 등면은 노랑색을 띠며 옆가장자리와 날개의 막질부 사이로 비쳐 보이는 부분에 흑갈색 띠무늬를 가진다. 앞가슴등판은 앞가장자리 주변이 주황색 또는 적갈색을 띤다. 양 옆은 세모꼴로 돌출하여 짧고 뭉툭한 돌기를 가진다. 앞날개는 혁질부가 청록색을 띠고, 막질부는 투명하며 적갈색의 희미한 무늬를 갖는다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "생식기는 버선 모양이고 선홍색을 띤다."
+    },
+    {
+      "title": "생태",
+      "text": "층층나무, 말채나무, 벚나무 등에 잘 모인다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLAA0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAA0002_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAA0002_2_th.jpg",
+      "alt": "등빨간뿔노린재 1번째 사진 : 등빨간뿔노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAA0002_2_th2.jpg",
+      "caption": "등빨간뿔노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZLAA0002-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAA0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAA0002_1_th.jpg",
+      "alt": "등빨간뿔노린재 2번째 사진 : 등빨간뿔노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAA0002_1_th2.jpg",
+      "caption": "등빨간뿔노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLAA0002-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0305031067",
+      "description": "[KPNE0305031067] 등빨간뿔노린재 1983.05.08 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0305031068",
+      "description": "[KPNE0305031068] 등빨간뿔노린재 1998.07.29 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0305031069",
+      "description": "[KPNE0305031069] 등빨간뿔노린재 1981.05.26 / / 경북대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "감나무",
+      "scientific_name": "Diospyros kaki Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "떡갈나무",
+      "scientific_name": "Quercus dentata Thunb."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLAA0002-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLAA0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:14+00:00",
+    "html_sha256": "d91e23027f242f80020dd66bcc398f5cefe80b6180bfaae881ceb5f458d3ddac",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

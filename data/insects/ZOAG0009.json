@@ -1,0 +1,107 @@
+{
+  "id": "ZOAG0009",
+  "name_ko": "노랑썩덩벌레",
+  "scientific_name": "Cteniopinus hypocrita (Marseul, 1876)",
+  "display_name": "노랑썩덩벌레",
+  "family_ko": "거저리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "거저리상과",
+      "name_latin": "Tenebrionoidea"
+    },
+    "family": {
+      "name_ko": "거저리과",
+      "name_latin": "Tenebrionidae"
+    },
+    "subfamily": {
+      "name_ko": "썩덩벌레아과",
+      "name_latin": "Alleculinae"
+    },
+    "genus": {
+      "name_ko": "노랑썩덩벌레속",
+      "name_latin": "Cteniopinus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 거저리상과 (Tenebrionoidea)\n과 : 거저리과 (Tenebrionidae)\n아과 : 썩덩벌레아과 (Alleculinae)\n속 : 노랑썩덩벌레속 (Cteniopinus)",
+  "basic_information": {
+    "곤충명": "노랑썩덩벌레",
+    "학명": "Cteniopinus hypocrita (Marseul, 1876)"
+  },
+  "information": {
+    "general_description": "한국, 일본에 분포하며, 체장은 11mm 내외이다. 머리에는 아주 작은 점각이 밀포하고 이마는 눈 사이에 점 모양의 요함이 있다. 촉각은 흑색인데 가늘고 길다. 딱지날개에는 각 10줄의 점각 종구가 있고 그 제1줄은 짧고 작다. 종구 사이의 간실은 평명으로 되었다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본에 분포하며, 체장은 11mm 내외이다. 머리에는 아주 작은 점각이 밀포하고 이마는 눈 사이에 점 모양의 요함이 있다. 촉각은 흑색인데 가늘고 길다. 딱지날개에는 각 10줄의 점각 종구가 있고 그 제1줄은 짧고 작다. 종구 사이의 간실은 평명으로 되었다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAG0009-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAG0009_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAG0009_1_th.jpg",
+      "alt": "노랑썩덩벌레 1번째 사진 : 노랑썩덩벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAG0009_1_th2.jpg",
+      "caption": "노랑썩덩벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAG0009-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0303251017",
+      "description": "[FRIE0303251017] 노랑썩덩벌레 1980.05.17 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0303251018",
+      "description": "[FRIE0303251018] 노랑썩덩벌레 1982.05.28 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0303251019",
+      "description": "[FRIE0303251019] 노랑썩덩벌레 1980.05.24 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAG0009-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAG0009&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:20+00:00",
+    "html_sha256": "bbb84446b1511fadf69771788d9e4cbd3c8cb5e1d468f9771e2d85a6b83dfd30",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

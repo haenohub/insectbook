@@ -1,0 +1,114 @@
+{
+  "id": "ZREL0059",
+  "name_ko": "노랑다리들명나방",
+  "scientific_name": "Omiodes noctescens (Moore, 1888)",
+  "display_name": "노랑다리들명나방",
+  "family_ko": "풀명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "풀명나방과",
+      "name_latin": "Crambidae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Spilomelinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Omiodes"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 풀명나방과 (Crambidae)\n아과 : (Spilomelinae)\n속 : (Omiodes)",
+  "basic_information": {
+    "곤충명": "노랑다리들명나방",
+    "학명": "Omiodes noctescens (Moore, 1888)"
+  },
+  "information": {
+    "general_description": "한국,일본,타이완,중국,시킴(인디아 북부)에 분포하며\n머리는 황갈색이며 둥글고, 조금 돌출되었다. 어깨판은 길고 수컷의 경우에는 복부 중앙에까지 이른다. 가슴 및 배와 등쪽면은 담흑갈색이고, 가슴의 배쪽면은 약간 색이 연하고, 배의 배쪽면은 백색이다. 다리는 담황갈색 부분과 흑갈색 부분이 섞여 있다. 날개 길이 35~38mm",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국,일본,타이완,중국,시킴(인디아 북부)에 분포하며\n머리는 황갈색이며 둥글고, 조금 돌출되었다. 어깨판은 길고 수컷의 경우에는 복부 중앙에까지 이른다. 가슴 및 배와 등쪽면은 담흑갈색이고, 가슴의 배쪽면은 약간 색이 연하고, 배의 배쪽면은 백색이다. 다리는 담황갈색 부분과 흑갈색 부분이 섞여 있다. 날개 길이 35~38mm"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0059-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0059_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0059_2_th.jpg",
+      "alt": "노랑다리들명나방 1번째 사진 : 노랑다리들명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0059_2_th2.jpg",
+      "caption": "노랑다리들명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREL0059-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0059_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0059_1_th.jpg",
+      "alt": "노랑다리들명나방 2번째 사진 : 노랑다리들명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0059_1_th2.jpg",
+      "caption": "노랑다리들명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0059-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0212311039",
+      "description": "[UIBE0212311039] 노랑다리들명나방 1996.08.13 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0212311035",
+      "description": "[UIBE0212311035] 노랑다리들명나방 2002.08.20 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0212311040",
+      "description": "[UIBE0212311040] 노랑다리들명나방 2001.07.12 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZREL0059.png",
+    "reference_image_id": "ZREL0059-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T11:43:23.797036+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "03caf3f0cdf041e0ae5d849cf9fbdaa9c0a78a7ef848343bc3f7238de9520303"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0059&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:04+00:00",
+    "html_sha256": "f45a2188ef8e6e6a0d2b5fe20efc391c9c64bb0b62658a5921cad5c318f9f17a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

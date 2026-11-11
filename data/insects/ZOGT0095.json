@@ -1,0 +1,114 @@
+{
+  "id": "ZOGT0095",
+  "name_ko": "주홍좀반날개",
+  "scientific_name": "Philonthus (Philonthus) spinipes spinipes Sharp, 1874",
+  "display_name": "주홍좀반날개",
+  "family_ko": "반날개과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "반날개상과",
+      "name_latin": "Staphylinoidea"
+    },
+    "family": {
+      "name_ko": "반날개과",
+      "name_latin": "Staphylinidae"
+    },
+    "subfamily": {
+      "name_ko": "반날개아과",
+      "name_latin": "Staphylininae"
+    },
+    "genus": {
+      "name_ko": "좀반날개속",
+      "name_latin": "Philonthus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 반날개상과 (Staphylinoidea)\n과 : 반날개과 (Staphylinidae)\n아과 : 반날개아과 (Staphylininae)\n속 : 좀반날개속 (Philonthus)",
+  "basic_information": {
+    "곤충명": "주홍좀반날개",
+    "학명": "Philonthus (Philonthus) spinipes spinipes Sharp, 1874"
+  },
+  "information": {
+    "general_description": "몸의길이는 14.7~15.8mm 이며, 겹눈과 딱지날개는 황갈색이고, 촉각,다리,머리,앞가슴 등판은 검은색을 띈다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의길이는 14.7~15.8mm 이며, 겹눈과 딱지날개는 황갈색이고, 촉각,다리,머리,앞가슴 등판은 검은색을 띈다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGT0095-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGT0095_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGT0095_2_th.jpg",
+      "alt": "주홍좀반날개 1번째 사진 : 주홍좀반날개전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGT0095_2_th2.jpg",
+      "caption": "주홍좀반날개전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOGT0095-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGT0095_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGT0095_1_th.jpg",
+      "alt": "주홍좀반날개 2번째 사진 : 주홍좀반날개전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGT0095_1_th2.jpg",
+      "caption": "주홍좀반날개전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGT0095-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0112216004",
+      "description": "[YNUE0112216004] 주홍좀반날개 1997.05.24 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0112286011",
+      "description": "[YNUE0112286011] 주홍좀반날개 1994.05.20 / / 영남대학교"
+    },
+    {
+      "id": "HNUE0407271026",
+      "description": "[HNUE0407271026] 주홍좀반날개 1996.06.15 / / 한남대학교 자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGT0095-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGT0095&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:00+00:00",
+    "html_sha256": "d041f0be60d2b788811094200c8c6f0ef8019d7b81e3b4ea3409f78f5b7b8f2a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

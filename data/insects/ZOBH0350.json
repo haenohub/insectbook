@@ -1,0 +1,103 @@
+{
+  "id": "ZOBH0350",
+  "name_ko": "꼬마좁쌀먼지벌레",
+  "scientific_name": "Stenolophus (Astenolophus) fulvicornis Bates, 1873",
+  "display_name": "꼬마좁쌀먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "먼지벌레아과",
+      "name_latin": "Harpalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Stenolophus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 먼지벌레아과 (Harpalinae)\n속 : (Stenolophus)",
+  "basic_information": {
+    "곤충명": "꼬마좁쌀먼지벌레",
+    "학명": "Stenolophus (Astenolophus) fulvicornis Bates, 1873"
+  },
+  "information": {
+    "general_description": "몸의길이는 4.5~5.3mm, 소형종이다. 다리와촉각은 연한갈색이며 두부, 앞가슴등판, 딱지날개는 검은색으로 강한 광택이있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의길이는 4.5~5.3mm, 소형종이다. 다리와촉각은 연한갈색이며 두부, 앞가슴등판, 딱지날개는 검은색으로 강한 광택이있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0350-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0350_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0350_1_th.jpg",
+      "alt": "꼬마좁쌀먼지벌레 1번째 사진 : 꼬마좁쌀먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0350_1_th2.jpg",
+      "caption": "꼬마좁쌀먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0350-1",
+  "specimen_examples": [
+    {
+      "id": "SJNE0302181074",
+      "description": "[SJNE0302181074] 꼬마좁쌀먼지벌레 1982.08.12 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0302181075",
+      "description": "[SJNE0302181075] 꼬마좁쌀먼지벌레 1982.08.12 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0302181076",
+      "description": "[SJNE0302181076] 꼬마좁쌀먼지벌레 1982.08.12 / / 상주대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBH0350.png",
+    "reference_image_id": "ZOBH0350-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T14:22:47.800928+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "f1b30d3e2b743eece8eaddf4d59ab7ceee7649e17ecb8511cee8c3e1e2a6d53c"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0350&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:49+00:00",
+    "html_sha256": "57cae9f674135bc968117f00edd2b2e24bbfa4293a7911160c4c60135423844f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

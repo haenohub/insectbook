@@ -1,0 +1,99 @@
+{
+  "id": "ZOGJ0030",
+  "name_ko": "변색날개소똥풍뎅이",
+  "scientific_name": "Onthophagus (Paraphanaeomorphus) trituber Wiedemann, 1823",
+  "display_name": "변색날개소똥풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "소똥구리아과",
+      "name_latin": "Scarabaeinae"
+    },
+    "genus": {
+      "name_ko": "소똥풍뎅이속",
+      "name_latin": "Onthophagus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 소똥구리아과 (Scarabaeinae)\n속 : 소똥풍뎅이속 (Onthophagus)",
+  "basic_information": {
+    "곤충명": "변색날개소똥풍뎅이",
+    "학명": "Onthophagus (Paraphanaeomorphus) trituber Wiedemann, 1823"
+  },
+  "information": {
+    "general_description": "중국 남부의 해안근처 내륙지방, 동남아시아의 모든 도서지방에 분포하며 작고 흑색이다. 두흉부는 녹색 또는 구릿빛 광택이 강하고, 딱지날개는 황갈색이나 봉합선, 기부 및 가로무늬는 흑색이다. 수컷의 두정융기는 판상인데 중앙이 늘어나서 삼각뿔 또는 긴 뿔모양이다. 전흉배판 앞쪽에 가로로 3개의 작은 돌기열이 있다. BL:5~8mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중국 남부의 해안근처 내륙지방, 동남아시아의 모든 도서지방에 분포하며 작고 흑색이다. 두흉부는 녹색 또는 구릿빛 광택이 강하고, 딱지날개는 황갈색이나 봉합선, 기부 및 가로무늬는 흑색이다. 수컷의 두정융기는 판상인데 중앙이 늘어나서 삼각뿔 또는 긴 뿔모양이다. 전흉배판 앞쪽에 가로로 3개의 작은 돌기열이 있다. BL:5~8mm."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGJ0030-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0030_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0030_1_th.jpg",
+      "alt": "변색날개소똥풍뎅이 1번째 사진 : 변색날개소똥풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0030_1_th2.jpg",
+      "caption": "변색날개소똥풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGJ0030-1",
+  "specimen_examples": [
+    {
+      "id": "SSUE0301281063",
+      "description": "[SSUE0301281063] 변색날개소똥풍뎅이 1997.05.15 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0301281064",
+      "description": "[SSUE0301281064] 변색날개소똥풍뎅이 1997.05.15 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0301281065",
+      "description": "[SSUE0301281065] 변색날개소똥풍뎅이 1997.05.15 / / 성신여자대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGJ0030-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGJ0030&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:57+00:00",
+    "html_sha256": "7ba8f88fbb0142f936a664385ee5b006eee01c07746505bb02289bd21d9cc0c2",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

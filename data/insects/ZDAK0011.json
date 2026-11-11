@@ -1,0 +1,99 @@
+{
+  "id": "ZDAK0011",
+  "name_ko": "검정측범잠자리",
+  "scientific_name": "Trigomphus nigripes (Selys, 1887)",
+  "display_name": "검정측범잠자리",
+  "family_ko": "측범잠자리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "잠자리목",
+      "name_latin": "Odonata"
+    },
+    "family": {
+      "name_ko": "측범잠자리과",
+      "name_latin": "Gomphidae"
+    },
+    "subfamily": {
+      "name_ko": "측범잠자리아과",
+      "name_latin": "Gomphinae"
+    },
+    "genus": {
+      "name_ko": "가시측범잠자리속",
+      "name_latin": "Trigomphus"
+    }
+  },
+  "taxonomy_text": "목 : 잠자리목 (Odonata)\n과 : 측범잠자리과 (Gomphidae)\n아과 : 측범잠자리아과 (Gomphinae)\n속 : 가시측범잠자리속 (Trigomphus)",
+  "basic_information": {
+    "곤충명": "검정측범잠자리",
+    "학명": "Trigomphus nigripes (Selys, 1887)"
+  },
+  "information": {
+    "general_description": "뒷머리와 가슴에는 흑색 털이 적고 뒷머리는 모두 흑색임. 가슴 앞면에는 깃무늬에 연속하는 황색줄무늬가 2개 있으며 바깥쪽에는 황색 줄무늬가 없음.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "뒷머리와 가슴에는 흑색 털이 적고 뒷머리는 모두 흑색임. 가슴 앞면에는 깃무늬에 연속하는 황색줄무늬가 2개 있으며 바깥쪽에는 황색 줄무늬가 없음."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZDAK0011-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAK0011_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAK0011_1_th.jpg",
+      "alt": "검정측범잠자리 1번째 사진 : 검정측범잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAK0011_1_th2.jpg",
+      "caption": "검정측범잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZDAK0011-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0301212054",
+      "description": "[UIBE0301212054] 검정측범잠자리 1999.05.29 / / 인천대학교"
+    },
+    {
+      "id": "KNAE0702090101",
+      "description": "[KNAE0702090101] 검정측범잠자리 2006.05.14 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0911132185",
+      "description": "[KNAE0911132185] 검정측범잠자리 2006.05.14 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZDAK0011.png",
+    "reference_image_id": "ZDAK0011-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T12:02:03.591082+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "0e01f9c9322d07244bb3e49aebb89928d34a7d8b2322ada6095d050298433bb0"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZDAK0011&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:30+00:00",
+    "html_sha256": "a05db584fdfe88dd366473fb6defe9c0c3b4e56a0556ad2213f934f0b4409b61",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

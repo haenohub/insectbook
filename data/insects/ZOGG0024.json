@@ -1,0 +1,114 @@
+{
+  "id": "ZOGG0024",
+  "name_ko": "금줄풍뎅이",
+  "scientific_name": "Mimela holosericea (Fabricius, 1787)",
+  "display_name": "금줄풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "풍뎅이아과",
+      "name_latin": "Rutelinae"
+    },
+    "genus": {
+      "name_ko": "금줄풍뎅이속",
+      "name_latin": "Mimela"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 풍뎅이아과 (Rutelinae)\n속 : 금줄풍뎅이속 (Mimela)",
+  "basic_information": {
+    "곤충명": "금줄풍뎅이",
+    "학명": "Mimela holosericea (Fabricius, 1787)"
+  },
+  "information": {
+    "general_description": "몽고, 중국 북부, 시베리아, 사할린, 일본에 분포한다. 몸은 높고 긴형이며 등쪽은 전체적으로 점각이 매우 깊고 넓으며 주름살모양이며, 녹색 내지 암록색이나 부분적으로 적갈색이 섞이기도 한다. 그러나 전체가 보랏빛 내지 구릿빛의 붉은 개체도 있다. 복면과 다리는 황적색 또는 붉은 보랏빛 내지 흑갈색이나 각도에 따라 녹색으로, 보이기도 한다. 머리방패는 거의 사각형이며 전연은 직선이다. 딱지날개의 세로융기선은 4개인데 1개는 굵고 나머지는 약하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몽고, 중국 북부, 시베리아, 사할린, 일본에 분포한다. 몸은 높고 긴형이며 등쪽은 전체적으로 점각이 매우 깊고 넓으며 주름살모양이며, 녹색 내지 암록색이나 부분적으로 적갈색이 섞이기도 한다. 그러나 전체가 보랏빛 내지 구릿빛의 붉은 개체도 있다. 복면과 다리는 황적색 또는 붉은 보랏빛 내지 흑갈색이나 각도에 따라 녹색으로, 보이기도 한다. 머리방패는 거의 사각형이며 전연은 직선이다. 딱지날개의 세로융기선은 4개인데 1개는 굵고 나머지는 약하다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGG0024-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0024_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0024_2_th.jpg",
+      "alt": "금줄풍뎅이 1번째 사진 : 금줄풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0024_2_th2.jpg",
+      "caption": "금줄풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOGG0024-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0024_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0024_1_th.jpg",
+      "alt": "금줄풍뎅이 2번째 사진 : 금줄풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0024_1_th2.jpg",
+      "caption": "금줄풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGG0024-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408201081",
+      "description": "[MPME0408201081] 금줄풍뎅이 1999.08.19 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408031014",
+      "description": "[MPME0408031014] 금줄풍뎅이 1999.08.19 / / 목포자연사박물관"
+    },
+    {
+      "id": "UIBE0301292088",
+      "description": "[UIBE0301292088] 금줄풍뎅이 1998.09.11 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOGG0024.png",
+    "reference_image_id": "ZOGG0024-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T15:04:43.930914+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "8b11d625954f7c99f299efd570cad62d29b92d7bfabefc1b95f5fe5f982c2a75"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGG0024&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:48+00:00",
+    "html_sha256": "f188a6a77588c39f2f357890a50deba19564352714fe91917609b1d48ba51ab1",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

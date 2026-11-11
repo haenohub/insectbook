@@ -1,0 +1,179 @@
+{
+  "id": "ZOBL0235",
+  "name_ko": "털두꺼비하늘소",
+  "scientific_name": "Moechotypa diphysis (Pascoe, 1871)",
+  "display_name": "털두꺼비하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "목하늘소아과",
+      "name_latin": "Lamiinae"
+    },
+    "genus": {
+      "name_ko": "털두꺼비하늘소속",
+      "name_latin": "Moechotypa"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 목하늘소아과 (Lamiinae)\n속 : 털두꺼비하늘소속 (Moechotypa)",
+  "basic_information": {
+    "곤충명": "털두꺼비하늘소",
+    "학명": "Moechotypa diphysis (Pascoe, 1871)"
+  },
+  "information": {
+    "general_description": "성충의 몸길이는 16~27 mm이고, 몸이 검다. 등에 담적갈색의 미모(微毛)가 나 있고 그 사이에 흑갈색의 미모로 된 반점이 산재되어 있으며 백색의 짧은 강모가 나 있다. 앞날개의 등쪽 기부 근처에 돌기가 있고 그 위에 흑갈색의 긴 털이 밀생되어 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "주로 1년에 1회 발생하고 일부는 2년 1세대인 것도 있다. 4월 하순부터 월동처에서 나온 성충은 나무 껍질을 갉아 먹으면서 생활하다가 교미한 후 수피를 물어 뜯어 상처를 내고 산란한다. 산란은 서울 지방에서는 5월 상순부터 시작하고 50% 산란일은 6월 상순이다. 충남 지방은 이보다 약 10일 정도 빠르다. 난 기간은 8~13일이다. 수피 밑과 목질부를 불규칙하게 갉아 먹으며 성숙한 유충은 8월 초순경부터 가해 부위에 타원형의 용실을 만들고 번데기가 되며 번데기 기간은 약 8일이다.",
+    "habits": "고사목 또는 벌채된 지 얼마 되지 않은 나무에 산란한다. 특히 표고 골목의 경우 벌채 당년에 종균(種菌)을 접종한 직경 10 cm 미만의 나무에 주로 산란하며 종균 접종 2년 이상된 골목에는 산란하지 않는다. 골목에서 톱밥 같은 목질이 나오는 것으로 피해를 식별할 수 있다.",
+    "season": null,
+    "overwintering": "바위 밑, 낙엽 밑 등에서 성충으로 월동한다.",
+    "distribution": null,
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충의 몸길이는 16~27 mm이고, 몸이 검다. 등에 담적갈색의 미모(微毛)가 나 있고 그 사이에 흑갈색의 미모로 된 반점이 산재되어 있으며 백색의 짧은 강모가 나 있다. 앞날개의 등쪽 기부 근처에 돌기가 있고 그 위에 흑갈색의 긴 털이 밀생되어 있다."
+    },
+    {
+      "title": "생태",
+      "text": "주로 1년에 1회 발생하고 일부는 2년 1세대인 것도 있다. 4월 하순부터 월동처에서 나온 성충은 나무 껍질을 갉아 먹으면서 생활하다가 교미한 후 수피를 물어 뜯어 상처를 내고 산란한다. 산란은 서울 지방에서는 5월 상순부터 시작하고 50% 산란일은 6월 상순이다. 충남 지방은 이보다 약 10일 정도 빠르다. 난 기간은 8~13일이다. 수피 밑과 목질부를 불규칙하게 갉아 먹으며 성숙한 유충은 8월 초순경부터 가해 부위에 타원형의 용실을 만들고 번데기가 되며 번데기 기간은 약 8일이다."
+    },
+    {
+      "title": "습성",
+      "text": "고사목 또는 벌채된 지 얼마 되지 않은 나무에 산란한다. 특히 표고 골목의 경우 벌채 당년에 종균(種菌)을 접종한 직경 10 cm 미만의 나무에 주로 산란하며 종균 접종 2년 이상된 골목에는 산란하지 않는다. 골목에서 톱밥 같은 목질이 나오는 것으로 피해를 식별할 수 있다."
+    },
+    {
+      "title": "월동",
+      "text": "바위 밑, 낙엽 밑 등에서 성충으로 월동한다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0235-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0235_4.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0235_4.jpg",
+      "alt": "털두꺼비하늘소 1번째 사진 : ",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0235_4_th2.jpg",
+      "caption": null,
+      "photographed_at": "20150619",
+      "location": null,
+      "photographer": "국립수목원(임종옥)"
+    },
+    {
+      "id": "ZOBL0235-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0235_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0235_3.jpg",
+      "alt": "털두꺼비하늘소 2번째 사진 : ",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0235_3_th2.jpg",
+      "caption": null,
+      "photographed_at": "20110526",
+      "location": null,
+      "photographer": "국립수목원(임종옥)"
+    },
+    {
+      "id": "ZOBL0235-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0235_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0235_2_th.jpg",
+      "alt": "털두꺼비하늘소 3번째 사진 : 털두꺼비하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0235_2_th2.jpg",
+      "caption": "털두꺼비하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBL0235-4",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0235_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0235_1_th.jpg",
+      "alt": "털두꺼비하늘소 4번째 사진 : 털두꺼비하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0235_1_th2.jpg",
+      "caption": "털두꺼비하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0235-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408041080",
+      "description": "[MPME0408041080] 털두꺼비하늘소 1999.06.25 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408041081",
+      "description": "[MPME0408041081] 털두꺼비하늘소 1999.06.25 / / 목포자연사박물관"
+    },
+    {
+      "id": "UIBE0301282010",
+      "description": "[UIBE0301282010] 털두꺼비하늘소 1997.05.10 / / 인천대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "가시나무",
+      "scientific_name": "Quercus myrsinifolia Blume"
+    },
+    {
+      "group": "식물",
+      "name_ko": "개서어나무",
+      "scientific_name": "Carpinus tschonoskii Maxim."
+    },
+    {
+      "group": "식물",
+      "name_ko": "굴피나무",
+      "scientific_name": "Platycarya strobilacea Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "밤나무",
+      "scientific_name": "Castanea crenata Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "상수리나무",
+      "scientific_name": "Quercus acutissima Carruth."
+    },
+    {
+      "group": "식물",
+      "name_ko": "졸참나무",
+      "scientific_name": "Quercus serrata Murray"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0235-3"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0235&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:16+00:00",
+    "html_sha256": "aa4f02b5e95213a2112b8b467bfdedb083686339fb63871c3c24781d023faa19",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": "ZRBX0001",
+  "name_ko": "반달누에나방",
+  "scientific_name": "Mirina christophi (Staudinger, 1887)",
+  "display_name": "반달누에나방",
+  "family_ko": "반달누에나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "누에나방상과",
+      "name_latin": "Bombycoidea"
+    },
+    "family": {
+      "name_ko": "반달누에나방과",
+      "name_latin": "Endromidae"
+    },
+    "genus": {
+      "name_ko": "반달누에나방속",
+      "name_latin": "Mirina"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 누에나방상과 (Bombycoidea)\n과 : 반달누에나방과 (Endromidae)\n속 : 반달누에나방속 (Mirina)",
+  "basic_information": {
+    "곤충명": "반달누에나방",
+    "학명": "Mirina christophi (Staudinger, 1887)"
+  },
+  "information": {
+    "general_description": "더듬이는 수컷이 빗살모양이고, 암컷은 실 모양이다. 앞날개는 회백색으로 중실 위에는 초승달 모양의 횡맥 무늬가 있고, 소실 위에 1개의 작은 흑색 점이 있다. 앞날개의 외횡선은 황색으로 물결 모양을 이루고, 아외횡선 은 담황갈색이다. 뒷날개에는 외횡선과 아외횡선이 뚜렷하며, 중실에는 회색 무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 수컷이 빗살모양이고, 암컷은 실 모양이다. 앞날개는 회백색으로 중실 위에는 초승달 모양의 횡맥 무늬가 있고, 소실 위에 1개의 작은 흑색 점이 있다. 앞날개의 외횡선은 황색으로 물결 모양을 이루고, 아외횡선 은 담황갈색이다. 뒷날개에는 외횡선과 아외횡선이 뚜렷하며, 중실에는 회색 무늬가 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRBX0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBX0001_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBX0001_2_th.jpg",
+      "alt": "반달누에나방 1번째 사진 : 반달누에나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBX0001_2_th2.jpg",
+      "caption": "반달누에나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRBX0001-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBX0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBX0001_1_th.jpg",
+      "alt": "반달누에나방 2번째 사진 : 반달누에나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBX0001_1_th2.jpg",
+      "caption": "반달누에나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRBX0001-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0302111037",
+      "description": "[KNAE0302111037] 반달누에나방 2000.06.05 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0302111038",
+      "description": "[KNAE0302111038] 반달누에나방 2000.06.05 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0302131047",
+      "description": "[KNAE0302131047] 반달누에나방 1997.05.05 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRBX0001-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRBX0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:06+00:00",
+    "html_sha256": "3791921b0e451cad692342f1d04ee3388c8278f6c95fcbb511273622adb1d50c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "ZOGX0061",
+  "name_ko": "맴돌이거저리붙이",
+  "scientific_name": "Plesiophthalmus spectabilis Harold, 1875",
+  "display_name": "맴돌이거저리붙이",
+  "family_ko": "거저리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "거저리상과",
+      "name_latin": "Tenebrionoidea"
+    },
+    "family": {
+      "name_ko": "거저리과",
+      "name_latin": "Tenebrionidae"
+    },
+    "subfamily": {
+      "name_ko": "거저리아과",
+      "name_latin": "Tenebrioninae"
+    },
+    "genus": {
+      "name_ko": "맴돌이거저리속",
+      "name_latin": "Plesiophthalmus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 거저리상과 (Tenebrionoidea)\n과 : 거저리과 (Tenebrionidae)\n아과 : 거저리아과 (Tenebrioninae)\n속 : 맴돌이거저리속 (Plesiophthalmus)",
+  "basic_information": {
+    "곤충명": "맴돌이거저리붙이",
+    "학명": "Plesiophthalmus spectabilis Harold, 1875"
+  },
+  "information": {
+    "general_description": "몸길이는 18~20mm 등쪽이 둥글다. 전체적으로 길고 둥글다. 몸색깔은 흑색에 광택이 난다. 머리는 매우좁고 날개의 세로줄은 뚜렷하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 18~20mm 등쪽이 둥글다. 전체적으로 길고 둥글다. 몸색깔은 흑색에 광택이 난다. 머리는 매우좁고 날개의 세로줄은 뚜렷하다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGX0061-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGX0061_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGX0061_1_th.jpg",
+      "alt": "맴돌이거저리붙이 1번째 사진 : 맴돌이붙이거저리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGX0061_1_th2.jpg",
+      "caption": "맴돌이붙이거저리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGX0061-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303262058",
+      "description": "[KNAE0303262058] 맴돌이거저리붙이 1995.08.20 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303262055",
+      "description": "[KNAE0303262055] 맴돌이거저리붙이 1991.08.13 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303262056",
+      "description": "[KNAE0303262056] 맴돌이거저리붙이 1990.08.28 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGX0061-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGX0061&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:51+00:00",
+    "html_sha256": "95b63f5a23037cac165aa2a6a90ccbacfba7ffab56fb6b86edd85ab05da650c8",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

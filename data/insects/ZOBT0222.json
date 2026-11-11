@@ -1,0 +1,111 @@
+{
+  "id": "ZOBT0222",
+  "name_ko": "세점박이잎벌레",
+  "scientific_name": "Paridea (Paridea) angulicollis (Motschulsky, 1854)",
+  "display_name": "세점박이잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "긴더듬이잎벌레아과",
+      "name_latin": "Galerucinae"
+    },
+    "genus": {
+      "name_ko": "점박이잎벌레속",
+      "name_latin": "Paridea"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 긴더듬이잎벌레아과 (Galerucinae)\n속 : 점박이잎벌레속 (Paridea)",
+  "basic_information": {
+    "곤충명": "세점박이잎벌레",
+    "학명": "Paridea (Paridea) angulicollis (Motschulsky, 1854)"
+  },
+  "information": {
+    "general_description": "몸길이는 5.0~5.7mm, 머리, 앞가슴, 복부는 황갈색이다. 중간가슴,뒷가슴은 흑색이다. 더듬이는 흑갈색이다. 다리는 황갈색이다. 앞날개는 적갈색이며 흑색도 있으며, 소순판 뒤에 흑색 무늬는 없다. 한국, 일본, 대만, 중국(동부)에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 4~11월 에 보이며, 4월에 둥글고 황색알ㅇ르 2~3개 정도 땅속에 산란한다. 유충은 기주식물 섭취, 25일정도 용화한다. 연 1화성 성충으로 월동.",
+    "habits": "기주식물 하늘타리, 돌외.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대만]\n[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 5.0~5.7mm, 머리, 앞가슴, 복부는 황갈색이다. 중간가슴,뒷가슴은 흑색이다. 더듬이는 흑갈색이다. 다리는 황갈색이다. 앞날개는 적갈색이며 흑색도 있으며, 소순판 뒤에 흑색 무늬는 없다. 한국, 일본, 대만, 중국(동부)에 분포되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 4~11월 에 보이며, 4월에 둥글고 황색알ㅇ르 2~3개 정도 땅속에 산란한다. 유충은 기주식물 섭취, 25일정도 용화한다. 연 1화성 성충으로 월동."
+    },
+    {
+      "title": "습성",
+      "text": "기주식물 하늘타리, 돌외."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대만]\n[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0222-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0222_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0222_1_th.jpg",
+      "alt": "세점박이잎벌레 1번째 사진 : 세점박이잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0222_1_th2.jpg",
+      "caption": "세점박이잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0222-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0201092031",
+      "description": "[YNUE0201092031] 세점박이잎벌레 1992.05.15 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0201092033",
+      "description": "[YNUE0201092033] 세점박이잎벌레 1992.04.20 / / 영남대학교"
+    },
+    {
+      "id": "KPNE0407231484",
+      "description": "[KPNE0407231484] 세점박이잎벌레 1985.05.28 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0222-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0222&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:03+00:00",
+    "html_sha256": "05a26e60a0a4d2f9edf3970111ecc06f98378cde5b2562e038e732bc9e6e3e06",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

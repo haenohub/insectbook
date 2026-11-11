@@ -1,0 +1,114 @@
+{
+  "id": "ZEAA0005",
+  "name_ko": "우리벼메뚜기",
+  "scientific_name": "Oxya sinuosa Mistshenko, 1951",
+  "display_name": "우리벼메뚜기",
+  "family_ko": "메뚜기과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "메뚜기목",
+      "name_latin": "Orthoptera"
+    },
+    "family": {
+      "name_ko": "메뚜기과",
+      "name_latin": "Acrididae"
+    },
+    "subfamily": {
+      "name_ko": "각시메뚜기아과",
+      "name_latin": "Catantopinae"
+    },
+    "genus": {
+      "name_ko": "벼메뚜기속",
+      "name_latin": "Oxya"
+    }
+  },
+  "taxonomy_text": "목 : 메뚜기목 (Orthoptera)\n과 : 메뚜기과 (Acrididae)\n아과 : 각시메뚜기아과 (Catantopinae)\n속 : 벼메뚜기속 (Oxya)",
+  "basic_information": {
+    "곤충명": "우리벼메뚜기",
+    "학명": "Oxya sinuosa Mistshenko, 1951"
+  },
+  "information": {
+    "general_description": "몸길이 27~37mm이며 \"잔날개벼메뚜기\"와 근사하나 다른 점은 다음과 같다. 앞머리꼭대기는 더 돌출하고 앞가슴은 더 가늘고 길다. 윗가슴등의 후대는 뒷쪽일수록 넓어졌고 뒷가두리 중앙은 평균하여 각형으로 돌출하였다. 암컷의 둘째배마디는 옆쪽에 1개의 가시가 있다. 수컷의 미모는 더 가늘고 말단은 비스듬하게 우묵히 되었다. 수컷의 생식아랫판은 삼각형이고 말단은 절단되었고 암컷의 생식아랫판은 말단에 2개의 가시가 있다. 앞날개는 뒷무릎보다 길고 몸빛은 잔날개벼메뚜기와 같다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[대만]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 27~37mm이며 \"잔날개벼메뚜기\"와 근사하나 다른 점은 다음과 같다. 앞머리꼭대기는 더 돌출하고 앞가슴은 더 가늘고 길다. 윗가슴등의 후대는 뒷쪽일수록 넓어졌고 뒷가두리 중앙은 평균하여 각형으로 돌출하였다. 암컷의 둘째배마디는 옆쪽에 1개의 가시가 있다. 수컷의 미모는 더 가늘고 말단은 비스듬하게 우묵히 되었다. 수컷의 생식아랫판은 삼각형이고 말단은 절단되었고 암컷의 생식아랫판은 말단에 2개의 가시가 있다. 앞날개는 뒷무릎보다 길고 몸빛은 잔날개벼메뚜기와 같다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[대만]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZEAA0005-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0005_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0005_2_th.jpg",
+      "alt": "우리벼메뚜기 1번째 사진 : 벼메뚜기전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0005_2_th2.jpg",
+      "caption": "벼메뚜기전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZEAA0005-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0005_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0005_1_th.jpg",
+      "alt": "우리벼메뚜기 2번째 사진 : 벼메뚜기전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0005_1_th2.jpg",
+      "caption": "벼메뚜기전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZEAA0005-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0408241144",
+      "description": "[UIBE0408241144] 우리벼메뚜기 2001.08.05 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0408241145",
+      "description": "[UIBE0408241145] 우리벼메뚜기 2001.08.22 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301272108",
+      "description": "[UIBE0301272108] 우리벼메뚜기 1994.09.15 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZEAA0005-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZEAA0005&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:02+00:00",
+    "html_sha256": "7c7febbf0399b4e02603961102411aaf28e277d0555adbd15cfddd98c41a7854",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "id": "ZRDS0142",
+  "name_ko": "도둑나방",
+  "scientific_name": "Mamestra brassicae (Linnaeus, 1758)",
+  "display_name": "도둑나방",
+  "family_ko": "밤나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "밤나방과",
+      "name_latin": "Noctuidae"
+    },
+    "subfamily": {
+      "name_ko": "밤나방아과",
+      "name_latin": "Noctuinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Mamestra"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 밤나방과 (Noctuidae)\n아과 : 밤나방아과 (Noctuinae)\n속 : (Mamestra)",
+  "basic_information": {
+    "곤충명": "도둑나방",
+    "학명": "Mamestra brassicae (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "날개편 길이 18～23mm. 앞날개는 회갈색 바탕인데 흑색 인편이 산포되며, 콩팥 모양 무늬는 주위가 백색으로 테가 둘러져 있다. 뒷날개는 암갈색을 띠며, 연모는 담황색을 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 4～5월, 7～8월 연 2회 출현된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]\n[인도]\n[유럽]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 18～23mm. 앞날개는 회갈색 바탕인데 흑색 인편이 산포되며, 콩팥 모양 무늬는 주위가 백색으로 테가 둘러져 있다. 뒷날개는 암갈색을 띠며, 연모는 담황색을 띤다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 4～5월, 7～8월 연 2회 출현된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]\n[인도]\n[유럽]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0142-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0142_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0142_2_th.jpg",
+      "alt": "도둑나방 1번째 사진 : 도둑나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0142_2_th2.jpg",
+      "caption": "도둑나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDS0142-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0142_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0142_1_th.jpg",
+      "alt": "도둑나방 2번째 사진 : 도둑나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0142_1_th2.jpg",
+      "caption": "도둑나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0142-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303111012",
+      "description": "[KNAE0303111012] 도둑나방 1988.08.26 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303111013",
+      "description": "[KNAE0303111013] 도둑나방 1991.08.06 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303111010",
+      "description": "[KNAE0303111010] 도둑나방 1990.09.30 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "무궁화",
+      "scientific_name": "Hibiscus syriacus L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "벚나무",
+      "scientific_name": "Prunus serrulata f. spontanea (Maxim.) Chin S.Chang"
+    },
+    {
+      "group": "식물",
+      "name_ko": "뽕나무",
+      "scientific_name": "Morus alba L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "삼나무",
+      "scientific_name": "Cryptomeria japonica (Thunb. ex L.f.) D.Don"
+    },
+    {
+      "group": "식물",
+      "name_ko": "소나무",
+      "scientific_name": "Pinus densiflora Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "콩",
+      "scientific_name": "Glycine max (L.) Merr."
+    },
+    {
+      "group": "식물",
+      "name_ko": "황벽나무",
+      "scientific_name": "Phellodendron amurense Rupr."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDS0142-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0142&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:22+00:00",
+    "html_sha256": "4c71fd8e6ba257f4336045beaf443e0e43a8d98b3f52ae66e9642e6ca17de6a1",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

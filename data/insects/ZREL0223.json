@@ -1,0 +1,107 @@
+{
+  "id": "ZREL0223",
+  "name_ko": "뒷검은비단명나방",
+  "scientific_name": "Hypsopygia placens (Butler, 1879)",
+  "display_name": "뒷검은비단명나방",
+  "family_ko": "명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "명나방과",
+      "name_latin": "Pyralidae"
+    },
+    "subfamily": {
+      "name_ko": "비단명나방아과",
+      "name_latin": "Pyralinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Hypsopygia"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 명나방과 (Pyralidae)\n아과 : 비단명나방아과 (Pyralinae)\n속 : (Hypsopygia)",
+  "basic_information": {
+    "곤충명": "뒷검은비단명나방",
+    "학명": "Hypsopygia placens (Butler, 1879)"
+  },
+  "information": {
+    "general_description": "일본 중국에 분포하며 머리는 백갈색이고 이마는 둥근모양을 나타낸다. 더듬이는 황갈색에 다소의 적색 인편이 섞여 있으며 수컷은 작은 털이 있는 실 모양이다. 아랫입술수염은 위로 구부러지고 제 3마디는 다소 앞쪽으로 뻗어 있으며 담갈색에 흑갈색 인편이 섞여 있다. 가슴 등편은 황갈색이나 배의 등편은 담갈색에 흑갈색 인편이 흩어져 있다. 앞날개의 바탕색은 황색에 갈색 인편이 덮여 있으며 내횡선은 불명로하나 외횡선은 황색으로 전연 2/3에서 출발하여 후연 2/3에 닿는데 중앙이 밖으로 볼록하다. 뒷날개의 바탕색은 농갈색으로 앞날개와 대조를 이루고 있다.",
+    "adult": null,
+    "adult_male": "구상돌기는 다소 삼각형 모양을 나타내며 파악판은 다른 2종에 비하여 길다.",
+    "adult_female": "교미주머니는 긴 자루 모양을 이루며 1개의 시그눔을 가지고 있다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "일본 중국에 분포하며 머리는 백갈색이고 이마는 둥근모양을 나타낸다. 더듬이는 황갈색에 다소의 적색 인편이 섞여 있으며 수컷은 작은 털이 있는 실 모양이다. 아랫입술수염은 위로 구부러지고 제 3마디는 다소 앞쪽으로 뻗어 있으며 담갈색에 흑갈색 인편이 섞여 있다. 가슴 등편은 황갈색이나 배의 등편은 담갈색에 흑갈색 인편이 흩어져 있다. 앞날개의 바탕색은 황색에 갈색 인편이 덮여 있으며 내횡선은 불명로하나 외횡선은 황색으로 전연 2/3에서 출발하여 후연 2/3에 닿는데 중앙이 밖으로 볼록하다. 뒷날개의 바탕색은 농갈색으로 앞날개와 대조를 이루고 있다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "구상돌기는 다소 삼각형 모양을 나타내며 파악판은 다른 2종에 비하여 길다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "교미주머니는 긴 자루 모양을 이루며 1개의 시그눔을 가지고 있다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0223-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0223_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0223_1_th.jpg",
+      "alt": "뒷검은비단명나방 1번째 사진 : 뒷검은비단명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0223_1_th2.jpg",
+      "caption": "뒷검은비단명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0223-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0305021049",
+      "description": "[FRIE0305021049] 뒷검은비단명나방 1983.07.28 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0302062030",
+      "description": "[KNAE0302062030] 뒷검은비단명나방 1991.07.10 / / 국립수목원"
+    },
+    {
+      "id": "UIBE0203211089",
+      "description": "[UIBE0203211089] 뒷검은비단명나방 2000.07.05 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREL0223-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0223&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:00+00:00",
+    "html_sha256": "86c1d5a4b620b420a75da9042edcfd1368b5f4717d2d4ad39988347f22500d26",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "id": "ZRBK0001",
+  "name_ko": "굴벌레작은나방",
+  "scientific_name": "Cossus arenicolus Staudinger, 1879",
+  "display_name": "굴벌레작은나방",
+  "family_ko": "굴벌레나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "굴벌레나방상과",
+      "name_latin": "Cossoidea"
+    },
+    "family": {
+      "name_ko": "굴벌레나방과",
+      "name_latin": "Cossidae"
+    },
+    "subfamily": {
+      "name_ko": "굴벌레나방아과",
+      "name_latin": "Cossinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Cossus"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 굴벌레나방상과 (Cossoidea)\n과 : 굴벌레나방과 (Cossidae)\n아과 : 굴벌레나방아과 (Cossinae)\n속 : (Cossus)",
+  "basic_information": {
+    "곤충명": "굴벌레작은나방",
+    "학명": "Cossus arenicolus Staudinger, 1879"
+  },
+  "information": {
+    "general_description": "국내분포:추풍령\n국외분포:시베리아,일본\n날개길이 33～43㎜\n굴벌레나방보다 약간 작고, 날개의 나비가 좁으며, 색깔이 명료함\n앞날개의 외횡선은 가늘고 아외연부에도 불규칙한 가는 선들이 있",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "국내분포:추풍령\n국외분포:시베리아,일본\n날개길이 33～43㎜\n굴벌레나방보다 약간 작고, 날개의 나비가 좁으며, 색깔이 명료함\n앞날개의 외횡선은 가늘고 아외연부에도 불규칙한 가는 선들이 있"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRBK0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBK0001_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBK0001_2_th.jpg",
+      "alt": "굴벌레작은나방 1번째 사진 : 굴벌레작은나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBK0001_2_th2.jpg",
+      "caption": "굴벌레작은나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRBK0001-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBK0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBK0001_1_th.jpg",
+      "alt": "굴벌레작은나방 2번째 사진 : 굴벌레작은나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBK0001_1_th2.jpg",
+      "caption": "굴벌레작은나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRBK0001-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0301181017",
+      "description": "[KNAE0301181017] 굴벌레작은나방 1991.07.10 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0202042001",
+      "description": "[KNAE0202042001] 굴벌레작은나방 1993.07.28 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0202042002",
+      "description": "[KNAE0202042002] 굴벌레작은나방 1994.07.10 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRBK0001.png",
+    "reference_image_id": "ZRBK0001-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T14:04:52.170476+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "bbd1747273921ff140ec514d2f9e296e24bb0e3863de13ad4bbc835add885938"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRBK0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:26+00:00",
+    "html_sha256": "823f36e02f1d60dcc95a9d80cc72e78eb2e9d516e64e0b2b9060cc248f80ba0c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

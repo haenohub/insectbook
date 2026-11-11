@@ -1,0 +1,130 @@
+{
+  "id": "ZRDS0062",
+  "name_ko": "노랑담배나방",
+  "scientific_name": "Pyrrhia umbra (Hufnagel, 1766)",
+  "display_name": "노랑담배나방",
+  "family_ko": "밤나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "밤나방과",
+      "name_latin": "Noctuidae"
+    },
+    "subfamily": {
+      "name_ko": "담배나방아과",
+      "name_latin": "Heliothinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Pyrrhia"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 밤나방과 (Noctuidae)\n아과 : 담배나방아과 (Heliothinae)\n속 : (Pyrrhia)",
+  "basic_information": {
+    "곤충명": "노랑담배나방",
+    "학명": "Pyrrhia umbra (Hufnagel, 1766)"
+  },
+  "information": {
+    "general_description": "날개편 길이 15～17mm. 앞날개는 황갈색 또는 다갈색 바탕인데 내횡선, 중횡선, 외횡선 등이 적갈색을 띤다. 뒷날개는 담황색 바탕에 횡맥 무늬가 있으나 뚜렷하지 않고, 외연부는 넓게 흑갈색을 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 8월경에 출현된다",
+    "habits": "유충은 담배잎을 먹고 산다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]\n[튀르키예공화국]\n[인도]\n[유럽]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 15～17mm. 앞날개는 황갈색 또는 다갈색 바탕인데 내횡선, 중횡선, 외횡선 등이 적갈색을 띤다. 뒷날개는 담황색 바탕에 횡맥 무늬가 있으나 뚜렷하지 않고, 외연부는 넓게 흑갈색을 띤다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 8월경에 출현된다"
+    },
+    {
+      "title": "습성",
+      "text": "유충은 담배잎을 먹고 산다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]\n[튀르키예공화국]\n[인도]\n[유럽]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0062-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0062_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0062_2_th.jpg",
+      "alt": "노랑담배나방 1번째 사진 : 노랑담배나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0062_2_th2.jpg",
+      "caption": "노랑담배나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDS0062-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0062_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0062_1_th.jpg",
+      "alt": "노랑담배나방 2번째 사진 : 노랑담배나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0062_1_th2.jpg",
+      "caption": "노랑담배나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0062-1",
+  "specimen_examples": [
+    {
+      "id": "MPNE0408101018",
+      "description": "[MPNE0408101018] 노랑담배나방 2001.08.12 / / 목포 대학교 환경연구소"
+    },
+    {
+      "id": "KNAE0302191019",
+      "description": "[KNAE0302191019] 노랑담배나방 2000.06.07 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0302191021",
+      "description": "[KNAE0302191021] 노랑담배나방 2000.08.13 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDS0062.png",
+    "reference_image_id": "ZRDS0062-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T11:48:07.556105+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "747cb4d32ef6e7a2c58142fda0c6df6cabcb787f369583408e07b9c710611e94"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0062&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:06+00:00",
+    "html_sha256": "1c5c35808258a5c994b335b8217fa22ab6eab10636c6cbbdb57134b26209d4fc",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

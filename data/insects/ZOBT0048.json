@@ -1,0 +1,107 @@
+{
+  "id": "ZOBT0048",
+  "name_ko": "동양잎벌레",
+  "scientific_name": "Labidostomis (Labidostomis) amurensis amurensis Heyden, 1884",
+  "display_name": "동양잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "통잎벌레아과",
+      "name_latin": "Cryptocephalinae"
+    },
+    "genus": {
+      "name_ko": "참큰가슴잎벌레속",
+      "name_latin": "Labidostomis"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 통잎벌레아과 (Cryptocephalinae)\n속 : 참큰가슴잎벌레속 (Labidostomis)",
+  "basic_information": {
+    "곤충명": "동양잎벌레",
+    "학명": "Labidostomis (Labidostomis) amurensis amurensis Heyden, 1884"
+  },
+  "information": {
+    "general_description": "몸길이는 7mm, 머리, 가슴은 흑색 앞가슴등판은 적갈색이며, 어깨부분에 작은 검은 점무늬가있다. 앞다리의 허벅마디는 굵으며 길다. 더듬이는 빗살 모양이다. 한국(중부,남부), 중국(만주), 러시아(동시베리아)에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 4~5월에 월동하며 싸리나무잎을 먹는다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 7mm, 머리, 가슴은 흑색 앞가슴등판은 적갈색이며, 어깨부분에 작은 검은 점무늬가있다. 앞다리의 허벅마디는 굵으며 길다. 더듬이는 빗살 모양이다. 한국(중부,남부), 중국(만주), 러시아(동시베리아)에 분포되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 4~5월에 월동하며 싸리나무잎을 먹는다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0048-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0048_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0048_1_th.jpg",
+      "alt": "동양잎벌레 1번째 사진 : 동양잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0048_1_th2.jpg",
+      "caption": "동양잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0048-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408041102",
+      "description": "[MPME0408041102] 동양잎벌레 1996.05.22 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408041103",
+      "description": "[MPME0408041103] 동양잎벌레 1996.05.22 / / 목포자연사박물관"
+    },
+    {
+      "id": "KPNE0407261389",
+      "description": "[KPNE0407261389] 동양잎벌레 2001.05.06 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0048-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0048&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:33+00:00",
+    "html_sha256": "59f1199a1f258eea90fa58b89f4933008b8a680ef9ad1e065b0298be3c3738b6",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

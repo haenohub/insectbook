@@ -1,0 +1,114 @@
+{
+  "id": "ZOGJ0032",
+  "name_ko": "소요산소똥풍뎅이",
+  "scientific_name": "Onthophagus (Strandius) japonicus Harold, 1874",
+  "display_name": "소요산소똥풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "소똥구리아과",
+      "name_latin": "Scarabaeinae"
+    },
+    "genus": {
+      "name_ko": "소똥풍뎅이속",
+      "name_latin": "Onthophagus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 소똥구리아과 (Scarabaeinae)\n속 : 소똥풍뎅이속 (Onthophagus)",
+  "basic_information": {
+    "곤충명": "소요산소똥풍뎅이",
+    "학명": "Onthophagus (Strandius) japonicus Harold, 1874"
+  },
+  "information": {
+    "general_description": "일본, 대만에 분포하며 광택있는 흑색이나 딱지날개는 황백색 내지 황갈색 바탕이며 중간에 불규칙한 흑색 가로무늬가 있다. 수컷의 전흉배판은 후각 근처가 높아졌고 그 돌출부는 점점 넓어져 앞쪽이 양옆으로 뾰족하게 돌출한 형. 암컷은 돌출부가 낮거나 없다. BL:7~11mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "주로 우분에 모이나 인분에서도 발견되며, 가을에 성충이 되어 월동후 봄에 산란하는 것 같다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "일본, 대만에 분포하며 광택있는 흑색이나 딱지날개는 황백색 내지 황갈색 바탕이며 중간에 불규칙한 흑색 가로무늬가 있다. 수컷의 전흉배판은 후각 근처가 높아졌고 그 돌출부는 점점 넓어져 앞쪽이 양옆으로 뾰족하게 돌출한 형. 암컷은 돌출부가 낮거나 없다. BL:7~11mm."
+    },
+    {
+      "title": "생태",
+      "text": "주로 우분에 모이나 인분에서도 발견되며, 가을에 성충이 되어 월동후 봄에 산란하는 것 같다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGJ0032-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0032_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0032_2_th.jpg",
+      "alt": "소요산소똥풍뎅이 1번째 사진 : 소요산소똥풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0032_2_th2.jpg",
+      "caption": "소요산소똥풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOGJ0032-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0032_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0032_1_th.jpg",
+      "alt": "소요산소똥풍뎅이 2번째 사진 : 소요산소똥풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0032_1_th2.jpg",
+      "caption": "소요산소똥풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGJ0032-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0306172022",
+      "description": "[SNUE0306172022] 소요산소똥풍뎅이 1967.10.20 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0306172023",
+      "description": "[SNUE0306172023] 소요산소똥풍뎅이 1967.10.20 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0306172024",
+      "description": "[SNUE0306172024] 소요산소똥풍뎅이 1990.05.23 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGJ0032-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGJ0032&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:16+00:00",
+    "html_sha256": "d6ce28d842acfd6f988fcdcad6e7a347300e066f8056e668e27016fe3d376316",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

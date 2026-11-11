@@ -1,0 +1,103 @@
+{
+  "id": "ZTBO0061",
+  "name_ko": "비늘개미",
+  "scientific_name": "Strumigenys lewisi Cameron, 1886",
+  "display_name": "비늘개미",
+  "family_ko": "개미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "말벌상과",
+      "name_latin": "Vespoidea"
+    },
+    "family": {
+      "name_ko": "개미과",
+      "name_latin": "Formicidae"
+    },
+    "subfamily": {
+      "name_ko": "두배자루마디개미아과",
+      "name_latin": "Myrmicinae"
+    },
+    "genus": {
+      "name_ko": "비늘개미속",
+      "name_latin": "Strumigenys"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 말벌상과 (Vespoidea)\n과 : 개미과 (Formicidae)\n아과 : 두배자루마디개미아과 (Myrmicinae)\n속 : 비늘개미속 (Strumigenys)",
+  "basic_information": {
+    "곤충명": "비늘개미",
+    "학명": "Strumigenys lewisi Cameron, 1886"
+  },
+  "information": {
+    "general_description": "몸길이는 2.5-3.5mm 정도이며 머리는 앞이 다소 튀어 나왔고 큰턱의 약 2배의 길이이고 큰턱은 밖으로 휘었고 끝은 2분했고 끝에 가까운 안쪽에 1개의 이가 있다. 몸은 적황색이고 큰턱, 더듬이, 다리는 다소 담색이고 머리와 가슴 및 제1배자루마디에는 점각이 많이 나있다. 앞날개는 폭이 넓고 전면에 털이 났으며 맥은 거의 퇴화했다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[미얀마]\n[스리랑카]\n[일본]\n[인도]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 2.5-3.5mm 정도이며 머리는 앞이 다소 튀어 나왔고 큰턱의 약 2배의 길이이고 큰턱은 밖으로 휘었고 끝은 2분했고 끝에 가까운 안쪽에 1개의 이가 있다. 몸은 적황색이고 큰턱, 더듬이, 다리는 다소 담색이고 머리와 가슴 및 제1배자루마디에는 점각이 많이 나있다. 앞날개는 폭이 넓고 전면에 털이 났으며 맥은 거의 퇴화했다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[미얀마]\n[스리랑카]\n[일본]\n[인도]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBO0061-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0061_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0061_1_th.jpg",
+      "alt": "비늘개미 1번째 사진 : 비늘개미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0061_1_th2.jpg",
+      "caption": "비늘개미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBO0061-1",
+  "specimen_examples": [
+    {
+      "id": "CBNE0204191001",
+      "description": "[CBNE0204191001] 비늘개미 1996.08.18 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0204191003",
+      "description": "[CBNE0204191003] 비늘개미 1991.08.02 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0204191004",
+      "description": "[CBNE0204191004] 비늘개미 1990.10.02 / / 충북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTBO0061-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBO0061&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:55+00:00",
+    "html_sha256": "0e394a57ab4ad915665e8eaf1553fa5a12fe6423ed54cfcf8b2c465cc9623d2a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

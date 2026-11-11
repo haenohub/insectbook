@@ -1,0 +1,118 @@
+{
+  "id": "ZTAG0121",
+  "name_ko": "우수리뒤영벌",
+  "scientific_name": "Bombus (Diversobombus) ussurensis Rsdoszkowski, 1877",
+  "display_name": "우수리뒤영벌",
+  "family_ko": "꿀벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "꿀벌과",
+      "name_latin": "Apidae"
+    },
+    "subfamily": {
+      "name_ko": "꿀벌아과",
+      "name_latin": "Apinae"
+    },
+    "genus": {
+      "name_ko": "뒤영벌속",
+      "name_latin": "Bombus"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 꿀벌과 (Apidae)\n아과 : 꿀벌아과 (Apinae)\n속 : 뒤영벌속 (Bombus)",
+  "basic_information": {
+    "곤충명": "우수리뒤영벌",
+    "학명": "Bombus (Diversobombus) ussurensis Rsdoszkowski, 1877"
+  },
+  "information": {
+    "general_description": "몸길이는 20 mm 내외이다. 암컷의 몸은 흑색이고, 머리 부분은 담황색의 긴 털이 밀생한다. 날개는 옅은 갈색이고 바깥가두리는 특히 심하며 전체에 광택이 있다. 몸에는 길고 연한 털이 밀생하였고 앞다리와 가운데다리의 종아리마디에는 흑갈색 털이, 발목마디에는 암적갈색 센털이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "4~9월 사이에 출현한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[유럽]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 20 mm 내외이다. 암컷의 몸은 흑색이고, 머리 부분은 담황색의 긴 털이 밀생한다. 날개는 옅은 갈색이고 바깥가두리는 특히 심하며 전체에 광택이 있다. 몸에는 길고 연한 털이 밀생하였고 앞다리와 가운데다리의 종아리마디에는 흑갈색 털이, 발목마디에는 암적갈색 센털이 있다."
+    },
+    {
+      "title": "생태",
+      "text": "4~9월 사이에 출현한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[유럽]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0121-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0121_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0121_2_th.jpg",
+      "alt": "우수리뒤영벌 1번째 사진 : 우수리뒤영벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0121_2_th2.jpg",
+      "caption": "우수리뒤영벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTAG0121-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0121_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0121_1_th.jpg",
+      "alt": "우수리뒤영벌 2번째 사진 : 우수리뒤영벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0121_1_th2.jpg",
+      "caption": "우수리뒤영벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0121-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0301119132",
+      "description": "[YNUE0301119132] 우수리뒤영벌 1997.05.23 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301099024",
+      "description": "[YNUE0301099024] 우수리뒤영벌 1996.06.25 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301099025",
+      "description": "[YNUE0301099025] 우수리뒤영벌 1996.06.25 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAG0121-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0121&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:06+00:00",
+    "html_sha256": "c1c144e39893fafebb059dd30c3c3053fc996adede1bb94936f74c83ea2da1df",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

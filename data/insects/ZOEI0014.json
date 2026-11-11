@@ -1,0 +1,107 @@
+{
+  "id": "ZOEI0014",
+  "name_ko": "끝검은황가뢰",
+  "scientific_name": "Zonitoschema cothurnata (Marseul, 1873)",
+  "display_name": "끝검은황가뢰",
+  "family_ko": "가뢰과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "거저리상과",
+      "name_latin": "Tenebrionoidea"
+    },
+    "family": {
+      "name_ko": "가뢰과",
+      "name_latin": "Meloidae"
+    },
+    "subfamily": {
+      "name_ko": "고려가뢰아과",
+      "name_latin": "Nemognathinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Zonitoschema"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 거저리상과 (Tenebrionoidea)\n과 : 가뢰과 (Meloidae)\n아과 : 고려가뢰아과 (Nemognathinae)\n속 : (Zonitoschema)",
+  "basic_information": {
+    "곤충명": "끝검은황가뢰",
+    "학명": "Zonitoschema cothurnata (Marseul, 1873)"
+  },
+  "information": {
+    "general_description": "한국, 일본, 대만에 분포하며, 체장은 10-15mm 정도이다. 머리의 점각은 밀포하고 이마는 눈의 사이에 있어서 눈보다도 폭이 좁다. 촉각은 가늘고 길며 제2-3양마디는 길이가 같고 원통 모양이다. 몸은 황갈색이고 촉각, 겹눈, 딱지날개끝, 각 허벅다리마디의 말단 종아리마디와 발목마디는 흑색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 대만에 분포하며, 체장은 10-15mm 정도이다. 머리의 점각은 밀포하고 이마는 눈의 사이에 있어서 눈보다도 폭이 좁다. 촉각은 가늘고 길며 제2-3양마디는 길이가 같고 원통 모양이다. 몸은 황갈색이고 촉각, 겹눈, 딱지날개끝, 각 허벅다리마디의 말단 종아리마디와 발목마디는 흑색이다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOEI0014-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEI0014_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEI0014_1_th.jpg",
+      "alt": "끝검은황가뢰 1번째 사진 : 끝검은황가뢰전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEI0014_1_th2.jpg",
+      "caption": "끝검은황가뢰전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOEI0014-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0301222006",
+      "description": "[KNAE0301222006] 끝검은황가뢰 1991.08.16 / / 국립수목원"
+    },
+    {
+      "id": "YNUE0112204013",
+      "description": "[YNUE0112204013] 끝검은황가뢰 1994.06.24 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0201034010",
+      "description": "[YNUE0201034010] 끝검은황가뢰 1992.05.23 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOEI0014.png",
+    "reference_image_id": "ZOEI0014-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T15:10:59.282459+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "2ef087963016264a1f10e5024c4f9a90b1b365e2755ff642e23a713f74080ffc"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOEI0014&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:01+00:00",
+    "html_sha256": "d6f841c30ec30c9043e893124e03f3470f1aa0236fe1e92eb828c39165dc04a5",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

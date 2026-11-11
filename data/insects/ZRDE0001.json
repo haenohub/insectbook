@@ -1,0 +1,132 @@
+{
+  "id": "ZRDE0001",
+  "name_ko": "흰점쐐기나방",
+  "scientific_name": "Austrapoda dentatus (Oberthür, 1879)",
+  "display_name": "흰점쐐기나방",
+  "family_ko": "쐐기나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "알락나방상과",
+      "name_latin": "Zygaenoidea"
+    },
+    "family": {
+      "name_ko": "쐐기나방과",
+      "name_latin": "Limacodidae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Austrapoda"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 알락나방상과 (Zygaenoidea)\n과 : 쐐기나방과 (Limacodidae)\n속 : (Austrapoda)",
+  "basic_information": {
+    "곤충명": "흰점쐐기나방",
+    "학명": "Austrapoda dentatus (Oberthür, 1879)"
+  },
+  "information": {
+    "general_description": "국내분포 서울\n국외분포 일본, 중국, 아무르, 우수리, 아스콜드\n수컷의 더듬이는 약한 톱니 모양이며, 암컷은 실 모양이다. 다리는 갈색을 띠는데 뒷다리의 종아리마디에는 2쌍의 긴 며느리 발톱이 있다. 가슴의 등쪽면에 나 있는 인모 뭉치는 갈색을 띠고 있는데 그 끝은 흑갈색을 띠고 있다. 앞날개의 기부에는 작은 백색 점이 있으며, 날개의 바탕색은 자갈색을 띤다. 제 8, 9맥은 같은 줄기를 형성하고 있으며, 내횡선과 중횡선은 비스듬히 경사져 있다. 간혹, 이들 선의 사이로 암색 띠를 이루는 경우가 있으며, 외횡선은 백색인데 그 안쪽에는 가늘게 흑색으로 테가 둘러져 있다. 날개끝에는 약간 경사져서 1개의 백색선이 있다. 뒷날개는 암갈색 바탕인데 후각 부근에는 약간 황색을 띠고 있다. 날개의 길이는 25～28㎜ 이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "국내분포 서울\n국외분포 일본, 중국, 아무르, 우수리, 아스콜드\n수컷의 더듬이는 약한 톱니 모양이며, 암컷은 실 모양이다. 다리는 갈색을 띠는데 뒷다리의 종아리마디에는 2쌍의 긴 며느리 발톱이 있다. 가슴의 등쪽면에 나 있는 인모 뭉치는 갈색을 띠고 있는데 그 끝은 흑갈색을 띠고 있다. 앞날개의 기부에는 작은 백색 점이 있으며, 날개의 바탕색은 자갈색을 띤다. 제 8, 9맥은 같은 줄기를 형성하고 있으며, 내횡선과 중횡선은 비스듬히 경사져 있다. 간혹, 이들 선의 사이로 암색 띠를 이루는 경우가 있으며, 외횡선은 백색인데 그 안쪽에는 가늘게 흑색으로 테가 둘러져 있다. 날개끝에는 약간 경사져서 1개의 백색선이 있다. 뒷날개는 암갈색 바탕인데 후각 부근에는 약간 황색을 띠고 있다. 날개의 길이는 25～28㎜ 이다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDE0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDE0001_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDE0001_2_th.jpg",
+      "alt": "흰점쐐기나방 1번째 사진 : 흰점쐐기나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDE0001_2_th2.jpg",
+      "caption": "흰점쐐기나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDE0001-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDE0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDE0001_1_th.jpg",
+      "alt": "흰점쐐기나방 2번째 사진 : 흰점쐐기나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDE0001_1_th2.jpg",
+      "caption": "흰점쐐기나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDE0001-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0409101031",
+      "description": "[KNAE0409101031] 흰점쐐기나방 1998.06.29 / / 국립수목원"
+    },
+    {
+      "id": "FRIE0302171042",
+      "description": "[FRIE0302171042] 흰점쐐기나방 1996.06.20 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0302171040",
+      "description": "[FRIE0302171040] 흰점쐐기나방 1996.06.10 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "떡갈나무",
+      "scientific_name": "Quercus dentata Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "밤나무",
+      "scientific_name": "Castanea crenata Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "벚나무",
+      "scientific_name": "Prunus serrulata f. spontanea (Maxim.) Chin S.Chang"
+    },
+    {
+      "group": "식물",
+      "name_ko": "상수리나무",
+      "scientific_name": "Quercus acutissima Carruth."
+    },
+    {
+      "group": "식물",
+      "name_ko": "차나무",
+      "scientific_name": "Camellia sinensis (L.) Kuntze"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDE0001-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDE0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:48+00:00",
+    "html_sha256": "cf0036bfe119f1a452d74e07e781248803936907b9438a6fae25e1f44658b2ea",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

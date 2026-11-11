@@ -1,0 +1,111 @@
+{
+  "id": "ZLCG0020",
+  "name_ko": "검정침노린재",
+  "scientific_name": "Peirates cinctiventris Horváth, 1879",
+  "display_name": "검정침노린재",
+  "family_ko": "침노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "침노린재상과",
+      "name_latin": "Reduvioidea"
+    },
+    "family": {
+      "name_ko": "침노린재과",
+      "name_latin": "Reduviidae"
+    },
+    "subfamily": {
+      "name_ko": "검정침노린재아과",
+      "name_latin": "Peiratinae"
+    },
+    "genus": {
+      "name_ko": "검정침노린재아속",
+      "name_latin": "Peirates"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 침노린재상과 (Reduvioidea)\n과 : 침노린재과 (Reduviidae)\n아과 : 검정침노린재아과 (Peiratinae)\n속 : 검정침노린재아속 (Peirates)",
+  "basic_information": {
+    "곤충명": "검정침노린재",
+    "학명": "Peirates cinctiventris Horváth, 1879"
+  },
+  "information": {
+    "general_description": "몸길이 : 12mm\n몸은 대부분이 흑색이며, 금색의 미세한 털로 덮였고 긴 털이 섞여 있다. 머리는 검고 앞쪽으로 돌출했고, 겹눈은 흑색, 반구상이며, 옆쪽에서 보면 콩팥 모양이다. 홑눈은 크고 암갈색이며, 그 앞쪽 겹눈 뒷면을 잇는 가로홈은 산모양으로 굽었고, 중앙부에서 앞쪽으로 향하는 세로홈을 나눈다. 앞가슴등은 중앙보다 약간 뒤쪽에서 잘록해졌고, 전엽의 후반에는 중앙에 세로홈이 있다. 작은방패판은 흑색이고, 반시초의 기반은 연한 갈색, 앞쪽 반은 차츰 흑갈색으로 변한다. 또 막질부의 기부에는 작은 흑색 무늬가 있다. 몸의 아랫면은 균일한 흑색이고 배의 옆가장자리는 황갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "지상에서 생활하고 먼지벌레 따위의 작은 곤충을 포식한다. 사람도 찔리면 피하 출혈 등 통증이 심하다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 12mm\n몸은 대부분이 흑색이며, 금색의 미세한 털로 덮였고 긴 털이 섞여 있다. 머리는 검고 앞쪽으로 돌출했고, 겹눈은 흑색, 반구상이며, 옆쪽에서 보면 콩팥 모양이다. 홑눈은 크고 암갈색이며, 그 앞쪽 겹눈 뒷면을 잇는 가로홈은 산모양으로 굽었고, 중앙부에서 앞쪽으로 향하는 세로홈을 나눈다. 앞가슴등은 중앙보다 약간 뒤쪽에서 잘록해졌고, 전엽의 후반에는 중앙에 세로홈이 있다. 작은방패판은 흑색이고, 반시초의 기반은 연한 갈색, 앞쪽 반은 차츰 흑갈색으로 변한다. 또 막질부의 기부에는 작은 흑색 무늬가 있다. 몸의 아랫면은 균일한 흑색이고 배의 옆가장자리는 황갈색이다."
+    },
+    {
+      "title": "생태",
+      "text": "지상에서 생활하고 먼지벌레 따위의 작은 곤충을 포식한다. 사람도 찔리면 피하 출혈 등 통증이 심하다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLCG0020-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCG0020_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCG0020_1_th.jpg",
+      "alt": "검정침노린재 1번째 사진 : 검정침노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCG0020_1_th2.jpg",
+      "caption": "검정침노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLCG0020-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303062023",
+      "description": "[KNAE0303062023] 검정침노린재 1991.07.17 / / 국립수목원"
+    },
+    {
+      "id": "FRIE0303181034",
+      "description": "[FRIE0303181034] 검정침노린재 1981.06.08 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0303181036",
+      "description": "[FRIE0303181036] 검정침노린재 1982.05.27 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZLCG0020.png",
+    "reference_image_id": "ZLCG0020-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T11:58:32.279179+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "f2cfe9497ec047aeb2aeeecc1386b192591c62424f1f87e2582a88e6a2248b80"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLCG0020&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:30+00:00",
+    "html_sha256": "385bc79a0e3fd4e926016cb205df0275eed4a4c545bd72f9148f36ea90da5426",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

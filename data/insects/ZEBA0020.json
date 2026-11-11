@@ -1,0 +1,110 @@
+{
+  "id": "ZEBA0020",
+  "name_ko": "여치",
+  "scientific_name": "Gampsocleis sedakovii obscura (Walker, 1869)",
+  "display_name": "여치",
+  "family_ko": "여치과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "메뚜기목",
+      "name_latin": "Orthoptera"
+    },
+    "family": {
+      "name_ko": "여치과",
+      "name_latin": "Tettigoniidae"
+    },
+    "subfamily": {
+      "name_ko": "여치아과",
+      "name_latin": "Tettigoniinae"
+    },
+    "genus": {
+      "name_ko": "여치속",
+      "name_latin": "Gampsocleis"
+    }
+  },
+  "taxonomy_text": "목 : 메뚜기목 (Orthoptera)\n과 : 여치과 (Tettigoniidae)\n아과 : 여치아과 (Tettigoniinae)\n속 : 여치속 (Gampsocleis)",
+  "basic_information": {
+    "곤충명": "여치",
+    "학명": "Gampsocleis sedakovii obscura (Walker, 1869)"
+  },
+  "information": {
+    "general_description": "몸길이 33mm이며 몸은 비대하고 황록색 또는 황갈색이며 날개의 가운데방에 뚜렷한 흑색 점렬이 있다. 앞날개는 몸길이에 달하지 못한다. 머리꼭대기돌기는 폭이 넓고 윗끝은 둥그렇고 아랫면은 좁고 횡구로 파이마돌기와 연속하였다. 앞가슴의 앞쪽은 안장 모양으로 되었고 뒷쪽은 넓적하고 뒷가두리는 둥그렇고 어깨는 모가 났다. 제 1횡구는 뒷쪽으로 구부러졌고 중앙에서 절단되었으며 제 2횡구는 V자형이고 제 3횡구는 다소 뒷쪽으로 구부러졌다. 가운데가슴배판돌기는 길고 좁으며 수컷의 버금생식판은 중앙이 깊이 오므러 들어갔다. 미모는 가늘고 중앙 안쪽에 긴 이 모양의 돌기가 있다. 항상판은 중앙이 다소 함입하였다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국] 동북지방\n[중국]\n[러시아] 극동지역\n[러시아] 동시베리아지역\n[러시아] 서시베리아지역\n[일본] 류큐열도(琉球列島)",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 33mm이며 몸은 비대하고 황록색 또는 황갈색이며 날개의 가운데방에 뚜렷한 흑색 점렬이 있다. 앞날개는 몸길이에 달하지 못한다. 머리꼭대기돌기는 폭이 넓고 윗끝은 둥그렇고 아랫면은 좁고 횡구로 파이마돌기와 연속하였다. 앞가슴의 앞쪽은 안장 모양으로 되었고 뒷쪽은 넓적하고 뒷가두리는 둥그렇고 어깨는 모가 났다. 제 1횡구는 뒷쪽으로 구부러졌고 중앙에서 절단되었으며 제 2횡구는 V자형이고 제 3횡구는 다소 뒷쪽으로 구부러졌다. 가운데가슴배판돌기는 길고 좁으며 수컷의 버금생식판은 중앙이 깊이 오므러 들어갔다. 미모는 가늘고 중앙 안쪽에 긴 이 모양의 돌기가 있다. 항상판은 중앙이 다소 함입하였다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국] 동북지방\n[중국]\n[러시아] 극동지역\n[러시아] 동시베리아지역\n[러시아] 서시베리아지역\n[일본] 류큐열도(琉球列島)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZEBA0020-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0020_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0020_2_th.jpg",
+      "alt": "여치 1번째 사진 : 여치전체 옆면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0020_2_th2.jpg",
+      "caption": "여치전체 옆면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZEBA0020-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0020_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0020_1_th.jpg",
+      "alt": "여치 2번째 사진 : 여치전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0020_1_th2.jpg",
+      "caption": "여치전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZEBA0020-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0306053032",
+      "description": "[SNUE0306053032] 여치 1960.07.24 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0306053033",
+      "description": "[SNUE0306053033] 여치 1968.09.08 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0306053034",
+      "description": "[SNUE0306053034] 여치 1958.08.20 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZEBA0020-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZEBA0020&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:02+00:00",
+    "html_sha256": "de09108dc6f2067db8bc99874a1e1cb614f76b48275c723f172fd1b365d94939",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

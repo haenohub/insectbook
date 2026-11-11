@@ -1,0 +1,137 @@
+{
+  "id": "ZREV0033",
+  "name_ko": "검정황나꼬리박각시",
+  "scientific_name": "Hemaris affinis (Bremer, 1861)",
+  "display_name": "검정황나꼬리박각시",
+  "family_ko": "박각시과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "누에나방상과",
+      "name_latin": "Bombycoidea"
+    },
+    "family": {
+      "name_ko": "박각시과",
+      "name_latin": "Sphingidae"
+    },
+    "subfamily": {
+      "name_ko": "꼬리박각시아과",
+      "name_latin": "Macroglossinae"
+    },
+    "genus": {
+      "name_ko": "황나꼬리박각시속",
+      "name_latin": "Hemaris"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 누에나방상과 (Bombycoidea)\n과 : 박각시과 (Sphingidae)\n아과 : 꼬리박각시아과 (Macroglossinae)\n속 : 황나꼬리박각시속 (Hemaris)",
+  "basic_information": {
+    "곤충명": "검정황나꼬리박각시",
+    "학명": "Hemaris affinis (Bremer, 1861)"
+  },
+  "information": {
+    "general_description": "날개편 길이 43～54mm. 북방황나꼬리박각시보다 날개 외연에 있는 흑색띠의 폭이 넓다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "5월초부터 11월초까지 출현.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[중국]\n[일본]\n[대만]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 43～54mm. 북방황나꼬리박각시보다 날개 외연에 있는 흑색띠의 폭이 넓다."
+    },
+    {
+      "title": "생태",
+      "text": "5월초부터 11월초까지 출현."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]\n[일본]\n[대만]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREV0033-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0033_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0033_2_th.jpg",
+      "alt": "검정황나꼬리박각시 1번째 사진 : 검정황나꼬리박각시전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0033_2_th2.jpg",
+      "caption": "검정황나꼬리박각시전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREV0033-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0033_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0033_1_th.jpg",
+      "alt": "검정황나꼬리박각시 2번째 사진 : 검정황나꼬리박각시전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0033_1_th2.jpg",
+      "caption": "검정황나꼬리박각시전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREV0033-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0305131003",
+      "description": "[FRIE0305131003] 검정황나꼬리박각시 1984.05.05 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0305131001",
+      "description": "[FRIE0305131001] 검정황나꼬리박각시 1983.05.01 / / 국립산림과학원"
+    },
+    {
+      "id": "YNUE0211062016",
+      "description": "[YNUE0211062016] 검정황나꼬리박각시 1997.05.17 / / 영남대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "마타리",
+      "scientific_name": "Patrinia serratulifolia Link"
+    },
+    {
+      "group": "식물",
+      "name_ko": "인동덩굴",
+      "scientific_name": "Lonicera japonica Thunb."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZREV0033.png",
+    "reference_image_id": "ZREV0033-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T12:06:39.929874+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "169333116e483f475a8fe8f0b2ed22763247236b3fc71bc5143123498b494076"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREV0033&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:33+00:00",
+    "html_sha256": "8846e5a2a65e44a4a7ed931dcd0f5be44c3ab94dfdf08174494a88c1a8458a74",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": "ZRDS0474",
+  "name_ko": "검은은무늬밤나방",
+  "scientific_name": "Autographa nigrisigna (Walker, [1858])",
+  "display_name": "검은은무늬밤나방",
+  "family_ko": "밤나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "밤나방과",
+      "name_latin": "Noctuidae"
+    },
+    "subfamily": {
+      "name_ko": "은무늬밤나방아과",
+      "name_latin": "Plusiinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Autographa"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 밤나방과 (Noctuidae)\n아과 : 은무늬밤나방아과 (Plusiinae)\n속 : (Autographa)",
+  "basic_information": {
+    "곤충명": "검은은무늬밤나방",
+    "학명": "Autographa nigrisigna (Walker, [1858])"
+  },
+  "information": {
+    "general_description": "날개편 길이 16~18mm. 앞날개는 회갈색 바탕인데 중실의 끝쪽에는 여러개의 작은 암색 점이 있으며, 이 무늬의 아래쪽은 중앙에 암색 부분이 있다. 뒷날개는 회갈색 바탕인데 외연부는 넓게 흑갈색을 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 7~8월경에 출현된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 16~18mm. 앞날개는 회갈색 바탕인데 중실의 끝쪽에는 여러개의 작은 암색 점이 있으며, 이 무늬의 아래쪽은 중앙에 암색 부분이 있다. 뒷날개는 회갈색 바탕인데 외연부는 넓게 흑갈색을 띤다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 7~8월경에 출현된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0474-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0474_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0474_1_th.jpg",
+      "alt": "검은은무늬밤나방 1번째 사진 : 검은은무늬밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0474_1_th2.jpg",
+      "caption": "검은은무늬밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0474-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0302192037",
+      "description": "[KNAE0302192037] 검은은무늬밤나방 1994.09.05 / / 국립수목원"
+    },
+    {
+      "id": "CBFE0405251015",
+      "description": "[CBFE0405251015] 검은은무늬밤나방 1998.07.07 / / 충북산림환경연구소"
+    },
+    {
+      "id": "CBFE0405251016",
+      "description": "[CBFE0405251016] 검은은무늬밤나방 1998.08.30 / / 충북산림환경연구소"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDS0474.png",
+    "reference_image_id": "ZRDS0474-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T10:55:32.132427+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "c8ea760db13bdc248162f51af9e388b465ecd3390cc2671a29b431ddf022c973"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0474&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:00+00:00",
+    "html_sha256": "bdee1ce608b2000f3190f8e61545cc65ca9e34015dd029a4a7600e60b79496e2",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

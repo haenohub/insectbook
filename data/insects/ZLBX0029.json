@@ -1,0 +1,114 @@
+{
+  "id": "ZLBX0029",
+  "name_ko": "가시점둥글노린재",
+  "scientific_name": "Eysarcoris aeneus (Scopoli, 1763)",
+  "display_name": "가시점둥글노린재",
+  "family_ko": "노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "노린재상과",
+      "name_latin": "Pentatomoidea"
+    },
+    "family": {
+      "name_ko": "노린재과",
+      "name_latin": "Pentatomidae"
+    },
+    "subfamily": {
+      "name_ko": "노린재아과",
+      "name_latin": "Pentatominae"
+    },
+    "genus": {
+      "name_ko": "둥글노린재속",
+      "name_latin": "Eysarcoris"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 노린재상과 (Pentatomoidea)\n과 : 노린재과 (Pentatomidae)\n아과 : 노린재아과 (Pentatominae)\n속 : 둥글노린재속 (Eysarcoris)",
+  "basic_information": {
+    "곤충명": "가시점둥글노린재",
+    "학명": "Eysarcoris aeneus (Scopoli, 1763)"
+  },
+  "information": {
+    "general_description": "몸길이 :4-7.5mm\n몸은 회갈색 바탕에 부분적으로 구리빛 또는 보라빛 광택을 약하게 띤다. 등면에는 흑갈색 점각이 산재한다. 더듬이는 5마디이다. 머리는 편평하고 넓으며, 구리빛 광택을 띤다. 앞가슴등판은 옆가장자리의 중앙부가 현저히 돌출하여 뾰족한 침뿔돌기를 이룬다. 돌기의 앞쪽은 둥글게 함입되었고 가장자리를 따라 회황색 무늬를 가진다. 작은방패판은 크고 볼록하며, 기부 양쪽에 현저한 회황색 타원무늬가 있다. 앞날개는 비교적 작고 혁질부가 전체의 절반 이상을 차지한다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "산야의 화보노가 식물에 흔히 서식한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": "성충으로 논둑의 잡초, 풀밭 근처에서 월동한다.",
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 :4-7.5mm\n몸은 회갈색 바탕에 부분적으로 구리빛 또는 보라빛 광택을 약하게 띤다. 등면에는 흑갈색 점각이 산재한다. 더듬이는 5마디이다. 머리는 편평하고 넓으며, 구리빛 광택을 띤다. 앞가슴등판은 옆가장자리의 중앙부가 현저히 돌출하여 뾰족한 침뿔돌기를 이룬다. 돌기의 앞쪽은 둥글게 함입되었고 가장자리를 따라 회황색 무늬를 가진다. 작은방패판은 크고 볼록하며, 기부 양쪽에 현저한 회황색 타원무늬가 있다. 앞날개는 비교적 작고 혁질부가 전체의 절반 이상을 차지한다."
+    },
+    {
+      "title": "생태",
+      "text": "산야의 화보노가 식물에 흔히 서식한다."
+    },
+    {
+      "title": "월동",
+      "text": "성충으로 논둑의 잡초, 풀밭 근처에서 월동한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLBX0029-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0029_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0029_1_th.jpg",
+      "alt": "가시점둥글노린재 1번째 사진 : 가시점둥글노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0029_1_th2.jpg",
+      "caption": "가시점둥글노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLBX0029-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0406112002",
+      "description": "[KUIE0406112002] 가시점둥글노린재 1957.06.01 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0406112003",
+      "description": "[KUIE0406112003] 가시점둥글노린재 1957.08.01 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0406112005",
+      "description": "[KUIE0406112005] 가시점둥글노린재 1957.09.14 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZLBX0029.png",
+    "reference_image_id": "ZLBX0029-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T15:36:49.921328+00:00",
+    "sha256": "b9d0aa06dc4238940cf4e2ec228da60e293f1f04a233357c2a927e65789d05d9"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLBX0029&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:14+00:00",
+    "html_sha256": "154b4c11a62f0f3c0ae96dd31a7d6005483811a879038b9b00e8fdf2ea348db8",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

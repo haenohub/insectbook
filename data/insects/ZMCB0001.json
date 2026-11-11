@@ -1,0 +1,137 @@
+{
+  "id": "ZMCB0001",
+  "name_ko": "뿔매미",
+  "scientific_name": "Butragulus flavipes (Uhler, 1896)",
+  "display_name": "뿔매미",
+  "family_ko": "뿔매미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "뿔매미상과",
+      "name_latin": "Membracoidea"
+    },
+    "family": {
+      "name_ko": "뿔매미과",
+      "name_latin": "Membracidae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Centrotinae"
+    },
+    "genus": {
+      "name_ko": "뿔매미속",
+      "name_latin": "Butragulus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 뿔매미상과 (Membracoidea)\n과 : 뿔매미과 (Membracidae)\n아과 : (Centrotinae)\n속 : 뿔매미속 (Butragulus)",
+  "basic_information": {
+    "곤충명": "뿔매미",
+    "학명": "Butragulus flavipes (Uhler, 1896)"
+  },
+  "information": {
+    "general_description": "몸길이: 약5.5-8mm. 암컷이 수컷보다 훨씬 더크다. 몸은 암갈색 또는 검정색을 띤다. 온몸에 점각이 산재하고 잛은회황색의 털이 밀생한다. 앞가슴등판의 어께에는 황소뿔처럼 생긴 뿔돌기가 양 옆으로 현저히 발달하였고, 뒷돌기는 점차 가늘고 길게 발달하여서 앞날개의 회홥부의 2/3까지 도달한다. 앞날개는 투명하고 기부가 경화되었으며 점각이 산재한다. 뒷날개는 작은세모꼴이고 투명하다. 작은방패판의 기부에는 회황색의 털뭉치를 가진다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "주로 경작지 주변이나 산야의 관목에 서식한다. 때로는 공원등의 은백양나무에도 기생하는것으로 밝혀져있다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이: 약5.5-8mm. 암컷이 수컷보다 훨씬 더크다. 몸은 암갈색 또는 검정색을 띤다. 온몸에 점각이 산재하고 잛은회황색의 털이 밀생한다. 앞가슴등판의 어께에는 황소뿔처럼 생긴 뿔돌기가 양 옆으로 현저히 발달하였고, 뒷돌기는 점차 가늘고 길게 발달하여서 앞날개의 회홥부의 2/3까지 도달한다. 앞날개는 투명하고 기부가 경화되었으며 점각이 산재한다. 뒷날개는 작은세모꼴이고 투명하다. 작은방패판의 기부에는 회황색의 털뭉치를 가진다."
+    },
+    {
+      "title": "생태",
+      "text": "주로 경작지 주변이나 산야의 관목에 서식한다. 때로는 공원등의 은백양나무에도 기생하는것으로 밝혀져있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMCB0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMCB0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMCB0001_1_th.jpg",
+      "alt": "뿔매미 1번째 사진 : 뿔매미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMCB0001_1_th2.jpg",
+      "caption": "뿔매미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMCB0001-1",
+  "specimen_examples": [
+    {
+      "id": "CBNE0203261043",
+      "description": "[CBNE0203261043] 뿔매미 1995.08.01 / / 충북대학교"
+    },
+    {
+      "id": "KNAE0612210023",
+      "description": "[KNAE0612210023] 뿔매미 2005.05.24 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0705220152",
+      "description": "[KNAE0705220152] 뿔매미 1993.07.21 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "느릅나무",
+      "scientific_name": "Ulmus davidiana var. japonica (Rehder) Nakai"
+    },
+    {
+      "group": "식물",
+      "name_ko": "매실나무",
+      "scientific_name": "Prunus mume (Siebold) Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "벚나무",
+      "scientific_name": "Prunus serrulata f. spontanea (Maxim.) Chin S.Chang"
+    },
+    {
+      "group": "식물",
+      "name_ko": "비파나무",
+      "scientific_name": "Eriobotrya japonica (Thunb.) Lindl."
+    },
+    {
+      "group": "식물",
+      "name_ko": "포도",
+      "scientific_name": "Vitis vinifera L."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZMCB0001-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMCB0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:12+00:00",
+    "html_sha256": "be406014f856629be37796e96696695b0020eb88cd3eb45819e43f705aa8c574",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

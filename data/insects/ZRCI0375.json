@@ -1,0 +1,129 @@
+{
+  "id": "ZRCI0375",
+  "name_ko": "큰빗줄가지나방",
+  "scientific_name": "Descoreba simplex Butler, 1878",
+  "display_name": "큰빗줄가지나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "가지나방아과",
+      "name_latin": "Ennominae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Descoreba"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 가지나방아과 (Ennominae)\n속 : (Descoreba)",
+  "basic_information": {
+    "곤충명": "큰빗줄가지나방",
+    "학명": "Descoreba simplex Butler, 1878"
+  },
+  "information": {
+    "general_description": "날개 편 길이 45㎜내외. 수컷의 더듬이는 빗살모양, 암컷은 실모양이다. 몸은 전반적으로 밝은 갈색인편으로 덮여 있다. 앞날개는 연황색을 띠며 앞날개 끝에서 시작하는 고동색의 줄무늬는 앞날개 후연의 중앙부에 다다른다, 종종 이 줄무늬는 맥 위에서 점줄이 되는 경우가 있다. 개체변이가 심해서 날개무늬는 다양하게 나타난다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "느릅나무, 멍석딸기, 아카시나무, 붉나무 등 다수의 각종 식물",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개 편 길이 45㎜내외. 수컷의 더듬이는 빗살모양, 암컷은 실모양이다. 몸은 전반적으로 밝은 갈색인편으로 덮여 있다. 앞날개는 연황색을 띠며 앞날개 끝에서 시작하는 고동색의 줄무늬는 앞날개 후연의 중앙부에 다다른다, 종종 이 줄무늬는 맥 위에서 점줄이 되는 경우가 있다. 개체변이가 심해서 날개무늬는 다양하게 나타난다."
+    },
+    {
+      "title": "생태",
+      "text": "느릅나무, 멍석딸기, 아카시나무, 붉나무 등 다수의 각종 식물"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0375-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0375_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0375_2_th.jpg",
+      "alt": "큰빗줄가지나방 1번째 사진 : 큰빗줄가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0375_2_th2.jpg",
+      "caption": "큰빗줄가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0375-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0375_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0375_1_th.jpg",
+      "alt": "큰빗줄가지나방 2번째 사진 : 큰빗줄가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0375_1_th2.jpg",
+      "caption": "큰빗줄가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0375-1",
+  "specimen_examples": [
+    {
+      "id": "GSNE0304091001",
+      "description": "[GSNE0304091001] 큰빗줄가지나방 2000.05.06 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0304091003",
+      "description": "[GSNE0304091003] 큰빗줄가지나방 2001.03.24 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0304091004",
+      "description": "[GSNE0304091004] 큰빗줄가지나방 1986.05.04 / / 경상대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "느릅나무",
+      "scientific_name": "Ulmus davidiana var. japonica (Rehder) Nakai"
+    },
+    {
+      "group": "식물",
+      "name_ko": "멍석딸기",
+      "scientific_name": "Rubus parvifolius L."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCI0375-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0375&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:50+00:00",
+    "html_sha256": "08b23fa46181bc7c18c5cbc5573cb253bda3400cfc718a57bcfeb28fde9a4261",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

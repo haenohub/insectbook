@@ -1,0 +1,120 @@
+{
+  "id": "ZOBL0296",
+  "name_ko": "삼하늘소",
+  "scientific_name": "Thyestilla gebleri (Faldermann, 1835)",
+  "display_name": "삼하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "목하늘소아과",
+      "name_latin": "Lamiinae"
+    },
+    "genus": {
+      "name_ko": "삼하늘소속",
+      "name_latin": "Thyestilla"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 목하늘소아과 (Lamiinae)\n속 : 삼하늘소속 (Thyestilla)",
+  "basic_information": {
+    "곤충명": "삼하늘소",
+    "학명": "Thyestilla gebleri (Faldermann, 1835)"
+  },
+  "information": {
+    "general_description": "몸길이는 10~15mm이며, 몸은 흑색이나 온몸이 회백색 털로 덮여 있고, 앞가슴 등판과 딱지 날개의 가운데와 바깥 가장자리를 따라 흰색의 세로 줄무늬가 나 있다. 가끔 전체가 흑색인 개체도 있으며, 더듬이의 밑쪼근 회백색, 윗쪽은 흑색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[몽골]\n[일본]\n[중국]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 10~15mm이며, 몸은 흑색이나 온몸이 회백색 털로 덮여 있고, 앞가슴 등판과 딱지 날개의 가운데와 바깥 가장자리를 따라 흰색의 세로 줄무늬가 나 있다. 가끔 전체가 흑색인 개체도 있으며, 더듬이의 밑쪼근 회백색, 윗쪽은 흑색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[몽골]\n[일본]\n[중국]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0296-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0296_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0296_2_th.jpg",
+      "alt": "삼하늘소 1번째 사진 : 삼하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0296_2_th2.jpg",
+      "caption": "삼하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBL0296-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0296_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0296_1_th.jpg",
+      "alt": "삼하늘소 2번째 사진 : 삼하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0296_1_th2.jpg",
+      "caption": "삼하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0296-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0301282097",
+      "description": "[UIBE0301282097] 삼하늘소 1973.08.23 / / 인천대학교"
+    },
+    {
+      "id": "KNAE0304142034",
+      "description": "[KNAE0304142034] 삼하늘소 1995.07.23 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304142035",
+      "description": "[KNAE0304142035] 삼하늘소 1995.08.11 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "삼나무",
+      "scientific_name": "Cryptomeria japonica (Thunb. ex L.f.) D.Don"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0296-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0296&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:43+00:00",
+    "html_sha256": "96327d9fe2f537f7aa69c76f9d7150e7b69126a516b8a32b3439bf8d521677e4",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

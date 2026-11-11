@@ -1,0 +1,110 @@
+{
+  "id": "ZOBH0407",
+  "name_ko": "노랑무늬먼지벌레",
+  "scientific_name": "Chlaenius (Lissauchenius) posticalis Motschulsky, 1854",
+  "display_name": "노랑무늬먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "먼지벌레아과",
+      "name_latin": "Harpalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Chlaenius"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 먼지벌레아과 (Harpalinae)\n속 : (Chlaenius)",
+  "basic_information": {
+    "곤충명": "노랑무늬먼지벌레",
+    "학명": "Chlaenius (Lissauchenius) posticalis Motschulsky, 1854"
+  },
+  "information": {
+    "general_description": "몸길이는 12~13mm이며 머리와 앞가슴등판은 적동색이고 딱지날개는 적록색 끝부분에 2개의 황색 점 무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 12~13mm이며 머리와 앞가슴등판은 적동색이고 딱지날개는 적록색 끝부분에 2개의 황색 점 무늬가 있다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0407-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0407_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0407_2_th.jpg",
+      "alt": "노랑무늬먼지벌레 1번째 사진 : 노랑무늬먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0407_2_th2.jpg",
+      "caption": "노랑무늬먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0407-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0407_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0407_1_th.jpg",
+      "alt": "노랑무늬먼지벌레 2번째 사진 : 노랑무늬먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0407_1_th2.jpg",
+      "caption": "노랑무늬먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0407-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0408171014",
+      "description": "[UIBE0408171014] 노랑무늬먼지벌레 1996.10.01 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0408171019",
+      "description": "[UIBE0408171019] 노랑무늬먼지벌레 1998.05.23 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0408171017",
+      "description": "[UIBE0408171017] 노랑무늬먼지벌레 1998.07.30 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBH0407.png",
+    "reference_image_id": "ZOBH0407-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T12:08:43.562388+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "2c1843439021a5144f4073d3bb49e5383c7b5bf73c94a04cd30d72a596a61de3"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0407&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:13+00:00",
+    "html_sha256": "c22e81839d23432987678000a16bd9cafcbd879d6bec208c9f4de8c4163c4299",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

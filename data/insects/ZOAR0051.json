@@ -1,0 +1,111 @@
+{
+  "id": "ZOAR0051",
+  "name_ko": "알락거위벌레",
+  "scientific_name": "Paroplapoderus (Gomadaranus) turbidus Voss, 1926",
+  "display_name": "알락거위벌레",
+  "family_ko": "거위벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "거위벌레과",
+      "name_latin": "Attelabidae"
+    },
+    "subfamily": {
+      "name_ko": "목거위벌레아과",
+      "name_latin": "Apoderinae"
+    },
+    "genus": {
+      "name_ko": "혹등목거위벌레속",
+      "name_latin": "Paroplapoderus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 거위벌레과 (Attelabidae)\n아과 : 목거위벌레아과 (Apoderinae)\n속 : 혹등목거위벌레속 (Paroplapoderus)",
+  "basic_information": {
+    "곤충명": "알락거위벌레",
+    "학명": "Paroplapoderus (Gomadaranus) turbidus Voss, 1926"
+  },
+  "information": {
+    "general_description": "한국, 중국에 분포하며, 체장은 6.0-6.5mm 정도이다. 체색은 황적색이며, 앞얼굴에는 검은 무늬가 있다. 겹눈 뒤에는 타원형의 검은 무늬가 있으며, 앞가슴등판의 등면에는 네 개의 검은 무늬가 있다. 눈을 포함한 머리는 길이에 비해 폭이 좁으며, 겁눈 뒤쪽으로 다소 움푹 들어가 있다. 이마에는 중앙에 세로로 홈이 있으며, 양쪽으로 약한 주름이 있다. 촉각은 주둥이의 측하면에 붙어 있으며, 첫번째 마디는 폭보다 길이가 2.5배정도 길며, 두번째 마디는 둥글고, 세번째 마디는 짧고 가늘다. 시초의 어깨부위에는 작은 원형의 돌기가 돌출되어 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "좀풍게나무, 팽나무류를 기주식물로 한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": "[보통종]\n[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 중국에 분포하며, 체장은 6.0-6.5mm 정도이다. 체색은 황적색이며, 앞얼굴에는 검은 무늬가 있다. 겹눈 뒤에는 타원형의 검은 무늬가 있으며, 앞가슴등판의 등면에는 네 개의 검은 무늬가 있다. 눈을 포함한 머리는 길이에 비해 폭이 좁으며, 겁눈 뒤쪽으로 다소 움푹 들어가 있다. 이마에는 중앙에 세로로 홈이 있으며, 양쪽으로 약한 주름이 있다. 촉각은 주둥이의 측하면에 붙어 있으며, 첫번째 마디는 폭보다 길이가 2.5배정도 길며, 두번째 마디는 둥글고, 세번째 마디는 짧고 가늘다. 시초의 어깨부위에는 작은 원형의 돌기가 돌출되어 있다."
+    },
+    {
+      "title": "생태",
+      "text": "좀풍게나무, 팽나무류를 기주식물로 한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]\n[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAR0051-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0051_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0051_1_th.jpg",
+      "alt": "알락거위벌레 1번째 사진 : 알락거위벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0051_1_th2.jpg",
+      "caption": "알락거위벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAR0051-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0204161384",
+      "description": "[SNUE0204161384] 알락거위벌레 1991.06.25 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0204161386",
+      "description": "[SNUE0204161386] 알락거위벌레 1981.08.11 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0204161387",
+      "description": "[SNUE0204161387] 알락거위벌레 1986.08.01 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAR0051-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAR0051&tabId=tab1",
+    "collected_at": "2026-11-04T14:14:25+00:00",
+    "html_sha256": "0800ec3bd892a5a1675c4a741ea432d0005c0a209fdaedf8d9a4d31b7f9132fc",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

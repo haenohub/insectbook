@@ -1,0 +1,117 @@
+{
+  "id": "ZOCF0007",
+  "name_ko": "긴더듬이주둥이바구미",
+  "scientific_name": "Eumyllocerus malignus (Faust, 1887)",
+  "display_name": "긴더듬이주둥이바구미",
+  "family_ko": "바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "바구미과",
+      "name_latin": "Curculionidae"
+    },
+    "subfamily": {
+      "name_ko": "줄바구미아과",
+      "name_latin": "Entiminae"
+    },
+    "genus": {
+      "name_ko": "긴더듬이주둥이바구미속",
+      "name_latin": "Eumyllocerus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 바구미과 (Curculionidae)\n아과 : 줄바구미아과 (Entiminae)\n속 : 긴더듬이주둥이바구미속 (Eumyllocerus)",
+  "basic_information": {
+    "곤충명": "긴더듬이주둥이바구미",
+    "학명": "Eumyllocerus malignus (Faust, 1887)"
+  },
+  "information": {
+    "general_description": "몸길이는 5~6.5mm이다. 약간 긴 원통형으로 주둥이는 매우 짧고 넓다. 더듬이는 매우 길며 유난히 긴 종류이다. 몸의 색깔은 흑색이며 더듬이는 적갈색이다 온몸이 금빛이 도는 녹색의 둥근 비늘조각으로 덮여있다. 수컷의 더듬이는 몸길이보다 기로고 앞다리 넓적다리마디의 앞쪽에는 돌기가 없다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 5~10월까지 볼수있다 떡갈나무류의 잎을 갉아먹는다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 5~6.5mm이다. 약간 긴 원통형으로 주둥이는 매우 짧고 넓다. 더듬이는 매우 길며 유난히 긴 종류이다. 몸의 색깔은 흑색이며 더듬이는 적갈색이다 온몸이 금빛이 도는 녹색의 둥근 비늘조각으로 덮여있다. 수컷의 더듬이는 몸길이보다 기로고 앞다리 넓적다리마디의 앞쪽에는 돌기가 없다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 5~10월까지 볼수있다 떡갈나무류의 잎을 갉아먹는다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCF0007-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0007_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0007_1_th.jpg",
+      "alt": "긴더듬이주둥이바구미 1번째 사진 : 긴더듬이주둥이바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0007_1_th2.jpg",
+      "caption": "긴더듬이주둥이바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCF0007-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0303261036",
+      "description": "[FRIE0303261036] 긴더듬이주둥이바구미 1974.06.17 / / 국립산림과학원"
+    },
+    {
+      "id": "UIBE0408191109",
+      "description": "[UIBE0408191109] 긴더듬이주둥이바구미 2000.05.13 / / 인천대학교"
+    },
+    {
+      "id": "KNAE0609012015",
+      "description": "[KNAE0609012015] 긴더듬이주둥이바구미 2001.05.06 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "떡갈나무",
+      "scientific_name": "Quercus dentata Thunb."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOCF0007.png",
+    "reference_image_id": "ZOCF0007-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T09:00:38.133578+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "7604829bd8c0c8ecbf57a8be620b84718e5efac063d90e898e052be535e645d0"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCF0007&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:59+00:00",
+    "html_sha256": "65c679c66db3638d2f10e795dfdccd17a7ce458bd415847f07a9d9ea8df4b341",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

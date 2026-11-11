@@ -1,0 +1,126 @@
+{
+  "id": "ZRDS0235",
+  "name_ko": "꼬마복숭아밤나방",
+  "scientific_name": "Etlorta edentata (Leech, 1889)",
+  "display_name": "꼬마복숭아밤나방",
+  "family_ko": "밤나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "밤나방과",
+      "name_latin": "Noctuidae"
+    },
+    "subfamily": {
+      "name_ko": "밤나방아과",
+      "name_latin": "Noctuinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Etlorta"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 밤나방과 (Noctuidae)\n아과 : 밤나방아과 (Noctuinae)\n속 : (Etlorta)",
+  "basic_information": {
+    "곤충명": "꼬마복숭아밤나방",
+    "학명": "Etlorta edentata (Leech, 1889)"
+  },
+  "information": {
+    "general_description": "날개편 길이 16～19mm. 앞날개의 시정은 약간 돌출되었으며, 외연의 물결모양 돌기는 매우 약하다. 뒷날개는 암회색 바탕으로 전연부 쪽은 담색을 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 11월경에 출현된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 16～19mm. 앞날개의 시정은 약간 돌출되었으며, 외연의 물결모양 돌기는 매우 약하다. 뒷날개는 암회색 바탕으로 전연부 쪽은 담색을 띤다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 11월경에 출현된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0235-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0235_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0235_2_th.jpg",
+      "alt": "꼬마복숭아밤나방 1번째 사진 : 꼬마복숭아밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0235_2_th2.jpg",
+      "caption": "꼬마복숭아밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDS0235-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0235_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0235_1_th.jpg",
+      "alt": "꼬마복숭아밤나방 2번째 사진 : 꼬마복숭아밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0235_1_th2.jpg",
+      "caption": "꼬마복숭아밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0235-1",
+  "specimen_examples": [
+    {
+      "id": "MPNE0408051030",
+      "description": "[MPNE0408051030] 꼬마복숭아밤나방 2002.10.13 / / 목포 대학교 환경연구소"
+    },
+    {
+      "id": "KNUE0208221051",
+      "description": "[KNUE0208221051] 꼬마복숭아밤나방 1999.10.20 / / 강원대학교"
+    },
+    {
+      "id": "KNUE0208221053",
+      "description": "[KNUE0208221053] 꼬마복숭아밤나방 1993.10.28 / / 강원대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDS0235.png",
+    "reference_image_id": "ZRDS0235-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T13:50:58.281052+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "55cd5d8f20e425299b248cd6b7531a7298870acdb38ac7fe67b5d6a69b456f62"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0235&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:39+00:00",
+    "html_sha256": "3443dc2148518d12a7d3d2f5dfdae78e8c01829b6f56ba7777fb1139179e6562",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

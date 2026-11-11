@@ -1,0 +1,111 @@
+{
+  "id": "ZLBI0001",
+  "name_ko": "게눈노린재",
+  "scientific_name": "Chauliops fallax Scott, 1874",
+  "display_name": "게눈노린재",
+  "family_ko": "뽕나무노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "긴노린재상과",
+      "name_latin": "Lygaeioidea"
+    },
+    "family": {
+      "name_ko": "뽕나무노린재과",
+      "name_latin": "Malcidae"
+    },
+    "subfamily": {
+      "name_ko": "게눈노린재아과",
+      "name_latin": "Chauliopinae"
+    },
+    "genus": {
+      "name_ko": "게눈노린재속",
+      "name_latin": "Chauliops"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 긴노린재상과 (Lygaeioidea)\n과 : 뽕나무노린재과 (Malcidae)\n아과 : 게눈노린재아과 (Chauliopinae)\n속 : 게눈노린재속 (Chauliops)",
+  "basic_information": {
+    "곤충명": "게눈노린재",
+    "학명": "Chauliops fallax Scott, 1874"
+  },
+  "information": {
+    "general_description": "몸길이 : 2.5-3mm\n몸은 연한 흑갈색이고 몸 전체에 긴 백색의 털이 있다. 머리는 작으나 겹눈은 흑색이고 현저한 자루 모양으로 돌출하여 마치 게 종류의 눈자루와 비슷하다.머리는 암갈색으로 양측부는 거의 흑색이고 머리의 첨단은 아래쪽으로 향한다. 더듬이는 4마디로 되어 있다. 앞가슴등판은 약간 볼록하고, 그 앞가장자리에 가깝게 위치한 2개의 가로 무늬와 옆모서리의 뒤쪽등은 흑갈색이다. 작은방패판은 흑갈색이며 융기되고, 앞쪽 2/3에 깊은 세로홈이 있다. 반시초는 연한 색이지만, 혁질부는 첨단부에 가깝게 불규칙한 흑갈색 무늬가 있고 그 첨단은 둥글고 막질부는 무색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "콩, 팥, 칡 등의 과 식물에 모인다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 2.5-3mm\n몸은 연한 흑갈색이고 몸 전체에 긴 백색의 털이 있다. 머리는 작으나 겹눈은 흑색이고 현저한 자루 모양으로 돌출하여 마치 게 종류의 눈자루와 비슷하다.머리는 암갈색으로 양측부는 거의 흑색이고 머리의 첨단은 아래쪽으로 향한다. 더듬이는 4마디로 되어 있다. 앞가슴등판은 약간 볼록하고, 그 앞가장자리에 가깝게 위치한 2개의 가로 무늬와 옆모서리의 뒤쪽등은 흑갈색이다. 작은방패판은 흑갈색이며 융기되고, 앞쪽 2/3에 깊은 세로홈이 있다. 반시초는 연한 색이지만, 혁질부는 첨단부에 가깝게 불규칙한 흑갈색 무늬가 있고 그 첨단은 둥글고 막질부는 무색이다."
+    },
+    {
+      "title": "생태",
+      "text": "콩, 팥, 칡 등의 과 식물에 모인다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLBI0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBI0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBI0001_1_th.jpg",
+      "alt": "게눈노린재 1번째 사진 : 게눈노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBI0001_1_th2.jpg",
+      "caption": "게눈노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLBI0001-1",
+  "specimen_examples": [
+    {
+      "id": "HNUE0408181023",
+      "description": "[HNUE0408181023] 게눈노린재 2002.06.03 / / 한남대학교 자연사박물관"
+    },
+    {
+      "id": "HNUE0408181024",
+      "description": "[HNUE0408181024] 게눈노린재 2002.06.03 / / 한남대학교 자연사박물관"
+    },
+    {
+      "id": "HNUE0408181026",
+      "description": "[HNUE0408181026] 게눈노린재 2002.06.03 / / 한남대학교 자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZLBI0001.png",
+    "reference_image_id": "ZLBI0001-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T12:08:47.910738+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "2d987e40e9ea4e229002fdedd9d61a7bb5c05a61d08c5f3135daaa7349be372f"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLBI0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:34+00:00",
+    "html_sha256": "7b58ae98e227685fece36b141dd31aff4e9d40108eaf74fabcea68de0a1952a9",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

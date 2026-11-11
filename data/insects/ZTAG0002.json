@@ -1,0 +1,114 @@
+{
+  "id": "ZTAG0002",
+  "name_ko": "어리꿀벌",
+  "scientific_name": "Colletes (Colletes) collaris Dours, 1872",
+  "display_name": "어리꿀벌",
+  "family_ko": "어리꿀벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "어리꿀벌과",
+      "name_latin": "Colletidae"
+    },
+    "subfamily": {
+      "name_ko": "어리꿀벌아과",
+      "name_latin": "Colletinae"
+    },
+    "genus": {
+      "name_ko": "어리꿀벌속",
+      "name_latin": "Colletes"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 어리꿀벌과 (Colletidae)\n아과 : 어리꿀벌아과 (Colletinae)\n속 : 어리꿀벌속 (Colletes)",
+  "basic_information": {
+    "곤충명": "어리꿀벌",
+    "학명": "Colletes (Colletes) collaris Dours, 1872"
+  },
+  "information": {
+    "general_description": "몸길이 11-12mm. 암컷은 몸이 흑색이고 큰 턱은 적흑색, 어깨판은 갈색이다. 날개는 투명하고, 다소 황갈색을 띠나 날개맥은 대부분은 흑갈색이고 연문은 등황색이다. 머리와 가슴에는 황백색 털이 촘촘히 나있다. 머리방패에는 불규칙한 세로 주름이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 11-12mm. 암컷은 몸이 흑색이고 큰 턱은 적흑색, 어깨판은 갈색이다. 날개는 투명하고, 다소 황갈색을 띠나 날개맥은 대부분은 흑갈색이고 연문은 등황색이다. 머리와 가슴에는 황백색 털이 촘촘히 나있다. 머리방패에는 불규칙한 세로 주름이 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0002_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0002_2_th.jpg",
+      "alt": "어리꿀벌 1번째 사진 : 어리꿀벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0002_2_th2.jpg",
+      "caption": "어리꿀벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTAG0002-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0002_1_th.jpg",
+      "alt": "어리꿀벌 2번째 사진 : 어리꿀벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0002_1_th2.jpg",
+      "caption": "어리꿀벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0002-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0111231011",
+      "description": "[YNUE0111231011] 어리꿀벌 1998.07.20 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0111231013",
+      "description": "[YNUE0111231013] 어리꿀벌 1987.04.16 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0201168087",
+      "description": "[YNUE0201168087] 어리꿀벌 1988.04.15 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAG0002-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:34+00:00",
+    "html_sha256": "957fe45cf2d62ad31ade542928dd581a94d3d18b52310ddd4526d2d8f42b0424",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

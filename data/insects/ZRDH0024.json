@@ -1,0 +1,248 @@
+{
+  "id": "ZRDH0024",
+  "name_ko": "매미나방",
+  "scientific_name": "Lymantria dispar (Linnaeus, 1758)",
+  "display_name": "매미나방",
+  "family_ko": "태극나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "태극나방과",
+      "name_latin": "Erebidae"
+    },
+    "subfamily": {
+      "name_ko": "독나방아과",
+      "name_latin": "Lymantriinae"
+    },
+    "genus": {
+      "name_ko": "매미나방속",
+      "name_latin": "Lymantria"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 태극나방과 (Erebidae)\n아과 : 독나방아과 (Lymantriinae)\n속 : 매미나방속 (Lymantria)",
+  "basic_information": {
+    "곤충명": "매미나방",
+    "학명": "Lymantria dispar (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "성충은 암수의 크기와 빛깔이 다르다.",
+    "adult": null,
+    "adult_male": "몸길이 17~21 mm, 날개 편 길이 41~54 mm이다. 더듬이는 닭털 모양으로 생겼으며 몸과 날개는 암갈색이고 날개 위에 구부러진 검은 무늬가 있다.",
+    "adult_female": "몸길이 20~40 mm, 날개 편 길이 78~93 mm이다. 날개와 몸은 갈색을 띤 백색이고 더듬이와 다리는 흑색이다. 날개에는 담흑색의 가로 띠무늬가 4개 있다.",
+    "larva": "유충의 몸길이는 55 mm 정도이며 머리는 황색이며 앞쪽에 八자형의 검은 무늬가 있다. 등 위 앞쪽의 돌기는 암청색이고 뒷쪽의 것은 암적색인데 각 돌기에는 검고 긴 털이 많이 나 있다.",
+    "egg": "알은 공 모양으로 1.7 mm 정도이며 암컷의 노란 털로 덮여 있다.",
+    "pupa": null,
+    "ecology": "난 기간은 약 9개월이고 4월 중순경 부화한 유충은 4~5일간 난괴 주위에 있다가 거미줄에 매달려 바람에 날려 분산한다. 유충 기간은 45~66일로 기주식물에 따라 차이가 있으며 6월 중순~7월 상순에 수관(樹冠)에서 나뭇잎을 말고 번데기가 된다. 번데기 기간은 15일 내외이며 7월 상순~8월 상순에 우화한다. 성충의 수명은 7~8일이며 나무 줄기에서 약 8시간 동안 교미한 후 암컷은 10시간 이내에 줄기 또는 가지에 무더기로 산란한다. 암컷은 몸이 무거워 멀리 날지 못하나 수컷은 활발하게 날며 밤낮으로 활발히 암컷을 찾아 다닌다. 암컷은 지상 1~6 m 높이의 수간(樹幹)에 80% 내외를 산란하며, 난괴 당 알 수는 평균 500개이고 성충의 체모로 덮여 있다.",
+    "habits": "산림이나 과수의 해충으로 오래 전부터 알려져 있으며 때때로 대발생한다. 유충이 여러 가지 활엽수와 침엽수의 잎을 식해하며, 유충 1마리가 1세대 동안 수컷이 700~1100 ㎠, 암컷이 1100~1800 ㎠의 참나무 잎을 먹는다. 북아메리카에서는 이 해충이 임목과 과수에 가장 피해가 심한 해충의 하나이다.",
+    "season": null,
+    "overwintering": "알로 수간에서 월동한다.",
+    "distribution": "[일본]\n[중국]\n[유럽]\n[미국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충은 암수의 크기와 빛깔이 다르다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "몸길이 17~21 mm, 날개 편 길이 41~54 mm이다. 더듬이는 닭털 모양으로 생겼으며 몸과 날개는 암갈색이고 날개 위에 구부러진 검은 무늬가 있다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "몸길이 20~40 mm, 날개 편 길이 78~93 mm이다. 날개와 몸은 갈색을 띤 백색이고 더듬이와 다리는 흑색이다. 날개에는 담흑색의 가로 띠무늬가 4개 있다."
+    },
+    {
+      "title": "유충",
+      "text": "유충의 몸길이는 55 mm 정도이며 머리는 황색이며 앞쪽에 八자형의 검은 무늬가 있다. 등 위 앞쪽의 돌기는 암청색이고 뒷쪽의 것은 암적색인데 각 돌기에는 검고 긴 털이 많이 나 있다."
+    },
+    {
+      "title": "생태",
+      "text": "난 기간은 약 9개월이고 4월 중순경 부화한 유충은 4~5일간 난괴 주위에 있다가 거미줄에 매달려 바람에 날려 분산한다. 유충 기간은 45~66일로 기주식물에 따라 차이가 있으며 6월 중순~7월 상순에 수관(樹冠)에서 나뭇잎을 말고 번데기가 된다. 번데기 기간은 15일 내외이며 7월 상순~8월 상순에 우화한다. 성충의 수명은 7~8일이며 나무 줄기에서 약 8시간 동안 교미한 후 암컷은 10시간 이내에 줄기 또는 가지에 무더기로 산란한다. 암컷은 몸이 무거워 멀리 날지 못하나 수컷은 활발하게 날며 밤낮으로 활발히 암컷을 찾아 다닌다. 암컷은 지상 1~6 m 높이의 수간(樹幹)에 80% 내외를 산란하며, 난괴 당 알 수는 평균 500개이고 성충의 체모로 덮여 있다."
+    },
+    {
+      "title": "습성",
+      "text": "산림이나 과수의 해충으로 오래 전부터 알려져 있으며 때때로 대발생한다. 유충이 여러 가지 활엽수와 침엽수의 잎을 식해하며, 유충 1마리가 1세대 동안 수컷이 700~1100 ㎠, 암컷이 1100~1800 ㎠의 참나무 잎을 먹는다. 북아메리카에서는 이 해충이 임목과 과수에 가장 피해가 심한 해충의 하나이다."
+    },
+    {
+      "title": "월동",
+      "text": "알로 수간에서 월동한다."
+    },
+    {
+      "title": "알",
+      "text": "알은 공 모양으로 1.7 mm 정도이며 암컷의 노란 털로 덮여 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[유럽]\n[미국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDH0024-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDH0024_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDH0024_3.jpg",
+      "alt": "매미나방 1번째 사진 : 매미나방 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDH0024_3_th2.jpg",
+      "caption": "매미나방 이미지",
+      "photographed_at": "20170804",
+      "location": null,
+      "photographer": "국립수목원(임종옥)"
+    },
+    {
+      "id": "ZRDH0024-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDH0024_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDH0024_2_th.jpg",
+      "alt": "매미나방 2번째 사진 : 매미나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDH0024_2_th2.jpg",
+      "caption": "매미나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDH0024-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDH0024_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDH0024_1_th.jpg",
+      "alt": "매미나방 3번째 사진 : 매미나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDH0024_1_th2.jpg",
+      "caption": "매미나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDH0024-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0304251062",
+      "description": "[FRIE0304251062] 매미나방 1995.08.11 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0302181051",
+      "description": "[KNAE0302181051] 매미나방 1998.07.13 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0302061044",
+      "description": "[KNAE0302061044] 매미나방 2000.08.13 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "감나무",
+      "scientific_name": "Diospyros kaki Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "느릅나무",
+      "scientific_name": "Ulmus davidiana var. japonica (Rehder) Nakai"
+    },
+    {
+      "group": "식물",
+      "name_ko": "매실나무",
+      "scientific_name": "Prunus mume (Siebold) Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "밤나무",
+      "scientific_name": "Castanea crenata Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "배롱나무",
+      "scientific_name": "Lagerstroemia indica L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "벚나무",
+      "scientific_name": "Prunus serrulata f. spontanea (Maxim.) Chin S.Chang"
+    },
+    {
+      "group": "식물",
+      "name_ko": "복사나무",
+      "scientific_name": "Prunus persica (L.) Batsch"
+    },
+    {
+      "group": "식물",
+      "name_ko": "사과나무",
+      "scientific_name": "Malus domestica (Suckow) Borkh."
+    },
+    {
+      "group": "식물",
+      "name_ko": "산돌배",
+      "scientific_name": "Pyrus ussuriensis Maxim. ex Rupr."
+    },
+    {
+      "group": "식물",
+      "name_ko": "석류나무",
+      "scientific_name": "Punica granatum L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "오리나무",
+      "scientific_name": "Alnus japonica (Thunb.) Steud."
+    },
+    {
+      "group": "식물",
+      "name_ko": "일본잎갈나무",
+      "scientific_name": "Larix kaempferi (Lamb.) Carrière"
+    },
+    {
+      "group": "식물",
+      "name_ko": "자두나무",
+      "scientific_name": "Prunus salicina Lindl."
+    },
+    {
+      "group": "식물",
+      "name_ko": "자작나무",
+      "scientific_name": "Betula pendula Roth"
+    },
+    {
+      "group": "식물",
+      "name_ko": "잣나무",
+      "scientific_name": "Pinus koraiensis Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "진달래",
+      "scientific_name": "Rhododendron mucronulatum Turcz."
+    },
+    {
+      "group": "식물",
+      "name_ko": "찔레꽃",
+      "scientific_name": "Rosa multiflora Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "해당화",
+      "scientific_name": "Rosa rugosa Thunb."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDH0024-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDH0024&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:49+00:00",
+    "html_sha256": "b951b5864af6a7a37456907ea010f3f8b5915365d95e758e133f345fde7a9fb2",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

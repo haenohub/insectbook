@@ -1,0 +1,114 @@
+{
+  "id": "ZOBH0039",
+  "name_ko": "제주홍단딱정벌레",
+  "scientific_name": "Coptolabrus smaragdinus monilifer (Tatum, 1847)",
+  "display_name": "제주홍단딱정벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "딱정벌레아과",
+      "name_latin": "Carabinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Coptolabrus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 딱정벌레아과 (Carabinae)\n속 : (Coptolabrus)",
+  "basic_information": {
+    "곤충명": "제주홍단딱정벌레",
+    "학명": "Coptolabrus smaragdinus monilifer (Tatum, 1847)"
+  },
+  "information": {
+    "general_description": "몸길이는 수컷은 33~35mm 암컷은 35~41mm 이며, 두부와 앞가슴 등판은 적색또는 암록색의 광택이 있고, 딱지날개는 어두운 붉은 색깔이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "포식성이며, 제주지역에 서식한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[포식성]\n[한국고유종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 수컷은 33~35mm 암컷은 35~41mm 이며, 두부와 앞가슴 등판은 적색또는 암록색의 광택이 있고, 딱지날개는 어두운 붉은 색깔이다."
+    },
+    {
+      "title": "생태",
+      "text": "포식성이며, 제주지역에 서식한다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[포식성]\n[한국고유종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0039-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0039_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0039_2_th.jpg",
+      "alt": "제주홍단딱정벌레 1번째 사진 : 제주홍단딱정벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0039_2_th2.jpg",
+      "caption": "제주홍단딱정벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0039-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0039_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0039_1_th.jpg",
+      "alt": "제주홍단딱정벌레 2번째 사진 : 제주홍단딱정벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0039_1_th2.jpg",
+      "caption": "제주홍단딱정벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0039-1",
+  "specimen_examples": [
+    {
+      "id": "JFNE0302271188",
+      "description": "[JFNE0302271188] 제주홍단딱정벌레 2002.10.12 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0302271189",
+      "description": "[JFNE0302271189] 제주홍단딱정벌레 2002.10.13 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0302271190",
+      "description": "[JFNE0302271190] 제주홍단딱정벌레 2002.10.14 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0039-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0039&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:38+00:00",
+    "html_sha256": "8719e5d6dfdaf753d56d7967d5a52cc92860542c9bae23bcfc3aca26b1710c22",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "ZEAA0045",
+  "name_ko": "검정무릎삽사리",
+  "scientific_name": "Podismopsis genicularibus (Shiraki, 1910)",
+  "display_name": "검정무릎삽사리",
+  "family_ko": "메뚜기과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "메뚜기목",
+      "name_latin": "Orthoptera"
+    },
+    "family": {
+      "name_ko": "메뚜기과",
+      "name_latin": "Acrididae"
+    },
+    "subfamily": {
+      "name_ko": "메뚜기아과",
+      "name_latin": "Acridinae"
+    },
+    "genus": {
+      "name_ko": "산삽사리속",
+      "name_latin": "Podismopsis"
+    }
+  },
+  "taxonomy_text": "목 : 메뚜기목 (Orthoptera)\n과 : 메뚜기과 (Acrididae)\n아과 : 메뚜기아과 (Acridinae)\n속 : 산삽사리속 (Podismopsis)",
+  "basic_information": {
+    "곤충명": "검정무릎삽사리",
+    "학명": "Podismopsis genicularibus (Shiraki, 1910)"
+  },
+  "information": {
+    "general_description": "몸길이는 19 mm 내외이다. 몸은 회황색이다. 더듬이는 적갈색이고 뒷머리의 양쪽은 암갈색이다. 앞가슴의 양쪽에 황백색인 1개의 세로 줄이 있고 그 아랫쪽은 암갈색이다. 수컷의 앞날개는 거의 말단에 달하고 그 날개 끝은 절단되었고 앞가두와 밑과 중맥은 암갈색이다. 꼬리마디는 원추형으로 되어 윗쪽으로 향하였다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아] 극동지역",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 19 mm 내외이다. 몸은 회황색이다. 더듬이는 적갈색이고 뒷머리의 양쪽은 암갈색이다. 앞가슴의 양쪽에 황백색인 1개의 세로 줄이 있고 그 아랫쪽은 암갈색이다. 수컷의 앞날개는 거의 말단에 달하고 그 날개 끝은 절단되었고 앞가두와 밑과 중맥은 암갈색이다. 꼬리마디는 원추형으로 되어 윗쪽으로 향하였다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아] 극동지역"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZEAA0045-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0045_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0045_1_th.jpg",
+      "alt": "검정무릎삽사리 1번째 사진 : 검정무릎삽사리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0045_1_th2.jpg",
+      "caption": "검정무릎삽사리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZEAA0045-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0407291024",
+      "description": "[MPME0407291024] 검정무릎삽사리 2002.07.21 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0407291025",
+      "description": "[MPME0407291025] 검정무릎삽사리 2002.07.21 / / 목포자연사박물관"
+    },
+    {
+      "id": "YNUE0201093007",
+      "description": "[YNUE0201093007] 검정무릎삽사리 1994.06.22 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZEAA0045.png",
+    "reference_image_id": "ZEAA0045-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T11:28:05.553641+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "16d4b0feddc5dab5d0f661f5e7538090159edbc4aa337e721ebf542e0a3fb647"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZEAA0045&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:19+00:00",
+    "html_sha256": "eb52e2f6e25401d9ac421847331233355e88b8316fab7662c277da2cb988afcb",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "ZTAT0030",
+  "name_ko": "왕청벌",
+  "scientific_name": "Stilbum cyanurum (Förster, 1771)",
+  "display_name": "왕청벌",
+  "family_ko": "청벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "청벌상과",
+      "name_latin": "Chrysidoidea"
+    },
+    "family": {
+      "name_ko": "청벌과",
+      "name_latin": "Chrysididae"
+    },
+    "subfamily": {
+      "name_ko": "청벌아과",
+      "name_latin": "Chrysidinae"
+    },
+    "genus": {
+      "name_ko": "왕청벌속",
+      "name_latin": "Stilbum"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 청벌상과 (Chrysidoidea)\n과 : 청벌과 (Chrysididae)\n아과 : 청벌아과 (Chrysidinae)\n속 : 왕청벌속 (Stilbum)",
+  "basic_information": {
+    "곤충명": "왕청벌",
+    "학명": "Stilbum cyanurum (Förster, 1771)"
+  },
+  "information": {
+    "general_description": "암컷은 12-16mm 정도이며, 아름다운 보라빛이 도는 바이올렛빛이고 얼굴, 앞가슴등판과 가슴의 옆판, 뒷가슴 양옆, 사이마디, 제1배마디등판, 끝을 제외한 배의 아래면은 청자색이고 때로는 광택이 많다. 머리와 배는 백색 털이 났고 가슴은 암회색 털로 덮였다. 4개의 이는 크고 예리하다",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[인도]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷은 12-16mm 정도이며, 아름다운 보라빛이 도는 바이올렛빛이고 얼굴, 앞가슴등판과 가슴의 옆판, 뒷가슴 양옆, 사이마디, 제1배마디등판, 끝을 제외한 배의 아래면은 청자색이고 때로는 광택이 많다. 머리와 배는 백색 털이 났고 가슴은 암회색 털로 덮였다. 4개의 이는 크고 예리하다"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[인도]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAT0030-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAT0030_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAT0030_1_th.jpg",
+      "alt": "왕청벌 1번째 사진 : 왕청벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAT0030_1_th2.jpg",
+      "caption": "왕청벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAT0030-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305201010",
+      "description": "[YNUE0305201010] 왕청벌 1991.08.28 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305201011",
+      "description": "[YNUE0305201011] 왕청벌 1967.08.29 / / 영남대학교"
+    },
+    {
+      "id": "GSNE0408272230",
+      "description": "[GSNE0408272230] 왕청벌 1999.05.22 / / 경상대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAT0030-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAT0030&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:46+00:00",
+    "html_sha256": "d6251cfb5013ecb995c3756bf0f2230471b5e851aac0e15193fde1cfcbb3a16c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

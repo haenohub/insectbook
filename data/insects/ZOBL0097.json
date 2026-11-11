@@ -1,0 +1,135 @@
+{
+  "id": "ZOBL0097",
+  "name_ko": "깨엿하늘소",
+  "scientific_name": "Obrium obscuripenne obscuripenne Pic, 1904",
+  "display_name": "깨엿하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "하늘소아과",
+      "name_latin": "Cerambycinae"
+    },
+    "genus": {
+      "name_ko": "엿하늘소속",
+      "name_latin": "Obrium"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 하늘소아과 (Cerambycinae)\n속 : 엿하늘소속 (Obrium)",
+  "basic_information": {
+    "곤충명": "깨엿하늘소",
+    "학명": "Obrium obscuripenne obscuripenne Pic, 1904"
+  },
+  "information": {
+    "general_description": "체장 5.0~6.0 mm. 몸은 대체로 편평하고 소형종이다. 색체와 형태는 지리적인 변이가 많다. 머리는 크고 너비는 앞가슴등판의 너비보다 넓다. 겹눈은 측면으로 강하게 돌출되어 있다. 겹눈사이는 넓다. 더듬이 1마디는 짧은 연모로 밀생한다. 앞가슴등판은 딱지날개 길이의 약 1.25~0.30배이다. 측면 돌기는 강하게 잘 발달되어 있다. 등판에는 미세한 점각들이 밀생한다.",
+    "adult": null,
+    "adult_male": "뚜렷한 성적이형이 알려지지 않았다.",
+    "adult_female": "뚜렷한 성적이형이 알려지지 않았다.",
+    "larva": "유충에 대한 특징이 알려지지 않았다.",
+    "egg": "알에 대한 특징이 알려지지 않았다.",
+    "pupa": "번데기에 대한 형태특징이 알려지지 않았다.",
+    "ecology": null,
+    "habits": "광엽수 벌채목과 다양한 곳에 모이는 습성이 있다.",
+    "season": null,
+    "overwintering": "유충",
+    "distribution": null,
+    "notes": null,
+    "pest_control": "경제적 피해 유발 해충으로 알려져 있지 않아, 종 특이적 방제법은 현재까지 없다.",
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체장 5.0~6.0 mm. 몸은 대체로 편평하고 소형종이다. 색체와 형태는 지리적인 변이가 많다. 머리는 크고 너비는 앞가슴등판의 너비보다 넓다. 겹눈은 측면으로 강하게 돌출되어 있다. 겹눈사이는 넓다. 더듬이 1마디는 짧은 연모로 밀생한다. 앞가슴등판은 딱지날개 길이의 약 1.25~0.30배이다. 측면 돌기는 강하게 잘 발달되어 있다. 등판에는 미세한 점각들이 밀생한다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "뚜렷한 성적이형이 알려지지 않았다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "뚜렷한 성적이형이 알려지지 않았다."
+    },
+    {
+      "title": "번데기",
+      "text": "번데기에 대한 형태특징이 알려지지 않았다."
+    },
+    {
+      "title": "유충",
+      "text": "유충에 대한 특징이 알려지지 않았다."
+    },
+    {
+      "title": "습성",
+      "text": "광엽수 벌채목과 다양한 곳에 모이는 습성이 있다."
+    },
+    {
+      "title": "월동",
+      "text": "유충"
+    },
+    {
+      "title": "방제법",
+      "text": "경제적 피해 유발 해충으로 알려져 있지 않아, 종 특이적 방제법은 현재까지 없다."
+    },
+    {
+      "title": "알",
+      "text": "알에 대한 특징이 알려지지 않았다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0097-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0097_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0097_1_th.jpg",
+      "alt": "깨엿하늘소 1번째 사진 : 깨엿하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0097_1_th2.jpg",
+      "caption": "깨엿하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0097-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0304251050",
+      "description": "[FRIE0304251050] 깨엿하늘소 1995.08.15 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0911091163",
+      "description": "[KNAE0911091163] 깨엿하늘소 2007.05.01 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0804150058",
+      "description": "[KNAE0804150058] 깨엿하늘소 2007.05.15 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBL0097.png",
+    "reference_image_id": "ZOBL0097-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T10:14:30.853312+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "62d1a06747b3c2d4792f7bb6bf0b546bc796dc35bc78c4bf8a6a3d931ae06e6f"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0097&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:22+00:00",
+    "html_sha256": "fffb13f7866f2472694be0f0fb046414e3382fb17e29d4d0a67dbf2af39f804a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

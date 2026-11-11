@@ -1,0 +1,103 @@
+{
+  "id": "ZRDS0567",
+  "name_ko": "뒤흰날개밤나방",
+  "scientific_name": "Aedia leucomelas (Linnaeus, 1758)",
+  "display_name": "뒤흰날개밤나방",
+  "family_ko": "밤나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "밤나방과",
+      "name_latin": "Noctuidae"
+    },
+    "subfamily": {
+      "name_ko": "뒷흰날개밤나방아과",
+      "name_latin": "Aedia"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Aedia"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 밤나방과 (Noctuidae)\n아과 : 뒷흰날개밤나방아과 (Aedia)\n속 : (Aedia)",
+  "basic_information": {
+    "곤충명": "뒤흰날개밤나방",
+    "학명": "Aedia leucomelas (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "수컷의 더듬이는 섬모상이며, 뒷가슴과 배의 제1마디, 제3마디의 등쪽면에는 털뭉치가 나 있음. 앞날개는 흑갈색 바탕인데 회갈색의 인모가 섞여 있음. 내횡선과 외횡선은 흑색을 띠며, 내횡선의 안쪽과 외횡선의 바깥쪽에는 가는 갈색 선이 접하여 있음. 가락지 모양 무늬와 콩팥 모양 무늬는 약간 담색을 띠며, 쐐기 모양 무늬는 흑색을 띠나 뚜렷하지 않음. 콩팥 모양 무늬의 주변에는 작은 담색 무늬가 여러 개 모여 있음. 아외연선은 담색을 띠며, 외연은 흑색 점의 열로 되었음.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "수컷의 더듬이는 섬모상이며, 뒷가슴과 배의 제1마디, 제3마디의 등쪽면에는 털뭉치가 나 있음. 앞날개는 흑갈색 바탕인데 회갈색의 인모가 섞여 있음. 내횡선과 외횡선은 흑색을 띠며, 내횡선의 안쪽과 외횡선의 바깥쪽에는 가는 갈색 선이 접하여 있음. 가락지 모양 무늬와 콩팥 모양 무늬는 약간 담색을 띠며, 쐐기 모양 무늬는 흑색을 띠나 뚜렷하지 않음. 콩팥 모양 무늬의 주변에는 작은 담색 무늬가 여러 개 모여 있음. 아외연선은 담색을 띠며, 외연은 흑색 점의 열로 되었음."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0567-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0567_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0567_1_th.jpg",
+      "alt": "뒤흰날개밤나방 1번째 사진 : 뒤흰날개밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0567_1_th2.jpg",
+      "caption": "뒤흰날개밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0567-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE660881",
+      "description": "[KNAE660881] 뒤흰날개밤나방 / / 국립수목원"
+    },
+    {
+      "id": "JFNE0201271070",
+      "description": "[JFNE0201271070] 뒤흰날개밤나방 1993.06.29 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0201271071",
+      "description": "[JFNE0201271071] 뒤흰날개밤나방 1993.07.06 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDS0567-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0567&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:58+00:00",
+    "html_sha256": "70594d7fecf7ba3867b2bbfb018557e75e675c7c111eb45524d0032a016287f4",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

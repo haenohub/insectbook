@@ -1,0 +1,123 @@
+{
+  "id": "ZRCI0383",
+  "name_ko": "네줄점가지나방",
+  "scientific_name": "Xerodes semilutata (Lederer, 1853)",
+  "display_name": "네줄점가지나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "가지나방아과",
+      "name_latin": "Ennominae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Xerodes"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 가지나방아과 (Ennominae)\n속 : (Xerodes)",
+  "basic_information": {
+    "곤충명": "네줄점가지나방",
+    "학명": "Xerodes semilutata (Lederer, 1853)"
+  },
+  "information": {
+    "general_description": "청평, 계룡산, 지리산과 한국, 일본, 아무르에 분포한다.\n더듬이는 암수가 모두 실 모양이다. 날개의 바탕색은 회갈색, 적갈색 혹은 황색으로 변이가 많고, 무늬의 강약도 여러 가지의 단계가 있다.\n앞날개의 중횡선은 띠 모양이고 직선적으로 전연에 이르지 못한다. 외횡선의 바깥쪽 제 3실(M3)에는 갈색 혹은 흑갈색 무늬가 있는 것이 보통이다.\n날개길이 : 32mm",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 5월과 7월에 출현한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "청평, 계룡산, 지리산과 한국, 일본, 아무르에 분포한다.\n더듬이는 암수가 모두 실 모양이다. 날개의 바탕색은 회갈색, 적갈색 혹은 황색으로 변이가 많고, 무늬의 강약도 여러 가지의 단계가 있다.\n앞날개의 중횡선은 띠 모양이고 직선적으로 전연에 이르지 못한다. 외횡선의 바깥쪽 제 3실(M3)에는 갈색 혹은 흑갈색 무늬가 있는 것이 보통이다.\n날개길이 : 32mm"
+    },
+    {
+      "title": "생태",
+      "text": "성충은 5월과 7월에 출현한다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0383-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0383_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0383_2_th.jpg",
+      "alt": "네줄점가지나방 1번째 사진 : 네줄점가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0383_2_th2.jpg",
+      "caption": "네줄점가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0383-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0383_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0383_1_th.jpg",
+      "alt": "네줄점가지나방 2번째 사진 : 네줄점가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0383_1_th2.jpg",
+      "caption": "네줄점가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0383-1",
+  "specimen_examples": [
+    {
+      "id": "KNUE0201241108",
+      "description": "[KNUE0201241108] 네줄점가지나방 1991.05.17 / / 강원대학교"
+    },
+    {
+      "id": "KNUE0201241109",
+      "description": "[KNUE0201241109] 네줄점가지나방 1991.05.17 / / 강원대학교"
+    },
+    {
+      "id": "KNUE0201241111",
+      "description": "[KNUE0201241111] 네줄점가지나방 1991.05.17 / / 강원대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRCI0383.png",
+    "reference_image_id": "ZRCI0383-2",
+    "reference_review_note": "날개와 몸이 더 온전한 두 번째 표본 선택; 더듬이 끝과 숨은 다리는 복원 후 형태 검토 필요",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T11:08:56.940620+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "3f6c935bb2c496807e26ad9a564bb6b95487b9846e8a6c8c86cb6df08d2218fd"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0383&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:54+00:00",
+    "html_sha256": "eb33e09fd25a8f075bf326b2b8c27d4e915937f2dea3dda77bc51d49ee66b07e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

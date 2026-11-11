@@ -1,0 +1,122 @@
+{
+  "id": "ZSEM0085",
+  "name_ko": "검정대모꽃등에",
+  "scientific_name": "Volucella nigricans Coquillett, 1898",
+  "display_name": "검정대모꽃등에",
+  "family_ko": "꽃등에과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "꽃등에상과",
+      "name_latin": "Syrphoidea"
+    },
+    "family": {
+      "name_ko": "꽃등에과",
+      "name_latin": "Syrphidae"
+    },
+    "subfamily": {
+      "name_ko": "순꽃등에아과",
+      "name_latin": "Eristalinae"
+    },
+    "genus": {
+      "name_ko": "대모꽃등에속",
+      "name_latin": "Volucella"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 꽃등에상과 (Syrphoidea)\n과 : 꽃등에과 (Syrphidae)\n아과 : 순꽃등에아과 (Eristalinae)\n속 : 대모꽃등에속 (Volucella)",
+  "basic_information": {
+    "곤충명": "검정대모꽃등에",
+    "학명": "Volucella nigricans Coquillett, 1898"
+  },
+  "information": {
+    "general_description": "몸길이는 19~21 mm이다. 몸은 크고 흑색이며 광택이 난다. 가슴등판은 폭보다 약간 길고, 어깨는 오렌지색이다. 날개는 크고, 기부의 1/2은 오렌지색이고 나머지는 검다. 중앙에 흑갈색의 큰 방형 무늬가 있고 끝앞 가장자리에는 암색의 큰 무늬가 있다. 다리는 가늘고 흑색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "6~9월에 흔히 채집된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[대만]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 19~21 mm이다. 몸은 크고 흑색이며 광택이 난다. 가슴등판은 폭보다 약간 길고, 어깨는 오렌지색이다. 날개는 크고, 기부의 1/2은 오렌지색이고 나머지는 검다. 중앙에 흑갈색의 큰 방형 무늬가 있고 끝앞 가장자리에는 암색의 큰 무늬가 있다. 다리는 가늘고 흑색이다."
+    },
+    {
+      "title": "생태",
+      "text": "6~9월에 흔히 채집된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[대만]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSEM0085-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0085_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0085_2_th.jpg",
+      "alt": "검정대모꽃등에 1번째 사진 : 검정대모꽃등에전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0085_2_th2.jpg",
+      "caption": "검정대모꽃등에전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZSEM0085-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0085_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0085_1_th.jpg",
+      "alt": "검정대모꽃등에 2번째 사진 : 검정대모꽃등에전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0085_1_th2.jpg",
+      "caption": "검정대모꽃등에전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSEM0085-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0307201010",
+      "description": "[KUIE0307201010] 검정대모꽃등에 1982.07.05 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307201009",
+      "description": "[KUIE0307201009] 검정대모꽃등에 1983.07.12 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307201001",
+      "description": "[KUIE0307201001] 검정대모꽃등에 1984.06.22 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZSEM0085.png",
+    "reference_image_id": "ZSEM0085-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T11:12:51.593908+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "3dc6abb39deadee2e8b2b4e671204d9977ede839be4626dd05ba07e9f24545f3"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSEM0085&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:13+00:00",
+    "html_sha256": "d273b31d42d7c97e54dd42bf1d225cdfe034dc7874b9dcd8780b4e3351782085",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

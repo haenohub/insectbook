@@ -1,0 +1,103 @@
+{
+  "id": "ZOBH0309",
+  "name_ko": "일본머리먼지벌레",
+  "scientific_name": "Nipponoharpalus discrepans (Morawitz, 1862)",
+  "display_name": "일본머리먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "먼지벌레아과",
+      "name_latin": "Harpalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Nipponoharpalus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 먼지벌레아과 (Harpalinae)\n속 : (Nipponoharpalus)",
+  "basic_information": {
+    "곤충명": "일본머리먼지벌레",
+    "학명": "Nipponoharpalus discrepans (Morawitz, 1862)"
+  },
+  "information": {
+    "general_description": "체색은 전체적으로 흙색이며 윤기가 난다. 하순과 대악은 어두운 붉은 갈색이며, 배면은 검은색을 띤다.\n두부의 형태는 볼록하고, 상순의 정점은 돌출된 형태이며 하순의 중간에 있는 돌기는 약간 돌출되어 있는 형상을 띤다.\n날개는 잘 발달되어 있으며, 볼록한 형상의 시초와 난형이다. 이들은 한국, 일본, 북중국 등지에 분포한다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체색은 전체적으로 흙색이며 윤기가 난다. 하순과 대악은 어두운 붉은 갈색이며, 배면은 검은색을 띤다.\n두부의 형태는 볼록하고, 상순의 정점은 돌출된 형태이며 하순의 중간에 있는 돌기는 약간 돌출되어 있는 형상을 띤다.\n날개는 잘 발달되어 있으며, 볼록한 형상의 시초와 난형이다. 이들은 한국, 일본, 북중국 등지에 분포한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0309-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0309_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0309_1_th.jpg",
+      "alt": "일본머리먼지벌레 1번째 사진 : 일본머리먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0309_1_th2.jpg",
+      "caption": "일본머리먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0309-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0304251044",
+      "description": "[FRIE0304251044] 일본머리먼지벌레 1995.08.14 / / 국립산림과학원"
+    },
+    {
+      "id": "KPNE0302131128",
+      "description": "[KPNE0302131128] 일본머리먼지벌레 1981.05.28 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0302131127",
+      "description": "[KPNE0302131127] 일본머리먼지벌레 1969.08.09 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0309-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0309&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:37+00:00",
+    "html_sha256": "d9b6f64c45103f1b3531789e1555d3b984dcdba41e6aace76eebc9dd39bbe3b3",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

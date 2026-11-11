@@ -1,0 +1,121 @@
+{
+  "id": "ZRCI0167",
+  "name_ko": "가운데흰물결자나방",
+  "scientific_name": "Euphyia cineraria (Butler, 1878)",
+  "display_name": "가운데흰물결자나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "물결자나방아과",
+      "name_latin": "Larentiinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Euphyia"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 물결자나방아과 (Larentiinae)\n속 : (Euphyia)",
+  "basic_information": {
+    "곤충명": "가운데흰물결자나방",
+    "학명": "Euphyia cineraria (Butler, 1878)"
+  },
+  "information": {
+    "general_description": "더듬이는 수컷이 미모상이고, 암컷은 실 모양이다. 앞날개의 2/3는 흑갈색인데, 그 색깔이 암컷은 연하나 수컷은 짙고,횡선은 명료하지않다 아기선은 톱니모양이고, 내횡선과 외황선은 2-3개의 흑색 물결 모양의 선으로 이루어져 있다. 외횡선의 외연은 제3중맥상에서 모서리지며, 그 바깥쪽은 넓게 유백색을 띤다.아외연선은 백색이며 톱니모양이다. 외연부는 흑갈색으로 시정 아래 및 제3실 부근에 백색무늬가 있으며, 개체에 따라서는 백색 띠에까지 이른다. 뒷날개는 고르게 담흑색이다. 뒷면은 앞면과 같은 무늬를 나타낸다.성충은 8월에 출현한다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 수컷이 미모상이고, 암컷은 실 모양이다. 앞날개의 2/3는 흑갈색인데, 그 색깔이 암컷은 연하나 수컷은 짙고,횡선은 명료하지않다 아기선은 톱니모양이고, 내횡선과 외황선은 2-3개의 흑색 물결 모양의 선으로 이루어져 있다. 외횡선의 외연은 제3중맥상에서 모서리지며, 그 바깥쪽은 넓게 유백색을 띤다.아외연선은 백색이며 톱니모양이다. 외연부는 흑갈색으로 시정 아래 및 제3실 부근에 백색무늬가 있으며, 개체에 따라서는 백색 띠에까지 이른다. 뒷날개는 고르게 담흑색이다. 뒷면은 앞면과 같은 무늬를 나타낸다.성충은 8월에 출현한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0167-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0167_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0167_2_th.jpg",
+      "alt": "가운데흰물결자나방 1번째 사진 : 가운데흰물결자나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0167_2_th2.jpg",
+      "caption": "가운데흰물결자나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0167-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0167_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0167_1_th.jpg",
+      "alt": "가운데흰물결자나방 2번째 사진 : 가운데흰물결자나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0167_1_th2.jpg",
+      "caption": "가운데흰물결자나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0167-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0409091012",
+      "description": "[KNAE0409091012] 가운데흰물결자나방 1998.06.29 / / 국립수목원"
+    },
+    {
+      "id": "KNUE0212281570",
+      "description": "[KNUE0212281570] 가운데흰물결자나방 1994.08.05 / / 강원대학교"
+    },
+    {
+      "id": "KNUE0212261589",
+      "description": "[KNUE0212261589] 가운데흰물결자나방 1994.05.16 / / 강원대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRCI0167.png",
+    "reference_image_id": "ZRCI0167-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T15:38:47.870345+00:00",
+    "sha256": "01cefd6a1abf6351e66835ab5aef0adcacc9e8f83b3b8a2a1588c4716be76e12"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0167&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:15+00:00",
+    "html_sha256": "86e262981159d0496530a21011e0ba7c56315ee29a7162a7237b475a862690e8",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": "ZOBH0035",
+  "name_ko": "진홍단딱정벌레",
+  "scientific_name": "Coptolabrus smaragdinus branickii (Taczanowski, 1888)",
+  "display_name": "진홍단딱정벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "딱정벌레아과",
+      "name_latin": "Carabinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Coptolabrus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 딱정벌레아과 (Carabinae)\n속 : (Coptolabrus)",
+  "basic_information": {
+    "곤충명": "진홍단딱정벌레",
+    "학명": "Coptolabrus smaragdinus branickii (Taczanowski, 1888)"
+  },
+  "information": {
+    "general_description": "몸의 길이는 40mm 내외이며, 색깔변이가 심하다. 대체로 몸전체가 붉은색이며, 광택이 강하다. 일부종은 딱지날개가 초록빛을 띠는 것도 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "포식성이며, 활엽수림이 발달된 곳에 서식한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[포식성]\n[한국고유종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의 길이는 40mm 내외이며, 색깔변이가 심하다. 대체로 몸전체가 붉은색이며, 광택이 강하다. 일부종은 딱지날개가 초록빛을 띠는 것도 있다."
+    },
+    {
+      "title": "생태",
+      "text": "포식성이며, 활엽수림이 발달된 곳에 서식한다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[포식성]\n[한국고유종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0035-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0035_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0035_2_th.jpg",
+      "alt": "진홍단딱정벌레 1번째 사진 : 진홍단딱정벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0035_2_th2.jpg",
+      "caption": "진홍단딱정벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0035-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0035_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0035_1_th.jpg",
+      "alt": "진홍단딱정벌레 2번째 사진 : 진홍단딱정벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0035_1_th2.jpg",
+      "caption": "진홍단딱정벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0035-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0304171024",
+      "description": "[FRIE0304171024] 진홍단딱정벌레 2001.09.27 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0304171023",
+      "description": "[FRIE0304171023] 진홍단딱정벌레 2001.09.26 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0304171021",
+      "description": "[FRIE0304171021] 진홍단딱정벌레 2001.10.17 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0035-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0035&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:38+00:00",
+    "html_sha256": "6d87dedc31c35766b1029c35684c014bddc881704709d67f3c1200a5ccd924b3",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

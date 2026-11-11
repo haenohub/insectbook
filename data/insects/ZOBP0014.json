@@ -1,0 +1,134 @@
+{
+  "id": "ZOBP0014",
+  "name_ko": "검정꽃무지",
+  "scientific_name": "Glycyphana fulvistemma Motschulsky, 1860",
+  "display_name": "검정꽃무지",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "꽃무지아과",
+      "name_latin": "Cetoniinae"
+    },
+    "genus": {
+      "name_ko": "검정꽃무지속",
+      "name_latin": "Glycyphana"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 꽃무지아과 (Cetoniinae)\n속 : 검정꽃무지속 (Glycyphana)",
+  "basic_information": {
+    "곤충명": "검정꽃무지",
+    "학명": "Glycyphana fulvistemma Motschulsky, 1860"
+  },
+  "information": {
+    "general_description": "중국, 시베리아, 일본에 분포한다. 몸은 흑색인데 윗면은 검은 가루가 덮여 우단모양이며, 딱지날개의 가운데는 부정형의 담황색 가로무늬가 있다. 머리방패의 앞쪽은 좁고, 약간 상반하였으며 가운데가 파였다. 앞가슴등판의 양옆에는 말굽 모양의 점각이 흩어져 있고, 기부 양쪽에는 주름상의 인각과 둥근 함몰부가 있다. 중흉돌기는 짧으나 폭은 매우 넓은 양파모양이고, 중흉후측판은 거칠게 주름졌고, 짧은 털이 미생하였다. 수컷의 전경절은 좁고, 제 3외치는 흔적적이나 암컷은 보다 넓고, 제 3외치도 뚜렷하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중국, 시베리아, 일본에 분포한다. 몸은 흑색인데 윗면은 검은 가루가 덮여 우단모양이며, 딱지날개의 가운데는 부정형의 담황색 가로무늬가 있다. 머리방패의 앞쪽은 좁고, 약간 상반하였으며 가운데가 파였다. 앞가슴등판의 양옆에는 말굽 모양의 점각이 흩어져 있고, 기부 양쪽에는 주름상의 인각과 둥근 함몰부가 있다. 중흉돌기는 짧으나 폭은 매우 넓은 양파모양이고, 중흉후측판은 거칠게 주름졌고, 짧은 털이 미생하였다. 수컷의 전경절은 좁고, 제 3외치는 흔적적이나 암컷은 보다 넓고, 제 3외치도 뚜렷하다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBP0014-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBP0014_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBP0014_2_th.jpg",
+      "alt": "검정꽃무지 1번째 사진 : 검정꽃무지전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBP0014_2_th2.jpg",
+      "caption": "검정꽃무지전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBP0014-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBP0014_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBP0014_1_th.jpg",
+      "alt": "검정꽃무지 2번째 사진 : 검정꽃무지전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBP0014_1_th2.jpg",
+      "caption": "검정꽃무지전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBP0014-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304092049",
+      "description": "[KNAE0304092049] 검정꽃무지 1994.05.30 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0301242062",
+      "description": "[KNAE0301242062] 검정꽃무지 1992.05.01 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0301242063",
+      "description": "[KNAE0301242063] 검정꽃무지 1990.10.09 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "복사나무",
+      "scientific_name": "Prunus persica (L.) Batsch"
+    },
+    {
+      "group": "식물",
+      "name_ko": "포도",
+      "scientific_name": "Vitis vinifera L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "해당화",
+      "scientific_name": "Rosa rugosa Thunb."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBP0014.png",
+    "reference_image_id": "ZOBP0014-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T11:14:53.548179+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "772e462acb21ced0d70779302409f0a7004494d7818716119e9a0470775e3c14"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBP0014&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:10+00:00",
+    "html_sha256": "a05e19a3171a8a50434084033762ff00683d0c1a6b6899dddc91c9d2f2595a2d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

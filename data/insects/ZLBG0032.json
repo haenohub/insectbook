@@ -1,0 +1,103 @@
+{
+  "id": "ZLBG0032",
+  "name_ko": "등판꼬마긴노린재",
+  "scientific_name": "Iodinus ferrugineus Lindberg, 1927",
+  "display_name": "등판꼬마긴노린재",
+  "family_ko": "무늬긴노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "긴노린재상과",
+      "name_latin": "Lygaeioidea"
+    },
+    "family": {
+      "name_ko": "무늬긴노린재과",
+      "name_latin": "Rhyparochromidae"
+    },
+    "subfamily": {
+      "name_ko": "좁쌀긴노린재아과",
+      "name_latin": "Plinthisinae"
+    },
+    "genus": {
+      "name_ko": "등판꼬마긴노린재속",
+      "name_latin": "Iodinus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 긴노린재상과 (Lygaeioidea)\n과 : 무늬긴노린재과 (Rhyparochromidae)\n아과 : 좁쌀긴노린재아과 (Plinthisinae)\n속 : 등판꼬마긴노린재속 (Iodinus)",
+  "basic_information": {
+    "곤충명": "등판꼬마긴노린재",
+    "학명": "Iodinus ferrugineus Lindberg, 1927"
+  },
+  "information": {
+    "general_description": "몸길이 : 2.5-2.8mm\n머리는 흑색이고, 겹눈은 암갈흑색이며, 점각이 산포되어 있다. 앞가슴등판은 크고 앞가장자리 부분의 폭은 머리의 폭보다 넓고, 양 옆가장자리의 전반은 약간 팽출되며 뒷가장자리의 작은방패판과 접하는 부분은 만입되어 있다. 작은방패판은 크고 흑색이며, 삼각형이고, 말단은 연한 색인 개체도 있다. 반시초는 배끝에 달하지 못하고, 흑갈색이다. 조상부와 혁질부의 조상부연은 점각이 수열로 병렬되고 막질부는 투명하며 하부가 투시되어 암색으로 보인다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 2.5-2.8mm\n머리는 흑색이고, 겹눈은 암갈흑색이며, 점각이 산포되어 있다. 앞가슴등판은 크고 앞가장자리 부분의 폭은 머리의 폭보다 넓고, 양 옆가장자리의 전반은 약간 팽출되며 뒷가장자리의 작은방패판과 접하는 부분은 만입되어 있다. 작은방패판은 크고 흑색이며, 삼각형이고, 말단은 연한 색인 개체도 있다. 반시초는 배끝에 달하지 못하고, 흑갈색이다. 조상부와 혁질부의 조상부연은 점각이 수열로 병렬되고 막질부는 투명하며 하부가 투시되어 암색으로 보인다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLBG0032-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBG0032_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBG0032_1_th.jpg",
+      "alt": "등판꼬마긴노린재 1번째 사진 : 등판꼬마긴노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBG0032_1_th2.jpg",
+      "caption": "등판꼬마긴노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLBG0032-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE108557",
+      "description": "[KNAE108557] 등판꼬마긴노린재 / / 국립수목원"
+    },
+    {
+      "id": "KNAE108696",
+      "description": "[KNAE108696] 등판꼬마긴노린재 / / 국립수목원"
+    },
+    {
+      "id": "HNUE0408181027",
+      "description": "[HNUE0408181027] 등판꼬마긴노린재 2002.05.02 / / 한남대학교 자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLBG0032-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLBG0032&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:19+00:00",
+    "html_sha256": "4a72e08da8b20bdc5ed3845c96cf5332d0511bc7fce8c6fcef1e3e35c748bec5",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

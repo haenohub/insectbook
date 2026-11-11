@@ -1,0 +1,118 @@
+{
+  "id": "ZRDH0001",
+  "name_ko": "상제독나방",
+  "scientific_name": "Arctornis album (Bremer, 1861)",
+  "display_name": "상제독나방",
+  "family_ko": "태극나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "태극나방과",
+      "name_latin": "Erebidae"
+    },
+    "subfamily": {
+      "name_ko": "독나방아과",
+      "name_latin": "Lymantriinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Arctornis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 태극나방과 (Erebidae)\n아과 : 독나방아과 (Lymantriinae)\n속 : (Arctornis)",
+  "basic_information": {
+    "곤충명": "상제독나방",
+    "학명": "Arctornis album (Bremer, 1861)"
+  },
+  "information": {
+    "general_description": "날개편길이 ♂21~37mm, ♀36~40mm 개체에 따라서 횡맥 위에 희미한 횡맥 점이 나타나는 것이 있음.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 5~6월과 7~8월에 연 2회 나타나며 개체수도 아주 많음.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편길이 ♂21~37mm, ♀36~40mm 개체에 따라서 횡맥 위에 희미한 횡맥 점이 나타나는 것이 있음."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 5~6월과 7~8월에 연 2회 나타나며 개체수도 아주 많음."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDH0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDH0001_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDH0001_2_th.jpg",
+      "alt": "상제독나방 1번째 사진 : 상제독나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDH0001_2_th2.jpg",
+      "caption": "상제독나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDH0001-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDH0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDH0001_1_th.jpg",
+      "alt": "상제독나방 2번째 사진 : 상제독나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDH0001_1_th2.jpg",
+      "caption": "상제독나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDH0001-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408191026",
+      "description": "[MPME0408191026] 상제독나방 2003.05.22 / / 목포자연사박물관"
+    },
+    {
+      "id": "KNAE0303141043",
+      "description": "[KNAE0303141043] 상제독나방 1997.08.16 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303141044",
+      "description": "[KNAE0303141044] 상제독나방 1997.08.16 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDH0001-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDH0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:47+00:00",
+    "html_sha256": "c714ad437cfbc612314609cc4dfcee72c6caaa7713a9960dcb56c60224924ff4",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

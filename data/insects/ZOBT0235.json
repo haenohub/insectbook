@@ -1,0 +1,131 @@
+{
+  "id": "ZOBT0235",
+  "name_ko": "광녹색잎벌레",
+  "scientific_name": "Altica viridicyanea (Baly, 1874)",
+  "display_name": "광녹색잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "긴더듬이잎벌레아과",
+      "name_latin": "Galerucinae"
+    },
+    "genus": {
+      "name_ko": "벼룩잎벌레속",
+      "name_latin": "Altica"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 긴더듬이잎벌레아과 (Galerucinae)\n속 : 벼룩잎벌레속 (Altica)",
+  "basic_information": {
+    "곤충명": "광녹색잎벌레",
+    "학명": "Altica viridicyanea (Baly, 1874)"
+  },
+  "information": {
+    "general_description": "몸길이는 2.6~3.3mm, 윗날개의 표면은 상어비늘 모양이며 옆주름이 있다. 몸의 색깔은 흑청색, 동청색, 녹청색이다. 수컷 생식기는 선단이 삼각형이며 앞으로 나왔다. 옆에는 평행하며 끝으로 갈수록 좁아진다. 배판에는 한쌍의 돌기가 있다. 선명한 세로로 난 고랑이 있다. 한국, 일본(혼슈,시코쿠,큐슈), 중국, 인도에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "기주식물 Geranium nepalense subsp. thunbergii(S.et Z.) Hara.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]\n[인도네시아]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 2.6~3.3mm, 윗날개의 표면은 상어비늘 모양이며 옆주름이 있다. 몸의 색깔은 흑청색, 동청색, 녹청색이다. 수컷 생식기는 선단이 삼각형이며 앞으로 나왔다. 옆에는 평행하며 끝으로 갈수록 좁아진다. 배판에는 한쌍의 돌기가 있다. 선명한 세로로 난 고랑이 있다. 한국, 일본(혼슈,시코쿠,큐슈), 중국, 인도에 분포되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "기주식물 Geranium nepalense subsp. thunbergii(S.et Z.) Hara."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]\n[인도네시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0235-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0235_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0235_1_th.jpg",
+      "alt": "광녹색잎벌레 1번째 사진 : 광녹색잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0235_1_th2.jpg",
+      "caption": "광녹색잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0235-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0306241050",
+      "description": "[FRIE0306241050] 광녹색잎벌레 1998.07.08 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0306251001",
+      "description": "[FRIE0306251001] 광녹색잎벌레 1997.07.08 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0306251003",
+      "description": "[FRIE0306251003] 광녹색잎벌레 1997.07.09 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "갈참나무",
+      "scientific_name": "Quercus aliena Blume"
+    },
+    {
+      "group": "식물",
+      "name_ko": "오리나무",
+      "scientific_name": "Alnus japonica (Thunb.) Steud."
+    },
+    {
+      "group": "식물",
+      "name_ko": "황철나무",
+      "scientific_name": "Populus suaveolens Fisch. ex Poit. & A.Vilm."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBT0235.png",
+    "reference_image_id": "ZOBT0235-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T13:17:10.839253+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "e967d537132ad83b3ae7ea5c1ab054bc0079bef2c5fa6b47fdcee912b0a36426"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0235&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:09+00:00",
+    "html_sha256": "104deb995d17dff54ae1611aa7a5a3771820893c7cb4fced061ccc90c45a04b9",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

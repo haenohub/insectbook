@@ -1,0 +1,110 @@
+{
+  "id": "ZTAH0009",
+  "name_ko": "청등에잎벌",
+  "scientific_name": "Arge jonasi (Kirby, 1882)",
+  "display_name": "청등에잎벌",
+  "family_ko": "등에잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "등에잎벌과",
+      "name_latin": "Argidae"
+    },
+    "subfamily": {
+      "name_ko": "등에잎벌아과",
+      "name_latin": "Arginae"
+    },
+    "genus": {
+      "name_ko": "등에잎벌속",
+      "name_latin": "Arge"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 등에잎벌과 (Argidae)\n아과 : 등에잎벌아과 (Arginae)\n속 : 등에잎벌속 (Arge)",
+  "basic_information": {
+    "곤충명": "청등에잎벌",
+    "학명": "Arge jonasi (Kirby, 1882)"
+  },
+  "information": {
+    "general_description": "몸길이 11-13mm. 더듬이는 검정색이다. 이마방패는 넓고 깊은 각이 있다. 머리와 가슴은 회색 작은 털이 있다. 가슴은 녹색을 띤 청암색이다. 다리는 검은색 날개는 투명하지만 노란색을 띠며 연문은 암갈색이다. 3rm은 강하게 굽어 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 11-13mm. 더듬이는 검정색이다. 이마방패는 넓고 깊은 각이 있다. 머리와 가슴은 회색 작은 털이 있다. 가슴은 녹색을 띤 청암색이다. 다리는 검은색 날개는 투명하지만 노란색을 띠며 연문은 암갈색이다. 3rm은 강하게 굽어 있다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAH0009-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAH0009_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAH0009_2_th.jpg",
+      "alt": "청등에잎벌 1번째 사진 : 청등에잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAH0009_2_th2.jpg",
+      "caption": "청등에잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTAH0009-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAH0009_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAH0009_1_th.jpg",
+      "alt": "청등에잎벌 2번째 사진 : 청등에잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAH0009_1_th2.jpg",
+      "caption": "청등에잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAH0009-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305201069",
+      "description": "[YNUE0305201069] 청등에잎벌 1999.07.25 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306281171",
+      "description": "[YNUE0306281171] 청등에잎벌 1973.05.06 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306281172",
+      "description": "[YNUE0306281172] 청등에잎벌 1990.06.13 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAH0009-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAH0009&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:14+00:00",
+    "html_sha256": "bb612c85668c46cb9c303b32acae492c99803e40fbb61722dde77b5b975d3079",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": "ZOBH0012",
+  "name_ko": "남해우리딱정벌레",
+  "scientific_name": "Eucarabus (Parhomopterus) namhaedoensis (Kwon & Lee, 1984)",
+  "display_name": "남해우리딱정벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "딱정벌레아과",
+      "name_latin": "Carabinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Eucarabus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 딱정벌레아과 (Carabinae)\n속 : (Eucarabus)",
+  "basic_information": {
+    "곤충명": "남해우리딱정벌레",
+    "학명": "Eucarabus (Parhomopterus) namhaedoensis (Kwon & Lee, 1984)"
+  },
+  "information": {
+    "general_description": "몸길이는 수컷은 22mm, 암컷은 28.5mm이고 일반적으로 검은색이나 금속광택 및 녹색광택을 가진다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[한국고유종]\n[포식성]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 수컷은 22mm, 암컷은 28.5mm이고 일반적으로 검은색이나 금속광택 및 녹색광택을 가진다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[한국고유종]\n[포식성]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0012-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0012_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0012_2_th.jpg",
+      "alt": "남해우리딱정벌레 1번째 사진 : 남해우리딱정벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0012_2_th2.jpg",
+      "caption": "남해우리딱정벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0012-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0012_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0012_1_th.jpg",
+      "alt": "남해우리딱정벌레 2번째 사진 : 남해우리딱정벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0012_1_th2.jpg",
+      "caption": "남해우리딱정벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0012-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0204081002",
+      "description": "[KPNE0204081002] 남해우리딱정벌레 1991.08.15 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0204081003",
+      "description": "[KPNE0204081003] 남해우리딱정벌레 1994.07.24 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0204081004",
+      "description": "[KPNE0204081004] 남해우리딱정벌레 1994.07.24 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBH0012.png",
+    "reference_image_id": "ZOBH0012-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T09:43:47.279685+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "6434639769d80f6699bd0537970414d45bf54920f8faf099ccc88e94c274e2a8"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0012&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:30+00:00",
+    "html_sha256": "26d36da75daceb9ac76c77862a6983bf4527c677e1d9677162558585a5a797bc",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

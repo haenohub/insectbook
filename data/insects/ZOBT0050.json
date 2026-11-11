@@ -1,0 +1,118 @@
+{
+  "id": "ZOBT0050",
+  "name_ko": "밤나무잎벌레",
+  "scientific_name": "Physosmaragdina nigrifrons (Hope, 1843)",
+  "display_name": "밤나무잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "통잎벌레아과",
+      "name_latin": "Cryptocephalinae"
+    },
+    "genus": {
+      "name_ko": "검정이마큰가슴잎벌레속",
+      "name_latin": "Physosmaragdina"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 통잎벌레아과 (Cryptocephalinae)\n속 : 검정이마큰가슴잎벌레속 (Physosmaragdina)",
+  "basic_information": {
+    "곤충명": "밤나무잎벌레",
+    "학명": "Physosmaragdina nigrifrons (Hope, 1843)"
+  },
+  "information": {
+    "general_description": "몸길이는4.8~5.5mm, 약간 길고 통통하며 몸은흑색이며 앞가슴등판과 딱지날개는 주황색이며, 앞쪽에 한쌍의 큰흑색 무늬와 뒤쪽에 넓은 흑색가로 무늬가 나있다. 그러나 이 무늬는 없어진 개체도 있다. 다리는 전체가 흑색이다. 한국(Whole), 일본(혼슈,시코쿠,큐슈), 중국(만주,북부,중부,남부,대만), 베트남에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[베트남]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는4.8~5.5mm, 약간 길고 통통하며 몸은흑색이며 앞가슴등판과 딱지날개는 주황색이며, 앞쪽에 한쌍의 큰흑색 무늬와 뒤쪽에 넓은 흑색가로 무늬가 나있다. 그러나 이 무늬는 없어진 개체도 있다. 다리는 전체가 흑색이다. 한국(Whole), 일본(혼슈,시코쿠,큐슈), 중국(만주,북부,중부,남부,대만), 베트남에 분포되어있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[베트남]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0050-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0050_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0050_1_th.jpg",
+      "alt": "밤나무잎벌레 1번째 사진 : 밤나무잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0050_1_th2.jpg",
+      "caption": "밤나무잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0050-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408041105",
+      "description": "[MPME0408041105] 밤나무잎벌레 2003.08.12 / / 목포자연사박물관"
+    },
+    {
+      "id": "KUIE0307151496",
+      "description": "[KUIE0307151496] 밤나무잎벌레 1988.07.28 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307151498",
+      "description": "[KUIE0307151498] 밤나무잎벌레 1983.07.12 / / 고려대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "밤나무",
+      "scientific_name": "Castanea crenata Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "배롱나무",
+      "scientific_name": "Lagerstroemia indica L."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0050-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0050&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:13+00:00",
+    "html_sha256": "3360c301d0d3b6ea943bf72168643fe6bb1f0f675c2d823574630fcfe9940b83",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

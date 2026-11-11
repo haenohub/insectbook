@@ -1,0 +1,117 @@
+{
+  "id": "ZOGT0103",
+  "name_ko": "가슴반날개",
+  "scientific_name": "Algon sphaericollis Schillhammer, 2006",
+  "display_name": "가슴반날개",
+  "family_ko": "반날개과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "반날개상과",
+      "name_latin": "Staphylinoidea"
+    },
+    "family": {
+      "name_ko": "반날개과",
+      "name_latin": "Staphylinidae"
+    },
+    "subfamily": {
+      "name_ko": "반날개아과",
+      "name_latin": "Staphylininae"
+    },
+    "genus": {
+      "name_ko": "가슴반날개속",
+      "name_latin": "Algon"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 반날개상과 (Staphylinoidea)\n과 : 반날개과 (Staphylinidae)\n아과 : 반날개아과 (Staphylininae)\n속 : 가슴반날개속 (Algon)",
+  "basic_information": {
+    "곤충명": "가슴반날개",
+    "학명": "Algon sphaericollis Schillhammer, 2006"
+  },
+  "information": {
+    "general_description": "몸의 길이는 13~17.5mm 이며, 몸전체는 검은색이고, 광택을 띤다. 촉각, 겹눈, 다리는 황갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의 길이는 13~17.5mm 이며, 몸전체는 검은색이고, 광택을 띤다. 촉각, 겹눈, 다리는 황갈색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGT0103-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGT0103_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGT0103_2_th.jpg",
+      "alt": "가슴반날개 1번째 사진 : 가슴반날개전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGT0103_2_th2.jpg",
+      "caption": "가슴반날개전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOGT0103-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGT0103_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGT0103_1_th.jpg",
+      "alt": "가슴반날개 2번째 사진 : 가슴반날개전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGT0103_1_th2.jpg",
+      "caption": "가슴반날개전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGT0103-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304101008",
+      "description": "[KNAE0304101008] 가슴반날개 1984.07.10 / / 국립수목원"
+    },
+    {
+      "id": "HNUE0407261085",
+      "description": "[HNUE0407261085] 가슴반날개 2004.06.23 / / 한남대학교 자연사박물관"
+    },
+    {
+      "id": "HNUE0407261086",
+      "description": "[HNUE0407261086] 가슴반날개 2002.05.24 / / 한남대학교 자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOGT0103.png",
+    "reference_image_id": "ZOGT0103-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T15:23:45.083546+00:00",
+    "sha256": "44e0bb9849e0a1b3161aa60a833df177e42ae0ce9504eafbc7d8b427b1a6a9e2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGT0103&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:07+00:00",
+    "html_sha256": "c0620e3ccc8ed9f04e4a2294fe82172bc136a59574a4fecc44081b9dd526ff50",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

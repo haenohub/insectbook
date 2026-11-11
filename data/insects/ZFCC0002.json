@@ -1,0 +1,119 @@
+{
+  "id": "ZFCC0002",
+  "name_ko": "먹바퀴",
+  "scientific_name": "Periplaneta fuliginosa (Serville, 1839)",
+  "display_name": "먹바퀴",
+  "family_ko": "왕바퀴과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "바퀴목",
+      "name_latin": "Blattodea"
+    },
+    "family": {
+      "name_ko": "왕바퀴과",
+      "name_latin": "Blattidae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Periplaneta"
+    }
+  },
+  "taxonomy_text": "목 : 바퀴목 (Blattodea)\n과 : 왕바퀴과 (Blattidae)\n속 : (Periplaneta)",
+  "basic_information": {
+    "곤충명": "먹바퀴",
+    "학명": "Periplaneta fuliginosa (Serville, 1839)"
+  },
+  "information": {
+    "general_description": "성충은 25mm내외이며, 몸은 흑갈색으로 기름을 발라 놓은 것 같은 광택이 난다. 앞가슴등은 매끈하며 , 광택이 나는 적갈색을 띤다. 집바퀴에 비해 조금 더 크고 넓적하며, 앞가슴등판은 매끈하다. 날개는 암수 모두 배끝보다 길다.",
+    "adult": null,
+    "adult_male": "몸길이는 25 mm 내외이다.",
+    "adult_female": "몸길이는 25~30 mm이다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "암컷은 알집을 벽이나 찻잔 등의 틈새에 낳아 붙인다. 유충 기간은 반 년 이상이다.",
+    "habits": "집안에서 볼 수 있는 보통종으로 아주 빠르게 움직인다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[대만]\n[미국]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": "집바퀴와 유사하나 조금더 크고 넓적하다. 앞가슴은 등판은 요철이 없이 매끈하다."
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충은 25mm내외이며, 몸은 흑갈색으로 기름을 발라 놓은 것 같은 광택이 난다. 앞가슴등은 매끈하며 , 광택이 나는 적갈색을 띤다. 집바퀴에 비해 조금 더 크고 넓적하며, 앞가슴등판은 매끈하다. 날개는 암수 모두 배끝보다 길다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "몸길이는 25 mm 내외이다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "몸길이는 25~30 mm이다."
+    },
+    {
+      "title": "참고사항",
+      "text": "집바퀴와 유사하나 조금더 크고 넓적하다. 앞가슴은 등판은 요철이 없이 매끈하다."
+    },
+    {
+      "title": "생태",
+      "text": "암컷은 알집을 벽이나 찻잔 등의 틈새에 낳아 붙인다. 유충 기간은 반 년 이상이다."
+    },
+    {
+      "title": "습성",
+      "text": "집안에서 볼 수 있는 보통종으로 아주 빠르게 움직인다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[대만]\n[미국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZFCC0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/F3/ZFCC0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/F3/ZFCC0002_1_th.jpg",
+      "alt": "먹바퀴 1번째 사진 : 먹바퀴전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/F3/ZFCC0002_1_th2.jpg",
+      "caption": "먹바퀴전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZFCC0002-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0301089031",
+      "description": "[YNUE0301089031] 먹바퀴 1986.06.26 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301089032",
+      "description": "[YNUE0301089032] 먹바퀴 1984.06.27 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0112182041",
+      "description": "[YNUE0112182041] 먹바퀴 1985.10.26 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZFCC0002-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZFCC0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:01+00:00",
+    "html_sha256": "b7237b9a5d5c0d0854539541966ff27377a8a33bdf12d71222080b43b6c78d6d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

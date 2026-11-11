@@ -1,0 +1,111 @@
+{
+  "id": "ZOBL0077",
+  "name_ko": "꼬마산꽃하늘소",
+  "scientific_name": "Pseudalosterna elegantula (Kraatz, 1879)",
+  "display_name": "꼬마산꽃하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "꽃하늘소아과",
+      "name_latin": "Lepturinae"
+    },
+    "genus": {
+      "name_ko": "꼬마산꽃하늘소속",
+      "name_latin": "Pseudalosterna"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 꽃하늘소아과 (Lepturinae)\n속 : 꼬마산꽃하늘소속 (Pseudalosterna)",
+  "basic_information": {
+    "곤충명": "꼬마산꽃하늘소",
+    "학명": "Pseudalosterna elegantula (Kraatz, 1879)"
+  },
+  "information": {
+    "general_description": "몸길이는 5~7mm이다. 두부와 앞가슴등판은 핵깔이 흑색이고 딱지날개는 흑갈색이다. 수컷의 딱지날개는 흑색 부분이 넓게 퍼져있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 5~6월에 산에 꽃에 모여든다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 5~7mm이다. 두부와 앞가슴등판은 핵깔이 흑색이고 딱지날개는 흑갈색이다. 수컷의 딱지날개는 흑색 부분이 넓게 퍼져있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 5~6월에 산에 꽃에 모여든다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0077-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0077_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0077_1_th.jpg",
+      "alt": "꼬마산꽃하늘소 1번째 사진 : 꼬마산꽃하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0077_1_th2.jpg",
+      "caption": "꼬마산꽃하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0077-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304152052",
+      "description": "[KNAE0304152052] 꼬마산꽃하늘소 1992.05.23 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304152053",
+      "description": "[KNAE0304152053] 꼬마산꽃하늘소 1992.05.24 / / 국립수목원"
+    },
+    {
+      "id": "DJUE0609121019",
+      "description": "[DJUE0609121019] 꼬마산꽃하늘소 2005.05.20 / / 대전대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBL0077.png",
+    "reference_image_id": "ZOBL0077-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T13:58:23.058091+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "5f158aa9ab48a35a96007be30a0ff53ac15224cc919127da56ea4465b263db7c"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0077&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:41+00:00",
+    "html_sha256": "560938bd299f3a1c607b77d28f05edcebf88c9f974171f719f7e98c6cbc5c157",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

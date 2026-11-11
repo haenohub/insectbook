@@ -1,0 +1,133 @@
+{
+  "id": "ZLAA0003",
+  "name_ko": "녹색가위뿔노린재",
+  "scientific_name": "Acanthosoma forficula Jakovlev, 1880",
+  "display_name": "녹색가위뿔노린재",
+  "family_ko": "뿔노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "노린재상과",
+      "name_latin": "Pentatomoidea"
+    },
+    "family": {
+      "name_ko": "뿔노린재과",
+      "name_latin": "Acanthosomatidae"
+    },
+    "subfamily": {
+      "name_ko": "뿔노린재아과",
+      "name_latin": "Acanthosomatinae"
+    },
+    "genus": {
+      "name_ko": "뿔노린재속",
+      "name_latin": "Acanthosoma"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 노린재상과 (Pentatomoidea)\n과 : 뿔노린재과 (Acanthosomatidae)\n아과 : 뿔노린재아과 (Acanthosomatinae)\n속 : 뿔노린재속 (Acanthosoma)",
+  "basic_information": {
+    "곤충명": "녹색가위뿔노린재",
+    "학명": "Acanthosoma forficula Jakovlev, 1880"
+  },
+  "information": {
+    "general_description": "몸길이 : 14-16mm\n몸은 선록색이고 죽은 뒤에는 암색으로 변한다. 흑색의 작은 점각이 많다. 머리는 약간 황색을 띠고 점각은 적다. 더듬이는 길고 대개 연한 갈색이다. 앞가슴등판의 전반은 황색을 띠는 개체도 있다. 앞옆가장자리는 약간 만입하고, 옆모서리는 약간 돌출하였으나 뚜렷하지 않다. 약간 적색을 띠고 있다. 작은 방패판의 선단이 연한 색인 개체도 있다. 막질부는 연한갈색을 떠나 투명하고, 배의 등판은 뚜렷한 적색을 띠며, 또 결합판의 뒷가장자리는 흑색이다.",
+    "adult": null,
+    "adult_male": "생식기의 돌기는 대단히 길고 가늘며, 가위 모양을 하고 뒤쪽으로 뻗어서 ∧모양으로 열러 있다.",
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "오갈피나무, 분지나무, 층층나무 등에서 채집된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 14-16mm\n몸은 선록색이고 죽은 뒤에는 암색으로 변한다. 흑색의 작은 점각이 많다. 머리는 약간 황색을 띠고 점각은 적다. 더듬이는 길고 대개 연한 갈색이다. 앞가슴등판의 전반은 황색을 띠는 개체도 있다. 앞옆가장자리는 약간 만입하고, 옆모서리는 약간 돌출하였으나 뚜렷하지 않다. 약간 적색을 띠고 있다. 작은 방패판의 선단이 연한 색인 개체도 있다. 막질부는 연한갈색을 떠나 투명하고, 배의 등판은 뚜렷한 적색을 띠며, 또 결합판의 뒷가장자리는 흑색이다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "생식기의 돌기는 대단히 길고 가늘며, 가위 모양을 하고 뒤쪽으로 뻗어서 ∧모양으로 열러 있다."
+    },
+    {
+      "title": "생태",
+      "text": "오갈피나무, 분지나무, 층층나무 등에서 채집된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLAA0003-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAA0003_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAA0003_2_th.jpg",
+      "alt": "녹색가위뿔노린재 1번째 사진 : 녹색가위뿔노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAA0003_2_th2.jpg",
+      "caption": "녹색가위뿔노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZLAA0003-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAA0003_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAA0003_1_th.jpg",
+      "alt": "녹색가위뿔노린재 2번째 사진 : 녹색가위뿔노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAA0003_1_th2.jpg",
+      "caption": "녹색가위뿔노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLAA0003-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0305031038",
+      "description": "[KPNE0305031038] 녹색가위뿔노린재 1969.05.01 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0305031040",
+      "description": "[KPNE0305031040] 녹색가위뿔노린재 1981.06.06 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0305031043",
+      "description": "[KPNE0305031043] 녹색가위뿔노린재 1968.07.16 / / 경북대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "오갈피나무",
+      "scientific_name": "Eleutherococcus sessiliflorus (Rupr. & Maxim.) S.Y.Hu"
+    },
+    {
+      "group": "식물",
+      "name_ko": "층층나무",
+      "scientific_name": "Cornus controversa Hemsl."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLAA0003-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLAA0003&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:32+00:00",
+    "html_sha256": "5257451ab28ac8f7c66ec7b7ad136bd35cc1d7b1cae757067c13e1eb0eb00413",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

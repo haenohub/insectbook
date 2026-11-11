@@ -1,0 +1,99 @@
+{
+  "id": "ZODA0003",
+  "name_ko": "참금풍뎅이",
+  "scientific_name": "Bolbelasmus (Kolbeus) coreanus (Kolbe, 1886)",
+  "display_name": "참금풍뎅이",
+  "family_ko": "참금풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "참금풍뎅이과",
+      "name_latin": "Bolboceratidae"
+    },
+    "genus": {
+      "name_ko": "참금풍뎅이속",
+      "name_latin": "Bolbelasmus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 참금풍뎅이과 (Bolboceratidae)\n속 : 참금풍뎅이속 (Bolbelasmus)",
+  "basic_information": {
+    "곤충명": "참금풍뎅이",
+    "학명": "Bolbelasmus (Kolbeus) coreanus (Kolbe, 1886)"
+  },
+  "information": {
+    "general_description": "약한 광택이 있는 적갈색 내지 흑갈색으로 높고 둥근 반구형이다. 복면은 보다 엷은 색이며, 다리와 함께 황색의 긴 털이 밀생하였다. 이마에는 짧고 기부가 넓은 뿔이 있따. 촉각 곤봉부는 크고, 전경절의 털무늬는 없다. 겹눈은 이분되지 않았고, 중기절의 사이는 좁다.\nBL:9~13.5mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[대만]\n[인도]\n[태국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "약한 광택이 있는 적갈색 내지 흑갈색으로 높고 둥근 반구형이다. 복면은 보다 엷은 색이며, 다리와 함께 황색의 긴 털이 밀생하였다. 이마에는 짧고 기부가 넓은 뿔이 있따. 촉각 곤봉부는 크고, 전경절의 털무늬는 없다. 겹눈은 이분되지 않았고, 중기절의 사이는 좁다.\nBL:9~13.5mm."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[대만]\n[인도]\n[태국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZODA0003-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODA0003_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODA0003_1_th.jpg",
+      "alt": "참금풍뎅이 1번째 사진 : 참금풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODA0003_1_th2.jpg",
+      "caption": "참금풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZODA0003-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408021035",
+      "description": "[MPME0408021035] 참금풍뎅이 2001.08.14 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408021037",
+      "description": "[MPME0408021037] 참금풍뎅이 2001.08.14 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408191066",
+      "description": "[MPME0408191066] 참금풍뎅이 2002.08.05 / / 목포자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZODA0003-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZODA0003&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:47+00:00",
+    "html_sha256": "b1545596b7125df8c78321608b6cc3d3ec70f59d73c0da91e92dcd193943d4e6",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

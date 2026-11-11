@@ -1,0 +1,103 @@
+{
+  "id": "ZREZ0001",
+  "name_ko": "뾰족날개나방",
+  "scientific_name": "Demopsestis punctigera (Butler, 1885)",
+  "display_name": "뾰족날개나방",
+  "family_ko": "갈고리나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "갈고리나방상과",
+      "name_latin": "Drepanoidea"
+    },
+    "family": {
+      "name_ko": "갈고리나방과",
+      "name_latin": "Drepanidae"
+    },
+    "subfamily": {
+      "name_ko": "뾰족날개나방아과",
+      "name_latin": "Thyatirinae"
+    },
+    "genus": {
+      "name_ko": "뾰족날개나방속",
+      "name_latin": "Demopsestis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 갈고리나방상과 (Drepanoidea)\n과 : 갈고리나방과 (Drepanidae)\n아과 : 뾰족날개나방아과 (Thyatirinae)\n속 : 뾰족날개나방속 (Demopsestis)",
+  "basic_information": {
+    "곤충명": "뾰족날개나방",
+    "학명": "Demopsestis punctigera (Butler, 1885)"
+  },
+  "information": {
+    "general_description": "앞날개는 광택이 없는 무늬를 가지며 암회색임． 내횡선은 막연하며 암갈색이고 경사졌으며, 그 앞에 밝은 그늘이 졌음． 외횡선은 불선명하며 2줄이고, 제 4맥 위에서 바깥쪽으로 돌출했음, 날개 끝으로부터 광택이 없는 암색 줄무늬가 달리고, 가락지 모량은 둥근 백색 반문은 검은 가락지 속에 가리어져 있으며, 콩팥 무늬는 작고 백색을 띤 달 모양임. 뒷날개는 현저히 담색이고, 암색의 외횡선과 넓은 가장자리의 띠를 가지고 있음.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "앞날개는 광택이 없는 무늬를 가지며 암회색임． 내횡선은 막연하며 암갈색이고 경사졌으며, 그 앞에 밝은 그늘이 졌음． 외횡선은 불선명하며 2줄이고, 제 4맥 위에서 바깥쪽으로 돌출했음, 날개 끝으로부터 광택이 없는 암색 줄무늬가 달리고, 가락지 모량은 둥근 백색 반문은 검은 가락지 속에 가리어져 있으며, 콩팥 무늬는 작고 백색을 띤 달 모양임. 뒷날개는 현저히 담색이고, 암색의 외횡선과 넓은 가장자리의 띠를 가지고 있음."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREZ0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREZ0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREZ0001_1_th.jpg",
+      "alt": "뾰족날개나방 1번째 사진 : 뾰족날개나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREZ0001_1_th2.jpg",
+      "caption": "뾰족날개나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREZ0001-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0301081047",
+      "description": "[FRIE0301081047] 뾰족날개나방 2002.04.17 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0212091082",
+      "description": "[FRIE0212091082] 뾰족날개나방 1988.04.12 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0212091083",
+      "description": "[FRIE0212091083] 뾰족날개나방 1986.04.18 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREZ0001-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREZ0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:07+00:00",
+    "html_sha256": "daa21c6b7979d6fc8ad1143727a803c698f3d72f0bbc6c7efbf045ccb935c18e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

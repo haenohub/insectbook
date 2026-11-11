@@ -1,0 +1,118 @@
+{
+  "id": "ZMBA0001",
+  "name_ko": "주홍긴날개멸구",
+  "scientific_name": "Diostrombus politus Uhler, 1896",
+  "display_name": "주홍긴날개멸구",
+  "family_ko": "긴날개멸구과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "꽃매미상과",
+      "name_latin": "Fulgoroidea"
+    },
+    "family": {
+      "name_ko": "긴날개멸구과",
+      "name_latin": "Derbidae"
+    },
+    "subfamily": {
+      "name_ko": "고려긴날개멸구아과",
+      "name_latin": "Otiocerinae"
+    },
+    "genus": {
+      "name_ko": "주홍긴날개멸구속",
+      "name_latin": "Diostrombus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 꽃매미상과 (Fulgoroidea)\n과 : 긴날개멸구과 (Derbidae)\n아과 : 고려긴날개멸구아과 (Otiocerinae)\n속 : 주홍긴날개멸구속 (Diostrombus)",
+  "basic_information": {
+    "곤충명": "주홍긴날개멸구",
+    "학명": "Diostrombus politus Uhler, 1896"
+  },
+  "information": {
+    "general_description": "몸길이: 약4mm. 날개를접었을때 9-10mm이고 날개를 펼치면 20-22mm 이다. 몸은 주황색 또는 선명한 주홍색을 띠고 드면이 더진한 경향이며 광택을 가진다. 머리는 매우좁고 정수리는 세로로 깊은 홈을 가지며 한 쌍의 나뭇잎 모양의 얇은 돌기를 형성한다. 작은방패판은 선홍색을 띠며, 매우크고 마름모 꼴로되어있다. 앞날개는 투명하며 앞가장자리가 직선이고 아전연맥을 따라 암갈색의 섬세한 실무늬를 가지고 있다. 뒷가장자리는 완만하고 둥글게 주앙부가 확장되어있다. 뒷날개는 폭이매우 좁고, 앞날개 기이의 절반이하이며 투명하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "주로 산야의 건조한 산림지대에 서식한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대만]\n[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이: 약4mm. 날개를접었을때 9-10mm이고 날개를 펼치면 20-22mm 이다. 몸은 주황색 또는 선명한 주홍색을 띠고 드면이 더진한 경향이며 광택을 가진다. 머리는 매우좁고 정수리는 세로로 깊은 홈을 가지며 한 쌍의 나뭇잎 모양의 얇은 돌기를 형성한다. 작은방패판은 선홍색을 띠며, 매우크고 마름모 꼴로되어있다. 앞날개는 투명하며 앞가장자리가 직선이고 아전연맥을 따라 암갈색의 섬세한 실무늬를 가지고 있다. 뒷가장자리는 완만하고 둥글게 주앙부가 확장되어있다. 뒷날개는 폭이매우 좁고, 앞날개 기이의 절반이하이며 투명하다."
+    },
+    {
+      "title": "생태",
+      "text": "주로 산야의 건조한 산림지대에 서식한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대만]\n[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMBA0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMBA0001_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMBA0001_2_th.jpg",
+      "alt": "주홍긴날개멸구 1번째 사진 : 주홍긴날개멸구전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMBA0001_2_th2.jpg",
+      "caption": "주홍긴날개멸구전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZMBA0001-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMBA0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMBA0001_1_th.jpg",
+      "alt": "주홍긴날개멸구 2번째 사진 : 주홍긴날개멸구전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMBA0001_1_th2.jpg",
+      "caption": "주홍긴날개멸구전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMBA0001-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0408221097",
+      "description": "[UIBE0408221097] 주홍긴날개멸구 2000.08.01 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0408221099",
+      "description": "[UIBE0408221099] 주홍긴날개멸구 2000.08.22 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0408221100",
+      "description": "[UIBE0408221100] 주홍긴날개멸구 2000.08.01 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZMBA0001-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMBA0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:58+00:00",
+    "html_sha256": "d8a3fc394f54b8080a08a08ad57160ae427d2aab8a66fdf264346e64930e2c8f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

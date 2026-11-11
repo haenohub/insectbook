@@ -1,0 +1,103 @@
+{
+  "id": "ZOGX0003",
+  "name_ko": "제주거저리",
+  "scientific_name": "Blindus strigosus (Faldermann, 1835)",
+  "display_name": "제주거저리",
+  "family_ko": "거저리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "거저리상과",
+      "name_latin": "Tenebrionoidea"
+    },
+    "family": {
+      "name_ko": "거저리과",
+      "name_latin": "Tenebrionidae"
+    },
+    "subfamily": {
+      "name_ko": "거저리아과",
+      "name_latin": "Tenebrioninae"
+    },
+    "genus": {
+      "name_ko": "제주거저리속",
+      "name_latin": "Blindus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 거저리상과 (Tenebrionoidea)\n과 : 거저리과 (Tenebrionidae)\n아과 : 거저리아과 (Tenebrioninae)\n속 : 제주거저리속 (Blindus)",
+  "basic_information": {
+    "곤충명": "제주거저리",
+    "학명": "Blindus strigosus (Faldermann, 1835)"
+  },
+  "information": {
+    "general_description": "몸길이는 7~9mm이며 앞쪽과 ？쪽이 넓고 등이 높아서 긴 알모양이며 몸 색깔이 흑색이며 광택이 강한다. 더듬이는 마지막 부분이 납작하다. 앞가슴등판은 곰보 모양이며 파인 홈이 아주 많다. 딱지날개에 뚜렷한줄이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 마른 나뭇가지에서 볼 수 있으며 애벌레는 버섯을 먹는다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 7~9mm이며 앞쪽과 ？쪽이 넓고 등이 높아서 긴 알모양이며 몸 색깔이 흑색이며 광택이 강한다. 더듬이는 마지막 부분이 납작하다. 앞가슴등판은 곰보 모양이며 파인 홈이 아주 많다. 딱지날개에 뚜렷한줄이 있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 마른 나뭇가지에서 볼 수 있으며 애벌레는 버섯을 먹는다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGX0003-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGX0003_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGX0003_1_th.jpg",
+      "alt": "제주거저리 1번째 사진 : 제주거저리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGX0003_1_th2.jpg",
+      "caption": "제주거저리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGX0003-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0304211033",
+      "description": "[FRIE0304211033] 제주거저리 2001.06.06 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0304211034",
+      "description": "[FRIE0304211034] 제주거저리 2001.08.08 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0304211035",
+      "description": "[FRIE0304211035] 제주거저리 2001.06.03 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGX0003-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGX0003&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:31+00:00",
+    "html_sha256": "c33769cc3fe9abb8282cf31fc368188b227b17ca4f10e4809727e839f29a02c8",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

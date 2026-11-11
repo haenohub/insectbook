@@ -1,0 +1,128 @@
+{
+  "id": "ZOAR0009",
+  "name_ko": "황철거위벌레",
+  "scientific_name": "Byctiscus rugosus (Gebler, 1830)",
+  "display_name": "황철거위벌레",
+  "family_ko": "거위벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "거위벌레과",
+      "name_latin": "Attelabidae"
+    },
+    "subfamily": {
+      "name_ko": "주둥이거위벌레아과",
+      "name_latin": "Rhynchitinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Byctiscus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 거위벌레과 (Attelabidae)\n아과 : 주둥이거위벌레아과 (Rhynchitinae)\n속 : (Byctiscus)",
+  "basic_information": {
+    "곤충명": "황철거위벌레",
+    "학명": "Byctiscus rugosus (Gebler, 1830)"
+  },
+  "information": {
+    "general_description": "체장은 5.5-7.5mm 정도이다.더듬이는 주둥이의 중앙 바로 앞에서 나오며, 수컷은 주둥이는 약간 굽어있다. 시초와 앞가슴등판의 점각은 강하다. 녹색이 기본형이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]\n[몽골]\n[중국]",
+    "notes": "[보통종]\n[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체장은 5.5-7.5mm 정도이다.더듬이는 주둥이의 중앙 바로 앞에서 나오며, 수컷은 주둥이는 약간 굽어있다. 시초와 앞가슴등판의 점각은 강하다. 녹색이 기본형이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]\n[몽골]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]\n[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAR0009-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0009_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0009_1_th.jpg",
+      "alt": "황철거위벌레 1번째 사진 : 황철거위벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0009_1_th2.jpg",
+      "caption": "황철거위벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAR0009-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0204171197",
+      "description": "[SNUE0204171197] 황철거위벌레 1992.05.09 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0204171198",
+      "description": "[SNUE0204171198] 황철거위벌레 1990.06.03 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0204171202",
+      "description": "[SNUE0204171202] 황철거위벌레 1990.06.07 / / 서울대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "난티나무",
+      "scientific_name": "Ulmus laciniata (Herder) Mayr ex Schwapp."
+    },
+    {
+      "group": "식물",
+      "name_ko": "자작나무",
+      "scientific_name": "Betula pendula Roth"
+    },
+    {
+      "group": "식물",
+      "name_ko": "피나무",
+      "scientific_name": "Tilia amurensis Rupr."
+    },
+    {
+      "group": "식물",
+      "name_ko": "황철나무",
+      "scientific_name": "Populus suaveolens Fisch. ex Poit. & A.Vilm."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAR0009-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAR0009&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:01+00:00",
+    "html_sha256": "69a2972d76b1fcf8b6c173a389be7e3c3adbdf39df3ea622f5407ab20487b96b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

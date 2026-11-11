@@ -1,0 +1,103 @@
+{
+  "id": "ZTAG0075",
+  "name_ko": "애뾰족벌",
+  "scientific_name": "Coelioxys hosoba Nagase, 2003",
+  "display_name": "애뾰족벌",
+  "family_ko": "가위벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "가위벌과",
+      "name_latin": "Megachilidae"
+    },
+    "subfamily": {
+      "name_ko": "가위벌아과",
+      "name_latin": "Megachilinae"
+    },
+    "genus": {
+      "name_ko": "뾰족벌속",
+      "name_latin": "Coelioxys"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 가위벌과 (Megachilidae)\n아과 : 가위벌아과 (Megachilinae)\n속 : 뾰족벌속 (Coelioxys)",
+  "basic_information": {
+    "곤충명": "애뾰족벌",
+    "학명": "Coelioxys hosoba Nagase, 2003"
+  },
+  "information": {
+    "general_description": "각 배마디의 뒤쪽으로는 순백색 띠가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "노란줄가위벌의 유충에 기생한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[감소추세종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "각 배마디의 뒤쪽으로는 순백색 띠가 있다."
+    },
+    {
+      "title": "생태",
+      "text": "노란줄가위벌의 유충에 기생한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[감소추세종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0075-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0075_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0075_1_th.jpg",
+      "alt": "애뾰족벌 1번째 사진 : 애뾰족벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0075_1_th2.jpg",
+      "caption": "애뾰족벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0075-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0111303005",
+      "description": "[YNUE0111303005] 애뾰족벌 1985.06.26 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAG0075-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0075&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:13+00:00",
+    "html_sha256": "babf27fc75cfe767580009dfa4c4e5263459a8ba33c4f03eb7d626691ac51ebe",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "ZTBO0055",
+  "name_ko": "그물등개미",
+  "scientific_name": "Pristomyrmex punctatus (Smith F., 1860)",
+  "display_name": "그물등개미",
+  "family_ko": "개미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "말벌상과",
+      "name_latin": "Vespoidea"
+    },
+    "family": {
+      "name_ko": "개미과",
+      "name_latin": "Formicidae"
+    },
+    "subfamily": {
+      "name_ko": "두배자루마디개미아과",
+      "name_latin": "Myrmicinae"
+    },
+    "genus": {
+      "name_ko": "그물등개미속",
+      "name_latin": "Pristomyrmex"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 말벌상과 (Vespoidea)\n과 : 개미과 (Formicidae)\n아과 : 두배자루마디개미아과 (Myrmicinae)\n속 : 그물등개미속 (Pristomyrmex)",
+  "basic_information": {
+    "곤충명": "그물등개미",
+    "학명": "Pristomyrmex punctatus (Smith F., 1860)"
+  },
+  "information": {
+    "general_description": "몸길이는 3-3.5mm 정도이며 배는 공모양이고 머리와 가슴 등면이 그물 무늬를 이루고 가슴의 옆구리와 배자루에도 보통 있다. 배는 넓고 광택이 있고 머리, 가슴 배자루의 등면, 배 끝, 다리, 더듬이에는 곧고 긴 연한 털이 났고 배의 대부분과 배자루의 아랫면에는 없다. 다리와 더듬이는 황갈색이고 배는 광택이 있는 흑색 또는 암갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 3-3.5mm 정도이며 배는 공모양이고 머리와 가슴 등면이 그물 무늬를 이루고 가슴의 옆구리와 배자루에도 보통 있다. 배는 넓고 광택이 있고 머리, 가슴 배자루의 등면, 배 끝, 다리, 더듬이에는 곧고 긴 연한 털이 났고 배의 대부분과 배자루의 아랫면에는 없다. 다리와 더듬이는 황갈색이고 배는 광택이 있는 흑색 또는 암갈색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBO0055-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0055_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0055_1_th.jpg",
+      "alt": "그물등개미 1번째 사진 : 그물등개미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0055_1_th2.jpg",
+      "caption": "그물등개미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBO0055-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306262076",
+      "description": "[YNUE0306262076] 그물등개미 1996.06.25 / / 영남대학교"
+    },
+    {
+      "id": "CBNE0204201002",
+      "description": "[CBNE0204201002] 그물등개미 1996.08.18 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0204201003",
+      "description": "[CBNE0204201003] 그물등개미 1991.09.12 / / 충북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTBO0055.png",
+    "reference_image_id": "ZTBO0055-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T14:38:50.094639+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "71fd5731c4746dc42fbf28c12ff384ae13d9c72001794d79f45382fb30f9ab1d"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBO0055&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:37+00:00",
+    "html_sha256": "ffb001477da3c20017b39da2bcb259c0cdac4ff9d4adce0b27e6b09f3d87af57",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "id": "ZOBH0100",
+  "name_ko": "압록가슴먼지벌레",
+  "scientific_name": "Nebria (Eonebria) komarovi Semenov & Znoiko, 1928",
+  "display_name": "압록가슴먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "가슴먼지벌레아과",
+      "name_latin": "Nebriinae"
+    },
+    "genus": {
+      "name_ko": "가슴먼지벌레속",
+      "name_latin": "Nebria"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 가슴먼지벌레아과 (Nebriinae)\n속 : 가슴먼지벌레속 (Nebria)",
+  "basic_information": {
+    "곤충명": "압록가슴먼지벌레",
+    "학명": "Nebria (Eonebria) komarovi Semenov & Znoiko, 1928"
+  },
+  "information": {
+    "general_description": "몸길이는 11~15mm 이며, 다리와 촉각은 갈색이고 두부와 가슴, 딱지날개는 검은색또는 보라빛 광택을 낸다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 11~15mm 이며, 다리와 촉각은 갈색이고 두부와 가슴, 딱지날개는 검은색또는 보라빛 광택을 낸다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0100-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0100_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0100_2_th.jpg",
+      "alt": "압록가슴먼지벌레 1번째 사진 : 압록가슴먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0100_2_th2.jpg",
+      "caption": "압록가슴먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0100-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0100_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0100_1_th.jpg",
+      "alt": "압록가슴먼지벌레 2번째 사진 : 압록가슴먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0100_1_th2.jpg",
+      "caption": "압록가슴먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0100-1",
+  "specimen_examples": [
+    {
+      "id": "SJNE0203051065",
+      "description": "[SJNE0203051065] 압록가슴먼지벌레 1982.07.30 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0203051066",
+      "description": "[SJNE0203051066] 압록가슴먼지벌레 1983.06.05 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0203051056",
+      "description": "[SJNE0203051056] 압록가슴먼지벌레 1982.09.17 / / 상주대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0100-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0100&tabId=tab1",
+    "collected_at": "2026-11-04T14:14:42+00:00",
+    "html_sha256": "5cbe7ec635468c717961a31f8def4db5a50ba24f379cfc46f4f4476e4f0b2017",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

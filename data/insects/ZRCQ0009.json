@@ -1,0 +1,155 @@
+{
+  "id": "ZRCQ0009",
+  "name_ko": "왕자팔랑나비",
+  "scientific_name": "Daimio tethys (Ménétriès, 1857)",
+  "display_name": "왕자팔랑나비",
+  "family_ko": "팔랑나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "팔랑나비과",
+      "name_latin": "Hesperiidae"
+    },
+    "subfamily": {
+      "name_ko": "흰점팔랑나비아과",
+      "name_latin": "Pyrginae"
+    },
+    "genus": {
+      "name_ko": "왕자팔랑나비속",
+      "name_latin": "Daimio"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 팔랑나비과 (Hesperiidae)\n아과 : 흰점팔랑나비아과 (Pyrginae)\n속 : 왕자팔랑나비속 (Daimio)",
+  "basic_information": {
+    "곤충명": "왕자팔랑나비",
+    "학명": "Daimio tethys (Ménétriès, 1857)"
+  },
+  "information": {
+    "general_description": "날개모양이나 무늬로 암수를 구별하기는 어렵다. 배끝의 모양으로 구별하는 것이 가장 확실하다.",
+    "adult": null,
+    "adult_male": "수컷의 종아리마디에 긴 털다발이 있다.",
+    "adult_female": "암컷이 수컷보다 다소 크고 앞날개의 흰무늬와 뒷날개의 흰무늬 띠가 큰 경향이 있다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "암컷은 기주식물 잎 표면에 한 개씩 산란하는데 이 때 자신의 배털로 알을 덮는 습성이 있다. 애벌레는 잎을 삼각형으로 잘라 그 속에서 지낸다. 제주특별자치도의 개체들은 뒷날개 위면에 있는 흰 띠의 폭이 넓다.",
+    "habits": "잡목림 주변의 초지나 마을 주변에 서식한다. 수컷은 저녁 무렵 강하게 점유행동을 나타내어 다른 나비를 심하게 뒤쫓는 일이 많다. 엉겅퀴, 개망초 등의 꽃에서 날개를 펴고 앉아 흡밀하는 일이 많다.",
+    "season": null,
+    "overwintering": "애벌레",
+    "distribution": "[대만]\n[일본]\n[중국]\n[미얀마]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개모양이나 무늬로 암수를 구별하기는 어렵다. 배끝의 모양으로 구별하는 것이 가장 확실하다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "수컷의 종아리마디에 긴 털다발이 있다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "암컷이 수컷보다 다소 크고 앞날개의 흰무늬와 뒷날개의 흰무늬 띠가 큰 경향이 있다."
+    },
+    {
+      "title": "생태",
+      "text": "암컷은 기주식물 잎 표면에 한 개씩 산란하는데 이 때 자신의 배털로 알을 덮는 습성이 있다. 애벌레는 잎을 삼각형으로 잘라 그 속에서 지낸다. 제주특별자치도의 개체들은 뒷날개 위면에 있는 흰 띠의 폭이 넓다."
+    },
+    {
+      "title": "습성",
+      "text": "잡목림 주변의 초지나 마을 주변에 서식한다. 수컷은 저녁 무렵 강하게 점유행동을 나타내어 다른 나비를 심하게 뒤쫓는 일이 많다. 엉겅퀴, 개망초 등의 꽃에서 날개를 펴고 앉아 흡밀하는 일이 많다."
+    },
+    {
+      "title": "월동",
+      "text": "애벌레"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대만]\n[일본]\n[중국]\n[미얀마]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCQ0009-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRCQ0009_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRCQ0009_3.jpg",
+      "alt": "왕자팔랑나비 1번째 사진 : 왕자팔랑나비 수컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRCQ0009_3_th2.jpg",
+      "caption": "왕자팔랑나비 수컷 이미지",
+      "photographed_at": "20190613",
+      "location": "경기도 포천시 소흘읍 광릉숲",
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRCQ0009-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0009_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0009_2_th.jpg",
+      "alt": "왕자팔랑나비 2번째 사진 : 왕자팔랑나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0009_2_th2.jpg",
+      "caption": "왕자팔랑나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCQ0009-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0009_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0009_1_th.jpg",
+      "alt": "왕자팔랑나비 3번째 사진 : 왕자팔랑나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0009_1_th2.jpg",
+      "caption": "왕자팔랑나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCQ0009-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408111038",
+      "description": "[MPME0408111038] 왕자팔랑나비 2002.06.15 / / 목포자연사박물관"
+    },
+    {
+      "id": "SJNE0306171089",
+      "description": "[SJNE0306171089] 왕자팔랑나비 2002.06.18 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0306171090",
+      "description": "[SJNE0306171090] 왕자팔랑나비 2002.06.18 / / 상주대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "단풍마",
+      "scientific_name": "Dioscorea quinquelobata Thunb."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCQ0009-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCQ0009&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:44+00:00",
+    "html_sha256": "7185fa0f6cced88145fb0a6eb33da7250f73ef503c7d03210c44ec2181d06cf5",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

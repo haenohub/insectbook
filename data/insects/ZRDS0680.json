@@ -1,0 +1,118 @@
+{
+  "id": "ZRDS0680",
+  "name_ko": "선두리수염나방",
+  "scientific_name": "Hypena kengkalis Bremer, 1864",
+  "display_name": "선두리수염나방",
+  "family_ko": "태극나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "태극나방과",
+      "name_latin": "Erebidae"
+    },
+    "subfamily": {
+      "name_ko": "노랑수염나방아과",
+      "name_latin": "Hypeninae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Hypena"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 태극나방과 (Erebidae)\n아과 : 노랑수염나방아과 (Hypeninae)\n속 : (Hypena)",
+  "basic_information": {
+    "곤충명": "선두리수염나방",
+    "학명": "Hypena kengkalis Bremer, 1864"
+  },
+  "information": {
+    "general_description": "머리와 가슴의 등면은 회자색을 띠고, 배는 담회갈색을 띰. 앞날개의 바탕색이 수컷에서는 회자색이고, 암컷에서는 회갈색 바탕으로 약간의 보라 빛을 띰. 외횡선은 시정의 안쪽에서 뻗어 나왔고, 수컷은 외횡선의 안쪽에 접하여 농갈색을 띰. 또한 중실 안에는 1개의 백색 점이 있고, 아외연선의 점열은 뚜렷하지 않음. 암컷은 안쪽과 끝쪽에 흑색 점이 있고 아외연부에는 암색점의 열이 나타남. 뒷날개는 황갈색이고, 연모는 담색임.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 4～5월 및 7월경에 출현함.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "머리와 가슴의 등면은 회자색을 띠고, 배는 담회갈색을 띰. 앞날개의 바탕색이 수컷에서는 회자색이고, 암컷에서는 회갈색 바탕으로 약간의 보라 빛을 띰. 외횡선은 시정의 안쪽에서 뻗어 나왔고, 수컷은 외횡선의 안쪽에 접하여 농갈색을 띰. 또한 중실 안에는 1개의 백색 점이 있고, 아외연선의 점열은 뚜렷하지 않음. 암컷은 안쪽과 끝쪽에 흑색 점이 있고 아외연부에는 암색점의 열이 나타남. 뒷날개는 황갈색이고, 연모는 담색임."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 4～5월 및 7월경에 출현함."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0680-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0680_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0680_2_th.jpg",
+      "alt": "선두리수염나방 1번째 사진 : 선두리수염나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0680_2_th2.jpg",
+      "caption": "선두리수염나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDS0680-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0680_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0680_1_th.jpg",
+      "alt": "선두리수염나방 2번째 사진 : 선두리수염나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0680_1_th2.jpg",
+      "caption": "선두리수염나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0680-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0302182031",
+      "description": "[KNAE0302182031] 선두리수염나방 1988.10.16 / / 국립수목원"
+    },
+    {
+      "id": "FRIE0302271045",
+      "description": "[FRIE0302271045] 선두리수염나방 1998.04.22 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0203041030",
+      "description": "[FRIE0203041030] 선두리수염나방 1983.11.25 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDS0680-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0680&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:54+00:00",
+    "html_sha256": "03e1d3b5ef8dbef6dddf8740c7f8ba55782ad6ba4464a047d90220aa6989810a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

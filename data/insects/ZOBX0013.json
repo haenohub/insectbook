@@ -1,0 +1,118 @@
+{
+  "id": "ZOBX0013",
+  "name_ko": "개미붙이",
+  "scientific_name": "Thanasimus lewisi (Jacobson, 1911)",
+  "display_name": "개미붙이",
+  "family_ko": "개미붙이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "개미붙이상과",
+      "name_latin": "Cleroidea"
+    },
+    "family": {
+      "name_ko": "개미붙이과",
+      "name_latin": "Cleridae"
+    },
+    "subfamily": {
+      "name_ko": "개미붙이아과",
+      "name_latin": "Clerinae"
+    },
+    "genus": {
+      "name_ko": "개미붙이속",
+      "name_latin": "Thanasimus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 개미붙이상과 (Cleroidea)\n과 : 개미붙이과 (Cleridae)\n아과 : 개미붙이아과 (Clerinae)\n속 : 개미붙이속 (Thanasimus)",
+  "basic_information": {
+    "곤충명": "개미붙이",
+    "학명": "Thanasimus lewisi (Jacobson, 1911)"
+  },
+  "information": {
+    "general_description": "한국, 일본에 분포하며, 체장은 9mm 내외이다. 머리는 크고 점각을 밀포하였다. 촉각은 말단을 향할수록 넓어졌고 세마디는 구간상으로 되었다. 각 마디 기부와 말단 밑마디는 적갈색이고 말단절 전반은 황갈색이고 그 외는 흑색이다. 딱지날개에는 황백색 털로 된 가로무늬가 두줄 있다. 전면에는 흑갈색의 긴 직립 털이 났다. 날개밑의 적갈색부에는 강대한 점각렬이 있다. 이 부분의 뒷가두리에 백색 띠가 있는데 명확치 않다. 흑색부는 작은 점각을 밀포하고 그 중앙보다도 뒷쪽에 백색 띠가 한개 있다. 배는 적갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본에 분포하며, 체장은 9mm 내외이다. 머리는 크고 점각을 밀포하였다. 촉각은 말단을 향할수록 넓어졌고 세마디는 구간상으로 되었다. 각 마디 기부와 말단 밑마디는 적갈색이고 말단절 전반은 황갈색이고 그 외는 흑색이다. 딱지날개에는 황백색 털로 된 가로무늬가 두줄 있다. 전면에는 흑갈색의 긴 직립 털이 났다. 날개밑의 적갈색부에는 강대한 점각렬이 있다. 이 부분의 뒷가두리에 백색 띠가 있는데 명확치 않다. 흑색부는 작은 점각을 밀포하고 그 중앙보다도 뒷쪽에 백색 띠가 한개 있다. 배는 적갈색이다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBX0013-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBX0013_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBX0013_2.jpg",
+      "alt": "개미붙이 1번째 사진 : ",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBX0013_2_th2.jpg",
+      "caption": null,
+      "photographed_at": "20110526",
+      "location": null,
+      "photographer": "국립수목원(임종옥)"
+    },
+    {
+      "id": "ZOBX0013-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBX0013_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBX0013_1_th.jpg",
+      "alt": "개미붙이 2번째 사진 : 개미붙이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBX0013_1_th2.jpg",
+      "caption": "개미붙이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBX0013-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304101018",
+      "description": "[KNAE0304101018] 개미붙이 1992.04.02 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304101019",
+      "description": "[KNAE0304101019] 개미붙이 1993.08.28 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304101020",
+      "description": "[KNAE0304101020] 개미붙이 1993.08.28 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBX0013.png",
+    "reference_image_id": "ZOBX0013-2",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T17:05:47.312990+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "3d294184eb5fbf7301dabc181931103eb98aae94b58edefe0a6e9f3c57e56879"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBX0013&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:42+00:00",
+    "html_sha256": "3b876fd5527de42f449cf579b8a2ce693218602929f579eecc8872f124106397",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

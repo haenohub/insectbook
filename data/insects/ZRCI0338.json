@@ -1,0 +1,122 @@
+{
+  "id": "ZRCI0338",
+  "name_ko": "끝갈색가지나방",
+  "scientific_name": "Bizia aexaria Walker, 1860",
+  "display_name": "끝갈색가지나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "가지나방아과",
+      "name_latin": "Ennominae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Bizia"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 가지나방아과 (Ennominae)\n속 : (Bizia)",
+  "basic_information": {
+    "곤충명": "끝갈색가지나방",
+    "학명": "Bizia aexaria Walker, 1860"
+  },
+  "information": {
+    "general_description": "더듬이는 수컷이 빗살 모양이고, 암컷은 실모양. 앞날개의 날개끝은 다소뾰족,앞,뒷날개 모두 외연은 톱니모양. 몸과 날개는 모두 회황색. 머리,아랫입술수염, 다리는 암갈색. 몸의 배쪽면은 다소 갈색. 앞날개에 약간 갈색을띠는 내횡선과 중횡선. 외횡선은 작은 갈색 점줄로 되있음. 이들 3줄은 전연에서 1개씩의 암갈색 무늬를 형성.외연무는 암갈색,뒷날개도 암색의 중횡선과 외횡선. 날개끝은 암갈색. 연모는 앞날개에서 암갈색, 뒷날개에서 회황색으로 암갈색의 반문 존재.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6월 중순-7월 상순과 8월 하순-9월 상순에 출현. 연 2회 발생. 유충은 뽕나무류 등의 잎을 먹음.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[베트남]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 수컷이 빗살 모양이고, 암컷은 실모양. 앞날개의 날개끝은 다소뾰족,앞,뒷날개 모두 외연은 톱니모양. 몸과 날개는 모두 회황색. 머리,아랫입술수염, 다리는 암갈색. 몸의 배쪽면은 다소 갈색. 앞날개에 약간 갈색을띠는 내횡선과 중횡선. 외횡선은 작은 갈색 점줄로 되있음. 이들 3줄은 전연에서 1개씩의 암갈색 무늬를 형성.외연무는 암갈색,뒷날개도 암색의 중횡선과 외횡선. 날개끝은 암갈색. 연모는 앞날개에서 암갈색, 뒷날개에서 회황색으로 암갈색의 반문 존재."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6월 중순-7월 상순과 8월 하순-9월 상순에 출현. 연 2회 발생. 유충은 뽕나무류 등의 잎을 먹음."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[베트남]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0338-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0338_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0338_2_th.jpg",
+      "alt": "끝갈색가지나방 1번째 사진 : 끝갈색가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0338_2_th2.jpg",
+      "caption": "끝갈색가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0338-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0338_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0338_1_th.jpg",
+      "alt": "끝갈색가지나방 2번째 사진 : 끝갈색가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0338_1_th2.jpg",
+      "caption": "끝갈색가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0338-1",
+  "specimen_examples": [
+    {
+      "id": "SJNE0306141112",
+      "description": "[SJNE0306141112] 끝갈색가지나방 2000.07.03 / / 상주대학교"
+    },
+    {
+      "id": "FRIE0302171006",
+      "description": "[FRIE0302171006] 끝갈색가지나방 1987.06.23 / / 국립산림과학원"
+    },
+    {
+      "id": "GSNE0301211137",
+      "description": "[GSNE0301211137] 끝갈색가지나방 2000.06.30 / / 경상대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRCI0338.png",
+    "reference_image_id": "ZRCI0338-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T15:00:21.866825+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "0f586782c84a3166538b06cf0c6e1c8caaed53c33f72640bcc8df95491710d41"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0338&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:59+00:00",
+    "html_sha256": "bfa7e53afa01c70286482621b7824942fb5b586529b9f7d762547edaf68c14ff",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

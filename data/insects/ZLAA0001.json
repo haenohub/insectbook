@@ -1,0 +1,115 @@
+{
+  "id": "ZLAA0001",
+  "name_ko": "굵은가위뿔노린재",
+  "scientific_name": "Acanthosoma crassicaudum Jakovlev, 1880",
+  "display_name": "굵은가위뿔노린재",
+  "family_ko": "뿔노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "노린재상과",
+      "name_latin": "Pentatomoidea"
+    },
+    "family": {
+      "name_ko": "뿔노린재과",
+      "name_latin": "Acanthosomatidae"
+    },
+    "subfamily": {
+      "name_ko": "뿔노린재아과",
+      "name_latin": "Acanthosomatinae"
+    },
+    "genus": {
+      "name_ko": "뿔노린재속",
+      "name_latin": "Acanthosoma"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 노린재상과 (Pentatomoidea)\n과 : 뿔노린재과 (Acanthosomatidae)\n아과 : 뿔노린재아과 (Acanthosomatinae)\n속 : 뿔노린재속 (Acanthosoma)",
+  "basic_information": {
+    "곤충명": "굵은가위뿔노린재",
+    "학명": "Acanthosoma crassicaudum Jakovlev, 1880"
+  },
+  "information": {
+    "general_description": "몸길이 : 17-18mm\n몸은 선록색이고, 죽은 뒤에는 황록색 또는 오황색으로 변한다. 흑색의 점각이 있다. 겹눈은 갈색이고 홑눈은 홍색이다. 더듬이는 길다. 앞가슴등판의 옆 모서리는 둔하게 돌출하고 황색을 띤다. 작은방패판은 균일한 녹색이나 기부가 황색을 띤 개체도 있다. 반시초에는 무늬가 없고, 막질부는 길게 돌출했으며 연한 갈색이고 투명하다. 배의 등면은 선홍색이다. 가위돌기의 안쪽에는 긴 센털이 열생하고, 아랫면에서 보면 말단 가까이 흑색의 판모양의 돌출물이 있다.",
+    "adult": null,
+    "adult_male": "생식기는 극히 뚜렷하게 굵은 가위모양이고, 그 등면은 선홍색이나 죽은 후에는 퇴색한다.",
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "기주식물로는 양벚나무, 겹벚나무, 산옥매, 옥매, 산이스라지, 이스라지, 개벚나무, 매실나무, 열녀목, 산벚나무, 꽃벚나무, 벚나무, 왕벚나무 등이 알려져 있다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 17-18mm\n몸은 선록색이고, 죽은 뒤에는 황록색 또는 오황색으로 변한다. 흑색의 점각이 있다. 겹눈은 갈색이고 홑눈은 홍색이다. 더듬이는 길다. 앞가슴등판의 옆 모서리는 둔하게 돌출하고 황색을 띤다. 작은방패판은 균일한 녹색이나 기부가 황색을 띤 개체도 있다. 반시초에는 무늬가 없고, 막질부는 길게 돌출했으며 연한 갈색이고 투명하다. 배의 등면은 선홍색이다. 가위돌기의 안쪽에는 긴 센털이 열생하고, 아랫면에서 보면 말단 가까이 흑색의 판모양의 돌출물이 있다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "생식기는 극히 뚜렷하게 굵은 가위모양이고, 그 등면은 선홍색이나 죽은 후에는 퇴색한다."
+    },
+    {
+      "title": "생태",
+      "text": "기주식물로는 양벚나무, 겹벚나무, 산옥매, 옥매, 산이스라지, 이스라지, 개벚나무, 매실나무, 열녀목, 산벚나무, 꽃벚나무, 벚나무, 왕벚나무 등이 알려져 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLAA0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAA0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAA0001_1_th.jpg",
+      "alt": "굵은가위뿔노린재 1번째 사진 : 굵은가위뿔노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAA0001_1_th2.jpg",
+      "caption": "굵은가위뿔노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLAA0001-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0305031079",
+      "description": "[KPNE0305031079] 굵은가위뿔노린재 1978.06.19 / / 경북대학교"
+    },
+    {
+      "id": "FRIE0303191024",
+      "description": "[FRIE0303191024] 굵은가위뿔노린재 1981.10.17 / / 국립산림과학원"
+    },
+    {
+      "id": "YNUE0201122084",
+      "description": "[YNUE0201122084] 굵은가위뿔노린재 1989.05.23 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZLAA0001.png",
+    "reference_image_id": "ZLAA0001-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T14:11:58.345936+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "81a3797f3bb3b2a853c0482dec31ee5915bd4435b40fdda3a192538dbda44a4c"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLAA0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:28+00:00",
+    "html_sha256": "0c6734c7b6253e0183c3ef9dbe0e837df663e0a3150068a72efdb4d04d850bf5",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

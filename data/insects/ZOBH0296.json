@@ -1,0 +1,122 @@
+{
+  "id": "ZOBH0296",
+  "name_ko": "한국머리먼지벌레",
+  "scientific_name": "Harpalus (Harpalus) crates Bates, 1883",
+  "display_name": "한국머리먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "먼지벌레아과",
+      "name_latin": "Harpalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Harpalus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 먼지벌레아과 (Harpalinae)\n속 : (Harpalus)",
+  "basic_information": {
+    "곤충명": "한국머리먼지벌레",
+    "학명": "Harpalus (Harpalus) crates Bates, 1883"
+  },
+  "information": {
+    "general_description": "체색은 전체적으로 검은색이며 윤기가 나고, 상순과 대악은 검은색이고, 배면은 흑색을 띤다.\n전흉은 볼록한 형상이며, 등면은 평평한 형태이다.\n날개가 잘 발달되어 있다. 이들은 한국, 일본, 중국 등지에 분포되어 있다.",
+    "adult": null,
+    "adult_male": "수컷은 날개 표면은 일정한 미세무늬를 볼 수 있다.",
+    "adult_female": "암컷의 망상구조는 굉장히 작은 편이다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체색은 전체적으로 검은색이며 윤기가 나고, 상순과 대악은 검은색이고, 배면은 흑색을 띤다.\n전흉은 볼록한 형상이며, 등면은 평평한 형태이다.\n날개가 잘 발달되어 있다. 이들은 한국, 일본, 중국 등지에 분포되어 있다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "수컷은 날개 표면은 일정한 미세무늬를 볼 수 있다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "암컷의 망상구조는 굉장히 작은 편이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0296-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0296_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0296_2_th.jpg",
+      "alt": "한국머리먼지벌레 1번째 사진 : 한국머리먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0296_2_th2.jpg",
+      "caption": "한국머리먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0296-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0296_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0296_1_th.jpg",
+      "alt": "한국머리먼지벌레 2번째 사진 : 한국머리먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0296_1_th2.jpg",
+      "caption": "한국머리먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0296-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0302131125",
+      "description": "[KPNE0302131125] 한국머리먼지벌레 1985.05.10 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0302131126",
+      "description": "[KPNE0302131126] 한국머리먼지벌레 1972.04.12 / / 경북대학교"
+    },
+    {
+      "id": "SJNE0408151069",
+      "description": "[SJNE0408151069] 한국머리먼지벌레 1999.05.29 / / 상주대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0296-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0296&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:01+00:00",
+    "html_sha256": "77a3861515d1566193d9c05a1e96a3d1554535e03e998a230ea1531dd487a634",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

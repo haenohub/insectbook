@@ -1,0 +1,118 @@
+{
+  "id": "ZOBH0080",
+  "name_ko": "남두꺼비딱정벌레",
+  "scientific_name": "Coreocarabus fraterculus assimilis (Kwon & Lee, 1984)",
+  "display_name": "남두꺼비딱정벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "딱정벌레아과",
+      "name_latin": "Carabinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Coreocarabus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 딱정벌레아과 (Carabinae)\n속 : (Coreocarabus)",
+  "basic_information": {
+    "곤충명": "남두꺼비딱정벌레",
+    "학명": "Coreocarabus fraterculus assimilis (Kwon & Lee, 1984)"
+  },
+  "information": {
+    "general_description": "몸길이는 수컷은 17~19mm 암컷은 19~21mm이며 일반적으로 검은색 광택이 나고 촉각은 가늘고 수컷인 경우 딱지날개의 중간 부분까지 이른다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "포식성이며, 고산지역에서 서식한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[포식성]\n[한국고유종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 수컷은 17~19mm 암컷은 19~21mm이며 일반적으로 검은색 광택이 나고 촉각은 가늘고 수컷인 경우 딱지날개의 중간 부분까지 이른다."
+    },
+    {
+      "title": "생태",
+      "text": "포식성이며, 고산지역에서 서식한다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[포식성]\n[한국고유종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0080-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0080_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0080_2_th.jpg",
+      "alt": "남두꺼비딱정벌레 1번째 사진 : 남두꺼비딱정벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0080_2_th2.jpg",
+      "caption": "남두꺼비딱정벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0080-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0080_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0080_1_th.jpg",
+      "alt": "남두꺼비딱정벌레 2번째 사진 : 남두꺼비딱정벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0080_1_th2.jpg",
+      "caption": "남두꺼비딱정벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0080-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0301281075",
+      "description": "[KPNE0301281075] 남두꺼비딱정벌레 1994.07.24 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0301281076",
+      "description": "[KPNE0301281076] 남두꺼비딱정벌레 1994.08.08 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0301281078",
+      "description": "[KPNE0301281078] 남두꺼비딱정벌레 1994.08.08 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBH0080.png",
+    "reference_image_id": "ZOBH0080-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T16:20:35.088914+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "9514e7793ae512918199c7cc2c49effea9dc896ce2362e66447d75809595e11e"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0080&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:20+00:00",
+    "html_sha256": "2854232e7b31afe4a5119e89ae41b62945aeac64086c4e521d71c36d9b3bb565",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "ZTDO0142",
+  "name_ko": "꼬마검정잎벌",
+  "scientific_name": "Dolerus (Poodolerus) coracinus (Klug, 1818)",
+  "display_name": "꼬마검정잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "줄잎벌아과",
+      "name_latin": "Selandriinae"
+    },
+    "genus": {
+      "name_ko": "보리잎벌속",
+      "name_latin": "Dolerus"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 줄잎벌아과 (Selandriinae)\n속 : 보리잎벌속 (Dolerus)",
+  "basic_information": {
+    "곤충명": "꼬마검정잎벌",
+    "학명": "Dolerus (Poodolerus) coracinus (Klug, 1818)"
+  },
+  "information": {
+    "general_description": "윗입술은 작고 편평하며, 머리방패는 점각이 깊고 거칠며 때때로 비대칭적으로 오목하여 우엽은 좌엽보다 조금 길게 나타나기도 한다. malar space는 넓고 보통 안테나 제 2마디 길이보다는 기렴, 복안은 작고 안쪽 가두리가 편평하거나 볼록하다. 안테나는 기고 강건하며 강모가 있고 제 4마디보다 제 3마디는 길이가 길다.제 1발목마디는 제 2,제3발목마디 길이의 합보다 짧으며 sheath는 강모를 가지고 산란관과 함께 여러 가지 형태를 가진다. 복부는 금속성 광택이 있다. 앞다리는 다소 적갈색이나 흑갈색이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "윗입술은 작고 편평하며, 머리방패는 점각이 깊고 거칠며 때때로 비대칭적으로 오목하여 우엽은 좌엽보다 조금 길게 나타나기도 한다. malar space는 넓고 보통 안테나 제 2마디 길이보다는 기렴, 복안은 작고 안쪽 가두리가 편평하거나 볼록하다. 안테나는 기고 강건하며 강모가 있고 제 4마디보다 제 3마디는 길이가 길다.제 1발목마디는 제 2,제3발목마디 길이의 합보다 짧으며 sheath는 강모를 가지고 산란관과 함께 여러 가지 형태를 가진다. 복부는 금속성 광택이 있다. 앞다리는 다소 적갈색이나 흑갈색이 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0142-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0142_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0142_1_th.jpg",
+      "alt": "꼬마검정잎벌 1번째 사진 : 꼬마검정잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0142_1_th2.jpg",
+      "caption": "꼬마검정잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0142-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305171062",
+      "description": "[YNUE0305171062] 꼬마검정잎벌 1978.05.06 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTDO0142.png",
+    "reference_image_id": "ZTDO0142-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T10:25:20.066061+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "817f1e55bea3d7de5d78c294554557a8519617309c992c3dcda4efb353618f93"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0142&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:28+00:00",
+    "html_sha256": "cc7642e3ae089159c63615511474ea7a27b168690e99beecf37836f25edc2157",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

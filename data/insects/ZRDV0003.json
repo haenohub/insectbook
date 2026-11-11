@@ -1,0 +1,156 @@
+{
+  "id": "ZRDV0003",
+  "name_ko": "번개오색나비",
+  "scientific_name": "Apatura iris (Linnaeus, 1758)",
+  "display_name": "번개오색나비",
+  "family_ko": "네발나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "네발나비과",
+      "name_latin": "Nymphalidae"
+    },
+    "subfamily": {
+      "name_ko": "오색나비아과",
+      "name_latin": "Apaturinae"
+    },
+    "genus": {
+      "name_ko": "오색나비속",
+      "name_latin": "Apatura"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 네발나비과 (Nymphalidae)\n아과 : 오색나비아과 (Apaturinae)\n속 : 오색나비속 (Apatura)",
+  "basic_information": {
+    "곤충명": "번개오색나비",
+    "학명": "Apatura iris (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "오색나비와 유사하나 뒷날개 윗면 중앙의 흰띠가 제4맥을 따라 뾰족하게 밖으로 튀어나와 구별하기가 쉽다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": "암컷은 수컷보다 크며 날개 윗면의 색이 수컷에 비하여 연한 흑갈색을 띠고 있다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "암컷은 기주식물의 잎 표면에 한 개씩 산란한다.",
+    "habits": "지리산 이북 700m 이상의 높은 산지에 서식하며, 개체수도 많은 편이다. 습지에 잘 모여 흡수하는데 앞 두 종과는 달리 수컷은 산 정상의 나무 끝에서 점유행동을 강하게 한다.",
+    "season": null,
+    "overwintering": "애벌레",
+    "distribution": "[중국]\n[러시아]\n[유럽]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "오색나비와 유사하나 뒷날개 윗면 중앙의 흰띠가 제4맥을 따라 뾰족하게 밖으로 튀어나와 구별하기가 쉽다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "암컷은 수컷보다 크며 날개 윗면의 색이 수컷에 비하여 연한 흑갈색을 띠고 있다."
+    },
+    {
+      "title": "생태",
+      "text": "암컷은 기주식물의 잎 표면에 한 개씩 산란한다."
+    },
+    {
+      "title": "습성",
+      "text": "지리산 이북 700m 이상의 높은 산지에 서식하며, 개체수도 많은 편이다. 습지에 잘 모여 흡수하는데 앞 두 종과는 달리 수컷은 산 정상의 나무 끝에서 점유행동을 강하게 한다."
+    },
+    {
+      "title": "월동",
+      "text": "애벌레"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[러시아]\n[유럽]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDV0003-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0003_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0003_3.jpg",
+      "alt": "번개오색나비 1번째 사진 : 번개오색나비 수컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0003_3_th2.jpg",
+      "caption": "번개오색나비 수컷 이미지",
+      "photographed_at": "20190620",
+      "location": "강원도 화천군 화천읍 해산령",
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRDV0003-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0003_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0003_2_th.jpg",
+      "alt": "번개오색나비 2번째 사진 : 번개오색나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0003_2_th2.jpg",
+      "caption": "번개오색나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDV0003-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0003_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0003_1_th.jpg",
+      "alt": "번개오색나비 3번째 사진 : 번개오색나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0003_1_th2.jpg",
+      "caption": "번개오색나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDV0003-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0306031059",
+      "description": "[FRIE0306031059] 번개오색나비 1989.07.31 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0306031060",
+      "description": "[FRIE0306031060] 번개오색나비 1984.08.09 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0306031061",
+      "description": "[FRIE0306031061] 번개오색나비 1986.07.25 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "버드나무",
+      "scientific_name": "Salix pierotii Miq."
+    },
+    {
+      "group": "식물",
+      "name_ko": "호랑버들",
+      "scientific_name": "Salix caprea L."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDV0003-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDV0003&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:44+00:00",
+    "html_sha256": "9e9317c253db575cf68436bdb7136036bde5b342b447739713a94b7bc5e0b574",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

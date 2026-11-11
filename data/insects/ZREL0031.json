@@ -1,0 +1,111 @@
+{
+  "id": "ZREL0031",
+  "name_ko": "깨다시풀명나방",
+  "scientific_name": "Neopediasia mixtalis (Walker, 1863)",
+  "display_name": "깨다시풀명나방",
+  "family_ko": "풀명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "풀명나방과",
+      "name_latin": "Crambidae"
+    },
+    "subfamily": {
+      "name_ko": "풀명나방아과",
+      "name_latin": "Crambinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Neopediasia"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 풀명나방과 (Crambidae)\n아과 : 풀명나방아과 (Crambinae)\n속 : (Neopediasia)",
+  "basic_information": {
+    "곤충명": "깨다시풀명나방",
+    "학명": "Neopediasia mixtalis (Walker, 1863)"
+  },
+  "information": {
+    "general_description": "머리는 담백갈색과 갈색의 인편이 섞여 있고, 앞이마는 둥글며, 더듬이는 담갈색이다. 아랫입술수염은 아주 길며, 앞으로 뻗어 있고, 흑갈색과 갈색의 인편이 섞여 있으며, 끝부분은 농색이다. 가슴의 등쪽면은 회갈색이고, 배의 등쪽면은 다소 담갈색기를 나타내는 백색이다. 앞날개의 색깔은 이화명나방과 비슷하나 무늬가 다르고, 이화명나방의 이마는 앞쪽으로 돌출되어 있으나 이 종은 그렇지 않다. 앞날개에는 2개의 갈색 줄이 명료하게 나타나는 개체도 있으나 불명료한 개체도 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아] 극동지역\n[러시아] 극동지역",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "머리는 담백갈색과 갈색의 인편이 섞여 있고, 앞이마는 둥글며, 더듬이는 담갈색이다. 아랫입술수염은 아주 길며, 앞으로 뻗어 있고, 흑갈색과 갈색의 인편이 섞여 있으며, 끝부분은 농색이다. 가슴의 등쪽면은 회갈색이고, 배의 등쪽면은 다소 담갈색기를 나타내는 백색이다. 앞날개의 색깔은 이화명나방과 비슷하나 무늬가 다르고, 이화명나방의 이마는 앞쪽으로 돌출되어 있으나 이 종은 그렇지 않다. 앞날개에는 2개의 갈색 줄이 명료하게 나타나는 개체도 있으나 불명료한 개체도 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아] 극동지역\n[러시아] 극동지역"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0031-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0031_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0031_1_th.jpg",
+      "alt": "깨다시풀명나방 1번째 사진 : 깨다시포충나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0031_1_th2.jpg",
+      "caption": "깨다시포충나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0031-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0201154059",
+      "description": "[YNUE0201154059] 깨다시풀명나방 1998.05.23 / / 영남대학교"
+    },
+    {
+      "id": "KNUE0407261013",
+      "description": "[KNUE0407261013] 깨다시풀명나방 1996.06.07 / / 강원대학교"
+    },
+    {
+      "id": "KNUE0407261015",
+      "description": "[KNUE0407261015] 깨다시풀명나방 1985.06.25 / / 강원대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZREL0031.png",
+    "reference_image_id": "ZREL0031-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T10:07:39.875023+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "409c950533f83dfdb7ccd00e673b6ccb009dc680c52e6ace716e8a29cbaec185"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0031&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:21+00:00",
+    "html_sha256": "8bd30339fcac921367e29b07df56f1d6d730acf949cd076706102e284df131e2",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

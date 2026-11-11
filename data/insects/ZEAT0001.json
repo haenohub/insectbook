@@ -1,0 +1,135 @@
+{
+  "id": "ZEAT0001",
+  "name_ko": "섬서구메뚜기",
+  "scientific_name": "Atractomorpha lata (Motschulsky, 1866)",
+  "display_name": "섬서구메뚜기",
+  "family_ko": "섬서구메뚜기과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "메뚜기목",
+      "name_latin": "Orthoptera"
+    },
+    "family": {
+      "name_ko": "섬서구메뚜기과",
+      "name_latin": "Pyrgomorphidae"
+    },
+    "subfamily": {
+      "name_ko": "섬서구메뚜기아과",
+      "name_latin": "Pyrgomorphinae"
+    },
+    "genus": {
+      "name_ko": "섬서구메뚜기속",
+      "name_latin": "Atractomorpha"
+    }
+  },
+  "taxonomy_text": "목 : 메뚜기목 (Orthoptera)\n과 : 섬서구메뚜기과 (Pyrgomorphidae)\n아과 : 섬서구메뚜기아과 (Pyrgomorphinae)\n속 : 섬서구메뚜기속 (Atractomorpha)",
+  "basic_information": {
+    "곤충명": "섬서구메뚜기",
+    "학명": "Atractomorpha lata (Motschulsky, 1866)"
+  },
+  "information": {
+    "general_description": "몸길이 28~42mm이며 몸은 작고 옅은 녹색이며 암컷은 수컷에 비하여 대단히 크다. 머리는 원추형이고 머리꼭대기돌기는 겹눈보다 길고 말단일수록 좁아졌으나 뾰족하지는 않다. 등쪽은 넓적하고 중앙에 1개의 가는 종구가 있는데 뒷머리의 뒷가두리까지 달한다. 얼굴의 융기는 가늘고 겹눈 뒷쪽의 옆가두리선은 올톡볼콕한 돌기로 되었다. 촉각은 칼모양이고 앞가슴은 길고 넓적하며 뒷쪽일수록 넓어졌으며 앞가두리는 직선이고 뒷가두리는 둔하게 모졌고 3개의 융기선은 다소 뚜렷하고 중앙에서 2개의 횡구로써 절단되었다. 옆조각은 낮고 아랫가두리는 올록볼록한 알로 연결된 선이 있다. 앞날개는 가늘고 길며 말단은 뾰족하다. 뒷날개의 1/2밑은 옅은 황색이고 뒷허벅마디는 가늘고 꼬리끝에 달한다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 28~42mm이며 몸은 작고 옅은 녹색이며 암컷은 수컷에 비하여 대단히 크다. 머리는 원추형이고 머리꼭대기돌기는 겹눈보다 길고 말단일수록 좁아졌으나 뾰족하지는 않다. 등쪽은 넓적하고 중앙에 1개의 가는 종구가 있는데 뒷머리의 뒷가두리까지 달한다. 얼굴의 융기는 가늘고 겹눈 뒷쪽의 옆가두리선은 올톡볼콕한 돌기로 되었다. 촉각은 칼모양이고 앞가슴은 길고 넓적하며 뒷쪽일수록 넓어졌으며 앞가두리는 직선이고 뒷가두리는 둔하게 모졌고 3개의 융기선은 다소 뚜렷하고 중앙에서 2개의 횡구로써 절단되었다. 옆조각은 낮고 아랫가두리는 올록볼록한 알로 연결된 선이 있다. 앞날개는 가늘고 길며 말단은 뾰족하다. 뒷날개의 1/2밑은 옅은 황색이고 뒷허벅마디는 가늘고 꼬리끝에 달한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZEAT0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAT0001_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAT0001_2_th.jpg",
+      "alt": "섬서구메뚜기 1번째 사진 : 섬서구메뚜기전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAT0001_2_th2.jpg",
+      "caption": "섬서구메뚜기전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZEAT0001-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAT0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAT0001_1_th.jpg",
+      "alt": "섬서구메뚜기 2번째 사진 : 섬서구메뚜기전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAT0001_1_th2.jpg",
+      "caption": "섬서구메뚜기전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZEAT0001-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0301272098",
+      "description": "[UIBE0301272098] 섬서구메뚜기 1994.08.30 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301272103",
+      "description": "[UIBE0301272103] 섬서구메뚜기 1994.04.19 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301272102",
+      "description": "[UIBE0301272102] 섬서구메뚜기 1994.04.19 / / 인천대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "녹나무",
+      "scientific_name": "Camphora officinarum Nees"
+    },
+    {
+      "group": "식물",
+      "name_ko": "무궁화",
+      "scientific_name": "Hibiscus syriacus L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "벚나무",
+      "scientific_name": "Prunus serrulata f. spontanea (Maxim.) Chin S.Chang"
+    },
+    {
+      "group": "식물",
+      "name_ko": "오리나무",
+      "scientific_name": "Alnus japonica (Thunb.) Steud."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZEAT0001-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZEAT0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:58+00:00",
+    "html_sha256": "982b3197ea90d8b5b5ad213ef08e91a51c8677c2a4afa3b68e55ac9f656e9ad6",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

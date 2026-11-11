@@ -1,0 +1,122 @@
+{
+  "id": "ZOBT0121",
+  "name_ko": "중국청람색잎벌레",
+  "scientific_name": "Chrysochus chinensis Baly, 1859",
+  "display_name": "중국청람색잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "꼽추잎벌레아과",
+      "name_latin": "Eumolpinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Chrysochus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 꼽추잎벌레아과 (Eumolpinae)\n속 : (Chrysochus)",
+  "basic_information": {
+    "곤충명": "중국청람색잎벌레",
+    "학명": "Chrysochus chinensis Baly, 1859"
+  },
+  "information": {
+    "general_description": "몸길이는 11~23mm, 몸이 통통하며, 흑색, 남색, 보라색, 광택이 강하다. 머리는 중간 뒷쪽에 홈이 나있다. 앞가슴등판의 옆에 홈모양의 테두리가 있다. 한국, 중국, 동시베리아, 봉고, 일본(혼슈,큐슈)에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 봄~가을까지 보인다. 주로 6월에 왕성한 활동을한다. 고구마잎을 먹는다. 유충은 땅속에서 생활한다.",
+    "habits": "기주식물 박주가리, 고구마.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 11~23mm, 몸이 통통하며, 흑색, 남색, 보라색, 광택이 강하다. 머리는 중간 뒷쪽에 홈이 나있다. 앞가슴등판의 옆에 홈모양의 테두리가 있다. 한국, 중국, 동시베리아, 봉고, 일본(혼슈,큐슈)에 분포되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 봄~가을까지 보인다. 주로 6월에 왕성한 활동을한다. 고구마잎을 먹는다. 유충은 땅속에서 생활한다."
+    },
+    {
+      "title": "습성",
+      "text": "기주식물 박주가리, 고구마."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0121-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0121_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0121_2_th.jpg",
+      "alt": "중국청람색잎벌레 1번째 사진 : 중국청람색잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0121_2_th2.jpg",
+      "caption": "중국청람색잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBT0121-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0121_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0121_1_th.jpg",
+      "alt": "중국청람색잎벌레 2번째 사진 : 중국청람색잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0121_1_th2.jpg",
+      "caption": "중국청람색잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0121-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0307151212",
+      "description": "[KUIE0307151212] 중국청람색잎벌레 1956.07.23 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307151213",
+      "description": "[KUIE0307151213] 중국청람색잎벌레 1957.09.14 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307151214",
+      "description": "[KUIE0307151214] 중국청람색잎벌레 1957.10.09 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0121-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0121&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:25+00:00",
+    "html_sha256": "50d85e25cfafec366d098f4e0b9ce87fc6c95d5092ad47757fb311018d4168fd",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

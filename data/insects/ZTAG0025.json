@@ -1,0 +1,103 @@
+{
+  "id": "ZTAG0025",
+  "name_ko": "히꼬산애꽃벌",
+  "scientific_name": "Andrena (Micrandrena) hikosana Hirashima, 1957",
+  "display_name": "히꼬산애꽃벌",
+  "family_ko": "애꽃벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "애꽃벌과",
+      "name_latin": "Andrenidae"
+    },
+    "subfamily": {
+      "name_ko": "애꽃벌아과",
+      "name_latin": "Andreninae"
+    },
+    "genus": {
+      "name_ko": "애꽃벌속",
+      "name_latin": "Andrena"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 애꽃벌과 (Andrenidae)\n아과 : 애꽃벌아과 (Andreninae)\n속 : 애꽃벌속 (Andrena)",
+  "basic_information": {
+    "곤충명": "히꼬산애꽃벌",
+    "학명": "Andrena (Micrandrena) hikosana Hirashima, 1957"
+  },
+  "information": {
+    "general_description": "암컷의 머리에는 앞에서 보았을 때 길이와 폭이 비슷하고 둥근편이다. 얼굴에는 흰색털이 성글게 나 있다 머리방패는 볼록하다. 가슴에는 흰색 털이 성글게 나있고 거의 털이 없는 편이다. 표면에는 비늘모양의 조각들이 매끄럽게 되어 매우 강한 광택이 있다. 배는 전체적으로 짙은 검은 색이고 각 배마디 끝은 두껍게 되어있다. 털은 거의 없으며 양쪽가장자리에 약간의 흰색털이 성글게 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷의 머리에는 앞에서 보았을 때 길이와 폭이 비슷하고 둥근편이다. 얼굴에는 흰색털이 성글게 나 있다 머리방패는 볼록하다. 가슴에는 흰색 털이 성글게 나있고 거의 털이 없는 편이다. 표면에는 비늘모양의 조각들이 매끄럽게 되어 매우 강한 광택이 있다. 배는 전체적으로 짙은 검은 색이고 각 배마디 끝은 두껍게 되어있다. 털은 거의 없으며 양쪽가장자리에 약간의 흰색털이 성글게 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0025-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0025_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0025_1_th.jpg",
+      "alt": "히꼬산애꽃벌 1번째 사진 : 히꼬산애꽃벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0025_1_th2.jpg",
+      "caption": "히꼬산애꽃벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0025-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306278023",
+      "description": "[YNUE0306278023] 히꼬산애꽃벌 1997.05.03 / / 영남대학교"
+    },
+    {
+      "id": "KUIE0408112003",
+      "description": "[KUIE0408112003] 히꼬산애꽃벌 1998.05.22 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0408102009",
+      "description": "[KUIE0408102009] 히꼬산애꽃벌 1997.07.23 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAG0025-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0025&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:59+00:00",
+    "html_sha256": "92ad5c91fc4d8a60bb13257dccd860f8ff493fcd5eab83c0f58480f66672d18c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

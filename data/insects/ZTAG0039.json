@@ -1,0 +1,95 @@
+{
+  "id": "ZTAG0039",
+  "name_ko": "야스마쓰곤봉꼬마꽃벌",
+  "scientific_name": "Lipotriches (Lipotriches) yasumatsui koreana (Hirashima, 1961)",
+  "display_name": "야스마쓰곤봉꼬마꽃벌",
+  "family_ko": "꼬마꽃벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "꼬마꽃벌과",
+      "name_latin": "Halictidae"
+    },
+    "subfamily": {
+      "name_ko": "띠꼬마꽃벌아과",
+      "name_latin": "Nomiinae"
+    },
+    "genus": {
+      "name_ko": "곤봉꼬마꽃벌속",
+      "name_latin": "Lipotriches"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 꼬마꽃벌과 (Halictidae)\n아과 : 띠꼬마꽃벌아과 (Nomiinae)\n속 : 곤봉꼬마꽃벌속 (Lipotriches)",
+  "basic_information": {
+    "곤충명": "야스마쓰곤봉꼬마꽃벌",
+    "학명": "Lipotriches (Lipotriches) yasumatsui koreana (Hirashima, 1961)"
+  },
+  "information": {
+    "general_description": "몸길이는 8-9mm 정도이며, 몸 전체가 흑색이고, 털은 다소 검다. 암컷은 종아리에 꽃가루 솔이 있으며, 배의 아랫면에도 털이 있고 꽃가루를 모은다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 8-9mm 정도이며, 몸 전체가 흑색이고, 털은 다소 검다. 암컷은 종아리에 꽃가루 솔이 있으며, 배의 아랫면에도 털이 있고 꽃가루를 모은다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0039-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0039_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0039_1_th.jpg",
+      "alt": "야스마쓰곤봉꼬마꽃벌 1번째 사진 : 야스마쓰곤봉애꽃벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0039_1_th2.jpg",
+      "caption": "야스마쓰곤봉애꽃벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0039-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306278001",
+      "description": "[YNUE0306278001] 야스마쓰곤봉꼬마꽃벌 1956.08.20 / / 영남대학교"
+    },
+    {
+      "id": "KUIE0408102022",
+      "description": "[KUIE0408102022] 야스마쓰곤봉꼬마꽃벌 1998.08.04 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAG0039-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0039&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:25+00:00",
+    "html_sha256": "7e151b4973208b0da564362a869483cdfa0a2769f29399c072f1d350b0f08629",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "ZMAR0020",
+  "name_ko": "버들머리매미충",
+  "scientific_name": "Populicerus populi (Linnaeus, 1761)",
+  "display_name": "버들머리매미충",
+  "family_ko": "매미충과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "뿔매미상과",
+      "name_latin": "Membracoidea"
+    },
+    "family": {
+      "name_ko": "매미충과",
+      "name_latin": "Cicadellidae"
+    },
+    "subfamily": {
+      "name_ko": "머리매미충아과",
+      "name_latin": "Eurymelinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Populicerus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 뿔매미상과 (Membracoidea)\n과 : 매미충과 (Cicadellidae)\n아과 : 머리매미충아과 (Eurymelinae)\n속 : (Populicerus)",
+  "basic_information": {
+    "곤충명": "버들머리매미충",
+    "학명": "Populicerus populi (Linnaeus, 1761)"
+  },
+  "information": {
+    "general_description": "몸길이:6.1-6.9mm.\n몸의 등면은 황백색에 희미한 청색을 가진다. 머리는 뒷가장자리가 크게 만입되어 양 겹눈을 잇는 굽은 띠 모양이다. 겹눈은 몸에서 약간 돌출되었고 앞가슴등판의 전반부에 1쌍의 무색 얼룩이 있고 뒷변은 유선형으로 굽어 중간 부분은 만입되었다. 작은방패판은 삼각형이고 양 모서리에 황색 무늬가 있다. 중간에 八자 모양의 홈이 있다. 날개는 유백색이고 시단부를 제외하고 날개맥은 옅은 하늘색이다. 겹눈의 안가장자리 부분은 담황갈색의 띠를형성하고 돌출부는 암갈색이다. 앞다리의 종아리마디 안쪽에 센털줄이 있고 뒷다리의 종아리마디에도 센털줄이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[영국]\n[유럽]\n[일본]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이:6.1-6.9mm.\n몸의 등면은 황백색에 희미한 청색을 가진다. 머리는 뒷가장자리가 크게 만입되어 양 겹눈을 잇는 굽은 띠 모양이다. 겹눈은 몸에서 약간 돌출되었고 앞가슴등판의 전반부에 1쌍의 무색 얼룩이 있고 뒷변은 유선형으로 굽어 중간 부분은 만입되었다. 작은방패판은 삼각형이고 양 모서리에 황색 무늬가 있다. 중간에 八자 모양의 홈이 있다. 날개는 유백색이고 시단부를 제외하고 날개맥은 옅은 하늘색이다. 겹눈의 안가장자리 부분은 담황갈색의 띠를형성하고 돌출부는 암갈색이다. 앞다리의 종아리마디 안쪽에 센털줄이 있고 뒷다리의 종아리마디에도 센털줄이 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[영국]\n[유럽]\n[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMAR0020-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0020_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0020_1_th.jpg",
+      "alt": "버들머리매미충 1번째 사진 : 버들머리매미충전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0020_1_th2.jpg",
+      "caption": "버들머리매미충전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMAR0020-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0408221095",
+      "description": "[UIBE0408221095] 버들머리매미충 1995.08.26 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0408221096",
+      "description": "[UIBE0408221096] 버들머리매미충 1995.08.26 / / 인천대학교"
+    },
+    {
+      "id": "KPNE0305171300",
+      "description": "[KPNE0305171300] 버들머리매미충 1982.07.28 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZMAR0020-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMAR0020&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:40+00:00",
+    "html_sha256": "fbeb43a91e1ecc57735b15a7074be43c4f812ed30e3dc7a7641b08d919f95121",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

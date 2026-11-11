@@ -1,0 +1,122 @@
+{
+  "id": "ZRCI0400",
+  "name_ko": "깃노랑가지나방",
+  "scientific_name": "Euryobeidia languidata (Walker, 1862)",
+  "display_name": "깃노랑가지나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "가지나방아과",
+      "name_latin": "Ennominae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Euryobeidia"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 가지나방아과 (Ennominae)\n속 : (Euryobeidia)",
+  "basic_information": {
+    "곤충명": "깃노랑가지나방",
+    "학명": "Euryobeidia languidata (Walker, 1862)"
+  },
+  "information": {
+    "general_description": "제주특별자치도(성판악), 오대산과 한국, 일본, 중국, 북부 인디아에 분포한다. 더듬이는 수컷이 미모상이고, 암컷은 실 모양이다. 개체에 따라 암색 무늬의 크기에 변이가 있다.\n앞·뒷날개는 모두 암색 무늬가 날개 중앙을 비워 놓고 주위에 있다. 뒷날개 외연부에는 등황색의 무늬가 있다.\n날개길이 : 40mm",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 8～9월에 출현한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "제주특별자치도(성판악), 오대산과 한국, 일본, 중국, 북부 인디아에 분포한다. 더듬이는 수컷이 미모상이고, 암컷은 실 모양이다. 개체에 따라 암색 무늬의 크기에 변이가 있다.\n앞·뒷날개는 모두 암색 무늬가 날개 중앙을 비워 놓고 주위에 있다. 뒷날개 외연부에는 등황색의 무늬가 있다.\n날개길이 : 40mm"
+    },
+    {
+      "title": "생태",
+      "text": "성충은 8～9월에 출현한다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0400-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0400_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0400_2_th.jpg",
+      "alt": "깃노랑가지나방 1번째 사진 : 깃노랑가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0400_2_th2.jpg",
+      "caption": "깃노랑가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0400-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0400_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0400_1_th.jpg",
+      "alt": "깃노랑가지나방 2번째 사진 : 깃노랑가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0400_1_th2.jpg",
+      "caption": "깃노랑가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0400-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408111055",
+      "description": "[MPME0408111055] 깃노랑가지나방 2002.06.22 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPNE0408101145",
+      "description": "[MPNE0408101145] 깃노랑가지나방 2003.06.26 / / 목포 대학교 환경연구소"
+    },
+    {
+      "id": "MPNE0408101146",
+      "description": "[MPNE0408101146] 깃노랑가지나방 2003.06.26 / / 목포 대학교 환경연구소"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRCI0400.png",
+    "reference_image_id": "ZRCI0400-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T09:39:26.712044+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "a73ee77983a378ab7c384133caa321c3d24dd762a6a3c82f07c8e8fa1df6e261"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0400&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:14+00:00",
+    "html_sha256": "f1a3afda6dabcf885d1a99b735427a9b5b735d2536ecf393e666fb275e306287",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

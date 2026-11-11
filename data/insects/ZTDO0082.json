@@ -1,0 +1,99 @@
+{
+  "id": "ZTDO0082",
+  "name_ko": "뚱뚱보검정잎벌",
+  "scientific_name": "Macrophya obesa Takeuchi, 1933",
+  "display_name": "뚱뚱보검정잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "잎벌아과",
+      "name_latin": "Tenthredininae"
+    },
+    "genus": {
+      "name_ko": "검정잎벌속",
+      "name_latin": "Macrophya"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 잎벌아과 (Tenthredininae)\n속 : 검정잎벌속 (Macrophya)",
+  "basic_information": {
+    "곤충명": "뚱뚱보검정잎벌",
+    "학명": "Macrophya obesa Takeuchi, 1933"
+  },
+  "information": {
+    "general_description": "암컷의 몸은 흑색이며, 작은방패판과 끝 배마디의 중앙점은 백색이고 더듬이는 흑색이다. 몸은 강장하고 머리는 작고 위에서 보면 길이보다 3배나 넓다.더듬이는 짧고 실 모양,자루마디는 그 끝 너비보다 약간 길다. 배는 광택이 있고 산란관집은 위쪽이 약간, 아래쪽은 세게 돌출했고 끝은 둥글다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷의 몸은 흑색이며, 작은방패판과 끝 배마디의 중앙점은 백색이고 더듬이는 흑색이다. 몸은 강장하고 머리는 작고 위에서 보면 길이보다 3배나 넓다.더듬이는 짧고 실 모양,자루마디는 그 끝 너비보다 약간 길다. 배는 광택이 있고 산란관집은 위쪽이 약간, 아래쪽은 세게 돌출했고 끝은 둥글다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0082-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0082_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0082_1_th.jpg",
+      "alt": "뚱뚱보검정잎벌 1번째 사진 : 뚱뚱보검정잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0082_1_th2.jpg",
+      "caption": "뚱뚱보검정잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0082-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305211019",
+      "description": "[YNUE0305211019] 뚱뚱보검정잎벌 1992.06.29 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0111283082",
+      "description": "[YNUE0111283082] 뚱뚱보검정잎벌 1997.05.23 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0111283081",
+      "description": "[YNUE0111283081] 뚱뚱보검정잎벌 1997.05.23 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDO0082-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0082&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:28+00:00",
+    "html_sha256": "8b34781a2551416ff2ef522d646f0fb3cdb49c19c6045b42dde99051627c07a6",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

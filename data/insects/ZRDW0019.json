@@ -1,0 +1,107 @@
+{
+  "id": "ZRDW0019",
+  "name_ko": "물푸레원뿔나방",
+  "scientific_name": "Agonopterix pallidor Stringer, 1930",
+  "display_name": "물푸레원뿔나방",
+  "family_ko": "큰원뿔나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "뿔나방상과",
+      "name_latin": "Gelechioidea"
+    },
+    "family": {
+      "name_ko": "큰원뿔나방과",
+      "name_latin": "Depressariidae"
+    },
+    "subfamily": {
+      "name_ko": "큰원뿔나방아과",
+      "name_latin": "Depressariinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Agonopterix"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 뿔나방상과 (Gelechioidea)\n과 : 큰원뿔나방과 (Depressariidae)\n아과 : 큰원뿔나방아과 (Depressariinae)\n속 : (Agonopterix)",
+  "basic_information": {
+    "곤충명": "물푸레원뿔나방",
+    "학명": "Agonopterix pallidor Stringer, 1930"
+  },
+  "information": {
+    "general_description": "성충은 비교적 체구가 큼. 앞날개의 바탕색은 당황갈색이며 원형의 흑색 작은 인편들이 전체에 산재해 있음. 중실의 1/3위치에 크기가 틀린 2개의 뚜렷한 흑색 점이 경사지게 놓여 있고 중실의 바깥 위쪽에 원형의 갈색 무늬가 뚜렷이 나타남. 외연을 따라 6~7개의 흑색 점이 일렬로 배열되어 있음. 뒷날개의 회백색임. 중실에는 흑색의 L자 모양 무늬가 뚜렷함. 뒷날개는 암갈색임. 연모는 회색임.",
+    "adult": null,
+    "adult_male": "옆돌기는 주걱 모양으로 잘 발달되어 있으며 서로 분리되어 있고, 그네이토스는 알 모양으로 비교적 큼.",
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충은 비교적 체구가 큼. 앞날개의 바탕색은 당황갈색이며 원형의 흑색 작은 인편들이 전체에 산재해 있음. 중실의 1/3위치에 크기가 틀린 2개의 뚜렷한 흑색 점이 경사지게 놓여 있고 중실의 바깥 위쪽에 원형의 갈색 무늬가 뚜렷이 나타남. 외연을 따라 6~7개의 흑색 점이 일렬로 배열되어 있음. 뒷날개의 회백색임. 중실에는 흑색의 L자 모양 무늬가 뚜렷함. 뒷날개는 암갈색임. 연모는 회색임."
+    },
+    {
+      "title": "성충(수)",
+      "text": "옆돌기는 주걱 모양으로 잘 발달되어 있으며 서로 분리되어 있고, 그네이토스는 알 모양으로 비교적 큼."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDW0019-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDW0019_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDW0019_1_th.jpg",
+      "alt": "물푸레원뿔나방 1번째 사진 : 물푸레원뿔나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDW0019_1_th2.jpg",
+      "caption": "물푸레원뿔나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDW0019-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0407091119",
+      "description": "[UIBE0407091119] 물푸레원뿔나방 1996.07.07 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0407091120",
+      "description": "[UIBE0407091120] 물푸레원뿔나방 1996.05.05 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0407091121",
+      "description": "[UIBE0407091121] 물푸레원뿔나방 1996.08.05 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDW0019-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDW0019&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:44+00:00",
+    "html_sha256": "8e85bd80f1c56b4a314024d903057fa435dab2ef892c8eaab3a23581e65a851d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

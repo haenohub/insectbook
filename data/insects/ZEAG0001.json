@@ -1,0 +1,99 @@
+{
+  "id": "ZEAG0001",
+  "name_ko": "어리여치",
+  "scientific_name": "Eugryllacris japonica (Matsumura & Shiraki, 1908)",
+  "display_name": "어리여치",
+  "family_ko": "어리여치과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "메뚜기목",
+      "name_latin": "Orthoptera"
+    },
+    "family": {
+      "name_ko": "어리여치과",
+      "name_latin": "Gryllacrididae"
+    },
+    "subfamily": {
+      "name_ko": "어리여치아과",
+      "name_latin": "Gryllacridinae"
+    },
+    "genus": {
+      "name_ko": "어리여치속",
+      "name_latin": "Eugryllacris"
+    }
+  },
+  "taxonomy_text": "목 : 메뚜기목 (Orthoptera)\n과 : 어리여치과 (Gryllacrididae)\n아과 : 어리여치아과 (Gryllacridinae)\n속 : 어리여치속 (Eugryllacris)",
+  "basic_information": {
+    "곤충명": "어리여치",
+    "학명": "Eugryllacris japonica (Matsumura & Shiraki, 1908)"
+  },
+  "information": {
+    "general_description": "몸길이 30~35mm이고, 황록색 머리는 짧고도 굵고 머리꼭대기돌기는 폭이 넓고 말단에 이름에 따랄 좁아지고 앞이마와 연속하였다. 앞가슴은 폭이 넓고 방형에 가깝고 등위는 둥글고 앞가두리는 직선에 가까운데 등쪽으로 구부러졌고 뒷가두리는 직선으로 되었으나 다소 등쪽으로 구부러졌다. 옆조각은 심히 낮고 앞뒤의양 모는 둥글다. 수컷의 버금생식판은 짧고도 작고 뒷가두리는 절단되었으며 미모 모양의 부속기는 작고 수컷의 항상판은 크다. 말단은 특히 둥그렇고 그 중앙 윗끝에 1개의 작은 돌기가 있고 아랫면은 깊은 종구로 말미암아 좌우가 굵어졌다. 미모는 가늘고 길며 말단은 뾰족하다. 산란관은 대단히 가늘고 길며 다소 등위로 구부러졌으며 말단 등면은 비스듬하게 절단되었다. 앞날개 등쪽의 황갈색 부분은 폭이 넓고 앞가두리쪽은 가늘고 옅은 색이다. 뒷날개는 다소 꼬리 모양으로 연장되었고 다리는 굵고 뒷허벅마디는 짧고 특별한 좁은 부분이 없다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 30~35mm이고, 황록색 머리는 짧고도 굵고 머리꼭대기돌기는 폭이 넓고 말단에 이름에 따랄 좁아지고 앞이마와 연속하였다. 앞가슴은 폭이 넓고 방형에 가깝고 등위는 둥글고 앞가두리는 직선에 가까운데 등쪽으로 구부러졌고 뒷가두리는 직선으로 되었으나 다소 등쪽으로 구부러졌다. 옆조각은 심히 낮고 앞뒤의양 모는 둥글다. 수컷의 버금생식판은 짧고도 작고 뒷가두리는 절단되었으며 미모 모양의 부속기는 작고 수컷의 항상판은 크다. 말단은 특히 둥그렇고 그 중앙 윗끝에 1개의 작은 돌기가 있고 아랫면은 깊은 종구로 말미암아 좌우가 굵어졌다. 미모는 가늘고 길며 말단은 뾰족하다. 산란관은 대단히 가늘고 길며 다소 등위로 구부러졌으며 말단 등면은 비스듬하게 절단되었다. 앞날개 등쪽의 황갈색 부분은 폭이 넓고 앞가두리쪽은 가늘고 옅은 색이다. 뒷날개는 다소 꼬리 모양으로 연장되었고 다리는 굵고 뒷허벅마디는 짧고 특별한 좁은 부분이 없다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZEAG0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAG0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAG0001_1_th.jpg",
+      "alt": "어리여치 1번째 사진 : 어리여치전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAG0001_1_th2.jpg",
+      "caption": "어리여치전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZEAG0001-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0407291002",
+      "description": "[MPME0407291002] 어리여치 2003.08.09 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0407291001",
+      "description": "[MPME0407291001] 어리여치 2003.08.09 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408191190",
+      "description": "[MPME0408191190] 어리여치 2003.08.09 / / 목포자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZEAG0001-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZEAG0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:42+00:00",
+    "html_sha256": "f66fe58eb2b939bc1a950cf472b77af737901a5c0ec4490fa9b627eada3e11f1",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

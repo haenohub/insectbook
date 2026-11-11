@@ -1,0 +1,107 @@
+{
+  "id": "ZRCI0384",
+  "name_ko": "연회색가지나방",
+  "scientific_name": "Ectropis aigneri Prout, 1930",
+  "display_name": "연회색가지나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "가지나방아과",
+      "name_latin": "Ennominae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Ectropis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 가지나방아과 (Ennominae)\n속 : (Ectropis)",
+  "basic_information": {
+    "곤충명": "연회색가지나방",
+    "학명": "Ectropis aigneri Prout, 1930"
+  },
+  "information": {
+    "general_description": "더듬이는 수컷이 미모상이고, 암컷은 실 모양임． 줄고운가지나방과 아주 흡사하나 날개에 적갈색 점이 산재해　있고, 횡선도 붉은 기가 있으므로 구별됨.수컷의 각공은 잘 발달되어 있고, 제1경맥（R１）+ 제2경맥（R2)은 대부분 개체의 중실에서 나옴.　앞날개의　외횡선은　제２주맥（Cu２）과　제２둔맥（2A)　사이에서　줄고운가지나방보다　깊게　안쪽으로　패임．수컷의 뒷다리 종아리마디에는 털뭉치가 없음.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 7~8월에 출현함.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 수컷이 미모상이고, 암컷은 실 모양임． 줄고운가지나방과 아주 흡사하나 날개에 적갈색 점이 산재해　있고, 횡선도 붉은 기가 있으므로 구별됨.수컷의 각공은 잘 발달되어 있고, 제1경맥（R１）+ 제2경맥（R2)은 대부분 개체의 중실에서 나옴.　앞날개의　외횡선은　제２주맥（Cu２）과　제２둔맥（2A)　사이에서　줄고운가지나방보다　깊게　안쪽으로　패임．수컷의 뒷다리 종아리마디에는 털뭉치가 없음."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 7~8월에 출현함."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0384-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0384_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0384_1_th.jpg",
+      "alt": "연회색가지나방 1번째 사진 : 연회색가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0384_1_th2.jpg",
+      "caption": "연회색가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0384-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0201181034",
+      "description": "[KNAE0201181034] 연회색가지나방 1990.08.03 / / 국립수목원"
+    },
+    {
+      "id": "UIBE0202082012",
+      "description": "[UIBE0202082012] 연회색가지나방 2000.05.22 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0202082014",
+      "description": "[UIBE0202082014] 연회색가지나방 2000.05.24 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCI0384-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0384&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:10+00:00",
+    "html_sha256": "ad2b007551de63f446e3a5fd21de58135f3b07da8d052522a72c43ba1d020891",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": "ZOFY0006",
+  "name_ko": "홍날개",
+  "scientific_name": "Pseudopyrochroa rufula (Motschulsky, 1866)",
+  "display_name": "홍날개",
+  "family_ko": "홍날개과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "거저리상과",
+      "name_latin": "Tenebrionoidea"
+    },
+    "family": {
+      "name_ko": "홍날개과",
+      "name_latin": "Pyrochroidae"
+    },
+    "subfamily": {
+      "name_ko": "홍날개아과",
+      "name_latin": "Pyrochroinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Pseudopyrochroa"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 거저리상과 (Tenebrionoidea)\n과 : 홍날개과 (Pyrochroidae)\n아과 : 홍날개아과 (Pyrochroinae)\n속 : (Pseudopyrochroa)",
+  "basic_information": {
+    "곤충명": "홍날개",
+    "학명": "Pseudopyrochroa rufula (Motschulsky, 1866)"
+  },
+  "information": {
+    "general_description": "한국, 일본, 사할린, 쿠릴열도에 분포하며, 체장은 13-17mm 정도이다. 머리는 눈 사이의 앞족에 횡구가 있는데 암컷의 것은 얕고 수컷의 것은 깊다. 촉각은 빗살 모양이고 제3마디의 가지는 암컷에서는 짧고 작으며 이 모양이다. 딱지날개는 적색이고 적색 털을 밀생하였다. 뒤쪽이 넓고 등면에는 아주 가는 종조가 많이 있다. 뒷종아리마디는 말단부가 약간 굵다. 뒷발목마디의 제1마디는 다음의 3마디를 합친 것과 길이가 같다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 사할린, 쿠릴열도에 분포하며, 체장은 13-17mm 정도이다. 머리는 눈 사이의 앞족에 횡구가 있는데 암컷의 것은 얕고 수컷의 것은 깊다. 촉각은 빗살 모양이고 제3마디의 가지는 암컷에서는 짧고 작으며 이 모양이다. 딱지날개는 적색이고 적색 털을 밀생하였다. 뒤쪽이 넓고 등면에는 아주 가는 종조가 많이 있다. 뒷종아리마디는 말단부가 약간 굵다. 뒷발목마디의 제1마디는 다음의 3마디를 합친 것과 길이가 같다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOFY0006-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOFY0006_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOFY0006_2_th.jpg",
+      "alt": "홍날개 1번째 사진 : 홍날개전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOFY0006_2_th2.jpg",
+      "caption": "홍날개전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOFY0006-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOFY0006_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOFY0006_1_th.jpg",
+      "alt": "홍날개 2번째 사진 : 홍날개전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOFY0006_1_th2.jpg",
+      "caption": "홍날개전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOFY0006-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0408111009",
+      "description": "[KNAE0408111009] 홍날개 2001.04.15 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0301272021",
+      "description": "[KNAE0301272021] 홍날개 1991.04.23 / / 국립수목원"
+    },
+    {
+      "id": "ADUE0202041089",
+      "description": "[ADUE0202041089] 홍날개 1994.06.06 / / 안동대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOFY0006-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOFY0006&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:29+00:00",
+    "html_sha256": "f7e781216d75bf6f7449b00cdeb341429fcc1e6a545e91260c8f52559d331ca6",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

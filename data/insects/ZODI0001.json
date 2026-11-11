@@ -1,0 +1,125 @@
+{
+  "id": "ZODI0001",
+  "name_ko": "고려나무쑤시기",
+  "scientific_name": "Helota fulviventris Kolbe, 1886",
+  "display_name": "고려나무쑤시기",
+  "family_ko": "나무쑤시기과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "머리대장상과",
+      "name_latin": "Cucujoidea"
+    },
+    "family": {
+      "name_ko": "나무쑤시기과",
+      "name_latin": "Helotidae"
+    },
+    "genus": {
+      "name_ko": "나무쑤시기속",
+      "name_latin": "Helota"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 머리대장상과 (Cucujoidea)\n과 : 나무쑤시기과 (Helotidae)\n속 : 나무쑤시기속 (Helota)",
+  "basic_information": {
+    "곤충명": "고려나무쑤시기",
+    "학명": "Helota fulviventris Kolbe, 1886"
+  },
+  "information": {
+    "general_description": "한국, 만주, 일본에 분포하며, 체장은 12-19mm 정도이다. 머리는 길고 금속 적동색이고 중앙에 분명치 않은 두줄의 종융이 있다. 겹눈은 크고 회갈색이고 흑색 얼룩무늬가 있고 촉각은 적갈색이고 말단의 세마디로 된 구간부는 편평하고 짙은 갈색이다. 등면은 금속 적동색이고 조대한 점각이 밀포되고 양쪽가두리는 주판 모양으로 되어 병렬하였다. 딱지날개에는 조대한 점각렬이 있고 그 간실은 융기항ㅆ다. ㅈㅇ앙부와 날개끝 가까이에 각 한 개의 호박모양의 황색 얼룩무늬가 있다. 몸아랫면과 다리는 흑갈색인데 광택이 강하고 작은 점각을 밀포하였다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 만주, 일본에 분포하며, 체장은 12-19mm 정도이다. 머리는 길고 금속 적동색이고 중앙에 분명치 않은 두줄의 종융이 있다. 겹눈은 크고 회갈색이고 흑색 얼룩무늬가 있고 촉각은 적갈색이고 말단의 세마디로 된 구간부는 편평하고 짙은 갈색이다. 등면은 금속 적동색이고 조대한 점각이 밀포되고 양쪽가두리는 주판 모양으로 되어 병렬하였다. 딱지날개에는 조대한 점각렬이 있고 그 간실은 융기항ㅆ다. ㅈㅇ앙부와 날개끝 가까이에 각 한 개의 호박모양의 황색 얼룩무늬가 있다. 몸아랫면과 다리는 흑갈색인데 광택이 강하고 작은 점각을 밀포하였다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZODI0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZODI0001_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZODI0001_3.jpg",
+      "alt": "고려나무쑤시기 1번째 사진 : ",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZODI0001_3_th2.jpg",
+      "caption": null,
+      "photographed_at": null,
+      "location": null,
+      "photographer": "국립수목원(이승규)"
+    },
+    {
+      "id": "ZODI0001-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODI0001_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODI0001_2_th.jpg",
+      "alt": "고려나무쑤시기 2번째 사진 : 고려나무쑤시기전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODI0001_2_th2.jpg",
+      "caption": "고려나무쑤시기전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZODI0001-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODI0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODI0001_1_th.jpg",
+      "alt": "고려나무쑤시기 3번째 사진 : 고려나무쑤시기전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODI0001_1_th2.jpg",
+      "caption": "고려나무쑤시기전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZODI0001-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304112015",
+      "description": "[KNAE0304112015] 고려나무쑤시기 1992.05.23 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304112016",
+      "description": "[KNAE0304112016] 고려나무쑤시기 1992.05.24 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304112017",
+      "description": "[KNAE0304112017] 고려나무쑤시기 1991.05.07 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZODI0001.png",
+    "reference_image_id": "ZODI0001-2",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T12:21:28.001673+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "ef2fb0114e79b28717585284966582bf52dea80c6c95a62c4a7b7931da85d708"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZODI0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:42+00:00",
+    "html_sha256": "79b916e79fdcab5ee08dc32975cb291cd5b92826decdb30663a1fc47ae49e546",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

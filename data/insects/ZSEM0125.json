@@ -1,0 +1,103 @@
+{
+  "id": "ZSEM0125",
+  "name_ko": "개미꽃등에",
+  "scientific_name": "Microdon auricomus Coquillett, 1898",
+  "display_name": "개미꽃등에",
+  "family_ko": "꽃등에과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "꽃등에상과",
+      "name_latin": "Syrphoidea"
+    },
+    "family": {
+      "name_ko": "꽃등에과",
+      "name_latin": "Syrphidae"
+    },
+    "subfamily": {
+      "name_ko": "개미꽃등에아과",
+      "name_latin": "Microdontinae"
+    },
+    "genus": {
+      "name_ko": "개미꽃등에속",
+      "name_latin": "Microdon"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 꽃등에상과 (Syrphoidea)\n과 : 꽃등에과 (Syrphidae)\n아과 : 개미꽃등에아과 (Microdontinae)\n속 : 개미꽃등에속 (Microdon)",
+  "basic_information": {
+    "곤충명": "개미꽃등에",
+    "학명": "Microdon auricomus Coquillett, 1898"
+  },
+  "information": {
+    "general_description": "성충의 몸길이는 10~12mm. 몸은 전체적으로 남청색이며, 연한 황색털이 밀생했다. 머리는 짧고 겹눈 사이는 머리 폭의 1/3이고 수컷에서는 1/4이 약간 못된다. 더듬이는 흑갈색이고 제1마디는 다른 2마디를 합친 것과 같다. 가슴은 짧고 작은 방패판은 반원 모양이며 긴털이 밀생했다. 다리는 흑갈색이고 끝으로 감에 따라 황색을 띤다. 배는 굵고 끝은 다소 뾰족하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충의 몸길이는 10~12mm. 몸은 전체적으로 남청색이며, 연한 황색털이 밀생했다. 머리는 짧고 겹눈 사이는 머리 폭의 1/3이고 수컷에서는 1/4이 약간 못된다. 더듬이는 흑갈색이고 제1마디는 다른 2마디를 합친 것과 같다. 가슴은 짧고 작은 방패판은 반원 모양이며 긴털이 밀생했다. 다리는 흑갈색이고 끝으로 감에 따라 황색을 띤다. 배는 굵고 끝은 다소 뾰족하다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSEM0125-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0125_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0125_1_th.jpg",
+      "alt": "개미꽃등에 1번째 사진 : 개미꽃등에전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0125_1_th2.jpg",
+      "caption": "개미꽃등에전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSEM0125-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0307191194",
+      "description": "[KUIE0307191194] 개미꽃등에 1967.06.04 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307191195",
+      "description": "[KUIE0307191195] 개미꽃등에 1971.06.06 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307191196",
+      "description": "[KUIE0307191196] 개미꽃등에 1971.06.13 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZSEM0125.png",
+    "reference_image_id": "ZSEM0125-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T17:05:06.145752+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "faba82a8bafd11593f8112e6b6dbf92ff5c8a3b1567ea6c3e240088d247b69b8"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSEM0125&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:42+00:00",
+    "html_sha256": "821f8b4a6165f9af7fe880468467380ce3be6e9084ab75f200532099c730a361",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": "ZOEC0002",
+  "name_ko": "꼬마넓적사슴벌레",
+  "scientific_name": "Aegus laevicollis subnitidus Waterhouse, 1873",
+  "display_name": "꼬마넓적사슴벌레",
+  "family_ko": "사슴벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "사슴벌레과",
+      "name_latin": "Lucanidae"
+    },
+    "subfamily": {
+      "name_ko": "사슴벌레아과",
+      "name_latin": "Lucaninae"
+    },
+    "genus": {
+      "name_ko": "꼬마넓적사슴벌레속",
+      "name_latin": "Aegus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 사슴벌레과 (Lucanidae)\n아과 : 사슴벌레아과 (Lucaninae)\n속 : 꼬마넓적사슴벌레속 (Aegus)",
+  "basic_information": {
+    "곤충명": "꼬마넓적사슴벌레",
+    "학명": "Aegus laevicollis subnitidus Waterhouse, 1873"
+  },
+  "information": {
+    "general_description": "중국,대만,일본에 분포하며,약한 암갈색 광택이 있고, 오황색의 미모로 덥혀있다. 복안은 ocular canthus로 2분, 짧고 가는 큰턱과, 상,하로 향한 2개의 내치가 있따. 시조구는 9줄이며, 깊은 점각열이 있다. 암컷의 홀수번 간실은 높다. BL:11~22mm(수), 12~17mm(암). ML:2~6mm",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중국,대만,일본에 분포하며,약한 암갈색 광택이 있고, 오황색의 미모로 덥혀있다. 복안은 ocular canthus로 2분, 짧고 가는 큰턱과, 상,하로 향한 2개의 내치가 있따. 시조구는 9줄이며, 깊은 점각열이 있다. 암컷의 홀수번 간실은 높다. BL:11~22mm(수), 12~17mm(암). ML:2~6mm"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOEC0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEC0002_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEC0002_2_th.jpg",
+      "alt": "꼬마넓적사슴벌레 1번째 사진 : 꼬마넓적사슴벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEC0002_2_th2.jpg",
+      "caption": "꼬마넓적사슴벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOEC0002-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEC0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEC0002_1_th.jpg",
+      "alt": "꼬마넓적사슴벌레 2번째 사진 : 꼬마넓적사슴벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEC0002_1_th2.jpg",
+      "caption": "꼬마넓적사슴벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOEC0002-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0203052037",
+      "description": "[KPNE0203052037] 꼬마넓적사슴벌레 1982.07.08 / / 경북대학교"
+    },
+    {
+      "id": "DJUE0406161004",
+      "description": "[DJUE0406161004] 꼬마넓적사슴벌레 1992.06.02 / / 대전대학교"
+    },
+    {
+      "id": "DJUE0406161005",
+      "description": "[DJUE0406161005] 꼬마넓적사슴벌레 1989.06.06 / / 대전대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOEC0002.png",
+    "reference_image_id": "ZOEC0002-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T13:30:25.785111+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "abe07867da52df5b585baa7d10dee60cd28cbf6877b80c68b572ffe12484e070"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOEC0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:32+00:00",
+    "html_sha256": "b10035fbdd13dd0e778756bccb69d4186fd9bdfbfe4f8d8893342d8fb5497363",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

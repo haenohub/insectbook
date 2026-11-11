@@ -1,0 +1,115 @@
+{
+  "id": "ZRDS0450",
+  "name_ko": "긴띠꼬마짤름나방",
+  "scientific_name": "Oruza obliquaria Marumo, 1932",
+  "display_name": "긴띠꼬마짤름나방",
+  "family_ko": "태극나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "태극나방과",
+      "name_latin": "Erebidae"
+    },
+    "subfamily": {
+      "name_ko": "잎짤름나방아과",
+      "name_latin": "Boletobiinae"
+    },
+    "genus": {
+      "name_ko": "꼬마밤나방속",
+      "name_latin": "Oruza"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 태극나방과 (Erebidae)\n아과 : 잎짤름나방아과 (Boletobiinae)\n속 : 꼬마밤나방속 (Oruza)",
+  "basic_information": {
+    "곤충명": "긴띠꼬마짤름나방",
+    "학명": "Oruza obliquaria Marumo, 1932"
+  },
+  "information": {
+    "general_description": "날개편 길이 10~12mm. 앞날개의 전연부에는 회백색 부분이 있다. 앞날개에서 내횡선과 외횡선은 서로 평행하지 않으며, 앞·뒷날개 모두 각 횡선은 다소 붉은색이 돈다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6~7월경에 출현된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 10~12mm. 앞날개의 전연부에는 회백색 부분이 있다. 앞날개에서 내횡선과 외횡선은 서로 평행하지 않으며, 앞·뒷날개 모두 각 횡선은 다소 붉은색이 돈다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6~7월경에 출현된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0450-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0450_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0450_1_th.jpg",
+      "alt": "긴띠꼬마짤름나방 1번째 사진 : 긴띠꼬마밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0450_1_th2.jpg",
+      "caption": "긴띠꼬마밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0450-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0302192012",
+      "description": "[KNAE0302192012] 긴띠꼬마짤름나방 1991.07.16 / / 국립수목원"
+    },
+    {
+      "id": "MPME1007051089",
+      "description": "[MPME1007051089] 긴띠꼬마짤름나방 2007.05.30 / / 목포자연사박물관"
+    },
+    {
+      "id": "KNAE29918",
+      "description": "[KNAE29918] 긴띠꼬마짤름나방 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDS0450.png",
+    "reference_image_id": "ZRDS0450-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T09:01:09.924607+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "a79e6f20b79d097d70bcae11c3f01ff087036d4411ca4387e994917414658de1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0450&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:00+00:00",
+    "html_sha256": "29743f7e4000b76ac950767bef3e99c4a9e284308eae24cf3c9c5ad19be396e5",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

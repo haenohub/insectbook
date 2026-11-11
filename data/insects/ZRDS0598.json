@@ -1,0 +1,118 @@
+{
+  "id": "ZRDS0598",
+  "name_ko": "붉은띠수염나방",
+  "scientific_name": "Gonepatica opalina (Butler, 1879)",
+  "display_name": "붉은띠수염나방",
+  "family_ko": "태극나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "태극나방과",
+      "name_latin": "Erebidae"
+    },
+    "subfamily": {
+      "name_ko": "노랑수염나방아과",
+      "name_latin": "Hypeninae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Gonepatica"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 태극나방과 (Erebidae)\n아과 : 노랑수염나방아과 (Hypeninae)\n속 : (Gonepatica)",
+  "basic_information": {
+    "곤충명": "붉은띠수염나방",
+    "학명": "Gonepatica opalina (Butler, 1879)"
+  },
+  "information": {
+    "general_description": "머리와 가슴의 등면은 암회색을 띠며, 아랫입술수염의 제 2마디는 가늘고긴데 제 3마디도 가늘고 긴편임. 배의 등면은 담갈색인데, 기부쪽에는 짧은 털뭉치가 있음. 앞날개는 암회색 바탕인데 시정과 외연의 제 3~4맥은 약간 바깥쪽으로 돌출되었으며, 2줄의 횡선은 거의 직선상인데 적갈색을 띔. 이들 횡선의 바깥쪽에 접하여는 약간 담황색을 띔. 뒷날개는 황갈색을 띠며, 연모는 담색임.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6월경에 출현함.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "머리와 가슴의 등면은 암회색을 띠며, 아랫입술수염의 제 2마디는 가늘고긴데 제 3마디도 가늘고 긴편임. 배의 등면은 담갈색인데, 기부쪽에는 짧은 털뭉치가 있음. 앞날개는 암회색 바탕인데 시정과 외연의 제 3~4맥은 약간 바깥쪽으로 돌출되었으며, 2줄의 횡선은 거의 직선상인데 적갈색을 띔. 이들 횡선의 바깥쪽에 접하여는 약간 담황색을 띔. 뒷날개는 황갈색을 띠며, 연모는 담색임."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6월경에 출현함."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0598-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0598_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0598_2_th.jpg",
+      "alt": "붉은띠수염나방 1번째 사진 : 붉은띠짤름나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0598_2_th2.jpg",
+      "caption": "붉은띠짤름나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDS0598-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0598_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0598_1_th.jpg",
+      "alt": "붉은띠수염나방 2번째 사진 : 붉은띠짤름나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0598_1_th2.jpg",
+      "caption": "붉은띠짤름나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0598-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0408121065",
+      "description": "[KNAE0408121065] 붉은띠수염나방 1998.06.29 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0408121067",
+      "description": "[KNAE0408121067] 붉은띠수염나방 1998.06.29 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0408121068",
+      "description": "[KNAE0408121068] 붉은띠수염나방 1998.06.29 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDS0598-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0598&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:47+00:00",
+    "html_sha256": "7a8b8e2ef64a53468095b9ab50d1dba5ebb1f94f5ae9894a5ef99adc30076fca",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "id": "ZOAM0016",
+  "name_ko": "얼룩소바구미",
+  "scientific_name": "Aphaulimia debilis (Sharp, 1891)",
+  "display_name": "얼룩소바구미",
+  "family_ko": "소바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "소바구미과",
+      "name_latin": "Anthribidae"
+    },
+    "subfamily": {
+      "name_ko": "소바구미아과",
+      "name_latin": "Anthribinae"
+    },
+    "genus": {
+      "name_ko": "얼룩소바구미속",
+      "name_latin": "Aphaulimia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 소바구미과 (Anthribidae)\n아과 : 소바구미아과 (Anthribinae)\n속 : 얼룩소바구미속 (Aphaulimia)",
+  "basic_information": {
+    "곤충명": "얼룩소바구미",
+    "학명": "Aphaulimia debilis (Sharp, 1891)"
+  },
+  "information": {
+    "general_description": "크기 3.0-3.9mm\n체색은 흑색. 미황색의 털무늬.\n주둥이의 측선은 평행. 두 눈사이의 폭은 주둥이의 1/2 정도.\n앞가슴등판의 양 측면으로 8자형태의 굵은 털무늬가 있다.\n시초의 어깨부분과 중앙직전, 중앙 직후에 미황색의 털무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "크기 3.0-3.9mm\n체색은 흑색. 미황색의 털무늬.\n주둥이의 측선은 평행. 두 눈사이의 폭은 주둥이의 1/2 정도.\n앞가슴등판의 양 측면으로 8자형태의 굵은 털무늬가 있다.\n시초의 어깨부분과 중앙직전, 중앙 직후에 미황색의 털무늬가 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAM0016-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0016_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0016_2_th.jpg",
+      "alt": "얼룩소바구미 1번째 사진 : 얼룩소바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0016_2_th2.jpg",
+      "caption": "얼룩소바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOAM0016-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0016_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0016_1_th.jpg",
+      "alt": "얼룩소바구미 2번째 사진 : 얼룩소바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0016_1_th2.jpg",
+      "caption": "얼룩소바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAM0016-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0201041016",
+      "description": "[SNUE0201041016] 얼룩소바구미 1998.07.02 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0202051037",
+      "description": "[SNUE0202051037] 얼룩소바구미 1998.07.02 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0202051034",
+      "description": "[SNUE0202051034] 얼룩소바구미 1997.06.14 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAM0016-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAM0016&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:51+00:00",
+    "html_sha256": "9448a6931970636b28c987a4507e8d62a370aa72e3e5cd75310e8f06e802c598",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

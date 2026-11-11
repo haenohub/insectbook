@@ -1,0 +1,103 @@
+{
+  "id": "ZQAS0003",
+  "name_ko": "큰줄날도래",
+  "scientific_name": "Macrostemum radiatum (McLachlan, 1872)",
+  "display_name": "큰줄날도래",
+  "family_ko": "줄날도래과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "날도래목",
+      "name_latin": "Trichoptera"
+    },
+    "family": {
+      "name_ko": "줄날도래과",
+      "name_latin": "Hydropsychidae"
+    },
+    "subfamily": {
+      "name_ko": "큰줄날도래아과",
+      "name_latin": "Macronematinae"
+    },
+    "genus": {
+      "name_ko": "큰줄날도래속",
+      "name_latin": "Macrostemum"
+    }
+  },
+  "taxonomy_text": "목 : 날도래목 (Trichoptera)\n과 : 줄날도래과 (Hydropsychidae)\n아과 : 큰줄날도래아과 (Macronematinae)\n속 : 큰줄날도래속 (Macrostemum)",
+  "basic_information": {
+    "곤충명": "큰줄날도래",
+    "학명": "Macrostemum radiatum (McLachlan, 1872)"
+  },
+  "information": {
+    "general_description": "몸길이는 14 mm 내외이다. 더듬이의 길이가 짧고, 앞날개에만 밤색의 뚜렷한 줄 무늬들이 산재해 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": "머리 등면은 납작한 말굽 모양을 이루며 그 바깥쪽으로 긴 강모들이 나 있으며 말굽 모양의 안쪽은 짙은 갈색을 띠며 바깥쪽은 갈색 바탕에 희미한 무늬가 불규칙적으로 나 있다. 꼬리마디의 옆경판 끝에는 줄날도래속의 유충과 같은 부채꼴 비슷한 긴 털이 여러 개 나 있다.",
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아] 동시베리아지역\n[러시아] 극동지역",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 14 mm 내외이다. 더듬이의 길이가 짧고, 앞날개에만 밤색의 뚜렷한 줄 무늬들이 산재해 있다."
+    },
+    {
+      "title": "유충",
+      "text": "머리 등면은 납작한 말굽 모양을 이루며 그 바깥쪽으로 긴 강모들이 나 있으며 말굽 모양의 안쪽은 짙은 갈색을 띠며 바깥쪽은 갈색 바탕에 희미한 무늬가 불규칙적으로 나 있다. 꼬리마디의 옆경판 끝에는 줄날도래속의 유충과 같은 부채꼴 비슷한 긴 털이 여러 개 나 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아] 동시베리아지역\n[러시아] 극동지역"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZQAS0003-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/Q1/ZQAS0003_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/Q1/ZQAS0003_1_th.jpg",
+      "alt": "큰줄날도래 1번째 사진 : 큰줄날도래전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/Q1/ZQAS0003_1_th2.jpg",
+      "caption": "큰줄날도래전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZQAS0003-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0407231038",
+      "description": "[MPME0407231038] 큰줄날도래 2001.06.20 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0407231039",
+      "description": "[MPME0407231039] 큰줄날도래 2001.06.20 / / 목포자연사박물관"
+    },
+    {
+      "id": "KNAE0710170256",
+      "description": "[KNAE0710170256] 큰줄날도래 2007.06.19 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZQAS0003-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZQAS0003&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:01+00:00",
+    "html_sha256": "8081a6cf86b185d415f9a07ab6343b7bc98217d34e7b6f4b69e5021d9d286589",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

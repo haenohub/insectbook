@@ -1,0 +1,143 @@
+{
+  "id": "ZOAR0048",
+  "name_ko": "왕거위벌레",
+  "scientific_name": "Paracycnotrachelus chinensis (Jekel, 1860)",
+  "display_name": "왕거위벌레",
+  "family_ko": "거위벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "거위벌레과",
+      "name_latin": "Attelabidae"
+    },
+    "subfamily": {
+      "name_ko": "목거위벌레아과",
+      "name_latin": "Apoderinae"
+    },
+    "genus": {
+      "name_ko": "왕자루목거위벌레속",
+      "name_latin": "Paracycnotrachelus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 거위벌레과 (Attelabidae)\n아과 : 목거위벌레아과 (Apoderinae)\n속 : 왕자루목거위벌레속 (Paracycnotrachelus)",
+  "basic_information": {
+    "곤충명": "왕거위벌레",
+    "학명": "Paracycnotrachelus chinensis (Jekel, 1860)"
+  },
+  "information": {
+    "general_description": "한국, 일본, 중국, 러시아에 분포하며, 체장은 8.0-12.0mm 정도이다. 체색은 적갈색이며, 날개는 기부부분을 제외하고는 적색에 가깝다. 머리는 이마의 폭보다 세배이상 길며, 목의 길이보다 1.5배 정도 길다. 이마에서보터 촉각 홈부근까지 세 개의 세로홈과 점각이 주름을 형성한다. 주둥이의 길이는 폭의 2배가 되지 않는다. 촉각중 6째마디가 가장 짧다. 촉각 곤봉부 마지막 마디는 곤봉부 첫째 마디보다 길다. 시초의 점각열은 뚜렷아며, 세로로 된 열에 깊게 들어간다. 암컷의 머리의 길이는 폭의 2배가 되지 않는다. 주둥이는 짧고, 촉각의 곤봉부 마지막 마디는 곤봉부 첫째마디보다 훨씬 짧다",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "상수리나무, 갈참나무, 떡갈나무, 신갈나무를 기주식물로 한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]",
+    "notes": "[산림해충] Chung et al.(1995)\n[보통종] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 중국, 러시아에 분포하며, 체장은 8.0-12.0mm 정도이다. 체색은 적갈색이며, 날개는 기부부분을 제외하고는 적색에 가깝다. 머리는 이마의 폭보다 세배이상 길며, 목의 길이보다 1.5배 정도 길다. 이마에서보터 촉각 홈부근까지 세 개의 세로홈과 점각이 주름을 형성한다. 주둥이의 길이는 폭의 2배가 되지 않는다. 촉각중 6째마디가 가장 짧다. 촉각 곤봉부 마지막 마디는 곤봉부 첫째 마디보다 길다. 시초의 점각열은 뚜렷아며, 세로로 된 열에 깊게 들어간다. 암컷의 머리의 길이는 폭의 2배가 되지 않는다. 주둥이는 짧고, 촉각의 곤봉부 마지막 마디는 곤봉부 첫째마디보다 훨씬 짧다"
+    },
+    {
+      "title": "생태",
+      "text": "상수리나무, 갈참나무, 떡갈나무, 신갈나무를 기주식물로 한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)\n[보통종] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAR0048-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0048_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0048_2_th.jpg",
+      "alt": "왕거위벌레 1번째 사진 : 왕거위벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0048_2_th2.jpg",
+      "caption": "왕거위벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOAR0048-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0048_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0048_1_th.jpg",
+      "alt": "왕거위벌레 2번째 사진 : 왕거위벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0048_1_th2.jpg",
+      "caption": "왕거위벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAR0048-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303271041",
+      "description": "[KNAE0303271041] 왕거위벌레 1994.06.12 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303271040",
+      "description": "[KNAE0303271040] 왕거위벌레 1994.06.11 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303271042",
+      "description": "[KNAE0303271042] 왕거위벌레 1995.07.05 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "갈참나무",
+      "scientific_name": "Quercus aliena Blume"
+    },
+    {
+      "group": "식물",
+      "name_ko": "떡갈나무",
+      "scientific_name": "Quercus dentata Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "상수리나무",
+      "scientific_name": "Quercus acutissima Carruth."
+    },
+    {
+      "group": "식물",
+      "name_ko": "신갈나무",
+      "scientific_name": "Quercus mongolica Fisch. ex Ledeb."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAR0048-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAR0048&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:30+00:00",
+    "html_sha256": "baf7cc52502611b569d38c09867bc875ba56180a9bb03036cb7c63411e78d486",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

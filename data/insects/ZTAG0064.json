@@ -1,0 +1,118 @@
+{
+  "id": "ZTAG0064",
+  "name_ko": "수중다리가위벌",
+  "scientific_name": "Megachile maritima (Kirby, 1802)",
+  "display_name": "수중다리가위벌",
+  "family_ko": "가위벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "가위벌과",
+      "name_latin": "Megachilidae"
+    },
+    "subfamily": {
+      "name_ko": "가위벌아과",
+      "name_latin": "Megachilinae"
+    },
+    "genus": {
+      "name_ko": "가위벌속",
+      "name_latin": "Megachile"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 가위벌과 (Megachilidae)\n아과 : 가위벌아과 (Megachilinae)\n속 : 가위벌속 (Megachile)",
+  "basic_information": {
+    "곤충명": "수중다리가위벌",
+    "학명": "Megachile maritima (Kirby, 1802)"
+  },
+  "information": {
+    "general_description": "몸길이는 15mm정도이며 암컷은 제5배마디의 뒤쪽에 있는 적색털이 완전히 없어졌고 수컷은 가운데가슴등판의 털이 적황색이 아니고 황갈색이다. 배마디의 띠는 각 마디마다 넓지 않다. 수컷의 정수리에는 균일 하게 점각이 나있고 머리 방패의 윗부분도 점각이 많이 나서 광택이 없다. 머리방패중앙에는 세로로 달리는 점각이 없고 광택이 있는 줄이 있다. 작은 방패판은 중앙이 퍽 부풀어 올랐고, 각 배마디는 점각이 없다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": "[감소추세종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 15mm정도이며 암컷은 제5배마디의 뒤쪽에 있는 적색털이 완전히 없어졌고 수컷은 가운데가슴등판의 털이 적황색이 아니고 황갈색이다. 배마디의 띠는 각 마디마다 넓지 않다. 수컷의 정수리에는 균일 하게 점각이 나있고 머리 방패의 윗부분도 점각이 많이 나서 광택이 없다. 머리방패중앙에는 세로로 달리는 점각이 없고 광택이 있는 줄이 있다. 작은 방패판은 중앙이 퍽 부풀어 올랐고, 각 배마디는 점각이 없다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[감소추세종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0064-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0064_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0064_2_th.jpg",
+      "alt": "수중다리가위벌 1번째 사진 : 수중다리가위벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0064_2_th2.jpg",
+      "caption": "수중다리가위벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTAG0064-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0064_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0064_1_th.jpg",
+      "alt": "수중다리가위벌 2번째 사진 : 수중다리가위벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0064_1_th2.jpg",
+      "caption": "수중다리가위벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0064-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0111303027",
+      "description": "[YNUE0111303027] 수중다리가위벌 1961.08.05 / / 영남대학교"
+    },
+    {
+      "id": "KNAE225074",
+      "description": "[KNAE225074] 수중다리가위벌 / / 국립수목원"
+    },
+    {
+      "id": "KNAE261307",
+      "description": "[KNAE261307] 수중다리가위벌 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAG0064-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0064&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:36+00:00",
+    "html_sha256": "c50ad217a200a0e9b26c7b3b711323d85195635752eeac1c47f7e54a67ef1407",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

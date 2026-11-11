@@ -1,0 +1,182 @@
+{
+  "id": "ZOBL0065",
+  "name_ko": "긴알락꽃하늘소",
+  "scientific_name": "Leptura (Leptura) annularis Fabricius, 1801",
+  "display_name": "긴알락꽃하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "꽃하늘소아과",
+      "name_latin": "Lepturinae"
+    },
+    "genus": {
+      "name_ko": "꽃하늘소속",
+      "name_latin": "Leptura"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 꽃하늘소아과 (Lepturinae)\n속 : 꽃하늘소속 (Leptura)",
+  "basic_information": {
+    "곤충명": "긴알락꽃하늘소",
+    "학명": "Leptura (Leptura) annularis Fabricius, 1801"
+  },
+  "information": {
+    "general_description": "체장 12.0~18.0 mm. 머리와 앞가슴등판은 검은색이다. 다리와 더듬이는 연갈색이다. 이마와 정수리에는 큰 점각들이 밀생한다. 더듬이 사이에는 세로의 봉합선이 있다. 앞가슴등판 뒤쪽 가장자리에는 뾰족한 돌기물이 있다. 딱지날개에는 다양한 패턴의 줄무늬가 있지만, 전형적으로 바탕은 검은색이며, 4개의 노란색 줄무늬가 있다. 딱지날개의 뒤 가장자리는 잘린듯한 각을 이룬다.",
+    "adult": null,
+    "adult_male": "뚜렷한 성적이형이 알려지지 않았다.",
+    "adult_female": "뚜렷한 성적이형이 알려지지 않았다.",
+    "larva": "머리는 앞쪽으로 좁은 각도로 둥글다. 이마방패는 짧고 너비는 길이의 약 3.0배이다. 윗입술은 가로로 난형이다. 앞가슴등판은 가로형이며, 머리 쪽으로 경사지고, 등판에는 짧고 두꺼운 털이 있으며, 측면에는 길고, 가늘고 긴 강모들이 있다. 복부의 등면 보행돌기는 1~6마디에서 가장 발달하였다.",
+    "egg": "흰색이며, 길쭉하고 양 말단은 둥글다.",
+    "pupa": "머리는 더듬이 쪽으로 급격히 좁아진다. 앞가슴등판은 앞쪽으로 좁아지며 기부에는 2개의 오목한 부분이 있다. 뒷가슴등판에는 작은 가로의 띠, 세로의 홈이 있다.",
+    "ecology": "활엽수(Alnus, Corylus, Salix, Populus, Sorbus) 등에서 성장하지만, 때로는 침엽수에서도 성장하기도 한다. 성충은 꽃 위에서 화분을 모으는 경우가 많고, 따뜻하고 맑은 날씨에 활동이 많다.",
+    "habits": "다양한 꽃에 모이는 습성이 있다.",
+    "season": null,
+    "overwintering": "유충",
+    "distribution": null,
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": "경제적 피해 유발 해충으로 알려져 있지 않아, 종 특이적 방제법은 현재까지 없다.",
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체장 12.0~18.0 mm. 머리와 앞가슴등판은 검은색이다. 다리와 더듬이는 연갈색이다. 이마와 정수리에는 큰 점각들이 밀생한다. 더듬이 사이에는 세로의 봉합선이 있다. 앞가슴등판 뒤쪽 가장자리에는 뾰족한 돌기물이 있다. 딱지날개에는 다양한 패턴의 줄무늬가 있지만, 전형적으로 바탕은 검은색이며, 4개의 노란색 줄무늬가 있다. 딱지날개의 뒤 가장자리는 잘린듯한 각을 이룬다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "뚜렷한 성적이형이 알려지지 않았다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "뚜렷한 성적이형이 알려지지 않았다."
+    },
+    {
+      "title": "번데기",
+      "text": "머리는 더듬이 쪽으로 급격히 좁아진다. 앞가슴등판은 앞쪽으로 좁아지며 기부에는 2개의 오목한 부분이 있다. 뒷가슴등판에는 작은 가로의 띠, 세로의 홈이 있다."
+    },
+    {
+      "title": "유충",
+      "text": "머리는 앞쪽으로 좁은 각도로 둥글다. 이마방패는 짧고 너비는 길이의 약 3.0배이다. 윗입술은 가로로 난형이다. 앞가슴등판은 가로형이며, 머리 쪽으로 경사지고, 등판에는 짧고 두꺼운 털이 있으며, 측면에는 길고, 가늘고 긴 강모들이 있다. 복부의 등면 보행돌기는 1~6마디에서 가장 발달하였다."
+    },
+    {
+      "title": "생태",
+      "text": "활엽수(Alnus, Corylus, Salix, Populus, Sorbus) 등에서 성장하지만, 때로는 침엽수에서도 성장하기도 한다. 성충은 꽃 위에서 화분을 모으는 경우가 많고, 따뜻하고 맑은 날씨에 활동이 많다."
+    },
+    {
+      "title": "습성",
+      "text": "다양한 꽃에 모이는 습성이 있다."
+    },
+    {
+      "title": "월동",
+      "text": "유충"
+    },
+    {
+      "title": "방제법",
+      "text": "경제적 피해 유발 해충으로 알려져 있지 않아, 종 특이적 방제법은 현재까지 없다."
+    },
+    {
+      "title": "알",
+      "text": "흰색이며, 길쭉하고 양 말단은 둥글다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0065-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0065_4.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0065_4.jpg",
+      "alt": "긴알락꽃하늘소 1번째 사진 : ",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0065_4_th2.jpg",
+      "caption": null,
+      "photographed_at": "20130709",
+      "location": null,
+      "photographer": "국립수목원(임종옥)"
+    },
+    {
+      "id": "ZOBL0065-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0065_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0065_3.jpg",
+      "alt": "긴알락꽃하늘소 2번째 사진 : ",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0065_3_th2.jpg",
+      "caption": null,
+      "photographed_at": "20120515",
+      "location": null,
+      "photographer": "국립수목원(임종옥)"
+    },
+    {
+      "id": "ZOBL0065-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0065_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0065_2_th.jpg",
+      "alt": "긴알락꽃하늘소 3번째 사진 : 긴알락꽃하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0065_2_th2.jpg",
+      "caption": "긴알락꽃하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBL0065-4",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0065_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0065_1_th.jpg",
+      "alt": "긴알락꽃하늘소 4번째 사진 : 긴알락꽃하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0065_1_th2.jpg",
+      "caption": "긴알락꽃하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0065-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408201035",
+      "description": "[MPME0408201035] 긴알락꽃하늘소 2002.04.28 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408201034",
+      "description": "[MPME0408201034] 긴알락꽃하늘소 2002.04.28 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408201033",
+      "description": "[MPME0408201033] 긴알락꽃하늘소 2003.07.10 / / 목포자연사박물관"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "분비나무",
+      "scientific_name": "Abies nephrolepis (Trautv. ex Maxim.) Maxim."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBL0065.png",
+    "reference_image_id": "ZOBL0065-3",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T09:15:10.861200+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "a7ab9f74f05f1ae397a4ba7e33bf98a8b65d7e0660fcb4c9fa2c53d7550c100c"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0065&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:06+00:00",
+    "html_sha256": "84bb4ee1af8b651d55a8f9bbfe2844b89b184e7608a2a3d17c0feb954105dff8",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

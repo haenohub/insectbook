@@ -1,0 +1,110 @@
+{
+  "id": "ZOBH0190",
+  "name_ko": "왕금빛먼지벌레",
+  "scientific_name": "Poecilus (Poecilus) fortipes (Chaudoir, 1850)",
+  "display_name": "왕금빛먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "먼지벌레아과",
+      "name_latin": "Harpalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Poecilus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 먼지벌레아과 (Harpalinae)\n속 : (Poecilus)",
+  "basic_information": {
+    "곤충명": "왕금빛먼지벌레",
+    "학명": "Poecilus (Poecilus) fortipes (Chaudoir, 1850)"
+  },
+  "information": {
+    "general_description": "몸길이는 15~20mm 이며 몸전체는 흑색에 둔한광택이있다. 앞가슴등판에 기부에는 두개의 세로줄이있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[몽골]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 15~20mm 이며 몸전체는 흑색에 둔한광택이있다. 앞가슴등판에 기부에는 두개의 세로줄이있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[몽골]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0190-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0190_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0190_2_th.jpg",
+      "alt": "왕금빛먼지벌레 1번째 사진 : 왕금빛먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0190_2_th2.jpg",
+      "caption": "왕금빛먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0190-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0190_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0190_1_th.jpg",
+      "alt": "왕금빛먼지벌레 2번째 사진 : 왕금빛먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0190_1_th2.jpg",
+      "caption": "왕금빛먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0190-1",
+  "specimen_examples": [
+    {
+      "id": "SJNE0301261014",
+      "description": "[SJNE0301261014] 왕금빛먼지벌레 1969.08.12 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0301261015",
+      "description": "[SJNE0301261015] 왕금빛먼지벌레 1970.07.24 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0301261016",
+      "description": "[SJNE0301261016] 왕금빛먼지벌레 1969.08.09 / / 상주대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0190-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0190&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:31+00:00",
+    "html_sha256": "896f67fb1cad222c5988b4f4c169611e348342facae1324a5e1c8cbe19f55a9f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

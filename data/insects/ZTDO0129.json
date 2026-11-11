@@ -1,0 +1,103 @@
+{
+  "id": "ZTDO0129",
+  "name_ko": "종아리검정날개잎벌",
+  "scientific_name": "Allantus (Emphytus) nigritibialis Rohwer, 1911",
+  "display_name": "종아리검정날개잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "검정날개잎벌아과",
+      "name_latin": "Allantinae"
+    },
+    "genus": {
+      "name_ko": "검정날개잎벌속",
+      "name_latin": "Allantus"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 검정날개잎벌아과 (Allantinae)\n속 : 검정날개잎벌속 (Allantus)",
+  "basic_information": {
+    "곤충명": "종아리검정날개잎벌",
+    "학명": "Allantus (Emphytus) nigritibialis Rohwer, 1911"
+  },
+  "information": {
+    "general_description": "암컷의 몸길이는 8~8.4mm. 몸은 검고 겹눈 안쪽가두리는 갈색이다. 어깨판의 위쪽1/2과 제 5배마디의 가두리 그리고, 제 6배마디의 측면과 기부의 중앙은 희다. 날개는 막상이다. 대부분 광택을 갖지만, 앞가슴등판, 가운데 가슴옆판, 가운데 작은방패판은 작은 점각이 있고 흐리다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[미국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷의 몸길이는 8~8.4mm. 몸은 검고 겹눈 안쪽가두리는 갈색이다. 어깨판의 위쪽1/2과 제 5배마디의 가두리 그리고, 제 6배마디의 측면과 기부의 중앙은 희다. 날개는 막상이다. 대부분 광택을 갖지만, 앞가슴등판, 가운데 가슴옆판, 가운데 작은방패판은 작은 점각이 있고 흐리다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[미국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0129-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0129_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0129_1_th.jpg",
+      "alt": "종아리검정날개잎벌 1번째 사진 : 종아리검정날개잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0129_1_th2.jpg",
+      "caption": "종아리검정날개잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0129-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0212249107",
+      "description": "[YNUE0212249107] 종아리검정날개잎벌 2002.05.11 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305201041",
+      "description": "[YNUE0305201041] 종아리검정날개잎벌 1999.05.05 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305201074",
+      "description": "[YNUE0305201074] 종아리검정날개잎벌 1999.05.07 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDO0129-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0129&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:54+00:00",
+    "html_sha256": "1227c22ee23691709844498a1749b25e82914497b32522704327b40f2a9534f3",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

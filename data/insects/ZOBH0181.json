@@ -1,0 +1,99 @@
+{
+  "id": "ZOBH0181",
+  "name_ko": "습지먼지벌레",
+  "scientific_name": "Archipatrobus flavipes flavipes (Motschulsky, 1864)",
+  "display_name": "습지먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "습지먼지벌레아과",
+      "name_latin": "Patrobinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Archipatrobus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 습지먼지벌레아과 (Patrobinae)\n속 : (Archipatrobus)",
+  "basic_information": {
+    "곤충명": "습지먼지벌레",
+    "학명": "Archipatrobus flavipes flavipes (Motschulsky, 1864)"
+  },
+  "information": {
+    "general_description": "몸길이는 15mm 내외이며 몸 색깔은 흑색의 광택을 내며 더듬이는 적갈색 다리는 황갈색이다. 커리와 앞가슴에는 점누늬가 산포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 15mm 내외이며 몸 색깔은 흑색의 광택을 내며 더듬이는 적갈색 다리는 황갈색이다. 커리와 앞가슴에는 점누늬가 산포되어있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0181-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0181_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0181_1_th.jpg",
+      "alt": "습지먼지벌레 1번째 사진 : 습지먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0181_1_th2.jpg",
+      "caption": "습지먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0181-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0408161003",
+      "description": "[UIBE0408161003] 습지먼지벌레 2001.09.14 / / 인천대학교"
+    },
+    {
+      "id": "KNAE0304041018",
+      "description": "[KNAE0304041018] 습지먼지벌레 1992.08.19 / / 국립수목원"
+    },
+    {
+      "id": "YNUE0212178014",
+      "description": "[YNUE0212178014] 습지먼지벌레 1997.05.24 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0181-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0181&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:44+00:00",
+    "html_sha256": "90917580f30db5ed82d8e37cb30ff1cad0f682b6d6a2c3526c6c74171422dd96",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

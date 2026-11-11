@@ -1,0 +1,114 @@
+{
+  "id": "ZTDO0004",
+  "name_ko": "북극잎벌",
+  "scientific_name": "Nesoselandria morio (Fabricius, 1781)",
+  "display_name": "북극잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "줄잎벌아과",
+      "name_latin": "Selandriinae"
+    },
+    "genus": {
+      "name_ko": "북극잎벌속",
+      "name_latin": "Nesoselandria"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 줄잎벌아과 (Selandriinae)\n속 : 북극잎벌속 (Nesoselandria)",
+  "basic_information": {
+    "곤충명": "북극잎벌",
+    "학명": "Nesoselandria morio (Fabricius, 1781)"
+  },
+  "information": {
+    "general_description": "암컷의 몸길이는 4.5mm, 몸은 검다. 가운데다리와, 뒷다리 넓적다리마디, 종아리마디와 발목마디는 노란색이다. 더듬이 곧은마디 길이는 폭의 2배이다. 뒷날개 둔실은 짧게 petiole하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[튀르키예공화국]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷의 몸길이는 4.5mm, 몸은 검다. 가운데다리와, 뒷다리 넓적다리마디, 종아리마디와 발목마디는 노란색이다. 더듬이 곧은마디 길이는 폭의 2배이다. 뒷날개 둔실은 짧게 petiole하다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[튀르키예공화국]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0004-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0004_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0004_2_th.jpg",
+      "alt": "북극잎벌 1번째 사진 : 북극잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0004_2_th2.jpg",
+      "caption": "북극잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTDO0004-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0004_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0004_1_th.jpg",
+      "alt": "북극잎벌 2번째 사진 : 북극잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0004_1_th2.jpg",
+      "caption": "북극잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0004-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305141039",
+      "description": "[YNUE0305141039] 북극잎벌 1998.09.04 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305141040",
+      "description": "[YNUE0305141040] 북극잎벌 1998.09.04 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305141042",
+      "description": "[YNUE0305141042] 북극잎벌 1999.05.08 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDO0004-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0004&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:21+00:00",
+    "html_sha256": "29333b8b2f27a2ac5ff0857c7027080b3f52302ffef67007cd5edca45a8a1122",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

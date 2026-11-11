@@ -1,0 +1,156 @@
+{
+  "id": "ZOBL0218",
+  "name_ko": "우리목하늘소",
+  "scientific_name": "Lamiomimus gottschei Kolbe, 1886",
+  "display_name": "우리목하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "목하늘소아과",
+      "name_latin": "Lamiinae"
+    },
+    "genus": {
+      "name_ko": "우리목하늘소속",
+      "name_latin": "Lamiomimus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 목하늘소아과 (Lamiinae)\n속 : 우리목하늘소속 (Lamiomimus)",
+  "basic_information": {
+    "곤충명": "우리목하늘소",
+    "학명": "Lamiomimus gottschei Kolbe, 1886"
+  },
+  "information": {
+    "general_description": "몸길이는 25~35mm이며 몸은 흑갈색이나 황갈색 내지 황백색의 짧은 털로 덮였는데 특히 앞가슴 등판 가운데 부분 옆에는 가시모양의 돌기가 있고, 양옆의 중간에는 크고 뾰족한 돌기가 있다. 수컷이 암컷에 비해 촉각은 길지만 몸통은 작다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 25~35mm이며 몸은 흑갈색이나 황갈색 내지 황백색의 짧은 털로 덮였는데 특히 앞가슴 등판 가운데 부분 옆에는 가시모양의 돌기가 있고, 양옆의 중간에는 크고 뾰족한 돌기가 있다. 수컷이 암컷에 비해 촉각은 길지만 몸통은 작다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0218-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0218_4.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0218_4.jpg",
+      "alt": "우리목하늘소 1번째 사진 : ",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0218_4_th2.jpg",
+      "caption": null,
+      "photographed_at": "20120531",
+      "location": null,
+      "photographer": "국립수목원(임종옥)"
+    },
+    {
+      "id": "ZOBL0218-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0218_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0218_3.jpg",
+      "alt": "우리목하늘소 2번째 사진 : ",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0218_3_th2.jpg",
+      "caption": null,
+      "photographed_at": null,
+      "location": null,
+      "photographer": "국립수목원(이승규)"
+    },
+    {
+      "id": "ZOBL0218-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0218_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0218_2_th.jpg",
+      "alt": "우리목하늘소 3번째 사진 : 우리목하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0218_2_th2.jpg",
+      "caption": "우리목하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBL0218-4",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0218_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0218_1_th.jpg",
+      "alt": "우리목하늘소 4번째 사진 : 우리목하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0218_1_th2.jpg",
+      "caption": "우리목하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0218-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0301282052",
+      "description": "[UIBE0301282052] 우리목하늘소 1976.09.30 / / 인천대학교"
+    },
+    {
+      "id": "KNAE0304162069",
+      "description": "[KNAE0304162069] 우리목하늘소 1991.09.16 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304162070",
+      "description": "[KNAE0304162070] 우리목하늘소 1991.06.20 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "떡갈나무",
+      "scientific_name": "Quercus dentata Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "버드나무",
+      "scientific_name": "Salix pierotii Miq."
+    },
+    {
+      "group": "식물",
+      "name_ko": "졸참나무",
+      "scientific_name": "Quercus serrata Murray"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0218-3"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0218&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:01+00:00",
+    "html_sha256": "aa680a10e7419126516c6eebf2f7cb63201b5cc94dfd3742f2c1902393ef75e2",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

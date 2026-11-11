@@ -1,0 +1,114 @@
+{
+  "id": "ZOBU0005",
+  "name_ko": "강변길앞잡이",
+  "scientific_name": "Chaetodera laetescripta laetescripta (Motschulsky, 1860)",
+  "display_name": "강변길앞잡이",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "길앞잡이아과",
+      "name_latin": "Cicindelinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Chaetodera"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 길앞잡이아과 (Cicindelinae)\n속 : (Chaetodera)",
+  "basic_information": {
+    "곤충명": "강변길앞잡이",
+    "학명": "Chaetodera laetescripta laetescripta (Motschulsky, 1860)"
+  },
+  "information": {
+    "general_description": "한국, 일본, 만주, 중국, 몽고, 사할린, 아무르에 분포하며, 체장은 15-17mm 정도이다. 몸은 청록흑색이고 윗입술은 황색인데 장방형, 앞가두리 중앙에 한 개의 이가 있다. 양 눈의 안쪽에 종조구와 중앙부 머리꼭대기의 주름 조각 무늬는 치밀하나 앞가슴등에는 비교적 얕고양쪽은 중앙부가 바깥쪽으로 만곡하고 폭이 넓다. 딱지날개는 전면에 얕은 점각이 밀포되었고 둔한 광택이 있다. 몸의 아랫면은 구리색 광택이 강하고 다리는 녹색인데 금속 광택이 나며 밑마디, 도래마디, 발목마디는 적색이다. 촉각은 적갈색, 기부의 네마디는 금속 광택이 난다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 만주, 중국, 몽고, 사할린, 아무르에 분포하며, 체장은 15-17mm 정도이다. 몸은 청록흑색이고 윗입술은 황색인데 장방형, 앞가두리 중앙에 한 개의 이가 있다. 양 눈의 안쪽에 종조구와 중앙부 머리꼭대기의 주름 조각 무늬는 치밀하나 앞가슴등에는 비교적 얕고양쪽은 중앙부가 바깥쪽으로 만곡하고 폭이 넓다. 딱지날개는 전면에 얕은 점각이 밀포되었고 둔한 광택이 있다. 몸의 아랫면은 구리색 광택이 강하고 다리는 녹색인데 금속 광택이 나며 밑마디, 도래마디, 발목마디는 적색이다. 촉각은 적갈색, 기부의 네마디는 금속 광택이 난다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBU0005-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0005_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0005_2_th.jpg",
+      "alt": "강변길앞잡이 1번째 사진 : 강변길앞잡이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0005_2_th2.jpg",
+      "caption": "강변길앞잡이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBU0005-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0005_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0005_1_th.jpg",
+      "alt": "강변길앞잡이 2번째 사진 : 강변길앞잡이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0005_1_th2.jpg",
+      "caption": "강변길앞잡이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBU0005-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303261010",
+      "description": "[KNAE0303261010] 강변길앞잡이 1995.06.19 / / 국립수목원"
+    },
+    {
+      "id": "DJUE0406231160",
+      "description": "[DJUE0406231160] 강변길앞잡이 2002.06.21 / / 대전대학교"
+    },
+    {
+      "id": "DJUE0406231161",
+      "description": "[DJUE0406231161] 강변길앞잡이 2001.07.09 / / 대전대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBU0005.png",
+    "reference_image_id": "ZOBU0005-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T16:59:11.364042+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "43c9846672691033f613725d0b9a306bb01545aba3de3def825a6ab1c33d2aca"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBU0005&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:40+00:00",
+    "html_sha256": "ca8025654a122c1fc8c8d13a175fd54b075ad0c24a1f5f37096424cf7accafdd",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

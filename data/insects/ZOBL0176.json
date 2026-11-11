@@ -1,0 +1,122 @@
+{
+  "id": "ZOBL0176",
+  "name_ko": "모자주홍하늘소",
+  "scientific_name": "Purpuricenus lituratus Ganglbauer, 1887",
+  "display_name": "모자주홍하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "하늘소아과",
+      "name_latin": "Cerambycinae"
+    },
+    "genus": {
+      "name_ko": "주홍하늘소속",
+      "name_latin": "Purpuricenus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 하늘소아과 (Cerambycinae)\n속 : 주홍하늘소속 (Purpuricenus)",
+  "basic_information": {
+    "곤충명": "모자주홍하늘소",
+    "학명": "Purpuricenus lituratus Ganglbauer, 1887"
+  },
+  "information": {
+    "general_description": "촉각, 머리, 다리는 흑색이고 앞가슴등판과 딱지날개는 홍색으로 되어 있으며, 앞가슴 등판에 5개의 흑 점무늬가 있다.딱지 날개에는 중절모 모양의 흑색무늬가 나타나있다.성충은 몸 길이가 16~23mm로 나타난다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 4월하순부터 8월에 걸쳐 야산에서 발견되어지고 있으며, 주로 5월에 많이 분포 한다.떡갈나무 잎을 주로 즐겨 먹으며, 떡갈나무 줄기에 산란한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]\n[러시아]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "촉각, 머리, 다리는 흑색이고 앞가슴등판과 딱지날개는 홍색으로 되어 있으며, 앞가슴 등판에 5개의 흑 점무늬가 있다.딱지 날개에는 중절모 모양의 흑색무늬가 나타나있다.성충은 몸 길이가 16~23mm로 나타난다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 4월하순부터 8월에 걸쳐 야산에서 발견되어지고 있으며, 주로 5월에 많이 분포 한다.떡갈나무 잎을 주로 즐겨 먹으며, 떡갈나무 줄기에 산란한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0176-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0176_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0176_2_th.jpg",
+      "alt": "모자주홍하늘소 1번째 사진 : 모자주홍하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0176_2_th2.jpg",
+      "caption": "모자주홍하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBL0176-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0176_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0176_1_th.jpg",
+      "alt": "모자주홍하늘소 2번째 사진 : 모자주홍하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0176_1_th2.jpg",
+      "caption": "모자주홍하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0176-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303132053",
+      "description": "[KNAE0303132053] 모자주홍하늘소 1996.06.03 / / 국립수목원"
+    },
+    {
+      "id": "ADUE0303071030",
+      "description": "[ADUE0303071030] 모자주홍하늘소 1998.06.25 / / 안동대학교"
+    },
+    {
+      "id": "KNUE0303031002",
+      "description": "[KNUE0303031002] 모자주홍하늘소 1985.05.12 / / 강원대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0176-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0176&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:19+00:00",
+    "html_sha256": "160a78b2627efa96a0cbe084eafdc805fffd2e47f97274bc7eb8f24aad6588b5",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

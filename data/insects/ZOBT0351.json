@@ -1,0 +1,107 @@
+{
+  "id": "ZOBT0351",
+  "name_ko": "청남생이잎벌레",
+  "scientific_name": "Cassida (Cassida) rubiginosa rubiginosa Müller, 1776",
+  "display_name": "청남생이잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "남생이잎벌레아과",
+      "name_latin": "Cassidinae"
+    },
+    "genus": {
+      "name_ko": "남생이잎벌레속",
+      "name_latin": "Cassida"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 남생이잎벌레아과 (Cassidinae)\n속 : 남생이잎벌레속 (Cassida)",
+  "basic_information": {
+    "곤충명": "청남생이잎벌레",
+    "학명": "Cassida (Cassida) rubiginosa rubiginosa Müller, 1776"
+  },
+  "information": {
+    "general_description": "체장은 7.0~8.5㎜이며 체배면은 황갈색, 녹갈색을띄고 있다.배는 흑색이며, 촉각은 적갈색을 띄고, 흑갈색을 띈 선단 5절과 적갈색을 띈 다리, 넓적마디는 적갈색인것을 제외하고는 흑색이다. 윗 날개의 점각은 불규칙하다.분포는 한국, 일본, 중국, 몽골, 시베리아, 유럽등지이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "4월 초순에 성충이 나타나며,5월 중, 하순에 산란을 시작한다.1~9개의 산란을 하고 알은 2층구조로 된 막에 쌓인 잎 표면에 산란하고 배설물로 겉을 덮는다. 유충은 5월~7월에 관찰되고 탈피각과 배설물을 지고 다닌다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[몽골]\n[유럽]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체장은 7.0~8.5㎜이며 체배면은 황갈색, 녹갈색을띄고 있다.배는 흑색이며, 촉각은 적갈색을 띄고, 흑갈색을 띈 선단 5절과 적갈색을 띈 다리, 넓적마디는 적갈색인것을 제외하고는 흑색이다. 윗 날개의 점각은 불규칙하다.분포는 한국, 일본, 중국, 몽골, 시베리아, 유럽등지이다."
+    },
+    {
+      "title": "생태",
+      "text": "4월 초순에 성충이 나타나며,5월 중, 하순에 산란을 시작한다.1~9개의 산란을 하고 알은 2층구조로 된 막에 쌓인 잎 표면에 산란하고 배설물로 겉을 덮는다. 유충은 5월~7월에 관찰되고 탈피각과 배설물을 지고 다닌다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[몽골]\n[유럽]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0351-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0351_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0351_1_th.jpg",
+      "alt": "청남생이잎벌레 1번째 사진 : 청남생이잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0351_1_th2.jpg",
+      "caption": "청남생이잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0351-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0306131004",
+      "description": "[FRIE0306131004] 청남생이잎벌레 1980.06.13 / / 국립산림과학원"
+    },
+    {
+      "id": "YNUE0607251017",
+      "description": "[YNUE0607251017] 청남생이잎벌레 1992.06.20 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0607251018",
+      "description": "[YNUE0607251018] 청남생이잎벌레 1996.06.25 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0351-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0351&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:12+00:00",
+    "html_sha256": "031cdd5a8b315226e9b046e770c2d929938742bcc83b486f490687c720dc71b2",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

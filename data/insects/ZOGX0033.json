@@ -1,0 +1,103 @@
+{
+  "id": "ZOGX0033",
+  "name_ko": "쌀거저리",
+  "scientific_name": "Latheticus oryzae Waterhouse, 1880",
+  "display_name": "쌀거저리",
+  "family_ko": "거저리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "거저리상과",
+      "name_latin": "Tenebrionoidea"
+    },
+    "family": {
+      "name_ko": "거저리과",
+      "name_latin": "Tenebrionidae"
+    },
+    "subfamily": {
+      "name_ko": "거저리아과",
+      "name_latin": "Tenebrioninae"
+    },
+    "genus": {
+      "name_ko": "쌀거저리속",
+      "name_latin": "Latheticus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 거저리상과 (Tenebrionoidea)\n과 : 거저리과 (Tenebrionidae)\n아과 : 거저리아과 (Tenebrioninae)\n속 : 쌀거저리속 (Latheticus)",
+  "basic_information": {
+    "곤충명": "쌀거저리",
+    "학명": "Latheticus oryzae Waterhouse, 1880"
+  },
+  "information": {
+    "general_description": "체장은 2.5mm 내외로 황적갈색이며 가늘고 납작한 형태를 가지고 있다. 전흉은 두부보다 다소 거칠다.\n韓國(한국), 日本(일본), 인도, 북미 등 전세계에 분포한다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[미국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체장은 2.5mm 내외로 황적갈색이며 가늘고 납작한 형태를 가지고 있다. 전흉은 두부보다 다소 거칠다.\n韓國(한국), 日本(일본), 인도, 북미 등 전세계에 분포한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[미국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGX0033-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGX0033_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGX0033_1_th.jpg",
+      "alt": "쌀거저리 1번째 사진 : 쌀거저리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGX0033_1_th2.jpg",
+      "caption": "쌀거저리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGX0033-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0408111122",
+      "description": "[UIBE0408111122] 쌀거저리 1994.10.04 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0408111121",
+      "description": "[UIBE0408111121] 쌀거저리 1994.10.10 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0408111123",
+      "description": "[UIBE0408111123] 쌀거저리 1994.10.05 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGX0033-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGX0033&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:55+00:00",
+    "html_sha256": "ad90d5c4355d290027d869af047a1b3be8945e52bf96738512167aaf2a7651ea",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

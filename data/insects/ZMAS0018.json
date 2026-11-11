@@ -1,0 +1,122 @@
+{
+  "id": "ZMAS0018",
+  "name_ko": "고려풀매미",
+  "scientific_name": "Tettigetta isshikii (Kato, 1926)",
+  "display_name": "고려풀매미",
+  "family_ko": "매미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "매미상과",
+      "name_latin": "Cicadoidea"
+    },
+    "family": {
+      "name_ko": "매미과",
+      "name_latin": "Cicadidae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Cicadettinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Tettigetta"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 매미상과 (Cicadoidea)\n과 : 매미과 (Cicadidae)\n아과 : (Cicadettinae)\n속 : (Tettigetta)",
+  "basic_information": {
+    "곤충명": "고려풀매미",
+    "학명": "Tettigetta isshikii (Kato, 1926)"
+  },
+  "information": {
+    "general_description": "몸길이: 15-17 mm. 두부와 등은 검다. 이마에는 작은 반문이 있다. 홑눈은 연한 붉은색이다. 겹눈은 갈색을 띤다. 앞가슴등 중앙의 세로 줄무늬가 있다. 가운데가슴등의 2개의 원반형 세로 띠무늬가 있다. 배판은 짧고, 반원형이다. 앞날개와 뒷날개는 투명하고, 맥은 자주색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "언덕이나 능선 위보다는 낮은 평지를 선호한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이: 15-17 mm. 두부와 등은 검다. 이마에는 작은 반문이 있다. 홑눈은 연한 붉은색이다. 겹눈은 갈색을 띤다. 앞가슴등 중앙의 세로 줄무늬가 있다. 가운데가슴등의 2개의 원반형 세로 띠무늬가 있다. 배판은 짧고, 반원형이다. 앞날개와 뒷날개는 투명하고, 맥은 자주색이다."
+    },
+    {
+      "title": "생태",
+      "text": "언덕이나 능선 위보다는 낮은 평지를 선호한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMAS0018-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAS0017_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAS0017_2_th.jpg",
+      "alt": "고려풀매미 1번째 사진 : 고려풀매미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAS0017_2_th2.jpg",
+      "caption": "고려풀매미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZMAS0018-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAS0017_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAS0017_1_th.jpg",
+      "alt": "고려풀매미 2번째 사진 : 고려풀매미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAS0017_1_th2.jpg",
+      "caption": "고려풀매미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMAS0018-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408191165",
+      "description": "[MPME0408191165] 고려풀매미 1999.07.09 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408191166",
+      "description": "[MPME0408191166] 고려풀매미 1999.07.09 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0407261102",
+      "description": "[MPME0407261102] 고려풀매미 1999.07.09 / / 목포자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZMAS0018.png",
+    "reference_image_id": "ZMAS0018-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T12:33:26.834947+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "32da6d5bdcbb7612e1b5c2dcfb99d16f1b5fe679d98c1ab28b56520a1b920478"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMAS0018&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:51+00:00",
+    "html_sha256": "1dc8ce9d98d6375b1a545107ff43f0e44fb24810cff2ffcaa7f763d87ae683bb",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

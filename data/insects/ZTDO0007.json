@@ -1,0 +1,103 @@
+{
+  "id": "ZTDO0007",
+  "name_ko": "호색잎벌",
+  "scientific_name": "Stromboceros delicatulus (Fallén, 1808)",
+  "display_name": "호색잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "줄잎벌아과",
+      "name_latin": "Selandriinae"
+    },
+    "genus": {
+      "name_ko": "호색줄잎벌속",
+      "name_latin": "Stromboceros"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 줄잎벌아과 (Selandriinae)\n속 : 호색줄잎벌속 (Stromboceros)",
+  "basic_information": {
+    "곤충명": "호색잎벌",
+    "학명": "Stromboceros delicatulus (Fallén, 1808)"
+  },
+  "information": {
+    "general_description": "겹눈 아래쪽은 뚜렷이 수렴되고, 얼굴은 각져 있지 않으며, 이마부위는 각진carina가 없다. 머리방패는 깊게 파여져 있으며, 윗입술 정단부는 돌출되었고, 겹눈 뒷가두리는 전반적으로 carina가 발달되어 있다. 암컷의 더듬이 제 3마디는 제 4마디의 길이보다 뚜려시 길다. 작은 방패판은 황색이다. 수컷의 복부는 노란색이고, 전신복절은 앞가두리에 4개의 작은 흑색반점이 있거나 또는 가두리 모서리에 흑색반점이 있다. 제 6~8복부마디 중앙부에 큰 엷은 흑색반점이 있다. 그 외는 암컷과 동일하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "겹눈 아래쪽은 뚜렷이 수렴되고, 얼굴은 각져 있지 않으며, 이마부위는 각진carina가 없다. 머리방패는 깊게 파여져 있으며, 윗입술 정단부는 돌출되었고, 겹눈 뒷가두리는 전반적으로 carina가 발달되어 있다. 암컷의 더듬이 제 3마디는 제 4마디의 길이보다 뚜려시 길다. 작은 방패판은 황색이다. 수컷의 복부는 노란색이고, 전신복절은 앞가두리에 4개의 작은 흑색반점이 있거나 또는 가두리 모서리에 흑색반점이 있다. 제 6~8복부마디 중앙부에 큰 엷은 흑색반점이 있다. 그 외는 암컷과 동일하다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0007-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0007_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0007_1_th.jpg",
+      "alt": "호색잎벌 1번째 사진 : 호색잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0007_1_th2.jpg",
+      "caption": "호색잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0007-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305201091",
+      "description": "[YNUE0305201091] 호색잎벌 1992.05.13 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0201174011",
+      "description": "[YNUE0201174011] 호색잎벌 1989.07.23 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0201174012",
+      "description": "[YNUE0201174012] 호색잎벌 1992.05.14 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDO0007-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0007&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:18+00:00",
+    "html_sha256": "b6c4156f5ed6661f0e0620e0739fe7a981df401b460422a21080c018bfb21908",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

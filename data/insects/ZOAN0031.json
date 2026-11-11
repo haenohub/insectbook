@@ -1,0 +1,111 @@
+{
+  "id": "ZOAN0031",
+  "name_ko": "꼬마똥풍뎅이",
+  "scientific_name": "Aphodius (Esymus) pusillus (Herbst, 1789)",
+  "display_name": "꼬마똥풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "똥풍뎅이아과",
+      "name_latin": "Aphodiinae"
+    },
+    "genus": {
+      "name_ko": "똥풍뎅이속",
+      "name_latin": "Aphodius"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 똥풍뎅이아과 (Aphodiinae)\n속 : 똥풍뎅이속 (Aphodius)",
+  "basic_information": {
+    "곤충명": "꼬마똥풍뎅이",
+    "학명": "Aphodius (Esymus) pusillus (Herbst, 1789)"
+  },
+  "information": {
+    "general_description": "일본, 시베리아 동부, 몽골, 트랜스 코카서스, 유럽에 분포하며 흑색,흑갈색이다. 전흉배판 앞모서리와 딱지날개는 보통 적갈색이다. 이마융기는 없고, 머리 점각은 조밀하며 전흉배판 중앙 점각은 거칠고 크기가 매우 다른 것끼라 섞였고, 조구점각은 간실을 약하게 침범하였다. 전흉배판 후각은 경사졌고 테는 가늘다. 중,후경절단극모열의 길이는 서로 다르며, 제1후부절 길이는 다음 2마디의 합과 같다. BL:3~4.5mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]\n[몽골]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "일본, 시베리아 동부, 몽골, 트랜스 코카서스, 유럽에 분포하며 흑색,흑갈색이다. 전흉배판 앞모서리와 딱지날개는 보통 적갈색이다. 이마융기는 없고, 머리 점각은 조밀하며 전흉배판 중앙 점각은 거칠고 크기가 매우 다른 것끼라 섞였고, 조구점각은 간실을 약하게 침범하였다. 전흉배판 후각은 경사졌고 테는 가늘다. 중,후경절단극모열의 길이는 서로 다르며, 제1후부절 길이는 다음 2마디의 합과 같다. BL:3~4.5mm."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]\n[몽골]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAN0031-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAN0031_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAN0031_1_th.jpg",
+      "alt": "꼬마똥풍뎅이 1번째 사진 : 꼬마똥풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAN0031_1_th2.jpg",
+      "caption": "꼬마똥풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAN0031-1",
+  "specimen_examples": [
+    {
+      "id": "SSUE0303051054",
+      "description": "[SSUE0303051054] 꼬마똥풍뎅이 1984.04.21 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0303051055",
+      "description": "[SSUE0303051055] 꼬마똥풍뎅이 1984.04.21 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0303061017",
+      "description": "[SSUE0303061017] 꼬마똥풍뎅이 1983.04.23 / / 성신여자대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOAN0031.png",
+    "reference_image_id": "ZOAN0031-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T13:33:39.102744+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "ce3f04df4307d931b612051a0e2c6b1ba84c62c51928bbdb454995c5d3e1f734"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAN0031&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:34+00:00",
+    "html_sha256": "933b0dbeaf42b27fb7d1a6c38ea770d3ba478235068d66662ad8973c0e960394",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

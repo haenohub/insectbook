@@ -1,0 +1,110 @@
+{
+  "id": "ZOBU0009",
+  "name_ko": "큰무늬길앞잡이",
+  "scientific_name": "Cicindela (Cicindela) lewisii lewisii Bates, 1873",
+  "display_name": "큰무늬길앞잡이",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "길앞잡이아과",
+      "name_latin": "Cicindelinae"
+    },
+    "genus": {
+      "name_ko": "길앞잡이속",
+      "name_latin": "Cicindela"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 길앞잡이아과 (Cicindelinae)\n속 : 길앞잡이속 (Cicindela)",
+  "basic_information": {
+    "곤충명": "큰무늬길앞잡이",
+    "학명": "Cicindela (Cicindela) lewisii lewisii Bates, 1873"
+  },
+  "information": {
+    "general_description": "한국, 일본, 중국에 분포하며, 체장은 15-17mm 정도이다. 몸은 흑색인데 연한 구리색 광택이 난다. 딱지날개는 전면에 미세한 과립이 밀포되어 마치 상어피부 모양으로 되었다. 딱지날개의 반문들은 황색인데 전부가 현저하게 크고 어깨와 날개끝에 있다. 달 모양 무늬는 중단되지 않고 완전하다. 몸의 아랫면, 다리, 촉각 기부의 네마디는 청록색 광택이 나고 구리색 광택이 현저하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 중국에 분포하며, 체장은 15-17mm 정도이다. 몸은 흑색인데 연한 구리색 광택이 난다. 딱지날개는 전면에 미세한 과립이 밀포되어 마치 상어피부 모양으로 되었다. 딱지날개의 반문들은 황색인데 전부가 현저하게 크고 어깨와 날개끝에 있다. 달 모양 무늬는 중단되지 않고 완전하다. 몸의 아랫면, 다리, 촉각 기부의 네마디는 청록색 광택이 나고 구리색 광택이 현저하다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBU0009-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0009_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0009_2_th.jpg",
+      "alt": "큰무늬길앞잡이 1번째 사진 : 큰무늬길앞잡이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0009_2_th2.jpg",
+      "caption": "큰무늬길앞잡이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBU0009-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0009_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0009_1_th.jpg",
+      "alt": "큰무늬길앞잡이 2번째 사진 : 큰무늬길앞잡이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0009_1_th2.jpg",
+      "caption": "큰무늬길앞잡이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBU0009-1",
+  "specimen_examples": [
+    {
+      "id": "JFNE0212311044",
+      "description": "[JFNE0212311044] 큰무늬길앞잡이 1991.06.01 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0212311043",
+      "description": "[JFNE0212311043] 큰무늬길앞잡이 1991.06.01 / / 제주자연사박물관"
+    },
+    {
+      "id": "DJUE0406231140",
+      "description": "[DJUE0406231140] 큰무늬길앞잡이 2002.06.26 / / 대전대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBU0009-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBU0009&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:47+00:00",
+    "html_sha256": "aa88632acc8d5d772ccb0429c672d86aec99556df443792eeecf357df2af6df9",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

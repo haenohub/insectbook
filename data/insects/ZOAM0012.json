@@ -1,0 +1,122 @@
+{
+  "id": "ZOAM0012",
+  "name_ko": "긴날개떡소바구미",
+  "scientific_name": "Tropideres cyaneotergum Oda, 1979",
+  "display_name": "긴날개떡소바구미",
+  "family_ko": "소바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "소바구미과",
+      "name_latin": "Anthribidae"
+    },
+    "subfamily": {
+      "name_ko": "소바구미아과",
+      "name_latin": "Anthribinae"
+    },
+    "genus": {
+      "name_ko": "떡소바구미속",
+      "name_latin": "Tropideres"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 소바구미과 (Anthribidae)\n아과 : 소바구미아과 (Anthribinae)\n속 : 떡소바구미속 (Tropideres)",
+  "basic_information": {
+    "곤충명": "긴날개떡소바구미",
+    "학명": "Tropideres cyaneotergum Oda, 1979"
+  },
+  "information": {
+    "general_description": "크기 4.4-5.8mm\n체색은 흑색. 흰색과 회색의 털로 덮여있슴.\n시초의 중앙 후반부에 흰색의 가로무늬를 가짐.\n다리의 경절 중앙에 한개의 흰색 띠무늬를 가짐.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "크기 4.4-5.8mm\n체색은 흑색. 흰색과 회색의 털로 덮여있슴.\n시초의 중앙 후반부에 흰색의 가로무늬를 가짐.\n다리의 경절 중앙에 한개의 흰색 띠무늬를 가짐."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAM0012-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0012_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0012_2_th.jpg",
+      "alt": "긴날개떡소바구미 1번째 사진 : 긴날개떡소바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0012_2_th2.jpg",
+      "caption": "긴날개떡소바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOAM0012-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0012_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0012_1_th.jpg",
+      "alt": "긴날개떡소바구미 2번째 사진 : 긴날개떡소바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0012_1_th2.jpg",
+      "caption": "긴날개떡소바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAM0012-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303132037",
+      "description": "[KNAE0303132037] 긴날개떡소바구미 1995.06.06 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303132038",
+      "description": "[KNAE0303132038] 긴날개떡소바구미 1995.05.15 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303132031",
+      "description": "[KNAE0303132031] 긴날개떡소바구미 1995.05.18 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOAM0012.png",
+    "reference_image_id": "ZOAM0012-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T08:45:02.244296+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "d4b92f545b328fcc933e4763117dd8fbd2f3c6a4aaff16498eec63a680a1f2b1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAM0012&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:55+00:00",
+    "html_sha256": "6092bb1364cf219934ed50e01698e3cd589e51b565def064e6ef32b973d10a02",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

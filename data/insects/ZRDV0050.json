@@ -1,0 +1,132 @@
+{
+  "id": "ZRDV0050",
+  "name_ko": "봄어리표범나비",
+  "scientific_name": "Melitaea latefascia Fixsen, 1887",
+  "display_name": "봄어리표범나비",
+  "family_ko": "네발나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "네발나비과",
+      "name_latin": "Nymphalidae"
+    },
+    "subfamily": {
+      "name_ko": "네발나비아과",
+      "name_latin": "Nymphalinae"
+    },
+    "genus": {
+      "name_ko": "어리표범나비속",
+      "name_latin": "Melitaea"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 네발나비과 (Nymphalidae)\n아과 : 네발나비아과 (Nymphalinae)\n속 : 어리표범나비속 (Melitaea)",
+  "basic_information": {
+    "곤충명": "봄어리표범나비",
+    "학명": "Melitaea latefascia Fixsen, 1887"
+  },
+  "information": {
+    "general_description": "암컷은 보통 수컷보다 크고 날개의 폭이 넓고 바탕색이 연하며 검은색 무늬가 발달해 잇다. 암수 모두 검은색 무늬의 크기에 개체변이가 많다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "산지의 초지에 서식하며, 엉겅퀴 큰까치수영, 얇은잎고광나무 등의 꽃에 잘 모여 흡밀한다. 수컷은 비교적 활발하게 낮은 풀 사이를 계속 날아다니나 암컷은 조금 둔하게 날며, 거의 대부분의 시간을 풀잎 위에서 쉰다. 지금까지의 채집기록에 여름어리표범나비로 오인된 경우에는 여기에서 제외하였다",
+    "season": null,
+    "overwintering": "애벌레",
+    "distribution": "[일본]\n[중국]\n[러시아]\n[유럽]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷은 보통 수컷보다 크고 날개의 폭이 넓고 바탕색이 연하며 검은색 무늬가 발달해 잇다. 암수 모두 검은색 무늬의 크기에 개체변이가 많다."
+    },
+    {
+      "title": "습성",
+      "text": "산지의 초지에 서식하며, 엉겅퀴 큰까치수영, 얇은잎고광나무 등의 꽃에 잘 모여 흡밀한다. 수컷은 비교적 활발하게 낮은 풀 사이를 계속 날아다니나 암컷은 조금 둔하게 날며, 거의 대부분의 시간을 풀잎 위에서 쉰다. 지금까지의 채집기록에 여름어리표범나비로 오인된 경우에는 여기에서 제외하였다"
+    },
+    {
+      "title": "월동",
+      "text": "애벌레"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]\n[유럽]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDV0050-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0050_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0050_2_th.jpg",
+      "alt": "봄어리표범나비 1번째 사진 : 봄어리표범나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0050_2_th2.jpg",
+      "caption": "봄어리표범나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDV0050-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0050_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0050_1_th.jpg",
+      "alt": "봄어리표범나비 2번째 사진 : 봄어리표범나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0050_1_th2.jpg",
+      "caption": "봄어리표범나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDV0050-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0305291119",
+      "description": "[FRIE0305291119] 봄어리표범나비 1982.05.20 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0305291120",
+      "description": "[FRIE0305291120] 봄어리표범나비 1987.05.30 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0305301007",
+      "description": "[FRIE0305301007] 봄어리표범나비 1982.05.13 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "질경이",
+      "scientific_name": "Plantago asiatica L."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDV0050-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDV0050&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:15+00:00",
+    "html_sha256": "a04f2e1e00ce954a750be1b9f71a951d937a0775dfc52c3a1c87428c61c0d820",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

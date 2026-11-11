@@ -1,0 +1,143 @@
+{
+  "id": "ZREP0019",
+  "name_ko": "먹그늘나비",
+  "scientific_name": "Lethe diana (Butler, 1866)",
+  "display_name": "먹그늘나비",
+  "family_ko": "네발나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "네발나비과",
+      "name_latin": "Nymphalidae"
+    },
+    "subfamily": {
+      "name_ko": "뱀눈나비아과",
+      "name_latin": "Satyrinae"
+    },
+    "genus": {
+      "name_ko": "먹그늘나비붙이속",
+      "name_latin": "Lethe"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 네발나비과 (Nymphalidae)\n아과 : 뱀눈나비아과 (Satyrinae)\n속 : 먹그늘나비붙이속 (Lethe)",
+  "basic_information": {
+    "곤충명": "먹그늘나비",
+    "학명": "Lethe diana (Butler, 1866)"
+  },
+  "information": {
+    "general_description": "암컷은 수컷에 비하여 날개폭이 넓고 둥그스름하며 날개 윗면의 바탕색이 연하고 앞날개 윗면 중앙을 달리는 황백색의 띠가 뚜렷하다. 수컷은 앞날개 아랫면 후연에 성표인 검은색의 긴 털이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "암컷은 비교적 땅에 가까운 조릿대 잎 뒷면에 한 개씩 산란하는데 애벌레는 잎 뒷면에서 생활한다.",
+    "habits": "잡목림 안의 조릿대가 많은 어두운 장소에 서식하며 햇빛이 약하게 쪼이는 나뭇잎 위에 쉬는 일이 많다 그 주변을 다른 나비가 들어오면 빠르게 뒤를 쫓는 습성이 있다. 큰까치수영꽃에 잘 모여 흡밀한다",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]\n[대만]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷은 수컷에 비하여 날개폭이 넓고 둥그스름하며 날개 윗면의 바탕색이 연하고 앞날개 윗면 중앙을 달리는 황백색의 띠가 뚜렷하다. 수컷은 앞날개 아랫면 후연에 성표인 검은색의 긴 털이 있다."
+    },
+    {
+      "title": "생태",
+      "text": "암컷은 비교적 땅에 가까운 조릿대 잎 뒷면에 한 개씩 산란하는데 애벌레는 잎 뒷면에서 생활한다."
+    },
+    {
+      "title": "습성",
+      "text": "잡목림 안의 조릿대가 많은 어두운 장소에 서식하며 햇빛이 약하게 쪼이는 나뭇잎 위에 쉬는 일이 많다 그 주변을 다른 나비가 들어오면 빠르게 뒤를 쫓는 습성이 있다. 큰까치수영꽃에 잘 모여 흡밀한다"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]\n[대만]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREP0019-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZREP0019_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZREP0019_3.jpg",
+      "alt": "먹그늘나비 1번째 사진 : 먹그늘나비 수컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZREP0019_3_th2.jpg",
+      "caption": "먹그늘나비 수컷 이미지",
+      "photographed_at": "20180616",
+      "location": null,
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZREP0019-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREP0019_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREP0019_2_th.jpg",
+      "alt": "먹그늘나비 2번째 사진 : 먹그늘나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREP0019_2_th2.jpg",
+      "caption": "먹그늘나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREP0019-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREP0019_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREP0019_1_th.jpg",
+      "alt": "먹그늘나비 3번째 사진 : 먹그늘나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREP0019_1_th2.jpg",
+      "caption": "먹그늘나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREP0019-1",
+  "specimen_examples": [
+    {
+      "id": "JFNE0304051003",
+      "description": "[JFNE0304051003] 먹그늘나비 2001.04.25 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0304051004",
+      "description": "[JFNE0304051004] 먹그늘나비 1981.07.26 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0304051006",
+      "description": "[JFNE0304051006] 먹그늘나비 1983.07.29 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "조릿대풀",
+      "scientific_name": "Lophatherum gracile Brongn."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREP0019-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREP0019&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:58+00:00",
+    "html_sha256": "1c021f1e94f02158f5ec2afbe049b02c3a03db1810793c13f4f4362302a4715f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

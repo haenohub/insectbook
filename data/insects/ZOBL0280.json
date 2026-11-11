@@ -1,0 +1,103 @@
+{
+  "id": "ZOBL0280",
+  "name_ko": "통사과하늘소",
+  "scientific_name": "Oberea (Oberea) depressa Gebler, 1825",
+  "display_name": "통사과하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "목하늘소아과",
+      "name_latin": "Lamiinae"
+    },
+    "genus": {
+      "name_ko": "사과하늘소속",
+      "name_latin": "Oberea"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 목하늘소아과 (Lamiinae)\n속 : 사과하늘소속 (Oberea)",
+  "basic_information": {
+    "곤충명": "통사과하늘소",
+    "학명": "Oberea (Oberea) depressa Gebler, 1825"
+  },
+  "information": {
+    "general_description": "몸길이는 12~19mm이며, 몸은 적갈색이고, 머리와 촉각은 흑색이다. 가슴가운데 배쪽은 흑갈색이다. 딱지날개는 흑청색인데 앞가슴등판의 어깨부분은 주홍색이다. 가슴등판의 양옆에 한개의 작은 흑색점무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 12~19mm이며, 몸은 적갈색이고, 머리와 촉각은 흑색이다. 가슴가운데 배쪽은 흑갈색이다. 딱지날개는 흑청색인데 앞가슴등판의 어깨부분은 주홍색이다. 가슴등판의 양옆에 한개의 작은 흑색점무늬가 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0280-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0280_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0280_1_th.jpg",
+      "alt": "통사과하늘소 1번째 사진 : 통사과하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0280_1_th2.jpg",
+      "caption": "통사과하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0280-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0408101057",
+      "description": "[UIBE0408101057] 통사과하늘소 1999.05.28 / / 인천대학교"
+    },
+    {
+      "id": "FRIE0304011054",
+      "description": "[FRIE0304011054] 통사과하늘소 1986.06.05 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0304011055",
+      "description": "[FRIE0304011055] 통사과하늘소 1980.05.20 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0280-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0280&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:31+00:00",
+    "html_sha256": "60898cf4f4633eddf0b628006e22612e33a6344ec1d6e023365aec5bd3162b4a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

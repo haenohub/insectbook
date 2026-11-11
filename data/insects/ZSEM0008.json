@@ -1,0 +1,99 @@
+{
+  "id": "ZSEM0008",
+  "name_ko": "명월넓적꽃등에",
+  "scientific_name": "Didea fasciata Macquart, 1834",
+  "display_name": "명월넓적꽃등에",
+  "family_ko": "꽃등에과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "꽃등에상과",
+      "name_latin": "Syrphoidea"
+    },
+    "family": {
+      "name_ko": "꽃등에과",
+      "name_latin": "Syrphidae"
+    },
+    "subfamily": {
+      "name_ko": "꽃등에아과",
+      "name_latin": "Syrphinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Didea"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 꽃등에상과 (Syrphoidea)\n과 : 꽃등에과 (Syrphidae)\n아과 : 꽃등에아과 (Syrphinae)\n속 : (Didea)",
+  "basic_information": {
+    "곤충명": "명월넓적꽃등에",
+    "학명": "Didea fasciata Macquart, 1834"
+  },
+  "information": {
+    "general_description": "성충은 몸길이 11~14mm. 몸은 광택이 많고 남흑색이다. 이마는 머리 vr의 1/7 정도이고 앞의 반은 황색 가루로 덮였으나 중앙은 갈색 가루로 덮였다. 얼굴은 황색이며 백색 가루가 성기게 분포하고 가운데융기는 작고 헐벗었다. 끝은 약간 황적색을 띤다. 더듬이는 흑갈색이고 비교적 길며 제3마디는 끝으로 감에 따라 가늘어졌고 끝은 둥글다. 앞의 2마디를 합한 것보다 2배 길고 센털 자모는 비교적 짧고 간단하다. 가슴등판은 작고 앞의 반에 희미한 가는 구리빛 세로줄이 있고 옆가장자리에는 담황색 털의 뭉치가 있다. 작은방패판은 작고 적황색을 띤다. 배는 크고 납작하며 옆가장자리는 뚜렷이 수놓였고 각 마디에 2쌍의 담황색 가로 무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충은 몸길이 11~14mm. 몸은 광택이 많고 남흑색이다. 이마는 머리 vr의 1/7 정도이고 앞의 반은 황색 가루로 덮였으나 중앙은 갈색 가루로 덮였다. 얼굴은 황색이며 백색 가루가 성기게 분포하고 가운데융기는 작고 헐벗었다. 끝은 약간 황적색을 띤다. 더듬이는 흑갈색이고 비교적 길며 제3마디는 끝으로 감에 따라 가늘어졌고 끝은 둥글다. 앞의 2마디를 합한 것보다 2배 길고 센털 자모는 비교적 짧고 간단하다. 가슴등판은 작고 앞의 반에 희미한 가는 구리빛 세로줄이 있고 옆가장자리에는 담황색 털의 뭉치가 있다. 작은방패판은 작고 적황색을 띤다. 배는 크고 납작하며 옆가장자리는 뚜렷이 수놓였고 각 마디에 2쌍의 담황색 가로 무늬가 있다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSEM0008-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0008_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0008_1_th.jpg",
+      "alt": "명월넓적꽃등에 1번째 사진 : 명월넓적꽃등에전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0008_1_th2.jpg",
+      "caption": "명월넓적꽃등에전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSEM0008-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0307191239",
+      "description": "[KUIE0307191239] 명월넓적꽃등에 1971.09.18 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307191241",
+      "description": "[KUIE0307191241] 명월넓적꽃등에 1972.09.10 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307191242",
+      "description": "[KUIE0307191242] 명월넓적꽃등에 1982.06.25 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZSEM0008-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSEM0008&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:12+00:00",
+    "html_sha256": "75f432bd75fd6e393496fb3b60e7b4239ca1549aec8dfc05bd1fd2a6c81ca58c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "id": "ZOBU0001",
+  "name_ko": "개야길앞잡이",
+  "scientific_name": "Calomera brevipilosa kaiyaensis Kanô & Chô, 1933",
+  "display_name": "개야길앞잡이",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "길앞잡이아과",
+      "name_latin": "Cicindelinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Calomera"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 길앞잡이아과 (Cicindelinae)\n속 : (Calomera)",
+  "basic_information": {
+    "곤충명": "개야길앞잡이",
+    "학명": "Calomera brevipilosa kaiyaensis Kanô & Chô, 1933"
+  },
+  "information": {
+    "general_description": "체자은 12mm 내외이다. 몸은 청색을 띤 흑색이고 놋쇠빛의 광택이 난다. 윗입술은 퇴황색이고 앞가두리는 암갈색이며 중앙부는 산 모양으로 점차로 돌출하고 세개의 이가 있다. 딱지날개는 양쪽이 평행하고 뒤는 약간 둥그렇다. 전면에 적동색의 미세한 상어피부 모양의 바탕에 금록색의 점각이 밀포되었다. 몸 아랫면, 다리, 촉각의 기부 네마디는 녹청자색의 금속 광택이 난다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체자은 12mm 내외이다. 몸은 청색을 띤 흑색이고 놋쇠빛의 광택이 난다. 윗입술은 퇴황색이고 앞가두리는 암갈색이며 중앙부는 산 모양으로 점차로 돌출하고 세개의 이가 있다. 딱지날개는 양쪽이 평행하고 뒤는 약간 둥그렇다. 전면에 적동색의 미세한 상어피부 모양의 바탕에 금록색의 점각이 밀포되었다. 몸 아랫면, 다리, 촉각의 기부 네마디는 녹청자색의 금속 광택이 난다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBU0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0001_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0001_2_th.jpg",
+      "alt": "개야길앞잡이 1번째 사진 : 개야길앞잡이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0001_2_th2.jpg",
+      "caption": "개야길앞잡이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBU0001-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0001_1_th.jpg",
+      "alt": "개야길앞잡이 2번째 사진 : 개야길앞잡이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0001_1_th2.jpg",
+      "caption": "개야길앞잡이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBU0001-1",
+  "specimen_examples": [
+    {
+      "id": "DJUE0406231169",
+      "description": "[DJUE0406231169] 개야길앞잡이 2002.07.03 / / 대전대학교"
+    },
+    {
+      "id": "DJUE0406231170",
+      "description": "[DJUE0406231170] 개야길앞잡이 2002.07.17 / / 대전대학교"
+    },
+    {
+      "id": "DJUE0406231171",
+      "description": "[DJUE0406231171] 개야길앞잡이 2002.07.17 / / 대전대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBU0001.png",
+    "reference_image_id": "ZOBU0001-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T17:09:08.307427+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "1254c2f9082df820678974a0a6c89a74fa8a27f88526a04141ada487b3318a80"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBU0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:45+00:00",
+    "html_sha256": "5c189d4605b3f853006de09755b7ddaaa079d5d32a5ff7a9cf34203facc55de5",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

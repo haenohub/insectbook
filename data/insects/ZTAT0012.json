@@ -1,0 +1,107 @@
+{
+  "id": "ZTAT0012",
+  "name_ko": "끝보라청벌",
+  "scientific_name": "Chrysis splendidula Rossi, 1790",
+  "display_name": "끝보라청벌",
+  "family_ko": "청벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "청벌상과",
+      "name_latin": "Chrysidoidea"
+    },
+    "family": {
+      "name_ko": "청벌과",
+      "name_latin": "Chrysididae"
+    },
+    "subfamily": {
+      "name_ko": "청벌아과",
+      "name_latin": "Chrysidinae"
+    },
+    "genus": {
+      "name_ko": "청벌속",
+      "name_latin": "Chrysis"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 청벌상과 (Chrysidoidea)\n과 : 청벌과 (Chrysididae)\n아과 : 청벌아과 (Chrysidinae)\n속 : 청벌속 (Chrysis)",
+  "basic_information": {
+    "곤충명": "끝보라청벌",
+    "학명": "Chrysis splendidula Rossi, 1790"
+  },
+  "information": {
+    "general_description": "몸길이는 5-7mm 정도이다. 머리와 가슴은 자근색이며 곳곳에 광택이 있는 청록색이 섞여 있다. 배등판은 금빛 나는 흑색이고 때로는 배의 밑쪽과 양 옆은 황등색의 광택을 보이는 일이 있다. 제3배마디등판은 자근색이고 후반 중앙부는 광택이 있는 청자색이다. 배의 아랫면은 광택이 있는 암록색으로 편평하며 광택이 있다. 다리는 광택이 있는 청록색이며 날개는 반투명하며 갈색으로 흐리다. 맥은 갈색이고 몸은 원통 모형에 가갑고 , 제2배마디는 굵고 제3배마디는 가늘다. 머리와 가슴에는 다 같이 커다란 점각이 있고 제1.2배마디등판은 편평하며 광택이 있고 다소 큰 점각이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[튀르키예공화국]\n[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 5-7mm 정도이다. 머리와 가슴은 자근색이며 곳곳에 광택이 있는 청록색이 섞여 있다. 배등판은 금빛 나는 흑색이고 때로는 배의 밑쪽과 양 옆은 황등색의 광택을 보이는 일이 있다. 제3배마디등판은 자근색이고 후반 중앙부는 광택이 있는 청자색이다. 배의 아랫면은 광택이 있는 암록색으로 편평하며 광택이 있다. 다리는 광택이 있는 청록색이며 날개는 반투명하며 갈색으로 흐리다. 맥은 갈색이고 몸은 원통 모형에 가갑고 , 제2배마디는 굵고 제3배마디는 가늘다. 머리와 가슴에는 다 같이 커다란 점각이 있고 제1.2배마디등판은 편평하며 광택이 있고 다소 큰 점각이 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[튀르키예공화국]\n[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAT0012-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAT0012_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAT0012_1_th.jpg",
+      "alt": "끝보라청벌 1번째 사진 : 끝보라청벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAT0012_1_th2.jpg",
+      "caption": "끝보라청벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAT0012-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305201003",
+      "description": "[YNUE0305201003] 끝보라청벌 1975.06.13 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305201004",
+      "description": "[YNUE0305201004] 끝보라청벌 1956.08.20 / / 영남대학교"
+    },
+    {
+      "id": "CJUE0910311011",
+      "description": "[CJUE0910311011] 끝보라청벌 2007.07.24 / / 제주대학교 곤충표본관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTAT0012.png",
+    "reference_image_id": "ZTAT0012-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T15:21:47.031349+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "728cd276c912ae2ee294503dd76e18335f0ce51b821144f8d8820f30207441ea"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAT0012&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:05+00:00",
+    "html_sha256": "9e3573e1bbb132099cee8b83302883058ff9237836d54e2a1fb23fc6ea1c5f95",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

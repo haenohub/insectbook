@@ -1,0 +1,122 @@
+{
+  "id": "ZTAG0065",
+  "name_ko": "장미가위벌",
+  "scientific_name": "Megachile nipponica Cockerell, 1914",
+  "display_name": "장미가위벌",
+  "family_ko": "가위벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "가위벌과",
+      "name_latin": "Megachilidae"
+    },
+    "subfamily": {
+      "name_ko": "가위벌아과",
+      "name_latin": "Megachilinae"
+    },
+    "genus": {
+      "name_ko": "가위벌속",
+      "name_latin": "Megachile"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 가위벌과 (Megachilidae)\n아과 : 가위벌아과 (Megachilinae)\n속 : 가위벌속 (Megachile)",
+  "basic_information": {
+    "곤충명": "장미가위벌",
+    "학명": "Megachile nipponica Cockerell, 1914"
+  },
+  "information": {
+    "general_description": "암컷은 13mm정도이며, 흑색을 띤다. 어깨판은 갈색이고, 날개는 투명하며 약간 회색을 띠고 바깥쪽으로 다소 짙은 색이다. 머리와 가슴에 많이 나있는 연한 털은 등에서는 밝은 회황색이나 배면으로 갈수록 회색으로 된다. 제1배마디등판의 대부분과 제1-5배마디 뒤쪽으로는 밝은 회황색연한 털이 났다. 수컷은 12mm 정도이고 다리가 흑갈색이다. 제2-4배마디 기부에는 회백색내지 황백색 누운 털이 많이 났다. 제6배마디 중앙부에 높은 융기선이 있고 그 선의 중앙은 깊게 조각되어 있다. 수컷은 12mm정도이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "장미잎을 자른다",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": "[감소추세종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷은 13mm정도이며, 흑색을 띤다. 어깨판은 갈색이고, 날개는 투명하며 약간 회색을 띠고 바깥쪽으로 다소 짙은 색이다. 머리와 가슴에 많이 나있는 연한 털은 등에서는 밝은 회황색이나 배면으로 갈수록 회색으로 된다. 제1배마디등판의 대부분과 제1-5배마디 뒤쪽으로는 밝은 회황색연한 털이 났다. 수컷은 12mm 정도이고 다리가 흑갈색이다. 제2-4배마디 기부에는 회백색내지 황백색 누운 털이 많이 났다. 제6배마디 중앙부에 높은 융기선이 있고 그 선의 중앙은 깊게 조각되어 있다. 수컷은 12mm정도이다."
+    },
+    {
+      "title": "생태",
+      "text": "장미잎을 자른다"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[감소추세종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0065-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0065_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0065_2_th.jpg",
+      "alt": "장미가위벌 1번째 사진 : 장미가위벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0065_2_th2.jpg",
+      "caption": "장미가위벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTAG0065-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0065_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0065_1_th.jpg",
+      "alt": "장미가위벌 2번째 사진 : 장미가위벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0065_1_th2.jpg",
+      "caption": "장미가위벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0065-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0301202023",
+      "description": "[KNAE0301202023] 장미가위벌 1994.07.27 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0301202024",
+      "description": "[KNAE0301202024] 장미가위벌 1994.07.25 / / 국립수목원"
+    },
+    {
+      "id": "ADUE0202191056",
+      "description": "[ADUE0202191056] 장미가위벌 1998.09.19 / / 안동대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAG0065-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0065&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:04+00:00",
+    "html_sha256": "45fdc2db131dd70f300bde79e3a9ccb52732c175adb96c7cbf336ef939a58f85",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "id": "ZRCQ0016",
+  "name_ko": "왕팔랑나비",
+  "scientific_name": "Lobocla bifasciata (Bremer & Grey, 1853)",
+  "display_name": "왕팔랑나비",
+  "family_ko": "팔랑나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "팔랑나비과",
+      "name_latin": "Hesperiidae"
+    },
+    "subfamily": {
+      "name_ko": "흰점팔랑나비아과",
+      "name_latin": "Pyrginae"
+    },
+    "genus": {
+      "name_ko": "왕팔랑나비속",
+      "name_latin": "Lobocla"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 팔랑나비과 (Hesperiidae)\n아과 : 흰점팔랑나비아과 (Pyrginae)\n속 : 왕팔랑나비속 (Lobocla)",
+  "basic_information": {
+    "곤충명": "왕팔랑나비",
+    "학명": "Lobocla bifasciata (Bremer & Grey, 1853)"
+  },
+  "information": {
+    "general_description": "암컷은 수컷보다 크며 윗면의 바탕색이 약갼 연하고 흰무늬도 다소 크다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "암컷은 즈로 어두운 그늘 사이의 기주식물 잎 뒷면에 한 개씩 산란한다.",
+    "habits": "주로 야산의 아카시아나무가 많은 장소에서 서식한다. 수컷은 한 장소를 왔다갔다하면서 빙빙 도는 모습으로 날아다닌다. 암수 모두 꿀풀, 엉겅퀴, 개망초, 아카시아나무의 꽃에 잘 모여 흡밀한다.",
+    "season": null,
+    "overwintering": "애벌레",
+    "distribution": "[중국]\n[러시아]\n[대만]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷은 수컷보다 크며 윗면의 바탕색이 약갼 연하고 흰무늬도 다소 크다."
+    },
+    {
+      "title": "생태",
+      "text": "암컷은 즈로 어두운 그늘 사이의 기주식물 잎 뒷면에 한 개씩 산란한다."
+    },
+    {
+      "title": "습성",
+      "text": "주로 야산의 아카시아나무가 많은 장소에서 서식한다. 수컷은 한 장소를 왔다갔다하면서 빙빙 도는 모습으로 날아다닌다. 암수 모두 꿀풀, 엉겅퀴, 개망초, 아카시아나무의 꽃에 잘 모여 흡밀한다."
+    },
+    {
+      "title": "월동",
+      "text": "애벌레"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[러시아]\n[대만]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCQ0016-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRCQ0016_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRCQ0016_3.jpg",
+      "alt": "왕팔랑나비 1번째 사진 : 왕팔랑나비 수컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRCQ0016_3_th2.jpg",
+      "caption": "왕팔랑나비 수컷 이미지",
+      "photographed_at": "20190702",
+      "location": null,
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRCQ0016-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0016_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0016_2_th.jpg",
+      "alt": "왕팔랑나비 2번째 사진 : 왕팔랑나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0016_2_th2.jpg",
+      "caption": "왕팔랑나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCQ0016-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0016_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0016_1_th.jpg",
+      "alt": "왕팔랑나비 3번째 사진 : 왕팔랑나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0016_1_th2.jpg",
+      "caption": "왕팔랑나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCQ0016-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408111035",
+      "description": "[MPME0408111035] 왕팔랑나비 2002.06.16 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408111034",
+      "description": "[MPME0408111034] 왕팔랑나비 2002.06.16 / / 목포자연사박물관"
+    },
+    {
+      "id": "SJNE0306181009",
+      "description": "[SJNE0306181009] 왕팔랑나비 2002.06.19 / / 상주대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "아까시나무",
+      "scientific_name": "Robinia pseudoacacia L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "칡",
+      "scientific_name": "Pueraria lobata (Willd.) Ohwi"
+    },
+    {
+      "group": "식물",
+      "name_ko": "풀싸리",
+      "scientific_name": "Lespedeza thunbergii (DC.) Nakai"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCQ0016-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCQ0016&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:48+00:00",
+    "html_sha256": "722ec9d73df4a274b9c36fd728851c64687fb2faba2d5ac637a899945da53572",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

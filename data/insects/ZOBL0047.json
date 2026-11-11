@@ -1,0 +1,131 @@
+{
+  "id": "ZOBL0047",
+  "name_ko": "따색하늘소",
+  "scientific_name": "Pseudosieversia rufa (Kraatz, 1879)",
+  "display_name": "따색하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "꽃하늘소아과",
+      "name_latin": "Lepturinae"
+    },
+    "genus": {
+      "name_ko": "따색하늘소속",
+      "name_latin": "Pseudosieversia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 꽃하늘소아과 (Lepturinae)\n속 : 따색하늘소속 (Pseudosieversia)",
+  "basic_information": {
+    "곤충명": "따색하늘소",
+    "학명": "Pseudosieversia rufa (Kraatz, 1879)"
+  },
+  "information": {
+    "general_description": "체장 10.0~15.0 mm. 몸은 전체적으로 갈색이고, 퇴절의 말단은 황갈색이다. 머리와 앞가슴은 광택이 나며, 황색의 연모가 밀생한다. 앞가슴등판의 가장자리에는 돌기물이 크고 넓다. 앞, 뒤 가장자리는 강한 가로의 홈이 있다. 딱지날개에는 강한 점각이 밀생하며, 말단은 잘린듯한 형태이다.",
+    "adult": null,
+    "adult_male": "뚜렷한 성적이형이 알려지지 않았다.",
+    "adult_female": "뚜렷한 성적이형이 알려지지 않았다.",
+    "larva": "유충에 대한 특징이 알려지지 않았다.",
+    "egg": "알에 대한 특징이 알려지지 않았다.",
+    "pupa": "번데기에 대한 형태특징이 알려지지 않았다.",
+    "ecology": null,
+    "habits": "다양한 꽃에 모이며, 비행중인 개체들을 채집하는 경우도 있다.",
+    "season": null,
+    "overwintering": "유충",
+    "distribution": null,
+    "notes": null,
+    "pest_control": "경제적 피해 유발 해충으로 알려져 있지 않아, 종 특이적 방제법은 현재까지 없다.",
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체장 10.0~15.0 mm. 몸은 전체적으로 갈색이고, 퇴절의 말단은 황갈색이다. 머리와 앞가슴은 광택이 나며, 황색의 연모가 밀생한다. 앞가슴등판의 가장자리에는 돌기물이 크고 넓다. 앞, 뒤 가장자리는 강한 가로의 홈이 있다. 딱지날개에는 강한 점각이 밀생하며, 말단은 잘린듯한 형태이다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "뚜렷한 성적이형이 알려지지 않았다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "뚜렷한 성적이형이 알려지지 않았다."
+    },
+    {
+      "title": "번데기",
+      "text": "번데기에 대한 형태특징이 알려지지 않았다."
+    },
+    {
+      "title": "유충",
+      "text": "유충에 대한 특징이 알려지지 않았다."
+    },
+    {
+      "title": "습성",
+      "text": "다양한 꽃에 모이며, 비행중인 개체들을 채집하는 경우도 있다."
+    },
+    {
+      "title": "월동",
+      "text": "유충"
+    },
+    {
+      "title": "방제법",
+      "text": "경제적 피해 유발 해충으로 알려져 있지 않아, 종 특이적 방제법은 현재까지 없다."
+    },
+    {
+      "title": "알",
+      "text": "알에 대한 특징이 알려지지 않았다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0047-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0047_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0047_1_th.jpg",
+      "alt": "따색하늘소 1번째 사진 : 따색하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0047_1_th2.jpg",
+      "caption": "따색하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0047-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408191152",
+      "description": "[MPME0408191152] 따색하늘소 1999.06.15 / / 목포자연사박물관"
+    },
+    {
+      "id": "DJUE0406211033",
+      "description": "[DJUE0406211033] 따색하늘소 2000.06.01 / / 대전대학교"
+    },
+    {
+      "id": "MPME0408041096",
+      "description": "[MPME0408041096] 따색하늘소 1999.06.15 / / 목포자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0047-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0047&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:20+00:00",
+    "html_sha256": "447fe8155255578aabce5e04f28d2789e4d402c0f386936702b689cbbe9856ab",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

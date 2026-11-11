@@ -1,0 +1,103 @@
+{
+  "id": "ZREL0026",
+  "name_ko": "갈색줄풀명나방",
+  "scientific_name": "Crambus sinicolellus Caradja, 1926",
+  "display_name": "갈색줄풀명나방",
+  "family_ko": "풀명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "풀명나방과",
+      "name_latin": "Crambidae"
+    },
+    "subfamily": {
+      "name_ko": "풀명나방아과",
+      "name_latin": "Crambinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Crambus"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 풀명나방과 (Crambidae)\n아과 : 풀명나방아과 (Crambinae)\n속 : (Crambus)",
+  "basic_information": {
+    "곤충명": "갈색줄풀명나방",
+    "학명": "Crambus sinicolellus Caradja, 1926"
+  },
+  "information": {
+    "general_description": "외형이 긴줄포충나방과 비슷하나 앞날개의 백색 부분 아래의 갈색 띠 무늬가 외연부에까지 닿지 않고, 중실 뒤쪽 아래에서 희미하게 백색으로 변하는 것이 다른 점이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "외형이 긴줄포충나방과 비슷하나 앞날개의 백색 부분 아래의 갈색 띠 무늬가 외연부에까지 닿지 않고, 중실 뒤쪽 아래에서 희미하게 백색으로 변하는 것이 다른 점이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0026-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0026_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0026_1_th.jpg",
+      "alt": "갈색줄풀명나방 1번째 사진 : 갈색줄포충나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0026_1_th2.jpg",
+      "caption": "갈색줄포충나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0026-1",
+  "specimen_examples": [
+    {
+      "id": "KNUE0407301021",
+      "description": "[KNUE0407301021] 갈색줄풀명나방 1994.08.05 / / 강원대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZREL0026.png",
+    "reference_image_id": "ZREL0026-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T16:46:31.509228+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "51657b3bb6cae8c7c6d2759adc4ba3cc44675f88ec741ca6cbcaa7f2788a8969"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0026&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:35+00:00",
+    "html_sha256": "61101cb9537c7e3b85c6c04de78d0996660e7d39b63d76308e56647d8babb87e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "id": "ZRCI0391",
+  "name_ko": "두줄짤룩가지나방",
+  "scientific_name": "Endropiodes indictinaria (Bremer, 1864)",
+  "display_name": "두줄짤룩가지나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "가지나방아과",
+      "name_latin": "Ennominae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Endropiodes"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 가지나방아과 (Ennominae)\n속 : (Endropiodes)",
+  "basic_information": {
+    "곤충명": "두줄짤룩가지나방",
+    "학명": "Endropiodes indictinaria (Bremer, 1864)"
+  },
+  "information": {
+    "general_description": "더듬이는 수컷이 빗살 모양, 암컷은 실 모양. 몸과 날개는 모두 담갈색.\n날개에는 갈색의 전점 산재. 앞날개는 갈색의 내횡선과 외횡선이 있고\n뒷날개는 외횡선만 있음. 내횡선의 안쪽과 외횡선의 바깥쪽은 담색 선이 있고, 내횡선의 바깥쪽과 외횡선의 안쪽은 약간 갈색을 띰. 앞날개의 외횡선은 제 1중맥의 부분에서 날카롭게 굴절하고 그 바깥쪽에 접하며, 제2실 및 제3실에 암색의 무늬가 2개. 또, 앞날개의 횡맥상에도 암색 점이 있다. 뒷면의 무늬는 거의가 앞면과 다르지 않으나 적갈색을 띰.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 4-6월과 7-8월에 출현.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 수컷이 빗살 모양, 암컷은 실 모양. 몸과 날개는 모두 담갈색.\n날개에는 갈색의 전점 산재. 앞날개는 갈색의 내횡선과 외횡선이 있고\n뒷날개는 외횡선만 있음. 내횡선의 안쪽과 외횡선의 바깥쪽은 담색 선이 있고, 내횡선의 바깥쪽과 외횡선의 안쪽은 약간 갈색을 띰. 앞날개의 외횡선은 제 1중맥의 부분에서 날카롭게 굴절하고 그 바깥쪽에 접하며, 제2실 및 제3실에 암색의 무늬가 2개. 또, 앞날개의 횡맥상에도 암색 점이 있다. 뒷면의 무늬는 거의가 앞면과 다르지 않으나 적갈색을 띰."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 4-6월과 7-8월에 출현."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0391-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0391_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0391_2_th.jpg",
+      "alt": "두줄짤룩가지나방 1번째 사진 : 두줄짤룩가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0391_2_th2.jpg",
+      "caption": "두줄짤룩가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0391-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0391_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0391_1_th.jpg",
+      "alt": "두줄짤룩가지나방 2번째 사진 : 두줄짤룩가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0391_1_th2.jpg",
+      "caption": "두줄짤룩가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0391-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304171031",
+      "description": "[KNAE0304171031] 두줄짤룩가지나방 1999.04.09 / / 국립수목원"
+    },
+    {
+      "id": "KNUE0201211091",
+      "description": "[KNUE0201211091] 두줄짤룩가지나방 1997.05.31 / / 강원대학교"
+    },
+    {
+      "id": "KNUE0201211093",
+      "description": "[KNUE0201211093] 두줄짤룩가지나방 1997.05.11 / / 강원대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCI0391-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0391&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:50+00:00",
+    "html_sha256": "ac367dc5155cca254ebb4052bfe69620d3c30743dbf60f6e1a4af95de17e674f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "ZRCH0023",
+  "name_ko": "북방산무늬뿔나방",
+  "scientific_name": "Deltophora korbi (Caradja, 1920)",
+  "display_name": "북방산무늬뿔나방",
+  "family_ko": "뿔나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "뿔나방상과",
+      "name_latin": "Gelechioidea"
+    },
+    "family": {
+      "name_ko": "뿔나방과",
+      "name_latin": "Gelechiidae"
+    },
+    "subfamily": {
+      "name_ko": "애뿔나방아과",
+      "name_latin": "Anomologinae"
+    },
+    "genus": {
+      "name_ko": "북방산무늬뿔나방속",
+      "name_latin": "Deltophora"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 뿔나방상과 (Gelechioidea)\n과 : 뿔나방과 (Gelechiidae)\n아과 : 애뿔나방아과 (Anomologinae)\n속 : 북방산무늬뿔나방속 (Deltophora)",
+  "basic_information": {
+    "곤충명": "북방산무늬뿔나방",
+    "학명": "Deltophora korbi (Caradja, 1920)"
+  },
+  "information": {
+    "general_description": "머리는 황갈색, 가슴의 등판은 갈색임. 앞날개는 담회갈색 바탕에 불규칙한 흑색 점이 배열되어 있음. 앞날개의 1/5 및 4/5 중앙에 원형의 흑색점이 있고, 날개 끝은 흑갈색임.",
+    "adult": null,
+    "adult_male": "구상돌기는 단순하고 김. 외연부가 함입되어있음.",
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "머리는 황갈색, 가슴의 등판은 갈색임. 앞날개는 담회갈색 바탕에 불규칙한 흑색 점이 배열되어 있음. 앞날개의 1/5 및 4/5 중앙에 원형의 흑색점이 있고, 날개 끝은 흑갈색임."
+    },
+    {
+      "title": "성충(수)",
+      "text": "구상돌기는 단순하고 김. 외연부가 함입되어있음."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCH0023-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCH0023_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCH0023_1_th.jpg",
+      "alt": "북방산무늬뿔나방 1번째 사진 : 북방산뿔나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCH0023_1_th2.jpg",
+      "caption": "북방산뿔나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCH0023-1",
+  "specimen_examples": [
+    {
+      "id": "ENHE0408261017",
+      "description": "[ENHE0408261017] 북방산무늬뿔나방 1988.07.07 / / 이화여자대학교 자연사박물관"
+    },
+    {
+      "id": "KNAE0706150067",
+      "description": "[KNAE0706150067] 북방산무늬뿔나방 1989.06.11 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0706150068",
+      "description": "[KNAE0706150068] 북방산무늬뿔나방 1989.06.11 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCH0023-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCH0023&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:30+00:00",
+    "html_sha256": "aa02272cec9ba35350e4f5548c6b1ad55577d87f282bc5f0c9fe7649d57ebe7f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

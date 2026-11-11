@@ -1,0 +1,103 @@
+{
+  "id": "ZOHI0001",
+  "name_ko": "혹거저리",
+  "scientific_name": "Phellopsis suberea Lewis, 1887",
+  "display_name": "혹거저리",
+  "family_ko": "혹거저리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "거저리상과",
+      "name_latin": "Tenebrionoidea"
+    },
+    "family": {
+      "name_ko": "혹거저리과",
+      "name_latin": "Zopheridae"
+    },
+    "subfamily": {
+      "name_ko": "혹거저리아과",
+      "name_latin": "Zopherinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Phellopsis"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 거저리상과 (Tenebrionoidea)\n과 : 혹거저리과 (Zopheridae)\n아과 : 혹거저리아과 (Zopherinae)\n속 : (Phellopsis)",
+  "basic_information": {
+    "곤충명": "혹거저리",
+    "학명": "Phellopsis suberea Lewis, 1887"
+  },
+  "information": {
+    "general_description": "한국, 일본에 분포하며, 체장은 20mm 내외이다. 몸은 장방형이고 편평하며 공고하고 광갈색 비늘 털로 덮여서 등면은 갈색이다. 머리는 작고 겹눈 위치까지 앞가슴 아래에 최축하고 앞머리 양 옆에는 한쌍의요함이 있다.촉각의 제 9-10마디는 다른 마디보다 폭이 넓고 크다. 딱지날개에는 세줄의 종융이 있고 그 말단과 딱지날개 끝에는 각 1개의 돌기가 있다. 각 간실에는 두줄의 점각렬이 있다. 몸 아랫면은 편평한 과립이 밀포하고 상어 피부 모양으로 되었고 그 중앙에는 황갈색 짧은 털을 밀생하였다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본에 분포하며, 체장은 20mm 내외이다. 몸은 장방형이고 편평하며 공고하고 광갈색 비늘 털로 덮여서 등면은 갈색이다. 머리는 작고 겹눈 위치까지 앞가슴 아래에 최축하고 앞머리 양 옆에는 한쌍의요함이 있다.촉각의 제 9-10마디는 다른 마디보다 폭이 넓고 크다. 딱지날개에는 세줄의 종융이 있고 그 말단과 딱지날개 끝에는 각 1개의 돌기가 있다. 각 간실에는 두줄의 점각렬이 있다. 몸 아랫면은 편평한 과립이 밀포하고 상어 피부 모양으로 되었고 그 중앙에는 황갈색 짧은 털을 밀생하였다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOHI0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOHI0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOHI0001_1_th.jpg",
+      "alt": "혹거저리 1번째 사진 : 혹거저리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOHI0001_1_th2.jpg",
+      "caption": "혹거저리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOHI0001-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0304011048",
+      "description": "[FRIE0304011048] 혹거저리 1980.04.02 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0304011050",
+      "description": "[FRIE0304011050] 혹거저리 1983.03.21 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0304011051",
+      "description": "[FRIE0304011051] 혹거저리 1982.04.01 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOHI0001-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOHI0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:19+00:00",
+    "html_sha256": "68aa81f5bc05defb54969ae0046e263e90977cfb7737ba8c829b4caa132c9e9d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

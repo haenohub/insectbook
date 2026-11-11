@@ -1,0 +1,137 @@
+{
+  "id": "ZREP0024",
+  "name_ko": "굴뚝나비",
+  "scientific_name": "Minois dryas (Scopoli, 1763)",
+  "display_name": "굴뚝나비",
+  "family_ko": "네발나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "네발나비과",
+      "name_latin": "Nymphalidae"
+    },
+    "subfamily": {
+      "name_ko": "뱀눈나비아과",
+      "name_latin": "Satyrinae"
+    },
+    "genus": {
+      "name_ko": "굴뚝나비속",
+      "name_latin": "Minois"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 네발나비과 (Nymphalidae)\n아과 : 뱀눈나비아과 (Satyrinae)\n속 : 굴뚝나비속 (Minois)",
+  "basic_information": {
+    "곤충명": "굴뚝나비",
+    "학명": "Minois dryas (Scopoli, 1763)"
+  },
+  "information": {
+    "general_description": "암컷은 수컷에 비하여 크고 날개 윗면의 바탕색이 연한 다갈색이며 눈알모양 무늬도 크다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "제주특별자치도 한라산의 1200m 이상의 화산지대의 초지에 서식하며, 출현기에는 개체수가 퍽 많다. 풀과 풀 사이를 낮게 날아다니다가 금방망이 등의 꽃에서 흡밀하는데 강한 햇빛에 오랫동안 노출될 때에는 햇빛에 수직으로 날개를 접는다. 대체로 산굴뚝나비보다 활동력이 강하다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]\n[유럽]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷은 수컷에 비하여 크고 날개 윗면의 바탕색이 연한 다갈색이며 눈알모양 무늬도 크다."
+    },
+    {
+      "title": "습성",
+      "text": "제주특별자치도 한라산의 1200m 이상의 화산지대의 초지에 서식하며, 출현기에는 개체수가 퍽 많다. 풀과 풀 사이를 낮게 날아다니다가 금방망이 등의 꽃에서 흡밀하는데 강한 햇빛에 오랫동안 노출될 때에는 햇빛에 수직으로 날개를 접는다. 대체로 산굴뚝나비보다 활동력이 강하다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]\n[유럽]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREP0024-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZREP0024_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZREP0024_3.jpg",
+      "alt": "굴뚝나비 1번째 사진 : 굴뚝나비 암컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZREP0024_3_th2.jpg",
+      "caption": "굴뚝나비 암컷 이미지",
+      "photographed_at": "20090809",
+      "location": "경기도 포천시 주금산",
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZREP0024-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREP0024_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREP0024_2_th.jpg",
+      "alt": "굴뚝나비 2번째 사진 : 굴뚝나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREP0024_2_th2.jpg",
+      "caption": "굴뚝나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREP0024-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREP0024_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREP0024_1_th.jpg",
+      "alt": "굴뚝나비 3번째 사진 : 굴뚝나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREP0024_1_th2.jpg",
+      "caption": "굴뚝나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREP0024-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408111042",
+      "description": "[MPME0408111042] 굴뚝나비 2003.08.08 / / 목포자연사박물관"
+    },
+    {
+      "id": "SJNE0306131155",
+      "description": "[SJNE0306131155] 굴뚝나비 2003.06.05 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0306131156",
+      "description": "[SJNE0306131156] 굴뚝나비 2003.06.05 / / 상주대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZREP0024.png",
+    "reference_image_id": "ZREP0024-2",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T14:01:41.387743+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "4dd1b4b20617839cd6cd83a1c3054ab16717ed8c91ff18d4ee4337eeb5ee06d1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREP0024&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:24+00:00",
+    "html_sha256": "30513e2f0f6e393d9702fb571924e10d26253a4ff71afc218b43f77f7402e67d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

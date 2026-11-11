@@ -1,0 +1,126 @@
+{
+  "id": "ZRDS0409",
+  "name_ko": "그물애나방",
+  "scientific_name": "Sinna extrema (Walker, 1854)",
+  "display_name": "그물애나방",
+  "family_ko": "혹나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "혹나방과",
+      "name_latin": "Nolidae"
+    },
+    "subfamily": {
+      "name_ko": "푸른나방아과",
+      "name_latin": "Chloephorinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Sinna"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 혹나방과 (Nolidae)\n아과 : 푸른나방아과 (Chloephorinae)\n속 : (Sinna)",
+  "basic_information": {
+    "곤충명": "그물애나방",
+    "학명": "Sinna extrema (Walker, 1854)"
+  },
+  "information": {
+    "general_description": "날개편 길이 16~17mm. 앞날개는 백색 바탕인데 그물 모양으로된 황색 띠 무늬가 서로 연결되어 있어 쉽게 다른 종과 구별된다. 시정과 외연에는 커다란 흑색 점의 열이 있는데 개체에 따라 이 흑색 점의 열이 소실되어 없는 경우도 있고, 그물 모양의 황색 띠 무늬가 흔적으로만 남아 있는 경우도 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6~8월경에 출현된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 16~17mm. 앞날개는 백색 바탕인데 그물 모양으로된 황색 띠 무늬가 서로 연결되어 있어 쉽게 다른 종과 구별된다. 시정과 외연에는 커다란 흑색 점의 열이 있는데 개체에 따라 이 흑색 점의 열이 소실되어 없는 경우도 있고, 그물 모양의 황색 띠 무늬가 흔적으로만 남아 있는 경우도 있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6~8월경에 출현된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0409-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0409_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0409_2_th.jpg",
+      "alt": "그물애나방 1번째 사진 : 그물밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0409_2_th2.jpg",
+      "caption": "그물밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDS0409-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0409_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0409_1_th.jpg",
+      "alt": "그물애나방 2번째 사진 : 그물밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0409_1_th2.jpg",
+      "caption": "그물밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0409-1",
+  "specimen_examples": [
+    {
+      "id": "KNUE0212221243",
+      "description": "[KNUE0212221243] 그물애나방 1989.08.08 / / 강원대학교"
+    },
+    {
+      "id": "KNAE0301172042",
+      "description": "[KNAE0301172042] 그물애나방 1991.08.02 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0201082024",
+      "description": "[KNAE0201082024] 그물애나방 1994.05.26 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDS0409.png",
+    "reference_image_id": "ZRDS0409-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T14:35:32.547648+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "97cf885fa04bdfa808e2f120b09db42a02a966eb2e2d9ea64b0562e3400cfb68"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0409&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:38+00:00",
+    "html_sha256": "8bd320ae0183a9b0c39028c54d4b5ea1a88e01c02b61eb6868e0849ca3c8e008",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

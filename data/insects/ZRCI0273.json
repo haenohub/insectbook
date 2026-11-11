@@ -1,0 +1,111 @@
+{
+  "id": "ZRCI0273",
+  "name_ko": "검정물결자나방",
+  "scientific_name": "Telenomeuta punctimarginaria (Leech, 1891)",
+  "display_name": "검정물결자나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "물결자나방아과",
+      "name_latin": "Larentiinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Telenomeuta"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 물결자나방아과 (Larentiinae)\n속 : (Telenomeuta)",
+  "basic_information": {
+    "곤충명": "검정물결자나방",
+    "학명": "Telenomeuta punctimarginaria (Leech, 1891)"
+  },
+  "information": {
+    "general_description": "더듬이는 암수가 모두 실모양이다. 몸과 날개는 모두암갈색인데 날개의 외녕은 물결모양을 이룬다. 몸의 복면과 다리는 담갈색이다. 앞날개의 중앙은 다소 암색을 띤다. 앞뒷날개가 모두 전면에 다수의 암색 물결 모양 선이 있다. 외연부는 다소 암색을 띠며, 회백색의 작은 무의가 줄을 이루나 부분적으로 소실하는 일이 많고, 뒷날개에서는 전반의 4개만이 명료한 것이 보통이다. 외연선은 흑색인데, 연모는 암갈색이다. 뒷면은 연한 암갈색으로 선명하지 않은 다수의 물결 모양 선이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 암수가 모두 실모양이다. 몸과 날개는 모두암갈색인데 날개의 외녕은 물결모양을 이룬다. 몸의 복면과 다리는 담갈색이다. 앞날개의 중앙은 다소 암색을 띤다. 앞뒷날개가 모두 전면에 다수의 암색 물결 모양 선이 있다. 외연부는 다소 암색을 띠며, 회백색의 작은 무의가 줄을 이루나 부분적으로 소실하는 일이 많고, 뒷날개에서는 전반의 4개만이 명료한 것이 보통이다. 외연선은 흑색인데, 연모는 암갈색이다. 뒷면은 연한 암갈색으로 선명하지 않은 다수의 물결 모양 선이 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0273-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0273_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0273_1_th.jpg",
+      "alt": "검정물결자나방 1번째 사진 : 검정물결자나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0273_1_th2.jpg",
+      "caption": "검정물결자나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0273-1",
+  "specimen_examples": [
+    {
+      "id": "KNUE0201221013",
+      "description": "[KNUE0201221013] 검정물결자나방 1971.06.30 / / 강원대학교"
+    },
+    {
+      "id": "UIBE0202062057",
+      "description": "[UIBE0202062057] 검정물결자나방 1999.09.14 / / 인천대학교"
+    },
+    {
+      "id": "CBNE0202181061",
+      "description": "[CBNE0202181061] 검정물결자나방 2000.07.31 / / 충북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRCI0273.png",
+    "reference_image_id": "ZRCI0273-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T11:28:38.808367+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "b6aa5df21693551d210874db04585208a40f432d7eeaa0d8c571e039af8ca47e"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0273&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:19+00:00",
+    "html_sha256": "b7e50ce8d491797b32f0003469373dd44b84fb488ae6fc661c2a875e37b9681c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

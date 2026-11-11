@@ -1,0 +1,114 @@
+{
+  "id": "ZOBH0019",
+  "name_ko": "거제우리딱정벌레",
+  "scientific_name": "Eucarabus (Parhomopterus) sternbergi kojedoensis (Kwon & Lee, 1984)",
+  "display_name": "거제우리딱정벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "딱정벌레아과",
+      "name_latin": "Carabinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Eucarabus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 딱정벌레아과 (Carabinae)\n속 : (Eucarabus)",
+  "basic_information": {
+    "곤충명": "거제우리딱정벌레",
+    "학명": "Eucarabus (Parhomopterus) sternbergi kojedoensis (Kwon & Lee, 1984)"
+  },
+  "information": {
+    "general_description": "몸길이는 수컷이 24~25mm, 암컷이 25~29mm이다. 몸은 전체적으로 금속광택이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[한국고유종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 수컷이 24~25mm, 암컷이 25~29mm이다. 몸은 전체적으로 금속광택이 있다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[한국고유종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0019-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0019_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0019_2_th.jpg",
+      "alt": "거제우리딱정벌레 1번째 사진 : 거제우리딱정벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0019_2_th2.jpg",
+      "caption": "거제우리딱정벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0019-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0019_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0019_1_th.jpg",
+      "alt": "거제우리딱정벌레 2번째 사진 : 거제우리딱정벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0019_1_th2.jpg",
+      "caption": "거제우리딱정벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0019-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0204092034",
+      "description": "[KPNE0204092034] 거제우리딱정벌레 1970.07.19 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0204092035",
+      "description": "[KPNE0204092035] 거제우리딱정벌레 1970.07.19 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0204092036",
+      "description": "[KPNE0204092036] 거제우리딱정벌레 1970.07.17 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBH0019.png",
+    "reference_image_id": "ZOBH0019-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T17:30:56.237049+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "3271bd9fd4f272a69b96388bae560ec3ec1a8c0059413cf30959bec3f0c4bb7a"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0019&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:48+00:00",
+    "html_sha256": "824c9dd768606d9bc23ca1cee50368da161593f376d7507d5150d008452fcfa1",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

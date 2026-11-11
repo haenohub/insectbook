@@ -1,0 +1,149 @@
+{
+  "id": "ZRET0005",
+  "name_ko": "복숭아유리나방",
+  "scientific_name": "Synanthedon bicingulata (Staudinger, 1887)",
+  "display_name": "복숭아유리나방",
+  "family_ko": "굴벌레나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "굴벌레나방상과",
+      "name_latin": "Cossoidea"
+    },
+    "family": {
+      "name_ko": "굴벌레나방과",
+      "name_latin": "Cossidae"
+    },
+    "subfamily": {
+      "name_ko": "유리나방아과",
+      "name_latin": "Sesiinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Synanthedon"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 굴벌레나방상과 (Cossoidea)\n과 : 굴벌레나방과 (Cossidae)\n아과 : 유리나방아과 (Sesiinae)\n속 : (Synanthedon)",
+  "basic_information": {
+    "곤충명": "복숭아유리나방",
+    "학명": "Synanthedon bicingulata (Staudinger, 1887)"
+  },
+  "information": {
+    "general_description": "성충의 몸길이는 15 mm, 날개를 편 길이가 20~30 mm이고 흑자색이며 배에는 2개의 노란 띠가 있다. 날개는 투명하나 날개맥은 흑색이고 앞날개의 전연은 흑색이며, 외연에는 넓은 흑색 부분이 있고, 횡맥상의 흑색 띠는 특히 넓다. 배 끝에는 털 무더기가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": "유충의 몸길이는 23 mm 정도이고 두폭은 2.5 mm이며 머리는 황갈색이고 몸은 담황색이며 각 마디는 황색이다.",
+    "egg": null,
+    "pupa": "번데기의 몸길이는 16 mm 정도이고 황갈색으로 배 끝에 돌기가 있고 수피 밑의 고치 속에 들어 있다.",
+    "ecology": "유충은 4월부터 7월까지 가해하다가 7월 중순에 번데기가 되는데 발육이 빠른 것은 6월에, 늦은 것은 8월 하순에 우화하며 최성기는 8월이다. 노숙 유충은 수피 밑에 고치를 짓고 번데기가 된다.",
+    "habits": "유충이 줄기나 가지의 수피 밑의 형성층 부위를 식해하므로 나무가 쇠약해지고 가해부에 부후균(腐朽菌)이 들어가 심하면 나무 전체가 고사하게 된다. 번데기는 꼬리 끝의 가시를 이용해 몸을 반 정도 밖으로 내 놓고 우화하는 습성이 있다. 성충은 주행성으로 교미하지 않은 암컷은 강한 성 페로몬을 발산하여 수컷을 유인하며 교미는 오후 5~6시경에 가장 많이 하고 수피의 갈라진 틈에 산란한다.",
+    "season": null,
+    "overwintering": "줄기나 가지의 가해 부위에서 유충으로 월동한다.",
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충의 몸길이는 15 mm, 날개를 편 길이가 20~30 mm이고 흑자색이며 배에는 2개의 노란 띠가 있다. 날개는 투명하나 날개맥은 흑색이고 앞날개의 전연은 흑색이며, 외연에는 넓은 흑색 부분이 있고, 횡맥상의 흑색 띠는 특히 넓다. 배 끝에는 털 무더기가 있다."
+    },
+    {
+      "title": "번데기",
+      "text": "번데기의 몸길이는 16 mm 정도이고 황갈색으로 배 끝에 돌기가 있고 수피 밑의 고치 속에 들어 있다."
+    },
+    {
+      "title": "유충",
+      "text": "유충의 몸길이는 23 mm 정도이고 두폭은 2.5 mm이며 머리는 황갈색이고 몸은 담황색이며 각 마디는 황색이다."
+    },
+    {
+      "title": "생태",
+      "text": "유충은 4월부터 7월까지 가해하다가 7월 중순에 번데기가 되는데 발육이 빠른 것은 6월에, 늦은 것은 8월 하순에 우화하며 최성기는 8월이다. 노숙 유충은 수피 밑에 고치를 짓고 번데기가 된다."
+    },
+    {
+      "title": "습성",
+      "text": "유충이 줄기나 가지의 수피 밑의 형성층 부위를 식해하므로 나무가 쇠약해지고 가해부에 부후균(腐朽菌)이 들어가 심하면 나무 전체가 고사하게 된다. 번데기는 꼬리 끝의 가시를 이용해 몸을 반 정도 밖으로 내 놓고 우화하는 습성이 있다. 성충은 주행성으로 교미하지 않은 암컷은 강한 성 페로몬을 발산하여 수컷을 유인하며 교미는 오후 5~6시경에 가장 많이 하고 수피의 갈라진 틈에 산란한다."
+    },
+    {
+      "title": "월동",
+      "text": "줄기나 가지의 가해 부위에서 유충으로 월동한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRET0005-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRET0005_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRET0005_1_th.jpg",
+      "alt": "복숭아유리나방 1번째 사진 : 복숭아유리나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRET0005_1_th2.jpg",
+      "caption": "복숭아유리나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRET0005-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0201163043",
+      "description": "[YNUE0201163043] 복숭아유리나방 1991.05.01 / / 영남대학교"
+    },
+    {
+      "id": "FRIE0203131096",
+      "description": "[FRIE0203131096] 복숭아유리나방 1984.08.12 / / 국립산림과학원"
+    },
+    {
+      "id": "CBFE0406091027",
+      "description": "[CBFE0406091027] 복숭아유리나방 2000.07.26 / / 충북산림환경연구소"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "갯버들",
+      "scientific_name": "Salix gracilistyla Miq."
+    },
+    {
+      "group": "식물",
+      "name_ko": "벚나무",
+      "scientific_name": "Prunus serrulata f. spontanea (Maxim.) Chin S.Chang"
+    },
+    {
+      "group": "식물",
+      "name_ko": "복사나무",
+      "scientific_name": "Prunus persica (L.) Batsch"
+    },
+    {
+      "group": "식물",
+      "name_ko": "사과나무",
+      "scientific_name": "Malus domestica (Suckow) Borkh."
+    },
+    {
+      "group": "식물",
+      "name_ko": "자두나무",
+      "scientific_name": "Prunus salicina Lindl."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRET0005-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRET0005&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:12+00:00",
+    "html_sha256": "5f251ca4583bfe466ffffe685a54c8c108f9b7ce210eef489349d78f10395dce",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

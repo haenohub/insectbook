@@ -1,0 +1,95 @@
+{
+  "id": "ZTBU0168",
+  "name_ko": "노랑배자루맵시벌",
+  "scientific_name": "Temelucha biguttula (Matsumura, 1912)",
+  "display_name": "노랑배자루맵시벌",
+  "family_ko": "맵시벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "맵시벌과",
+      "name_latin": "Ichneumonidae"
+    },
+    "subfamily": {
+      "name_ko": "배자루맵시벌아과",
+      "name_latin": "Cremastinae"
+    },
+    "genus": {
+      "name_ko": "노랑배자루맵시벌속",
+      "name_latin": "Temelucha"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 맵시벌과 (Ichneumonidae)\n아과 : 배자루맵시벌아과 (Cremastinae)\n속 : 노랑배자루맵시벌속 (Temelucha)",
+  "basic_information": {
+    "곤충명": "노랑배자루맵시벌",
+    "학명": "Temelucha biguttula (Matsumura, 1912)"
+  },
+  "information": {
+    "general_description": "♀의 몸은 적갈색, 또는 황적색이나 정수리·뒷가슴의 기부와 제2배마디의 기부에는 흑색 무늬가 있다. 개체에 따라서는 흑색 무늬가 없는 것도 있다. 더듬이는 적갈색이고 다리도 같은 색이다. 날개는 투명하고 연문은 적갈색이고 날개맥은 흑갈색이다. 산란관은 흑색이고 4mm이다. 이화명충에 기생한다. 9∼10mm",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[미국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "♀의 몸은 적갈색, 또는 황적색이나 정수리·뒷가슴의 기부와 제2배마디의 기부에는 흑색 무늬가 있다. 개체에 따라서는 흑색 무늬가 없는 것도 있다. 더듬이는 적갈색이고 다리도 같은 색이다. 날개는 투명하고 연문은 적갈색이고 날개맥은 흑갈색이다. 산란관은 흑색이고 4mm이다. 이화명충에 기생한다. 9∼10mm"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[미국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBU0168-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0168_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0168_1_th.jpg",
+      "alt": "노랑배자루맵시벌 1번째 사진 : 노랑배자루맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0168_1_th2.jpg",
+      "caption": "노랑배자루맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBU0168-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0111213009",
+      "description": "[YNUE0111213009] 노랑배자루맵시벌 1986.10.14 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTBU0168-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBU0168&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:19+00:00",
+    "html_sha256": "b371ce7153680b614e36fc8d0cae89d05ec73c6c5627029b0e1956d0a5610722",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

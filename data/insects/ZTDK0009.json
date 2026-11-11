@@ -1,0 +1,107 @@
+{
+  "id": "ZTDK0009",
+  "name_ko": "일본구멍벌",
+  "scientific_name": "Lyroda nigra japonica Iwata, 1933",
+  "display_name": "일본구멍벌",
+  "family_ko": "은주둥이벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "은주둥이벌과",
+      "name_latin": "Crabronidae"
+    },
+    "subfamily": {
+      "name_ko": "은주둥이벌아과",
+      "name_latin": "Crabroninae"
+    },
+    "genus": {
+      "name_ko": "일본구멍벌속",
+      "name_latin": "Lyroda"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 은주둥이벌과 (Crabronidae)\n아과 : 은주둥이벌아과 (Crabroninae)\n속 : 일본구멍벌속 (Lyroda)",
+  "basic_information": {
+    "곤충명": "일본구멍벌",
+    "학명": "Lyroda nigra japonica Iwata, 1933"
+  },
+  "information": {
+    "general_description": "몸길이 8-10mm로 암컷은 흑색이다. 큰턱은 적갈색이며 날개는 투명하고 갈색을 띤다. 머리방패, 얼굴, 앞가슴등판, 가운데가슴등판의 뒤 옆과 작은방패판과 배판, 전신복절과 각 다리의 밑마디 등은 황은백색의 잔털이 있어 반짝인다. 각 배마디등판 및 뒤쪽과 옆구리에는 회백색의 잔털이 밀생한다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "모메뚜기의 유충과 성충을 포식한다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 8-10mm로 암컷은 흑색이다. 큰턱은 적갈색이며 날개는 투명하고 갈색을 띤다. 머리방패, 얼굴, 앞가슴등판, 가운데가슴등판의 뒤 옆과 작은방패판과 배판, 전신복절과 각 다리의 밑마디 등은 황은백색의 잔털이 있어 반짝인다. 각 배마디등판 및 뒤쪽과 옆구리에는 회백색의 잔털이 밀생한다."
+    },
+    {
+      "title": "습성",
+      "text": "모메뚜기의 유충과 성충을 포식한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDK0009-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0009_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0009_1_th.jpg",
+      "alt": "일본구멍벌 1번째 사진 : 일본구멍벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0009_1_th2.jpg",
+      "caption": "일본구멍벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDK0009-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306262086",
+      "description": "[YNUE0306262086] 일본구멍벌 1960.08.05 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306262087",
+      "description": "[YNUE0306262087] 일본구멍벌 1961.09.16 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306262093",
+      "description": "[YNUE0306262093] 일본구멍벌 1957.08.09 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDK0009-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDK0009&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:36+00:00",
+    "html_sha256": "92b4640fd0338922790864eb9f37e06940e198366393aa7d55dc9f393eb70f96",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

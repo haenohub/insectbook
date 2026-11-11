@@ -1,0 +1,131 @@
+{
+  "id": "ZLCB0008",
+  "name_ko": "무당알노린재",
+  "scientific_name": "Megacopta punctatissima (Montandon, 1894)",
+  "display_name": "무당알노린재",
+  "family_ko": "알노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "노린재상과",
+      "name_latin": "Pentatomoidea"
+    },
+    "family": {
+      "name_ko": "알노린재과",
+      "name_latin": "Plataspididae"
+    },
+    "subfamily": {
+      "name_ko": "알노린재아과",
+      "name_latin": "Coptosomatinae"
+    },
+    "genus": {
+      "name_ko": "무당알노린재속",
+      "name_latin": "Megacopta"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 노린재상과 (Pentatomoidea)\n과 : 알노린재과 (Plataspididae)\n아과 : 알노린재아과 (Coptosomatinae)\n속 : 무당알노린재속 (Megacopta)",
+  "basic_information": {
+    "곤충명": "무당알노린재",
+    "학명": "Megacopta punctatissima (Montandon, 1894)"
+  },
+  "information": {
+    "general_description": "몸길이 : 4-6mm\n몸의 등면은 황록색 바탕에 담갈색 및 주황색의 얼룩무늬가 있고, 광택이 있다. 체표면에 흑갈색 점각이 무수히 산재한다. 더듬이는 짧고 황갈색이다. 작은방패판은 현저히 크고 볼록하며, 기부의 중앙은 가로홈에 의해 나누어진다. 양 옆가장자리는 말단 2/3지점에서 가장 넓으며, 끝으로 갈수록 경사가 급하다. 앞날개는 작은방패판 아래에 완전히 가려져 있어서 정지시에는 보이지 않는다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "산야의 초원지대에 흔히 서식한다.",
+    "habits": "콩, 팥, 칡 등 콩과 식물을 먹고 살고, 때때로 벼를 가해하기도 한다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 4-6mm\n몸의 등면은 황록색 바탕에 담갈색 및 주황색의 얼룩무늬가 있고, 광택이 있다. 체표면에 흑갈색 점각이 무수히 산재한다. 더듬이는 짧고 황갈색이다. 작은방패판은 현저히 크고 볼록하며, 기부의 중앙은 가로홈에 의해 나누어진다. 양 옆가장자리는 말단 2/3지점에서 가장 넓으며, 끝으로 갈수록 경사가 급하다. 앞날개는 작은방패판 아래에 완전히 가려져 있어서 정지시에는 보이지 않는다."
+    },
+    {
+      "title": "생태",
+      "text": "산야의 초원지대에 흔히 서식한다."
+    },
+    {
+      "title": "습성",
+      "text": "콩, 팥, 칡 등 콩과 식물을 먹고 살고, 때때로 벼를 가해하기도 한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLCB0008-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCB0008_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCB0008_1_th.jpg",
+      "alt": "무당알노린재 1번째 사진 : 무당알노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCB0008_1_th2.jpg",
+      "caption": "무당알노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLCB0008-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0304221042",
+      "description": "[FRIE0304221042] 무당알노린재 1995.06.01 / / 국립산림과학원"
+    },
+    {
+      "id": "GSNE0303151072",
+      "description": "[GSNE0303151072] 무당알노린재 1996.08.18 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0303151073",
+      "description": "[GSNE0303151073] 무당알노린재 1999.08.13 / / 경상대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "감나무",
+      "scientific_name": "Diospyros kaki Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "뽕나무",
+      "scientific_name": "Morus alba L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "온주밀감",
+      "scientific_name": "Citrus unshiu (Yu.Tanaka ex Swingle) Marcow."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLCB0008-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLCB0008&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:32+00:00",
+    "html_sha256": "5656e14de9b71ed98962f0d21eb3b55600aa6be25c0088eb0342abf0700cb8a3",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "id": "ZMAS0019",
+  "name_ko": "호좀매미",
+  "scientific_name": "Kosemia yezoensis Matsumura, 1898",
+  "display_name": "호좀매미",
+  "family_ko": "매미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "매미상과",
+      "name_latin": "Cicadoidea"
+    },
+    "family": {
+      "name_ko": "매미과",
+      "name_latin": "Cicadidae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Cicadettinae"
+    },
+    "genus": {
+      "name_ko": "호좀매미속",
+      "name_latin": "Kosemia"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 매미상과 (Cicadoidea)\n과 : 매미과 (Cicadidae)\n아과 : (Cicadettinae)\n속 : 호좀매미속 (Kosemia)",
+  "basic_information": {
+    "곤충명": "호좀매미",
+    "학명": "Kosemia yezoensis Matsumura, 1898"
+  },
+  "information": {
+    "general_description": "몸길이: 24 mm 정도. 누르스름한 반점 2개가 가운데가슴등의 윗면에 있다. 앞가슴 가운데는 느낌표모양의 누르스름한 무늬가 박혀 있다. 아랫면의 색은 검고 붉은 갈색 무늬가 어울려 있다. 날개는 투명하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "고지의 소나무 숲에 서식한다.",
+    "habits": "울면서 비행하는 특이한 습성을 가지고 있다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이: 24 mm 정도. 누르스름한 반점 2개가 가운데가슴등의 윗면에 있다. 앞가슴 가운데는 느낌표모양의 누르스름한 무늬가 박혀 있다. 아랫면의 색은 검고 붉은 갈색 무늬가 어울려 있다. 날개는 투명하다."
+    },
+    {
+      "title": "생태",
+      "text": "고지의 소나무 숲에 서식한다."
+    },
+    {
+      "title": "습성",
+      "text": "울면서 비행하는 특이한 습성을 가지고 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMAS0019-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAS0019_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAS0019_2_th.jpg",
+      "alt": "호좀매미 1번째 사진 : 호좀매미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAS0019_2_th2.jpg",
+      "caption": "호좀매미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZMAS0019-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAS0019_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAS0019_1_th.jpg",
+      "alt": "호좀매미 2번째 사진 : 호좀매미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAS0019_1_th2.jpg",
+      "caption": "호좀매미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMAS0019-1",
+  "specimen_examples": [
+    {
+      "id": "DJUE0912021083",
+      "description": "[DJUE0912021083] 호좀매미 1995.05.25 / / 대전대학교"
+    },
+    {
+      "id": "DJUE0912021084",
+      "description": "[DJUE0912021084] 호좀매미 1995.05.25 / / 대전대학교"
+    },
+    {
+      "id": "DJUE0912021085",
+      "description": "[DJUE0912021085] 호좀매미 1995.05.26 / / 대전대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "소나무",
+      "scientific_name": "Pinus densiflora Siebold & Zucc."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZMAS0019-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMAS0019&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:18+00:00",
+    "html_sha256": "ed9f5acd83cba4a686523f3389a1b120049c002c5c5e343813007f6a662530b1",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

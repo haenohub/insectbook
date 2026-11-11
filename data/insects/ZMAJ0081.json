@@ -1,0 +1,117 @@
+{
+  "id": "ZMAJ0081",
+  "name_ko": "해당화수염진딧물",
+  "scientific_name": "Macrosiphum (Macrosiphum) mordvilkoi Miyazaki, 1968",
+  "display_name": "해당화수염진딧물",
+  "family_ko": "진딧물과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "진딧물상과",
+      "name_latin": "Aphidoidea"
+    },
+    "family": {
+      "name_ko": "진딧물과",
+      "name_latin": "Aphididae"
+    },
+    "subfamily": {
+      "name_ko": "진딧물아과",
+      "name_latin": "Aphidinae"
+    },
+    "genus": {
+      "name_ko": "수염진딧물속",
+      "name_latin": "Macrosiphum"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 진딧물상과 (Aphidoidea)\n과 : 진딧물과 (Aphididae)\n아과 : 진딧물아과 (Aphidinae)\n속 : 수염진딧물속 (Macrosiphum)",
+  "basic_information": {
+    "곤충명": "해당화수염진딧물",
+    "학명": "Macrosiphum (Macrosiphum) mordvilkoi Miyazaki, 1968"
+  },
+  "information": {
+    "general_description": "몸은 중형 또는 대형으로 녹색을 띠고, 뿔관 및 더듬이가 매우 길다. 뿔관의 끝은 그믈맥이 발달해 있으며, 머리, 가슴 등은 검은색이고 윤기가 있고 약간의 흰색 왁스가루를 쓰고 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "장미과 식물 중 해당화에서 기주 이동없이 완전세대를 거치는 것으로 알려져 있다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[중국]\n[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸은 중형 또는 대형으로 녹색을 띠고, 뿔관 및 더듬이가 매우 길다. 뿔관의 끝은 그믈맥이 발달해 있으며, 머리, 가슴 등은 검은색이고 윤기가 있고 약간의 흰색 왁스가루를 쓰고 있다."
+    },
+    {
+      "title": "생태",
+      "text": "장미과 식물 중 해당화에서 기주 이동없이 완전세대를 거치는 것으로 알려져 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMAJ0081-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAJ0081_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAJ0081_1_th.jpg",
+      "alt": "해당화수염진딧물 1번째 사진 : 해당화수염진딧물전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAJ0081_1_th2.jpg",
+      "caption": "해당화수염진딧물전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMAJ0081-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0409021046",
+      "description": "[SNUE0409021046] 해당화수염진딧물 1998.10.15 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0409021047",
+      "description": "[SNUE0409021047] 해당화수염진딧물 1998.10.15 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0409021048",
+      "description": "[SNUE0409021048] 해당화수염진딧물 1998.10.15 / / 서울대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "해당화",
+      "scientific_name": "Rosa rugosa Thunb."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZMAJ0081-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMAJ0081&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:08+00:00",
+    "html_sha256": "5e608dc031c24e88fba70f454e5de19b78f21e590ae341a4643d9eb876c6ebe2",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

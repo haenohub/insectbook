@@ -1,0 +1,107 @@
+{
+  "id": "ZOGX0011",
+  "name_ko": "모래거저리",
+  "scientific_name": "Gonocephalum (Gonocephalum) pubens (Marseul, 1876)",
+  "display_name": "모래거저리",
+  "family_ko": "거저리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "거저리상과",
+      "name_latin": "Tenebrionoidea"
+    },
+    "family": {
+      "name_ko": "거저리과",
+      "name_latin": "Tenebrionidae"
+    },
+    "subfamily": {
+      "name_ko": "거저리아과",
+      "name_latin": "Tenebrioninae"
+    },
+    "genus": {
+      "name_ko": "모래거저리속",
+      "name_latin": "Gonocephalum"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 거저리상과 (Tenebrionoidea)\n과 : 거저리과 (Tenebrionidae)\n아과 : 거저리아과 (Tenebrioninae)\n속 : 모래거저리속 (Gonocephalum)",
+  "basic_information": {
+    "곤충명": "모래거저리",
+    "학명": "Gonocephalum (Gonocephalum) pubens (Marseul, 1876)"
+  },
+  "information": {
+    "general_description": "몸길이는 9~11mm이며, 전체가 흑색이며 앞가슴등판은 둥글게 나와있다. 딱지날개는 세로줄이 되어있고, 그사이는 넓고 가운데가 약간 높다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "개천이나 강변 또는 바닷가 모래에 산다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 9~11mm이며, 전체가 흑색이며 앞가슴등판은 둥글게 나와있다. 딱지날개는 세로줄이 되어있고, 그사이는 넓고 가운데가 약간 높다."
+    },
+    {
+      "title": "생태",
+      "text": "개천이나 강변 또는 바닷가 모래에 산다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGX0011-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGX0011_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGX0011_1_th.jpg",
+      "alt": "모래거저리 1번째 사진 : 모래거저리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGX0011_1_th2.jpg",
+      "caption": "모래거저리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGX0011-1",
+  "specimen_examples": [
+    {
+      "id": "JFNE0408121047",
+      "description": "[JFNE0408121047] 모래거저리 1987.05.10 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0408121050",
+      "description": "[JFNE0408121050] 모래거저리 1987.05.13 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0408121051",
+      "description": "[JFNE0408121051] 모래거저리 1987.05.14 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGX0011-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGX0011&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:16+00:00",
+    "html_sha256": "57973879b23159239e2b17435abb2b1b8aaeea5bc8612375dab08e13cdf38d4a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

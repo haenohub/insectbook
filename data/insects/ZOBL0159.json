@@ -1,0 +1,146 @@
+{
+  "id": "ZOBL0159",
+  "name_ko": "세줄호랑하늘소",
+  "scientific_name": "Xylotrechus (Xylotrechus) cuneipennis (Kraatz, 1879)",
+  "display_name": "세줄호랑하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "하늘소아과",
+      "name_latin": "Cerambycinae"
+    },
+    "genus": {
+      "name_ko": "호랑하늘소속",
+      "name_latin": "Xylotrechus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 하늘소아과 (Cerambycinae)\n속 : 호랑하늘소속 (Xylotrechus)",
+  "basic_information": {
+    "곤충명": "세줄호랑하늘소",
+    "학명": "Xylotrechus (Xylotrechus) cuneipennis (Kraatz, 1879)"
+  },
+  "information": {
+    "general_description": "체장 10.0~24.0 mm. 앞가슴등판은 전체적으로 검은색이지만, 앞, 뒤쪽 가장자리에는 노란 연모로 이루어진 점들이 있다. 딱지날개는 옅은 갈색이고, 옅은 흰 연모로 이루어진 띠들이 어깨 부위, 중간 부위, 말단 부위에 있다. 이마에는 “V”모양의 융기선이 있으며, 이마방패로부터 더듬이 기부까지 이어지는 한 쌍의 융기선이 있다. 딱지날개의 길이는 너비의 약 2.6배이고, 말단에는 바깥을 향하는 작은 돌기물이 있다.",
+    "adult": null,
+    "adult_male": "앞가슴등판의 길이는 너비보다 길다.",
+    "adult_female": "앞가슴등판의 길이는 너비보다 길지 않다 (같거나 짧다).",
+    "larva": "머리의 반은 앞가슴에 함입되며 앞쪽으로 좁아진다. 이마방패는 짧고 넓다. 윗입술은 기부는 좁고 앞쪽으로 넓어진다. 앞가슴등판의 앞 1/3은 노란색이고 2개의 가로 띠가 있다. 복부의 등면 보행돌기는 다소 볼록하고 세로 홈에 의해 나뉘어진다.",
+    "egg": "길이 1.7 mm 내외. 너비 0.6 mm 내외. 흰색이며 길쭉하다. 앞쪽 말단은 둥글고 뒤쪽 말단은 좁게 둥글다. 난포막은 매끈하고 투명하다.",
+    "pupa": "이마방패, 윗입술에는 가로 거친 주름들이 있다. 앞가슴등판은 길쭉하다. 뒷가슴등판은 볼록하고 길이는 너비보다 길지 않다. 복부는 4번째 마디에서 넓어진다. 등판들은 균일하게 볼록하고 좁은 중앙의 세로 홈이 있다.",
+    "ecology": "온대수림대의 각종 활엽수 벌채목에 모여든다. 러시아에서도 낙엽성 숲에 서식하는 것으로 알려져 있다. 암컷 한 마리는 평생 약 100여개의 알을 산란한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": "유충",
+    "distribution": null,
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": "경제적 피해 유발 해충으로 알려져 있지 않아, 종 특이적 방제법은 현재까지 없다.",
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체장 10.0~24.0 mm. 앞가슴등판은 전체적으로 검은색이지만, 앞, 뒤쪽 가장자리에는 노란 연모로 이루어진 점들이 있다. 딱지날개는 옅은 갈색이고, 옅은 흰 연모로 이루어진 띠들이 어깨 부위, 중간 부위, 말단 부위에 있다. 이마에는 “V”모양의 융기선이 있으며, 이마방패로부터 더듬이 기부까지 이어지는 한 쌍의 융기선이 있다. 딱지날개의 길이는 너비의 약 2.6배이고, 말단에는 바깥을 향하는 작은 돌기물이 있다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "앞가슴등판의 길이는 너비보다 길다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "앞가슴등판의 길이는 너비보다 길지 않다 (같거나 짧다)."
+    },
+    {
+      "title": "번데기",
+      "text": "이마방패, 윗입술에는 가로 거친 주름들이 있다. 앞가슴등판은 길쭉하다. 뒷가슴등판은 볼록하고 길이는 너비보다 길지 않다. 복부는 4번째 마디에서 넓어진다. 등판들은 균일하게 볼록하고 좁은 중앙의 세로 홈이 있다."
+    },
+    {
+      "title": "유충",
+      "text": "머리의 반은 앞가슴에 함입되며 앞쪽으로 좁아진다. 이마방패는 짧고 넓다. 윗입술은 기부는 좁고 앞쪽으로 넓어진다. 앞가슴등판의 앞 1/3은 노란색이고 2개의 가로 띠가 있다. 복부의 등면 보행돌기는 다소 볼록하고 세로 홈에 의해 나뉘어진다."
+    },
+    {
+      "title": "생태",
+      "text": "온대수림대의 각종 활엽수 벌채목에 모여든다. 러시아에서도 낙엽성 숲에 서식하는 것으로 알려져 있다. 암컷 한 마리는 평생 약 100여개의 알을 산란한다."
+    },
+    {
+      "title": "월동",
+      "text": "유충"
+    },
+    {
+      "title": "방제법",
+      "text": "경제적 피해 유발 해충으로 알려져 있지 않아, 종 특이적 방제법은 현재까지 없다."
+    },
+    {
+      "title": "알",
+      "text": "길이 1.7 mm 내외. 너비 0.6 mm 내외. 흰색이며 길쭉하다. 앞쪽 말단은 둥글고 뒤쪽 말단은 좁게 둥글다. 난포막은 매끈하고 투명하다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0159-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0159_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0159_2.jpg",
+      "alt": "세줄호랑하늘소 1번째 사진 : ",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0159_2_th2.jpg",
+      "caption": null,
+      "photographed_at": "20190816",
+      "location": null,
+      "photographer": "국립수목원(임종옥)"
+    },
+    {
+      "id": "ZOBL0159-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0159_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0159_1_th.jpg",
+      "alt": "세줄호랑하늘소 2번째 사진 : 세줄호랑하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0159_1_th2.jpg",
+      "caption": "세줄호랑하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0159-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304161045",
+      "description": "[KNAE0304161045] 세줄호랑하늘소 1993.08.06 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304161046",
+      "description": "[KNAE0304161046] 세줄호랑하늘소 1990.08.28 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304161047",
+      "description": "[KNAE0304161047] 세줄호랑하늘소 1990.08.30 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0159-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0159&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:08+00:00",
+    "html_sha256": "600321486c9dbe4635bcdf4fe91153568b8c5e63fcdb2831d13d5a8b5087aaab",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

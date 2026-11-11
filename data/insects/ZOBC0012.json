@@ -1,0 +1,130 @@
+{
+  "id": "ZOBC0012",
+  "name_ko": "소나무비단벌레",
+  "scientific_name": "Chalcophora japonica japonica (Gory, 1840)",
+  "display_name": "소나무비단벌레",
+  "family_ko": "비단벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "비단벌레상과",
+      "name_latin": "Buprestoidea"
+    },
+    "family": {
+      "name_ko": "비단벌레과",
+      "name_latin": "Buprestidae"
+    },
+    "subfamily": {
+      "name_ko": "비단벌레아과",
+      "name_latin": "Chrysochroinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Chalcophora"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 비단벌레상과 (Buprestoidea)\n과 : 비단벌레과 (Buprestidae)\n아과 : 비단벌레아과 (Chrysochroinae)\n속 : (Chalcophora)",
+  "basic_information": {
+    "곤충명": "소나무비단벌레",
+    "학명": "Chalcophora japonica japonica (Gory, 1840)"
+  },
+  "information": {
+    "general_description": "한국, 일본, 대만에 분포하며, 체장은 30mm 정도이다. 몸은 적동색 또는 금동색이고 머리의중앙은 서로 함입하고 그 양쪽에는 길쭉한 검각이 불규칙하게 병렬하였다. 촉각은 톱니 모양이고 말단은 적갈색이다. 딱지날개의 종융은 흑색이고 각각 네줄의 굵고 평활한 종융이 있고 제2줄은 중앙의 2개소에서 약해지고 제3줄은 극히 ㅈ랍고 작다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 대만에 분포하며, 체장은 30mm 정도이다. 몸은 적동색 또는 금동색이고 머리의중앙은 서로 함입하고 그 양쪽에는 길쭉한 검각이 불규칙하게 병렬하였다. 촉각은 톱니 모양이고 말단은 적갈색이다. 딱지날개의 종융은 흑색이고 각각 네줄의 굵고 평활한 종융이 있고 제2줄은 중앙의 2개소에서 약해지고 제3줄은 극히 ㅈ랍고 작다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBC0012-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBC0012_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBC0012_2.jpg",
+      "alt": "소나무비단벌레 1번째 사진 : 소나무비단벌레 유충 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBC0012_2_th2.jpg",
+      "caption": "소나무비단벌레 유충 이미지",
+      "photographed_at": "20110330",
+      "location": null,
+      "photographer": "국립수목원(임종옥)"
+    },
+    {
+      "id": "ZOBC0012-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBC0012_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBC0012_1_th.jpg",
+      "alt": "소나무비단벌레 2번째 사진 : 소나무비단벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBC0012_1_th2.jpg",
+      "caption": "소나무비단벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBC0012-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0408171053",
+      "description": "[UIBE0408171053] 소나무비단벌레 1988.06.23 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0408171054",
+      "description": "[UIBE0408171054] 소나무비단벌레 1987.08.26 / / 인천대학교"
+    },
+    {
+      "id": "FRIE0303271017",
+      "description": "[FRIE0303271017] 소나무비단벌레 1982.02.04 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "가시나무",
+      "scientific_name": "Quercus myrsinifolia Blume"
+    },
+    {
+      "group": "식물",
+      "name_ko": "곰솔",
+      "scientific_name": "Pinus thunbergii Parl."
+    },
+    {
+      "group": "식물",
+      "name_ko": "소나무",
+      "scientific_name": "Pinus densiflora Siebold & Zucc."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBC0012-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBC0012&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:10+00:00",
+    "html_sha256": "87ba74257edc8b40f009933696359e7479ba93bff9d07542ee03d49304260192",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

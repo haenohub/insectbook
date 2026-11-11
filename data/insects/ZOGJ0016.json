@@ -1,0 +1,118 @@
+{
+  "id": "ZOGJ0016",
+  "name_ko": "검정혹가슴소똥풍뎅이",
+  "scientific_name": "Onthophagus (Gibbonthophagus) atripennis Waterhouse, 1875",
+  "display_name": "검정혹가슴소똥풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "소똥구리아과",
+      "name_latin": "Scarabaeinae"
+    },
+    "genus": {
+      "name_ko": "소똥풍뎅이속",
+      "name_latin": "Onthophagus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 소똥구리아과 (Scarabaeinae)\n속 : 소똥풍뎅이속 (Onthophagus)",
+  "basic_information": {
+    "곤충명": "검정혹가슴소똥풍뎅이",
+    "학명": "Onthophagus (Gibbonthophagus) atripennis Waterhouse, 1875"
+  },
+  "information": {
+    "general_description": "중국 중,북부, 일본에 분포하며 흑색 내지 흑갈색의 소형인데 동자색의 광택이 강하다. 두정융기는 겹눈의 중앙에 있는데 수컷은 판상이며 끝의 중앙이 파여서 마치 2개의 뿔모양이며, 이마융기는 직선형이다. 수컷의 전흉배판은 과립이 없고, 중앙 앞쪽에 2개의 긴 융기부가 있으나 암컷은 거의 흔적적이다. BL:5~9mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "인,견분이나 오물의 퇴적장에 많이 모이고 동물의 사체를 이용한 트랩에서도 잘 채집된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중국 중,북부, 일본에 분포하며 흑색 내지 흑갈색의 소형인데 동자색의 광택이 강하다. 두정융기는 겹눈의 중앙에 있는데 수컷은 판상이며 끝의 중앙이 파여서 마치 2개의 뿔모양이며, 이마융기는 직선형이다. 수컷의 전흉배판은 과립이 없고, 중앙 앞쪽에 2개의 긴 융기부가 있으나 암컷은 거의 흔적적이다. BL:5~9mm."
+    },
+    {
+      "title": "생태",
+      "text": "인,견분이나 오물의 퇴적장에 많이 모이고 동물의 사체를 이용한 트랩에서도 잘 채집된다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGJ0016-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0016_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0016_2_th.jpg",
+      "alt": "검정혹가슴소똥풍뎅이 1번째 사진 : 혹가슴검정소똥풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0016_2_th2.jpg",
+      "caption": "혹가슴검정소똥풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOGJ0016-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0016_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0016_1_th.jpg",
+      "alt": "검정혹가슴소똥풍뎅이 2번째 사진 : 혹가슴검정소똥풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0016_1_th2.jpg",
+      "caption": "혹가슴검정소똥풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGJ0016-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0304211004",
+      "description": "[FRIE0304211004] 검정혹가슴소똥풍뎅이 2001.10.17 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0304211005",
+      "description": "[FRIE0304211005] 검정혹가슴소똥풍뎅이 2001.09.26 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0304211006",
+      "description": "[FRIE0304211006] 검정혹가슴소똥풍뎅이 2001.10.19 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOGJ0016.png",
+    "reference_image_id": "ZOGJ0016-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T12:06:07.716050+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "98471f802eed5a79165d9e5a24f70c2e54d897696e4375aa8990699906392436"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGJ0016&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:33+00:00",
+    "html_sha256": "8c533b5c8ae7ff781423db084597a2832e73693d92cb8b015ec5ca69b3f4d39a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "id": "ZRDU0027",
+  "name_ko": "끝흰재주나방",
+  "scientific_name": "Allodonta leucodera Staudinger, 1892",
+  "display_name": "끝흰재주나방",
+  "family_ko": "재주나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "재주나방과",
+      "name_latin": "Notodontidae"
+    },
+    "subfamily": {
+      "name_ko": "기린재주나방아과",
+      "name_latin": "Ptilodoninae"
+    },
+    "genus": {
+      "name_ko": "까마귀재주나방속",
+      "name_latin": "Allodonta"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 재주나방과 (Notodontidae)\n아과 : 기린재주나방아과 (Ptilodoninae)\n속 : 까마귀재주나방속 (Allodonta)",
+  "basic_information": {
+    "곤충명": "끝흰재주나방",
+    "학명": "Allodonta leucodera Staudinger, 1892"
+  },
+  "information": {
+    "general_description": "날개편 길이 44～45mm. 앞날개는 황갈색이며 날개의 중앙에서 전연쪽으로는 흑자색의 띠무늬가 발달하였다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6～8월에 출현한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[중국]\n[미얀마]\n[대만]\n[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 44～45mm. 앞날개는 황갈색이며 날개의 중앙에서 전연쪽으로는 흑자색의 띠무늬가 발달하였다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6～8월에 출현한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]\n[미얀마]\n[대만]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDU0027-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0027_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0027_2_th.jpg",
+      "alt": "끝흰재주나방 1번째 사진 : 끝흰재주나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0027_2_th2.jpg",
+      "caption": "끝흰재주나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDU0027-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0027_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0027_1_th.jpg",
+      "alt": "끝흰재주나방 2번째 사진 : 끝흰재주나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0027_1_th2.jpg",
+      "caption": "끝흰재주나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDU0027-1",
+  "specimen_examples": [
+    {
+      "id": "JFNE0306051035",
+      "description": "[JFNE0306051035] 끝흰재주나방 1996.08.05 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0306051037",
+      "description": "[JFNE0306051037] 끝흰재주나방 1996.08.07 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0306051038",
+      "description": "[JFNE0306051038] 끝흰재주나방 1996.08.08 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "자작나무",
+      "scientific_name": "Betula pendula Roth"
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDU0027.png",
+    "reference_image_id": "ZRDU0027-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T15:29:58.179194+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "05223283bdbb507ae959f4a41d25402ec21f5a1566695b1750c56df84f812c74"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDU0027&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:08+00:00",
+    "html_sha256": "c702cbb2af8f81babe024a8bb3db51da97b6131ed041dd919497b30870612530",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

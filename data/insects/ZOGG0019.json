@@ -1,0 +1,139 @@
+{
+  "id": "ZOGG0019",
+  "name_ko": "등얼룩풍뎅이",
+  "scientific_name": "Blitopertha orientalis (Waterhouse, 1875)",
+  "display_name": "등얼룩풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "풍뎅이아과",
+      "name_latin": "Rutelinae"
+    },
+    "genus": {
+      "name_ko": "연노랑풍뎅이속",
+      "name_latin": "Blitopertha"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 풍뎅이아과 (Rutelinae)\n속 : 연노랑풍뎅이속 (Blitopertha)",
+  "basic_information": {
+    "곤충명": "등얼룩풍뎅이",
+    "학명": "Blitopertha orientalis (Waterhouse, 1875)"
+  },
+  "information": {
+    "general_description": "연노랑풍뎅이와 유사하나 앞가슴등판 점각은 가로로 타원형 내지 아령 모양이며, 날개에는 2-3열의 흑색 점무늬가 부채꼴모양으로 배열된 점이 특징이다. 그러나 무늬가 백색이거나 없기도 하며, 전신이 흑색형인 것까지의 개체변이가 심하여 전 종과 구별하기 어려운 경우가 매우 많다. 가끔 몸이 매우 넓고 납작한 개체도 볼 수 있는데 특히 대형에서 많다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[마이크로네시아연방]\n[일본]\n[미국] 하와이(Hawaii)\n[미국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "연노랑풍뎅이와 유사하나 앞가슴등판 점각은 가로로 타원형 내지 아령 모양이며, 날개에는 2-3열의 흑색 점무늬가 부채꼴모양으로 배열된 점이 특징이다. 그러나 무늬가 백색이거나 없기도 하며, 전신이 흑색형인 것까지의 개체변이가 심하여 전 종과 구별하기 어려운 경우가 매우 많다. 가끔 몸이 매우 넓고 납작한 개체도 볼 수 있는데 특히 대형에서 많다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[마이크로네시아연방]\n[일본]\n[미국] 하와이(Hawaii)\n[미국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGG0019-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0019_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0019_2_th.jpg",
+      "alt": "등얼룩풍뎅이 1번째 사진 : 등얼룩풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0019_2_th2.jpg",
+      "caption": "등얼룩풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOGG0019-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0019_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0019_1_th.jpg",
+      "alt": "등얼룩풍뎅이 2번째 사진 : 등얼룩풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0019_1_th2.jpg",
+      "caption": "등얼룩풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGG0019-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408201077",
+      "description": "[MPME0408201077] 등얼룩풍뎅이 2002.08.15 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408201078",
+      "description": "[MPME0408201078] 등얼룩풍뎅이 2002.08.15 / / 목포자연사박물관"
+    },
+    {
+      "id": "UIBE0408181012",
+      "description": "[UIBE0408181012] 등얼룩풍뎅이 1999.06.28 / / 인천대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "감나무",
+      "scientific_name": "Diospyros kaki Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "밤나무",
+      "scientific_name": "Castanea crenata Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "포도",
+      "scientific_name": "Vitis vinifera L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "해당화",
+      "scientific_name": "Rosa rugosa Thunb."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGG0019-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGG0019&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:16+00:00",
+    "html_sha256": "fd9ff6ad6ce3084cd5ddde3ebef5e34c0ab48f833972a94a5bf63345d4c42a3b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

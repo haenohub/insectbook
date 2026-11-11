@@ -1,0 +1,107 @@
+{
+  "id": "ZRCI0360",
+  "name_ko": "흰깃가지나방",
+  "scientific_name": "Cleora venustaria (Leech, 1891)",
+  "display_name": "흰깃가지나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "가지나방아과",
+      "name_latin": "Ennominae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Cleora"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 가지나방아과 (Ennominae)\n속 : (Cleora)",
+  "basic_information": {
+    "곤충명": "흰깃가지나방",
+    "학명": "Cleora venustaria (Leech, 1891)"
+  },
+  "information": {
+    "general_description": "강촌과 한국, 일본에 분포한다.더듬이는 수컷이 빗살 모양이나 끝의 1/2이 실 모양이고, 암컷은 실 모양이다.\n앞·뒷날개는 모두 순백색인데, 앞날개의 내횡선에서부터 안쪽은 암색이며, 횡맥상에는 비교적 큰 흑색 고리 무늬가 명료하다. 외횡선은 톱니 모양이나 심하게 굴곡하지 않는다. 외연은 제 3실에 백색 무늬가 있다. 뒷면은 뒷날개의 대부분과 앞날개의 외연부가 흑색이고, 나머지는 백색이며, 외횡선과 횡맥 고리 무늬가 있다.\n날개길이 : 30mm 내외",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6월에 출현한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "강촌과 한국, 일본에 분포한다.더듬이는 수컷이 빗살 모양이나 끝의 1/2이 실 모양이고, 암컷은 실 모양이다.\n앞·뒷날개는 모두 순백색인데, 앞날개의 내횡선에서부터 안쪽은 암색이며, 횡맥상에는 비교적 큰 흑색 고리 무늬가 명료하다. 외횡선은 톱니 모양이나 심하게 굴곡하지 않는다. 외연은 제 3실에 백색 무늬가 있다. 뒷면은 뒷날개의 대부분과 앞날개의 외연부가 흑색이고, 나머지는 백색이며, 외횡선과 횡맥 고리 무늬가 있다.\n날개길이 : 30mm 내외"
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6월에 출현한다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0360-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0360_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0360_1_th.jpg",
+      "alt": "흰깃가지나방 1번째 사진 : 흰깃가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0360_1_th2.jpg",
+      "caption": "흰깃가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0360-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0302122105",
+      "description": "[KNAE0302122105] 흰깃가지나방 1994.08.04 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304181022",
+      "description": "[KNAE0304181022] 흰깃가지나방 1998.06.29 / / 국립수목원"
+    },
+    {
+      "id": "KNAE56207",
+      "description": "[KNAE56207] 흰깃가지나방 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCI0360-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0360&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:20+00:00",
+    "html_sha256": "2a2377e0b1f76ff42d545fd6bac73892adaa42e4094a86f0d85ce60fb6cba2e9",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

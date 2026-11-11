@@ -1,0 +1,126 @@
+{
+  "id": "ZTDG0008",
+  "name_ko": "황띠배벌",
+  "scientific_name": "Scolia oculata Matsumura, 1911",
+  "display_name": "황띠배벌",
+  "family_ko": "배벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "말벌상과",
+      "name_latin": "Vespoidea"
+    },
+    "family": {
+      "name_ko": "배벌과",
+      "name_latin": "Scoliidae"
+    },
+    "subfamily": {
+      "name_ko": "배벌아과",
+      "name_latin": "Scoliinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Scolia"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 말벌상과 (Vespoidea)\n과 : 배벌과 (Scoliidae)\n아과 : 배벌아과 (Scoliinae)\n속 : (Scolia)",
+  "basic_information": {
+    "곤충명": "황띠배벌",
+    "학명": "Scolia oculata Matsumura, 1911"
+  },
+  "information": {
+    "general_description": "몸은 흑색이며 제3배마디의 앞옆에 황색 무늬가 있다. 날개는 짙은 적갈색이고 짙은 보랏빛 광택이 있다.",
+    "adult": null,
+    "adult_male": "몸길이가 13~20 mm이다. 수컷이 암컷에 비해 몸이 가늘고 길며, 황색 무늬도 더 크다.",
+    "adult_female": "몸길이가 23~27 mm이다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "6~10월에 출현한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[대만]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸은 흑색이며 제3배마디의 앞옆에 황색 무늬가 있다. 날개는 짙은 적갈색이고 짙은 보랏빛 광택이 있다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "몸길이가 13~20 mm이다. 수컷이 암컷에 비해 몸이 가늘고 길며, 황색 무늬도 더 크다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "몸길이가 23~27 mm이다."
+    },
+    {
+      "title": "생태",
+      "text": "6~10월에 출현한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[대만]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDG0008-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDG0008_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDG0008_2_th.jpg",
+      "alt": "황띠배벌 1번째 사진 : 황띠배벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDG0008_2_th2.jpg",
+      "caption": "황띠배벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTDG0008-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDG0008_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDG0008_1_th.jpg",
+      "alt": "황띠배벌 2번째 사진 : 황띠배벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDG0008_1_th2.jpg",
+      "caption": "황띠배벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDG0008-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306261030",
+      "description": "[YNUE0306261030] 황띠배벌 2002.08.21 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301039010",
+      "description": "[YNUE0301039010] 황띠배벌 1997.07.19 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301039006",
+      "description": "[YNUE0301039006] 황띠배벌 1996.06.26 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDG0008-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDG0008&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:54+00:00",
+    "html_sha256": "496beb6073268f8827320aa4567ee3bc8d26c1bfb74bb04c2f65d74ae9d9921d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "id": "ZREL0157",
+  "name_ko": "개오동명나방",
+  "scientific_name": "Sinomphisa plagialis (Wileman, 1911)",
+  "display_name": "개오동명나방",
+  "family_ko": "풀명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "풀명나방과",
+      "name_latin": "Crambidae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Spilomelinae"
+    },
+    "genus": {
+      "name_ko": "개오동들명나방속",
+      "name_latin": "Sinomphisa"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 풀명나방과 (Crambidae)\n아과 : (Spilomelinae)\n속 : 개오동들명나방속 (Sinomphisa)",
+  "basic_information": {
+    "곤충명": "개오동명나방",
+    "학명": "Sinomphisa plagialis (Wileman, 1911)"
+  },
+  "information": {
+    "general_description": "성충의 날개 길이는 33-36 mm이다. 머리는 거의 백색에 가깝고, 앞이마는 비스듬하다. 더듬이는 갈색이며, 수컷은 미모상이고, 암컷은 단순한 실 모양이다. 아랫입술수염은 길고 약간 아래쪽으로 뻗어 있으며, 아래쪽은 백색이고, 그 밖의 부분은 흑갈색이다.\n앞날개의 바탕색은 백색에 흑갈색의 횡선이 그물 모양으로 발달되어 있다. 앞날개의 중앙부는 흑갈색이며, 중실 중앙 상단에 백색의 사각형 무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": "유충의 몸길이는 18 mm 정도이며 머리는 흑갈색으로 검은 큰 반점이 있고 몸은 황백색으로, 노숙하면 약간 붉은 색을 띤다. 자모기판(刺毛基板)과 항상판(肛上板)은 흑갈색이고 기문 주위는 흑색이다.",
+    "egg": null,
+    "pupa": null,
+    "ecology": "연 1회 발생하며, 성충은 6~8월에 출현한다. 유충은 가는 가지의 중심부를 식해하며 7월 하순경이면 노숙한다.",
+    "habits": "가는 가지 속으로 파고 들어가 식해하며 피해 부위는 약간 비대해진다. 가해 부위 윗부분이 고사하여 바람에 부러져 매달려 있으므로 미관상 좋지 않다.",
+    "season": null,
+    "overwintering": "유충으로 월동한다.",
+    "distribution": "[일본]\n[대한민국] 경기도\n[대한민국] 경기도",
+    "notes": "[반출금지종] 환경부고시제2001-210호",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충의 날개 길이는 33-36 mm이다. 머리는 거의 백색에 가깝고, 앞이마는 비스듬하다. 더듬이는 갈색이며, 수컷은 미모상이고, 암컷은 단순한 실 모양이다. 아랫입술수염은 길고 약간 아래쪽으로 뻗어 있으며, 아래쪽은 백색이고, 그 밖의 부분은 흑갈색이다.\n앞날개의 바탕색은 백색에 흑갈색의 횡선이 그물 모양으로 발달되어 있다. 앞날개의 중앙부는 흑갈색이며, 중실 중앙 상단에 백색의 사각형 무늬가 있다."
+    },
+    {
+      "title": "유충",
+      "text": "유충의 몸길이는 18 mm 정도이며 머리는 흑갈색으로 검은 큰 반점이 있고 몸은 황백색으로, 노숙하면 약간 붉은 색을 띤다. 자모기판(刺毛基板)과 항상판(肛上板)은 흑갈색이고 기문 주위는 흑색이다."
+    },
+    {
+      "title": "생태",
+      "text": "연 1회 발생하며, 성충은 6~8월에 출현한다. 유충은 가는 가지의 중심부를 식해하며 7월 하순경이면 노숙한다."
+    },
+    {
+      "title": "습성",
+      "text": "가는 가지 속으로 파고 들어가 식해하며 피해 부위는 약간 비대해진다. 가해 부위 윗부분이 고사하여 바람에 부러져 매달려 있으므로 미관상 좋지 않다."
+    },
+    {
+      "title": "월동",
+      "text": "유충으로 월동한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[대한민국] 경기도\n[대한민국] 경기도"
+    },
+    {
+      "title": "특기사항",
+      "text": "[반출금지종] 환경부고시제2001-210호"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0157-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0157_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0157_2_th.jpg",
+      "alt": "개오동명나방 1번째 사진 : 개오동명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0157_2_th2.jpg",
+      "caption": "개오동명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREL0157-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0157_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0157_1_th.jpg",
+      "alt": "개오동명나방 2번째 사진 : 개오동명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0157_1_th2.jpg",
+      "caption": "개오동명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0157-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0305011014",
+      "description": "[FRIE0305011014] 개오동명나방 1998.05.06 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0301131030",
+      "description": "[KNAE0301131030] 개오동명나방 1991.05.26 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0201282068",
+      "description": "[KNAE0201282068] 개오동명나방 1984.05.18 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "개오동",
+      "scientific_name": "Catalpa ovata G.Don"
+    },
+    {
+      "group": "식물",
+      "name_ko": "오리나무",
+      "scientific_name": "Alnus japonica (Thunb.) Steud."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZREL0157.png",
+    "reference_image_id": "ZREL0157-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T17:27:38.587482+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "0e97f1ce95cce472a4b7fc8a99912ea523c4279b4f99cd4a43a00265c50e2012"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0157&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:45+00:00",
+    "html_sha256": "0380948e573559a73db00f81861f678bde6bda444bcaa8511440f575d9f2a996",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

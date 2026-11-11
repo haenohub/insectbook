@@ -1,0 +1,121 @@
+{
+  "id": "ZOBT0341",
+  "name_ko": "검정가시잎벌레",
+  "scientific_name": "Rhadinosa nigrocyanea (Motschulsky, 1860)",
+  "display_name": "검정가시잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "남생이잎벌레아과",
+      "name_latin": "Cassidinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Rhadinosa"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 남생이잎벌레아과 (Cassidinae)\n속 : (Rhadinosa)",
+  "basic_information": {
+    "곤충명": "검정가시잎벌레",
+    "학명": "Rhadinosa nigrocyanea (Motschulsky, 1860)"
+  },
+  "information": {
+    "general_description": "몸길이는 4.2~4.5mm, 앞가슴등판에 한쌍의 돌기를 가진다. 그 앞쪽 끝부분은 2개로 갈라지며, 측연에는 3개의 돌기가 있다. 윗날개 측연의 돌기는 길다. 몸색깔은 흑색이다. 등판은 남색 광택이 난다. 한국, 일본(혼슈,시코쿠,큐슈), 동시베리아, 중국에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "기주식물 참억새.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 4.2~4.5mm, 앞가슴등판에 한쌍의 돌기를 가진다. 그 앞쪽 끝부분은 2개로 갈라지며, 측연에는 3개의 돌기가 있다. 윗날개 측연의 돌기는 길다. 몸색깔은 흑색이다. 등판은 남색 광택이 난다. 한국, 일본(혼슈,시코쿠,큐슈), 동시베리아, 중국에 분포되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "기주식물 참억새."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0341-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0341_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0341_1_th.jpg",
+      "alt": "검정가시잎벌레 1번째 사진 : 검정가시잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0341_1_th2.jpg",
+      "caption": "검정가시잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0341-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0408241002",
+      "description": "[KPNE0408241002] 검정가시잎벌레 1979.10.09 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0408241003",
+      "description": "[KPNE0408241003] 검정가시잎벌레 1979.10.02 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0408241006",
+      "description": "[KPNE0408241006] 검정가시잎벌레 1980.09.20 / / 경북대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "비자나무",
+      "scientific_name": "Torreya nucifera (L.) Siebold & Zucc."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBT0341.png",
+    "reference_image_id": "ZOBT0341-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T11:07:00.968185+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "c5ce7f75409fe3da45ae22ed042a598e8b507d9eaa756e1c195d008202dc1dc0"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0341&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:06+00:00",
+    "html_sha256": "7d9800cbeb5bd8dabc5638b8d635c9749a0d29315198f03145c9bcb774424a54",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

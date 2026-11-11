@@ -1,0 +1,103 @@
+{
+  "id": "ZOGJ0021",
+  "name_ko": "점박이외뿔소똥풍뎅이",
+  "scientific_name": "Onthophagus (Palaeonthophagus) gibbulus (Pallas, 1781)",
+  "display_name": "점박이외뿔소똥풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "소똥구리아과",
+      "name_latin": "Scarabaeinae"
+    },
+    "genus": {
+      "name_ko": "소똥풍뎅이속",
+      "name_latin": "Onthophagus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 소똥구리아과 (Scarabaeinae)\n속 : 소똥풍뎅이속 (Onthophagus)",
+  "basic_information": {
+    "곤충명": "점박이외뿔소똥풍뎅이",
+    "학명": "Onthophagus (Palaeonthophagus) gibbulus (Pallas, 1781)"
+  },
+  "information": {
+    "general_description": "구북구의 중남부 전역에 분포하며 흑색이며 등이 넓은 대형. 어린개체는 갈색인데 딱지날개는 황갈색이며 흑색 작은 점무늬들이 흩어져 있다. 머리방패는 중앙 앞쪽이 전상방으로 늘어났고 강하고 명확한 점각이 있다. 수컷의 두정융기는 판상이나 끝은 가늘어졌고, 전흉배판 앞쪽은 급경사 내지 함몰되었고, 암컷은 이의 뒤쪽에 굵고 넓적한 돌출부가 있다. BL:8~15mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "우분에서 채집되었으나 양분에서도 기록되었으며, 유충으로 월동하는 것 같다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "구북구의 중남부 전역에 분포하며 흑색이며 등이 넓은 대형. 어린개체는 갈색인데 딱지날개는 황갈색이며 흑색 작은 점무늬들이 흩어져 있다. 머리방패는 중앙 앞쪽이 전상방으로 늘어났고 강하고 명확한 점각이 있다. 수컷의 두정융기는 판상이나 끝은 가늘어졌고, 전흉배판 앞쪽은 급경사 내지 함몰되었고, 암컷은 이의 뒤쪽에 굵고 넓적한 돌출부가 있다. BL:8~15mm."
+    },
+    {
+      "title": "생태",
+      "text": "우분에서 채집되었으나 양분에서도 기록되었으며, 유충으로 월동하는 것 같다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGJ0021-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0021_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0021_1_th.jpg",
+      "alt": "점박이외뿔소똥풍뎅이 1번째 사진 : 점박이외뿔소똥풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0021_1_th2.jpg",
+      "caption": "점박이외뿔소똥풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGJ0021-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0306172100",
+      "description": "[SNUE0306172100] 점박이외뿔소똥풍뎅이 1967.07.16 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0306172101",
+      "description": "[SNUE0306172101] 점박이외뿔소똥풍뎅이 1966.11.25 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0306172102",
+      "description": "[SNUE0306172102] 점박이외뿔소똥풍뎅이 1966.11.25 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGJ0021-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGJ0021&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:20+00:00",
+    "html_sha256": "1316b8e70dd14a159e89f63ec02830dee376d83b00194a0aaf893f9cf7d43217",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

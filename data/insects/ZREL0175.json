@@ -1,0 +1,114 @@
+{
+  "id": "ZREL0175",
+  "name_ko": "앞흰무늬들명나방",
+  "scientific_name": "Hemopsis dissipatalis (Lederer, 1863)",
+  "display_name": "앞흰무늬들명나방",
+  "family_ko": "풀명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "풀명나방과",
+      "name_latin": "Crambidae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Spilomelinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Hemopsis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 풀명나방과 (Crambidae)\n아과 : (Spilomelinae)\n속 : (Hemopsis)",
+  "basic_information": {
+    "곤충명": "앞흰무늬들명나방",
+    "학명": "Hemopsis dissipatalis (Lederer, 1863)"
+  },
+  "information": {
+    "general_description": "날개길이 23-28㎜. U. tricolor와 유사하지만, 담황색의 반문이 매우 발달하고, 뒷날개에서는 반문이 기부까지 이어져 있음. 암색부는 U. tricolor보다 짙은 갈색을 띠고 있음.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개길이 23-28㎜. U. tricolor와 유사하지만, 담황색의 반문이 매우 발달하고, 뒷날개에서는 반문이 기부까지 이어져 있음. 암색부는 U. tricolor보다 짙은 갈색을 띠고 있음."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0175-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0175_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0175_2_th.jpg",
+      "alt": "앞흰무늬들명나방 1번째 사진 : 앞흰무늬들명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0175_2_th2.jpg",
+      "caption": "앞흰무늬들명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREL0175-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0175_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0175_1_th.jpg",
+      "alt": "앞흰무늬들명나방 2번째 사진 : 앞흰무늬들명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0175_1_th2.jpg",
+      "caption": "앞흰무늬들명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0175-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0301072038",
+      "description": "[UIBE0301072038] 앞흰무늬들명나방 1999.07.15 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301072039",
+      "description": "[UIBE0301072039] 앞흰무늬들명나방 1998.07.18 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301072030",
+      "description": "[UIBE0301072030] 앞흰무늬들명나방 1998.07.20 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREL0175-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0175&tabId=tab1",
+    "collected_at": "2026-11-04T14:14:50+00:00",
+    "html_sha256": "1b744835f613ad61b56cc61026f1503b75a1f315eec6037e7cd05c73a7fe95ac",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

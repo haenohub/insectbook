@@ -1,0 +1,99 @@
+{
+  "id": "ZDAK0019",
+  "name_ko": "부채장수잠자리",
+  "scientific_name": "Sinictinogomphus clavatus (Fabricius, 1775)",
+  "display_name": "부채장수잠자리",
+  "family_ko": "측범잠자리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "잠자리목",
+      "name_latin": "Odonata"
+    },
+    "family": {
+      "name_ko": "측범잠자리과",
+      "name_latin": "Gomphidae"
+    },
+    "subfamily": {
+      "name_ko": "부채측범잠자리아과",
+      "name_latin": "Lindeniinae"
+    },
+    "genus": {
+      "name_ko": "부채장수잠자리속",
+      "name_latin": "Sinictinogomphus"
+    }
+  },
+  "taxonomy_text": "목 : 잠자리목 (Odonata)\n과 : 측범잠자리과 (Gomphidae)\n아과 : 부채측범잠자리아과 (Lindeniinae)\n속 : 부채장수잠자리속 (Sinictinogomphus)",
+  "basic_information": {
+    "곤충명": "부채장수잠자리",
+    "학명": "Sinictinogomphus clavatus (Fabricius, 1775)"
+  },
+  "information": {
+    "general_description": "배길이 63mm, 뒷날개 50~53mm. 머리는 황색이고 얼굴과 뒷머리는 녹황색. 이마혹은 흑색, 이마는 녹황색이며 가로로 흑색띠 존재. 이마조각, 윗입술조각,윗입술은 녹황색, 큰턱밑은 황색, 아랫입술은 옅은 녹황색. 가슴은 녹황색이며 깃에는 가로띠. 가운데가슴 앞면에 황색줄무늬 1개. 배는 흑색이며 각 마디에 황색띠. 8마디 옆쪽의 반원형 판상돌기가 특징임. 날개는 투명하고 날개맥과 가두리무늬는 흑갈색.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "배길이 63mm, 뒷날개 50~53mm. 머리는 황색이고 얼굴과 뒷머리는 녹황색. 이마혹은 흑색, 이마는 녹황색이며 가로로 흑색띠 존재. 이마조각, 윗입술조각,윗입술은 녹황색, 큰턱밑은 황색, 아랫입술은 옅은 녹황색. 가슴은 녹황색이며 깃에는 가로띠. 가운데가슴 앞면에 황색줄무늬 1개. 배는 흑색이며 각 마디에 황색띠. 8마디 옆쪽의 반원형 판상돌기가 특징임. 날개는 투명하고 날개맥과 가두리무늬는 흑갈색."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZDAK0019-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAK0019_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAK0019_1_th.jpg",
+      "alt": "부채장수잠자리 1번째 사진 : 부채장수잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAK0019_1_th2.jpg",
+      "caption": "부채장수잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZDAK0019-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408191180",
+      "description": "[MPME0408191180] 부채장수잠자리 1997.07.20 / / 목포자연사박물관"
+    },
+    {
+      "id": "YNUE0212236062",
+      "description": "[YNUE0212236062] 부채장수잠자리 1996.08.21 / / 영남대학교"
+    },
+    {
+      "id": "MPME0407281034",
+      "description": "[MPME0407281034] 부채장수잠자리 1997.07.20 / / 목포자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZDAK0019-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZDAK0019&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:19+00:00",
+    "html_sha256": "d5385268512f9bd839585f77e15441445ab65eab769e5a48cf9dd3fed3925076",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

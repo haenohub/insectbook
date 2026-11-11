@@ -1,0 +1,114 @@
+{
+  "id": "ZOBH0475",
+  "name_ko": "남방폭탄먼지벌레",
+  "scientific_name": "Pheropsophus (Stenaptinus) javanus (Dejean, 1825)",
+  "display_name": "남방폭탄먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "폭탄먼지벌레아과",
+      "name_latin": "Brachininae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Pheropsophus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 폭탄먼지벌레아과 (Brachininae)\n속 : (Pheropsophus)",
+  "basic_information": {
+    "곤충명": "남방폭탄먼지벌레",
+    "학명": "Pheropsophus (Stenaptinus) javanus (Dejean, 1825)"
+  },
+  "information": {
+    "general_description": "몸길이는 17~20mm 이며 머리의 흑색무늬와 앞가슴등판에 황갈색 무늬가 크고 딱지날개 중앙 부근의 황갈색 무늬가 파도형처럼 되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 17~20mm 이며 머리의 흑색무늬와 앞가슴등판에 황갈색 무늬가 크고 딱지날개 중앙 부근의 황갈색 무늬가 파도형처럼 되어있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0475-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0475_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0475_2_th.jpg",
+      "alt": "남방폭탄먼지벌레 1번째 사진 : 남방폭탄먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0475_2_th2.jpg",
+      "caption": "남방폭탄먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0475-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0475_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0475_1_th.jpg",
+      "alt": "남방폭탄먼지벌레 2번째 사진 : 남방폭탄먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0475_1_th2.jpg",
+      "caption": "남방폭탄먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0475-1",
+  "specimen_examples": [
+    {
+      "id": "SJNE0202261086",
+      "description": "[SJNE0202261086] 남방폭탄먼지벌레 1983.05.28 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0202261088",
+      "description": "[SJNE0202261088] 남방폭탄먼지벌레 1983.05.14 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0202261089",
+      "description": "[SJNE0202261089] 남방폭탄먼지벌레 1983.05.28 / / 상주대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBH0475.png",
+    "reference_image_id": "ZOBH0475-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T16:40:41.503203+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "4d7206c0dff74f8ae2bb4899bfec3c582fc1ff5181ad33b799b7d9b2b8716605"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0475&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:25+00:00",
+    "html_sha256": "0c527ed392657fd25f743e7cf985250b66b2490656325df3c91d81195f4df049",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

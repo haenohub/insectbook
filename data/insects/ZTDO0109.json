@@ -1,0 +1,114 @@
+{
+  "id": "ZTDO0109",
+  "name_ko": "고동다리호리잎벌",
+  "scientific_name": "Tenthredo tenuipennis Malaise, 1931",
+  "display_name": "고동다리호리잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "잎벌아과",
+      "name_latin": "Tenthredininae"
+    },
+    "genus": {
+      "name_ko": "잎벌속",
+      "name_latin": "Tenthredo"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 잎벌아과 (Tenthredininae)\n속 : 잎벌속 (Tenthredo)",
+  "basic_information": {
+    "곤충명": "고동다리호리잎벌",
+    "학명": "Tenthredo tenuipennis Malaise, 1931"
+  },
+  "information": {
+    "general_description": "몸은 흑색이나 빛에 따라 남색으로 보인다. 회색 짧은 털이 났다. 머리는 크고 광택이 있으며 약간 점각이 있다. 날개는 반투명하고 무지개색이 도는 황색을 띠고 있다. 짧은 흑색 털이 났고 연문은 황갈색이며 바깥 변두리의 1/3이 암색이다. 맥은 흑갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸은 흑색이나 빛에 따라 남색으로 보인다. 회색 짧은 털이 났다. 머리는 크고 광택이 있으며 약간 점각이 있다. 날개는 반투명하고 무지개색이 도는 황색을 띠고 있다. 짧은 흑색 털이 났고 연문은 황갈색이며 바깥 변두리의 1/3이 암색이다. 맥은 흑갈색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0109-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0109_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0109_2_th.jpg",
+      "alt": "고동다리호리잎벌 1번째 사진 : 고동다리호리잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0109_2_th2.jpg",
+      "caption": "고동다리호리잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTDO0109-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0109_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0109_1_th.jpg",
+      "alt": "고동다리호리잎벌 2번째 사진 : 고동다리호리잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0109_1_th2.jpg",
+      "caption": "고동다리호리잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0109-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0301059284",
+      "description": "[YNUE0301059284] 고동다리호리잎벌 1999.05.15 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301046170",
+      "description": "[YNUE0301046170] 고동다리호리잎벌 1972.05.14 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTDO0109.png",
+    "reference_image_id": "ZTDO0109-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T12:16:57.177202+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "81349640bda518d72551dcb82dcd66dfdc1c82e6dc817c7aa69ede0759543329"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0109&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:38+00:00",
+    "html_sha256": "1f03567348d09c3d8deadba618fafbaf828c783c787e3db5da02421e5649405c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

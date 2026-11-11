@@ -1,0 +1,109 @@
+{
+  "id": "ZOEJ0045",
+  "name_ko": "레나아드우단풍뎅이",
+  "scientific_name": "Maladera renardi (Ballion, 1870)",
+  "display_name": "레나아드우단풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "검정풍뎅이아과",
+      "name_latin": "Melolonthinae"
+    },
+    "genus": {
+      "name_ko": "애우단풍뎅이속",
+      "name_latin": "Maladera"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 검정풍뎅이아과 (Melolonthinae)\n속 : 애우단풍뎅이속 (Maladera)",
+  "basic_information": {
+    "곤충명": "레나아드우단풍뎅이",
+    "학명": "Maladera renardi (Ballion, 1870)"
+  },
+  "information": {
+    "general_description": "중국 북부, 시베리아 동부, 일본에 분포하며 홀쭉우단풍뎅이와 비슷하나 몸이 크고, 앞가슴의 양옆은 직선형이며, 수컷의 촉각 곤봉부가 굽었고, 머리방패가 넓으며, 몸은 짙은 흑색인 점이 다르다. 촉각은 10마디인데 수컷의 곤봉부는 자루마디보다 길고, 암컷은 거의 같은 길이이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중국 북부, 시베리아 동부, 일본에 분포하며 홀쭉우단풍뎅이와 비슷하나 몸이 크고, 앞가슴의 양옆은 직선형이며, 수컷의 촉각 곤봉부가 굽었고, 머리방패가 넓으며, 몸은 짙은 흑색인 점이 다르다. 촉각은 10마디인데 수컷의 곤봉부는 자루마디보다 길고, 암컷은 거의 같은 길이이다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOEJ0045-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0045_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0045_1_th.jpg",
+      "alt": "레나아드우단풍뎅이 1번째 사진 : 레나아드우단풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0045_1_th2.jpg",
+      "caption": "레나아드우단풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOEJ0045-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0112286036",
+      "description": "[YNUE0112286036] 레나아드우단풍뎅이 1994.06.18 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0112286037",
+      "description": "[YNUE0112286037] 레나아드우단풍뎅이 1992.08.31 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0112207043",
+      "description": "[YNUE0112207043] 레나아드우단풍뎅이 1997.07.21 / / 영남대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "소나무",
+      "scientific_name": "Pinus densiflora Siebold & Zucc."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOEJ0045-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOEJ0045&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:33+00:00",
+    "html_sha256": "dab3d0e1af5097d90cefe1170a73b3b1b4ddfe7c024eef7437daf13874afe74a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

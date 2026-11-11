@@ -1,0 +1,107 @@
+{
+  "id": "ZOBT0249",
+  "name_ko": "애둥글잎벌레",
+  "scientific_name": "Argopus balyi Harold, 1878",
+  "display_name": "애둥글잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "긴더듬이잎벌레아과",
+      "name_latin": "Galerucinae"
+    },
+    "genus": {
+      "name_ko": "둥글잎벌레속",
+      "name_latin": "Argopus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 긴더듬이잎벌레아과 (Galerucinae)\n속 : 둥글잎벌레속 (Argopus)",
+  "basic_information": {
+    "곤충명": "애둥글잎벌레",
+    "학명": "Argopus balyi Harold, 1878"
+  },
+  "information": {
+    "general_description": "몸길이는 4.2~5.0mm, 몸색깔은 적갈색이다. 두순 전연은 수컷이 강하게 방형으로 재단되고, 암컷은 약하다. 한국, 일본(혼슈,시코쿠,큐슈)에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "기주식물 Clemtis apiifolia A.P.DC., Clematis terniflora DC.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 4.2~5.0mm, 몸색깔은 적갈색이다. 두순 전연은 수컷이 강하게 방형으로 재단되고, 암컷은 약하다. 한국, 일본(혼슈,시코쿠,큐슈)에 분포되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "기주식물 Clemtis apiifolia A.P.DC., Clematis terniflora DC."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0249-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0249_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0249_1_th.jpg",
+      "alt": "애둥글잎벌레 1번째 사진 : 애둥글잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0249_1_th2.jpg",
+      "caption": "애둥글잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0249-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0201092040",
+      "description": "[YNUE0201092040] 애둥글잎벌레 1992.05.15 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0201092042",
+      "description": "[YNUE0201092042] 애둥글잎벌레 1990.05.16 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0201092041",
+      "description": "[YNUE0201092041] 애둥글잎벌레 1992.05.14 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0249-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0249&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:07+00:00",
+    "html_sha256": "03e6072c618a719322f4cd451e6005ff36e4eee5eded9802cafb7fb1b27793fc",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

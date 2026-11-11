@@ -1,0 +1,122 @@
+{
+  "id": "ZOBL0006",
+  "name_ko": "반날개하늘소",
+  "scientific_name": "Psephactus remiger remiger Harold, 1879",
+  "display_name": "반날개하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "톱하늘소아과",
+      "name_latin": "Prioninae"
+    },
+    "genus": {
+      "name_ko": "반날개하늘소속",
+      "name_latin": "Psephactus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 톱하늘소아과 (Prioninae)\n속 : 반날개하늘소속 (Psephactus)",
+  "basic_information": {
+    "곤충명": "반날개하늘소",
+    "학명": "Psephactus remiger remiger Harold, 1879"
+  },
+  "information": {
+    "general_description": "몸 길이는 12~30mm이며 대체로 수컷의 딱지날개는 짧으며 암컷의 딱지날개는 수컷보다 길이가 길다",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 산지에서 6~8월에 나오며 이른 아침부터 활동한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸 길이는 12~30mm이며 대체로 수컷의 딱지날개는 짧으며 암컷의 딱지날개는 수컷보다 길이가 길다"
+    },
+    {
+      "title": "생태",
+      "text": "성충은 산지에서 6~8월에 나오며 이른 아침부터 활동한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0006-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0006_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0006_2_th.jpg",
+      "alt": "반날개하늘소 1번째 사진 : 반날개하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0006_2_th2.jpg",
+      "caption": "반날개하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBL0006-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0006_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0006_1_th.jpg",
+      "alt": "반날개하늘소 2번째 사진 : 반날개하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0006_1_th2.jpg",
+      "caption": "반날개하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0006-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0302112052",
+      "description": "[KNAE0302112052] 반날개하늘소 1980.08.08 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0302112053",
+      "description": "[KNAE0302112053] 반날개하늘소 1980.08.08 / / 국립수목원"
+    },
+    {
+      "id": "FRIE0205031060",
+      "description": "[FRIE0205031060] 반날개하늘소 1982.08.31 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0006-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0006&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:05+00:00",
+    "html_sha256": "9bc23ede929838f21f93ae623c3a77e18790d3e9dee43c26d8568a59eed93f8d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

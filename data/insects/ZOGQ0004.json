@@ -1,0 +1,103 @@
+{
+  "id": "ZOGQ0004",
+  "name_ko": "두니가는납작벌레",
+  "scientific_name": "Silvanus bidentatus (Fabricius, 1792)",
+  "display_name": "두니가는납작벌레",
+  "family_ko": "가는납작벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "머리대장상과",
+      "name_latin": "Cucujoidea"
+    },
+    "family": {
+      "name_ko": "가는납작벌레과",
+      "name_latin": "Silvanidae"
+    },
+    "subfamily": {
+      "name_ko": "가는납작벌레아과",
+      "name_latin": "Silvaninae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Silvanus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 머리대장상과 (Cucujoidea)\n과 : 가는납작벌레과 (Silvanidae)\n아과 : 가는납작벌레아과 (Silvaninae)\n속 : (Silvanus)",
+  "basic_information": {
+    "곤충명": "두니가는납작벌레",
+    "학명": "Silvanus bidentatus (Fabricius, 1792)"
+  },
+  "information": {
+    "general_description": "몸길이는 2.2~3.5mm 이며 몸은 전체적으로 황갈색이고 전흉배판은 역 사다리꼴형태이고 앞가슴등판의 양 측면은 돌기가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 2.2~3.5mm 이며 몸은 전체적으로 황갈색이고 전흉배판은 역 사다리꼴형태이고 앞가슴등판의 양 측면은 돌기가 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGQ0004-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGQ0004_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGQ0004_1_th.jpg",
+      "alt": "두니가는납작벌레 1번째 사진 : 두니가는납작벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGQ0004_1_th2.jpg",
+      "caption": "두니가는납작벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGQ0004-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304102062",
+      "description": "[KNAE0304102062] 두니가는납작벌레 1992.05.20 / / 국립수목원"
+    },
+    {
+      "id": "KNAE308482",
+      "description": "[KNAE308482] 두니가는납작벌레 / / 국립수목원"
+    },
+    {
+      "id": "KNAE308487",
+      "description": "[KNAE308487] 두니가는납작벌레 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGQ0004-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGQ0004&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:37+00:00",
+    "html_sha256": "b1ab88517572dacf043b5ac1e93e93351413441e8e2d7bb2223c654f436007ff",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": "ZRCI0047",
+  "name_ko": "빗살무늬푸른자나방",
+  "scientific_name": "Iotaphora admirabilis (Oberthür, 1883)",
+  "display_name": "빗살무늬푸른자나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "푸른자나방아과",
+      "name_latin": "Geometrinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Iotaphora"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 푸른자나방아과 (Geometrinae)\n속 : (Iotaphora)",
+  "basic_information": {
+    "곤충명": "빗살무늬푸른자나방",
+    "학명": "Iotaphora admirabilis (Oberthür, 1883)"
+  },
+  "information": {
+    "general_description": "더듬이는　수컷이　빗살　모양이고，암컷은　실　모양임．이마와　정수리는　노란색임．앞날개의　내횡선도　노란색이며，바깥쪽에는　백색　테가있음．외횡선도　노란색으로　２줄　있으며，줄사이는　백색이고，바깥쪽　외횡선으로부터　외연까지　흑색의　빗살　무늬가　있음．내횡선과　외횡선과의　사이는　연두색으로　흑색의　횡맥의　무늬가　있음．또한　밑부분도　연두색임．뒷날개는　외횡선까지　연두색이며，앞날개와　같이　외횡선은　노란색으로　２줄이고　바깥　외횡선에서　외연까지는　흑색의　빗살무늬가　있음．",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은　７～８월에　출현함．",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는　수컷이　빗살　모양이고，암컷은　실　모양임．이마와　정수리는　노란색임．앞날개의　내횡선도　노란색이며，바깥쪽에는　백색　테가있음．외횡선도　노란색으로　２줄　있으며，줄사이는　백색이고，바깥쪽　외횡선으로부터　외연까지　흑색의　빗살　무늬가　있음．내횡선과　외횡선과의　사이는　연두색으로　흑색의　횡맥의　무늬가　있음．또한　밑부분도　연두색임．뒷날개는　외횡선까지　연두색이며，앞날개와　같이　외횡선은　노란색으로　２줄이고　바깥　외횡선에서　외연까지는　흑색의　빗살무늬가　있음．"
+    },
+    {
+      "title": "생태",
+      "text": "성충은　７～８월에　출현함．"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0047-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0047_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0047_2_th.jpg",
+      "alt": "빗살무늬푸른자나방 1번째 사진 : 빗살무늬푸른자나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0047_2_th2.jpg",
+      "caption": "빗살무늬푸른자나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0047-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0047_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0047_1_th.jpg",
+      "alt": "빗살무늬푸른자나방 2번째 사진 : 빗살무늬푸른자나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0047_1_th2.jpg",
+      "caption": "빗살무늬푸른자나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0047-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0211062070",
+      "description": "[YNUE0211062070] 빗살무늬푸른자나방 2000.05.27 / / 영남대학교"
+    },
+    {
+      "id": "KNAE0301091029",
+      "description": "[KNAE0301091029] 빗살무늬푸른자나방 1991.08.21 / / 국립수목원"
+    },
+    {
+      "id": "CBNE0202091063",
+      "description": "[CBNE0202091063] 빗살무늬푸른자나방 1993.06.23 / / 충북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCI0047-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0047&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:59+00:00",
+    "html_sha256": "5787ccee00abdbf8a0c42d756ba805e8a4791a0142227b13016620d886d8ce86",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

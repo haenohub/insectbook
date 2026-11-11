@@ -1,0 +1,125 @@
+{
+  "id": "ZRCI0310",
+  "name_ko": "각시얼룩가지나방",
+  "scientific_name": "Abraxas niphonibia Wehrli, 1935",
+  "display_name": "각시얼룩가지나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "가지나방아과",
+      "name_latin": "Ennominae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Abraxas"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 가지나방아과 (Ennominae)\n속 : (Abraxas)",
+  "basic_information": {
+    "곤충명": "각시얼룩가지나방",
+    "학명": "Abraxas niphonibia Wehrli, 1935"
+  },
+  "information": {
+    "general_description": "날개편길이 32~36mm. 무늬나 크기에 변이가 있으나 대체로 앞날개 횡맥 주변 무늬의 중심에 검은색 고리모양무늬가 뚜렷이 나타남. 뒷날개의 외횡무늬줄은 후반에서 2줄로 되는 일도 있으나 1줄인 경우가 많음.",
+    "adult": null,
+    "adult_male": "harperk 큰 삼각형으로 잘 발달되어 있음.",
+    "adult_female": "lamella antevaginalis가 긴 혀 모양으로 되어있고 anrtrum은 수평으로 되어 있음.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편길이 32~36mm. 무늬나 크기에 변이가 있으나 대체로 앞날개 횡맥 주변 무늬의 중심에 검은색 고리모양무늬가 뚜렷이 나타남. 뒷날개의 외횡무늬줄은 후반에서 2줄로 되는 일도 있으나 1줄인 경우가 많음."
+    },
+    {
+      "title": "성충(수)",
+      "text": "harperk 큰 삼각형으로 잘 발달되어 있음."
+    },
+    {
+      "title": "성충(암)",
+      "text": "lamella antevaginalis가 긴 혀 모양으로 되어있고 anrtrum은 수평으로 되어 있음."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0310-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0310_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0310_2_th.jpg",
+      "alt": "각시얼룩가지나방 1번째 사진 : 각시얼룩가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0310_2_th2.jpg",
+      "caption": "각시얼룩가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0310-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0310_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0310_1_th.jpg",
+      "alt": "각시얼룩가지나방 2번째 사진 : 각시얼룩가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0310_1_th2.jpg",
+      "caption": "각시얼룩가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0310-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0303171028",
+      "description": "[FRIE0303171028] 각시얼룩가지나방 1998.06.03 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0303121012",
+      "description": "[KNAE0303121012] 각시얼룩가지나방 1997.06.10 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303121014",
+      "description": "[KNAE0303121014] 각시얼룩가지나방 1997.06.10 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRCI0310.png",
+    "reference_image_id": "ZRCI0310-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T15:52:49.020036+00:00",
+    "sha256": "d5d61806dc2dc90fe57e5ae654c97109a90d0acb661b880488af55b0550a7751"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0310&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:21+00:00",
+    "html_sha256": "33c187e244ccc4e5be0449e5ed8a50a4272aca55f615104f3265633ff70aace7",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

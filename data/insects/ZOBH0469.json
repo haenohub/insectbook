@@ -1,0 +1,110 @@
+{
+  "id": "ZOBH0469",
+  "name_ko": "목가는먼지벌레",
+  "scientific_name": "Galerita (Galerita) orientalis Schmidt-Göbel, 1946",
+  "display_name": "목가는먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "먼지벌레아과",
+      "name_latin": "Harpalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Galerita"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 먼지벌레아과 (Harpalinae)\n속 : (Galerita)",
+  "basic_information": {
+    "곤충명": "목가는먼지벌레",
+    "학명": "Galerita (Galerita) orientalis Schmidt-Göbel, 1946"
+  },
+  "information": {
+    "general_description": "몸길이는 20~34mm 이며 머리는 적색이며 머리 윗부분은 작은 점무늬가 촘촘이 있고 뒷쪽에는 돌출되어있다. 앞가슴등판의 테두리는 흑색이며 가운데 부분은 적색이다. 딱지날개는 흑색이며 촉각과 다리는 황갈색 다리마디는 흑색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 20~34mm 이며 머리는 적색이며 머리 윗부분은 작은 점무늬가 촘촘이 있고 뒷쪽에는 돌출되어있다. 앞가슴등판의 테두리는 흑색이며 가운데 부분은 적색이다. 딱지날개는 흑색이며 촉각과 다리는 황갈색 다리마디는 흑색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0469-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0469_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0469_2_th.jpg",
+      "alt": "목가는먼지벌레 1번째 사진 : 목가는먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0469_2_th2.jpg",
+      "caption": "목가는먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0469-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0469_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0469_1_th.jpg",
+      "alt": "목가는먼지벌레 2번째 사진 : 목가는먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0469_1_th2.jpg",
+      "caption": "목가는먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0469-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0408091090",
+      "description": "[KNAE0408091090] 목가는먼지벌레 2001.08.18 / / 국립수목원"
+    },
+    {
+      "id": "SCNE0302141056",
+      "description": "[SCNE0302141056] 목가는먼지벌레 1993.07.31 / / 순천대학교"
+    },
+    {
+      "id": "SCNE0302141057",
+      "description": "[SCNE0302141057] 목가는먼지벌레 1993.07.29 / / 순천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0469-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0469&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:20+00:00",
+    "html_sha256": "daa1b4eb525ddca39b073593c14264a94f06f9a3ab2f29fcc953bb88c48d38d4",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

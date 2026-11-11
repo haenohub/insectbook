@@ -1,0 +1,114 @@
+{
+  "id": "ZOBH0106",
+  "name_ko": "검정가슴먼지벌레",
+  "scientific_name": "Nebria (Reductonebria) ochotica ochotica Sahlberg, 1844",
+  "display_name": "검정가슴먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "가슴먼지벌레아과",
+      "name_latin": "Nebriinae"
+    },
+    "genus": {
+      "name_ko": "가슴먼지벌레속",
+      "name_latin": "Nebria"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 가슴먼지벌레아과 (Nebriinae)\n속 : 가슴먼지벌레속 (Nebria)",
+  "basic_information": {
+    "곤충명": "검정가슴먼지벌레",
+    "학명": "Nebria (Reductonebria) ochotica ochotica Sahlberg, 1844"
+  },
+  "information": {
+    "general_description": "몸길이는 9.5~12mm 이며, 두부는 좁고 앞가슴 등판은 완전 심장형이다. 딱지날개는 청남색의 광택이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 9.5~12mm 이며, 두부는 좁고 앞가슴 등판은 완전 심장형이다. 딱지날개는 청남색의 광택이 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0106-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0106_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0106_2_th.jpg",
+      "alt": "검정가슴먼지벌레 1번째 사진 : 검정가슴먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0106_2_th2.jpg",
+      "caption": "검정가슴먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0106-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0106_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0106_1_th.jpg",
+      "alt": "검정가슴먼지벌레 2번째 사진 : 검정가슴먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0106_1_th2.jpg",
+      "caption": "검정가슴먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0106-1",
+  "specimen_examples": [
+    {
+      "id": "SCNE0302151049",
+      "description": "[SCNE0302151049] 검정가슴먼지벌레 1999.05.16 / / 순천대학교"
+    },
+    {
+      "id": "SCNE0302151099",
+      "description": "[SCNE0302151099] 검정가슴먼지벌레 2001.08.12 / / 순천대학교"
+    },
+    {
+      "id": "SCNE0302151012",
+      "description": "[SCNE0302151012] 검정가슴먼지벌레 1997.07.20 / / 순천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBH0106.png",
+    "reference_image_id": "ZOBH0106-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T11:06:26.789936+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "b4d1c9ff6dc7684f99bec780aff8fd6279ae408393950be4fa72e60bdb89b70d"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0106&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:05+00:00",
+    "html_sha256": "479f8ed7edef14b7e41139fb9f2cba1bbbd8ec9e825b903a551d6a47619aecd8",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

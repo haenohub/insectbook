@@ -1,0 +1,103 @@
+{
+  "id": "ZEAA0048",
+  "name_ko": "벼메뚜기붙이",
+  "scientific_name": "Mecostethus parapleurus parapleurus (Hagenbach, 1822)",
+  "display_name": "벼메뚜기붙이",
+  "family_ko": "메뚜기과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "메뚜기목",
+      "name_latin": "Orthoptera"
+    },
+    "family": {
+      "name_ko": "메뚜기과",
+      "name_latin": "Acrididae"
+    },
+    "subfamily": {
+      "name_ko": "풀무치아과",
+      "name_latin": "Oedipodinae"
+    },
+    "genus": {
+      "name_ko": "벼메뚜기붙이속",
+      "name_latin": "Mecostethus"
+    }
+  },
+  "taxonomy_text": "목 : 메뚜기목 (Orthoptera)\n과 : 메뚜기과 (Acrididae)\n아과 : 풀무치아과 (Oedipodinae)\n속 : 벼메뚜기붙이속 (Mecostethus)",
+  "basic_information": {
+    "곤충명": "벼메뚜기붙이",
+    "학명": "Mecostethus parapleurus parapleurus (Hagenbach, 1822)"
+  },
+  "information": {
+    "general_description": "몸길이 25~30mm이며 몸은 가늘고 황록색이며 머리꼭대기돌기는 말단이 절단되었고 1개의 종융기선이 있다. 촉각은 길고 황갈색 또는 적갈색이다. 앞가슴은 가늘고 길며 폭이 같으나 암컷은 뒷쪽이 조금 넓다. 앞가두리는 다소 둥그렇고 뒷가두리는 모가 둔하고 중앙의 종융기선만 뚜렷하고 중앙 직후에서 제 3횡구로써 절단되었다. 제 1~2횡구는 뚜렷하나 종융기선으로써 절단되었다. 옆조각은 방형이고 앞모는 직각이며 뒷모는 모가 둔하고 밑으로 가는 1개의 흑색 띠가 있는데 이것은 겹눈 뒷가두리에 달한다. 앞날개는 가늘고 길며 무릎을 다소 초월하며 말단은 둥그나 다소 비스듬히 절단된것 같이 보인다. 앞가두리와 앞경맥 사이는 황색이고 그 외는 갈색이나 경맥쪽은 흑색이 돈다. 뒷무릎의 옆쪽에 흑색부가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[유럽]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 25~30mm이며 몸은 가늘고 황록색이며 머리꼭대기돌기는 말단이 절단되었고 1개의 종융기선이 있다. 촉각은 길고 황갈색 또는 적갈색이다. 앞가슴은 가늘고 길며 폭이 같으나 암컷은 뒷쪽이 조금 넓다. 앞가두리는 다소 둥그렇고 뒷가두리는 모가 둔하고 중앙의 종융기선만 뚜렷하고 중앙 직후에서 제 3횡구로써 절단되었다. 제 1~2횡구는 뚜렷하나 종융기선으로써 절단되었다. 옆조각은 방형이고 앞모는 직각이며 뒷모는 모가 둔하고 밑으로 가는 1개의 흑색 띠가 있는데 이것은 겹눈 뒷가두리에 달한다. 앞날개는 가늘고 길며 무릎을 다소 초월하며 말단은 둥그나 다소 비스듬히 절단된것 같이 보인다. 앞가두리와 앞경맥 사이는 황색이고 그 외는 갈색이나 경맥쪽은 흑색이 돈다. 뒷무릎의 옆쪽에 흑색부가 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[유럽]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZEAA0048-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0048_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0048_1_th.jpg",
+      "alt": "벼메뚜기붙이 1번째 사진 : 벼메뚜기붙이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0048_1_th2.jpg",
+      "caption": "벼메뚜기붙이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZEAA0048-1",
+  "specimen_examples": [
+    {
+      "id": "JFNE0306101053",
+      "description": "[JFNE0306101053] 벼메뚜기붙이 2001.06.26 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0306101054",
+      "description": "[JFNE0306101054] 벼메뚜기붙이 2001.06.27 / / 제주자연사박물관"
+    },
+    {
+      "id": "SNUE0304142100",
+      "description": "[SNUE0304142100] 벼메뚜기붙이 1971.07.24 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZEAA0048-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZEAA0048&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:53+00:00",
+    "html_sha256": "31aaf35c8d95be65a6f3ce48bcf3d60f2683f4ab1badc5b8c8c25603a42ef9b2",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

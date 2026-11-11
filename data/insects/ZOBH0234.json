@@ -1,0 +1,99 @@
+{
+  "id": "ZOBH0234",
+  "name_ko": "강원길쭉먼지벌레",
+  "scientific_name": "Pterostichus (Koreonialoe) bifidiphallus Nemoto, 1988",
+  "display_name": "강원길쭉먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "먼지벌레아과",
+      "name_latin": "Harpalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Pterostichus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 먼지벌레아과 (Harpalinae)\n속 : (Pterostichus)",
+  "basic_information": {
+    "곤충명": "강원길쭉먼지벌레",
+    "학명": "Pterostichus (Koreonialoe) bifidiphallus Nemoto, 1988"
+  },
+  "information": {
+    "general_description": "몸길이는 17~22mm 이며 검은색이며 두부와 턱이 발달되어있다 앞가슴등판은 심장형이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 17~22mm 이며 검은색이며 두부와 턱이 발달되어있다 앞가슴등판은 심장형이다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0234-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0234_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0234_1_th.jpg",
+      "alt": "강원길쭉먼지벌레 1번째 사진 : 강원길쭉먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0234_1_th2.jpg",
+      "caption": "강원길쭉먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0234-1",
+  "specimen_examples": [
+    {
+      "id": "SJNE0204071048",
+      "description": "[SJNE0204071048] 강원길쭉먼지벌레 1985.07.30 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0204071049",
+      "description": "[SJNE0204071049] 강원길쭉먼지벌레 1985.07.30 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0204071050",
+      "description": "[SJNE0204071050] 강원길쭉먼지벌레 1973.06.21 / / 상주대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBH0234.png",
+    "reference_image_id": "ZOBH0234-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T17:00:34.507165+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "845a3bb47ff4615b26f4c80f924111e03026fb71a03f1cd5e2c327fe7c35a723"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0234&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:41+00:00",
+    "html_sha256": "1fb99190d06f6860681a695a773919bbc4aad394333f9018a6f96a31a9ed3264",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

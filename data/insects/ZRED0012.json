@@ -1,0 +1,150 @@
+{
+  "id": "ZRED0012",
+  "name_ko": "남방노랑나비",
+  "scientific_name": "Eurema mandarina (de l’Orza, 1869)",
+  "display_name": "남방노랑나비",
+  "family_ko": "흰나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "흰나비과",
+      "name_latin": "Pieridae"
+    },
+    "subfamily": {
+      "name_ko": "노랑나비아과",
+      "name_latin": "Coliadinae"
+    },
+    "genus": {
+      "name_ko": "남방노랑나비속",
+      "name_latin": "Eurema"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 흰나비과 (Pieridae)\n아과 : 노랑나비아과 (Coliadinae)\n속 : 남방노랑나비속 (Eurema)",
+  "basic_information": {
+    "곤충명": "남방노랑나비",
+    "학명": "Eurema mandarina (de l’Orza, 1869)"
+  },
+  "information": {
+    "general_description": "날개 바탕색은 진노랑색이며, 앞날개의 끝부분에는 검은 색의 테두리가 넓게 발달되어 있으며, 그 테두리의 안쪽 중간부위는 굴곡을 형성하며 파여 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "남부지방 및 제주특별자치도 지방의 평지의 콩과 식물이 많은 장소에 서식한다. 춘형은 5월중순에서 6월, 하형은 7월에서 11월, 월동후 그 다음해 3월에서 4월에 걸쳐 연 3-4회 발생한다.",
+    "habits": "수컷은 서서히 날다가 습지에 잘 모이는 습성이 있는데 때로는 집단으로 모여 흡수하기도 한다. 암수모두 개망초, 꿀풀 등의 꽃에서 흡밀한다. 암컷은 하루중 온도가 높은 시간에 기주식물의 잎 표면에 낱개로 산란한다. 이따금 서식지가 아닌 중부 지방에 까지 이동하여 채집되는 경우도 있지만 월동을 불가능 한 것으로 알려져 있다.",
+    "season": null,
+    "overwintering": "성충",
+    "distribution": "[일본]\n[중국]\n[대만]",
+    "notes": "[보통종]\n[흡밀곤충] 개망초, 꿀풀",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개 바탕색은 진노랑색이며, 앞날개의 끝부분에는 검은 색의 테두리가 넓게 발달되어 있으며, 그 테두리의 안쪽 중간부위는 굴곡을 형성하며 파여 있다."
+    },
+    {
+      "title": "생태",
+      "text": "남부지방 및 제주특별자치도 지방의 평지의 콩과 식물이 많은 장소에 서식한다. 춘형은 5월중순에서 6월, 하형은 7월에서 11월, 월동후 그 다음해 3월에서 4월에 걸쳐 연 3-4회 발생한다."
+    },
+    {
+      "title": "습성",
+      "text": "수컷은 서서히 날다가 습지에 잘 모이는 습성이 있는데 때로는 집단으로 모여 흡수하기도 한다. 암수모두 개망초, 꿀풀 등의 꽃에서 흡밀한다. 암컷은 하루중 온도가 높은 시간에 기주식물의 잎 표면에 낱개로 산란한다. 이따금 서식지가 아닌 중부 지방에 까지 이동하여 채집되는 경우도 있지만 월동을 불가능 한 것으로 알려져 있다."
+    },
+    {
+      "title": "월동",
+      "text": "성충"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[대만]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]\n[흡밀곤충] 개망초, 꿀풀"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRED0012-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRED0012_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRED0012_2_th.jpg",
+      "alt": "남방노랑나비 1번째 사진 : 남방노랑나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRED0012_2_th2.jpg",
+      "caption": "남방노랑나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRED0012-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRED0012_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRED0012_1_th.jpg",
+      "alt": "남방노랑나비 2번째 사진 : 남방노랑나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRED0012_1_th2.jpg",
+      "caption": "남방노랑나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRED0012-1",
+  "specimen_examples": [
+    {
+      "id": "MPNE0408101411",
+      "description": "[MPNE0408101411] 남방노랑나비 2003.10.03 / / 목포 대학교 환경연구소"
+    },
+    {
+      "id": "MPNE0408101413",
+      "description": "[MPNE0408101413] 남방노랑나비 2003.10.03 / / 목포 대학교 환경연구소"
+    },
+    {
+      "id": "MPNE0408101414",
+      "description": "[MPNE0408101414] 남방노랑나비 2003.10.03 / / 목포 대학교 환경연구소"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "괭이싸리",
+      "scientific_name": "Lespedeza pilosa (Thunb.) Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "비수리",
+      "scientific_name": "Lespedeza cuneata (Dum.Cours.) G.Don"
+    },
+    {
+      "group": "식물",
+      "name_ko": "자귀나무",
+      "scientific_name": "Albizia julibrissin Durazz."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRED0012.png",
+    "reference_image_id": "ZRED0012-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T16:24:42.417313+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "8db4013f96f08d247f5d4f72969ecc3ae22fb5c795d6e88b0556bb4e917c102c"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRED0012&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:20+00:00",
+    "html_sha256": "3b8f05f48b3c52daa0842a004399f4e989b1ff6adf0d8392c0f70a750ce8e1f8",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

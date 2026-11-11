@@ -1,0 +1,103 @@
+{
+  "id": "ZOBH0453",
+  "name_ko": "노랑가슴먼지벌레",
+  "scientific_name": "Lachnolebia cribricollis (Morawitz, 1862)",
+  "display_name": "노랑가슴먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "먼지벌레아과",
+      "name_latin": "Harpalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Lachnolebia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 먼지벌레아과 (Harpalinae)\n속 : (Lachnolebia)",
+  "basic_information": {
+    "곤충명": "노랑가슴먼지벌레",
+    "학명": "Lachnolebia cribricollis (Morawitz, 1862)"
+  },
+  "information": {
+    "general_description": "몸의길이는 6.5~8mm, 두부와 딱지날개는 청남색이고 다리, 촉각, 앞가슴등판은 진한 갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[러시아]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의길이는 6.5~8mm, 두부와 딱지날개는 청남색이고 다리, 촉각, 앞가슴등판은 진한 갈색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[러시아]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0453-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0453_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0453_1_th.jpg",
+      "alt": "노랑가슴먼지벌레 1번째 사진 : 노랑가슴먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0453_1_th2.jpg",
+      "caption": "노랑가슴먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0453-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0201022054",
+      "description": "[YNUE0201022054] 노랑가슴먼지벌레 1993.05.14 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0201022055",
+      "description": "[YNUE0201022055] 노랑가슴먼지벌레 1997.04.26 / / 영남대학교"
+    },
+    {
+      "id": "KPNE0407081198",
+      "description": "[KPNE0407081198] 노랑가슴먼지벌레 1978.07.16 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBH0453.png",
+    "reference_image_id": "ZOBH0453-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T11:23:33.666220+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "825d2eed4d9b25287c6a8a2a3fdf80b40725e8be8645fb2730d27f67f263159b"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0453&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:59+00:00",
+    "html_sha256": "11216728a5111bba1fb428d777eebf65bd9f830cb363e4970aab2f5effb575cb",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

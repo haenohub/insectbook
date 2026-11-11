@@ -1,0 +1,110 @@
+{
+  "id": "ZOBH0010",
+  "name_ko": "제주왕딱정벌레",
+  "scientific_name": "Isiocarabus fiduciarius saishutoicus (Csiki, 1927)",
+  "display_name": "제주왕딱정벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "딱정벌레아과",
+      "name_latin": "Carabinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Isiocarabus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 딱정벌레아과 (Carabinae)\n속 : (Isiocarabus)",
+  "basic_information": {
+    "곤충명": "제주왕딱정벌레",
+    "학명": "Isiocarabus fiduciarius saishutoicus (Csiki, 1927)"
+  },
+  "information": {
+    "general_description": "수컷은 26~29mm이며 암컷은 29~32mm이다. 일반적으로 검은색이고 측면에 보라색의 광택이 있다. 딱지날개는 긴 계란형이다. 딱지날개의 중간부분이 가장 폭이 넓다.두부의 전두군은 앞쪽으로 깊게 돌출되어 있으나 겹눈의 중앙부까지는 미치지 않는다. 앞가슴등판은 길이보다 폭이 넓다.일반적으로 측연에 한쌍의 긴 털이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[한국고유종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "수컷은 26~29mm이며 암컷은 29~32mm이다. 일반적으로 검은색이고 측면에 보라색의 광택이 있다. 딱지날개는 긴 계란형이다. 딱지날개의 중간부분이 가장 폭이 넓다.두부의 전두군은 앞쪽으로 깊게 돌출되어 있으나 겹눈의 중앙부까지는 미치지 않는다. 앞가슴등판은 길이보다 폭이 넓다.일반적으로 측연에 한쌍의 긴 털이 있다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[한국고유종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0010-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0010_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0010_2_th.jpg",
+      "alt": "제주왕딱정벌레 1번째 사진 : 제주왕딱정벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0010_2_th2.jpg",
+      "caption": "제주왕딱정벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0010-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0010_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0010_1_th.jpg",
+      "alt": "제주왕딱정벌레 2번째 사진 : 제주왕딱정벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0010_1_th2.jpg",
+      "caption": "제주왕딱정벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0010-1",
+  "specimen_examples": [
+    {
+      "id": "JFNE0302261089",
+      "description": "[JFNE0302261089] 제주왕딱정벌레 1994.05.23 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0302261090",
+      "description": "[JFNE0302261090] 제주왕딱정벌레 1994.05.24 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0302261091",
+      "description": "[JFNE0302261091] 제주왕딱정벌레 1994.05.25 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0010-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0010&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:35+00:00",
+    "html_sha256": "2758ec05f74d8b9ce5d7acc9503b59ce7710b844eb179bf06e23a1c887b6935b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

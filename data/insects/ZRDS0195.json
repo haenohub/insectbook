@@ -1,0 +1,126 @@
+{
+  "id": "ZRDS0195",
+  "name_ko": "끝뾰족갈색밤나방",
+  "scientific_name": "Agrochola vulpecula (Lederer, 1853)",
+  "display_name": "끝뾰족갈색밤나방",
+  "family_ko": "밤나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "밤나방과",
+      "name_latin": "Noctuidae"
+    },
+    "subfamily": {
+      "name_ko": "밤나방아과",
+      "name_latin": "Noctuinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Agrochola"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 밤나방과 (Noctuidae)\n아과 : 밤나방아과 (Noctuinae)\n속 : (Agrochola)",
+  "basic_information": {
+    "곤충명": "끝뾰족갈색밤나방",
+    "학명": "Agrochola vulpecula (Lederer, 1853)"
+  },
+  "information": {
+    "general_description": "날개편 길이 17mm. 앞날개는 담황갈색 바탕인데 시정은 뾰족하며, 전연에는 시정 가까이에 암색 무늬가 있다. 뒷날개는 담갈색 바탕으로 되었으며, 외연부는 다소 암색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 9～10월경에 출현된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 17mm. 앞날개는 담황갈색 바탕인데 시정은 뾰족하며, 전연에는 시정 가까이에 암색 무늬가 있다. 뒷날개는 담갈색 바탕으로 되었으며, 외연부는 다소 암색이다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 9～10월경에 출현된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0195-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0195_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0195_2_th.jpg",
+      "alt": "끝뾰족갈색밤나방 1번째 사진 : 끝뾰족갈색밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0195_2_th2.jpg",
+      "caption": "끝뾰족갈색밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDS0195-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0195_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0195_1_th.jpg",
+      "alt": "끝뾰족갈색밤나방 2번째 사진 : 끝뾰족갈색밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0195_1_th2.jpg",
+      "caption": "끝뾰족갈색밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0195-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0201041059",
+      "description": "[KNAE0201041059] 끝뾰족갈색밤나방 1986.11.25 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0201041060",
+      "description": "[KNAE0201041060] 끝뾰족갈색밤나방 1990.10.15 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0201041062",
+      "description": "[KNAE0201041062] 끝뾰족갈색밤나방 1986.10.26 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDS0195.png",
+    "reference_image_id": "ZRDS0195-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T15:22:22.803714+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "e67d00b43c887dfe720ffa40b183a5b86eb819b1ecf340c80ed347d166a91cdc"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0195&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:07+00:00",
+    "html_sha256": "5a07020f43c01c15a9c476dc7a62efbdfce1d862a6453209c4fb1d9f96602ca7",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

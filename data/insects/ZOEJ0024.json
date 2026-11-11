@@ -1,0 +1,99 @@
+{
+  "id": "ZOEJ0024",
+  "name_ko": "밤색풍뎅이",
+  "scientific_name": "Miridiba castanea (Waterhouse, 1875)",
+  "display_name": "밤색풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "검정풍뎅이아과",
+      "name_latin": "Melolonthinae"
+    },
+    "genus": {
+      "name_ko": "밤색풍뎅이속",
+      "name_latin": "Miridiba"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 검정풍뎅이아과 (Melolonthinae)\n속 : 밤색풍뎅이속 (Miridiba)",
+  "basic_information": {
+    "곤충명": "밤색풍뎅이",
+    "학명": "Miridiba castanea (Waterhouse, 1875)"
+  },
+  "information": {
+    "general_description": "중국, 아무르, 일본에 분포하며, 촉각은 9마디이며 둥정에 가로 융기부를 가진 것이 이 속의 특징이다. 몸은 크고 장타원형이며, 밤색으로 광택이 나며, 등쪽에는 점각이 발달하였다. 수컷의 미절판 기부에 가로 융기선이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중국, 아무르, 일본에 분포하며, 촉각은 9마디이며 둥정에 가로 융기부를 가진 것이 이 속의 특징이다. 몸은 크고 장타원형이며, 밤색으로 광택이 나며, 등쪽에는 점각이 발달하였다. 수컷의 미절판 기부에 가로 융기선이 있다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOEJ0024-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0024_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0024_1_th.jpg",
+      "alt": "밤색풍뎅이 1번째 사진 : 밤색풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0024_1_th2.jpg",
+      "caption": "밤색풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOEJ0024-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303082029",
+      "description": "[KNAE0303082029] 밤색풍뎅이 1989.05.03 / / 국립수목원"
+    },
+    {
+      "id": "DJUE0609041018",
+      "description": "[DJUE0609041018] 밤색풍뎅이 2006.05.25 / / 대전대학교"
+    },
+    {
+      "id": "KNAE0710150054",
+      "description": "[KNAE0710150054] 밤색풍뎅이 2007.07.12 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOEJ0024-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOEJ0024&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:16+00:00",
+    "html_sha256": "4517826a1803e85ce2f4f168f488a410621166025c4cde4d9a49b49c12001338",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

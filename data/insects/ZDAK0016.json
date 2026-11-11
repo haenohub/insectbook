@@ -1,0 +1,91 @@
+{
+  "id": "ZDAK0016",
+  "name_ko": "측범잠자리",
+  "scientific_name": "Ophiogomphus obscurus Bartenef, 1909",
+  "display_name": "측범잠자리",
+  "family_ko": "측범잠자리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "잠자리목",
+      "name_latin": "Odonata"
+    },
+    "family": {
+      "name_ko": "측범잠자리과",
+      "name_latin": "Gomphidae"
+    },
+    "subfamily": {
+      "name_ko": "노란측범잠자리아과",
+      "name_latin": "Onychogomphinae"
+    },
+    "genus": {
+      "name_ko": "측범잠자리속",
+      "name_latin": "Ophiogomphus"
+    }
+  },
+  "taxonomy_text": "목 : 잠자리목 (Odonata)\n과 : 측범잠자리과 (Gomphidae)\n아과 : 노란측범잠자리아과 (Onychogomphinae)\n속 : 측범잠자리속 (Ophiogomphus)",
+  "basic_information": {
+    "곤충명": "측범잠자리",
+    "학명": "Ophiogomphus obscurus Bartenef, 1909"
+  },
+  "information": {
+    "general_description": "배길이 40mm, 뒷날개길이 35mm. 머리, 뒷머리, 이마, 이마조각, 윗입술조각은 녹색이며 얼굴은 선록색. 이마흑은 흑색이고 윗입술은 녹색이며 아랫가두리는 흑색이고 큰턱밑은 녹색. 가슴은 선록색이고 가운데가슴은 앞면중앙에 흑색줄무늬 1개. 가슴옆에는 길고 짧은 흑색줄무늬 2개. 배는 흑색이며 1~7마디 등쪽중앙에 앞가두리가 넓어진 긴 녹색무늬 존재. 7~9마디는 폭이 넓고 옆가두리는 민무늬. 10마디는 황색. 미부 상부기는 황색이고 굴곡되지 않았으며, 미부 하부기는 2갈래로 갈라짐.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "배길이 40mm, 뒷날개길이 35mm. 머리, 뒷머리, 이마, 이마조각, 윗입술조각은 녹색이며 얼굴은 선록색. 이마흑은 흑색이고 윗입술은 녹색이며 아랫가두리는 흑색이고 큰턱밑은 녹색. 가슴은 선록색이고 가운데가슴은 앞면중앙에 흑색줄무늬 1개. 가슴옆에는 길고 짧은 흑색줄무늬 2개. 배는 흑색이며 1~7마디 등쪽중앙에 앞가두리가 넓어진 긴 녹색무늬 존재. 7~9마디는 폭이 넓고 옆가두리는 민무늬. 10마디는 황색. 미부 상부기는 황색이고 굴곡되지 않았으며, 미부 하부기는 2갈래로 갈라짐."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZDAK0016-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAK0016_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAK0016_1_th.jpg",
+      "alt": "측범잠자리 1번째 사진 : 측범잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAK0016_1_th2.jpg",
+      "caption": "측범잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZDAK0016-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0201043053",
+      "description": "[YNUE0201043053] 측범잠자리 1989.06.04 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZDAK0016-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZDAK0016&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:24+00:00",
+    "html_sha256": "e2d86d793b3d1ec50de77ca162eb7079445b28e42a606a00d08de17d807d1f94",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": "ZLBG0028",
+  "name_ko": "애긴노린재",
+  "scientific_name": "Nysius plebejus Distant, 1883",
+  "display_name": "애긴노린재",
+  "family_ko": "긴노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "긴노린재상과",
+      "name_latin": "Lygaeioidea"
+    },
+    "family": {
+      "name_ko": "긴노린재과",
+      "name_latin": "Lygaeidae"
+    },
+    "subfamily": {
+      "name_ko": "애긴노린재아과",
+      "name_latin": "Orsilinae"
+    },
+    "genus": {
+      "name_ko": "애긴노린재속",
+      "name_latin": "Nysius"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 긴노린재상과 (Lygaeioidea)\n과 : 긴노린재과 (Lygaeidae)\n아과 : 애긴노린재아과 (Orsilinae)\n속 : 애긴노린재속 (Nysius)",
+  "basic_information": {
+    "곤충명": "애긴노린재",
+    "학명": "Nysius plebejus Distant, 1883"
+  },
+  "information": {
+    "general_description": "몸길이 : 3.5-5.5mm\n몸은 황갈색 또는 회황색 바탕에 불규칙한 흑갈색 무늬를 가진다. 등면에는 미세한 흑갈색 점각이 산재한다. 머리는 앞끝이 뿔처럼 뭉툭하게 돌출하였고, 후반부에는 흑갈색 점각 무늬가 나타난다. 더듬이는 제 2마디가 가장 길고, 제 4마디가 제일 굵다. 앞가슴등판은 양 옆모서리가 완만하게 돌출하였고, 중앙의 종주선 양 옆에 흑갈색 무늬가 나타나기도 하나, 변이가 심하다. 배마디가 희미하게 비쳐 보인다. 다리는 황갈색을 띠고, 허벅마디에는 흑갈색 반점이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "산야의 초원지대나 경작지 주변에 널리 분포한다.",
+    "habits": "화본과 및 국화과 식물의 꽃이나 종자에 집단 군서한다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 3.5-5.5mm\n몸은 황갈색 또는 회황색 바탕에 불규칙한 흑갈색 무늬를 가진다. 등면에는 미세한 흑갈색 점각이 산재한다. 머리는 앞끝이 뿔처럼 뭉툭하게 돌출하였고, 후반부에는 흑갈색 점각 무늬가 나타난다. 더듬이는 제 2마디가 가장 길고, 제 4마디가 제일 굵다. 앞가슴등판은 양 옆모서리가 완만하게 돌출하였고, 중앙의 종주선 양 옆에 흑갈색 무늬가 나타나기도 하나, 변이가 심하다. 배마디가 희미하게 비쳐 보인다. 다리는 황갈색을 띠고, 허벅마디에는 흑갈색 반점이 있다."
+    },
+    {
+      "title": "생태",
+      "text": "산야의 초원지대나 경작지 주변에 널리 분포한다."
+    },
+    {
+      "title": "습성",
+      "text": "화본과 및 국화과 식물의 꽃이나 종자에 집단 군서한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLBG0028-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBG0028_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBG0028_1_th.jpg",
+      "alt": "애긴노린재 1번째 사진 : 애긴노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBG0028_1_th2.jpg",
+      "caption": "애긴노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLBG0028-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0212236179",
+      "description": "[YNUE0212236179] 애긴노린재 2000.08.22 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0212236180",
+      "description": "[YNUE0212236180] 애긴노린재 2000.08.22 / / 영남대학교"
+    },
+    {
+      "id": "HNUE0408175002",
+      "description": "[HNUE0408175002] 애긴노린재 2002.05.23 / / 한남대학교 자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLBG0028-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLBG0028&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:02+00:00",
+    "html_sha256": "2a8db89e1905126e06c995bb36b479b8c141c3c43296b4ad5920e37ea91af549",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "id": "ZOBT0159",
+  "name_ko": "십이점박이잎벌레",
+  "scientific_name": "Paropsides soriculata (Swartz, 1808)",
+  "display_name": "십이점박이잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "잎벌레아과",
+      "name_latin": "Chrysomelinae"
+    },
+    "genus": {
+      "name_ko": "점박이잎벌레속",
+      "name_latin": "Paropsides"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 잎벌레아과 (Chrysomelinae)\n속 : 점박이잎벌레속 (Paropsides)",
+  "basic_information": {
+    "곤충명": "십이점박이잎벌레",
+    "학명": "Paropsides soriculata (Swartz, 1808)"
+  },
+  "information": {
+    "general_description": "몸길이는 8.0~10mm, 몸색깔은 흑색이며 머리와 앞가슴사이 그리고 딱지날개에 12개의 홍색 점무늬를 가지고 있다. 한국, 동시베리아, 중국, 일본(혼슈), 베트남, 버마, 인도에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 5~7월에 월동하여 7월에 암적색의 알을 뭉쳐서 산란. 점액을 이용 알을 잎에 부착한다. 유충은 땅속으로 들어가 용화한다.",
+    "habits": "기주식물 돌배나무.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[베트남]\n[버마]\n[인도네시아]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 8.0~10mm, 몸색깔은 흑색이며 머리와 앞가슴사이 그리고 딱지날개에 12개의 홍색 점무늬를 가지고 있다. 한국, 동시베리아, 중국, 일본(혼슈), 베트남, 버마, 인도에 분포되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 5~7월에 월동하여 7월에 암적색의 알을 뭉쳐서 산란. 점액을 이용 알을 잎에 부착한다. 유충은 땅속으로 들어가 용화한다."
+    },
+    {
+      "title": "습성",
+      "text": "기주식물 돌배나무."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[베트남]\n[버마]\n[인도네시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0159-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0159_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0159_2_th.jpg",
+      "alt": "십이점박이잎벌레 1번째 사진 : 십이점박이잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0159_2_th2.jpg",
+      "caption": "십이점박이잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBT0159-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0159_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0159_1_th.jpg",
+      "alt": "십이점박이잎벌레 2번째 사진 : 십이점박이잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0159_1_th2.jpg",
+      "caption": "십이점박이잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0159-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0307151162",
+      "description": "[KUIE0307151162] 십이점박이잎벌레 1962.09.09 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307151164",
+      "description": "[KUIE0307151164] 십이점박이잎벌레 1984.04.26 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307151165",
+      "description": "[KUIE0307151165] 십이점박이잎벌레 1970.05.09 / / 고려대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "돌배나무",
+      "scientific_name": "Pyrus pyrifolia (Burm.f.) Nakai"
+    },
+    {
+      "group": "식물",
+      "name_ko": "산사나무",
+      "scientific_name": "Crataegus pinnatifida Bunge"
+    },
+    {
+      "group": "식물",
+      "name_ko": "포도",
+      "scientific_name": "Vitis vinifera L."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0159-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0159&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:51+00:00",
+    "html_sha256": "48b88dd48db38bd12bdedb4bc0d9b3fe0e409fcfff6dd7d02f1592f1289d6b43",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

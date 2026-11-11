@@ -1,0 +1,114 @@
+{
+  "id": "ZREL0202",
+  "name_ko": "네점집명나방",
+  "scientific_name": "Lepidogma melanobasis Hampson, 1906",
+  "display_name": "네점집명나방",
+  "family_ko": "명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "명나방과",
+      "name_latin": "Pyralidae"
+    },
+    "subfamily": {
+      "name_ko": "집명나방아과",
+      "name_latin": "Epipaschiinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Lepidogma"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 명나방과 (Pyralidae)\n아과 : 집명나방아과 (Epipaschiinae)\n속 : (Lepidogma)",
+  "basic_information": {
+    "곤충명": "네점집명나방",
+    "학명": "Lepidogma melanobasis Hampson, 1906"
+  },
+  "information": {
+    "general_description": "일본, 타이완, 인디아, 자바에 분포하며 머리는 갈색 및 흑갈색 인편으로 혼합. 더듬이는 흑갈색이며 미모상이고,\n수컷의 병절에는 뒤쪽으로 갈게 뻗은 돌기가 있으며, 흑색 빛 갈색 인편\n으로 덮여있다. 아랫입술수염은 가늘고 쇠뿔 모양이고, 위로 향하지만, 제\n3마디는 뾰쪽하다. 가슴의 등쪽면은 담갈색에 흑색이 섰여 있으며, 배의 등쪽면은 황갈색에 흑갈색 비늘이 약간 섞여 있다. 가슴의 복면은 연한 백갈색이고, 흑갈색 인편이 섞여 있다. 다리는 다소 흑갈색.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "일본, 타이완, 인디아, 자바에 분포하며 머리는 갈색 및 흑갈색 인편으로 혼합. 더듬이는 흑갈색이며 미모상이고,\n수컷의 병절에는 뒤쪽으로 갈게 뻗은 돌기가 있으며, 흑색 빛 갈색 인편\n으로 덮여있다. 아랫입술수염은 가늘고 쇠뿔 모양이고, 위로 향하지만, 제\n3마디는 뾰쪽하다. 가슴의 등쪽면은 담갈색에 흑색이 섰여 있으며, 배의 등쪽면은 황갈색에 흑갈색 비늘이 약간 섞여 있다. 가슴의 복면은 연한 백갈색이고, 흑갈색 인편이 섞여 있다. 다리는 다소 흑갈색."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0202-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0202_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0202_2_th.jpg",
+      "alt": "네점집명나방 1번째 사진 : 네점집명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0202_2_th2.jpg",
+      "caption": "네점집명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREL0202-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0202_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0202_1_th.jpg",
+      "alt": "네점집명나방 2번째 사진 : 네점집명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0202_1_th2.jpg",
+      "caption": "네점집명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0202-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0409091025",
+      "description": "[KNAE0409091025] 네점집명나방 1998.07.27 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0409091027",
+      "description": "[KNAE0409091027] 네점집명나방 1998.07.13 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0409091028",
+      "description": "[KNAE0409091028] 네점집명나방 1998.07.27 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZREL0202.png",
+    "reference_image_id": "ZREL0202-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T10:57:53.415059+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "1fb9a5970af4f7010eacfc268a16f5fe0d939c0808cbef1865c3f253e1dc8665"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0202&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:50+00:00",
+    "html_sha256": "2aefc756dd0351bb96fdbebef49d4a42b7bd3cc0db338483284aeb01985ae58e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

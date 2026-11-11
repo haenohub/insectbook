@@ -1,0 +1,103 @@
+{
+  "id": "ZODI0002",
+  "name_ko": "넉점나무쑤시기",
+  "scientific_name": "Helota gemmata Gorham, 1874",
+  "display_name": "넉점나무쑤시기",
+  "family_ko": "나무쑤시기과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "머리대장상과",
+      "name_latin": "Cucujoidea"
+    },
+    "family": {
+      "name_ko": "나무쑤시기과",
+      "name_latin": "Helotidae"
+    },
+    "genus": {
+      "name_ko": "나무쑤시기속",
+      "name_latin": "Helota"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 머리대장상과 (Cucujoidea)\n과 : 나무쑤시기과 (Helotidae)\n속 : 나무쑤시기속 (Helota)",
+  "basic_information": {
+    "곤충명": "넉점나무쑤시기",
+    "학명": "Helota gemmata Gorham, 1874"
+  },
+  "information": {
+    "general_description": "몸길이는 11~15mm 이며 몸전체는 검은색광택이나며 회색의 털이있고 딱지날개의 중앙부와 후반부에 한쌍의 계란형의 노란 반점이있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 11~15mm 이며 몸전체는 검은색광택이나며 회색의 털이있고 딱지날개의 중앙부와 후반부에 한쌍의 계란형의 노란 반점이있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZODI0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODI0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODI0002_1_th.jpg",
+      "alt": "넉점나무쑤시기 1번째 사진 : 넉점나무쑤시기전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODI0002_1_th2.jpg",
+      "caption": "넉점나무쑤시기전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZODI0002-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0112226010",
+      "description": "[YNUE0112226010] 넉점나무쑤시기 1992.06.07 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0112226011",
+      "description": "[YNUE0112226011] 넉점나무쑤시기 1994.04.24 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0201052024",
+      "description": "[YNUE0201052024] 넉점나무쑤시기 1995.06.16 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZODI0002.png",
+    "reference_image_id": "ZODI0002-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T09:54:34.579949+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "e30518dae0bde15ed5e7e5af1d728443fcdbd4a15c784e4b33b05cdcff2f8e50"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZODI0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:32+00:00",
+    "html_sha256": "5404f1ad2a747bb1a3163d5ebf1f7daff111de8e45ab02a37b1e6db7c4394665",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

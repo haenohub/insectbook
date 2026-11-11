@@ -1,0 +1,103 @@
+{
+  "id": "ZOEJ0005",
+  "name_ko": "감자풍뎅이",
+  "scientific_name": "Apogonia cupreoviridis Kolbe, 1886",
+  "display_name": "감자풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "검정풍뎅이아과",
+      "name_latin": "Melolonthinae"
+    },
+    "genus": {
+      "name_ko": "잔감자풍뎅이속",
+      "name_latin": "Apogonia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 검정풍뎅이아과 (Melolonthinae)\n속 : 잔감자풍뎅이속 (Apogonia)",
+  "basic_information": {
+    "곤충명": "감자풍뎅이",
+    "학명": "Apogonia cupreoviridis Kolbe, 1886"
+  },
+  "information": {
+    "general_description": "만주와 일본에 분포하며, 타원형으로서 광택이 강한 흑생인데 보는 각도에 따라 녹색 또는 구릿빛이 나며, 가끔 구릿빛이나 적갈색인 개체도 있다. 머리에는 점각이 조밀하고, 전흉배판에도 크고 거친 점각이 많으며, 딱지날개에는 3개의 세로 융기선이 있고, 조밀한 점각이 있다. 복부의 각 복절에는 회백색 가시털이 열생하였고, 다리에도 회백색 가시털이 났으나 부적에는 황색털이 많다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "만주와 일본에 분포하며, 타원형으로서 광택이 강한 흑생인데 보는 각도에 따라 녹색 또는 구릿빛이 나며, 가끔 구릿빛이나 적갈색인 개체도 있다. 머리에는 점각이 조밀하고, 전흉배판에도 크고 거친 점각이 많으며, 딱지날개에는 3개의 세로 융기선이 있고, 조밀한 점각이 있다. 복부의 각 복절에는 회백색 가시털이 열생하였고, 다리에도 회백색 가시털이 났으나 부적에는 황색털이 많다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOEJ0005-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0005_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0005_1_th.jpg",
+      "alt": "감자풍뎅이 1번째 사진 : 감자풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0005_1_th2.jpg",
+      "caption": "감자풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOEJ0005-1",
+  "specimen_examples": [
+    {
+      "id": "JFNE0408161311",
+      "description": "[JFNE0408161311] 감자풍뎅이 1998.08.03 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0408161312",
+      "description": "[JFNE0408161312] 감자풍뎅이 1998.08.04 / / 제주자연사박물관"
+    },
+    {
+      "id": "FRIE0306171004",
+      "description": "[FRIE0306171004] 감자풍뎅이 1998.07.13 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOEJ0005.png",
+    "reference_image_id": "ZOEJ0005-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T16:57:05.753151+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "ae0592789818afec49025f8e774cc66680d61c576b2d5b3295c8d43f05d5b3fb"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOEJ0005&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:39+00:00",
+    "html_sha256": "4e26e5dd37c0e77ea54c177b0b14c2465ca339224ea07ea44dc197ef04a7ceb8",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

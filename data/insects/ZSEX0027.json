@@ -1,0 +1,103 @@
+{
+  "id": "ZSEX0027",
+  "name_ko": "어리아이노각다귀",
+  "scientific_name": "Tipula (Yamatotipula) patagiata Alexander, 1924",
+  "display_name": "어리아이노각다귀",
+  "family_ko": "각다귀과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "각다귀상과",
+      "name_latin": "Tipuloidea"
+    },
+    "family": {
+      "name_ko": "각다귀과",
+      "name_latin": "Tipulidae"
+    },
+    "subfamily": {
+      "name_ko": "각다귀아과",
+      "name_latin": "Tipulinae"
+    },
+    "genus": {
+      "name_ko": "각다귀속",
+      "name_latin": "Tipula"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 각다귀상과 (Tipuloidea)\n과 : 각다귀과 (Tipulidae)\n아과 : 각다귀아과 (Tipulinae)\n속 : 각다귀속 (Tipula)",
+  "basic_information": {
+    "곤충명": "어리아이노각다귀",
+    "학명": "Tipula (Yamatotipula) patagiata Alexander, 1924"
+  },
+  "information": {
+    "general_description": "몸길이 16~17mm, 날개길이 22~24mm. 아이노각다귀와 비슷하나 더 크고 흑색이 진함. 더듬이, 주둥이, 작은턱수염은 황색이고 머리와 가슴은 회갈색으로 서리가 내린 것같이 보임. 가운데가슴등판의 3개의 흑갈색 세로줄은 뚜렷하며 중앙의 1줄은 다시 흑색 줄로 나뉘어짐. 배는 황색이나 등판옆구리에 넓은 흑갈색 줄이 있으며 6~7배마디등판은 옆가장자리를 제외하고는 흑갈색이며 8배마디등판은 작고 황색임. 수컷 생식기는 흑색임.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 16~17mm, 날개길이 22~24mm. 아이노각다귀와 비슷하나 더 크고 흑색이 진함. 더듬이, 주둥이, 작은턱수염은 황색이고 머리와 가슴은 회갈색으로 서리가 내린 것같이 보임. 가운데가슴등판의 3개의 흑갈색 세로줄은 뚜렷하며 중앙의 1줄은 다시 흑색 줄로 나뉘어짐. 배는 황색이나 등판옆구리에 넓은 흑갈색 줄이 있으며 6~7배마디등판은 옆가장자리를 제외하고는 흑갈색이며 8배마디등판은 작고 황색임. 수컷 생식기는 흑색임."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSEX0027-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEX0027_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEX0027_1_th.jpg",
+      "alt": "어리아이노각다귀 1번째 사진 : 어리아이노각다귀전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEX0027_1_th2.jpg",
+      "caption": "어리아이노각다귀전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSEX0027-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0112313008",
+      "description": "[YNUE0112313008] 어리아이노각다귀 1997.05.22 / / 영남대학교"
+    },
+    {
+      "id": "MPME0408161004",
+      "description": "[MPME0408161004] 어리아이노각다귀 2003.07.16 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408161003",
+      "description": "[MPME0408161003] 어리아이노각다귀 2003.06.09 / / 목포자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZSEX0027-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSEX0027&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:41+00:00",
+    "html_sha256": "d2f70638777e92fffa02a9dffa3f9b58bc3d9dfd4886a227c2745f0310162a4d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

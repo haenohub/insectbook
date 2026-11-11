@@ -1,0 +1,103 @@
+{
+  "id": "ZTAN0067",
+  "name_ko": "보리나방살이고치벌",
+  "scientific_name": "Bracon (Habrobracon) hebetor (Say, 1836)",
+  "display_name": "보리나방살이고치벌",
+  "family_ko": "고치벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "고치벌과",
+      "name_latin": "Braconidae"
+    },
+    "subfamily": {
+      "name_ko": "고치벌아과",
+      "name_latin": "Braconinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Bracon"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 고치벌과 (Braconidae)\n아과 : 고치벌아과 (Braconinae)\n속 : (Bracon)",
+  "basic_information": {
+    "곤충명": "보리나방살이고치벌",
+    "학명": "Bracon (Habrobracon) hebetor (Say, 1836)"
+  },
+  "information": {
+    "general_description": "몸의 색은 황갈색, 어두운 황갈색 또는 전체적으로 검은 색을 띠는 등 다양한 체색을 띤다. 몸길이는 2.2-3mm이고, 암컷의 더듬이는 14-18마디이고 , 수컷은 21-23마디이다. 더듬이는 짧고, 두꺼우며, 가슴의 길이 보다 짧거나 약간 길다. 채찍마디는 정방형이다. 날개는 어두운 색을 띠고 , 맥은 갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "숙주곤충의 체포에 산란하고, 부화한후 7-12일 지낸 다음 고치를 짓고 성충으로 우화한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의 색은 황갈색, 어두운 황갈색 또는 전체적으로 검은 색을 띠는 등 다양한 체색을 띤다. 몸길이는 2.2-3mm이고, 암컷의 더듬이는 14-18마디이고 , 수컷은 21-23마디이다. 더듬이는 짧고, 두꺼우며, 가슴의 길이 보다 짧거나 약간 길다. 채찍마디는 정방형이다. 날개는 어두운 색을 띠고 , 맥은 갈색이다."
+    },
+    {
+      "title": "생태",
+      "text": "숙주곤충의 체포에 산란하고, 부화한후 7-12일 지낸 다음 고치를 짓고 성충으로 우화한다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAN0067-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAN0067_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAN0067_1_th.jpg",
+      "alt": "보리나방살이고치벌 1번째 사진 : 보리나방살이고치벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAN0067_1_th2.jpg",
+      "caption": "보리나방살이고치벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAN0067-1",
+  "specimen_examples": [
+    {
+      "id": "GSNE0408302004",
+      "description": "[GSNE0408302004] 보리나방살이고치벌 1999.07.21 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0408302003",
+      "description": "[GSNE0408302003] 보리나방살이고치벌 1999.07.24 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0408302005",
+      "description": "[GSNE0408302005] 보리나방살이고치벌 2001.07.30 / / 경상대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAN0067-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAN0067&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:09+00:00",
+    "html_sha256": "9e38d54c69092545afd70c4ac14efff771bfd320bd4d6bb09ee3585051b340dc",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "ZTBO0033",
+  "name_ko": "짱구개미",
+  "scientific_name": "Messor aciculatus (Smith F., 1874)",
+  "display_name": "짱구개미",
+  "family_ko": "개미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "말벌상과",
+      "name_latin": "Vespoidea"
+    },
+    "family": {
+      "name_ko": "개미과",
+      "name_latin": "Formicidae"
+    },
+    "subfamily": {
+      "name_ko": "두배자루마디개미아과",
+      "name_latin": "Myrmicinae"
+    },
+    "genus": {
+      "name_ko": "짱구개미속",
+      "name_latin": "Messor"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 말벌상과 (Vespoidea)\n과 : 개미과 (Formicidae)\n아과 : 두배자루마디개미아과 (Myrmicinae)\n속 : 짱구개미속 (Messor)",
+  "basic_information": {
+    "곤충명": "짱구개미",
+    "학명": "Messor aciculatus (Smith F., 1874)"
+  },
+  "information": {
+    "general_description": "몸길이는 4.5-6.0mm 이며, 머리는 거의 정방형이고 폭은 길이와 거의 같다. 앞쪽은 튀어 나왔고 앞이 뒤쪽보다 폭이 다소 넓다. 머리, 큰턱, 가슴, 배자루에는 주름 점각이 있고 배는 넓고 광택이 있다. 담황색 털이 났고 앞머리와 배의 것이 많이 났다. 온몸이 흑색 또는 흑갈색이고 큰턱은 암적갈색이다. 암컷은 전체가 황색내지 금빛의 센털이 많이 났다. 수컷은 온몸이 담황색 긴 털로 덮였다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 4.5-6.0mm 이며, 머리는 거의 정방형이고 폭은 길이와 거의 같다. 앞쪽은 튀어 나왔고 앞이 뒤쪽보다 폭이 다소 넓다. 머리, 큰턱, 가슴, 배자루에는 주름 점각이 있고 배는 넓고 광택이 있다. 담황색 털이 났고 앞머리와 배의 것이 많이 났다. 온몸이 흑색 또는 흑갈색이고 큰턱은 암적갈색이다. 암컷은 전체가 황색내지 금빛의 센털이 많이 났다. 수컷은 온몸이 담황색 긴 털로 덮였다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBO0033-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0033_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0033_1_th.jpg",
+      "alt": "짱구개미 1번째 사진 : 짱구개미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0033_1_th2.jpg",
+      "caption": "짱구개미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBO0033-1",
+  "specimen_examples": [
+    {
+      "id": "CBNE0204221041",
+      "description": "[CBNE0204221041] 짱구개미 1991.04.26 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0204221042",
+      "description": "[CBNE0204221042] 짱구개미 1996.08.11 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0204221043",
+      "description": "[CBNE0204221043] 짱구개미 1991.08.13 / / 충북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTBO0033-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBO0033&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:43+00:00",
+    "html_sha256": "64d4d6cd95b41ebe0dbac3a8d3745936ad0b7b313e56feb0ba695cccadab0020",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": "ZOAM0025",
+  "name_ko": "딱부리소바구미",
+  "scientific_name": "Sympaector rugirostris (Sharp, 1891)",
+  "display_name": "딱부리소바구미",
+  "family_ko": "소바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "소바구미과",
+      "name_latin": "Anthribidae"
+    },
+    "subfamily": {
+      "name_ko": "소바구미아과",
+      "name_latin": "Anthribinae"
+    },
+    "genus": {
+      "name_ko": "딱부리소바구미속",
+      "name_latin": "Sympaector"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 소바구미과 (Anthribidae)\n아과 : 소바구미아과 (Anthribinae)\n속 : 딱부리소바구미속 (Sympaector)",
+  "basic_information": {
+    "곤충명": "딱부리소바구미",
+    "학명": "Sympaector rugirostris (Sharp, 1891)"
+  },
+  "information": {
+    "general_description": "몸길이는 6.1mm이며 몸은 밝은 갈색의 털로 된 무늬를 가진 흑색이다. 주둥이는 폭보다 길이가 훨씬길며, 촉각도 채찍형으로 길고, 비교적 가는 편이며 곤봉부도 날씬하고 긴 편이다. 시초 중앙에 모자형태의 밝은 갈색의 무늬를 가지며, 주변에도 갈색의 털무늬를 가진다. 다리의 경절에는 하나의 갈색의 띠무늬를 가지고 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 6.1mm이며 몸은 밝은 갈색의 털로 된 무늬를 가진 흑색이다. 주둥이는 폭보다 길이가 훨씬길며, 촉각도 채찍형으로 길고, 비교적 가는 편이며 곤봉부도 날씬하고 긴 편이다. 시초 중앙에 모자형태의 밝은 갈색의 무늬를 가지며, 주변에도 갈색의 털무늬를 가진다. 다리의 경절에는 하나의 갈색의 띠무늬를 가지고 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAM0025-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0025_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0025_2_th.jpg",
+      "alt": "딱부리소바구미 1번째 사진 : 딱부리소바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0025_2_th2.jpg",
+      "caption": "딱부리소바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOAM0025-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0025_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0025_1_th.jpg",
+      "alt": "딱부리소바구미 2번째 사진 : 딱부리소바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0025_1_th2.jpg",
+      "caption": "딱부리소바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAM0025-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0203274047",
+      "description": "[SNUE0203274047] 딱부리소바구미 1999.06.16 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0203274048",
+      "description": "[SNUE0203274048] 딱부리소바구미 1993.05.01 / / 서울대학교"
+    },
+    {
+      "id": "KNAE1006301005",
+      "description": "[KNAE1006301005] 딱부리소바구미 2009.07.31 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAM0025-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAM0025&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:21+00:00",
+    "html_sha256": "f1fb80c9da1a6270eef2eeea77dd65b163bcbfe3b266a593a59335858044f525",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

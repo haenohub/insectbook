@@ -1,0 +1,122 @@
+{
+  "id": "ZOBH0295",
+  "name_ko": "검은머리먼지벌레",
+  "scientific_name": "Harpalus (Harpalus) corporosus (Motschulsky, 1861)",
+  "display_name": "검은머리먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "먼지벌레아과",
+      "name_latin": "Harpalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Harpalus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 먼지벌레아과 (Harpalinae)\n속 : (Harpalus)",
+  "basic_information": {
+    "곤충명": "검은머리먼지벌레",
+    "학명": "Harpalus (Harpalus) corporosus (Motschulsky, 1861)"
+  },
+  "information": {
+    "general_description": "전체적인 체색은 검은색이고, 대악은 검은색, 상순은 흑색 또는 갈색빛을 띤 검은색이다. 다리는 검은색이다. 두부는 조금 돌출되어 있고, 등쪽면은 거의 평평하다. 눈은 볼록하며, 전흉의 형상도 볼록하다.\n날개는 타원형이며 맨들맨들한 표면을 가지고 있다.\n가운데가슴, 뒷가슴옆판에는 약간 희미하게 반점이 나 있고, 뒷가슴측판은 긴편이다.\n이들은 한국, 일본, 북중국, 동시베리아, 티베트에서 서식한다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": "암컷의 시초는 광택이 나지 않는다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": "[보통종] 삽입구의 등면은 경화된 부분이 있다.",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "전체적인 체색은 검은색이고, 대악은 검은색, 상순은 흑색 또는 갈색빛을 띤 검은색이다. 다리는 검은색이다. 두부는 조금 돌출되어 있고, 등쪽면은 거의 평평하다. 눈은 볼록하며, 전흉의 형상도 볼록하다.\n날개는 타원형이며 맨들맨들한 표면을 가지고 있다.\n가운데가슴, 뒷가슴옆판에는 약간 희미하게 반점이 나 있고, 뒷가슴측판은 긴편이다.\n이들은 한국, 일본, 북중국, 동시베리아, 티베트에서 서식한다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "암컷의 시초는 광택이 나지 않는다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종] 삽입구의 등면은 경화된 부분이 있다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0295-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0295_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0295_2_th.jpg",
+      "alt": "검은머리먼지벌레 1번째 사진 : 검은머리먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0295_2_th2.jpg",
+      "caption": "검은머리먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0295-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0295_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0295_1_th.jpg",
+      "alt": "검은머리먼지벌레 2번째 사진 : 검은머리먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0295_1_th2.jpg",
+      "caption": "검은머리먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0295-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303261061",
+      "description": "[KNAE0303261061] 검은머리먼지벌레 1995.08.12 / / 국립수목원"
+    },
+    {
+      "id": "KPNE0302131119",
+      "description": "[KPNE0302131119] 검은머리먼지벌레 1974.08.26 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0302131121",
+      "description": "[KPNE0302131121] 검은머리먼지벌레 1969.08.09 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBH0295.png",
+    "reference_image_id": "ZOBH0295-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T17:58:33.988933+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "909e09a84ee47cac391d8af6574732ee859f6cdced39cc6a536579fb28ee1792"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0295&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:56+00:00",
+    "html_sha256": "e394f3dc166b8755b3b7b007d5f27515d88fa6732f792c34e996974c2986fc5e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

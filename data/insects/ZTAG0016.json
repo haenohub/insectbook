@@ -1,0 +1,103 @@
+{
+  "id": "ZTAG0016",
+  "name_ko": "고려애꽃벌",
+  "scientific_name": "Andrena (Melandrena) koreana Hirashima, 1952",
+  "display_name": "고려애꽃벌",
+  "family_ko": "애꽃벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "애꽃벌과",
+      "name_latin": "Andrenidae"
+    },
+    "subfamily": {
+      "name_ko": "애꽃벌아과",
+      "name_latin": "Andreninae"
+    },
+    "genus": {
+      "name_ko": "애꽃벌속",
+      "name_latin": "Andrena"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 애꽃벌과 (Andrenidae)\n아과 : 애꽃벌아과 (Andreninae)\n속 : 애꽃벌속 (Andrena)",
+  "basic_information": {
+    "곤충명": "고려애꽃벌",
+    "학명": "Andrena (Melandrena) koreana Hirashima, 1952"
+  },
+  "information": {
+    "general_description": "몸길이는 14mm정도. 윗입술돌기는 크고 납작하며 끝에는 언저리가 없다. 가슴등판에는 긴 황갈색 털이 났고 종아리마디의 화분 채취용 털은 암갈색이나 앞의 것은 유백색이다. 배는 타원형이고 제2 배마디등판은 중단된 백색 털 띠가 있다. 제3.4배마디에는 거의 완전한 백색 털 띠가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 14mm정도. 윗입술돌기는 크고 납작하며 끝에는 언저리가 없다. 가슴등판에는 긴 황갈색 털이 났고 종아리마디의 화분 채취용 털은 암갈색이나 앞의 것은 유백색이다. 배는 타원형이고 제2 배마디등판은 중단된 백색 털 띠가 있다. 제3.4배마디에는 거의 완전한 백색 털 띠가 있다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0016-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0016_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0016_1_th.jpg",
+      "alt": "고려애꽃벌 1번째 사진 : 고려애꽃벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0016_1_th2.jpg",
+      "caption": "고려애꽃벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0016-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0408102037",
+      "description": "[KUIE0408102037] 고려애꽃벌 1998.09.06 / / 고려대학교"
+    },
+    {
+      "id": "KNAE153573",
+      "description": "[KNAE153573] 고려애꽃벌 / / 국립수목원"
+    },
+    {
+      "id": "KNAE153574",
+      "description": "[KNAE153574] 고려애꽃벌 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTAG0016.png",
+    "reference_image_id": "ZTAG0016-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T12:31:16.190554+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "42c76a16961707ae0e2c238da8d2098d2ca4b28f673cd621c4a7975557e16714"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0016&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:47+00:00",
+    "html_sha256": "aa86db3e67417975f146854bb62798a645b847629571e61825c21fe7f7101ed9",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

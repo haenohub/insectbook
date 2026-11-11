@@ -1,0 +1,103 @@
+{
+  "id": "ZSAO0010",
+  "name_ko": "탕재니등에",
+  "scientific_name": "Anthrax jezoensis Matsumura, 1916",
+  "display_name": "탕재니등에",
+  "family_ko": "재니등에과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "파리매상과",
+      "name_latin": "Asiloidea"
+    },
+    "family": {
+      "name_ko": "재니등에과",
+      "name_latin": "Bombyliidae"
+    },
+    "subfamily": {
+      "name_ko": "우단재니등에아과",
+      "name_latin": "Anthracinae"
+    },
+    "genus": {
+      "name_ko": "우단재니등에속",
+      "name_latin": "Anthrax"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 파리매상과 (Asiloidea)\n과 : 재니등에과 (Bombyliidae)\n아과 : 우단재니등에아과 (Anthracinae)\n속 : 우단재니등에속 (Anthrax)",
+  "basic_information": {
+    "곤충명": "탕재니등에",
+    "학명": "Anthrax jezoensis Matsumura, 1916"
+  },
+  "information": {
+    "general_description": "검정우단재니등에와 비슷. 날개맥은 비슷하나 암갈색부는 훨씬 많고, R4의 기부와 M2 의 기부를 잇는 선까지 도달. 날개끝은 투명하고 R2+3, R5와 M2의 주위는 암갈색으로 희미하게 보임. 배의 옆가장자리의 흑색인 긴 털은 브러시 모양으로 배열되었으나 검정우단재니등에 같이 길지 않음. 배의 제1배마디의 것은 백색. 제2마디 이하의 등면 양쪽에 백색 비늘털이 있으나 검은우단재니등에처럼 뚜렷하지 않음.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "검정우단재니등에와 비슷. 날개맥은 비슷하나 암갈색부는 훨씬 많고, R4의 기부와 M2 의 기부를 잇는 선까지 도달. 날개끝은 투명하고 R2+3, R5와 M2의 주위는 암갈색으로 희미하게 보임. 배의 옆가장자리의 흑색인 긴 털은 브러시 모양으로 배열되었으나 검정우단재니등에 같이 길지 않음. 배의 제1배마디의 것은 백색. 제2마디 이하의 등면 양쪽에 백색 비늘털이 있으나 검은우단재니등에처럼 뚜렷하지 않음."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSAO0010-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSAO0010_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSAO0010_1_th.jpg",
+      "alt": "탕재니등에 1번째 사진 : 탕재니등에전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSAO0010_1_th2.jpg",
+      "caption": "탕재니등에전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSAO0010-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0112153043",
+      "description": "[YNUE0112153043] 탕재니등에 1997.05.03 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0112153044",
+      "description": "[YNUE0112153044] 탕재니등에 1989.05.08 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0112153045",
+      "description": "[YNUE0112153045] 탕재니등에 1994.05.07 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZSAO0010-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSAO0010&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:11+00:00",
+    "html_sha256": "062576322016a1c93726b456466022782602f6e74ec80aa596436b0bdf8cf61d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "ZTDK0067",
+  "name_ko": "꼬마나나니",
+  "scientific_name": "Ammophila vagabunda Smith, 1856",
+  "display_name": "꼬마나나니",
+  "family_ko": "구멍벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "구멍벌과",
+      "name_latin": "Sphecidae"
+    },
+    "subfamily": {
+      "name_ko": "나나니아과",
+      "name_latin": "Ammophilinae"
+    },
+    "genus": {
+      "name_ko": "나나니속",
+      "name_latin": "Ammophila"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 구멍벌과 (Sphecidae)\n아과 : 나나니아과 (Ammophilinae)\n속 : 나나니속 (Ammophila)",
+  "basic_information": {
+    "곤충명": "꼬마나나니",
+    "학명": "Ammophila vagabunda Smith, 1856"
+  },
+  "information": {
+    "general_description": "비교적 작고 얼굴의 홈타기는 덜 깊고, 더듬이 기부 바로 위에 2개의 삼각형 돌기가 없고 앞가슴은 다소 가늘고 경사가 덜 급하고 가운데가슴등판의 점각은 뚜렷하지 않고 주로 주름조각이다. 수컷의 어깨판과 가운데가슴 옆의 털 무늬가 뚜렷하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "비교적 작고 얼굴의 홈타기는 덜 깊고, 더듬이 기부 바로 위에 2개의 삼각형 돌기가 없고 앞가슴은 다소 가늘고 경사가 덜 급하고 가운데가슴등판의 점각은 뚜렷하지 않고 주로 주름조각이다. 수컷의 어깨판과 가운데가슴 옆의 털 무늬가 뚜렷하다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDK0067-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0067_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0067_1_th.jpg",
+      "alt": "꼬마나나니 1번째 사진 : 꼬마나나니전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0067_1_th2.jpg",
+      "caption": "꼬마나나니전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDK0067-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306262007",
+      "description": "[YNUE0306262007] 꼬마나나니 1930.07.05 / / 영남대학교"
+    },
+    {
+      "id": "KNAE0703120001",
+      "description": "[KNAE0703120001] 꼬마나나니 1999.07.16 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0703120003",
+      "description": "[KNAE0703120003] 꼬마나나니 1997.06.23 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTDK0067.png",
+    "reference_image_id": "ZTDK0067-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T13:25:40.228618+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "8c385668490491499692d49d03861ef760ac55485ab9df18b3a96f76f96a637c"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDK0067&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:31+00:00",
+    "html_sha256": "32a26e8f46524fb1f2ee00121dd133d126c4a7263e51f3b29af6e8c8de3e116f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

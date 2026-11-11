@@ -1,0 +1,122 @@
+{
+  "id": "ZRDW0016",
+  "name_ko": "드릅원뿔나방",
+  "scientific_name": "Agonopterix l-nigrum Matsumura, 1931",
+  "display_name": "드릅원뿔나방",
+  "family_ko": "큰원뿔나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "뿔나방상과",
+      "name_latin": "Gelechioidea"
+    },
+    "family": {
+      "name_ko": "큰원뿔나방과",
+      "name_latin": "Depressariidae"
+    },
+    "subfamily": {
+      "name_ko": "큰원뿔나방아과",
+      "name_latin": "Depressariinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Agonopterix"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 뿔나방상과 (Gelechioidea)\n과 : 큰원뿔나방과 (Depressariidae)\n아과 : 큰원뿔나방아과 (Depressariinae)\n속 : (Agonopterix)",
+  "basic_information": {
+    "곤충명": "드릅원뿔나방",
+    "학명": "Agonopterix l-nigrum Matsumura, 1931"
+  },
+  "information": {
+    "general_description": "앞날개의 탕은 다갈색임. 전연부근에는 흑색과 백색의 인편이 섞여있음. 중실에는 흑색의 L자 모양 무늬가 뚜렷함. 뒷날개는 암갈색임. 연모는 회색임.",
+    "adult": null,
+    "adult_male": "옆돌기는 양쪽이 서로 잘 구분됨. 그네이토스는 긴 알모양을 이룸.\n파악판은 둥굶. 파악기는 끝이 약간 바깥쪽으로 구부려져있음.",
+    "adult_female": "교미관은 긺. 교미주머니는 특히 적음. 시그눔이 매우 큼.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "앞날개의 탕은 다갈색임. 전연부근에는 흑색과 백색의 인편이 섞여있음. 중실에는 흑색의 L자 모양 무늬가 뚜렷함. 뒷날개는 암갈색임. 연모는 회색임."
+    },
+    {
+      "title": "성충(수)",
+      "text": "옆돌기는 양쪽이 서로 잘 구분됨. 그네이토스는 긴 알모양을 이룸.\n파악판은 둥굶. 파악기는 끝이 약간 바깥쪽으로 구부려져있음."
+    },
+    {
+      "title": "성충(암)",
+      "text": "교미관은 긺. 교미주머니는 특히 적음. 시그눔이 매우 큼."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDW0016-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDW0016_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDW0016_2_th.jpg",
+      "alt": "드릅원뿔나방 1번째 사진 : 드릅원뿔나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDW0016_2_th2.jpg",
+      "caption": "드릅원뿔나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDW0016-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDW0016_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDW0016_1_th.jpg",
+      "alt": "드릅원뿔나방 2번째 사진 : 드릅원뿔나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDW0016_1_th2.jpg",
+      "caption": "드릅원뿔나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDW0016-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303041035",
+      "description": "[KNAE0303041035] 드릅원뿔나방 1996.09.23 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303041037",
+      "description": "[KNAE0303041037] 드릅원뿔나방 1996.09.23 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303041038",
+      "description": "[KNAE0303041038] 드릅원뿔나방 1996.09.24 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDW0016-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDW0016&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:06+00:00",
+    "html_sha256": "146eb98be66ac32595d186dd8f50ae2ba72547b81badd9f5f17abe75477f1d17",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

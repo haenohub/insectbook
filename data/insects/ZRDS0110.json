@@ -1,0 +1,122 @@
+{
+  "id": "ZRDS0110",
+  "name_ko": "보라밤나방",
+  "scientific_name": "Xestia dilatata (Butler, 1879)",
+  "display_name": "보라밤나방",
+  "family_ko": "밤나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "밤나방과",
+      "name_latin": "Noctuidae"
+    },
+    "subfamily": {
+      "name_ko": "밤나방아과",
+      "name_latin": "Noctuinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Xestia"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 밤나방과 (Noctuidae)\n아과 : 밤나방아과 (Noctuinae)\n속 : (Xestia)",
+  "basic_information": {
+    "곤충명": "보라밤나방",
+    "학명": "Xestia dilatata (Butler, 1879)"
+  },
+  "information": {
+    "general_description": "날개편 길이 21mm. 앞날개는 아름다운 자갈색을 띠는데 콩팥 모양 무늬는 뚜렷하지 않고, 가락지 모양 무늬는 담회갈색을 띤다. 뒷날개는 암황갈색을 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 9～10월경에 출현된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[인도]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 21mm. 앞날개는 아름다운 자갈색을 띠는데 콩팥 모양 무늬는 뚜렷하지 않고, 가락지 모양 무늬는 담회갈색을 띤다. 뒷날개는 암황갈색을 띤다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 9～10월경에 출현된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[인도]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0110-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0110_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0110_2_th.jpg",
+      "alt": "보라밤나방 1번째 사진 : 보라밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0110_2_th2.jpg",
+      "caption": "보라밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDS0110-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0110_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0110_1_th.jpg",
+      "alt": "보라밤나방 2번째 사진 : 보라밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0110_1_th2.jpg",
+      "caption": "보라밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0110-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0302181096",
+      "description": "[KNAE0302181096] 보라밤나방 2000.09.20 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0301082022",
+      "description": "[KNAE0301082022] 보라밤나방 1993.11.21 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0112191021",
+      "description": "[KNAE0112191021] 보라밤나방 1992.10.03 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDS0110-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0110&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:06+00:00",
+    "html_sha256": "732d6aa815b2ca31a9fae9c5e8c040dcdcc5937f4a42c1ddbf190457e0f0a136",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

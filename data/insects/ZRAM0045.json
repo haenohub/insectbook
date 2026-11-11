@@ -1,0 +1,532 @@
+{
+  "id": "ZRAM0045",
+  "name_ko": "미국흰불나방",
+  "scientific_name": "Hyphantria cunea (Drury, 1773)",
+  "display_name": "미국흰불나방",
+  "family_ko": "태극나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "태극나방과",
+      "name_latin": "Erebidae"
+    },
+    "subfamily": {
+      "name_ko": "불나방아과",
+      "name_latin": "Arctiinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Hyphantria"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 태극나방과 (Erebidae)\n아과 : 불나방아과 (Arctiinae)\n속 : (Hyphantria)",
+  "basic_information": {
+    "곤충명": "미국흰불나방",
+    "학명": "Hyphantria cunea (Drury, 1773)"
+  },
+  "information": {
+    "general_description": "성충은 몸과 날개가 백색으로서 제1화기 성충만은 날개에 검은 점들이 있다. 더듬이는 암수가 모두 톱니 모양이지만 수컷에서는 깃털 모양으로 보인다.",
+    "adult": null,
+    "adult_male": "몸길이는 9~10 mm, 날개 편 길이는 28~30 mm이다.",
+    "adult_female": "몸길이는 12~14 mm, 날개 편 길이는 36~37 mm이다.",
+    "larva": "유충은 몸의 빛깔에 변이가 많고 머리와 앞가슴의 등면은 흑갈색이며 배의 등면과 옆면이 담황색인 것과 머리와 몸마디의 등면 및 배면이 흑색이고 옆면만 암황색인 것이 있다. 노숙 유충의 몸길이는 30 mm 정도이고 몸의 각 절에 혹이 있으며 흑색과 백색의 긴 털이 빽빽이 나 있다.",
+    "egg": "알은 직경이 0.5 mm 정도이고 구형이며 담록색으로서 부화할 때가 되면 회흑색으로 변한다. 난괴는 암컷의 흰 털로 덮여 있다.",
+    "pupa": null,
+    "ecology": "1화기 성충이 5월 중순~6월 상순에 나타나 600~700개의 알을 잎 뒷면에 무더기로 낳는다. 우화 시각은 오후 6~7시가 보통이며 주로 밤에 활동하고 추광성이 강하다. 교미는 수간(樹幹)이나 잎 뒷면에 붙어 14~15시간 계속된다. 암컷의 포란수는 유충 때의 먹이식물 종류에 따라 차이가 있으며 성충의 수명은 4~5일이고 1화기의 난기는 9일 정도이다. 5월 하순부터 부화한 유충은 4령기까지 실을 토하여 잎을 싸고 그 속에서 군서 생활을 하면서 엽육만을 식해하고 5령기부터 흩어져 엽맥만 남기고 7월 중순~하순까지 가해한다. 유충 기간은 40일 내외이며 노숙 유충은 수피 사이 등에 고치를 짓고 번데기가 되며 번데기 기간은 12일 정도이다. 2화기 성충은 7월 하순부터 8월 중순에 우화하여 산란하고 약 7일의 난기를 거쳐 8월 초순부터 유충이 부화하기 시작하여 10월 상순까지 가해한다. 유충 기간은 50일 내외이며 번데기 기간은 약 200일이다.",
+    "habits": "이 해충은 북미 원산으로 아시아 지역에 침입한 것이 1948년경 일본, 1958년경 한국(서울), 1979년경 중국의 순으로 발생하기 시작하여 만연되었으며 우리 나라와 일본은 미군 화물에 묻어 들어온 것으로 추정되고 있다. 유충 한 마리가 100~150 cm²의 잎을 섭식하며 1화기보다 2화기의 피해가 심하다. 이 해충은 산림 내에서는 피해가 경미하며 도시 주변의 가로수나 정원수에 특히 피해가 심하다.",
+    "season": null,
+    "overwintering": "수피 사이, 판자 틈, 지피물 밑, 잡초 뿌리 근처 등에서 고치를 짓고 그 속에서 번데기로 월동한다.",
+    "distribution": "[일본]\n[중국]\n[캐나다]\n[미국]\n[멕시코]\n[유럽]\n[러시아]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충은 몸과 날개가 백색으로서 제1화기 성충만은 날개에 검은 점들이 있다. 더듬이는 암수가 모두 톱니 모양이지만 수컷에서는 깃털 모양으로 보인다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "몸길이는 9~10 mm, 날개 편 길이는 28~30 mm이다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "몸길이는 12~14 mm, 날개 편 길이는 36~37 mm이다."
+    },
+    {
+      "title": "유충",
+      "text": "유충은 몸의 빛깔에 변이가 많고 머리와 앞가슴의 등면은 흑갈색이며 배의 등면과 옆면이 담황색인 것과 머리와 몸마디의 등면 및 배면이 흑색이고 옆면만 암황색인 것이 있다. 노숙 유충의 몸길이는 30 mm 정도이고 몸의 각 절에 혹이 있으며 흑색과 백색의 긴 털이 빽빽이 나 있다."
+    },
+    {
+      "title": "생태",
+      "text": "1화기 성충이 5월 중순~6월 상순에 나타나 600~700개의 알을 잎 뒷면에 무더기로 낳는다. 우화 시각은 오후 6~7시가 보통이며 주로 밤에 활동하고 추광성이 강하다. 교미는 수간(樹幹)이나 잎 뒷면에 붙어 14~15시간 계속된다. 암컷의 포란수는 유충 때의 먹이식물 종류에 따라 차이가 있으며 성충의 수명은 4~5일이고 1화기의 난기는 9일 정도이다. 5월 하순부터 부화한 유충은 4령기까지 실을 토하여 잎을 싸고 그 속에서 군서 생활을 하면서 엽육만을 식해하고 5령기부터 흩어져 엽맥만 남기고 7월 중순~하순까지 가해한다. 유충 기간은 40일 내외이며 노숙 유충은 수피 사이 등에 고치를 짓고 번데기가 되며 번데기 기간은 12일 정도이다. 2화기 성충은 7월 하순부터 8월 중순에 우화하여 산란하고 약 7일의 난기를 거쳐 8월 초순부터 유충이 부화하기 시작하여 10월 상순까지 가해한다. 유충 기간은 50일 내외이며 번데기 기간은 약 200일이다."
+    },
+    {
+      "title": "습성",
+      "text": "이 해충은 북미 원산으로 아시아 지역에 침입한 것이 1948년경 일본, 1958년경 한국(서울), 1979년경 중국의 순으로 발생하기 시작하여 만연되었으며 우리 나라와 일본은 미군 화물에 묻어 들어온 것으로 추정되고 있다. 유충 한 마리가 100~150 cm²의 잎을 섭식하며 1화기보다 2화기의 피해가 심하다. 이 해충은 산림 내에서는 피해가 경미하며 도시 주변의 가로수나 정원수에 특히 피해가 심하다."
+    },
+    {
+      "title": "월동",
+      "text": "수피 사이, 판자 틈, 지피물 밑, 잡초 뿌리 근처 등에서 고치를 짓고 그 속에서 번데기로 월동한다."
+    },
+    {
+      "title": "알",
+      "text": "알은 직경이 0.5 mm 정도이고 구형이며 담록색으로서 부화할 때가 되면 회흑색으로 변한다. 난괴는 암컷의 흰 털로 덮여 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[캐나다]\n[미국]\n[멕시코]\n[유럽]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRAM0045-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0045_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0045_2_th.jpg",
+      "alt": "미국흰불나방 1번째 사진 : 미국흰불나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0045_2_th2.jpg",
+      "caption": "미국흰불나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRAM0045-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0045_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0045_1_th.jpg",
+      "alt": "미국흰불나방 2번째 사진 : 미국흰불나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0045_1_th2.jpg",
+      "caption": "미국흰불나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRAM0045-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0302251010",
+      "description": "[KNAE0302251010] 미국흰불나방 1995.05.09 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0302251011",
+      "description": "[KNAE0302251011] 미국흰불나방 1995.05.09 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0302251012",
+      "description": "[KNAE0302251012] 미국흰불나방 1995.05.09 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "가래나무",
+      "scientific_name": "Juglans mandshurica Maxim."
+    },
+    {
+      "group": "식물",
+      "name_ko": "가죽나무",
+      "scientific_name": "Ailanthus altissima (Mill.) Swingle"
+    },
+    {
+      "group": "식물",
+      "name_ko": "갈기조팝나무",
+      "scientific_name": "Spiraea trichocarpa Nakai"
+    },
+    {
+      "group": "식물",
+      "name_ko": "개박달나무",
+      "scientific_name": "Betula chinensis Maxim."
+    },
+    {
+      "group": "식물",
+      "name_ko": "거제수나무",
+      "scientific_name": "Betula costata Trautv."
+    },
+    {
+      "group": "식물",
+      "name_ko": "고광나무",
+      "scientific_name": "Philadelphus schrenkii Rupr."
+    },
+    {
+      "group": "식물",
+      "name_ko": "굴참나무",
+      "scientific_name": "Quercus variabilis Blume"
+    },
+    {
+      "group": "식물",
+      "name_ko": "귀룽나무",
+      "scientific_name": "Prunus padus L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "까치박달",
+      "scientific_name": "Carpinus cordata Blume"
+    },
+    {
+      "group": "식물",
+      "name_ko": "꼬리조팝나무",
+      "scientific_name": "Spiraea salicifolia L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "낙우송",
+      "scientific_name": "Taxodium distichum (L.) Rich."
+    },
+    {
+      "group": "식물",
+      "name_ko": "난티나무",
+      "scientific_name": "Ulmus laciniata (Herder) Mayr ex Schwapp."
+    },
+    {
+      "group": "식물",
+      "name_ko": "느릅나무",
+      "scientific_name": "Ulmus davidiana var. japonica (Rehder) Nakai"
+    },
+    {
+      "group": "식물",
+      "name_ko": "느티나무",
+      "scientific_name": "Zelkova serrata (Thunb.) Makino"
+    },
+    {
+      "group": "식물",
+      "name_ko": "닥나무",
+      "scientific_name": "Broussonetia × kazinoki Siebold"
+    },
+    {
+      "group": "식물",
+      "name_ko": "단풍나무",
+      "scientific_name": "Acer palmatum Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "돌배나무",
+      "scientific_name": "Pyrus pyrifolia (Burm.f.) Nakai"
+    },
+    {
+      "group": "식물",
+      "name_ko": "떡갈나무",
+      "scientific_name": "Quercus dentata Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "마가목",
+      "scientific_name": "Sorbus commixta Hedl."
+    },
+    {
+      "group": "식물",
+      "name_ko": "매실나무",
+      "scientific_name": "Prunus mume (Siebold) Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "명자꽃",
+      "scientific_name": "Chaenomeles speciosa (Sweet) Nakai"
+    },
+    {
+      "group": "식물",
+      "name_ko": "모란",
+      "scientific_name": "Paeonia × suffruticosa Andrews"
+    },
+    {
+      "group": "식물",
+      "name_ko": "물박달나무",
+      "scientific_name": "Betula davurica Pall."
+    },
+    {
+      "group": "식물",
+      "name_ko": "박달나무",
+      "scientific_name": "Betula schmidtii Regel"
+    },
+    {
+      "group": "식물",
+      "name_ko": "밤나무",
+      "scientific_name": "Castanea crenata Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "버드나무",
+      "scientific_name": "Salix pierotii Miq."
+    },
+    {
+      "group": "식물",
+      "name_ko": "버즘나무",
+      "scientific_name": "Platanus orientalis L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "벚나무",
+      "scientific_name": "Prunus serrulata f. spontanea (Maxim.) Chin S.Chang"
+    },
+    {
+      "group": "식물",
+      "name_ko": "복사나무",
+      "scientific_name": "Prunus persica (L.) Batsch"
+    },
+    {
+      "group": "식물",
+      "name_ko": "비술나무",
+      "scientific_name": "Ulmus pumila L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "뽕나무",
+      "scientific_name": "Morus alba L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "사과나무",
+      "scientific_name": "Malus domestica (Suckow) Borkh."
+    },
+    {
+      "group": "식물",
+      "name_ko": "사시나무",
+      "scientific_name": "Populus tremula var. davidiana (Dode) C.K.Schneid."
+    },
+    {
+      "group": "식물",
+      "name_ko": "산돌배",
+      "scientific_name": "Pyrus ussuriensis Maxim. ex Rupr."
+    },
+    {
+      "group": "식물",
+      "name_ko": "산뽕나무",
+      "scientific_name": "Morus bombycis Koidz."
+    },
+    {
+      "group": "식물",
+      "name_ko": "산사나무",
+      "scientific_name": "Crataegus pinnatifida Bunge"
+    },
+    {
+      "group": "식물",
+      "name_ko": "상수리나무",
+      "scientific_name": "Quercus acutissima Carruth."
+    },
+    {
+      "group": "식물",
+      "name_ko": "생강나무",
+      "scientific_name": "Lindera obtusiloba Blume"
+    },
+    {
+      "group": "식물",
+      "name_ko": "생달나무",
+      "scientific_name": "Cinnamomum chekiangense Nakai"
+    },
+    {
+      "group": "식물",
+      "name_ko": "생열귀나무",
+      "scientific_name": "Rosa davurica Pall."
+    },
+    {
+      "group": "식물",
+      "name_ko": "소태나무",
+      "scientific_name": "Picrasma quassioides (D.Don) Benn."
+    },
+    {
+      "group": "식물",
+      "name_ko": "수국",
+      "scientific_name": "Hydrangea macrophylla (Thunb.) Ser."
+    },
+    {
+      "group": "식물",
+      "name_ko": "수양버들",
+      "scientific_name": "Salix babylonica L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "쉬나무",
+      "scientific_name": "Tetradium daniellii (Benn.) T.G.Hartley"
+    },
+    {
+      "group": "식물",
+      "name_ko": "쉬땅나무",
+      "scientific_name": "Sorbaria sorbifolia var. stellipila Maxim."
+    },
+    {
+      "group": "식물",
+      "name_ko": "시무나무",
+      "scientific_name": "Hemiptelea davidii (Hance) Planch."
+    },
+    {
+      "group": "식물",
+      "name_ko": "신갈나무",
+      "scientific_name": "Quercus mongolica Fisch. ex Ledeb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "싸리",
+      "scientific_name": "Lespedeza bicolor Turcz."
+    },
+    {
+      "group": "식물",
+      "name_ko": "아까시나무",
+      "scientific_name": "Robinia pseudoacacia L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "앵도나무",
+      "scientific_name": "Prunus tomentosa Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "양버들",
+      "scientific_name": "Populus nigra L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "오리나무",
+      "scientific_name": "Alnus japonica (Thunb.) Steud."
+    },
+    {
+      "group": "식물",
+      "name_ko": "오미자",
+      "scientific_name": "Schisandra chinensis (Turcz.) Baill."
+    },
+    {
+      "group": "식물",
+      "name_ko": "온주밀감",
+      "scientific_name": "Citrus unshiu (Yu.Tanaka ex Swingle) Marcow."
+    },
+    {
+      "group": "식물",
+      "name_ko": "왕벚나무",
+      "scientific_name": "Prunus × yedoensis Matsum."
+    },
+    {
+      "group": "식물",
+      "name_ko": "유자나무",
+      "scientific_name": "Citrus junos Siebold ex Tanaka"
+    },
+    {
+      "group": "식물",
+      "name_ko": "윤노리나무",
+      "scientific_name": "Pourthiaea villosa (Thunb.) Decne."
+    },
+    {
+      "group": "식물",
+      "name_ko": "으름덩굴",
+      "scientific_name": "Akebia quinata (Thunb. ex Houtt.) Decne."
+    },
+    {
+      "group": "식물",
+      "name_ko": "자귀나무",
+      "scientific_name": "Albizia julibrissin Durazz."
+    },
+    {
+      "group": "식물",
+      "name_ko": "자두나무",
+      "scientific_name": "Prunus salicina Lindl."
+    },
+    {
+      "group": "식물",
+      "name_ko": "자작나무",
+      "scientific_name": "Betula pendula Roth"
+    },
+    {
+      "group": "식물",
+      "name_ko": "조팝나무",
+      "scientific_name": "Spiraea prunifolia f. simpliciflora Nakai"
+    },
+    {
+      "group": "식물",
+      "name_ko": "족제비싸리",
+      "scientific_name": "Amorpha fruticosa L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "주엽나무",
+      "scientific_name": "Gleditsia japonica Miq."
+    },
+    {
+      "group": "식물",
+      "name_ko": "찔레꽃",
+      "scientific_name": "Rosa multiflora Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "참느릅나무",
+      "scientific_name": "Ulmus parvifolia Jacq."
+    },
+    {
+      "group": "식물",
+      "name_ko": "참싸리",
+      "scientific_name": "Lespedeza cyrtobotrya Miq."
+    },
+    {
+      "group": "식물",
+      "name_ko": "칡",
+      "scientific_name": "Pueraria lobata (Willd.) Ohwi"
+    },
+    {
+      "group": "식물",
+      "name_ko": "팥배나무",
+      "scientific_name": "Aria alnifolia (Siebold & Zucc.) Decne."
+    },
+    {
+      "group": "식물",
+      "name_ko": "팽나무",
+      "scientific_name": "Celtis sinensis Pers."
+    },
+    {
+      "group": "식물",
+      "name_ko": "푸조나무",
+      "scientific_name": "Aphananthe aspera (Thunb.) Planch."
+    },
+    {
+      "group": "식물",
+      "name_ko": "풀명자",
+      "scientific_name": "Chaenomeles japonica (Thunb.) Lindl. ex Spach"
+    },
+    {
+      "group": "식물",
+      "name_ko": "해당화",
+      "scientific_name": "Rosa rugosa Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "화백",
+      "scientific_name": "Chamaecyparis pisifera (Siebold & Zucc.) Endl."
+    },
+    {
+      "group": "식물",
+      "name_ko": "황매화",
+      "scientific_name": "Kerria japonica (L.) DC."
+    },
+    {
+      "group": "식물",
+      "name_ko": "황철나무",
+      "scientific_name": "Populus suaveolens Fisch. ex Poit. & A.Vilm."
+    },
+    {
+      "group": "식물",
+      "name_ko": "회양목",
+      "scientific_name": "Buxus sinica var. insularis (Nakai) M.Cheng"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRAM0045-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRAM0045&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:45+00:00",
+    "html_sha256": "f2e9911b1ed0839bc03056c7383e4922be4508dea6b2a8c4d5b6c28ef55001be",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

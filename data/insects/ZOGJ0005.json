@@ -1,0 +1,118 @@
+{
+  "id": "ZOGJ0005",
+  "name_ko": "애기뿔소똥구리",
+  "scientific_name": "Copris (Copris) tripartitus Waterhouse, 1875",
+  "display_name": "애기뿔소똥구리",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "소똥구리아과",
+      "name_latin": "Scarabaeinae"
+    },
+    "genus": {
+      "name_ko": "뿔소똥구리속",
+      "name_latin": "Copris"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 소똥구리아과 (Scarabaeinae)\n속 : 뿔소똥구리속 (Copris)",
+  "basic_information": {
+    "곤충명": "애기뿔소똥구리",
+    "학명": "Copris (Copris) tripartitus Waterhouse, 1875"
+  },
+  "information": {
+    "general_description": "중국, 대만, 일본에 분포하며 전 종과 매우 비슷하나 훨씬 작고, 머리의 뿔은 보다 짧으며, 광택은 보다 강하다. 전흉배판의 돌기들은 보다 명확하며, 전경절 외치는 4개이다. BL:13~19mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "종 보호차원에서 국외로 반출이 금지된 종이다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[반출금지종] 환경부고시제2001-210호\n[II급 멸종위기야생동식물]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중국, 대만, 일본에 분포하며 전 종과 매우 비슷하나 훨씬 작고, 머리의 뿔은 보다 짧으며, 광택은 보다 강하다. 전흉배판의 돌기들은 보다 명확하며, 전경절 외치는 4개이다. BL:13~19mm."
+    },
+    {
+      "title": "생태",
+      "text": "종 보호차원에서 국외로 반출이 금지된 종이다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[반출금지종] 환경부고시제2001-210호\n[II급 멸종위기야생동식물]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGJ0005-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0005_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0005_2_th.jpg",
+      "alt": "애기뿔소똥구리 1번째 사진 : 애기뿔소똥구리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0005_2_th2.jpg",
+      "caption": "애기뿔소똥구리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOGJ0005-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0005_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0005_1_th.jpg",
+      "alt": "애기뿔소똥구리 2번째 사진 : 애기뿔소똥구리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0005_1_th2.jpg",
+      "caption": "애기뿔소똥구리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGJ0005-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0408101075",
+      "description": "[KNAE0408101075] 애기뿔소똥구리 2001.08.17 / / 국립수목원"
+    },
+    {
+      "id": "SSUE0301211015",
+      "description": "[SSUE0301211015] 애기뿔소똥구리 1990.05.20 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0301211016",
+      "description": "[SSUE0301211016] 애기뿔소똥구리 1987.10.20 / / 성신여자대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGJ0005-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGJ0005&tabId=tab1",
+    "collected_at": "2026-11-04T14:14:57+00:00",
+    "html_sha256": "025b010a1f48e658026c65109e58a86e1b9b446747d219b245818c03ac74c8f8",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

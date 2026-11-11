@@ -1,0 +1,125 @@
+{
+  "id": "ZOCF0201",
+  "name_ko": "느티나무벼룩바구미",
+  "scientific_name": "Orchestes (Orchestes) sanguinipes Roelofs, 1875",
+  "display_name": "느티나무벼룩바구미",
+  "family_ko": "바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "바구미과",
+      "name_latin": "Curculionidae"
+    },
+    "subfamily": {
+      "name_ko": "밤바구미아과",
+      "name_latin": "Curculioninae"
+    },
+    "genus": {
+      "name_ko": "벼룩바구미속",
+      "name_latin": "Orchestes"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 바구미과 (Curculionidae)\n아과 : 밤바구미아과 (Curculioninae)\n속 : 벼룩바구미속 (Orchestes)",
+  "basic_information": {
+    "곤충명": "느티나무벼룩바구미",
+    "학명": "Orchestes (Orchestes) sanguinipes Roelofs, 1875"
+  },
+  "information": {
+    "general_description": "성충의 몸길이는 2~3 mm이며 황적갈색이다. 뒷다리가 잘 발달되어 있어 벼룩처럼 잘뛴다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "1년에 여러 세대 발생하는 것으로 추정되며 정확한 생활사가 밝혀져 있지 않다. 월동한 성충이 4월경에 출현하여 잎의 가장자리의 엽육 속에 산란한다.",
+    "habits": "성충과 유충이 엽육을 식해한다. 성충은 주둥이로 잎 표면에 구멍을 뚫고 흡즙하고 유충은 잎의 가장자리를 갉아 먹는다. 피해를 받은 나무가 고사되는 경우는 드물지만 5~6월에 피해 받은 잎이 갈색으로 변해 경관을 해친다.",
+    "season": null,
+    "overwintering": "기주식물의 수피 틈에서 성충으로 월동한다.",
+    "distribution": "[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충의 몸길이는 2~3 mm이며 황적갈색이다. 뒷다리가 잘 발달되어 있어 벼룩처럼 잘뛴다."
+    },
+    {
+      "title": "생태",
+      "text": "1년에 여러 세대 발생하는 것으로 추정되며 정확한 생활사가 밝혀져 있지 않다. 월동한 성충이 4월경에 출현하여 잎의 가장자리의 엽육 속에 산란한다."
+    },
+    {
+      "title": "습성",
+      "text": "성충과 유충이 엽육을 식해한다. 성충은 주둥이로 잎 표면에 구멍을 뚫고 흡즙하고 유충은 잎의 가장자리를 갉아 먹는다. 피해를 받은 나무가 고사되는 경우는 드물지만 5~6월에 피해 받은 잎이 갈색으로 변해 경관을 해친다."
+    },
+    {
+      "title": "월동",
+      "text": "기주식물의 수피 틈에서 성충으로 월동한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCF0201-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0201_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0201_1_th.jpg",
+      "alt": "느티나무벼룩바구미 1번째 사진 : 느티나무벼룩바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0201_1_th2.jpg",
+      "caption": "느티나무벼룩바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCF0201-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303132010",
+      "description": "[KNAE0303132010] 느티나무벼룩바구미 1994.04.21 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303132013",
+      "description": "[KNAE0303132013] 느티나무벼룩바구미 1994.04.22 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303132014",
+      "description": "[KNAE0303132014] 느티나무벼룩바구미 1994.04.23 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "느티나무",
+      "scientific_name": "Zelkova serrata (Thunb.) Makino"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOCF0201-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCF0201&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:41+00:00",
+    "html_sha256": "e5373fac664fa81d81eec2e286b4e3c2fefcc8db806700848d868f7bd3aa7ac2",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

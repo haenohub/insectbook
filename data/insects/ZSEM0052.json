@@ -1,0 +1,103 @@
+{
+  "id": "ZSEM0052",
+  "name_ko": "수염치레꽃등에",
+  "scientific_name": "Chrysotoxum festivum (Linnaeus, 1758)",
+  "display_name": "수염치레꽃등에",
+  "family_ko": "꽃등에과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "꽃등에상과",
+      "name_latin": "Syrphoidea"
+    },
+    "family": {
+      "name_ko": "꽃등에과",
+      "name_latin": "Syrphidae"
+    },
+    "subfamily": {
+      "name_ko": "꽃등에아과",
+      "name_latin": "Syrphinae"
+    },
+    "genus": {
+      "name_ko": "수염치레꽃등에속",
+      "name_latin": "Chrysotoxum"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 꽃등에상과 (Syrphoidea)\n과 : 꽃등에과 (Syrphidae)\n아과 : 꽃등에아과 (Syrphinae)\n속 : 수염치레꽃등에속 (Chrysotoxum)",
+  "basic_information": {
+    "곤충명": "수염치레꽃등에",
+    "학명": "Chrysotoxum festivum (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "성충의 몸길이는 12~14mm. 몸은 크며, 이마는 광택이 있는 흑색을 띤다. 더듬이는 흑색이고 얼굴은 적황색이며, 폭이 넓은 흑색 중앙 세로 띠무늬와 흑색뺨의 줄무늬가 있고 황색털이 났다. 가슴은 흑색이며 가운데가슴등판은 중앙에 회색인 2개의 세로줄이 있고 옆가장자리에는 황색 세로 띠무늬가 있다. 옆판은 흑색이고 중앙에 황색 세로 줄무늬가 있다. 작은방패판은 황색이며 갈색털이 밀생했다. 다리는 적황색이고 부분적으로 갈색을 띤다. 배는 둔한 갈색이며 각 마디 뒷가장자리와 가운데 세로줄은 광택이 있고 가로 띠무늬는 황색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충의 몸길이는 12~14mm. 몸은 크며, 이마는 광택이 있는 흑색을 띤다. 더듬이는 흑색이고 얼굴은 적황색이며, 폭이 넓은 흑색 중앙 세로 띠무늬와 흑색뺨의 줄무늬가 있고 황색털이 났다. 가슴은 흑색이며 가운데가슴등판은 중앙에 회색인 2개의 세로줄이 있고 옆가장자리에는 황색 세로 띠무늬가 있다. 옆판은 흑색이고 중앙에 황색 세로 줄무늬가 있다. 작은방패판은 황색이며 갈색털이 밀생했다. 다리는 적황색이고 부분적으로 갈색을 띤다. 배는 둔한 갈색이며 각 마디 뒷가장자리와 가운데 세로줄은 광택이 있고 가로 띠무늬는 황색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSEM0052-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0052_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0052_1_th.jpg",
+      "alt": "수염치레꽃등에 1번째 사진 : 수염치레꽃등에전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0052_1_th.jpg",
+      "caption": "수염치레꽃등에전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSEM0052-1",
+  "specimen_examples": [
+    {
+      "id": "CBNE0301211065",
+      "description": "[CBNE0301211065] 수염치레꽃등에 1996.06.28 / / 충북대학교"
+    },
+    {
+      "id": "YNUE0201023010",
+      "description": "[YNUE0201023010] 수염치레꽃등에 1986.06.23 / / 영남대학교"
+    },
+    {
+      "id": "ENHE0605231003",
+      "description": "[ENHE0605231003] 수염치레꽃등에 1979.05.19 / / 이화여자대학교 자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZSEM0052-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSEM0052&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:34+00:00",
+    "html_sha256": "1c73bb21ed52c130edaaa2c5b8717fa5028011bf7c294498604c6be9a5b983cc",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

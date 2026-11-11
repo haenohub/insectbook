@@ -1,0 +1,121 @@
+{
+  "id": "ZRDV0021",
+  "name_ko": "산꼬마표범나비",
+  "scientific_name": "Boloria thore (Hübner, 1803)",
+  "display_name": "산꼬마표범나비",
+  "family_ko": "네발나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "네발나비과",
+      "name_latin": "Nymphalidae"
+    },
+    "subfamily": {
+      "name_ko": "독나비아과",
+      "name_latin": "Heliconiinae"
+    },
+    "genus": {
+      "name_ko": "꼬마표범나비속",
+      "name_latin": "Boloria"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 네발나비과 (Nymphalidae)\n아과 : 독나비아과 (Heliconiinae)\n속 : 꼬마표범나비속 (Boloria)",
+  "basic_information": {
+    "곤충명": "산꼬마표범나비",
+    "학명": "Boloria thore (Hübner, 1803)"
+  },
+  "information": {
+    "general_description": "암컷은 수컷보다 다소 크고 날개모양이 둥그스름하며 날개 윗면의 바탕색이 연하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "태백산맥의 높은 산지의 계곡 주변이나 숲 가장자리 초지에 서식한다. 암수 모두 엉겅퀴 등의 꽃에 잘 모여 흡밀한다. 날 때는 물론 앉아 있을 때에도 다소 민첩하여 접근하기가 꽤 어렵다. 오전 중에는 햇살이 잘 내리쬐는 계곡 주변 풀잎 위에서 날개를 편 상태로 일광욕을 하는 모습도 관촐된다.",
+    "habits": "암컷은 기주식물 주변 마름 풀에 한 개씩 산란한다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[러시아]\n[유럽]",
+    "notes": "[국지적분포종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷은 수컷보다 다소 크고 날개모양이 둥그스름하며 날개 윗면의 바탕색이 연하다."
+    },
+    {
+      "title": "생태",
+      "text": "태백산맥의 높은 산지의 계곡 주변이나 숲 가장자리 초지에 서식한다. 암수 모두 엉겅퀴 등의 꽃에 잘 모여 흡밀한다. 날 때는 물론 앉아 있을 때에도 다소 민첩하여 접근하기가 꽤 어렵다. 오전 중에는 햇살이 잘 내리쬐는 계곡 주변 풀잎 위에서 날개를 편 상태로 일광욕을 하는 모습도 관촐된다."
+    },
+    {
+      "title": "습성",
+      "text": "암컷은 기주식물 주변 마름 풀에 한 개씩 산란한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[러시아]\n[유럽]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[국지적분포종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDV0021-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0021_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0021_1_th.jpg",
+      "alt": "산꼬마표범나비 1번째 사진 : 산꼬마표범나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0021_1_th2.jpg",
+      "caption": "산꼬마표범나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDV0021-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0112081003",
+      "description": "[FRIE0112081003] 산꼬마표범나비 1974.06.16 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0112081004",
+      "description": "[FRIE0112081004] 산꼬마표범나비 1986.06.27 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0301211023",
+      "description": "[KNAE0301211023] 산꼬마표범나비 1993.06.17 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "졸방제비꽃",
+      "scientific_name": "Viola acuminata Ledeb."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDV0021-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDV0021&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:31+00:00",
+    "html_sha256": "176e86b0b8338fbf886810616aa15f46f70dd506630ad338bb82e05c46ae4063",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

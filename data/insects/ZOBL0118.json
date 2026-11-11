@@ -1,0 +1,168 @@
+{
+  "id": "ZOBL0118",
+  "name_ko": "애청삼나무하늘소",
+  "scientific_name": "Callidiellum rufipenne (Motschulsky, 1861)",
+  "display_name": "애청삼나무하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "하늘소아과",
+      "name_latin": "Cerambycinae"
+    },
+    "genus": {
+      "name_ko": "애청삼나무하늘소속",
+      "name_latin": "Callidiellum"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 하늘소아과 (Cerambycinae)\n속 : 애청삼나무하늘소속 (Callidiellum)",
+  "basic_information": {
+    "곤충명": "애청삼나무하늘소",
+    "학명": "Callidiellum rufipenne (Motschulsky, 1861)"
+  },
+  "information": {
+    "general_description": "체장 6.0~13.0 mm. 소형으로 몸은 대체로 편평하다. 체색 변이가 많다. 머리, 앞가슴등판, 다리에는 회색의 긴 털들이 산재하며 검은색이다. 앞가슴등판의 흑색에서 갈색 개체들까지 있다. 청색계통의 개체들은 금속성을 띤다. 딱지날개는 비교적 짧은 편이다. 수컷의 말단부에는 강한 돌기물이 있으며 등면에는 미세한 점각들이 산재한다. 다리의 퇴절은 중앙부위에서 가장 굵다.",
+    "adult": null,
+    "adult_male": "딱지날개는 적갈색, 청람색이 섞여 있다.",
+    "adult_female": "딱지날개는 대부분 적갈색이다.",
+    "larva": "유충에 대한 특징이 알려지지 않았다.",
+    "egg": "알에 대한 특징이 알려지지 않았다.",
+    "pupa": "번데기에 대한 특징이 알려지지 않았다.",
+    "ecology": "평지와 저산지대에 서식한다. 성충은 이른 봄에 기주식물로부터 탈출하며, 두 가지가 만나는 부위에서 발견되기도 한다. 유충은 기주식물 가지 안에서 얕게 갱도를 형성한다. 가을에 번데기가 되며 성충으로 월동한다.",
+    "habits": "전나무류의 고사목에 모여 산란한다.",
+    "season": null,
+    "overwintering": "성충",
+    "distribution": "[대만] 타이페이(臺北)",
+    "notes": "[산림해충] 삼나무, 나한백 등의 수목해충으로 지정되어 있다.",
+    "pest_control": "경제적 피해 유발 해충으로 알려져 있지 않아, 종 특이적 방제법은 현재까지 없다.",
+    "references": "한반도에서는 서울에서 채집한 표본으로 첫 기록이 되었다. 2007년에는 미국 동부지역에서 새롭게 분포 확인이 되었다."
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체장 6.0~13.0 mm. 소형으로 몸은 대체로 편평하다. 체색 변이가 많다. 머리, 앞가슴등판, 다리에는 회색의 긴 털들이 산재하며 검은색이다. 앞가슴등판의 흑색에서 갈색 개체들까지 있다. 청색계통의 개체들은 금속성을 띤다. 딱지날개는 비교적 짧은 편이다. 수컷의 말단부에는 강한 돌기물이 있으며 등면에는 미세한 점각들이 산재한다. 다리의 퇴절은 중앙부위에서 가장 굵다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "딱지날개는 적갈색, 청람색이 섞여 있다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "딱지날개는 대부분 적갈색이다."
+    },
+    {
+      "title": "번데기",
+      "text": "번데기에 대한 특징이 알려지지 않았다."
+    },
+    {
+      "title": "유충",
+      "text": "유충에 대한 특징이 알려지지 않았다."
+    },
+    {
+      "title": "참고사항",
+      "text": "한반도에서는 서울에서 채집한 표본으로 첫 기록이 되었다. 2007년에는 미국 동부지역에서 새롭게 분포 확인이 되었다."
+    },
+    {
+      "title": "생태",
+      "text": "평지와 저산지대에 서식한다. 성충은 이른 봄에 기주식물로부터 탈출하며, 두 가지가 만나는 부위에서 발견되기도 한다. 유충은 기주식물 가지 안에서 얕게 갱도를 형성한다. 가을에 번데기가 되며 성충으로 월동한다."
+    },
+    {
+      "title": "습성",
+      "text": "전나무류의 고사목에 모여 산란한다."
+    },
+    {
+      "title": "월동",
+      "text": "성충"
+    },
+    {
+      "title": "방제법",
+      "text": "경제적 피해 유발 해충으로 알려져 있지 않아, 종 특이적 방제법은 현재까지 없다."
+    },
+    {
+      "title": "알",
+      "text": "알에 대한 특징이 알려지지 않았다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대만] 타이페이(臺北)"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] 삼나무, 나한백 등의 수목해충으로 지정되어 있다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0118-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0118_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0118_1_th.jpg",
+      "alt": "애청삼나무하늘소 1번째 사진 : 애청삼나무하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0118_1_th2.jpg",
+      "caption": "애청삼나무하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0118-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0304081037",
+      "description": "[FRIE0304081037] 애청삼나무하늘소 1971.04.28 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0304081038",
+      "description": "[FRIE0304081038] 애청삼나무하늘소 1971.05.06 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0304081039",
+      "description": "[FRIE0304081039] 애청삼나무하늘소 1971.04.19 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "나한백",
+      "scientific_name": "Thujopsis dolabrata (L.f.) Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "삼나무",
+      "scientific_name": "Cryptomeria japonica (Thunb. ex L.f.) D.Don"
+    },
+    {
+      "group": "식물",
+      "name_ko": "편백",
+      "scientific_name": "Chamaecyparis obtusa (Siebold & Zucc.) Endl."
+    },
+    {
+      "group": "식물",
+      "name_ko": "향나무",
+      "scientific_name": "Juniperus chinensis L."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0118-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0118&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:18+00:00",
+    "html_sha256": "fcbc64a25bdd529444d72f93d69ea0150477ba7d48160c501e77a00adf1de71d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

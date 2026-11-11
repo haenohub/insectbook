@@ -1,0 +1,99 @@
+{
+  "id": "ZTDK0121",
+  "name_ko": "시즈로노래기벌",
+  "scientific_name": "Cerceris shirozui Tsuneki, 1968",
+  "display_name": "시즈로노래기벌",
+  "family_ko": "은주둥이벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "은주둥이벌과",
+      "name_latin": "Crabronidae"
+    },
+    "subfamily": {
+      "name_ko": "노래기벌아과",
+      "name_latin": "Philanthinae"
+    },
+    "genus": {
+      "name_ko": "노래기벌속",
+      "name_latin": "Cerceris"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 은주둥이벌과 (Crabronidae)\n아과 : 노래기벌아과 (Philanthinae)\n속 : 노래기벌속 (Cerceris)",
+  "basic_information": {
+    "곤충명": "시즈로노래기벌",
+    "학명": "Cerceris shirozui Tsuneki, 1968"
+  },
+  "information": {
+    "general_description": "몸길이는 9.5~10.5mm. 암컷의 몸은 흑색이나 얼굴의 무늬, 자루마디, 어깨판, 뒷가슴방패판의 두 무늬 또는 1개의 띠 무늬와 다리는 황색이나 앞ㆍ가운데다리의 밑마디와 뒷다리 밑마디의 기부2/3, 앞ㆍ가운데다리의 도래마디 윗면, 넓적다리의 기부 등은 황색이다. 더듬이 기부의 2개의 마디는 흑색이나 3~12마디는 아랫면이 적갈색이다. 제2배마디등판 기부의 2개의 무늬, 제3ㆍ4ㆍ5배마디의 무늬는 황색이다. 날개는 약간 황색이고 기부를 제외하고 약간 암색이며 맥과 연문은 적갈색에서 흑색까지 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 9.5~10.5mm. 암컷의 몸은 흑색이나 얼굴의 무늬, 자루마디, 어깨판, 뒷가슴방패판의 두 무늬 또는 1개의 띠 무늬와 다리는 황색이나 앞ㆍ가운데다리의 밑마디와 뒷다리 밑마디의 기부2/3, 앞ㆍ가운데다리의 도래마디 윗면, 넓적다리의 기부 등은 황색이다. 더듬이 기부의 2개의 마디는 흑색이나 3~12마디는 아랫면이 적갈색이다. 제2배마디등판 기부의 2개의 무늬, 제3ㆍ4ㆍ5배마디의 무늬는 황색이다. 날개는 약간 황색이고 기부를 제외하고 약간 암색이며 맥과 연문은 적갈색에서 흑색까지 있다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDK0121-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0121_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0121_1_th.jpg",
+      "alt": "시즈로노래기벌 1번째 사진 : 시로즈노래기벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0121_1_th2.jpg",
+      "caption": "시로즈노래기벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDK0121-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306261004",
+      "description": "[YNUE0306261004] 시즈로노래기벌 1969.08.08 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306261012",
+      "description": "[YNUE0306261012] 시즈로노래기벌 1974.08.04 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306261013",
+      "description": "[YNUE0306261013] 시즈로노래기벌 1970.08.08 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDK0121-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDK0121&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:48+00:00",
+    "html_sha256": "9a365aa756b742d007299df01740c523ca843519bf3108a081824b751d5083c4",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

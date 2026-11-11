@@ -1,0 +1,133 @@
+{
+  "id": "ZMAJ0080",
+  "name_ko": "감자수염진딧물",
+  "scientific_name": "Macrosiphum (Macrosiphum) euphorbiae (Thomas, 1878)",
+  "display_name": "감자수염진딧물",
+  "family_ko": "진딧물과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "진딧물상과",
+      "name_latin": "Aphidoidea"
+    },
+    "family": {
+      "name_ko": "진딧물과",
+      "name_latin": "Aphididae"
+    },
+    "subfamily": {
+      "name_ko": "진딧물아과",
+      "name_latin": "Aphidinae"
+    },
+    "genus": {
+      "name_ko": "수염진딧물속",
+      "name_latin": "Macrosiphum"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 진딧물상과 (Aphidoidea)\n과 : 진딧물과 (Aphididae)\n아과 : 진딧물아과 (Aphidinae)\n속 : 수염진딧물속 (Macrosiphum)",
+  "basic_information": {
+    "곤충명": "감자수염진딧물",
+    "학명": "Macrosiphum (Macrosiphum) euphorbiae (Thomas, 1878)"
+  },
+  "information": {
+    "general_description": "유시충은 몸길이 3mm로서 청녹색이며 머리에는 이마혹이 뚜렷하며 입틀은 가운데다리의 밑마디에 이른다. 뿔관은 비늘무늬가 있고, 끝부분에 그물무늬가 있으며, 끝에 테두리가 있는 원기둥모양이다. 무시충의 몸길이는 3.2mm로서 몸색은 녹색 또는 연녹색으로 광택이 없다. 뿔관은 끝부분으로 갈수록 약간 가늘어지는 원기둥모양이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "유시충은 몸길이 3mm로서 청녹색이며 머리에는 이마혹이 뚜렷하며 입틀은 가운데다리의 밑마디에 이른다. 뿔관은 비늘무늬가 있고, 끝부분에 그물무늬가 있으며, 끝에 테두리가 있는 원기둥모양이다. 무시충의 몸길이는 3.2mm로서 몸색은 녹색 또는 연녹색으로 광택이 없다. 뿔관은 끝부분으로 갈수록 약간 가늘어지는 원기둥모양이다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMAJ0080-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAJ0080_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAJ0080_1_th.jpg",
+      "alt": "감자수염진딧물 1번째 사진 : 감자수염진딧물전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAJ0080_1_th2.jpg",
+      "caption": "감자수염진딧물전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMAJ0080-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0203212009",
+      "description": "[SNUE0203212009] 감자수염진딧물 1998.05.20 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0608112005",
+      "description": "[SNUE0608112005] 감자수염진딧물 2003.06.10 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0911232033",
+      "description": "[SNUE0911232033] 감자수염진딧물 2003.06.10 / / 서울대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "감자",
+      "scientific_name": "Solanum tuberosum L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "목향장미",
+      "scientific_name": "Rosa banksiae Aiton"
+    },
+    {
+      "group": "식물",
+      "name_ko": "붉나무",
+      "scientific_name": "Rhus chinensis Mill."
+    },
+    {
+      "group": "식물",
+      "name_ko": "쑥갓",
+      "scientific_name": "Glebionis coronaria (L.) Cass. ex Spach"
+    },
+    {
+      "group": "식물",
+      "name_ko": "청미래덩굴",
+      "scientific_name": "Smilax china L."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZMAJ0080.png",
+    "reference_image_id": "ZMAJ0080-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T16:56:28.747009+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "62984a3a8cbfb9d87b402c00c6bec008a9e6c28efa94be60b4259a727bbbe29d"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMAJ0080&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:39+00:00",
+    "html_sha256": "64f451961d64501dc893821a10c63e84ace13471848c17c2ac0671580205e180",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

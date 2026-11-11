@@ -1,0 +1,107 @@
+{
+  "id": "ZTDK0078",
+  "name_ko": "조롱박벌",
+  "scientific_name": "Sphex argentatus fumosus Kohl, 1890",
+  "display_name": "조롱박벌",
+  "family_ko": "구멍벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "구멍벌과",
+      "name_latin": "Sphecidae"
+    },
+    "subfamily": {
+      "name_ko": "구멍벌아과",
+      "name_latin": "Sphecinae"
+    },
+    "genus": {
+      "name_ko": "구멍벌속",
+      "name_latin": "Sphex"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 구멍벌과 (Sphecidae)\n아과 : 구멍벌아과 (Sphecinae)\n속 : 구멍벌속 (Sphex)",
+  "basic_information": {
+    "곤충명": "조롱박벌",
+    "학명": "Sphex argentatus fumosus Kohl, 1890"
+  },
+  "information": {
+    "general_description": "몸길이는 25-30 mm 정도이며 암컷의 몸은 전부 흑색이며 회백색의 짧은 털이 났다. 큰턱은 크고 강하며 얼굴과 뒷머리에 짧은 은색털이 촘촘히 났다. 날개는 투명하고 회백색을띠고 앞가슴의 바깥쪽으로 가면서 암회색을 띤다. 배는 방추형이고 다소 편평하고 제1마디는 배자루로 되고 원추형을 이룬다. 배와 다리는 광택이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "줄베짱이. 베짱이. 베짱이붙이. 매붙이. 북방실베짱이 등의 유충과 성충을 포식한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[호주]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 25-30 mm 정도이며 암컷의 몸은 전부 흑색이며 회백색의 짧은 털이 났다. 큰턱은 크고 강하며 얼굴과 뒷머리에 짧은 은색털이 촘촘히 났다. 날개는 투명하고 회백색을띠고 앞가슴의 바깥쪽으로 가면서 암회색을 띤다. 배는 방추형이고 다소 편평하고 제1마디는 배자루로 되고 원추형을 이룬다. 배와 다리는 광택이 있다."
+    },
+    {
+      "title": "생태",
+      "text": "줄베짱이. 베짱이. 베짱이붙이. 매붙이. 북방실베짱이 등의 유충과 성충을 포식한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[호주]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDK0078-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0078_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0078_1_th.jpg",
+      "alt": "조롱박벌 1번째 사진 : 조롱박벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0078_1_th2.jpg",
+      "caption": "조롱박벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDK0078-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306262012",
+      "description": "[YNUE0306262012] 조롱박벌 1989.07.30 / / 영남대학교"
+    },
+    {
+      "id": "SNUE0112192001",
+      "description": "[SNUE0112192001] 조롱박벌 2001.08.08 / / 서울대학교"
+    },
+    {
+      "id": "ENHE0606071013",
+      "description": "[ENHE0606071013] 조롱박벌 1954.08.07 / / 이화여자대학교 자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDK0078-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDK0078&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:40+00:00",
+    "html_sha256": "64479b33e70079f9302af941582cb577a052478805b615d94ff9ae11082c3361",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

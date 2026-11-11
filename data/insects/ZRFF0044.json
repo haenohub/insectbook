@@ -1,0 +1,163 @@
+{
+  "id": "ZRFF0044",
+  "name_ko": "치악잎말이나방",
+  "scientific_name": "Pandemis corylana (Fabricius, 1794)",
+  "display_name": "치악잎말이나방",
+  "family_ko": "잎말이나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎말이나방상과",
+      "name_latin": "Tortricoidea"
+    },
+    "family": {
+      "name_ko": "잎말이나방과",
+      "name_latin": "Tortricidae"
+    },
+    "subfamily": {
+      "name_ko": "잎말이나방아과",
+      "name_latin": "Tortricinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Pandemis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 잎말이나방상과 (Tortricoidea)\n과 : 잎말이나방과 (Tortricidae)\n아과 : 잎말이나방아과 (Tortricinae)\n속 : (Pandemis)",
+  "basic_information": {
+    "곤충명": "치악잎말이나방",
+    "학명": "Pandemis corylana (Fabricius, 1794)"
+  },
+  "information": {
+    "general_description": "수컷의 앞이마와 아랫입술수염의 안쪽은 백색이다. 앞날개의 바탕색은 담황갈색에서 등갈색으로 개체에 따라 변이가 많다. 날개 전면에 암갈색 내지 암적갈색의 작은 횡선들이 보다 명료하게 무수히 흩어져 있으며, 같은 색으로 시맥이 나타나 보인다. 날개 기부의 무늬와 중횡대, 전연의 무늬들은 암색을 나타내며, 경계부는 농색의 가는 선으로 뚜렷한 경계를 이룬다. 기부 무늬의 바깥 경계선은 불규칙하게 안쪽으로 오목하게 나타나 보이며, 중횡대는 바깥쪽으로 다소 볼록하게 구부러져 있다. 뒷날개의 전연 부분은 회황색을 나타내고 갈색의 가는 선이 흩어져있다.",
+    "adult": null,
+    "adult_male": "수컷 생식기의 구상돌기는 끝쪽이 넓으며, 가운데가 오목하게 들어가 보인다. 파악판은 반원형으로 둥글며, 같은 속의 종들 중에서 가장 나비가 넓다. 삭쿨루스는 활 모양으로 구부러져 있고, 삽입기는 피스톨 모양이다.",
+    "adult_female": "암컷 생식기의 교미구판은 깔때기 모양이며, 교미주머니는 크고 긴 달걀 모양으로 잘 경화된 2개의 조각이 있다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "유충은 우리 나라에서 조사된 것은 없으나, 참나무류, 벚나무류, 물푸레나무류, 개암나무류 등의 잎을 먹는다.",
+    "habits": "기주식물 참나무류, 벚나무류, 물푸레나무류, 개암나무류",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대한민국] 강원특별자치도\n[중국]\n[일본]\n[러시아]\n[유럽]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "수컷의 앞이마와 아랫입술수염의 안쪽은 백색이다. 앞날개의 바탕색은 담황갈색에서 등갈색으로 개체에 따라 변이가 많다. 날개 전면에 암갈색 내지 암적갈색의 작은 횡선들이 보다 명료하게 무수히 흩어져 있으며, 같은 색으로 시맥이 나타나 보인다. 날개 기부의 무늬와 중횡대, 전연의 무늬들은 암색을 나타내며, 경계부는 농색의 가는 선으로 뚜렷한 경계를 이룬다. 기부 무늬의 바깥 경계선은 불규칙하게 안쪽으로 오목하게 나타나 보이며, 중횡대는 바깥쪽으로 다소 볼록하게 구부러져 있다. 뒷날개의 전연 부분은 회황색을 나타내고 갈색의 가는 선이 흩어져있다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "수컷 생식기의 구상돌기는 끝쪽이 넓으며, 가운데가 오목하게 들어가 보인다. 파악판은 반원형으로 둥글며, 같은 속의 종들 중에서 가장 나비가 넓다. 삭쿨루스는 활 모양으로 구부러져 있고, 삽입기는 피스톨 모양이다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "암컷 생식기의 교미구판은 깔때기 모양이며, 교미주머니는 크고 긴 달걀 모양으로 잘 경화된 2개의 조각이 있다."
+    },
+    {
+      "title": "생태",
+      "text": "유충은 우리 나라에서 조사된 것은 없으나, 참나무류, 벚나무류, 물푸레나무류, 개암나무류 등의 잎을 먹는다."
+    },
+    {
+      "title": "습성",
+      "text": "기주식물 참나무류, 벚나무류, 물푸레나무류, 개암나무류"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대한민국] 강원특별자치도\n[중국]\n[일본]\n[러시아]\n[유럽]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRFF0044-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0044_7.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0044_7_th.jpg",
+      "alt": "치악잎말이나방 1번째 사진 : 치악잎말이나방가슴 확대 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0044_7_th2.jpg",
+      "caption": "치악잎말이나방가슴 확대 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRFF0044-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0044_6.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0044_6_th.jpg",
+      "alt": "치악잎말이나방 2번째 사진 : 치악잎말이나방배 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0044_6_th2.jpg",
+      "caption": "치악잎말이나방배 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRFF0044-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0044_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0044_2_th.jpg",
+      "alt": "치악잎말이나방 3번째 사진 : 치악잎말이나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0044_2_th2.jpg",
+      "caption": "치악잎말이나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRFF0044-4",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0044_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0044_1_th.jpg",
+      "alt": "치악잎말이나방 4번째 사진 : 치악잎말이나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0044_1_th2.jpg",
+      "caption": "치악잎말이나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRFF0044-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303151033",
+      "description": "[KNAE0303151033] 치악잎말이나방 1998.06.13 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303151034",
+      "description": "[KNAE0303151034] 치악잎말이나방 1998.06.14 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303171003",
+      "description": "[KNAE0303171003] 치악잎말이나방 1998.06.10 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "물푸레나무",
+      "scientific_name": "Fraxinus rhynchophylla Hance"
+    },
+    {
+      "group": "식물",
+      "name_ko": "벚나무",
+      "scientific_name": "Prunus serrulata f. spontanea (Maxim.) Chin S.Chang"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRFF0044-3"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRFF0044&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:24+00:00",
+    "html_sha256": "eb1d626159ad3d8a316312cdb84f91e6aac4ff92810b646ecc617ee77186199b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

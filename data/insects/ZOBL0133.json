@@ -1,0 +1,114 @@
+{
+  "id": "ZOBL0133",
+  "name_ko": "홀쭉범하늘소",
+  "scientific_name": "Chlorophorus muscosus (Bates, 1873)",
+  "display_name": "홀쭉범하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "하늘소아과",
+      "name_latin": "Cerambycinae"
+    },
+    "genus": {
+      "name_ko": "범하늘소속",
+      "name_latin": "Chlorophorus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 하늘소아과 (Cerambycinae)\n속 : 범하늘소속 (Chlorophorus)",
+  "basic_information": {
+    "곤충명": "홀쭉범하늘소",
+    "학명": "Chlorophorus muscosus (Bates, 1873)"
+  },
+  "information": {
+    "general_description": "몸 길이는 9~15mm 몸 색깔은 연 녹색이며 앞가슴등판 가운데 흑색 반문이 있다. 딱지날개의 무늬가 가늘고 길며 가운데 부분 2개, 밑부분 2개씩 흑색으로 무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸 길이는 9~15mm 몸 색깔은 연 녹색이며 앞가슴등판 가운데 흑색 반문이 있다. 딱지날개의 무늬가 가늘고 길며 가운데 부분 2개, 밑부분 2개씩 흑색으로 무늬가 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0133-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0133_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0133_1_th.jpg",
+      "alt": "홀쭉범하늘소 1번째 사진 : 홀쭉범하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0133_1_th2.jpg",
+      "caption": "홀쭉범하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0133-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0408101011",
+      "description": "[KNAE0408101011] 홀쭉범하늘소 2001.08.17 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0408091073",
+      "description": "[KNAE0408091073] 홀쭉범하늘소 2002.07.28 / / 국립수목원"
+    },
+    {
+      "id": "UIBE0301282099",
+      "description": "[UIBE0301282099] 홀쭉범하늘소 1995.08.11 / / 인천대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "느티나무",
+      "scientific_name": "Zelkova serrata (Thunb.) Makino"
+    },
+    {
+      "group": "식물",
+      "name_ko": "예덕나무",
+      "scientific_name": "Mallotus japonicus (L.f.) Müll.Arg."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0133-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0133&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:24+00:00",
+    "html_sha256": "69ddef4693fe91bd12658646eb59d768ba2e35afb902b1e44706c5d350fc7873",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

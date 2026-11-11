@@ -1,0 +1,133 @@
+{
+  "id": "ZLBX0056",
+  "name_ko": "홍다리노린재",
+  "scientific_name": "Pentatoma rufipes (Linnaeus, 1758)",
+  "display_name": "홍다리노린재",
+  "family_ko": "노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "노린재상과",
+      "name_latin": "Pentatomoidea"
+    },
+    "family": {
+      "name_ko": "노린재과",
+      "name_latin": "Pentatomidae"
+    },
+    "subfamily": {
+      "name_ko": "노린재아과",
+      "name_latin": "Pentatominae"
+    },
+    "genus": {
+      "name_ko": "왕노린재속",
+      "name_latin": "Pentatoma"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 노린재상과 (Pentatomoidea)\n과 : 노린재과 (Pentatomidae)\n아과 : 노린재아과 (Pentatominae)\n속 : 왕노린재속 (Pentatoma)",
+  "basic_information": {
+    "곤충명": "홍다리노린재",
+    "학명": "Pentatoma rufipes (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "몸길이 : 12-18mm\n몸의 등면은 암갈색에 구리빛 금속 광택을 띠며, 미세한 검은 점각이 산재한다. 아랫면은 암적갈색이 대부분을 차지한다. 머리의 측엽 선단부는 서로 만나서 중엽을 에워싼다. 더듬이는 제 1마디가 가장 짧고, 4-5마디의 말단부 절반은 흑갈색으로 색조가 어둡다. 앞가슴등판은 양 어깨가 크고 넓게 돌출하였고, 선단부가 뒤쪽으로 뾰족하다. 어깨의 앞부분은 가장자리를 따라 작은 톱니 모양의 돌기를 가진다. 작은방패판은 볼록하고 선단부에 회황색 또는 황갈색의 무늬가 있다. 배의 가장자리는 앞날개의 바깥으로 확장되었으며, 각 마디의 앞과 뒷가장자리가 검정색띠를 가진다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "산림지대에 서식한다. 활엽수를 주로 먹고 산다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]\n[유럽]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 12-18mm\n몸의 등면은 암갈색에 구리빛 금속 광택을 띠며, 미세한 검은 점각이 산재한다. 아랫면은 암적갈색이 대부분을 차지한다. 머리의 측엽 선단부는 서로 만나서 중엽을 에워싼다. 더듬이는 제 1마디가 가장 짧고, 4-5마디의 말단부 절반은 흑갈색으로 색조가 어둡다. 앞가슴등판은 양 어깨가 크고 넓게 돌출하였고, 선단부가 뒤쪽으로 뾰족하다. 어깨의 앞부분은 가장자리를 따라 작은 톱니 모양의 돌기를 가진다. 작은방패판은 볼록하고 선단부에 회황색 또는 황갈색의 무늬가 있다. 배의 가장자리는 앞날개의 바깥으로 확장되었으며, 각 마디의 앞과 뒷가장자리가 검정색띠를 가진다."
+    },
+    {
+      "title": "생태",
+      "text": "산림지대에 서식한다. 활엽수를 주로 먹고 산다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]\n[유럽]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLBX0056-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0056_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0056_2_th.jpg",
+      "alt": "홍다리노린재 1번째 사진 : 홍다리노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0056_2_th2.jpg",
+      "caption": "홍다리노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZLBX0056-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0056_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0056_1_th.jpg",
+      "alt": "홍다리노린재 2번째 사진 : 홍다리노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0056_1_th2.jpg",
+      "caption": "홍다리노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLBX0056-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408201093",
+      "description": "[MPME0408201093] 홍다리노린재 1999.07.26 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408201094",
+      "description": "[MPME0408201094] 홍다리노린재 1999.07.26 / / 목포자연사박물관"
+    },
+    {
+      "id": "KUIE0406202087",
+      "description": "[KUIE0406202087] 홍다리노린재 1958.07.27 / / 고려대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "느릅나무",
+      "scientific_name": "Ulmus davidiana var. japonica (Rehder) Nakai"
+    },
+    {
+      "group": "식물",
+      "name_ko": "자작나무",
+      "scientific_name": "Betula pendula Roth"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLBX0056-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLBX0056&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:31+00:00",
+    "html_sha256": "de3f37b86f83fc920d827a62aa94f8238e3c90540924408902cf1d37d9af2a63",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

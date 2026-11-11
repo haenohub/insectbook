@@ -1,0 +1,99 @@
+{
+  "id": "ZTDO0200",
+  "name_ko": "소요잎벌",
+  "scientific_name": "Tenthredo (Temuledo) ouralensis (André, 1881)",
+  "display_name": "소요잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "잎벌아과",
+      "name_latin": "Tenthredininae"
+    },
+    "genus": {
+      "name_ko": "잎벌속",
+      "name_latin": "Tenthredo"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 잎벌아과 (Tenthredininae)\n속 : 잎벌속 (Tenthredo)",
+  "basic_information": {
+    "곤충명": "소요잎벌",
+    "학명": "Tenthredo (Temuledo) ouralensis (André, 1881)"
+  },
+  "information": {
+    "general_description": "암컷의 몸길이는 13mm,몸은 흑색이다. 머리방패의 중앙, malar space, 앞가슴등판의 뒷가두리, 어깨판, 작은방패판 중앙, 뒷가슴등판의 앞가두리, 제 3,4배등판, 제 5~9배등판의 뒤쪽가두리와 모든 배판의 뒤쪽 가두리는 노란색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷의 몸길이는 13mm,몸은 흑색이다. 머리방패의 중앙, malar space, 앞가슴등판의 뒷가두리, 어깨판, 작은방패판 중앙, 뒷가슴등판의 앞가두리, 제 3,4배등판, 제 5~9배등판의 뒤쪽가두리와 모든 배판의 뒤쪽 가두리는 노란색이다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0200-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0200_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0200_1_th.jpg",
+      "alt": "소요잎벌 1번째 사진 : 소요잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0200_1_th2.jpg",
+      "caption": "소요잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0200-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305201063",
+      "description": "[YNUE0305201063] 소요잎벌 1987.06.14 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0211162080",
+      "description": "[YNUE0211162080] 소요잎벌 1991.05.10 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0211162081",
+      "description": "[YNUE0211162081] 소요잎벌 1991.05.30 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDO0200-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0200&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:16+00:00",
+    "html_sha256": "293dbd72ddbf1d0731a987d23bfac5cb1b54bdd83e475588ec202961c497cb34",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

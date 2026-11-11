@@ -1,0 +1,107 @@
+{
+  "id": "ZRCI0129",
+  "name_ko": "노랑줄흰물결자나방",
+  "scientific_name": "Asthena anseraria (Herrich-Schäffer, 1855)",
+  "display_name": "노랑줄흰물결자나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "물결자나방아과",
+      "name_latin": "Larentiinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Asthena"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 물결자나방아과 (Larentiinae)\n속 : (Asthena)",
+  "basic_information": {
+    "곤충명": "노랑줄흰물결자나방",
+    "학명": "Asthena anseraria (Herrich-Schäffer, 1855)"
+  },
+  "information": {
+    "general_description": "더듬이 - 암수 모두 미모상.\n몸과 날개 순백색, 이마의 백연 및 횡선은 주황색이다.\n날개(17mm 내외) - 외연에 주황색 무늬가 줄을 이룸. 횡맥에 점 있다.\n*앞날개 : 5줄의 횡선있다. 횡맥의 안쪽에 3개의 줄이 같은 간격으로\n평행하여 달리고 있다.\n*뒷날개 : 횡맥 안쪽에 횡선이 없다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이 - 암수 모두 미모상.\n몸과 날개 순백색, 이마의 백연 및 횡선은 주황색이다.\n날개(17mm 내외) - 외연에 주황색 무늬가 줄을 이룸. 횡맥에 점 있다.\n*앞날개 : 5줄의 횡선있다. 횡맥의 안쪽에 3개의 줄이 같은 간격으로\n평행하여 달리고 있다.\n*뒷날개 : 횡맥 안쪽에 횡선이 없다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0129-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0129_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0129_1_th.jpg",
+      "alt": "노랑줄흰물결자나방 1번째 사진 : 노랑줄흰물결자나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0129_1_th2.jpg",
+      "caption": "노랑줄흰물결자나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0129-1",
+  "specimen_examples": [
+    {
+      "id": "KKFE0407011024",
+      "description": "[KKFE0407011024] 노랑줄흰물결자나방 1997.07.26 / / 경기산림환경연구소"
+    },
+    {
+      "id": "KKFE0407011025",
+      "description": "[KKFE0407011025] 노랑줄흰물결자나방 1999.06.18 / / 경기산림환경연구소"
+    },
+    {
+      "id": "KKFE0407011021",
+      "description": "[KKFE0407011021] 노랑줄흰물결자나방 1999.08.21 / / 경기산림환경연구소"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCI0129-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0129&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:26+00:00",
+    "html_sha256": "fbbf867c36a0b741e412feb0088b94ef403787e60c33a34ea9a606603c6574a9",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

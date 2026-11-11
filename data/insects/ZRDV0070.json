@@ -1,0 +1,167 @@
+{
+  "id": "ZRDV0070",
+  "name_ko": "네발나비",
+  "scientific_name": "Polygonia c-aureum (Linnaeus, 1758)",
+  "display_name": "네발나비",
+  "family_ko": "네발나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "네발나비과",
+      "name_latin": "Nymphalidae"
+    },
+    "subfamily": {
+      "name_ko": "네발나비아과",
+      "name_latin": "Nymphalinae"
+    },
+    "genus": {
+      "name_ko": "네발나비속",
+      "name_latin": "Polygonia"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 네발나비과 (Nymphalidae)\n아과 : 네발나비아과 (Nymphalinae)\n속 : 네발나비속 (Polygonia)",
+  "basic_information": {
+    "곤충명": "네발나비",
+    "학명": "Polygonia c-aureum (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "여름형은 윗면이 황갈색에 검은색의 점무늬가 있으며 아랫면은 연한 황갈색 바탕에 갈색의 가는 줄무늬가 있으나 가을형은 윗면이 붉은색이 돌고 아랫면은 짙은 적갈색이다. 무늬에 의한 암수구별은 어렵고 배끝의 모양으로 확실하게 구별된다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": "암컷의 경우 날개 외연이 둥글게 보이는데, 더 확실히 수컷과 비교시에는 배끝을 관찰한다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "일반적으로 낮은 계곡주변이나 강가 등에 살며 매우 흔한 종이다. 여름형과 가을형은 날개의 색이나 모양에서 차이가 관찰된다.",
+    "habits": "주로 여름형은 나무진에 모여들며, 가을형은 구절초, 산국 등의 꽃에서 꿀을 빨며 떨어진 감의 과즙을 먹는 경우도 있다. 여름형은 6월에서 8월에, 가을형은 다음해 5월, 중부방의 경우 2-3회, 남부지방에서는 3-4회 발생하는 것으로 알려져 있다.",
+    "season": null,
+    "overwintering": "성충",
+    "distribution": "[일본]\n[중국]\n[대만]\n[인도]",
+    "notes": "[보통종]\n[흡밀곤충] 구절초, 산국 (박,김, 1997)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "여름형은 윗면이 황갈색에 검은색의 점무늬가 있으며 아랫면은 연한 황갈색 바탕에 갈색의 가는 줄무늬가 있으나 가을형은 윗면이 붉은색이 돌고 아랫면은 짙은 적갈색이다. 무늬에 의한 암수구별은 어렵고 배끝의 모양으로 확실하게 구별된다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "암컷의 경우 날개 외연이 둥글게 보이는데, 더 확실히 수컷과 비교시에는 배끝을 관찰한다."
+    },
+    {
+      "title": "생태",
+      "text": "일반적으로 낮은 계곡주변이나 강가 등에 살며 매우 흔한 종이다. 여름형과 가을형은 날개의 색이나 모양에서 차이가 관찰된다."
+    },
+    {
+      "title": "습성",
+      "text": "주로 여름형은 나무진에 모여들며, 가을형은 구절초, 산국 등의 꽃에서 꿀을 빨며 떨어진 감의 과즙을 먹는 경우도 있다. 여름형은 6월에서 8월에, 가을형은 다음해 5월, 중부방의 경우 2-3회, 남부지방에서는 3-4회 발생하는 것으로 알려져 있다."
+    },
+    {
+      "title": "월동",
+      "text": "성충"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[대만]\n[인도]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]\n[흡밀곤충] 구절초, 산국 (박,김, 1997)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDV0070-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0070_4.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0070_4.jpg",
+      "alt": "네발나비 1번째 사진 : 네발나비 봄형 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0070_4_th2.jpg",
+      "caption": "네발나비 봄형 이미지",
+      "photographed_at": "20200612",
+      "location": null,
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRDV0070-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0070_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0070_3.jpg",
+      "alt": "네발나비 2번째 사진 : 네발나비 가을형 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0070_3_th2.jpg",
+      "caption": "네발나비 가을형 이미지",
+      "photographed_at": null,
+      "location": null,
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRDV0070-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0070_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0070_2_th.jpg",
+      "alt": "네발나비 3번째 사진 : 네발나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0070_2_th2.jpg",
+      "caption": "네발나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDV0070-4",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0070_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0070_1_th.jpg",
+      "alt": "네발나비 4번째 사진 : 네발나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0070_1_th2.jpg",
+      "caption": "네발나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDV0070-1",
+  "specimen_examples": [
+    {
+      "id": "MPNE0408101388",
+      "description": "[MPNE0408101388] 네발나비 2003.10.03 / / 목포 대학교 환경연구소"
+    },
+    {
+      "id": "MPNE0408101389",
+      "description": "[MPNE0408101389] 네발나비 2004.04.16 / / 목포 대학교 환경연구소"
+    },
+    {
+      "id": "MPNE0408101390",
+      "description": "[MPNE0408101390] 네발나비 2004.04.16 / / 목포 대학교 환경연구소"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "환삼덩굴",
+      "scientific_name": "Humulus scandens (Lour.) Merr."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDV0070.png",
+    "reference_image_id": "ZRDV0070-4",
+    "reference_review_note": "세 번째 사진보다 날개 가장자리·두 더듬이가 온전한 네 번째 전체 사진 선택",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T10:45:28.426550+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "636d2f2147e98b2916de30cfcd63ddf043e12e6e321618f6a353bb41ef6edca3"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDV0070&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:48+00:00",
+    "html_sha256": "6ed2b66e3ba03ac81cef19fd7445ad09bb22a9d30c97c3db25face923d6e5808",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "id": "ZOAM0015",
+  "name_ko": "소바구미",
+  "scientific_name": "Exechesops leucopis (Jordan, 1928)",
+  "display_name": "소바구미",
+  "family_ko": "소바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "소바구미과",
+      "name_latin": "Anthribidae"
+    },
+    "subfamily": {
+      "name_ko": "소바구미아과",
+      "name_latin": "Anthribinae"
+    },
+    "genus": {
+      "name_ko": "소바구미속",
+      "name_latin": "Exechesops"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 소바구미과 (Anthribidae)\n아과 : 소바구미아과 (Anthribinae)\n속 : 소바구미속 (Exechesops)",
+  "basic_information": {
+    "곤충명": "소바구미",
+    "학명": "Exechesops leucopis (Jordan, 1928)"
+  },
+  "information": {
+    "general_description": "체색은 흑색.\n머리는 흰색의 털로 덮여 있으며, 나머지 부분은 밝은 황갈색의 털로 덮임.\n눈은 머리의 양쪽으로 돌출된 부위의 윗부분에 존재.\n주둥이는 앞쪽으로 좁아지며, 앞가슴등판도 ㅇ약간 둥근편이다.\n후융기선은 앞가슴등판의 중앙 바로 뒤에 있다.",
+    "adult": null,
+    "adult_male": "촉각이 암컷보다 훨씬 길어서 실모양과 비슷하며, 채찍마디가 곤봉부보다 약간 가늘고 길다.\n머리의 양쪽으로 돌출된 부위가 암컷보다 훨씬 길다.",
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[베트남]\n[러시아]",
+    "notes": "[보통종]\n[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체색은 흑색.\n머리는 흰색의 털로 덮여 있으며, 나머지 부분은 밝은 황갈색의 털로 덮임.\n눈은 머리의 양쪽으로 돌출된 부위의 윗부분에 존재.\n주둥이는 앞쪽으로 좁아지며, 앞가슴등판도 ㅇ약간 둥근편이다.\n후융기선은 앞가슴등판의 중앙 바로 뒤에 있다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "촉각이 암컷보다 훨씬 길어서 실모양과 비슷하며, 채찍마디가 곤봉부보다 약간 가늘고 길다.\n머리의 양쪽으로 돌출된 부위가 암컷보다 훨씬 길다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[베트남]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]\n[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAM0015-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0015_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0015_2_th.jpg",
+      "alt": "소바구미 1번째 사진 : 소바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0015_2_th2.jpg",
+      "caption": "소바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOAM0015-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0015_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0015_1_th.jpg",
+      "alt": "소바구미 2번째 사진 : 소바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0015_1_th2.jpg",
+      "caption": "소바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAM0015-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0201031001",
+      "description": "[SNUE0201031001] 소바구미 1993.08.15 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0201031002",
+      "description": "[SNUE0201031002] 소바구미 1998.08.15 / / 서울대학교"
+    },
+    {
+      "id": "KNAE1006301017",
+      "description": "[KNAE1006301017] 소바구미 2007.08.29 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAM0015-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAM0015&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:13+00:00",
+    "html_sha256": "39c8701ab29b07834e263cea0b52ea51b0a3f2eeab13125f1074bb9bf48892aa",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

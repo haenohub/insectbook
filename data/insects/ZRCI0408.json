@@ -1,0 +1,122 @@
+{
+  "id": "ZRCI0408",
+  "name_ko": "귤빛가지나방",
+  "scientific_name": "Heterarmia buettneri (Hedemann, 1881)",
+  "display_name": "귤빛가지나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "가지나방아과",
+      "name_latin": "Ennominae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Heterarmia"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 가지나방아과 (Ennominae)\n속 : (Heterarmia)",
+  "basic_information": {
+    "곤충명": "귤빛가지나방",
+    "학명": "Heterarmia buettneri (Hedemann, 1881)"
+  },
+  "information": {
+    "general_description": "청평, 치악산, 천마산과 한국, 아무르에 분포한다. 더듬이는 수컷이 빗살 모양이고, 암컷은 실 모양이다. 몸과 날개는 등황색인데 횡선은 갈색이다.\n앞날개의 내횡선, 중횡선, 외횡선은 모두 전연 아래에서 밖으로 구부러지며, 내횡선과 외횡선은 뚜렷하나 중횡선은 그렇지 않은 경우가 있다. 아외연선은 뚜렷하지 않다. 뒷날개의 횡선은 앞날개의 연장으로 보인다. 뒷날개 외횡선은 제 3중맥(M3)에서 모서리가 지고 구부러지며 횡맥 무늬가 작게 나타난다.\n날개길이 : 31∼38mm",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6월에 출현한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "청평, 치악산, 천마산과 한국, 아무르에 분포한다. 더듬이는 수컷이 빗살 모양이고, 암컷은 실 모양이다. 몸과 날개는 등황색인데 횡선은 갈색이다.\n앞날개의 내횡선, 중횡선, 외횡선은 모두 전연 아래에서 밖으로 구부러지며, 내횡선과 외횡선은 뚜렷하나 중횡선은 그렇지 않은 경우가 있다. 아외연선은 뚜렷하지 않다. 뒷날개의 횡선은 앞날개의 연장으로 보인다. 뒷날개 외횡선은 제 3중맥(M3)에서 모서리가 지고 구부러지며 횡맥 무늬가 작게 나타난다.\n날개길이 : 31∼38mm"
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6월에 출현한다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0408-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0408_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0408_2_th.jpg",
+      "alt": "귤빛가지나방 1번째 사진 : 귤빛가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0408_2_th2.jpg",
+      "caption": "귤빛가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0408-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0408_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0408_1_th.jpg",
+      "alt": "귤빛가지나방 2번째 사진 : 귤빛가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0408_1_th2.jpg",
+      "caption": "귤빛가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0408-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304181021",
+      "description": "[KNAE0304181021] 귤빛가지나방 1997.06.18 / / 국립수목원"
+    },
+    {
+      "id": "KNUE0212281486",
+      "description": "[KNUE0212281486] 귤빛가지나방 1990.06.19 / / 강원대학교"
+    },
+    {
+      "id": "KNAE0302051061",
+      "description": "[KNAE0302051061] 귤빛가지나방 1997.06.18 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRCI0408.png",
+    "reference_image_id": "ZRCI0408-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T14:23:15.954532+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "e2712ae95a597613cd259211c57de799e1cfadda51f8715904a97112a5194dbe"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0408&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:34+00:00",
+    "html_sha256": "f20e8d8db8f922bbd5b9812df816b45069110988065d4516f0e85088072721b7",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

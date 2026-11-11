@@ -1,0 +1,111 @@
+{
+  "id": "ZRFF0287",
+  "name_ko": "포플라애기잎말이나방",
+  "scientific_name": "Saliciphaga caesia Falkovitsh, 1962",
+  "display_name": "포플라애기잎말이나방",
+  "family_ko": "잎말이나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎말이나방상과",
+      "name_latin": "Tortricoidea"
+    },
+    "family": {
+      "name_ko": "잎말이나방과",
+      "name_latin": "Tortricidae"
+    },
+    "subfamily": {
+      "name_ko": "애기잎말이나방아과",
+      "name_latin": "Olethreutinae"
+    },
+    "genus": {
+      "name_ko": "물결애기잎말이나방속",
+      "name_latin": "Saliciphaga"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 잎말이나방상과 (Tortricoidea)\n과 : 잎말이나방과 (Tortricidae)\n아과 : 애기잎말이나방아과 (Olethreutinae)\n속 : 물결애기잎말이나방속 (Saliciphaga)",
+  "basic_information": {
+    "곤충명": "포플라애기잎말이나방",
+    "학명": "Saliciphaga caesia Falkovitsh, 1962"
+  },
+  "information": {
+    "general_description": "한국의 경기도 , 일본, 중국, 아무르에 분포하며 앞날개의 물결 모양 무늬의 세선이 불명료하다. 내횡대의 후연부와 중대는 황색을 띠고, 중실 끝부분의 중대 외측에 구부러진 달 모양의 황백색 무늬는 뚜렷하다. 전연의 톱니 무늬는 기부부터 잘 발달되었다.",
+    "adult": null,
+    "adult_male": "생식기의 구상돌기 기부가 가늘고 길다.",
+    "adult_female": "생식기의 교미구 주위의 형태적 차이로 구별된다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국의 경기도 , 일본, 중국, 아무르에 분포하며 앞날개의 물결 모양 무늬의 세선이 불명료하다. 내횡대의 후연부와 중대는 황색을 띠고, 중실 끝부분의 중대 외측에 구부러진 달 모양의 황백색 무늬는 뚜렷하다. 전연의 톱니 무늬는 기부부터 잘 발달되었다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "생식기의 구상돌기 기부가 가늘고 길다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "생식기의 교미구 주위의 형태적 차이로 구별된다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRFF0287-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0287_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0287_1_th.jpg",
+      "alt": "포플라애기잎말이나방 1번째 사진 : 포플라애기잎말이나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0287_1_th2.jpg",
+      "caption": "포플라애기잎말이나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRFF0287-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0203291024",
+      "description": "[FRIE0203291024] 포플라애기잎말이나방 1984.07.01 / / 국립산림과학원"
+    },
+    {
+      "id": "UIBE0407061098",
+      "description": "[UIBE0407061098] 포플라애기잎말이나방 1995.06.16 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0407061101",
+      "description": "[UIBE0407061101] 포플라애기잎말이나방 1998.08.11 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRFF0287-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRFF0287&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:44+00:00",
+    "html_sha256": "c30aed22729e4288f19c3133643ab8f7cd7648918db02bc5aacc06ed17b2c775",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

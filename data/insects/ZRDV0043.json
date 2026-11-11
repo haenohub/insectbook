@@ -1,0 +1,143 @@
+{
+  "id": "ZRDV0043",
+  "name_ko": "참줄나비",
+  "scientific_name": "Limenitis moltrechti Kardakoff, 1928",
+  "display_name": "참줄나비",
+  "family_ko": "네발나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "네발나비과",
+      "name_latin": "Nymphalidae"
+    },
+    "subfamily": {
+      "name_ko": "줄나비아과",
+      "name_latin": "Limenitidinae"
+    },
+    "genus": {
+      "name_ko": "줄나비속",
+      "name_latin": "Limenitis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 네발나비과 (Nymphalidae)\n아과 : 줄나비아과 (Limenitidinae)\n속 : 줄나비속 (Limenitis)",
+  "basic_information": {
+    "곤충명": "참줄나비",
+    "학명": "Limenitis moltrechti Kardakoff, 1928"
+  },
+  "information": {
+    "general_description": "암컷은 수컷에 비하여 크고 날개모양이 둥그스름하며 바탕새이 다소 연하다. 암수구별은 배끝의 모양을 조사하는 것이 확실하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "잡목림이 많은 산지의 계곡을 낀 소로에 서식한다. 수컷은 나뭇잎 위에 앉아 점유행동을 강하게 하거나 습지에 내려앉으며, 새똥에도 잘 모인다. 암컷은 올괴불나무 근처에서 천천히 날아다녀 관찰하기는 쉬은 편이다.",
+    "season": null,
+    "overwintering": "애벌레",
+    "distribution": "[중국]\n[러시아]",
+    "notes": "[국지적분포종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷은 수컷에 비하여 크고 날개모양이 둥그스름하며 바탕새이 다소 연하다. 암수구별은 배끝의 모양을 조사하는 것이 확실하다."
+    },
+    {
+      "title": "습성",
+      "text": "잡목림이 많은 산지의 계곡을 낀 소로에 서식한다. 수컷은 나뭇잎 위에 앉아 점유행동을 강하게 하거나 습지에 내려앉으며, 새똥에도 잘 모인다. 암컷은 올괴불나무 근처에서 천천히 날아다녀 관찰하기는 쉬은 편이다."
+    },
+    {
+      "title": "월동",
+      "text": "애벌레"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[국지적분포종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDV0043-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0043_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0043_3.jpg",
+      "alt": "참줄나비 1번째 사진 : 참줄나비 암컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0043_3_th2.jpg",
+      "caption": "참줄나비 암컷 이미지",
+      "photographed_at": "20110628",
+      "location": "강원도 화천군 해산",
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRDV0043-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0043_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0043_2_th.jpg",
+      "alt": "참줄나비 2번째 사진 : 참줄나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0043_2_th2.jpg",
+      "caption": "참줄나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDV0043-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0043_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0043_1_th.jpg",
+      "alt": "참줄나비 3번째 사진 : 참줄나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0043_1_th2.jpg",
+      "caption": "참줄나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDV0043-1",
+  "specimen_examples": [
+    {
+      "id": "ADUE0305011140",
+      "description": "[ADUE0305011140] 참줄나비 2002.06.22 / / 안동대학교"
+    },
+    {
+      "id": "KUIE0303261153",
+      "description": "[KUIE0303261153] 참줄나비 1958.05.20 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0303261154",
+      "description": "[KUIE0303261154] 참줄나비 1974.07.23 / / 고려대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "올괴불나무",
+      "scientific_name": "Lonicera praeflorens Batalin"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDV0043-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDV0043&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:02+00:00",
+    "html_sha256": "756291537f804125e1c42c4cb331828ff2356ed83464656f8dc9bce732960790",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "ZOBH0446",
+  "name_ko": "흑선두리먼지벌레",
+  "scientific_name": "Parena nigrolineata nipponensis Habu, 1964",
+  "display_name": "흑선두리먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "먼지벌레아과",
+      "name_latin": "Harpalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Parena"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 먼지벌레아과 (Harpalinae)\n속 : (Parena)",
+  "basic_information": {
+    "곤충명": "흑선두리먼지벌레",
+    "학명": "Parena nigrolineata nipponensis Habu, 1964"
+  },
+  "information": {
+    "general_description": "몸길이는 8~9.5mm 이며 다리,촉각,두부,전흉배판은 적갈색 딱지날개는 적갈색이나 제5세로줄부터 제8세로줄까지는 녹색 및 검은색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 8~9.5mm 이며 다리,촉각,두부,전흉배판은 적갈색 딱지날개는 적갈색이나 제5세로줄부터 제8세로줄까지는 녹색 및 검은색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0446-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0446_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0446_1_th.jpg",
+      "alt": "흑선두리먼지벌레 1번째 사진 : 흑선두리먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0446_1_th2.jpg",
+      "caption": "흑선두리먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0446-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303261027",
+      "description": "[KNAE0303261027] 흑선두리먼지벌레 1995.07.15 / / 국립수목원"
+    },
+    {
+      "id": "FRIE0304211050",
+      "description": "[FRIE0304211050] 흑선두리먼지벌레 2001.08.08 / / 국립산림과학원"
+    },
+    {
+      "id": "KPNE0407081167",
+      "description": "[KPNE0407081167] 흑선두리먼지벌레 1981.07.23 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0446-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0446&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:13+00:00",
+    "html_sha256": "b75b23261a2b2d956ac4d65bf48b9786280a2126aedc96a1fd59121f69f81f63",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "ZLCF0003",
+  "name_ko": "여수별노린재",
+  "scientific_name": "Physopelta cincticollis Stål, 1863",
+  "display_name": "여수별노린재",
+  "family_ko": "큰별노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "별노린재상과",
+      "name_latin": "Pyrrhocoroidea"
+    },
+    "family": {
+      "name_ko": "큰별노린재과",
+      "name_latin": "Largidae"
+    },
+    "genus": {
+      "name_ko": "큰별노린재속",
+      "name_latin": "Physopelta"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 별노린재상과 (Pyrrhocoroidea)\n과 : 큰별노린재과 (Largidae)\n속 : 큰별노린재속 (Physopelta)",
+  "basic_information": {
+    "곤충명": "여수별노린재",
+    "학명": "Physopelta cincticollis Stål, 1863"
+  },
+  "information": {
+    "general_description": "몸길이 : 10-13mm\n몸의 등면은 등갈색이고, 흑색의 점각이 현저하다. 머리는 흑색이고, 홑눈은 없고, 겹눈은 흑색이다. 더듬이는 4마디이고, 흑색이나, 제 4마디의 기반은 황백색이다. 앞가슴등판은 주흑색이나 그 앞가장자리와 옆가장자리는 암주색이고, 옆가장자리는 직선이다. 앞쪽 반은 융기하였으나 뚜렷하지는 않고, 작은방패판은 주흑색이다. 반시초는 암주색이고, 그 안쪽은 암색이다. 혁질부 중앙의 큰 원무늬와 그 끝의 무늬는 흑색이다. 몸의 옆가장자리는 주색이고, 다리의 기부는 연한색이다. 주둥이는 가운데다리의 밑마디 끝을 약간 넘는다. 앞다리의 넓적다리마디의 선반의 안쪽에는 극치가 있다.",
+    "adult": null,
+    "adult_male": "앞다리 넓적다리마디의 선반의 안쪽에는 극치가 있고 특히 굵다.",
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "예당나무의 열매에 대군집을 이룬다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 10-13mm\n몸의 등면은 등갈색이고, 흑색의 점각이 현저하다. 머리는 흑색이고, 홑눈은 없고, 겹눈은 흑색이다. 더듬이는 4마디이고, 흑색이나, 제 4마디의 기반은 황백색이다. 앞가슴등판은 주흑색이나 그 앞가장자리와 옆가장자리는 암주색이고, 옆가장자리는 직선이다. 앞쪽 반은 융기하였으나 뚜렷하지는 않고, 작은방패판은 주흑색이다. 반시초는 암주색이고, 그 안쪽은 암색이다. 혁질부 중앙의 큰 원무늬와 그 끝의 무늬는 흑색이다. 몸의 옆가장자리는 주색이고, 다리의 기부는 연한색이다. 주둥이는 가운데다리의 밑마디 끝을 약간 넘는다. 앞다리의 넓적다리마디의 선반의 안쪽에는 극치가 있다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "앞다리 넓적다리마디의 선반의 안쪽에는 극치가 있고 특히 굵다."
+    },
+    {
+      "title": "생태",
+      "text": "예당나무의 열매에 대군집을 이룬다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLCF0003-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCF0003_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCF0003_1_th.jpg",
+      "alt": "여수별노린재 1번째 사진 : 여수별노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCF0003_1_th2.jpg",
+      "caption": "여수별노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLCF0003-1",
+  "specimen_examples": [
+    {
+      "id": "JFNE0306061260",
+      "description": "[JFNE0306061260] 여수별노린재 1995.08.27 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0306061261",
+      "description": "[JFNE0306061261] 여수별노린재 1995.08.28 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0306061262",
+      "description": "[JFNE0306061262] 여수별노린재 1995.08.29 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLCF0003-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLCF0003&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:02+00:00",
+    "html_sha256": "4fcf3a110557b643236553565f1401c1acf8307489a2794c3f363011f398c523",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

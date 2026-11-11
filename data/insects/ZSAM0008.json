@@ -1,0 +1,115 @@
+{
+  "id": "ZSAM0008",
+  "name_ko": "붉은배털파리",
+  "scientific_name": "Bibio rufiventris (Duda, 1930)",
+  "display_name": "붉은배털파리",
+  "family_ko": "털파리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "털파리상과",
+      "name_latin": "Bibionoidea"
+    },
+    "family": {
+      "name_ko": "털파리과",
+      "name_latin": "Bibionidae"
+    },
+    "subfamily": {
+      "name_ko": "털파리아과",
+      "name_latin": "Bibioninae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Bibio"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 털파리상과 (Bibionoidea)\n과 : 털파리과 (Bibionidae)\n아과 : 털파리아과 (Bibioninae)\n속 : (Bibio)",
+  "basic_information": {
+    "곤충명": "붉은배털파리",
+    "학명": "Bibio rufiventris (Duda, 1930)"
+  },
+  "information": {
+    "general_description": "몸길이는 10~11 mm이다. 날개는 다소 진한 갈색이고 뒤쪽은 연한 색이다. 다리의 넓적다리마디의 기부 1/3은 가늘고, 종아리마디는 굵으며, 제1발목마디는 가늘고 폭이 약 5배 정도 길다.",
+    "adult": null,
+    "adult_male": "몸 전체가 광택 있는 흑색이다.",
+    "adult_female": "가운데가슴등판과 배가 연한 적갈색인데, 제1배마디 등판에는 1쌍의 흑색 점이 있다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "4~5월경에 많이 볼 수 있다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국] 동북지방\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 10~11 mm이다. 날개는 다소 진한 갈색이고 뒤쪽은 연한 색이다. 다리의 넓적다리마디의 기부 1/3은 가늘고, 종아리마디는 굵으며, 제1발목마디는 가늘고 폭이 약 5배 정도 길다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "몸 전체가 광택 있는 흑색이다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "가운데가슴등판과 배가 연한 적갈색인데, 제1배마디 등판에는 1쌍의 흑색 점이 있다."
+    },
+    {
+      "title": "생태",
+      "text": "4~5월경에 많이 볼 수 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국] 동북지방\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSAM0008-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSAM0008_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSAM0008_1_th.jpg",
+      "alt": "붉은배털파리 1번째 사진 : 붉은배털파리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSAM0008_1_th2.jpg",
+      "caption": "붉은배털파리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSAM0008-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0307201173",
+      "description": "[KUIE0307201173] 붉은배털파리 1971.06.13 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307201174",
+      "description": "[KUIE0307201174] 붉은배털파리 1964.04.26 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307201175",
+      "description": "[KUIE0307201175] 붉은배털파리 1972.05.14 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZSAM0008-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSAM0008&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:50+00:00",
+    "html_sha256": "3f9c13cb43c94f0e4c7e25cb82fdc1880d0b1787efc5e949d63a413999d72486",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

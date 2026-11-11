@@ -1,0 +1,99 @@
+{
+  "id": "ZTDO0145",
+  "name_ko": "등홍모자무늬잎벌",
+  "scientific_name": "Dolerus (Poodolerus) liogaster liogaster Thomson, 1871",
+  "display_name": "등홍모자무늬잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "줄잎벌아과",
+      "name_latin": "Selandriinae"
+    },
+    "genus": {
+      "name_ko": "보리잎벌속",
+      "name_latin": "Dolerus"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 줄잎벌아과 (Selandriinae)\n속 : 보리잎벌속 (Dolerus)",
+  "basic_information": {
+    "곤충명": "등홍모자무늬잎벌",
+    "학명": "Dolerus (Poodolerus) liogaster liogaster Thomson, 1871"
+  },
+  "information": {
+    "general_description": "복부는 금속성 광택이 있다. 머리방패는 길이의 1/4정도 파여져 있다. 윗입술은 U자 형이다. 산란관의 끝은 등면에서 볼 때, 매우 둔한 형태이고, cerci의 털은 산란관 끝에 미치지 않는다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "복부는 금속성 광택이 있다. 머리방패는 길이의 1/4정도 파여져 있다. 윗입술은 U자 형이다. 산란관의 끝은 등면에서 볼 때, 매우 둔한 형태이고, cerci의 털은 산란관 끝에 미치지 않는다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0145-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0145_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0145_1_th.jpg",
+      "alt": "등홍모자무늬잎벌 1번째 사진 : 등홍모자무늬잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0145_1_th2.jpg",
+      "caption": "등홍모자무늬잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0145-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305191008",
+      "description": "[YNUE0305191008] 등홍모자무늬잎벌 1961.04.01 / / 영남대학교"
+    },
+    {
+      "id": "KNAE160036",
+      "description": "[KNAE160036] 등홍모자무늬잎벌 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDO0145-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0145&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:19+00:00",
+    "html_sha256": "a54858087e933006dc466d1d6b4b652e8a348e1d2c240b220981301518bfe4cc",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

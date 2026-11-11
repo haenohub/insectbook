@@ -1,0 +1,114 @@
+{
+  "id": "ZTAG0102",
+  "name_ko": "애뒤영벌",
+  "scientific_name": "Bombus (Thoracobombus) anachoreta Skorikov, 1914",
+  "display_name": "애뒤영벌",
+  "family_ko": "꿀벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "꿀벌과",
+      "name_latin": "Apidae"
+    },
+    "subfamily": {
+      "name_ko": "꿀벌아과",
+      "name_latin": "Apinae"
+    },
+    "genus": {
+      "name_ko": "뒤영벌속",
+      "name_latin": "Bombus"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 꿀벌과 (Apidae)\n아과 : 꿀벌아과 (Apinae)\n속 : 뒤영벌속 (Bombus)",
+  "basic_information": {
+    "곤충명": "애뒤영벌",
+    "학명": "Bombus (Thoracobombus) anachoreta Skorikov, 1914"
+  },
+  "information": {
+    "general_description": "몸길이는 15mm 정도이며, 몸에는 황갈색 털이 많이 났고 가슴의 중앙부에 흑갈색 털의 넓은 띠를 가졌다. 배마디는 각 마디마다 기부에는 털이 성기고 끝쪽으로 촘촘히 나서 털의 띠무늬로 보인다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[감소추세종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 15mm 정도이며, 몸에는 황갈색 털이 많이 났고 가슴의 중앙부에 흑갈색 털의 넓은 띠를 가졌다. 배마디는 각 마디마다 기부에는 털이 성기고 끝쪽으로 촘촘히 나서 털의 띠무늬로 보인다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[감소추세종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0102-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0102_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0102_2_th.jpg",
+      "alt": "애뒤영벌 1번째 사진 : 애뒤영벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0102_2_th2.jpg",
+      "caption": "애뒤영벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTAG0102-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0102_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0102_1_th.jpg",
+      "alt": "애뒤영벌 2번째 사진 : 애뒤영벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0102_1_th2.jpg",
+      "caption": "애뒤영벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0102-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0111271016",
+      "description": "[YNUE0111271016] 애뒤영벌 1974.10.03 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0111271030",
+      "description": "[YNUE0111271030] 애뒤영벌 1972.09.30 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0201184029",
+      "description": "[YNUE0201184029] 애뒤영벌 1974.10.03 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAG0102-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0102&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:07+00:00",
+    "html_sha256": "a5b428af3946e6aa347827a8f9856ac1d2aa08e9d6f2ebf787aa17997d864619",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

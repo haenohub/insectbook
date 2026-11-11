@@ -1,0 +1,95 @@
+{
+  "id": "ZOCR0041",
+  "name_ko": "줄물방개",
+  "scientific_name": "Hydaticus (Prodaticus) satoi Wewalka, 1975",
+  "display_name": "줄물방개",
+  "family_ko": "물방개과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "물방개과",
+      "name_latin": "Dytiscidae"
+    },
+    "subfamily": {
+      "name_ko": "물방개붙이아과",
+      "name_latin": "Dytiscinae"
+    },
+    "genus": {
+      "name_ko": "줄물방개속",
+      "name_latin": "Hydaticus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 물방개과 (Dytiscidae)\n아과 : 물방개붙이아과 (Dytiscinae)\n속 : 줄물방개속 (Hydaticus)",
+  "basic_information": {
+    "곤충명": "줄물방개",
+    "학명": "Hydaticus (Prodaticus) satoi Wewalka, 1975"
+  },
+  "information": {
+    "general_description": "한국, 일본, 대만, 남아시아, 호주에 분포하며, 체장은 14mm 내외이다. 머리는 대부분이 흑색이고 앞머리, 머리방패, 윗입술, 더듬이, 양쪽 수염은 담황갈색이다. 딱지날개는 흑색인데 두줄의 담황갈색의 세로로 된 얼룩 무늬가 있다. 세줄의 작은 점각열이 있으나 바깥쪽의 두줄은 분명치 않다. 배면과 뒷다리는 적갈색이고 앞다리와 가운데다리는 황갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 대만, 남아시아, 호주에 분포하며, 체장은 14mm 내외이다. 머리는 대부분이 흑색이고 앞머리, 머리방패, 윗입술, 더듬이, 양쪽 수염은 담황갈색이다. 딱지날개는 흑색인데 두줄의 담황갈색의 세로로 된 얼룩 무늬가 있다. 세줄의 작은 점각열이 있으나 바깥쪽의 두줄은 분명치 않다. 배면과 뒷다리는 적갈색이고 앞다리와 가운데다리는 황갈색이다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCR0041-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCR0041_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCR0041_1_th.jpg",
+      "alt": "줄물방개 1번째 사진 : 줄물방개전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCR0041_1_th2.jpg",
+      "caption": "줄물방개전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCR0041-1",
+  "specimen_examples": [
+    {
+      "id": "ADUE0202201065",
+      "description": "[ADUE0202201065] 줄물방개 1998.06.28 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0202201066",
+      "description": "[ADUE0202201066] 줄물방개 1999.07.23 / / 안동대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOCR0041-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCR0041&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:12+00:00",
+    "html_sha256": "0f903c8d4ff40e70c2b412d5f8f609d93e55bf90293eecae29787e703e58fca2",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

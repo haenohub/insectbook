@@ -1,0 +1,118 @@
+{
+  "id": "ZRBU0016",
+  "name_ko": "물결갈고리나방",
+  "scientific_name": "Sabra harpagula euroista Park, 2011",
+  "display_name": "물결갈고리나방",
+  "family_ko": "갈고리나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "갈고리나방상과",
+      "name_latin": "Drepanoidea"
+    },
+    "family": {
+      "name_ko": "갈고리나방과",
+      "name_latin": "Drepanidae"
+    },
+    "subfamily": {
+      "name_ko": "갈고리나방아과",
+      "name_latin": "Drepaninae"
+    },
+    "genus": {
+      "name_ko": "물결갈고리나방속",
+      "name_latin": "Sabra"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 갈고리나방상과 (Drepanoidea)\n과 : 갈고리나방과 (Drepanidae)\n아과 : 갈고리나방아과 (Drepaninae)\n속 : 물결갈고리나방속 (Sabra)",
+  "basic_information": {
+    "곤충명": "물결갈고리나방",
+    "학명": "Sabra harpagula euroista Park, 2011"
+  },
+  "information": {
+    "general_description": "원종은 검은 황갈색에 보라색을 띰. 앞날개의 중앙에는 3개의 회색 반문이 있고, 서로 결합하여 띠 모양을 이루며, 중실의 바깥쪽에는 회황색의 무늬가 있음. 뒷날개에는 더 작은 같은 반문이 있음. 가로줄은 물결 모양이고, 앞날개의 외연 부근은 암색의 반문이 있음. 이 아종은 원종에 비해 앞날개의 날개 끝 돌출이 약한 점과 날개의 색깔이 그다지 갈색을 띠지 않고, 중앙의 회색 반문이 많은 경우에는 뚜렷하지 않다는 점 등으로 구별이 됨.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "원종은 오리나무, 자작나무, 참피나무 속의 잎을 먹음.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "원종은 검은 황갈색에 보라색을 띰. 앞날개의 중앙에는 3개의 회색 반문이 있고, 서로 결합하여 띠 모양을 이루며, 중실의 바깥쪽에는 회황색의 무늬가 있음. 뒷날개에는 더 작은 같은 반문이 있음. 가로줄은 물결 모양이고, 앞날개의 외연 부근은 암색의 반문이 있음. 이 아종은 원종에 비해 앞날개의 날개 끝 돌출이 약한 점과 날개의 색깔이 그다지 갈색을 띠지 않고, 중앙의 회색 반문이 많은 경우에는 뚜렷하지 않다는 점 등으로 구별이 됨."
+    },
+    {
+      "title": "생태",
+      "text": "원종은 오리나무, 자작나무, 참피나무 속의 잎을 먹음."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRBU0016-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBU0016_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBU0016_2_th.jpg",
+      "alt": "물결갈고리나방 1번째 사진 : 물결갈고리나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBU0016_2_th2.jpg",
+      "caption": "물결갈고리나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRBU0016-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBU0016_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBU0016_1_th.jpg",
+      "alt": "물결갈고리나방 2번째 사진 : 물결갈고리나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBU0016_1_th2.jpg",
+      "caption": "물결갈고리나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRBU0016-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0302141011",
+      "description": "[KNAE0302141011] 물결갈고리나방 1989.06.26 / / 국립수목원"
+    },
+    {
+      "id": "KNUE0212241363",
+      "description": "[KNUE0212241363] 물결갈고리나방 1993.05.08 / / 강원대학교"
+    },
+    {
+      "id": "KNUE0212241356",
+      "description": "[KNUE0212241356] 물결갈고리나방 1992.08.31 / / 강원대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRBU0016-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRBU0016&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:36+00:00",
+    "html_sha256": "f3513f3d81810999a1443d9b3d2561dfff88da80735c5d52b2c6f843fb0d74aa",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

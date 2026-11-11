@@ -1,0 +1,115 @@
+{
+  "id": "ZREL0128",
+  "name_ko": "금빛세줄들명나방",
+  "scientific_name": "Paliga auratalis (Warren, 1895)",
+  "display_name": "금빛세줄들명나방",
+  "family_ko": "풀명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "풀명나방과",
+      "name_latin": "Crambidae"
+    },
+    "subfamily": {
+      "name_ko": "들명나방아과",
+      "name_latin": "Pyraustinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Paliga"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 풀명나방과 (Crambidae)\n아과 : 들명나방아과 (Pyraustinae)\n속 : (Paliga)",
+  "basic_information": {
+    "곤충명": "금빛세줄들명나방",
+    "학명": "Paliga auratalis (Warren, 1895)"
+  },
+  "information": {
+    "general_description": "머리는 황색이며, 앞이마는 비스듬하고 양쪽에 백색 줄이 있다. 더듬이는 암수 공히 실 모양이며, 기부의 앞쪽에서 안쪽을 향하여 1개의 백색 선이 있다. 아랫입술수염은 약간 비스듬히 위쪽으로 뻗어 있다. 뒷다리 종아리마디의 며느리발톱은 바깥쪽 것이 안쪽 것의 약 1/2 길이이다. 앞, 뒷날개의 바탕색은 오렌지색이며, 끝쪽은 백색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 7~9월에 출현한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대한민국] 전북특별자치도\n[대한민국] 경상남도\n[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "머리는 황색이며, 앞이마는 비스듬하고 양쪽에 백색 줄이 있다. 더듬이는 암수 공히 실 모양이며, 기부의 앞쪽에서 안쪽을 향하여 1개의 백색 선이 있다. 아랫입술수염은 약간 비스듬히 위쪽으로 뻗어 있다. 뒷다리 종아리마디의 며느리발톱은 바깥쪽 것이 안쪽 것의 약 1/2 길이이다. 앞, 뒷날개의 바탕색은 오렌지색이며, 끝쪽은 백색이다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 7~9월에 출현한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대한민국] 전북특별자치도\n[대한민국] 경상남도\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0128-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0128_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0128_1_th.jpg",
+      "alt": "금빛세줄들명나방 1번째 사진 : 금빛세줄들명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0128_1_th2.jpg",
+      "caption": "금빛세줄들명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0128-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0301021059",
+      "description": "[UIBE0301021059] 금빛세줄들명나방 1996.09.07 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301021060",
+      "description": "[UIBE0301021060] 금빛세줄들명나방 1998.10.05 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301021056",
+      "description": "[UIBE0301021056] 금빛세줄들명나방 2001.07.13 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZREL0128.png",
+    "reference_image_id": "ZREL0128-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T15:02:24.987788+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "6e7fe4f9c7649774285078d02678efaa8d0a198cef7aae84a03a4b74e8b9af2c"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0128&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:46+00:00",
+    "html_sha256": "0cce08a4e1f852c92786bfef69305c51fdc7693eb19e66b515865d55c1ce6961",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

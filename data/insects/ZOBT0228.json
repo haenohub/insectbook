@@ -1,0 +1,118 @@
+{
+  "id": "ZOBT0228",
+  "name_ko": "발리잎벌레",
+  "scientific_name": "Altica caerulescens (Baly, 1874)",
+  "display_name": "발리잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "긴더듬이잎벌레아과",
+      "name_latin": "Galerucinae"
+    },
+    "genus": {
+      "name_ko": "벼룩잎벌레속",
+      "name_latin": "Altica"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 긴더듬이잎벌레아과 (Galerucinae)\n속 : 벼룩잎벌레속 (Altica)",
+  "basic_information": {
+    "곤충명": "발리잎벌레",
+    "학명": "Altica caerulescens (Baly, 1874)"
+  },
+  "information": {
+    "general_description": "몸길이는 3.2~4.3mm, 몸 색깔은 흑청색이다. 윗날개는 평활하고 광택이난다. 더듬이는 3절은 짧고, 2절은 길이가 약간 길다. 수컷 교미기의 복면은 평판하다. 그 복면에는 1줄의 세로 고랑을 가지고 있다. 한국, 일본(혼슈,시코쿠,큐슈), 중국(남부), 대만, 인도에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대만]\n[중국]\n[일본]\n[인도네시아]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 3.2~4.3mm, 몸 색깔은 흑청색이다. 윗날개는 평활하고 광택이난다. 더듬이는 3절은 짧고, 2절은 길이가 약간 길다. 수컷 교미기의 복면은 평판하다. 그 복면에는 1줄의 세로 고랑을 가지고 있다. 한국, 일본(혼슈,시코쿠,큐슈), 중국(남부), 대만, 인도에 분포되어있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대만]\n[중국]\n[일본]\n[인도네시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0228-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0228_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0228_1_th.jpg",
+      "alt": "발리잎벌레 1번째 사진 : 발리잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0228_1_th2.jpg",
+      "caption": "발리잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0228-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0306131011",
+      "description": "[FRIE0306131011] 발리잎벌레 1984.06.24 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0303261043",
+      "description": "[FRIE0303261043] 발리잎벌레 1984.06.24 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0303261044",
+      "description": "[FRIE0303261044] 발리잎벌레 1980.06.13 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "오리나무",
+      "scientific_name": "Alnus japonica (Thunb.) Steud."
+    },
+    {
+      "group": "식물",
+      "name_ko": "황철나무",
+      "scientific_name": "Populus suaveolens Fisch. ex Poit. & A.Vilm."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0228-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0228&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:09+00:00",
+    "html_sha256": "e6361d8a775e999143c02c7b2a473bcde364ae02b403546a6d67ccf87581ea34",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

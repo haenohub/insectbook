@@ -1,0 +1,99 @@
+{
+  "id": "ZEAU0003",
+  "name_ko": "알락꼽등이",
+  "scientific_name": "Tachycines (Tachycines) asynamorus Adelung, 1902",
+  "display_name": "알락꼽등이",
+  "family_ko": "꼽등이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "메뚜기목",
+      "name_latin": "Orthoptera"
+    },
+    "family": {
+      "name_ko": "꼽등이과",
+      "name_latin": "Rhaphidophoridae"
+    },
+    "subfamily": {
+      "name_ko": "꼽등이아과",
+      "name_latin": "Aemodogryllinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Tachycines"
+    }
+  },
+  "taxonomy_text": "목 : 메뚜기목 (Orthoptera)\n과 : 꼽등이과 (Rhaphidophoridae)\n아과 : 꼽등이아과 (Aemodogryllinae)\n속 : (Tachycines)",
+  "basic_information": {
+    "곤충명": "알락꼽등이",
+    "학명": "Tachycines (Tachycines) asynamorus Adelung, 1902"
+  },
+  "information": {
+    "general_description": "몸길이 20~25mm 이고, 황갈색이고 흑색 무늬가 많다. 옆으로 넓적하고 등쪽으로 뚜렷하게 구부러졌는데, 날개가 없고 머리꼭대기돌기는 짧고 2분되었다. 앞이마돌기는 가늘고 겹눈은 작고 앞가슴은 심하게 경사되었으며 둥글고 옆으로 넓적하며, 뒷가두리는 가늘고 둥그렇다. 가운데∙뒷가슴은 거의 모양이 같고 짧으며 뒷가두리의 양 모는 뚜렷하게 둥그렇다. 미모는 암컷∙수컷의 것이 모두 가늘고 길며 채찍 모양이다. 산린관은 가운데허벅마다 짧고 말단으로 이름에 딸라 가늘어졌고 등쪽으로 적당히 구부러졌다. 다리는 가늘고 길며 폭이 넓고 불규칙한 흑색의 고리가 있다. 뒷종아리마디 말단의 가시는 안쪽의 것이 바깥쪽의 것보다 긴데 등쪽의 것은 특히 같다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 20~25mm 이고, 황갈색이고 흑색 무늬가 많다. 옆으로 넓적하고 등쪽으로 뚜렷하게 구부러졌는데, 날개가 없고 머리꼭대기돌기는 짧고 2분되었다. 앞이마돌기는 가늘고 겹눈은 작고 앞가슴은 심하게 경사되었으며 둥글고 옆으로 넓적하며, 뒷가두리는 가늘고 둥그렇다. 가운데∙뒷가슴은 거의 모양이 같고 짧으며 뒷가두리의 양 모는 뚜렷하게 둥그렇다. 미모는 암컷∙수컷의 것이 모두 가늘고 길며 채찍 모양이다. 산린관은 가운데허벅마다 짧고 말단으로 이름에 딸라 가늘어졌고 등쪽으로 적당히 구부러졌다. 다리는 가늘고 길며 폭이 넓고 불규칙한 흑색의 고리가 있다. 뒷종아리마디 말단의 가시는 안쪽의 것이 바깥쪽의 것보다 긴데 등쪽의 것은 특히 같다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZEAU0003-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAU0003_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAU0003_1_th.jpg",
+      "alt": "알락꼽등이 1번째 사진 : 알락꼽등이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAU0003_1_th2.jpg",
+      "caption": "알락꼽등이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZEAU0003-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0112182060",
+      "description": "[YNUE0112182060] 알락꼽등이 1987.06.10 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0201084040",
+      "description": "[YNUE0201084040] 알락꼽등이 1992.06.07 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0112182059",
+      "description": "[YNUE0112182059] 알락꼽등이 1989.06.03 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZEAU0003-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZEAU0003&tabId=tab1",
+    "collected_at": "2026-11-04T14:14:27+00:00",
+    "html_sha256": "cd1fa3d35422bbca0e769d696cf546a3517de6f2565968d455427384257deed1",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

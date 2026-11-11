@@ -1,0 +1,142 @@
+{
+  "id": "ZOBL0150",
+  "name_ko": "﻿작은소범하늘소",
+  "scientific_name": "Plagionotus pulcher (Blessig, 1872)",
+  "display_name": "﻿작은소범하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "하늘소아과",
+      "name_latin": "Cerambycinae"
+    },
+    "genus": {
+      "name_ko": "소범하늘소속",
+      "name_latin": "Plagionotus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 하늘소아과 (Cerambycinae)\n속 : 소범하늘소속 (Plagionotus)",
+  "basic_information": {
+    "곤충명": "﻿작은소범하늘소",
+    "학명": "Plagionotus pulcher (Blessig, 1872)"
+  },
+  "information": {
+    "general_description": "체장 10.0~18.0 mm. 머리는 검은색이며, 강한 점각들이 밀집한다, 뺨, 정수리, 이마, 이마방패, 큰턱의 기부는 적갈색이다. 더듬이 1~5번째 마디들에는 직립한 털들이 있다. 소순판은 검은색이다. 앞가슴등판은 현저하게 너비가 길이보다 넓으며, 강한 점각들이 밀집한다. 딱지날개의 길이는 너비의 약 2.3배이며 검은색이다. 붉은색, 흰색, 그리고 노란색의 띠가 있다. 다리는 기절과 퇴절이 짙은 갈색인 것을 제외하고 다른 부위는 적갈색이다.",
+    "adult": null,
+    "adult_male": "더듬이는 딱지날개 말단에 이른다. 뒷다리 퇴절은 딱지날개 말단에 이른다.",
+    "adult_female": "더듬이는 딱지날개 중앙 부위에 이른다. 뒷다리 퇴절은 딱지날개 말단에 이르지 않는다.",
+    "larva": "머리의 반은 앞가슴에 함입된다. 이마 양 가장자리에는 봉합선이 결여되어 있다. 윗입술은 가로형이고 앞쪽으로 넓게 둥글다. 앞가슴등판의 너비는 길이의 약 3.0배이다. 등판에는 세로로 주름이 져 있고 측면에는 깊고 휘어진 세로 홈들이 있다. 복부 측면에는 얇은 털들이 산재한다.",
+    "egg": "길이 1.7 mm 내외. 너비 0.6 mm 내외. 흰색이며, 길쭉하다. 앞쪽 말단은 넓게 둥글며, 뒤쪽 말단은 좁게 둥글다. 난포막은 매끈하며 불투명하다.",
+    "pupa": "머리는 편평하고 분명한 가로 주름들이 많다. 더듬이 사이의 이마는 볼록하지 않다. 앞가슴등판은 약간 가로형이며 중앙에서 각이 져 있다. 중간가슴등판은 볼록하고 가로의 주름들이 있다. 복부 등판은 뒤쪽 반에서 볼록하다.",
+    "ecology": "참나무류가 우점하는 광엽수림 또는 혼합림에서 서식한다. 대체로 꽃을 찾아오지는 않는다.",
+    "habits": "소범하늘소와 같이, 적재된 참나무류에 모이는 습성이 있으나, 개체수는 상대적으로 적다.",
+    "season": null,
+    "overwintering": "유충",
+    "distribution": null,
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": "경제적 피해 유발 해충으로 알려져 있지 않아, 종 특이적 방제법은 현재까지 없다.",
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체장 10.0~18.0 mm. 머리는 검은색이며, 강한 점각들이 밀집한다, 뺨, 정수리, 이마, 이마방패, 큰턱의 기부는 적갈색이다. 더듬이 1~5번째 마디들에는 직립한 털들이 있다. 소순판은 검은색이다. 앞가슴등판은 현저하게 너비가 길이보다 넓으며, 강한 점각들이 밀집한다. 딱지날개의 길이는 너비의 약 2.3배이며 검은색이다. 붉은색, 흰색, 그리고 노란색의 띠가 있다. 다리는 기절과 퇴절이 짙은 갈색인 것을 제외하고 다른 부위는 적갈색이다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "더듬이는 딱지날개 말단에 이른다. 뒷다리 퇴절은 딱지날개 말단에 이른다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "더듬이는 딱지날개 중앙 부위에 이른다. 뒷다리 퇴절은 딱지날개 말단에 이르지 않는다."
+    },
+    {
+      "title": "번데기",
+      "text": "머리는 편평하고 분명한 가로 주름들이 많다. 더듬이 사이의 이마는 볼록하지 않다. 앞가슴등판은 약간 가로형이며 중앙에서 각이 져 있다. 중간가슴등판은 볼록하고 가로의 주름들이 있다. 복부 등판은 뒤쪽 반에서 볼록하다."
+    },
+    {
+      "title": "유충",
+      "text": "머리의 반은 앞가슴에 함입된다. 이마 양 가장자리에는 봉합선이 결여되어 있다. 윗입술은 가로형이고 앞쪽으로 넓게 둥글다. 앞가슴등판의 너비는 길이의 약 3.0배이다. 등판에는 세로로 주름이 져 있고 측면에는 깊고 휘어진 세로 홈들이 있다. 복부 측면에는 얇은 털들이 산재한다."
+    },
+    {
+      "title": "생태",
+      "text": "참나무류가 우점하는 광엽수림 또는 혼합림에서 서식한다. 대체로 꽃을 찾아오지는 않는다."
+    },
+    {
+      "title": "습성",
+      "text": "소범하늘소와 같이, 적재된 참나무류에 모이는 습성이 있으나, 개체수는 상대적으로 적다."
+    },
+    {
+      "title": "월동",
+      "text": "유충"
+    },
+    {
+      "title": "방제법",
+      "text": "경제적 피해 유발 해충으로 알려져 있지 않아, 종 특이적 방제법은 현재까지 없다."
+    },
+    {
+      "title": "알",
+      "text": "길이 1.7 mm 내외. 너비 0.6 mm 내외. 흰색이며, 길쭉하다. 앞쪽 말단은 넓게 둥글며, 뒤쪽 말단은 좁게 둥글다. 난포막은 매끈하며 불투명하다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0150-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0150_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0150_1_th.jpg",
+      "alt": "﻿작은소범하늘소 1번째 사진 : 작은소범하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0150_1_th2.jpg",
+      "caption": "작은소범하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0150-1",
+  "specimen_examples": [
+    {
+      "id": "KNUE0202212141",
+      "description": "[KNUE0202212141] ﻿작은소범하늘소 1999.06.30 / / 강원대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "느릅나무",
+      "scientific_name": "Ulmus davidiana var. japonica (Rehder) Nakai"
+    },
+    {
+      "group": "식물",
+      "name_ko": "오리나무",
+      "scientific_name": "Alnus japonica (Thunb.) Steud."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0150-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0150&tabId=tab1",
+    "collected_at": "2026-11-04T14:24:00+00:00",
+    "html_sha256": "bfaaae06c4ba838a87eef29d39a595fbaa7b112363ca1af748e38af7602fe226",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

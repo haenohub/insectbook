@@ -1,0 +1,118 @@
+{
+  "id": "ZRCI0211",
+  "name_ko": "큰노랑물결자나방",
+  "scientific_name": "Gandaritis fixseni (Bremer, 1864)",
+  "display_name": "큰노랑물결자나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "물결자나방아과",
+      "name_latin": "Larentiinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Gandaritis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 물결자나방아과 (Larentiinae)\n속 : (Gandaritis)",
+  "basic_information": {
+    "곤충명": "큰노랑물결자나방",
+    "학명": "Gandaritis fixseni (Bremer, 1864)"
+  },
+  "information": {
+    "general_description": "더듬이는 수컷이 미모상이고, 암컷은 실 모양임. 몸과 날개는 모두 적등색인데 수컷은 앞날개의 무늬가 한층 더 짙음. 정수리는 황색이고, 이마와 몸의 배쪽면은 황백색이며, 아랫입술수염은 흑색인데 배의 등쪽면은 다소 황색을 띰. 앞날개는 밑 부분에 흑색 점이 있음. 아기선, 내횡선, 외횡선은 암갈색이며, 아기선으로부터 안쪽, 내횡선과 외횡선과의 사이, 그 바깥쪽의 중앙부 등은 넓고 암갈색을 띰. 아기선과 내횡선과의 사이는 군데군데 황색을 띰. 날개끝에는 큰 황색 부분이 있음.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은　７～１０월에　출현함．",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 수컷이 미모상이고, 암컷은 실 모양임. 몸과 날개는 모두 적등색인데 수컷은 앞날개의 무늬가 한층 더 짙음. 정수리는 황색이고, 이마와 몸의 배쪽면은 황백색이며, 아랫입술수염은 흑색인데 배의 등쪽면은 다소 황색을 띰. 앞날개는 밑 부분에 흑색 점이 있음. 아기선, 내횡선, 외횡선은 암갈색이며, 아기선으로부터 안쪽, 내횡선과 외횡선과의 사이, 그 바깥쪽의 중앙부 등은 넓고 암갈색을 띰. 아기선과 내횡선과의 사이는 군데군데 황색을 띰. 날개끝에는 큰 황색 부분이 있음."
+    },
+    {
+      "title": "생태",
+      "text": "성충은　７～１０월에　출현함．"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0211-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0211_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0211_2_th.jpg",
+      "alt": "큰노랑물결자나방 1번째 사진 : 큰노랑물결자나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0211_2_th2.jpg",
+      "caption": "큰노랑물결자나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0211-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0211_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0211_1_th.jpg",
+      "alt": "큰노랑물결자나방 2번째 사진 : 큰노랑물결자나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0211_1_th2.jpg",
+      "caption": "큰노랑물결자나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0211-1",
+  "specimen_examples": [
+    {
+      "id": "MPNE0408101053",
+      "description": "[MPNE0408101053] 큰노랑물결자나방 2003.09.29 / / 목포 대학교 환경연구소"
+    },
+    {
+      "id": "MPNE0408101054",
+      "description": "[MPNE0408101054] 큰노랑물결자나방 2003.09.29 / / 목포 대학교 환경연구소"
+    },
+    {
+      "id": "MPNE0408101055",
+      "description": "[MPNE0408101055] 큰노랑물결자나방 2003.09.29 / / 목포 대학교 환경연구소"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCI0211-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0211&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:43+00:00",
+    "html_sha256": "83c792072d72bb9cadf3ca898d15cf20ccedc24284361c09d223a04a2e6451e3",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

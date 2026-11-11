@@ -1,0 +1,91 @@
+{
+  "id": "ZTDO0099",
+  "name_ko": "헝가리잎벌",
+  "scientific_name": "Tenthredo (Tenthredella) stigma (Forsius, 1918)",
+  "display_name": "헝가리잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "잎벌아과",
+      "name_latin": "Tenthredininae"
+    },
+    "genus": {
+      "name_ko": "잎벌속",
+      "name_latin": "Tenthredo"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 잎벌아과 (Tenthredininae)\n속 : 잎벌속 (Tenthredo)",
+  "basic_information": {
+    "곤충명": "헝가리잎벌",
+    "학명": "Tenthredo (Tenthredella) stigma (Forsius, 1918)"
+  },
+  "information": {
+    "general_description": "윗입술은 크고 편평하며 보통 끝쪽이 약간 뾰족하다. 머리방패는 패여있으며 다양하다. 큰턱은 이가 4개이다. 복안은 크고 강하게 아래쪽에서 수렴한다. 이들 사이의 거리는 복안 높이보다 좁다. 더듬이 소켓의 중앙 가두리는 강하게 cilated되어 있고 깊게 패여 있다. 작은방패판은 다소 볼록하고 가끔 강한 삼각뿔 모양이다. 뒷날개는 항상 두개의 중실을 갖는다. 뒷다리 넓적다리마디는 배마디 끝까지 도달하지 않는다. 발톱은 갈라져 있으며 둘다 크기가 같다. 전신복절은 도랑에 의해 잘 나뉘어져 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "윗입술은 크고 편평하며 보통 끝쪽이 약간 뾰족하다. 머리방패는 패여있으며 다양하다. 큰턱은 이가 4개이다. 복안은 크고 강하게 아래쪽에서 수렴한다. 이들 사이의 거리는 복안 높이보다 좁다. 더듬이 소켓의 중앙 가두리는 강하게 cilated되어 있고 깊게 패여 있다. 작은방패판은 다소 볼록하고 가끔 강한 삼각뿔 모양이다. 뒷날개는 항상 두개의 중실을 갖는다. 뒷다리 넓적다리마디는 배마디 끝까지 도달하지 않는다. 발톱은 갈라져 있으며 둘다 크기가 같다. 전신복절은 도랑에 의해 잘 나뉘어져 있다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0099-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0099_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0099_1_th.jpg",
+      "alt": "헝가리잎벌 1번째 사진 : 헝가리잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0099_1_th2.jpg",
+      "caption": "헝가리잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0099-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0112053034",
+      "description": "[YNUE0112053034] 헝가리잎벌 2000.08.22 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDO0099-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0099&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:11+00:00",
+    "html_sha256": "1d49351984ec5c7962d4872e6e4fab06aaa44786a9766bd63e2671da9c32c1d7",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

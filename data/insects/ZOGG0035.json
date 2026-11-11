@@ -1,0 +1,114 @@
+{
+  "id": "ZOGG0035",
+  "name_ko": "콩풍뎅이",
+  "scientific_name": "Popillia mutans Newman, 1838",
+  "display_name": "콩풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "풍뎅이아과",
+      "name_latin": "Rutelinae"
+    },
+    "genus": {
+      "name_ko": "콩풍뎅이속",
+      "name_latin": "Popillia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 풍뎅이아과 (Rutelinae)\n속 : 콩풍뎅이속 (Popillia)",
+  "basic_information": {
+    "곤충명": "콩풍뎅이",
+    "학명": "Popillia mutans Newman, 1838"
+  },
+  "information": {
+    "general_description": "아무르, 중국, 베트남, 필립핀에 분포하며, 흑남색이나 가끔 처자색 내지 흑녹색 또는 앞가슴등판이 녹남색인 개체도 있다. 참콩풍뎅이보다 몸이 넓고,광택이 강하며, 미절판이나 각 복절의 백색 털뭉치는 없다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "아무르, 중국, 베트남, 필립핀에 분포하며, 흑남색이나 가끔 처자색 내지 흑녹색 또는 앞가슴등판이 녹남색인 개체도 있다. 참콩풍뎅이보다 몸이 넓고,광택이 강하며, 미절판이나 각 복절의 백색 털뭉치는 없다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGG0035-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0035_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0035_2_th.jpg",
+      "alt": "콩풍뎅이 1번째 사진 : 콩풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0035_2_th2.jpg",
+      "caption": "콩풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOGG0035-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0035_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0035_1_th.jpg",
+      "alt": "콩풍뎅이 2번째 사진 : 콩풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0035_1_th2.jpg",
+      "caption": "콩풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGG0035-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0408101055",
+      "description": "[KNAE0408101055] 콩풍뎅이 2001.08.16 / / 국립수목원"
+    },
+    {
+      "id": "UIBE0301292128",
+      "description": "[UIBE0301292128] 콩풍뎅이 1995.08.29 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301292129",
+      "description": "[UIBE0301292129] 콩풍뎅이 1995.08.29 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGG0035-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGG0035&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:33+00:00",
+    "html_sha256": "395384036bba89b10cb95bfa03b67c273dcf911a0fdc2cf30423e76846d33f24",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "ZSEN0003",
+  "name_ko": "검정대모등에",
+  "scientific_name": "Chrysops (Chrysops) japonicus Wiedemann, 1828",
+  "display_name": "검정대모등에",
+  "family_ko": "등에과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "등에상과",
+      "name_latin": "Tabanoidea"
+    },
+    "family": {
+      "name_ko": "등에과",
+      "name_latin": "Tabanidae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Chrysopsinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Chrysops"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 등에상과 (Tabanoidea)\n과 : 등에과 (Tabanidae)\n아과 : (Chrysopsinae)\n속 : (Chrysops)",
+  "basic_information": {
+    "곤충명": "검정대모등에",
+    "학명": "Chrysops (Chrysops) japonicus Wiedemann, 1828"
+  },
+  "information": {
+    "general_description": "체장: 9-10mm. 몸은 전체적으로 빛나는 검은색이며 짧은 검은색 털이 있다. 몸통과 복부는 반점이나 무늬가 없이 검은색이다. 날개는 기부에서 3/4가 검은색 무늬가 나타나며 둔실 쪽은 그 색이 옅어진다. 날개의 앞쪽 가장자리를 따라 검은색 무늬가 이어지며 날개 끝부분까지 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체장: 9-10mm. 몸은 전체적으로 빛나는 검은색이며 짧은 검은색 털이 있다. 몸통과 복부는 반점이나 무늬가 없이 검은색이다. 날개는 기부에서 3/4가 검은색 무늬가 나타나며 둔실 쪽은 그 색이 옅어진다. 날개의 앞쪽 가장자리를 따라 검은색 무늬가 이어지며 날개 끝부분까지 있다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSEN0003-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEN0003_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEN0003_1_th.jpg",
+      "alt": "검정대모등에 1번째 사진 : 검정대모등에전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEN0003_1_th2.jpg",
+      "caption": "검정대모등에전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSEN0003-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0308041352",
+      "description": "[KUIE0308041352] 검정대모등에 1973.05.06 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0308041353",
+      "description": "[KUIE0308041353] 검정대모등에 1971.05.09 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0308041354",
+      "description": "[KUIE0308041354] 검정대모등에 1971.05.09 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZSEN0003.png",
+    "reference_image_id": "ZSEN0003-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T11:13:25.029911+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "e95669a7d491bf4852a30acbd43604860cc6645ee24320824316a4fb59f34849"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSEN0003&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:13+00:00",
+    "html_sha256": "e6eead2ea8505f76194449dd66a57bf15faf9ee7efb014a2481d497c389f2aaf",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

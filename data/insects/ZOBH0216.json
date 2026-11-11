@@ -1,0 +1,113 @@
+{
+  "id": "ZOBH0216",
+  "name_ko": "가슴길쭉먼지벌레",
+  "scientific_name": "Pterostichus (Nialoe) praedo (Tschitschérine, 1901)",
+  "display_name": "가슴길쭉먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "먼지벌레아과",
+      "name_latin": "Harpalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Pterostichus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 먼지벌레아과 (Harpalinae)\n속 : (Pterostichus)",
+  "basic_information": {
+    "곤충명": "가슴길쭉먼지벌레",
+    "학명": "Pterostichus (Nialoe) praedo (Tschitschérine, 1901)"
+  },
+  "information": {
+    "general_description": "몸길이는 10~15mm 이며 촉각 제 2번째 마디에는 1개의 첨가된 털이있다. 복부말달절의 돌기는 거의 비대칭이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 10~15mm 이며 촉각 제 2번째 마디에는 1개의 첨가된 털이있다. 복부말달절의 돌기는 거의 비대칭이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0216-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0216_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0216_2_th.jpg",
+      "alt": "가슴길쭉먼지벌레 1번째 사진 : 가슴길쭉먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0216_2_th2.jpg",
+      "caption": "가슴길쭉먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0216-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0216_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0216_1_th.jpg",
+      "alt": "가슴길쭉먼지벌레 2번째 사진 : 가슴길쭉먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0216_1_th2.jpg",
+      "caption": "가슴길쭉먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0216-1",
+  "specimen_examples": [
+    {
+      "id": "SJNE0202201011",
+      "description": "[SJNE0202201011] 가슴길쭉먼지벌레 1983.07.29 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0202201012",
+      "description": "[SJNE0202201012] 가슴길쭉먼지벌레 1983.07.29 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0202211001",
+      "description": "[SJNE0202211001] 가슴길쭉먼지벌레 1983.07.30 / / 상주대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBH0216.png",
+    "reference_image_id": "ZOBH0216-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T15:23:11.995932+00:00",
+    "sha256": "2914be3e85a2ba85297900271e5fcf5de769341e1fd7307c4288639c3bdb2723"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0216&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:06+00:00",
+    "html_sha256": "bc4079c24e1eb6eb5473a6bfb54bae951fe9c388b60dd539aacf7b457b7f0876",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "ZTDO0161",
+  "name_ko": "곤봉잎벌",
+  "scientific_name": "Megatomostethus crassicornis (Rohwer, 1910)",
+  "display_name": "곤봉잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "검정꼬마잎벌아과",
+      "name_latin": "Blennocampinae"
+    },
+    "genus": {
+      "name_ko": "곤봉잎벌속",
+      "name_latin": "Megatomostethus"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 검정꼬마잎벌아과 (Blennocampinae)\n속 : 곤봉잎벌속 (Megatomostethus)",
+  "basic_information": {
+    "곤충명": "곤봉잎벌",
+    "학명": "Megatomostethus crassicornis (Rohwer, 1910)"
+  },
+  "information": {
+    "general_description": "malar space는 거의 존재하지 않으며 머리방패의 끝가두리는 잘린형이다. 더듬이는 강건하며 제 3마디는 제 4마디보다 길다. prepectus는 명확하게 앞날개 둔맥은 직선이다. 발톱은 끝에서 갈라져 있으며 basal lobe는 있다. 큰턱은 두 개의 이를 갖는다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "malar space는 거의 존재하지 않으며 머리방패의 끝가두리는 잘린형이다. 더듬이는 강건하며 제 3마디는 제 4마디보다 길다. prepectus는 명확하게 앞날개 둔맥은 직선이다. 발톱은 끝에서 갈라져 있으며 basal lobe는 있다. 큰턱은 두 개의 이를 갖는다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0161-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0161_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0161_1_th.jpg",
+      "alt": "곤봉잎벌 1번째 사진 : 곤봉잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0161_1_th2.jpg",
+      "caption": "곤봉잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0161-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305201084",
+      "description": "[YNUE0305201084] 곤봉잎벌 1991.06.01 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTDO0161.png",
+    "reference_image_id": "ZTDO0161-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T12:47:51.317047+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "4b41ae756452f5ecd7a4379fe29a14cf1cd0531a2535fc5dd96d0d9bd0986822"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0161&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:59+00:00",
+    "html_sha256": "50c1d88a895f5c2497603c331bfda54556fe9190035fce608d0dfae1e0ff0558",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

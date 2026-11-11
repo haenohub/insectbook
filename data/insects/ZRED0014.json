@@ -1,0 +1,164 @@
+{
+  "id": "ZRED0014",
+  "name_ko": "각시멧노랑나비",
+  "scientific_name": "Gonepteryx aspasia Ménétriès, 1859",
+  "display_name": "각시멧노랑나비",
+  "family_ko": "흰나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "흰나비과",
+      "name_latin": "Pieridae"
+    },
+    "subfamily": {
+      "name_ko": "노랑나비아과",
+      "name_latin": "Coliadinae"
+    },
+    "genus": {
+      "name_ko": "멧노랑나비속",
+      "name_latin": "Gonepteryx"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 흰나비과 (Pieridae)\n아과 : 노랑나비아과 (Coliadinae)\n속 : 멧노랑나비속 (Gonepteryx)",
+  "basic_information": {
+    "곤충명": "각시멧노랑나비",
+    "학명": "Gonepteryx aspasia Ménétriès, 1859"
+  },
+  "information": {
+    "general_description": "멧노랑나비와 외형적 특징이 매우 유사하나 월동후 날개에 갈색반점이 나타나며, 파손정도가 심하게 나타난다.",
+    "adult": null,
+    "adult_male": "노랑색이다.",
+    "adult_female": "흰색이다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "산지의 계곡 및 숲의 주변지역에 주로 서식한다. 6월말에서 7월초에 하면(휴면)하고 8월말에서 9월에 활동하다가 월동후 그 이듬해 3-4월까지 다시 활동하며 연 1회 발생한다.",
+    "habits": "암수 모두 엉겅퀴, 개망초, 백일홍 등의 꽃에서 흡밀하며, 수컷들은 가끔 떼지어 물을 먹는 것이 관찰된다. 암컷은 기주식물의 줄기, 새잎 등에 낱개로 산란하는데 한여름에 휴면하고 멧노랑나비와는 달리 월동후 날개에 갈색반점이 나타나며 심하게 훼손된 개체들이 많이 나타난다.",
+    "season": null,
+    "overwintering": "성충",
+    "distribution": "[일본]\n[중국]\n[러시아]",
+    "notes": "[보통종]\n[흡밀곤충] 엉겅퀴, 개망초, 백일홍",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "멧노랑나비와 외형적 특징이 매우 유사하나 월동후 날개에 갈색반점이 나타나며, 파손정도가 심하게 나타난다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "노랑색이다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "흰색이다."
+    },
+    {
+      "title": "생태",
+      "text": "산지의 계곡 및 숲의 주변지역에 주로 서식한다. 6월말에서 7월초에 하면(휴면)하고 8월말에서 9월에 활동하다가 월동후 그 이듬해 3-4월까지 다시 활동하며 연 1회 발생한다."
+    },
+    {
+      "title": "습성",
+      "text": "암수 모두 엉겅퀴, 개망초, 백일홍 등의 꽃에서 흡밀하며, 수컷들은 가끔 떼지어 물을 먹는 것이 관찰된다. 암컷은 기주식물의 줄기, 새잎 등에 낱개로 산란하는데 한여름에 휴면하고 멧노랑나비와는 달리 월동후 날개에 갈색반점이 나타나며 심하게 훼손된 개체들이 많이 나타난다."
+    },
+    {
+      "title": "월동",
+      "text": "성충"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]\n[흡밀곤충] 엉겅퀴, 개망초, 백일홍"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRED0014-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRED0014_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRED0014_3.jpg",
+      "alt": "각시멧노랑나비 1번째 사진 : 각시멧노랑나비 수컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRED0014_3_th2.jpg",
+      "caption": "각시멧노랑나비 수컷 이미지",
+      "photographed_at": "20160708",
+      "location": null,
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRED0014-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRED0014_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRED0014_2_th.jpg",
+      "alt": "각시멧노랑나비 2번째 사진 : 각시멧노랑나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRED0014_2_th2.jpg",
+      "caption": "각시멧노랑나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRED0014-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRED0014_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRED0014_1_th.jpg",
+      "alt": "각시멧노랑나비 3번째 사진 : 각시멧노랑나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRED0014_1_th2.jpg",
+      "caption": "각시멧노랑나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRED0014-1",
+  "specimen_examples": [
+    {
+      "id": "SJNE0306141300",
+      "description": "[SJNE0306141300] 각시멧노랑나비 2002.07.09 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0306141301",
+      "description": "[SJNE0306141301] 각시멧노랑나비 2002.07.09 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0306141303",
+      "description": "[SJNE0306141303] 각시멧노랑나비 2002.07.09 / / 상주대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "갈매나무",
+      "scientific_name": "Rhamnus davurica Pall."
+    },
+    {
+      "group": "식물",
+      "name_ko": "털갈매나무",
+      "scientific_name": "Rhamnus koraiensis C.K.Schneid."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRED0014.png",
+    "reference_image_id": "ZRED0014-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T16:04:14.496512+00:00",
+    "sha256": "25859fc709ee2c22162f1d047342405663dee32677c7a97b2b7137a744a07817",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRED0014&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:17+00:00",
+    "html_sha256": "3fa82c6b60d2999a47a71e60dd04cd53c291b82e8d98808c2a2935fe9ffbf6fa",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

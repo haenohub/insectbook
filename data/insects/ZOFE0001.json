@@ -1,0 +1,132 @@
+{
+  "id": "ZOFE0001",
+  "name_ko": "사슴벌레붙이",
+  "scientific_name": "Leptaulax koreanus Nomura, Kon, Johki & Lee, 1993",
+  "display_name": "사슴벌레붙이",
+  "family_ko": "사슴벌레붙이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "사슴벌레붙이과",
+      "name_latin": "Passalidae"
+    },
+    "subfamily": {
+      "name_ko": "사슴벌레붙이아과",
+      "name_latin": "Passalinae"
+    },
+    "genus": {
+      "name_ko": "사슴벌레붙이속",
+      "name_latin": "Leptaulax"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 사슴벌레붙이과 (Passalidae)\n아과 : 사슴벌레붙이아과 (Passalinae)\n속 : 사슴벌레붙이속 (Leptaulax)",
+  "basic_information": {
+    "곤충명": "사슴벌레붙이",
+    "학명": "Leptaulax koreanus Nomura, Kon, Johki & Lee, 1993"
+  },
+  "information": {
+    "general_description": "한국의 광릉지역에 주로 분포하며 광택있는 흑색. 사슴벌레류처럼 넓고 길며, 얇은 체형, 머리 길이는 폭과 비슷하나, 두순 앞쪽은 함입하였고, ocular canthus는 눈의 양옆으로 뚜렷하게 돌출하였다. 전흉배판 양옆은 거의 평행이며, 정중선의 흠은 뚜렷하다. 딱지날개는 광택이 강하고, 조구점각은 뚜렷한 가로형이다. BL:18.7~21.0mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국의 광릉지역에 주로 분포하며 광택있는 흑색. 사슴벌레류처럼 넓고 길며, 얇은 체형, 머리 길이는 폭과 비슷하나, 두순 앞쪽은 함입하였고, ocular canthus는 눈의 양옆으로 뚜렷하게 돌출하였다. 전흉배판 양옆은 거의 평행이며, 정중선의 흠은 뚜렷하다. 딱지날개는 광택이 강하고, 조구점각은 뚜렷한 가로형이다. BL:18.7~21.0mm."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOFE0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOFE0001_4.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOFE0001_4.jpg",
+      "alt": "사슴벌레붙이 1번째 사진 : 사슴벌레붙이 유충 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOFE0001_4_th2.jpg",
+      "caption": "사슴벌레붙이 유충 이미지",
+      "photographed_at": "20110805",
+      "location": null,
+      "photographer": "국립수목원(임종옥)"
+    },
+    {
+      "id": "ZOFE0001-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOFE0001_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOFE0001_3.jpg",
+      "alt": "사슴벌레붙이 2번째 사진 : ",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOFE0001_3_th2.jpg",
+      "caption": null,
+      "photographed_at": "20110708",
+      "location": null,
+      "photographer": "국립수목원(임종옥)"
+    },
+    {
+      "id": "ZOFE0001-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOFE0001_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOFE0001_2_th.jpg",
+      "alt": "사슴벌레붙이 3번째 사진 : 사슴벌레붙이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOFE0001_2_th2.jpg",
+      "caption": "사슴벌레붙이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOFE0001-4",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOFE0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOFE0001_1_th.jpg",
+      "alt": "사슴벌레붙이 4번째 사진 : 사슴벌레붙이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOFE0001_1_th2.jpg",
+      "caption": "사슴벌레붙이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOFE0001-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0306182015",
+      "description": "[SNUE0306182015] 사슴벌레붙이 1992.05.17 / / 서울대학교"
+    },
+    {
+      "id": "KPNE0302261068",
+      "description": "[KPNE0302261068] 사슴벌레붙이 1975.08.28 / / 경북대학교"
+    },
+    {
+      "id": "GSNE0609192715",
+      "description": "[GSNE0609192715] 사슴벌레붙이 2003.06.30 / / 경상대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOFE0001-3"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOFE0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:26+00:00",
+    "html_sha256": "3bced17932e11a8130c56a708f83bd02071054093ae96b13c7d9fc6a576b9542",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

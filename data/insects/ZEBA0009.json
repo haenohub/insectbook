@@ -1,0 +1,110 @@
+{
+  "id": "ZEBA0009",
+  "name_ko": "베짱이",
+  "scientific_name": "Hexacentrus japonicus Karny, 1907",
+  "display_name": "베짱이",
+  "family_ko": "여치과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "메뚜기목",
+      "name_latin": "Orthoptera"
+    },
+    "family": {
+      "name_ko": "여치과",
+      "name_latin": "Tettigoniidae"
+    },
+    "subfamily": {
+      "name_ko": "베짱이아과",
+      "name_latin": "Hexacentrinae"
+    },
+    "genus": {
+      "name_ko": "배짱이속",
+      "name_latin": "Hexacentrus"
+    }
+  },
+  "taxonomy_text": "목 : 메뚜기목 (Orthoptera)\n과 : 여치과 (Tettigoniidae)\n아과 : 베짱이아과 (Hexacentrinae)\n속 : 배짱이속 (Hexacentrus)",
+  "basic_information": {
+    "곤충명": "베짱이",
+    "학명": "Hexacentrus japonicus Karny, 1907"
+  },
+  "information": {
+    "general_description": "몸길이 30~36mm이며 연한청색이고 머리꼭대기돌기는 옆으로 넓적하고 앞이마돌기와 연속하지 않았다. 머리는 등면과 더불어 옅은 갈색이고 앞가슴은 뚜렷하게 둥글고 안장 모양이며 중앙은 전부가 담갈색인데 뒷쪽이 넓다. 같은색 부분의 옆가두리는 가늘고 황색이다.\n수컷의 버금생식판은 짧고 중앙에 깊고 굵은 종구가 있고 그 양쪽 가두리는 굵고 융기선으로 되었다. 뒷가두리는 직선이고 미모 모양의 부속기는 가늘고 길며 수컷의 미모는 짧고 굵으며 말단은 가늘고 안쪽으로 구부러졌다. 산란관은 머리와 앞가슴의 길이를 합친 것보다 길고 칼 모양이고 직선이다. 앞날개는 뒷허벅마디 끝을 초월하고 중앙은 폭이 넓고 뒷끝은 가늘고 둥그렇다. 발음부는 크고 갈색인데 타원형의 발음경은 담록색이다. 앞∙가운데종아리마디에는 2열의 긴 가시가 있고 뒤허벅마디는 뒷절반이 특히 가늘다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 30~36mm이며 연한청색이고 머리꼭대기돌기는 옆으로 넓적하고 앞이마돌기와 연속하지 않았다. 머리는 등면과 더불어 옅은 갈색이고 앞가슴은 뚜렷하게 둥글고 안장 모양이며 중앙은 전부가 담갈색인데 뒷쪽이 넓다. 같은색 부분의 옆가두리는 가늘고 황색이다.\n수컷의 버금생식판은 짧고 중앙에 깊고 굵은 종구가 있고 그 양쪽 가두리는 굵고 융기선으로 되었다. 뒷가두리는 직선이고 미모 모양의 부속기는 가늘고 길며 수컷의 미모는 짧고 굵으며 말단은 가늘고 안쪽으로 구부러졌다. 산란관은 머리와 앞가슴의 길이를 합친 것보다 길고 칼 모양이고 직선이다. 앞날개는 뒷허벅마디 끝을 초월하고 중앙은 폭이 넓고 뒷끝은 가늘고 둥그렇다. 발음부는 크고 갈색인데 타원형의 발음경은 담록색이다. 앞∙가운데종아리마디에는 2열의 긴 가시가 있고 뒤허벅마디는 뒷절반이 특히 가늘다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZEBA0009-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0009_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0009_2_th.jpg",
+      "alt": "베짱이 1번째 사진 : 베짱이전체 옆면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0009_2_th2.jpg",
+      "caption": "베짱이전체 옆면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZEBA0009-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0009_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0009_1_th.jpg",
+      "alt": "베짱이 2번째 사진 : 베짱이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0009_1_th2.jpg",
+      "caption": "베짱이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZEBA0009-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0408241126",
+      "description": "[UIBE0408241126] 베짱이 2003.09.27 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301272009",
+      "description": "[UIBE0301272009] 베짱이 1998.09.17 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301272008",
+      "description": "[UIBE0301272008] 베짱이 2002.10.12 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZEBA0009-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZEBA0009&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:51+00:00",
+    "html_sha256": "94cb40f4e8621a25b6add6326fcf6cad906c22bb04d6edcd12a6a0b7f122d51c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

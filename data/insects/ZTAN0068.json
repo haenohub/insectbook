@@ -1,0 +1,103 @@
+{
+  "id": "ZTAN0068",
+  "name_ko": "홍고치벌",
+  "scientific_name": "Iphiaulax impostor (Scopoli, 1763)",
+  "display_name": "홍고치벌",
+  "family_ko": "고치벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "고치벌과",
+      "name_latin": "Braconidae"
+    },
+    "subfamily": {
+      "name_ko": "고치벌아과",
+      "name_latin": "Braconinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Iphiaulax"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 고치벌과 (Braconidae)\n아과 : 고치벌아과 (Braconinae)\n속 : (Iphiaulax)",
+  "basic_information": {
+    "곤충명": "홍고치벌",
+    "학명": "Iphiaulax impostor (Scopoli, 1763)"
+  },
+  "information": {
+    "general_description": "몸길이는 7-12mm이다. 이 종은 다양한 체색을 나타내고, 머리는 흑색.가슴과 배는 진홍색이며, 가운데가슴등판에는 3개의 반점이 있다. 더듬이는 흑색이다. 날개는 전체적으로 흑갈색이다. 다리는 검은 색이다. 산란관은 배의 길이 보다 약간 짧다. 산란관집은 끝부분에서 약간 부풀었다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 5-8월에 출현하고, 주로 하늘소과의 유충에 기생한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 7-12mm이다. 이 종은 다양한 체색을 나타내고, 머리는 흑색.가슴과 배는 진홍색이며, 가운데가슴등판에는 3개의 반점이 있다. 더듬이는 흑색이다. 날개는 전체적으로 흑갈색이다. 다리는 검은 색이다. 산란관은 배의 길이 보다 약간 짧다. 산란관집은 끝부분에서 약간 부풀었다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 5-8월에 출현하고, 주로 하늘소과의 유충에 기생한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAN0068-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAN0068_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAN0068_1_th.jpg",
+      "alt": "홍고치벌 1번째 사진 : 홍고치벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAN0068_1_th2.jpg",
+      "caption": "홍고치벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAN0068-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303251003",
+      "description": "[KNAE0303251003] 홍고치벌 1995.08.01 / / 국립수목원"
+    },
+    {
+      "id": "KNAE81376",
+      "description": "[KNAE81376] 홍고치벌 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAN0068-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAN0068&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:29+00:00",
+    "html_sha256": "663731a256f16c7cf4aac9f900c37271d21a027ee73b6c3b2a86bb3c42bb132f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

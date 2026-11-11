@@ -1,0 +1,114 @@
+{
+  "id": "ZRBG0039",
+  "name_ko": "활무늬잎말이나방",
+  "scientific_name": "Minutargyrotoza minuta (Walsingham, 1900)",
+  "display_name": "활무늬잎말이나방",
+  "family_ko": "잎말이나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎말이나방상과",
+      "name_latin": "Tortricoidea"
+    },
+    "family": {
+      "name_ko": "잎말이나방과",
+      "name_latin": "Tortricidae"
+    },
+    "subfamily": {
+      "name_ko": "잎말이나방아과",
+      "name_latin": "Tortricinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Minutargyrotoza"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 잎말이나방상과 (Tortricoidea)\n과 : 잎말이나방과 (Tortricidae)\n아과 : 잎말이나방아과 (Tortricinae)\n속 : (Minutargyrotoza)",
+  "basic_information": {
+    "곤충명": "활무늬잎말이나방",
+    "학명": "Minutargyrotoza minuta (Walsingham, 1900)"
+  },
+  "information": {
+    "general_description": "경기도 남양주시 광릉과 국외는 일본에 분포하며, 머리와 가슴 등쪽면은 회백색. 날개의 바깥쪽 절반은 적갈색의 활모양.\n앞날개의 전연은 활처럼 구부러져있음.\n날개길이:13mm",
+    "adult": null,
+    "adult_male": "생식기는 그네이토스가 단순함.",
+    "adult_female": "생식기의 교미구판은 컵 모양으로 크고, 교미관은 특히 길다",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "경기도 남양주시 광릉과 국외는 일본에 분포하며, 머리와 가슴 등쪽면은 회백색. 날개의 바깥쪽 절반은 적갈색의 활모양.\n앞날개의 전연은 활처럼 구부러져있음.\n날개길이:13mm"
+    },
+    {
+      "title": "성충(수)",
+      "text": "생식기는 그네이토스가 단순함."
+    },
+    {
+      "title": "성충(암)",
+      "text": "생식기의 교미구판은 컵 모양으로 크고, 교미관은 특히 길다"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRBG0039-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/ZRBG0039_6.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/ZRBG0039_6_th.jpg",
+      "alt": "활무늬잎말이나방 1번째 사진 : 활무늬잎말이나방배 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/ZRBG0039_6_th2.jpg",
+      "caption": "활무늬잎말이나방배 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRBG0039-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBG0039_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBG0039_1_th.jpg",
+      "alt": "활무늬잎말이나방 2번째 사진 : 활무늬잎말이나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBG0039_1_th2.jpg",
+      "caption": "활무늬잎말이나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRBG0039-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0302221007",
+      "description": "[UIBE0302221007] 활무늬잎말이나방 2002.07.11 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRBG0039-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRBG0039&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:47+00:00",
+    "html_sha256": "41559ac0716fbbc0148e25e6b9c53452b5cbf5e4820031194f3c10e6ff129e37",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

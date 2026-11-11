@@ -1,0 +1,125 @@
+{
+  "id": "ZOEC0006",
+  "name_ko": "애사슴벌레",
+  "scientific_name": "Dorcus rectus rectus (Motschulsky, [1858])",
+  "display_name": "애사슴벌레",
+  "family_ko": "사슴벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "사슴벌레과",
+      "name_latin": "Lucanidae"
+    },
+    "subfamily": {
+      "name_ko": "사슴벌레아과",
+      "name_latin": "Lucaninae"
+    },
+    "genus": {
+      "name_ko": "왕사슴벌레속",
+      "name_latin": "Dorcus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 사슴벌레과 (Lucanidae)\n아과 : 사슴벌레아과 (Lucaninae)\n속 : 왕사슴벌레속 (Dorcus)",
+  "basic_information": {
+    "곤충명": "애사슴벌레",
+    "학명": "Dorcus rectus rectus (Motschulsky, [1858])"
+  },
+  "information": {
+    "general_description": "중국, 일본에 분포하며 약한 광택이 있는 흑색. 비교적 소형이다. 큰턱은 가늘고 길며, 끝쪽에서 굽었고 내치는 1개의 넓은 삼각형 모양의 윗쪽으로 향하였다. 전흉배판의 중간 양옆은 파였고, 뒤쪽의 2/3가 되는 곳은 넓게 돌출하였다. 딱지날개는 미세한 점각이 조밀하게 분포, 암컷의 이마에는 2개의 작은 돌기가 있다. BL:17~32mm(수),12~29(암). ML:3~13mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "상수리나무와 같은 참나무류를 기주식물로 하며, 고목이나 돌밑에서 성충월동을 하며, 여름에는 나무진에 모이고 불빛에도 날아온다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중국, 일본에 분포하며 약한 광택이 있는 흑색. 비교적 소형이다. 큰턱은 가늘고 길며, 끝쪽에서 굽었고 내치는 1개의 넓은 삼각형 모양의 윗쪽으로 향하였다. 전흉배판의 중간 양옆은 파였고, 뒤쪽의 2/3가 되는 곳은 넓게 돌출하였다. 딱지날개는 미세한 점각이 조밀하게 분포, 암컷의 이마에는 2개의 작은 돌기가 있다. BL:17~32mm(수),12~29(암). ML:3~13mm."
+    },
+    {
+      "title": "생태",
+      "text": "상수리나무와 같은 참나무류를 기주식물로 하며, 고목이나 돌밑에서 성충월동을 하며, 여름에는 나무진에 모이고 불빛에도 날아온다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOEC0006-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOEC0006_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOEC0006_3.jpg",
+      "alt": "애사슴벌레 1번째 사진 : ",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOEC0006_3_th2.jpg",
+      "caption": null,
+      "photographed_at": null,
+      "location": null,
+      "photographer": "국립수목원(이승규)"
+    },
+    {
+      "id": "ZOEC0006-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEC0006_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEC0006_2_th.jpg",
+      "alt": "애사슴벌레 2번째 사진 : 애사슴벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEC0006_2_th2.jpg",
+      "caption": "애사슴벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOEC0006-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEC0006_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEC0006_1_th.jpg",
+      "alt": "애사슴벌레 3번째 사진 : 애사슴벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEC0006_1_th2.jpg",
+      "caption": "애사슴벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOEC0006-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0301282111",
+      "description": "[UIBE0301282111] 애사슴벌레 1996.08.13 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301282113",
+      "description": "[UIBE0301282113] 애사슴벌레 1989.08.06 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301282114",
+      "description": "[UIBE0301282114] 애사슴벌레 1995.09.19 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOEC0006-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOEC0006&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:13+00:00",
+    "html_sha256": "000f693b4c370de9cd8e487fa28c0ad51b9f0d17079378a303b8974a15d01edd",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "ZOGI0001",
+  "name_ko": "밑빠진버섯벌레",
+  "scientific_name": "Scaphidium amurense Solsky, 1871",
+  "display_name": "밑빠진버섯벌레",
+  "family_ko": "반날개과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "반날개상과",
+      "name_latin": "Staphylinoidea"
+    },
+    "family": {
+      "name_ko": "반날개과",
+      "name_latin": "Staphylinidae"
+    },
+    "subfamily": {
+      "name_ko": "밑빠진버섯벌레아과",
+      "name_latin": "Scaphidiinae"
+    },
+    "genus": {
+      "name_ko": "밑빠진버섯벌레속",
+      "name_latin": "Scaphidium"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 반날개상과 (Staphylinoidea)\n과 : 반날개과 (Staphylinidae)\n아과 : 밑빠진버섯벌레아과 (Scaphidiinae)\n속 : 밑빠진버섯벌레속 (Scaphidium)",
+  "basic_information": {
+    "곤충명": "밑빠진버섯벌레",
+    "학명": "Scaphidium amurense Solsky, 1871"
+  },
+  "information": {
+    "general_description": "몸길이는 5~6mm이며 몸색깔은 광택이 나는 흑색이다. 딱지날개의 왼쪽과 오른쪽에 주황색무늬가 한쌍씩 있으며 배끝이 뾰족하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 5~6mm이며 몸색깔은 광택이 나는 흑색이다. 딱지날개의 왼쪽과 오른쪽에 주황색무늬가 한쌍씩 있으며 배끝이 뾰족하다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGI0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGI0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGI0001_1_th.jpg",
+      "alt": "밑빠진버섯벌레 1번째 사진 : 밑빠진버섯벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGI0001_1_th2.jpg",
+      "caption": "밑빠진버섯벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGI0001-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0304211065",
+      "description": "[FRIE0304211065] 밑빠진버섯벌레 2001.10.16 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE180484",
+      "description": "[KNAE180484] 밑빠진버섯벌레 / / 국립수목원"
+    },
+    {
+      "id": "KNAE180485",
+      "description": "[KNAE180485] 밑빠진버섯벌레 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGI0001-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGI0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:59+00:00",
+    "html_sha256": "2600e2d8b07a78e7342f8c262215885f085b9dd75f6f9a63f124abc966261a86",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

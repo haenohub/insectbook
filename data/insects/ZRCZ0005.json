@@ -1,0 +1,192 @@
+{
+  "id": "ZRCZ0005",
+  "name_ko": "솔나방",
+  "scientific_name": "Dendrolimus spectabilis (Butler, 1877)",
+  "display_name": "솔나방",
+  "family_ko": "솔나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "솔나방상과",
+      "name_latin": "Lasiocampoidea"
+    },
+    "family": {
+      "name_ko": "솔나방과",
+      "name_latin": "Lasiocampidae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Dendrolimus"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 솔나방상과 (Lasiocampoidea)\n과 : 솔나방과 (Lasiocampidae)\n속 : (Dendrolimus)",
+  "basic_information": {
+    "곤충명": "솔나방",
+    "학명": "Dendrolimus spectabilis (Butler, 1877)"
+  },
+  "information": {
+    "general_description": "회백색, 황갈색, 흑갈색등 색채의 변이가 많고 앞날개의 중앙부에 짙은 색의 넓은 띠가 있으며 그 외연에 백색의 파상(波狀) 선이 있다.",
+    "adult": null,
+    "adult_male": "체장은 30 mm 정도이고, 날개를 편 길이는 50~67 mm이다.",
+    "adult_female": "체장은 40 mm 정도이고, 날개를 편 길이는 64~88 mm이다.",
+    "larva": "어린 유충은 담회황색이고 마디의 등면에 등홍색 또는 회백색의 불규칙한 반문이 있으며 회백색 또는 담황갈색이고 등면에 넓은 암녹색의 종대(縱帶)가 있고 그 양쪽에 회백색의 띠가 있다. 제2~3 절의 등에는 흑남색의 센털이 무더기로 나 있고 다른 부분에도 검은 털이 많이 나 있다.",
+    "egg": "알은 원형으로 직경이 2 mm 정도이며 한 쪽은 담적갈색이고 또 한쪽은 청갈색이다.",
+    "pupa": "번데기는 방추형이고 갈색이며 고치는 긴 타원형이고 황갈색이며 표면에 유충의 센털이 군데군데 박혀 있다.",
+    "ecology": "연 1회 발생한다. 월동한 유충은 봄에 섭씨 17도 이상 되는 날이 계속되는 4월경에 월동처에서 나와 솔잎을 먹고 자라 3회의 탈피를 거쳐 8령충이 되며, 노숙 유충은 7월 초, 중순에 솔잎 사이에 실을 토하여 고치를 만들고 몸을 비틀어 고치에 몸의 센털을 찔러놓고 번데기가 된다. 20일 내외의 번데기 기간을 거친 후 7월 하순~8월 중순에 성충이 우화한다. 우화 시각은 오후 6~7시가 보통이고 성충의 수명은 9일 정도로 밤에만 활동하고 낮에는 숨어 있으며 추광성이 강하다. 우화 2일 후부터 산란하는데 보란수(保卵數)의 75%인 500개 정도를 솔잎에 몇 개의 무더기로 나누어 낳는다. 난 기간은 5~7일이고 대개 오전 중에 부화하며 어린 유충은 처음에는 모여서 식해하지만 나중에는 실을 토하며 분산한다. 유충은 번데기가 되기까지는 7회 탈피하는데 4회 탈피한 5령충으로 11월경에 월동처로 들어간다. 총 유충 기간은 320일 정도이며 주로 밤에 활동한다.",
+    "habits": "유충을 보통 송충이라고 하여 옛부터 소나무의 대표적인 해충으로 알려져 있다. 유충이 잎을 식해하며 심한 피해를 받은 나무는 고사하기도 한다. 유충 한 마리가 한 세대 동안 섭식하는 솔잎의 길이는 수컷이 약50 m, 암컷이 약 78 m로서 평균 64 m 정도이며 이의 95% 이상은 월동 후의 유충기에 식해한다. 묵은 잎을 식해하는 것이 보통이나 밀도가 높으면 새로 자라는 잎도 식해한다. 우리 나라에서 1970년대 중반까지 전국적으로 피해가 심하였으나 그 이후부터 산림이 녹화되고 임산 연료 채취가 감소되면서부터 밀도가 감소하여 1980년대부터는 일부 지역에서만 피해가 발생하고 있다.",
+    "season": null,
+    "overwintering": "수피 틈이나 지피물(地皮物) 밑에서 제5령 유충으로 월동한다.",
+    "distribution": "[일본]\n[중국]\n[유럽]\n[대만]\n[러시아]",
+    "notes": "[보통종]\n[산림해충] 고제호, 1969: 128",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "회백색, 황갈색, 흑갈색등 색채의 변이가 많고 앞날개의 중앙부에 짙은 색의 넓은 띠가 있으며 그 외연에 백색의 파상(波狀) 선이 있다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "체장은 30 mm 정도이고, 날개를 편 길이는 50~67 mm이다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "체장은 40 mm 정도이고, 날개를 편 길이는 64~88 mm이다."
+    },
+    {
+      "title": "번데기",
+      "text": "번데기는 방추형이고 갈색이며 고치는 긴 타원형이고 황갈색이며 표면에 유충의 센털이 군데군데 박혀 있다."
+    },
+    {
+      "title": "유충",
+      "text": "어린 유충은 담회황색이고 마디의 등면에 등홍색 또는 회백색의 불규칙한 반문이 있으며 회백색 또는 담황갈색이고 등면에 넓은 암녹색의 종대(縱帶)가 있고 그 양쪽에 회백색의 띠가 있다. 제2~3 절의 등에는 흑남색의 센털이 무더기로 나 있고 다른 부분에도 검은 털이 많이 나 있다."
+    },
+    {
+      "title": "생태",
+      "text": "연 1회 발생한다. 월동한 유충은 봄에 섭씨 17도 이상 되는 날이 계속되는 4월경에 월동처에서 나와 솔잎을 먹고 자라 3회의 탈피를 거쳐 8령충이 되며, 노숙 유충은 7월 초, 중순에 솔잎 사이에 실을 토하여 고치를 만들고 몸을 비틀어 고치에 몸의 센털을 찔러놓고 번데기가 된다. 20일 내외의 번데기 기간을 거친 후 7월 하순~8월 중순에 성충이 우화한다. 우화 시각은 오후 6~7시가 보통이고 성충의 수명은 9일 정도로 밤에만 활동하고 낮에는 숨어 있으며 추광성이 강하다. 우화 2일 후부터 산란하는데 보란수(保卵數)의 75%인 500개 정도를 솔잎에 몇 개의 무더기로 나누어 낳는다. 난 기간은 5~7일이고 대개 오전 중에 부화하며 어린 유충은 처음에는 모여서 식해하지만 나중에는 실을 토하며 분산한다. 유충은 번데기가 되기까지는 7회 탈피하는데 4회 탈피한 5령충으로 11월경에 월동처로 들어간다. 총 유충 기간은 320일 정도이며 주로 밤에 활동한다."
+    },
+    {
+      "title": "습성",
+      "text": "유충을 보통 송충이라고 하여 옛부터 소나무의 대표적인 해충으로 알려져 있다. 유충이 잎을 식해하며 심한 피해를 받은 나무는 고사하기도 한다. 유충 한 마리가 한 세대 동안 섭식하는 솔잎의 길이는 수컷이 약50 m, 암컷이 약 78 m로서 평균 64 m 정도이며 이의 95% 이상은 월동 후의 유충기에 식해한다. 묵은 잎을 식해하는 것이 보통이나 밀도가 높으면 새로 자라는 잎도 식해한다. 우리 나라에서 1970년대 중반까지 전국적으로 피해가 심하였으나 그 이후부터 산림이 녹화되고 임산 연료 채취가 감소되면서부터 밀도가 감소하여 1980년대부터는 일부 지역에서만 피해가 발생하고 있다."
+    },
+    {
+      "title": "월동",
+      "text": "수피 틈이나 지피물(地皮物) 밑에서 제5령 유충으로 월동한다."
+    },
+    {
+      "title": "알",
+      "text": "알은 원형으로 직경이 2 mm 정도이며 한 쪽은 담적갈색이고 또 한쪽은 청갈색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[유럽]\n[대만]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]\n[산림해충] 고제호, 1969: 128"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCZ0005-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCZ0005_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCZ0005_2_th.jpg",
+      "alt": "솔나방 1번째 사진 : 솔나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCZ0005_2_th2.jpg",
+      "caption": "솔나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCZ0005-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCZ0005_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCZ0005_1_th.jpg",
+      "alt": "솔나방 2번째 사진 : 솔나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCZ0005_1_th2.jpg",
+      "caption": "솔나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCZ0005-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304212001",
+      "description": "[KNAE0304212001] 솔나방 1998.08.19 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304212002",
+      "description": "[KNAE0304212002] 솔나방 1998.08.10 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304212003",
+      "description": "[KNAE0304212003] 솔나방 1998.08.11 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "개잎갈나무",
+      "scientific_name": "Cedrus deodara (Roxb. ex D.Don) G.Don"
+    },
+    {
+      "group": "식물",
+      "name_ko": "곰솔",
+      "scientific_name": "Pinus thunbergii Parl."
+    },
+    {
+      "group": "식물",
+      "name_ko": "리기다소나무",
+      "scientific_name": "Pinus rigida Mill."
+    },
+    {
+      "group": "식물",
+      "name_ko": "방크스소나무",
+      "scientific_name": "Pinus banksiana Lamb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "소나무",
+      "scientific_name": "Pinus densiflora Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "울릉솔송나무",
+      "scientific_name": "Tsuga ulleungensis G.P.Holman, Del Tredici, Havill, N.S.Lee & C.S.Campb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "일본잎갈나무",
+      "scientific_name": "Larix kaempferi (Lamb.) Carrière"
+    },
+    {
+      "group": "식물",
+      "name_ko": "잣나무",
+      "scientific_name": "Pinus koraiensis Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "전나무",
+      "scientific_name": "Abies holophylla Maxim."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCZ0005-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCZ0005&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:19+00:00",
+    "html_sha256": "a6f3ad44dd8097a02dded81fc7318754701ca1c048d9f1ead73410744831d62a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

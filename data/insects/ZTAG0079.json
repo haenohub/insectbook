@@ -1,0 +1,118 @@
+{
+  "id": "ZTAG0079",
+  "name_ko": "루리알락꽃벌",
+  "scientific_name": "Thyreus decorus (Smith, 1852)",
+  "display_name": "루리알락꽃벌",
+  "family_ko": "꿀벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "꿀벌과",
+      "name_latin": "Apidae"
+    },
+    "subfamily": {
+      "name_ko": "꿀벌아과",
+      "name_latin": "Apinae"
+    },
+    "genus": {
+      "name_ko": "루리알락꽃벌속",
+      "name_latin": "Thyreus"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 꿀벌과 (Apidae)\n아과 : 꿀벌아과 (Apinae)\n속 : 루리알락꽃벌속 (Thyreus)",
+  "basic_information": {
+    "곤충명": "루리알락꽃벌",
+    "학명": "Thyreus decorus (Smith, 1852)"
+  },
+  "information": {
+    "general_description": "몸길이는 13-14mm 정도이고, 암컷의 몸은 흑색이고 날개도 흑색이나 색이 짙은 곳과 담색인 곳이 있어서 무늬를 이룬다. 바깥가두리는 넓게 짙은 색이고 전체가 보랏빛에 검은 빛을 띤 광택이 있다. 몸에는 흑색과 청색 짧은 털이 밀생하여 무늬를 이루고 있다. 다리의 각 마디 기부의 무늬 등은 청색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[인도]\n[일본]\n[말레이시아]\n[미국]\n[중국]",
+    "notes": "[감소추세종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 13-14mm 정도이고, 암컷의 몸은 흑색이고 날개도 흑색이나 색이 짙은 곳과 담색인 곳이 있어서 무늬를 이룬다. 바깥가두리는 넓게 짙은 색이고 전체가 보랏빛에 검은 빛을 띤 광택이 있다. 몸에는 흑색과 청색 짧은 털이 밀생하여 무늬를 이루고 있다. 다리의 각 마디 기부의 무늬 등은 청색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[인도]\n[일본]\n[말레이시아]\n[미국]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[감소추세종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0079-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0079_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0079_2_th.jpg",
+      "alt": "루리알락꽃벌 1번째 사진 : 루리알락꽃벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0079_2_th2.jpg",
+      "caption": "루리알락꽃벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTAG0079-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0079_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0079_1_th.jpg",
+      "alt": "루리알락꽃벌 2번째 사진 : 루리알락꽃벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0079_1_th2.jpg",
+      "caption": "루리알락꽃벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0079-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0111303052",
+      "description": "[YNUE0111303052] 루리알락꽃벌 1986.06.25 / / 영남대학교"
+    },
+    {
+      "id": "ADUE0202191070",
+      "description": "[ADUE0202191070] 루리알락꽃벌 1989.06.20 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0201241072",
+      "description": "[ADUE0201241072] 루리알락꽃벌 1995.06.13 / / 안동대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAG0079-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0079&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:36+00:00",
+    "html_sha256": "f0036c2bb163551dce04724db0da5b5f7bd81406fa06ccaa1ed13271ecf60eaa",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

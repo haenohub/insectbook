@@ -1,0 +1,117 @@
+{
+  "id": "ZOBT0198",
+  "name_ko": "외잎벌레붙이",
+  "scientific_name": "Atrachya menetriesi (Faldermann, 1835)",
+  "display_name": "외잎벌레붙이",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "긴더듬이잎벌레아과",
+      "name_latin": "Galerucinae"
+    },
+    "genus": {
+      "name_ko": "외잎벌레붙이속",
+      "name_latin": "Atrachya"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 긴더듬이잎벌레아과 (Galerucinae)\n속 : 외잎벌레붙이속 (Atrachya)",
+  "basic_information": {
+    "곤충명": "외잎벌레붙이",
+    "학명": "Atrachya menetriesi (Faldermann, 1835)"
+  },
+  "information": {
+    "general_description": "몸길이는 4.7~6.9mm, 몸 전체 흑색이다. 머리와 앞가슴등판은 흑갈색이며, 배판은 흑색, 더듬이 흑색, 다리는 흑갈색이다. 허벅다리 끝부분, 종아리 끝부분은 황갈색이다. 한국, 일본(훗카이도, 혼슈, 시코쿠, 큐슈), 동시베리아, 중국, 사할린에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 여름에서 가을에 걸쳐 땅속에 산란한다. 콩과 식물이나 야채류에 피해를 준다. 6월에 알에서 부화한 유충은 3주만에 성장하여 땅속으로 용화한다. 연 1세대이지만 2~3세대를 거치기도 한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 4.7~6.9mm, 몸 전체 흑색이다. 머리와 앞가슴등판은 흑갈색이며, 배판은 흑색, 더듬이 흑색, 다리는 흑갈색이다. 허벅다리 끝부분, 종아리 끝부분은 황갈색이다. 한국, 일본(훗카이도, 혼슈, 시코쿠, 큐슈), 동시베리아, 중국, 사할린에 분포되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 여름에서 가을에 걸쳐 땅속에 산란한다. 콩과 식물이나 야채류에 피해를 준다. 6월에 알에서 부화한 유충은 3주만에 성장하여 땅속으로 용화한다. 연 1세대이지만 2~3세대를 거치기도 한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0198-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0198_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0198_1_th.jpg",
+      "alt": "외잎벌레붙이 1번째 사진 : 외잎벌레붙이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0198_1_th2.jpg",
+      "caption": "외잎벌레붙이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0198-1",
+  "specimen_examples": [
+    {
+      "id": "JFNE0407091143",
+      "description": "[JFNE0407091143] 외잎벌레붙이 1994.08.14 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0407091146",
+      "description": "[JFNE0407091146] 외잎벌레붙이 1994.08.17 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0407091147",
+      "description": "[JFNE0407091147] 외잎벌레붙이 1994.08.18 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "등",
+      "scientific_name": "Wisteria floribunda (Willd.) DC."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0198-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0198&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:54+00:00",
+    "html_sha256": "3a35ca1a61f15e051a81cc90bbe7b6022b7d946c523a90994681b2c608b7f289",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

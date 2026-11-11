@@ -1,0 +1,99 @@
+{
+  "id": "ZOEJ0026",
+  "name_ko": "황갈색줄풍뎅이",
+  "scientific_name": "Sophrops striata (Brenske, 1892)",
+  "display_name": "황갈색줄풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "검정풍뎅이아과",
+      "name_latin": "Melolonthinae"
+    },
+    "genus": {
+      "name_ko": "갈색줄풍뎅이속",
+      "name_latin": "Sophrops"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 검정풍뎅이아과 (Melolonthinae)\n속 : 갈색줄풍뎅이속 (Sophrops)",
+  "basic_information": {
+    "곤충명": "황갈색줄풍뎅이",
+    "학명": "Sophrops striata (Brenske, 1892)"
+  },
+  "information": {
+    "general_description": "중국에 분포하며, 몸은 긴 원통형이며 광택은 약하고, 갈색 내지 짙은 갈색이나 머리와 앞가슴등판은 적갈색 내지 흑갈색이며, 복면과 다리는 등쪽보다 진한 색이다. 머리방패는 짧고 넓으며, 전연은 깊게 파여 2개의 둥근 엽상이며, 점각은 크고 둥글며 서로 연결된다. 촉각은 10마디인데 수컷의 곤봉부는 안쪽마디의 합보다 약간 길고, 암컷은 절반정도이다. 앞가슴등판의 기부의 점각은 열상, 측연은 약간 거치상이며, 작고 짧은 가시털이 열생하였고, 점각은 크고 불규칙하게 배열하였다. 따기잘개는 가슴 폭의 2배 이상이며, 점각이 없는 5개의 세로융기선이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중국에 분포하며, 몸은 긴 원통형이며 광택은 약하고, 갈색 내지 짙은 갈색이나 머리와 앞가슴등판은 적갈색 내지 흑갈색이며, 복면과 다리는 등쪽보다 진한 색이다. 머리방패는 짧고 넓으며, 전연은 깊게 파여 2개의 둥근 엽상이며, 점각은 크고 둥글며 서로 연결된다. 촉각은 10마디인데 수컷의 곤봉부는 안쪽마디의 합보다 약간 길고, 암컷은 절반정도이다. 앞가슴등판의 기부의 점각은 열상, 측연은 약간 거치상이며, 작고 짧은 가시털이 열생하였고, 점각은 크고 불규칙하게 배열하였다. 따기잘개는 가슴 폭의 2배 이상이며, 점각이 없는 5개의 세로융기선이 있다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOEJ0026-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0026_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0026_1_th.jpg",
+      "alt": "황갈색줄풍뎅이 1번째 사진 : 황갈색줄풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0026_1_th2.jpg",
+      "caption": "황갈색줄풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOEJ0026-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408201086",
+      "description": "[MPME0408201086] 황갈색줄풍뎅이 1999.06.16 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408201085",
+      "description": "[MPME0408201085] 황갈색줄풍뎅이 1999.06.16 / / 목포자연사박물관"
+    },
+    {
+      "id": "SNUE0304022002",
+      "description": "[SNUE0304022002] 황갈색줄풍뎅이 1988.06.19 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOEJ0026-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOEJ0026&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:50+00:00",
+    "html_sha256": "fe6148c376384d5ef3db6e02f4100b7d9eedebcb8674f606a5e75b3a635ac5e9",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

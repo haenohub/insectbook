@@ -1,0 +1,157 @@
+{
+  "id": "ZOBT0076",
+  "name_ko": "팔점박이잎벌레",
+  "scientific_name": "Cryptocephalus (Cryptocephalus) peliopterus peliopterus Solsky, 1872",
+  "display_name": "팔점박이잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "통잎벌레아과",
+      "name_latin": "Cryptocephalinae"
+    },
+    "genus": {
+      "name_ko": "통잎벌레속",
+      "name_latin": "Cryptocephalus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 통잎벌레아과 (Cryptocephalinae)\n속 : 통잎벌레속 (Cryptocephalus)",
+  "basic_information": {
+    "곤충명": "팔점박이잎벌레",
+    "학명": "Cryptocephalus (Cryptocephalus) peliopterus peliopterus Solsky, 1872"
+  },
+  "information": {
+    "general_description": "몸길이는 7.0~8.2mm,머리, 배면, 다리는 흑색이다. 앞가슴등판에는 가운데의 양쪽에 굵은 세로줄무늬가 있으며, 딱지날개에는 앞에서 뒤로 두쌍씩의 세로형 무늬가 있어서 8점박이다. 한국(중부), 일본(훗가이도), 러시아(사할린,시베리아), 몽고에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 4~7월까지 볼 수 있으며 주로 5~6월에 왕성한 활동을한다. 각종식물류에 다양한게 서식하며 잎을 먹는다. 유충은 딱갈나무, 호장근, 졸참나무, 밤나무등의 잎에 가해한다.",
+    "habits": "기주식물 떡갈나무.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[몽골]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 7.0~8.2mm,머리, 배면, 다리는 흑색이다. 앞가슴등판에는 가운데의 양쪽에 굵은 세로줄무늬가 있으며, 딱지날개에는 앞에서 뒤로 두쌍씩의 세로형 무늬가 있어서 8점박이다. 한국(중부), 일본(훗가이도), 러시아(사할린,시베리아), 몽고에 분포되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 4~7월까지 볼 수 있으며 주로 5~6월에 왕성한 활동을한다. 각종식물류에 다양한게 서식하며 잎을 먹는다. 유충은 딱갈나무, 호장근, 졸참나무, 밤나무등의 잎에 가해한다."
+    },
+    {
+      "title": "습성",
+      "text": "기주식물 떡갈나무."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[몽골]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0076-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0076_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0076_2_th.jpg",
+      "alt": "팔점박이잎벌레 1번째 사진 : 팔점박이잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0076_2_th2.jpg",
+      "caption": "팔점박이잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBT0076-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0076_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0076_1_th.jpg",
+      "alt": "팔점박이잎벌레 2번째 사진 : 팔점박이잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0076_1_th2.jpg",
+      "caption": "팔점박이잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0076-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408201108",
+      "description": "[MPME0408201108] 팔점박이잎벌레 1999.07.03 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408051001",
+      "description": "[MPME0408051001] 팔점박이잎벌레 1999.07.03 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408051002",
+      "description": "[MPME0408051002] 팔점박이잎벌레 1999.07.03 / / 목포자연사박물관"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "갈참나무",
+      "scientific_name": "Quercus aliena Blume"
+    },
+    {
+      "group": "식물",
+      "name_ko": "떡갈나무",
+      "scientific_name": "Quercus dentata Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "물참나무",
+      "scientific_name": "Quercus mongolica var. crispula (Blume) H.Ohashi"
+    },
+    {
+      "group": "식물",
+      "name_ko": "상수리나무",
+      "scientific_name": "Quercus acutissima Carruth."
+    },
+    {
+      "group": "식물",
+      "name_ko": "오리나무",
+      "scientific_name": "Alnus japonica (Thunb.) Steud."
+    },
+    {
+      "group": "식물",
+      "name_ko": "졸참나무",
+      "scientific_name": "Quercus serrata Murray"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0076-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0076&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:36+00:00",
+    "html_sha256": "5e794330ec9e5c97b0900ea0e2199890b2ab1a4cfeed5fa691378b1eb6ff3adb",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

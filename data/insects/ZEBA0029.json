@@ -1,0 +1,118 @@
+{
+  "id": "ZEBA0029",
+  "name_ko": "중베짱이",
+  "scientific_name": "Tettigonia ussuriana Uvarov, 1939",
+  "display_name": "중베짱이",
+  "family_ko": "여치과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "메뚜기목",
+      "name_latin": "Orthoptera"
+    },
+    "family": {
+      "name_ko": "여치과",
+      "name_latin": "Tettigoniidae"
+    },
+    "subfamily": {
+      "name_ko": "여치아과",
+      "name_latin": "Tettigoniinae"
+    },
+    "genus": {
+      "name_ko": "중베짱이속",
+      "name_latin": "Tettigonia"
+    }
+  },
+  "taxonomy_text": "목 : 메뚜기목 (Orthoptera)\n과 : 여치과 (Tettigoniidae)\n아과 : 여치아과 (Tettigoniinae)\n속 : 중베짱이속 (Tettigonia)",
+  "basic_information": {
+    "곤충명": "중베짱이",
+    "학명": "Tettigonia ussuriana Uvarov, 1939"
+  },
+  "information": {
+    "general_description": "이 종은 Tettigonia UVAROV와 근사하나 미모가 특히 긴 것과 몸이 작은것이 특징이다.",
+    "adult": null,
+    "adult_male": "몸길이 4~28mm",
+    "adult_female": "몸길이 26~30mm",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[유럽]\n[러시아] 동시베리아지역\n[러시아] 서시베리아지역\n[러시아] 극동지역",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "이 종은 Tettigonia UVAROV와 근사하나 미모가 특히 긴 것과 몸이 작은것이 특징이다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "몸길이 4~28mm"
+    },
+    {
+      "title": "성충(암)",
+      "text": "몸길이 26~30mm"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[유럽]\n[러시아] 동시베리아지역\n[러시아] 서시베리아지역\n[러시아] 극동지역"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZEBA0029-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0029_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0029_2_th.jpg",
+      "alt": "중베짱이 1번째 사진 : 중베짱이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0029_2_th2.jpg",
+      "caption": "중베짱이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZEBA0029-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0029_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0029_1_th.jpg",
+      "alt": "중베짱이 2번째 사진 : 중베짱이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0029_1_th2.jpg",
+      "caption": "중베짱이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZEBA0029-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0306192106",
+      "description": "[SNUE0306192106] 중베짱이 1971.07.29 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0306192107",
+      "description": "[SNUE0306192107] 중베짱이 1973.07.28 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0306192108",
+      "description": "[SNUE0306192108] 중베짱이 1983.07.03 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZEBA0029-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZEBA0029&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:26+00:00",
+    "html_sha256": "2f26016b0279b4273075480ac1a00c692e0ce6afc1b9393d863a4d57c62fa442",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

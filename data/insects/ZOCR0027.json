@@ -1,0 +1,99 @@
+{
+  "id": "ZOCR0027",
+  "name_ko": "땅콩물방개",
+  "scientific_name": "Agabus (Acatodes) japonicus Sharp, 1873",
+  "display_name": "땅콩물방개",
+  "family_ko": "물방개과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "물방개과",
+      "name_latin": "Dytiscidae"
+    },
+    "subfamily": {
+      "name_ko": "땅콩물방개아과",
+      "name_latin": "Agabinae"
+    },
+    "genus": {
+      "name_ko": "땅콩물방개속",
+      "name_latin": "Agabus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 물방개과 (Dytiscidae)\n아과 : 땅콩물방개아과 (Agabinae)\n속 : 땅콩물방개속 (Agabus)",
+  "basic_information": {
+    "곤충명": "땅콩물방개",
+    "학명": "Agabus (Acatodes) japonicus Sharp, 1873"
+  },
+  "information": {
+    "general_description": "한국, 일본, 대만, 사할린에 분포하며, 체장은 6-7.5mm 정도이다. 머리와 앞가슴등판은 흑색이고 딱지날개는 암갈색인데 약간 광택이 있다. 머리꼭대기에는 두개의 적갈색의 얼룩 무늬가 있고, 촉각과 양쪽 수염은 활갈색이다. 배면은 흑색이고 배의 말단 네마디으 뒷가두리는 암황갈색이다. 다리는 적흑색이고 종아리마디 이하는 적갈색이다. 앞다리의 종아리마디 끝마디는 가장 길며 전체 길이의 1/3을 점령한다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 대만, 사할린에 분포하며, 체장은 6-7.5mm 정도이다. 머리와 앞가슴등판은 흑색이고 딱지날개는 암갈색인데 약간 광택이 있다. 머리꼭대기에는 두개의 적갈색의 얼룩 무늬가 있고, 촉각과 양쪽 수염은 활갈색이다. 배면은 흑색이고 배의 말단 네마디으 뒷가두리는 암황갈색이다. 다리는 적흑색이고 종아리마디 이하는 적갈색이다. 앞다리의 종아리마디 끝마디는 가장 길며 전체 길이의 1/3을 점령한다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCR0027-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCR0027_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCR0027_1_th.jpg",
+      "alt": "땅콩물방개 1번째 사진 : 땅콩물방개전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCR0027_1_th2.jpg",
+      "caption": "땅콩물방개전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCR0027-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0205091105",
+      "description": "[FRIE0205091105] 땅콩물방개 1982.04.05 / / 국립산림과학원"
+    },
+    {
+      "id": "HNUE0408124025",
+      "description": "[HNUE0408124025] 땅콩물방개 1986.08.20 / / 한남대학교 자연사박물관"
+    },
+    {
+      "id": "HNUE0408124026",
+      "description": "[HNUE0408124026] 땅콩물방개 1986.08.30 / / 한남대학교 자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOCR0027-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCR0027&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:26+00:00",
+    "html_sha256": "875a3bfbe7ac043fc2d683a2c11b3247005c8df4dd1d914f1e2927d4a2ee4783",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

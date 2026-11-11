@@ -1,0 +1,103 @@
+{
+  "id": "ZOBL0195",
+  "name_ko": "초원하늘소",
+  "scientific_name": "Agapanthia (Epoptes) daurica daurica Ganglbauer, 1884",
+  "display_name": "초원하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "목하늘소아과",
+      "name_latin": "Lamiinae"
+    },
+    "genus": {
+      "name_ko": "초원하늘소속",
+      "name_latin": "Agapanthia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 목하늘소아과 (Lamiinae)\n속 : 초원하늘소속 (Agapanthia)",
+  "basic_information": {
+    "곤충명": "초원하늘소",
+    "학명": "Agapanthia (Epoptes) daurica daurica Ganglbauer, 1884"
+  },
+  "information": {
+    "general_description": "몸길이는 9~19mm 이며 가늘고 길다. 원통형에 가깝다. 몸의 색깔은 아연색이 도는 흑색이다. 딱지날개는 누런빛이 도는 흰색이며 털들은 매우작고 불규칙적 무늬 모양이다. 앞가슴등판은 가운데 세로줄 무늬가 있고 더듬이는 푸른색이도는 백색이며, 각 마디의 끝은 흑색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[몽골]\n[러시아]\n[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 9~19mm 이며 가늘고 길다. 원통형에 가깝다. 몸의 색깔은 아연색이 도는 흑색이다. 딱지날개는 누런빛이 도는 흰색이며 털들은 매우작고 불규칙적 무늬 모양이다. 앞가슴등판은 가운데 세로줄 무늬가 있고 더듬이는 푸른색이도는 백색이며, 각 마디의 끝은 흑색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[몽골]\n[러시아]\n[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0195-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0195_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0195_1_th.jpg",
+      "alt": "초원하늘소 1번째 사진 : 초원하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0195_1_th2.jpg",
+      "caption": "초원하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0195-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0306161018",
+      "description": "[FRIE0306161018] 초원하늘소 1997.07.09 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE1107014010",
+      "description": "[KNAE1107014010] 초원하늘소 2010.06.18 / / 국립수목원"
+    },
+    {
+      "id": "KNAE1107014011",
+      "description": "[KNAE1107014011] 초원하늘소 2009.06.05 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0195-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0195&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:22+00:00",
+    "html_sha256": "cc71aa92ec790cb7a9a25ecc08f22fbd3727bca3d9dd3ac66ca0ff5e9022f4ae",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

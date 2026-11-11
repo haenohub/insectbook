@@ -1,0 +1,137 @@
+{
+  "id": "ZREL0301",
+  "name_ko": "굵은수염알락명나방",
+  "scientific_name": "Spatulipalpia albistrialis Hampson, 1912",
+  "display_name": "굵은수염알락명나방",
+  "family_ko": "명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "명나방과",
+      "name_latin": "Pyralidae"
+    },
+    "subfamily": {
+      "name_ko": "알락명나방아과",
+      "name_latin": "Phycitinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Spatulipalpia"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 명나방과 (Pyralidae)\n아과 : 알락명나방아과 (Phycitinae)\n속 : (Spatulipalpia)",
+  "basic_information": {
+    "곤충명": "굵은수염알락명나방",
+    "학명": "Spatulipalpia albistrialis Hampson, 1912"
+  },
+  "information": {
+    "general_description": "Wing expanse 18-20mm. This species can be separated from the related species by the fuscous reddish found color and the two whitish longitudinal lines on the forewing. The species seems to be a common species in Korea (Choi et al., 1998).",
+    "adult": null,
+    "adult_male": "Uncus rather broad, shortly bifurcated with pointed apex. Apical process of gnathos elongate, blunt. Transtilla broad, medially slightly pointed. Valva apically narrow, with waved saccular margin; costa with basally a few long hairs; clasper broad, blunt. Vinculum broad, moderate in size, about 0.8 times as long as valva in length. Aedeagus broad, as long as valva.",
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[스리랑카]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": "Adults are collected from the early of May to the mid of August in Korea."
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "Wing expanse 18-20mm. This species can be separated from the related species by the fuscous reddish found color and the two whitish longitudinal lines on the forewing. The species seems to be a common species in Korea (Choi et al., 1998)."
+    },
+    {
+      "title": "성충(수)",
+      "text": "Uncus rather broad, shortly bifurcated with pointed apex. Apical process of gnathos elongate, blunt. Transtilla broad, medially slightly pointed. Valva apically narrow, with waved saccular margin; costa with basally a few long hairs; clasper broad, blunt. Vinculum broad, moderate in size, about 0.8 times as long as valva in length. Aedeagus broad, as long as valva."
+    },
+    {
+      "title": "참고사항",
+      "text": "Adults are collected from the early of May to the mid of August in Korea."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[스리랑카]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0301-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0301_7.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0301_7_th.jpg",
+      "alt": "굵은수염알락명나방 1번째 사진 : 굵은수염알락명나방가슴 확대 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0301_7_th2.jpg",
+      "caption": "굵은수염알락명나방가슴 확대 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREL0301-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0301_6.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0301_6_th.jpg",
+      "alt": "굵은수염알락명나방 2번째 사진 : 굵은수염알락명나방배 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0301_6_th2.jpg",
+      "caption": "굵은수염알락명나방배 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREL0301-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0301_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0301_1_th.jpg",
+      "alt": "굵은수염알락명나방 3번째 사진 : 굵은수염알락명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0301_1_th2.jpg",
+      "caption": "굵은수염알락명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0301-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0604180060",
+      "description": "[KNAE0604180060] 굵은수염알락명나방 2005.05.24 / / 국립수목원"
+    },
+    {
+      "id": "KNAE132540",
+      "description": "[KNAE132540] 굵은수염알락명나방 / / 국립수목원"
+    },
+    {
+      "id": "KNAE132556",
+      "description": "[KNAE132556] 굵은수염알락명나방 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREL0301-3"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0301&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:30+00:00",
+    "html_sha256": "763081da30c9b8fa1e27ceca4e18991af0466fc6619f6e3931317b6b127065e4",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

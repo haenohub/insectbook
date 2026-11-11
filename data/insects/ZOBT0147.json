@@ -1,0 +1,103 @@
+{
+  "id": "ZOBT0147",
+  "name_ko": "수염잎벌레",
+  "scientific_name": "Gonioctena (Brachyphytodecta) fulva (Motschulsky, 1861)",
+  "display_name": "수염잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "잎벌레아과",
+      "name_latin": "Chrysomelinae"
+    },
+    "genus": {
+      "name_ko": "수염잎벌레속",
+      "name_latin": "Gonioctena"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 잎벌레아과 (Chrysomelinae)\n속 : 수염잎벌레속 (Gonioctena)",
+  "basic_information": {
+    "곤충명": "수염잎벌레",
+    "학명": "Gonioctena (Brachyphytodecta) fulva (Motschulsky, 1861)"
+  },
+  "information": {
+    "general_description": "몸길이는 5.0~6.0mm, 몸 전체색깔은 붉은색에서 갈색이며, 앞날개와 앞가슴등판은 같은색. 소순판은 검정색. 한국(북부,중부,남부), 중국(만주,북부,중부,남부), 러시아(동시베리아), 베트남(북부)에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[중국]\n[베트남]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 5.0~6.0mm, 몸 전체색깔은 붉은색에서 갈색이며, 앞날개와 앞가슴등판은 같은색. 소순판은 검정색. 한국(북부,중부,남부), 중국(만주,북부,중부,남부), 러시아(동시베리아), 베트남(북부)에 분포되어있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]\n[베트남]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0147-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0147_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0147_1_th.jpg",
+      "alt": "수염잎벌레 1번째 사진 : 수염잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0147_1_th2.jpg",
+      "caption": "수염잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0147-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0306251007",
+      "description": "[FRIE0306251007] 수염잎벌레 1997.05.21 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0306251006",
+      "description": "[FRIE0306251006] 수염잎벌레 1999.07.20 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0304211071",
+      "description": "[FRIE0304211071] 수염잎벌레 2001.05.23 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0147-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0147&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:33+00:00",
+    "html_sha256": "c1147d727a42f63f5dd51c3feff4b498a09cc2be3a4dea3359797a78f3b0c801",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

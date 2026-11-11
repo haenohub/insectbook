@@ -1,0 +1,111 @@
+{
+  "id": "ZREL0164",
+  "name_ko": "달무늬들명나방",
+  "scientific_name": "Syllepte segnalis (Leech, 1889)",
+  "display_name": "달무늬들명나방",
+  "family_ko": "풀명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "풀명나방과",
+      "name_latin": "Crambidae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Spilomelinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Syllepte"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 풀명나방과 (Crambidae)\n아과 : (Spilomelinae)\n속 : (Syllepte)",
+  "basic_information": {
+    "곤충명": "달무늬들명나방",
+    "학명": "Syllepte segnalis (Leech, 1889)"
+  },
+  "information": {
+    "general_description": "머리는 흑갈색이고, 잎이마는 약간 둥그스럼하며, 머리 끝은 약간 황색을 띤 인모로 덮혀 있다. 더듬이는 흑갈색이고 미모 모양이다. 아랫입술수염은 다소 구부러졌으며, 제3마디는 작고 뾰족하다. 앞날개의 중실 내에 백색의 사각형 무늬는 아주 명료하다. 뒷날개의 외횡선은 황백색으로 다소 넓은 줄 무늬를 이룬다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6~9월에 걸쳐 출현한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대한민국] 서울특별시\n[대한민국] 경상북도\n[중국]\n[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "머리는 흑갈색이고, 잎이마는 약간 둥그스럼하며, 머리 끝은 약간 황색을 띤 인모로 덮혀 있다. 더듬이는 흑갈색이고 미모 모양이다. 아랫입술수염은 다소 구부러졌으며, 제3마디는 작고 뾰족하다. 앞날개의 중실 내에 백색의 사각형 무늬는 아주 명료하다. 뒷날개의 외횡선은 황백색으로 다소 넓은 줄 무늬를 이룬다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6~9월에 걸쳐 출현한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대한민국] 서울특별시\n[대한민국] 경상북도\n[중국]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0164-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0164_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0164_1_th.jpg",
+      "alt": "달무늬들명나방 1번째 사진 : 달무늬들명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0164_1_th2.jpg",
+      "caption": "달무늬들명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0164-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0305021024",
+      "description": "[FRIE0305021024] 달무늬들명나방 1997.08.11 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0303031004",
+      "description": "[KNAE0303031004] 달무늬들명나방 1999.07.13 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303031006",
+      "description": "[KNAE0303031006] 달무늬들명나방 1999.08.10 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREL0164-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0164&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:52+00:00",
+    "html_sha256": "ae7f5eb48403b5c842ee70ed3a4522e8c30784a2b445d7b6e7f5eec4ff2f8e88",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

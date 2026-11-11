@@ -1,0 +1,111 @@
+{
+  "id": "ZOAN0001",
+  "name_ko": "노랑똥풍뎅이",
+  "scientific_name": "Aphodius (Acanthobodilus) languidulus Schmidt, 1916",
+  "display_name": "노랑똥풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "똥풍뎅이아과",
+      "name_latin": "Aphodiinae"
+    },
+    "genus": {
+      "name_ko": "똥풍뎅이속",
+      "name_latin": "Aphodius"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 똥풍뎅이아과 (Aphodiinae)\n속 : 똥풍뎅이속 (Aphodius)",
+  "basic_information": {
+    "곤충명": "노랑똥풍뎅이",
+    "학명": "Aphodius (Acanthobodilus) languidulus Schmidt, 1916"
+  },
+  "information": {
+    "general_description": "중국, 일본에 분포하며 두흉배와 날개봉합선은 적갈~암갈색이며 광택은 약하다. 전흉배판 후각은 둥글고 단순하며 소순판은 삼각형이다. 딱지날개는 견치를 가지나 매우 작고 간실점각은 거칠다. 중,후경절단극모들의 길이는 서로 같고 제1후부절의 길이는 다음 3마디의 합과 같다. BL:5~6mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중국, 일본에 분포하며 두흉배와 날개봉합선은 적갈~암갈색이며 광택은 약하다. 전흉배판 후각은 둥글고 단순하며 소순판은 삼각형이다. 딱지날개는 견치를 가지나 매우 작고 간실점각은 거칠다. 중,후경절단극모들의 길이는 서로 같고 제1후부절의 길이는 다음 3마디의 합과 같다. BL:5~6mm."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAN0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAN0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAN0001_1_th.jpg",
+      "alt": "노랑똥풍뎅이 1번째 사진 : 노랑똥풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAN0001_1_th2.jpg",
+      "caption": "노랑똥풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAN0001-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0204181385",
+      "description": "[SNUE0204181385] 노랑똥풍뎅이 1966.07.19 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0204181386",
+      "description": "[SNUE0204181386] 노랑똥풍뎅이 1966.07.19 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0204181387",
+      "description": "[SNUE0204181387] 노랑똥풍뎅이 1967.07.31 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOAN0001.png",
+    "reference_image_id": "ZOAN0001-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T11:49:18.701033+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "4b96cd8031e7fb8eb3116d89207903444d333359765b5091f456dc33dc67b396"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAN0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:07+00:00",
+    "html_sha256": "100d8e5da4e0300ffad1e1200b51a2279172c2cec0bc30703d358488c0f8ac7d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

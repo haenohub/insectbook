@@ -1,0 +1,107 @@
+{
+  "id": "ZSEM0117",
+  "name_ko": "수중다리꽃등에",
+  "scientific_name": "Helophilus virgatus Coquillett, 1898",
+  "display_name": "수중다리꽃등에",
+  "family_ko": "꽃등에과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "꽃등에상과",
+      "name_latin": "Syrphoidea"
+    },
+    "family": {
+      "name_ko": "꽃등에과",
+      "name_latin": "Syrphidae"
+    },
+    "subfamily": {
+      "name_ko": "순꽃등에아과",
+      "name_latin": "Eristalinae"
+    },
+    "genus": {
+      "name_ko": "수중다리꽃등에속",
+      "name_latin": "Helophilus"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 꽃등에상과 (Syrphoidea)\n과 : 꽃등에과 (Syrphidae)\n아과 : 순꽃등에아과 (Eristalinae)\n속 : 수중다리꽃등에속 (Helophilus)",
+  "basic_information": {
+    "곤충명": "수중다리꽃등에",
+    "학명": "Helophilus virgatus Coquillett, 1898"
+  },
+  "information": {
+    "general_description": "몸길이는 12~14 mm이다. 몸은 흑갈색이며, 배에는 각 마디에 황색의 가로 띠 무늬가 1개씩 있다. 다리는 흑색인데, 앞다리와 가운뎃다리의 무릎 이하는 옅은 황적색이며, 다리의 넓적다리마디는 가운데가 굵고 둘레에 강모가 많다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 4~10월에 흔히 볼 수 있다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 12~14 mm이다. 몸은 흑갈색이며, 배에는 각 마디에 황색의 가로 띠 무늬가 1개씩 있다. 다리는 흑색인데, 앞다리와 가운뎃다리의 무릎 이하는 옅은 황적색이며, 다리의 넓적다리마디는 가운데가 굵고 둘레에 강모가 많다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 4~10월에 흔히 볼 수 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSEM0117-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0117_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0117_1_th.jpg",
+      "alt": "수중다리꽃등에 1번째 사진 : 수중다리꽃등에전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0117_1_th2.jpg",
+      "caption": "수중다리꽃등에전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSEM0117-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0407261094",
+      "description": "[MPME0407261094] 수중다리꽃등에 2001.05.17 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0407261096",
+      "description": "[MPME0407261096] 수중다리꽃등에 2001.05.17 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0407261097",
+      "description": "[MPME0407261097] 수중다리꽃등에 2001.05.17 / / 목포자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZSEM0117-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSEM0117&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:37+00:00",
+    "html_sha256": "aeabfd9049151ea2cc8a01ab667a9fe12a1e192ccd58a5d3710d582ebfca8b9f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

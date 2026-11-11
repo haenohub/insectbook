@@ -1,0 +1,153 @@
+{
+  "id": "ZOGM0094",
+  "name_ko": "여섯가시나무좀",
+  "scientific_name": "Pityogenes chalcographus (Linnaeus, 1760)",
+  "display_name": "여섯가시나무좀",
+  "family_ko": "바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "바구미과",
+      "name_latin": "Curculionidae"
+    },
+    "subfamily": {
+      "name_ko": "나무좀아과",
+      "name_latin": "Scolytinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Pityogenes"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 바구미과 (Curculionidae)\n아과 : 나무좀아과 (Scolytinae)\n속 : (Pityogenes)",
+  "basic_information": {
+    "곤충명": "여섯가시나무좀",
+    "학명": "Pityogenes chalcographus (Linnaeus, 1760)"
+  },
+  "information": {
+    "general_description": "몸길이는 1.8~2.2mm 이며 진한갈색이며 광택이있다. 앞가슴등판의 점각이 매우 강하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 1.8~2.2mm 이며 진한갈색이며 광택이있다. 앞가슴등판의 점각이 매우 강하다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGM0094-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGM0094_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGM0094_1_th.jpg",
+      "alt": "여섯가시나무좀 1번째 사진 : 여섯가시나무좀전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGM0094_1_th2.jpg",
+      "caption": "여섯가시나무좀전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGM0094-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0203232004",
+      "description": "[SNUE0203232004] 여섯가시나무좀 1982.12.03 / / 서울대학교"
+    },
+    {
+      "id": "KNAE0802180101",
+      "description": "[KNAE0802180101] 여섯가시나무좀 2007.09.26 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0802180102",
+      "description": "[KNAE0802180102] 여섯가시나무좀 2007.09.26 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "눈잣나무",
+      "scientific_name": "Pinus pumila (Pall.) Regel"
+    },
+    {
+      "group": "식물",
+      "name_ko": "방크스소나무",
+      "scientific_name": "Pinus banksiana Lamb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "분비나무",
+      "scientific_name": "Abies nephrolepis (Trautv. ex Maxim.) Maxim."
+    },
+    {
+      "group": "식물",
+      "name_ko": "소나무",
+      "scientific_name": "Pinus densiflora Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "스트로브잣나무",
+      "scientific_name": "Pinus strobus L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "일본잎갈나무",
+      "scientific_name": "Larix kaempferi (Lamb.) Carrière"
+    },
+    {
+      "group": "식물",
+      "name_ko": "일본전나무",
+      "scientific_name": "Abies firma Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "잎갈나무",
+      "scientific_name": "Larix gmelinii var. olgensis (A.Henry) Ostenf. & Syrach"
+    },
+    {
+      "group": "식물",
+      "name_ko": "잣나무",
+      "scientific_name": "Pinus koraiensis Siebold & Zucc."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGM0094-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGM0094&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:01+00:00",
+    "html_sha256": "7a7d1432301b3013c2a3ee5c57ee42a6fd6714e6aa809e7afde4ce40944ac912",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

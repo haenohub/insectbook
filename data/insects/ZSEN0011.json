@@ -1,0 +1,107 @@
+{
+  "id": "ZSEN0011",
+  "name_ko": "깨다시등에",
+  "scientific_name": "Haematopota pluvialis (Linnaeus, 1758)",
+  "display_name": "깨다시등에",
+  "family_ko": "등에과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "등에상과",
+      "name_latin": "Tabanoidea"
+    },
+    "family": {
+      "name_ko": "등에과",
+      "name_latin": "Tabanidae"
+    },
+    "subfamily": {
+      "name_ko": "등에아과",
+      "name_latin": "Tabaninae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Haematopota"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 등에상과 (Tabanoidea)\n과 : 등에과 (Tabanidae)\n아과 : 등에아과 (Tabaninae)\n속 : (Haematopota)",
+  "basic_information": {
+    "곤충명": "깨다시등에",
+    "학명": "Haematopota pluvialis (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "체장: 10-11mm. 몸은 흑색. 머리는 가슴보다 현저히 폭이 넓고 겹눈사이는 머리폭의 1/4가량이며 회색가루로 덮였고 중앙에 3개의 작은 흑색점이 있고 앞머리의 혹은 횡형이며 약간 융기했고 광택있는 흑색. 얼굴은 회색가루로 덮였고 중앙부에 흑색의 작은 무늬가 있으며 옆구리에 작은 흑색 점이 산재. 더듬이는 흑색이며 가슴의 등면은 비교적 작고 가는 회색 가루로 덮임. 날개는 흐리고 많은 투명한 가는 무늬. 다리는 흑갈색이고 종아리마디의 2개의 고리무늬와 발목마디의 기부는 황적색. 배는 흑갈색이고 중앙선과 각 다리의 마디 뒷가장자리 및 각 마디 옆가장자리 무늬는 회색 가루가 덮임.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체장: 10-11mm. 몸은 흑색. 머리는 가슴보다 현저히 폭이 넓고 겹눈사이는 머리폭의 1/4가량이며 회색가루로 덮였고 중앙에 3개의 작은 흑색점이 있고 앞머리의 혹은 횡형이며 약간 융기했고 광택있는 흑색. 얼굴은 회색가루로 덮였고 중앙부에 흑색의 작은 무늬가 있으며 옆구리에 작은 흑색 점이 산재. 더듬이는 흑색이며 가슴의 등면은 비교적 작고 가는 회색 가루로 덮임. 날개는 흐리고 많은 투명한 가는 무늬. 다리는 흑갈색이고 종아리마디의 2개의 고리무늬와 발목마디의 기부는 황적색. 배는 흑갈색이고 중앙선과 각 다리의 마디 뒷가장자리 및 각 마디 옆가장자리 무늬는 회색 가루가 덮임."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSEN0011-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEN0011_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEN0011_1_th.jpg",
+      "alt": "깨다시등에 1번째 사진 : 깨다시등에전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEN0011_1_th2.jpg",
+      "caption": "깨다시등에전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSEN0011-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0204261003",
+      "description": "[FRIE0204261003] 깨다시등에 1983.06.22 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE239871",
+      "description": "[KNAE239871] 깨다시등에 / / 국립수목원"
+    },
+    {
+      "id": "YSUW1207103023",
+      "description": "[YSUW1207103023] 깨다시등에 1997.07.13 / / 연세대학교 곤충표본실"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZSEN0011.png",
+    "reference_image_id": "ZSEN0011-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T10:06:49.746760+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "0a75f1c7a2524f7693c6cba70d508558edd509267fd0d47e1a4a83eb06f22ca1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSEN0011&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:21+00:00",
+    "html_sha256": "65e69ccd233ae25e7fc95d7c324e17ed311a5d9ed478fcc26bc3ec18195cf02a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

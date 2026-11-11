@@ -1,0 +1,128 @@
+{
+  "id": "ZLAD0005",
+  "name_ko": "톱다리개미허리노린재",
+  "scientific_name": "Riptortus clavatus (Thunberg, 1783)",
+  "display_name": "톱다리개미허리노린재",
+  "family_ko": "호리허리노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "허리노린재상과",
+      "name_latin": "Coreoidea"
+    },
+    "family": {
+      "name_ko": "호리허리노린재과",
+      "name_latin": "Alydidae"
+    },
+    "subfamily": {
+      "name_ko": "호리허리노린재아과",
+      "name_latin": "Alydidae"
+    },
+    "genus": {
+      "name_ko": "톱다리개미허리노린재속",
+      "name_latin": "Riptortus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 허리노린재상과 (Coreoidea)\n과 : 호리허리노린재과 (Alydidae)\n아과 : 호리허리노린재아과 (Alydidae)\n속 : 톱다리개미허리노린재속 (Riptortus)",
+  "basic_information": {
+    "곤충명": "톱다리개미허리노린재",
+    "학명": "Riptortus clavatus (Thunberg, 1783)"
+  },
+  "information": {
+    "general_description": "몸길이 : 13.5-27.5mm\n몸은 적갈색 또는 흑갈색이고 변이가 심히다. 더듬이는 황갈색을 띤다. 앞가슴등판은 사다리꼴이고 옆가장자리의 뒷모서리가 세모꼴로 뾰족하게 돌출하였다. 배마디의 기부는 가늘고 옆가장자리는 좁고 완만하게 확장되었다. 노랑색 줄무늬가 있다. 뒷다리의 허벅마디는 원통형이고, 뒷가장자리에는 뾰족한 가시돌기가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 날아갈 때 마치 벌처럼 생겼으며, 약충은 개미모양으로 전형적인 의태를 보여준다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[대만]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 13.5-27.5mm\n몸은 적갈색 또는 흑갈색이고 변이가 심히다. 더듬이는 황갈색을 띤다. 앞가슴등판은 사다리꼴이고 옆가장자리의 뒷모서리가 세모꼴로 뾰족하게 돌출하였다. 배마디의 기부는 가늘고 옆가장자리는 좁고 완만하게 확장되었다. 노랑색 줄무늬가 있다. 뒷다리의 허벅마디는 원통형이고, 뒷가장자리에는 뾰족한 가시돌기가 있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 날아갈 때 마치 벌처럼 생겼으며, 약충은 개미모양으로 전형적인 의태를 보여준다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[대만]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLAD0005-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAD0005_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAD0005_2_th.jpg",
+      "alt": "톱다리개미허리노린재 1번째 사진 : 톱다리개미허리노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAD0005_2_th2.jpg",
+      "caption": "톱다리개미허리노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZLAD0005-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAD0005_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAD0005_1_th.jpg",
+      "alt": "톱다리개미허리노린재 2번째 사진 : 톱다리개미허리노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAD0005_1_th2.jpg",
+      "caption": "톱다리개미허리노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLAD0005-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408191146",
+      "description": "[MPME0408191146] 톱다리개미허리노린재 2003.08.12 / / 목포자연사박물관"
+    },
+    {
+      "id": "KNAE0303192001",
+      "description": "[KNAE0303192001] 톱다리개미허리노린재 1999.07.08 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303192002",
+      "description": "[KNAE0303192002] 톱다리개미허리노린재 1998.09.09 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "감나무",
+      "scientific_name": "Diospyros kaki Thunb."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLAD0005-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLAD0005&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:28+00:00",
+    "html_sha256": "4c461d12ca6340784ad4c3efb43a25c36b319a90f85e91c635a2011399942782",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

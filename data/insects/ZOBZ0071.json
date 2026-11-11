@@ -1,0 +1,118 @@
+{
+  "id": "ZOBZ0071",
+  "name_ko": "곱추무당벌레",
+  "scientific_name": "Epilachna quadricollis (Dieke, 1947)",
+  "display_name": "곱추무당벌레",
+  "family_ko": "무당벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Coccinelloidea"
+    },
+    "family": {
+      "name_ko": "무당벌레과",
+      "name_latin": "Coccinellidae"
+    },
+    "subfamily": {
+      "name_ko": "무당벌레아과",
+      "name_latin": "Coccinellinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Epilachna"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : (Coccinelloidea)\n과 : 무당벌레과 (Coccinellidae)\n아과 : 무당벌레아과 (Coccinellinae)\n속 : (Epilachna)",
+  "basic_information": {
+    "곤충명": "곱추무당벌레",
+    "학명": "Epilachna quadricollis (Dieke, 1947)"
+  },
+  "information": {
+    "general_description": "몸길이는 4~5.5mm 이다. 딱지날개의 무늬는 매우 크며 5쌍인 점이 다르다. 어깨쪽 무늬는 완전히 덮지 않았으며 앞가슴등판은 2~3개로 무늬가 나뉘었다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 4~5.5mm 이다. 딱지날개의 무늬는 매우 크며 5쌍인 점이 다르다. 어깨쪽 무늬는 완전히 덮지 않았으며 앞가슴등판은 2~3개로 무늬가 나뉘었다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBZ0071-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBZ0071_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBZ0071_1_th.jpg",
+      "alt": "곱추무당벌레 1번째 사진 : 곱추무당벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBZ0071_1_th2.jpg",
+      "caption": "곱추무당벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBZ0071-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0307071069",
+      "description": "[KUIE0307071069] 곱추무당벌레 1992.05.31 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307071070",
+      "description": "[KUIE0307071070] 곱추무당벌레 1977.07.10 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307071071",
+      "description": "[KUIE0307071071] 곱추무당벌레 1994.06.24 / / 고려대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "물푸레나무",
+      "scientific_name": "Fraxinus rhynchophylla Hance"
+    },
+    {
+      "group": "식물",
+      "name_ko": "쥐똥나무",
+      "scientific_name": "Ligustrum obtusifolium Siebold & Zucc."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBZ0071.png",
+    "reference_image_id": "ZOBZ0071-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T13:11:34.491539+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "37cb2869ed8db741440b29c4195044be4e8b5cdb067f3b5282234889899408b3"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBZ0071&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:06+00:00",
+    "html_sha256": "d5e4d5ebb5311183b768969723acad61ef83bc53916be7bf4899751bd793bd74",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

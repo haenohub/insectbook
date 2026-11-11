@@ -1,0 +1,103 @@
+{
+  "id": "ZTBU0282",
+  "name_ko": "스즈키맵시벌",
+  "scientific_name": "Ctenichneumon panzeri suzukii (Matsumura, 1912)",
+  "display_name": "스즈키맵시벌",
+  "family_ko": "맵시벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "맵시벌과",
+      "name_latin": "Ichneumonidae"
+    },
+    "subfamily": {
+      "name_ko": "맵시벌아과",
+      "name_latin": "Ichneumoninae"
+    },
+    "genus": {
+      "name_ko": "초상맵시벌속",
+      "name_latin": "Ctenichneumon"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 맵시벌과 (Ichneumonidae)\n아과 : 맵시벌아과 (Ichneumoninae)\n속 : 초상맵시벌속 (Ctenichneumon)",
+  "basic_information": {
+    "곤충명": "스즈키맵시벌",
+    "학명": "Ctenichneumon panzeri suzukii (Matsumura, 1912)"
+  },
+  "information": {
+    "general_description": "몸은 흑색이고, 황백색의 짧은 털이 많다. 겹눈의 안슭, 앞머리의 양 옆, 머리방패, 수염, 더듬이의 자루마디 아랫면, 앞가슴등판 뒷슭 양 옆, 날개밑비늘(翅底鱗), 그 바로 아래의 1무늬, 작은방패판, 뒷방패판, 각 배마디의 뒷슭은 황색이다. 더듬이는 암갈색이고 머리, 가슴에는 점각이 많고 뒷머리에는 적다. 뒷가슴등판에는 그물 모양의 융기가 있고 날개는 반투명, 약간 암색을 띠고 맥은 암갈색이다. 제1배마디의 뒷슭에 4개의 세로 융기가 있는데 양쪽 것은 짧고 뒷슭 무늬는 중앙에서 돌출하고 제2·3배마디의 뒷슭 무늬는 굵고 그 중앙에서 반원형으로 패였다. 다리는 흑색이고, 밑마디의 1무늬, 넓적다리마디의 끝, 종아리마디와 발목마디의 대부분은 황색이고 뒷다리의 종아리마디 끝은 암갈색이다. 15mm정도",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸은 흑색이고, 황백색의 짧은 털이 많다. 겹눈의 안슭, 앞머리의 양 옆, 머리방패, 수염, 더듬이의 자루마디 아랫면, 앞가슴등판 뒷슭 양 옆, 날개밑비늘(翅底鱗), 그 바로 아래의 1무늬, 작은방패판, 뒷방패판, 각 배마디의 뒷슭은 황색이다. 더듬이는 암갈색이고 머리, 가슴에는 점각이 많고 뒷머리에는 적다. 뒷가슴등판에는 그물 모양의 융기가 있고 날개는 반투명, 약간 암색을 띠고 맥은 암갈색이다. 제1배마디의 뒷슭에 4개의 세로 융기가 있는데 양쪽 것은 짧고 뒷슭 무늬는 중앙에서 돌출하고 제2·3배마디의 뒷슭 무늬는 굵고 그 중앙에서 반원형으로 패였다. 다리는 흑색이고, 밑마디의 1무늬, 넓적다리마디의 끝, 종아리마디와 발목마디의 대부분은 황색이고 뒷다리의 종아리마디 끝은 암갈색이다. 15mm정도"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBU0282-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0282_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0282_1_th.jpg",
+      "alt": "스즈키맵시벌 1번째 사진 : 스즈키맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0282_1_th2.jpg",
+      "caption": "스즈키맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBU0282-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305301005",
+      "description": "[YNUE0305301005] 스즈키맵시벌 1976.08.07 / / 영남대학교"
+    },
+    {
+      "id": "KNAE324412",
+      "description": "[KNAE324412] 스즈키맵시벌 / / 국립수목원"
+    },
+    {
+      "id": "KNAE325594",
+      "description": "[KNAE325594] 스즈키맵시벌 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTBU0282-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBU0282&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:43+00:00",
+    "html_sha256": "9165703c5ac7f60f6a4dc3901594c7e156944ce089b2d73c6f4238e474ae1b9b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

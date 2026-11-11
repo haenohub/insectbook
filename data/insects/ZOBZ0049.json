@@ -1,0 +1,114 @@
+{
+  "id": "ZOBZ0049",
+  "name_ko": "칠성무당벌레",
+  "scientific_name": "Coccinella (Coccinella) septempunctata Linnaeus, 1758",
+  "display_name": "칠성무당벌레",
+  "family_ko": "무당벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Coccinelloidea"
+    },
+    "family": {
+      "name_ko": "무당벌레과",
+      "name_latin": "Coccinellidae"
+    },
+    "subfamily": {
+      "name_ko": "무당벌레아과",
+      "name_latin": "Coccinellinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Coccinella"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : (Coccinelloidea)\n과 : 무당벌레과 (Coccinellidae)\n아과 : 무당벌레아과 (Coccinellinae)\n속 : (Coccinella)",
+  "basic_information": {
+    "곤충명": "칠성무당벌레",
+    "학명": "Coccinella (Coccinella) septempunctata Linnaeus, 1758"
+  },
+  "information": {
+    "general_description": "몸의 크기는 중간쯤이며 두부는 황색을 띠며 , 머리 뒷쪽에는 검은 색을 띤다. 전체적으로 등쪽에는 자주색을 띤 갈색이다.\n배면은 등쪽보다 조금 연한 색을 띠며 다리는 검은갈색을 띤다. 머리의 형태는 길고 단단한 센털이 존재한다. 짧은 다리를 가지고 있으며 앞다리의 경절은 머리폭에 비해 1/2정도이다. 경부절은 퇴마디보다 확연히 가는 것을 볼 수 있다. 이들은 한국, 일본, 중국, 대만, 중앙아시아, 시베리아, 코카셔스, 소아시아, 북아프리카, 유럽, 북미(도입)등지에서 서식한다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대만]\n[일본]\n[중국]\n[유럽]\n[미국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의 크기는 중간쯤이며 두부는 황색을 띠며 , 머리 뒷쪽에는 검은 색을 띤다. 전체적으로 등쪽에는 자주색을 띤 갈색이다.\n배면은 등쪽보다 조금 연한 색을 띠며 다리는 검은갈색을 띤다. 머리의 형태는 길고 단단한 센털이 존재한다. 짧은 다리를 가지고 있으며 앞다리의 경절은 머리폭에 비해 1/2정도이다. 경부절은 퇴마디보다 확연히 가는 것을 볼 수 있다. 이들은 한국, 일본, 중국, 대만, 중앙아시아, 시베리아, 코카셔스, 소아시아, 북아프리카, 유럽, 북미(도입)등지에서 서식한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대만]\n[일본]\n[중국]\n[유럽]\n[미국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBZ0049-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBZ0049_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBZ0049_2.jpg",
+      "alt": "칠성무당벌레 1번째 사진 : ",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBZ0049_2_th2.jpg",
+      "caption": null,
+      "photographed_at": "20120628",
+      "location": null,
+      "photographer": "국립수목원(임종옥)"
+    },
+    {
+      "id": "ZOBZ0049-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBZ0049_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBZ0049_1_th.jpg",
+      "alt": "칠성무당벌레 2번째 사진 : 칠성무당벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBZ0049_1_th2.jpg",
+      "caption": "칠성무당벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBZ0049-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0408111011",
+      "description": "[KNAE0408111011] 칠성무당벌레 2001.04.15 / / 국립수목원"
+    },
+    {
+      "id": "UIBE0408131038",
+      "description": "[UIBE0408131038] 칠성무당벌레 2001.10.15 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0408131039",
+      "description": "[UIBE0408131039] 칠성무당벌레 1999.05.29 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBZ0049-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBZ0049&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:24+00:00",
+    "html_sha256": "7000104d5e9bc0550c7cbafec76b842cb3578d2859e978cf36e55b9f04b515c7",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

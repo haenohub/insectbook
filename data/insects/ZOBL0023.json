@@ -1,0 +1,131 @@
+{
+  "id": "ZOBL0023",
+  "name_ko": "산하늘소",
+  "scientific_name": "Brachyta (Brachyta) interrogationis (Linnaeus, 1758)",
+  "display_name": "산하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "꽃하늘소아과",
+      "name_latin": "Lepturinae"
+    },
+    "genus": {
+      "name_ko": "산하늘소속",
+      "name_latin": "Brachyta"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 꽃하늘소아과 (Lepturinae)\n속 : 산하늘소속 (Brachyta)",
+  "basic_information": {
+    "곤충명": "산하늘소",
+    "학명": "Brachyta (Brachyta) interrogationis (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "체장 9.0~18.0 mm. 구기(입)는 전방(앞쪽)을 향한다. 더듬이 말단은 딱지날개 중앙에 이르며, 첫 번째 마디는 굵고 점각들이 밀집한다. 앞가슴등판은 기부 너비보다 길며, 양 가장자리에는 뭉뚝한 돌기물이 있다. 소순판은 삼각형이고 작은 점각들이 밀생하고 밝은 색의 연모로 덮여 있다. 딱지날개는 볼록하다. 몸은 검은색, 더듬이는 진한 갈색이다. 딱지날개는 짙은 노란색이며, 1쌍의 세로 검정 띠가 휘어져 있다.",
+    "adult": null,
+    "adult_male": "뚜렷한 성적이형이 알려지지 않았다.",
+    "adult_female": "뚜렷한 성적이형이 알려지지 않았다.",
+    "larva": "머리의 반은 앞가슴에 함입된다. 이마방패는 넓고 사다리꼴이며, 앞쪽으로 둥글게 파인 각을 이룬다. 큰턱의 말단은 잘린듯한 형태이다. 앞가슴등판의 너비는 길이의 약 2.5배이다. 기부의 연모들은 가로줄을 형성한다. 가슴 다리는 잘 발달되어 작은 뾰족한 발톱이 있다. 보행돌기들은 중앙의 희미한 세로 홈으로 나뉘어진다.",
+    "egg": "길이 1.8 mm 내외. 너비 0.6 mm 내외. 길쭉한 형태이다. 양 말단 쪽으로 서서히 둥글다.",
+    "pupa": "몸은 측면에서 현저히 굽은 형태이다. 머리는 길쭉하고 아래로 굽어있다. 앞가슴등판은 앞쪽으로 현저히 좁아진다. 복부는 아래로 굽어 있으며, 1~4번째 마디의 등판에는 중앙의 세로 홈이 있다. 8번째 등판의 측면에는 긴 털들이 있다.",
+    "ecology": "국내에서는 정확한 생활사가 알려지지 않았지만, 러시아에서는 성충은 5~6월 중순에 활동이 왕성하다. 성충은 산형과(Umbelliferae) 꽃잎 등을 먹는다.",
+    "habits": "고산초원의 각종 초본의 꽃에 모이는 습성이 있다.",
+    "season": null,
+    "overwintering": "유충",
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": "경제적 피해 유발 해충으로 알려져 있지 않아, 종 특이적 방제법은 현재까지 없다.",
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체장 9.0~18.0 mm. 구기(입)는 전방(앞쪽)을 향한다. 더듬이 말단은 딱지날개 중앙에 이르며, 첫 번째 마디는 굵고 점각들이 밀집한다. 앞가슴등판은 기부 너비보다 길며, 양 가장자리에는 뭉뚝한 돌기물이 있다. 소순판은 삼각형이고 작은 점각들이 밀생하고 밝은 색의 연모로 덮여 있다. 딱지날개는 볼록하다. 몸은 검은색, 더듬이는 진한 갈색이다. 딱지날개는 짙은 노란색이며, 1쌍의 세로 검정 띠가 휘어져 있다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "뚜렷한 성적이형이 알려지지 않았다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "뚜렷한 성적이형이 알려지지 않았다."
+    },
+    {
+      "title": "번데기",
+      "text": "몸은 측면에서 현저히 굽은 형태이다. 머리는 길쭉하고 아래로 굽어있다. 앞가슴등판은 앞쪽으로 현저히 좁아진다. 복부는 아래로 굽어 있으며, 1~4번째 마디의 등판에는 중앙의 세로 홈이 있다. 8번째 등판의 측면에는 긴 털들이 있다."
+    },
+    {
+      "title": "유충",
+      "text": "머리의 반은 앞가슴에 함입된다. 이마방패는 넓고 사다리꼴이며, 앞쪽으로 둥글게 파인 각을 이룬다. 큰턱의 말단은 잘린듯한 형태이다. 앞가슴등판의 너비는 길이의 약 2.5배이다. 기부의 연모들은 가로줄을 형성한다. 가슴 다리는 잘 발달되어 작은 뾰족한 발톱이 있다. 보행돌기들은 중앙의 희미한 세로 홈으로 나뉘어진다."
+    },
+    {
+      "title": "생태",
+      "text": "국내에서는 정확한 생활사가 알려지지 않았지만, 러시아에서는 성충은 5~6월 중순에 활동이 왕성하다. 성충은 산형과(Umbelliferae) 꽃잎 등을 먹는다."
+    },
+    {
+      "title": "습성",
+      "text": "고산초원의 각종 초본의 꽃에 모이는 습성이 있다."
+    },
+    {
+      "title": "월동",
+      "text": "유충"
+    },
+    {
+      "title": "방제법",
+      "text": "경제적 피해 유발 해충으로 알려져 있지 않아, 종 특이적 방제법은 현재까지 없다."
+    },
+    {
+      "title": "알",
+      "text": "길이 1.8 mm 내외. 너비 0.6 mm 내외. 길쭉한 형태이다. 양 말단 쪽으로 서서히 둥글다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0023-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0023_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0023_1_th.jpg",
+      "alt": "산하늘소 1번째 사진 : 산하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0023_1_th2.jpg",
+      "caption": "산하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0023-1",
+  "specimen_examples": [
+    {
+      "id": "GSNE0408262146",
+      "description": "[GSNE0408262146] 산하늘소 1994.06.20 / / 경상대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0023-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0023&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:38+00:00",
+    "html_sha256": "df606086e772b3a065a9f4f27ee3cb3d2278b88429772bf81187e47164419648",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

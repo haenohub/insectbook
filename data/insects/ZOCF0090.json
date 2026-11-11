@@ -1,0 +1,118 @@
+{
+  "id": "ZOCF0090",
+  "name_ko": "솔곰보바구미",
+  "scientific_name": "Hylobius (Callirus) haroldi Faust, 1882",
+  "display_name": "솔곰보바구미",
+  "family_ko": "바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "바구미과",
+      "name_latin": "Curculionidae"
+    },
+    "subfamily": {
+      "name_ko": "참바구미아과",
+      "name_latin": "Molytinae"
+    },
+    "genus": {
+      "name_ko": "솔곰보바구미속",
+      "name_latin": "Hylobius"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 바구미과 (Curculionidae)\n아과 : 참바구미아과 (Molytinae)\n속 : 솔곰보바구미속 (Hylobius)",
+  "basic_information": {
+    "곤충명": "솔곰보바구미",
+    "학명": "Hylobius (Callirus) haroldi Faust, 1882"
+  },
+  "information": {
+    "general_description": "몸의길이는 7~13mm이다. 원통형에 가까우며 주둥이는 굵고 길다. 몸의 색깔은 적갈색또는 흑갈색이며 등쪽은 황색비늘털 무늬가있고, 배쪽은 황백색인 비늘 털로 덮였다. 딱지날개는 앞뒤의 폭이 같아서 양옆이 평행형이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의길이는 7~13mm이다. 원통형에 가까우며 주둥이는 굵고 길다. 몸의 색깔은 적갈색또는 흑갈색이며 등쪽은 황색비늘털 무늬가있고, 배쪽은 황백색인 비늘 털로 덮였다. 딱지날개는 앞뒤의 폭이 같아서 양옆이 평행형이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCF0090-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0090_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0090_1_th.jpg",
+      "alt": "솔곰보바구미 1번째 사진 : 솔곰보바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0090_1_th2.jpg",
+      "caption": "솔곰보바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCF0090-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303271050",
+      "description": "[KNAE0303271050] 솔곰보바구미 1991.05.10 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303271051",
+      "description": "[KNAE0303271051] 솔곰보바구미 1991.05.11 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303132018",
+      "description": "[KNAE0303132018] 솔곰보바구미 1995.07.23 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "곰솔",
+      "scientific_name": "Pinus thunbergii Parl."
+    },
+    {
+      "group": "식물",
+      "name_ko": "소나무",
+      "scientific_name": "Pinus densiflora Siebold & Zucc."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOCF0090-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCF0090&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:20+00:00",
+    "html_sha256": "37142f4d00b94d91ef5bbfa5353268b16f47fd7005acfdd1302dbfe6fb369ea6",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

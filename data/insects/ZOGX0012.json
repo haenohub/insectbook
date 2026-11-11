@@ -1,0 +1,103 @@
+{
+  "id": "ZOGX0012",
+  "name_ko": "곰보모래거저리",
+  "scientific_name": "Gonocephalum (Gonocephalum) recticolle (Motschulsky, 1866)",
+  "display_name": "곰보모래거저리",
+  "family_ko": "거저리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "거저리상과",
+      "name_latin": "Tenebrionoidea"
+    },
+    "family": {
+      "name_ko": "거저리과",
+      "name_latin": "Tenebrionidae"
+    },
+    "subfamily": {
+      "name_ko": "거저리아과",
+      "name_latin": "Tenebrioninae"
+    },
+    "genus": {
+      "name_ko": "모래거저리속",
+      "name_latin": "Gonocephalum"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 거저리상과 (Tenebrionoidea)\n과 : 거저리과 (Tenebrionidae)\n아과 : 거저리아과 (Tenebrioninae)\n속 : 모래거저리속 (Gonocephalum)",
+  "basic_information": {
+    "곤충명": "곰보모래거저리",
+    "학명": "Gonocephalum (Gonocephalum) recticolle (Motschulsky, 1866)"
+  },
+  "information": {
+    "general_description": "몸의 길이는 11~12mm 이며, 딱지날개에 세로로 많은 점각렬이 나있다. 몸전체는 검은색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의 길이는 11~12mm 이며, 딱지날개에 세로로 많은 점각렬이 나있다. 몸전체는 검은색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGX0012-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGX0012_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGX0012_1_th.jpg",
+      "alt": "곰보모래거저리 1번째 사진 : 곰보거저리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGX0012_1_th2.jpg",
+      "caption": "곰보거저리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGX0012-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0212206042",
+      "description": "[YNUE0212206042] 곰보모래거저리 1997.05.24 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0212206043",
+      "description": "[YNUE0212206043] 곰보모래거저리 1997.05.03 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOGX0012.png",
+    "reference_image_id": "ZOGX0012-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T13:02:22.620508+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "ec21c76e9db2b3063e7d8c55ec57598042e356b9f5f2a64d053daa133460753b"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGX0012&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:03+00:00",
+    "html_sha256": "2a8fd6276b5b4537c4c46dcd846421bc09ac170ba5916439983cb3b97d88a84b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

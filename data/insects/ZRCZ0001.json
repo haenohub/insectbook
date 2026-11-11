@@ -1,0 +1,118 @@
+{
+  "id": "ZRCZ0001",
+  "name_ko": "분홍나방",
+  "scientific_name": "Amurilla subpurpurea (Butler, 1881)",
+  "display_name": "분홍나방",
+  "family_ko": "솔나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "솔나방상과",
+      "name_latin": "Lasiocampoidea"
+    },
+    "family": {
+      "name_ko": "솔나방과",
+      "name_latin": "Lasiocampidae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Amurilla"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 솔나방상과 (Lasiocampoidea)\n과 : 솔나방과 (Lasiocampidae)\n속 : (Amurilla)",
+  "basic_information": {
+    "곤충명": "분홍나방",
+    "학명": "Amurilla subpurpurea (Butler, 1881)"
+  },
+  "information": {
+    "general_description": "날개편 길이 65～70mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 7～8월에 출현한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]\n[중국]\n[인도]\n[네팔]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 65～70mm."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 7～8월에 출현한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]\n[중국]\n[인도]\n[네팔]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCZ0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCZ0001_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCZ0001_2_th.jpg",
+      "alt": "분홍나방 1번째 사진 : 분홍나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCZ0001_2_th2.jpg",
+      "caption": "분홍나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCZ0001-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCZ0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCZ0001_1_th.jpg",
+      "alt": "분홍나방 2번째 사진 : 분홍나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCZ0001_1_th2.jpg",
+      "caption": "분홍나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCZ0001-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0301181009",
+      "description": "[KNAE0301181009] 분홍나방 1992.08.06 / / 국립수목원"
+    },
+    {
+      "id": "FRIE0201071032",
+      "description": "[FRIE0201071032] 분홍나방 1986.07.23 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0201071033",
+      "description": "[FRIE0201071033] 분홍나방 1986.08.06 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCZ0001-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCZ0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:40+00:00",
+    "html_sha256": "30e343feb7473cefd98fcb89d6d40201547c68a88d6c07b59c8db30919790596",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

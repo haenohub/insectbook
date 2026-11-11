@@ -1,0 +1,103 @@
+{
+  "id": "ZTBU0392",
+  "name_ko": "경포뭉툭맵시벌",
+  "scientific_name": "Dyspetes arrogator arrogator Heinrich, 1949",
+  "display_name": "경포뭉툭맵시벌",
+  "family_ko": "맵시벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "맵시벌과",
+      "name_latin": "Ichneumonidae"
+    },
+    "subfamily": {
+      "name_ko": "뭉툭맵시벌아과",
+      "name_latin": "Tryphoninae"
+    },
+    "genus": {
+      "name_ko": "경포뭉툭맵시벌속",
+      "name_latin": "Dyspetes"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 맵시벌과 (Ichneumonidae)\n아과 : 뭉툭맵시벌아과 (Tryphoninae)\n속 : 경포뭉툭맵시벌속 (Dyspetes)",
+  "basic_information": {
+    "곤충명": "경포뭉툭맵시벌",
+    "학명": "Dyspetes arrogator arrogator Heinrich, 1949"
+  },
+  "information": {
+    "general_description": "얼굴은 검정색이다. 가운데가슴등판과 가운데가슴앞옆판은 검은색이다. 뒷다리 종아리마디는 암갈색이다. 복부는 검은색이고 산란관은 복부 말단 높이의 0.47-0.73배이고 밑으로 굽어 있다. 경포는 존재한다. 앞날개는 8mm이다. PI: 0.60-0.78, CI: 1.87-1.90, BI: 1.00, DBI: 0.71-0.76, MI: 1.76-1.96, ICI: 0.18-0.30, NI: 9.00-10.25, RI: 5.25-6.66, IOD/OOD: 0.33-0.50, IOD/POD: 0.50-0.60, IOD/MOD: 0.30-0.50, POD/MOD: 0.80-1.33.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "얼굴은 검정색이다. 가운데가슴등판과 가운데가슴앞옆판은 검은색이다. 뒷다리 종아리마디는 암갈색이다. 복부는 검은색이고 산란관은 복부 말단 높이의 0.47-0.73배이고 밑으로 굽어 있다. 경포는 존재한다. 앞날개는 8mm이다. PI: 0.60-0.78, CI: 1.87-1.90, BI: 1.00, DBI: 0.71-0.76, MI: 1.76-1.96, ICI: 0.18-0.30, NI: 9.00-10.25, RI: 5.25-6.66, IOD/OOD: 0.33-0.50, IOD/POD: 0.50-0.60, IOD/MOD: 0.30-0.50, POD/MOD: 0.80-1.33."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBU0392-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0392_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0392_1_th.jpg",
+      "alt": "경포뭉툭맵시벌 1번째 사진 : 경포뭉툭맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0392_1_th2.jpg",
+      "caption": "경포뭉툭맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBU0392-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306021060",
+      "description": "[YNUE0306021060] 경포뭉툭맵시벌 1989.08.10 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306021062",
+      "description": "[YNUE0306021062] 경포뭉툭맵시벌 1988.08.04 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306021063",
+      "description": "[YNUE0306021063] 경포뭉툭맵시벌 1988.07.31 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTBU0392.png",
+    "reference_image_id": "ZTBU0392-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T12:14:51.311528+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "80791d8ad26d9eb06ace126c51b01c77a2590da1a4b9f2cbf76d32a17c7d9883"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBU0392&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:37+00:00",
+    "html_sha256": "633b39681628445eac38425c31f5612600aed80bfcfd36803eda08e925f4c7e9",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

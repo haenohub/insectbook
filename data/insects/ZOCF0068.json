@@ -1,0 +1,158 @@
+{
+  "id": "ZOCF0068",
+  "name_ko": "노랑무늬솔바구미",
+  "scientific_name": "Pissodes (Pissodes) nitidus Roelofs, 1873",
+  "display_name": "노랑무늬솔바구미",
+  "family_ko": "바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "바구미과",
+      "name_latin": "Curculionidae"
+    },
+    "subfamily": {
+      "name_ko": "참바구미아과",
+      "name_latin": "Molytinae"
+    },
+    "genus": {
+      "name_ko": "노랑점바구미속",
+      "name_latin": "Pissodes"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 바구미과 (Curculionidae)\n아과 : 참바구미아과 (Molytinae)\n속 : 노랑점바구미속 (Pissodes)",
+  "basic_information": {
+    "곤충명": "노랑무늬솔바구미",
+    "학명": "Pissodes (Pissodes) nitidus Roelofs, 1873"
+  },
+  "information": {
+    "general_description": "성충의 몸길이는 5~7 mm이고 몸은 적갈색이며 가슴등에 2개의 작은 백색 무늬가 있고 날개에는 2개의 백색 가로 띠 무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": "노숙 유충의 몸길이는 10 mm이고 머리는 갈색이며 몸통은 유백색이다.",
+    "egg": "장경(長徑)은 약 0.5 mm이고 타원형이다.",
+    "pupa": null,
+    "ecology": "수피 틈에서 월동한 성충이 4월경에 월동처에서 나와 주둥이로 수피 구멍을 뚫고 형성층에 1~2개를 산란하는데 수피가 얇은 곳에 주로 많이 산란한다. 부화한 유충은 수피 밑을 불규칙하게 식해하다가 노숙 유충이 되면 목질을 물어 뜯어 타원형의 용실을 만들고 그 속에서 번데기가 된다. 신 성충은 6~7월에 수피에 직경 3 mm 가량의 원형의 구멍을 뚫고 탈출, 기주식물로 이동하여 신초(新梢) 및 가지에 주둥이를 꽂고 즙액을 빨아먹으며 생활하나 산란은 하지 않는다. 11월경에 월동에 들어간다.",
+    "habits": "쇠약한 나무의 줄기나 가지의 형성층을 유충이 식해하여 고사시킨다. 잣나무 대묘 조림지와 조경용으로 이식한 나무에서 피해가 자주 발생한다.",
+    "season": null,
+    "overwintering": "성충으로 월동한다.",
+    "distribution": "[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충의 몸길이는 5~7 mm이고 몸은 적갈색이며 가슴등에 2개의 작은 백색 무늬가 있고 날개에는 2개의 백색 가로 띠 무늬가 있다."
+    },
+    {
+      "title": "유충",
+      "text": "노숙 유충의 몸길이는 10 mm이고 머리는 갈색이며 몸통은 유백색이다."
+    },
+    {
+      "title": "생태",
+      "text": "수피 틈에서 월동한 성충이 4월경에 월동처에서 나와 주둥이로 수피 구멍을 뚫고 형성층에 1~2개를 산란하는데 수피가 얇은 곳에 주로 많이 산란한다. 부화한 유충은 수피 밑을 불규칙하게 식해하다가 노숙 유충이 되면 목질을 물어 뜯어 타원형의 용실을 만들고 그 속에서 번데기가 된다. 신 성충은 6~7월에 수피에 직경 3 mm 가량의 원형의 구멍을 뚫고 탈출, 기주식물로 이동하여 신초(新梢) 및 가지에 주둥이를 꽂고 즙액을 빨아먹으며 생활하나 산란은 하지 않는다. 11월경에 월동에 들어간다."
+    },
+    {
+      "title": "습성",
+      "text": "쇠약한 나무의 줄기나 가지의 형성층을 유충이 식해하여 고사시킨다. 잣나무 대묘 조림지와 조경용으로 이식한 나무에서 피해가 자주 발생한다."
+    },
+    {
+      "title": "월동",
+      "text": "성충으로 월동한다."
+    },
+    {
+      "title": "알",
+      "text": "장경(長徑)은 약 0.5 mm이고 타원형이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCF0068-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0068_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0068_1_th.jpg",
+      "alt": "노랑무늬솔바구미 1번째 사진 : 노랑무늬솔바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0068_1_th2.jpg",
+      "caption": "노랑무늬솔바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCF0068-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0303261008",
+      "description": "[FRIE0303261008] 노랑무늬솔바구미 1983.07.04 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0303261009",
+      "description": "[FRIE0303261009] 노랑무늬솔바구미 1983.04.09 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0303261010",
+      "description": "[FRIE0303261010] 노랑무늬솔바구미 1983.03.29 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "개잎갈나무",
+      "scientific_name": "Cedrus deodara (Roxb. ex D.Don) G.Don"
+    },
+    {
+      "group": "식물",
+      "name_ko": "곰솔",
+      "scientific_name": "Pinus thunbergii Parl."
+    },
+    {
+      "group": "식물",
+      "name_ko": "리기다소나무",
+      "scientific_name": "Pinus rigida Mill."
+    },
+    {
+      "group": "식물",
+      "name_ko": "소나무",
+      "scientific_name": "Pinus densiflora Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "스트로브잣나무",
+      "scientific_name": "Pinus strobus L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "잣나무",
+      "scientific_name": "Pinus koraiensis Siebold & Zucc."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOCF0068-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCF0068&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:14+00:00",
+    "html_sha256": "d89bb03b02b5732b29c46a2f09bde92ef9d808c6afdb1a7876b6585236481c13",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

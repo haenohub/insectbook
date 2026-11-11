@@ -1,0 +1,107 @@
+{
+  "id": "ZODY0004",
+  "name_ko": "털보잎벌레붙이",
+  "scientific_name": "Luprops orientalis (Motschulsky, 1868)",
+  "display_name": "털보잎벌레붙이",
+  "family_ko": "거저리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "거저리상과",
+      "name_latin": "Tenebrionoidea"
+    },
+    "family": {
+      "name_ko": "거저리과",
+      "name_latin": "Tenebrionidae"
+    },
+    "subfamily": {
+      "name_ko": "잎벌레붙이아과",
+      "name_latin": "Lagriinae"
+    },
+    "genus": {
+      "name_ko": "잎벌레붙이속",
+      "name_latin": "Luprops"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 거저리상과 (Tenebrionoidea)\n과 : 거저리과 (Tenebrionidae)\n아과 : 잎벌레붙이아과 (Lagriinae)\n속 : 잎벌레붙이속 (Luprops)",
+  "basic_information": {
+    "곤충명": "털보잎벌레붙이",
+    "학명": "Luprops orientalis (Motschulsky, 1868)"
+  },
+  "information": {
+    "general_description": "몸길이는 6~8mm 이며 몸색깔은 흑색이며 딱지날개는 황갈색또는 적갈색이다. 긴 황색철로 온 몸을 덮고있다. 수컷은더듬이가 길고 암컷은 약간 짧고 굵은 편이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6월에 나뭇잎 또는 꽃에 활동한다. 애벌레는 썩은 나무나 껍질 속에 썩은 물질을 먹는다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 6~8mm 이며 몸색깔은 흑색이며 딱지날개는 황갈색또는 적갈색이다. 긴 황색철로 온 몸을 덮고있다. 수컷은더듬이가 길고 암컷은 약간 짧고 굵은 편이다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6월에 나뭇잎 또는 꽃에 활동한다. 애벌레는 썩은 나무나 껍질 속에 썩은 물질을 먹는다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZODY0004-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODY0004_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODY0004_1_th.jpg",
+      "alt": "털보잎벌레붙이 1번째 사진 : 털보잎벌레붙이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODY0004_1_th2.jpg",
+      "caption": "털보잎벌레붙이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZODY0004-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304122001",
+      "description": "[KNAE0304122001] 털보잎벌레붙이 1994.08.19 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304122002",
+      "description": "[KNAE0304122002] 털보잎벌레붙이 1994.07.13 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0301272018",
+      "description": "[KNAE0301272018] 털보잎벌레붙이 1990.07.16 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZODY0004-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZODY0004&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:19+00:00",
+    "html_sha256": "cf30f76f4ceefd9623971439f96ff235e56b67198df718f7858bf45b63a535ea",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

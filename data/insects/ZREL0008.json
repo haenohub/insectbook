@@ -1,0 +1,111 @@
+{
+  "id": "ZREL0008",
+  "name_ko": "긴날개풀명나방",
+  "scientific_name": "Agriphila aeneociliella (Eversmann, 1844)",
+  "display_name": "긴날개풀명나방",
+  "family_ko": "풀명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "풀명나방과",
+      "name_latin": "Crambidae"
+    },
+    "subfamily": {
+      "name_ko": "풀명나방아과",
+      "name_latin": "Crambinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Agriphila"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 풀명나방과 (Crambidae)\n아과 : 풀명나방아과 (Crambinae)\n속 : (Agriphila)",
+  "basic_information": {
+    "곤충명": "긴날개풀명나방",
+    "학명": "Agriphila aeneociliella (Eversmann, 1844)"
+  },
+  "information": {
+    "general_description": "앞날개는 길고 바탕색은 금색 광택이 있는 황갈색이며, 날개의 중앙은 백색의 세로줄이 달리고 있으며, 그 끝은 외연까지 닿지 못한다. 개체에 따라서는 백색 줄의 상하로 다소 흑색 인편이 섞여 있는 것도 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[유럽]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "앞날개는 길고 바탕색은 금색 광택이 있는 황갈색이며, 날개의 중앙은 백색의 세로줄이 달리고 있으며, 그 끝은 외연까지 닿지 못한다. 개체에 따라서는 백색 줄의 상하로 다소 흑색 인편이 섞여 있는 것도 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[유럽]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0008-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0008_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0008_1_th.jpg",
+      "alt": "긴날개풀명나방 1번째 사진 : 긴날개포충나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0008_1_th2.jpg",
+      "caption": "긴날개포충나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0008-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0203261074",
+      "description": "[UIBE0203261074] 긴날개풀명나방 1996.08.20 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0203261075",
+      "description": "[UIBE0203261075] 긴날개풀명나방 1996.09.20 / / 인천대학교"
+    },
+    {
+      "id": "KNAE65912",
+      "description": "[KNAE65912] 긴날개풀명나방 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZREL0008.png",
+    "reference_image_id": "ZREL0008-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T08:54:38.345611+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "6ea996238fab24440b005e4e736ff9070a79b57ec3b427783565d5b8efbfb3b0"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0008&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:57+00:00",
+    "html_sha256": "a4bb08d58f51799fe1f27e8b99ec680f252d20d985b6642342ac59c9bb6d227b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

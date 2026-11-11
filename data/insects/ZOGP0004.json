@@ -1,0 +1,111 @@
+{
+  "id": "ZOGP0004",
+  "name_ko": "긴무늬송장벌레",
+  "scientific_name": "Nicrophorus investigator Zetterstedt, 1824",
+  "display_name": "긴무늬송장벌레",
+  "family_ko": "송장벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "반날개상과",
+      "name_latin": "Staphylinoidea"
+    },
+    "family": {
+      "name_ko": "송장벌레과",
+      "name_latin": "Silphidae"
+    },
+    "subfamily": {
+      "name_ko": "검정송장벌레아과",
+      "name_latin": "Nicrophorinae"
+    },
+    "genus": {
+      "name_ko": "송장벌레속",
+      "name_latin": "Nicrophorus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 반날개상과 (Staphylinoidea)\n과 : 송장벌레과 (Silphidae)\n아과 : 검정송장벌레아과 (Nicrophorinae)\n속 : 송장벌레속 (Nicrophorus)",
+  "basic_information": {
+    "곤충명": "긴무늬송장벌레",
+    "학명": "Nicrophorus investigator Zetterstedt, 1824"
+  },
+  "information": {
+    "general_description": "몸 길이는15~22mm이다. 딱지날개의 흑색 무늬는 서로 연결되고 너비는 좁다. 너비가 넓게은 주홍색 무늬도 서로 연결되어있다. 더듬이는 끝이 부풀어오른 부분은 주홍색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 7월에 보이며 동물 시체에 모여든다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[몽골]\n[러시아]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸 길이는15~22mm이다. 딱지날개의 흑색 무늬는 서로 연결되고 너비는 좁다. 너비가 넓게은 주홍색 무늬도 서로 연결되어있다. 더듬이는 끝이 부풀어오른 부분은 주홍색이다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 7월에 보이며 동물 시체에 모여든다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[몽골]\n[러시아]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGP0004-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0004_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0004_1_th.jpg",
+      "alt": "긴무늬송장벌레 1번째 사진 : 긴무늬송장벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0004_1_th2.jpg",
+      "caption": "긴무늬송장벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGP0004-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0304011037",
+      "description": "[FRIE0304011037] 긴무늬송장벌레 1985.09.26 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0304042045",
+      "description": "[KNAE0304042045] 긴무늬송장벌레 1992.07.28 / / 국립수목원"
+    },
+    {
+      "id": "ADUE1206291048",
+      "description": "[ADUE1206291048] 긴무늬송장벌레 2012.04.14 / / 안동대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOGP0004.png",
+    "reference_image_id": "ZOGP0004-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T09:07:26.695720+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "ff348b37752ec4d480f04e59b64fd0f289561cd6d9b0e690700cd881da0396a0"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGP0004&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:01+00:00",
+    "html_sha256": "7088499bcf6082d145e572a30fd0be0b5cf2152b0cc0f26bbf15cb8cb73e67b5",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

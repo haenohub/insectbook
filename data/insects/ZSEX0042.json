@@ -1,0 +1,103 @@
+{
+  "id": "ZSEX0042",
+  "name_ko": "장수각다귀",
+  "scientific_name": "Pedicia (Pedicia) daimio (Matsumura, 1916)",
+  "display_name": "장수각다귀",
+  "family_ko": "장수각다귀과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "각다귀상과",
+      "name_latin": "Tipuloidea"
+    },
+    "family": {
+      "name_ko": "장수각다귀과",
+      "name_latin": "Pediciidae"
+    },
+    "subfamily": {
+      "name_ko": "장수각다귀아과",
+      "name_latin": "Pediciinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Pedicia"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 각다귀상과 (Tipuloidea)\n과 : 장수각다귀과 (Pediciidae)\n아과 : 장수각다귀아과 (Pediciinae)\n속 : (Pedicia)",
+  "basic_information": {
+    "곤충명": "장수각다귀",
+    "학명": "Pedicia (Pedicia) daimio (Matsumura, 1916)"
+  },
+  "information": {
+    "general_description": "몸길이 24mm(수), 34mm(암), 앞날개길이 23~28mm. 몸색깔은 갈색이고 머리는 회갈색이며 겹눈은 흑갈색이고 두 겹눈 사이에 뚜렷한 융기 있음. 더듬이는 짧고 15마디이며 기부의 2마디는 흑갈색이고 나머지는 암갈색임. 앞가슴등판은 주로 흑갈색이고 앞방패판은 암갈색이나 양옆과 중앙의 2줄무늬는 회백색임. 배는 기부쪽과 아랫면은 주로 적갈색이고 2마디 이하의 등면은 흑갈색이나 끝으로 감에 따라 암색이 됨. 날개는 투명하고 회색을 띠며 뚜렷한 흑갈색 무늬가 있음. 앞가장자리에 따라 기울어진 줄무늬의 분기점에 투명한 1무늬를 포함함. 평균곤은 연갈색이고 다리는 황갈색이나 넓적다리마디끝은 흑갈색이고 종아리마디 이하는 차차 암색임.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 24mm(수), 34mm(암), 앞날개길이 23~28mm. 몸색깔은 갈색이고 머리는 회갈색이며 겹눈은 흑갈색이고 두 겹눈 사이에 뚜렷한 융기 있음. 더듬이는 짧고 15마디이며 기부의 2마디는 흑갈색이고 나머지는 암갈색임. 앞가슴등판은 주로 흑갈색이고 앞방패판은 암갈색이나 양옆과 중앙의 2줄무늬는 회백색임. 배는 기부쪽과 아랫면은 주로 적갈색이고 2마디 이하의 등면은 흑갈색이나 끝으로 감에 따라 암색이 됨. 날개는 투명하고 회색을 띠며 뚜렷한 흑갈색 무늬가 있음. 앞가장자리에 따라 기울어진 줄무늬의 분기점에 투명한 1무늬를 포함함. 평균곤은 연갈색이고 다리는 황갈색이나 넓적다리마디끝은 흑갈색이고 종아리마디 이하는 차차 암색임."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSEX0042-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEX0042_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEX0042_1_th.jpg",
+      "alt": "장수각다귀 1번째 사진 : 장수각다귀전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEX0042_1_th2.jpg",
+      "caption": "장수각다귀전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSEX0042-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408191036",
+      "description": "[MPME0408191036] 장수각다귀 2003.05.19 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408191035",
+      "description": "[MPME0408191035] 장수각다귀 2003.05.19 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408161007",
+      "description": "[MPME0408161007] 장수각다귀 2003.10.03 / / 목포자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZSEX0042-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSEX0042&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:07+00:00",
+    "html_sha256": "acc4b0701e69351bca1415962fc6269ac0ed450c19c716f39acbc24030d2dcf7",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

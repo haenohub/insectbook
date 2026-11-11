@@ -1,0 +1,119 @@
+{
+  "id": "ZRDV0067",
+  "name_ko": "갈구리신선나비",
+  "scientific_name": "Nymphalis l-album (Esper, 1781)",
+  "display_name": "갈구리신선나비",
+  "family_ko": "네발나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "네발나비과",
+      "name_latin": "Nymphalidae"
+    },
+    "subfamily": {
+      "name_ko": "네발나비아과",
+      "name_latin": "Nymphalinae"
+    },
+    "genus": {
+      "name_ko": "신선나비속",
+      "name_latin": "Nymphalis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 네발나비과 (Nymphalidae)\n아과 : 네발나비아과 (Nymphalinae)\n속 : 신선나비속 (Nymphalis)",
+  "basic_information": {
+    "곤충명": "갈구리신선나비",
+    "학명": "Nymphalis l-album (Esper, 1781)"
+  },
+  "information": {
+    "general_description": "암컷은 수컷에 비하여 날개폭이 넓고 날개 아랫면의 흑갈색 바탕색이 중앙을 경계로 하여 짙고 연함이 뚜렷하지 않다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "고도가 높은 산지의 잡목림에 서식하며, 개체수가 적다. 수컷은 정오를 지나서 길가나 가파른 낭떠러지의 습지에 앉아 있는 경우가 많고 놀라면 주위의 나무 위로 올라가 있다가 잠시후 제자리로 내려오기도 한다. 느릅나무나 참나무의 진에 모여 즙을 빤다.",
+    "season": null,
+    "overwintering": "성충",
+    "distribution": "[러시아]\n[미국]\n[일본]\n[중국]\n[유럽]",
+    "notes": "[국지적분포종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷은 수컷에 비하여 날개폭이 넓고 날개 아랫면의 흑갈색 바탕색이 중앙을 경계로 하여 짙고 연함이 뚜렷하지 않다."
+    },
+    {
+      "title": "습성",
+      "text": "고도가 높은 산지의 잡목림에 서식하며, 개체수가 적다. 수컷은 정오를 지나서 길가나 가파른 낭떠러지의 습지에 앉아 있는 경우가 많고 놀라면 주위의 나무 위로 올라가 있다가 잠시후 제자리로 내려오기도 한다. 느릅나무나 참나무의 진에 모여 즙을 빤다."
+    },
+    {
+      "title": "월동",
+      "text": "성충"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[미국]\n[일본]\n[중국]\n[유럽]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[국지적분포종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDV0067-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0067_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0067_1_th.jpg",
+      "alt": "갈구리신선나비 1번째 사진 : 갈구리신선나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0067_1_th2.jpg",
+      "caption": "갈구리신선나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDV0067-1",
+  "specimen_examples": [
+    {
+      "id": "SJNE0306171034",
+      "description": "[SJNE0306171034] 갈구리신선나비 2002.07.01 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0306171036",
+      "description": "[SJNE0306171036] 갈구리신선나비 2002.07.03 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0306171037",
+      "description": "[SJNE0306171037] 갈구리신선나비 2002.07.02 / / 상주대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDV0067.png",
+    "reference_image_id": "ZRDV0067-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T16:32:25.418453+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "f3bd5f9c2976d4a6261aef6a36a8622982911683dd29605716700913b7e0daa7"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDV0067&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:24+00:00",
+    "html_sha256": "45618bdc257a024e02fc06bd479ec1c9e3d03eef840991e4385eb405e7d005bf",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

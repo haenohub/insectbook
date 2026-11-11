@@ -1,0 +1,110 @@
+{
+  "id": "ZRCI0356",
+  "name_ko": "각시가지나방",
+  "scientific_name": "Macaria shanghaisaria Walker, 1861",
+  "display_name": "각시가지나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "가지나방아과",
+      "name_latin": "Ennominae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Macaria"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 가지나방아과 (Ennominae)\n속 : (Macaria)",
+  "basic_information": {
+    "곤충명": "각시가지나방",
+    "학명": "Macaria shanghaisaria Walker, 1861"
+  },
+  "information": {
+    "general_description": "경기도․강원특별자치도와 한국․일본․만주․중국․시베리아 남동부에 분포한다. 더듬이는 수컷이 미모상이고, 암컷은 실모양이다. 남개는 전체가 담황색이며, 앞날개에서는 내횡대, 중횡대, 외횡대가 명료하지는 않으나 희미하게 알 수 있다. 개체에 따라서는 외횡대가 거의 보이지 않는 것도 있다. 앞날개의 외연은 날개끝 아래가 파이고, 이 부분의 외연은 흑갈색이다. 횡맥 점이 뚜렷하게 나타나 있는 것도 있고, 없는 것도 있다. 뒷면은 담황갈색이며, 주황갈색 내지 암갈색의 외횡대와 흑색의 횡맥 점이 있다.\n날개길이는 25∼28mm 이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 5~6월에 출현한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "경기도․강원특별자치도와 한국․일본․만주․중국․시베리아 남동부에 분포한다. 더듬이는 수컷이 미모상이고, 암컷은 실모양이다. 남개는 전체가 담황색이며, 앞날개에서는 내횡대, 중횡대, 외횡대가 명료하지는 않으나 희미하게 알 수 있다. 개체에 따라서는 외횡대가 거의 보이지 않는 것도 있다. 앞날개의 외연은 날개끝 아래가 파이고, 이 부분의 외연은 흑갈색이다. 횡맥 점이 뚜렷하게 나타나 있는 것도 있고, 없는 것도 있다. 뒷면은 담황갈색이며, 주황갈색 내지 암갈색의 외횡대와 흑색의 횡맥 점이 있다.\n날개길이는 25∼28mm 이다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 5~6월에 출현한다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0356-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0356_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0356_1_th.jpg",
+      "alt": "각시가지나방 1번째 사진 : 각시가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0356_1_th2.jpg",
+      "caption": "각시가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0356-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304181017",
+      "description": "[KNAE0304181017] 각시가지나방 1998.08.10 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304181018",
+      "description": "[KNAE0304181018] 각시가지나방 1996.05.03 / / 국립수목원"
+    },
+    {
+      "id": "GSNE0301201170",
+      "description": "[GSNE0301201170] 각시가지나방 1982.05.30 / / 경상대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRCI0356.png",
+    "reference_image_id": "ZRCI0356-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T15:44:53.329295+00:00",
+    "sha256": "6609b12c9acf52b3993c9b1a12bab13242367816c40945ee84353ba19747bf04"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0356&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:17+00:00",
+    "html_sha256": "3ec3937ff32fa0c335274bf4d8ed08c1b5d512d70185ec20df4a56b465479e8f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "id": "ZDAP0030",
+  "name_ko": "나비잠자리",
+  "scientific_name": "Rhyothemis fuliginosa Selys, 1883",
+  "display_name": "나비잠자리",
+  "family_ko": "잠자리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "잠자리목",
+      "name_latin": "Odonata"
+    },
+    "family": {
+      "name_ko": "잠자리과",
+      "name_latin": "Libellulidae"
+    },
+    "subfamily": {
+      "name_ko": "날개잠자리아과",
+      "name_latin": "Trameinae"
+    },
+    "genus": {
+      "name_ko": "나비잠자리속",
+      "name_latin": "Rhyothemis"
+    }
+  },
+  "taxonomy_text": "목 : 잠자리목 (Odonata)\n과 : 잠자리과 (Libellulidae)\n아과 : 날개잠자리아과 (Trameinae)\n속 : 나비잠자리속 (Rhyothemis)",
+  "basic_information": {
+    "곤충명": "나비잠자리",
+    "학명": "Rhyothemis fuliginosa Selys, 1883"
+  },
+  "information": {
+    "general_description": "배길이 22mm, 뒷날개길이 38mm. 머리는 흑색이고 뒷머리와 이마혹은 흑람색이며 이마조각과 윗입술조각은 흑자남색이고 윗입술과 아랫입술은 흑색임. 가슴은 남색 광채가 있는 흑색이고 가운데가슴과 가슴옆면도 흑람색인데 민무늬임. 배는 가늘고 짧으며 흑색인데 광채가 있으며 미부 상부기는 가늘고 길며 미모는 흑색인데 짧음. 날개는 앞날개 앞끝의 1/4와 뒷날개 앞끝의 작은 부분이 투명하고 그 외의 부분은 광채를 내는 흑색임. 뒷날개는 현저하게 폭이 넓고 날개맥은 갈색이고 가두리무늬는 흑갈색임. 다리는 짧고 약하며 흑색임.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": "[환경지표종] ASDASDASDASDSAD",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "배길이 22mm, 뒷날개길이 38mm. 머리는 흑색이고 뒷머리와 이마혹은 흑람색이며 이마조각과 윗입술조각은 흑자남색이고 윗입술과 아랫입술은 흑색임. 가슴은 남색 광채가 있는 흑색이고 가운데가슴과 가슴옆면도 흑람색인데 민무늬임. 배는 가늘고 짧으며 흑색인데 광채가 있으며 미부 상부기는 가늘고 길며 미모는 흑색인데 짧음. 날개는 앞날개 앞끝의 1/4와 뒷날개 앞끝의 작은 부분이 투명하고 그 외의 부분은 광채를 내는 흑색임. 뒷날개는 현저하게 폭이 넓고 날개맥은 갈색이고 가두리무늬는 흑갈색임. 다리는 짧고 약하며 흑색임."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[환경지표종] ASDASDASDASDSAD"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZDAP0030-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0030_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0030_2_th.jpg",
+      "alt": "나비잠자리 1번째 사진 : 나비잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0030_2_th2.jpg",
+      "caption": "나비잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZDAP0030-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0030_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0030_1_th.jpg",
+      "alt": "나비잠자리 2번째 사진 : 나비잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0030_1_th2.jpg",
+      "caption": "나비잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZDAP0030-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0212236034",
+      "description": "[YNUE0212236034] 나비잠자리 2000.07.25 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0212236036",
+      "description": "[YNUE0212236036] 나비잠자리 2000.08.22 / / 영남대학교"
+    },
+    {
+      "id": "CBNE0301221065",
+      "description": "[CBNE0301221065] 나비잠자리 2002.07.08 / / 충북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZDAP0030.png",
+    "reference_image_id": "ZDAP0030-2",
+    "reference_selection_note": "첫 사진의 심한 날개 파손 대신 네 날개 윤곽이 온전한 두 번째 전체 사진 선택",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T15:39:54.600406+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "3320a4e7e7c28098efe89b9a073c14cc5ade1eef72e22ee205c2bc0aec086789"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZDAP0030&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:10+00:00",
+    "html_sha256": "f1743adc45c5d5d2a031bdaeb5cbbf62cc69ee7ac59005c8e60433f89bfc9e84",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

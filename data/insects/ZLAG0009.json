@@ -1,0 +1,107 @@
+{
+  "id": "ZLAG0009",
+  "name_ko": "큰넓적노린재",
+  "scientific_name": "Neuroctenus castaneus (Jakovlev, 1878)",
+  "display_name": "큰넓적노린재",
+  "family_ko": "넓적노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "넓적노린재상과",
+      "name_latin": "Aradoidea"
+    },
+    "family": {
+      "name_ko": "넓적노린재과",
+      "name_latin": "Aradidae"
+    },
+    "subfamily": {
+      "name_ko": "큰넓적노린재아과",
+      "name_latin": "Mezirinae"
+    },
+    "genus": {
+      "name_ko": "긴넓적노린재속",
+      "name_latin": "Neuroctenus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 넓적노린재상과 (Aradoidea)\n과 : 넓적노린재과 (Aradidae)\n아과 : 큰넓적노린재아과 (Mezirinae)\n속 : 긴넓적노린재속 (Neuroctenus)",
+  "basic_information": {
+    "곤충명": "큰넓적노린재",
+    "학명": "Neuroctenus castaneus (Jakovlev, 1878)"
+  },
+  "information": {
+    "general_description": "몸길이 : 8.5-10mm\n몸은 갈색에 암갈색부가 혼산되고, 사마귀 모양의 작은 융기가 여러 개 산재한다. 머리는 앞쪽으로 돌출되고, 그 위끝은 얕게 분기된다. 더듬이돌기는 예리하게 돌출되고, 겹눈은 작고, 그 뒤쪽에 바깥쪽으로 향하는 가시 모양의 작은 돌기가 있다. 더듬이는 4마디이고, 제 1마디가 가장 굵고, 제 4마디는 가장 짧고 선단에 가까운 부분이 굵으며, 선단에는 회색의 부드러운 털이 밀생한다. 앞가슴등판의 옆가장자리는 중간부에서 약간 잘록하고, 그 앞쪽 반에는 불규칙한 융기 4개가 병렬한다. 작은방패판은 진한 색이나, 그 중앙은 황갈색을 나타내는 개체가 있고, 그 위끝은 작게 패여졌다. 반시초는 배끝에 미달된다. 막질부는 심히 크고, 결합판과 제 6배마디 이하는 뚜렷하게 노출되고, 또 고리마디 사이의 경계부는 황갈색이다. 몸의 아랫면은 흑갈색에 가깝고 또 다리는 암갈색이며 넓적다리마디는 굵다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "고목의 수간, 수피하, 신재등에 서식한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 8.5-10mm\n몸은 갈색에 암갈색부가 혼산되고, 사마귀 모양의 작은 융기가 여러 개 산재한다. 머리는 앞쪽으로 돌출되고, 그 위끝은 얕게 분기된다. 더듬이돌기는 예리하게 돌출되고, 겹눈은 작고, 그 뒤쪽에 바깥쪽으로 향하는 가시 모양의 작은 돌기가 있다. 더듬이는 4마디이고, 제 1마디가 가장 굵고, 제 4마디는 가장 짧고 선단에 가까운 부분이 굵으며, 선단에는 회색의 부드러운 털이 밀생한다. 앞가슴등판의 옆가장자리는 중간부에서 약간 잘록하고, 그 앞쪽 반에는 불규칙한 융기 4개가 병렬한다. 작은방패판은 진한 색이나, 그 중앙은 황갈색을 나타내는 개체가 있고, 그 위끝은 작게 패여졌다. 반시초는 배끝에 미달된다. 막질부는 심히 크고, 결합판과 제 6배마디 이하는 뚜렷하게 노출되고, 또 고리마디 사이의 경계부는 황갈색이다. 몸의 아랫면은 흑갈색에 가깝고 또 다리는 암갈색이며 넓적다리마디는 굵다."
+    },
+    {
+      "title": "생태",
+      "text": "고목의 수간, 수피하, 신재등에 서식한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLAG0009-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAG0009_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAG0009_1_th.jpg",
+      "alt": "큰넓적노린재 1번째 사진 : 큰넓적노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAG0009_1_th2.jpg",
+      "caption": "큰넓적노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLAG0009-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0303181052",
+      "description": "[FRIE0303181052] 큰넓적노린재 1980.08.08 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0703210095",
+      "description": "[KNAE0703210095] 큰넓적노린재 1995.06.08 / / 국립수목원"
+    },
+    {
+      "id": "KNAE349260",
+      "description": "[KNAE349260] 큰넓적노린재 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLAG0009-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLAG0009&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:42+00:00",
+    "html_sha256": "fc7dd5ed1412d239071cad62da3be892defa10b998b9abe635c80416e9cae02a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

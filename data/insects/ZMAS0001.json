@@ -1,0 +1,182 @@
+{
+  "id": "ZMAS0001",
+  "name_ko": "말매미",
+  "scientific_name": "Cryptotympana atrata (Fabricius, 1775)",
+  "display_name": "말매미",
+  "family_ko": "매미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "매미상과",
+      "name_latin": "Cicadoidea"
+    },
+    "family": {
+      "name_ko": "매미과",
+      "name_latin": "Cicadidae"
+    },
+    "subfamily": {
+      "name_ko": "매미아과",
+      "name_latin": "Cicadinae"
+    },
+    "genus": {
+      "name_ko": "말매미속",
+      "name_latin": "Cryptotympana"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 매미상과 (Cicadoidea)\n과 : 매미과 (Cicadidae)\n아과 : 매미아과 (Cicadinae)\n속 : 말매미속 (Cryptotympana)",
+  "basic_information": {
+    "곤충명": "말매미",
+    "학명": "Cryptotympana atrata (Fabricius, 1775)"
+  },
+  "information": {
+    "general_description": "몸길이 40~48 mm, 날개 끝까지 60~70 mm 정도인 대형종이다. 몸은 광택이 나는 흑색이며 신선한 개체는 황금색 가루에 덮혀 있다. 배마디의 옆 가장자리, 배딱지의 가장자리, 그리고 가운데다리와 뒷다리의 종아리마디에는 주황색 무늬를 가진다. 앞날개는 투명하나 기부는 흑색이며, 날개맥은 흑갈색이다. 뒷날개는 작고 투명하며 기부에 흑색 무늬가 있고 앞날개의 것보다 훨씬 크다.",
+    "adult": null,
+    "adult_male": "수컷 성충의 몸길이는 43~48 mm이고, 날개 끝까지의 길이는 60~64 mm이다.",
+    "adult_female": "암컷 성충의 몸길이는 40~44 mm이고, 날개 끝까지 길이는 63~68 mm이다.",
+    "larva": "약충은 유백색으로 몸길이가 2 mm 정도이나 6령이 되면 35 mm 가량 되며 담갈색을 띤다.",
+    "egg": "알의 장경(長徑)은 2 mm로 가늘며 양쪽 끝이 뾰족한 황백색이다.",
+    "pupa": null,
+    "ecology": "성충 발생기는 6월 말~9월 하순이며, 경작지나 산야에 흔하게 분포한다. 성충의 울음소리는 매우 크다.\n성충은 때때로 사과나무에 모여들어 새 가지에 산란 피해를 주는 과수 해충이다. 암컷은 가지의 조직 속에 연속적으로 산란하는데 1개의 산란흔 속에 5~7개씩 한 가지에 150~400개의 알을 낳는다. 산란 첫해는 알로 월동하고 이듬해 6월 하순~7월 중순에 부화한 약충은 가지에서 내려와 땅 속으로 들어가 각종 활엽수의 뿌리로부터 수액을 빨아먹으며 4~5년을 보낸다.",
+    "habits": "성충이 산란을 하기 위해 2년생 가지에 상처를 내기 때문에 가지가 말라 죽는다. 성충이 수액을 흡즙한 상처에서 수액이 흘러 나와 그을음병과 부란병이 유발되어 피해가 가중된다.",
+    "season": null,
+    "overwintering": "알, 유충",
+    "distribution": "[중국]\n[대만]\n[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 40~48 mm, 날개 끝까지 60~70 mm 정도인 대형종이다. 몸은 광택이 나는 흑색이며 신선한 개체는 황금색 가루에 덮혀 있다. 배마디의 옆 가장자리, 배딱지의 가장자리, 그리고 가운데다리와 뒷다리의 종아리마디에는 주황색 무늬를 가진다. 앞날개는 투명하나 기부는 흑색이며, 날개맥은 흑갈색이다. 뒷날개는 작고 투명하며 기부에 흑색 무늬가 있고 앞날개의 것보다 훨씬 크다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "수컷 성충의 몸길이는 43~48 mm이고, 날개 끝까지의 길이는 60~64 mm이다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "암컷 성충의 몸길이는 40~44 mm이고, 날개 끝까지 길이는 63~68 mm이다."
+    },
+    {
+      "title": "유충",
+      "text": "약충은 유백색으로 몸길이가 2 mm 정도이나 6령이 되면 35 mm 가량 되며 담갈색을 띤다."
+    },
+    {
+      "title": "생태",
+      "text": "성충 발생기는 6월 말~9월 하순이며, 경작지나 산야에 흔하게 분포한다. 성충의 울음소리는 매우 크다.\n성충은 때때로 사과나무에 모여들어 새 가지에 산란 피해를 주는 과수 해충이다. 암컷은 가지의 조직 속에 연속적으로 산란하는데 1개의 산란흔 속에 5~7개씩 한 가지에 150~400개의 알을 낳는다. 산란 첫해는 알로 월동하고 이듬해 6월 하순~7월 중순에 부화한 약충은 가지에서 내려와 땅 속으로 들어가 각종 활엽수의 뿌리로부터 수액을 빨아먹으며 4~5년을 보낸다."
+    },
+    {
+      "title": "습성",
+      "text": "성충이 산란을 하기 위해 2년생 가지에 상처를 내기 때문에 가지가 말라 죽는다. 성충이 수액을 흡즙한 상처에서 수액이 흘러 나와 그을음병과 부란병이 유발되어 피해가 가중된다."
+    },
+    {
+      "title": "월동",
+      "text": "알, 유충"
+    },
+    {
+      "title": "알",
+      "text": "알의 장경(長徑)은 2 mm로 가늘며 양쪽 끝이 뾰족한 황백색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[대만]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMAS0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAS0001_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAS0001_2_th.jpg",
+      "alt": "말매미 1번째 사진 : 말매미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAS0001_2_th2.jpg",
+      "caption": "말매미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZMAS0001-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAS0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAS0001_1_th.jpg",
+      "alt": "말매미 2번째 사진 : 말매미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAS0001_1_th2.jpg",
+      "caption": "말매미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMAS0001-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408191086",
+      "description": "[MPME0408191086] 말매미 2003.08.12 / / 목포자연사박물관"
+    },
+    {
+      "id": "ADUE0408311083",
+      "description": "[ADUE0408311083] 말매미 2003.07.17 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0408311084",
+      "description": "[ADUE0408311084] 말매미 2003.07.17 / / 안동대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "미루나무",
+      "scientific_name": "Populus deltoides W.Bartram ex Marshall"
+    },
+    {
+      "group": "식물",
+      "name_ko": "밤나무",
+      "scientific_name": "Castanea crenata Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "버드나무",
+      "scientific_name": "Salix pierotii Miq."
+    },
+    {
+      "group": "식물",
+      "name_ko": "벚나무",
+      "scientific_name": "Prunus serrulata f. spontanea (Maxim.) Chin S.Chang"
+    },
+    {
+      "group": "식물",
+      "name_ko": "복사나무",
+      "scientific_name": "Prunus persica (L.) Batsch"
+    },
+    {
+      "group": "식물",
+      "name_ko": "사과나무",
+      "scientific_name": "Malus domestica (Suckow) Borkh."
+    },
+    {
+      "group": "식물",
+      "name_ko": "피나무",
+      "scientific_name": "Tilia amurensis Rupr."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZMAS0001-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMAS0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:46+00:00",
+    "html_sha256": "09ef6c9c825ec4efd5c4744613511d04b4379cac508e298bb39ae4fd76b0fa84",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

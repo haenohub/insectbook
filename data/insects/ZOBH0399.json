@@ -1,0 +1,110 @@
+{
+  "id": "ZOBH0399",
+  "name_ko": "민머리먼지벌레",
+  "scientific_name": "Harpalus (Harpalus) modestus Dejean, 1829",
+  "display_name": "민머리먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "먼지벌레아과",
+      "name_latin": "Harpalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Harpalus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 먼지벌레아과 (Harpalinae)\n속 : (Harpalus)",
+  "basic_information": {
+    "곤충명": "민머리먼지벌레",
+    "학명": "Harpalus (Harpalus) modestus Dejean, 1829"
+  },
+  "information": {
+    "general_description": "몸의길이는 11~12mm, 전체적으로 암녹색이며 촉가 제1마디를 제외하고는 암갈색이다. 다리의 경절끝부분과 발톱마디는 암갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의길이는 11~12mm, 전체적으로 암녹색이며 촉가 제1마디를 제외하고는 암갈색이다. 다리의 경절끝부분과 발톱마디는 암갈색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0399-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0399_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0399_2_th.jpg",
+      "alt": "민머리먼지벌레 1번째 사진 : 민무늬먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0399_2_th2.jpg",
+      "caption": "민무늬먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0399-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0399_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0399_1_th.jpg",
+      "alt": "민머리먼지벌레 2번째 사진 : 민무늬먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0399_1_th2.jpg",
+      "caption": "민무늬먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0399-1",
+  "specimen_examples": [
+    {
+      "id": "SJNE0408181060",
+      "description": "[SJNE0408181060] 민머리먼지벌레 2001.08.13 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0408181061",
+      "description": "[SJNE0408181061] 민머리먼지벌레 2003.05.01 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0408181062",
+      "description": "[SJNE0408181062] 민머리먼지벌레 1998.05.23 / / 상주대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0399-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0399&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:51+00:00",
+    "html_sha256": "42ae741fa0cdb2a27923a4cf523d797323af26be69ad919c7455e6e7494d6139",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

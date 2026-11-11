@@ -1,0 +1,107 @@
+{
+  "id": "ZSEX0018",
+  "name_ko": "잠자리각다귀",
+  "scientific_name": "Tipula (Nippotipula) coquilletti Enderlein, 1912",
+  "display_name": "잠자리각다귀",
+  "family_ko": "각다귀과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "각다귀상과",
+      "name_latin": "Tipuloidea"
+    },
+    "family": {
+      "name_ko": "각다귀과",
+      "name_latin": "Tipulidae"
+    },
+    "subfamily": {
+      "name_ko": "각다귀아과",
+      "name_latin": "Tipulinae"
+    },
+    "genus": {
+      "name_ko": "각다귀속",
+      "name_latin": "Tipula"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 각다귀상과 (Tipuloidea)\n과 : 각다귀과 (Tipulidae)\n아과 : 각다귀아과 (Tipulinae)\n속 : 각다귀속 (Tipula)",
+  "basic_information": {
+    "곤충명": "잠자리각다귀",
+    "학명": "Tipula (Nippotipula) coquilletti Enderlein, 1912"
+  },
+  "information": {
+    "general_description": "몸길이 28~40mm, 앞날개길이 24~30mm. 몸색깔은 암갈색이나 배의 기부는 황갈색이며 옆구리는 흑갈색임. 머리는 연갈색이고 겹눈 뒤쪽은 암색이며 또 겹눈 사이에 융기가 있어 그 중앙에 홈이 있음. 겹눈은 흑색이며 주둥이는 돌출하였고 아랫면은 흑갈색이며 작은턱수염은 흑색임. 더듬이는 연갈색이고 13마디이며 1마디는 상당히 길고 2마디는 짧음. 앞가슴등판은 연갈색이고 앞방패판의 중앙에는 암갈색 세로줄이 있고 그 양옆에는 흑색 줄이 있음. 방패판의 양옆에는 2개의 흑색 무늬가 있고 작은방패판은 중앙이 암갈색임. 앞가장자리는 암갈색이고 이에 따라 뚜렷한 2개의 암색무늬가 있으며 이 무늬 사이와 앞뒤는 무색임. 다리는 연갈색이나 종아리마디 이하는 차차 진한 색임.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "산지에서 발견되며 4월에 주로 채집됨.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 28~40mm, 앞날개길이 24~30mm. 몸색깔은 암갈색이나 배의 기부는 황갈색이며 옆구리는 흑갈색임. 머리는 연갈색이고 겹눈 뒤쪽은 암색이며 또 겹눈 사이에 융기가 있어 그 중앙에 홈이 있음. 겹눈은 흑색이며 주둥이는 돌출하였고 아랫면은 흑갈색이며 작은턱수염은 흑색임. 더듬이는 연갈색이고 13마디이며 1마디는 상당히 길고 2마디는 짧음. 앞가슴등판은 연갈색이고 앞방패판의 중앙에는 암갈색 세로줄이 있고 그 양옆에는 흑색 줄이 있음. 방패판의 양옆에는 2개의 흑색 무늬가 있고 작은방패판은 중앙이 암갈색임. 앞가장자리는 암갈색이고 이에 따라 뚜렷한 2개의 암색무늬가 있으며 이 무늬 사이와 앞뒤는 무색임. 다리는 연갈색이나 종아리마디 이하는 차차 진한 색임."
+    },
+    {
+      "title": "생태",
+      "text": "산지에서 발견되며 4월에 주로 채집됨."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSEX0018-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEX0018_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEX0018_1_th.jpg",
+      "alt": "잠자리각다귀 1번째 사진 : 잠자리각다귀전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEX0018_1_th2.jpg",
+      "caption": "잠자리각다귀전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSEX0018-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303211004",
+      "description": "[KNAE0303211004] 잠자리각다귀 1994.09.15 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0301241030",
+      "description": "[KNAE0301241030] 잠자리각다귀 1992.06.28 / / 국립수목원"
+    },
+    {
+      "id": "YNUE0112313002",
+      "description": "[YNUE0112313002] 잠자리각다귀 1997.05.03 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZSEX0018-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSEX0018&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:01+00:00",
+    "html_sha256": "dd620571576f0a9ac31164098954658032a32655951a164cf52917d435ee159c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

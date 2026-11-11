@@ -1,0 +1,154 @@
+{
+  "id": "ZOBL0117",
+  "name_ko": "초록하늘소",
+  "scientific_name": "Schwarzerium (Schwarzerium) quadricolle (Bates, 1884)",
+  "display_name": "초록하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "하늘소아과",
+      "name_latin": "Cerambycinae"
+    },
+    "genus": {
+      "name_ko": "초록하늘소속",
+      "name_latin": "Schwarzerium"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 하늘소아과 (Cerambycinae)\n속 : 초록하늘소속 (Schwarzerium)",
+  "basic_information": {
+    "곤충명": "초록하늘소",
+    "학명": "Schwarzerium (Schwarzerium) quadricolle (Bates, 1884)"
+  },
+  "information": {
+    "general_description": "체장 21.0~30.0 mm. 몸은 광택이 강하며 청록색을 띤다. 더듬이 사이에는 세로의 강한 홈이 있다. 앞가슴등판의 앞, 뒤 가장자리에는 확연한 가로 홈이 있으며, 양 가장자리의 돌기물은 뭉뚝하다. 앞가슴등판의 등면에는 복잡한 융기선들이 얽혀 있다. 딱지날개에는 3개의 세로 융기선이 있으며, 어깨 부위의 너비가 가장 넓고 말단을 향할수록 좁아진다.",
+    "adult": null,
+    "adult_male": "더듬이가 딱지날개 말단을 초과한다.",
+    "adult_female": "더듬이가 딱지날개 말단을 초과하지 않는다.",
+    "larva": "유충에 대한 특징이 알려지지 않았다.",
+    "egg": "알에 대한 특징이 알려지지 않았다.",
+    "pupa": "번데기에 대한 형태특징이 알려지지 않았다.",
+    "ecology": null,
+    "habits": "성충은 단풍나무류의 꽃에 모이는 습성이 있다.",
+    "season": null,
+    "overwintering": "유충",
+    "distribution": null,
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": "경제적 피해 유발 해충으로 알려져 있지 않아, 종 특이적 방제법은 현재까지 없다.",
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체장 21.0~30.0 mm. 몸은 광택이 강하며 청록색을 띤다. 더듬이 사이에는 세로의 강한 홈이 있다. 앞가슴등판의 앞, 뒤 가장자리에는 확연한 가로 홈이 있으며, 양 가장자리의 돌기물은 뭉뚝하다. 앞가슴등판의 등면에는 복잡한 융기선들이 얽혀 있다. 딱지날개에는 3개의 세로 융기선이 있으며, 어깨 부위의 너비가 가장 넓고 말단을 향할수록 좁아진다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "더듬이가 딱지날개 말단을 초과한다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "더듬이가 딱지날개 말단을 초과하지 않는다."
+    },
+    {
+      "title": "번데기",
+      "text": "번데기에 대한 형태특징이 알려지지 않았다."
+    },
+    {
+      "title": "유충",
+      "text": "유충에 대한 특징이 알려지지 않았다."
+    },
+    {
+      "title": "습성",
+      "text": "성충은 단풍나무류의 꽃에 모이는 습성이 있다."
+    },
+    {
+      "title": "월동",
+      "text": "유충"
+    },
+    {
+      "title": "방제법",
+      "text": "경제적 피해 유발 해충으로 알려져 있지 않아, 종 특이적 방제법은 현재까지 없다."
+    },
+    {
+      "title": "알",
+      "text": "알에 대한 특징이 알려지지 않았다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0117-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0117_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0117_2.jpg",
+      "alt": "초록하늘소 1번째 사진 : ",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0117_2_th2.jpg",
+      "caption": null,
+      "photographed_at": "20150706",
+      "location": "경기도 포천시 소흘읍 광릉숲",
+      "photographer": "국립수목원(임종옥)"
+    },
+    {
+      "id": "ZOBL0117-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0117_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0117_1_th.jpg",
+      "alt": "초록하늘소 2번째 사진 : 초록하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0117_1_th2.jpg",
+      "caption": "초록하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0117-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0304081036",
+      "description": "[FRIE0304081036] 초록하늘소 1986.07.20 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "고로쇠나무",
+      "scientific_name": "Acer pictum var. mono (Maxim.) Maxim. ex Franch."
+    },
+    {
+      "group": "식물",
+      "name_ko": "단풍나무",
+      "scientific_name": "Acer palmatum Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "당단풍나무",
+      "scientific_name": "Acer pseudosieboldianum (Pax) Kom."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0117-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0117&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:21+00:00",
+    "html_sha256": "2f913b414d537165fbb0a041aeec1f726d2ab55c4d66a9681926b2b7502bb313",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

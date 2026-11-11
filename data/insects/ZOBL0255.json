@@ -1,0 +1,107 @@
+{
+  "id": "ZOBL0255",
+  "name_ko": "유리콩알하늘소",
+  "scientific_name": "Exocentrus (Pseudocentrus) guttulatus ussuricus Tsherepanov, 1973",
+  "display_name": "유리콩알하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "목하늘소아과",
+      "name_latin": "Lamiinae"
+    },
+    "genus": {
+      "name_ko": "콩알하늘소속",
+      "name_latin": "Exocentrus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 목하늘소아과 (Lamiinae)\n속 : 콩알하늘소속 (Exocentrus)",
+  "basic_information": {
+    "곤충명": "유리콩알하늘소",
+    "학명": "Exocentrus (Pseudocentrus) guttulatus ussuricus Tsherepanov, 1973"
+  },
+  "information": {
+    "general_description": "몸의 길이는 4.5~9mm 이며, 딱지날개 밑부분은 제비꼬리 모양을 하고 있으며, 몸전체의 색깔은 연한회색과 검은색을 띠거나, 쑥색과 검은색을 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "6~8월에 출현하며, 주로 제주특별자치도 지역에서 많이 서식한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의 길이는 4.5~9mm 이며, 딱지날개 밑부분은 제비꼬리 모양을 하고 있으며, 몸전체의 색깔은 연한회색과 검은색을 띠거나, 쑥색과 검은색을 띤다."
+    },
+    {
+      "title": "생태",
+      "text": "6~8월에 출현하며, 주로 제주특별자치도 지역에서 많이 서식한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0255-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0255_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0255_1_th.jpg",
+      "alt": "유리콩알하늘소 1번째 사진 : 유리콩알하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0255_1_th2.jpg",
+      "caption": "유리콩알하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0255-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304142055",
+      "description": "[KNAE0304142055] 유리콩알하늘소 1992.08.06 / / 국립수목원"
+    },
+    {
+      "id": "SJNE0301221163",
+      "description": "[SJNE0301221163] 유리콩알하늘소 1998.06.11 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0301221164",
+      "description": "[SJNE0301221164] 유리콩알하늘소 2001.06.21 / / 상주대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0255-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0255&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:14+00:00",
+    "html_sha256": "38c57231e0262866bb1358ee8f6896b97a2174c6e29fa9064c1713f6b956b8f1",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

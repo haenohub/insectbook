@@ -1,0 +1,118 @@
+{
+  "id": "ZOGP0026",
+  "name_ko": "넓적송장벌레",
+  "scientific_name": "Silpha (Silpha) perforata Gebler, 1832",
+  "display_name": "넓적송장벌레",
+  "family_ko": "송장벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "반날개상과",
+      "name_latin": "Staphylinoidea"
+    },
+    "family": {
+      "name_ko": "송장벌레과",
+      "name_latin": "Silphidae"
+    },
+    "subfamily": {
+      "name_ko": "송장벌레아과",
+      "name_latin": "Silphinae"
+    },
+    "genus": {
+      "name_ko": "넓적송장벌레속",
+      "name_latin": "Silpha"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 반날개상과 (Staphylinoidea)\n과 : 송장벌레과 (Silphidae)\n아과 : 송장벌레아과 (Silphinae)\n속 : 넓적송장벌레속 (Silpha)",
+  "basic_information": {
+    "곤충명": "넓적송장벌레",
+    "학명": "Silpha (Silpha) perforata Gebler, 1832"
+  },
+  "information": {
+    "general_description": "한국, 일본, 만주, 중국, 시베리아, 사할린, 쿠릴열도에 분포하며, 체장은 8mm 내외이다. 머리에는 작은 점각을 밀포하고 흑색이다. 앞가슴등판의 좌우 양쪽은 적갈색인데 중앙은 융기하고 전면에 점각을 밀포하였고 바깥가두리 부근의 것은 거칠고 크다. 복판은 약간 오각형이고 바깥가두리는 융기하고 그 외는 작은 점각을 밀포하였다. 다리는 흑색이다. 딱지날개에는 분명치 않은 세줄의종융이 있고 그 간실에는 조대한 점각을 밀포하였고 바깥가두리는 상반하였다. 몸 아랫면은 흑색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 만주, 중국, 시베리아, 사할린, 쿠릴열도에 분포하며, 체장은 8mm 내외이다. 머리에는 작은 점각을 밀포하고 흑색이다. 앞가슴등판의 좌우 양쪽은 적갈색인데 중앙은 융기하고 전면에 점각을 밀포하였고 바깥가두리 부근의 것은 거칠고 크다. 복판은 약간 오각형이고 바깥가두리는 융기하고 그 외는 작은 점각을 밀포하였다. 다리는 흑색이다. 딱지날개에는 분명치 않은 세줄의종융이 있고 그 간실에는 조대한 점각을 밀포하였고 바깥가두리는 상반하였다. 몸 아랫면은 흑색이다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGP0026-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0026_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0026_2_th.jpg",
+      "alt": "넓적송장벌레 1번째 사진 : 넓적송장벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0026_2_th2.jpg",
+      "caption": "넓적송장벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOGP0026-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0026_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0026_1_th.jpg",
+      "alt": "넓적송장벌레 2번째 사진 : 넓적송장벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0026_1_th2.jpg",
+      "caption": "넓적송장벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGP0026-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304042058",
+      "description": "[KNAE0304042058] 넓적송장벌레 1995.08.12 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304042061",
+      "description": "[KNAE0304042061] 넓적송장벌레 1995.08.15 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304042063",
+      "description": "[KNAE0304042063] 넓적송장벌레 1995.08.17 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOGP0026.png",
+    "reference_image_id": "ZOGP0026-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T10:17:43.532796+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "b61c7518bfccc8eab730acc233638df74c60fb7b6056f840358b65fb524243f0"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGP0026&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:42+00:00",
+    "html_sha256": "4f473f088d27873b44aaa5349ca07cc5025443a508336b5ceb343228cd3c2a01",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

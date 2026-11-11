@@ -1,0 +1,103 @@
+{
+  "id": "ZOBG0024",
+  "name_ko": "붉은가슴병대벌레",
+  "scientific_name": "Cantharis (Cyrtomoptila) plagiata Heyden, 1889",
+  "display_name": "붉은가슴병대벌레",
+  "family_ko": "병대벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "방아벌레상과",
+      "name_latin": "Elateroidea"
+    },
+    "family": {
+      "name_ko": "병대벌레과",
+      "name_latin": "Cantharidae"
+    },
+    "subfamily": {
+      "name_ko": "병대벌레아과",
+      "name_latin": "Cantharinae"
+    },
+    "genus": {
+      "name_ko": "병대벌레속",
+      "name_latin": "Cantharis"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 방아벌레상과 (Elateroidea)\n과 : 병대벌레과 (Cantharidae)\n아과 : 병대벌레아과 (Cantharinae)\n속 : 병대벌레속 (Cantharis)",
+  "basic_information": {
+    "곤충명": "붉은가슴병대벌레",
+    "학명": "Cantharis (Cyrtomoptila) plagiata Heyden, 1889"
+  },
+  "information": {
+    "general_description": "몸의 길이는 5.7~7.2mm, 앞가슴등판은 노란색인데 가운데에 흑색점무늬가 있다. 딱지날개는 광택이 나는 황색을 띈다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의 길이는 5.7~7.2mm, 앞가슴등판은 노란색인데 가운데에 흑색점무늬가 있다. 딱지날개는 광택이 나는 황색을 띈다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBG0024-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBG0024_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBG0024_1_th.jpg",
+      "alt": "붉은가슴병대벌레 1번째 사진 : 붉은가슴병대벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBG0024_1_th2.jpg",
+      "caption": "붉은가슴병대벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBG0024-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0307161265",
+      "description": "[KUIE0307161265] 붉은가슴병대벌레 1991.05.10 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307161266",
+      "description": "[KUIE0307161266] 붉은가슴병대벌레 1991.05.11 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307161267",
+      "description": "[KUIE0307161267] 붉은가슴병대벌레 1993.05.14 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBG0024-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBG0024&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:43+00:00",
+    "html_sha256": "8e0ab78f5dbd669e343f64c8df22849e951b43e76089487cb372f5340cb6f3d3",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

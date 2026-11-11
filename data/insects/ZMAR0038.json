@@ -1,0 +1,99 @@
+{
+  "id": "ZMAR0038",
+  "name_ko": "알락넓적매미충",
+  "scientific_name": "Penthimia scutellata Melichar, 1902",
+  "display_name": "알락넓적매미충",
+  "family_ko": "매미충과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "뿔매미상과",
+      "name_latin": "Membracoidea"
+    },
+    "family": {
+      "name_ko": "매미충과",
+      "name_latin": "Cicadellidae"
+    },
+    "subfamily": {
+      "name_ko": "매미충아과",
+      "name_latin": "Deltocephalinae"
+    },
+    "genus": {
+      "name_ko": "넓적매미충속",
+      "name_latin": "Penthimia"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 뿔매미상과 (Membracoidea)\n과 : 매미충과 (Cicadellidae)\n아과 : 매미충아과 (Deltocephalinae)\n속 : 넓적매미충속 (Penthimia)",
+  "basic_information": {
+    "곤충명": "알락넓적매미충",
+    "학명": "Penthimia scutellata Melichar, 1902"
+  },
+  "information": {
+    "general_description": "몸길이: 수컷은5.2mm, 암컷은5.7mm. 몸은 일반적으로 광택을 띠며 검다. 머리는 둥글고 얼굴쪽으로 다서 넘어가서 위판을 이룬다. 정수리의 앞가장자리 쪽은 좁은 가로 주름이 잡혔고, 홑눈은 황갈색이며 겹눈은 갈색을 띠나 둘레는 황색에 가깝다. 앞가슴등은 중앙 부분이 제일 넓고 앞쪽 절반은 아주검으면 광택이 있고, 뒷쪽 절반은 적갈색을 띤다. 작은방패판은 검고 짧은 은빛 털이 나 있으며 옆가장자리 중앙에는 황색 얼룩 점이 있고 뒷끝에도 노랑 무늬가 있다. 앞날개는 검고 적갈색의 불규칙한 얼룩 무늬가 산재했으며 짧은 은빛 털이 많이 나있다. 날개 끝부위는 반투명하고 암갈색의 얼룩 무늬가 있다.\n본 종은 소련 연해주에 분포하고있는 Penthimia scutellata 와 그겉모양이 매우 닮았다. 특히 앞날개의 무늬가 거의 같으나 암컷의 생식기가 판이하게 틀리다. 또한 몸의 크기가 본종에 비해 다소 작다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이: 수컷은5.2mm, 암컷은5.7mm. 몸은 일반적으로 광택을 띠며 검다. 머리는 둥글고 얼굴쪽으로 다서 넘어가서 위판을 이룬다. 정수리의 앞가장자리 쪽은 좁은 가로 주름이 잡혔고, 홑눈은 황갈색이며 겹눈은 갈색을 띠나 둘레는 황색에 가깝다. 앞가슴등은 중앙 부분이 제일 넓고 앞쪽 절반은 아주검으면 광택이 있고, 뒷쪽 절반은 적갈색을 띤다. 작은방패판은 검고 짧은 은빛 털이 나 있으며 옆가장자리 중앙에는 황색 얼룩 점이 있고 뒷끝에도 노랑 무늬가 있다. 앞날개는 검고 적갈색의 불규칙한 얼룩 무늬가 산재했으며 짧은 은빛 털이 많이 나있다. 날개 끝부위는 반투명하고 암갈색의 얼룩 무늬가 있다.\n본 종은 소련 연해주에 분포하고있는 Penthimia scutellata 와 그겉모양이 매우 닮았다. 특히 앞날개의 무늬가 거의 같으나 암컷의 생식기가 판이하게 틀리다. 또한 몸의 크기가 본종에 비해 다소 작다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMAR0038-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0038_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0038_1_th.jpg",
+      "alt": "알락넓적매미충 1번째 사진 : 알락넓적매미충전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0038_1_th2.jpg",
+      "caption": "알락넓적매미충전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMAR0038-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0306251181",
+      "description": "[KPNE0306251181] 알락넓적매미충 1982.07.26 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0306251183",
+      "description": "[KPNE0306251183] 알락넓적매미충 1984.07.26 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0306251182",
+      "description": "[KPNE0306251182] 알락넓적매미충 1982.07.26 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZMAR0038-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMAR0038&tabId=tab1",
+    "collected_at": "2026-11-04T14:14:28+00:00",
+    "html_sha256": "6ebf38936f9c469e63535274e0f7d8c5fd50e0aa3218a620726b79c18023fe51",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

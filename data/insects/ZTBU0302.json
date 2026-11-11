@@ -1,0 +1,95 @@
+{
+  "id": "ZTBU0302",
+  "name_ko": "수염맵시벌",
+  "scientific_name": "Hoplismenus terrificus Wesmael, 1848",
+  "display_name": "수염맵시벌",
+  "family_ko": "맵시벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "맵시벌과",
+      "name_latin": "Ichneumonidae"
+    },
+    "subfamily": {
+      "name_ko": "맵시벌아과",
+      "name_latin": "Ichneumoninae"
+    },
+    "genus": {
+      "name_ko": "수염맵시벌속",
+      "name_latin": "Hoplismenus"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 맵시벌과 (Ichneumonidae)\n아과 : 맵시벌아과 (Ichneumoninae)\n속 : 수염맵시벌속 (Hoplismenus)",
+  "basic_information": {
+    "곤충명": "수염맵시벌",
+    "학명": "Hoplismenus terrificus Wesmael, 1848"
+  },
+  "information": {
+    "general_description": "♂의 더듬이는 강하고 거의 몸길이와 같다. 작은방패판은 둥글고 세게 돌출하였다. 전중획은 정방형이고 뒷가슴의 옆구리에 있는 가시는 크고 강하다. 날개는 진하게 흐리고 배는 긴 알 모양이다. 몸은 흑색이고 제2·3배마디 앞, 뒷슭은 흑갈색이다. 얼굴은 삼각형이고, 눈아래 안쪽 가장자리는 황백색이다. 다리는 밑마디와 도래마디를 제외하고는 적황색이다. 15mm정도",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[유고슬라비아]\n[스웨덴]\n[러시아]\n[폴란드]\n[일본]\n[이탈리아]\n[헝가리]\n[프랑스]\n[핀란드]\n[스페인]\n[독일]\n[중국]\n[벨기에]\n[오스트리아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "♂의 더듬이는 강하고 거의 몸길이와 같다. 작은방패판은 둥글고 세게 돌출하였다. 전중획은 정방형이고 뒷가슴의 옆구리에 있는 가시는 크고 강하다. 날개는 진하게 흐리고 배는 긴 알 모양이다. 몸은 흑색이고 제2·3배마디 앞, 뒷슭은 흑갈색이다. 얼굴은 삼각형이고, 눈아래 안쪽 가장자리는 황백색이다. 다리는 밑마디와 도래마디를 제외하고는 적황색이다. 15mm정도"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[유고슬라비아]\n[스웨덴]\n[러시아]\n[폴란드]\n[일본]\n[이탈리아]\n[헝가리]\n[프랑스]\n[핀란드]\n[스페인]\n[독일]\n[중국]\n[벨기에]\n[오스트리아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBU0302-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0302_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0302_1_th.jpg",
+      "alt": "수염맵시벌 1번째 사진 : 수염맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0302_1_th2.jpg",
+      "caption": "수염맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBU0302-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305301014",
+      "description": "[YNUE0305301014] 수염맵시벌 1972.05.14 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTBU0302-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBU0302&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:33+00:00",
+    "html_sha256": "81e24a1ab2cd2cdc90048d76a9faca83dc0817b2c119fbf6b4074f9e6c4547a0",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

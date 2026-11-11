@@ -1,0 +1,118 @@
+{
+  "id": "ZTAG0041",
+  "name_ko": "흰발목줄애꽃벌",
+  "scientific_name": "Lasioglossum (Lophalictus) proximatum (Smith, 1879)",
+  "display_name": "흰발목줄애꽃벌",
+  "family_ko": "꼬마꽃벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "꼬마꽃벌과",
+      "name_latin": "Halictidae"
+    },
+    "subfamily": {
+      "name_ko": "꼬마꽃벌아과",
+      "name_latin": "Halictinae"
+    },
+    "genus": {
+      "name_ko": "줄꼬마꽃벌속",
+      "name_latin": "Lasioglossum"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 꼬마꽃벌과 (Halictidae)\n아과 : 꼬마꽃벌아과 (Halictinae)\n속 : 줄꼬마꽃벌속 (Lasioglossum)",
+  "basic_information": {
+    "곤충명": "흰발목줄애꽃벌",
+    "학명": "Lasioglossum (Lophalictus) proximatum (Smith, 1879)"
+  },
+  "information": {
+    "general_description": "몸길이는 8-8.5mm 정도. 몸은 흑색에 광택이 있고 특히 배는 광택이 강하다. 몸의 털은 주로 회백색이고 머리의 앞 윤곽도 거의 둥글고 머리방패는 가로로 길고 성긴 점각이 있다. 앞가슴등판의 삼각형부분은 잘 발달되지 않았다. 수컷의 머리방패 아래 반은 담황색이고 더듬이의 채찍마디 아래 부분은 폭 넓게 황갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "봄에서 여름에 걸쳐 출현하지만 많지 않다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 8-8.5mm 정도. 몸은 흑색에 광택이 있고 특히 배는 광택이 강하다. 몸의 털은 주로 회백색이고 머리의 앞 윤곽도 거의 둥글고 머리방패는 가로로 길고 성긴 점각이 있다. 앞가슴등판의 삼각형부분은 잘 발달되지 않았다. 수컷의 머리방패 아래 반은 담황색이고 더듬이의 채찍마디 아래 부분은 폭 넓게 황갈색이다."
+    },
+    {
+      "title": "생태",
+      "text": "봄에서 여름에 걸쳐 출현하지만 많지 않다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0041-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0041_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0041_2_th.jpg",
+      "alt": "흰발목줄애꽃벌 1번째 사진 : 흰발목줄애꽃벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0041_2_th2.jpg",
+      "caption": "흰발목줄애꽃벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTAG0041-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0041_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0041_1_th.jpg",
+      "alt": "흰발목줄애꽃벌 2번째 사진 : 흰발목줄애꽃벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0041_1_th2.jpg",
+      "caption": "흰발목줄애꽃벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0041-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306262041",
+      "description": "[YNUE0306262041] 흰발목줄애꽃벌 1997.05.03 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306262045",
+      "description": "[YNUE0306262045] 흰발목줄애꽃벌 1967.08.29 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306262031",
+      "description": "[YNUE0306262031] 흰발목줄애꽃벌 1963.08.07 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAG0041-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0041&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:37+00:00",
+    "html_sha256": "5b4e28215386cbf396fee545d6274a7de100e22b628cf5c7d0b39e03a61a6da5",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "ZOCW0011",
+  "name_ko": "왕큰무늬버섯벌레",
+  "scientific_name": "Megalodacne bellula Lewis, 1883",
+  "display_name": "왕큰무늬버섯벌레",
+  "family_ko": "버섯벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "머리대장상과",
+      "name_latin": "Cucujoidea"
+    },
+    "family": {
+      "name_ko": "버섯벌레과",
+      "name_latin": "Erotylidae"
+    },
+    "subfamily": {
+      "name_ko": "버섯벌레아과",
+      "name_latin": "Erotylinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Megalodacne"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 머리대장상과 (Cucujoidea)\n과 : 버섯벌레과 (Erotylidae)\n아과 : 버섯벌레아과 (Erotylinae)\n속 : (Megalodacne)",
+  "basic_information": {
+    "곤충명": "왕큰무늬버섯벌레",
+    "학명": "Megalodacne bellula Lewis, 1883"
+  },
+  "information": {
+    "general_description": "몸길이는 13~30mm 이며 전체적으로 금속광택이 있으며 앞가슴등판은 검은색이고 딱지날개는 검은색의 어깨부위와 후반부에 가로줄의 황갈색 띠가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 13~30mm 이며 전체적으로 금속광택이 있으며 앞가슴등판은 검은색이고 딱지날개는 검은색의 어깨부위와 후반부에 가로줄의 황갈색 띠가 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCW0011-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCW0011_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCW0011_1_th.jpg",
+      "alt": "왕큰무늬버섯벌레 1번째 사진 : 왕큰무늬버섯벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCW0011_1_th2.jpg",
+      "caption": "왕큰무늬버섯벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCW0011-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304102061",
+      "description": "[KNAE0304102061] 왕큰무늬버섯벌레 1994.08.06 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0706110087",
+      "description": "[KNAE0706110087] 왕큰무늬버섯벌레 2001.07.01 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0706110089",
+      "description": "[KNAE0706110089] 왕큰무늬버섯벌레 1999.07.30 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOCW0011-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCW0011&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:47+00:00",
+    "html_sha256": "38431ae9b52ccd2143f14fe43f19f987f0543b7ef5954b39365f40cb36da68f6",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

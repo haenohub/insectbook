@@ -1,0 +1,123 @@
+{
+  "id": "ZRAM0020",
+  "name_ko": "넉점박이불나방",
+  "scientific_name": "Lithosia quadra (Linnaeus, 1785)",
+  "display_name": "넉점박이불나방",
+  "family_ko": "태극나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "태극나방과",
+      "name_latin": "Erebidae"
+    },
+    "subfamily": {
+      "name_ko": "불나방아과",
+      "name_latin": "Arctiinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Lithosia"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 태극나방과 (Erebidae)\n아과 : 불나방아과 (Arctiinae)\n속 : (Lithosia)",
+  "basic_information": {
+    "곤충명": "넉점박이불나방",
+    "학명": "Lithosia quadra (Linnaeus, 1785)"
+  },
+  "information": {
+    "general_description": "수컷과 암컷의 색깔이 전혀 다르게 되어 있으나, 더듬이는 가는 미모상(微毛狀)으로 같음. 얼굴이 수컷은 흑색 바탕에 청남색의 광택이 나며, 암컷은 등황색을 띠고 있음. 수컷에서는 목, 어깨판(肩板), 가슴, 배등이 등황색을 띠고, 아랫입술수염은 암갈색으로 길게 뻗어 있음. 암컷에서는 배의 등황색 미모(微毛)가 수컷보다 작으며, 아랫입술수염은 다소 짧음. 수컷은 앞날개 전연(前緣)의 기부에서 바깥쪽으로 1/3가량이 흑색을 띠고 있다. 암컷의 날개 색깔은 앞, 뒷날개 모두 노란색임.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 7~8월에 연 1회 출현하며, 유충은 선류를 먹음",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "수컷과 암컷의 색깔이 전혀 다르게 되어 있으나, 더듬이는 가는 미모상(微毛狀)으로 같음. 얼굴이 수컷은 흑색 바탕에 청남색의 광택이 나며, 암컷은 등황색을 띠고 있음. 수컷에서는 목, 어깨판(肩板), 가슴, 배등이 등황색을 띠고, 아랫입술수염은 암갈색으로 길게 뻗어 있음. 암컷에서는 배의 등황색 미모(微毛)가 수컷보다 작으며, 아랫입술수염은 다소 짧음. 수컷은 앞날개 전연(前緣)의 기부에서 바깥쪽으로 1/3가량이 흑색을 띠고 있다. 암컷의 날개 색깔은 앞, 뒷날개 모두 노란색임."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 7~8월에 연 1회 출현하며, 유충은 선류를 먹음"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRAM0020-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0020_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0020_2_th.jpg",
+      "alt": "넉점박이불나방 1번째 사진 : 넉점박이불나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0020_2_th2.jpg",
+      "caption": "넉점박이불나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRAM0020-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0020_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0020_1_th.jpg",
+      "alt": "넉점박이불나방 2번째 사진 : 넉점박이불나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0020_1_th2.jpg",
+      "caption": "넉점박이불나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRAM0020-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304191016",
+      "description": "[KNAE0304191016] 넉점박이불나방 1998.06.29 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304191017",
+      "description": "[KNAE0304191017] 넉점박이불나방 1998.06.28 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304191018",
+      "description": "[KNAE0304191018] 넉점박이불나방 1998.08.27 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRAM0020.png",
+    "reference_image_id": "ZRAM0020-2",
+    "reference_review_note": "첫 사진은 배 확인 어려움; 배가 온전한 두 번째 전신 사진으로 변경",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T09:58:47.064490+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "123ed3788dd32c31a7c21dd491c154c1c006517e740d596fe3744464d4070aa5"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRAM0020&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:34+00:00",
+    "html_sha256": "550bec2d92cd2b4f54ce2553bf39d001df14f9739fb9d66079d4ef0af2e81e0c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

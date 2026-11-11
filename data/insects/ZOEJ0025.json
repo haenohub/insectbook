@@ -1,0 +1,99 @@
+{
+  "id": "ZOEJ0025",
+  "name_ko": "하이덴갈색줄풍뎅이",
+  "scientific_name": "Sophrops heydeni (Brenske, 1892)",
+  "display_name": "하이덴갈색줄풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "검정풍뎅이아과",
+      "name_latin": "Melolonthinae"
+    },
+    "genus": {
+      "name_ko": "갈색줄풍뎅이속",
+      "name_latin": "Sophrops"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 검정풍뎅이아과 (Melolonthinae)\n속 : 갈색줄풍뎅이속 (Sophrops)",
+  "basic_information": {
+    "곤충명": "하이덴갈색줄풍뎅이",
+    "학명": "Sophrops heydeni (Brenske, 1892)"
+  },
+  "information": {
+    "general_description": "시베리아 동부에 분포하며, 몸은 원통형에 가깝고, 광택있는 황갈색인데 보통 머리방패와 앞가슴등판은 어두운 적갈색이고 머리는 흑색이다. 머리방패는 가로로 긴 형이며 전연은 약하게 파였고, 점각은 크고 둘글며 조밀하여 주름상이며, 앞머리는 같은 점각이 더 조밀하다. 촉각은 10마디인데 수컷의 곤봉부는 가느나 안쪽마디의 합보다 약간 짧고, 암컷은 거의 절반정도이다. 앞가슴등판 점각도 크고 조밀하여 주름상이다. 딱지날개는 가슴 폭의 2배 이상이며, 4개의 세로 융기선이 있으나 뒤쪽에서는 낮아져서 소실된다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "시베리아 동부에 분포하며, 몸은 원통형에 가깝고, 광택있는 황갈색인데 보통 머리방패와 앞가슴등판은 어두운 적갈색이고 머리는 흑색이다. 머리방패는 가로로 긴 형이며 전연은 약하게 파였고, 점각은 크고 둘글며 조밀하여 주름상이며, 앞머리는 같은 점각이 더 조밀하다. 촉각은 10마디인데 수컷의 곤봉부는 가느나 안쪽마디의 합보다 약간 짧고, 암컷은 거의 절반정도이다. 앞가슴등판 점각도 크고 조밀하여 주름상이다. 딱지날개는 가슴 폭의 2배 이상이며, 4개의 세로 융기선이 있으나 뒤쪽에서는 낮아져서 소실된다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOEJ0025-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0025_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0025_1_th.jpg",
+      "alt": "하이덴갈색줄풍뎅이 1번째 사진 : 하이덴갈색줄풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0025_1_th2.jpg",
+      "caption": "하이덴갈색줄풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOEJ0025-1",
+  "specimen_examples": [
+    {
+      "id": "SJNE0301161414",
+      "description": "[SJNE0301161414] 하이덴갈색줄풍뎅이 2001.08.30 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0301161415",
+      "description": "[SJNE0301161415] 하이덴갈색줄풍뎅이 2001.08.30 / / 상주대학교"
+    },
+    {
+      "id": "KUIE0204241111",
+      "description": "[KUIE0204241111] 하이덴갈색줄풍뎅이 1984.06.02 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOEJ0025-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOEJ0025&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:00+00:00",
+    "html_sha256": "ff07008c683e60ae3d6ce786a80391d2fe6fcccfe77faad1dccb8f8291490432",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

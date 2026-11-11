@@ -1,0 +1,126 @@
+{
+  "id": "ZRDS0012",
+  "name_ko": "노랑뒷날개저녁나방",
+  "scientific_name": "Acronicta catocaloida (Graeser, 1888 [1889])",
+  "display_name": "노랑뒷날개저녁나방",
+  "family_ko": "밤나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "밤나방과",
+      "name_latin": "Noctuidae"
+    },
+    "subfamily": {
+      "name_ko": "저녁나방아과",
+      "name_latin": "Acronictinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Acronicta"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 밤나방과 (Noctuidae)\n아과 : 저녁나방아과 (Acronictinae)\n속 : (Acronicta)",
+  "basic_information": {
+    "곤충명": "노랑뒷날개저녁나방",
+    "학명": "Acronicta catocaloida (Graeser, 1888 [1889])"
+  },
+  "information": {
+    "general_description": "날개편 길이 22～23mm. 앞날개는 암회색 바탕인데 흑색과 백색의 인편이 강하게 밀포되어 있다. 뒷날개는 농황색 바탕으로 외연부는 흑색을 띠는데 외연과 연모는 황색을 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 7월경에 출현된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]\n[중국]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 22～23mm. 앞날개는 암회색 바탕인데 흑색과 백색의 인편이 강하게 밀포되어 있다. 뒷날개는 농황색 바탕으로 외연부는 흑색을 띠는데 외연과 연모는 황색을 띤다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 7월경에 출현된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0012-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0012_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0012_2_th.jpg",
+      "alt": "노랑뒷날개저녁나방 1번째 사진 : 노랑뒷날개저녁나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0012_2_th2.jpg",
+      "caption": "노랑뒷날개저녁나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDS0012-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0012_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0012_1_th.jpg",
+      "alt": "노랑뒷날개저녁나방 2번째 사진 : 노랑뒷날개저녁나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0012_1_th2.jpg",
+      "caption": "노랑뒷날개저녁나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0012-1",
+  "specimen_examples": [
+    {
+      "id": "GSNE0408162275",
+      "description": "[GSNE0408162275] 노랑뒷날개저녁나방 2002.07.13 / / 경상대학교"
+    },
+    {
+      "id": "KNAE0304212029",
+      "description": "[KNAE0304212029] 노랑뒷날개저녁나방 1998.06.29 / / 국립수목원"
+    },
+    {
+      "id": "CBNE0202021033",
+      "description": "[CBNE0202021033] 노랑뒷날개저녁나방 1996.07.20 / / 충북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDS0012.png",
+    "reference_image_id": "ZRDS0012-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T11:48:08.860885+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "c920b5533ee62c80c9a7f3fb3c48afd491272e8673771a8ffa79564a9b3d15ff"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0012&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:07+00:00",
+    "html_sha256": "01df40e3b115a3f15967537f9de73039f4d0c67f0569b03a62b08b7d1c226022",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

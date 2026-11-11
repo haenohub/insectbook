@@ -1,0 +1,111 @@
+{
+  "id": "ZRDW0004",
+  "name_ko": "노랑날개원뿔나방",
+  "scientific_name": "Periacma delegata Meyrick, 1914",
+  "display_name": "노랑날개원뿔나방",
+  "family_ko": "판날개뿔나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "뿔나방상과",
+      "name_latin": "Gelechioidea"
+    },
+    "family": {
+      "name_ko": "판날개뿔나방과",
+      "name_latin": "Xyloryctidae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Periacminae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Periacma"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 뿔나방상과 (Gelechioidea)\n과 : 판날개뿔나방과 (Xyloryctidae)\n아과 : (Periacminae)\n속 : (Periacma)",
+  "basic_information": {
+    "곤충명": "노랑날개원뿔나방",
+    "학명": "Periacma delegata Meyrick, 1914"
+  },
+  "information": {
+    "general_description": "머리와 가슴 윗부분은 황색이고, 더듬이는 날개 길이의 3/5정도로 비교적 짧음. 날개의 바탕색은 농황색이며, 흑갈색의 횡선 및 뚜렷한 날개의 무늬들로 쉽게 구별될 수 있음. 앞날개의 외연은 둥글고 뒷날개도 비교적 넓고 뾰족함.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": "교미관과 교미주머니는 뚜렷이 구별되지 않게 긴 자루모양으로 연결됨",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "머리와 가슴 윗부분은 황색이고, 더듬이는 날개 길이의 3/5정도로 비교적 짧음. 날개의 바탕색은 농황색이며, 흑갈색의 횡선 및 뚜렷한 날개의 무늬들로 쉽게 구별될 수 있음. 앞날개의 외연은 둥글고 뒷날개도 비교적 넓고 뾰족함."
+    },
+    {
+      "title": "성충(암)",
+      "text": "교미관과 교미주머니는 뚜렷이 구별되지 않게 긴 자루모양으로 연결됨"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDW0004-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDW0004_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDW0004_1_th.jpg",
+      "alt": "노랑날개원뿔나방 1번째 사진 : 노랑날개원뿔나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDW0004_1_th2.jpg",
+      "caption": "노랑날개원뿔나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDW0004-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0303141008",
+      "description": "[UIBE0303141008] 노랑날개원뿔나방 2001.07.06 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0303141009",
+      "description": "[UIBE0303141009] 노랑날개원뿔나방 2000.07.16 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0303141011",
+      "description": "[UIBE0303141011] 노랑날개원뿔나방 1999.06.30 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDW0004.png",
+    "reference_image_id": "ZRDW0004-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T11:42:07.932928+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "155758d5fbb3f1894ec0bb69a6942dcde10fe772b7e9f3489fdfb240d3ed3d0a"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDW0004&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:03+00:00",
+    "html_sha256": "9bea1f4b8c2ae82cbafb2b5686e9725713d0cb19291f7103a2079b69fc92ea58",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "id": "ZREZ0010",
+  "name_ko": "넓은뾰족날개나방",
+  "scientific_name": "Tethea (Tethea) ampliata ampliata (Butler, 1878)",
+  "display_name": "넓은뾰족날개나방",
+  "family_ko": "갈고리나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "갈고리나방상과",
+      "name_latin": "Drepanoidea"
+    },
+    "family": {
+      "name_ko": "갈고리나방과",
+      "name_latin": "Drepanidae"
+    },
+    "subfamily": {
+      "name_ko": "뾰족날개나방아과",
+      "name_latin": "Thyatirinae"
+    },
+    "genus": {
+      "name_ko": "물결뾰족날개나방속",
+      "name_latin": "Tethea"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 갈고리나방상과 (Drepanoidea)\n과 : 갈고리나방과 (Drepanidae)\n아과 : 뾰족날개나방아과 (Thyatirinae)\n속 : 물결뾰족날개나방속 (Tethea)",
+  "basic_information": {
+    "곤충명": "넓은뾰족날개나방",
+    "학명": "Tethea (Tethea) ampliata ampliata (Butler, 1878)"
+  },
+  "information": {
+    "general_description": "앞날개의 제 8,9맥은 자루를 가지고 소실에서 나감. 몸과 날개는 회색임. 정수리, 경판, 가슴의　등쪽면은　다갈색이고　아랫입술수염의 등쪽면, 배, 뒷날개는 암갈색임. 앞날개의 내횡대 무늬와 외횡대 무늬는 대단히 나비가 넓고 각각 4개 정도의 흑갈색 줄로 됨. 내횡대는　전체가　약간　암색을　띠나　외횡대는　대단히　희미함． 가락지 모양과 콩팥 모양의 2가지 무늬는 회황색이고 각각 흑색의 가는 윤곽과 흑색의 중심선을 가지고 있음. 아외연선은 회백색임.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 5~8월에 출현함.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "앞날개의 제 8,9맥은 자루를 가지고 소실에서 나감. 몸과 날개는 회색임. 정수리, 경판, 가슴의　등쪽면은　다갈색이고　아랫입술수염의 등쪽면, 배, 뒷날개는 암갈색임. 앞날개의 내횡대 무늬와 외횡대 무늬는 대단히 나비가 넓고 각각 4개 정도의 흑갈색 줄로 됨. 내횡대는　전체가　약간　암색을　띠나　외횡대는　대단히　희미함． 가락지 모양과 콩팥 모양의 2가지 무늬는 회황색이고 각각 흑색의 가는 윤곽과 흑색의 중심선을 가지고 있음. 아외연선은 회백색임."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 5~8월에 출현함."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREZ0010-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREZ0010_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREZ0010_2_th.jpg",
+      "alt": "넓은뾰족날개나방 1번째 사진 : 넓은뾰족날개나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREZ0010_2_th2.jpg",
+      "caption": "넓은뾰족날개나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREZ0010-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREZ0010_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREZ0010_1_th.jpg",
+      "alt": "넓은뾰족날개나방 2번째 사진 : 넓은뾰족날개나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREZ0010_1_th2.jpg",
+      "caption": "넓은뾰족날개나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREZ0010-1",
+  "specimen_examples": [
+    {
+      "id": "JFNE0304071144",
+      "description": "[JFNE0304071144] 넓은뾰족날개나방 1992.06.17 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0304071145",
+      "description": "[JFNE0304071145] 넓은뾰족날개나방 1992.06.18 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0304071149",
+      "description": "[JFNE0304071149] 넓은뾰족날개나방 1992.06.22 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZREZ0010.png",
+    "reference_image_id": "ZREZ0010-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T10:08:24.092487+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "33b1edf916073685efe85054d6c178a70e542a6d1688567201cf1d32eb1829b9"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREZ0010&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:38+00:00",
+    "html_sha256": "1346bb292fc5db73a90b08e4e482b05af6b153cf0266ec6e0f04920679643ead",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

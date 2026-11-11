@@ -1,0 +1,103 @@
+{
+  "id": "ZFCB0002",
+  "name_ko": "바퀴",
+  "scientific_name": "Blattella germanica (Linnaeus, 1767)",
+  "display_name": "바퀴",
+  "family_ko": "바퀴과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "바퀴목",
+      "name_latin": "Blattodea"
+    },
+    "family": {
+      "name_ko": "바퀴과",
+      "name_latin": "Ectobiidae"
+    },
+    "genus": {
+      "name_ko": "바퀴속",
+      "name_latin": "Blattella"
+    }
+  },
+  "taxonomy_text": "목 : 바퀴목 (Blattodea)\n과 : 바퀴과 (Ectobiidae)\n속 : 바퀴속 (Blattella)",
+  "basic_information": {
+    "곤충명": "바퀴",
+    "학명": "Blattella germanica (Linnaeus, 1767)"
+  },
+  "information": {
+    "general_description": "몸길이는 12 mm 내외이다. 몸은 갈색을 띠며, 앞가슴등판에는 1쌍의 흑색 띠 무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "암컷은 알집을 부화하기 직전까지 배 끝에 달고 다니다가 집안의 구석진 곳에 알을 낳는다. 유충 기간은 약 100일이다.",
+    "habits": "주로 집안의 주방을 중심으로 생활하나, 간혹 인가 주변의 야산이나 초원에서도 발견된다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[위생해충] 위생상 대단히 불결한 곤충이다.\n[보통종] 집안에서 사는 바퀴 중 가장 흔하다.",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 12 mm 내외이다. 몸은 갈색을 띠며, 앞가슴등판에는 1쌍의 흑색 띠 무늬가 있다."
+    },
+    {
+      "title": "생태",
+      "text": "암컷은 알집을 부화하기 직전까지 배 끝에 달고 다니다가 집안의 구석진 곳에 알을 낳는다. 유충 기간은 약 100일이다."
+    },
+    {
+      "title": "습성",
+      "text": "주로 집안의 주방을 중심으로 생활하나, 간혹 인가 주변의 야산이나 초원에서도 발견된다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[위생해충] 위생상 대단히 불결한 곤충이다.\n[보통종] 집안에서 사는 바퀴 중 가장 흔하다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZFCB0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/F3/ZFCB0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/F3/ZFCB0002_1_th.jpg",
+      "alt": "바퀴 1번째 사진 : 바퀴전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/F3/ZFCB0002_1_th2.jpg",
+      "caption": "바퀴전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZFCB0002-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408161095",
+      "description": "[MPME0408161095] 바퀴 2003.02.02 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408161098",
+      "description": "[MPME0408161098] 바퀴 2003.02.02 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408161097",
+      "description": "[MPME0408161097] 바퀴 2003.02.02 / / 목포자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZFCB0002-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZFCB0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:02+00:00",
+    "html_sha256": "791fd0a654a83debdaca7fd6a4b6e3fe09e95929f662582c2a4e9a6867331861",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

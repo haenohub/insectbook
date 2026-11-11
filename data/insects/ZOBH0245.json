@@ -1,0 +1,114 @@
+{
+  "id": "ZOBH0245",
+  "name_ko": "일본줄납작먼지벌레",
+  "scientific_name": "Eucolpodes japonicum chinadense Jedlička, 1940",
+  "display_name": "일본줄납작먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "먼지벌레아과",
+      "name_latin": "Harpalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Eucolpodes"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 먼지벌레아과 (Harpalinae)\n속 : (Eucolpodes)",
+  "basic_information": {
+    "곤충명": "일본줄납작먼지벌레",
+    "학명": "Eucolpodes japonicum chinadense Jedlička, 1940"
+  },
+  "information": {
+    "general_description": "몸 길이는 8.5~10.5mm 아래입술의 기절의 치상돌기 상단부가 둥글고 앞가슴등판에 후각은 둥글다. 전흉배판의 양 측면은 연한갈색이다. 촉각, 다리는 연한갈색이다. 두부 전흉배판은 초록광택을 낸다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": "[포식성]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸 길이는 8.5~10.5mm 아래입술의 기절의 치상돌기 상단부가 둥글고 앞가슴등판에 후각은 둥글다. 전흉배판의 양 측면은 연한갈색이다. 촉각, 다리는 연한갈색이다. 두부 전흉배판은 초록광택을 낸다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[포식성]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0245-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0245_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0245_2_th.jpg",
+      "alt": "일본줄납작먼지벌레 1번째 사진 : 일본줄납작먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0245_2_th2.jpg",
+      "caption": "일본줄납작먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0245-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0245_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0245_1_th.jpg",
+      "alt": "일본줄납작먼지벌레 2번째 사진 : 일본줄납작먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0245_1_th2.jpg",
+      "caption": "일본줄납작먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0245-1",
+  "specimen_examples": [
+    {
+      "id": "SJNE0302171126",
+      "description": "[SJNE0302171126] 일본줄납작먼지벌레 1985.09.10 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0302171127",
+      "description": "[SJNE0302171127] 일본줄납작먼지벌레 1985.09.10 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0302171129",
+      "description": "[SJNE0302171129] 일본줄납작먼지벌레 1973.06.09 / / 상주대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0245-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0245&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:41+00:00",
+    "html_sha256": "730d164c9f598964e3c5d7dd963985d7d15337e1c8deffedb889942a01877031",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

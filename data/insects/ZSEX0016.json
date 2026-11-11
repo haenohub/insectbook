@@ -1,0 +1,99 @@
+{
+  "id": "ZSEX0016",
+  "name_ko": "황각다귀",
+  "scientific_name": "Nephrotoma virgata (Coquillett, 1898)",
+  "display_name": "황각다귀",
+  "family_ko": "각다귀과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "각다귀상과",
+      "name_latin": "Tipuloidea"
+    },
+    "family": {
+      "name_ko": "각다귀과",
+      "name_latin": "Tipulidae"
+    },
+    "subfamily": {
+      "name_ko": "각다귀아과",
+      "name_latin": "Tipulinae"
+    },
+    "genus": {
+      "name_ko": "황나각다귀속",
+      "name_latin": "Nephrotoma"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 각다귀상과 (Tipuloidea)\n과 : 각다귀과 (Tipulidae)\n아과 : 각다귀아과 (Tipulinae)\n속 : 황나각다귀속 (Nephrotoma)",
+  "basic_information": {
+    "곤충명": "황각다귀",
+    "학명": "Nephrotoma virgata (Coquillett, 1898)"
+  },
+  "information": {
+    "general_description": "몸길이 11~15mm, 앞날개길이 10~13mm. 몸색깔은 밝은 황색이나 배는 암색임. 머리는 황색이고 정수리에 작은 흑갈색 무늬가 있으며 겹눈은 흑색이고 주둥이는 황색이나 작은턱수염은 연암색임. 더듬이는 가늘고 흑갈색이나 기부의 2마디는 황색이며 가슴은 밝은 황색이고 다소 녹색을 띠기도 함. 앞방패판 위에 있는 3세로줄, 방패판 위의 2무늬, 작은방패판과 뒷가슴방패판 위의 1무늬는 광택흑색이고 뚜렷함. 배는 황색이나 등면은 불규칙하게 흑색 또는 흑갈색으로 되는 일이 많고 배는 옆구리에 흑갈색 줄이 있음. 날개는 투명하고 회색을 띠며 앞가장자리 부분과 연문은 특히 황색임. 평균곤은 황갈색이고 다리는 암황색이나 넓적다리마디끝은 흑갈색이고 종아리마디 이하는 암색임.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "논에서 흔히 발견됨.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 11~15mm, 앞날개길이 10~13mm. 몸색깔은 밝은 황색이나 배는 암색임. 머리는 황색이고 정수리에 작은 흑갈색 무늬가 있으며 겹눈은 흑색이고 주둥이는 황색이나 작은턱수염은 연암색임. 더듬이는 가늘고 흑갈색이나 기부의 2마디는 황색이며 가슴은 밝은 황색이고 다소 녹색을 띠기도 함. 앞방패판 위에 있는 3세로줄, 방패판 위의 2무늬, 작은방패판과 뒷가슴방패판 위의 1무늬는 광택흑색이고 뚜렷함. 배는 황색이나 등면은 불규칙하게 흑색 또는 흑갈색으로 되는 일이 많고 배는 옆구리에 흑갈색 줄이 있음. 날개는 투명하고 회색을 띠며 앞가장자리 부분과 연문은 특히 황색임. 평균곤은 황갈색이고 다리는 암황색이나 넓적다리마디끝은 흑갈색이고 종아리마디 이하는 암색임."
+    },
+    {
+      "title": "생태",
+      "text": "논에서 흔히 발견됨."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSEX0016-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEX0016_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEX0016_1_th.jpg",
+      "alt": "황각다귀 1번째 사진 : 황각다귀전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEX0016_1_th2.jpg",
+      "caption": "황각다귀전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSEX0016-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0112313013",
+      "description": "[YNUE0112313013] 황각다귀 1997.05.03 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZSEX0016-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSEX0016&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:48+00:00",
+    "html_sha256": "611b6b49d0e9e1b24fd9f23a4c7a12c4b194826c31e76951a11419e5c8580da7",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "ZOAR0042",
+  "name_ko": "붉은점무늬거위벌레",
+  "scientific_name": "Leptapoderus (Paraleptapoderus) praecellens (Sharp, 1889)",
+  "display_name": "붉은점무늬거위벌레",
+  "family_ko": "거위벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "거위벌레과",
+      "name_latin": "Attelabidae"
+    },
+    "subfamily": {
+      "name_ko": "목거위벌레아과",
+      "name_latin": "Apoderinae"
+    },
+    "genus": {
+      "name_ko": "삼각가슴목거위벌레속",
+      "name_latin": "Leptapoderus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 거위벌레과 (Attelabidae)\n아과 : 목거위벌레아과 (Apoderinae)\n속 : 삼각가슴목거위벌레속 (Leptapoderus)",
+  "basic_information": {
+    "곤충명": "붉은점무늬거위벌레",
+    "학명": "Leptapoderus (Paraleptapoderus) praecellens (Sharp, 1889)"
+  },
+  "information": {
+    "general_description": "한국, 일본, 러시아에 분포하며, 체장은 6.5-7.0mm 정도이다. 체색은 검은색이며, 시초의 중앙 위쪽과 경절, 부절, 더듬이마디는 황적색이다. 시초 중앙 위쪽의 황적색무늬는 소순판주변의 작은 황적색무늬와 이어져 있다. 시초의 어깨후연 가두리도 황적색을 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 러시아에 분포하며, 체장은 6.5-7.0mm 정도이다. 체색은 검은색이며, 시초의 중앙 위쪽과 경절, 부절, 더듬이마디는 황적색이다. 시초 중앙 위쪽의 황적색무늬는 소순판주변의 작은 황적색무늬와 이어져 있다. 시초의 어깨후연 가두리도 황적색을 띤다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAR0042-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0042_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0042_1_th.jpg",
+      "alt": "붉은점무늬거위벌레 1번째 사진 : 붉은점무늬거위벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0042_1_th2.jpg",
+      "caption": "붉은점무늬거위벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAR0042-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0204161395",
+      "description": "[SNUE0204161395] 붉은점무늬거위벌레 1997.06.11 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0204161396",
+      "description": "[SNUE0204161396] 붉은점무늬거위벌레 1993.05.27 / / 서울대학교"
+    },
+    {
+      "id": "RIFI1207052040",
+      "description": "[RIFI1207052040] 붉은점무늬거위벌레 2011.05.24 / / 산림곤충다양성연구소"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAR0042-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAR0042&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:53+00:00",
+    "html_sha256": "44c711a6c91ff2ffc261339de962873fe2c57662152051d56ddaa82e89cdee01",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

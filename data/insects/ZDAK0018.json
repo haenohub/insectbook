@@ -1,0 +1,99 @@
+{
+  "id": "ZDAK0018",
+  "name_ko": "어리부채장수잠자리",
+  "scientific_name": "Gomphidia confluens Selys, 1878",
+  "display_name": "어리부채장수잠자리",
+  "family_ko": "측범잠자리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "잠자리목",
+      "name_latin": "Odonata"
+    },
+    "family": {
+      "name_ko": "측범잠자리과",
+      "name_latin": "Gomphidae"
+    },
+    "subfamily": {
+      "name_ko": "부채측범잠자리아과",
+      "name_latin": "Lindeniinae"
+    },
+    "genus": {
+      "name_ko": "어리부채장수잠자리속",
+      "name_latin": "Gomphidia"
+    }
+  },
+  "taxonomy_text": "목 : 잠자리목 (Odonata)\n과 : 측범잠자리과 (Gomphidae)\n아과 : 부채측범잠자리아과 (Lindeniinae)\n속 : 어리부채장수잠자리속 (Gomphidia)",
+  "basic_information": {
+    "곤충명": "어리부채장수잠자리",
+    "학명": "Gomphidia confluens Selys, 1878"
+  },
+  "information": {
+    "general_description": "배길이:50mm, 뒷날개:47mm. 머리, 얼굴, 뒷머리는 황록색, 이마혹은 흑색. 이마는 흑색띠가 있는 황록색. 윗입술조각, 윗입술, 큰턱아래는 황록색. 아랫입술은 옅은 황록색이며 깃에는 황록색 띠 존재. 가운데가슴 앞면은 흑색깃무늬와 황록색줄무늬 존재. 가슴 옆은 황록색이며 흑색 줄무늬 3개. 배의 7~9마디는 폭이 넓으나 편평돌기가 없고 10마디의 뒤끝에는 황색무늬. 미부 상부기는 흑갈색. 날개는 투명하고 날개맥과 가두리무늬는 흑갈색.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "배길이:50mm, 뒷날개:47mm. 머리, 얼굴, 뒷머리는 황록색, 이마혹은 흑색. 이마는 흑색띠가 있는 황록색. 윗입술조각, 윗입술, 큰턱아래는 황록색. 아랫입술은 옅은 황록색이며 깃에는 황록색 띠 존재. 가운데가슴 앞면은 흑색깃무늬와 황록색줄무늬 존재. 가슴 옆은 황록색이며 흑색 줄무늬 3개. 배의 7~9마디는 폭이 넓으나 편평돌기가 없고 10마디의 뒤끝에는 황색무늬. 미부 상부기는 흑갈색. 날개는 투명하고 날개맥과 가두리무늬는 흑갈색."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZDAK0018-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAK0018_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAK0018_1_th.jpg",
+      "alt": "어리부채장수잠자리 1번째 사진 : 어리부채장수잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAK0018_1_th2.jpg",
+      "caption": "어리부채장수잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZDAK0018-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408191179",
+      "description": "[MPME0408191179] 어리부채장수잠자리 2001.07.06 / / 목포자연사박물관"
+    },
+    {
+      "id": "YNUE0212236063",
+      "description": "[YNUE0212236063] 어리부채장수잠자리 2001.04.16 / / 영남대학교"
+    },
+    {
+      "id": "ADUE0201241196",
+      "description": "[ADUE0201241196] 어리부채장수잠자리 2001.07.08 / / 안동대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZDAK0018-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZDAK0018&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:38+00:00",
+    "html_sha256": "36a560f82f73b6877cc61fd3a6a4231ddc849022d56b7d6c304a9c67cec8a094",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

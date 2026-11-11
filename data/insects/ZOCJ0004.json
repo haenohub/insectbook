@@ -1,0 +1,99 @@
+{
+  "id": "ZOCJ0004",
+  "name_ko": "황띠수시렁이",
+  "scientific_name": "Dermestes (Dermestes) lardarius Linnaeus, 1758",
+  "display_name": "황띠수시렁이",
+  "family_ko": "수시렁이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "개나무좀상과",
+      "name_latin": "Bostrichoidea"
+    },
+    "family": {
+      "name_ko": "수시렁이과",
+      "name_latin": "Dermestidae"
+    },
+    "subfamily": {
+      "name_ko": "수시렁이아과",
+      "name_latin": "Dermestinae"
+    },
+    "genus": {
+      "name_ko": "수시렁이속",
+      "name_latin": "Dermestes"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 개나무좀상과 (Bostrichoidea)\n과 : 수시렁이과 (Dermestidae)\n아과 : 수시렁이아과 (Dermestinae)\n속 : 수시렁이속 (Dermestes)",
+  "basic_information": {
+    "곤충명": "황띠수시렁이",
+    "학명": "Dermestes (Dermestes) lardarius Linnaeus, 1758"
+  },
+  "information": {
+    "general_description": "몸길이는 6.5~7.5mm 이며 몸전체는 검은색이며 둔한광택이있다. 딱지날개의 앞부분의 절반은 황갈색의 털이있고 각 3개의 검은색 반점이있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 6.5~7.5mm 이며 몸전체는 검은색이며 둔한광택이있다. 딱지날개의 앞부분의 절반은 황갈색의 털이있고 각 3개의 검은색 반점이있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCJ0004-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCJ0004_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCJ0004_1_th.jpg",
+      "alt": "황띠수시렁이 1번째 사진 : 황띠수시렁이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCJ0004_1_th2.jpg",
+      "caption": "황띠수시렁이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCJ0004-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0609042069",
+      "description": "[KNAE0609042069] 황띠수시렁이 2000.11.01 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304112032",
+      "description": "[KNAE0304112032] 황띠수시렁이 1994.06.02 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOCJ0004-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCJ0004&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:54+00:00",
+    "html_sha256": "7493a55696bad72bac3bf8a1dad08bf61c302c703fb62135e48650ec0350653b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "ZLBG0011",
+  "name_ko": "큰딱부리긴노린재",
+  "scientific_name": "Geocoris (Piocoris) varius (Uhler, 1860)",
+  "display_name": "큰딱부리긴노린재",
+  "family_ko": "딱부리긴노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "긴노린재상과",
+      "name_latin": "Lygaeioidea"
+    },
+    "family": {
+      "name_ko": "딱부리긴노린재과",
+      "name_latin": "Geocoridae"
+    },
+    "genus": {
+      "name_ko": "참딱부리긴노린재속",
+      "name_latin": "Geocoris"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 긴노린재상과 (Lygaeioidea)\n과 : 딱부리긴노린재과 (Geocoridae)\n속 : 참딱부리긴노린재속 (Geocoris)",
+  "basic_information": {
+    "곤충명": "큰딱부리긴노린재",
+    "학명": "Geocoris (Piocoris) varius (Uhler, 1860)"
+  },
+  "information": {
+    "general_description": "몸길이 : 4-6mm\n몸의 등면은 검정색 바탕에 광택을 가지며, 미세한 점각이 산재한다. 머리는 폭이 매우 넓고 아름다운 주홍색을 띠며, 뒷가장자리는 광택을 띤다. 겹눈이 발달하였고, 검정색을 띤다. 더듬이는 몸길이의 절반 이하로 짧고, 2-3마디는 검다. 앞가슴등판은 폭이 넓고 검으며, 작은 방패판과 함께 광택이 강하다. 앞날개는 폭이 넓고 혁질부가 갈색을 띠고 반투명하며, 막질부는 투명하고 배끝을 초과한다. 다리는 황갈색이거나 주황색을 띠고, 허벅마디의 말단부에는 흑갈색 반점이 희미하게 나타난다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "산야의 초원지대나 경작지 주변에 널리 분포한다.",
+    "habits": "잡식성이다. 곤충류의 체액을 빨아 먹고 살며, 때로는 식물을 가해하기도 한다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[대만]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 4-6mm\n몸의 등면은 검정색 바탕에 광택을 가지며, 미세한 점각이 산재한다. 머리는 폭이 매우 넓고 아름다운 주홍색을 띠며, 뒷가장자리는 광택을 띤다. 겹눈이 발달하였고, 검정색을 띤다. 더듬이는 몸길이의 절반 이하로 짧고, 2-3마디는 검다. 앞가슴등판은 폭이 넓고 검으며, 작은 방패판과 함께 광택이 강하다. 앞날개는 폭이 넓고 혁질부가 갈색을 띠고 반투명하며, 막질부는 투명하고 배끝을 초과한다. 다리는 황갈색이거나 주황색을 띠고, 허벅마디의 말단부에는 흑갈색 반점이 희미하게 나타난다."
+    },
+    {
+      "title": "생태",
+      "text": "산야의 초원지대나 경작지 주변에 널리 분포한다."
+    },
+    {
+      "title": "습성",
+      "text": "잡식성이다. 곤충류의 체액을 빨아 먹고 살며, 때로는 식물을 가해하기도 한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[대만]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLBG0011-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBG0011_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBG0011_1_th.jpg",
+      "alt": "큰딱부리긴노린재 1번째 사진 : 큰딱부리긴노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBG0011_1_th2.jpg",
+      "caption": "큰딱부리긴노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLBG0011-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408021019",
+      "description": "[MPME0408021019] 큰딱부리긴노린재 1999.05.20 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408021020",
+      "description": "[MPME0408021020] 큰딱부리긴노린재 1999.05.20 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408021021",
+      "description": "[MPME0408021021] 큰딱부리긴노린재 1999.05.20 / / 목포자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLBG0011-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLBG0011&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:46+00:00",
+    "html_sha256": "ad89ff4b8120402871531e19235933c928aaaf838b3904d229af6d1488954b29",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

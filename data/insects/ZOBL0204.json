@@ -1,0 +1,103 @@
+{
+  "id": "ZOBL0204",
+  "name_ko": "대륙곰보하늘소",
+  "scientific_name": "Pterolophia (Pterolophia) maacki (Blessig, 1873)",
+  "display_name": "대륙곰보하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "목하늘소아과",
+      "name_latin": "Lamiinae"
+    },
+    "genus": {
+      "name_ko": "곰보하늘소속",
+      "name_latin": "Pterolophia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 목하늘소아과 (Lamiinae)\n속 : 곰보하늘소속 (Pterolophia)",
+  "basic_information": {
+    "곤충명": "대륙곰보하늘소",
+    "학명": "Pterolophia (Pterolophia) maacki (Blessig, 1873)"
+  },
+  "information": {
+    "general_description": "몸의 길이는 6~9mm 이며, 몸전체의 색깔은 회색을 띤 검은색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "6~8월에 출현하며, 참나무에서 주로 서식한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의 길이는 6~9mm 이며, 몸전체의 색깔은 회색을 띤 검은색이다."
+    },
+    {
+      "title": "생태",
+      "text": "6~8월에 출현하며, 참나무에서 주로 서식한다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0204-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0204_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0204_1_th.jpg",
+      "alt": "대륙곰보하늘소 1번째 사진 : 대륙곰보하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0204_1_th2.jpg",
+      "caption": "대륙곰보하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0204-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0304081015",
+      "description": "[FRIE0304081015] 대륙곰보하늘소 1974.07.19 / / 국립산림과학원"
+    },
+    {
+      "id": "SJNE0301221147",
+      "description": "[SJNE0301221147] 대륙곰보하늘소 2001.07.13 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0301221148",
+      "description": "[SJNE0301221148] 대륙곰보하늘소 2001.06.21 / / 상주대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0204-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0204&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:06+00:00",
+    "html_sha256": "4e5fe33be388a8666a7828f5bbc07b9c82a6fa284d611fc2a13f573b8063d7bd",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

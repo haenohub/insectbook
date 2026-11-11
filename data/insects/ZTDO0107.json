@@ -1,0 +1,103 @@
+{
+  "id": "ZTDO0107",
+  "name_ko": "황갈테두리잎벌",
+  "scientific_name": "Tenthredo (Endotethryx) adusta Motschulsky, 1866",
+  "display_name": "황갈테두리잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "잎벌아과",
+      "name_latin": "Tenthredininae"
+    },
+    "genus": {
+      "name_ko": "잎벌속",
+      "name_latin": "Tenthredo"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 잎벌아과 (Tenthredininae)\n속 : 잎벌속 (Tenthredo)",
+  "basic_information": {
+    "곤충명": "황갈테두리잎벌",
+    "학명": "Tenthredo (Endotethryx) adusta Motschulsky, 1866"
+  },
+  "information": {
+    "general_description": "암컷의 몸은 황갈색이다. 다리는 황갈색, 각 밑마디의 기부는 흑색, 머리는 크고 거의 점각이 없고 광택이 세며 가슴에는 점각이 밀포되어 있다. 더듬이는 중앙이 약간 굵고 제 3마디는 제 4마디보다 훨씬 길다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[몽골]\n[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷의 몸은 황갈색이다. 다리는 황갈색, 각 밑마디의 기부는 흑색, 머리는 크고 거의 점각이 없고 광택이 세며 가슴에는 점각이 밀포되어 있다. 더듬이는 중앙이 약간 굵고 제 3마디는 제 4마디보다 훨씬 길다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[몽골]\n[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0107-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0107_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0107_1_th.jpg",
+      "alt": "황갈테두리잎벌 1번째 사진 : 황갈테두리잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0107_1_th2.jpg",
+      "caption": "황갈테두리잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0107-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0301046164",
+      "description": "[YNUE0301046164] 황갈테두리잎벌 1994.05.12 / / 영남대학교"
+    },
+    {
+      "id": "KNAE0303251063",
+      "description": "[KNAE0303251063] 황갈테두리잎벌 1994.05.19 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0808110190",
+      "description": "[KNAE0808110190] 황갈테두리잎벌 1998.05.04 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDO0107-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0107&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:51+00:00",
+    "html_sha256": "27e5d8fc05758e6306ee2fc5207fd9340e09c218caa3ef90f2673744b3eddbf5",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "ZSEM0020",
+  "name_ko": "가는줄납작꽃등에",
+  "scientific_name": "Meliscaeva cinctella (Zetterstedt, 1843)",
+  "display_name": "가는줄납작꽃등에",
+  "family_ko": "꽃등에과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "꽃등에상과",
+      "name_latin": "Syrphoidea"
+    },
+    "family": {
+      "name_ko": "꽃등에과",
+      "name_latin": "Syrphidae"
+    },
+    "subfamily": {
+      "name_ko": "꽃등에아과",
+      "name_latin": "Syrphinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Meliscaeva"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 꽃등에상과 (Syrphoidea)\n과 : 꽃등에과 (Syrphidae)\n아과 : 꽃등에아과 (Syrphinae)\n속 : (Meliscaeva)",
+  "basic_information": {
+    "곤충명": "가는줄납작꽃등에",
+    "학명": "Meliscaeva cinctella (Zetterstedt, 1843)"
+  },
+  "information": {
+    "general_description": "성충의 몸길이는 9~10mm. 수컷의 이마는 비교적 폭이 넓고 황색이며 위쪽에 반원형의 흑색 무늬가 있다. 더듬이는 적황색이고 얼굴은 비교적 폭이 넓고 황색이다. 가운데가슴등판은 뚜렷이 금빛이 도는 초록색의 광택이 있고, 작은방패판은 황색이고 긴흑색 털이 덮였다. 앞다리와 가운데다리는 적황색이고 뒷다리는 흑색이다. 날개는 갈색이고 평균곤은 연한 황색이며, 배는 둔한 검은색에 황색 띠무늬가 있다. 암컷은 이마가 비교적 좁고 정수리는 광택있는 흑색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "나무나 덤불 근처에서 발견됨.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[인도]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충의 몸길이는 9~10mm. 수컷의 이마는 비교적 폭이 넓고 황색이며 위쪽에 반원형의 흑색 무늬가 있다. 더듬이는 적황색이고 얼굴은 비교적 폭이 넓고 황색이다. 가운데가슴등판은 뚜렷이 금빛이 도는 초록색의 광택이 있고, 작은방패판은 황색이고 긴흑색 털이 덮였다. 앞다리와 가운데다리는 적황색이고 뒷다리는 흑색이다. 날개는 갈색이고 평균곤은 연한 황색이며, 배는 둔한 검은색에 황색 띠무늬가 있다. 암컷은 이마가 비교적 좁고 정수리는 광택있는 흑색이다."
+    },
+    {
+      "title": "생태",
+      "text": "나무나 덤불 근처에서 발견됨."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[인도]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSEM0020-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0020_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0020_1_th.jpg",
+      "alt": "가는줄납작꽃등에 1번째 사진 : 가는줄납작꽃등에전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0020_1_th2.jpg",
+      "caption": "가는줄납작꽃등에전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSEM0020-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0308031223",
+      "description": "[KUIE0308031223] 가는줄납작꽃등에 1990.06.27 / / 고려대학교"
+    },
+    {
+      "id": "YSUW1207113010",
+      "description": "[YSUW1207113010] 가는줄납작꽃등에 2003.06.02 / / 연세대학교 곤충표본실"
+    },
+    {
+      "id": "YSUW1207113011",
+      "description": "[YSUW1207113011] 가는줄납작꽃등에 2003.07.15 / / 연세대학교 곤충표본실"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZSEM0020.png",
+    "reference_image_id": "ZSEM0020-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T16:26:27.086243+00:00",
+    "sha256": "746f4fe800cb20f9c2d615c413d512e9834c15c1bce51d72c70fb03e01332f95",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSEM0020&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:03+00:00",
+    "html_sha256": "f31c05ab2dab9b8be02abf8e63e613278bf1cc60d20df8e96c23e3f52dbd1041",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

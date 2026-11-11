@@ -1,0 +1,106 @@
+{
+  "id": "ZSEM0017",
+  "name_ko": "가로무늬꽃등에",
+  "scientific_name": "Leucozona (Ischyrosyrphus) laternaria (Müller, 1776)",
+  "display_name": "가로무늬꽃등에",
+  "family_ko": "꽃등에과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "꽃등에상과",
+      "name_latin": "Syrphoidea"
+    },
+    "family": {
+      "name_ko": "꽃등에과",
+      "name_latin": "Syrphidae"
+    },
+    "subfamily": {
+      "name_ko": "꽃등에아과",
+      "name_latin": "Syrphinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Leucozona"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 꽃등에상과 (Syrphoidea)\n과 : 꽃등에과 (Syrphidae)\n아과 : 꽃등에아과 (Syrphinae)\n속 : (Leucozona)",
+  "basic_information": {
+    "곤충명": "가로무늬꽃등에",
+    "학명": "Leucozona (Ischyrosyrphus) laternaria (Müller, 1776)"
+  },
+  "information": {
+    "general_description": "성충의 몸길이는 12~13mm. 몸은 가늘고 길며, 회흑색이다. 머리는 크고 황회색가루로 덮였고 중앙에 갈색 세로 띠무늬가 있다. 얼굴은 황색이며, 중앙에 갈색 세로줄이 있고 앞으로 뚜렷이 융기했다. 더듬이는 흑색이며, 가슴등판에는 남청회색 줄무늬를 인식할 수 있다. 다리는 가늘고 흑색에 가깝고 부분적으로 적갈색이 나타난다. 배는 가늘고 길며 각 마디는 앞가장자리 부근에 남회백색 가로 띠무늬가 있으나 중앙에서 끊겼다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충의 몸길이는 12~13mm. 몸은 가늘고 길며, 회흑색이다. 머리는 크고 황회색가루로 덮였고 중앙에 갈색 세로 띠무늬가 있다. 얼굴은 황색이며, 중앙에 갈색 세로줄이 있고 앞으로 뚜렷이 융기했다. 더듬이는 흑색이며, 가슴등판에는 남청회색 줄무늬를 인식할 수 있다. 다리는 가늘고 흑색에 가깝고 부분적으로 적갈색이 나타난다. 배는 가늘고 길며 각 마디는 앞가장자리 부근에 남회백색 가로 띠무늬가 있으나 중앙에서 끊겼다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSEM0017-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0017_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0017_1_th.jpg",
+      "alt": "가로무늬꽃등에 1번째 사진 : 가로무늬꽃등에전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0017_1_th2.jpg",
+      "caption": "가로무늬꽃등에전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSEM0017-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0204261039",
+      "description": "[FRIE0204261039] 가로무늬꽃등에 1983.07.15 / / 국립산림과학원"
+    },
+    {
+      "id": "KKFE0606271046",
+      "description": "[KKFE0606271046] 가로무늬꽃등에 1998.09.28 / / 경기산림환경연구소"
+    },
+    {
+      "id": "KNAE217809",
+      "description": "[KNAE217809] 가로무늬꽃등에 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZSEM0017.png",
+    "reference_image_id": "ZSEM0017-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T15:19:02.039790+00:00",
+    "sha256": "e8c91c1771d3b94aa1a33e7b530779b53a849ab5b492d7a8b3cd0d916103cb42"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSEM0017&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:03+00:00",
+    "html_sha256": "29bdf2dc333e58d1f8edd1312181ccfa8a384d16de675063619283783a3c3737",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

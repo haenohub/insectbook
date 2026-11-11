@@ -1,0 +1,114 @@
+{
+  "id": "ZGBF0007",
+  "name_ko": "못뽑이집게벌레",
+  "scientific_name": "Forficula scudderii Bormans, 1880",
+  "display_name": "못뽑이집게벌레",
+  "family_ko": "집게벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "집게벌레목",
+      "name_latin": "Dermaptera"
+    },
+    "family": {
+      "name_ko": "집게벌레과",
+      "name_latin": "Forficulidae"
+    },
+    "genus": {
+      "name_ko": "못뽑이집게벌레속",
+      "name_latin": "Forficula"
+    }
+  },
+  "taxonomy_text": "목 : 집게벌레목 (Dermaptera)\n과 : 집게벌레과 (Forficulidae)\n속 : 못뽑이집게벌레속 (Forficula)",
+  "basic_information": {
+    "곤충명": "못뽑이집게벌레",
+    "학명": "Forficula scudderii Bormans, 1880"
+  },
+  "information": {
+    "general_description": "몸길이는 23 mm 내외이다. 몸은 밤색이며, 머리와 더듬이는 옅은 색이고 편평하며, 배는 중앙부가 가장 넓다. 다리는 황색을 띠고 있다.",
+    "adult": null,
+    "adult_male": "집게가 편평하고 기반부는 폭이 넓은데, 말단 반은 만곡하여 못뽑이 모양을 이룬다.",
+    "adult_female": "집게가 말단으로 갈수록 가늘어져서 진석으로 되었다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국] 동북지방\n[러시아] 동시베리아지역",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 23 mm 내외이다. 몸은 밤색이며, 머리와 더듬이는 옅은 색이고 편평하며, 배는 중앙부가 가장 넓다. 다리는 황색을 띠고 있다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "집게가 편평하고 기반부는 폭이 넓은데, 말단 반은 만곡하여 못뽑이 모양을 이룬다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "집게가 말단으로 갈수록 가늘어져서 진석으로 되었다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국] 동북지방\n[러시아] 동시베리아지역"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZGBF0007-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/G2/ZGBF0007_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/G2/ZGBF0007_2_th.jpg",
+      "alt": "못뽑이집게벌레 1번째 사진 : 못뽑이집게벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/G2/ZGBF0007_2_th2.jpg",
+      "caption": "못뽑이집게벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZGBF0007-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/G2/ZGBF0007_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/G2/ZGBF0007_1_th.jpg",
+      "alt": "못뽑이집게벌레 2번째 사진 : 못뽑이집게벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/G2/ZGBF0007_1_th2.jpg",
+      "caption": "못뽑이집게벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZGBF0007-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303211008",
+      "description": "[KNAE0303211008] 못뽑이집게벌레 1996.01.11 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303211009",
+      "description": "[KNAE0303211009] 못뽑이집게벌레 1996.01.10 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303211010",
+      "description": "[KNAE0303211010] 못뽑이집게벌레 1996.01.09 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZGBF0007-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZGBF0007&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:24+00:00",
+    "html_sha256": "f9a8520274d13cdaea232eacf360d21e0e37036e61c720ca87b2453134cb50c5",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

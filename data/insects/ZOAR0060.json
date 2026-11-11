@@ -1,0 +1,115 @@
+{
+  "id": "ZOAR0060",
+  "name_ko": "남색거위벌레",
+  "scientific_name": "Euops (Parasynaptopsis) splendidus Voss, 1930",
+  "display_name": "남색거위벌레",
+  "family_ko": "거위벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "거위벌레과",
+      "name_latin": "Attelabidae"
+    },
+    "subfamily": {
+      "name_ko": "거위벌레아과",
+      "name_latin": "Attelabinae"
+    },
+    "genus": {
+      "name_ko": "남색거위벌레속",
+      "name_latin": "Euops"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 거위벌레과 (Attelabidae)\n아과 : 거위벌레아과 (Attelabinae)\n속 : 남색거위벌레속 (Euops)",
+  "basic_information": {
+    "곤충명": "남색거위벌레",
+    "학명": "Euops (Parasynaptopsis) splendidus Voss, 1930"
+  },
+  "information": {
+    "general_description": "한국, 일본, 러시아에 분포하며, 체장은 3.5-4.0mm 정도이다. 머리는 작고 겹눈은 크며, 좌우가 상접하고 미두에는 가로주름살이 있고, 머리꼭대기에는 점각이 밀포하였다. 촉각은 적갈색 또는 황색이다. 전흉배판은 바깥가두리가 둥글고 앞쪽이 좁고 중앙 양옆에는 주름이 나선상으로 배열하고 앞뒤 앙면에 접하여 가로 주름살이 있다. 앞날개는 남색, 황색 또는 금록색이고 9줄의 거칠고 큰 점각렬이 있고 그 간실은 평활하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "가시나무를 기주식물로 한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 러시아에 분포하며, 체장은 3.5-4.0mm 정도이다. 머리는 작고 겹눈은 크며, 좌우가 상접하고 미두에는 가로주름살이 있고, 머리꼭대기에는 점각이 밀포하였다. 촉각은 적갈색 또는 황색이다. 전흉배판은 바깥가두리가 둥글고 앞쪽이 좁고 중앙 양옆에는 주름이 나선상으로 배열하고 앞뒤 앙면에 접하여 가로 주름살이 있다. 앞날개는 남색, 황색 또는 금록색이고 9줄의 거칠고 큰 점각렬이 있고 그 간실은 평활하다."
+    },
+    {
+      "title": "생태",
+      "text": "가시나무를 기주식물로 한다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAR0060-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0060_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0060_1_th.jpg",
+      "alt": "남색거위벌레 1번째 사진 : 남색거위벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0060_1_th2.jpg",
+      "caption": "남색거위벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAR0060-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0408082032",
+      "description": "[KUIE0408082032] 남색거위벌레 1934.05.13 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0408082047",
+      "description": "[KUIE0408082047] 남색거위벌레 1983.05.21 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0408082044",
+      "description": "[KUIE0408082044] 남색거위벌레 1974.08.03 / / 고려대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "가시나무",
+      "scientific_name": "Quercus myrsinifolia Blume"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAR0060-1",
+    "reference_review_status": "blocked",
+    "reference_review_reason": "유일한 전체 사진에서 머리와 주둥이 및 다리를 확인할 수 없어 정상 전체 형태를 추정해야 하므로 온전한 사진 확보 전 생성 보류"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAR0060&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:27+00:00",
+    "html_sha256": "ae912008cf58adbff7e15ee4266b787c6df4110b961a95269166f502af9bb272",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

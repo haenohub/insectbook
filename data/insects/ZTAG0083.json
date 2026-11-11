@@ -1,0 +1,118 @@
+{
+  "id": "ZTAG0083",
+  "name_ko": "콕케렐알락꽃벌",
+  "scientific_name": "Nomada calloptera Cockerell, 1918",
+  "display_name": "콕케렐알락꽃벌",
+  "family_ko": "꿀벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "꿀벌과",
+      "name_latin": "Apidae"
+    },
+    "subfamily": {
+      "name_ko": "알락꽃벌아과",
+      "name_latin": "Nomadinae"
+    },
+    "genus": {
+      "name_ko": "알락꽃벌속",
+      "name_latin": "Nomada"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 꿀벌과 (Apidae)\n아과 : 알락꽃벌아과 (Nomadinae)\n속 : 알락꽃벌속 (Nomada)",
+  "basic_information": {
+    "곤충명": "콕케렐알락꽃벌",
+    "학명": "Nomada calloptera Cockerell, 1918"
+  },
+  "information": {
+    "general_description": "암컷의 몸길이는10mm 정도이고, 머리와 가슴은 흑색과 적색의 무늬가 있다. 머리와 가슴에는 털이 적다. 더듬이는 길고 각 마디도 길다. 제3배마디에는 황색 무늬가 없다. 더듬이등면은 암색이고 뒷다리 종아리마디 끝의 가시는 약하고 1개는 길고 하나는 짧다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[감소추세종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷의 몸길이는10mm 정도이고, 머리와 가슴은 흑색과 적색의 무늬가 있다. 머리와 가슴에는 털이 적다. 더듬이는 길고 각 마디도 길다. 제3배마디에는 황색 무늬가 없다. 더듬이등면은 암색이고 뒷다리 종아리마디 끝의 가시는 약하고 1개는 길고 하나는 짧다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[감소추세종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0083-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0083_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0083_2_th.jpg",
+      "alt": "콕케렐알락꽃벌 1번째 사진 : 콕케렐알락꽃벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0083_2_th2.jpg",
+      "caption": "콕케렐알락꽃벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTAG0083-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0083_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0083_1_th.jpg",
+      "alt": "콕케렐알락꽃벌 2번째 사진 : 콕케렐알락꽃벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0083_1_th2.jpg",
+      "caption": "콕케렐알락꽃벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0083-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303251020",
+      "description": "[KNAE0303251020] 콕케렐알락꽃벌 1991.05.30 / / 국립수목원"
+    },
+    {
+      "id": "YNUE0111303057",
+      "description": "[YNUE0111303057] 콕케렐알락꽃벌 1997.05.22 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0111303038",
+      "description": "[YNUE0111303038] 콕케렐알락꽃벌 1978.04.16 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAG0083-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0083&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:29+00:00",
+    "html_sha256": "4909f50b6d28238c212aeb25434929043e48424ae5e007dc70a3fc073ff37a61",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

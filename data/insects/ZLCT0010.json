@@ -1,0 +1,136 @@
+{
+  "id": "ZLCT0010",
+  "name_ko": "참나무노린재",
+  "scientific_name": "Urostylis westwoodii Scott, 1874",
+  "display_name": "참나무노린재",
+  "family_ko": "참나무노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "노린재상과",
+      "name_latin": "Pentatomoidea"
+    },
+    "family": {
+      "name_ko": "참나무노린재과",
+      "name_latin": "Urostylididae"
+    },
+    "subfamily": {
+      "name_ko": "참나무노린재아과",
+      "name_latin": "Urostylidinae"
+    },
+    "genus": {
+      "name_ko": "참나무노린재속",
+      "name_latin": "Urostylis"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 노린재상과 (Pentatomoidea)\n과 : 참나무노린재과 (Urostylididae)\n아과 : 참나무노린재아과 (Urostylidinae)\n속 : 참나무노린재속 (Urostylis)",
+  "basic_information": {
+    "곤충명": "참나무노린재",
+    "학명": "Urostylis westwoodii Scott, 1874"
+  },
+  "information": {
+    "general_description": "몸은 연한 녹색이며, 가늘고 작은 흑색의 점각이 산재한다. 머리는 작고, 점각이 없으며, 겹눈은 흑갈색이고, 홑눈은 서로 접근하여 있고 홍색이다. 더듬이는 길고 연한 녹색이며, 제 1마디가 가장 길고, 제 2마디는 그 다음으로 길며 그 기부의 관절부는 흑색이다. 앞가슴등판의 옆가장자리와 반시초의 전연부는 황록색 내지 연한 백색이고, 막질부는 무색 투명하나 수 개의 연한 흑색의 세로줄이 있다. 몸의 아랫면과 다리는 황록색이나, 노성한 개체에서는 갈색이 되기 쉽다. 종아리마디의 기부는 흑색이며 또 그 말단과 발목마디는 암색이다.",
+    "adult": null,
+    "adult_male": "생식절은 3가지로 돌출했고 그 중앙 돌기는 첨단을 향해서 가늘어졌다.",
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "참나무에서 채집된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸은 연한 녹색이며, 가늘고 작은 흑색의 점각이 산재한다. 머리는 작고, 점각이 없으며, 겹눈은 흑갈색이고, 홑눈은 서로 접근하여 있고 홍색이다. 더듬이는 길고 연한 녹색이며, 제 1마디가 가장 길고, 제 2마디는 그 다음으로 길며 그 기부의 관절부는 흑색이다. 앞가슴등판의 옆가장자리와 반시초의 전연부는 황록색 내지 연한 백색이고, 막질부는 무색 투명하나 수 개의 연한 흑색의 세로줄이 있다. 몸의 아랫면과 다리는 황록색이나, 노성한 개체에서는 갈색이 되기 쉽다. 종아리마디의 기부는 흑색이며 또 그 말단과 발목마디는 암색이다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "생식절은 3가지로 돌출했고 그 중앙 돌기는 첨단을 향해서 가늘어졌다."
+    },
+    {
+      "title": "생태",
+      "text": "참나무에서 채집된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLCT0010-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCT0010_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCT0010_1_th.jpg",
+      "alt": "참나무노린재 1번째 사진 : 참나무노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCT0010_1_th2.jpg",
+      "caption": "참나무노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLCT0010-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0302202138",
+      "description": "[KNAE0302202138] 참나무노린재 1995.06.12 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0302202137",
+      "description": "[KNAE0302202137] 참나무노린재 1994.08.21 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0302202136",
+      "description": "[KNAE0302202136] 참나무노린재 1994.06.08 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "갈참나무",
+      "scientific_name": "Quercus aliena Blume"
+    },
+    {
+      "group": "식물",
+      "name_ko": "느릅나무",
+      "scientific_name": "Ulmus davidiana var. japonica (Rehder) Nakai"
+    },
+    {
+      "group": "식물",
+      "name_ko": "떡갈나무",
+      "scientific_name": "Quercus dentata Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "상수리나무",
+      "scientific_name": "Quercus acutissima Carruth."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLCT0010-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLCT0010&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:49+00:00",
+    "html_sha256": "268e443c7fb0e49e32d2e4c9810cfa6782ae1d83724a6520c778cbd9fda013c1",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

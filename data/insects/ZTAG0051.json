@@ -1,0 +1,126 @@
+{
+  "id": "ZTAG0051",
+  "name_ko": "고동배꼬마꽃벌",
+  "scientific_name": "Lasioglossum (Sphecodogastra) apristum (Vachal, 1903)",
+  "display_name": "고동배꼬마꽃벌",
+  "family_ko": "꼬마꽃벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "꼬마꽃벌과",
+      "name_latin": "Halictidae"
+    },
+    "subfamily": {
+      "name_ko": "꼬마꽃벌아과",
+      "name_latin": "Halictinae"
+    },
+    "genus": {
+      "name_ko": "줄꼬마꽃벌속",
+      "name_latin": "Lasioglossum"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 꼬마꽃벌과 (Halictidae)\n아과 : 꼬마꽃벌아과 (Halictinae)\n속 : 줄꼬마꽃벌속 (Lasioglossum)",
+  "basic_information": {
+    "곤충명": "고동배꼬마꽃벌",
+    "학명": "Lasioglossum (Sphecodogastra) apristum (Vachal, 1903)"
+  },
+  "information": {
+    "general_description": "몸 길이 7mm 정도이다. 몸은 흑색이나 약간 녹색을 띠고 황갈색의 짧은 털이 많은 점각이 밀포한다. 머리방패의 아래쪽과 큰턱의 끝은 적갈색이고 더듬이 사이는 약간 융기하였고 머리방패에 점각이 적다. 더듬이는 암갈색이고 가운데가슴등판에는 3줄의 얕은 세로 도랑이 있다. 날개밑비늘은 황갈색 털이 났고 뒷가슴등판에는 불규칙한 세로 주름이 많다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "여름에 채집된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[감소추세종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸 길이 7mm 정도이다. 몸은 흑색이나 약간 녹색을 띠고 황갈색의 짧은 털이 많은 점각이 밀포한다. 머리방패의 아래쪽과 큰턱의 끝은 적갈색이고 더듬이 사이는 약간 융기하였고 머리방패에 점각이 적다. 더듬이는 암갈색이고 가운데가슴등판에는 3줄의 얕은 세로 도랑이 있다. 날개밑비늘은 황갈색 털이 났고 뒷가슴등판에는 불규칙한 세로 주름이 많다."
+    },
+    {
+      "title": "생태",
+      "text": "여름에 채집된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[감소추세종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0051-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0051_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0051_2_th.jpg",
+      "alt": "고동배꼬마꽃벌 1번째 사진 : 고동배꼬마꽃벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0051_2_th2.jpg",
+      "caption": "고동배꼬마꽃벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTAG0051-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0051_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0051_1_th.jpg",
+      "alt": "고동배꼬마꽃벌 2번째 사진 : 고동배꼬마꽃벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0051_1_th2.jpg",
+      "caption": "고동배꼬마꽃벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0051-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306051152",
+      "description": "[YNUE0306051152] 고동배꼬마꽃벌 1995.08.15 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306262047",
+      "description": "[YNUE0306262047] 고동배꼬마꽃벌 1960.08.05 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306262048",
+      "description": "[YNUE0306262048] 고동배꼬마꽃벌 1974.08.05 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTAG0051.png",
+    "reference_image_id": "ZTAG0051-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T12:17:30.990203+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "616b8093cfabc360061fef199c16b52f8f427290437442ac1ee9c561bd94a783"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0051&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:38+00:00",
+    "html_sha256": "be55af5e34190d3942f429e61de8debcb20351c3f5453837bba91f28e24dac67",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

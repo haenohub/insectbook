@@ -1,0 +1,128 @@
+{
+  "id": "ZMAS0006",
+  "name_ko": "쓰름매미",
+  "scientific_name": "Meimuna mongolica Distant, 1881",
+  "display_name": "쓰름매미",
+  "family_ko": "매미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "매미상과",
+      "name_latin": "Cicadoidea"
+    },
+    "family": {
+      "name_ko": "매미과",
+      "name_latin": "Cicadidae"
+    },
+    "subfamily": {
+      "name_ko": "매미아과",
+      "name_latin": "Cicadinae"
+    },
+    "genus": {
+      "name_ko": "애매미속",
+      "name_latin": "Meimuna"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 매미상과 (Cicadoidea)\n과 : 매미과 (Cicadidae)\n아과 : 매미아과 (Cicadinae)\n속 : 애매미속 (Meimuna)",
+  "basic_information": {
+    "곤충명": "쓰름매미",
+    "학명": "Meimuna mongolica Distant, 1881"
+  },
+  "information": {
+    "general_description": "몸길이: 30-33 mm (산란관 포함).\n애매미보다 초록색 무늬가 더 발달되어 있으며, 제8 배마디가 흰 무늬로 둘려 있다. 아랫면은 녹색을 띠고 있고, 수컷의 배는 반투명하다. 암컷의 산란관이 몸 밖으로 돌출되어 있다. 변이가 심한 종이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "높은 곳에 잘 앉고, 간혹 낮은 곳에서 울기도 한다. 저녁 해질 무렵 가장 활발하다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이: 30-33 mm (산란관 포함).\n애매미보다 초록색 무늬가 더 발달되어 있으며, 제8 배마디가 흰 무늬로 둘려 있다. 아랫면은 녹색을 띠고 있고, 수컷의 배는 반투명하다. 암컷의 산란관이 몸 밖으로 돌출되어 있다. 변이가 심한 종이다."
+    },
+    {
+      "title": "생태",
+      "text": "높은 곳에 잘 앉고, 간혹 낮은 곳에서 울기도 한다. 저녁 해질 무렵 가장 활발하다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMAS0006-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAS0006_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAS0006_2_th.jpg",
+      "alt": "쓰름매미 1번째 사진 : 쓰름매미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAS0006_2_th2.jpg",
+      "caption": "쓰름매미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZMAS0006-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAS0006_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAS0006_1_th.jpg",
+      "alt": "쓰름매미 2번째 사진 : 쓰름매미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAS0006_1_th2.jpg",
+      "caption": "쓰름매미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMAS0006-1",
+  "specimen_examples": [
+    {
+      "id": "GSNE0408242152",
+      "description": "[GSNE0408242152] 쓰름매미 1987.09.01 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0408242153",
+      "description": "[GSNE0408242153] 쓰름매미 1994.08.18 / / 경상대학교"
+    },
+    {
+      "id": "MPME0408191091",
+      "description": "[MPME0408191091] 쓰름매미 2000.07.25 / / 목포자연사박물관"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "비파나무",
+      "scientific_name": "Eriobotrya japonica (Thunb.) Lindl."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZMAS0006-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMAS0006&tabId=tab1",
+    "collected_at": "2026-11-04T14:14:15+00:00",
+    "html_sha256": "9c4ef9c0c7174c11cded8a2c1397203f70a477c838621a5f8e16b5a90f5109f0",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": "ZOGP0007",
+  "name_ko": "이마무늬송장벌레",
+  "scientific_name": "Nicrophorus maculifrons Kraatz, 1877",
+  "display_name": "이마무늬송장벌레",
+  "family_ko": "송장벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "반날개상과",
+      "name_latin": "Staphylinoidea"
+    },
+    "family": {
+      "name_ko": "송장벌레과",
+      "name_latin": "Silphidae"
+    },
+    "subfamily": {
+      "name_ko": "검정송장벌레아과",
+      "name_latin": "Nicrophorinae"
+    },
+    "genus": {
+      "name_ko": "송장벌레속",
+      "name_latin": "Nicrophorus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 반날개상과 (Staphylinoidea)\n과 : 송장벌레과 (Silphidae)\n아과 : 검정송장벌레아과 (Nicrophorinae)\n속 : 송장벌레속 (Nicrophorus)",
+  "basic_information": {
+    "곤충명": "이마무늬송장벌레",
+    "학명": "Nicrophorus maculifrons Kraatz, 1877"
+  },
+  "information": {
+    "general_description": "한국, 일본, 중국, 시베리아에 분포하며, 체장은 18mm 내외이다. 몸은 흑색이고 머리꼭대기에는 아주 가는 점각이 드물게 있고 중앙에 홍색의 한 개 원무늬가 있다. 그 양쪽에 활 모양의 종구가 있다. 촉각은 흑갈색이고 밑마디의 기부와 말단은 적갈색이고 말단의 네마디는 팽대하고 그 중의 세마디는 등황색이며 머리방패의 앞가두리와 윗입술은 흑갈색이고 윗입술의 앞가두리 중앙은 만곡하였다. 딱지날개에는 점각이 밀포하고 두줄의 종융이 있고 날개끝은 절단상으로 되고 배끝 세마디는 노출하였다. 몸 아랫면의 가슴부에는 황색 긴 털이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 중국, 시베리아에 분포하며, 체장은 18mm 내외이다. 몸은 흑색이고 머리꼭대기에는 아주 가는 점각이 드물게 있고 중앙에 홍색의 한 개 원무늬가 있다. 그 양쪽에 활 모양의 종구가 있다. 촉각은 흑갈색이고 밑마디의 기부와 말단은 적갈색이고 말단의 네마디는 팽대하고 그 중의 세마디는 등황색이며 머리방패의 앞가두리와 윗입술은 흑갈색이고 윗입술의 앞가두리 중앙은 만곡하였다. 딱지날개에는 점각이 밀포하고 두줄의 종융이 있고 날개끝은 절단상으로 되고 배끝 세마디는 노출하였다. 몸 아랫면의 가슴부에는 황색 긴 털이 있다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGP0007-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0007_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0007_2_th.jpg",
+      "alt": "이마무늬송장벌레 1번째 사진 : 이마무늬송장벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0007_2_th2.jpg",
+      "caption": "이마무늬송장벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOGP0007-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0007_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0007_1_th.jpg",
+      "alt": "이마무늬송장벌레 2번째 사진 : 이마무늬송장벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0007_1_th2.jpg",
+      "caption": "이마무늬송장벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGP0007-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0408111073",
+      "description": "[UIBE0408111073] 이마무늬송장벌레 2000.07.04 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0408111074",
+      "description": "[UIBE0408111074] 이마무늬송장벌레 1994.09.19 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0408111075",
+      "description": "[UIBE0408111075] 이마무늬송장벌레 1999.08.24 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGP0007-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGP0007&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:29+00:00",
+    "html_sha256": "ddcae9bcd58725a997f18840f19d79a485d1029f5f0da330f93ccb02997c1387",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

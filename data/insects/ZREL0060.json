@@ -1,0 +1,107 @@
+{
+  "id": "ZREL0060",
+  "name_ko": "멋장이들명나방",
+  "scientific_name": "Circobotys aurealis (Leech, 1889)",
+  "display_name": "멋장이들명나방",
+  "family_ko": "풀명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "풀명나방과",
+      "name_latin": "Crambidae"
+    },
+    "subfamily": {
+      "name_ko": "들명나방아과",
+      "name_latin": "Pyraustinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Circobotys"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 풀명나방과 (Crambidae)\n아과 : 들명나방아과 (Pyraustinae)\n속 : (Circobotys)",
+  "basic_information": {
+    "곤충명": "멋장이들명나방",
+    "학명": "Circobotys aurealis (Leech, 1889)"
+  },
+  "information": {
+    "general_description": "날개 길이 30-33 mm. 수컷은 외연부와 연모 및 후연만이 황색을 띠며, 날개의 나머지 부분은 황갈색이다. 수컷의 앞날개는 좁고 길며, 날개 끝이 뾰족하고, 외연은 심히 경사져 있다. 뒷날개는 외연의 중앙부가 심하게 함입되었고, 후연은 다소 팽대되어 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대한민국] 경기도\n[대한민국] 경상남도\n[일본]\n[러시아] 우랄지역",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개 길이 30-33 mm. 수컷은 외연부와 연모 및 후연만이 황색을 띠며, 날개의 나머지 부분은 황갈색이다. 수컷의 앞날개는 좁고 길며, 날개 끝이 뾰족하고, 외연은 심히 경사져 있다. 뒷날개는 외연의 중앙부가 심하게 함입되었고, 후연은 다소 팽대되어 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대한민국] 경기도\n[대한민국] 경상남도\n[일본]\n[러시아] 우랄지역"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0060-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0060_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0060_1_th.jpg",
+      "alt": "멋장이들명나방 1번째 사진 : 멋장이들명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0060_1_th2.jpg",
+      "caption": "멋장이들명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0060-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE100133",
+      "description": "[KNAE100133] 멋장이들명나방 / / 국립수목원"
+    },
+    {
+      "id": "FRIE0305011016",
+      "description": "[FRIE0305011016] 멋장이들명나방 1998.07.08 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0302181033",
+      "description": "[FRIE0302181033] 멋장이들명나방 1997.05.08 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREL0060-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0060&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:06+00:00",
+    "html_sha256": "0f42bfb2425facd0fba50cfb42a80abca59d3d598ea192fd49710b13a11b2637",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

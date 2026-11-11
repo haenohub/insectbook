@@ -1,0 +1,99 @@
+{
+  "id": "ZOAM0041",
+  "name_ko": "넓은가슴애기소바구미",
+  "scientific_name": "Uncifer truncatus (Sharp, 1891)",
+  "display_name": "넓은가슴애기소바구미",
+  "family_ko": "소바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "소바구미과",
+      "name_latin": "Anthribidae"
+    },
+    "subfamily": {
+      "name_ko": "소바구미아과",
+      "name_latin": "Anthribinae"
+    },
+    "genus": {
+      "name_ko": "애기소바구미속",
+      "name_latin": "Uncifer"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 소바구미과 (Anthribidae)\n아과 : 소바구미아과 (Anthribinae)\n속 : 애기소바구미속 (Uncifer)",
+  "basic_information": {
+    "곤충명": "넓은가슴애기소바구미",
+    "학명": "Uncifer truncatus (Sharp, 1891)"
+  },
+  "information": {
+    "general_description": "몸길이는 2.6mm이며 몸색깔은 흑색이며 회백색의 얼룩덜룩한 무늬를 앞가슴등판과 앞날개에 가진다. 앞가슴 등판에 융기선은 부드럽게 꺾여있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 2.6mm이며 몸색깔은 흑색이며 회백색의 얼룩덜룩한 무늬를 앞가슴등판과 앞날개에 가진다. 앞가슴 등판에 융기선은 부드럽게 꺾여있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAM0041-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0041_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0041_1_th.jpg",
+      "alt": "넓은가슴애기소바구미 1번째 사진 : 넓은가슴애기소바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0041_1_th2.jpg",
+      "caption": "넓은가슴애기소바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAM0041-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0203071033",
+      "description": "[SNUE0203071033] 넓은가슴애기소바구미 1984.08.10 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOAM0041.png",
+    "reference_image_id": "ZOAM0041-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T10:01:11.348122+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "8c6cf6535c2d0f2cb4d8765c27727365676e5bf83f032b68e0d692314209e0ba"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAM0041&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:37+00:00",
+    "html_sha256": "f49f06432d349609e1a221103506692d7e7ffc67e986110b84e8f05888816e52",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

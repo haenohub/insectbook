@@ -1,0 +1,178 @@
+{
+  "id": "ZRDU0085",
+  "name_ko": "재주나방",
+  "scientific_name": "Stauropus fagi (Linnaeus, 1758)",
+  "display_name": "재주나방",
+  "family_ko": "재주나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "재주나방과",
+      "name_latin": "Notodontidae"
+    },
+    "subfamily": {
+      "name_ko": "꽃무늬재주나방아과",
+      "name_latin": "Dicranurinae"
+    },
+    "genus": {
+      "name_ko": "꽃무늬재주나방속",
+      "name_latin": "Stauropus"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 재주나방과 (Notodontidae)\n아과 : 꽃무늬재주나방아과 (Dicranurinae)\n속 : 꽃무늬재주나방속 (Stauropus)",
+  "basic_information": {
+    "곤충명": "재주나방",
+    "학명": "Stauropus fagi (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "성충의 날개는 암갈색이다.",
+    "adult": null,
+    "adult_male": "앞날개 길이는 25 mm 정도이다.",
+    "adult_female": "앞날개 길이는 30 mm 정도이다.",
+    "larva": "유충의 체장은 45 mm 정도이고 황갈색이며 정지하여 있을 때는 흉각(胸脚)을 접고 있으며 머리와 꼬리 부분을 위로 들고 있다.",
+    "egg": null,
+    "pupa": null,
+    "ecology": "연 2회 발생하며 성충은 5~8월에, 유충은 5~7월과 9월에 나타난다. 노숙한 유충은 땅으로 내려와 엉성한 고치를 짓고 번데기가 되어 월동한다.",
+    "habits": "유충이 잎의 주맥(主脈)만 남기고 식해하며, 유충의 체색이 줄기의 색과 비슷하여 쉽게 발견되지 않는다.",
+    "season": null,
+    "overwintering": "번데기",
+    "distribution": "[러시아]\n[중국]\n[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충의 날개는 암갈색이다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "앞날개 길이는 25 mm 정도이다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "앞날개 길이는 30 mm 정도이다."
+    },
+    {
+      "title": "유충",
+      "text": "유충의 체장은 45 mm 정도이고 황갈색이며 정지하여 있을 때는 흉각(胸脚)을 접고 있으며 머리와 꼬리 부분을 위로 들고 있다."
+    },
+    {
+      "title": "생태",
+      "text": "연 2회 발생하며 성충은 5~8월에, 유충은 5~7월과 9월에 나타난다. 노숙한 유충은 땅으로 내려와 엉성한 고치를 짓고 번데기가 되어 월동한다."
+    },
+    {
+      "title": "습성",
+      "text": "유충이 잎의 주맥(主脈)만 남기고 식해하며, 유충의 체색이 줄기의 색과 비슷하여 쉽게 발견되지 않는다."
+    },
+    {
+      "title": "월동",
+      "text": "번데기"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDU0085-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0085_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0085_2_th.jpg",
+      "alt": "재주나방 1번째 사진 : 재주나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0085_2_th2.jpg",
+      "caption": "재주나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDU0085-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0085_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0085_1_th.jpg",
+      "alt": "재주나방 2번째 사진 : 재주나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0085_1_th2.jpg",
+      "caption": "재주나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDU0085-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0211062117",
+      "description": "[YNUE0211062117] 재주나방 1997.05.03 / / 영남대학교"
+    },
+    {
+      "id": "KNAE0301092048",
+      "description": "[KNAE0301092048] 재주나방 1991.07.10 / / 국립수목원"
+    },
+    {
+      "id": "GSNE0301161029",
+      "description": "[GSNE0301161029] 재주나방 2001.04.28 / / 경상대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "밤나무",
+      "scientific_name": "Castanea crenata Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "벚나무",
+      "scientific_name": "Prunus serrulata f. spontanea (Maxim.) Chin S.Chang"
+    },
+    {
+      "group": "식물",
+      "name_ko": "사과나무",
+      "scientific_name": "Malus domestica (Suckow) Borkh."
+    },
+    {
+      "group": "식물",
+      "name_ko": "상수리나무",
+      "scientific_name": "Quercus acutissima Carruth."
+    },
+    {
+      "group": "식물",
+      "name_ko": "싸리",
+      "scientific_name": "Lespedeza bicolor Turcz."
+    },
+    {
+      "group": "식물",
+      "name_ko": "오리나무",
+      "scientific_name": "Alnus japonica (Thunb.) Steud."
+    },
+    {
+      "group": "식물",
+      "name_ko": "졸참나무",
+      "scientific_name": "Quercus serrata Murray"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDU0085-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDU0085&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:11+00:00",
+    "html_sha256": "cbb65a9e982f55ed7a15a2e78ac778d893af262028c1fb52b0716043ffac96c1",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

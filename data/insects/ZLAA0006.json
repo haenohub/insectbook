@@ -1,0 +1,126 @@
+{
+  "id": "ZLAA0006",
+  "name_ko": "긴가위뿔노린재",
+  "scientific_name": "Acanthosoma labiduroides Jakovlev, 1880",
+  "display_name": "긴가위뿔노린재",
+  "family_ko": "뿔노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "노린재상과",
+      "name_latin": "Pentatomoidea"
+    },
+    "family": {
+      "name_ko": "뿔노린재과",
+      "name_latin": "Acanthosomatidae"
+    },
+    "subfamily": {
+      "name_ko": "뿔노린재아과",
+      "name_latin": "Acanthosomatinae"
+    },
+    "genus": {
+      "name_ko": "뿔노린재속",
+      "name_latin": "Acanthosoma"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 노린재상과 (Pentatomoidea)\n과 : 뿔노린재과 (Acanthosomatidae)\n아과 : 뿔노린재아과 (Acanthosomatinae)\n속 : 뿔노린재속 (Acanthosoma)",
+  "basic_information": {
+    "곤충명": "긴가위뿔노린재",
+    "학명": "Acanthosoma labiduroides Jakovlev, 1880"
+  },
+  "information": {
+    "general_description": "몸길이 : 16.5-19mm\n암·수간 체형이 뚜렷하게 구별되는 다형현상을 가진다. 몸의 등면은 청록색 또는 선명한 초록색을 띤다.\n광택이 있고, 검은 점각이 산재한다. 앞날개의 막질부는 투명하며 적갈색을 띤다.",
+    "adult": null,
+    "adult_male": "생식기는 가위 모양으로 1쌍의 돌기가 다소 평행을 이루며 후방으로 길게 돌출하였다.",
+    "adult_female": "배 끝이 단순하다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대만]\n[중국]\n[일본]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 16.5-19mm\n암·수간 체형이 뚜렷하게 구별되는 다형현상을 가진다. 몸의 등면은 청록색 또는 선명한 초록색을 띤다.\n광택이 있고, 검은 점각이 산재한다. 앞날개의 막질부는 투명하며 적갈색을 띤다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "생식기는 가위 모양으로 1쌍의 돌기가 다소 평행을 이루며 후방으로 길게 돌출하였다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "배 끝이 단순하다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대만]\n[중국]\n[일본]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLAA0006-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAA0006_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAA0006_2_th.jpg",
+      "alt": "긴가위뿔노린재 1번째 사진 : 긴가위뿔노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAA0006_2_th2.jpg",
+      "caption": "긴가위뿔노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZLAA0006-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAA0006_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAA0006_1_th.jpg",
+      "alt": "긴가위뿔노린재 2번째 사진 : 긴가위뿔노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAA0006_1_th2.jpg",
+      "caption": "긴가위뿔노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLAA0006-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0305031018",
+      "description": "[KPNE0305031018] 긴가위뿔노린재 2001.05.21 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0305031019",
+      "description": "[KPNE0305031019] 긴가위뿔노린재 2001.05.18 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0305031022",
+      "description": "[KPNE0305031022] 긴가위뿔노린재 1997.06.21 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZLAA0006.png",
+    "reference_image_id": "ZLAA0006-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T15:18:19.361895+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "a228be5517825b490a07fca2515e16a07d3c2db1b86cacad5a1506c2443085ca"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLAA0006&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:52+00:00",
+    "html_sha256": "cf98ae4fea31c37710816ed4b0041e58a64bc54a792764a8a358f78e666da6d8",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

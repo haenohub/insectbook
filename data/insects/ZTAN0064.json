@@ -1,0 +1,107 @@
+{
+  "id": "ZTAN0064",
+  "name_ko": "명충살이고치벌",
+  "scientific_name": "Bracon (Bracon) onukii Watanabe, 1932",
+  "display_name": "명충살이고치벌",
+  "family_ko": "고치벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "고치벌과",
+      "name_latin": "Braconidae"
+    },
+    "subfamily": {
+      "name_ko": "고치벌아과",
+      "name_latin": "Braconinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Bracon"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 고치벌과 (Braconidae)\n아과 : 고치벌아과 (Braconinae)\n속 : (Bracon)",
+  "basic_information": {
+    "곤충명": "명충살이고치벌",
+    "학명": "Bracon (Bracon) onukii Watanabe, 1932"
+  },
+  "information": {
+    "general_description": "몸길이는 2-4mm이고, 더듬이는 33-40마디이다. 몸은 대체로 황적색이고 , 정수리, 뒷가슴 등판, 산란관 등에는 흑색 무늬들이 있다. 머리방패는 함몰되어 있다. 이 고치벌은 몸의 크기와 조각, 체색 등에서 상당한 변이를 나타낸다. 몸의 흑색무늬는 개체에 따라 아주다양하고, 일반적으로 암컷에서 보다 수컷에서 흑색을 많이 띤다. 고치는 흰색으로 얇고 , 반투명하며, 실린더 모양이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "이화명나방, 벼밤나방, 조회색명나방의 유충에 기생한다, 년2회 발생하며, 식물의 줄기 속에서 고치로 월동하고, 숙주곤충 당 평균 4마리가 기생한다. 성충의 수명이 평균 암컷은 5.2일, 수컷은 3.9일",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 2-4mm이고, 더듬이는 33-40마디이다. 몸은 대체로 황적색이고 , 정수리, 뒷가슴 등판, 산란관 등에는 흑색 무늬들이 있다. 머리방패는 함몰되어 있다. 이 고치벌은 몸의 크기와 조각, 체색 등에서 상당한 변이를 나타낸다. 몸의 흑색무늬는 개체에 따라 아주다양하고, 일반적으로 암컷에서 보다 수컷에서 흑색을 많이 띤다. 고치는 흰색으로 얇고 , 반투명하며, 실린더 모양이다."
+    },
+    {
+      "title": "생태",
+      "text": "이화명나방, 벼밤나방, 조회색명나방의 유충에 기생한다, 년2회 발생하며, 식물의 줄기 속에서 고치로 월동하고, 숙주곤충 당 평균 4마리가 기생한다. 성충의 수명이 평균 암컷은 5.2일, 수컷은 3.9일"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAN0064-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAN0064_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAN0064_1_th.jpg",
+      "alt": "명충살이고치벌 1번째 사진 : 명충살이고치벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAN0064_1_th2.jpg",
+      "caption": "명충살이고치벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAN0064-1",
+  "specimen_examples": [
+    {
+      "id": "GSNE0408302010",
+      "description": "[GSNE0408302010] 명충살이고치벌 1998.08.22 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0408302011",
+      "description": "[GSNE0408302011] 명충살이고치벌 1998.07.11 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0408302013",
+      "description": "[GSNE0408302013] 명충살이고치벌 1998.06.18 / / 경상대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAN0064-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAN0064&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:13+00:00",
+    "html_sha256": "39c0c9e78b21285e6f7ee8049d82c672edf051aa4ae96ca9af0f506378214a68",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

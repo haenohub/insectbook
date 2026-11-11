@@ -1,0 +1,126 @@
+{
+  "id": "ZLBX0034",
+  "name_ko": "배둥글노린재",
+  "scientific_name": "Eysarcoris ventralis (Westwood, 1837)",
+  "display_name": "배둥글노린재",
+  "family_ko": "노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "노린재상과",
+      "name_latin": "Pentatomoidea"
+    },
+    "family": {
+      "name_ko": "노린재과",
+      "name_latin": "Pentatomidae"
+    },
+    "subfamily": {
+      "name_ko": "노린재아과",
+      "name_latin": "Pentatominae"
+    },
+    "genus": {
+      "name_ko": "둥글노린재속",
+      "name_latin": "Eysarcoris"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 노린재상과 (Pentatomoidea)\n과 : 노린재과 (Pentatomidae)\n아과 : 노린재아과 (Pentatominae)\n속 : 둥글노린재속 (Eysarcoris)",
+  "basic_information": {
+    "곤충명": "배둥글노린재",
+    "학명": "Eysarcoris ventralis (Westwood, 1837)"
+  },
+  "information": {
+    "general_description": "몸길이 : 5-7mm\n몸의 등면은 연한 회갈색에 흑색의 점각이 산포되어 있다. 머리는 흑색이며 약간 자주색의 광택이 있다. 더듬이는 연한 갈색으로 5마디이고, 끝으로 향해서 점점 색이 짙어지며 제 5마디가 가장 길다. 앞가슴등판은 앞가장자리부분의 양쪽에 두 개의 흑색 무늬가 있고 앞옆가장자리는 황백색이며 그 앞끝은 예리하게 돌출했다. 작은방패판 기부 양쪽에 작은 황백색 무늬가 있다. 반시초는 단색이며, 막질부는 투명하고약간 갈색을 띤다. 가슴의 아랫면은 연한 갈색이고 옆가장자리에 가까운 부분에 흑색의 점각이 많고, 배의 아랫면은 대부분 보라흑색이며 옆가장자리만이 연한 갈색이다. 각 마디 뒷가장자리의 양 끝부분에 작은 흑색 무늬가 있다. 다리는 연한 갈색에 암갈색의 작은 흑색 무늬가 드물게 분포했다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "월동한 성충은 이른 봄부터 활동을 시작한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": "성충으로 월동",
+    "distribution": "[일본]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 5-7mm\n몸의 등면은 연한 회갈색에 흑색의 점각이 산포되어 있다. 머리는 흑색이며 약간 자주색의 광택이 있다. 더듬이는 연한 갈색으로 5마디이고, 끝으로 향해서 점점 색이 짙어지며 제 5마디가 가장 길다. 앞가슴등판은 앞가장자리부분의 양쪽에 두 개의 흑색 무늬가 있고 앞옆가장자리는 황백색이며 그 앞끝은 예리하게 돌출했다. 작은방패판 기부 양쪽에 작은 황백색 무늬가 있다. 반시초는 단색이며, 막질부는 투명하고약간 갈색을 띤다. 가슴의 아랫면은 연한 갈색이고 옆가장자리에 가까운 부분에 흑색의 점각이 많고, 배의 아랫면은 대부분 보라흑색이며 옆가장자리만이 연한 갈색이다. 각 마디 뒷가장자리의 양 끝부분에 작은 흑색 무늬가 있다. 다리는 연한 갈색에 암갈색의 작은 흑색 무늬가 드물게 분포했다."
+    },
+    {
+      "title": "생태",
+      "text": "월동한 성충은 이른 봄부터 활동을 시작한다."
+    },
+    {
+      "title": "월동",
+      "text": "성충으로 월동"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLBX0034-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0034_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0034_1_th.jpg",
+      "alt": "배둥글노린재 1번째 사진 : 배둥글노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0034_1_th2.jpg",
+      "caption": "배둥글노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLBX0034-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0408091016",
+      "description": "[KNAE0408091016] 배둥글노린재 2002.09.09 / / 국립수목원"
+    },
+    {
+      "id": "YNUE0212186124",
+      "description": "[YNUE0212186124] 배둥글노린재 1986.06.25 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0212186133",
+      "description": "[YNUE0212186133] 배둥글노린재 1986.06.16 / / 영남대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "감나무",
+      "scientific_name": "Diospyros kaki Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "포아풀",
+      "scientific_name": "Poa sphondylodes Trin."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLBX0034-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLBX0034&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:25+00:00",
+    "html_sha256": "cbc27f66703a5e82991a2a56337d9aca8fc7e6111f3517982bf555835c03a817",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

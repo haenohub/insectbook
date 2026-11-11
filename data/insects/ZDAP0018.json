@@ -1,0 +1,99 @@
+{
+  "id": "ZDAP0018",
+  "name_ko": "붉은좀잠자리",
+  "scientific_name": "Sympetrum flaveolum (Linnaeus, 1758)",
+  "display_name": "붉은좀잠자리",
+  "family_ko": "잠자리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "잠자리목",
+      "name_latin": "Odonata"
+    },
+    "family": {
+      "name_ko": "잠자리과",
+      "name_latin": "Libellulidae"
+    },
+    "subfamily": {
+      "name_ko": "고추잠자리아과",
+      "name_latin": "Sympetrinae"
+    },
+    "genus": {
+      "name_ko": "좀잠자리속",
+      "name_latin": "Sympetrum"
+    }
+  },
+  "taxonomy_text": "목 : 잠자리목 (Odonata)\n과 : 잠자리과 (Libellulidae)\n아과 : 고추잠자리아과 (Sympetrinae)\n속 : 좀잠자리속 (Sympetrum)",
+  "basic_information": {
+    "곤충명": "붉은좀잠자리",
+    "학명": "Sympetrum flaveolum (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "배길이 23mm, 뒷날개길이 27mm. 머리는 적색이고 아랫입술의 가운대조각과 옆조각의 안쪽이 흑색이며 가슴은 암정색이고 제1측봉선의 하반과 2측봉선은 흑색이며 다리도 대부분이 흑색이나 밑마디, 도래마디, 허벅다리 바깥의 가는 줄, 종아리마디 바깥쪽은 황색임. 날개는 투명하고 가두리무늬는 황색이며 앞날개는 밑에서 3각방에 이르는 사이, 뒷날개는 밑에서 가운데맥분지의 부근까지 황색임. 배, 등쪽은 적색인데 8~9마디 정중선은 흑색이고 옆면에서 배쪽까지 흑색이나 이 부분에 불규칙 무늬가 있음. 미부 부속기는 흑색이나 등쪽은 땅색임.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "배길이 23mm, 뒷날개길이 27mm. 머리는 적색이고 아랫입술의 가운대조각과 옆조각의 안쪽이 흑색이며 가슴은 암정색이고 제1측봉선의 하반과 2측봉선은 흑색이며 다리도 대부분이 흑색이나 밑마디, 도래마디, 허벅다리 바깥의 가는 줄, 종아리마디 바깥쪽은 황색임. 날개는 투명하고 가두리무늬는 황색이며 앞날개는 밑에서 3각방에 이르는 사이, 뒷날개는 밑에서 가운데맥분지의 부근까지 황색임. 배, 등쪽은 적색인데 8~9마디 정중선은 흑색이고 옆면에서 배쪽까지 흑색이나 이 부분에 불규칙 무늬가 있음. 미부 부속기는 흑색이나 등쪽은 땅색임."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZDAP0018-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0018_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0018_1_th.jpg",
+      "alt": "붉은좀잠자리 1번째 사진 : 붉은좀잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0018_1_th2.jpg",
+      "caption": "붉은좀잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZDAP0018-1",
+  "specimen_examples": [
+    {
+      "id": "CBNE0306171033",
+      "description": "[CBNE0306171033] 붉은좀잠자리 2002.07.31 / / 충북대학교"
+    },
+    {
+      "id": "YNUE0211182007",
+      "description": "[YNUE0211182007] 붉은좀잠자리 2002.06.03 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0112182002",
+      "description": "[YNUE0112182002] 붉은좀잠자리 1997.08.15 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZDAP0018-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZDAP0018&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:53+00:00",
+    "html_sha256": "6f509d8aa14360c373d93b1af866bc42aa1b639bfabc2ce040a74360880de0b1",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

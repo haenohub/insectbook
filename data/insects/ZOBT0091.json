@@ -1,0 +1,111 @@
+{
+  "id": "ZOBT0091",
+  "name_ko": "십사점통잎벌레",
+  "scientific_name": "Cryptocephalus (Cryptocephalus) tetradecaspilotus Baly, 1873",
+  "display_name": "십사점통잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "통잎벌레아과",
+      "name_latin": "Cryptocephalinae"
+    },
+    "genus": {
+      "name_ko": "통잎벌레속",
+      "name_latin": "Cryptocephalus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 통잎벌레아과 (Cryptocephalinae)\n속 : 통잎벌레속 (Cryptocephalus)",
+  "basic_information": {
+    "곤충명": "십사점통잎벌레",
+    "학명": "Cryptocephalus (Cryptocephalus) tetradecaspilotus Baly, 1873"
+  },
+  "information": {
+    "general_description": "몸길이는 3.7~4.7mm, 다리와 등판은 황갈색. 복부는 흑색. 앞가슴등판은 2쌍의 무늬와 강한 점각. 윗날개 규칙적 열상의 점각. 한국(중부,남부), 일본(혼슈,시코쿠,큐슈), 중국(중부,남부,대만)에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 습지에 7~8월에 활동하며, 산란도 한다. 유충은 싸리류의 잎또는 낙엽을 먹는다.",
+    "habits": "기주식물 싸리류, 진퍼리까치 수영.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 3.7~4.7mm, 다리와 등판은 황갈색. 복부는 흑색. 앞가슴등판은 2쌍의 무늬와 강한 점각. 윗날개 규칙적 열상의 점각. 한국(중부,남부), 일본(혼슈,시코쿠,큐슈), 중국(중부,남부,대만)에 분포되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 습지에 7~8월에 활동하며, 산란도 한다. 유충은 싸리류의 잎또는 낙엽을 먹는다."
+    },
+    {
+      "title": "습성",
+      "text": "기주식물 싸리류, 진퍼리까치 수영."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0091-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0091_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0091_1_th.jpg",
+      "alt": "십사점통잎벌레 1번째 사진 : 십사점통잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0091_1_th2.jpg",
+      "caption": "십사점통잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0091-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0304221023",
+      "description": "[FRIE0304221023] 십사점통잎벌레 1995.07.25 / / 국립산림과학원"
+    },
+    {
+      "id": "JFNE0407131043",
+      "description": "[JFNE0407131043] 십사점통잎벌레 1982.07.17 / / 제주자연사박물관"
+    },
+    {
+      "id": "KPNE0607251081",
+      "description": "[KPNE0607251081] 십사점통잎벌레 1984.07.18 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0091-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0091&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:51+00:00",
+    "html_sha256": "c169a519815e504ff13fc715239ed70799852486a4f091d9d69a648f0d2571d9",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "ZRCI0354",
+  "name_ko": "고운날개가지나방",
+  "scientific_name": "Oxymacaria normata (Alphèraky, 1892)",
+  "display_name": "고운날개가지나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "가지나방아과",
+      "name_latin": "Ennominae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Oxymacaria"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 가지나방아과 (Ennominae)\n속 : (Oxymacaria)",
+  "basic_information": {
+    "곤충명": "고운날개가지나방",
+    "학명": "Oxymacaria normata (Alphèraky, 1892)"
+  },
+  "information": {
+    "general_description": "더듬이는 수컷이 실 모양의 짧은 미모가 있고, 암컷은 실 모양임. 날개는 가늘고 길며 백색기가 돔. 회백색 혹은 회갈색의 짧은 선이 산재하며, 외횡선보다 외연은 갈색을 띰. 횡선은 갈색이며 각 횡선의 출발점과 아외연선의 안쪽은 전연에서 갈색 무늬를 형성함. 앞날개의 내횡선은 휘어져 있음.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 ５월과 ８월에 출현함．",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 수컷이 실 모양의 짧은 미모가 있고, 암컷은 실 모양임. 날개는 가늘고 길며 백색기가 돔. 회백색 혹은 회갈색의 짧은 선이 산재하며, 외횡선보다 외연은 갈색을 띰. 횡선은 갈색이며 각 횡선의 출발점과 아외연선의 안쪽은 전연에서 갈색 무늬를 형성함. 앞날개의 내횡선은 휘어져 있음."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 ５월과 ８월에 출현함．"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0354-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0354_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0354_1_th.jpg",
+      "alt": "고운날개가지나방 1번째 사진 : 고운날개가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0354_1_th2.jpg",
+      "caption": "고운날개가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0354-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0302181056",
+      "description": "[FRIE0302181056] 고운날개가지나방 1987.05.12 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0301111005",
+      "description": "[KNAE0301111005] 고운날개가지나방 1991.07.19 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0301131017",
+      "description": "[KNAE0301131017] 고운날개가지나방 1991.08.07 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRCI0354.png",
+    "reference_image_id": "ZRCI0354-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T12:42:47.127051+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "d8b02852888a30574b4f9af960309aea784bed14a2ea33c92e1747a6b9b6efe7"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0354&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:55+00:00",
+    "html_sha256": "594e5bb439924be099d27ae8f5eebd95b84a347e1c0812ccd037e0f7ae2908e1",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

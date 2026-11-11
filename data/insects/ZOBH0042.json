@@ -1,0 +1,114 @@
+{
+  "id": "ZOBH0042",
+  "name_ko": "지리조롱박딱정벌레",
+  "scientific_name": "Acoptolabrus leechi chiricola (Kwon & Lee, 1984)",
+  "display_name": "지리조롱박딱정벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "딱정벌레아과",
+      "name_latin": "Carabinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Acoptolabrus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 딱정벌레아과 (Carabinae)\n속 : (Acoptolabrus)",
+  "basic_information": {
+    "곤충명": "지리조롱박딱정벌레",
+    "학명": "Acoptolabrus leechi chiricola (Kwon & Lee, 1984)"
+  },
+  "information": {
+    "general_description": "몸길이는 수컷은 24m 암컷은 28~31mm이며, 앞가슴 등판은 일반적으로 강한 주름이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "포식성이며, 달팽이등을 잡아 먹는다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[포식성]\n[한국고유종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 수컷은 24m 암컷은 28~31mm이며, 앞가슴 등판은 일반적으로 강한 주름이 있다."
+    },
+    {
+      "title": "생태",
+      "text": "포식성이며, 달팽이등을 잡아 먹는다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[포식성]\n[한국고유종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0042-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0042_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0042_2_th.jpg",
+      "alt": "지리조롱박딱정벌레 1번째 사진 : 지리조롱박딱정벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0042_2_th2.jpg",
+      "caption": "지리조롱박딱정벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0042-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0042_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0042_1_th.jpg",
+      "alt": "지리조롱박딱정벌레 2번째 사진 : 지리조롱박딱정벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0042_1_th2.jpg",
+      "caption": "지리조롱박딱정벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0042-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0301251018",
+      "description": "[KPNE0301251018] 지리조롱박딱정벌레 1988.09.08 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0301251019",
+      "description": "[KPNE0301251019] 지리조롱박딱정벌레 1983.07.06 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0301251020",
+      "description": "[KPNE0301251020] 지리조롱박딱정벌레 1983.07.06 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0042-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0042&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:30+00:00",
+    "html_sha256": "82c6284a7a55f0a4e70d35397cf99bd5335805e410468d9221d7bf90e1e9a951",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

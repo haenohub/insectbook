@@ -1,0 +1,103 @@
+{
+  "id": "ZOAR0062",
+  "name_ko": "자작장다리거위벌레",
+  "scientific_name": "Henicolabus (Allolabus) lewisii (Sharp, 1889)",
+  "display_name": "자작장다리거위벌레",
+  "family_ko": "거위벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "거위벌레과",
+      "name_latin": "Attelabidae"
+    },
+    "subfamily": {
+      "name_ko": "거위벌레아과",
+      "name_latin": "Attelabinae"
+    },
+    "genus": {
+      "name_ko": "볼록눈거위벌레속",
+      "name_latin": "Henicolabus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 거위벌레과 (Attelabidae)\n아과 : 거위벌레아과 (Attelabinae)\n속 : 볼록눈거위벌레속 (Henicolabus)",
+  "basic_information": {
+    "곤충명": "자작장다리거위벌레",
+    "학명": "Henicolabus (Allolabus) lewisii (Sharp, 1889)"
+  },
+  "information": {
+    "general_description": "몸길이는 4.8~6mm 이며 두부와 다리는 청남색이고 앞가슴등판과 앞다리 퇴절, 딱지날개는 진한갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]",
+    "notes": "[산림해충]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 4.8~6mm 이며 두부와 다리는 청남색이고 앞가슴등판과 앞다리 퇴절, 딱지날개는 진한갈색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAR0062-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0062_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0062_1_th.jpg",
+      "alt": "자작장다리거위벌레 1번째 사진 : 자작장다리거위벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0062_1_th2.jpg",
+      "caption": "자작장다리거위벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAR0062-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0303311009",
+      "description": "[FRIE0303311009] 자작장다리거위벌레 1984.05.18 / / 국립산림과학원"
+    },
+    {
+      "id": "ENHE0605181026",
+      "description": "[ENHE0605181026] 자작장다리거위벌레 1985.05.26 / / 이화여자대학교 자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAR0062-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAR0062&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:47+00:00",
+    "html_sha256": "fba7b97ab314da451af0843834698ab934547a101080a1f0a136a86c0335470a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

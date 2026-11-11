@@ -1,0 +1,103 @@
+{
+  "id": "ZOEI0010",
+  "name_ko": "좀남가뢰",
+  "scientific_name": "Meloe (Meloe) lobatus Gelber, 1832",
+  "display_name": "좀남가뢰",
+  "family_ko": "가뢰과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "거저리상과",
+      "name_latin": "Tenebrionoidea"
+    },
+    "family": {
+      "name_ko": "가뢰과",
+      "name_latin": "Meloidae"
+    },
+    "subfamily": {
+      "name_ko": "가뢰아과",
+      "name_latin": "Meloinae"
+    },
+    "genus": {
+      "name_ko": "남가뢰속",
+      "name_latin": "Meloe"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 거저리상과 (Tenebrionoidea)\n과 : 가뢰과 (Meloidae)\n아과 : 가뢰아과 (Meloinae)\n속 : 남가뢰속 (Meloe)",
+  "basic_information": {
+    "곤충명": "좀남가뢰",
+    "학명": "Meloe (Meloe) lobatus Gelber, 1832"
+  },
+  "information": {
+    "general_description": "한국, 동부 시베리아에 분포하며, 체장은 11-16mm 정도이다. 머리는 점각이 밀포됮 않고 이마는 눈 사이에 가로로 오목한 곳이 있다. 딱지날개는 약한 축각이 있다. 배의등판은 가죽 모양이고 미절판에는 점각이 산포하였다. 그리고 몸 아랫면의 점각은 치밀하다. 각 종아리마디는 말단을 향하여 굵어졌다. 몸은 흑청색이고 다소 제비꽃색을 띠고 있는 것도 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 동부 시베리아에 분포하며, 체장은 11-16mm 정도이다. 머리는 점각이 밀포됮 않고 이마는 눈 사이에 가로로 오목한 곳이 있다. 딱지날개는 약한 축각이 있다. 배의등판은 가죽 모양이고 미절판에는 점각이 산포하였다. 그리고 몸 아랫면의 점각은 치밀하다. 각 종아리마디는 말단을 향하여 굵어졌다. 몸은 흑청색이고 다소 제비꽃색을 띠고 있는 것도 있다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOEI0010-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEI0010_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEI0010_1_th.jpg",
+      "alt": "좀남가뢰 1번째 사진 : 좀남가뢰전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEI0010_1_th2.jpg",
+      "caption": "좀남가뢰전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOEI0010-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0212177024",
+      "description": "[YNUE0212177024] 좀남가뢰 1999.05.29 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0212177026",
+      "description": "[YNUE0212177026] 좀남가뢰 1999.04.24 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0212177027",
+      "description": "[YNUE0212177027] 좀남가뢰 1999.04.24 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOEI0010-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOEI0010&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:45+00:00",
+    "html_sha256": "ec1d894557960e2e65232959be102c0f9674cc6b75fd5fc95dd39fd16a22b5cb",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

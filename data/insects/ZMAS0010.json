@@ -1,0 +1,152 @@
+{
+  "id": "ZMAS0010",
+  "name_ko": "털매미",
+  "scientific_name": "Platypleura kaempferi (Fabricius, 1794)",
+  "display_name": "털매미",
+  "family_ko": "매미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "매미상과",
+      "name_latin": "Cicadoidea"
+    },
+    "family": {
+      "name_ko": "매미과",
+      "name_latin": "Cicadidae"
+    },
+    "subfamily": {
+      "name_ko": "매미아과",
+      "name_latin": "Cicadinae"
+    },
+    "genus": {
+      "name_ko": "털매미속",
+      "name_latin": "Platypleura"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 매미상과 (Cicadoidea)\n과 : 매미과 (Cicadidae)\n아과 : 매미아과 (Cicadinae)\n속 : 털매미속 (Platypleura)",
+  "basic_information": {
+    "곤충명": "털매미",
+    "학명": "Platypleura kaempferi (Fabricius, 1794)"
+  },
+  "information": {
+    "general_description": "몸길이: 약 20-25 mm. 날개 끝까지 35-40 mm 정도이다. 몸은 흑갈색을 띠며 때때로 흰가루를 산포하고 있다. 연두색, 초록색을 띠며 때때로 황갈색이나 적갈색 무늬를 알록달록하게 가져서 체색의 전체가 보호색을 이룬다. 몸 전체에 짧은 털이 밀생한다. 가운데 가슴 등판은 광택이 나는 흑색 이고 W자 모양을 한 초록색 또는 적갈색 무늬가 선명하다. 앞날개는 광택이 나고 흑갈색 또는 적갈색 구름 무늬가 불규칙하게 있으며, 대체로 기부 근처에서 회황색 무늬가 발달하여 나무 껍질과 조화를 이루며 보호색을 형성한다. 뒷날개는 흑갈색이며 가장자리는 적갈색을 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "도시 주변이나 산야에 흔하개 분포하고 있다.",
+    "habits": "약충은 땅 속에서 버드나무, 미루나무 등 각종 활엽수의 뿌리를 가해한다. 성충은 때때로 사과나무에 모여들어서 과실에 산란 피해를 주기도 한다. 성충은 집단적으로 시끄럽게 합창하며 불빛이 있으면 밤에도 잘 운다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대만]\n[일본]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이: 약 20-25 mm. 날개 끝까지 35-40 mm 정도이다. 몸은 흑갈색을 띠며 때때로 흰가루를 산포하고 있다. 연두색, 초록색을 띠며 때때로 황갈색이나 적갈색 무늬를 알록달록하게 가져서 체색의 전체가 보호색을 이룬다. 몸 전체에 짧은 털이 밀생한다. 가운데 가슴 등판은 광택이 나는 흑색 이고 W자 모양을 한 초록색 또는 적갈색 무늬가 선명하다. 앞날개는 광택이 나고 흑갈색 또는 적갈색 구름 무늬가 불규칙하게 있으며, 대체로 기부 근처에서 회황색 무늬가 발달하여 나무 껍질과 조화를 이루며 보호색을 형성한다. 뒷날개는 흑갈색이며 가장자리는 적갈색을 띤다."
+    },
+    {
+      "title": "생태",
+      "text": "도시 주변이나 산야에 흔하개 분포하고 있다."
+    },
+    {
+      "title": "습성",
+      "text": "약충은 땅 속에서 버드나무, 미루나무 등 각종 활엽수의 뿌리를 가해한다. 성충은 때때로 사과나무에 모여들어서 과실에 산란 피해를 주기도 한다. 성충은 집단적으로 시끄럽게 합창하며 불빛이 있으면 밤에도 잘 운다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대만]\n[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMAS0010-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAS0010_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAS0010_2_th.jpg",
+      "alt": "털매미 1번째 사진 : 털매미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAS0010_2_th2.jpg",
+      "caption": "털매미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZMAS0010-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAS0010_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAS0010_1_th.jpg",
+      "alt": "털매미 2번째 사진 : 털매미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAS0010_1_th2.jpg",
+      "caption": "털매미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMAS0010-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408191172",
+      "description": "[MPME0408191172] 털매미 2003.08.08 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408191171",
+      "description": "[MPME0408191171] 털매미 2003.08.08 / / 목포자연사박물관"
+    },
+    {
+      "id": "ADUE0408201164",
+      "description": "[ADUE0408201164] 털매미 2004.07.10 / / 안동대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "감나무",
+      "scientific_name": "Diospyros kaki Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "복사나무",
+      "scientific_name": "Prunus persica (L.) Batsch"
+    },
+    {
+      "group": "식물",
+      "name_ko": "비파나무",
+      "scientific_name": "Eriobotrya japonica (Thunb.) Lindl."
+    },
+    {
+      "group": "식물",
+      "name_ko": "뽕나무",
+      "scientific_name": "Morus alba L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "산돌배",
+      "scientific_name": "Pyrus ussuriensis Maxim. ex Rupr."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZMAS0010-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMAS0010&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:16+00:00",
+    "html_sha256": "56de970be1d53a896da5dd152e31b664924107d0f8d1b6673ef6c743a6267a68",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

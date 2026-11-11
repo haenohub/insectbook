@@ -1,0 +1,180 @@
+{
+  "id": "ZOGG0003",
+  "name_ko": "주둥무늬차색풍뎅이",
+  "scientific_name": "Adoretus tenuimaculatus Waterhouse, 1875",
+  "display_name": "주둥무늬차색풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "풍뎅이아과",
+      "name_latin": "Rutelinae"
+    },
+    "genus": {
+      "name_ko": "차색풍뎅이속",
+      "name_latin": "Adoretus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 풍뎅이아과 (Rutelinae)\n속 : 차색풍뎅이속 (Adoretus)",
+  "basic_information": {
+    "곤충명": "주둥무늬차색풍뎅이",
+    "학명": "Adoretus tenuimaculatus Waterhouse, 1875"
+  },
+  "information": {
+    "general_description": "몸은 긴 알모양이며, 등쪽은 연한 갈색 내지 적갈색, 배쪽은 보다 어두운 색인데 드물게 짙은 흑갈색 개체도 있다. 딱지날개에는 백색 강모뭋이가 길이로 배열되었으나 쉽게 벗겨진다. 앞가슴등판의 점각은 거칠고 조밀하지는 않으며, 후각은 둔하나 모서리가 분명하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": "유충은 유백색(乳白色)이다.",
+    "egg": null,
+    "pupa": null,
+    "ecology": "연 1회 발생한다. 월동한 성충이 5~6월에 출현하여 잎을 식해한다. 성충은 야행성이며 불빛에 잘 몰려들고, 산란은 흙 속에 한다. 유충은 부식질이나 잡초의 뿌리를 가해한다.",
+    "habits": "성충이 기주식물의 잎을 엽맥만 남기고 식해한다. 주위에 풀이 많으면 피해가 자주 발생한다.",
+    "season": null,
+    "overwintering": "주로 성충으로 월동한다.",
+    "distribution": "[중국]\n[일본]\n[대만]\n[인도]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸은 긴 알모양이며, 등쪽은 연한 갈색 내지 적갈색, 배쪽은 보다 어두운 색인데 드물게 짙은 흑갈색 개체도 있다. 딱지날개에는 백색 강모뭋이가 길이로 배열되었으나 쉽게 벗겨진다. 앞가슴등판의 점각은 거칠고 조밀하지는 않으며, 후각은 둔하나 모서리가 분명하다."
+    },
+    {
+      "title": "유충",
+      "text": "유충은 유백색(乳白色)이다."
+    },
+    {
+      "title": "생태",
+      "text": "연 1회 발생한다. 월동한 성충이 5~6월에 출현하여 잎을 식해한다. 성충은 야행성이며 불빛에 잘 몰려들고, 산란은 흙 속에 한다. 유충은 부식질이나 잡초의 뿌리를 가해한다."
+    },
+    {
+      "title": "습성",
+      "text": "성충이 기주식물의 잎을 엽맥만 남기고 식해한다. 주위에 풀이 많으면 피해가 자주 발생한다."
+    },
+    {
+      "title": "월동",
+      "text": "주로 성충으로 월동한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]\n[대만]\n[인도]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGG0003-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0003_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0003_2_th.jpg",
+      "alt": "주둥무늬차색풍뎅이 1번째 사진 : 주둥무늬차색풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0003_2_th2.jpg",
+      "caption": "주둥무늬차색풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOGG0003-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0003_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0003_1_th.jpg",
+      "alt": "주둥무늬차색풍뎅이 2번째 사진 : 주둥무늬차색풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0003_1_th2.jpg",
+      "caption": "주둥무늬차색풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGG0003-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0301292047",
+      "description": "[UIBE0301292047] 주둥무늬차색풍뎅이 2000.06.14 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301292048",
+      "description": "[UIBE0301292048] 주둥무늬차색풍뎅이 1998.10.01 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301292050",
+      "description": "[UIBE0301292050] 주둥무늬차색풍뎅이 2000.07.04 / / 인천대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "감나무",
+      "scientific_name": "Diospyros kaki Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "느티나무",
+      "scientific_name": "Zelkova serrata (Thunb.) Makino"
+    },
+    {
+      "group": "식물",
+      "name_ko": "대추나무",
+      "scientific_name": "Ziziphus jujuba Mill."
+    },
+    {
+      "group": "식물",
+      "name_ko": "밤나무",
+      "scientific_name": "Castanea crenata Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "배롱나무",
+      "scientific_name": "Lagerstroemia indica L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "사과나무",
+      "scientific_name": "Malus domestica (Suckow) Borkh."
+    },
+    {
+      "group": "식물",
+      "name_ko": "산돌배",
+      "scientific_name": "Pyrus ussuriensis Maxim. ex Rupr."
+    },
+    {
+      "group": "식물",
+      "name_ko": "오리나무",
+      "scientific_name": "Alnus japonica (Thunb.) Steud."
+    },
+    {
+      "group": "식물",
+      "name_ko": "포도",
+      "scientific_name": "Vitis vinifera L."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGG0003-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGG0003&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:56+00:00",
+    "html_sha256": "7ef105d2056a05150b5b8160654b4e108a7204871a081577e38d616fb20df263",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

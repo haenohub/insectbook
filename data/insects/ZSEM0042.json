@@ -1,0 +1,103 @@
+{
+  "id": "ZSEM0042",
+  "name_ko": "넉점박이꽃등에",
+  "scientific_name": "Xanthandrus comtus (Harris, 1780)",
+  "display_name": "넉점박이꽃등에",
+  "family_ko": "꽃등에과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "꽃등에상과",
+      "name_latin": "Syrphoidea"
+    },
+    "family": {
+      "name_ko": "꽃등에과",
+      "name_latin": "Syrphidae"
+    },
+    "subfamily": {
+      "name_ko": "꽃등에아과",
+      "name_latin": "Syrphinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Xanthandrus"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 꽃등에상과 (Syrphoidea)\n과 : 꽃등에과 (Syrphidae)\n아과 : 꽃등에아과 (Syrphinae)\n속 : (Xanthandrus)",
+  "basic_information": {
+    "곤충명": "넉점박이꽃등에",
+    "학명": "Xanthandrus comtus (Harris, 1780)"
+  },
+  "information": {
+    "general_description": "성충의 몸길이는 8~12mm. 몸은 전체적으로 검고 배에 황색의 큰 무늬가 있다. 수컷에서는 복부 제2등판에 큰 원형의 반점이 1쌍 나 있고 3, 4등판의 반점은 붙어 있다. 암컷에서는 복부 제2등판의 원형 반점이 상대적으로 작으며, 3, 4등앞느이 반점은 서로 떨어져 쌍을 이룬다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충의 몸길이는 8~12mm. 몸은 전체적으로 검고 배에 황색의 큰 무늬가 있다. 수컷에서는 복부 제2등판에 큰 원형의 반점이 1쌍 나 있고 3, 4등판의 반점은 붙어 있다. 암컷에서는 복부 제2등판의 원형 반점이 상대적으로 작으며, 3, 4등앞느이 반점은 서로 떨어져 쌍을 이룬다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSEM0042-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0042_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0042_1_th.jpg",
+      "alt": "넉점박이꽃등에 1번째 사진 : 넉점박이꽃등에전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0042_1_th2.jpg",
+      "caption": "넉점박이꽃등에전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSEM0042-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0307201208",
+      "description": "[KUIE0307201208] 넉점박이꽃등에 1978.04.16 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307201209",
+      "description": "[KUIE0307201209] 넉점박이꽃등에 1985.04.21 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307201211",
+      "description": "[KUIE0307201211] 넉점박이꽃등에 1976.05.09 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZSEM0042.png",
+    "reference_image_id": "ZSEM0042-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T09:51:36.151823+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "2a74f76ecd25a36a3312c61dc5ad3a6875c5fc713473fe7e898e3177ac8c7530"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSEM0042&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:33+00:00",
+    "html_sha256": "4b8d2d20cd157aa71afad62681371ff7ce24d8067fa5b30963f66ae437e50dc4",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

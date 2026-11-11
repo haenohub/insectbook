@@ -1,0 +1,117 @@
+{
+  "id": "ZMAR0160",
+  "name_ko": "앞흰넓적매미충",
+  "scientific_name": "Handianus (Usuironus) limbifer (Matsumura, 1902)",
+  "display_name": "앞흰넓적매미충",
+  "family_ko": "매미충과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "뿔매미상과",
+      "name_latin": "Membracoidea"
+    },
+    "family": {
+      "name_ko": "매미충과",
+      "name_latin": "Cicadellidae"
+    },
+    "subfamily": {
+      "name_ko": "매미충아과",
+      "name_latin": "Deltocephalinae"
+    },
+    "genus": {
+      "name_ko": "앞흰넓적매미충속",
+      "name_latin": "Handianus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 뿔매미상과 (Membracoidea)\n과 : 매미충과 (Cicadellidae)\n아과 : 매미충아과 (Deltocephalinae)\n속 : 앞흰넓적매미충속 (Handianus)",
+  "basic_information": {
+    "곤충명": "앞흰넓적매미충",
+    "학명": "Handianus (Usuironus) limbifer (Matsumura, 1902)"
+  },
+  "information": {
+    "general_description": "몸길이:약6-7mm. 암컷이 약간 더 크다.몸은 광택을 띠고 있고, 황갈색 바탕에 흑갈색 또는 검정색의 불규칙한 무늬를 가진다. 머리는 좁고 넓으며 둥글게 돌출 하였는데 앞가슴판보다 확실히 넓다. 이마의 앞가장자리는 폭이 좁으며 넓이가 넓고 2개의 검은 반점이 있다. 정수리에도 넓이가 넓은 검은 무늬를 특징적으로 갖는다. 앞날개의 앞가장자리를 따라 회황색의 띠를 가지며, 그경계부로 갈수록 검은 무늬가 진하게 나타난다. 날개맥을 따로 세로로 암갈색의 희미한 무늬가 발달되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "주로 산야의 개울가에서 서식한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이:약6-7mm. 암컷이 약간 더 크다.몸은 광택을 띠고 있고, 황갈색 바탕에 흑갈색 또는 검정색의 불규칙한 무늬를 가진다. 머리는 좁고 넓으며 둥글게 돌출 하였는데 앞가슴판보다 확실히 넓다. 이마의 앞가장자리는 폭이 좁으며 넓이가 넓고 2개의 검은 반점이 있다. 정수리에도 넓이가 넓은 검은 무늬를 특징적으로 갖는다. 앞날개의 앞가장자리를 따라 회황색의 띠를 가지며, 그경계부로 갈수록 검은 무늬가 진하게 나타난다. 날개맥을 따로 세로로 암갈색의 희미한 무늬가 발달되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "주로 산야의 개울가에서 서식한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMAR0160-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0160_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0160_1_th.jpg",
+      "alt": "앞흰넓적매미충 1번째 사진 : 앞흰넓적매미충전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0160_1_th2.jpg",
+      "caption": "앞흰넓적매미충전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMAR0160-1",
+  "specimen_examples": [
+    {
+      "id": "HNUE0408144026",
+      "description": "[HNUE0408144026] 앞흰넓적매미충 1997.07.09 / / 한남대학교 자연사박물관"
+    },
+    {
+      "id": "HNUE0408144011",
+      "description": "[HNUE0408144011] 앞흰넓적매미충 1999.05.08 / / 한남대학교 자연사박물관"
+    },
+    {
+      "id": "HNUE0408144012",
+      "description": "[HNUE0408144012] 앞흰넓적매미충 1999.05.08 / / 한남대학교 자연사박물관"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "버드나무",
+      "scientific_name": "Salix pierotii Miq."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZMAR0160-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMAR0160&tabId=tab1",
+    "collected_at": "2026-11-04T14:14:49+00:00",
+    "html_sha256": "f906b306208ae1e990b6cad23798673a2d8d900cbced3379a3ba2475bd4257c3",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

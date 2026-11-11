@@ -1,0 +1,122 @@
+{
+  "id": "ZRCI0489",
+  "name_ko": "고사리가지나방",
+  "scientific_name": "Petrophora chlorosata (Scopoli, 1763)",
+  "display_name": "고사리가지나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "가지나방아과",
+      "name_latin": "Ennominae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Petrophora"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 가지나방아과 (Ennominae)\n속 : (Petrophora)",
+  "basic_information": {
+    "곤충명": "고사리가지나방",
+    "학명": "Petrophora chlorosata (Scopoli, 1763)"
+  },
+  "information": {
+    "general_description": "더듬이는 수컷이 빗살모양이고, 암컷은 실 모양이다. 몸과 날개는 담갈색이다. 앞날개의 내횡선과 외횡선은 갈색이며 거의 일직선이다. 내횡선은 개체에 따라 아주 희미하여 뚜렷하지 않다. 외횡선은 외연이 백색으로 테지어 있다. 아외연선은 백색이고, 횡맥상에는 갈색 점이 있다. 연모는 회백색이다. 뒷날개는 백색으로 갈색 점이 있다. 외횡선은 대부분의 경우 제1주맥(Cu1) 부근에서 후연까지 나타난다. 뒷면은 앞면보다 색이 연하다. 앞․뒷날개 모두 외횡선은 갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 4～5월에 출현하며, 유럽에서는 유충이 고사리를 먹는다고 한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 수컷이 빗살모양이고, 암컷은 실 모양이다. 몸과 날개는 담갈색이다. 앞날개의 내횡선과 외횡선은 갈색이며 거의 일직선이다. 내횡선은 개체에 따라 아주 희미하여 뚜렷하지 않다. 외횡선은 외연이 백색으로 테지어 있다. 아외연선은 백색이고, 횡맥상에는 갈색 점이 있다. 연모는 회백색이다. 뒷날개는 백색으로 갈색 점이 있다. 외횡선은 대부분의 경우 제1주맥(Cu1) 부근에서 후연까지 나타난다. 뒷면은 앞면보다 색이 연하다. 앞․뒷날개 모두 외횡선은 갈색이다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 4～5월에 출현하며, 유럽에서는 유충이 고사리를 먹는다고 한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0489-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0489_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0489_2_th.jpg",
+      "alt": "고사리가지나방 1번째 사진 : 고사리가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0489_2_th2.jpg",
+      "caption": "고사리가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0489-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0489_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0489_1_th.jpg",
+      "alt": "고사리가지나방 2번째 사진 : 고사리가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0489_1_th2.jpg",
+      "caption": "고사리가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0489-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303121032",
+      "description": "[KNAE0303121032] 고사리가지나방 1992.05.12 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0301102022",
+      "description": "[KNAE0301102022] 고사리가지나방 1994.05.09 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0301102023",
+      "description": "[KNAE0301102023] 고사리가지나방 1994.05.10 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRCI0489.png",
+    "reference_image_id": "ZRCI0489-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T12:38:15.310383+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "3d51a070d55d81f14ee45f3fc808a04ad0133560d8859a13e70bcfeb284c1a0d"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0489&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:53+00:00",
+    "html_sha256": "4da7ea64e679b6b5cf124d216d82ddf4b89ee59f0204e8c81d47e241160d31af",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

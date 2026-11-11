@@ -1,0 +1,118 @@
+{
+  "id": "ZTBU0150",
+  "name_ko": "대모뿔자루맵시벌",
+  "scientific_name": "Opheltes glaucopterus glaucopterus Linnaeus, 1758",
+  "display_name": "대모뿔자루맵시벌",
+  "family_ko": "맵시벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "맵시벌과",
+      "name_latin": "Ichneumonidae"
+    },
+    "subfamily": {
+      "name_ko": "우치다자루맵시벌아과",
+      "name_latin": "Ctenopelmatinae"
+    },
+    "genus": {
+      "name_ko": "대모뿔자루맵시벌속",
+      "name_latin": "Opheltes"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 맵시벌과 (Ichneumonidae)\n아과 : 우치다자루맵시벌아과 (Ctenopelmatinae)\n속 : 대모뿔자루맵시벌속 (Opheltes)",
+  "basic_information": {
+    "곤충명": "대모뿔자루맵시벌",
+    "학명": "Opheltes glaucopterus glaucopterus Linnaeus, 1758"
+  },
+  "information": {
+    "general_description": "몸길이는 20~24 mm이다. 몸은 암황색, 얼굴, 정수리, 가슴의 대부분은 흑색이고, 제4배마디 끝부터 아래는 흑살색이다. 더듬이의 말단도 흑색이다. 더듬이는 몸길이와 거의 같고, 날개는 강한 황색이며 기부는 약간 암색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "6월경에 많이 출현한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아] 극동지역\n[유럽]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 20~24 mm이다. 몸은 암황색, 얼굴, 정수리, 가슴의 대부분은 흑색이고, 제4배마디 끝부터 아래는 흑살색이다. 더듬이의 말단도 흑색이다. 더듬이는 몸길이와 거의 같고, 날개는 강한 황색이며 기부는 약간 암색이다."
+    },
+    {
+      "title": "생태",
+      "text": "6월경에 많이 출현한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아] 극동지역\n[유럽]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBU0150-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0150_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0150_2_th.jpg",
+      "alt": "대모뿔자루맵시벌 1번째 사진 : 대모자루맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0150_2_th2.jpg",
+      "caption": "대모자루맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTBU0150-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0150_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0150_1_th.jpg",
+      "alt": "대모뿔자루맵시벌 2번째 사진 : 대모자루맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0150_1_th2.jpg",
+      "caption": "대모자루맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBU0150-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303251056",
+      "description": "[KNAE0303251056] 대모뿔자루맵시벌 1994.08.10 / / 국립수목원"
+    },
+    {
+      "id": "YNUE0201176037",
+      "description": "[YNUE0201176037] 대모뿔자루맵시벌 1995.06.07 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0201177025",
+      "description": "[YNUE0201177025] 대모뿔자루맵시벌 1987.05.24 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTBU0150-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBU0150&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:15+00:00",
+    "html_sha256": "c5e70a9af2acdb5a24b79b3b0aea831fde64fd100fe763c78a3a4d53a1691def",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

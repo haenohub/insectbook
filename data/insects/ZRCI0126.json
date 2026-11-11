@@ -1,0 +1,111 @@
+{
+  "id": "ZRCI0126",
+  "name_ko": "검은띠물결자나방",
+  "scientific_name": "Amoebotricha grataria (Leech, 1891)",
+  "display_name": "검은띠물결자나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "물결자나방아과",
+      "name_latin": "Larentiinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Amoebotricha"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 물결자나방아과 (Larentiinae)\n속 : (Amoebotricha)",
+  "basic_information": {
+    "곤충명": "검은띠물결자나방",
+    "학명": "Amoebotricha grataria (Leech, 1891)"
+  },
+  "information": {
+    "general_description": "더듬이는 수컷이 빗살모양이며,빗살은 길고 암컷은 미모상이다. 앞날개의 내횡대는 전연부에서 모서리지며, 여기에서 밑부분까지 전연은 띠모양으로 적갈색이다. 외횡선은 2중으로 전연에서 흑갈색 혹은 적갈색 무늬를 만든다. 뒷날개의 횡맥은 심하게 구부러진다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 수컷이 빗살모양이며,빗살은 길고 암컷은 미모상이다. 앞날개의 내횡대는 전연부에서 모서리지며, 여기에서 밑부분까지 전연은 띠모양으로 적갈색이다. 외횡선은 2중으로 전연에서 흑갈색 혹은 적갈색 무늬를 만든다. 뒷날개의 횡맥은 심하게 구부러진다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0126-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0126_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0126_1_th.jpg",
+      "alt": "검은띠물결자나방 1번째 사진 : 검은띠물결자나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0126_1_th2.jpg",
+      "caption": "검은띠물결자나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0126-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0302271011",
+      "description": "[FRIE0302271011] 검은띠물결자나방 1986.10.04 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0301201034",
+      "description": "[FRIE0301201034] 검은띠물결자나방 1987.10.30 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0301201036",
+      "description": "[FRIE0301201036] 검은띠물결자나방 1985.10.28 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRCI0126.png",
+    "reference_image_id": "ZRCI0126-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T17:53:13.676074+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "433fcdd26e25a665e30e42d32a157c9fe15d802b50cc0f7f778cbfd3ea13e0f3"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0126&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:55+00:00",
+    "html_sha256": "a277b1df3e60285d247d54dc9d3f18bd15cc87f8f25c2820b6e65ab13b9ee9df",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

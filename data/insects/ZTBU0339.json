@@ -1,0 +1,103 @@
+{
+  "id": "ZTBU0339",
+  "name_ko": "대한알락맵시벌",
+  "scientific_name": "Ichneumon sarcitorius chosensis Uchida, 1927",
+  "display_name": "대한알락맵시벌",
+  "family_ko": "맵시벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "맵시벌과",
+      "name_latin": "Ichneumonidae"
+    },
+    "subfamily": {
+      "name_ko": "맵시벌아과",
+      "name_latin": "Ichneumoninae"
+    },
+    "genus": {
+      "name_ko": "진맵시벌속",
+      "name_latin": "Ichneumon"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 맵시벌과 (Ichneumonidae)\n아과 : 맵시벌아과 (Ichneumoninae)\n속 : 진맵시벌속 (Ichneumon)",
+  "basic_information": {
+    "곤충명": "대한알락맵시벌",
+    "학명": "Ichneumon sarcitorius chosensis Uchida, 1927"
+  },
+  "information": {
+    "general_description": "알락맵시벌과 비슷하나 ♂에서는 제2배마디가 3색이다. 즉 기부는 적색, 중앙은 흑색이고 끝은 넓게 황색이며 제2∼5배마디는 그 뒷슭이 넓게 황색이다. 모든 밑마디와 도래마디는 흑색이다. 16mm(♂) 정도",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "알락맵시벌과 비슷하나 ♂에서는 제2배마디가 3색이다. 즉 기부는 적색, 중앙은 흑색이고 끝은 넓게 황색이며 제2∼5배마디는 그 뒷슭이 넓게 황색이다. 모든 밑마디와 도래마디는 흑색이다. 16mm(♂) 정도"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBU0339-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0339_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0339_1_th.jpg",
+      "alt": "대한알락맵시벌 1번째 사진 : 대한알락맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0339_1_th2.jpg",
+      "caption": "대한알락맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBU0339-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305301012",
+      "description": "[YNUE0305301012] 대한알락맵시벌 1974.07.24 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0608011043",
+      "description": "[YNUE0608011043] 대한알락맵시벌 1992.06.10 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0608011044",
+      "description": "[YNUE0608011044] 대한알락맵시벌 1994.09.25 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTBU0339-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBU0339&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:19+00:00",
+    "html_sha256": "4daa4dcb101e84943048cc805b6c9d8c9a4afe64e037e83319fe0ce9c3edde3e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

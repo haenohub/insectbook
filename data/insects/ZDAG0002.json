@@ -1,0 +1,110 @@
+{
+  "id": "ZDAG0002",
+  "name_ko": "언저리잠자리",
+  "scientific_name": "Epitheca marginata (Selys, 1883)",
+  "display_name": "언저리잠자리",
+  "family_ko": "청동잠자리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "잠자리목",
+      "name_latin": "Odonata"
+    },
+    "family": {
+      "name_ko": "청동잠자리과",
+      "name_latin": "Corduliidae"
+    },
+    "subfamily": {
+      "name_ko": "청동잠자리아과",
+      "name_latin": "Corduliinae"
+    },
+    "genus": {
+      "name_ko": "언저리잠자리속",
+      "name_latin": "Epitheca"
+    }
+  },
+  "taxonomy_text": "목 : 잠자리목 (Odonata)\n과 : 청동잠자리과 (Corduliidae)\n아과 : 청동잠자리아과 (Corduliinae)\n속 : 언저리잠자리속 (Epitheca)",
+  "basic_information": {
+    "곤충명": "언저리잠자리",
+    "학명": "Epitheca marginata (Selys, 1883)"
+  },
+  "information": {
+    "general_description": "배길이 32~37mm, 뒷날개길이 31~36mm. 머리는 회청색이며 가슴 전체의 갈색의 긴 털 존재. 앞가슴에는 뚜렷한 삼각형 모양의 흑색 줄무늬 존재. 등가슴은 황색이며 정중앙에 흑색 줄무늬 1개. 배마디는 흑색 바탕에 2~8마디의 좌우에 황색 무늬 1쌍 존재. 음판은 길어서 10마디의 반에 미치고 2분되지 않음. 수컷의 날개는 투명하고 날개 밑에 작은 흑색 반점 존재. 암컷의 날개는 앞가두리방과 결절 뒤 앞가두리방이 황갈색, 뒷날개는 더 진함. 날개맥과 가두리 무늬는 흑갈색.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "배길이 32~37mm, 뒷날개길이 31~36mm. 머리는 회청색이며 가슴 전체의 갈색의 긴 털 존재. 앞가슴에는 뚜렷한 삼각형 모양의 흑색 줄무늬 존재. 등가슴은 황색이며 정중앙에 흑색 줄무늬 1개. 배마디는 흑색 바탕에 2~8마디의 좌우에 황색 무늬 1쌍 존재. 음판은 길어서 10마디의 반에 미치고 2분되지 않음. 수컷의 날개는 투명하고 날개 밑에 작은 흑색 반점 존재. 암컷의 날개는 앞가두리방과 결절 뒤 앞가두리방이 황갈색, 뒷날개는 더 진함. 날개맥과 가두리 무늬는 흑갈색."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZDAG0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAG0002_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAG0002_2_th.jpg",
+      "alt": "언저리잠자리 1번째 사진 : 언저리잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAG0002_2_th2.jpg",
+      "caption": "언저리잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZDAG0002-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAG0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAG0002_1_th.jpg",
+      "alt": "언저리잠자리 2번째 사진 : 언저리잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAG0002_1_th2.jpg",
+      "caption": "언저리잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZDAG0002-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0212236057",
+      "description": "[YNUE0212236057] 언저리잠자리 1995.05.24 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0212236058",
+      "description": "[YNUE0212236058] 언저리잠자리 1991.04.30 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0212236059",
+      "description": "[YNUE0212236059] 언저리잠자리 1991.04.29 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZDAG0002-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZDAG0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:46+00:00",
+    "html_sha256": "2367eff0822227644b9d642e3ca85e8edb9f890d63ad51414798d6c3496b6a9c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

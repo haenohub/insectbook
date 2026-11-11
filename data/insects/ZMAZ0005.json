@@ -1,0 +1,111 @@
+{
+  "id": "ZMAZ0005",
+  "name_ko": "일본멸구",
+  "scientific_name": "Stenocranus matsumurai Metcalf, 1943",
+  "display_name": "일본멸구",
+  "family_ko": "멸구과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "꽃매미상과",
+      "name_latin": "Fulgoroidea"
+    },
+    "family": {
+      "name_ko": "멸구과",
+      "name_latin": "Delphacidae"
+    },
+    "subfamily": {
+      "name_ko": "고려멸구아과",
+      "name_latin": "Stenocraninae"
+    },
+    "genus": {
+      "name_ko": "고려멸구속",
+      "name_latin": "Stenocranus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 꽃매미상과 (Fulgoroidea)\n과 : 멸구과 (Delphacidae)\n아과 : 고려멸구아과 (Stenocraninae)\n속 : 고려멸구속 (Stenocranus)",
+  "basic_information": {
+    "곤충명": "일본멸구",
+    "학명": "Stenocranus matsumurai Metcalf, 1943"
+  },
+  "information": {
+    "general_description": "몸길이: 약5-6mm. 암컷이 다소 더크다. 몸은 황백색 또는 담황색을 디고 있으며, 등면에 황갈색의 불규칙한 무늬가 산재한다. 아랫면은 황갈색을 띤다. 머리는 양겹눈의 끝이 앞가슴등판보다 약간 좁다. 정수리는 폭의 2배 이상으로 특히 길게 발달하였다. 그리고 평행을 이루고 있다. 종주선은 기부에서 선단부로 갈수록 세모꼴로 합쳐지고, 볼록하게 융기되었다. 얼굴은 선단부가 좁으며 양 가장자리와 중앙 종주선이 융기 하였고, 그 사이이는 황갈색 또는 암갈색을 띠고 있다. 앞가슴등판과 작은방패판은 담황색 광택이 있고 특히 등황색 또는 붉은 세로 줄무늬를 갖는다. 이 줄무늬는 앞날개의 회합부에 기반부까지 연결되어있다. 앞날개는 투명하며, 후반부의 날개맥과 날개무늬는 다소 황갈색을 띤다. 뒷날개는 잘발달하였고 투명하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "경작지 주변의 억새나 갈대 등에서 발견된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": "알로월동한다.",
+    "distribution": "[러시아]\n[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이: 약5-6mm. 암컷이 다소 더크다. 몸은 황백색 또는 담황색을 디고 있으며, 등면에 황갈색의 불규칙한 무늬가 산재한다. 아랫면은 황갈색을 띤다. 머리는 양겹눈의 끝이 앞가슴등판보다 약간 좁다. 정수리는 폭의 2배 이상으로 특히 길게 발달하였다. 그리고 평행을 이루고 있다. 종주선은 기부에서 선단부로 갈수록 세모꼴로 합쳐지고, 볼록하게 융기되었다. 얼굴은 선단부가 좁으며 양 가장자리와 중앙 종주선이 융기 하였고, 그 사이이는 황갈색 또는 암갈색을 띠고 있다. 앞가슴등판과 작은방패판은 담황색 광택이 있고 특히 등황색 또는 붉은 세로 줄무늬를 갖는다. 이 줄무늬는 앞날개의 회합부에 기반부까지 연결되어있다. 앞날개는 투명하며, 후반부의 날개맥과 날개무늬는 다소 황갈색을 띤다. 뒷날개는 잘발달하였고 투명하다."
+    },
+    {
+      "title": "생태",
+      "text": "경작지 주변의 억새나 갈대 등에서 발견된다."
+    },
+    {
+      "title": "월동",
+      "text": "알로월동한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMAZ0005-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAZ0005_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAZ0005_1_th.jpg",
+      "alt": "일본멸구 1번째 사진 : 일본멸구전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAZ0005_1_th2.jpg",
+      "caption": "일본멸구전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMAZ0005-1",
+  "specimen_examples": [
+    {
+      "id": "HNUE0408144094",
+      "description": "[HNUE0408144094] 일본멸구 1997.10.27 / / 한남대학교 자연사박물관"
+    },
+    {
+      "id": "HNUE0408134012",
+      "description": "[HNUE0408134012] 일본멸구 2002.08.25 / / 한남대학교 자연사박물관"
+    },
+    {
+      "id": "KPNE1007013140",
+      "description": "[KPNE1007013140] 일본멸구 2008.05.24 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZMAZ0005-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMAZ0005&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:38+00:00",
+    "html_sha256": "44946454ef9b0ab473b0a81708014740be877b61ef250625e243c86e08931f78",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

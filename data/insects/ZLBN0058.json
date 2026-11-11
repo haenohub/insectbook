@@ -1,0 +1,107 @@
+{
+  "id": "ZLBN0058",
+  "name_ko": "두무늬장님노린재",
+  "scientific_name": "Apolygus hilaris (Horváth, 1905)",
+  "display_name": "두무늬장님노린재",
+  "family_ko": "장님노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "장님노린재상과",
+      "name_latin": "Miroidea"
+    },
+    "family": {
+      "name_ko": "장님노린재과",
+      "name_latin": "Miridae"
+    },
+    "subfamily": {
+      "name_ko": "장님노린재아과",
+      "name_latin": "Mirinae"
+    },
+    "genus": {
+      "name_ko": "무늬고리장님노린재속",
+      "name_latin": "Apolygus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 장님노린재상과 (Miroidea)\n과 : 장님노린재과 (Miridae)\n아과 : 장님노린재아과 (Mirinae)\n속 : 무늬고리장님노린재속 (Apolygus)",
+  "basic_information": {
+    "곤충명": "두무늬장님노린재",
+    "학명": "Apolygus hilaris (Horváth, 1905)"
+  },
+  "information": {
+    "general_description": "몸길이 : 4-6mm\n몸은 광택이 있는 적갈색이고, 좌우에 흑색 무늬가 있다. 등면에는 가는 털이 밀생했고, 점각은 작으며 특히 혁질부에서는 확실하지 않다. 무늬의 색깔에는 변화가 많다. 정수리 기부의 가로 융기선은 뚜렷하다. 주둥이의 말단은 뒷다리의 밑마디에 달하고, 종아리마디의 극모는 굵고 흑색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "산지의 풀밭에 있고 털도둑놈의갈고리에서도 볼 수 있다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 4-6mm\n몸은 광택이 있는 적갈색이고, 좌우에 흑색 무늬가 있다. 등면에는 가는 털이 밀생했고, 점각은 작으며 특히 혁질부에서는 확실하지 않다. 무늬의 색깔에는 변화가 많다. 정수리 기부의 가로 융기선은 뚜렷하다. 주둥이의 말단은 뒷다리의 밑마디에 달하고, 종아리마디의 극모는 굵고 흑색이다."
+    },
+    {
+      "title": "생태",
+      "text": "산지의 풀밭에 있고 털도둑놈의갈고리에서도 볼 수 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLBN0058-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBN0058_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBN0058_1_th.jpg",
+      "alt": "두무늬장님노린재 1번째 사진 : 두무늬장님노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBN0058_1_th2.jpg",
+      "caption": "두무늬장님노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLBN0058-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0408182212",
+      "description": "[SNUE0408182212] 두무늬장님노린재 2003.09.26 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0408182213",
+      "description": "[SNUE0408182213] 두무늬장님노린재 2003.09.25 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0408182214",
+      "description": "[SNUE0408182214] 두무늬장님노린재 2003.09.24 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLBN0058-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLBN0058&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:39+00:00",
+    "html_sha256": "7b5fc27019f29f7d9532aa6af2b3e846470bd3a944a8634e748b21253e0fe59c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

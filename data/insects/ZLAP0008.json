@@ -1,0 +1,107 @@
+{
+  "id": "ZLAP0008",
+  "name_ko": "땅노린재",
+  "scientific_name": "Macroscytus japonensis Scott, 1874",
+  "display_name": "땅노린재",
+  "family_ko": "땅노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "노린재상과",
+      "name_latin": "Pentatomoidea"
+    },
+    "family": {
+      "name_ko": "땅노린재과",
+      "name_latin": "Cydnidae"
+    },
+    "subfamily": {
+      "name_ko": "땅노린재아과",
+      "name_latin": "Cydninae"
+    },
+    "genus": {
+      "name_ko": "땅노린재속",
+      "name_latin": "Macroscytus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 노린재상과 (Pentatomoidea)\n과 : 땅노린재과 (Cydnidae)\n아과 : 땅노린재아과 (Cydninae)\n속 : 땅노린재속 (Macroscytus)",
+  "basic_information": {
+    "곤충명": "땅노린재",
+    "학명": "Macroscytus japonensis Scott, 1874"
+  },
+  "information": {
+    "general_description": "몸길이 : 7-10mm\n몸은 흑색 또는 갈색이고 광택이 있다. 체표면에는 얕은 점각이 있다. 겹눈은 암갈색이고 홑눈은 연한 홍색이다. 더듬이의 제 1,2마디는 거의 길이가 같다. 앞가슴등판은 폭이 넓고 광택이 있다. 작은방패판은 삼각형꼴이다.혁질부와 조상부의 경계부와 그 앞가장자리에 병행하여 여러 줄의 봉추가 종주한다. 막질부는 연한 황색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "흙 속에서 생활하고 녹나무의 낙과를 즐겨 먹는다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 7-10mm\n몸은 흑색 또는 갈색이고 광택이 있다. 체표면에는 얕은 점각이 있다. 겹눈은 암갈색이고 홑눈은 연한 홍색이다. 더듬이의 제 1,2마디는 거의 길이가 같다. 앞가슴등판은 폭이 넓고 광택이 있다. 작은방패판은 삼각형꼴이다.혁질부와 조상부의 경계부와 그 앞가장자리에 병행하여 여러 줄의 봉추가 종주한다. 막질부는 연한 황색이다."
+    },
+    {
+      "title": "생태",
+      "text": "흙 속에서 생활하고 녹나무의 낙과를 즐겨 먹는다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLAP0008-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAP0008_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAP0008_1_th.jpg",
+      "alt": "땅노린재 1번째 사진 : 땅노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAP0008_1_th2.jpg",
+      "caption": "땅노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLAP0008-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304012042",
+      "description": "[KNAE0304012042] 땅노린재 1990.07.06 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304012043",
+      "description": "[KNAE0304012043] 땅노린재 1994.08.31 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304012044",
+      "description": "[KNAE0304012044] 땅노린재 1994.08.05 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLAP0008-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLAP0008&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:24+00:00",
+    "html_sha256": "8b44741b77767658efed167814d0701a33171453d1d4680254dd4fd3fc31122f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

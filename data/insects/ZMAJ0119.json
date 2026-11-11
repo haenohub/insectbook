@@ -1,0 +1,140 @@
+{
+  "id": "ZMAJ0119",
+  "name_ko": "찔레수염진딧물",
+  "scientific_name": "Sitobion (Sitobion) ibarae (Matsumura, 1917)",
+  "display_name": "찔레수염진딧물",
+  "family_ko": "진딧물과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "진딧물상과",
+      "name_latin": "Aphidoidea"
+    },
+    "family": {
+      "name_ko": "진딧물과",
+      "name_latin": "Aphididae"
+    },
+    "subfamily": {
+      "name_ko": "진딧물아과",
+      "name_latin": "Aphidinae"
+    },
+    "genus": {
+      "name_ko": "보리수염진딧물속",
+      "name_latin": "Sitobion"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 진딧물상과 (Aphidoidea)\n과 : 진딧물과 (Aphididae)\n아과 : 진딧물아과 (Aphidinae)\n속 : 보리수염진딧물속 (Sitobion)",
+  "basic_information": {
+    "곤충명": "찔레수염진딧물",
+    "학명": "Sitobion (Sitobion) ibarae (Matsumura, 1917)"
+  },
+  "information": {
+    "general_description": "무시태생 암컷 성충의 몸길이는 2.5~2.7 mm이고 녹색으로 등면에 반문이 없으며 털은 짧고 봉상(捧狀)이다. 촉각, 각상관(角狀管)은 흑색이며 다리는 황록색이다. 유시충은 머리, 가슴이 황적색이며 복부는 녹색이다. 몸은 무시충보다 약간 소형이며 복부 양측에 발달된 후판이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "따뜻한 지방에서는 겨울에도 나무의 잎에 기생하는 개체가 있으며 3월부터 기생 밀도가 증가하여 4월 중순~하순에 유시태생 암컷이 출현한다. 5월 중순~6월 상순에 밀도가 가장 높으며 여름에 일시 감소하다가 9월에 재차 증가한다.",
+    "habits": "4~5월경 장미의 신초(新梢), 신엽(新葉), 꽃자루에 군서하여 흡즙 가해하므로 신초의 생장이 저해되고 잎이 변형되며 전개(展開)도 늦다.",
+    "season": null,
+    "overwintering": "성충이나 약충으로 월동하며, 추운지방에서는 알로 월동한다.",
+    "distribution": "[일본]\n[중국]\n[대만]\n[필리핀]\n[뉴질랜드]\n[유럽]\n[미국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "무시태생 암컷 성충의 몸길이는 2.5~2.7 mm이고 녹색으로 등면에 반문이 없으며 털은 짧고 봉상(捧狀)이다. 촉각, 각상관(角狀管)은 흑색이며 다리는 황록색이다. 유시충은 머리, 가슴이 황적색이며 복부는 녹색이다. 몸은 무시충보다 약간 소형이며 복부 양측에 발달된 후판이 있다."
+    },
+    {
+      "title": "생태",
+      "text": "따뜻한 지방에서는 겨울에도 나무의 잎에 기생하는 개체가 있으며 3월부터 기생 밀도가 증가하여 4월 중순~하순에 유시태생 암컷이 출현한다. 5월 중순~6월 상순에 밀도가 가장 높으며 여름에 일시 감소하다가 9월에 재차 증가한다."
+    },
+    {
+      "title": "습성",
+      "text": "4~5월경 장미의 신초(新梢), 신엽(新葉), 꽃자루에 군서하여 흡즙 가해하므로 신초의 생장이 저해되고 잎이 변형되며 전개(展開)도 늦다."
+    },
+    {
+      "title": "월동",
+      "text": "성충이나 약충으로 월동하며, 추운지방에서는 알로 월동한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[대만]\n[필리핀]\n[뉴질랜드]\n[유럽]\n[미국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMAJ0119-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAJ0119_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAJ0119_1_th.jpg",
+      "alt": "찔레수염진딧물 1번째 사진 : 찔레수염진딧물전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAJ0119_1_th2.jpg",
+      "caption": "찔레수염진딧물전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMAJ0119-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0409012203",
+      "description": "[SNUE0409012203] 찔레수염진딧물 1987.05.26 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0409012204",
+      "description": "[SNUE0409012204] 찔레수염진딧물 1987.05.26 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0409012205",
+      "description": "[SNUE0409012205] 찔레수염진딧물 1987.05.26 / / 서울대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "용가시나무",
+      "scientific_name": "Rosa maximowicziana Regel"
+    },
+    {
+      "group": "식물",
+      "name_ko": "월계화",
+      "scientific_name": "Rosa chinensis Jacq."
+    },
+    {
+      "group": "식물",
+      "name_ko": "찔레꽃",
+      "scientific_name": "Rosa multiflora Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "해당화",
+      "scientific_name": "Rosa rugosa Thunb."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZMAJ0119-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMAJ0119&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:43+00:00",
+    "html_sha256": "2603e2d24a8ba64faf41d193a9c194c7b4e98a699086eb05fdabc4dac7cdb81e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

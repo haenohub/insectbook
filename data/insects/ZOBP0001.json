@@ -1,0 +1,107 @@
+{
+  "id": "ZOBP0001",
+  "name_ko": "넓적꽃무지",
+  "scientific_name": "Nipponovalgus angusticollis (Waterhouse, 1875)",
+  "display_name": "넓적꽃무지",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "꽃무지아과",
+      "name_latin": "Cetoniinae"
+    },
+    "genus": {
+      "name_ko": "넓적꽃무지속",
+      "name_latin": "Nipponovalgus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 꽃무지아과 (Cetoniinae)\n속 : 넓적꽃무지속 (Nipponovalgus)",
+  "basic_information": {
+    "곤충명": "넓적꽃무지",
+    "학명": "Nipponovalgus angusticollis (Waterhouse, 1875)"
+  },
+  "information": {
+    "general_description": "일본에 분포하며, 몸은 광택있는 흑색이며, 황백색 비늘이 등쪽에서는 불규칙한 무늬를 이루고, 배쪽은 전체적으로 덮였다. 머리방패 앞쪽은 파였고, 앞가슴등판에는 평행이 아닌 2개의 세로 융기선이 있다. 전경절 외치는 7개인데 제 5와 7번은 매우 작다, 전미절판의 뒷가장자리에는 1싸의 큰 비늘뭉치가 있는데 가운데쪽 절반은 흑색 비늘, 밖 쪽은 황백색 비늘이다. 미절판의 숨관은 길고 흑색이다. 수컷은 제 1후부절의 길이가 제 2,3절의 합과 같으나 암컷은 딱지날개와 후부절의 길이가 훨씬 짧다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "일본에 분포하며, 몸은 광택있는 흑색이며, 황백색 비늘이 등쪽에서는 불규칙한 무늬를 이루고, 배쪽은 전체적으로 덮였다. 머리방패 앞쪽은 파였고, 앞가슴등판에는 평행이 아닌 2개의 세로 융기선이 있다. 전경절 외치는 7개인데 제 5와 7번은 매우 작다, 전미절판의 뒷가장자리에는 1싸의 큰 비늘뭉치가 있는데 가운데쪽 절반은 흑색 비늘, 밖 쪽은 황백색 비늘이다. 미절판의 숨관은 길고 흑색이다. 수컷은 제 1후부절의 길이가 제 2,3절의 합과 같으나 암컷은 딱지날개와 후부절의 길이가 훨씬 짧다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBP0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBP0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBP0001_1_th.jpg",
+      "alt": "넓적꽃무지 1번째 사진 : 넓적꽃무지전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBP0001_1_th2.jpg",
+      "caption": "넓적꽃무지전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBP0001-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0304211048",
+      "description": "[FRIE0304211048] 넓적꽃무지 2001.06.03 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0304092029",
+      "description": "[KNAE0304092029] 넓적꽃무지 1991.05.14 / / 국립수목원"
+    },
+    {
+      "id": "SSUE0202221049",
+      "description": "[SSUE0202221049] 넓적꽃무지 1996.05.26 / / 성신여자대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBP0001.png",
+    "reference_image_id": "ZOBP0001-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T10:09:34.898518+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "61fb3eb6611a77910efd022e670cd1a9c41b4c60810f9efe6bf361b428fc950e"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBP0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:40+00:00",
+    "html_sha256": "a3c5f720b23412d12d9dd3609a3f9af76e1de0a551ffb37dfac35e270aa3ebaa",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

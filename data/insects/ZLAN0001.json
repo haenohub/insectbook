@@ -1,0 +1,103 @@
+{
+  "id": "ZLAN0001",
+  "name_ko": "북방허리노린재",
+  "scientific_name": "Coreus marginatus orientalis (Kiritshenko, 1916)",
+  "display_name": "북방허리노린재",
+  "family_ko": "허리노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "허리노린재상과",
+      "name_latin": "Coreoidea"
+    },
+    "family": {
+      "name_ko": "허리노린재과",
+      "name_latin": "Coreidae"
+    },
+    "subfamily": {
+      "name_ko": "허리노린재아과",
+      "name_latin": "Coreinae"
+    },
+    "genus": {
+      "name_ko": "허리노린재속",
+      "name_latin": "Coreus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 허리노린재상과 (Coreoidea)\n과 : 허리노린재과 (Coreidae)\n아과 : 허리노린재아과 (Coreinae)\n속 : 허리노린재속 (Coreus)",
+  "basic_information": {
+    "곤충명": "북방허리노린재",
+    "학명": "Coreus marginatus orientalis (Kiritshenko, 1916)"
+  },
+  "information": {
+    "general_description": "몸길이 : 12-16mm\n몸은 갈색이고 흑색 점각이 산포되어 있다. 머리는 작고 옆모서리 돌기는 길게 돌출하여 가시 모양의 돌기로 되었고 각각 안쪽으로 만곡하여 좌우가 거의 접촉해서 앞쪽으로 향한다. 더듬이는 4마디로 되었고 적갈색이다. 앞가슴등판은 양쪽으로 돌출하고, 직각에 가까운 각을 이룬다. 작은방패판은 정삼각형이고 반시초는 배끝에 달하며, 막질부는 연한 갈색을 띠고 투명하다. 결합판은 반시초 앞가장자리보다 바깥으로 퍼져 돌출하고 각 마디의 중앙부는 연한 색이다. 몸의 아랫면과 다리는 균일하게 갈색이고 배에는희미한 황갈색의 구름 모양의 무늬가 산포되어 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 12-16mm\n몸은 갈색이고 흑색 점각이 산포되어 있다. 머리는 작고 옆모서리 돌기는 길게 돌출하여 가시 모양의 돌기로 되었고 각각 안쪽으로 만곡하여 좌우가 거의 접촉해서 앞쪽으로 향한다. 더듬이는 4마디로 되었고 적갈색이다. 앞가슴등판은 양쪽으로 돌출하고, 직각에 가까운 각을 이룬다. 작은방패판은 정삼각형이고 반시초는 배끝에 달하며, 막질부는 연한 갈색을 띠고 투명하다. 결합판은 반시초 앞가장자리보다 바깥으로 퍼져 돌출하고 각 마디의 중앙부는 연한 색이다. 몸의 아랫면과 다리는 균일하게 갈색이고 배에는희미한 황갈색의 구름 모양의 무늬가 산포되어 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLAN0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0001_1_th.jpg",
+      "alt": "북방허리노린재 1번째 사진 : 북방허리노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0001_1_th2.jpg",
+      "caption": "북방허리노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLAN0001-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0303181081",
+      "description": "[FRIE0303181081] 북방허리노린재 1983.06.14 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0303181080",
+      "description": "[FRIE0303181080] 북방허리노린재 1983.07.01 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0303181083",
+      "description": "[FRIE0303181083] 북방허리노린재 1983.06.11 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLAN0001-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLAN0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:35+00:00",
+    "html_sha256": "d8242b1abd5a01262d65cfc921dc741386aed1a296b8d46da499b0a8490b89bb",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

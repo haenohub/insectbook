@@ -1,0 +1,140 @@
+{
+  "id": "ZRDG0003",
+  "name_ko": "긴꼬리부전나비",
+  "scientific_name": "Araragi enthea (Janson, 1877)",
+  "display_name": "긴꼬리부전나비",
+  "family_ko": "부전나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "부전나비과",
+      "name_latin": "Lycaenidae"
+    },
+    "subfamily": {
+      "name_ko": "녹색부전나비아과",
+      "name_latin": "Theclinae"
+    },
+    "genus": {
+      "name_ko": "긴꼬리부전나비속",
+      "name_latin": "Araragi"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 부전나비과 (Lycaenidae)\n아과 : 녹색부전나비아과 (Theclinae)\n속 : 긴꼬리부전나비속 (Araragi)",
+  "basic_information": {
+    "곤충명": "긴꼬리부전나비",
+    "학명": "Araragi enthea (Janson, 1877)"
+  },
+  "information": {
+    "general_description": "보통 암컷이 수컷보다 크고 앞날개 중실 끝에 연한 황백색 무늬가 나타나는 경향이 있으나 배끝을 관찰하는것이 정확한 구별방법이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "9∼10월에 암컷은 기야생 가래나무가 많은 등산로나 계곡 주변에 서식한다. 오전에 햇빛이 잘 드는 곳에서 일광욕을 하거나 나뭇잎 위의 이술이나 축축한 습지에서 흡수하는 모습을 볼 수 있다. 주식물의 가지의 틈, 겨울눈 아래에 한 개씩 산란한다.",
+    "habits": "야생 가래나무가 많은 등산로나 계곡 주변에 서식한다. 오전에 햇빛이 잘 드는 곳에서 일광욕을 하거나 나뭇잎 위의 이술이나 축축한 습지에서 흡수하는 모습을 볼 수 있다. 대부분 높은 나무 끝에서 날아다니기 때문에 관찰하기 어렵다.",
+    "season": null,
+    "overwintering": "알",
+    "distribution": "[일본]\n[중국]\n[러시아]\n[대만]",
+    "notes": "[국지적분포종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "보통 암컷이 수컷보다 크고 앞날개 중실 끝에 연한 황백색 무늬가 나타나는 경향이 있으나 배끝을 관찰하는것이 정확한 구별방법이다."
+    },
+    {
+      "title": "생태",
+      "text": "9∼10월에 암컷은 기야생 가래나무가 많은 등산로나 계곡 주변에 서식한다. 오전에 햇빛이 잘 드는 곳에서 일광욕을 하거나 나뭇잎 위의 이술이나 축축한 습지에서 흡수하는 모습을 볼 수 있다. 주식물의 가지의 틈, 겨울눈 아래에 한 개씩 산란한다."
+    },
+    {
+      "title": "습성",
+      "text": "야생 가래나무가 많은 등산로나 계곡 주변에 서식한다. 오전에 햇빛이 잘 드는 곳에서 일광욕을 하거나 나뭇잎 위의 이술이나 축축한 습지에서 흡수하는 모습을 볼 수 있다. 대부분 높은 나무 끝에서 날아다니기 때문에 관찰하기 어렵다."
+    },
+    {
+      "title": "월동",
+      "text": "알"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]\n[대만]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[국지적분포종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDG0003-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDG0003_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDG0003_2.jpg",
+      "alt": "긴꼬리부전나비 1번째 사진 : 긴꼬리부전나비 암컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDG0003_2_th2.jpg",
+      "caption": "긴꼬리부전나비 암컷 이미지",
+      "photographed_at": "20120709",
+      "location": "강원도 춘천시 남면 한치령",
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRDG0003-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0003_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0003_1_th.jpg",
+      "alt": "긴꼬리부전나비 2번째 사진 : 긴꼬리부전나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0003_1_th2.jpg",
+      "caption": "긴꼬리부전나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDG0003-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0409041029",
+      "description": "[MPME0409041029] 긴꼬리부전나비 1997.05.25 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0409041026",
+      "description": "[MPME0409041026] 긴꼬리부전나비 2002.05.30 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0409041025",
+      "description": "[MPME0409041025] 긴꼬리부전나비 2002.05.30 / / 목포자연사박물관"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "가래나무",
+      "scientific_name": "Juglans mandshurica Maxim."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDG0003.png",
+    "reference_image_id": "ZRDG0003-2",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T08:37:19.606360+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "24e27fad6c41692a2d25a9adf81081e6b35aac28467710879fe19d3f36215404"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDG0003&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:54+00:00",
+    "html_sha256": "565a247f4eac9c73395d2603980e46b3e857649d93bfa040695d6caa46d35212",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

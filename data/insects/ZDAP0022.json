@@ -1,0 +1,122 @@
+{
+  "id": "ZDAP0022",
+  "name_ko": "날개띠좀잠자리",
+  "scientific_name": "Sympetrum pedemontanum (Muller, 1766)",
+  "display_name": "날개띠좀잠자리",
+  "family_ko": "잠자리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "잠자리목",
+      "name_latin": "Odonata"
+    },
+    "family": {
+      "name_ko": "잠자리과",
+      "name_latin": "Libellulidae"
+    },
+    "subfamily": {
+      "name_ko": "고추잠자리아과",
+      "name_latin": "Sympetrinae"
+    },
+    "genus": {
+      "name_ko": "좀잠자리속",
+      "name_latin": "Sympetrum"
+    }
+  },
+  "taxonomy_text": "목 : 잠자리목 (Odonata)\n과 : 잠자리과 (Libellulidae)\n아과 : 고추잠자리아과 (Sympetrinae)\n속 : 좀잠자리속 (Sympetrum)",
+  "basic_information": {
+    "곤충명": "날개띠좀잠자리",
+    "학명": "Sympetrum pedemontanum (Muller, 1766)"
+  },
+  "information": {
+    "general_description": "머리에 속하는 부분은 전부 등색이고, 가슴, 가운데, 가슴 옆면에는 무늬가 없고 역시 등색이다. 배는 적색 또는 등색이고 수컷에는 무늬가 없고 암컷에는 작은 흑색 무늬가 있다. 미모도 등색이다. 날개는 투명하고 결절과 날개 끝의 중앙에는 넓은 갈색 띠가 있다. 그 띠는 앞 뒤 모두 폭이 같다. 날개맥은 황갈색이고 가두리무늬는 적색 또는 황색이다.",
+    "adult": null,
+    "adult_male": "뒷날개의 길이는 30 mm이다.",
+    "adult_female": "뒷날개의 길이는 26 mm이다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국] 동북지방\n[러시아] 동시베리아지역\n[러시아] 서시베리아지역\n[유럽]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "머리에 속하는 부분은 전부 등색이고, 가슴, 가운데, 가슴 옆면에는 무늬가 없고 역시 등색이다. 배는 적색 또는 등색이고 수컷에는 무늬가 없고 암컷에는 작은 흑색 무늬가 있다. 미모도 등색이다. 날개는 투명하고 결절과 날개 끝의 중앙에는 넓은 갈색 띠가 있다. 그 띠는 앞 뒤 모두 폭이 같다. 날개맥은 황갈색이고 가두리무늬는 적색 또는 황색이다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "뒷날개의 길이는 30 mm이다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "뒷날개의 길이는 26 mm이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국] 동북지방\n[러시아] 동시베리아지역\n[러시아] 서시베리아지역\n[유럽]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZDAP0022-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0022_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0022_2_th.jpg",
+      "alt": "날개띠좀잠자리 1번째 사진 : 날개띠좀잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0022_2_th2.jpg",
+      "caption": "날개띠좀잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZDAP0022-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0022_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0022_1_th.jpg",
+      "alt": "날개띠좀잠자리 2번째 사진 : 날개띠좀잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0022_1_th2.jpg",
+      "caption": "날개띠좀잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZDAP0022-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306251092",
+      "description": "[YNUE0306251092] 날개띠좀잠자리 2002.08.22 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306251094",
+      "description": "[YNUE0306251094] 날개띠좀잠자리 2002.08.21 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306251095",
+      "description": "[YNUE0306251095] 날개띠좀잠자리 2002.08.22 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZDAP0022.png",
+    "reference_image_id": "ZDAP0022-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T16:05:05.263178+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "2dff0ef63761062f74d5ce3deda2f6d6ca7e535cd6964db5937ef9188891f214"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZDAP0022&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:15+00:00",
+    "html_sha256": "5c9665caf242ca2e2888491102ab99b79012f8026e3a919aefed30c0f9a7e006",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

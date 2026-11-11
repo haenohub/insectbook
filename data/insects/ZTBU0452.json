@@ -1,0 +1,99 @@
+{
+  "id": "ZTBU0452",
+  "name_ko": "갈색뭉툭맵시벌",
+  "scientific_name": "Tryphon (Symboethus) brunniventris Gravenhorst, 1829",
+  "display_name": "갈색뭉툭맵시벌",
+  "family_ko": "맵시벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "맵시벌과",
+      "name_latin": "Ichneumonidae"
+    },
+    "subfamily": {
+      "name_ko": "뭉툭맵시벌아과",
+      "name_latin": "Tryphoninae"
+    },
+    "genus": {
+      "name_ko": "신라뭉툭맵시벌속",
+      "name_latin": "Tryphon"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 맵시벌과 (Ichneumonidae)\n아과 : 뭉툭맵시벌아과 (Tryphoninae)\n속 : 신라뭉툭맵시벌속 (Tryphon)",
+  "basic_information": {
+    "곤충명": "갈색뭉툭맵시벌",
+    "학명": "Tryphon (Symboethus) brunniventris Gravenhorst, 1829"
+  },
+  "information": {
+    "general_description": "얼굴은 검정색이다. 가운데가슴등판과 가운데가슴앞옆판은 검은색이다. 뒷다리 종아리마디는 갈색이다. 첫 번째 배마디는 검은색이다. 2번째부터 4번째마디는 적색이다. 중앙 세로 융기선(median longitudinal carina)은 첫 번째 배마디의 0.7배보다 작다. 산란관의 길이는 복부 말단의 높의 0.50-0.68 배이다. 경포는 존재한다. PI: 0.68-0.77, CI: 1.67-1.92, BI: 0.90-1.00, DBI: 0.60-0.68, MI: 2.00-2.50, ICI: 0.18-0.20, NI: 4.50-5.50, RI: 5.25-5.83, IOD/OOD: 0.43-0.44, IOD/POD: 0.40-0.50, IOD/MOD: 1.00-1.33, POD/MOD: 2.33-3.33. 앞날개 길이 6mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "얼굴은 검정색이다. 가운데가슴등판과 가운데가슴앞옆판은 검은색이다. 뒷다리 종아리마디는 갈색이다. 첫 번째 배마디는 검은색이다. 2번째부터 4번째마디는 적색이다. 중앙 세로 융기선(median longitudinal carina)은 첫 번째 배마디의 0.7배보다 작다. 산란관의 길이는 복부 말단의 높의 0.50-0.68 배이다. 경포는 존재한다. PI: 0.68-0.77, CI: 1.67-1.92, BI: 0.90-1.00, DBI: 0.60-0.68, MI: 2.00-2.50, ICI: 0.18-0.20, NI: 4.50-5.50, RI: 5.25-5.83, IOD/OOD: 0.43-0.44, IOD/POD: 0.40-0.50, IOD/MOD: 1.00-1.33, POD/MOD: 2.33-3.33. 앞날개 길이 6mm."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBU0452-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0452_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0452_1_th.jpg",
+      "alt": "갈색뭉툭맵시벌 1번째 사진 : 갈색뭉툭맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0452_1_th2.jpg",
+      "caption": "갈색뭉툭맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBU0452-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306041013",
+      "description": "[YNUE0306041013] 갈색뭉툭맵시벌 1992.05.22 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306041012",
+      "description": "[YNUE0306041012] 갈색뭉툭맵시벌 1991.05.10 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTBU0452.png",
+    "reference_image_id": "ZTBU0452-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T16:42:32.259990+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "cc194fe4a1e9e5b0c24b4e19940694d3ef7fbad1acc4f58fc4a9d97b449e2bf6"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBU0452&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:32+00:00",
+    "html_sha256": "335b63128629413aa84c4cba5a241f7b5cedfd5ff95f37002e4f9f2fb8e02c3e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

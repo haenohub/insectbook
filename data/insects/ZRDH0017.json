@@ -1,0 +1,107 @@
+{
+  "id": "ZRDH0017",
+  "name_ko": "뒷검은독나방",
+  "scientific_name": "Kidokuga torasan (Holland, 1889)",
+  "display_name": "뒷검은독나방",
+  "family_ko": "태극나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "태극나방과",
+      "name_latin": "Erebidae"
+    },
+    "subfamily": {
+      "name_ko": "독나방아과",
+      "name_latin": "Lymantriinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Kidokuga"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 태극나방과 (Erebidae)\n아과 : 독나방아과 (Lymantriinae)\n속 : (Kidokuga)",
+  "basic_information": {
+    "곤충명": "뒷검은독나방",
+    "학명": "Kidokuga torasan (Holland, 1889)"
+  },
+  "information": {
+    "general_description": "수컷의 더듬이는 빗살 모양인데 줄기는 유백색이고 빗살은 갈색임. 머리, 아랫입술수염, 다리, 가슴, 배의 배쪽면은 담황색이고, 배의 등쪽면은 갈색임. 앞날개의 표면은 등갈색 바탕에 전연부를 제외한 전면이 흑갈색 인편으로 덮여 있음. 시맥은 황색이며, 앞,뒷날개의 연모도 황색으로 되어 있음. 뒷날개는 앞날개에 비해서 다소 짙은 흑갈색을 띠고 있으나 광택이 나지 않고 있음. 날개의 뒷면도 대체로 표면과 비슷하나 윤기가 없음.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 7월~8월경에 출현함.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "수컷의 더듬이는 빗살 모양인데 줄기는 유백색이고 빗살은 갈색임. 머리, 아랫입술수염, 다리, 가슴, 배의 배쪽면은 담황색이고, 배의 등쪽면은 갈색임. 앞날개의 표면은 등갈색 바탕에 전연부를 제외한 전면이 흑갈색 인편으로 덮여 있음. 시맥은 황색이며, 앞,뒷날개의 연모도 황색으로 되어 있음. 뒷날개는 앞날개에 비해서 다소 짙은 흑갈색을 띠고 있으나 광택이 나지 않고 있음. 날개의 뒷면도 대체로 표면과 비슷하나 윤기가 없음."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 7월~8월경에 출현함."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDH0017-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDH0017_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDH0017_1_th.jpg",
+      "alt": "뒷검은독나방 1번째 사진 : 뒷검은독나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDH0017_1_th2.jpg",
+      "caption": "뒷검은독나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDH0017-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE660162",
+      "description": "[KNAE660162] 뒷검은독나방 / / 국립수목원"
+    },
+    {
+      "id": "JFNE0201301033",
+      "description": "[JFNE0201301033] 뒷검은독나방 1999.07.30 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0201301034",
+      "description": "[JFNE0201301034] 뒷검은독나방 1997.07.28 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDH0017-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDH0017&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:00+00:00",
+    "html_sha256": "7239fa620ee055b7aea68835a607779f121b13a218fcf98bb04ef0b67c2461b6",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

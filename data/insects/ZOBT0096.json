@@ -1,0 +1,126 @@
+{
+  "id": "ZOBT0096",
+  "name_ko": "두릅나무잎벌레",
+  "scientific_name": "Oomorphoides cupreatus (Baly, 1873)",
+  "display_name": "두릅나무잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "반짝이잎벌레아과",
+      "name_latin": "Lamprosomatinae"
+    },
+    "genus": {
+      "name_ko": "반짝이잎벌레속",
+      "name_latin": "Oomorphoides"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 반짝이잎벌레아과 (Lamprosomatinae)\n속 : 반짝이잎벌레속 (Oomorphoides)",
+  "basic_information": {
+    "곤충명": "두릅나무잎벌레",
+    "학명": "Oomorphoides cupreatus (Baly, 1873)"
+  },
+  "information": {
+    "general_description": "몸길이는 2.8~3.3mm, 앞가슴든반의 둥글다. 등판에 점각. 채색에 변이가 있으며 강한 융기. 발마디의 발톱에 한쌍의 소돌기가 있다. 한국(북부,중부,남부), 일본(훗가이도,혼슈,시코쿠,큐슈,유큐)에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 3~6월,8~10월에 발견된다. 두릅나무에서 많이 발견, 4~5월에 산란 그 알은 긴 실로 잎에 매달린다.",
+    "habits": "기주식물 두릅나무.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 2.8~3.3mm, 앞가슴든반의 둥글다. 등판에 점각. 채색에 변이가 있으며 강한 융기. 발마디의 발톱에 한쌍의 소돌기가 있다. 한국(북부,중부,남부), 일본(훗가이도,혼슈,시코쿠,큐슈,유큐)에 분포되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 3~6월,8~10월에 발견된다. 두릅나무에서 많이 발견, 4~5월에 산란 그 알은 긴 실로 잎에 매달린다."
+    },
+    {
+      "title": "습성",
+      "text": "기주식물 두릅나무."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0096-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0096_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0096_1_th.jpg",
+      "alt": "두릅나무잎벌레 1번째 사진 : 두릅나무잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0096_1_th2.jpg",
+      "caption": "두릅나무잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0096-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0306231033",
+      "description": "[FRIE0306231033] 두릅나무잎벌레 1999.07.20 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0306241002",
+      "description": "[FRIE0306241002] 두릅나무잎벌레 1998.04.24 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0306231014",
+      "description": "[FRIE0306231014] 두릅나무잎벌레 1980.05.20 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "두릅나무",
+      "scientific_name": "Aralia elata (Miq.) Seem."
+    },
+    {
+      "group": "식물",
+      "name_ko": "음나무",
+      "scientific_name": "Kalopanax septemlobus (Thunb.) Koidz."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0096-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0096&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:38+00:00",
+    "html_sha256": "c71392124486bbbde3f964e507cef78c2d3d25f798102e9f06ca4aec40f673b8",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

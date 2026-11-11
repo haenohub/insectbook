@@ -1,0 +1,103 @@
+{
+  "id": "ZOBT0271",
+  "name_ko": "유리꼬마벼룩잎벌레",
+  "scientific_name": "Crepidodera picipes (Weise, 1887)",
+  "display_name": "유리꼬마벼룩잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "긴더듬이잎벌레아과",
+      "name_latin": "Galerucinae"
+    },
+    "genus": {
+      "name_ko": "꼬마벼룩잎벌레속",
+      "name_latin": "Crepidodera"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 긴더듬이잎벌레아과 (Galerucinae)\n속 : 꼬마벼룩잎벌레속 (Crepidodera)",
+  "basic_information": {
+    "곤충명": "유리꼬마벼룩잎벌레",
+    "학명": "Crepidodera picipes (Weise, 1887)"
+  },
+  "information": {
+    "general_description": "체색은 전반적으로 금속광택이 나는 파란색이며, 다리는 검은청색을 띤다. 크기가 작으며 두정에는 홈이 없고 평평하다.동시베리아, 남중국, 한국 등지에 분포한다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체색은 전반적으로 금속광택이 나는 파란색이며, 다리는 검은청색을 띤다. 크기가 작으며 두정에는 홈이 없고 평평하다.동시베리아, 남중국, 한국 등지에 분포한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0271-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0271_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0271_1_th.jpg",
+      "alt": "유리꼬마벼룩잎벌레 1번째 사진 : 유리꼬마벼룩잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0271_1_th2.jpg",
+      "caption": "유리꼬마벼룩잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0271-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0306231027",
+      "description": "[FRIE0306231027] 유리꼬마벼룩잎벌레 1999.07.20 / / 국립산림과학원"
+    },
+    {
+      "id": "KPNE0607121119",
+      "description": "[KPNE0607121119] 유리꼬마벼룩잎벌레 1988.10.11 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0607121120",
+      "description": "[KPNE0607121120] 유리꼬마벼룩잎벌레 1999.05.07 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0271-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0271&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:12+00:00",
+    "html_sha256": "2bc133e4587329100d1d8d3541aa67c5b0398dd8143682fd0b5f6deeb242c32f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

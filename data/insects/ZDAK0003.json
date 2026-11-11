@@ -1,0 +1,114 @@
+{
+  "id": "ZDAK0003",
+  "name_ko": "산측범잠자리",
+  "scientific_name": "Asiagomphus melanopsoides (Doi, 1943)",
+  "display_name": "산측범잠자리",
+  "family_ko": "측범잠자리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "잠자리목",
+      "name_latin": "Odonata"
+    },
+    "family": {
+      "name_ko": "측범잠자리과",
+      "name_latin": "Gomphidae"
+    },
+    "subfamily": {
+      "name_ko": "측범잠자리아과",
+      "name_latin": "Gomphinae"
+    },
+    "genus": {
+      "name_ko": "산측범잠자리속",
+      "name_latin": "Asiagomphus"
+    }
+  },
+  "taxonomy_text": "목 : 잠자리목 (Odonata)\n과 : 측범잠자리과 (Gomphidae)\n아과 : 측범잠자리아과 (Gomphinae)\n속 : 산측범잠자리속 (Asiagomphus)",
+  "basic_information": {
+    "곤충명": "산측범잠자리",
+    "학명": "Asiagomphus melanopsoides (Doi, 1943)"
+  },
+  "information": {
+    "general_description": "얼굴과 이마혹은 흑색이고 이마와 큰턱밑은 수컷이 녹색, 암컷은 황색. 가슴앞면은 흑색이며 연속하는 녹색, 황색의 무늬 존재. 날개는 투명하나 암컷은 하부가 황색. 날개맥은 흑갈색이며 가두리무늬는 갈색. 다리는 앞다리허벅다리의 옅은 색을 제외하고 모두 흑색. 배는 흑색. 등쪽 중앙에 가는 녹색(수)과 황색(암) 존재. 배의 8마디와 10마디는 흑색이며, 9마디의 뒷가두리에는 녹색과 황색 띠.",
+    "adult": null,
+    "adult_male": "배길이: 38mm, 뒷날개: 35mm",
+    "adult_female": "배길이: 40mm, 뒷날개: 38mm",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "얼굴과 이마혹은 흑색이고 이마와 큰턱밑은 수컷이 녹색, 암컷은 황색. 가슴앞면은 흑색이며 연속하는 녹색, 황색의 무늬 존재. 날개는 투명하나 암컷은 하부가 황색. 날개맥은 흑갈색이며 가두리무늬는 갈색. 다리는 앞다리허벅다리의 옅은 색을 제외하고 모두 흑색. 배는 흑색. 등쪽 중앙에 가는 녹색(수)과 황색(암) 존재. 배의 8마디와 10마디는 흑색이며, 9마디의 뒷가두리에는 녹색과 황색 띠."
+    },
+    {
+      "title": "성충(수)",
+      "text": "배길이: 38mm, 뒷날개: 35mm"
+    },
+    {
+      "title": "성충(암)",
+      "text": "배길이: 40mm, 뒷날개: 38mm"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZDAK0003-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAK0003_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAK0003_2_th.jpg",
+      "alt": "산측범잠자리 1번째 사진 : 산측범잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAK0003_2_th2.jpg",
+      "caption": "산측범잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZDAK0003-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAK0003_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAK0003_1_th.jpg",
+      "alt": "산측범잠자리 2번째 사진 : 산측범잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAK0003_1_th2.jpg",
+      "caption": "산측범잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZDAK0003-1",
+  "specimen_examples": [
+    {
+      "id": "ADUE0202181035",
+      "description": "[ADUE0202181035] 산측범잠자리 2000.05.24 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0202181036",
+      "description": "[ADUE0202181036] 산측범잠자리 1998.05.23 / / 안동대학교"
+    },
+    {
+      "id": "KNAE0604100056",
+      "description": "[KNAE0604100056] 산측범잠자리 2005.08.10 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZDAK0003-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZDAK0003&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:37+00:00",
+    "html_sha256": "a8b4d0ca8b4c883be861c3e36605708d7a0191e5d685935e830556d171ab5128",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

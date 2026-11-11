@@ -1,0 +1,114 @@
+{
+  "id": "ZOCF0023",
+  "name_ko": "털보바구미",
+  "scientific_name": "Enaptorhinus granulatus Pascoe, 1881",
+  "display_name": "털보바구미",
+  "family_ko": "바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "바구미과",
+      "name_latin": "Curculionidae"
+    },
+    "subfamily": {
+      "name_ko": "줄바구미아과",
+      "name_latin": "Entiminae"
+    },
+    "genus": {
+      "name_ko": "털보바구미속",
+      "name_latin": "Enaptorhinus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 바구미과 (Curculionidae)\n아과 : 줄바구미아과 (Entiminae)\n속 : 털보바구미속 (Enaptorhinus)",
+  "basic_information": {
+    "곤충명": "털보바구미",
+    "학명": "Enaptorhinus granulatus Pascoe, 1881"
+  },
+  "information": {
+    "general_description": "한국(북부, 중부), 중국에 분포하며, 몸길이 8.0-12.5 mm. 발톱기부는 분리되어 자유롭다. 주둥이 등면 이마 앞에 가로도랑이 있다. 딱지날개 후방 엉덩이 부분에 매우 긴 강모를 갖는다. 후경절에 긴 강모형 털이 있다. 딱지날개 제5간실의 용골돌기는 매우 약하고, 등면은 낣짝하지 않다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국(북부, 중부), 중국에 분포하며, 몸길이 8.0-12.5 mm. 발톱기부는 분리되어 자유롭다. 주둥이 등면 이마 앞에 가로도랑이 있다. 딱지날개 후방 엉덩이 부분에 매우 긴 강모를 갖는다. 후경절에 긴 강모형 털이 있다. 딱지날개 제5간실의 용골돌기는 매우 약하고, 등면은 낣짝하지 않다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCF0023-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0023_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0023_2_th.jpg",
+      "alt": "털보바구미 1번째 사진 : 털보바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0023_2_th2.jpg",
+      "caption": "털보바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOCF0023-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0023_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0023_1_th.jpg",
+      "alt": "털보바구미 2번째 사진 : 털보바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0023_1_th2.jpg",
+      "caption": "털보바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCF0023-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303122052",
+      "description": "[KNAE0303122052] 털보바구미 1992.06.30 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303122054",
+      "description": "[KNAE0303122054] 털보바구미 1995.05.18 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303122055",
+      "description": "[KNAE0303122055] 털보바구미 1995.06.15 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOCF0023-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCF0023&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:18+00:00",
+    "html_sha256": "432e930239d42108f8fd1b58a51c70ccf3c7f05c6cd9ba0eccb8cb81c75cfbe6",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "ZRCI0387",
+  "name_ko": "갈색가지나방",
+  "scientific_name": "Ectropis obliqua (Prout, 1915)",
+  "display_name": "갈색가지나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "가지나방아과",
+      "name_latin": "Ennominae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Ectropis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 가지나방아과 (Ennominae)\n속 : (Ectropis)",
+  "basic_information": {
+    "곤충명": "갈색가지나방",
+    "학명": "Ectropis obliqua (Prout, 1915)"
+  },
+  "information": {
+    "general_description": "날개편길이 23~30mm. 날개물결가지나방과 유사하나 일반적으로 크기가 작고 앞날개의 외횡선은 직선에 가까우며 후연에서는 날개물결가지나방보다 외연에 기움. 뒷날개의 외행선은 거의 톱니모양을 이루지 않음.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편길이 23~30mm. 날개물결가지나방과 유사하나 일반적으로 크기가 작고 앞날개의 외횡선은 직선에 가까우며 후연에서는 날개물결가지나방보다 외연에 기움. 뒷날개의 외행선은 거의 톱니모양을 이루지 않음."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0387-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0387_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0387_1_th.jpg",
+      "alt": "갈색가지나방 1번째 사진 : 갈색가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0387_1_th2.jpg",
+      "caption": "갈색가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0387-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0302131032",
+      "description": "[FRIE0302131032] 갈색가지나방 1984.04.19 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0301022021",
+      "description": "[KNAE0301022021] 갈색가지나방 1991.07.08 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0301022022",
+      "description": "[KNAE0301022022] 갈색가지나방 1991.07.21 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRCI0387.png",
+    "reference_image_id": "ZRCI0387-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T16:20:35.309775+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "c74557fc11bdc6fd0e2800303d2c6a0a8adb7ca35b39c1cf1c51ea8e1716ed4d"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0387&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:26+00:00",
+    "html_sha256": "13726d3a3c12eaac8a13516700c0b772e853139e6b9a3ce9d4a460dd89f9be43",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

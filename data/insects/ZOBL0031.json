@@ -1,0 +1,114 @@
+{
+  "id": "ZOBL0031",
+  "name_ko": "우리꽃하늘소",
+  "scientific_name": "Sivana bicolor (Ganglbauer, 1887)",
+  "display_name": "우리꽃하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "꽃하늘소아과",
+      "name_latin": "Lepturinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Sivana"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 꽃하늘소아과 (Lepturinae)\n속 : (Sivana)",
+  "basic_information": {
+    "곤충명": "우리꽃하늘소",
+    "학명": "Sivana bicolor (Ganglbauer, 1887)"
+  },
+  "information": {
+    "general_description": "몸의 길이는 10~16mm 이며, 몸은 전체적으로 진한갈색이고, 두부는 암갈색, 딱지날개는 연한갈색이고, 중앙부는 진한갈색이다. 촉각의 길이는 딱지날개 끝을 넘는다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의 길이는 10~16mm 이며, 몸은 전체적으로 진한갈색이고, 두부는 암갈색, 딱지날개는 연한갈색이고, 중앙부는 진한갈색이다. 촉각의 길이는 딱지날개 끝을 넘는다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0031-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0031_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0031_2_th.jpg",
+      "alt": "우리꽃하늘소 1번째 사진 : 우리꽃하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0031_2_th2.jpg",
+      "caption": "우리꽃하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBL0031-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0031_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0031_1_th.jpg",
+      "alt": "우리꽃하늘소 2번째 사진 : 우리꽃하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0031_1_th2.jpg",
+      "caption": "우리꽃하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0031-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0203051035",
+      "description": "[KPNE0203051035] 우리꽃하늘소 1981.07.24 / / 경북대학교"
+    },
+    {
+      "id": "KNAE0806170001",
+      "description": "[KNAE0806170001] 우리꽃하늘소 2002.05.21 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0911091112",
+      "description": "[KNAE0911091112] 우리꽃하늘소 2002.05.21 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0031-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0031&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:00+00:00",
+    "html_sha256": "da4f5cd4ac6011f34a0095ad472f651a1acf3e0802f0dde196449e2606c107bf",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

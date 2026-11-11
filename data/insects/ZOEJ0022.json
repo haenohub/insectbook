@@ -1,0 +1,99 @@
+{
+  "id": "ZOEJ0022",
+  "name_ko": "사흘베르크털보갈색풍뎅이",
+  "scientific_name": "Lasiopsis sahlbergi (Mannerheim, 1849)",
+  "display_name": "사흘베르크털보갈색풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "검정풍뎅이아과",
+      "name_latin": "Melolonthinae"
+    },
+    "genus": {
+      "name_ko": "털보갈색풍뎅이속",
+      "name_latin": "Lasiopsis"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 검정풍뎅이아과 (Melolonthinae)\n속 : 털보갈색풍뎅이속 (Lasiopsis)",
+  "basic_information": {
+    "곤충명": "사흘베르크털보갈색풍뎅이",
+    "학명": "Lasiopsis sahlbergi (Mannerheim, 1849)"
+  },
+  "information": {
+    "general_description": "만주, 시베리아 동부, 대만에 분포하며, 몸은 긴 타원형이며 황갈색으로 광택이 잇고, 머리는 진하나 가슴은 엷은 적갈색이며, 등쪽은 털은 짧으나 복면의 털은 길고 조밀하다. 머리는 비교적 자고, 방패의 앞쪽은 상반하였고 중앙은 약간 파였다. 촉각은 9마디인데 곤봉부는 3마디이며, 수컷은 자루부분의 절반보다 약간 길고 암컷은 보다 짧다. 앞가슴등판의 점각은 작고 조밀한데 짧고 황색의 누운 털을 동반하다. 따기날개는 길어서 가슴폭의 2배가 넘으며, 3개의 가는 세로융기선이 있고, 털은 매우 짧고 가늘며 누었으나 옆가장자리에는 긴 가시털이 열생하였다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "만주, 시베리아 동부, 대만에 분포하며, 몸은 긴 타원형이며 황갈색으로 광택이 잇고, 머리는 진하나 가슴은 엷은 적갈색이며, 등쪽은 털은 짧으나 복면의 털은 길고 조밀하다. 머리는 비교적 자고, 방패의 앞쪽은 상반하였고 중앙은 약간 파였다. 촉각은 9마디인데 곤봉부는 3마디이며, 수컷은 자루부분의 절반보다 약간 길고 암컷은 보다 짧다. 앞가슴등판의 점각은 작고 조밀한데 짧고 황색의 누운 털을 동반하다. 따기날개는 길어서 가슴폭의 2배가 넘으며, 3개의 가는 세로융기선이 있고, 털은 매우 짧고 가늘며 누었으나 옆가장자리에는 긴 가시털이 열생하였다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOEJ0022-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0022_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0022_1_th.jpg",
+      "alt": "사흘베르크털보갈색풍뎅이 1번째 사진 : 사흘베르그털보갈색풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0022_1_th2.jpg",
+      "caption": "사흘베르그털보갈색풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOEJ0022-1",
+  "specimen_examples": [
+    {
+      "id": "SSUE0112201012",
+      "description": "[SSUE0112201012] 사흘베르크털보갈색풍뎅이 1981.07.30 / / 성신여자대학교"
+    },
+    {
+      "id": "JFNE0408061086",
+      "description": "[JFNE0408061086] 사흘베르크털보갈색풍뎅이 1992.06.26 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0408061087",
+      "description": "[JFNE0408061087] 사흘베르크털보갈색풍뎅이 1992.06.27 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOEJ0022-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOEJ0022&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:30+00:00",
+    "html_sha256": "087e4e05cad0bc4fcda89abfda77c950f3c0bd0d6d4adf2fe1346ae6c2b27401",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "id": "ZREV0024",
+  "name_ko": "톱갈색박각시",
+  "scientific_name": "Mimas christophi (Staudinger, 1887)",
+  "display_name": "톱갈색박각시",
+  "family_ko": "박각시과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "누에나방상과",
+      "name_latin": "Bombycoidea"
+    },
+    "family": {
+      "name_ko": "박각시과",
+      "name_latin": "Sphingidae"
+    },
+    "subfamily": {
+      "name_ko": "박각시아과",
+      "name_latin": "Sphinginae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Mimas"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 누에나방상과 (Bombycoidea)\n과 : 박각시과 (Sphingidae)\n아과 : 박각시아과 (Sphinginae)\n속 : (Mimas)",
+  "basic_information": {
+    "곤충명": "톱갈색박각시",
+    "학명": "Mimas christophi (Staudinger, 1887)"
+  },
+  "information": {
+    "general_description": "날개편 길이 59～77mm. 봄에 발생하는 개체들은 앞날개 중앙의 흑갈색 띠가 뚜렷하게 발달하나 여름에 발생하는 개체들은 중실내에서 한번 끊어지거나 중실 아래로 없어진다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "5월중순부터 8월말까지 출현.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[유럽]\n[러시아]\n[중국]\n[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 59～77mm. 봄에 발생하는 개체들은 앞날개 중앙의 흑갈색 띠가 뚜렷하게 발달하나 여름에 발생하는 개체들은 중실내에서 한번 끊어지거나 중실 아래로 없어진다."
+    },
+    {
+      "title": "생태",
+      "text": "5월중순부터 8월말까지 출현."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[유럽]\n[러시아]\n[중국]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREV0024-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0024_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0024_1_th.jpg",
+      "alt": "톱갈색박각시 1번째 사진 : 톱갈색박각시전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0024_1_th2.jpg",
+      "caption": "톱갈색박각시전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREV0024-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0301301035",
+      "description": "[KNAE0301301035] 톱갈색박각시 1999.07.21 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0301301037",
+      "description": "[KNAE0301301037] 톱갈색박각시 1999.07.21 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0301301036",
+      "description": "[KNAE0301301036] 톱갈색박각시 1999.07.21 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "느릅나무",
+      "scientific_name": "Ulmus davidiana var. japonica (Rehder) Nakai"
+    },
+    {
+      "group": "식물",
+      "name_ko": "떡갈나무",
+      "scientific_name": "Quercus dentata Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "오리나무",
+      "scientific_name": "Alnus japonica (Thunb.) Steud."
+    },
+    {
+      "group": "식물",
+      "name_ko": "피나무",
+      "scientific_name": "Tilia amurensis Rupr."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREV0024-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREV0024&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:25+00:00",
+    "html_sha256": "d8f26d81dac19b459da0949b578a92de0dbe03e73248eb9efd0c99d10da84524",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

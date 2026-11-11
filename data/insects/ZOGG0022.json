@@ -1,0 +1,99 @@
+{
+  "id": "ZOGG0022",
+  "name_ko": "제주풍뎅이",
+  "scientific_name": "Anomala quelparta Okamoto, 1924",
+  "display_name": "제주풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "풍뎅이아과",
+      "name_latin": "Rutelinae"
+    },
+    "genus": {
+      "name_ko": "청동풍뎅이속",
+      "name_latin": "Anomala"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 풍뎅이아과 (Rutelinae)\n속 : 청동풍뎅이속 (Anomala)",
+  "basic_information": {
+    "곤충명": "제주풍뎅이",
+    "학명": "Anomala quelparta Okamoto, 1924"
+  },
+  "information": {
+    "general_description": "제주특별자치도에 분포하며, 원통형으로 두껑누 난형이며 광택이 특히 강하다. 등쪽과 다리는 흑색 내지 구릿빛 녹색이며, 딱지날개와 배는 고동색이이다. 머리방패는 가로로 긴 형이며, 이마의 앞쪽보다 훨씬 낮고, 앞 모서리는 둥근데 측연과 함께 높이 솟았고, 점각은 크나 낮고 불규칙한 주름상이다. 앞가슴등판은 높게 튀어 올랐고, 날개의 조구는 매우 낮아서 구분하기 어려우며, 점각도 낮고 둥근데 뒤쪽으로 열렸으며, 간실점각은 약간 더 크고 거의 열상인데 현미경적인 것이 섞여 있다. 수컷만 관찰되었다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "제주특별자치도에 분포하며, 원통형으로 두껑누 난형이며 광택이 특히 강하다. 등쪽과 다리는 흑색 내지 구릿빛 녹색이며, 딱지날개와 배는 고동색이이다. 머리방패는 가로로 긴 형이며, 이마의 앞쪽보다 훨씬 낮고, 앞 모서리는 둥근데 측연과 함께 높이 솟았고, 점각은 크나 낮고 불규칙한 주름상이다. 앞가슴등판은 높게 튀어 올랐고, 날개의 조구는 매우 낮아서 구분하기 어려우며, 점각도 낮고 둥근데 뒤쪽으로 열렸으며, 간실점각은 약간 더 크고 거의 열상인데 현미경적인 것이 섞여 있다. 수컷만 관찰되었다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGG0022-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0022_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0022_1_th.jpg",
+      "alt": "제주풍뎅이 1번째 사진 : 제주풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0022_1_th2.jpg",
+      "caption": "제주풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGG0022-1",
+  "specimen_examples": [
+    {
+      "id": "SSUE0202221021",
+      "description": "[SSUE0202221021] 제주풍뎅이 1997.07.14 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0202221025",
+      "description": "[SSUE0202221025] 제주풍뎅이 1997.07.14 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0202221023",
+      "description": "[SSUE0202221023] 제주풍뎅이 1997.07.14 / / 성신여자대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGG0022-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGG0022&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:37+00:00",
+    "html_sha256": "8805bbeca7b65c1200253a8af90b814c50dd9642a5c1ea1cfaa22a214c768e86",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

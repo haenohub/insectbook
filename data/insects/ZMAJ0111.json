@@ -1,0 +1,104 @@
+{
+  "id": "ZMAJ0111",
+  "name_ko": "가는못털진딧물",
+  "scientific_name": "Pleotrichophorus chrysanthemi (Theobald, 1920)",
+  "display_name": "가는못털진딧물",
+  "family_ko": "진딧물과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "진딧물상과",
+      "name_latin": "Aphidoidea"
+    },
+    "family": {
+      "name_ko": "진딧물과",
+      "name_latin": "Aphididae"
+    },
+    "subfamily": {
+      "name_ko": "진딧물아과",
+      "name_latin": "Aphidinae"
+    },
+    "genus": {
+      "name_ko": "가는못털진딧물속",
+      "name_latin": "Pleotrichophorus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 진딧물상과 (Aphidoidea)\n과 : 진딧물과 (Aphididae)\n아과 : 진딧물아과 (Aphidinae)\n속 : 가는못털진딧물속 (Pleotrichophorus)",
+  "basic_information": {
+    "곤충명": "가는못털진딧물",
+    "학명": "Pleotrichophorus chrysanthemi (Theobald, 1920)"
+  },
+  "information": {
+    "general_description": "유시충은 몸길이가 2.38mm 정도이며 황색이거나 연한 녹색이고, 머리와 가슴은 갈색이다. 몸에는 못털이 있다. 무시충 길이는 2.4mm",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[영국]\n[오스트리아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "유시충은 몸길이가 2.38mm 정도이며 황색이거나 연한 녹색이고, 머리와 가슴은 갈색이다. 몸에는 못털이 있다. 무시충 길이는 2.4mm"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[영국]\n[오스트리아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMAJ0111-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAJ0111_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAJ0111_1_th.jpg",
+      "alt": "가는못털진딧물 1번째 사진 : 가는못털진딧물전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAJ0111_1_th2.jpg",
+      "caption": "가는못털진딧물전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMAJ0111-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0409032117",
+      "description": "[SNUE0409032117] 가는못털진딧물 1998.06.04 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0409032225",
+      "description": "[SNUE0409032225] 가는못털진딧물 1987.06.09 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0409032032",
+      "description": "[SNUE0409032032] 가는못털진딧물 2000.06.08 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "approved",
+    "image_path": "assets/illustrations/ZMAJ0111.png",
+    "reference_image_id": "ZMAJ0111-1",
+    "style_id": "gentle-colored-pencil-v1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMAJ0111&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:02+00:00",
+    "html_sha256": "afb17356b4f2c698f546c639902e9a14b921e8f6c3cedfd14becd5007929d97e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

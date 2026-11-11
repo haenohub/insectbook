@@ -1,0 +1,122 @@
+{
+  "id": "ZLBX0051",
+  "name_ko": "북방풀노린재",
+  "scientific_name": "Palomena angulosa (Motschulsky, 1861)",
+  "display_name": "북방풀노린재",
+  "family_ko": "노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "노린재상과",
+      "name_latin": "Pentatomoidea"
+    },
+    "family": {
+      "name_ko": "노린재과",
+      "name_latin": "Pentatomidae"
+    },
+    "subfamily": {
+      "name_ko": "노린재아과",
+      "name_latin": "Pentatominae"
+    },
+    "genus": {
+      "name_ko": "풀노린재속",
+      "name_latin": "Palomena"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 노린재상과 (Pentatomoidea)\n과 : 노린재과 (Pentatomidae)\n아과 : 노린재아과 (Pentatominae)\n속 : 풀노린재속 (Palomena)",
+  "basic_information": {
+    "곤충명": "북방풀노린재",
+    "학명": "Palomena angulosa (Motschulsky, 1861)"
+  },
+  "information": {
+    "general_description": "체장은 일반적으로 12-16mm가량이며, 몸의 등면에는 광택성의 진녹색을 띤다. 노숙한 성충은 현저하게 현저하게 갈색을 띠는 경우도 있다. 앞가슴의 등판은 양모서리가 폭이 넓게 돌출되어 있으며, 막질부는 옅은 갈색을 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 5월에서 9월까지 출현하는데 주로 산지에 많이 나타나며 잡초 또는 관목위에서 생활하는 경우가 많다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체장은 일반적으로 12-16mm가량이며, 몸의 등면에는 광택성의 진녹색을 띤다. 노숙한 성충은 현저하게 현저하게 갈색을 띠는 경우도 있다. 앞가슴의 등판은 양모서리가 폭이 넓게 돌출되어 있으며, 막질부는 옅은 갈색을 띤다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 5월에서 9월까지 출현하는데 주로 산지에 많이 나타나며 잡초 또는 관목위에서 생활하는 경우가 많다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLBX0051-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0051_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0051_2_th.jpg",
+      "alt": "북방풀노린재 1번째 사진 : 북방풀노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0051_2_th2.jpg",
+      "caption": "북방풀노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZLBX0051-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0051_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0051_1_th.jpg",
+      "alt": "북방풀노린재 2번째 사진 : 북방풀노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0051_1_th2.jpg",
+      "caption": "북방풀노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLBX0051-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0303151276",
+      "description": "[KPNE0303151276] 북방풀노린재 1982.07.26 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0303151281",
+      "description": "[KPNE0303151281] 북방풀노린재 1995.07.29 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0303151282",
+      "description": "[KPNE0303151282] 북방풀노린재 2002.05.21 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLBX0051-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLBX0051&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:34+00:00",
+    "html_sha256": "34652b797a5bbc6b4e75cc769f04923a17e0b320d3987b0f77ab38b7057f72cc",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

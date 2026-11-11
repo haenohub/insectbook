@@ -1,0 +1,107 @@
+{
+  "id": "ZOGX0056",
+  "name_ko": "긴맴돌이거저리",
+  "scientific_name": "Stenophanes strigipennis (Marseul, 1876)",
+  "display_name": "긴맴돌이거저리",
+  "family_ko": "거저리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "거저리상과",
+      "name_latin": "Tenebrionoidea"
+    },
+    "family": {
+      "name_ko": "거저리과",
+      "name_latin": "Tenebrionidae"
+    },
+    "subfamily": {
+      "name_ko": "호리병거저리아과",
+      "name_latin": "Stenochiinae"
+    },
+    "genus": {
+      "name_ko": "긴맴돌이거저리속",
+      "name_latin": "Stenophanes"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 거저리상과 (Tenebrionoidea)\n과 : 거저리과 (Tenebrionidae)\n아과 : 호리병거저리아과 (Stenochiinae)\n속 : 긴맴돌이거저리속 (Stenophanes)",
+  "basic_information": {
+    "곤충명": "긴맴돌이거저리",
+    "학명": "Stenophanes strigipennis (Marseul, 1876)"
+  },
+  "information": {
+    "general_description": "몸의 길이는 13~17mm 이며, 몸길이는 대체적으로 긴편이고, 몸은 광택을 띠는 검은색을 띤다. 다리의 색은 적갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의 길이는 13~17mm 이며, 몸길이는 대체적으로 긴편이고, 몸은 광택을 띠는 검은색을 띤다. 다리의 색은 적갈색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGX0056-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGX0056_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGX0056_1_th.jpg",
+      "alt": "긴맴돌이거저리 1번째 사진 : 긴맴돌이거저리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGX0056_1_th2.jpg",
+      "caption": "긴맴돌이거저리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGX0056-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303272032",
+      "description": "[KNAE0303272032] 긴맴돌이거저리 1993.07.15 / / 국립수목원"
+    },
+    {
+      "id": "GSNE0608232151",
+      "description": "[GSNE0608232151] 긴맴돌이거저리 2003.05.28 / / 경상대학교"
+    },
+    {
+      "id": "KNAE0607202057",
+      "description": "[KNAE0607202057] 긴맴돌이거저리 2003.06.21 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOGX0056.png",
+    "reference_image_id": "ZOGX0056-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T09:04:25.838322+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "99e4b43bac05ad4e3e7f119ad4c558e9a181e4f069f1f96c1743e8e317d5c7ff"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGX0056&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:00+00:00",
+    "html_sha256": "a2ddfc83efb83244d6a6b48d0d9b53ef41b2125fa91eaa7977093be9f281ff0c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

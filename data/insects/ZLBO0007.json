@@ -1,0 +1,103 @@
+{
+  "id": "ZLBO0007",
+  "name_ko": "로이터쐐기노린재",
+  "scientific_name": "Nabis (Milu) reuteri Jakovlev, 1876",
+  "display_name": "로이터쐐기노린재",
+  "family_ko": "쐐기노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "빈대상과",
+      "name_latin": "Cimicoidea"
+    },
+    "family": {
+      "name_ko": "쐐기노린재과",
+      "name_latin": "Nabidae"
+    },
+    "subfamily": {
+      "name_ko": "쐐기노린재아과",
+      "name_latin": "Nabinae"
+    },
+    "genus": {
+      "name_ko": "쐐기노린재속",
+      "name_latin": "Nabis"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 빈대상과 (Cimicoidea)\n과 : 쐐기노린재과 (Nabidae)\n아과 : 쐐기노린재아과 (Nabinae)\n속 : 쐐기노린재속 (Nabis)",
+  "basic_information": {
+    "곤충명": "로이터쐐기노린재",
+    "학명": "Nabis (Milu) reuteri Jakovlev, 1876"
+  },
+  "information": {
+    "general_description": "몸길이 : 6~7mm\n등면은 연한 회황색이며, 머리는 길고, 겹눈은 머리의 뒷면에 위치하며 크고 반구상이며 흑갈색이다. 양 눈을 잇는 가로홈이 있으나, 정수리의 정중선 위에 있는 흑색 띠에 의해서 중단되고 이 가로홈의 바로 뒤에 적색의 홑눈이 있다. 아가슴등은 대개 사다리꼴이다. 전엽에는 불규칙한 암갈색의 무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 6~7mm\n등면은 연한 회황색이며, 머리는 길고, 겹눈은 머리의 뒷면에 위치하며 크고 반구상이며 흑갈색이다. 양 눈을 잇는 가로홈이 있으나, 정수리의 정중선 위에 있는 흑색 띠에 의해서 중단되고 이 가로홈의 바로 뒤에 적색의 홑눈이 있다. 아가슴등은 대개 사다리꼴이다. 전엽에는 불규칙한 암갈색의 무늬가 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLBO0007-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBO0007_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBO0007_1_th.jpg",
+      "alt": "로이터쐐기노린재 1번째 사진 : 로이터쐐기노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBO0007_1_th2.jpg",
+      "caption": "로이터쐐기노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLBO0007-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0303181021",
+      "description": "[FRIE0303181021] 로이터쐐기노린재 1980.10.08 / / 국립산림과학원"
+    },
+    {
+      "id": "ADUE1206181017",
+      "description": "[ADUE1206181017] 로이터쐐기노린재 2011.03.25 / / 안동대학교"
+    },
+    {
+      "id": "RIFI1207062047",
+      "description": "[RIFI1207062047] 로이터쐐기노린재 2008.07.06 / / 산림곤충다양성연구소"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLBO0007-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLBO0007&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:35+00:00",
+    "html_sha256": "25b37958e0497b58d9f60fa28c491d11df5aef943450dbf1e0dd5b0e9a4d8336",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "ZOGT0101",
+  "name_ko": "왕붉은딱지반날개",
+  "scientific_name": "Agelosus carinatus carinatus (Sharp, 1874)",
+  "display_name": "왕붉은딱지반날개",
+  "family_ko": "반날개과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "반날개상과",
+      "name_latin": "Staphylinoidea"
+    },
+    "family": {
+      "name_ko": "반날개과",
+      "name_latin": "Staphylinidae"
+    },
+    "subfamily": {
+      "name_ko": "반날개아과",
+      "name_latin": "Staphylininae"
+    },
+    "genus": {
+      "name_ko": "왕붉은딱지반날개속",
+      "name_latin": "Agelosus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 반날개상과 (Staphylinoidea)\n과 : 반날개과 (Staphylinidae)\n아과 : 반날개아과 (Staphylininae)\n속 : 왕붉은딱지반날개속 (Agelosus)",
+  "basic_information": {
+    "곤충명": "왕붉은딱지반날개",
+    "학명": "Agelosus carinatus carinatus (Sharp, 1874)"
+  },
+  "information": {
+    "general_description": "몸의 길이는 19~21mm 이며, 겹눈과 다리는 적갈색이고, 딱지날개는 붉은색을 띄며,몸은 검은색을 띈다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의 길이는 19~21mm 이며, 겹눈과 다리는 적갈색이고, 딱지날개는 붉은색을 띄며,몸은 검은색을 띈다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGT0101-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGT0101_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGT0101_1_th.jpg",
+      "alt": "왕붉은딱지반날개 1번째 사진 : 왕붉은딱지반날개전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGT0101_1_th2.jpg",
+      "caption": "왕붉은딱지반날개전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGT0101-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0112216006",
+      "description": "[YNUE0112216006] 왕붉은딱지반날개 1994.05.11 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0112286013",
+      "description": "[YNUE0112286013] 왕붉은딱지반날개 1994.06.24 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0201156015",
+      "description": "[YNUE0201156015] 왕붉은딱지반날개 1998.07.09 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGT0101-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGT0101&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:39+00:00",
+    "html_sha256": "a90608bf32ebfe8c736dc8b1fdf6d117d5b56c268b2ca5fa8ef5f100c2c99006",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

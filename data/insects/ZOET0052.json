@@ -1,0 +1,107 @@
+{
+  "id": "ZOET0052",
+  "name_ko": "네눈박이밑빠진벌레",
+  "scientific_name": "Glischrochilus (Librodor) japonicus (Motschulsky, 1858)",
+  "display_name": "네눈박이밑빠진벌레",
+  "family_ko": "밑빠진벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "머리대장상과",
+      "name_latin": "Cucujoidea"
+    },
+    "family": {
+      "name_ko": "밑빠진벌레과",
+      "name_latin": "Nitidulidae"
+    },
+    "subfamily": {
+      "name_ko": "무늬밑빠진벌레아과",
+      "name_latin": "Cryptarchinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Glischrochilus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 머리대장상과 (Cucujoidea)\n과 : 밑빠진벌레과 (Nitidulidae)\n아과 : 무늬밑빠진벌레아과 (Cryptarchinae)\n속 : (Glischrochilus)",
+  "basic_information": {
+    "곤충명": "네눈박이밑빠진벌레",
+    "학명": "Glischrochilus (Librodor) japonicus (Motschulsky, 1858)"
+  },
+  "information": {
+    "general_description": "몸길이는 7~14mm이며, 앞가슴등판은 딱지날개의 테두리에 흰색의 짧은 털이 있다. 수컷의 큰턱은 나무가지모양이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 7~14mm이며, 앞가슴등판은 딱지날개의 테두리에 흰색의 짧은 털이 있다. 수컷의 큰턱은 나무가지모양이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOET0052-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOET0052_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOET0052_1_th.jpg",
+      "alt": "네눈박이밑빠진벌레 1번째 사진 : 네눈박이밑빠진벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOET0052_1_th2.jpg",
+      "caption": "네눈박이밑빠진벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOET0052-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304112028",
+      "description": "[KNAE0304112028] 네눈박이밑빠진벌레 1995.08.03 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0301222010",
+      "description": "[KNAE0301222010] 네눈박이밑빠진벌레 1991.06.26 / / 국립수목원"
+    },
+    {
+      "id": "FRIE0205131020",
+      "description": "[FRIE0205131020] 네눈박이밑빠진벌레 1984.05.10 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOET0052.png",
+    "reference_image_id": "ZOET0052-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T10:27:30.683365+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "65d841fdd01a4c3c74f32ea3f30954e273ab624c2a7291d1d0210da427e891ce"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOET0052&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:45+00:00",
+    "html_sha256": "5cb79ba5728ec30970289dbc9e748b4c206d8f8a3561ba02f634ded1d2076473",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

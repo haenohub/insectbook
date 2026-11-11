@@ -1,0 +1,99 @@
+{
+  "id": "ZTAG0026",
+  "name_ko": "꼬마애꽃벌",
+  "scientific_name": "Andrena (Micrandrena) kaguya Hirashima, 1965",
+  "display_name": "꼬마애꽃벌",
+  "family_ko": "애꽃벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "애꽃벌과",
+      "name_latin": "Andrenidae"
+    },
+    "subfamily": {
+      "name_ko": "애꽃벌아과",
+      "name_latin": "Andreninae"
+    },
+    "genus": {
+      "name_ko": "애꽃벌속",
+      "name_latin": "Andrena"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 애꽃벌과 (Andrenidae)\n아과 : 애꽃벌아과 (Andreninae)\n속 : 애꽃벌속 (Andrena)",
+  "basic_information": {
+    "곤충명": "꼬마애꽃벌",
+    "학명": "Andrena (Micrandrena) kaguya Hirashima, 1965"
+  },
+  "information": {
+    "general_description": "암컷의 머리는 앞에서 보았을 때 길이와 폭이 비슷하고 둥근편이다. 얼굴에는 전체적으로 흰색털이 성글게 분포한다. 머리방패는 볼록하고 비늘모양의 조각들이 알갱이처럼되어있고 광택이 거의 없다. 큰 점각이 비교적 성글게 있다. 가슴에는 흰색털이 성글게 나있고 표면에는 광택이 있으며 비늘모양의 조각들이 비교적 매끄럽게 되어있다. 가운데 가슴 옆면에 그물모양의 주름 조각들이 있다. 배는 검은 색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷의 머리는 앞에서 보았을 때 길이와 폭이 비슷하고 둥근편이다. 얼굴에는 전체적으로 흰색털이 성글게 분포한다. 머리방패는 볼록하고 비늘모양의 조각들이 알갱이처럼되어있고 광택이 거의 없다. 큰 점각이 비교적 성글게 있다. 가슴에는 흰색털이 성글게 나있고 표면에는 광택이 있으며 비늘모양의 조각들이 비교적 매끄럽게 되어있다. 가운데 가슴 옆면에 그물모양의 주름 조각들이 있다. 배는 검은 색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0026-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0026_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0026_1_th.jpg",
+      "alt": "꼬마애꽃벌 1번째 사진 : 꼬마애꽃벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0026_1_th2.jpg",
+      "caption": "꼬마애꽃벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0026-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0408112004",
+      "description": "[KUIE0408112004] 꼬마애꽃벌 1998.05.22 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTAG0026.png",
+    "reference_image_id": "ZTAG0026-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T14:13:44.014511+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "bce3c7d37febca408a2515d37568da3274a98ca33a4759a5681aba6027935a62"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0026&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:45+00:00",
+    "html_sha256": "b5f80313a62dd1e9dcc31712507a930f2e9997d27e3d7ee781ad366df6fe7b1d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

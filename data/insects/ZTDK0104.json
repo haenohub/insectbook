@@ -1,0 +1,103 @@
+{
+  "id": "ZTDK0104",
+  "name_ko": "띠노래기벌",
+  "scientific_name": "Cerceris arenaria (Linnaeus, 1758)",
+  "display_name": "띠노래기벌",
+  "family_ko": "은주둥이벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "은주둥이벌과",
+      "name_latin": "Crabronidae"
+    },
+    "subfamily": {
+      "name_ko": "노래기벌아과",
+      "name_latin": "Philanthinae"
+    },
+    "genus": {
+      "name_ko": "노래기벌속",
+      "name_latin": "Cerceris"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 은주둥이벌과 (Crabronidae)\n아과 : 노래기벌아과 (Philanthinae)\n속 : 노래기벌속 (Cerceris)",
+  "basic_information": {
+    "곤충명": "띠노래기벌",
+    "학명": "Cerceris arenaria (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "몸길이는 11-16mm 정도이며 몸은 흑색이다. 더듬이의 아랫면과 큰턱의 기부와 다리는 대부분 적갈색을 띠고 있다. 날개는 암갈색이고 끝이 다소 길다. 전신에 점각이 밀포한다. 암컷은 수컷과 거의 같으나 얼굴의 무늬는 머리방패와 겹눈사이를 분리하고 다리는 기부가 흑갈색이고 끝이 차차 적갈색으로 되었고 황색 무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 11-16mm 정도이며 몸은 흑색이다. 더듬이의 아랫면과 큰턱의 기부와 다리는 대부분 적갈색을 띠고 있다. 날개는 암갈색이고 끝이 다소 길다. 전신에 점각이 밀포한다. 암컷은 수컷과 거의 같으나 얼굴의 무늬는 머리방패와 겹눈사이를 분리하고 다리는 기부가 흑갈색이고 끝이 차차 적갈색으로 되었고 황색 무늬가 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDK0104-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0104_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0104_1_th.jpg",
+      "alt": "띠노래기벌 1번째 사진 : 띠노래기벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0104_1_th2.jpg",
+      "caption": "띠노래기벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDK0104-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306261016",
+      "description": "[YNUE0306261016] 띠노래기벌 1996.06.26 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0201182033",
+      "description": "[YNUE0201182033] 띠노래기벌 1995.08.15 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0201182034",
+      "description": "[YNUE0201182034] 띠노래기벌 1995.08.16 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDK0104-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDK0104&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:30+00:00",
+    "html_sha256": "d01cf6bc2da67b81d0013c22f82aaf055275f8a2333fb09af1fd2719b906d602",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

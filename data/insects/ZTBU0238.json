@@ -1,0 +1,103 @@
+{
+  "id": "ZTBU0238",
+  "name_ko": "긴가락지자루맵시벌",
+  "scientific_name": "Heteropelma megatrhrum (Ratzeburg, 1848)",
+  "display_name": "긴가락지자루맵시벌",
+  "family_ko": "맵시벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "맵시벌과",
+      "name_latin": "Ichneumonidae"
+    },
+    "subfamily": {
+      "name_ko": "그물등자루맵시벌아과",
+      "name_latin": "Anomaloninae"
+    },
+    "genus": {
+      "name_ko": "긴가락지자루맵시벌속",
+      "name_latin": "Heteropelma"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 맵시벌과 (Ichneumonidae)\n아과 : 그물등자루맵시벌아과 (Anomaloninae)\n속 : 긴가락지자루맵시벌속 (Heteropelma)",
+  "basic_information": {
+    "곤충명": "긴가락지자루맵시벌",
+    "학명": "Heteropelma megatrhrum (Ratzeburg, 1848)"
+  },
+  "information": {
+    "general_description": "아래입술수염은 4개의 마디를 가진다. 전신복절은 그물모양이다. 앞가슴등판에는 약한 가로 도랑이 있다. 앞날개의 Rs 맥은 물결모양으로 되어 있다. CI: 0.55-0.80, BI: 0.44, DBI: 1.0, BAI: 1.80, MI: 1.75-1.90, NI: 0.45-0.50, ICI: 1.20, RI: 1.25, PI: 3.86, LBI: 7.0, CI: 0.55-0.80, 날개 길이: 8-11 mm",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "아래입술수염은 4개의 마디를 가진다. 전신복절은 그물모양이다. 앞가슴등판에는 약한 가로 도랑이 있다. 앞날개의 Rs 맥은 물결모양으로 되어 있다. CI: 0.55-0.80, BI: 0.44, DBI: 1.0, BAI: 1.80, MI: 1.75-1.90, NI: 0.45-0.50, ICI: 1.20, RI: 1.25, PI: 3.86, LBI: 7.0, CI: 0.55-0.80, 날개 길이: 8-11 mm"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBU0238-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0238_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0238_1_th.jpg",
+      "alt": "긴가락지자루맵시벌 1번째 사진 : 긴가락지자루맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0238_1_th2.jpg",
+      "caption": "긴가락지자루맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBU0238-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306021048",
+      "description": "[YNUE0306021048] 긴가락지자루맵시벌 1983.05.29 / / 영남대학교"
+    },
+    {
+      "id": "KNAE348225",
+      "description": "[KNAE348225] 긴가락지자루맵시벌 / / 국립수목원"
+    },
+    {
+      "id": "KNAE348227",
+      "description": "[KNAE348227] 긴가락지자루맵시벌 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTBU0238.png",
+    "reference_image_id": "ZTBU0238-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T15:17:36.197446+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "e21c86d1a1741cfcdd96c74cef11ed5ec29f92f073ed63d786274ab0d19f796e"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBU0238&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:51+00:00",
+    "html_sha256": "db13df996b48664224b693504ee07a71ca541b83e399013ff416f70907c79858",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

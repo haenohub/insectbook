@@ -1,0 +1,99 @@
+{
+  "id": "ZTDK0040",
+  "name_ko": "염주꼬마구멍벌",
+  "scientific_name": "Passaloecus monilicornis Dahlbom, 1842",
+  "display_name": "염주꼬마구멍벌",
+  "family_ko": "은주둥이벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "은주둥이벌과",
+      "name_latin": "Crabronidae"
+    },
+    "subfamily": {
+      "name_ko": "진딧물벌아과",
+      "name_latin": "Pemphredoninae"
+    },
+    "genus": {
+      "name_ko": "꼬마구멍벌속",
+      "name_latin": "Passaloecus"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 은주둥이벌과 (Crabronidae)\n아과 : 진딧물벌아과 (Pemphredoninae)\n속 : 꼬마구멍벌속 (Passaloecus)",
+  "basic_information": {
+    "곤충명": "염주꼬마구멍벌",
+    "학명": "Passaloecus monilicornis Dahlbom, 1842"
+  },
+  "information": {
+    "general_description": "몸길이는 5.3mm 정도이며 몸은 흑색이다. 더듬이의 자루마디 앞면과 큰턱은 황백색내지 유백색이다. 앞다리의 종아리마디와 발목마디는 갈색이고 그 바깥쪽 면은 흑갈색이며 가운데다리와 뒷다리의 종아리마디와 발목마디는 흑갈색이며 뒷다리의 종아리마디는 거의 흑색이고 그 발목마디는 각 마디 끝이 다소 갈색이다. 날개는 투명하나 광선에 따라 아름다운 색깔을 보인다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "장미진딧물. 국화잔닷물 등의 유충을 포식한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 5.3mm 정도이며 몸은 흑색이다. 더듬이의 자루마디 앞면과 큰턱은 황백색내지 유백색이다. 앞다리의 종아리마디와 발목마디는 갈색이고 그 바깥쪽 면은 흑갈색이며 가운데다리와 뒷다리의 종아리마디와 발목마디는 흑갈색이며 뒷다리의 종아리마디는 거의 흑색이고 그 발목마디는 각 마디 끝이 다소 갈색이다. 날개는 투명하나 광선에 따라 아름다운 색깔을 보인다."
+    },
+    {
+      "title": "생태",
+      "text": "장미진딧물. 국화잔닷물 등의 유충을 포식한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDK0040-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0040_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0040_1_th.jpg",
+      "alt": "염주꼬마구멍벌 1번째 사진 : 염주꼬마구멍벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0040_1_th2.jpg",
+      "caption": "염주꼬마구멍벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDK0040-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306262083",
+      "description": "[YNUE0306262083] 염주꼬마구멍벌 1960.06.27 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDK0040-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDK0040&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:14+00:00",
+    "html_sha256": "c9350395c279017cad782d9295d2109bd95ae60ffc72b4a92f530e54cf0bedc1",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

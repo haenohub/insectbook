@@ -1,0 +1,103 @@
+{
+  "id": "ZTDO0014",
+  "name_ko": "루이스잎벌",
+  "scientific_name": "Dolerus lewisii Cameron, 1887",
+  "display_name": "루이스잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "줄잎벌아과",
+      "name_latin": "Selandriinae"
+    },
+    "genus": {
+      "name_ko": "보리잎벌속",
+      "name_latin": "Dolerus"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 줄잎벌아과 (Selandriinae)\n속 : 보리잎벌속 (Dolerus)",
+  "basic_information": {
+    "곤충명": "루이스잎벌",
+    "학명": "Dolerus lewisii Cameron, 1887"
+  },
+  "information": {
+    "general_description": "복부는 금속성 광택이 있으며, pronotum은 흑색이다. 어깨판은 황갈색이다. 윗입술의 가두리 부위는 다소 V형이고, cerci의 털은 산란관 끝에 미친다. 머리는 금속성 광택이 없다. 복부마디의 뒷가두리는 백색의 띠가 있다. 날개는 다소 갈색을 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "복부는 금속성 광택이 있으며, pronotum은 흑색이다. 어깨판은 황갈색이다. 윗입술의 가두리 부위는 다소 V형이고, cerci의 털은 산란관 끝에 미친다. 머리는 금속성 광택이 없다. 복부마디의 뒷가두리는 백색의 띠가 있다. 날개는 다소 갈색을 띤다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0014-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0014_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0014_1_th.jpg",
+      "alt": "루이스잎벌 1번째 사진 : 루이스잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0014_1_th2.jpg",
+      "caption": "루이스잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0014-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305171079",
+      "description": "[YNUE0305171079] 루이스잎벌 1986.03.28 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305171081",
+      "description": "[YNUE0305171081] 루이스잎벌 1987.04.03 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305171078",
+      "description": "[YNUE0305171078] 루이스잎벌 1966.05.19 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDO0014-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0014&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:37+00:00",
+    "html_sha256": "43a37b0c7123090338def4ec7e68799a7d719440a92131e76e162ab17f4f835c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

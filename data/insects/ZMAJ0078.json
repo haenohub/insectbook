@@ -1,0 +1,122 @@
+{
+  "id": "ZMAJ0078",
+  "name_ko": "사위질빵수염진딧물",
+  "scientific_name": "Macrosiphum (Macrosiphum) clematifoliae Shinji, 1924",
+  "display_name": "사위질빵수염진딧물",
+  "family_ko": "진딧물과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "진딧물상과",
+      "name_latin": "Aphidoidea"
+    },
+    "family": {
+      "name_ko": "진딧물과",
+      "name_latin": "Aphididae"
+    },
+    "subfamily": {
+      "name_ko": "진딧물아과",
+      "name_latin": "Aphidinae"
+    },
+    "genus": {
+      "name_ko": "수염진딧물속",
+      "name_latin": "Macrosiphum"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 진딧물상과 (Aphidoidea)\n과 : 진딧물과 (Aphididae)\n아과 : 진딧물아과 (Aphidinae)\n속 : 수염진딧물속 (Macrosiphum)",
+  "basic_information": {
+    "곤충명": "사위질빵수염진딧물",
+    "학명": "Macrosiphum (Macrosiphum) clematifoliae Shinji, 1924"
+  },
+  "information": {
+    "general_description": "중형 또는 대형의 진딧물로, 기주식물의 순부위 또는 잎 뒷면에서 작은 집단을 이룬다. 몸색은 녹색으로 광택이 있고, 다리, 더듬이, 뿔관 등이 매우 길다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "기주 이동은 밝혀진 바 없으며, Clematis속 식물에서 완전세대를 거치는 것으로 알려져 있다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중형 또는 대형의 진딧물로, 기주식물의 순부위 또는 잎 뒷면에서 작은 집단을 이룬다. 몸색은 녹색으로 광택이 있고, 다리, 더듬이, 뿔관 등이 매우 길다."
+    },
+    {
+      "title": "생태",
+      "text": "기주 이동은 밝혀진 바 없으며, Clematis속 식물에서 완전세대를 거치는 것으로 알려져 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMAJ0078-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAJ0078_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAJ0078_1_th.jpg",
+      "alt": "사위질빵수염진딧물 1번째 사진 : 사위질빵수염진딧물전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAJ0078_1_th2.jpg",
+      "caption": "사위질빵수염진딧물전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMAJ0078-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0409011067",
+      "description": "[SNUE0409011067] 사위질빵수염진딧물 1998.06.10 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0409011068",
+      "description": "[SNUE0409011068] 사위질빵수염진딧물 1998.06.10 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0409011041",
+      "description": "[SNUE0409011041] 사위질빵수염진딧물 1998.06.10 / / 서울대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "사위질빵",
+      "scientific_name": "Clematis apiifolia DC."
+    },
+    {
+      "group": "식물",
+      "name_ko": "할미밀망",
+      "scientific_name": "Clematis trichotoma Nakai"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZMAJ0078-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMAJ0078&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:27+00:00",
+    "html_sha256": "cdc787df8267bf8d42cf72abce540fcee912a826e4363d53cdfb7e3a61c8e111",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "id": "ZLBX0012",
+  "name_ko": "메추리노린재",
+  "scientific_name": "Aelia fieberi Scott, 1874",
+  "display_name": "메추리노린재",
+  "family_ko": "노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "노린재상과",
+      "name_latin": "Pentatomoidea"
+    },
+    "family": {
+      "name_ko": "노린재과",
+      "name_latin": "Pentatomidae"
+    },
+    "subfamily": {
+      "name_ko": "노린재아과",
+      "name_latin": "Pentatominae"
+    },
+    "genus": {
+      "name_ko": "메추리노린재속",
+      "name_latin": "Aelia"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 노린재상과 (Pentatomoidea)\n과 : 노린재과 (Pentatomidae)\n아과 : 노린재아과 (Pentatominae)\n속 : 메추리노린재속 (Aelia)",
+  "basic_information": {
+    "곤충명": "메추리노린재",
+    "학명": "Aelia fieberi Scott, 1874"
+  },
+  "information": {
+    "general_description": "몸 길이: 8~10mm\n몸은 광택이 있는 황갈색 또는 회황색 바탕에 회갈색 및 흑갈색 세로 줄무늬가 등면에 나타난다. 머리는 아래로 굽은 삼각형이고 선단부는 약간 뭉툭하다. 중앙부에 세로로 쐐기 모양의 흑갈색 무늬가 있다. 앞가슴등판은 앞가장자리가 매우 좁고, 옆가장자리는 황갈색을 띠며 뒷모서리는 세모꼴이다. 정중선 주변에 넓은 흑갈색 무늬가 머리와 연속적으로 나타난다.작은방패판은 크게 발달했고 선단부는 둥글다. 중앙부의 흑갈색 무늬는 앞가슴등판과 연속적이다. 앞날개의 혁질부는 바깥가장자리가 회갈색이고 나머지는 흑갈색을 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "산야의 초원지대에 흔히 서식하며, 화본과 식물을 먹고 산다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸 길이: 8~10mm\n몸은 광택이 있는 황갈색 또는 회황색 바탕에 회갈색 및 흑갈색 세로 줄무늬가 등면에 나타난다. 머리는 아래로 굽은 삼각형이고 선단부는 약간 뭉툭하다. 중앙부에 세로로 쐐기 모양의 흑갈색 무늬가 있다. 앞가슴등판은 앞가장자리가 매우 좁고, 옆가장자리는 황갈색을 띠며 뒷모서리는 세모꼴이다. 정중선 주변에 넓은 흑갈색 무늬가 머리와 연속적으로 나타난다.작은방패판은 크게 발달했고 선단부는 둥글다. 중앙부의 흑갈색 무늬는 앞가슴등판과 연속적이다. 앞날개의 혁질부는 바깥가장자리가 회갈색이고 나머지는 흑갈색을 띤다."
+    },
+    {
+      "title": "생태",
+      "text": "산야의 초원지대에 흔히 서식하며, 화본과 식물을 먹고 산다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLBX0012-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0012_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0012_2_th.jpg",
+      "alt": "메추리노린재 1번째 사진 : 메추리노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0012_2_th2.jpg",
+      "caption": "메추리노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZLBX0012-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0012_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0012_1_th.jpg",
+      "alt": "메추리노린재 2번째 사진 : 메추리노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0012_1_th2.jpg",
+      "caption": "메추리노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLBX0012-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0303151126",
+      "description": "[KPNE0303151126] 메추리노린재 2001.05.26 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0303151128",
+      "description": "[KPNE0303151128] 메추리노린재 2001.05.10 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0303151129",
+      "description": "[KPNE0303151129] 메추리노린재 2000.05.11 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLBX0012-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLBX0012&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:09+00:00",
+    "html_sha256": "d2f4a0fcd0b5ba12666baf7f1fb920fcf21140d8c1528b929f8bbb4b16670a50",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

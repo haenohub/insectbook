@@ -1,0 +1,122 @@
+{
+  "id": "ZRBK0005",
+  "name_ko": "알락굴벌레나방",
+  "scientific_name": "Zeuzera multistrigata Moore, 1881",
+  "display_name": "알락굴벌레나방",
+  "family_ko": "굴벌레나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "굴벌레나방상과",
+      "name_latin": "Cossoidea"
+    },
+    "family": {
+      "name_ko": "굴벌레나방과",
+      "name_latin": "Cossidae"
+    },
+    "subfamily": {
+      "name_ko": "알락굴벌레나방아과",
+      "name_latin": "Zeuzerinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Zeuzera"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 굴벌레나방상과 (Cossoidea)\n과 : 굴벌레나방과 (Cossidae)\n아과 : 알락굴벌레나방아과 (Zeuzerinae)\n속 : (Zeuzera)",
+  "basic_information": {
+    "곤충명": "알락굴벌레나방",
+    "학명": "Zeuzera multistrigata Moore, 1881"
+  },
+  "information": {
+    "general_description": "국내분포:수원,광릉,청계산\n국외분포:일본날개길이 40～70㎜\n더듬이의 빗살 모양이 수컷이 극히 길며, 암컷은 실 모양\n아랫입술수염은 없고 다리에 며느리발톱이 없음\n앞날개의 소실이 크고 제 1경맥(R4)은 제 2경맥(R2)에서 분리되거나 중실에서 나옴\n뒷날개의 제 4경맥(R4)과 제 5경맥(R5)은 같은 자루를 이룸",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 7～8월에 평지나 산지에서 발생\n유충은 여러 종류의 수목에 기생, 1세대를 영위하는데 보통 2년이 걸림",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[대한민국] 경기도",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "국내분포:수원,광릉,청계산\n국외분포:일본날개길이 40～70㎜\n더듬이의 빗살 모양이 수컷이 극히 길며, 암컷은 실 모양\n아랫입술수염은 없고 다리에 며느리발톱이 없음\n앞날개의 소실이 크고 제 1경맥(R4)은 제 2경맥(R2)에서 분리되거나 중실에서 나옴\n뒷날개의 제 4경맥(R4)과 제 5경맥(R5)은 같은 자루를 이룸"
+    },
+    {
+      "title": "생태",
+      "text": "성충은 7～8월에 평지나 산지에서 발생\n유충은 여러 종류의 수목에 기생, 1세대를 영위하는데 보통 2년이 걸림"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[대한민국] 경기도"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRBK0005-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBK0005_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBK0005_2_th.jpg",
+      "alt": "알락굴벌레나방 1번째 사진 : 알락굴벌레나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBK0005_2_th2.jpg",
+      "caption": "알락굴벌레나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRBK0005-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBK0005_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBK0005_1_th.jpg",
+      "alt": "알락굴벌레나방 2번째 사진 : 알락굴벌레나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBK0005_1_th2.jpg",
+      "caption": "알락굴벌레나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRBK0005-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304212008",
+      "description": "[KNAE0304212008] 알락굴벌레나방 1998.07.27 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304212009",
+      "description": "[KNAE0304212009] 알락굴벌레나방 1998.07.28 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304212010",
+      "description": "[KNAE0304212010] 알락굴벌레나방 1998.07.29 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRBK0005-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRBK0005&tabId=tab1",
+    "collected_at": "2026-11-04T14:14:25+00:00",
+    "html_sha256": "672a7a5b770a4dee6229359a57c3d097304f7e14eabab2c19125caa6f02ba06d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

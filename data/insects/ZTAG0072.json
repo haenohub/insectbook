@@ -1,0 +1,107 @@
+{
+  "id": "ZTAG0072",
+  "name_ko": "흰줄뿔가위벌",
+  "scientific_name": "Osmia excavata Alfken, 1903",
+  "display_name": "흰줄뿔가위벌",
+  "family_ko": "가위벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "가위벌과",
+      "name_latin": "Megachilidae"
+    },
+    "subfamily": {
+      "name_ko": "가위벌아과",
+      "name_latin": "Megachilinae"
+    },
+    "genus": {
+      "name_ko": "뿔가위벌속",
+      "name_latin": "Osmia"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 가위벌과 (Megachilidae)\n아과 : 가위벌아과 (Megachilinae)\n속 : 뿔가위벌속 (Osmia)",
+  "basic_information": {
+    "곤충명": "흰줄뿔가위벌",
+    "학명": "Osmia excavata Alfken, 1903"
+  },
+  "information": {
+    "general_description": "암컷의 몸길이는 11mm이며, 몸은 암청록색이다. 더듬이의 아랫면은 암갈색, 배는 끝으로 감에 따라 흑색이고, 배의 등판 뒤쪽으로는 넓게 적갈색이다. 발목마디의 끝마디는 암색이고, 날개는 투명하고 밝은 갈색이다. 어깨판은 암갈색, 털은 주로 회백색이고 , 얼굴, 뒷머리와 배마디 등판의 털은 황색이 돈다. 머리, 가슴의 등판, 제 3배마디등판의 털은 흑색이다. 수컷은 9mm정도이며, 털은 주로 담갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": "[감소추세종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷의 몸길이는 11mm이며, 몸은 암청록색이다. 더듬이의 아랫면은 암갈색, 배는 끝으로 감에 따라 흑색이고, 배의 등판 뒤쪽으로는 넓게 적갈색이다. 발목마디의 끝마디는 암색이고, 날개는 투명하고 밝은 갈색이다. 어깨판은 암갈색, 털은 주로 회백색이고 , 얼굴, 뒷머리와 배마디 등판의 털은 황색이 돈다. 머리, 가슴의 등판, 제 3배마디등판의 털은 흑색이다. 수컷은 9mm정도이며, 털은 주로 담갈색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[감소추세종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0072-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0072_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0072_1_th.jpg",
+      "alt": "흰줄뿔가위벌 1번째 사진 : 흰줄뿔가위벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0072_1_th2.jpg",
+      "caption": "흰줄뿔가위벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0072-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0111303004",
+      "description": "[YNUE0111303004] 흰줄뿔가위벌 1984.04.15 / / 영남대학교"
+    },
+    {
+      "id": "KUIE0409091052",
+      "description": "[KUIE0409091052] 흰줄뿔가위벌 1974.04.14 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0409091051",
+      "description": "[KUIE0409091051] 흰줄뿔가위벌 1972.05.14 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAG0072-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0072&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:53+00:00",
+    "html_sha256": "46eb73cf386feb0200425ab1682568d3ce07408e3a7ff2f81a2200422752f7df",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

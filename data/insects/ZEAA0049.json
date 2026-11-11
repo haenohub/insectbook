@@ -1,0 +1,110 @@
+{
+  "id": "ZEAA0049",
+  "name_ko": "끝검은메뚜기",
+  "scientific_name": "Stethophyma magister (Rehn, 1902)",
+  "display_name": "끝검은메뚜기",
+  "family_ko": "메뚜기과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "메뚜기목",
+      "name_latin": "Orthoptera"
+    },
+    "family": {
+      "name_ko": "메뚜기과",
+      "name_latin": "Acrididae"
+    },
+    "subfamily": {
+      "name_ko": "풀무치아과",
+      "name_latin": "Oedipodinae"
+    },
+    "genus": {
+      "name_ko": "끝검은메뚜기속",
+      "name_latin": "Stethophyma"
+    }
+  },
+  "taxonomy_text": "목 : 메뚜기목 (Orthoptera)\n과 : 메뚜기과 (Acrididae)\n아과 : 풀무치아과 (Oedipodinae)\n속 : 끝검은메뚜기속 (Stethophyma)",
+  "basic_information": {
+    "곤충명": "끝검은메뚜기",
+    "학명": "Stethophyma magister (Rehn, 1902)"
+  },
+  "information": {
+    "general_description": "체장: 30-45mm. 체색은 수컷이 황색이고 암컷은 황갈색. 앞날개는 황갈색으로 경맥부에 하나의 황색 세로띠가 있으며 중실에 흑색이 점이 산재. 수컷의 앞날개의 끝이 흑색을 띠고 뒷다리의 무릎 부위도 흑색.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체장: 30-45mm. 체색은 수컷이 황색이고 암컷은 황갈색. 앞날개는 황갈색으로 경맥부에 하나의 황색 세로띠가 있으며 중실에 흑색이 점이 산재. 수컷의 앞날개의 끝이 흑색을 띠고 뒷다리의 무릎 부위도 흑색."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZEAA0049-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0049_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0049_2_th.jpg",
+      "alt": "끝검은메뚜기 1번째 사진 : 끝검은메뚜기전체 옆면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0049_2_th2.jpg",
+      "caption": "끝검은메뚜기전체 옆면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZEAA0049-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0049_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0049_1_th.jpg",
+      "alt": "끝검은메뚜기 2번째 사진 : 끝검은메뚜기전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0049_1_th2.jpg",
+      "caption": "끝검은메뚜기전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZEAA0049-1",
+  "specimen_examples": [
+    {
+      "id": "JFNE0306131273",
+      "description": "[JFNE0306131273] 끝검은메뚜기 1998.09.15 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0306131274",
+      "description": "[JFNE0306131274] 끝검은메뚜기 1998.09.16 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0306131275",
+      "description": "[JFNE0306131275] 끝검은메뚜기 1998.09.17 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZEAA0049.png",
+    "reference_image_id": "ZEAA0049-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T15:09:36.349325+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "76e938c309ca5edd14c6e2cebf270893066bd896eaf7bf6a5b692adaf60ed001"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZEAA0049&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:02+00:00",
+    "html_sha256": "d2b7a30a6b6403150783ee0306ea27664ce21e5bed198a31128bbcc92e820fa1",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

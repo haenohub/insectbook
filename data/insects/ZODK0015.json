@@ -1,0 +1,95 @@
+{
+  "id": "ZODK0015",
+  "name_ko": "모가슴풍뎅이붙이",
+  "scientific_name": "Carcinops pumilio (Erichson, 1834)",
+  "display_name": "모가슴풍뎅이붙이",
+  "family_ko": "풍뎅이붙이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "물땡땡이상과",
+      "name_latin": "Hydrophiloidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이붙이과",
+      "name_latin": "Histeridae"
+    },
+    "subfamily": {
+      "name_ko": "꼬마넓적풍뎅이붙이아과",
+      "name_latin": "Dendrophilinae"
+    },
+    "genus": {
+      "name_ko": "모가슴풍뎅이붙이속",
+      "name_latin": "Carcinops"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 물땡땡이상과 (Hydrophiloidea)\n과 : 풍뎅이붙이과 (Histeridae)\n아과 : 꼬마넓적풍뎅이붙이아과 (Dendrophilinae)\n속 : 모가슴풍뎅이붙이속 (Carcinops)",
+  "basic_information": {
+    "곤충명": "모가슴풍뎅이붙이",
+    "학명": "Carcinops pumilio (Erichson, 1834)"
+  },
+  "information": {
+    "general_description": "몸길이는 2.2~2.7mm 이며 두부,앞가슴등판,딱지날개는 강한 검은색광택이있고 촉각은 진한갈색이난다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 2.2~2.7mm 이며 두부,앞가슴등판,딱지날개는 강한 검은색광택이있고 촉각은 진한갈색이난다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZODK0015-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODK0015_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODK0015_1_th.jpg",
+      "alt": "모가슴풍뎅이붙이 1번째 사진 : 모가슴풍뎅이붙이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODK0015_1_th2.jpg",
+      "caption": "모가슴풍뎅이붙이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZODK0015-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0202081005",
+      "description": "[SNUE0202081005] 모가슴풍뎅이붙이 1989.06.27 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZODK0015-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZODK0015&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:13+00:00",
+    "html_sha256": "c947f96bcfa7120605ee13bf58e3d958f198001250c4fe6ef368d1477936667e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

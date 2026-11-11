@@ -1,0 +1,103 @@
+{
+  "id": "ZTDO0185",
+  "name_ko": "광릉홍허리잎벌",
+  "scientific_name": "Siobla venusta apicalis Takeuchi, 1929",
+  "display_name": "광릉홍허리잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "잎벌아과",
+      "name_latin": "Tenthredininae"
+    },
+    "genus": {
+      "name_ko": "홍허리잎벌속",
+      "name_latin": "Siobla"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 잎벌아과 (Tenthredininae)\n속 : 홍허리잎벌속 (Siobla)",
+  "basic_information": {
+    "곤충명": "광릉홍허리잎벌",
+    "학명": "Siobla venusta apicalis Takeuchi, 1929"
+  },
+  "information": {
+    "general_description": "몸길이는 11mm,앞날개 길이는 11.5mm이고 몸은 흑색이다. 제 3배마디, 산란관끝은 황갈색 또는 흑갈색이다. 큰턱은 끝가두리의 황색을 제외하고는 흑색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 11mm,앞날개 길이는 11.5mm이고 몸은 흑색이다. 제 3배마디, 산란관끝은 황갈색 또는 흑갈색이다. 큰턱은 끝가두리의 황색을 제외하고는 흑색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0185-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0185_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0185_1_th.jpg",
+      "alt": "광릉홍허리잎벌 1번째 사진 : 광릉홍허리잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0185_1_th2.jpg",
+      "caption": "광릉홍허리잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0185-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0301059117",
+      "description": "[YNUE0301059117] 광릉홍허리잎벌 1970.06.07 / / 영남대학교"
+    },
+    {
+      "id": "KNAE624516",
+      "description": "[KNAE624516] 광릉홍허리잎벌 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTDO0185.png",
+    "reference_image_id": "ZTDO0185-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T13:26:12.583230+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "e97cbc52e43b8d96320ced7f022fc337913170af5d2b891a0835208be3ef992e"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0185&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:14+00:00",
+    "html_sha256": "5f3739c4460ae973900e75d455ad143569547f8c68b0fbb365c49fc20295898a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

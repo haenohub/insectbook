@@ -1,0 +1,99 @@
+{
+  "id": "ZDAE0012",
+  "name_ko": "청동실잠자리",
+  "scientific_name": "Nehalennia speciosa (Charpentier, 1840)",
+  "display_name": "청동실잠자리",
+  "family_ko": "실잠자리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "잠자리목",
+      "name_latin": "Odonata"
+    },
+    "family": {
+      "name_ko": "실잠자리과",
+      "name_latin": "Coenagrionidae"
+    },
+    "subfamily": {
+      "name_ko": "실잠자리아과",
+      "name_latin": "Coenagrionae"
+    },
+    "genus": {
+      "name_ko": "청동실잠자리속",
+      "name_latin": "Nehalennia"
+    }
+  },
+  "taxonomy_text": "목 : 잠자리목 (Odonata)\n과 : 실잠자리과 (Coenagrionidae)\n아과 : 실잠자리아과 (Coenagrionae)\n속 : 청동실잠자리속 (Nehalennia)",
+  "basic_information": {
+    "곤충명": "청동실잠자리",
+    "학명": "Nehalennia speciosa (Charpentier, 1840)"
+  },
+  "information": {
+    "general_description": "배길이 20~21mm, 뒷날개길이 12~15mm. 몸 등쪽은 금속 청록색이고 머리는 청등색인데 윗입술가두리, 앞머리방패, 뒷머리방패옆가두리, 큰턱바깥쪽, 얼굴, 뺨, 촉각 밑의 1개의 작은 점, 촉각 2마디 아래부분은 황록색임. 눈 뒤의 무늬는 좌우가 연결되어 가는 선 형태이며 날개면은 가슴앞면에서 1측봉선까지는 청동색이고 견봉선의 위아래 작은 부분과 가슴은 담청색임. 배등은 1~8마디 중앙까지 청동색이고 8마디 중앙에서 2분되어 그 윗끝은 9마디 중앙까지 달함. 배쪽은 둔황색이며 수컷 8~10마디는 담청색이고 10마디 중앙에는 1쌍의 작은 돌기가 있음. 수컷의 미부 상부기는 크고 둥글며 날개맥은 폭넓고 날개맥 가두리무늬는 담갈색임.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "배길이 20~21mm, 뒷날개길이 12~15mm. 몸 등쪽은 금속 청록색이고 머리는 청등색인데 윗입술가두리, 앞머리방패, 뒷머리방패옆가두리, 큰턱바깥쪽, 얼굴, 뺨, 촉각 밑의 1개의 작은 점, 촉각 2마디 아래부분은 황록색임. 눈 뒤의 무늬는 좌우가 연결되어 가는 선 형태이며 날개면은 가슴앞면에서 1측봉선까지는 청동색이고 견봉선의 위아래 작은 부분과 가슴은 담청색임. 배등은 1~8마디 중앙까지 청동색이고 8마디 중앙에서 2분되어 그 윗끝은 9마디 중앙까지 달함. 배쪽은 둔황색이며 수컷 8~10마디는 담청색이고 10마디 중앙에는 1쌍의 작은 돌기가 있음. 수컷의 미부 상부기는 크고 둥글며 날개맥은 폭넓고 날개맥 가두리무늬는 담갈색임."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZDAE0012-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAE0012_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAE0012_1_th.jpg",
+      "alt": "청동실잠자리 1번째 사진 : 청동실잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAE0012_1_th2.jpg",
+      "caption": "청동실잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZDAE0012-1",
+  "specimen_examples": [
+    {
+      "id": "JFNE0202041173",
+      "description": "[JFNE0202041173] 청동실잠자리 1995.10.06 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0202041175",
+      "description": "[JFNE0202041175] 청동실잠자리 1995.09.22 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0202041176",
+      "description": "[JFNE0202041176] 청동실잠자리 1992.10.17 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZDAE0012-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZDAE0012&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:13+00:00",
+    "html_sha256": "5a7bced52b057aba5b053358725a57e464925b4970051af43444947a7b679b46",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

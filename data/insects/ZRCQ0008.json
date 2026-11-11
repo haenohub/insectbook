@@ -1,0 +1,133 @@
+{
+  "id": "ZRCQ0008",
+  "name_ko": "푸른큰수리팔랑나비",
+  "scientific_name": "Choaspes benjaminii (Guérin-Mneville, 1843)",
+  "display_name": "푸른큰수리팔랑나비",
+  "family_ko": "팔랑나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "팔랑나비과",
+      "name_latin": "Hesperiidae"
+    },
+    "subfamily": {
+      "name_ko": "수리팔랑나비아과",
+      "name_latin": "Coeliadinae"
+    },
+    "genus": {
+      "name_ko": "푸른큰수리팔랑나비속",
+      "name_latin": "Choaspes"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 팔랑나비과 (Hesperiidae)\n아과 : 수리팔랑나비아과 (Coeliadinae)\n속 : 푸른큰수리팔랑나비속 (Choaspes)",
+  "basic_information": {
+    "곤충명": "푸른큰수리팔랑나비",
+    "학명": "Choaspes benjaminii (Guérin-Mneville, 1843)"
+  },
+  "information": {
+    "general_description": "암컷은 수컷보다 일반적으로 크고 날개의 폭이 다소 넓고 뒷날개 윗면의 전연과 외연에 넓은 어두운 부분이 있으며 기반부와 색채의 차이가 있다. 수컷의 뒷다리 종아리마디에는 긴 털다발이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "서해안인 남부 지방의 난대림이 혼재하는 잡목림의 계곡 주변에서 서식한다. 수컷은 산 정상이나 우거진 나무숲 사이의 일정 공간을 왕복하여 나는 습성이 있는데 아주 빠르게 난다. 맑은 날은 아침 일찍과 저녁 무렵에 활동하고 흐린 날에는 하루 중 계속 활동하는 것을 볼 수 있다. 나무딸기, 아카시아나무, 엉겅퀴 등의 꽃에서 흡밀하고 소나 새똥에도 잘 모인다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[대만]\n[인도]\n[스리랑카]",
+    "notes": "[국지적분포종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷은 수컷보다 일반적으로 크고 날개의 폭이 다소 넓고 뒷날개 윗면의 전연과 외연에 넓은 어두운 부분이 있으며 기반부와 색채의 차이가 있다. 수컷의 뒷다리 종아리마디에는 긴 털다발이 있다."
+    },
+    {
+      "title": "습성",
+      "text": "서해안인 남부 지방의 난대림이 혼재하는 잡목림의 계곡 주변에서 서식한다. 수컷은 산 정상이나 우거진 나무숲 사이의 일정 공간을 왕복하여 나는 습성이 있는데 아주 빠르게 난다. 맑은 날은 아침 일찍과 저녁 무렵에 활동하고 흐린 날에는 하루 중 계속 활동하는 것을 볼 수 있다. 나무딸기, 아카시아나무, 엉겅퀴 등의 꽃에서 흡밀하고 소나 새똥에도 잘 모인다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[대만]\n[인도]\n[스리랑카]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[국지적분포종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCQ0008-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0008_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0008_2_th.jpg",
+      "alt": "푸른큰수리팔랑나비 1번째 사진 : 푸른큰수리팔랑나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0008_2_th2.jpg",
+      "caption": "푸른큰수리팔랑나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCQ0008-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0008_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0008_1_th.jpg",
+      "alt": "푸른큰수리팔랑나비 2번째 사진 : 푸른큰수리팔랑나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0008_1_th2.jpg",
+      "caption": "푸른큰수리팔랑나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCQ0008-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0304212083",
+      "description": "[SNUE0304212083] 푸른큰수리팔랑나비 1991.08.18 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0304212084",
+      "description": "[SNUE0304212084] 푸른큰수리팔랑나비 1993.05.24 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0304212085",
+      "description": "[SNUE0304212085] 푸른큰수리팔랑나비 1957.08.15 / / 서울대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "나도밤나무",
+      "scientific_name": "Meliosma myriantha Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "합다리나무",
+      "scientific_name": "Meliosma pinnata subsp. arnottiana var. oldhamii (Miq. ex Maxim.) Beusekom"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCQ0008-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCQ0008&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:50+00:00",
+    "html_sha256": "ba3df5c68a9e750c24d2fb39934c02e8a89e0514c7cc23f1d9ace6e3c2321989",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

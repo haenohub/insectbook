@@ -1,0 +1,171 @@
+{
+  "id": "ZRCI0530",
+  "name_ko": "니도베가지나방",
+  "scientific_name": "Wilemania nitobei (Nitobe, 1907)",
+  "display_name": "니도베가지나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "가지나방아과",
+      "name_latin": "Ennominae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Wilemania"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 가지나방아과 (Ennominae)\n속 : (Wilemania)",
+  "basic_information": {
+    "곤충명": "니도베가지나방",
+    "학명": "Wilemania nitobei (Nitobe, 1907)"
+  },
+  "information": {
+    "general_description": "성충의 앞날개 길이는 16~20 mm이고 앞날개의 내횡선(內橫線)이 직선 형태로 바깥쪽으로 경사져 있으며 외횡선(外橫線) 바깥쪽이 갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": "유충의 몸길이는 35 mm 정도이고 머리는 등황색, 몸은 청백색이며 흰 가루가 묻어 있는 것 같이 보인다. 기문 주위는 검은 무늬로 싸여 있다.",
+    "egg": null,
+    "pupa": null,
+    "ecology": "유충은 5월에 노숙하여 땅으로 들어가 번데기가 되며 11월에 우화한다. 유충의 형태와 행동이 잎벌 유충과 비슷하다.",
+    "habits": "유충은 잎을 식해하며 밀도가 높은 경우는 드물다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충의 앞날개 길이는 16~20 mm이고 앞날개의 내횡선(內橫線)이 직선 형태로 바깥쪽으로 경사져 있으며 외횡선(外橫線) 바깥쪽이 갈색이다."
+    },
+    {
+      "title": "유충",
+      "text": "유충의 몸길이는 35 mm 정도이고 머리는 등황색, 몸은 청백색이며 흰 가루가 묻어 있는 것 같이 보인다. 기문 주위는 검은 무늬로 싸여 있다."
+    },
+    {
+      "title": "생태",
+      "text": "유충은 5월에 노숙하여 땅으로 들어가 번데기가 되며 11월에 우화한다. 유충의 형태와 행동이 잎벌 유충과 비슷하다."
+    },
+    {
+      "title": "습성",
+      "text": "유충은 잎을 식해하며 밀도가 높은 경우는 드물다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0530-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0530_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0530_2_th.jpg",
+      "alt": "니도베가지나방 1번째 사진 : 니도베가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0530_2_th2.jpg",
+      "caption": "니도베가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0530-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0530_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0530_1_th.jpg",
+      "alt": "니도베가지나방 2번째 사진 : 니도베가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0530_1_th2.jpg",
+      "caption": "니도베가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0530-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303071064",
+      "description": "[KNAE0303071064] 니도베가지나방 1999.11.10 / / 국립수목원"
+    },
+    {
+      "id": "FRIE0302131068",
+      "description": "[FRIE0302131068] 니도베가지나방 1985.10.31 / / 국립산림과학원"
+    },
+    {
+      "id": "KNUE0201221069",
+      "description": "[KNUE0201221069] 니도베가지나방 1985.10.22 / / 강원대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "갈참나무",
+      "scientific_name": "Quercus aliena Blume"
+    },
+    {
+      "group": "식물",
+      "name_ko": "벚나무",
+      "scientific_name": "Prunus serrulata f. spontanea (Maxim.) Chin S.Chang"
+    },
+    {
+      "group": "식물",
+      "name_ko": "뽕나무",
+      "scientific_name": "Morus alba L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "사과나무",
+      "scientific_name": "Malus domestica (Suckow) Borkh."
+    },
+    {
+      "group": "식물",
+      "name_ko": "상수리나무",
+      "scientific_name": "Quercus acutissima Carruth."
+    },
+    {
+      "group": "식물",
+      "name_ko": "서어나무",
+      "scientific_name": "Carpinus laxiflora (Siebold & Zucc.) Blume"
+    },
+    {
+      "group": "식물",
+      "name_ko": "아그배나무",
+      "scientific_name": "Malus toringo (Siebold) Siebold ex de Vriese"
+    },
+    {
+      "group": "식물",
+      "name_ko": "종가시나무",
+      "scientific_name": "Quercus glauca Thunb."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCI0530-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0530&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:43+00:00",
+    "html_sha256": "1f2a4b955b7d85afc4bf802f5c3a5eb1806ff641fbc39ea61ab9287eab1b7f23",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "id": "ZREB0010",
+  "name_ko": "호랑나비",
+  "scientific_name": "Papilio xuthus Linnaeus, 1767",
+  "display_name": "호랑나비",
+  "family_ko": "호랑나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "호랑나비과",
+      "name_latin": "Papilionidae"
+    },
+    "subfamily": {
+      "name_ko": "호랑나비아과",
+      "name_latin": "Papilioninae"
+    },
+    "genus": {
+      "name_ko": "호랑나비속",
+      "name_latin": "Papilio"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 호랑나비과 (Papilionidae)\n아과 : 호랑나비아과 (Papilioninae)\n속 : 호랑나비속 (Papilio)",
+  "basic_information": {
+    "곤충명": "호랑나비",
+    "학명": "Papilio xuthus Linnaeus, 1767"
+  },
+  "information": {
+    "general_description": "성충은 날개를 편 길이가 80~120 mm인 아름다운 나비이다. 월동한 번데기에서 우화한 봄형은 여름형에 비해 작고 무늬가 선명하다. 제2화 및 그 이후의 것은 여름형이 된다.",
+    "adult": null,
+    "adult_male": "여름형은 수컷이 암컷보다 앞날개 끝의 돌출이 강하며, 뒷날개 윗면 제7실 중앙에 흑색 무늬가 있다.",
+    "adult_female": "수컷에 비해 날개에 노랑빛이 더욱 강하다. 여름형은 암컷의 검정색 무늬가 수컷보다 연하며, 뒷날개 윗면 제7실 중앙에 흑색 무늬가 없거나 또는 폭넓은 연한 흑색 무늬로 되어 있다.",
+    "larva": "유충의 체장은 45~50 mm이며 2~3령 때는 새똥같은 모양이나 5령(종령) 때는 황록색이 되며 배다리 윗부분에 백색 무늬가 줄지어 있어서 다른 호랑나비과 유충과 쉽게 구별된다.",
+    "egg": null,
+    "pupa": null,
+    "ecology": "연 3회 발생한다. 1화기 성충이 4월 중순~5월 하순에 우화하여 어린 잎 뒷면이나 줄기에 한 개씩 산란한다. 2화기 성충은 6월 초순~7월 하순, 3화기 성충은 8월 하순~10월 상순에 나타난다. 난 기간은 5~6일이며 유충 기간은 30일 정도이다.",
+    "habits": "유충이 잎을 식해하며, 피해가 심할때는 앙상한 가지만 남는다. 대개 고추나무, 엉겅퀴, 누리장나무, 백일홍, 파리풀, 라일락, 산초나무, 솔체꽃, 파 등 여러 꽃에서 꿀을 빤다.",
+    "season": null,
+    "overwintering": "번데기로 겨울을 난다.",
+    "distribution": "[일본]\n[중국]\n[러시아]\n[대만]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충은 날개를 편 길이가 80~120 mm인 아름다운 나비이다. 월동한 번데기에서 우화한 봄형은 여름형에 비해 작고 무늬가 선명하다. 제2화 및 그 이후의 것은 여름형이 된다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "여름형은 수컷이 암컷보다 앞날개 끝의 돌출이 강하며, 뒷날개 윗면 제7실 중앙에 흑색 무늬가 있다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "수컷에 비해 날개에 노랑빛이 더욱 강하다. 여름형은 암컷의 검정색 무늬가 수컷보다 연하며, 뒷날개 윗면 제7실 중앙에 흑색 무늬가 없거나 또는 폭넓은 연한 흑색 무늬로 되어 있다."
+    },
+    {
+      "title": "유충",
+      "text": "유충의 체장은 45~50 mm이며 2~3령 때는 새똥같은 모양이나 5령(종령) 때는 황록색이 되며 배다리 윗부분에 백색 무늬가 줄지어 있어서 다른 호랑나비과 유충과 쉽게 구별된다."
+    },
+    {
+      "title": "생태",
+      "text": "연 3회 발생한다. 1화기 성충이 4월 중순~5월 하순에 우화하여 어린 잎 뒷면이나 줄기에 한 개씩 산란한다. 2화기 성충은 6월 초순~7월 하순, 3화기 성충은 8월 하순~10월 상순에 나타난다. 난 기간은 5~6일이며 유충 기간은 30일 정도이다."
+    },
+    {
+      "title": "습성",
+      "text": "유충이 잎을 식해하며, 피해가 심할때는 앙상한 가지만 남는다. 대개 고추나무, 엉겅퀴, 누리장나무, 백일홍, 파리풀, 라일락, 산초나무, 솔체꽃, 파 등 여러 꽃에서 꿀을 빤다."
+    },
+    {
+      "title": "월동",
+      "text": "번데기로 겨울을 난다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]\n[대만]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREB0010-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZREB0010_11.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZREB0010_11.jpg",
+      "alt": "호랑나비 1번째 사진 : 호랑나비 암컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZREB0010_11_th2.jpg",
+      "caption": "호랑나비 암컷 이미지",
+      "photographed_at": "20110710",
+      "location": "경기도 포천시 소흘읍 광릉숲",
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZREB0010-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREB0010_10.gif",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREB0010_10_th.gif",
+      "alt": "호랑나비 2번째 사진 : 호랑나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREB0010_10_th2.gif",
+      "caption": "호랑나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREB0010-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREB0010_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREB0010_2_th.jpg",
+      "alt": "호랑나비 3번째 사진 : 호랑나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREB0010_2_th2.jpg",
+      "caption": "호랑나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREB0010-4",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREB0010_1.JPG",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREB0010_1_th.JPG",
+      "alt": "호랑나비 4번째 사진 : 호랑나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREB0010_1_th2.JPG",
+      "caption": "호랑나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREB0010-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408111064",
+      "description": "[MPME0408111064] 호랑나비 2003.07.15 / / 목포자연사박물관"
+    },
+    {
+      "id": "SJNE0306201012",
+      "description": "[SJNE0306201012] 호랑나비 1999.05.22 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0306191115",
+      "description": "[SJNE0306191115] 호랑나비 2002.06.28 / / 상주대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "백선",
+      "scientific_name": "Dictamnus dasycarpus Turcz."
+    },
+    {
+      "group": "식물",
+      "name_ko": "산초나무",
+      "scientific_name": "Zanthoxylum schinifolium Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "온주밀감",
+      "scientific_name": "Citrus unshiu (Yu.Tanaka ex Swingle) Marcow."
+    },
+    {
+      "group": "식물",
+      "name_ko": "탱자나무",
+      "scientific_name": "Poncirus trifoliata (L.) Raf."
+    },
+    {
+      "group": "식물",
+      "name_ko": "황벽나무",
+      "scientific_name": "Phellodendron amurense Rupr."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREB0010-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREB0010&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:13+00:00",
+    "html_sha256": "2c39014c05f26e2d5a47ce6867c457b7f72384984538c0b3c870a1bacbf500a9",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

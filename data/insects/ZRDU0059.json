@@ -1,0 +1,178 @@
+{
+  "id": "ZRDU0059",
+  "name_ko": "먹무늬재주나방",
+  "scientific_name": "Phalera flavescens (Bremer & Grey, 1852)",
+  "display_name": "먹무늬재주나방",
+  "family_ko": "재주나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "재주나방과",
+      "name_latin": "Notodontidae"
+    },
+    "subfamily": {
+      "name_ko": "배얼룩재주나방아과",
+      "name_latin": "Phalerinae"
+    },
+    "genus": {
+      "name_ko": "배얼룩재주나방속",
+      "name_latin": "Phalera"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 재주나방과 (Notodontidae)\n아과 : 배얼룩재주나방아과 (Phalerinae)\n속 : 배얼룩재주나방속 (Phalera)",
+  "basic_information": {
+    "곤충명": "먹무늬재주나방",
+    "학명": "Phalera flavescens (Bremer & Grey, 1852)"
+  },
+  "information": {
+    "general_description": "성충은 앞날개가 회백색이고 기부(基部)에 검은 무늬가 있으며 외연에 초생달 모양의 검은 무늬가 4~5개 병렬하고 있다.",
+    "adult": null,
+    "adult_male": "수컷의 날개 편 길이는 46~54 mm이다.",
+    "adult_female": "암컷의 날개 편 길이는 55~59 mm이다.",
+    "larva": "유충은 처음에는 적갈색이나 노숙하면 체장이 52 mm 정도 되고 자흑색을 띠며 각 마디 사이는 자적색이고 각 마디 중앙부에 황백색의 긴 털이 밀생되어 있다.",
+    "egg": null,
+    "pupa": null,
+    "ecology": "연 1회 발생하며, 7~8월에 우화한다. 잎 뒷면에 200개 정도의 알을 규칙적으로 낳으며 부화 유충은 한 개의 잎 뒷면에 군서하면서 열을 지어 잎을 식해하나, 성장하면서 가는 가지에 군서하여 가지 끝의 잎부터 식해하고 성장하면 기부(基部)로 이동하여 식해한다. 9월 중순~10월에 노숙하면 실을 토하며 타고 내려와 흙 속으로 들어가 고치를 만들고 번데기가 되어 월동한다.",
+    "habits": "어린 유충은 군서하여 잎을 식해하고 노숙하면 분산하며 휴식할 때는 앞과 뒷부분을 드는 습성이 있다. 해에 따라 대발생하는 일이 있으며, 1968년에 중부 지방, 1990년에 제주특별자치도에서 대발생하였다.",
+    "season": null,
+    "overwintering": "얕은 흙 속에서 번데기로 월동한다.",
+    "distribution": "[러시아]\n[중국]\n[미얀마]\n[대만]\n[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충은 앞날개가 회백색이고 기부(基部)에 검은 무늬가 있으며 외연에 초생달 모양의 검은 무늬가 4~5개 병렬하고 있다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "수컷의 날개 편 길이는 46~54 mm이다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "암컷의 날개 편 길이는 55~59 mm이다."
+    },
+    {
+      "title": "유충",
+      "text": "유충은 처음에는 적갈색이나 노숙하면 체장이 52 mm 정도 되고 자흑색을 띠며 각 마디 사이는 자적색이고 각 마디 중앙부에 황백색의 긴 털이 밀생되어 있다."
+    },
+    {
+      "title": "생태",
+      "text": "연 1회 발생하며, 7~8월에 우화한다. 잎 뒷면에 200개 정도의 알을 규칙적으로 낳으며 부화 유충은 한 개의 잎 뒷면에 군서하면서 열을 지어 잎을 식해하나, 성장하면서 가는 가지에 군서하여 가지 끝의 잎부터 식해하고 성장하면 기부(基部)로 이동하여 식해한다. 9월 중순~10월에 노숙하면 실을 토하며 타고 내려와 흙 속으로 들어가 고치를 만들고 번데기가 되어 월동한다."
+    },
+    {
+      "title": "습성",
+      "text": "어린 유충은 군서하여 잎을 식해하고 노숙하면 분산하며 휴식할 때는 앞과 뒷부분을 드는 습성이 있다. 해에 따라 대발생하는 일이 있으며, 1968년에 중부 지방, 1990년에 제주특별자치도에서 대발생하였다."
+    },
+    {
+      "title": "월동",
+      "text": "얕은 흙 속에서 번데기로 월동한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]\n[미얀마]\n[대만]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDU0059-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0059_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0059_2_th.jpg",
+      "alt": "먹무늬재주나방 1번째 사진 : 먹무늬재주나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0059_2_th2.jpg",
+      "caption": "먹무늬재주나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDU0059-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0059_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0059_1_th.jpg",
+      "alt": "먹무늬재주나방 2번째 사진 : 먹무늬재주나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0059_1_th2.jpg",
+      "caption": "먹무늬재주나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDU0059-1",
+  "specimen_examples": [
+    {
+      "id": "JFNE0306051030",
+      "description": "[JFNE0306051030] 먹무늬재주나방 1996.07.31 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0306051031",
+      "description": "[JFNE0306051031] 먹무늬재주나방 1996.08.01 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0306051032",
+      "description": "[JFNE0306051032] 먹무늬재주나방 1996.08.02 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "느릅나무",
+      "scientific_name": "Ulmus davidiana var. japonica (Rehder) Nakai"
+    },
+    {
+      "group": "식물",
+      "name_ko": "단풍나무",
+      "scientific_name": "Acer palmatum Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "미루나무",
+      "scientific_name": "Populus deltoides W.Bartram ex Marshall"
+    },
+    {
+      "group": "식물",
+      "name_ko": "버드나무",
+      "scientific_name": "Salix pierotii Miq."
+    },
+    {
+      "group": "식물",
+      "name_ko": "벚나무",
+      "scientific_name": "Prunus serrulata f. spontanea (Maxim.) Chin S.Chang"
+    },
+    {
+      "group": "식물",
+      "name_ko": "사과나무",
+      "scientific_name": "Malus domestica (Suckow) Borkh."
+    },
+    {
+      "group": "식물",
+      "name_ko": "자두나무",
+      "scientific_name": "Prunus salicina Lindl."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDU0059-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDU0059&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:02+00:00",
+    "html_sha256": "1165971e265228540cf29ebad18b7aef9b26c1c0ce4fba22191fe6486eef88d7",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

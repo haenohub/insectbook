@@ -1,0 +1,107 @@
+{
+  "id": "ZRDT0002",
+  "name_ko": "쌍줄혹나방",
+  "scientific_name": "Meganola fumosa (Butler, 1879)",
+  "display_name": "쌍줄혹나방",
+  "family_ko": "혹나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "혹나방과",
+      "name_latin": "Nolidae"
+    },
+    "subfamily": {
+      "name_ko": "혹나방아과",
+      "name_latin": "Nolinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Meganola"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 혹나방과 (Nolidae)\n아과 : 혹나방아과 (Nolinae)\n속 : (Meganola)",
+  "basic_information": {
+    "곤충명": "쌍줄혹나방",
+    "학명": "Meganola fumosa (Butler, 1879)"
+  },
+  "information": {
+    "general_description": "몸과 날개는 회색이 도는 흑갈색이고, 회백색 비늘이 섞여 있음. 배, 뒷날개, 몸의 배쪽면, 다리, 날개의 뒷면은 암갈색임. 앞날개의 제 7~10맥은 공통의 자루를 가짐. 앞날개의 내횡선 및 외횡선은 흑색이고, 전자는 그 안쪽이, 후자는 그 바깥쪽이 회백색으로 테가 둘러져 있음. 중맥 가까이에 흑색 줄이 있어서 안팎 횡선을 보통 이어 주고 있음. 이들 2개의 횡선 중간은 넓고 농색이며, 그 중앙에 흑색의 중횡선을 가지고 있음. 외연에는 회백색 점의 줄이 있고, 연모는 끝이 약간 담색임.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6~7월에 출현.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸과 날개는 회색이 도는 흑갈색이고, 회백색 비늘이 섞여 있음. 배, 뒷날개, 몸의 배쪽면, 다리, 날개의 뒷면은 암갈색임. 앞날개의 제 7~10맥은 공통의 자루를 가짐. 앞날개의 내횡선 및 외횡선은 흑색이고, 전자는 그 안쪽이, 후자는 그 바깥쪽이 회백색으로 테가 둘러져 있음. 중맥 가까이에 흑색 줄이 있어서 안팎 횡선을 보통 이어 주고 있음. 이들 2개의 횡선 중간은 넓고 농색이며, 그 중앙에 흑색의 중횡선을 가지고 있음. 외연에는 회백색 점의 줄이 있고, 연모는 끝이 약간 담색임."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6~7월에 출현."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDT0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDT0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDT0002_1_th.jpg",
+      "alt": "쌍줄혹나방 1번째 사진 : 쌍줄혹나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDT0002_1_th2.jpg",
+      "caption": "쌍줄혹나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDT0002-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303051037",
+      "description": "[KNAE0303051037] 쌍줄혹나방 2000.09.20 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303051039",
+      "description": "[KNAE0303051039] 쌍줄혹나방 2000.08.12 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303051040",
+      "description": "[KNAE0303051040] 쌍줄혹나방 1998.07.27 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDT0002-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDT0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:14:07+00:00",
+    "html_sha256": "79da2c80e735c551ceb39a6c09398337933f5cd9c92c4e3eb283a0113a2c926a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "id": "ZOBH0414",
+  "name_ko": "큰노랑테먼지벌레",
+  "scientific_name": "Chlaenius (Epomis) nigricans Wiedemann, 1821",
+  "display_name": "큰노랑테먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "먼지벌레아과",
+      "name_latin": "Harpalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Chlaenius"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 먼지벌레아과 (Harpalinae)\n속 : (Chlaenius)",
+  "basic_information": {
+    "곤충명": "큰노랑테먼지벌레",
+    "학명": "Chlaenius (Epomis) nigricans Wiedemann, 1821"
+  },
+  "information": {
+    "general_description": "몸길이는 30mm내외 이며 다리,촉각은 황갈색이며 두부와 전흉배판은 녹동색의 광택이 강한다. 딱지날개는 세로줄이 현명하고 가장자리에 황갈색의 띠가있는 대형종이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 30mm내외 이며 다리,촉각은 황갈색이며 두부와 전흉배판은 녹동색의 광택이 강한다. 딱지날개는 세로줄이 현명하고 가장자리에 황갈색의 띠가있는 대형종이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0414-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0414_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0414_2_th.jpg",
+      "alt": "큰노랑테먼지벌레 1번째 사진 : 큰노랑테먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0414_2_th2.jpg",
+      "caption": "큰노랑테먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0414-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0414_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0414_1_th.jpg",
+      "alt": "큰노랑테먼지벌레 2번째 사진 : 큰노랑테먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0414_1_th2.jpg",
+      "caption": "큰노랑테먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0414-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0408171028",
+      "description": "[UIBE0408171028] 큰노랑테먼지벌레 2000.08.19 / / 인천대학교"
+    },
+    {
+      "id": "FRIE0305151039",
+      "description": "[FRIE0305151039] 큰노랑테먼지벌레 1985.08.20 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0305151040",
+      "description": "[FRIE0305151040] 큰노랑테먼지벌레 1983.07.24 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0414-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0414&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:43+00:00",
+    "html_sha256": "861e23e0511cc1122e3e6e07249e8fb49089ff2873dbe65a0813f9a4c918b1f6",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

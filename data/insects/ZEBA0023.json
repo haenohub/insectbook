@@ -1,0 +1,110 @@
+{
+  "id": "ZEBA0023",
+  "name_ko": "잔날개여치",
+  "scientific_name": "Chizuella bonneti (Bolívar, 1890)",
+  "display_name": "잔날개여치",
+  "family_ko": "여치과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "메뚜기목",
+      "name_latin": "Orthoptera"
+    },
+    "family": {
+      "name_ko": "여치과",
+      "name_latin": "Tettigoniidae"
+    },
+    "subfamily": {
+      "name_ko": "여치아과",
+      "name_latin": "Tettigoniinae"
+    },
+    "genus": {
+      "name_ko": "잔날개여치속",
+      "name_latin": "Chizuella"
+    }
+  },
+  "taxonomy_text": "목 : 메뚜기목 (Orthoptera)\n과 : 여치과 (Tettigoniidae)\n아과 : 여치아과 (Tettigoniinae)\n속 : 잔날개여치속 (Chizuella)",
+  "basic_information": {
+    "곤충명": "잔날개여치",
+    "학명": "Chizuella bonneti (Bolívar, 1890)"
+  },
+  "information": {
+    "general_description": "몸길이 22~30mm이며 이마는 넓적하고 앞머리꼭대기는 폭이 넓다. 겹눈은 작고 앞가슴은 반원통형이고 가슴등쪽의 옆가두리는 평행하다. 가슴의 앞가두리는 상반이 앞으로 구부러졌고 앞아랫모는 약간 둥그렇고 뒷가두리 윗쪽에 오목한 부분이 없다. 수컷의 미모는 안쪽으로 구부러졌고 원추형이며 안 이는 밑에 있는데 끝은 앞으로 구부러졌다. 수컷의 생식아랫판 말단은 장방형으로 오목하다. 산란관은 약간 윗쪽으로 올라갔으며 뒷허벅마디는 굵고 짧으며 앞날개는 배의 1/2에 달하지 못한다. 수컷의 발음부는 끝부보다 길고 전체가 밤색이다. 뒷허벅마디 밑에는 흑색 무늬가 있고 가슴뒷가두리에는 백갈색의 무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국] 동북지방\n[러시아] 동시베리아지역\n[러시아] 서시베리아지역",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 22~30mm이며 이마는 넓적하고 앞머리꼭대기는 폭이 넓다. 겹눈은 작고 앞가슴은 반원통형이고 가슴등쪽의 옆가두리는 평행하다. 가슴의 앞가두리는 상반이 앞으로 구부러졌고 앞아랫모는 약간 둥그렇고 뒷가두리 윗쪽에 오목한 부분이 없다. 수컷의 미모는 안쪽으로 구부러졌고 원추형이며 안 이는 밑에 있는데 끝은 앞으로 구부러졌다. 수컷의 생식아랫판 말단은 장방형으로 오목하다. 산란관은 약간 윗쪽으로 올라갔으며 뒷허벅마디는 굵고 짧으며 앞날개는 배의 1/2에 달하지 못한다. 수컷의 발음부는 끝부보다 길고 전체가 밤색이다. 뒷허벅마디 밑에는 흑색 무늬가 있고 가슴뒷가두리에는 백갈색의 무늬가 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국] 동북지방\n[러시아] 동시베리아지역\n[러시아] 서시베리아지역"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZEBA0023-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0023_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0023_2_th.jpg",
+      "alt": "잔날개여치 1번째 사진 : 잔날개여치전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0023_2_th2.jpg",
+      "caption": "잔날개여치전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZEBA0023-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0023_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0023_1_th.jpg",
+      "alt": "잔날개여치 2번째 사진 : 잔날개여치전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0023_1_th2.jpg",
+      "caption": "잔날개여치전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZEBA0023-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0407291003",
+      "description": "[MPME0407291003] 잔날개여치 2001.08.21 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0407291004",
+      "description": "[MPME0407291004] 잔날개여치 2001.08.21 / / 목포자연사박물관"
+    },
+    {
+      "id": "SNUE0306053047",
+      "description": "[SNUE0306053047] 잔날개여치 1997.07.20 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZEBA0023-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZEBA0023&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:56+00:00",
+    "html_sha256": "7f26180fc86f9dca79cdecc47f57bcd386e9d474dd69a60db197d8a370932adb",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

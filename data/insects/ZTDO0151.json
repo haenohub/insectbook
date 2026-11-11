@@ -1,0 +1,103 @@
+{
+  "id": "ZTDO0151",
+  "name_ko": "수정잎벌",
+  "scientific_name": "Eutomostethus tricolor (Malaise, 1934)",
+  "display_name": "수정잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "검정꼬마잎벌아과",
+      "name_latin": "Blennocampinae"
+    },
+    "genus": {
+      "name_ko": "금치레잎벌속",
+      "name_latin": "Eutomostethus"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 검정꼬마잎벌아과 (Blennocampinae)\n속 : 금치레잎벌속 (Eutomostethus)",
+  "basic_information": {
+    "곤충명": "수정잎벌",
+    "학명": "Eutomostethus tricolor (Malaise, 1934)"
+  },
+  "information": {
+    "general_description": "암컷의 몸길이는 4.5mm~5.5mm이다. 몸은 검은색이며 앞가슴등판, 어깨판, 가운데 가슴등판은 적갈색이다. 날개는 막상이다. 이마에는 점각이 있으며 앞가두리는 편평하고 측면가두리는 다소 강하게 수렴한다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷의 몸길이는 4.5mm~5.5mm이다. 몸은 검은색이며 앞가슴등판, 어깨판, 가운데 가슴등판은 적갈색이다. 날개는 막상이다. 이마에는 점각이 있으며 앞가두리는 편평하고 측면가두리는 다소 강하게 수렴한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0151-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0151_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0151_1_th.jpg",
+      "alt": "수정잎벌 1번째 사진 : 수정잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0151_1_th2.jpg",
+      "caption": "수정잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0151-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0211162091",
+      "description": "[YNUE0211162091] 수정잎벌 1994.05.12 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0211162092",
+      "description": "[YNUE0211162092] 수정잎벌 1994.05.12 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305201082",
+      "description": "[YNUE0305201082] 수정잎벌 2001.07.12 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDO0151-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0151&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:36+00:00",
+    "html_sha256": "19abd3a011756d2e54c4df889c948978091409f719dd8fa08e626916e5c859e0",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

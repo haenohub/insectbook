@@ -1,0 +1,117 @@
+{
+  "id": "ZOCF0085",
+  "name_ko": "사과곰보바구미",
+  "scientific_name": "Pimelocerus exsculptus (Roelofs, 1876)",
+  "display_name": "사과곰보바구미",
+  "family_ko": "바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "바구미과",
+      "name_latin": "Curculionidae"
+    },
+    "subfamily": {
+      "name_ko": "참바구미아과",
+      "name_latin": "Molytinae"
+    },
+    "genus": {
+      "name_ko": "곰보바구미속",
+      "name_latin": "Pimelocerus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 바구미과 (Curculionidae)\n아과 : 참바구미아과 (Molytinae)\n속 : 곰보바구미속 (Pimelocerus)",
+  "basic_information": {
+    "곤충명": "사과곰보바구미",
+    "학명": "Pimelocerus exsculptus (Roelofs, 1876)"
+  },
+  "information": {
+    "general_description": "몸길이는 13~16mm이다. 몸색깔은 흑갈색 내지 흑색이며 등쪽은 황갈색 내지 갈색 비늘로 덮였다. 몸 전체가 우둘투둘한 곰보 모양의 흑색이다. 앞가슴등판 옆면에는 긴 황색 털이 빽빽이 덮여있으며 흩어진 점 또는 줄무늬 모양이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 4~5월에 밤나무줄기에 있으며 5월중순에 짝짓기를 한다. 유충은 밤나무의 뿌리를 갉아먹고 살다가 9월에 번데기가된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 13~16mm이다. 몸색깔은 흑갈색 내지 흑색이며 등쪽은 황갈색 내지 갈색 비늘로 덮였다. 몸 전체가 우둘투둘한 곰보 모양의 흑색이다. 앞가슴등판 옆면에는 긴 황색 털이 빽빽이 덮여있으며 흩어진 점 또는 줄무늬 모양이다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 4~5월에 밤나무줄기에 있으며 5월중순에 짝짓기를 한다. 유충은 밤나무의 뿌리를 갉아먹고 살다가 9월에 번데기가된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCF0085-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0085_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0085_1_th.jpg",
+      "alt": "사과곰보바구미 1번째 사진 : 사과곰보바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0085_1_th2.jpg",
+      "caption": "사과곰보바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCF0085-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0408101073",
+      "description": "[KNAE0408101073] 사과곰보바구미 2001.07.20 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0408101074",
+      "description": "[KNAE0408101074] 사과곰보바구미 2001.07.19 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303122056",
+      "description": "[KNAE0303122056] 사과곰보바구미 1992.08.18 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "밤나무",
+      "scientific_name": "Castanea crenata Siebold & Zucc."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOCF0085-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCF0085&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:16+00:00",
+    "html_sha256": "19e73c4064a03801d2641035717fd84dccc6842a56c7b019c59d8b2f8cda07a0",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

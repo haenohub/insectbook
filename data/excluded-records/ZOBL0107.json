@@ -1,0 +1,126 @@
+{
+  "id": "ZOBL0107",
+  "name_ko": "루리하늘소",
+  "scientific_name": "Rosalia (Rosalia) coelestis Semenov, 1911",
+  "display_name": "루리하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "하늘소아과",
+      "name_latin": "Cerambycinae"
+    },
+    "genus": {
+      "name_ko": "루리하늘소속",
+      "name_latin": "Rosalia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 하늘소아과 (Cerambycinae)\n속 : 루리하늘소속 (Rosalia)",
+  "basic_information": {
+    "곤충명": "루리하늘소",
+    "학명": "Rosalia (Rosalia) coelestis Semenov, 1911"
+  },
+  "information": {
+    "general_description": "체장 16.0~30.0 mm. 몸은 검은색이며, 두꺼운 푸른색 띠들이 있다. 머리의 아래, 앞가슴등판에는 큰 검은색 점이 있으며, 딱지날개에는 3개의 검은색 가로 줄 무늬가 있다. 더듬이 3~7번째 마디들에는 검은색이지만 각 말단에는 푸른색 띠가 있다. 앞가슴등판 측면의 돌기물은 발달하지 않았다. 더듬이는 길고 수컷, 암컷 모두 딱지날개 말단을 초과한다.",
+    "adult": null,
+    "adult_male": "더듬이 3~6번째 마디에는 짧고, 두꺼운 연모 털 뭉치가 있다.",
+    "adult_female": "더듬이 3~8번째 마디에는 짧고, 두꺼운 연모 털 뭉치가 있다.",
+    "larva": "유충에 대한 특징이 알려지지 않았다.",
+    "egg": "알에 대한 특징이 알려지지 않았다.",
+    "pupa": "번데기에 대한 형태특징이 알려지지 않았다.",
+    "ecology": "활엽수와 침엽수림에서 서식한다. 유충은 기주식물내에서 세로의 갱도를 형성한다.",
+    "habits": "각종 활엽수 벌채목에 모이는 습성이 있다.",
+    "season": null,
+    "overwintering": "유충",
+    "distribution": null,
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": "경제적 피해 유발 해충으로 알려져 있지 않아, 종 특이적 방제법은 현재까지 없다.",
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체장 16.0~30.0 mm. 몸은 검은색이며, 두꺼운 푸른색 띠들이 있다. 머리의 아래, 앞가슴등판에는 큰 검은색 점이 있으며, 딱지날개에는 3개의 검은색 가로 줄 무늬가 있다. 더듬이 3~7번째 마디들에는 검은색이지만 각 말단에는 푸른색 띠가 있다. 앞가슴등판 측면의 돌기물은 발달하지 않았다. 더듬이는 길고 수컷, 암컷 모두 딱지날개 말단을 초과한다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "더듬이 3~6번째 마디에는 짧고, 두꺼운 연모 털 뭉치가 있다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "더듬이 3~8번째 마디에는 짧고, 두꺼운 연모 털 뭉치가 있다."
+    },
+    {
+      "title": "번데기",
+      "text": "번데기에 대한 형태특징이 알려지지 않았다."
+    },
+    {
+      "title": "유충",
+      "text": "유충에 대한 특징이 알려지지 않았다."
+    },
+    {
+      "title": "생태",
+      "text": "활엽수와 침엽수림에서 서식한다. 유충은 기주식물내에서 세로의 갱도를 형성한다."
+    },
+    {
+      "title": "습성",
+      "text": "각종 활엽수 벌채목에 모이는 습성이 있다."
+    },
+    {
+      "title": "월동",
+      "text": "유충"
+    },
+    {
+      "title": "방제법",
+      "text": "경제적 피해 유발 해충으로 알려져 있지 않아, 종 특이적 방제법은 현재까지 없다."
+    },
+    {
+      "title": "알",
+      "text": "알에 대한 특징이 알려지지 않았다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0107-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0107_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0107_2.jpg",
+      "alt": "루리하늘소 1번째 사진 : ",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0107_2.jpg",
+      "caption": null,
+      "photographed_at": "20150715",
+      "location": null,
+      "photographer": "국립수목원(임종옥)"
+    }
+  ],
+  "representative_image_id": "ZOBL0107-1",
+  "specimen_examples": [],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0107-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0107&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:36+00:00",
+    "html_sha256": "afcaa6eaaae3343fff943cfe3ff537a33f858ff4e21a252f1a5641b4721826a5",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

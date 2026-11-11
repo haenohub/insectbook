@@ -1,0 +1,122 @@
+{
+  "id": "ZDAA0010",
+  "name_ko": "왕잠자리",
+  "scientific_name": "Anax julius julius Brauer, 1865",
+  "display_name": "왕잠자리",
+  "family_ko": "왕잠자리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "잠자리목",
+      "name_latin": "Odonata"
+    },
+    "family": {
+      "name_ko": "왕잠자리과",
+      "name_latin": "Aeshnidae"
+    },
+    "subfamily": {
+      "name_ko": "왕잠자리아과",
+      "name_latin": "Aeschninae"
+    },
+    "genus": {
+      "name_ko": "왕잠자리속",
+      "name_latin": "Anax"
+    }
+  },
+  "taxonomy_text": "목 : 잠자리목 (Odonata)\n과 : 왕잠자리과 (Aeshnidae)\n아과 : 왕잠자리아과 (Aeschninae)\n속 : 왕잠자리속 (Anax)",
+  "basic_information": {
+    "곤충명": "왕잠자리",
+    "학명": "Anax julius julius Brauer, 1865"
+  },
+  "information": {
+    "general_description": "뒷날개의 길이가 50~55 mm로 대형의 잠자리이다.",
+    "adult": null,
+    "adult_male": "수컷의 배에는 선명하고 아름다운 남색 무늬가 있다.",
+    "adult_female": "몸이 황록색이다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "유충은 비교적 넓은 수면이 있는 연못이나 강가의 물이 괸 곳에서 산다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[대만]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "뒷날개의 길이가 50~55 mm로 대형의 잠자리이다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "수컷의 배에는 선명하고 아름다운 남색 무늬가 있다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "몸이 황록색이다."
+    },
+    {
+      "title": "습성",
+      "text": "유충은 비교적 넓은 수면이 있는 연못이나 강가의 물이 괸 곳에서 산다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[대만]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZDAA0010-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAA0010_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAA0010_2_th.jpg",
+      "alt": "왕잠자리 1번째 사진 : 왕잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAA0010_2_th2.jpg",
+      "caption": "왕잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZDAA0010-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAA0010_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAA0010_1_th.jpg",
+      "alt": "왕잠자리 2번째 사진 : 왕잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAA0010_1_th2.jpg",
+      "caption": "왕잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZDAA0010-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0212236053",
+      "description": "[YNUE0212236053] 왕잠자리 2001.06.30 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0212236054",
+      "description": "[YNUE0212236054] 왕잠자리 2001.05.05 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0212236055",
+      "description": "[YNUE0212236055] 왕잠자리 2001.04.29 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZDAA0010-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZDAA0010&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:44+00:00",
+    "html_sha256": "35d5484b0e7b7b51a847efd93594ddcea93ece84ccaa785bb3653d47eae793e9",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

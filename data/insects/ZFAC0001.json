@@ -1,0 +1,204 @@
+{
+  "id": "ZFAC0001",
+  "name_ko": "대벌레",
+  "scientific_name": "Ramulus mikado (Rehn, 1904)",
+  "display_name": "대벌레",
+  "family_ko": "대벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "대벌레목",
+      "name_latin": "Phasmida"
+    },
+    "family": {
+      "name_ko": "대벌레과",
+      "name_latin": "Phasmatidae"
+    },
+    "genus": {
+      "name_ko": "대벌레속",
+      "name_latin": "Ramulus"
+    }
+  },
+  "taxonomy_text": "목 : 대벌레목 (Phasmida)\n과 : 대벌레과 (Phasmatidae)\n속 : 대벌레속 (Ramulus)",
+  "basic_information": {
+    "곤충명": "대벌레",
+    "학명": "Ramulus mikado (Rehn, 1904)"
+  },
+  "information": {
+    "general_description": "성충의 몸길이는 10 cm 가량이다.",
+    "adult": null,
+    "adult_male": "수컷은 몸체가 가늘고 색깔은 담갈색이며 가슴 등쪽에 뚜렷하지 않은 붉은 띠가 있다.",
+    "adult_female": "암컷은 서식환경에 따라 변하므로 체색이 담갈색, 흑갈색, 녹색, 황록색 등 여러 가지로 나타난다.",
+    "larva": null,
+    "egg": "알은 장경이 3.1 mm, 직경이 2 mm 정도이며 농흑갈색을 띤다.",
+    "pupa": null,
+    "ecology": "연 1회 발생하며 알로 월동하여 3월 하순~4월에 부화한다. 약충의 경우 암컷은 6회, 수컷은 5회 탈피하며 6월 중하순에 성충이 되며 11월 중순까지 생존한다. 산란은 성충이 된 지 10일 후부터 시작되며 보통 3개월 정도까지 산란한다. 산란 시에는 머리를 위쪽으로 향하여 정지하고 있는 것이 일반적이다. 1일 산란수는 14개 이내이며 1마리 당 600-700개 정도를 낳는다. 대벌레는 죽은 척하는 것으로 유명한데, 놀라게 하면 죽은 것같이 나무에서 떨어져 다리를 전후로 길게 늘여 몸에 붙이고 움직이지 않는다. 일반적으로 암컷은 느리지만 수컷은 동작이 민첩하다.",
+    "habits": "기주식물의 잎을 식해한다.",
+    "season": null,
+    "overwintering": "알",
+    "distribution": "[일본]",
+    "notes": "[산림해충] FRI(1991), Chung et al.(1995)",
+    "pest_control": "파프 및 메프유제 등을 500~1,000배로 희석, 수관에 살포.",
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충의 몸길이는 10 cm 가량이다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "수컷은 몸체가 가늘고 색깔은 담갈색이며 가슴 등쪽에 뚜렷하지 않은 붉은 띠가 있다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "암컷은 서식환경에 따라 변하므로 체색이 담갈색, 흑갈색, 녹색, 황록색 등 여러 가지로 나타난다."
+    },
+    {
+      "title": "생태",
+      "text": "연 1회 발생하며 알로 월동하여 3월 하순~4월에 부화한다. 약충의 경우 암컷은 6회, 수컷은 5회 탈피하며 6월 중하순에 성충이 되며 11월 중순까지 생존한다. 산란은 성충이 된 지 10일 후부터 시작되며 보통 3개월 정도까지 산란한다. 산란 시에는 머리를 위쪽으로 향하여 정지하고 있는 것이 일반적이다. 1일 산란수는 14개 이내이며 1마리 당 600-700개 정도를 낳는다. 대벌레는 죽은 척하는 것으로 유명한데, 놀라게 하면 죽은 것같이 나무에서 떨어져 다리를 전후로 길게 늘여 몸에 붙이고 움직이지 않는다. 일반적으로 암컷은 느리지만 수컷은 동작이 민첩하다."
+    },
+    {
+      "title": "습성",
+      "text": "기주식물의 잎을 식해한다."
+    },
+    {
+      "title": "월동",
+      "text": "알"
+    },
+    {
+      "title": "방제법",
+      "text": "파프 및 메프유제 등을 500~1,000배로 희석, 수관에 살포."
+    },
+    {
+      "title": "알",
+      "text": "알은 장경이 3.1 mm, 직경이 2 mm 정도이며 농흑갈색을 띤다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] FRI(1991), Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZFAC0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZFAC0001_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZFAC0001_2.jpg",
+      "alt": "대벌레 1번째 사진 : ",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZFAC0001_2_th2.jpg",
+      "caption": null,
+      "photographed_at": "20130710",
+      "location": null,
+      "photographer": "국립수목원(임종옥)"
+    },
+    {
+      "id": "ZFAC0001-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/F1/ZFAC0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/F1/ZFAC0001_1_th.jpg",
+      "alt": "대벌레 2번째 사진 : 대벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/F1/ZFAC0001_1_th2.jpg",
+      "caption": "대벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZFAC0001-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0307122088",
+      "description": "[KNAE0307122088] 대벌레 2000.08.14 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304021047",
+      "description": "[KNAE0304021047] 대벌레 1999.08.27 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304021048",
+      "description": "[KNAE0304021048] 대벌레 1999.08.28 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "갈참나무",
+      "scientific_name": "Quercus aliena Blume"
+    },
+    {
+      "group": "식물",
+      "name_ko": "감나무",
+      "scientific_name": "Diospyros kaki Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "나무딸기",
+      "scientific_name": "Rubus idaeus subsp. melanolasius f. concolor (Kom.) Ohwi"
+    },
+    {
+      "group": "식물",
+      "name_ko": "느티나무",
+      "scientific_name": "Zelkova serrata (Thunb.) Makino"
+    },
+    {
+      "group": "식물",
+      "name_ko": "등",
+      "scientific_name": "Wisteria floribunda (Willd.) DC."
+    },
+    {
+      "group": "식물",
+      "name_ko": "떡갈나무",
+      "scientific_name": "Quercus dentata Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "밤나무",
+      "scientific_name": "Castanea crenata Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "벚나무",
+      "scientific_name": "Prunus serrulata f. spontanea (Maxim.) Chin S.Chang"
+    },
+    {
+      "group": "식물",
+      "name_ko": "복사나무",
+      "scientific_name": "Prunus persica (L.) Batsch"
+    },
+    {
+      "group": "식물",
+      "name_ko": "상수리나무",
+      "scientific_name": "Quercus acutissima Carruth."
+    },
+    {
+      "group": "식물",
+      "name_ko": "생강나무",
+      "scientific_name": "Lindera obtusiloba Blume"
+    },
+    {
+      "group": "식물",
+      "name_ko": "졸참나무",
+      "scientific_name": "Quercus serrata Murray"
+    },
+    {
+      "group": "식물",
+      "name_ko": "황매화",
+      "scientific_name": "Kerria japonica (L.) DC."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZFAC0001-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZFAC0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:15+00:00",
+    "html_sha256": "dc44abe60414a5cbe3390e011478d4a5b84986a4db5631b32f6941682dd02e1b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

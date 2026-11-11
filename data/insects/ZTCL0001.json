@@ -1,0 +1,103 @@
+{
+  "id": "ZTCL0001",
+  "name_ko": "솔납작잎벌",
+  "scientific_name": "Acantholyda (Acantholyda) erythrocephala (Linnaeus, 1758)",
+  "display_name": "솔납작잎벌",
+  "family_ko": "납작잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "납작잎벌상과",
+      "name_latin": "Pamphilioidea"
+    },
+    "family": {
+      "name_ko": "납작잎벌과",
+      "name_latin": "Pamphiliidae"
+    },
+    "subfamily": {
+      "name_ko": "솔납작잎벌아과",
+      "name_latin": "Cephalciinae"
+    },
+    "genus": {
+      "name_ko": "솔납작잎벌속",
+      "name_latin": "Acantholyda"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 납작잎벌상과 (Pamphilioidea)\n과 : 납작잎벌과 (Pamphiliidae)\n아과 : 솔납작잎벌아과 (Cephalciinae)\n속 : 솔납작잎벌속 (Acantholyda)",
+  "basic_information": {
+    "곤충명": "솔납작잎벌",
+    "학명": "Acantholyda (Acantholyda) erythrocephala (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "한국, 시베리아, 유럽, 북미 등지에 분포한다. 암컷은 적갈색의 머리, 약하게 청흑색의 광택성 등판과 복부의 특징으로 다른종과 쉽게 구분된다. 수컷은 암컷과 색깔이 비슷하지만 머리는청흑색을 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": "Tenthredo erythrocephala Linnaeus, 1758: 558.\nAcantholyda erythrocephala : Takeuchi, 1927: 380; Takeuchi, 1930:3; Takeuchi, 1938: 207, Saito, 1941: 129; Kim, 1963: 139; Kim, 1970: 124, 715; Ko, 1969: 303; Kim et al., 1994: 216.\nLyda eythrocephala: Gussakovsij, 1935: 139, 140, 366; Saito, 1928: 10; Saito, 1931: 36.\nAcantholyda nipponica: Ko, 1969: 303; Korean Society of Plant Protectionm 1972: 210."
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 시베리아, 유럽, 북미 등지에 분포한다. 암컷은 적갈색의 머리, 약하게 청흑색의 광택성 등판과 복부의 특징으로 다른종과 쉽게 구분된다. 수컷은 암컷과 색깔이 비슷하지만 머리는청흑색을 띤다."
+    },
+    {
+      "title": "참고사항",
+      "text": "Tenthredo erythrocephala Linnaeus, 1758: 558.\nAcantholyda erythrocephala : Takeuchi, 1927: 380; Takeuchi, 1930:3; Takeuchi, 1938: 207, Saito, 1941: 129; Kim, 1963: 139; Kim, 1970: 124, 715; Ko, 1969: 303; Kim et al., 1994: 216.\nLyda eythrocephala: Gussakovsij, 1935: 139, 140, 366; Saito, 1928: 10; Saito, 1931: 36.\nAcantholyda nipponica: Ko, 1969: 303; Korean Society of Plant Protectionm 1972: 210."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTCL0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTCL0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTCL0001_1_th.jpg",
+      "alt": "솔납작잎벌 1번째 사진 : 솔납작잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTCL0001_1_th2.jpg",
+      "caption": "솔납작잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTCL0001-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0301059038",
+      "description": "[YNUE0301059038] 솔납작잎벌 1987.05.07 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301059039",
+      "description": "[YNUE0301059039] 솔납작잎벌 1989.04.15 / / 영남대학교"
+    },
+    {
+      "id": "KNAE607688",
+      "description": "[KNAE607688] 솔납작잎벌 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTCL0001-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTCL0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:20+00:00",
+    "html_sha256": "33a8dc3562a960ca3f884b46985948a8953f242cf433886324faa6958dee95f9",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

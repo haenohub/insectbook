@@ -1,0 +1,871 @@
+{
+  "checked_at": "2026-11-09T11:19:30.622293+00:00",
+  "scope": "전체 모습 이미지 설명이 없는 41종의 갤러리 이미지 58개를 육안 확인. 전체 3,328종 이미지의 전수 육안 검토 결과는 아님. 2026-11-05 생성 전 추가 확인: 전체 모습 설명이 있는 ZREL0301도 로고·해부 도판만 있어 제외. 전수 검토 아님. 추가 생성 중 확인한 불완전한 표본 및 종 불일치 보류 기록을 포함한다. 전체 제작 목록 3,303종의 전수 사진 검토 결과는 아니다.",
+  "counts": {
+    "include": 17,
+    "exclude_anatomy_only": 24,
+    "source_unavailable": 1,
+    "hold_incomplete_body": 4,
+    "hold_species_mismatch": 1,
+    "hold_identity_uncertain": 1
+  },
+  "records": [
+    {
+      "id": "ZTBU0182",
+      "name": "검은점별자루맵시벌",
+      "images": [
+        {
+          "id": "ZTBU0182-1",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0182_1.jpg",
+          "caption": null,
+          "kind": "photograph",
+          "access_failures": []
+        }
+      ],
+      "decision": "include"
+    },
+    {
+      "id": "ZTBU0226",
+      "name": "검정뿔자루맵시벌",
+      "images": [
+        {
+          "id": "ZTBU0226-1",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0226_1.jpg",
+          "caption": null,
+          "kind": "photograph",
+          "access_failures": []
+        }
+      ],
+      "decision": "include"
+    },
+    {
+      "id": "ZTBU0236",
+      "name": "곤봉자루맵시벌",
+      "images": [
+        {
+          "id": "ZTBU0236-1",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0236_1.jpg",
+          "caption": null,
+          "kind": "photograph",
+          "access_failures": []
+        }
+      ],
+      "decision": "include"
+    },
+    {
+      "id": "ZRFF0113",
+      "name": "그물노랑잎말이나방",
+      "images": [
+        {
+          "id": "ZRFF0113-1",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0113_7.jpg",
+          "caption": "그물노랑잎말이나방가슴 확대 이미지 입니다",
+          "kind": "anatomical_diagram",
+          "access_failures": []
+        },
+        {
+          "id": "ZRFF0113-2",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0113_6.jpg",
+          "caption": "그물노랑잎말이나방배 등면 이미지 입니다",
+          "kind": "anatomical_diagram",
+          "access_failures": []
+        }
+      ],
+      "decision": "exclude_anatomy_only"
+    },
+    {
+      "id": "ZRBG0016",
+      "name": "꼬마가는잎말이나방",
+      "images": [
+        {
+          "id": "ZRBG0016-1",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/ZRBG0016_7.jpg",
+          "caption": "꼬마가는잎말이나방가슴 확대 이미지 입니다",
+          "kind": "anatomical_diagram",
+          "access_failures": []
+        },
+        {
+          "id": "ZRBG0016-2",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/ZRBG0016_6.jpg",
+          "caption": "꼬마가는잎말이나방배 등면 이미지 입니다",
+          "kind": "anatomical_diagram",
+          "access_failures": []
+        }
+      ],
+      "decision": "exclude_anatomy_only"
+    },
+    {
+      "id": "ZTBU0381",
+      "name": "남방화장뭉툭맵시벌",
+      "images": [
+        {
+          "id": "ZTBU0381-1",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0381_1.jpg",
+          "caption": null,
+          "kind": "photograph",
+          "access_failures": []
+        }
+      ],
+      "decision": "include"
+    },
+    {
+      "id": "ZRFF0100",
+      "name": "노랑잎말이나방",
+      "images": [
+        {
+          "id": "ZRFF0100-1",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0100_7.jpg",
+          "caption": "노랑잎말이나방가슴 확대 이미지 입니다",
+          "kind": "anatomical_diagram",
+          "access_failures": []
+        },
+        {
+          "id": "ZRFF0100-2",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0100_6.jpg",
+          "caption": "노랑잎말이나방배 등면 이미지 입니다",
+          "kind": "anatomical_diagram",
+          "access_failures": []
+        }
+      ],
+      "decision": "exclude_anatomy_only"
+    },
+    {
+      "id": "ZREL0257",
+      "name": "노랑테알락명나방",
+      "images": [
+        {
+          "id": "ZREL0257-1",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0257_7.jpg",
+          "caption": "노랑테알락명나방가슴 확대 이미지 입니다",
+          "kind": "anatomical_diagram",
+          "access_failures": []
+        },
+        {
+          "id": "ZREL0257-2",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0257_6.jpg",
+          "caption": "노랑테알락명나방배 등면 이미지 입니다",
+          "kind": "anatomical_diagram",
+          "access_failures": []
+        }
+      ],
+      "decision": "exclude_anatomy_only"
+    },
+    {
+      "id": "ZTBU0185",
+      "name": "대만별자루맵시벌",
+      "images": [
+        {
+          "id": "ZTBU0185-1",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0185_1.jpg",
+          "caption": null,
+          "kind": "photograph",
+          "access_failures": []
+        }
+      ],
+      "decision": "include"
+    },
+    {
+      "id": "ZRFF0114",
+      "name": "도깨비잎말이나방",
+      "images": [
+        {
+          "id": "ZRFF0114-1",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0114_7.jpg",
+          "caption": "도깨비잎말이나방가슴 확대 이미지 입니다",
+          "kind": "anatomical_diagram",
+          "access_failures": []
+        },
+        {
+          "id": "ZRFF0114-2",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0114_6.jpg",
+          "caption": "도깨비잎말이나방배 등면 이미지 입니다",
+          "kind": "anatomical_diagram",
+          "access_failures": []
+        }
+      ],
+      "decision": "exclude_anatomy_only"
+    },
+    {
+      "id": "ZRBG0001",
+      "name": "두줄가는잎말이나방",
+      "images": [
+        {
+          "id": "ZRBG0001-1",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/ZRBG0001_7.jpg",
+          "caption": "두줄가는잎말이나방가슴 확대 이미지 입니다",
+          "kind": "anatomical_diagram",
+          "access_failures": []
+        },
+        {
+          "id": "ZRBG0001-2",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/ZRBG0001_6.jpg",
+          "caption": "두줄가는잎말이나방배 등면 이미지 입니다",
+          "kind": "anatomical_diagram",
+          "access_failures": []
+        }
+      ],
+      "decision": "exclude_anatomy_only"
+    },
+    {
+      "id": "ZREL0277",
+      "name": "뒷노랑알락명나방",
+      "images": [
+        {
+          "id": "ZREL0277-1",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0277_7.jpg",
+          "caption": "뒷노랑알락명나방가슴 확대 이미지 입니다",
+          "kind": "anatomical_diagram",
+          "access_failures": []
+        },
+        {
+          "id": "ZREL0277-2",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0277_6.jpg",
+          "caption": "뒷노랑알락명나방배 등면 이미지 입니다",
+          "kind": "anatomical_diagram",
+          "access_failures": []
+        }
+      ],
+      "decision": "exclude_anatomy_only"
+    },
+    {
+      "id": "ZOBL0107",
+      "name": "루리하늘소",
+      "images": [
+        {
+          "id": "ZOBL0107-1",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0107_2.jpg",
+          "caption": null,
+          "kind": "unavailable",
+          "access_failures": [
+            {
+              "url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0107_2.jpg",
+              "error": "Client error '404 Not Found' for url 'https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0107_2.jpg'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+            }
+          ]
+        }
+      ],
+      "decision": "source_unavailable"
+    },
+    {
+      "id": "ZTBU0173",
+      "name": "보라자루맵시벌",
+      "images": [
+        {
+          "id": "ZTBU0173-1",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0173_1.jpg",
+          "caption": null,
+          "kind": "photograph",
+          "access_failures": []
+        }
+      ],
+      "decision": "include"
+    },
+    {
+      "id": "ZRFF0131",
+      "name": "복숭아순나방",
+      "images": [
+        {
+          "id": "ZRFF0131-1",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0131_7.jpg",
+          "caption": "복숭아순나방가슴 확대 이미지 입니다",
+          "kind": "anatomical_diagram",
+          "access_failures": []
+        }
+      ],
+      "decision": "exclude_anatomy_only"
+    },
+    {
+      "id": "ZRFF0084",
+      "name": "복숭아잎말이나방",
+      "images": [
+        {
+          "id": "ZRFF0084-1",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0084_7.jpg",
+          "caption": "복숭아잎말이나방가슴 확대 이미지 입니다",
+          "kind": "anatomical_diagram",
+          "access_failures": []
+        },
+        {
+          "id": "ZRFF0084-2",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0084_6.jpg",
+          "caption": "복숭아잎말이나방배 등면 이미지 입니다",
+          "kind": "anatomical_diagram",
+          "access_failures": []
+        }
+      ],
+      "decision": "exclude_anatomy_only"
+    },
+    {
+      "id": "ZRBG0014",
+      "name": "북방가는잎말이나방",
+      "images": [
+        {
+          "id": "ZRBG0014-1",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/ZRBG0014_7.jpg",
+          "caption": "북방가는잎말이나방가슴 확대 이미지 입니다",
+          "kind": "anatomical_diagram",
+          "access_failures": []
+        },
+        {
+          "id": "ZRBG0014-2",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/ZRBG0014_6.jpg",
+          "caption": "북방가는잎말이나방배 등면 이미지 입니다",
+          "kind": "anatomical_diagram",
+          "access_failures": []
+        }
+      ],
+      "decision": "exclude_anatomy_only"
+    },
+    {
+      "id": "ZREL0278",
+      "name": "붉은무늬알락명나방",
+      "images": [
+        {
+          "id": "ZREL0278-1",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0278_7.jpg",
+          "caption": "붉은무늬알락명나방가슴 확대 이미지 입니다",
+          "kind": "anatomical_diagram",
+          "access_failures": []
+        },
+        {
+          "id": "ZREL0278-2",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0278_6.jpg",
+          "caption": "붉은무늬알락명나방배 등면 이미지 입니다",
+          "kind": "anatomical_diagram",
+          "access_failures": []
+        }
+      ],
+      "decision": "exclude_anatomy_only"
+    },
+    {
+      "id": "ZTBU0387",
+      "name": "붉은화장뭉툭맵시벌",
+      "images": [
+        {
+          "id": "ZTBU0387-1",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0387_1.jpg",
+          "caption": null,
+          "kind": "photograph",
+          "access_failures": []
+        }
+      ],
+      "decision": "include"
+    },
+    {
+      "id": "ZRFF0259",
+      "name": "뽕흰애기잎말이나방",
+      "images": [
+        {
+          "id": "ZRFF0259-1",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0259_6.jpg",
+          "caption": "뽕흰애기잎말이나방배 등면 이미지 입니다",
+          "kind": "anatomical_diagram",
+          "access_failures": []
+        }
+      ],
+      "decision": "exclude_anatomy_only"
+    },
+    {
+      "id": "ZRFF0218",
+      "name": "뿌리속애기애기잎말이나방",
+      "images": [
+        {
+          "id": "ZRFF0218-1",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0218_6.jpg",
+          "caption": "뿌리속애기잎말이나방배 등면 이미지 입니다",
+          "kind": "anatomical_diagram",
+          "access_failures": []
+        }
+      ],
+      "decision": "exclude_anatomy_only"
+    },
+    {
+      "id": "ZRFF0007",
+      "name": "뿔무늬잎말이나방",
+      "images": [
+        {
+          "id": "ZRFF0007-1",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0007_7.jpg",
+          "caption": "뿔무늬잎말이나방가슴 확대 이미지 입니다",
+          "kind": "anatomical_diagram",
+          "access_failures": []
+        },
+        {
+          "id": "ZRFF0007-2",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0007_6.jpg",
+          "caption": "뿔무늬잎말이나방배 등면 이미지 입니다",
+          "kind": "anatomical_diagram",
+          "access_failures": []
+        }
+      ],
+      "decision": "exclude_anatomy_only"
+    },
+    {
+      "id": "ZRBG0019",
+      "name": "쇠뿔가는잎말이나방",
+      "images": [
+        {
+          "id": "ZRBG0019-1",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/ZRBG0019_7.jpg",
+          "caption": "쇠뿔가는잎말이나방가슴 확대 이미지 입니다",
+          "kind": "anatomical_diagram",
+          "access_failures": []
+        },
+        {
+          "id": "ZRBG0019-2",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/ZRBG0019_6.jpg",
+          "caption": "쇠뿔가는잎말이나방배 등면 이미지 입니다",
+          "kind": "anatomical_diagram",
+          "access_failures": []
+        }
+      ],
+      "decision": "exclude_anatomy_only"
+    },
+    {
+      "id": "ZTBU0234",
+      "name": "어리곤봉자루맵시벌",
+      "images": [
+        {
+          "id": "ZTBU0234-1",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0234_1.jpg",
+          "caption": null,
+          "kind": "photograph",
+          "access_failures": []
+        }
+      ],
+      "decision": "include"
+    },
+    {
+      "id": "ZTBU0247",
+      "name": "어리털보자루맵시벌",
+      "images": [
+        {
+          "id": "ZTBU0247-1",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0247_1.jpg",
+          "caption": null,
+          "kind": "photograph",
+          "access_failures": []
+        }
+      ],
+      "decision": "include"
+    },
+    {
+      "id": "ZTBU0177",
+      "name": "엔테레인지별자루맵시벌",
+      "images": [
+        {
+          "id": "ZTBU0177-1",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0177_1.jpg",
+          "caption": null,
+          "kind": "photograph",
+          "access_failures": []
+        }
+      ],
+      "decision": "include"
+    },
+    {
+      "id": "ZMAJ0182",
+      "name": "옥수수테두리진딧물",
+      "images": [
+        {
+          "id": "ZMAJ0182-1",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAJ0182_1.jpg",
+          "caption": null,
+          "kind": "photograph",
+          "access_failures": []
+        }
+      ],
+      "decision": "include"
+    },
+    {
+      "id": "ZRFF0174",
+      "name": "유리애기잎말이나방",
+      "images": [
+        {
+          "id": "ZRFF0174-1",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0174_7.jpg",
+          "caption": "유리애기잎말이나방가슴 확대 이미지 입니다",
+          "kind": "anatomical_diagram",
+          "access_failures": []
+        }
+      ],
+      "decision": "exclude_anatomy_only"
+    },
+    {
+      "id": "ZRFF0061",
+      "name": "은빛잎말이나방",
+      "images": [
+        {
+          "id": "ZRFF0061-1",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0061_7.jpg",
+          "caption": "은빛잎말이나방가슴 확대 이미지 입니다",
+          "kind": "anatomical_diagram",
+          "access_failures": []
+        },
+        {
+          "id": "ZRFF0061-2",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0061_6.jpg",
+          "caption": "은빛잎말이나방배 등면 이미지 입니다",
+          "kind": "anatomical_diagram",
+          "access_failures": []
+        }
+      ],
+      "decision": "exclude_anatomy_only"
+    },
+    {
+      "id": "ZTBU0446",
+      "name": "이마판뭉툭맵시벌",
+      "images": [
+        {
+          "id": "ZTBU0446-1",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0446_1.jpg",
+          "caption": null,
+          "kind": "photograph",
+          "access_failures": []
+        }
+      ],
+      "decision": "include"
+    },
+    {
+      "id": "ZTBU0385",
+      "name": "점박이화장뭉툭맵시벌",
+      "images": [
+        {
+          "id": "ZTBU0385-1",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0385_1.jpg",
+          "caption": null,
+          "kind": "photograph",
+          "access_failures": []
+        }
+      ],
+      "decision": "include"
+    },
+    {
+      "id": "ZRFF0307",
+      "name": "진검모무늬잎말이나방",
+      "images": [
+        {
+          "id": "ZRFF0307-1",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0307_6.jpg",
+          "caption": "진검모무늬잎말이나방배 등면 이미지 입니다",
+          "kind": "anatomical_diagram",
+          "access_failures": []
+        }
+      ],
+      "decision": "exclude_anatomy_only"
+    },
+    {
+      "id": "ZTBU0228",
+      "name": "참뿔자루맵시벌",
+      "images": [
+        {
+          "id": "ZTBU0228-1",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0228_1.jpg",
+          "caption": null,
+          "kind": "photograph",
+          "access_failures": []
+        }
+      ],
+      "decision": "include"
+    },
+    {
+      "id": "ZTBU0239",
+      "name": "창환가락지자루맵시벌",
+      "images": [
+        {
+          "id": "ZTBU0239-1",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0239_1.jpg",
+          "caption": null,
+          "kind": "photograph",
+          "access_failures": []
+        }
+      ],
+      "decision": "include"
+    },
+    {
+      "id": "ZRBG0004",
+      "name": "큰횡줄가는잎말이나방",
+      "images": [
+        {
+          "id": "ZRBG0004-1",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/ZRBG0004_7.jpg",
+          "caption": "큰횡줄가는잎말이나방가슴 확대 이미지 입니다",
+          "kind": "anatomical_diagram",
+          "access_failures": []
+        },
+        {
+          "id": "ZRBG0004-2",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/ZRBG0004_6.jpg",
+          "caption": "큰횡줄가는잎말이나방배 등면 이미지 입니다",
+          "kind": "anatomical_diagram",
+          "access_failures": []
+        }
+      ],
+      "decision": "exclude_anatomy_only"
+    },
+    {
+      "id": "ZTBU0249",
+      "name": "털보자루맵시벌",
+      "images": [
+        {
+          "id": "ZTBU0249-1",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0249_1.jpg",
+          "caption": null,
+          "kind": "photograph",
+          "access_failures": []
+        }
+      ],
+      "decision": "include"
+    },
+    {
+      "id": "ZRBG0020",
+      "name": "홍갈색가는잎말이나방",
+      "images": [
+        {
+          "id": "ZRBG0020-1",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/ZRBG0020_6.jpg",
+          "caption": "홍갈색가는잎말이나방배 등면 이미지 입니다",
+          "kind": "anatomical_diagram",
+          "access_failures": []
+        }
+      ],
+      "decision": "exclude_anatomy_only"
+    },
+    {
+      "id": "ZTBU0241",
+      "name": "황갈색자루맵시벌",
+      "images": [
+        {
+          "id": "ZTBU0241-1",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0241_1.jpg",
+          "caption": null,
+          "kind": "photograph",
+          "access_failures": []
+        }
+      ],
+      "decision": "include"
+    },
+    {
+      "id": "ZRFF0294",
+      "name": "황머리애기잎말이나방",
+      "images": [
+        {
+          "id": "ZRFF0294-1",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0294_7.jpg",
+          "caption": "황머리애기잎말이나방가슴 확대 이미지 입니다",
+          "kind": "anatomical_diagram",
+          "access_failures": []
+        },
+        {
+          "id": "ZRFF0294-2",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0294_6.jpg",
+          "caption": "황머리애기잎말이나방배 등면 이미지 입니다",
+          "kind": "anatomical_specimen_photo",
+          "access_failures": []
+        }
+      ],
+      "decision": "exclude_anatomy_only"
+    },
+    {
+      "id": "ZRBG0011",
+      "name": "흰빛가는잎말이나방",
+      "images": [
+        {
+          "id": "ZRBG0011-1",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/ZRBG0011_7.jpg",
+          "caption": "흰빛가는잎말이나방가슴 확대 이미지 입니다",
+          "kind": "anatomical_diagram",
+          "access_failures": []
+        },
+        {
+          "id": "ZRBG0011-2",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/ZRBG0011_6.jpg",
+          "caption": "흰빛가는잎말이나방배 등면 이미지 입니다",
+          "kind": "anatomical_diagram",
+          "access_failures": []
+        }
+      ],
+      "decision": "exclude_anatomy_only"
+    },
+    {
+      "id": "ZRFF0253",
+      "name": "흰줄애기잎말이나방",
+      "images": [
+        {
+          "id": "ZRFF0253-1",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0253_7.jpg",
+          "caption": "흰줄애기잎말이나방가슴 확대 이미지 입니다",
+          "kind": "anatomical_diagram",
+          "access_failures": []
+        },
+        {
+          "id": "ZRFF0253-2",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0253_6.jpg",
+          "caption": "흰줄애기잎말이나방배 등면 이미지 입니다",
+          "kind": "anatomical_diagram",
+          "access_failures": []
+        }
+      ],
+      "decision": "exclude_anatomy_only"
+    },
+    {
+      "id": "ZREL0301",
+      "name": "굵은수염알락명나방",
+      "images": [
+        {
+          "id": "ZREL0301-1",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0301_7.jpg",
+          "caption": "굵은수염알락명나방가슴 확대 이미지 입니다",
+          "kind": "anatomical_diagram",
+          "access_failures": [],
+          "sha256": "c41c9729b3dc4049659446a7950517ea32c6ab6c6ec18dbea6abc4ff2aa85ab8"
+        },
+        {
+          "id": "ZREL0301-2",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0301_6.jpg",
+          "caption": "굵은수염알락명나방배 등면 이미지 입니다",
+          "kind": "anatomical_diagram",
+          "access_failures": [],
+          "sha256": "657da92558091272ad6c901c76d2cf8aa5167eaa8ccf311582910ff3a678117a"
+        },
+        {
+          "id": "ZREL0301-3",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0301_1.jpg",
+          "caption": "굵은수염알락명나방전체 등면 이미지 입니다",
+          "kind": "site_logo_placeholder",
+          "access_failures": [],
+          "sha256": "521509e56054dd529bd0945c815f3ba047b940c9c32ad81ab802d8fa4cf9bd37"
+        }
+      ],
+      "decision": "exclude_anatomy_only",
+      "checked_at": "2026-11-05T14:15:55.713290+00:00",
+      "reason": "전체 등면 원본·썸네일·확대 이미지가 사이트 로고이고 나머지 두 이미지는 해부 도판, 실제 전신 사진 없음"
+    },
+    {
+      "id": "ZOAR0060",
+      "name": "남색거위벌레",
+      "images": [
+        {
+          "id": "ZOAR0060-1",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0060_1.jpg",
+          "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0060_1_th.jpg",
+          "alt": "남색거위벌레 1번째 사진 : 남색거위벌레전체 등면 이미지 입니다",
+          "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0060_1_th2.jpg",
+          "caption": "남색거위벌레전체 등면 이미지 입니다",
+          "photographed_at": null,
+          "location": null,
+          "photographer": null,
+          "kind": "incomplete_specimen_photo"
+        }
+      ],
+      "decision": "hold_incomplete_body",
+      "reason": "유일한 전체 사진에서 머리와 주둥이 및 다리를 확인할 수 없어 정상 전체 형태를 추정해야 하므로 온전한 사진 확보 전 생성 보류",
+      "checked_at": "2026-11-08T16:39:34.831351+00:00"
+    },
+    {
+      "id": "ZREL0100",
+      "name": "날개검은들명나방",
+      "images": [
+        {
+          "id": "ZREL0100-1",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0100_1.jpg",
+          "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0100_1_th.jpg",
+          "alt": "날개검은들명나방 1번째 사진 : 날개검은들명나방전체 등면 이미지 입니다",
+          "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0100_1_th2.jpg",
+          "caption": "날개검은들명나방전체 등면 이미지 입니다",
+          "photographed_at": null,
+          "location": null,
+          "photographer": null,
+          "kind": "incomplete_specimen_photo"
+        }
+      ],
+      "decision": "hold_incomplete_body",
+      "reason": "유일한 전체 사진에서 배가 크게 소실되어 정상 전체 몸의 형태를 확인하기 어려움. 온전한 전체 사진 확보 전 생성 보류.",
+      "checked_at": "2026-11-08T16:47:23.490794+00:00"
+    },
+    {
+      "id": "ZOBL0079",
+      "name": "깔따구꽃하늘소",
+      "images": [
+        {
+          "id": "ZOBL0079-1",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0079_1.jpg",
+          "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0079_1_th.jpg",
+          "alt": "깔따구꽃하늘소 1번째 사진 : 깔따구꽃하늘소전체 등면 이미지 입니다",
+          "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0079_1_th2.jpg",
+          "caption": "깔따구꽃하늘소전체 등면 이미지 입니다",
+          "photographed_at": null,
+          "location": null,
+          "photographer": null,
+          "kind": "photograph_species_mismatch"
+        }
+      ],
+      "decision": "hold_species_mismatch",
+      "reason": "원본은 짧은 더듬이·노란 배·투명 두 날개를 가진 파리류 사진으로 하늘소 학명·설명과 불일치. 대체 원본 확인 전 생성 보류",
+      "checked_at": "2026-11-08T16:47:23.490863+00:00"
+    },
+    {
+      "id": "ZTBO0075",
+      "name": "네눈개미",
+      "images": [
+        {
+          "id": "ZTBO0075-1",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0075_1.jpg",
+          "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0075_1_th.jpg",
+          "alt": "네눈개미 1번째 사진 : 네눈개미전체 등면 이미지 입니다",
+          "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0075_1_th2.jpg",
+          "caption": "네눈개미전체 등면 이미지 입니다",
+          "photographed_at": null,
+          "location": null,
+          "photographer": null,
+          "kind": "photograph_identity_uncertain"
+        }
+      ],
+      "decision": "hold_identity_uncertain",
+      "reason": "유일한 사진에서 가슴이 핀에 크게 가려져 있고 원문의 검정 몸 및 배의 밝은 네 반점을 확인하기 어려워 종 일치 여부 확인 전 생성 보류",
+      "checked_at": "2026-11-09T10:13:43.300713+00:00"
+    },
+    {
+      "id": "ZDAE0002",
+      "name": "노란실잠자리",
+      "images": [
+        {
+          "id": "ZDAE0002-1",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAE0002_1.jpg",
+          "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAE0002_1_th.jpg",
+          "alt": "노란실잠자리 1번째 사진 : 노란실잠자리전체 등면 이미지 입니다",
+          "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAE0002_1_th2.jpg",
+          "caption": "노란실잠자리전체 등면 이미지 입니다",
+          "photographed_at": null,
+          "location": null,
+          "photographer": null,
+          "kind": "incomplete_specimen_photo"
+        }
+      ],
+      "decision": "hold_incomplete_body",
+      "reason": "유일한 사진의 머리·가슴이 심하게 어둡고 기울어 겹눈과 부착 위치를 구분하기 어렵고, 배 중앙도 크게 변형되어 정상 전체 형태를 확인하기 어려움. 더 선명하고 온전한 전체 사진 확보 전 생성 보류.",
+      "checked_at": "2026-11-09T11:10:48.788685+00:00"
+    },
+    {
+      "id": "ZOBT0203",
+      "name": "노랑가슴청색잎벌레",
+      "images": [
+        {
+          "id": "ZOBT0203-1",
+          "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0203_1.jpg",
+          "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0203_1_th.jpg",
+          "alt": "노랑가슴청색잎벌레 1번째 사진 : 노랑가슴청색잎벌레전체 등면 이미지 입니다",
+          "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0203_1_th2.jpg",
+          "caption": "노랑가슴청색잎벌레전체 등면 이미지 입니다",
+          "photographed_at": null,
+          "location": null,
+          "photographer": null,
+          "kind": "incomplete_specimen_photo"
+        }
+      ],
+      "decision": "hold_incomplete_body",
+      "reason": "유일한 전체 사진에서 머리와 정상 더듬이를 확인할 수 없어 머리 전체를 추정해야 함. 온전한 전신 사진 확보 전 생성 보류.",
+      "checked_at": "2026-11-09T11:19:30.622293+00:00"
+    }
+  ]
+}

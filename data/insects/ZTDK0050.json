@@ -1,0 +1,110 @@
+{
+  "id": "ZTDK0050",
+  "name_ko": "진딧물벌",
+  "scientific_name": "Pemphredon montana Dahlbom, 1845",
+  "display_name": "진딧물벌",
+  "family_ko": "은주둥이벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "은주둥이벌과",
+      "name_latin": "Crabronidae"
+    },
+    "subfamily": {
+      "name_ko": "진딧물벌아과",
+      "name_latin": "Pemphredoninae"
+    },
+    "genus": {
+      "name_ko": "진딧물벌속",
+      "name_latin": "Pemphredon"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 은주둥이벌과 (Crabronidae)\n아과 : 진딧물벌아과 (Pemphredoninae)\n속 : 진딧물벌속 (Pemphredon)",
+  "basic_information": {
+    "곤충명": "진딧물벌",
+    "학명": "Pemphredon montana Dahlbom, 1845"
+  },
+  "information": {
+    "general_description": "암컷의 몸길이는 9.5-12mm 이며 미역은 넓고 평탄하며 뒷다리의 제1발목마디 보다 넓다. 수컷(10mm 정도)뒷다리의 종아리마디는 갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷의 몸길이는 9.5-12mm 이며 미역은 넓고 평탄하며 뒷다리의 제1발목마디 보다 넓다. 수컷(10mm 정도)뒷다리의 종아리마디는 갈색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDK0050-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0050_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0050_2_th.jpg",
+      "alt": "진딧물벌 1번째 사진 : 진딧물벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0050_2_th2.jpg",
+      "caption": "진딧물벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTDK0050-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0050_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0050_1_th.jpg",
+      "alt": "진딧물벌 2번째 사진 : 진딧물벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0050_1_th2.jpg",
+      "caption": "진딧물벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDK0050-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306262079",
+      "description": "[YNUE0306262079] 진딧물벌 1955.06.05 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0111221058",
+      "description": "[YNUE0111221058] 진딧물벌 1995.08.15 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDK0050-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDK0050&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:36+00:00",
+    "html_sha256": "915c3125136308a0e006f6afc63809ed1af750d05be034bfa568295e47a63a25",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "id": "ZOBH0221",
+  "name_ko": "진길쭉먼지벌레",
+  "scientific_name": "Pterostichus (Nialoe) sincerus Park & Kwon, 1996",
+  "display_name": "진길쭉먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "먼지벌레아과",
+      "name_latin": "Harpalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Pterostichus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 먼지벌레아과 (Harpalinae)\n속 : (Pterostichus)",
+  "basic_information": {
+    "곤충명": "진길쭉먼지벌레",
+    "학명": "Pterostichus (Nialoe) sincerus Park & Kwon, 1996"
+  },
+  "information": {
+    "general_description": "몸길이는 15~20mm 이며 몸 색깔은 검은색또는 암갈색이며 촉각 수염은 연한 갈색이며 체형은 일반적으로 가늘다. 수컷 복부말단절은 뒤쪽으로 돌출되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "부식층이 많은 높은 고도에서 서식한다. 포식성이다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 15~20mm 이며 몸 색깔은 검은색또는 암갈색이며 촉각 수염은 연한 갈색이며 체형은 일반적으로 가늘다. 수컷 복부말단절은 뒤쪽으로 돌출되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "부식층이 많은 높은 고도에서 서식한다. 포식성이다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0221-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0221_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0221_2_th.jpg",
+      "alt": "진길쭉먼지벌레 1번째 사진 : 진길쭉먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0221_2_th2.jpg",
+      "caption": "진길쭉먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0221-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0221_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0221_1_th.jpg",
+      "alt": "진길쭉먼지벌레 2번째 사진 : 진길쭉먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0221_1_th2.jpg",
+      "caption": "진길쭉먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0221-1",
+  "specimen_examples": [
+    {
+      "id": "SJNE0202061001",
+      "description": "[SJNE0202061001] 진길쭉먼지벌레 1981.07.13 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0202061003",
+      "description": "[SJNE0202061003] 진길쭉먼지벌레 1981.07.13 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0202061004",
+      "description": "[SJNE0202061004] 진길쭉먼지벌레 1981.07.13 / / 상주대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0221-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0221&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:32+00:00",
+    "html_sha256": "078b0497f90a1df7699778d2c696a7c7fba07af83e72404cdfcf389837b8dc1f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

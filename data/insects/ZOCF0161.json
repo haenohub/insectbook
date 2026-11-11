@@ -1,0 +1,122 @@
+{
+  "id": "ZOCF0161",
+  "name_ko": "개암밤바구미",
+  "scientific_name": "Curculio dieckmanni (Faust, 1887)",
+  "display_name": "개암밤바구미",
+  "family_ko": "바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "바구미과",
+      "name_latin": "Curculionidae"
+    },
+    "subfamily": {
+      "name_ko": "밤바구미아과",
+      "name_latin": "Curculioninae"
+    },
+    "genus": {
+      "name_ko": "밤바구미속",
+      "name_latin": "Curculio"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 바구미과 (Curculionidae)\n아과 : 밤바구미아과 (Curculioninae)\n속 : 밤바구미속 (Curculio)",
+  "basic_information": {
+    "곤충명": "개암밤바구미",
+    "학명": "Curculio dieckmanni (Faust, 1887)"
+  },
+  "information": {
+    "general_description": "한국(중부), 일본(?), 동북 중국(만주, 흑룡강, 길림, 료녕), 러시아(아무르, 하바로프스키 쁘리모르스키)에 분포하며, 몸길이 6.5-7.0 mm. 앞가슴등판은 소순판 바로 전에 삼각형의 황색 반문이 있다. 딱지날개는 황색 얼룩무늬가 다소 가로로 겹쳐진 점무늬들로 구성, 봉합선은 황색 직립 인편이 있다. 아랫면은 백색 및 황색 인편으로 피복.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 Corylus heterophylla와 C. mandshurica에서 채집되었다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국(중부), 일본(?), 동북 중국(만주, 흑룡강, 길림, 료녕), 러시아(아무르, 하바로프스키 쁘리모르스키)에 분포하며, 몸길이 6.5-7.0 mm. 앞가슴등판은 소순판 바로 전에 삼각형의 황색 반문이 있다. 딱지날개는 황색 얼룩무늬가 다소 가로로 겹쳐진 점무늬들로 구성, 봉합선은 황색 직립 인편이 있다. 아랫면은 백색 및 황색 인편으로 피복."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 Corylus heterophylla와 C. mandshurica에서 채집되었다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCF0161-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0161_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0161_1_th.jpg",
+      "alt": "개암밤바구미 1번째 사진 : 개암밤바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0161_1_th2.jpg",
+      "caption": "개암밤바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCF0161-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0205061159",
+      "description": "[SNUE0205061159] 개암밤바구미 1992.06.02 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0205061160",
+      "description": "[SNUE0205061160] 개암밤바구미 1992.05.23 / / 서울대학교"
+    },
+    {
+      "id": "KPNE1006266210",
+      "description": "[KPNE1006266210] 개암밤바구미 2008.09.03 / / 경북대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "개암나무",
+      "scientific_name": "Corylus heterophylla Fisch. ex Trautv."
+    },
+    {
+      "group": "식물",
+      "name_ko": "물개암나무",
+      "scientific_name": "Corylus sieboldiana var. mandshurica (Maxim.) C.K.Schneid."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOCF0161.png",
+    "reference_image_id": "ZOCF0161-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T17:08:37.887986+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "376e1a1ae1429424bf5c75531f24774b868bcd8f11aed20a6c7446d0893d127b"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCF0161&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:45+00:00",
+    "html_sha256": "a54ca8d8b987e6653fb127121e562e585bc9e0c4d768291d6edd7085052e5c3d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "id": "ZREO0002",
+  "name_ko": "긴꼬리산누에나방",
+  "scientific_name": "Actias artemis (Bremer & grey, 1853)",
+  "display_name": "긴꼬리산누에나방",
+  "family_ko": "산누에나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "누에나방상과",
+      "name_latin": "Bombycoidea"
+    },
+    "family": {
+      "name_ko": "산누에나방과",
+      "name_latin": "Saturniidae"
+    },
+    "subfamily": {
+      "name_ko": "산누에나방아과",
+      "name_latin": "Saturniinae"
+    },
+    "genus": {
+      "name_ko": "긴꼬리산누에나방속",
+      "name_latin": "Actias"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 누에나방상과 (Bombycoidea)\n과 : 산누에나방과 (Saturniidae)\n아과 : 산누에나방아과 (Saturniinae)\n속 : 긴꼬리산누에나방속 (Actias)",
+  "basic_information": {
+    "곤충명": "긴꼬리산누에나방",
+    "학명": "Actias artemis (Bremer & grey, 1853)"
+  },
+  "information": {
+    "general_description": "날개편 길이 80～100mm. 뒷날개 꼬리의 휘어진 각이 거의 90도에 가깝고 옥색긴꼬리산누에나방보다 굵다. 앞․뒷날개의 중실 무늬가 옥색긴꼬리산누에나방보다 긴 타원형을 이루며, 아랫쪽 가장자리의 테두리가 불명료한 것으로 구별된다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 5월초～8월말에 걸쳐 연 2회 출현한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[중국]\n[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 80～100mm. 뒷날개 꼬리의 휘어진 각이 거의 90도에 가깝고 옥색긴꼬리산누에나방보다 굵다. 앞․뒷날개의 중실 무늬가 옥색긴꼬리산누에나방보다 긴 타원형을 이루며, 아랫쪽 가장자리의 테두리가 불명료한 것으로 구별된다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 5월초～8월말에 걸쳐 연 2회 출현한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREO0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREO0002_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREO0002_2_th.jpg",
+      "alt": "긴꼬리산누에나방 1번째 사진 : 긴꼬리산누에나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREO0002_2_th2.jpg",
+      "caption": "긴꼬리산누에나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREO0002-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREO0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREO0002_1_th.jpg",
+      "alt": "긴꼬리산누에나방 2번째 사진 : 긴꼬리산누에나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREO0002_1_th2.jpg",
+      "caption": "긴꼬리산누에나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREO0002-1",
+  "specimen_examples": [
+    {
+      "id": "ADUE0305121109",
+      "description": "[ADUE0305121109] 긴꼬리산누에나방 2002.07.30 / / 안동대학교"
+    },
+    {
+      "id": "YNUE0210292096",
+      "description": "[YNUE0210292096] 긴꼬리산누에나방 1986.10.20 / / 영남대학교"
+    },
+    {
+      "id": "CBNE0207161056",
+      "description": "[CBNE0207161056] 긴꼬리산누에나방 1991.06.22 / / 충북대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "갈참나무",
+      "scientific_name": "Quercus aliena Blume"
+    },
+    {
+      "group": "식물",
+      "name_ko": "갯버들",
+      "scientific_name": "Salix gracilistyla Miq."
+    },
+    {
+      "group": "식물",
+      "name_ko": "매실나무",
+      "scientific_name": "Prunus mume (Siebold) Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "밤나무",
+      "scientific_name": "Castanea crenata Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "벚나무",
+      "scientific_name": "Prunus serrulata f. spontanea (Maxim.) Chin S.Chang"
+    },
+    {
+      "group": "식물",
+      "name_ko": "복사나무",
+      "scientific_name": "Prunus persica (L.) Batsch"
+    },
+    {
+      "group": "식물",
+      "name_ko": "사과나무",
+      "scientific_name": "Malus domestica (Suckow) Borkh."
+    },
+    {
+      "group": "식물",
+      "name_ko": "오리나무",
+      "scientific_name": "Alnus japonica (Thunb.) Steud."
+    },
+    {
+      "group": "식물",
+      "name_ko": "졸참나무",
+      "scientific_name": "Quercus serrata Murray"
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZREO0002.png",
+    "reference_image_id": "ZREO0002-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T08:40:35.203459+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "46d7b2e9d967c15fa4c714b31309f129e023666a59bd487e0998bdc5c3e92d5b"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREO0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:54+00:00",
+    "html_sha256": "dedada5d7f1a46fa4998f3720ba2a86ab456fa65bc53ab1881f0ab46f89dfe85",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

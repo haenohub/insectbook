@@ -1,0 +1,103 @@
+{
+  "id": "ZTCV0011",
+  "name_ko": "호랑대모벌",
+  "scientific_name": "Cryptocheilus nicevilli (Bingham, 1897)",
+  "display_name": "호랑대모벌",
+  "family_ko": "대모벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "말벌상과",
+      "name_latin": "Vespoidea"
+    },
+    "family": {
+      "name_ko": "대모벌과",
+      "name_latin": "Pompilidae"
+    },
+    "subfamily": {
+      "name_ko": "배고랑대모벌아과",
+      "name_latin": "Pepsinae"
+    },
+    "genus": {
+      "name_ko": "황대모벌속",
+      "name_latin": "Cryptocheilus"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 말벌상과 (Vespoidea)\n과 : 대모벌과 (Pompilidae)\n아과 : 배고랑대모벌아과 (Pepsinae)\n속 : 황대모벌속 (Cryptocheilus)",
+  "basic_information": {
+    "곤충명": "호랑대모벌",
+    "학명": "Cryptocheilus nicevilli (Bingham, 1897)"
+  },
+  "information": {
+    "general_description": "몸은 담황색이고 큰턱의 끝, 앞가슴등판과 가운데가슴등판의 앞슭에 있는 무늬, 작은방패판의 양쪽 무늬, 각 배마디의 뒷슭 띠 무늬, 제 1 배마디의 기부는 암갈색이다. 다만 황갈색 짧은 털이 밀생하기 때문에 배의 띠 무늬는 뚜렷하지 않다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[인도]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸은 담황색이고 큰턱의 끝, 앞가슴등판과 가운데가슴등판의 앞슭에 있는 무늬, 작은방패판의 양쪽 무늬, 각 배마디의 뒷슭 띠 무늬, 제 1 배마디의 기부는 암갈색이다. 다만 황갈색 짧은 털이 밀생하기 때문에 배의 띠 무늬는 뚜렷하지 않다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[인도]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTCV0011-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTCV0011_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTCV0011_1_th.jpg",
+      "alt": "호랑대모벌 1번째 사진 : 호랑대모벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTCV0011_1_th2.jpg",
+      "caption": "호랑대모벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTCV0011-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303251021",
+      "description": "[KNAE0303251021] 호랑대모벌 1993.08.28 / / 국립수목원"
+    },
+    {
+      "id": "YNUE0306261036",
+      "description": "[YNUE0306261036] 호랑대모벌 1956.09.04 / / 영남대학교"
+    },
+    {
+      "id": "KNAE637584",
+      "description": "[KNAE637584] 호랑대모벌 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTCV0011-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTCV0011&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:13+00:00",
+    "html_sha256": "becf0e6f6199be19763348474281c96b52c95672945cf13e6727507416e66b6d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

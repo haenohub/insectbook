@@ -1,0 +1,130 @@
+{
+  "id": "ZFAB0001",
+  "name_ko": "분홍날개대벌레",
+  "scientific_name": "Micadina phluctainoides (Rehn, 1904)",
+  "display_name": "분홍날개대벌레",
+  "family_ko": "날개대벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "대벌레목",
+      "name_latin": "Phasmida"
+    },
+    "family": {
+      "name_ko": "날개대벌레과",
+      "name_latin": "Diapheromeridae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Micadina"
+    }
+  },
+  "taxonomy_text": "목 : 대벌레목 (Phasmida)\n과 : 날개대벌레과 (Diapheromeridae)\n속 : (Micadina)",
+  "basic_information": {
+    "곤충명": "분홍날개대벌레",
+    "학명": "Micadina phluctainoides (Rehn, 1904)"
+  },
+  "information": {
+    "general_description": "몸길이는 40~45 mm이다. 몸은 선록색이나, 수컷은 갈색인 것도 적지 않다. 머리는 크고 앞가슴등보다 뚜렷이 길고 폭도 넓다. 앞가슴은 가운데가슴의 1/3보다 짧고 뒷쪽으로 감에 따라 가늘어지고 앞쪽은 뒷쪽의 1/2보다 길지 않다. 가운데가슴에는 작은 혹이 이곳저곳에 있고 중앙의 종융기선은 비교적 굵으나 수컷은 뒷쪽이 다소 분명치 않다. 앞가두리 가까이에 한 개의 횡융기선이 있다. 배는 머리와 가슴을 합친 것보다 길어서, 암컷은 배 이상이고, 수컷은 1-1/2 내외이며, 대단히 가늘다. 말단 등마디는 길고 뒷쪽으로 감에 따라 가늘고 뒷가두리는 거의 직선으로 절단되었다. 버금생식판의 말단은 암컷의 것은 뾰족하나, 수컷의 것은 둥그렇고 중앙이 조금 오목하다. 더듬이는 가늘고 긴데, 수컷의 것은 몸길이보다 길다. 앞날개는 조각 모양인데 폭이 넓고, 뒷날개는 분홍색이고 기나 꼬리 끝에 달하지 못한다. 미모는 직선이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 40~45 mm이다. 몸은 선록색이나, 수컷은 갈색인 것도 적지 않다. 머리는 크고 앞가슴등보다 뚜렷이 길고 폭도 넓다. 앞가슴은 가운데가슴의 1/3보다 짧고 뒷쪽으로 감에 따라 가늘어지고 앞쪽은 뒷쪽의 1/2보다 길지 않다. 가운데가슴에는 작은 혹이 이곳저곳에 있고 중앙의 종융기선은 비교적 굵으나 수컷은 뒷쪽이 다소 분명치 않다. 앞가두리 가까이에 한 개의 횡융기선이 있다. 배는 머리와 가슴을 합친 것보다 길어서, 암컷은 배 이상이고, 수컷은 1-1/2 내외이며, 대단히 가늘다. 말단 등마디는 길고 뒷쪽으로 감에 따라 가늘고 뒷가두리는 거의 직선으로 절단되었다. 버금생식판의 말단은 암컷의 것은 뾰족하나, 수컷의 것은 둥그렇고 중앙이 조금 오목하다. 더듬이는 가늘고 긴데, 수컷의 것은 몸길이보다 길다. 앞날개는 조각 모양인데 폭이 넓고, 뒷날개는 분홍색이고 기나 꼬리 끝에 달하지 못한다. 미모는 직선이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZFAB0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/F1/ZFAB0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/F1/ZFAB0001_1_th.jpg",
+      "alt": "분홍날개대벌레 1번째 사진 : 분홍날개대벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/F1/ZFAB0001_1_th2.jpg",
+      "caption": "분홍날개대벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZFAB0001-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0306271005",
+      "description": "[FRIE0306271005] 분홍날개대벌레 1981.09.05 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0301271032",
+      "description": "[KNAE0301271032] 분홍날개대벌레 1994.08.15 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0704160012",
+      "description": "[KNAE0704160012] 분홍날개대벌레 2003.10.19 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "구실잣밤나무",
+      "scientific_name": "Castanopsis sieboldii (Makino) Hatus. ex T.Yamaz. & Mashiba"
+    },
+    {
+      "group": "식물",
+      "name_ko": "밤나무",
+      "scientific_name": "Castanea crenata Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "상수리나무",
+      "scientific_name": "Quercus acutissima Carruth."
+    },
+    {
+      "group": "식물",
+      "name_ko": "신갈나무",
+      "scientific_name": "Quercus mongolica Fisch. ex Ledeb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "졸참나무",
+      "scientific_name": "Quercus serrata Murray"
+    },
+    {
+      "group": "식물",
+      "name_ko": "종가시나무",
+      "scientific_name": "Quercus glauca Thunb."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZFAB0001-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZFAB0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:40+00:00",
+    "html_sha256": "6388cb291fd15e2b7db0691b81588a6d0b136c064dc5c21f9654653a1a931d95",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

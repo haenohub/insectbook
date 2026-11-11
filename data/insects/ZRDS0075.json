@@ -1,0 +1,117 @@
+{
+  "id": "ZRDS0075",
+  "name_ko": "흰점갈색밤나방",
+  "scientific_name": "Diarsia brunnea ([Denis & Schiffermüller], 1775)",
+  "display_name": "흰점갈색밤나방",
+  "family_ko": "밤나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "밤나방과",
+      "name_latin": "Noctuidae"
+    },
+    "subfamily": {
+      "name_ko": "밤나방아과",
+      "name_latin": "Noctuinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Diarsia"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 밤나방과 (Noctuidae)\n아과 : 밤나방아과 (Noctuinae)\n속 : (Diarsia)",
+  "basic_information": {
+    "곤충명": "흰점갈색밤나방",
+    "학명": "Diarsia brunnea ([Denis & Schiffermüller], 1775)"
+  },
+  "information": {
+    "general_description": "날개편 길이 16～20mm. 앞날개는 회갈색 바탕으로 적자갈색의 빛이 나며, 외횡선과 아외연선과의 사이는 폭넓게 암갈색을 띤다. 뒷날개는 회갈색을 띠며, 외연선은 가는 흑색선으로 되었다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 7～8월에 출현된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]\n[유럽]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 16～20mm. 앞날개는 회갈색 바탕으로 적자갈색의 빛이 나며, 외횡선과 아외연선과의 사이는 폭넓게 암갈색을 띤다. 뒷날개는 회갈색을 띠며, 외연선은 가는 흑색선으로 되었다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 7～8월에 출현된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]\n[유럽]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0075-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0075_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0075_1_th.jpg",
+      "alt": "흰점갈색밤나방 1번째 사진 : 흰점갈색밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0075_1_th2.jpg",
+      "caption": "흰점갈색밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0075-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0202261008",
+      "description": "[UIBE0202261008] 흰점갈색밤나방 2000.05.13 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0202261007",
+      "description": "[UIBE0202261007] 흰점갈색밤나방 2000.05.13 / / 인천대학교"
+    },
+    {
+      "id": "KNAE211869",
+      "description": "[KNAE211869] 흰점갈색밤나방 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "버드나무",
+      "scientific_name": "Salix pierotii Miq."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDS0075-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0075&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:43+00:00",
+    "html_sha256": "746684c817e5b6cf2dbf9ed8895e444b70f5bb641736d93d838f8aa6f5061899",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

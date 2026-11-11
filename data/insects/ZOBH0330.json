@@ -1,0 +1,103 @@
+{
+  "id": "ZOBH0330",
+  "name_ko": "털머리먼지벌레",
+  "scientific_name": "Platymetopus flavilabris (Fabricius, 1798)",
+  "display_name": "털머리먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "먼지벌레아과",
+      "name_latin": "Harpalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Platymetopus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 먼지벌레아과 (Harpalinae)\n속 : (Platymetopus)",
+  "basic_information": {
+    "곤충명": "털머리먼지벌레",
+    "학명": "Platymetopus flavilabris (Fabricius, 1798)"
+  },
+  "information": {
+    "general_description": "몸길이는 7.5~10mm 이며 전체적으로 짙은 동색을 띠고 점각과 적은 털로 덮여있으며 광택이 둔하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "섬지역이나 온도가 높은지역에서 분포한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 7.5~10mm 이며 전체적으로 짙은 동색을 띠고 점각과 적은 털로 덮여있으며 광택이 둔하다."
+    },
+    {
+      "title": "생태",
+      "text": "섬지역이나 온도가 높은지역에서 분포한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0330-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0330_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0330_1_th.jpg",
+      "alt": "털머리먼지벌레 1번째 사진 : 털머리먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0330_1_th2.jpg",
+      "caption": "털머리먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0330-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303261042",
+      "description": "[KNAE0303261042] 털머리먼지벌레 1995.09.01 / / 국립수목원"
+    },
+    {
+      "id": "GSNE0608162019",
+      "description": "[GSNE0608162019] 털머리먼지벌레 2003.06.17 / / 경상대학교"
+    },
+    {
+      "id": "KNAE0706050149",
+      "description": "[KNAE0706050149] 털머리먼지벌레 1993.06.15 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0330-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0330&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:17+00:00",
+    "html_sha256": "350933e6d956a94c925e56247e62e47ed56ead249d611398466cbaba3d9ae143",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

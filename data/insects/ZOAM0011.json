@@ -1,0 +1,107 @@
+{
+  "id": "ZOAM0011",
+  "name_ko": "회떡소바구미",
+  "scientific_name": "Sphinctotropis laxa (Sharp, 1891)",
+  "display_name": "회떡소바구미",
+  "family_ko": "소바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "소바구미과",
+      "name_latin": "Anthribidae"
+    },
+    "subfamily": {
+      "name_ko": "소바구미아과",
+      "name_latin": "Anthribinae"
+    },
+    "genus": {
+      "name_ko": "회떡소바구미속",
+      "name_latin": "Sphinctotropis"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 소바구미과 (Anthribidae)\n아과 : 소바구미아과 (Anthribinae)\n속 : 회떡소바구미속 (Sphinctotropis)",
+  "basic_information": {
+    "곤충명": "회떡소바구미",
+    "학명": "Sphinctotropis laxa (Sharp, 1891)"
+  },
+  "information": {
+    "general_description": "체색은 흑색. 주둥이는 흰색의 털로 덮여 있음.\n앞가슴등판의 후반부와 소순판, 시초의 선단부위에 걸쳐 뾰족한 탑모양의 갈색털무늬를 가진다.\n시초의 가운데와 말단부에 흰색의 털무늬를 가진다.\n더듬이의 곤봉부는 다른 마디들보다 조금 길며, 살짝 팽대되어 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체색은 흑색. 주둥이는 흰색의 털로 덮여 있음.\n앞가슴등판의 후반부와 소순판, 시초의 선단부위에 걸쳐 뾰족한 탑모양의 갈색털무늬를 가진다.\n시초의 가운데와 말단부에 흰색의 털무늬를 가진다.\n더듬이의 곤봉부는 다른 마디들보다 조금 길며, 살짝 팽대되어 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAM0011-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0011_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0011_1_th.jpg",
+      "alt": "회떡소바구미 1번째 사진 : 회떡소바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0011_1_th2.jpg",
+      "caption": "회떡소바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAM0011-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0203294064",
+      "description": "[SNUE0203294064] 회떡소바구미 1992.05.17 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0203294065",
+      "description": "[SNUE0203294065] 회떡소바구미 1991.08.23 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0203294066",
+      "description": "[SNUE0203294066] 회떡소바구미 1992.05.17 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAM0011-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAM0011&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:05+00:00",
+    "html_sha256": "c68445de43d783c06d77e316500107f36338a8c6b61ba911a457a7d7bbe229dc",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

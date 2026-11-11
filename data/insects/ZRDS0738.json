@@ -1,0 +1,110 @@
+{
+  "id": "ZRDS0738",
+  "name_ko": "탐시버짐나방",
+  "scientific_name": "Xanthomantis contaminata (Draudt, 1937)",
+  "display_name": "탐시버짐나방",
+  "family_ko": "밤나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "밤나방과",
+      "name_latin": "Noctuidae"
+    },
+    "subfamily": {
+      "name_ko": "버짐나방아과",
+      "name_latin": "Pantheinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Xanthomantis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 밤나방과 (Noctuidae)\n아과 : 버짐나방아과 (Pantheinae)\n속 : (Xanthomantis)",
+  "basic_information": {
+    "곤충명": "탐시버짐나방",
+    "학명": "Xanthomantis contaminata (Draudt, 1937)"
+  },
+  "information": {
+    "general_description": "우리나라에서는 Trisuloides tamsi Park & Lee라는 이름으로 1977년에 한국곤충학회지 7권 1쪽에 신종으로 발표된 바 있으나 중국에서 채집된 표본으로 기재된 Trisuloides contaminata Draudt , 1937의 이명으로 처리되었다.\n발표논문: Ent. Rdsch. 54: 399, pl. 4: 2f (원기재지: 중국 운남성, 절강성 [Chekiang] , 산동\n모식표본 소장처: ZFMK, Bonn",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "우리나라에서는 Trisuloides tamsi Park & Lee라는 이름으로 1977년에 한국곤충학회지 7권 1쪽에 신종으로 발표된 바 있으나 중국에서 채집된 표본으로 기재된 Trisuloides contaminata Draudt , 1937의 이명으로 처리되었다.\n발표논문: Ent. Rdsch. 54: 399, pl. 4: 2f (원기재지: 중국 운남성, 절강성 [Chekiang] , 산동\n모식표본 소장처: ZFMK, Bonn"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0738-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0738_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0738_2_th.jpg",
+      "alt": "탐시버짐나방 1번째 사진 : 탐시버짐밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0738_2_th2.jpg",
+      "caption": "탐시버짐밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDS0738-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0738_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0738_1_th.jpg",
+      "alt": "탐시버짐나방 2번째 사진 : 탐시버짐밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0738_1_th2.jpg",
+      "caption": "탐시버짐밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0738-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0302181006",
+      "description": "[KNAE0302181006] 탐시버짐나방 1996.07.05 / / 국립수목원"
+    },
+    {
+      "id": "CBNE0202021042",
+      "description": "[CBNE0202021042] 탐시버짐나방 1993.06.24 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0202021044",
+      "description": "[CBNE0202021044] 탐시버짐나방 1996.07.12 / / 충북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDS0738-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0738&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:11+00:00",
+    "html_sha256": "ecdc81585d23e31eb0088b5398e1afb422ba881f78d6eee98ced64bf4ead2a67",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

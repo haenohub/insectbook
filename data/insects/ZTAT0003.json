@@ -1,0 +1,103 @@
+{
+  "id": "ZTAT0003",
+  "name_ko": "줄육니청벌",
+  "scientific_name": "Chrysis fasciata Olivier, 1790",
+  "display_name": "줄육니청벌",
+  "family_ko": "청벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "청벌상과",
+      "name_latin": "Chrysidoidea"
+    },
+    "family": {
+      "name_ko": "청벌과",
+      "name_latin": "Chrysididae"
+    },
+    "subfamily": {
+      "name_ko": "청벌아과",
+      "name_latin": "Chrysidinae"
+    },
+    "genus": {
+      "name_ko": "청벌속",
+      "name_latin": "Chrysis"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 청벌상과 (Chrysidoidea)\n과 : 청벌과 (Chrysididae)\n아과 : 청벌아과 (Chrysidinae)\n속 : 청벌속 (Chrysis)",
+  "basic_information": {
+    "곤충명": "줄육니청벌",
+    "학명": "Chrysis fasciata Olivier, 1790"
+  },
+  "information": {
+    "general_description": "몸은 8-12mm 정도이며 머리와 가슴은 암록색이고 머리방패, 뒷머리, 앞가슴등판의 3무늬, 가슴의옆판과 다리는 청록색이다. 배는 자색이도는 바이올렛색이다. 날개는 투명하고 검은 밤색이며, 배의 등면은 중앙을 통해서 얕은 세로융기선이 있고 제3배마디등판 끝의 점각의 줄은 깊고 중앙에서 끊겼다. 꼬리에 6개의 이가 있고 양쪽 이는 둔각이며 작고 중앙 이는 예리하고 크다. 중앙은 다소 깊고 삼각형으로 오므라들었다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸은 8-12mm 정도이며 머리와 가슴은 암록색이고 머리방패, 뒷머리, 앞가슴등판의 3무늬, 가슴의옆판과 다리는 청록색이다. 배는 자색이도는 바이올렛색이다. 날개는 투명하고 검은 밤색이며, 배의 등면은 중앙을 통해서 얕은 세로융기선이 있고 제3배마디등판 끝의 점각의 줄은 깊고 중앙에서 끊겼다. 꼬리에 6개의 이가 있고 양쪽 이는 둔각이며 작고 중앙 이는 예리하고 크다. 중앙은 다소 깊고 삼각형으로 오므라들었다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAT0003-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAT0003_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAT0003_1_th.jpg",
+      "alt": "줄육니청벌 1번째 사진 : 줄육니청벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAT0003_1_th2.jpg",
+      "caption": "줄육니청벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAT0003-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305201017",
+      "description": "[YNUE0305201017] 줄육니청벌 1972.09.10 / / 영남대학교"
+    },
+    {
+      "id": "KNAE0703090333",
+      "description": "[KNAE0703090333] 줄육니청벌 1998.09.03 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0703090336",
+      "description": "[KNAE0703090336] 줄육니청벌 1998.09.03 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAT0003-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAT0003&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:16+00:00",
+    "html_sha256": "5ea5583fd660913586e8626adf3f101f04f84831c018a8e811a2cea50597a9d0",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

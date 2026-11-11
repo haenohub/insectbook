@@ -1,0 +1,103 @@
+{
+  "id": "ZTDK0112",
+  "name_ko": "니폰노래기벌",
+  "scientific_name": "Cerceris nipponensis Tsuneki, 1961",
+  "display_name": "니폰노래기벌",
+  "family_ko": "은주둥이벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "은주둥이벌과",
+      "name_latin": "Crabronidae"
+    },
+    "subfamily": {
+      "name_ko": "노래기벌아과",
+      "name_latin": "Philanthinae"
+    },
+    "genus": {
+      "name_ko": "노래기벌속",
+      "name_latin": "Cerceris"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 은주둥이벌과 (Crabronidae)\n아과 : 노래기벌아과 (Philanthinae)\n속 : 노래기벌속 (Cerceris)",
+  "basic_information": {
+    "곤충명": "니폰노래기벌",
+    "학명": "Cerceris nipponensis Tsuneki, 1961"
+  },
+  "information": {
+    "general_description": "몸길이는 암컷은 10~11mm, 수컷은 7~10mm.암컷은 머리방패의 작은 돌출물은 기부로부터의 길이보다 넓고, 끝에 3개의 이가 있고중앙에서 융기가되었다. 얼굴의 두 무늬와 제3배마디등판의 넓은 띠 무늬, 제5배마디등판의 좁은 띠는 황색이다. 앞날개는 앞 끝 언저리가 흐리다. 수컷에서는 머리방패의 중엽은 옆에서 볼 때 중앙이 가장 높고 황색 무늬가 많지 않다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 암컷은 10~11mm, 수컷은 7~10mm.암컷은 머리방패의 작은 돌출물은 기부로부터의 길이보다 넓고, 끝에 3개의 이가 있고중앙에서 융기가되었다. 얼굴의 두 무늬와 제3배마디등판의 넓은 띠 무늬, 제5배마디등판의 좁은 띠는 황색이다. 앞날개는 앞 끝 언저리가 흐리다. 수컷에서는 머리방패의 중엽은 옆에서 볼 때 중앙이 가장 높고 황색 무늬가 많지 않다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDK0112-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0112_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0112_1_th.jpg",
+      "alt": "니폰노래기벌 1번째 사진 : 닙폰노래기벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0112_1_th2.jpg",
+      "caption": "닙폰노래기벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDK0112-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306261007",
+      "description": "[YNUE0306261007] 니폰노래기벌 1974.06.30 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306261008",
+      "description": "[YNUE0306261008] 니폰노래기벌 1972.08.16 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306261001",
+      "description": "[YNUE0306261001] 니폰노래기벌 1967.08.29 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDK0112-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDK0112&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:43+00:00",
+    "html_sha256": "d6c34f4203d14b6c6babcb3d2f6291988bdac0eb55220de0c71d45f0fdd4baa9",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

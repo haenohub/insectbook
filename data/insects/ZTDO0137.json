@@ -1,0 +1,103 @@
+{
+  "id": "ZTDO0137",
+  "name_ko": "흰입술무잎벌",
+  "scientific_name": "Athalia kashmirensis Benson, 1932",
+  "display_name": "흰입술무잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "무잎벌아과",
+      "name_latin": "Athaliinae"
+    },
+    "genus": {
+      "name_ko": "무잎벌속",
+      "name_latin": "Athalia"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 무잎벌아과 (Athaliinae)\n속 : 무잎벌속 (Athalia)",
+  "basic_information": {
+    "곤충명": "흰입술무잎벌",
+    "학명": "Athalia kashmirensis Benson, 1932"
+  },
+  "information": {
+    "general_description": "몸길이는 5.1mm~7.2mm 이고, 머리는 검다. 머리방패와 윗입술은 희고 palpi는 황갈색이다. 날개는 막상이며 회색반점이 있고 시백은 흑갈색이다. 배마디는 노란색을 띤 오렌지 색이다. 더듬이는 11마디이며 9번째마디는 길이보다 더 넓다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[인도]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 5.1mm~7.2mm 이고, 머리는 검다. 머리방패와 윗입술은 희고 palpi는 황갈색이다. 날개는 막상이며 회색반점이 있고 시백은 흑갈색이다. 배마디는 노란색을 띤 오렌지 색이다. 더듬이는 11마디이며 9번째마디는 길이보다 더 넓다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[인도]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0137-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0137_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0137_1_th.jpg",
+      "alt": "흰입술무잎벌 1번째 사진 : 흰입술무잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0137_1_th2.jpg",
+      "caption": "흰입술무잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0137-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305201078",
+      "description": "[YNUE0305201078] 흰입술무잎벌 1981.05.20 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305201045",
+      "description": "[YNUE0305201045] 흰입술무잎벌 1997.05.18 / / 영남대학교"
+    },
+    {
+      "id": "KNAE337394",
+      "description": "[KNAE337394] 흰입술무잎벌 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDO0137-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0137&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:42+00:00",
+    "html_sha256": "c29a1b05b2673d12b57cdea4a87777c429200aa31409ec73b87f9137b985242e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

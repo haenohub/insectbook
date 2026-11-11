@@ -1,0 +1,106 @@
+{
+  "id": "ZTAG0022",
+  "name_ko": "가시애꽃벌",
+  "scientific_name": "Andrena (Hoplandrena) dentata Smith, 1879",
+  "display_name": "가시애꽃벌",
+  "family_ko": "애꽃벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "애꽃벌과",
+      "name_latin": "Andrenidae"
+    },
+    "subfamily": {
+      "name_ko": "애꽃벌아과",
+      "name_latin": "Andreninae"
+    },
+    "genus": {
+      "name_ko": "애꽃벌속",
+      "name_latin": "Andrena"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 애꽃벌과 (Andrenidae)\n아과 : 애꽃벌아과 (Andreninae)\n속 : 애꽃벌속 (Andrena)",
+  "basic_information": {
+    "곤충명": "가시애꽃벌",
+    "학명": "Andrena (Hoplandrena) dentata Smith, 1879"
+  },
+  "information": {
+    "general_description": "암컷은 길이가 12mm에, 몸은 흑색이고, 어깨판은 흑갈색이며 몸의 절반위에는 황갈색내지 흑갈색 털이 있고, 아래쪽 반에는 회백색 털은 특히 길고 촘촘하다. 배의 등면에는 긴 털이 적고 제3배마디등판 이하에는 짧은 흑색털이 났다. 얼굴에는 극히 미세한 주름이 달렸다. 수컷은 10mm 정도이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[감소추세종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷은 길이가 12mm에, 몸은 흑색이고, 어깨판은 흑갈색이며 몸의 절반위에는 황갈색내지 흑갈색 털이 있고, 아래쪽 반에는 회백색 털은 특히 길고 촘촘하다. 배의 등면에는 긴 털이 적고 제3배마디등판 이하에는 짧은 흑색털이 났다. 얼굴에는 극히 미세한 주름이 달렸다. 수컷은 10mm 정도이다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[감소추세종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0022-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0022_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0022_1_th.jpg",
+      "alt": "가시애꽃벌 1번째 사진 : 가시애꽃벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0022_1_th2.jpg",
+      "caption": "가시애꽃벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0022-1",
+  "specimen_examples": [
+    {
+      "id": "CBNE0207241008",
+      "description": "[CBNE0207241008] 가시애꽃벌 2000.05.16 / / 충북대학교"
+    },
+    {
+      "id": "KNAE153571",
+      "description": "[KNAE153571] 가시애꽃벌 / / 국립수목원"
+    },
+    {
+      "id": "KNAE153572",
+      "description": "[KNAE153572] 가시애꽃벌 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTAG0022.png",
+    "reference_image_id": "ZTAG0022-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T15:36:12.758150+00:00",
+    "sha256": "370502c2037fd8fb80c680c9d36301f14a37ad4946066191ca3fe3325ff88a2e"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0022&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:13+00:00",
+    "html_sha256": "e7f202e89d0c8cec34817d8b1f25cdd06bfc7cb73a1d289e27256270d87ae8ea",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

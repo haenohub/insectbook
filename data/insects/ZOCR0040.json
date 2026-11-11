@@ -1,0 +1,114 @@
+{
+  "id": "ZOCR0040",
+  "name_ko": "꼬마줄물방개",
+  "scientific_name": "Hydaticus (Prodaticus) grammicus (Germar, 1827)",
+  "display_name": "꼬마줄물방개",
+  "family_ko": "물방개과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "물방개과",
+      "name_latin": "Dytiscidae"
+    },
+    "subfamily": {
+      "name_ko": "물방개붙이아과",
+      "name_latin": "Dytiscinae"
+    },
+    "genus": {
+      "name_ko": "줄물방개속",
+      "name_latin": "Hydaticus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 물방개과 (Dytiscidae)\n아과 : 물방개붙이아과 (Dytiscinae)\n속 : 줄물방개속 (Hydaticus)",
+  "basic_information": {
+    "곤충명": "꼬마줄물방개",
+    "학명": "Hydaticus (Prodaticus) grammicus (Germar, 1827)"
+  },
+  "information": {
+    "general_description": "한국, 일본, 중국, 유럽에 분포하며, 체장은 10mm 정도이다. 등은 담황갈색인데 광택이 나고 뒷머리는 흑색이고 머리방패와 윗입술은 갈색이고 더듬이와 양쪽 수염은 황색이다. 딱지날개는 두줄의 점각 종렬이 있으나 명백하지 않다. 배면은 적갈색이고 앞다리와 가운데다리는 담황갈색인데 뒷다리는 적갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 중국, 유럽에 분포하며, 체장은 10mm 정도이다. 등은 담황갈색인데 광택이 나고 뒷머리는 흑색이고 머리방패와 윗입술은 갈색이고 더듬이와 양쪽 수염은 황색이다. 딱지날개는 두줄의 점각 종렬이 있으나 명백하지 않다. 배면은 적갈색이고 앞다리와 가운데다리는 담황갈색인데 뒷다리는 적갈색이다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCR0040-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCR0040_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCR0040_2_th.jpg",
+      "alt": "꼬마줄물방개 1번째 사진 : 꼬마줄물방개전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCR0040_2_th2.jpg",
+      "caption": "꼬마줄물방개전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOCR0040-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCR0040_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCR0040_1_th.jpg",
+      "alt": "꼬마줄물방개 2번째 사진 : 꼬마줄물방개전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCR0040_1_th2.jpg",
+      "caption": "꼬마줄물방개전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCR0040-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408191073",
+      "description": "[MPME0408191073] 꼬마줄물방개 2002.08.31 / / 목포자연사박물관"
+    },
+    {
+      "id": "FRIE0306191009",
+      "description": "[FRIE0306191009] 꼬마줄물방개 1999.09.15 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0304022068",
+      "description": "[KNAE0304022068] 꼬마줄물방개 1994.07.03 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOCR0040.png",
+    "reference_image_id": "ZOCR0040-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T14:24:38.026964+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "dbe34f787beaae38edc71ce7f5f4bb8d98095d0573f9a34eb472770e0711bb27"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCR0040&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:50+00:00",
+    "html_sha256": "474900517762396c7c6de442858fca5f5266a9fa09c085e7b1cabbd215d8a38a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

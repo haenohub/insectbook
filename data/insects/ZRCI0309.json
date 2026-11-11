@@ -1,0 +1,154 @@
+{
+  "id": "ZRCI0309",
+  "name_ko": "버드나무얼룩가지나방",
+  "scientific_name": "Abraxas miranda Butler, 1878",
+  "display_name": "버드나무얼룩가지나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "가지나방아과",
+      "name_latin": "Ennominae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Abraxas"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 가지나방아과 (Ennominae)\n속 : (Abraxas)",
+  "basic_information": {
+    "곤충명": "버드나무얼룩가지나방",
+    "학명": "Abraxas miranda Butler, 1878"
+  },
+  "information": {
+    "general_description": "성충의 앞날개 길이는 봄형이 20~25 mm, 여름형이 18~26 mm이며, 날개는 백색 바탕에 은색, 암회색, 흑색 무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": "유충의 몸길이는 25~30 mm이며 원통형으로 흑갈색 바탕에 등황색 세로 줄 무늬가 있다.",
+    "egg": null,
+    "pupa": null,
+    "ecology": "유충은 4월부터 활동하기 시작하여 낮에는 잎 뒷면에 머물러 있다가 주로 밤에 식해한다. 1화기 성충은 5월에 우화하여 산란하고 그 후 유충은 7~9월에 노숙 유충이 되며, 2화기 성충은 8~10월에 우화하여 산란한다.",
+    "habits": "특히 사철나무의 해충으로 알려져 있으며, 때로는 대발생하여 큰 피해를 준다.",
+    "season": null,
+    "overwintering": "유충으로 수관(樹冠) 내나 지제부(地際部)에서 월동한다.",
+    "distribution": "[일본]\n[중국]\n[유럽]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충의 앞날개 길이는 봄형이 20~25 mm, 여름형이 18~26 mm이며, 날개는 백색 바탕에 은색, 암회색, 흑색 무늬가 있다."
+    },
+    {
+      "title": "유충",
+      "text": "유충의 몸길이는 25~30 mm이며 원통형으로 흑갈색 바탕에 등황색 세로 줄 무늬가 있다."
+    },
+    {
+      "title": "생태",
+      "text": "유충은 4월부터 활동하기 시작하여 낮에는 잎 뒷면에 머물러 있다가 주로 밤에 식해한다. 1화기 성충은 5월에 우화하여 산란하고 그 후 유충은 7~9월에 노숙 유충이 되며, 2화기 성충은 8~10월에 우화하여 산란한다."
+    },
+    {
+      "title": "습성",
+      "text": "특히 사철나무의 해충으로 알려져 있으며, 때로는 대발생하여 큰 피해를 준다."
+    },
+    {
+      "title": "월동",
+      "text": "유충으로 수관(樹冠) 내나 지제부(地際部)에서 월동한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[유럽]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0309-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0309_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0309_1_th.jpg",
+      "alt": "버드나무얼룩가지나방 1번째 사진 : 버드나무얼룩가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0309_1_th2.jpg",
+      "caption": "버드나무얼룩가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0309-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304171058",
+      "description": "[KNAE0304171058] 버드나무얼룩가지나방 1999.05.26 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304171059",
+      "description": "[KNAE0304171059] 버드나무얼룩가지나방 1998.06.29 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304171061",
+      "description": "[KNAE0304171061] 버드나무얼룩가지나방 1999.05.29 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "노박덩굴",
+      "scientific_name": "Celastrus orbiculatus Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "느릅나무",
+      "scientific_name": "Ulmus davidiana var. japonica (Rehder) Nakai"
+    },
+    {
+      "group": "식물",
+      "name_ko": "버드나무",
+      "scientific_name": "Salix pierotii Miq."
+    },
+    {
+      "group": "식물",
+      "name_ko": "사철나무",
+      "scientific_name": "Euonymus japonicus Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "화살나무",
+      "scientific_name": "Euonymus alatus (Thunb.) Siebold"
+    },
+    {
+      "group": "식물",
+      "name_ko": "황철나무",
+      "scientific_name": "Populus suaveolens Fisch. ex Poit. & A.Vilm."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCI0309-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0309&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:38+00:00",
+    "html_sha256": "e5d08403f0375557e181404b6b5c4f837ff1a9de20a95e9c37401828ac1c749d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

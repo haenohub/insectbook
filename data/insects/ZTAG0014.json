@@ -1,0 +1,103 @@
+{
+  "id": "ZTAG0014",
+  "name_ko": "털애꽃벌",
+  "scientific_name": "Andrena (Euandrena) plumosella Gusenleitner & Schwarz, 2002",
+  "display_name": "털애꽃벌",
+  "family_ko": "애꽃벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "애꽃벌과",
+      "name_latin": "Andrenidae"
+    },
+    "subfamily": {
+      "name_ko": "애꽃벌아과",
+      "name_latin": "Andreninae"
+    },
+    "genus": {
+      "name_ko": "애꽃벌속",
+      "name_latin": "Andrena"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 애꽃벌과 (Andrenidae)\n아과 : 애꽃벌아과 (Andreninae)\n속 : 애꽃벌속 (Andrena)",
+  "basic_information": {
+    "곤충명": "털애꽃벌",
+    "학명": "Andrena (Euandrena) plumosella Gusenleitner & Schwarz, 2002"
+  },
+  "information": {
+    "general_description": "암컷의 머리는 길이보다 폭이 넓다. 머리방패의 표면에는 전체에 비늘모양의 조각들이 있으며 약간의 광택이 있다. 머리방패의 표면에는 전체에 비늘모양의 조각이 있으며 약간이 광택이 있다. 가슴에는 갈색털이 나 있으며 중앙부에는 검은 색털이 비교적 성글게 나있다. 배는 검은 색이고 각 배마디 끝은 갈색이다. 연황색털이 약간 있다. 날개시맥은 연갈색이고 연문은 짙은 갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[반출금지종] 환경부고시제2001-210호",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷의 머리는 길이보다 폭이 넓다. 머리방패의 표면에는 전체에 비늘모양의 조각들이 있으며 약간의 광택이 있다. 머리방패의 표면에는 전체에 비늘모양의 조각이 있으며 약간이 광택이 있다. 가슴에는 갈색털이 나 있으며 중앙부에는 검은 색털이 비교적 성글게 나있다. 배는 검은 색이고 각 배마디 끝은 갈색이다. 연황색털이 약간 있다. 날개시맥은 연갈색이고 연문은 짙은 갈색이다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[반출금지종] 환경부고시제2001-210호"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0014-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0014_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0014_1_th.jpg",
+      "alt": "털애꽃벌 1번째 사진 : 털애꽃벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0014_1_th2.jpg",
+      "caption": "털애꽃벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0014-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0304102023",
+      "description": "[SNUE0304102023] 털애꽃벌 1993.07.13 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0304102024",
+      "description": "[SNUE0304102024] 털애꽃벌 1986.05.28 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0304102025",
+      "description": "[SNUE0304102025] 털애꽃벌 1987.06.21 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAG0014-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0014&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:21+00:00",
+    "html_sha256": "6f55e544e1b1bc62616fdfdbbd9a44b0f1f1785d94922c58ded8556d1f7916a9",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

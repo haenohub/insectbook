@@ -1,0 +1,111 @@
+{
+  "id": "ZOBT0190",
+  "name_ko": "애참긴더듬이잎벌레",
+  "scientific_name": "Galerucella (Neogalerucella) lineola lineola (Fabricius, 1781)",
+  "display_name": "애참긴더듬이잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "긴더듬이잎벌레아과",
+      "name_latin": "Galerucinae"
+    },
+    "genus": {
+      "name_ko": "딸기잎벌레속",
+      "name_latin": "Galerucella"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 긴더듬이잎벌레아과 (Galerucinae)\n속 : 딸기잎벌레속 (Galerucella)",
+  "basic_information": {
+    "곤충명": "애참긴더듬이잎벌레",
+    "학명": "Galerucella (Neogalerucella) lineola lineola (Fabricius, 1781)"
+  },
+  "information": {
+    "general_description": "몸길이는 5.0mm, 앞가슴등판, 앞날개, 소순판, 중간가슴, 뒷가슴은 흑색이다. 더듬이는 흑색이며, 각 절의 기부는 연한 황갈색. 더듬이의 제3절은 4절보다 길다. 한국, 유럽, 시베리아, 사할린, 중국(북동부)에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "유충은 6~8월에 버드나무 잎에서 발견, 땅속으로 들어가 용화한다. 연 1화성이며, 성충으로 월동. 버드나무류를 가해한다.",
+    "habits": "버드나무뮤, 오리나무류, 개암나무류.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[유럽]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 5.0mm, 앞가슴등판, 앞날개, 소순판, 중간가슴, 뒷가슴은 흑색이다. 더듬이는 흑색이며, 각 절의 기부는 연한 황갈색. 더듬이의 제3절은 4절보다 길다. 한국, 유럽, 시베리아, 사할린, 중국(북동부)에 분포되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "유충은 6~8월에 버드나무 잎에서 발견, 땅속으로 들어가 용화한다. 연 1화성이며, 성충으로 월동. 버드나무류를 가해한다."
+    },
+    {
+      "title": "습성",
+      "text": "버드나무뮤, 오리나무류, 개암나무류."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[유럽]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0190-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0190_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0190_1_th.jpg",
+      "alt": "애참긴더듬이잎벌레 1번째 사진 : 애참긴더듬이잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0190_1_th2.jpg",
+      "caption": "애참긴더듬이잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0190-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0407231378",
+      "description": "[KPNE0407231378] 애참긴더듬이잎벌레 1991.08.14 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0407231377",
+      "description": "[KPNE0407231377] 애참긴더듬이잎벌레 1976.05.23 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0407231380",
+      "description": "[KPNE0407231380] 애참긴더듬이잎벌레 1991.05.28 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0190-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0190&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:18+00:00",
+    "html_sha256": "f2e7ec2c23ad613abea757e9d8f9cd3072ce3e70d43a7c0812170345156130cd",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": "ZLCG0014",
+  "name_ko": "왕침노린재",
+  "scientific_name": "Isyndus obscurus obscurus (Dallas, 1850)",
+  "display_name": "왕침노린재",
+  "family_ko": "침노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "침노린재상과",
+      "name_latin": "Reduvioidea"
+    },
+    "family": {
+      "name_ko": "침노린재과",
+      "name_latin": "Reduviidae"
+    },
+    "subfamily": {
+      "name_ko": "무늬침노린재아과",
+      "name_latin": "Harpactorinae"
+    },
+    "genus": {
+      "name_ko": "왕침노린재속",
+      "name_latin": "Isyndus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 침노린재상과 (Reduvioidea)\n과 : 침노린재과 (Reduviidae)\n아과 : 무늬침노린재아과 (Harpactorinae)\n속 : 왕침노린재속 (Isyndus)",
+  "basic_information": {
+    "곤충명": "왕침노린재",
+    "학명": "Isyndus obscurus obscurus (Dallas, 1850)"
+  },
+  "information": {
+    "general_description": "몸길이 : 20-26mm\n균일한 다갈색이며, 황색의 미소한 융털이 밀생하여 넘어져 있고, 또 긴 털도 있다. 머리는 가늘고 길며, 등면은 흑색을 띠고, 겹눈은 머리의 중간에 위치하고 광택이 있는 흑색이며, 그 양 눈 사이에 가로홈이 있다. 이 홈의 바로 뒤에 홑눈이 있다. 또 이 가로홈의 중간에서 위쪽으로 세로홈이 분기되었다. 더듬이는 길고 4마디이며 갈색이고, 제 2마디의 앞쪽 반의 흑색이며, 제 1마디가 가장 길고, 제 3마디가 다음으로 길다. 앞가슴등은 앞뒤 2엽으로 되고, 전엽은 융기하고 세로홈으로써 좌우로 2분되었으며, 전면의 양끝과 융기한 전엽 뒤끝의 양 끝은 약간 가시 모양으로 돌출하였다. 후엽의 양 옆은 좌우로 돌출하였다. 작은방패판의 중앙은 융기했고, 반시초는 배끝에 달했으며, 막질부는 크고 약간 구리색의 광택이 있다.",
+    "adult": null,
+    "adult_male": "결합판이 뚜렷하지 않다.",
+    "adult_female": "결합판은 뚜렷하게 양 옆으로 돌출하여 암갈색이나 각 마디의 뒷가장자리는 연한색이다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": "성충은 나무껍질 밑이나 동굴같은 데서 월동한다.",
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 20-26mm\n균일한 다갈색이며, 황색의 미소한 융털이 밀생하여 넘어져 있고, 또 긴 털도 있다. 머리는 가늘고 길며, 등면은 흑색을 띠고, 겹눈은 머리의 중간에 위치하고 광택이 있는 흑색이며, 그 양 눈 사이에 가로홈이 있다. 이 홈의 바로 뒤에 홑눈이 있다. 또 이 가로홈의 중간에서 위쪽으로 세로홈이 분기되었다. 더듬이는 길고 4마디이며 갈색이고, 제 2마디의 앞쪽 반의 흑색이며, 제 1마디가 가장 길고, 제 3마디가 다음으로 길다. 앞가슴등은 앞뒤 2엽으로 되고, 전엽은 융기하고 세로홈으로써 좌우로 2분되었으며, 전면의 양끝과 융기한 전엽 뒤끝의 양 끝은 약간 가시 모양으로 돌출하였다. 후엽의 양 옆은 좌우로 돌출하였다. 작은방패판의 중앙은 융기했고, 반시초는 배끝에 달했으며, 막질부는 크고 약간 구리색의 광택이 있다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "결합판이 뚜렷하지 않다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "결합판은 뚜렷하게 양 옆으로 돌출하여 암갈색이나 각 마디의 뒷가장자리는 연한색이다."
+    },
+    {
+      "title": "월동",
+      "text": "성충은 나무껍질 밑이나 동굴같은 데서 월동한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLCG0014-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCG0014_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCG0014_1_th.jpg",
+      "alt": "왕침노린재 1번째 사진 : 왕침노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCG0014_1_th2.jpg",
+      "caption": "왕침노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLCG0014-1",
+  "specimen_examples": [
+    {
+      "id": "GSNE0408242050",
+      "description": "[GSNE0408242050] 왕침노린재 1989.04.07 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0408242051",
+      "description": "[GSNE0408242051] 왕침노린재 1989.05.20 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0408242053",
+      "description": "[GSNE0408242053] 왕침노린재 1991.06.07 / / 경상대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLCG0014-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLCG0014&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:46+00:00",
+    "html_sha256": "ae29b53920f753dd8b34197c3b888f958ad2b73869518c10c9145e3c3f82aef7",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

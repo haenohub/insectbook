@@ -1,0 +1,114 @@
+{
+  "id": "ZRDE0002",
+  "name_ko": "끝검은쐐기나방",
+  "scientific_name": "Belippa horrida Walker, 1865",
+  "display_name": "끝검은쐐기나방",
+  "family_ko": "쐐기나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "알락나방상과",
+      "name_latin": "Zygaenoidea"
+    },
+    "family": {
+      "name_ko": "쐐기나방과",
+      "name_latin": "Limacodidae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Belippa"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 알락나방상과 (Zygaenoidea)\n과 : 쐐기나방과 (Limacodidae)\n속 : (Belippa)",
+  "basic_information": {
+    "곤충명": "끝검은쐐기나방",
+    "학명": "Belippa horrida Walker, 1865"
+  },
+  "information": {
+    "general_description": "국내분포 서울\n국외분포 일본, 타이완, 중국\n수컷의 더듬이는 짧은 엽편상이며, 암컷은 가늘고 단순하다. 머리, 가슴, 배는 황갈색의 털로 덮여 있는데 어깨판의 끝쪽과 가슴의 양 옆, 그리고 가운데 다리의 넓적다리마디와 종아리마디에는 흑색의 털뭉치가 섞여 있다. 앞날개는 황갈색인데 중앙부와 날개끝에는 흑색 무늬가 있다. 외연의 중앙부에는 날개의 비늘이 떨어진 것처럼 회백색을 띤다. 뒷날개는 앞날개에 비해 다소 암회갈색을 띤다. 날개의 뒷면은 앞․뒷날개 모두 회갈색을 띠며 날개끝은 흑색을 띤다. 날개의 길이는 32～35㎜이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6월에 채집되었으며 국내에서는 처음 기록되는 종",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "국내분포 서울\n국외분포 일본, 타이완, 중국\n수컷의 더듬이는 짧은 엽편상이며, 암컷은 가늘고 단순하다. 머리, 가슴, 배는 황갈색의 털로 덮여 있는데 어깨판의 끝쪽과 가슴의 양 옆, 그리고 가운데 다리의 넓적다리마디와 종아리마디에는 흑색의 털뭉치가 섞여 있다. 앞날개는 황갈색인데 중앙부와 날개끝에는 흑색 무늬가 있다. 외연의 중앙부에는 날개의 비늘이 떨어진 것처럼 회백색을 띤다. 뒷날개는 앞날개에 비해 다소 암회갈색을 띤다. 날개의 뒷면은 앞․뒷날개 모두 회갈색을 띠며 날개끝은 흑색을 띤다. 날개의 길이는 32～35㎜이다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6월에 채집되었으며 국내에서는 처음 기록되는 종"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDE0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDE0002_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDE0002_2_th.jpg",
+      "alt": "끝검은쐐기나방 1번째 사진 : 끝검은쐐기나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDE0002_2_th2.jpg",
+      "caption": "끝검은쐐기나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDE0002-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDE0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDE0002_1_th.jpg",
+      "alt": "끝검은쐐기나방 2번째 사진 : 끝검은쐐기나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDE0002_1_th2.jpg",
+      "caption": "끝검은쐐기나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDE0002-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0409101037",
+      "description": "[KNAE0409101037] 끝검은쐐기나방 1998.06.29 / / 국립수목원"
+    },
+    {
+      "id": "GSNE0304101065",
+      "description": "[GSNE0304101065] 끝검은쐐기나방 1992.06.29 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0304101066",
+      "description": "[GSNE0304101066] 끝검은쐐기나방 1984.06.28 / / 경상대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDE0002.png",
+    "reference_image_id": "ZRDE0002-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T15:10:31.534403+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "4c91bf7a29102010bd0ded3a6c3e2179b8456fb7323a2de386efea3d40635e2d"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDE0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:00+00:00",
+    "html_sha256": "b827b9e17380b2713aff750753c9efa9136e90673f6ca70eecc811eddd53a613",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

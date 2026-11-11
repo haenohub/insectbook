@@ -1,0 +1,122 @@
+{
+  "id": "ZRBK0002",
+  "name_ko": "굴벌레큰나방",
+  "scientific_name": "Cossus cossus (Linnaeus, 1758)",
+  "display_name": "굴벌레큰나방",
+  "family_ko": "굴벌레나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "굴벌레나방상과",
+      "name_latin": "Cossoidea"
+    },
+    "family": {
+      "name_ko": "굴벌레나방과",
+      "name_latin": "Cossidae"
+    },
+    "subfamily": {
+      "name_ko": "굴벌레나방아과",
+      "name_latin": "Cossinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Cossus"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 굴벌레나방상과 (Cossoidea)\n과 : 굴벌레나방과 (Cossidae)\n아과 : 굴벌레나방아과 (Cossinae)\n속 : (Cossus)",
+  "basic_information": {
+    "곤충명": "굴벌레큰나방",
+    "학명": "Cossus cossus (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "국내분포:설악산, 춘천, 수원\n국외분포:일본, 만주, 아무르, 우수리, 중국\n날개길이 55～80㎜\n대형이며 앞날개의 외횡선의 배치가 다르다\n아랫입술수염은 미세하고, 수컷의 더듬이는 짧은 빗살 모양, 암컷은 실 모양이며 가운데다리의 종아리마디는 1개, 뒷다리 종아리마디에는 2개의 며느리발톱을 가짐\n정수리에서 경판까지와 가슴 등쪽면의 뒤쪽은 황갈색 내기 적갈색임\n앞날개의 중앙부는 백색기를 띠고 제 1경맥(R1)은 중실에서 출발함",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6～7월에 출현함\n유충은 수목에 터널을 만들고 들어가 식해함",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "국내분포:설악산, 춘천, 수원\n국외분포:일본, 만주, 아무르, 우수리, 중국\n날개길이 55～80㎜\n대형이며 앞날개의 외횡선의 배치가 다르다\n아랫입술수염은 미세하고, 수컷의 더듬이는 짧은 빗살 모양, 암컷은 실 모양이며 가운데다리의 종아리마디는 1개, 뒷다리 종아리마디에는 2개의 며느리발톱을 가짐\n정수리에서 경판까지와 가슴 등쪽면의 뒤쪽은 황갈색 내기 적갈색임\n앞날개의 중앙부는 백색기를 띠고 제 1경맥(R1)은 중실에서 출발함"
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6～7월에 출현함\n유충은 수목에 터널을 만들고 들어가 식해함"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRBK0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBK0002_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBK0002_2_th.jpg",
+      "alt": "굴벌레큰나방 1번째 사진 : 굴벌레큰나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBK0002_2_th2.jpg",
+      "caption": "굴벌레큰나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRBK0002-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBK0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBK0002_1_th.jpg",
+      "alt": "굴벌레큰나방 2번째 사진 : 굴벌레큰나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBK0002_1_th2.jpg",
+      "caption": "굴벌레큰나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRBK0002-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0301181018",
+      "description": "[KNAE0301181018] 굴벌레큰나방 1992.08.06 / / 국립수목원"
+    },
+    {
+      "id": "FRIE0212111007",
+      "description": "[FRIE0212111007] 굴벌레큰나방 1986.06.28 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0212111008",
+      "description": "[FRIE0212111008] 굴벌레큰나방 1986.06.11 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRBK0002.png",
+    "reference_image_id": "ZRBK0002-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T14:05:32.867992+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "c90fa8459bda291ad3873972ceacf8befb7e6a94a1007c9379e662bb0b5140e5"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRBK0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:26+00:00",
+    "html_sha256": "b491cc180715520715b00f29f788882f564c38ef4ad303ef3627886af3b0cc8c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "id": "ZRDV0014",
+  "name_ko": "작은표범나비",
+  "scientific_name": "Brenthis ino (Rottemburg, 1775)",
+  "display_name": "작은표범나비",
+  "family_ko": "네발나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "네발나비과",
+      "name_latin": "Nymphalidae"
+    },
+    "subfamily": {
+      "name_ko": "독나비아과",
+      "name_latin": "Heliconiinae"
+    },
+    "genus": {
+      "name_ko": "큰표범나비속",
+      "name_latin": "Brenthis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 네발나비과 (Nymphalidae)\n아과 : 독나비아과 (Heliconiinae)\n속 : 큰표범나비속 (Brenthis)",
+  "basic_information": {
+    "곤충명": "작은표범나비",
+    "학명": "Brenthis ino (Rottemburg, 1775)"
+  },
+  "information": {
+    "general_description": "암컷은 수컷보다 크고 날개모양이 둥그스름하며 날개 윗면 바탕색이 덜 붉다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "대체로 큰표범나비보다 고도가 높은 산지나 계곡 주변 초지, 목장 주위에서 서식한다. 오전 중에는 잎 위에 앉아 일광욕을 하는 외에는 하루 종일 날아다니다가 엉겅퀴, 쥐똥나무 등의 꽃에서 흡밀한다. 큰표범나비와 매우 유사하여 그 동안 혼동되어 왔으며, 채집 기록도 다시 조사해야 할 나비이다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]\n[유럽]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷은 수컷보다 크고 날개모양이 둥그스름하며 날개 윗면 바탕색이 덜 붉다."
+    },
+    {
+      "title": "습성",
+      "text": "대체로 큰표범나비보다 고도가 높은 산지나 계곡 주변 초지, 목장 주위에서 서식한다. 오전 중에는 잎 위에 앉아 일광욕을 하는 외에는 하루 종일 날아다니다가 엉겅퀴, 쥐똥나무 등의 꽃에서 흡밀한다. 큰표범나비와 매우 유사하여 그 동안 혼동되어 왔으며, 채집 기록도 다시 조사해야 할 나비이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]\n[유럽]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDV0014-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0014_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0014_2_th.jpg",
+      "alt": "작은표범나비 1번째 사진 : 작은표범나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0014_2_th2.jpg",
+      "caption": "작은표범나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDV0014-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0014_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0014_1_th.jpg",
+      "alt": "작은표범나비 2번째 사진 : 작은표범나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0014_1_th2.jpg",
+      "caption": "작은표범나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDV0014-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0305301020",
+      "description": "[FRIE0305301020] 작은표범나비 1989.05.30 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0305301021",
+      "description": "[FRIE0305301021] 작은표범나비 1983.06.02 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0305301022",
+      "description": "[FRIE0305301022] 작은표범나비 1989.06.28 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDV0014-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDV0014&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:55+00:00",
+    "html_sha256": "8fbaf574d76fd0f2613ba16726fc1428a5da800a126f764baaf835004bb4a287",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

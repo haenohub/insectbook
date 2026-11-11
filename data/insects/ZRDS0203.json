@@ -1,0 +1,111 @@
+{
+  "id": "ZRDS0203",
+  "name_ko": "초록예쁜곱추밤나방",
+  "scientific_name": "Cucullia argentea (Hufnagel, 1766)",
+  "display_name": "초록예쁜곱추밤나방",
+  "family_ko": "밤나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "밤나방과",
+      "name_latin": "Noctuidae"
+    },
+    "subfamily": {
+      "name_ko": "곱추밤나방아과",
+      "name_latin": "Cuculliinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Cucullia"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 밤나방과 (Noctuidae)\n아과 : 곱추밤나방아과 (Cuculliinae)\n속 : (Cucullia)",
+  "basic_information": {
+    "곤충명": "초록예쁜곱추밤나방",
+    "학명": "Cucullia argentea (Hufnagel, 1766)"
+  },
+  "information": {
+    "general_description": "날개편 길이 16mm. 앞날개는 은백색 바탕인데 중앙에 초록색의 커다란 무늬가 선명하게 있어 다른 종과 쉽게 구별된다. 뒷날개는 은백색 바탕으로 외연부는 약간 회색을 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 8～9월경에 출현된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]\n[유럽]\n[튀르키예공화국]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 16mm. 앞날개는 은백색 바탕인데 중앙에 초록색의 커다란 무늬가 선명하게 있어 다른 종과 쉽게 구별된다. 뒷날개는 은백색 바탕으로 외연부는 약간 회색을 띤다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 8～9월경에 출현된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]\n[유럽]\n[튀르키예공화국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0203-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0203_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0203_1_th.jpg",
+      "alt": "초록예쁜곱추밤나방 1번째 사진 : 초록예쁜곱추밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0203_1_th2.jpg",
+      "caption": "초록예쁜곱추밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0203-1",
+  "specimen_examples": [
+    {
+      "id": "CBFE0405291008",
+      "description": "[CBFE0405291008] 초록예쁜곱추밤나방 2001.05.10 / / 충북산림환경연구소"
+    },
+    {
+      "id": "KUIE0405311140",
+      "description": "[KUIE0405311140] 초록예쁜곱추밤나방 1973.09.02 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0405311141",
+      "description": "[KUIE0405311141] 초록예쁜곱추밤나방 1972.09.30 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDS0203-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0203&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:20+00:00",
+    "html_sha256": "13743d64e26a8c941520e5e2b00689fd4d7e411ee49daccf8cf268155d143e3b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

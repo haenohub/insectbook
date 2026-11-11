@@ -1,0 +1,118 @@
+{
+  "id": "ZREL0257",
+  "name_ko": "노랑테알락명나방",
+  "scientific_name": "Etiella walsinghamella (Ragonot, 1888)",
+  "display_name": "노랑테알락명나방",
+  "family_ko": "명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "명나방과",
+      "name_latin": "Pyralidae"
+    },
+    "subfamily": {
+      "name_ko": "알락명나방아과",
+      "name_latin": "Phycitinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Etiella"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 명나방과 (Pyralidae)\n아과 : 알락명나방아과 (Phycitinae)\n속 : (Etiella)",
+  "basic_information": {
+    "곤충명": "노랑테알락명나방",
+    "학명": "Etiella walsinghamella (Ragonot, 1888)"
+  },
+  "information": {
+    "general_description": "더듬이는 암수 모두 실 모양이며, 아랫입술수염은 다소 길고 앞으로 뻗어 있음. 암수 모두 앞날개의 기부 근처에 선명한 노랑 테가 있어 다른 종과 쉽게 구별됨. 수컷은 날개가 다소 세장되었고, 앞날개 전연부에는 백색 인편이 깔려 있음. 수컷의 뒷날개는 외연부와 전연부를 제외하고는 모두 백색을 띠며 암컷의 경우는 암색임.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 8－9월에 출현함.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[호주]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 암수 모두 실 모양이며, 아랫입술수염은 다소 길고 앞으로 뻗어 있음. 암수 모두 앞날개의 기부 근처에 선명한 노랑 테가 있어 다른 종과 쉽게 구별됨. 수컷은 날개가 다소 세장되었고, 앞날개 전연부에는 백색 인편이 깔려 있음. 수컷의 뒷날개는 외연부와 전연부를 제외하고는 모두 백색을 띠며 암컷의 경우는 암색임."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 8－9월에 출현함."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[호주]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0257-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0257_7.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0257_7_th.jpg",
+      "alt": "노랑테알락명나방 1번째 사진 : 노랑테알락명나방가슴 확대 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0257_7_th2.jpg",
+      "caption": "노랑테알락명나방가슴 확대 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREL0257-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0257_6.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0257_6_th.jpg",
+      "alt": "노랑테알락명나방 2번째 사진 : 노랑테알락명나방배 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0257_6_th2.jpg",
+      "caption": "노랑테알락명나방배 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0257-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0604140003",
+      "description": "[KNAE0604140003] 노랑테알락명나방 2005.07.29 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0604140009",
+      "description": "[KNAE0604140009] 노랑테알락명나방 2005.07.29 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0910232005",
+      "description": "[KNAE0910232005] 노랑테알락명나방 2005.07.29 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREL0257-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0257&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:29+00:00",
+    "html_sha256": "905891a59646731cc14192f9e8bcb69c99e971f2c0aaece1b78a59c3035f79b8",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

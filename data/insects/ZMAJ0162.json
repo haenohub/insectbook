@@ -1,0 +1,109 @@
+{
+  "id": "ZMAJ0162",
+  "name_ko": "쑥진딧물",
+  "scientific_name": "Aphis (Aphis) kurosawai Takahashi, 1921",
+  "display_name": "쑥진딧물",
+  "family_ko": "진딧물과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "진딧물상과",
+      "name_latin": "Aphidoidea"
+    },
+    "family": {
+      "name_ko": "진딧물과",
+      "name_latin": "Aphididae"
+    },
+    "subfamily": {
+      "name_ko": "진딧물아과",
+      "name_latin": "Aphidinae"
+    },
+    "genus": {
+      "name_ko": "진딧물속",
+      "name_latin": "Aphis"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 진딧물상과 (Aphidoidea)\n과 : 진딧물과 (Aphididae)\n아과 : 진딧물아과 (Aphidinae)\n속 : 진딧물속 (Aphis)",
+  "basic_information": {
+    "곤충명": "쑥진딧물",
+    "학명": "Aphis (Aphis) kurosawai Takahashi, 1921"
+  },
+  "information": {
+    "general_description": "유시충의 몸 빛깔은 녹색이지만 밀납가루로 덮여 있어 언뜻 보기에 회색같이 보인다. 머리의 아랫면에 때로 1개의 센털이 있기도 하지만 대개는 2-3개이다. 더듬이는 흑색이며 몸길이의 1/2보다 약간 길고, 6마디이다. 앞날개의 날개맥은 그 양쪽이 약간 어두운 색을 띤다. 무시충은 몸 빛깔은 녹색이지만 밀납가루로 덮여 회색으로 보인다. 뿔관과 밑편은 흑색이고, 처리된 표본에서 머리는 연한 색이다. 머리의 위쪽 센털은 가늘고 뾰족하다. 유시충 1.73mm, 무시충 1.67mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "유시충의 몸 빛깔은 녹색이지만 밀납가루로 덮여 있어 언뜻 보기에 회색같이 보인다. 머리의 아랫면에 때로 1개의 센털이 있기도 하지만 대개는 2-3개이다. 더듬이는 흑색이며 몸길이의 1/2보다 약간 길고, 6마디이다. 앞날개의 날개맥은 그 양쪽이 약간 어두운 색을 띤다. 무시충은 몸 빛깔은 녹색이지만 밀납가루로 덮여 회색으로 보인다. 뿔관과 밑편은 흑색이고, 처리된 표본에서 머리는 연한 색이다. 머리의 위쪽 센털은 가늘고 뾰족하다. 유시충 1.73mm, 무시충 1.67mm."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMAJ0162-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAJ0162_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAJ0162_1_th.jpg",
+      "alt": "쑥진딧물 1번째 사진 : 쑥진딧물전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAJ0162_1_th2.jpg",
+      "caption": "쑥진딧물전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMAJ0162-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0409012194",
+      "description": "[SNUE0409012194] 쑥진딧물 1998.06.22 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0409012195",
+      "description": "[SNUE0409012195] 쑥진딧물 1998.06.22 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0409012196",
+      "description": "[SNUE0409012196] 쑥진딧물 1998.06.22 / / 서울대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "쑥",
+      "scientific_name": "Artemisia indica Willd."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZMAJ0162-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMAJ0162&tabId=tab1",
+    "collected_at": "2026-11-04T14:14:14+00:00",
+    "html_sha256": "e946f611d2236bbd3e32c0805dbc3ad09f7ba46e9c647f91aca1b790bbbae090",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

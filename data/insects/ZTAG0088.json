@@ -1,0 +1,118 @@
+{
+  "id": "ZTAG0088",
+  "name_ko": "흰줄벌",
+  "scientific_name": "Amegilla (Glossamegilla) florae (Smith, 1879)",
+  "display_name": "흰줄벌",
+  "family_ko": "꿀벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "꿀벌과",
+      "name_latin": "Apidae"
+    },
+    "subfamily": {
+      "name_ko": "꿀벌아과",
+      "name_latin": "Apinae"
+    },
+    "genus": {
+      "name_ko": "청줄벌속",
+      "name_latin": "Amegilla"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 꿀벌과 (Apidae)\n아과 : 꿀벌아과 (Apinae)\n속 : 청줄벌속 (Amegilla)",
+  "basic_information": {
+    "곤충명": "흰줄벌",
+    "학명": "Amegilla (Glossamegilla) florae (Smith, 1879)"
+  },
+  "information": {
+    "general_description": "암컷의 몸길이는 15mm 정도이고, 몸은 흑색이다. 더듬이와 다리 및 배의 배판은 적갈색내지 암적갈색이다. 가슴의 등판에는 황갈색 털이 나 있고 제1-4배마디등판 뒤쪽의 백색 가로 띠는 암컷, 수컷 다같이 뚜렷하지 않다. 암컷에서는 종아리마디의 꽃가루털은 황갈색이고 앞쪽은 흑갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[감소추세종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷의 몸길이는 15mm 정도이고, 몸은 흑색이다. 더듬이와 다리 및 배의 배판은 적갈색내지 암적갈색이다. 가슴의 등판에는 황갈색 털이 나 있고 제1-4배마디등판 뒤쪽의 백색 가로 띠는 암컷, 수컷 다같이 뚜렷하지 않다. 암컷에서는 종아리마디의 꽃가루털은 황갈색이고 앞쪽은 흑갈색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[감소추세종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0088-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0088_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0088_2_th.jpg",
+      "alt": "흰줄벌 1번째 사진 : 흰줄벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0088_2_th2.jpg",
+      "caption": "흰줄벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTAG0088-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0088_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0088_1_th.jpg",
+      "alt": "흰줄벌 2번째 사진 : 흰줄벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0088_1_th2.jpg",
+      "caption": "흰줄벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0088-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305291013",
+      "description": "[YNUE0305291013] 흰줄벌 1995.06.07 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305291014",
+      "description": "[YNUE0305291014] 흰줄벌 1995.05.23 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305291015",
+      "description": "[YNUE0305291015] 흰줄벌 1995.05.27 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAG0088-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0088&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:52+00:00",
+    "html_sha256": "4d8851802030934cb9bf5a5eebc8306fc14e31fee38e4c9731d15cdf2fbbf8c7",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

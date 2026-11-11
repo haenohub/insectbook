@@ -1,0 +1,103 @@
+{
+  "id": "ZTAG0047",
+  "name_ko": "줄꼬마꽃벌",
+  "scientific_name": "Lasioglossum (Leuchalictus) subopacum (Smith, 1853)",
+  "display_name": "줄꼬마꽃벌",
+  "family_ko": "꼬마꽃벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "꼬마꽃벌과",
+      "name_latin": "Halictidae"
+    },
+    "subfamily": {
+      "name_ko": "꼬마꽃벌아과",
+      "name_latin": "Halictinae"
+    },
+    "genus": {
+      "name_ko": "줄꼬마꽃벌속",
+      "name_latin": "Lasioglossum"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 꼬마꽃벌과 (Halictidae)\n아과 : 꼬마꽃벌아과 (Halictinae)\n속 : 줄꼬마꽃벌속 (Lasioglossum)",
+  "basic_information": {
+    "곤충명": "줄꼬마꽃벌",
+    "학명": "Lasioglossum (Leuchalictus) subopacum (Smith, 1853)"
+  },
+  "information": {
+    "general_description": "암컷의 몸길이는 10mm 정도이고 몸은 흑색에 광택은 없다. 머리와 가슴에는 회백색 털이 났고 정수리와 가슴 등면에는 갈색 털이 섞여 났다. 제1배마디등판 기부에는 회은백색 누운 털이 났다. 제2배마디등판이하는 갈색 내지 흑갈색 털이 덮여 있다. 정수리는 둥글게 융기하고 앞가슴등판의 삼각형 부분은 잘 발달하여 끝은 예리하게 돌출한다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷의 몸길이는 10mm 정도이고 몸은 흑색에 광택은 없다. 머리와 가슴에는 회백색 털이 났고 정수리와 가슴 등면에는 갈색 털이 섞여 났다. 제1배마디등판 기부에는 회은백색 누운 털이 났다. 제2배마디등판이하는 갈색 내지 흑갈색 털이 덮여 있다. 정수리는 둥글게 융기하고 앞가슴등판의 삼각형 부분은 잘 발달하여 끝은 예리하게 돌출한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0047-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0047_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0047_1_th.jpg",
+      "alt": "줄꼬마꽃벌 1번째 사진 : 흰줄애꽃벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0047_1_th2.jpg",
+      "caption": "흰줄애꽃벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0047-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306051149",
+      "description": "[YNUE0306051149] 줄꼬마꽃벌 2000.04.22 / / 영남대학교"
+    },
+    {
+      "id": "KUIE0408112042",
+      "description": "[KUIE0408112042] 줄꼬마꽃벌 1998.05.22 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0408102039",
+      "description": "[KUIE0408102039] 줄꼬마꽃벌 1998.09.06 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAG0047-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0047&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:05+00:00",
+    "html_sha256": "7186569dd50c72566e116d4af5a73532bc26ac62f956fbd33f3ccdf93eb7d53e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

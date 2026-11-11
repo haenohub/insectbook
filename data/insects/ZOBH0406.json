@@ -1,0 +1,110 @@
+{
+  "id": "ZOBH0406",
+  "name_ko": "쌍무늬먼지벌레",
+  "scientific_name": "Chlaenius (Lissauchenius) naeviger naeviger Morawitz, 1862",
+  "display_name": "쌍무늬먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "먼지벌레아과",
+      "name_latin": "Harpalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Chlaenius"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 먼지벌레아과 (Harpalinae)\n속 : (Chlaenius)",
+  "basic_information": {
+    "곤충명": "쌍무늬먼지벌레",
+    "학명": "Chlaenius (Lissauchenius) naeviger naeviger Morawitz, 1862"
+  },
+  "information": {
+    "general_description": "몸길이는 14~14.5mm 이며 두부와 전흉배판은 초록광택을 내며 딱지날개는 짙은녹색이다. 전흉배판에는 점각이 많이 있으나 작은 털은 없다. 딱지날개의 뒷부분에는 황갈색의 반점이 한쌍있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 14~14.5mm 이며 두부와 전흉배판은 초록광택을 내며 딱지날개는 짙은녹색이다. 전흉배판에는 점각이 많이 있으나 작은 털은 없다. 딱지날개의 뒷부분에는 황갈색의 반점이 한쌍있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0406-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0406_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0406_2_th.jpg",
+      "alt": "쌍무늬먼지벌레 1번째 사진 : 쌍무늬먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0406_2_th2.jpg",
+      "caption": "쌍무늬먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0406-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0406_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0406_1_th.jpg",
+      "alt": "쌍무늬먼지벌레 2번째 사진 : 쌍무늬먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0406_1_th2.jpg",
+      "caption": "쌍무늬먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0406-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304021076",
+      "description": "[KNAE0304021076] 쌍무늬먼지벌레 1992.07.21 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304021077",
+      "description": "[KNAE0304021077] 쌍무늬먼지벌레 1992.07.15 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304021075",
+      "description": "[KNAE0304021075] 쌍무늬먼지벌레 1994.07.09 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0406-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0406&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:59+00:00",
+    "html_sha256": "18645b593a94eb3be9a498b34dbb43d0506106a05e843f5d8e2de6e7fb5194cf",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

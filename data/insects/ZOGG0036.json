@@ -1,0 +1,99 @@
+{
+  "id": "ZOGG0036",
+  "name_ko": "녹색콩풍뎅이",
+  "scientific_name": "Popillia quadriguttata (Fabricius, 1787)",
+  "display_name": "녹색콩풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "풍뎅이아과",
+      "name_latin": "Rutelinae"
+    },
+    "genus": {
+      "name_ko": "콩풍뎅이속",
+      "name_latin": "Popillia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 풍뎅이아과 (Rutelinae)\n속 : 콩풍뎅이속 (Popillia)",
+  "basic_information": {
+    "곤충명": "녹색콩풍뎅이",
+    "학명": "Popillia quadriguttata (Fabricius, 1787)"
+  },
+  "information": {
+    "general_description": "중국, 대만, 베트남에 분포하며, 광택이 강하고 머리와 앞가슴등판은 균일하게 녹색 내지 구릿빛 흑색인데 다리는 구릿빛 내지 보라빛 혹색이며, 딱지날개는 황갈색이다. 앞가슴등판 전각 근처의 점각은 넓고 깊으며, 제 1시간실에는 조구모양의 세로 점각열이 있으며, 미절판과 각 복부 복절에는 백색 강모 다발이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중국, 대만, 베트남에 분포하며, 광택이 강하고 머리와 앞가슴등판은 균일하게 녹색 내지 구릿빛 흑색인데 다리는 구릿빛 내지 보라빛 혹색이며, 딱지날개는 황갈색이다. 앞가슴등판 전각 근처의 점각은 넓고 깊으며, 제 1시간실에는 조구모양의 세로 점각열이 있으며, 미절판과 각 복부 복절에는 백색 강모 다발이 있다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGG0036-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0036_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0036_1_th.jpg",
+      "alt": "녹색콩풍뎅이 1번째 사진 : 녹색콩풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0036_1_th2.jpg",
+      "caption": "녹색콩풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGG0036-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303142062",
+      "description": "[KNAE0303142062] 녹색콩풍뎅이 1996.08.02 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303142063",
+      "description": "[KNAE0303142063] 녹색콩풍뎅이 1997.07.07 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303142065",
+      "description": "[KNAE0303142065] 녹색콩풍뎅이 1997.07.11 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGG0036-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGG0036&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:34+00:00",
+    "html_sha256": "88e7e068c4f16a9082be8cdcaa21883bb2142bd72c3998c0cd020d52e30a25fa",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

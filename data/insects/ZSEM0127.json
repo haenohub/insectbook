@@ -1,0 +1,99 @@
+{
+  "id": "ZSEM0127",
+  "name_ko": "왕개미꽃등에",
+  "scientific_name": "Microdon oitanus Shiraki, 1930",
+  "display_name": "왕개미꽃등에",
+  "family_ko": "꽃등에과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "꽃등에상과",
+      "name_latin": "Syrphoidea"
+    },
+    "family": {
+      "name_ko": "꽃등에과",
+      "name_latin": "Syrphidae"
+    },
+    "subfamily": {
+      "name_ko": "개미꽃등에아과",
+      "name_latin": "Microdontinae"
+    },
+    "genus": {
+      "name_ko": "개미꽃등에속",
+      "name_latin": "Microdon"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 꽃등에상과 (Syrphoidea)\n과 : 꽃등에과 (Syrphidae)\n아과 : 개미꽃등에아과 (Microdontinae)\n속 : 개미꽃등에속 (Microdon)",
+  "basic_information": {
+    "곤충명": "왕개미꽃등에",
+    "학명": "Microdon oitanus Shiraki, 1930"
+  },
+  "information": {
+    "general_description": "성충의 몸길이는 13~15mm. 머리폭은 가슴폭과 거의 같고, 이마는 광택이 있는 흑색이다. 더듬이는 흑색이며, 제 1마디는 제 2,3마디를 합친 것보다 조금 더 길다. 가슴등판은 길이와 폭이 거의 같으며, 광택있는 녹흑색을 띤다. 작은방패판의 폭은 길이의 2배이고 2개의 뚜렷한 침(spine)을 갖는다. 배는 가슴보다 폭이 넓으며, 부분적으로 금빛털을 갖는다. 다리는 흑색이며 부분적으로 흑색과 회색털을 갖는다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충의 몸길이는 13~15mm. 머리폭은 가슴폭과 거의 같고, 이마는 광택이 있는 흑색이다. 더듬이는 흑색이며, 제 1마디는 제 2,3마디를 합친 것보다 조금 더 길다. 가슴등판은 길이와 폭이 거의 같으며, 광택있는 녹흑색을 띤다. 작은방패판의 폭은 길이의 2배이고 2개의 뚜렷한 침(spine)을 갖는다. 배는 가슴보다 폭이 넓으며, 부분적으로 금빛털을 갖는다. 다리는 흑색이며 부분적으로 흑색과 회색털을 갖는다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSEM0127-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0127_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0127_1_th.jpg",
+      "alt": "왕개미꽃등에 1번째 사진 : 왕개미꽃등에전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0127_1_th2.jpg",
+      "caption": "왕개미꽃등에전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSEM0127-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0301161023",
+      "description": "[KNAE0301161023] 왕개미꽃등에 1994.06.03 / / 국립수목원"
+    },
+    {
+      "id": "KNAE160196",
+      "description": "[KNAE160196] 왕개미꽃등에 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0808040115",
+      "description": "[KNAE0808040115] 왕개미꽃등에 2003.06.21 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZSEM0127-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSEM0127&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:30+00:00",
+    "html_sha256": "3ec9378c7a6c7237ab51ce1c91fde81a9387d38bfffa32ea2544da222f25de7b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "id": "ZOBL0229",
+  "name_ko": "울도하늘소",
+  "scientific_name": "Psacothea hilaris hilaris (Poscoe, 1857)",
+  "display_name": "울도하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "목하늘소아과",
+      "name_latin": "Lamiinae"
+    },
+    "genus": {
+      "name_ko": "울도하늘소속",
+      "name_latin": "Psacothea"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 목하늘소아과 (Lamiinae)\n속 : 울도하늘소속 (Psacothea)",
+  "basic_information": {
+    "곤충명": "울도하늘소",
+    "학명": "Psacothea hilaris hilaris (Poscoe, 1857)"
+  },
+  "information": {
+    "general_description": "일반적으로 몸길이는 14-30 mm 가량이다. 몸은 검은 회색에 황백색 무늬가 많다. 더듬이가 매우 길다. 앞가슴은 가늘고 긴 편이며, 양 옆에는 돌기가 발달되어 있다.",
+    "adult": null,
+    "adult_male": "더듬이가 몸길이의 2배 가량 된다.",
+    "adult_female": "더듬이가 몸길이의 3배 가량 된다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "여름철 밤에 불빛에 끌려 날아오는 습성을 가지고 있다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대한민국] 경상북도",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "일반적으로 몸길이는 14-30 mm 가량이다. 몸은 검은 회색에 황백색 무늬가 많다. 더듬이가 매우 길다. 앞가슴은 가늘고 긴 편이며, 양 옆에는 돌기가 발달되어 있다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "더듬이가 몸길이의 2배 가량 된다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "더듬이가 몸길이의 3배 가량 된다."
+    },
+    {
+      "title": "습성",
+      "text": "여름철 밤에 불빛에 끌려 날아오는 습성을 가지고 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대한민국] 경상북도"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0229-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0229_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0229_3.jpg",
+      "alt": "울도하늘소 1번째 사진 : ",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0229_3_th2.jpg",
+      "caption": null,
+      "photographed_at": "20120905",
+      "location": null,
+      "photographer": "국립수목원(임종옥)"
+    },
+    {
+      "id": "ZOBL0229-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0229_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0229_2_th.jpg",
+      "alt": "울도하늘소 2번째 사진 : 울도하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0229_2_th2.jpg",
+      "caption": "울도하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBL0229-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0229_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0229_1_th.jpg",
+      "alt": "울도하늘소 3번째 사진 : 울도하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0229_1_th2.jpg",
+      "caption": "울도하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0229-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0305071024",
+      "description": "[FRIE0305071024] 울도하늘소 1956.08.30 / / 국립산림과학원"
+    },
+    {
+      "id": "ADUE0303071038",
+      "description": "[ADUE0303071038] 울도하늘소 1998.07.20 / / 안동대학교"
+    },
+    {
+      "id": "KNAE211926",
+      "description": "[KNAE211926] 울도하늘소 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "무화과나무",
+      "scientific_name": "Ficus carica L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "황칠나무",
+      "scientific_name": "Dendropanax trifidus (Thunb.) Makino ex H.Hara"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0229-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0229&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:09+00:00",
+    "html_sha256": "3c66d4222ddfecf32fa1ab59ce7fe455db9ed6e9d5dd9f7f09a05b7def6e9b97",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

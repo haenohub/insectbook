@@ -1,0 +1,140 @@
+{
+  "id": "ZOBL0059",
+  "name_ko": "붉은산꽃하늘소",
+  "scientific_name": "Stictoleptura (Aredolpona) rubra (Linnaeus, 1758)",
+  "display_name": "붉은산꽃하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "꽃하늘소아과",
+      "name_latin": "Lepturinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Stictoleptura"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 꽃하늘소아과 (Lepturinae)\n속 : (Stictoleptura)",
+  "basic_information": {
+    "곤충명": "붉은산꽃하늘소",
+    "학명": "Stictoleptura (Aredolpona) rubra (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "몸길이는 12~22mm이다. 몸은 흑색이나 앞가슴등판과 딱지날개, 각 다리의 종아리마디는 적갈색이다. 온몸에 황색의 매우 짧은 털이 있고 더듬이는 몸 보다 짧다. 딱지날개는 뒤쪽이 약간 좁고 비스듬히 잘려서 바깥쪽이 날카롭다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 12~22mm이다. 몸은 흑색이나 앞가슴등판과 딱지날개, 각 다리의 종아리마디는 적갈색이다. 온몸에 황색의 매우 짧은 털이 있고 더듬이는 몸 보다 짧다. 딱지날개는 뒤쪽이 약간 좁고 비스듬히 잘려서 바깥쪽이 날카롭다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0059-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0059_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0059_3.jpg",
+      "alt": "붉은산꽃하늘소 1번째 사진 : ",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0059_3_th2.jpg",
+      "caption": null,
+      "photographed_at": "20110906",
+      "location": null,
+      "photographer": "국립수목원(임종옥)"
+    },
+    {
+      "id": "ZOBL0059-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0059_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0059_2_th.jpg",
+      "alt": "붉은산꽃하늘소 2번째 사진 : 붉은산꽃하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0059_2_th2.jpg",
+      "caption": "붉은산꽃하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBL0059-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0059_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0059_1_th.jpg",
+      "alt": "붉은산꽃하늘소 3번째 사진 : 붉은산꽃하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0059_1_th2.jpg",
+      "caption": "붉은산꽃하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0059-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0408101004",
+      "description": "[KNAE0408101004] 붉은산꽃하늘소 2001.07.20 / / 국립수목원"
+    },
+    {
+      "id": "MPME0408201030",
+      "description": "[MPME0408201030] 붉은산꽃하늘소 1999.07.26 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408201029",
+      "description": "[MPME0408201029] 붉은산꽃하늘소 1999.07.26 / / 목포자연사박물관"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "상수리나무",
+      "scientific_name": "Quercus acutissima Carruth."
+    },
+    {
+      "group": "식물",
+      "name_ko": "오리나무",
+      "scientific_name": "Alnus japonica (Thunb.) Steud."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0059-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0059&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:51+00:00",
+    "html_sha256": "f68302288df44442f6ac10e1e6c56c5db6e15f65814a95ca6a6ca32613c0e309",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

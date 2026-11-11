@@ -1,0 +1,118 @@
+{
+  "id": "ZRDS0572",
+  "name_ko": "진노랑애매미충",
+  "scientific_name": "Alnetoidia (Alnetoidia) flava Oh & Jung, 2021",
+  "display_name": "진노랑애매미충",
+  "family_ko": "매미충과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "뿔매미상과",
+      "name_latin": "Membracoidea"
+    },
+    "family": {
+      "name_ko": "매미충과",
+      "name_latin": "Cicadellidae"
+    },
+    "subfamily": {
+      "name_ko": "애매미충아과",
+      "name_latin": "Typhlocybinae"
+    },
+    "genus": {
+      "name_ko": "애매미충속",
+      "name_latin": "Alnetoidia"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 뿔매미상과 (Membracoidea)\n과 : 매미충과 (Cicadellidae)\n아과 : 애매미충아과 (Typhlocybinae)\n속 : 애매미충속 (Alnetoidia)",
+  "basic_information": {
+    "곤충명": "진노랑애매미충",
+    "학명": "Alnetoidia (Alnetoidia) flava Oh & Jung, 2021"
+  },
+  "information": {
+    "general_description": "수컷의 더듬이는 빗살 모양으로 되었으며, 머리와 가슴의 등쪽면 및 배는 담회황갈색을 띰.\n앞날개의 날개끝은 뾰족하며 외연의 제 4맥 부근에 약간 돌출됨. 아기선과 내횡선은 갈색을 띠며, 중횡선의 안쪽은 등황색을 띰. 가락지 모양 무늬는 갈색으로 테가 둘러졌으며, 콩팥 모양 무늬는 뚜렷하지 않음. 아외연선은 물결 모양인데, 그 안쪽으로 중횡선과의 사이는 암갈색을 띠며, 아외연선의 바깥쪽은 담색을 띰. 뒷날개는 갈색을, 외연은 암색을 띰.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 7～8월경에 출현됨. 유충은 목화의 해충임.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[뉴질랜드]\n[오만]\n[사우디아라비아]\n[일본]\n[중국]\n[인도네시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "수컷의 더듬이는 빗살 모양으로 되었으며, 머리와 가슴의 등쪽면 및 배는 담회황갈색을 띰.\n앞날개의 날개끝은 뾰족하며 외연의 제 4맥 부근에 약간 돌출됨. 아기선과 내횡선은 갈색을 띠며, 중횡선의 안쪽은 등황색을 띰. 가락지 모양 무늬는 갈색으로 테가 둘러졌으며, 콩팥 모양 무늬는 뚜렷하지 않음. 아외연선은 물결 모양인데, 그 안쪽으로 중횡선과의 사이는 암갈색을 띠며, 아외연선의 바깥쪽은 담색을 띰. 뒷날개는 갈색을, 외연은 암색을 띰."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 7～8월경에 출현됨. 유충은 목화의 해충임."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[뉴질랜드]\n[오만]\n[사우디아라비아]\n[일본]\n[중국]\n[인도네시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0572-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0572_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0572_2_th.jpg",
+      "alt": "진노랑애매미충 1번째 사진 : 목화잎밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0572_2_th2.jpg",
+      "caption": "목화잎밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDS0572-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0572_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0572_1_th.jpg",
+      "alt": "진노랑애매미충 2번째 사진 : 목화잎밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0572_1_th2.jpg",
+      "caption": "목화잎밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0572-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0301052031",
+      "description": "[KNAE0301052031] 진노랑애매미충 / / 국립수목원"
+    },
+    {
+      "id": "FRIE0302201039",
+      "description": "[FRIE0302201039] 진노랑애매미충 1997.09.01 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0302201040",
+      "description": "[FRIE0302201040] 진노랑애매미충 1997.08.25 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDS0572-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0572&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:34+00:00",
+    "html_sha256": "33b0ba803b4a0fb0661e689f93488584012a76e794a16d122b023fb6dabbf87a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

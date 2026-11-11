@@ -1,0 +1,150 @@
+{
+  "id": "ZOBT0142",
+  "name_ko": "버들잎벌레",
+  "scientific_name": "Chrysomela vigintipunctata vigintipunctata (Scopoli, 1763)",
+  "display_name": "버들잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "잎벌레아과",
+      "name_latin": "Chrysomelinae"
+    },
+    "genus": {
+      "name_ko": "잎벌레속",
+      "name_latin": "Chrysomela"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 잎벌레아과 (Chrysomelinae)\n속 : 잎벌레속 (Chrysomela)",
+  "basic_information": {
+    "곤충명": "버들잎벌레",
+    "학명": "Chrysomela vigintipunctata vigintipunctata (Scopoli, 1763)"
+  },
+  "information": {
+    "general_description": "성충의 몸길이는 6.8~9 mm이며, 몸이 길고 납작하다. 머리와 몸은 흑색이고, 녹색이나 남색의 강한 광택이 있다. 앞가슴등판의 가운데 녹색 광택이 있는 흑색이다. 딱지날개는 황갈색으로 20개의 청록색 무늬가 있으며, 봉합선 근처는 흑색이다. 다리와 더듬이는 흑색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": "노숙 유충의 몸길이는 11 mm 정도이고, 머리는 흑색, 몸은 황록색이며 등과 측면에 검은 점으로 된 줄이 있다.",
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 4월경에 출현하여 새 잎을 식해하며 잎 뒷면에 수십 개의 알을 덩어리로 산란한다. 어린 유충은 군서하여 잎을 식해하고 성장하면 분산하여 엽맥만 남기고 식해한다. 5월경에 노숙 유충은 무리를 지어 잎 뒷면에 꼬리를 붙이고 번데기가 되며 용 기간은 7일이다. 5~6월에 성충이 우화한다.",
+    "habits": "성충과 유충이 버드나무, 포플러류의 잎을 식해한다. 묘목이나 어린 나무에 피해가 심하다.",
+    "season": null,
+    "overwintering": "성충으로 흙 속에서 월동한다.",
+    "distribution": "[유럽]\n[러시아] 동시베리아지역\n[러시아] 서시베리아지역\n[몽골]\n[중국]\n[대만]\n[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충의 몸길이는 6.8~9 mm이며, 몸이 길고 납작하다. 머리와 몸은 흑색이고, 녹색이나 남색의 강한 광택이 있다. 앞가슴등판의 가운데 녹색 광택이 있는 흑색이다. 딱지날개는 황갈색으로 20개의 청록색 무늬가 있으며, 봉합선 근처는 흑색이다. 다리와 더듬이는 흑색이다."
+    },
+    {
+      "title": "유충",
+      "text": "노숙 유충의 몸길이는 11 mm 정도이고, 머리는 흑색, 몸은 황록색이며 등과 측면에 검은 점으로 된 줄이 있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 4월경에 출현하여 새 잎을 식해하며 잎 뒷면에 수십 개의 알을 덩어리로 산란한다. 어린 유충은 군서하여 잎을 식해하고 성장하면 분산하여 엽맥만 남기고 식해한다. 5월경에 노숙 유충은 무리를 지어 잎 뒷면에 꼬리를 붙이고 번데기가 되며 용 기간은 7일이다. 5~6월에 성충이 우화한다."
+    },
+    {
+      "title": "습성",
+      "text": "성충과 유충이 버드나무, 포플러류의 잎을 식해한다. 묘목이나 어린 나무에 피해가 심하다."
+    },
+    {
+      "title": "월동",
+      "text": "성충으로 흙 속에서 월동한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[유럽]\n[러시아] 동시베리아지역\n[러시아] 서시베리아지역\n[몽골]\n[중국]\n[대만]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0142-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0142_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0142_2_th.jpg",
+      "alt": "버들잎벌레 1번째 사진 : 버들잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0142_2_th2.jpg",
+      "caption": "버들잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBT0142-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0142_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0142_1_th.jpg",
+      "alt": "버들잎벌레 2번째 사진 : 버들잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0142_1_th2.jpg",
+      "caption": "버들잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0142-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408201116",
+      "description": "[MPME0408201116] 버들잎벌레 1999.06.17 / / 목포자연사박물관"
+    },
+    {
+      "id": "KUIE0307101459",
+      "description": "[KUIE0307101459] 버들잎벌레 1972.06.08 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307101460",
+      "description": "[KUIE0307101460] 버들잎벌레 1972.06.09 / / 고려대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "사시나무",
+      "scientific_name": "Populus tremula var. davidiana (Dode) C.K.Schneid."
+    },
+    {
+      "group": "식물",
+      "name_ko": "오리나무",
+      "scientific_name": "Alnus japonica (Thunb.) Steud."
+    },
+    {
+      "group": "식물",
+      "name_ko": "황철나무",
+      "scientific_name": "Populus suaveolens Fisch. ex Poit. & A.Vilm."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0142-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0142&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:42+00:00",
+    "html_sha256": "7179f858e47eab6fa2b6b45011907a30c6f52d92e520fc1d92d097b4b32db12b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "ZRCI0415",
+  "name_ko": "네무늬가지나방",
+  "scientific_name": "Heterostegane hyriaria Warren, 1894",
+  "display_name": "네무늬가지나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "가지나방아과",
+      "name_latin": "Ennominae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Heterostegane"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 가지나방아과 (Ennominae)\n속 : (Heterostegane)",
+  "basic_information": {
+    "곤충명": "네무늬가지나방",
+    "학명": "Heterostegane hyriaria Warren, 1894"
+  },
+  "information": {
+    "general_description": "계룡산과 일본, 중국에 분포하며 더듬이 - 수컷은 미모상, 암컷은 실 모양이다. 몸과 날개는 모두 담황색\n날개(15mm 내외)- 전면에 고르게 갈색점이 산재.\n*앞날개의 전연은 갈색을 띤다. 외횡선은 암갈색으로 전연에서 시작하여\n후각에 이르며, 도중 제 2중맥상에서 외연에 이르는 가지가 1개 있다.\n외연은 갈색으로 암갈색 점줄이 있다.\n*뒷날개의 외연은 다소 굵고 암갈색을 띤다. 연모는 앞, 뒷날개가 모두\n담황색이다. 뒷면의 무늬는 앞면과 비슷하나 그 빛깔은 담색이다",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6~8월에 출현한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "계룡산과 일본, 중국에 분포하며 더듬이 - 수컷은 미모상, 암컷은 실 모양이다. 몸과 날개는 모두 담황색\n날개(15mm 내외)- 전면에 고르게 갈색점이 산재.\n*앞날개의 전연은 갈색을 띤다. 외횡선은 암갈색으로 전연에서 시작하여\n후각에 이르며, 도중 제 2중맥상에서 외연에 이르는 가지가 1개 있다.\n외연은 갈색으로 암갈색 점줄이 있다.\n*뒷날개의 외연은 다소 굵고 암갈색을 띤다. 연모는 앞, 뒷날개가 모두\n담황색이다. 뒷면의 무늬는 앞면과 비슷하나 그 빛깔은 담색이다"
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6~8월에 출현한다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0415-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0415_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0415_1_th.jpg",
+      "alt": "네무늬가지나방 1번째 사진 : 네무늬가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0415_1_th2.jpg",
+      "caption": "네무늬가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0415-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0305011029",
+      "description": "[FRIE0305011029] 네무늬가지나방 1987.07.28 / / 국립산림과학원"
+    },
+    {
+      "id": "UIBE0202262083",
+      "description": "[UIBE0202262083] 네무늬가지나방 1997.06.20 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0202262084",
+      "description": "[UIBE0202262084] 네무늬가지나방 1997.06.20 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRCI0415.png",
+    "reference_image_id": "ZRCI0415-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T10:42:03.410460+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "37b5d8313dddac1d545530e98ba9a1307d77b5915ca029299749fde515964b54"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0415&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:48+00:00",
+    "html_sha256": "9f1febd5c0abebcc233a3c47c9108c6a700f523f80f6f6c097c6a809a58a1157",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

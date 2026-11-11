@@ -1,0 +1,118 @@
+{
+  "id": "ZTAG0103",
+  "name_ko": "좀뒤영벌",
+  "scientific_name": "Bombus (Pyrobombus) ardens Smith, 1879",
+  "display_name": "좀뒤영벌",
+  "family_ko": "꿀벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "꿀벌과",
+      "name_latin": "Apidae"
+    },
+    "subfamily": {
+      "name_ko": "꿀벌아과",
+      "name_latin": "Apinae"
+    },
+    "genus": {
+      "name_ko": "뒤영벌속",
+      "name_latin": "Bombus"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 꿀벌과 (Apidae)\n아과 : 꿀벌아과 (Apinae)\n속 : 뒤영벌속 (Bombus)",
+  "basic_information": {
+    "곤충명": "좀뒤영벌",
+    "학명": "Bombus (Pyrobombus) ardens Smith, 1879"
+  },
+  "information": {
+    "general_description": "몸길이는 14~16 mm이다. 암컷의 몸은 흑색이고, 다리는 다소 흑갈색이다. 몸의 하면에는 회황색의 긴 털이 나 있다. 날개는 투명하고 약간 갈색이며 가장자리는 다소 짙은 색이다. 머리는 길지 않고 황색의 긴 털이 났고 종아리마디는 주위에 긴 적살색의 털을 가졌다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 5~8월에 출현한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 14~16 mm이다. 암컷의 몸은 흑색이고, 다리는 다소 흑갈색이다. 몸의 하면에는 회황색의 긴 털이 나 있다. 날개는 투명하고 약간 갈색이며 가장자리는 다소 짙은 색이다. 머리는 길지 않고 황색의 긴 털이 났고 종아리마디는 주위에 긴 적살색의 털을 가졌다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 5~8월에 출현한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0103-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0103_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0103_2_th.jpg",
+      "alt": "좀뒤영벌 1번째 사진 : 좀뒤영벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0103_2_th2.jpg",
+      "caption": "좀뒤영벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTAG0103-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0103_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0103_1_th.jpg",
+      "alt": "좀뒤영벌 2번째 사진 : 좀뒤영벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0103_1_th2.jpg",
+      "caption": "좀뒤영벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0103-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0301099001",
+      "description": "[YNUE0301099001] 좀뒤영벌 1996.06.25 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301099002",
+      "description": "[YNUE0301099002] 좀뒤영벌 1994.05.12 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301099003",
+      "description": "[YNUE0301099003] 좀뒤영벌 1994.05.13 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAG0103-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0103&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:47+00:00",
+    "html_sha256": "8364397988e175072e5bbf8f5ecf42f571a911caa8db43a97dd85cccbc7e48cc",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": "ZOBT0026",
+  "name_ko": "가시다리큰벼잎벌레",
+  "scientific_name": "Lema (Lema) coronata Baly, 1873",
+  "display_name": "가시다리큰벼잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "긴가슴잎벌레아과",
+      "name_latin": "Criocerinae"
+    },
+    "genus": {
+      "name_ko": "닮은벼잎벌레속",
+      "name_latin": "Lema"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 긴가슴잎벌레아과 (Criocerinae)\n속 : 닮은벼잎벌레속 (Lema)",
+  "basic_information": {
+    "곤충명": "가시다리큰벼잎벌레",
+    "학명": "Lema (Lema) coronata Baly, 1873"
+  },
+  "information": {
+    "general_description": "몸길이가 5.0~6.0mm, 몸 전체가 광택이 나는 흑청색이며 가운데다리 종아리마디에 가시돌기가 있으며 앞가슴등판에 점각, 머리에 흑색. 한국(중부,남부,제주특별자치도,홍도), 일본(혼슈,시코쿠,규슈), 중국(중부,남부)에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 5~6월에 닭의장풀 잎에 발견, 그잎을 먹는다. 8월에 산란한다. 유충은 8월에 땅속으로 들어가 용화한다.",
+    "habits": "기주식물 닭의장풀.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이가 5.0~6.0mm, 몸 전체가 광택이 나는 흑청색이며 가운데다리 종아리마디에 가시돌기가 있으며 앞가슴등판에 점각, 머리에 흑색. 한국(중부,남부,제주특별자치도,홍도), 일본(혼슈,시코쿠,규슈), 중국(중부,남부)에 분포되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 5~6월에 닭의장풀 잎에 발견, 그잎을 먹는다. 8월에 산란한다. 유충은 8월에 땅속으로 들어가 용화한다."
+    },
+    {
+      "title": "습성",
+      "text": "기주식물 닭의장풀."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0026-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0026_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0026_1_th.jpg",
+      "alt": "가시다리큰벼잎벌레 1번째 사진 : 가시다리큰벼잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0026_1_th2.jpg",
+      "caption": "가시다리큰벼잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0026-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0407231103",
+      "description": "[KPNE0407231103] 가시다리큰벼잎벌레 1984.05.23 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0407231104",
+      "description": "[KPNE0407231104] 가시다리큰벼잎벌레 1983.06.26 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0407231105",
+      "description": "[KPNE0407231105] 가시다리큰벼잎벌레 1983.08.13 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBT0026.png",
+    "reference_image_id": "ZOBT0026-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T16:26:30.683250+00:00",
+    "sha256": "fee2c92e3ce333e77a0f787685f61d83a8d8d597cf10f82c574a47a959081f7b",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0026&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:11+00:00",
+    "html_sha256": "e402d5178c1aaedb941f2ab5df27c28aaed7b136bc5f1d22f636a199f12e8825",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

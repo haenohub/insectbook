@@ -1,0 +1,125 @@
+{
+  "id": "ZRDG0064",
+  "name_ko": "남방녹색부전나비",
+  "scientific_name": "Chrysozephyrus ataxus (Westwood, 1851)",
+  "display_name": "남방녹색부전나비",
+  "family_ko": "부전나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "부전나비과",
+      "name_latin": "Lycaenidae"
+    },
+    "subfamily": {
+      "name_ko": "녹색부전나비아과",
+      "name_latin": "Theclinae"
+    },
+    "genus": {
+      "name_ko": "북방녹색부전나비속",
+      "name_latin": "Chrysozephyrus"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 부전나비과 (Lycaenidae)\n아과 : 녹색부전나비아과 (Theclinae)\n속 : 북방녹색부전나비속 (Chrysozephyrus)",
+  "basic_information": {
+    "곤충명": "남방녹색부전나비",
+    "학명": "Chrysozephyrus ataxus (Westwood, 1851)"
+  },
+  "information": {
+    "general_description": "수컷의 날개 윗면은 청남색, 암컷은 암갈색으로 봄 가을형은 기부에 청남색 무늬가 나타난다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "암컷은 활동이 미약하나 간혹 숲 그늘 사이에서 않아 쉬다가 산란행동을 나타낸다.",
+    "habits": "붉은가시나무가 자생하고 있는 전남 해남 두륜산과 대둔산이 우리나라의 유일한 서식지이다. 수컷들의 활동은 오전 10시부터 활발하게 하는데, 여러 장소의 높은 나무꼬대기에서 다른 곳으로 이동하며 점유행동을 보인다. 수컷의 최대 활동기는 2시에서 오후 4시경인 것으로 보인다.",
+    "season": null,
+    "overwintering": "알",
+    "distribution": "[일본]\n[대만]\n[중국]\n[미얀마]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "수컷의 날개 윗면은 청남색, 암컷은 암갈색으로 봄 가을형은 기부에 청남색 무늬가 나타난다."
+    },
+    {
+      "title": "생태",
+      "text": "암컷은 활동이 미약하나 간혹 숲 그늘 사이에서 않아 쉬다가 산란행동을 나타낸다."
+    },
+    {
+      "title": "습성",
+      "text": "붉은가시나무가 자생하고 있는 전남 해남 두륜산과 대둔산이 우리나라의 유일한 서식지이다. 수컷들의 활동은 오전 10시부터 활발하게 하는데, 여러 장소의 높은 나무꼬대기에서 다른 곳으로 이동하며 점유행동을 보인다. 수컷의 최대 활동기는 2시에서 오후 4시경인 것으로 보인다."
+    },
+    {
+      "title": "월동",
+      "text": "알"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[대만]\n[중국]\n[미얀마]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDG0064-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0064_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0064_1_th.jpg",
+      "alt": "남방녹색부전나비 1번째 사진 : 남방녹색부전나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0064_1_th2.jpg",
+      "caption": "남방녹색부전나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDG0064-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0409031194",
+      "description": "[MPME0409031194] 남방녹색부전나비 1995.07.20 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0409031193",
+      "description": "[MPME0409031193] 남방녹색부전나비 1995.07.20 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0409031191",
+      "description": "[MPME0409031191] 남방녹색부전나비 1995.07.20 / / 목포자연사박물관"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "붉가시나무",
+      "scientific_name": "Quercus acuta Thunb."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDG0064.png",
+    "reference_image_id": "ZRDG0064-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T16:26:16.202900+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "816eb55435317f4d80de85059dc31fc8825c1b20b76a0626c0fcf4737884cff6"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDG0064&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:21+00:00",
+    "html_sha256": "b0c70193d0a2e36ac11a03d9416833bd3a257220a88302c82c4d4000ae987d88",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

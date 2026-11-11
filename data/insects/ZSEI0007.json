@@ -1,0 +1,114 @@
+{
+  "id": "ZSEI0007",
+  "name_ko": "동애등에",
+  "scientific_name": "Ptecticus tenebrifer (Walker, 1849)",
+  "display_name": "동애등에",
+  "family_ko": "동애등에과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "동애등에상과",
+      "name_latin": "Stratiomyoidea"
+    },
+    "family": {
+      "name_ko": "동애등에과",
+      "name_latin": "Stratiomyidae"
+    },
+    "subfamily": {
+      "name_ko": "멋동애등에아과",
+      "name_latin": "Sarginae"
+    },
+    "genus": {
+      "name_ko": "동애등에속",
+      "name_latin": "Ptecticus"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 동애등에상과 (Stratiomyoidea)\n과 : 동애등에과 (Stratiomyidae)\n아과 : 멋동애등에아과 (Sarginae)\n속 : 동애등에속 (Ptecticus)",
+  "basic_information": {
+    "곤충명": "동애등에",
+    "학명": "Ptecticus tenebrifer (Walker, 1849)"
+  },
+  "information": {
+    "general_description": "체장: 13-20mm. 몸은 흑색. 앞이마는 작으며 뚜렷이 융기했고 황색이며 얼굴은 흑갈색으로 대단히 짧음. 더듬이는 흑갈색. 어깨혹과 옆가장자리 융기선은 황갈색. 작은방패판은 짧고 뒷가장자리는 둔각. 날개느 크고 흐림. 다리는 가늘며 길고 흑색. 가운데다리 발목마디 기부의 2마디와 앞다리 종아리마디의 기부는 황적색. 배는 크고 제2배마디는회백색이고 중앙 뒤쪽의 삼각무늬와 옆가장자리는 흑색이며 제3-5마디 뒷가장자리 양 끝에 백색털로 된 작은 무늬.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체장: 13-20mm. 몸은 흑색. 앞이마는 작으며 뚜렷이 융기했고 황색이며 얼굴은 흑갈색으로 대단히 짧음. 더듬이는 흑갈색. 어깨혹과 옆가장자리 융기선은 황갈색. 작은방패판은 짧고 뒷가장자리는 둔각. 날개느 크고 흐림. 다리는 가늘며 길고 흑색. 가운데다리 발목마디 기부의 2마디와 앞다리 종아리마디의 기부는 황적색. 배는 크고 제2배마디는회백색이고 중앙 뒤쪽의 삼각무늬와 옆가장자리는 흑색이며 제3-5마디 뒷가장자리 양 끝에 백색털로 된 작은 무늬."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSEI0007-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEI0007_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEI0007_2_th.jpg",
+      "alt": "동애등에 1번째 사진 : 동애등에전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEI0007_2_th2.jpg",
+      "caption": "동애등에전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZSEI0007-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEI0007_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEI0007_1_th.jpg",
+      "alt": "동애등에 2번째 사진 : 동애등에전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEI0007_1_th2.jpg",
+      "caption": "동애등에전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSEI0007-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0301069022",
+      "description": "[YNUE0301069022] 동애등에 1998.04.15 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301069023",
+      "description": "[YNUE0301069023] 동애등에 1999.06.08 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301069024",
+      "description": "[YNUE0301069024] 동애등에 1998.06.11 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZSEI0007-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSEI0007&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:30+00:00",
+    "html_sha256": "bfc5c40e9250917cef7333ff0551ccf97a43ab406c4137bd1aff2d565ebba503",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

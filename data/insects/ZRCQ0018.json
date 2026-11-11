@@ -1,0 +1,133 @@
+{
+  "id": "ZRCQ0018",
+  "name_ko": "유리창떠들썩팔랑나비",
+  "scientific_name": "Ochlodes subhyalina (Bremer & Grey, 1853)",
+  "display_name": "유리창떠들썩팔랑나비",
+  "family_ko": "팔랑나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "팔랑나비과",
+      "name_latin": "Hesperiidae"
+    },
+    "subfamily": {
+      "name_ko": "팔랑나비아과",
+      "name_latin": "Hesperiinae"
+    },
+    "genus": {
+      "name_ko": "떠들썩팔랑나비속",
+      "name_latin": "Ochlodes"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 팔랑나비과 (Hesperiidae)\n아과 : 팔랑나비아과 (Hesperiinae)\n속 : 떠들썩팔랑나비속 (Ochlodes)",
+  "basic_information": {
+    "곤충명": "유리창떠들썩팔랑나비",
+    "학명": "Ochlodes subhyalina (Bremer & Grey, 1853)"
+  },
+  "information": {
+    "general_description": "수컷은 앞날개 중실 밑에 검정색 선상 성표가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "산지나 마을, 경작지 주변의 초지에 서식한다. 수컷은 물가나 새똥 등 다양한 장소에 모이거나 도둑놈의지팡이, 갈퀴나물, 타래난초, 자귀나무 등의 꽃에 잘 모여 흡밀한다. 오후 늦게 수컷이 점유행동을 할 때에는 여러 마리가 한꺼번에 이리저리 날아다닌다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[몽골]\n[미얀마]\n[네팔]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "수컷은 앞날개 중실 밑에 검정색 선상 성표가 있다."
+    },
+    {
+      "title": "습성",
+      "text": "산지나 마을, 경작지 주변의 초지에 서식한다. 수컷은 물가나 새똥 등 다양한 장소에 모이거나 도둑놈의지팡이, 갈퀴나물, 타래난초, 자귀나무 등의 꽃에 잘 모여 흡밀한다. 오후 늦게 수컷이 점유행동을 할 때에는 여러 마리가 한꺼번에 이리저리 날아다닌다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[몽골]\n[미얀마]\n[네팔]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCQ0018-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRCQ0018_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRCQ0018_3.jpg",
+      "alt": "유리창떠들썩팔랑나비 1번째 사진 : 유리창떠들썩팔랑나비 수컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRCQ0018_3_th2.jpg",
+      "caption": "유리창떠들썩팔랑나비 수컷 이미지",
+      "photographed_at": "20200708",
+      "location": null,
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRCQ0018-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0018_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0018_2_th.jpg",
+      "alt": "유리창떠들썩팔랑나비 2번째 사진 : 유리창떠들썩팔랑나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0018_2_th2.jpg",
+      "caption": "유리창떠들썩팔랑나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCQ0018-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0018_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0018_1_th.jpg",
+      "alt": "유리창떠들썩팔랑나비 3번째 사진 : 유리창떠들썩팔랑나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0018_1_th2.jpg",
+      "caption": "유리창떠들썩팔랑나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCQ0018-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408111032",
+      "description": "[MPME0408111032] 유리창떠들썩팔랑나비 2003.06.18 / / 목포자연사박물관"
+    },
+    {
+      "id": "SJNE0306171020",
+      "description": "[SJNE0306171020] 유리창떠들썩팔랑나비 2002.06.19 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0306171021",
+      "description": "[SJNE0306171021] 유리창떠들썩팔랑나비 2002.06.19 / / 상주대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCQ0018-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCQ0018&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:14+00:00",
+    "html_sha256": "1959ff1f2c4a1b9a6122cc25d66399f4498e781560070846ce60e14ed043f331",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

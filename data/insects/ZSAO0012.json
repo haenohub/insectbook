@@ -1,0 +1,95 @@
+{
+  "id": "ZSAO0012",
+  "name_ko": "야마시로재니등에",
+  "scientific_name": "Brachyanax aterrimus (Doleschall, 1859)",
+  "display_name": "야마시로재니등에",
+  "family_ko": "재니등에과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "파리매상과",
+      "name_latin": "Asiloidea"
+    },
+    "family": {
+      "name_ko": "재니등에과",
+      "name_latin": "Bombyliidae"
+    },
+    "subfamily": {
+      "name_ko": "우단재니등에아과",
+      "name_latin": "Anthracinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Brachyanax"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 파리매상과 (Asiloidea)\n과 : 재니등에과 (Bombyliidae)\n아과 : 우단재니등에아과 (Anthracinae)\n속 : (Brachyanax)",
+  "basic_information": {
+    "곤충명": "야마시로재니등에",
+    "학명": "Brachyanax aterrimus (Doleschall, 1859)"
+  },
+  "information": {
+    "general_description": "몸은 흑색. 머리는 가슴보다 다소 큼. 뒷머리 중앙은 깊이 패임. 머리 뒷가장자리에 흑색 짧은 털이 줄을 지어 남. 더듬이는 대단히 작고 제3마디는 윗부분이 접시 모양으로 퍼져서 표주박 모양이고 내부는 백색의 미세한 털이 밀생했고 그 가장자리의 겉쪽 윗부분으로부터 다소 굵은 1개의 돌기가 남. 가슴등판은 암흑색이고 황갈색 가루와 미모로 덮임. 옆가장자리에 흑색 극모가 있고 앞가슴과 가운데가슴 옆구리에는 백색 털이 밀생. 날개의 기부 1/2은 흑색이고 나머지는 투명. 배는 가슴등판과 같은 색이고 제1마디 양쪽에 백색 털 뭉치가 있고 제 1,4배마디 뒷가장자리 양쪽에는 백색 비늘털이 있음. 끝에는 안쪽에 황백색 털을 둘러싸는 흑색 털의 뭉치가 있음. 아랫면은 백색 미모로 덮임. 다리는 가늘고 길며 흑색이나 앞다리와 가운데다리의 밑마디와 넓적다리마디는 백색털로 덮임.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸은 흑색. 머리는 가슴보다 다소 큼. 뒷머리 중앙은 깊이 패임. 머리 뒷가장자리에 흑색 짧은 털이 줄을 지어 남. 더듬이는 대단히 작고 제3마디는 윗부분이 접시 모양으로 퍼져서 표주박 모양이고 내부는 백색의 미세한 털이 밀생했고 그 가장자리의 겉쪽 윗부분으로부터 다소 굵은 1개의 돌기가 남. 가슴등판은 암흑색이고 황갈색 가루와 미모로 덮임. 옆가장자리에 흑색 극모가 있고 앞가슴과 가운데가슴 옆구리에는 백색 털이 밀생. 날개의 기부 1/2은 흑색이고 나머지는 투명. 배는 가슴등판과 같은 색이고 제1마디 양쪽에 백색 털 뭉치가 있고 제 1,4배마디 뒷가장자리 양쪽에는 백색 비늘털이 있음. 끝에는 안쪽에 황백색 털을 둘러싸는 흑색 털의 뭉치가 있음. 아랫면은 백색 미모로 덮임. 다리는 가늘고 길며 흑색이나 앞다리와 가운데다리의 밑마디와 넓적다리마디는 백색털로 덮임."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSAO0012-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSAO0012_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSAO0012_1_th.jpg",
+      "alt": "야마시로재니등에 1번째 사진 : 야마시로재니등에전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSAO0012_1_th2.jpg",
+      "caption": "야마시로재니등에전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSAO0012-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0301099139",
+      "description": "[YNUE0301099139] 야마시로재니등에 1992.07.22 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZSAO0012-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSAO0012&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:24+00:00",
+    "html_sha256": "3e29979e0970484595ce4b0a3be3d4e1fbbb82bde8ef83065a9551fc6f0fbb95",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

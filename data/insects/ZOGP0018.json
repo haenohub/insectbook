@@ -1,0 +1,129 @@
+{
+  "id": "ZOGP0018",
+  "name_ko": "네눈박이송장벌레",
+  "scientific_name": "Dendroxena sexcarinata (Motschulsky, 1861)",
+  "display_name": "네눈박이송장벌레",
+  "family_ko": "송장벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "반날개상과",
+      "name_latin": "Staphylinoidea"
+    },
+    "family": {
+      "name_ko": "송장벌레과",
+      "name_latin": "Silphidae"
+    },
+    "subfamily": {
+      "name_ko": "송장벌레아과",
+      "name_latin": "Silphinae"
+    },
+    "genus": {
+      "name_ko": "네눈박이송장벌레",
+      "name_latin": "Dendroxena"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 반날개상과 (Staphylinoidea)\n과 : 송장벌레과 (Silphidae)\n아과 : 송장벌레아과 (Silphinae)\n속 : 네눈박이송장벌레 (Dendroxena)",
+  "basic_information": {
+    "곤충명": "네눈박이송장벌레",
+    "학명": "Dendroxena sexcarinata (Motschulsky, 1861)"
+  },
+  "information": {
+    "general_description": "몸길이는 10~15mm이며, 몸색깔은 등황색이다. 앞가슴등판 가운데 흑색무늬가 있으며 딱지날개에도 다섯개의 흑색점무늬가 있다. 개체변이가 심하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 10~15mm이며, 몸색깔은 등황색이다. 앞가슴등판 가운데 흑색무늬가 있으며 딱지날개에도 다섯개의 흑색점무늬가 있다. 개체변이가 심하다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGP0018-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0018_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0018_2_th.jpg",
+      "alt": "네눈박이송장벌레 1번째 사진 : 네눈박이송장벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0018_2_th2.jpg",
+      "caption": "네눈박이송장벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOGP0018-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0018_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0018_1_th.jpg",
+      "alt": "네눈박이송장벌레 2번째 사진 : 네눈박이송장벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0018_1_th2.jpg",
+      "caption": "네눈박이송장벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGP0018-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0302251032",
+      "description": "[KPNE0302251032] 네눈박이송장벌레 1978.05.27 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0302251031",
+      "description": "[KPNE0302251031] 네눈박이송장벌레 1972.05.27 / / 경북대학교"
+    },
+    {
+      "id": "CBNE0212281024",
+      "description": "[CBNE0212281024] 네눈박이송장벌레 2001.05.13 / / 충북대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "단풍나무",
+      "scientific_name": "Acer palmatum Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "버드나무",
+      "scientific_name": "Salix pierotii Miq."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOGP0018.png",
+    "reference_image_id": "ZOGP0018-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T10:28:53.104685+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "169b981deb31d6782b58acd8953cee642f1cc08f7f366e9df82a5118718e0502"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGP0018&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:45+00:00",
+    "html_sha256": "da50c7539e411c373a87ed43f9748b62d4885b9d5f21a60006f084604b7f3631",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

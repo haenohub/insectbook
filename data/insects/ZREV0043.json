@@ -1,0 +1,121 @@
+{
+  "id": "ZREV0043",
+  "name_ko": "검은꼬리박각시",
+  "scientific_name": "Macroglossum saga (Butler, 1878)",
+  "display_name": "검은꼬리박각시",
+  "family_ko": "박각시과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "누에나방상과",
+      "name_latin": "Bombycoidea"
+    },
+    "family": {
+      "name_ko": "박각시과",
+      "name_latin": "Sphingidae"
+    },
+    "subfamily": {
+      "name_ko": "꼬리박각시아과",
+      "name_latin": "Macroglossinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Macroglossum"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 누에나방상과 (Bombycoidea)\n과 : 박각시과 (Sphingidae)\n아과 : 꼬리박각시아과 (Macroglossinae)\n속 : (Macroglossum)",
+  "basic_information": {
+    "곤충명": "검은꼬리박각시",
+    "학명": "Macroglossum saga (Butler, 1878)"
+  },
+  "information": {
+    "general_description": "날개편 길이 54～66mm. 벌꼬리박각시에 비해 크며, 앞날개 시정에 있는 흑갈색 무늬가 뚜렷하지 않으나 벌꼬리박각시에서는 사각형을 나타낸다. 또 이 종은 뒷날개 내횡선에 있는 등황색 무늬의 폭이 일정하지만 벌꼬리박각시에서는 후연 쪽에서 넓어진다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "6월말부터 10월말까지 출현.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[중국]\n[일본]\n[대만]\n[베트남]\n[인도]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 54～66mm. 벌꼬리박각시에 비해 크며, 앞날개 시정에 있는 흑갈색 무늬가 뚜렷하지 않으나 벌꼬리박각시에서는 사각형을 나타낸다. 또 이 종은 뒷날개 내횡선에 있는 등황색 무늬의 폭이 일정하지만 벌꼬리박각시에서는 후연 쪽에서 넓어진다."
+    },
+    {
+      "title": "생태",
+      "text": "6월말부터 10월말까지 출현."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]\n[일본]\n[대만]\n[베트남]\n[인도]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREV0043-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0043_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0043_1_th.jpg",
+      "alt": "검은꼬리박각시 1번째 사진 : 검은꼬리박각시전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0043_1_th2.jpg",
+      "caption": "검은꼬리박각시전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREV0043-1",
+  "specimen_examples": [
+    {
+      "id": "JFNE0305081150",
+      "description": "[JFNE0305081150] 검은꼬리박각시 1992.08.27 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0305081151",
+      "description": "[JFNE0305081151] 검은꼬리박각시 1992.08.28 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0305081153",
+      "description": "[JFNE0305081153] 검은꼬리박각시 1992.08.30 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "굴거리나무",
+      "scientific_name": "Daphniphyllum macropodum Miq."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZREV0043.png",
+    "reference_image_id": "ZREV0043-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T17:45:16.735306+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "a6133d7d4357fcbaff31af9717d0d7bc099f3ede60bafe72c4c13363941b2d82"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREV0043&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:53+00:00",
+    "html_sha256": "fda04bf50f66c05d9fe06e4f2dbca946723e1b1a8df8aa5211c6a9ee0a0c89a1",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "ZRDW0006",
+  "name_ko": "매끈이원뿔나방",
+  "scientific_name": "Promalactis enopisema (Butler, 1879)",
+  "display_name": "매끈이원뿔나방",
+  "family_ko": "원뿔나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "뿔나방상과",
+      "name_latin": "Gelechioidea"
+    },
+    "family": {
+      "name_ko": "원뿔나방과",
+      "name_latin": "Oecophoridae"
+    },
+    "subfamily": {
+      "name_ko": "원뿔나방아과",
+      "name_latin": "Oecophorinae"
+    },
+    "genus": {
+      "name_ko": "원뿔나방속",
+      "name_latin": "Promalactis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 뿔나방상과 (Gelechioidea)\n과 : 원뿔나방과 (Oecophoridae)\n아과 : 원뿔나방아과 (Oecophorinae)\n속 : 원뿔나방속 (Promalactis)",
+  "basic_information": {
+    "곤충명": "매끈이원뿔나방",
+    "학명": "Promalactis enopisema (Butler, 1879)"
+  },
+  "information": {
+    "general_description": "머리는 은백색을 띠며, 가슴은 황갈색을 띰.앞날개의 바탕색은 적황 또는 황금색임. 앞날개에는 3줄의 가는 백색 횡선이 뚜렷하게 나타나 보이며, 연모는 오렌지색이고, 앞날개의 뒷면은 황갈색임. 뒷날개는 암갈색임.",
+    "adult": null,
+    "adult_male": "구상돌기는 끝은 오목한 부분을 이룸.",
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "머리는 은백색을 띠며, 가슴은 황갈색을 띰.앞날개의 바탕색은 적황 또는 황금색임. 앞날개에는 3줄의 가는 백색 횡선이 뚜렷하게 나타나 보이며, 연모는 오렌지색이고, 앞날개의 뒷면은 황갈색임. 뒷날개는 암갈색임."
+    },
+    {
+      "title": "성충(수)",
+      "text": "구상돌기는 끝은 오목한 부분을 이룸."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDW0006-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDW0006_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDW0006_1_th.jpg",
+      "alt": "매끈이원뿔나방 1번째 사진 : 매끈이원뿔나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDW0006_1_th2.jpg",
+      "caption": "매끈이원뿔나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDW0006-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0303141022",
+      "description": "[UIBE0303141022] 매끈이원뿔나방 1997.06.20 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0303141023",
+      "description": "[UIBE0303141023] 매끈이원뿔나방 1996.06.09 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0303141024",
+      "description": "[UIBE0303141024] 매끈이원뿔나방 1996.06.09 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDW0006-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDW0006&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:48+00:00",
+    "html_sha256": "bdc5276b99030e90e85bc7d8d7ae663303aeb88c0b74500b0d2e9d4eb856fc2f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

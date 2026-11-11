@@ -1,0 +1,118 @@
+{
+  "id": "ZRCI0364",
+  "name_ko": "큰노랑애기가지나방",
+  "scientific_name": "Corymica pryeri (Butler, 1878)",
+  "display_name": "큰노랑애기가지나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "가지나방아과",
+      "name_latin": "Ennominae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Corymica"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 가지나방아과 (Ennominae)\n속 : (Corymica)",
+  "basic_information": {
+    "곤충명": "큰노랑애기가지나방",
+    "학명": "Corymica pryeri (Butler, 1878)"
+  },
+  "information": {
+    "general_description": "더듬이는 암수가 모두 실 모양이다. 몸과 날개는 노란색인데, 경판은 갈색이다. 앞날개의 전연은 내횡선까지 갈색이다. 내횡선은 담갈색으로 중실 안에서 예각을 이룬다. 중횡선과 외횡선은 명료하지 않은 담갈색 점줄로 이루어지며, 후연에서 암갈색 무늬를 형성한다. 외연부는 날개끝 부근에서 제3실(M3)까지 넓게 담갈색을 띠며, 날개끝 가까이에 작은 갈색 반문이 있다. 뒷날개에는 담갈색 점줄로 된 외횡선이 있다. 앞, 뒷날개 모두가 외연선은 암갈색이고, 연모는 백색이다. 뒷면에는 앞면의 갈색 무늬가 강하게 나타난다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 5월에 출현한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 암수가 모두 실 모양이다. 몸과 날개는 노란색인데, 경판은 갈색이다. 앞날개의 전연은 내횡선까지 갈색이다. 내횡선은 담갈색으로 중실 안에서 예각을 이룬다. 중횡선과 외횡선은 명료하지 않은 담갈색 점줄로 이루어지며, 후연에서 암갈색 무늬를 형성한다. 외연부는 날개끝 부근에서 제3실(M3)까지 넓게 담갈색을 띠며, 날개끝 가까이에 작은 갈색 반문이 있다. 뒷날개에는 담갈색 점줄로 된 외횡선이 있다. 앞, 뒷날개 모두가 외연선은 암갈색이고, 연모는 백색이다. 뒷면에는 앞면의 갈색 무늬가 강하게 나타난다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 5월에 출현한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0364-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0364_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0364_2_th.jpg",
+      "alt": "큰노랑애기가지나방 1번째 사진 : 큰노랑애기가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0364_2_th2.jpg",
+      "caption": "큰노랑애기가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0364-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0364_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0364_1_th.jpg",
+      "alt": "큰노랑애기가지나방 2번째 사진 : 큰노랑애기가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0364_1_th2.jpg",
+      "caption": "큰노랑애기가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0364-1",
+  "specimen_examples": [
+    {
+      "id": "GSNE0304031016",
+      "description": "[GSNE0304031016] 큰노랑애기가지나방 1999.08.19 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0304031017",
+      "description": "[GSNE0304031017] 큰노랑애기가지나방 2001.08.18 / / 경상대학교"
+    },
+    {
+      "id": "KNAE0303061088",
+      "description": "[KNAE0303061088] 큰노랑애기가지나방 2000.08.03 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCI0364-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0364&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:43+00:00",
+    "html_sha256": "0c90ac471359d7f5ffc246c49016fc9772c38ac3a90b1ec692cba5d80833a02f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

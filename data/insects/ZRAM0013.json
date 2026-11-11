@@ -1,0 +1,118 @@
+{
+  "id": "ZRAM0013",
+  "name_ko": "노랑테불나방",
+  "scientific_name": "Collita griseola (Hübner, 1803)",
+  "display_name": "노랑테불나방",
+  "family_ko": "태극나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "태극나방과",
+      "name_latin": "Erebidae"
+    },
+    "subfamily": {
+      "name_ko": "불나방아과",
+      "name_latin": "Arctiinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Collita"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 태극나방과 (Erebidae)\n아과 : 불나방아과 (Arctiinae)\n속 : (Collita)",
+  "basic_information": {
+    "곤충명": "노랑테불나방",
+    "학명": "Collita griseola (Hübner, 1803)"
+  },
+  "information": {
+    "general_description": "더듬이는 암․수모두 섬모상이고, 머리, 가슴, 몸통의 옆면은 회황색을 띰\n날개의 색깔은 암․수모두 같고, 또한 등쪽면과 배쪽면의 색깔이 같음. 아랫입술의 선단부는 암갈색이고, 배의 등쪽면은 회갈색인데 꼬리부분과 배의 배쪽면은 회황색을 띠고 있음",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 5～6월과 8～9월 연 2회 발생함. 유충은 지의류를 먹고 살며, 토양위에 번데기를 형성함.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[몽골]\n[일본]\n[인도]\n[인도네시아]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 암․수모두 섬모상이고, 머리, 가슴, 몸통의 옆면은 회황색을 띰\n날개의 색깔은 암․수모두 같고, 또한 등쪽면과 배쪽면의 색깔이 같음. 아랫입술의 선단부는 암갈색이고, 배의 등쪽면은 회갈색인데 꼬리부분과 배의 배쪽면은 회황색을 띠고 있음"
+    },
+    {
+      "title": "생태",
+      "text": "성충은 5～6월과 8～9월 연 2회 발생함. 유충은 지의류를 먹고 살며, 토양위에 번데기를 형성함."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[몽골]\n[일본]\n[인도]\n[인도네시아]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRAM0013-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0013_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0013_2_th.jpg",
+      "alt": "노랑테불나방 1번째 사진 : 노랑테불나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0013_2_th2.jpg",
+      "caption": "노랑테불나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRAM0013-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0013_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0013_1_th.jpg",
+      "alt": "노랑테불나방 2번째 사진 : 노랑테불나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0013_1_th2.jpg",
+      "caption": "노랑테불나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRAM0013-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0304231028",
+      "description": "[FRIE0304231028] 노랑테불나방 1996.07.23 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0303131102",
+      "description": "[KNAE0303131102] 노랑테불나방 1997.06.09 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303131103",
+      "description": "[KNAE0303131103] 노랑테불나방 1998.08.21 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRAM0013-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRAM0013&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:29+00:00",
+    "html_sha256": "ac77b472b2f1765efeb987b5f0578796d393ec0d43e5a3dc0be10e78d6e8719b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

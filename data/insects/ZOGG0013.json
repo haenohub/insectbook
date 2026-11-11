@@ -1,0 +1,110 @@
+{
+  "id": "ZOGG0013",
+  "name_ko": "몽고청동풍뎅이",
+  "scientific_name": "Anomala mongolica (Faldermann, 1835)",
+  "display_name": "몽고청동풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "풍뎅이아과",
+      "name_latin": "Rutelinae"
+    },
+    "genus": {
+      "name_ko": "청동풍뎅이속",
+      "name_latin": "Anomala"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 풍뎅이아과 (Rutelinae)\n속 : 청동풍뎅이속 (Anomala)",
+  "basic_information": {
+    "곤충명": "몽고청동풍뎅이",
+    "학명": "Anomala mongolica (Faldermann, 1835)"
+  },
+  "information": {
+    "general_description": "중국 북부, 시베리아 동부, 몽고에 분포하며, 등쪽은 짙은 흑록색 내지 구릿빛 흑색인데 보통 붉은빛 내지 구릿빛 광택을 띠며, 복면은 구릿빛 내지 검붉은 색, 다리는 구릿빛 녹색이다. 앞가슴등판의 점각과 딱지날개의 측연융기는 해변청동풍뎅이와 비슷하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중국 북부, 시베리아 동부, 몽고에 분포하며, 등쪽은 짙은 흑록색 내지 구릿빛 흑색인데 보통 붉은빛 내지 구릿빛 광택을 띠며, 복면은 구릿빛 내지 검붉은 색, 다리는 구릿빛 녹색이다. 앞가슴등판의 점각과 딱지날개의 측연융기는 해변청동풍뎅이와 비슷하다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGG0013-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0013_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0013_2_th.jpg",
+      "alt": "몽고청동풍뎅이 1번째 사진 : 몽고청줄풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0013_2_th2.jpg",
+      "caption": "몽고청줄풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOGG0013-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0013_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0013_1_th.jpg",
+      "alt": "몽고청동풍뎅이 2번째 사진 : 몽고청줄풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0013_1_th2.jpg",
+      "caption": "몽고청줄풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGG0013-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0204291216",
+      "description": "[KUIE0204291216] 몽고청동풍뎅이 1959.07.13 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0204291217",
+      "description": "[KUIE0204291217] 몽고청동풍뎅이 1957.05.12 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0204291218",
+      "description": "[KUIE0204291218] 몽고청동풍뎅이 1956.08.20 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGG0013-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGG0013&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:25+00:00",
+    "html_sha256": "1b206e4c1bad5514adfe76c0a828f3ba40e3ff7cc00783186f8dc576de755c3d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

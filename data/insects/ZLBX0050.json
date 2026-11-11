@@ -1,0 +1,124 @@
+{
+  "id": "ZLBX0050",
+  "name_ko": "제주노린재",
+  "scientific_name": "Okeanos quelpartensis Distant, 1911",
+  "display_name": "제주노린재",
+  "family_ko": "노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "노린재상과",
+      "name_latin": "Pentatomoidea"
+    },
+    "family": {
+      "name_ko": "노린재과",
+      "name_latin": "Pentatomidae"
+    },
+    "subfamily": {
+      "name_ko": "노린재아과",
+      "name_latin": "Pentatominae"
+    },
+    "genus": {
+      "name_ko": "제주노린재속",
+      "name_latin": "Okeanos"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 노린재상과 (Pentatomoidea)\n과 : 노린재과 (Pentatomidae)\n아과 : 노린재아과 (Pentatominae)\n속 : 제주노린재속 (Okeanos)",
+  "basic_information": {
+    "곤충명": "제주노린재",
+    "학명": "Okeanos quelpartensis Distant, 1911"
+  },
+  "information": {
+    "general_description": "몸길이 : 17~19mm\n몸은 암적갈색이고 점각이 산포한다. 머리의 중엽의 길이는 측엽과 거의 같고, 겹눈은 흑갈색이며 홑눈은 홍색이다. 앞가슴등판의 앞가장자리는 머리의 폭과 같고 양 끝은 작은 돌기가 겹눈 뒷바깥쪽을 둘러싼다. 양 옆은 크게 돌출되고 위끝은 넓고 뭉뚝하며 그 양 돌기의 앞모서리를 잇는 선의 앞쪽은 황록색이고 점각이 없다. 연한 색인 개체의 앞가슴등 뒷가장자리의 작은방패판에 접하는 부분이 작은방패판의 양 옆부분 및 반시초의 앞가장자리 부분은 금랍록색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 17~19mm\n몸은 암적갈색이고 점각이 산포한다. 머리의 중엽의 길이는 측엽과 거의 같고, 겹눈은 흑갈색이며 홑눈은 홍색이다. 앞가슴등판의 앞가장자리는 머리의 폭과 같고 양 끝은 작은 돌기가 겹눈 뒷바깥쪽을 둘러싼다. 양 옆은 크게 돌출되고 위끝은 넓고 뭉뚝하며 그 양 돌기의 앞모서리를 잇는 선의 앞쪽은 황록색이고 점각이 없다. 연한 색인 개체의 앞가슴등 뒷가장자리의 작은방패판에 접하는 부분이 작은방패판의 양 옆부분 및 반시초의 앞가장자리 부분은 금랍록색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLBX0050-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0050_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0050_2_th.jpg",
+      "alt": "제주노린재 1번째 사진 : 제주노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0050_2_th2.jpg",
+      "caption": "제주노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZLBX0050-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0050_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0050_1_th.jpg",
+      "alt": "제주노린재 2번째 사진 : 제주노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0050_1_th2.jpg",
+      "caption": "제주노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLBX0050-1",
+  "specimen_examples": [
+    {
+      "id": "GSNE0303201005",
+      "description": "[GSNE0303201005] 제주노린재 1999.08.19 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0303201006",
+      "description": "[GSNE0303201006] 제주노린재 1997.08.31 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0303201008",
+      "description": "[GSNE0303201008] 제주노린재 1998.08.17 / / 경상대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "느티나무",
+      "scientific_name": "Zelkova serrata (Thunb.) Makino"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLBX0050-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLBX0050&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:32+00:00",
+    "html_sha256": "a96ab8a4ca8cf03b7ef895bf57601f9563f54b878709561aa8b8429c9afb8a5a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

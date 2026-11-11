@@ -1,0 +1,114 @@
+{
+  "id": "ZTDJ0005",
+  "name_ko": "어리송곳벌",
+  "scientific_name": "Urocerus japonicus (F. Smith, 1874)",
+  "display_name": "어리송곳벌",
+  "family_ko": "송곳벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "송곳벌상과",
+      "name_latin": "Siricoidea"
+    },
+    "family": {
+      "name_ko": "송곳벌과",
+      "name_latin": "Siricidae"
+    },
+    "subfamily": {
+      "name_ko": "송곳벌아과",
+      "name_latin": "Siricinae"
+    },
+    "genus": {
+      "name_ko": "왕송곳벌속",
+      "name_latin": "Urocerus"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 송곳벌상과 (Siricoidea)\n과 : 송곳벌과 (Siricidae)\n아과 : 송곳벌아과 (Siricinae)\n속 : 왕송곳벌속 (Urocerus)",
+  "basic_information": {
+    "곤충명": "어리송곳벌",
+    "학명": "Urocerus japonicus (F. Smith, 1874)"
+  },
+  "information": {
+    "general_description": "몸길이는 30 mm 내외이다. 암컷은 흑살색과 황갈색의 무늬가 있다. 머리는 황갈색, 턱 끝은 흑살색, 앞머리는 대부분 암갈색이다. 산란관집은 적갈색 내지 흑갈색이고 끝 부분에 잔니는 없다. 수컷은 몸이 작고 전체가 거의 황갈색이고 배 끝과 뒷다리의 일부는 흑갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "8월경에 많이 볼 수 있다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 30 mm 내외이다. 암컷은 흑살색과 황갈색의 무늬가 있다. 머리는 황갈색, 턱 끝은 흑살색, 앞머리는 대부분 암갈색이다. 산란관집은 적갈색 내지 흑갈색이고 끝 부분에 잔니는 없다. 수컷은 몸이 작고 전체가 거의 황갈색이고 배 끝과 뒷다리의 일부는 흑갈색이다."
+    },
+    {
+      "title": "생태",
+      "text": "8월경에 많이 볼 수 있다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDJ0005-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDJ0005_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDJ0005_2_th.jpg",
+      "alt": "어리송곳벌 1번째 사진 : 왜송곳벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDJ0005_2_th2.jpg",
+      "caption": "왜송곳벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTDJ0005-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDJ0005_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDJ0005_1_th.jpg",
+      "alt": "어리송곳벌 2번째 사진 : 왜송곳벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDJ0005_1_th2.jpg",
+      "caption": "왜송곳벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDJ0005-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0204251084",
+      "description": "[FRIE0204251084] 어리송곳벌 1981.09.30 / / 국립산림과학원"
+    },
+    {
+      "id": "YNUE0201173008",
+      "description": "[YNUE0201173008] 어리송곳벌 1991.09.08 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0201173010",
+      "description": "[YNUE0201173010] 어리송곳벌 1983.07.26 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDJ0005-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDJ0005&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:40+00:00",
+    "html_sha256": "7e37294c55b2f5f59345cc7c4b19e8419023c394092e54812bf080b19731658b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

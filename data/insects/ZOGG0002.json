@@ -1,0 +1,99 @@
+{
+  "id": "ZOGG0002",
+  "name_ko": "쇠털차색풍뎅이",
+  "scientific_name": "Adoretus hirsutus Ohaus, 1914",
+  "display_name": "쇠털차색풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "풍뎅이아과",
+      "name_latin": "Rutelinae"
+    },
+    "genus": {
+      "name_ko": "차색풍뎅이속",
+      "name_latin": "Adoretus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 풍뎅이아과 (Rutelinae)\n속 : 차색풍뎅이속 (Adoretus)",
+  "basic_information": {
+    "곤충명": "쇠털차색풍뎅이",
+    "학명": "Adoretus hirsutus Ohaus, 1914"
+  },
+  "information": {
+    "general_description": "중국, 대만, 자바에 분포하며, 몸이 짧고 굵은 난형이며, 황갈색이나 이마와 부절은 흑갈색이며, 등쪽은 직립모로 덮였는데 날개의 털은 강모와 길고 직립한 털들이 섞여 있다. 윗입술 돌기의 끝은 넓게 늘어났으며, 후부절의 밖쪽 발톱은 안쪽 것보다 2배 정도 길다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중국, 대만, 자바에 분포하며, 몸이 짧고 굵은 난형이며, 황갈색이나 이마와 부절은 흑갈색이며, 등쪽은 직립모로 덮였는데 날개의 털은 강모와 길고 직립한 털들이 섞여 있다. 윗입술 돌기의 끝은 넓게 늘어났으며, 후부절의 밖쪽 발톱은 안쪽 것보다 2배 정도 길다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGG0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0002_1_th.jpg",
+      "alt": "쇠털차색풍뎅이 1번째 사진 : 쇠털차색풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0002_1_th2.jpg",
+      "caption": "쇠털차색풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGG0002-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0304211019",
+      "description": "[FRIE0304211019] 쇠털차색풍뎅이 2001.06.21 / / 국립산림과학원"
+    },
+    {
+      "id": "KUIE0204211109",
+      "description": "[KUIE0204211109] 쇠털차색풍뎅이 1988.07.27 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0204211110",
+      "description": "[KUIE0204211110] 쇠털차색풍뎅이 1973.07.10 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGG0002-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGG0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:28+00:00",
+    "html_sha256": "683429b76fe2fddb571f4aab82b5899cebf307dc2465eb0ccec15e9c50189f99",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

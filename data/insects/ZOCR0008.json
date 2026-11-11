@@ -1,0 +1,114 @@
+{
+  "id": "ZOCR0008",
+  "name_ko": "꼬마물방개",
+  "scientific_name": "Hydroglyphus japonicus (Sharp, 1873)",
+  "display_name": "꼬마물방개",
+  "family_ko": "물방개과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "물방개과",
+      "name_latin": "Dytiscidae"
+    },
+    "subfamily": {
+      "name_ko": "알물방개아과",
+      "name_latin": "Hydroporinae"
+    },
+    "genus": {
+      "name_ko": "꼬마물방개속",
+      "name_latin": "Hydroglyphus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 물방개과 (Dytiscidae)\n아과 : 알물방개아과 (Hydroporinae)\n속 : 꼬마물방개속 (Hydroglyphus)",
+  "basic_information": {
+    "곤충명": "꼬마물방개",
+    "학명": "Hydroglyphus japonicus (Sharp, 1873)"
+  },
+  "information": {
+    "general_description": "한국, 일본, 대만에 분포하며, 체장은 4-5mm 정도이다. 머리는 암갈색이고 머리 꼭대기와 앞머리는 갈색이며 양쪽 수염은 암갈색이다. 앞가슴등판은 황갈색이고 앞가두리와 뒷가두리는 암갈색인데 작은 점각이 있다. 딱지날개는 암갈색이며 흑갈색의 얼룩 무늬가 있고 전면에 작은 점각이 있다. 몸의 아랫면은 아가슴등과 딱지날개의 옆가두리는 황갈색이고, 그 외의 부분은 암갈색이고 점각이 있고 다리는 황갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 대만에 분포하며, 체장은 4-5mm 정도이다. 머리는 암갈색이고 머리 꼭대기와 앞머리는 갈색이며 양쪽 수염은 암갈색이다. 앞가슴등판은 황갈색이고 앞가두리와 뒷가두리는 암갈색인데 작은 점각이 있다. 딱지날개는 암갈색이며 흑갈색의 얼룩 무늬가 있고 전면에 작은 점각이 있다. 몸의 아랫면은 아가슴등과 딱지날개의 옆가두리는 황갈색이고, 그 외의 부분은 암갈색이고 점각이 있고 다리는 황갈색이다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCR0008-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCR0008_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCR0008_2_th.jpg",
+      "alt": "꼬마물방개 1번째 사진 : 꼬마물방개전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCR0008_2_th2.jpg",
+      "caption": "꼬마물방개전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOCR0008-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCR0008_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCR0008_1_th.jpg",
+      "alt": "꼬마물방개 2번째 사진 : 꼬마물방개전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCR0008_1_th2.jpg",
+      "caption": "꼬마물방개전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCR0008-1",
+  "specimen_examples": [
+    {
+      "id": "ADUE0202201058",
+      "description": "[ADUE0202201058] 꼬마물방개 1994.06.19 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0202201056",
+      "description": "[ADUE0202201056] 꼬마물방개 1996.06.01 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0202201057",
+      "description": "[ADUE0202201057] 꼬마물방개 1998.05.28 / / 안동대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOCR0008.png",
+    "reference_image_id": "ZOCR0008-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T13:44:06.662586+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "f8dd28b8cc7483db84265456d30ffa04d3927bc7b37ea27e8bee7cce601e08d1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCR0008&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:36+00:00",
+    "html_sha256": "3e309edbd788c32d50a43a2c938d591410efa58f236520e360d791732579f735",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

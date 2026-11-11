@@ -1,0 +1,111 @@
+{
+  "id": "ZREL0172",
+  "name_ko": "둥근무늬들명나방",
+  "scientific_name": "Udea lugubralis (Leech, 1889)",
+  "display_name": "둥근무늬들명나방",
+  "family_ko": "풀명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "풀명나방과",
+      "name_latin": "Crambidae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Spilomelinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Udea"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 풀명나방과 (Crambidae)\n아과 : (Spilomelinae)\n속 : (Udea)",
+  "basic_information": {
+    "곤충명": "둥근무늬들명나방",
+    "학명": "Udea lugubralis (Leech, 1889)"
+  },
+  "information": {
+    "general_description": "머리는 갈색이고, 양쪽에 백색의 인편이 덮여 있다. 더듬이는 미모 모양이다. 아랫입술수염은 안쪽으로 뻗어 있으며, 겹눈 나비의 약 1.5배이다. 아래쪽은 백색이며, 제2마디와 제3마디는 갈색에 다소 황색이 가미되었다. 가슴과 배의 등쪽면은 황갈색이며, 배쪽면은 백색 내지 갈색이다. 수컷 뒷다리 종아리마디의 바깥쪽 며느리발톱은 흔적만 있거나 암컷은 안쪽 것의 3/5 길이이다. 앞날개의 바탕색은 황갈색이며, 외형선은 심한 톱니 모양을 이루고, 제1주맥 후지(Cu1b) 아래에서는 거의 직각인데 안쪽으로 구부러지며 후연 2/3에 닿는다. 날개 길이는 19~24 mm이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 5~9월경 산지에서 주로 채집되며, 빛에도 많이 모인다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대한민국] 경기도\n[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "머리는 갈색이고, 양쪽에 백색의 인편이 덮여 있다. 더듬이는 미모 모양이다. 아랫입술수염은 안쪽으로 뻗어 있으며, 겹눈 나비의 약 1.5배이다. 아래쪽은 백색이며, 제2마디와 제3마디는 갈색에 다소 황색이 가미되었다. 가슴과 배의 등쪽면은 황갈색이며, 배쪽면은 백색 내지 갈색이다. 수컷 뒷다리 종아리마디의 바깥쪽 며느리발톱은 흔적만 있거나 암컷은 안쪽 것의 3/5 길이이다. 앞날개의 바탕색은 황갈색이며, 외형선은 심한 톱니 모양을 이루고, 제1주맥 후지(Cu1b) 아래에서는 거의 직각인데 안쪽으로 구부러지며 후연 2/3에 닿는다. 날개 길이는 19~24 mm이다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 5~9월경 산지에서 주로 채집되며, 빛에도 많이 모인다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대한민국] 경기도\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0172-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0172_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0172_1_th.jpg",
+      "alt": "둥근무늬들명나방 1번째 사진 : 둥근무늬들명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0172_1_th2.jpg",
+      "caption": "둥근무늬들명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0172-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0301071009",
+      "description": "[UIBE0301071009] 둥근무늬들명나방 2000.06.14 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301071004",
+      "description": "[UIBE0301071004] 둥근무늬들명나방 1998.06.14 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301071005",
+      "description": "[UIBE0301071005] 둥근무늬들명나방 1998.05.03 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREL0172-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0172&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:53+00:00",
+    "html_sha256": "f1ee5e62453fe256818a09da688feaf1573cb1782f3ce6b3e3a48819518353f6",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

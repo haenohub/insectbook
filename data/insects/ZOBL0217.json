@@ -1,0 +1,129 @@
+{
+  "id": "ZOBL0217",
+  "name_ko": "목하늘소",
+  "scientific_name": "Lamia textor (Linnaeus, 1758)",
+  "display_name": "목하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "목하늘소아과",
+      "name_latin": "Lamiinae"
+    },
+    "genus": {
+      "name_ko": "목하늘소속",
+      "name_latin": "Lamia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 목하늘소아과 (Lamiinae)\n속 : 목하늘소속 (Lamia)",
+  "basic_information": {
+    "곤충명": "목하늘소",
+    "학명": "Lamia textor (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "몸길이는 15~30mm 이다. 몸은 나무 껍질모양의 담갈색이며, 짧은 털로 있다. 앞가슴등판에 점각이 있고 가운데 옆부분에 가시돌기모양이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 15~30mm 이다. 몸은 나무 껍질모양의 담갈색이며, 짧은 털로 있다. 앞가슴등판에 점각이 있고 가운데 옆부분에 가시돌기모양이 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0217-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0217_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0217_2_th.jpg",
+      "alt": "목하늘소 1번째 사진 : 목하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0217_2_th2.jpg",
+      "caption": "목하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBL0217-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0217_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0217_1_th.jpg",
+      "alt": "목하늘소 2번째 사진 : 목하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0217_1_th2.jpg",
+      "caption": "목하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0217-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0304011062",
+      "description": "[FRIE0304011062] 목하늘소 1967.07.20 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0304011061",
+      "description": "[FRIE0304011061] 목하늘소 1967.07.17 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0303132057",
+      "description": "[KNAE0303132057] 목하늘소 1992.05.10 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "사시나무",
+      "scientific_name": "Populus tremula var. davidiana (Dode) C.K.Schneid."
+    },
+    {
+      "group": "식물",
+      "name_ko": "황철나무",
+      "scientific_name": "Populus suaveolens Fisch. ex Poit. & A.Vilm."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0217-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0217&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:22+00:00",
+    "html_sha256": "e5cf53ef84c7034f14f79803f8832fe16ac5053a08097b9992094e017a1f5d93",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

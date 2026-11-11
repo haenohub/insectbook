@@ -1,0 +1,111 @@
+{
+  "id": "ZREV0047",
+  "name_ko": "큰줄박각시",
+  "scientific_name": "Theretra chotho (Druuy, 1773)",
+  "display_name": "큰줄박각시",
+  "family_ko": "박각시과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "누에나방상과",
+      "name_latin": "Bombycoidea"
+    },
+    "family": {
+      "name_ko": "박각시과",
+      "name_latin": "Sphingidae"
+    },
+    "subfamily": {
+      "name_ko": "꼬리박각시아과",
+      "name_latin": "Macroglossinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Theretra"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 누에나방상과 (Bombycoidea)\n과 : 박각시과 (Sphingidae)\n아과 : 꼬리박각시아과 (Macroglossinae)\n속 : (Theretra)",
+  "basic_information": {
+    "곤충명": "큰줄박각시",
+    "학명": "Theretra chotho (Druuy, 1773)"
+  },
+  "information": {
+    "general_description": "앞날개에는 시정에서 나오는 사선과 횡맥점외이 뚜렷하고, 뒷날개 후각 부근의 황색 무늬가 약하게 나타난다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "8월에 출현",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]\n[대만]\n[필리핀]\n[베트남]\n[미얀마]\n[인도]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "앞날개에는 시정에서 나오는 사선과 횡맥점외이 뚜렷하고, 뒷날개 후각 부근의 황색 무늬가 약하게 나타난다."
+    },
+    {
+      "title": "생태",
+      "text": "8월에 출현"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]\n[대만]\n[필리핀]\n[베트남]\n[미얀마]\n[인도]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREV0047-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0047_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0047_1_th.jpg",
+      "alt": "큰줄박각시 1번째 사진 : 큰줄박각시전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0047_1_th2.jpg",
+      "caption": "큰줄박각시전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREV0047-1",
+  "specimen_examples": [
+    {
+      "id": "JFNE0201161128",
+      "description": "[JFNE0201161128] 큰줄박각시 1999.07.31 / / 제주자연사박물관"
+    },
+    {
+      "id": "KNAE0406291025",
+      "description": "[KNAE0406291025] 큰줄박각시 2001.07.19 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0406291026",
+      "description": "[KNAE0406291026] 큰줄박각시 2001.07.19 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREV0047-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREV0047&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:01+00:00",
+    "html_sha256": "a9ccde582145950d732cc4aa9bec506e5f264f0c1454f08b98f2b157871847fa",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

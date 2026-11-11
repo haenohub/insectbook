@@ -1,0 +1,99 @@
+{
+  "id": "ZOBH0150",
+  "name_ko": "줄딱부리강변먼지벌레",
+  "scientific_name": "Asaphidion semilucidum (Motschulsky, 1862)",
+  "display_name": "줄딱부리강변먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "꼬마먼지벌레아과",
+      "name_latin": "Trechinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Asaphidion"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 꼬마먼지벌레아과 (Trechinae)\n속 : (Asaphidion)",
+  "basic_information": {
+    "곤충명": "줄딱부리강변먼지벌레",
+    "학명": "Asaphidion semilucidum (Motschulsky, 1862)"
+  },
+  "information": {
+    "general_description": "몸의 길이는4.0mm내외. 몸전체는 쑥쌕계통의 광택이 있고 겹눈은 볼록하게 돌출되어 있고 앞가슴 등판은 세모형에 가깝다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의 길이는4.0mm내외. 몸전체는 쑥쌕계통의 광택이 있고 겹눈은 볼록하게 돌출되어 있고 앞가슴 등판은 세모형에 가깝다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0150-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0150_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0150_1_th.jpg",
+      "alt": "줄딱부리강변먼지벌레 1번째 사진 : 줄딱부리먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0150_1_th2.jpg",
+      "caption": "줄딱부리먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0150-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0304011034",
+      "description": "[FRIE0304011034] 줄딱부리강변먼지벌레 1982.10.05 / / 국립산림과학원"
+    },
+    {
+      "id": "SJNE0301241037",
+      "description": "[SJNE0301241037] 줄딱부리강변먼지벌레 1986.05.23 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0301241038",
+      "description": "[SJNE0301241038] 줄딱부리강변먼지벌레 1984.09.23 / / 상주대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0150-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0150&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:09+00:00",
+    "html_sha256": "9a20af25be9458b42fbdbc8b95f72c48ee3344d4ee407f823b05f1bfb8c5b461",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

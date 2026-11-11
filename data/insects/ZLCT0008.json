@@ -1,0 +1,127 @@
+{
+  "id": "ZLCT0008",
+  "name_ko": "큰주걱참나무노린재",
+  "scientific_name": "Urostylis striicornis Scott, 1874",
+  "display_name": "큰주걱참나무노린재",
+  "family_ko": "참나무노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "노린재상과",
+      "name_latin": "Pentatomoidea"
+    },
+    "family": {
+      "name_ko": "참나무노린재과",
+      "name_latin": "Urostylididae"
+    },
+    "subfamily": {
+      "name_ko": "참나무노린재아과",
+      "name_latin": "Urostylidinae"
+    },
+    "genus": {
+      "name_ko": "참나무노린재속",
+      "name_latin": "Urostylis"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 노린재상과 (Pentatomoidea)\n과 : 참나무노린재과 (Urostylididae)\n아과 : 참나무노린재아과 (Urostylidinae)\n속 : 참나무노린재속 (Urostylis)",
+  "basic_information": {
+    "곤충명": "큰주걱참나무노린재",
+    "학명": "Urostylis striicornis Scott, 1874"
+  },
+  "information": {
+    "general_description": "몸길이 : 12mm정도\n참나무 노린재나 작은주건참나무노린재와 대단히 유사하여 등면에서의 구별은 대단히 어렵다. 그 구별점으로는 더듬이의 제 2마디 기부의 관절점과 배의 숨문이 흑색이 아니고 등의 아랫면과 균일하게 연한 녹색이며, 또 가장 큰 구별점으로는 ♂의 생식절의 중앙의 돌기가 대단히 길고 커서 등쪽으로 만곡되어 그 위끝이 넓어져서 큰 주걱 모양으로 편평해지고 그 말단연의 중간이 약간 옴폭하며, 이 중앙 돌기의 위쪽 즉 만곡된 안쪽에 작은 가지가 분기되어 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "참나무, 신갈나무에 기생한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 12mm정도\n참나무 노린재나 작은주건참나무노린재와 대단히 유사하여 등면에서의 구별은 대단히 어렵다. 그 구별점으로는 더듬이의 제 2마디 기부의 관절점과 배의 숨문이 흑색이 아니고 등의 아랫면과 균일하게 연한 녹색이며, 또 가장 큰 구별점으로는 ♂의 생식절의 중앙의 돌기가 대단히 길고 커서 등쪽으로 만곡되어 그 위끝이 넓어져서 큰 주걱 모양으로 편평해지고 그 말단연의 중간이 약간 옴폭하며, 이 중앙 돌기의 위쪽 즉 만곡된 안쪽에 작은 가지가 분기되어 있다."
+    },
+    {
+      "title": "생태",
+      "text": "참나무, 신갈나무에 기생한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLCT0008-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCT0008_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCT0008_1_th.jpg",
+      "alt": "큰주걱참나무노린재 1번째 사진 : 큰주걱참나무노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCT0008_1_th2.jpg",
+      "caption": "큰주걱참나무노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLCT0008-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303062007",
+      "description": "[KNAE0303062007] 큰주걱참나무노린재 1991.09.01 / / 국립수목원"
+    },
+    {
+      "id": "KPNE0303171099",
+      "description": "[KPNE0303171099] 큰주걱참나무노린재 1994.07.11 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0303171098",
+      "description": "[KPNE0303171098] 큰주걱참나무노린재 1994.07.11 / / 경북대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "갈참나무",
+      "scientific_name": "Quercus aliena Blume"
+    },
+    {
+      "group": "식물",
+      "name_ko": "떡갈나무",
+      "scientific_name": "Quercus dentata Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "상수리나무",
+      "scientific_name": "Quercus acutissima Carruth."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLCT0008-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLCT0008&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:00+00:00",
+    "html_sha256": "fbf3f069d04a84619217a340796c8e5063291ebdb6bff7cb8310e0f5e72a9211",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

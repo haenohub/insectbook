@@ -1,0 +1,107 @@
+{
+  "id": "ZRCI0271",
+  "name_ko": "왕그물물결자나방",
+  "scientific_name": "Sibatania mactata (Felder & Rogenhofer, 1875)",
+  "display_name": "왕그물물결자나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "물결자나방아과",
+      "name_latin": "Larentiinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Sibatania"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 물결자나방아과 (Larentiinae)\n속 : (Sibatania)",
+  "basic_information": {
+    "곤충명": "왕그물물결자나방",
+    "학명": "Sibatania mactata (Felder & Rogenhofer, 1875)"
+  },
+  "information": {
+    "general_description": "더듬이는 암수가 모두 실　모양임. 몸과 날개는 모두 흑갈색인데, 가슴에는 1쌍의 회황색선이 세로로 있음. 몸의 배쪽면, 다리, 앞뒷날개의 뒷면은 암갈색임. 앞날개의 각선은 회황색이고, 아기선은 거의 굴곡하지 않음. 내횡선은 크고 톱니 모양으로 굴절함. 중횡선은 2줄로 됨. 외횡선은 제 2주맥(Cu2)상에서　안쪽으로　향하여　날카롭게　돌입함．그　바깥쪽에는　전연에서　제２중맥（M２）에　이르는　회황색　선이　있음．아외연선은　２줄로　되며，각각　상반되어　물결　모양으로　굴곡하고，그　중간은　회황색을　띰．",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은　６～９월레　출현함．",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 암수가 모두 실　모양임. 몸과 날개는 모두 흑갈색인데, 가슴에는 1쌍의 회황색선이 세로로 있음. 몸의 배쪽면, 다리, 앞뒷날개의 뒷면은 암갈색임. 앞날개의 각선은 회황색이고, 아기선은 거의 굴곡하지 않음. 내횡선은 크고 톱니 모양으로 굴절함. 중횡선은 2줄로 됨. 외횡선은 제 2주맥(Cu2)상에서　안쪽으로　향하여　날카롭게　돌입함．그　바깥쪽에는　전연에서　제２중맥（M２）에　이르는　회황색　선이　있음．아외연선은　２줄로　되며，각각　상반되어　물결　모양으로　굴곡하고，그　중간은　회황색을　띰．"
+    },
+    {
+      "title": "생태",
+      "text": "성충은　６～９월레　출현함．"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0271-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0271_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0271_1_th.jpg",
+      "alt": "왕그물물결자나방 1번째 사진 : 왕그물물결자나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0271_1_th2.jpg",
+      "caption": "왕그물물결자나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0271-1",
+  "specimen_examples": [
+    {
+      "id": "GSNE0302131088",
+      "description": "[GSNE0302131088] 왕그물물결자나방 2000.08.21 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0302131089",
+      "description": "[GSNE0302131089] 왕그물물결자나방 2000.08.09 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0302131091",
+      "description": "[GSNE0302131091] 왕그물물결자나방 1999.09.11 / / 경상대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCI0271-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0271&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:31+00:00",
+    "html_sha256": "c29000770bf4526ac3aa849869e3349cf54e692baae0aa7bc43282ffdccb0405",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "id": "ZRCI0517",
+  "name_ko": "끝갈색흰가지나방",
+  "scientific_name": "Spilopera debilis (Butler, 1891)",
+  "display_name": "끝갈색흰가지나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "가지나방아과",
+      "name_latin": "Ennominae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Spilopera"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 가지나방아과 (Ennominae)\n속 : (Spilopera)",
+  "basic_information": {
+    "곤충명": "끝갈색흰가지나방",
+    "학명": "Spilopera debilis (Butler, 1891)"
+  },
+  "information": {
+    "general_description": "더듬이는 암수가 모두 실 모양이다. 몸과 날개는 모두 회황색인데, 정수리는 암갈색을 띤다. 날개에는 암회색 비늘이 산재되어 있고, 특히 밑부분이 뚜렷하다. 앞날개의 내횡선과 외횡선은 황갈색으로 각각 전연에 있는 암갈색 무늬로부터 시작하여 전자는 중맥상에서, 후자는 제2중맥(M2)상에서 굴절하여 비스듬히 후연에 이른다. 두 선 모두 전연부에서는 명료하지 않은 것이 보통이다. 날개끝에는 제2중맥(M2)에 걸지는 농갈색의 무늬가 1개있음.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 5～6월과 7～8월에 출현한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 암수가 모두 실 모양이다. 몸과 날개는 모두 회황색인데, 정수리는 암갈색을 띤다. 날개에는 암회색 비늘이 산재되어 있고, 특히 밑부분이 뚜렷하다. 앞날개의 내횡선과 외횡선은 황갈색으로 각각 전연에 있는 암갈색 무늬로부터 시작하여 전자는 중맥상에서, 후자는 제2중맥(M2)상에서 굴절하여 비스듬히 후연에 이른다. 두 선 모두 전연부에서는 명료하지 않은 것이 보통이다. 날개끝에는 제2중맥(M2)에 걸지는 농갈색의 무늬가 1개있음."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 5～6월과 7～8월에 출현한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0517-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0517_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0517_2_th.jpg",
+      "alt": "끝갈색흰가지나방 1번째 사진 : 끝갈색흰가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0517_2_th2.jpg",
+      "caption": "끝갈색흰가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0517-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0517_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0517_1_th.jpg",
+      "alt": "끝갈색흰가지나방 2번째 사진 : 끝갈색흰가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0517_1_th2.jpg",
+      "caption": "끝갈색흰가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0517-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304181007",
+      "description": "[KNAE0304181007] 끝갈색흰가지나방 1997.06.18 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304181008",
+      "description": "[KNAE0304181008] 끝갈색흰가지나방 1998.07.13 / / 국립수목원"
+    },
+    {
+      "id": "FRIE0304241014",
+      "description": "[FRIE0304241014] 끝갈색흰가지나방 1995.06.12 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRCI0517.png",
+    "reference_image_id": "ZRCI0517-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T15:04:18.786161+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "8ccc494a1929114f0b6105a28e680b0b3a5171a94accb05599e63ba2400f2f10"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0517&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:59+00:00",
+    "html_sha256": "387fe7ecd9ce6542bd58b46ff737a55253089eb6576e1104251110a2a2a3c57c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "id": "ZOBT0135",
+  "name_ko": "청줄보라잎벌레",
+  "scientific_name": "Chrysolina (Euchrysolina) virgata (Motschulsky, 1860)",
+  "display_name": "청줄보라잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "잎벌레아과",
+      "name_latin": "Chrysomelinae"
+    },
+    "genus": {
+      "name_ko": "참잎벌레속",
+      "name_latin": "Chrysolina"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 잎벌레아과 (Chrysomelinae)\n속 : 참잎벌레속 (Chrysolina)",
+  "basic_information": {
+    "곤충명": "청줄보라잎벌레",
+    "학명": "Chrysolina (Euchrysolina) virgata (Motschulsky, 1860)"
+  },
+  "information": {
+    "general_description": "몸길이는 11~15mm, 앞가슴등판의 양옆은 매우 넓게편평하다.배판은 적동색. 더듬이와 다리는 금록색. 등판은 광택이있는 녹색인데 큰점각들이 있다.날개 적동색의 주름이 있다. 한국, 동시베리아, 중국, 일본(혼슈)에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 봄~가을까지 볼 수 있다. 6월이 가장 왕성한 활동을 한다. 주변의 갈대류의 잎에 관찰되며 식물의 뿌리나 줄기를 가해한다. 유충은 땅속에서 생활한다.",
+    "habits": "기주식물 층층이꽃, 들께",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 11~15mm, 앞가슴등판의 양옆은 매우 넓게편평하다.배판은 적동색. 더듬이와 다리는 금록색. 등판은 광택이있는 녹색인데 큰점각들이 있다.날개 적동색의 주름이 있다. 한국, 동시베리아, 중국, 일본(혼슈)에 분포되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 봄~가을까지 볼 수 있다. 6월이 가장 왕성한 활동을 한다. 주변의 갈대류의 잎에 관찰되며 식물의 뿌리나 줄기를 가해한다. 유충은 땅속에서 생활한다."
+    },
+    {
+      "title": "습성",
+      "text": "기주식물 층층이꽃, 들께"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0135-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0135_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0135_2_th.jpg",
+      "alt": "청줄보라잎벌레 1번째 사진 : 청줄보라잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0135_2_th2.jpg",
+      "caption": "청줄보라잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBT0135-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0135_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0135_1_th.jpg",
+      "alt": "청줄보라잎벌레 2번째 사진 : 청줄보라잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0135_1_th2.jpg",
+      "caption": "청줄보라잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0135-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408201112",
+      "description": "[MPME0408201112] 청줄보라잎벌레 1998.06.14 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408051005",
+      "description": "[MPME0408051005] 청줄보라잎벌레 1998.06.14 / / 목포자연사박물관"
+    },
+    {
+      "id": "KUIE0307151151",
+      "description": "[KUIE0307151151] 청줄보라잎벌레 1971.06.13 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0135-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0135&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:18+00:00",
+    "html_sha256": "605a81ce7c134f09238128ec8f5f6a3950a6e7be4bc8b512a8319ac1fbc79288",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "id": "ZTAG0063",
+  "name_ko": "노란줄가위벌",
+  "scientific_name": "Megachile lapponica Thomson, 1872",
+  "display_name": "노란줄가위벌",
+  "family_ko": "가위벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "가위벌과",
+      "name_latin": "Megachilidae"
+    },
+    "subfamily": {
+      "name_ko": "가위벌아과",
+      "name_latin": "Megachilinae"
+    },
+    "genus": {
+      "name_ko": "가위벌속",
+      "name_latin": "Megachile"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 가위벌과 (Megachilidae)\n아과 : 가위벌아과 (Megachilinae)\n속 : 가위벌속 (Megachile)",
+  "basic_information": {
+    "곤충명": "노란줄가위벌",
+    "학명": "Megachile lapponica Thomson, 1872"
+  },
+  "information": {
+    "general_description": "암컷은 12mm 정도이며, 몸은 흑색이나 검은 빛을 띤 남색 광택이 있다. 날개는 투명하고 다소 어두운 색을 띠며 맥은 흑갈색이다. 머리가슴 배의기부에는 길고 연한 털이 많이 났고 등판의 것은 회갈색이나 아래로 갈수록 회백색으로 되었다. 제2-5배마디의 뒤쪽에는 황백색 짧은 털이 나서 줄무늬를 이룬다. 그러나 제2.3.4배마디의 것은 중앙에서 없어졌고 양 옆의 것만은 뚜렷하다. 제6배마디에는 갈색 짧은 털이 있다. 다리에는 회백색 털이 많이 났고 끝으로 갈수록 갈색이 짙어졌다. 몸에는 미세한 점각이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[감소추세종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷은 12mm 정도이며, 몸은 흑색이나 검은 빛을 띤 남색 광택이 있다. 날개는 투명하고 다소 어두운 색을 띠며 맥은 흑갈색이다. 머리가슴 배의기부에는 길고 연한 털이 많이 났고 등판의 것은 회갈색이나 아래로 갈수록 회백색으로 되었다. 제2-5배마디의 뒤쪽에는 황백색 짧은 털이 나서 줄무늬를 이룬다. 그러나 제2.3.4배마디의 것은 중앙에서 없어졌고 양 옆의 것만은 뚜렷하다. 제6배마디에는 갈색 짧은 털이 있다. 다리에는 회백색 털이 많이 났고 끝으로 갈수록 갈색이 짙어졌다. 몸에는 미세한 점각이 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[감소추세종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0063-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0063_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0063_2_th.jpg",
+      "alt": "노란줄가위벌 1번째 사진 : 노란줄가위벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0063_2_th2.jpg",
+      "caption": "노란줄가위벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTAG0063-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0063_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0063_1_th.jpg",
+      "alt": "노란줄가위벌 2번째 사진 : 노란줄가위벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0063_1_th2.jpg",
+      "caption": "노란줄가위벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0063-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0111191042",
+      "description": "[YNUE0111191042] 노란줄가위벌 1997.09.07 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0111303025",
+      "description": "[YNUE0111303025] 노란줄가위벌 1981.05.08 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0111303026",
+      "description": "[YNUE0111303026] 노란줄가위벌 1986.05.27 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTAG0063.png",
+    "reference_image_id": "ZTAG0063-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T11:20:40.069240+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "48bfcf3295b1d9d731b6f9d16944d5033acdeb8e75ebc15c6b0ca2fab445d8d8"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0063&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:57+00:00",
+    "html_sha256": "11d431c0776675e1eb9b1adad3b021b7994cd3fc86ebe9948028b93be18765fc",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

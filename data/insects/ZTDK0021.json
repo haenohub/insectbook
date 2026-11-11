@@ -1,0 +1,99 @@
+{
+  "id": "ZTDK0021",
+  "name_ko": "윤어리나나니",
+  "scientific_name": "Pison insigne Sickmann, 1894",
+  "display_name": "윤어리나나니",
+  "family_ko": "은주둥이벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "은주둥이벌과",
+      "name_latin": "Crabronidae"
+    },
+    "subfamily": {
+      "name_ko": "은주둥이벌아과",
+      "name_latin": "Crabroninae"
+    },
+    "genus": {
+      "name_ko": "윤어리나나니속",
+      "name_latin": "Pison"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 은주둥이벌과 (Crabronidae)\n아과 : 은주둥이벌아과 (Crabroninae)\n속 : 윤어리나나니속 (Pison)",
+  "basic_information": {
+    "곤충명": "윤어리나나니",
+    "학명": "Pison insigne Sickmann, 1894"
+  },
+  "information": {
+    "general_description": "몸길이는 12-15mm. 수컷의 머리방패는 정방형으로 돌출되지 않고 가운데가슴옆판에는 작은 혹들이 있고 제3.4배마디배판은 각각 중앙에서 끊긴 가로융기가 있고 앞날개에 3개의 주실이 있고 제2역주맥은 제3주실과 이어 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 12-15mm. 수컷의 머리방패는 정방형으로 돌출되지 않고 가운데가슴옆판에는 작은 혹들이 있고 제3.4배마디배판은 각각 중앙에서 끊긴 가로융기가 있고 앞날개에 3개의 주실이 있고 제2역주맥은 제3주실과 이어 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDK0021-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0021_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0021_1_th.jpg",
+      "alt": "윤어리나나니 1번째 사진 : 윤어리나나니전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0021_1_th2.jpg",
+      "caption": "윤어리나나니전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDK0021-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306262027",
+      "description": "[YNUE0306262027] 윤어리나나니 1960.05.08 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306262028",
+      "description": "[YNUE0306262028] 윤어리나나니 1957.07.29 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDK0021-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDK0021&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:19+00:00",
+    "html_sha256": "89df871cb9cb75ef864435b8b5bdf18f6a0d20cd4b2c93c355fc0f7659681938",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

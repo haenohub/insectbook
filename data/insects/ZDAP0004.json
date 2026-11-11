@@ -1,0 +1,122 @@
+{
+  "id": "ZDAP0004",
+  "name_ko": "밀잠자리",
+  "scientific_name": "Orthetrum albistylum (Selys, 1848)",
+  "display_name": "밀잠자리",
+  "family_ko": "잠자리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "잠자리목",
+      "name_latin": "Odonata"
+    },
+    "family": {
+      "name_ko": "잠자리과",
+      "name_latin": "Libellulidae"
+    },
+    "subfamily": {
+      "name_ko": "잠자리아과",
+      "name_latin": "Libellulinae"
+    },
+    "genus": {
+      "name_ko": "밀잠자리속",
+      "name_latin": "Orthetrum"
+    }
+  },
+  "taxonomy_text": "목 : 잠자리목 (Odonata)\n과 : 잠자리과 (Libellulidae)\n아과 : 잠자리아과 (Libellulinae)\n속 : 밀잠자리속 (Orthetrum)",
+  "basic_information": {
+    "곤충명": "밀잠자리",
+    "학명": "Orthetrum albistylum (Selys, 1848)"
+  },
+  "information": {
+    "general_description": "뒷날개의 길이는 35~45 mm이다.",
+    "adult": null,
+    "adult_male": "몸이 처음에는 암컷처럼 황갈색을 띠나, 성숫함에 따라 배의 앞쪽 절반 정도가 흰색 가루로 덮이고 뒤쪽은 흑색을 띠게 된다.",
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "주로 평지 또는 구릉지의 수초가 많은 연못, 습지, 논 등에서 산다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[대만]",
+    "notes": "[보통종] 우리 나라에서 가장 흔한 잠자리의 하나이다.",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "뒷날개의 길이는 35~45 mm이다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "몸이 처음에는 암컷처럼 황갈색을 띠나, 성숫함에 따라 배의 앞쪽 절반 정도가 흰색 가루로 덮이고 뒤쪽은 흑색을 띠게 된다."
+    },
+    {
+      "title": "습성",
+      "text": "주로 평지 또는 구릉지의 수초가 많은 연못, 습지, 논 등에서 산다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[대만]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종] 우리 나라에서 가장 흔한 잠자리의 하나이다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZDAP0004-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0004_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0004_2_th.jpg",
+      "alt": "밀잠자리 1번째 사진 : 밀잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0004_2_th2.jpg",
+      "caption": "밀잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZDAP0004-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0004_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0004_1_th.jpg",
+      "alt": "밀잠자리 2번째 사진 : 밀잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0004_1_th2.jpg",
+      "caption": "밀잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZDAP0004-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0212236018",
+      "description": "[YNUE0212236018] 밀잠자리 1989.05.15 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0212236011",
+      "description": "[YNUE0212236011] 밀잠자리 1995.05.18 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0212236012",
+      "description": "[YNUE0212236012] 밀잠자리 1995.06.02 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZDAP0004-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZDAP0004&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:55+00:00",
+    "html_sha256": "48388e57140870c94d7e7f880edc9af368a96a39b755723cdda185e68b18d90a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

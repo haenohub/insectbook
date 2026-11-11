@@ -1,0 +1,114 @@
+{
+  "id": "ZOBH0324",
+  "name_ko": "중국머리먼지벌레",
+  "scientific_name": "Harpalus (Pseudoophonus) sinicus Hope, 1845",
+  "display_name": "중국머리먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "먼지벌레아과",
+      "name_latin": "Harpalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Harpalus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 먼지벌레아과 (Harpalinae)\n속 : (Harpalus)",
+  "basic_information": {
+    "곤충명": "중국머리먼지벌레",
+    "학명": "Harpalus (Pseudoophonus) sinicus Hope, 1845"
+  },
+  "information": {
+    "general_description": "체색은 검은색이며 유광이다. 시초는 두부와 전흉보다는 그 광택이 덜하다. 두부는 볼록한 형태이며, 미세한 반점이 있다. 시초는 볼록하고 타원형이다. 머두부와 눈 근처의 옆면에는 희미한 섬모가 3~4개 정도 나 있다. 한국, 일본, 중국, 동시베리아 등지에서 분포한다.",
+    "adult": null,
+    "adult_male": "삽입구는 확연히 뾰족한 형태이다.",
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체색은 검은색이며 유광이다. 시초는 두부와 전흉보다는 그 광택이 덜하다. 두부는 볼록한 형태이며, 미세한 반점이 있다. 시초는 볼록하고 타원형이다. 머두부와 눈 근처의 옆면에는 희미한 섬모가 3~4개 정도 나 있다. 한국, 일본, 중국, 동시베리아 등지에서 분포한다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "삽입구는 확연히 뾰족한 형태이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0324-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0324_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0324_2_th.jpg",
+      "alt": "중국머리먼지벌레 1번째 사진 : 중국머리먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0324_2_th2.jpg",
+      "caption": "중국머리먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0324-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0324_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0324_1_th.jpg",
+      "alt": "중국머리먼지벌레 2번째 사진 : 중국머리먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0324_1_th2.jpg",
+      "caption": "중국머리먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0324-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408201074",
+      "description": "[MPME0408201074] 중국머리먼지벌레 2001.05.18 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408201073",
+      "description": "[MPME0408201073] 중국머리먼지벌레 2001.05.18 / / 목포자연사박물관"
+    },
+    {
+      "id": "SJNE0408171010",
+      "description": "[SJNE0408171010] 중국머리먼지벌레 2001.08.16 / / 상주대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0324-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0324&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:22+00:00",
+    "html_sha256": "aa81671da9b6e3de514f9725a2b7d4e3f49dec961d89dd41d07e9a45d08c9fc9",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

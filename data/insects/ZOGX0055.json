@@ -1,0 +1,107 @@
+{
+  "id": "ZOGX0055",
+  "name_ko": "극동맴돌이거저리",
+  "scientific_name": "Stenophanes mesostena (Solsky, 1871)",
+  "display_name": "극동맴돌이거저리",
+  "family_ko": "거저리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "거저리상과",
+      "name_latin": "Tenebrionoidea"
+    },
+    "family": {
+      "name_ko": "거저리과",
+      "name_latin": "Tenebrionidae"
+    },
+    "subfamily": {
+      "name_ko": "호리병거저리아과",
+      "name_latin": "Stenochiinae"
+    },
+    "genus": {
+      "name_ko": "긴맴돌이거저리속",
+      "name_latin": "Stenophanes"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 거저리상과 (Tenebrionoidea)\n과 : 거저리과 (Tenebrionidae)\n아과 : 호리병거저리아과 (Stenochiinae)\n속 : 긴맴돌이거저리속 (Stenophanes)",
+  "basic_information": {
+    "곤충명": "극동맴돌이거저리",
+    "학명": "Stenophanes mesostena (Solsky, 1871)"
+  },
+  "information": {
+    "general_description": "몸의 길이는 17mm 내외이며, 몸은 대체적으로 긴편이고, 광택이나는 흑색이다. 촉각과 다리의 첫마디는 적갈색을 띈다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의 길이는 17mm 내외이며, 몸은 대체적으로 긴편이고, 광택이나는 흑색이다. 촉각과 다리의 첫마디는 적갈색을 띈다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGX0055-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGX0055_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGX0055_1_th.jpg",
+      "alt": "극동맴돌이거저리 1번째 사진 : 극동긴맴돌이거저리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGX0055_1_th2.jpg",
+      "caption": "극동긴맴돌이거저리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGX0055-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0203272011",
+      "description": "[SNUE0203272011] 극동맴돌이거저리 2001.07.21 / / 서울대학교"
+    },
+    {
+      "id": "ENHE0605151010",
+      "description": "[ENHE0605151010] 극동맴돌이거저리 1983.08.08 / / 이화여자대학교 자연사박물관"
+    },
+    {
+      "id": "KNAE0607202058",
+      "description": "[KNAE0607202058] 극동맴돌이거저리 2003.06.22 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOGX0055.png",
+    "reference_image_id": "ZOGX0055-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T14:44:05.204588+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "c76bfc7b9889b8a48bfa5e544bdef8391934dfd723d8d4046a6e64fe86206162"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGX0055&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:40+00:00",
+    "html_sha256": "8366ec6106f50cf839f392a2570d02cd8ddca052c7019c45c1e4d5190ba2c6e8",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

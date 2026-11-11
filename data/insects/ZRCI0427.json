@@ -1,0 +1,118 @@
+{
+  "id": "ZRCI0427",
+  "name_ko": "네눈가지나방",
+  "scientific_name": "Hypomecis punctinalis (Scopoli, 1763)",
+  "display_name": "네눈가지나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "가지나방아과",
+      "name_latin": "Ennominae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Hypomecis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 가지나방아과 (Ennominae)\n속 : (Hypomecis)",
+  "basic_information": {
+    "곤충명": "네눈가지나방",
+    "학명": "Hypomecis punctinalis (Scopoli, 1763)"
+  },
+  "information": {
+    "general_description": "날개편길이 42mm 내외임. 앞뒷날개 모두 횡맥상에 가락지모양무늬가 있고 외횡선은 톱니모양, 그 바깥쪽은 띠모양으로 적갈색임. 아랫면 날개끝에는 뚜렷한 황백색 무늬가 나타나지 않음.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[러시아]\n[몽골]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편길이 42mm 내외임. 앞뒷날개 모두 횡맥상에 가락지모양무늬가 있고 외횡선은 톱니모양, 그 바깥쪽은 띠모양으로 적갈색임. 아랫면 날개끝에는 뚜렷한 황백색 무늬가 나타나지 않음."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[러시아]\n[몽골]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0427-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0427_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0427_2_th.jpg",
+      "alt": "네눈가지나방 1번째 사진 : 네눈가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0427_2_th2.jpg",
+      "caption": "네눈가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0427-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0427_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0427_1_th.jpg",
+      "alt": "네눈가지나방 2번째 사진 : 네눈가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0427_1_th2.jpg",
+      "caption": "네눈가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0427-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0409101029",
+      "description": "[KNAE0409101029] 네눈가지나방 1998.06.29 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0409101028",
+      "description": "[KNAE0409101028] 네눈가지나방 1998.06.29 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0409101027",
+      "description": "[KNAE0409101027] 네눈가지나방 1998.06.29 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRCI0427.png",
+    "reference_image_id": "ZRCI0427-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T10:20:38.925439+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "97d47672856a754ec87bb119699fb9e27e1d8ceab0b74c4500653333bd8d812c"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0427&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:43+00:00",
+    "html_sha256": "590e70c0138bc545b72e96d0ebfd8b7f134a41524a369d4d462bcdc3a09a384d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

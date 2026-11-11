@@ -1,0 +1,133 @@
+{
+  "id": "ZLBN0061",
+  "name_ko": "초록장님노린재",
+  "scientific_name": "Apolygus lucorum (Meyer-Dür, 1843)",
+  "display_name": "초록장님노린재",
+  "family_ko": "장님노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "장님노린재상과",
+      "name_latin": "Miroidea"
+    },
+    "family": {
+      "name_ko": "장님노린재과",
+      "name_latin": "Miridae"
+    },
+    "subfamily": {
+      "name_ko": "장님노린재아과",
+      "name_latin": "Mirinae"
+    },
+    "genus": {
+      "name_ko": "무늬고리장님노린재속",
+      "name_latin": "Apolygus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 장님노린재상과 (Miroidea)\n과 : 장님노린재과 (Miridae)\n아과 : 장님노린재아과 (Mirinae)\n속 : 무늬고리장님노린재속 (Apolygus)",
+  "basic_information": {
+    "곤충명": "초록장님노린재",
+    "학명": "Apolygus lucorum (Meyer-Dür, 1843)"
+  },
+  "information": {
+    "general_description": "성충의 크기가 5mm 내외의 작은 노린재로 성충, 약충 모두 연녹색을 띤다. 더듬이는 담갈색이나 밑 부분은 담녹색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "약충과 성충이 주로 햇가지 부위의 어린잎의 즙액을 빨아 가해하며 피해 받은 잎은 초기에는 백색으로 변색되나, 자라면서 상처로 남아 구멍이 생긴다. 피해부위는 생육이 위축되며, 기형의 잎이 많이 생긴다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충의 크기가 5mm 내외의 작은 노린재로 성충, 약충 모두 연녹색을 띤다. 더듬이는 담갈색이나 밑 부분은 담녹색이다."
+    },
+    {
+      "title": "생태",
+      "text": "약충과 성충이 주로 햇가지 부위의 어린잎의 즙액을 빨아 가해하며 피해 받은 잎은 초기에는 백색으로 변색되나, 자라면서 상처로 남아 구멍이 생긴다. 피해부위는 생육이 위축되며, 기형의 잎이 많이 생긴다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLBN0061-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBN0061_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBN0061_1_th.jpg",
+      "alt": "초록장님노린재 1번째 사진 : 초록장님노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBN0061_1_th2.jpg",
+      "caption": "초록장님노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLBN0061-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0408182232",
+      "description": "[SNUE0408182232] 초록장님노린재 2000.10.14 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0408182233",
+      "description": "[SNUE0408182233] 초록장님노린재 1990.06.02 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0408182235",
+      "description": "[SNUE0408182235] 초록장님노린재 1990.06.07 / / 서울대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "감국",
+      "scientific_name": "Chrysanthemum indicum L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "구절초",
+      "scientific_name": "Chrysanthemum naktongensis Nakai"
+    },
+    {
+      "group": "식물",
+      "name_ko": "국화",
+      "scientific_name": "Chrysanthemum × morifolium (Ramat.) Hemsl."
+    },
+    {
+      "group": "식물",
+      "name_ko": "산국",
+      "scientific_name": "Chrysanthemum seticuspe (Maxim.) Hand.-Mazz."
+    },
+    {
+      "group": "식물",
+      "name_ko": "포도",
+      "scientific_name": "Vitis vinifera L."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLBN0061-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLBN0061&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:21+00:00",
+    "html_sha256": "b9697ccfc764c40c5a33b8621f5d2fb82b7ebfbf19b21fcd7a065fff7c4039a9",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

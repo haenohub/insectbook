@@ -1,0 +1,122 @@
+{
+  "id": "ZRDV0018",
+  "name_ko": "큰은점선표범나비",
+  "scientific_name": "Boloria oscarus (Eversmann, 1844)",
+  "display_name": "큰은점선표범나비",
+  "family_ko": "네발나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "네발나비과",
+      "name_latin": "Nymphalidae"
+    },
+    "subfamily": {
+      "name_ko": "독나비아과",
+      "name_latin": "Heliconiinae"
+    },
+    "genus": {
+      "name_ko": "꼬마표범나비속",
+      "name_latin": "Boloria"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 네발나비과 (Nymphalidae)\n아과 : 독나비아과 (Heliconiinae)\n속 : 꼬마표범나비속 (Boloria)",
+  "basic_information": {
+    "곤충명": "큰은점선표범나비",
+    "학명": "Boloria oscarus (Eversmann, 1844)"
+  },
+  "information": {
+    "general_description": "암컷은 수컷에 비하여 일반적으로 크고 날개모양이 둥그스름하며 날개의 폭도 넓다. 뒷날개 아랫면의 중앙에 있는 담녹색 띠의 폭이 넓다. 뒷날개 아랫면 외연에는 은무늬줄이 있으나 밑부분과 중앙에 있는 노랑띠에는 은무늬가 없다. 외연과 중앙띠, 중앙띠와 기부 사이에는 등갈색 비늘이 넓게 퍼져 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "해발 600m 이상 산지의 계곡 주변의 발달한 초지에 서식한다. 오전 중에는 풀 위나 산길에 앉아 일광욕을 한다. 미나리아재비, 민들레꽃 등에 잘 모여 흡밀하고 물가에 내려와 흡수한다. 수컷은 확트인 공간을 일정하게 왔다갔다하는 습성이 있다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[러시아]",
+    "notes": "[국지적분포종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷은 수컷에 비하여 일반적으로 크고 날개모양이 둥그스름하며 날개의 폭도 넓다. 뒷날개 아랫면의 중앙에 있는 담녹색 띠의 폭이 넓다. 뒷날개 아랫면 외연에는 은무늬줄이 있으나 밑부분과 중앙에 있는 노랑띠에는 은무늬가 없다. 외연과 중앙띠, 중앙띠와 기부 사이에는 등갈색 비늘이 넓게 퍼져 있다."
+    },
+    {
+      "title": "습성",
+      "text": "해발 600m 이상 산지의 계곡 주변의 발달한 초지에 서식한다. 오전 중에는 풀 위나 산길에 앉아 일광욕을 한다. 미나리아재비, 민들레꽃 등에 잘 모여 흡밀하고 물가에 내려와 흡수한다. 수컷은 확트인 공간을 일정하게 왔다갔다하는 습성이 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[국지적분포종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDV0018-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0018_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0018_2_th.jpg",
+      "alt": "큰은점선표범나비 1번째 사진 : 큰은점선표범나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0018_2_th2.jpg",
+      "caption": "큰은점선표범나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDV0018-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0018_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0018_1_th.jpg",
+      "alt": "큰은점선표범나비 2번째 사진 : 큰은점선표범나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0018_1_th2.jpg",
+      "caption": "큰은점선표범나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDV0018-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0210282035",
+      "description": "[YNUE0210282035] 큰은점선표범나비 2001.05.25 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0210292020",
+      "description": "[YNUE0210292020] 큰은점선표범나비 1988.05.15 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0210282036",
+      "description": "[YNUE0210282036] 큰은점선표범나비 2001.05.25 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDV0018-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDV0018&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:56+00:00",
+    "html_sha256": "cab4fdc7b2186593e27d121beea79019100831f320685047d8fbc9b0108a6518",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

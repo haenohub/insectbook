@@ -1,0 +1,118 @@
+{
+  "id": "ZRBU0020",
+  "name_ko": "노랑갈고리나방",
+  "scientific_name": "Oreta pulchripes Butler, 1877",
+  "display_name": "노랑갈고리나방",
+  "family_ko": "갈고리나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "갈고리나방상과",
+      "name_latin": "Drepanoidea"
+    },
+    "family": {
+      "name_ko": "갈고리나방과",
+      "name_latin": "Drepanidae"
+    },
+    "subfamily": {
+      "name_ko": "멋쟁이갈고리나방아과",
+      "name_latin": "Oretinae"
+    },
+    "genus": {
+      "name_ko": "멋쟁이갈고리나방속",
+      "name_latin": "Oreta"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 갈고리나방상과 (Drepanoidea)\n과 : 갈고리나방과 (Drepanidae)\n아과 : 멋쟁이갈고리나방아과 (Oretinae)\n속 : 멋쟁이갈고리나방속 (Oreta)",
+  "basic_information": {
+    "곤충명": "노랑갈고리나방",
+    "학명": "Oreta pulchripes Butler, 1877"
+  },
+  "information": {
+    "general_description": "날개의 모양은 점갈고리나방과 거의 같고 황색 가로줄도 같은 정도 또는 그 보다 굵으나 그 테두리가 거의 없든가 또는 약하기 때문에 안쪽 가로줄을 전혀 알 수 없는 개체가 흔히 있음． 앞날개의 외횡선은 제2주맥（Cu2)부근에서 다소나마 아래쪽으로 꼬부라졌고, 후각부근에는 암색 무늬를 가지는 일이 많음．횡맥위의 백백 무늬는 점갈고리나방과 마찬가지로 L자형이고, 그 밖에도 작은점이 분리되어 있는 일이 있음.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개의 모양은 점갈고리나방과 거의 같고 황색 가로줄도 같은 정도 또는 그 보다 굵으나 그 테두리가 거의 없든가 또는 약하기 때문에 안쪽 가로줄을 전혀 알 수 없는 개체가 흔히 있음． 앞날개의 외횡선은 제2주맥（Cu2)부근에서 다소나마 아래쪽으로 꼬부라졌고, 후각부근에는 암색 무늬를 가지는 일이 많음．횡맥위의 백백 무늬는 점갈고리나방과 마찬가지로 L자형이고, 그 밖에도 작은점이 분리되어 있는 일이 있음."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRBU0020-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBU0020_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBU0020_2_th.jpg",
+      "alt": "노랑갈고리나방 1번째 사진 : 노랑갈고리나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBU0020_2_th2.jpg",
+      "caption": "노랑갈고리나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRBU0020-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBU0020_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBU0020_1_th.jpg",
+      "alt": "노랑갈고리나방 2번째 사진 : 노랑갈고리나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBU0020_1_th2.jpg",
+      "caption": "노랑갈고리나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRBU0020-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304212019",
+      "description": "[KNAE0304212019] 노랑갈고리나방 1998.08.10 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304212020",
+      "description": "[KNAE0304212020] 노랑갈고리나방 1998.08.11 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303141025",
+      "description": "[KNAE0303141025] 노랑갈고리나방 1992.08.04 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRBU0020.png",
+    "reference_image_id": "ZRBU0020-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T11:29:53.895178+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "95cfac443608ce19a04506d0dc420699b7fd323627b49dd27bc124485e79376b"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRBU0020&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:00+00:00",
+    "html_sha256": "4d41f167ac4375225bae138b0164f27c68665a4672d0610d290b16af87e7bb7a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

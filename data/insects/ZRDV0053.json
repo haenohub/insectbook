@@ -1,0 +1,175 @@
+{
+  "id": "ZRDV0053",
+  "name_ko": "은판나비",
+  "scientific_name": "Mimathyma schrenckii (Ménétriès, 1859)",
+  "display_name": "은판나비",
+  "family_ko": "네발나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "네발나비과",
+      "name_latin": "Nymphalidae"
+    },
+    "subfamily": {
+      "name_ko": "오색나비아과",
+      "name_latin": "Apaturinae"
+    },
+    "genus": {
+      "name_ko": "은판나비속",
+      "name_latin": "Mimathyma"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 네발나비과 (Nymphalidae)\n아과 : 오색나비아과 (Apaturinae)\n속 : 은판나비속 (Mimathyma)",
+  "basic_information": {
+    "곤충명": "은판나비",
+    "학명": "Mimathyma schrenckii (Ménétriès, 1859)"
+  },
+  "information": {
+    "general_description": "수컷은 암컷보다 작고 날개 윗면 검정 바탕색이 훨씬 진하다. 뒷날개 중앙의 흰무늬는 수컷이 암컷보다 크다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "잡목림이 많은 산지에 서식하며 산지에서는 흔히 볼 수 있는 종이다. 수컷은 오전 중에 임도의 습지, 오물 등에 잘 모이며, 오후가 되면 암컷을 찾아 나무 사이를 빠르게 날아다닌다. 암컷은 주로 오후에 활동하는데 느릅나무 진에 모이거나 땅위를 앉는 일도 가끔 있다.",
+    "season": null,
+    "overwintering": "4령애벌레",
+    "distribution": "[중국]\n[러시아]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "수컷은 암컷보다 작고 날개 윗면 검정 바탕색이 훨씬 진하다. 뒷날개 중앙의 흰무늬는 수컷이 암컷보다 크다."
+    },
+    {
+      "title": "습성",
+      "text": "잡목림이 많은 산지에 서식하며 산지에서는 흔히 볼 수 있는 종이다. 수컷은 오전 중에 임도의 습지, 오물 등에 잘 모이며, 오후가 되면 암컷을 찾아 나무 사이를 빠르게 날아다닌다. 암컷은 주로 오후에 활동하는데 느릅나무 진에 모이거나 땅위를 앉는 일도 가끔 있다."
+    },
+    {
+      "title": "월동",
+      "text": "4령애벌레"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDV0053-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0053_5.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0053_5.jpg",
+      "alt": "은판나비 1번째 사진 : ",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0053_5_th2.jpg",
+      "caption": null,
+      "photographed_at": "20120705",
+      "location": null,
+      "photographer": "국립수목원(임종옥)"
+    },
+    {
+      "id": "ZRDV0053-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0053_4.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0053_4.jpg",
+      "alt": "은판나비 2번째 사진 : 은판나비 수컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0053_4_th2.jpg",
+      "caption": "은판나비 수컷 이미지",
+      "photographed_at": "20120702",
+      "location": "경기도 가평군 화악산",
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRDV0053-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0053_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0053_3.jpg",
+      "alt": "은판나비 3번째 사진 : 은판나비 수컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0053_3_th2.jpg",
+      "caption": "은판나비 수컷 이미지",
+      "photographed_at": "20190624",
+      "location": "경기도 포천시 소흘읍 광릉숲",
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRDV0053-4",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0053_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0053_2_th.jpg",
+      "alt": "은판나비 4번째 사진 : 은판나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0053_2_th2.jpg",
+      "caption": "은판나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDV0053-5",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0053_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0053_1_th.jpg",
+      "alt": "은판나비 5번째 사진 : 은판나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0053_1_th2.jpg",
+      "caption": "은판나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDV0053-1",
+  "specimen_examples": [
+    {
+      "id": "SJNE0306131262",
+      "description": "[SJNE0306131262] 은판나비 2001.07.05 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0306131263",
+      "description": "[SJNE0306131263] 은판나비 2001.07.05 / / 상주대학교"
+    },
+    {
+      "id": "ADUE0305131041",
+      "description": "[ADUE0305131041] 은판나비 2001.06.05 / / 안동대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "느릅나무",
+      "scientific_name": "Ulmus davidiana var. japonica (Rehder) Nakai"
+    },
+    {
+      "group": "식물",
+      "name_ko": "느티나무",
+      "scientific_name": "Zelkova serrata (Thunb.) Makino"
+    },
+    {
+      "group": "식물",
+      "name_ko": "참느릅나무",
+      "scientific_name": "Ulmus parvifolia Jacq."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDV0053-4"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDV0053&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:27+00:00",
+    "html_sha256": "e78928bf89e9cc2655ff01ce418a785682e3d0a24fd73e271dff87f6092fcc4c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

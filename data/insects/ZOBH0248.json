@@ -1,0 +1,114 @@
+{
+  "id": "ZOBH0248",
+  "name_ko": "날개끝가시먼지벌레",
+  "scientific_name": "Metacolpodes buchannani (Hope, 1831)",
+  "display_name": "날개끝가시먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "먼지벌레아과",
+      "name_latin": "Harpalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Metacolpodes"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 먼지벌레아과 (Harpalinae)\n속 : (Metacolpodes)",
+  "basic_information": {
+    "곤충명": "날개끝가시먼지벌레",
+    "학명": "Metacolpodes buchannani (Hope, 1831)"
+  },
+  "information": {
+    "general_description": "몸길이는 10~13mm 이며 몸색깔은 적갈색이다 딱지날개는 녹색이 매우 강한 광택이며 좌우 양 바깥 가장자리는 적갈색이다. 앞어깨 쪽은 너비가 넓고 뒤쪽은 너비가 좁으며, 날개 끝은 뾰족한편이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 10~13mm 이며 몸색깔은 적갈색이다 딱지날개는 녹색이 매우 강한 광택이며 좌우 양 바깥 가장자리는 적갈색이다. 앞어깨 쪽은 너비가 넓고 뒤쪽은 너비가 좁으며, 날개 끝은 뾰족한편이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0248-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0248_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0248_2_th.jpg",
+      "alt": "날개끝가시먼지벌레 1번째 사진 : 날개끝가시먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0248_2_th2.jpg",
+      "caption": "날개끝가시먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0248-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0248_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0248_1_th.jpg",
+      "alt": "날개끝가시먼지벌레 2번째 사진 : 날개끝가시먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0248_1_th2.jpg",
+      "caption": "날개끝가시먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0248-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408201067",
+      "description": "[MPME0408201067] 날개끝가시먼지벌레 1999.05.27 / / 목포자연사박물관"
+    },
+    {
+      "id": "UIBE0408161005",
+      "description": "[UIBE0408161005] 날개끝가시먼지벌레 1999.09.10 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0408161010",
+      "description": "[UIBE0408161010] 날개끝가시먼지벌레 1997.05.31 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBH0248.png",
+    "reference_image_id": "ZOBH0248-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T15:54:01.964557+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "549df07001c161e521d886af5fadee673c4b53cd71c5bfe5b075666820f16500"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0248&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:14+00:00",
+    "html_sha256": "b2abe0b0f08e7e9db2c0dc7396497edc3a30a92227bd817e8a17a9fbc5731f3f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

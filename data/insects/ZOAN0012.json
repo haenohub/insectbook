@@ -1,0 +1,107 @@
+{
+  "id": "ZOAN0012",
+  "name_ko": "유니폼똥풍뎅이",
+  "scientific_name": "Aphodius (Agrilinus) uniformis Waterhouse, 1875",
+  "display_name": "유니폼똥풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "똥풍뎅이아과",
+      "name_latin": "Aphodiinae"
+    },
+    "genus": {
+      "name_ko": "똥풍뎅이속",
+      "name_latin": "Aphodius"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 똥풍뎅이아과 (Aphodiinae)\n속 : 똥풍뎅이속 (Aphodius)",
+  "basic_information": {
+    "곤충명": "유니폼똥풍뎅이",
+    "학명": "Aphodius (Agrilinus) uniformis Waterhouse, 1875"
+  },
+  "information": {
+    "general_description": "일본에 분포하며 광택있는 흑색이지만 두흉부의 둘레, 다리, 딱지날개 등은 흑갈~적갈색이다. 딱지날개 봉합선은 어두운 색이며 말단부는 미세하나 강한 과립상이며 광택은 없다. 날개의 조구점각은 가느나 간실을 약간 침범하였다. 머리는 뚜렷한 3개의 혹이 있고, 중,후경절단극모들의 길이는 서로 같으며, 제1후부절은 다음 3마디의 합보다 짧다. BL:3.5~5mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "일본에 분포하며 광택있는 흑색이지만 두흉부의 둘레, 다리, 딱지날개 등은 흑갈~적갈색이다. 딱지날개 봉합선은 어두운 색이며 말단부는 미세하나 강한 과립상이며 광택은 없다. 날개의 조구점각은 가느나 간실을 약간 침범하였다. 머리는 뚜렷한 3개의 혹이 있고, 중,후경절단극모들의 길이는 서로 같으며, 제1후부절은 다음 3마디의 합보다 짧다. BL:3.5~5mm."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAN0012-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAN0012_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAN0012_1_th.jpg",
+      "alt": "유니폼똥풍뎅이 1번째 사진 : 유니폼똥풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAN0012_1_th2.jpg",
+      "caption": "유니폼똥풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAN0012-1",
+  "specimen_examples": [
+    {
+      "id": "SSUE0302271081",
+      "description": "[SSUE0302271081] 유니폼똥풍뎅이 1983.07.30 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0302271082",
+      "description": "[SSUE0302271082] 유니폼똥풍뎅이 1983.07.30 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0302271083",
+      "description": "[SSUE0302271083] 유니폼똥풍뎅이 1983.07.30 / / 성신여자대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAN0012-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAN0012&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:11+00:00",
+    "html_sha256": "75b8f143489f288081ff257e915f1311743cb89f2286db2b50ac8dd16e21d529",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

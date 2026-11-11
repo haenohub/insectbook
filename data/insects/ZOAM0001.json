@@ -1,0 +1,107 @@
+{
+  "id": "ZOAM0001",
+  "name_ko": "꼬마소바구미",
+  "scientific_name": "Choragus compactus Sharp, 1891",
+  "display_name": "꼬마소바구미",
+  "family_ko": "소바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "소바구미과",
+      "name_latin": "Anthribidae"
+    },
+    "subfamily": {
+      "name_ko": "꼬마소바구미아과",
+      "name_latin": "Choraginae"
+    },
+    "genus": {
+      "name_ko": "꼬마소바구미속",
+      "name_latin": "Choragus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 소바구미과 (Anthribidae)\n아과 : 꼬마소바구미아과 (Choraginae)\n속 : 꼬마소바구미속 (Choragus)",
+  "basic_information": {
+    "곤충명": "꼬마소바구미",
+    "학명": "Choragus compactus Sharp, 1891"
+  },
+  "information": {
+    "general_description": "크기 3.6mm\n소형종, 나무좀류와 유사한 외형.\n체색은 갈색 또는 어두운 갈색.\n머리와 앞가슴에 규칙적인 점각.\n앞가슴의 측면중앙부분까지 길게 신장된 측융기선을 가짐.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "크기 3.6mm\n소형종, 나무좀류와 유사한 외형.\n체색은 갈색 또는 어두운 갈색.\n머리와 앞가슴에 규칙적인 점각.\n앞가슴의 측면중앙부분까지 길게 신장된 측융기선을 가짐."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAM0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0001_1_th.jpg",
+      "alt": "꼬마소바구미 1번째 사진 : 꼬마소바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0001_1_th2.jpg",
+      "caption": "꼬마소바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAM0001-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0203274013",
+      "description": "[SNUE0203274013] 꼬마소바구미 1968.07.17 / / 서울대학교"
+    },
+    {
+      "id": "RIFI1207272209",
+      "description": "[RIFI1207272209] 꼬마소바구미 1999.05.15 / / 산림곤충다양성연구소"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOAM0001.png",
+    "reference_image_id": "ZOAM0001-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T14:00:46.505731+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "9f5278c1efdaedba832b68bb9cfa98b5d29c9d0bbceafcec5882b90f343b4bfd"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAM0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:42+00:00",
+    "html_sha256": "0d079488b4c9cb230b4539bfe615f441bc2a4dcfa954b2b7052f64098878cdca",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "id": "ZLAP0007",
+  "name_ko": "애땅노린재",
+  "scientific_name": "Fromundus pygmaeus (Dallas, 1851)",
+  "display_name": "애땅노린재",
+  "family_ko": "땅노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "노린재상과",
+      "name_latin": "Pentatomoidea"
+    },
+    "family": {
+      "name_ko": "땅노린재과",
+      "name_latin": "Cydnidae"
+    },
+    "subfamily": {
+      "name_ko": "땅노린재아과",
+      "name_latin": "Cydninae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Fromundus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 노린재상과 (Pentatomoidea)\n과 : 땅노린재과 (Cydnidae)\n아과 : 땅노린재아과 (Cydninae)\n속 : (Fromundus)",
+  "basic_information": {
+    "곤충명": "애땅노린재",
+    "학명": "Fromundus pygmaeus (Dallas, 1851)"
+  },
+  "information": {
+    "general_description": "몸길이 : 4-5mm\n몸은 흑색 또는 흑갈색을 띠며 광택이 있다. 전체적으로 타원형이고, 머리는 납작하고 점각이 있다. 앞가장자리에 약간의 긴 털이 있다. 더듬이는 암갈색이며 제 2마디는 가늘고 제 3마디의 길이의 2/3정도이다. 앞가슴등판은 약간 팽출하였으며, 중앙부를 제외하고 얕은 점각이 있다. 작은방패판은 폭보다 길다. 반시초는 배의 끝에 이르고 혁질부와 그 밑은 점각이 있다. 막질부는 투명하고 갈색을 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "포아풀과 식물의 잡초 등의 뿌리 부근에 많다.",
+    "habits": "등불에 날아든다.",
+    "season": null,
+    "overwintering": "성충으로 월동한다.",
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 4-5mm\n몸은 흑색 또는 흑갈색을 띠며 광택이 있다. 전체적으로 타원형이고, 머리는 납작하고 점각이 있다. 앞가장자리에 약간의 긴 털이 있다. 더듬이는 암갈색이며 제 2마디는 가늘고 제 3마디의 길이의 2/3정도이다. 앞가슴등판은 약간 팽출하였으며, 중앙부를 제외하고 얕은 점각이 있다. 작은방패판은 폭보다 길다. 반시초는 배의 끝에 이르고 혁질부와 그 밑은 점각이 있다. 막질부는 투명하고 갈색을 띤다."
+    },
+    {
+      "title": "생태",
+      "text": "포아풀과 식물의 잡초 등의 뿌리 부근에 많다."
+    },
+    {
+      "title": "습성",
+      "text": "등불에 날아든다."
+    },
+    {
+      "title": "월동",
+      "text": "성충으로 월동한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLAP0007-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAP0007_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAP0007_1_th.jpg",
+      "alt": "애땅노린재 1번째 사진 : 애땅노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAP0007_1_th2.jpg",
+      "caption": "애땅노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLAP0007-1",
+  "specimen_examples": [
+    {
+      "id": "DJUE0406021016",
+      "description": "[DJUE0406021016] 애땅노린재 1998.05.31 / / 대전대학교"
+    },
+    {
+      "id": "DJUE0406021017",
+      "description": "[DJUE0406021017] 애땅노린재 1991.05.26 / / 대전대학교"
+    },
+    {
+      "id": "DJUE0406021018",
+      "description": "[DJUE0406021018] 애땅노린재 1991.05.17 / / 대전대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "실망초",
+      "scientific_name": "Erigeron bonariensis L."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLAP0007-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLAP0007&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:07+00:00",
+    "html_sha256": "56013196e72c455a901b70da1f9fa8c85a985c8162b6ffdfb5d80504ac24046a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "id": "ZTAG0128",
+  "name_ko": "양봉꿀벌",
+  "scientific_name": "Apis mellifera Linnaeus, 1758",
+  "display_name": "양봉꿀벌",
+  "family_ko": "꿀벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "꿀벌과",
+      "name_latin": "Apidae"
+    },
+    "subfamily": {
+      "name_ko": "꿀벌아과",
+      "name_latin": "Apinae"
+    },
+    "genus": {
+      "name_ko": "꿀벌속",
+      "name_latin": "Apis"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 꿀벌과 (Apidae)\n아과 : 꿀벌아과 (Apinae)\n속 : 꿀벌속 (Apis)",
+  "basic_information": {
+    "곤충명": "양봉꿀벌",
+    "학명": "Apis mellifera Linnaeus, 1758"
+  },
+  "information": {
+    "general_description": "몸길이는 12 mm 내외이다. 날개는 투명하고 황색이며, 맥은 흑갈색이고, 발목마디는 황갈색이다.",
+    "adult": null,
+    "adult_male": "수컷은 크기가 더 크고, 겹눈은 정수리에 서로 붙어 있고, 주둥이는 퇴화되었다.",
+    "adult_female": "암컷은 암갈회황색이 많고, 배는 흑갈색이고, 제1, 2배마디는 적살색이나 그 뒷슭은 흑갈색이며, 각 마디의 뒷슭에 회황색의 띠가 있다. 여왕벌은 보통의 암컷과 더듬이와 머리방패의 가장자리가 암갈색인 점이 다르다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "산이나 들에서 흔히 양봉되고 있다. 전세계에 분포한다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[흡밀곤충]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 12 mm 내외이다. 날개는 투명하고 황색이며, 맥은 흑갈색이고, 발목마디는 황갈색이다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "수컷은 크기가 더 크고, 겹눈은 정수리에 서로 붙어 있고, 주둥이는 퇴화되었다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "암컷은 암갈회황색이 많고, 배는 흑갈색이고, 제1, 2배마디는 적살색이나 그 뒷슭은 흑갈색이며, 각 마디의 뒷슭에 회황색의 띠가 있다. 여왕벌은 보통의 암컷과 더듬이와 머리방패의 가장자리가 암갈색인 점이 다르다."
+    },
+    {
+      "title": "습성",
+      "text": "산이나 들에서 흔히 양봉되고 있다. 전세계에 분포한다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[흡밀곤충]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0128-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0128_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0128_2_th.jpg",
+      "alt": "양봉꿀벌 1번째 사진 : 양봉꿀벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0128_2_th2.jpg",
+      "caption": "양봉꿀벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTAG0128-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0128_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0128_1_th.jpg",
+      "alt": "양봉꿀벌 2번째 사진 : 양봉꿀벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0128_1_th2.jpg",
+      "caption": "양봉꿀벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0128-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306243027",
+      "description": "[YNUE0306243027] 양봉꿀벌 1990.05.25 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306243028",
+      "description": "[YNUE0306243028] 양봉꿀벌 1998.06.16 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306243029",
+      "description": "[YNUE0306243029] 양봉꿀벌 1990.05.24 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAG0128-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0128&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:26+00:00",
+    "html_sha256": "2971ad8bbfbe9d6e495975a05c0c8e4108f11e2637e7585798d2c4e5e544cd81",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

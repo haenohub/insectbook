@@ -1,0 +1,107 @@
+{
+  "id": "ZOAN0015",
+  "name_ko": "큰점박이똥풍뎅이",
+  "scientific_name": "Aphodius (Aphodius) elegans Allibert, 1847",
+  "display_name": "큰점박이똥풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "똥풍뎅이아과",
+      "name_latin": "Aphodiinae"
+    },
+    "genus": {
+      "name_ko": "똥풍뎅이속",
+      "name_latin": "Aphodius"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 똥풍뎅이아과 (Aphodiinae)\n속 : 똥풍뎅이속 (Aphodius)",
+  "basic_information": {
+    "곤충명": "큰점박이똥풍뎅이",
+    "학명": "Aphodius (Aphodius) elegans Allibert, 1847"
+  },
+  "information": {
+    "general_description": "일본, 대만, 중국, 인도차이나에 분포하며 대형으로 광택이 강한 흑색이다. 딱지날개는 밝은 황색이며 가운데에 1쌍의 큰 흑색 무늬가 있다. 머리는 편평하나 3개의 이마융기가 있다. 전흉배판 후각은 경사졌고, 소순판은 긴 삼각형이며 작은 점각이 있다. 중,후경절단극모들의 길이는 서로 같고, 제1후부절은 다음 3마디의 합보다 길다. BL:11~13mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대만]\n[일본]\n[중국]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "일본, 대만, 중국, 인도차이나에 분포하며 대형으로 광택이 강한 흑색이다. 딱지날개는 밝은 황색이며 가운데에 1쌍의 큰 흑색 무늬가 있다. 머리는 편평하나 3개의 이마융기가 있다. 전흉배판 후각은 경사졌고, 소순판은 긴 삼각형이며 작은 점각이 있다. 중,후경절단극모들의 길이는 서로 같고, 제1후부절은 다음 3마디의 합보다 길다. BL:11~13mm."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대만]\n[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAN0015-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAN0015_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAN0015_1_th.jpg",
+      "alt": "큰점박이똥풍뎅이 1번째 사진 : 큰점박이똥풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAN0015_1_th2.jpg",
+      "caption": "큰점박이똥풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAN0015-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408201057",
+      "description": "[MPME0408201057] 큰점박이똥풍뎅이 2000.09.26 / / 목포자연사박물관"
+    },
+    {
+      "id": "SSUE0301141022",
+      "description": "[SSUE0301141022] 큰점박이똥풍뎅이 1984.09.22 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0301141023",
+      "description": "[SSUE0301141023] 큰점박이똥풍뎅이 1993.05.26 / / 성신여자대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAN0015-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAN0015&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:58+00:00",
+    "html_sha256": "1e523c9f6d979c2dba021172d30772dbb7f350892106f684cf6d374d0e0bb316",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

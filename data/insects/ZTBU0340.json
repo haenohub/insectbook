@@ -1,0 +1,107 @@
+{
+  "id": "ZTBU0340",
+  "name_ko": "노랑무늬맵시벌",
+  "scientific_name": "Ichneumon sexmaculatus Matsumura, 1912",
+  "display_name": "노랑무늬맵시벌",
+  "family_ko": "맵시벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "맵시벌과",
+      "name_latin": "Ichneumonidae"
+    },
+    "subfamily": {
+      "name_ko": "맵시벌아과",
+      "name_latin": "Ichneumoninae"
+    },
+    "genus": {
+      "name_ko": "진맵시벌속",
+      "name_latin": "Ichneumon"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 맵시벌과 (Ichneumonidae)\n아과 : 맵시벌아과 (Ichneumoninae)\n속 : 진맵시벌속 (Ichneumon)",
+  "basic_information": {
+    "곤충명": "노랑무늬맵시벌",
+    "학명": "Ichneumon sexmaculatus Matsumura, 1912"
+  },
+  "information": {
+    "general_description": "♂은 흑색이고 강장한 종류이다. 더듬이의 기부 아랫면과 눈의 안슭, 머리방패의 양쪽 입틀 등은 황색이고 앞가슴의 등쪽, 가운데가슴 양 옆, 날개 밑, 작은방패판, 뒷가슴 양 옆은 황색이며 제1·2·3배마디 뒷슭 양 옆에도 황색 무늬가 있다. 날개의 바깥가두리는 갈색으로 흐리다. 다리는 흑색이나 때로는 밑마디의 윗면에 황색 무늬가 있고 넓적다리마디와 종아리마디도 황갈색이다. 뒷다리의 넓적다리만은 그 끝이 흑색이다. 성충은 6월경에 출현한다. 23mm 정도",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "♂은 흑색이고 강장한 종류이다. 더듬이의 기부 아랫면과 눈의 안슭, 머리방패의 양쪽 입틀 등은 황색이고 앞가슴의 등쪽, 가운데가슴 양 옆, 날개 밑, 작은방패판, 뒷가슴 양 옆은 황색이며 제1·2·3배마디 뒷슭 양 옆에도 황색 무늬가 있다. 날개의 바깥가두리는 갈색으로 흐리다. 다리는 흑색이나 때로는 밑마디의 윗면에 황색 무늬가 있고 넓적다리마디와 종아리마디도 황갈색이다. 뒷다리의 넓적다리만은 그 끝이 흑색이다. 성충은 6월경에 출현한다. 23mm 정도"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBU0340-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0340_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0340_1_th.jpg",
+      "alt": "노랑무늬맵시벌 1번째 사진 : 노랑무늬맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0340_1_th2.jpg",
+      "caption": "노랑무늬맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBU0340-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305261139",
+      "description": "[YNUE0305261139] 노랑무늬맵시벌 1961.05.08 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305301013",
+      "description": "[YNUE0305301013] 노랑무늬맵시벌 1998.05.03 / / 영남대학교"
+    },
+    {
+      "id": "KNAE348243",
+      "description": "[KNAE348243] 노랑무늬맵시벌 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTBU0340.png",
+    "reference_image_id": "ZTBU0340-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T12:07:14.119060+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "1355963e713e3432d7a05a944c1913626cd33e457d3a7208452154338fb84dcf"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBU0340&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:13+00:00",
+    "html_sha256": "5286cca954781e0a7ff777e236d2ae96f98e1e26427a6574835df4bb18e2749e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

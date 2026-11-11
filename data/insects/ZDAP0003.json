@@ -1,0 +1,118 @@
+{
+  "id": "ZDAP0003",
+  "name_ko": "배치레잠자리",
+  "scientific_name": "Lyriothemis pachygastra (Selys, 1878)",
+  "display_name": "배치레잠자리",
+  "family_ko": "잠자리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "잠자리목",
+      "name_latin": "Odonata"
+    },
+    "family": {
+      "name_ko": "잠자리과",
+      "name_latin": "Libellulidae"
+    },
+    "subfamily": {
+      "name_ko": "잠자리아과",
+      "name_latin": "Libellulinae"
+    },
+    "genus": {
+      "name_ko": "배치레잠자리속",
+      "name_latin": "Lyriothemis"
+    }
+  },
+  "taxonomy_text": "목 : 잠자리목 (Odonata)\n과 : 잠자리과 (Libellulidae)\n아과 : 잠자리아과 (Libellulinae)\n속 : 배치레잠자리속 (Lyriothemis)",
+  "basic_information": {
+    "곤충명": "배치레잠자리",
+    "학명": "Lyriothemis pachygastra (Selys, 1878)"
+  },
+  "information": {
+    "general_description": "보통 배의 길이는 20~25mm, 뒷날개 길이는 27~30mm 정도이다. 뒷머리는 회흑색 또는 회황색이다. 배가 납작하고 폭이 넓어 짤막하게 보인다. 이마는 금속 청람색이며, 앞아래가두리는 황색을 띤다. 날개는 투명하고, 날개 밑은 등색이나 윤곽이 분명하지 않다. 날개맥은 갈색이고, 가두리 무늬는 옅은 갈색이다. 몸은 전체적으로 노란색을 띠며 가슴 옆쪽에 2줄의 검은 무늬가 있으며 배 등쪽 가운데에 검은 줄무늬가 발달되어 있다. 성장함에 따라 수컷은 점차 검게 변하고 흰 가루로 덮여 청백색을 띤다. 암컷은 전체적으로 진노랑이며 가슴에는 암갈색 줄무늬가 있으나 뚜렷하지는 않다. 또한 배 중앙과 옆가장자리에 검은 줄무늬가 있다. 약충은 수생 식물이 많은 웅덩이나 연못 등과 같은 습지에 서식한다. 교미후 암컷은 수면을 치면서 수생 식물 옆에 알을 낳는데 그 상태로 겨울을 지낸다.",
+    "adult": null,
+    "adult_male": "머리가 회흑색이다. 가슴은 회흑색이며 무늬가 없다.",
+    "adult_female": "머리가 회황색이다. 가슴은 선명한 황색이며 무늬가 있다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "보통 배의 길이는 20~25mm, 뒷날개 길이는 27~30mm 정도이다. 뒷머리는 회흑색 또는 회황색이다. 배가 납작하고 폭이 넓어 짤막하게 보인다. 이마는 금속 청람색이며, 앞아래가두리는 황색을 띤다. 날개는 투명하고, 날개 밑은 등색이나 윤곽이 분명하지 않다. 날개맥은 갈색이고, 가두리 무늬는 옅은 갈색이다. 몸은 전체적으로 노란색을 띠며 가슴 옆쪽에 2줄의 검은 무늬가 있으며 배 등쪽 가운데에 검은 줄무늬가 발달되어 있다. 성장함에 따라 수컷은 점차 검게 변하고 흰 가루로 덮여 청백색을 띤다. 암컷은 전체적으로 진노랑이며 가슴에는 암갈색 줄무늬가 있으나 뚜렷하지는 않다. 또한 배 중앙과 옆가장자리에 검은 줄무늬가 있다. 약충은 수생 식물이 많은 웅덩이나 연못 등과 같은 습지에 서식한다. 교미후 암컷은 수면을 치면서 수생 식물 옆에 알을 낳는데 그 상태로 겨울을 지낸다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "머리가 회흑색이다. 가슴은 회흑색이며 무늬가 없다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "머리가 회황색이다. 가슴은 선명한 황색이며 무늬가 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZDAP0003-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0003_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0003_2_th.jpg",
+      "alt": "배치레잠자리 1번째 사진 : 베치레잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0003_2_th2.jpg",
+      "caption": "베치레잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZDAP0003-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0003_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0003_1_th.jpg",
+      "alt": "배치레잠자리 2번째 사진 : 베치레잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0003_1_th2.jpg",
+      "caption": "베치레잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZDAP0003-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408201129",
+      "description": "[MPME0408201129] 배치레잠자리 2003.08.24 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0407211018",
+      "description": "[MPME0407211018] 배치레잠자리 2003.08.24 / / 목포자연사박물관"
+    },
+    {
+      "id": "YNUE0306281089",
+      "description": "[YNUE0306281089] 배치레잠자리 2001.06.28 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZDAP0003-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZDAP0003&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:31+00:00",
+    "html_sha256": "e1d153d146e4bf577a6bd5f6633525f4f39e30d1561a859159fff7a41ed14c4a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

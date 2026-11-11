@@ -1,0 +1,103 @@
+{
+  "id": "ZSEX0007",
+  "name_ko": "황나각다귀",
+  "scientific_name": "Nephrotoma cornicina cornicina (Linnaeus, 1758)",
+  "display_name": "황나각다귀",
+  "family_ko": "각다귀과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "각다귀상과",
+      "name_latin": "Tipuloidea"
+    },
+    "family": {
+      "name_ko": "각다귀과",
+      "name_latin": "Tipulidae"
+    },
+    "subfamily": {
+      "name_ko": "각다귀아과",
+      "name_latin": "Tipulinae"
+    },
+    "genus": {
+      "name_ko": "황나각다귀속",
+      "name_latin": "Nephrotoma"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 각다귀상과 (Tipuloidea)\n과 : 각다귀과 (Tipulidae)\n아과 : 각다귀아과 (Tipulinae)\n속 : 황나각다귀속 (Nephrotoma)",
+  "basic_information": {
+    "곤충명": "황나각다귀",
+    "학명": "Nephrotoma cornicina cornicina (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "몸길이 10~12mm, 앞날개길이 10~13mm. 몸색깔은 황색이며 흑색무늬 존재. 정수리에 1개의 흑색 무늬가 있고 크기에 따라 변이가 다양함. 입은 암황색이고 작은턱수염은 암갈색임. 더듬이는 길고 12마디이며 기부의 3마디는 황색이고 이하는 흑갈색임. 가슴은 밝은 황색이고 등면은 광택이 나며 앞방패판에 3줄, 방패판에 2개의 흑색 무늬가 있음. 배는 암황색이고 옆면에 가는 흑갈색 줄이 있으며 등면에도 굵은 줄이 하나 있음. 날개는 투명하고 연황색이며 수컷은 특히 앞가장자리에 따라 뚜렷하고 맥과 연문은 흑갈색임. 평균곤은 황색이고 다리는 기부가 황색이며 넓적다리마디 중앙부보다는 차차 암색으로 되고 넓적다리마디 끝부분은 흑색임.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 10~12mm, 앞날개길이 10~13mm. 몸색깔은 황색이며 흑색무늬 존재. 정수리에 1개의 흑색 무늬가 있고 크기에 따라 변이가 다양함. 입은 암황색이고 작은턱수염은 암갈색임. 더듬이는 길고 12마디이며 기부의 3마디는 황색이고 이하는 흑갈색임. 가슴은 밝은 황색이고 등면은 광택이 나며 앞방패판에 3줄, 방패판에 2개의 흑색 무늬가 있음. 배는 암황색이고 옆면에 가는 흑갈색 줄이 있으며 등면에도 굵은 줄이 하나 있음. 날개는 투명하고 연황색이며 수컷은 특히 앞가장자리에 따라 뚜렷하고 맥과 연문은 흑갈색임. 평균곤은 황색이고 다리는 기부가 황색이며 넓적다리마디 중앙부보다는 차차 암색으로 되고 넓적다리마디 끝부분은 흑색임."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSEX0007-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEX0007_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEX0007_1_th.jpg",
+      "alt": "황나각다귀 1번째 사진 : 황나각다귀전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEX0007_1_th2.jpg",
+      "caption": "황나각다귀전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSEX0007-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0112313011",
+      "description": "[YNUE0112313011] 황나각다귀 1995.06.07 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0112313012",
+      "description": "[YNUE0112313012] 황나각다귀 1981.04.26 / / 영남대학교"
+    },
+    {
+      "id": "MPME0407261049",
+      "description": "[MPME0407261049] 황나각다귀 1999.07.14 / / 목포자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZSEX0007-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSEX0007&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:51+00:00",
+    "html_sha256": "4a35b3670fd8972006fd0b48492304a86d5c21a4cd6a4931dd0cd7be109ab322",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

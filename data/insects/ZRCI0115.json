@@ -1,0 +1,107 @@
+{
+  "id": "ZRCI0115",
+  "name_ko": "줄노랑흰애기자나방",
+  "scientific_name": "Scopula superior (Butler, 1878)",
+  "display_name": "줄노랑흰애기자나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "애기자나방아과",
+      "name_latin": "Sterrhinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Scopula"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 애기자나방아과 (Sterrhinae)\n속 : (Scopula)",
+  "basic_information": {
+    "곤충명": "줄노랑흰애기자나방",
+    "학명": "Scopula superior (Butler, 1878)"
+  },
+  "information": {
+    "general_description": "더듬이는 수컷이 미모상, 암컷은 실 모양.\n몸, 날개, 이마는 순백색.\n수컷 뒷다리의 종아리마디와 발목마디의 비는 약 5:1이고 횡선은 갈색.\n뒷날개에는 각각 외연에 평행으로 달리는 3줄의 횡선 있음.\n연모는 백색.\n날개길이 20 mm내외.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 수컷이 미모상, 암컷은 실 모양.\n몸, 날개, 이마는 순백색.\n수컷 뒷다리의 종아리마디와 발목마디의 비는 약 5:1이고 횡선은 갈색.\n뒷날개에는 각각 외연에 평행으로 달리는 3줄의 횡선 있음.\n연모는 백색.\n날개길이 20 mm내외."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0115-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0115_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0115_1_th.jpg",
+      "alt": "줄노랑흰애기자나방 1번째 사진 : 줄노랑흰애기자나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0115_1_th2.jpg",
+      "caption": "줄노랑흰애기자나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0115-1",
+  "specimen_examples": [
+    {
+      "id": "KKFE0407011012",
+      "description": "[KKFE0407011012] 줄노랑흰애기자나방 1998.05.28 / / 경기산림환경연구소"
+    },
+    {
+      "id": "KKFE0407011013",
+      "description": "[KKFE0407011013] 줄노랑흰애기자나방 1999.05.28 / / 경기산림환경연구소"
+    },
+    {
+      "id": "KKFE0407011014",
+      "description": "[KKFE0407011014] 줄노랑흰애기자나방 1999.05.28 / / 경기산림환경연구소"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCI0115-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0115&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:08+00:00",
+    "html_sha256": "35e6b259df4c9de22ce9664ae09a04cebdf52ce36488bad44cb57e87a323dda2",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "id": "ZOBT0041",
+  "name_ko": "넉점박이큰가슴잎벌레",
+  "scientific_name": "Clytra (Clytra) arida Weise, 1889",
+  "display_name": "넉점박이큰가슴잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "통잎벌레아과",
+      "name_latin": "Cryptocephalinae"
+    },
+    "genus": {
+      "name_ko": "큰가슴잎벌레속",
+      "name_latin": "Clytra"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 통잎벌레아과 (Cryptocephalinae)\n속 : 큰가슴잎벌레속 (Clytra)",
+  "basic_information": {
+    "곤충명": "넉점박이큰가슴잎벌레",
+    "학명": "Clytra (Clytra) arida Weise, 1889"
+  },
+  "information": {
+    "general_description": "몸길이는 8.0~1.1mm, 가슴과 머리는 흑색. 딱지날개는 둥글고 주홍색이며 양쪽에 1쌍의 작은 흑색 무늬와 가운데 부분 밑에 1쌍의 큰 흑색 무늬가 있다. 더듬이는 폭이 넓다. 한국(중부,남부), 중국(만주,북부,중부,남부), 일본(혼슈,시코쿠,큐슈), 러시아(시베리아), 몽고에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 5~8월에 가장 많은활동을하며 자작나무, 버드나무, 참나무류에 잎을 먹는다. 앞컷은 알을 땅위에 떨어뜨리며 개미집 속에서 기생한다.",
+    "habits": "기주식물 버드나무류.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]\n[몽골]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 8.0~1.1mm, 가슴과 머리는 흑색. 딱지날개는 둥글고 주홍색이며 양쪽에 1쌍의 작은 흑색 무늬와 가운데 부분 밑에 1쌍의 큰 흑색 무늬가 있다. 더듬이는 폭이 넓다. 한국(중부,남부), 중국(만주,북부,중부,남부), 일본(혼슈,시코쿠,큐슈), 러시아(시베리아), 몽고에 분포되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 5~8월에 가장 많은활동을하며 자작나무, 버드나무, 참나무류에 잎을 먹는다. 앞컷은 알을 땅위에 떨어뜨리며 개미집 속에서 기생한다."
+    },
+    {
+      "title": "습성",
+      "text": "기주식물 버드나무류."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]\n[몽골]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0041-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0041_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0041_2_th.jpg",
+      "alt": "넉점박이큰가슴잎벌레 1번째 사진 : 넉점박이큰가슴잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0041_2_th2.jpg",
+      "caption": "넉점박이큰가슴잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBT0041-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0041_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0041_1_th.jpg",
+      "alt": "넉점박이큰가슴잎벌레 2번째 사진 : 넉점박이큰가슴잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0041_1_th2.jpg",
+      "caption": "넉점박이큰가슴잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0041-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408041100",
+      "description": "[MPME0408041100] 넉점박이큰가슴잎벌레 1999.06.25 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408041101",
+      "description": "[MPME0408041101] 넉점박이큰가슴잎벌레 1999.06.25 / / 목포자연사박물관"
+    },
+    {
+      "id": "KUIE0307141026",
+      "description": "[KUIE0307141026] 넉점박이큰가슴잎벌레 1961.07.24 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBT0041.png",
+    "reference_image_id": "ZOBT0041-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T10:01:10.043275+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "615b7abf00908a6eeb29377b961ac9d573b17952c221b25dd50b5f7f19cad588"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0041&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:35+00:00",
+    "html_sha256": "73808b439ac1f0bbc9d659ebf195a16295b8ceb8111992e978513de381303903",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": "ZRCI0287",
+  "name_ko": "얼룩물결자나방",
+  "scientific_name": "Tyloptera bella (Butler, 1878)",
+  "display_name": "얼룩물결자나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "물결자나방아과",
+      "name_latin": "Larentiinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Tyloptera"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 물결자나방아과 (Larentiinae)\n속 : (Tyloptera)",
+  "basic_information": {
+    "곤충명": "얼룩물결자나방",
+    "학명": "Tyloptera bella (Butler, 1878)"
+  },
+  "information": {
+    "general_description": "더듬이는 암수 모두 빗살 모양.\n앞날개는 전연에 암회색 혹은 갈색의 무늬, 후연에 1개의 갈색무늬 있음.\n앞, 뒷날개 모두 횡맥상에 흑색 점 있음.\n연모는 백색과 갈색으로 얼룩무늬 이룸.\n날개길이 20-29mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 암수 모두 빗살 모양.\n앞날개는 전연에 암회색 혹은 갈색의 무늬, 후연에 1개의 갈색무늬 있음.\n앞, 뒷날개 모두 횡맥상에 흑색 점 있음.\n연모는 백색과 갈색으로 얼룩무늬 이룸.\n날개길이 20-29mm."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0287-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0287_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0287_2_th.jpg",
+      "alt": "얼룩물결자나방 1번째 사진 : 얼룩물결자나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0287_2_th2.jpg",
+      "caption": "얼룩물결자나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0287-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0287_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0287_1_th.jpg",
+      "alt": "얼룩물결자나방 2번째 사진 : 얼룩물결자나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0287_1_th2.jpg",
+      "caption": "얼룩물결자나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0287-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0409091010",
+      "description": "[KNAE0409091010] 얼룩물결자나방 1998.06.29 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0409091009",
+      "description": "[KNAE0409091009] 얼룩물결자나방 1998.06.29 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303111052",
+      "description": "[KNAE0303111052] 얼룩물결자나방 1997.06.10 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCI0287-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0287&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:50+00:00",
+    "html_sha256": "617beb7f8a3eeebbeb9e5703080ff584900e6bbf12f54916d2219c49bf49f37d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

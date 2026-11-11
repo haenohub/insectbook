@@ -1,0 +1,147 @@
+{
+  "id": "ZMAR0068",
+  "name_ko": "말매미충",
+  "scientific_name": "Cicadella viridis (Linnaeus, 1758)",
+  "display_name": "말매미충",
+  "family_ko": "매미충과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "뿔매미상과",
+      "name_latin": "Membracoidea"
+    },
+    "family": {
+      "name_ko": "매미충과",
+      "name_latin": "Cicadellidae"
+    },
+    "subfamily": {
+      "name_ko": "말매미충아과",
+      "name_latin": "Cicadellinae"
+    },
+    "genus": {
+      "name_ko": "말매미충속",
+      "name_latin": "Cicadella"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 뿔매미상과 (Membracoidea)\n과 : 매미충과 (Cicadellidae)\n아과 : 말매미충아과 (Cicadellinae)\n속 : 말매미충속 (Cicadella)",
+  "basic_information": {
+    "곤충명": "말매미충",
+    "학명": "Cicadella viridis (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "몸길이: 약 8-10mm. 암컷이 다소 수컷보다 크다.몸의 등면은 초록색에서 부터 청록색을 띠며, 채색의 변이가 심하게 나타난다. 아랫면과 다리는 모두 담황색또는 노란색을 띠며 머리는 담황색 또는 노란색이 보통이고 둥글게 돌출하였고 앞가슴등판보다 약간 넓다. 정수리의 홑눈 사이에 한 쌍의 검은반점을 가진다. 주로 경작지 주변이나 산야의 초원지대에 흔히 분포하는 보통종이다. 매미충류 중에서 가장 서식밀도가 높은 종 중 하나다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "각종 농작물에 피해를 끼치며 특히 화본과 및 사초과 초본류에 널리 기생하고, 수목류도 가해한다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[대만]\n[일본]\n[중국]\n[유럽]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이: 약 8-10mm. 암컷이 다소 수컷보다 크다.몸의 등면은 초록색에서 부터 청록색을 띠며, 채색의 변이가 심하게 나타난다. 아랫면과 다리는 모두 담황색또는 노란색을 띠며 머리는 담황색 또는 노란색이 보통이고 둥글게 돌출하였고 앞가슴등판보다 약간 넓다. 정수리의 홑눈 사이에 한 쌍의 검은반점을 가진다. 주로 경작지 주변이나 산야의 초원지대에 흔히 분포하는 보통종이다. 매미충류 중에서 가장 서식밀도가 높은 종 중 하나다."
+    },
+    {
+      "title": "습성",
+      "text": "각종 농작물에 피해를 끼치며 특히 화본과 및 사초과 초본류에 널리 기생하고, 수목류도 가해한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[대만]\n[일본]\n[중국]\n[유럽]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMAR0068-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0068_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0068_1_th.jpg",
+      "alt": "말매미충 1번째 사진 : 말매미충전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0068_1_th2.jpg",
+      "caption": "말매미충전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMAR0068-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303211039",
+      "description": "[KNAE0303211039] 말매미충 1992.07.29 / / 국립수목원"
+    },
+    {
+      "id": "SNUE0204291044",
+      "description": "[SNUE0204291044] 말매미충 1992.06.20 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0204291045",
+      "description": "[SNUE0204291045] 말매미충 1991.06.23 / / 서울대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "감나무",
+      "scientific_name": "Diospyros kaki Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "닥나무",
+      "scientific_name": "Broussonetia × kazinoki Siebold"
+    },
+    {
+      "group": "식물",
+      "name_ko": "벚나무",
+      "scientific_name": "Prunus serrulata f. spontanea (Maxim.) Chin S.Chang"
+    },
+    {
+      "group": "식물",
+      "name_ko": "복사나무",
+      "scientific_name": "Prunus persica (L.) Batsch"
+    },
+    {
+      "group": "식물",
+      "name_ko": "뽕나무",
+      "scientific_name": "Morus alba L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "산돌배",
+      "scientific_name": "Pyrus ussuriensis Maxim. ex Rupr."
+    },
+    {
+      "group": "식물",
+      "name_ko": "해당화",
+      "scientific_name": "Rosa rugosa Thunb."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZMAR0068-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMAR0068&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:46+00:00",
+    "html_sha256": "90304f7133b4c8e6f79017fade960a3f569c2cb527274fea376c48ff57516da5",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

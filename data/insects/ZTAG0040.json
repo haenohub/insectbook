@@ -1,0 +1,118 @@
+{
+  "id": "ZTAG0040",
+  "name_ko": "구리꼬마꽃벌",
+  "scientific_name": "Seladonia (Seladonia) aeraria (Smith, 1873)",
+  "display_name": "구리꼬마꽃벌",
+  "family_ko": "꼬마꽃벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "꼬마꽃벌과",
+      "name_latin": "Halictidae"
+    },
+    "subfamily": {
+      "name_ko": "꼬마꽃벌아과",
+      "name_latin": "Halictinae"
+    },
+    "genus": {
+      "name_ko": "구리꼬마꽃벌속",
+      "name_latin": "Seladonia"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 꼬마꽃벌과 (Halictidae)\n아과 : 꼬마꽃벌아과 (Halictinae)\n속 : 구리꼬마꽃벌속 (Seladonia)",
+  "basic_information": {
+    "곤충명": "구리꼬마꽃벌",
+    "학명": "Seladonia (Seladonia) aeraria (Smith, 1873)"
+  },
+  "information": {
+    "general_description": "몸길이는 8mm정도이며, 암컷은 몸이 구리 빛으로 극히 광택이 강하다. 앞가슴의 등판 옆구리 뒤쪽 돌출부는 황색이고 , 윗입술, 큰 턱의 대부분, 더듬이, 대부분, 어깨판, 각 다리의 넓적다리마디의 끝과, 그 이하의 각 마디는 황갈색이다. 날개는 투명하고 약간의 황색을 띠고, 바깥쪽은 다소 연한 흑색이다. 몸은 회백색 털이 났다",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[러시아]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 8mm정도이며, 암컷은 몸이 구리 빛으로 극히 광택이 강하다. 앞가슴의 등판 옆구리 뒤쪽 돌출부는 황색이고 , 윗입술, 큰 턱의 대부분, 더듬이, 대부분, 어깨판, 각 다리의 넓적다리마디의 끝과, 그 이하의 각 마디는 황갈색이다. 날개는 투명하고 약간의 황색을 띠고, 바깥쪽은 다소 연한 흑색이다. 몸은 회백색 털이 났다"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[러시아]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0040-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0040_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0040_2_th.jpg",
+      "alt": "구리꼬마꽃벌 1번째 사진 : 구리꼬마꽃벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0040_2_th2.jpg",
+      "caption": "구리꼬마꽃벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTAG0040-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0040_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0040_1_th.jpg",
+      "alt": "구리꼬마꽃벌 2번째 사진 : 구리꼬마꽃벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0040_1_th2.jpg",
+      "caption": "구리꼬마꽃벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0040-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306262043",
+      "description": "[YNUE0306262043] 구리꼬마꽃벌 1995.08.15 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306262044",
+      "description": "[YNUE0306262044] 구리꼬마꽃벌 1995.08.17 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306262032",
+      "description": "[YNUE0306262032] 구리꼬마꽃벌 1997.07.20 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTAG0040.png",
+    "reference_image_id": "ZTAG0040-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T13:39:47.891272+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "d44776c52a482a4735c325f3447f95918c2738538e69eed636c20d35a13cd932"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0040&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:20+00:00",
+    "html_sha256": "ad77a62f6d6882171fcd9fc9e3c1bc17c51fde1926053270b1c00d6a72607efa",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

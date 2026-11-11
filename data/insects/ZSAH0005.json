@@ -1,0 +1,110 @@
+{
+  "id": "ZSAH0005",
+  "name_ko": "뒤영벌파리매",
+  "scientific_name": "Laphria mitsukurii Coquillett, 1898",
+  "display_name": "뒤영벌파리매",
+  "family_ko": "파리매과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "파리매상과",
+      "name_latin": "Asiloidea"
+    },
+    "family": {
+      "name_ko": "파리매과",
+      "name_latin": "Asilidae"
+    },
+    "subfamily": {
+      "name_ko": "벌파리매아과",
+      "name_latin": "Laphriinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Laphria"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 파리매상과 (Asiloidea)\n과 : 파리매과 (Asilidae)\n아과 : 벌파리매아과 (Laphriinae)\n속 : (Laphria)",
+  "basic_information": {
+    "곤충명": "뒤영벌파리매",
+    "학명": "Laphria mitsukurii Coquillett, 1898"
+  },
+  "information": {
+    "general_description": "몸길이는 21 mm 내외이다. 몸은 흑색이고, 겹눈 사이는 머리 폭의 약 1/4이며 현저하게 오므라들었고 중앙에 홑눈의 혹이 있고 옆면에는 흑색 털이 많이 나 있다. 더듬이는 흑색이고 가늘고 길며, 제1마디는 길고, 제2마디는 앞 마디보다 다소 가늘고 1/3의 길이이며, 제3마디는 다른 것과 거의 같은 굵기이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 21 mm 내외이다. 몸은 흑색이고, 겹눈 사이는 머리 폭의 약 1/4이며 현저하게 오므라들었고 중앙에 홑눈의 혹이 있고 옆면에는 흑색 털이 많이 나 있다. 더듬이는 흑색이고 가늘고 길며, 제1마디는 길고, 제2마디는 앞 마디보다 다소 가늘고 1/3의 길이이며, 제3마디는 다른 것과 거의 같은 굵기이다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSAH0005-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSAH0005_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSAH0005_2_th.jpg",
+      "alt": "뒤영벌파리매 1번째 사진 : 뒤영벌파리매전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSAH0005_2_th2.jpg",
+      "caption": "뒤영벌파리매전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZSAH0005-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSAH0005_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSAH0005_1_th.jpg",
+      "alt": "뒤영벌파리매 2번째 사진 : 뒤영벌파리매전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSAH0005_1_th2.jpg",
+      "caption": "뒤영벌파리매전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSAH0005-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0301059489",
+      "description": "[YNUE0301059489] 뒤영벌파리매 1993.06.10 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301059490",
+      "description": "[YNUE0301059490] 뒤영벌파리매 1995.06.06 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301059491",
+      "description": "[YNUE0301059491] 뒤영벌파리매 1990.05.16 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZSAH0005-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSAH0005&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:58+00:00",
+    "html_sha256": "52cd6e17683cb05bb7ee5de98dcd3450e7853e8bb330c9b34f185cb35fb999c0",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

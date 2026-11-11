@@ -1,0 +1,122 @@
+{
+  "id": "ZRCI0061",
+  "name_ko": "날개둥근푸른자나방",
+  "scientific_name": "Pingasa pseudoterpnaria (Guenée, 1858)",
+  "display_name": "날개둥근푸른자나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "푸른자나방아과",
+      "name_latin": "Geometrinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Pingasa"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 푸른자나방아과 (Geometrinae)\n속 : (Pingasa)",
+  "basic_information": {
+    "곤충명": "날개둥근푸른자나방",
+    "학명": "Pingasa pseudoterpnaria (Guenée, 1858)"
+  },
+  "information": {
+    "general_description": "더듬이는 수컷이 빗살모양이고, 암컷은 실 모양이다. 몸과 날개는 회색이다. 횡선은 흑색이며, 앞날개 내횡선의 물결 모양은 아주 깊으며, 특히 중실 안에서도 바깥쪽으로 만곡되어 있다. 앞․뒷날개 모두 외횡선은 강한 톱니 모양이며, 각 톱니의 앞끝 돌출부는 흑색 점을 이룬다. 아외연선은 백색의 톱니 모양이다. 날개에는 흑색 비늘이 산재되어 있고, 날개의 바깥쪽 반은 흑갈색이다. 연모는 회백색이고, 뒷면의 흑색 띠는 일반적으로 강하지 않고 희미하며 좁다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 수컷이 빗살모양이고, 암컷은 실 모양이다. 몸과 날개는 회색이다. 횡선은 흑색이며, 앞날개 내횡선의 물결 모양은 아주 깊으며, 특히 중실 안에서도 바깥쪽으로 만곡되어 있다. 앞․뒷날개 모두 외횡선은 강한 톱니 모양이며, 각 톱니의 앞끝 돌출부는 흑색 점을 이룬다. 아외연선은 백색의 톱니 모양이다. 날개에는 흑색 비늘이 산재되어 있고, 날개의 바깥쪽 반은 흑갈색이다. 연모는 회백색이고, 뒷면의 흑색 띠는 일반적으로 강하지 않고 희미하며 좁다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0061-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0061_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0061_2_th.jpg",
+      "alt": "날개둥근푸른자나방 1번째 사진 : 날개둥근푸른자나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0061_2_th2.jpg",
+      "caption": "날개둥근푸른자나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0061-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0061_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0061_1_th.jpg",
+      "alt": "날개둥근푸른자나방 2번째 사진 : 날개둥근푸른자나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0061_1_th2.jpg",
+      "caption": "날개둥근푸른자나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0061-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0301082048",
+      "description": "[KNAE0301082048] 날개둥근푸른자나방 1991.07.16 / / 국립수목원"
+    },
+    {
+      "id": "CBNE0202161004",
+      "description": "[CBNE0202161004] 날개둥근푸른자나방 2000.07.31 / / 충북대학교"
+    },
+    {
+      "id": "JFNE0201111030",
+      "description": "[JFNE0201111030] 날개둥근푸른자나방 1994.07.14 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRCI0061.png",
+    "reference_image_id": "ZRCI0061-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T15:58:24.015506+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "52c45323f268db860d343a857faf838686e7a2eb07a41f8f3967622e5946c3ae"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0061&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:15+00:00",
+    "html_sha256": "9fb71fb5fd7583e745c3351b25f4c20dac3b2916fa13515062e1c623b3642e3d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

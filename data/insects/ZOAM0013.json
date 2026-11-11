@@ -1,0 +1,130 @@
+{
+  "id": "ZOAM0013",
+  "name_ko": "날개떡소바구미",
+  "scientific_name": "Tropideres naevulus Faust, 1887",
+  "display_name": "날개떡소바구미",
+  "family_ko": "소바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "소바구미과",
+      "name_latin": "Anthribidae"
+    },
+    "subfamily": {
+      "name_ko": "소바구미아과",
+      "name_latin": "Anthribinae"
+    },
+    "genus": {
+      "name_ko": "떡소바구미속",
+      "name_latin": "Tropideres"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 소바구미과 (Anthribidae)\n아과 : 소바구미아과 (Anthribinae)\n속 : 떡소바구미속 (Tropideres)",
+  "basic_information": {
+    "곤충명": "날개떡소바구미",
+    "학명": "Tropideres naevulus Faust, 1887"
+  },
+  "information": {
+    "general_description": "크기 3.3-5.8mm\n체색은 흑색과 갈색.\n누 눈 사이가 좁으며, 소순판과 앞가슴등판의 후연에 황갈색의 털무늬가 있다.\n시초의 중앙 후반에 두개의 세로줄무늬를 가짐다.",
+    "adult": null,
+    "adult_male": "가운데다리의 경절 끝부분에 한개의 가시돌기가 있다.",
+    "adult_female": "가운데다리의 경절 끝부분에 가시돌기가 없다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "크기 3.3-5.8mm\n체색은 흑색과 갈색.\n누 눈 사이가 좁으며, 소순판과 앞가슴등판의 후연에 황갈색의 털무늬가 있다.\n시초의 중앙 후반에 두개의 세로줄무늬를 가짐다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "가운데다리의 경절 끝부분에 한개의 가시돌기가 있다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "가운데다리의 경절 끝부분에 가시돌기가 없다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAM0013-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0013_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0013_2_th.jpg",
+      "alt": "날개떡소바구미 1번째 사진 : 날개떡소바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0013_2_th2.jpg",
+      "caption": "날개떡소바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOAM0013-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0013_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0013_1_th.jpg",
+      "alt": "날개떡소바구미 2번째 사진 : 날개떡소바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0013_1_th2.jpg",
+      "caption": "날개떡소바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAM0013-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0203274031",
+      "description": "[SNUE0203274031] 날개떡소바구미 1996.06.19 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0203274030",
+      "description": "[SNUE0203274030] 날개떡소바구미 1999.05.15 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0203274032",
+      "description": "[SNUE0203274032] 날개떡소바구미 1999.04.25 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOAM0013.png",
+    "reference_image_id": "ZOAM0013-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T16:11:36.140233+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "3b1926261baa03d8cc202005fb921ec450c964f5ac6d7db48403bf358acdc9c9"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAM0013&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:15+00:00",
+    "html_sha256": "06d286f51152f09de614d7c941f16952b8e0162614d398078ed14d2c882ae83d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

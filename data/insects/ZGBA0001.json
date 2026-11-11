@@ -1,0 +1,103 @@
+{
+  "id": "ZGBA0001",
+  "name_ko": "민집게벌레",
+  "scientific_name": "Anisolabis maritima (Bonelli, 1832)",
+  "display_name": "민집게벌레",
+  "family_ko": "민집게벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "집게벌레목",
+      "name_latin": "Dermaptera"
+    },
+    "family": {
+      "name_ko": "민집게벌레과",
+      "name_latin": "Anisolabididae"
+    },
+    "genus": {
+      "name_ko": "민집게벌레속",
+      "name_latin": "Anisolabis"
+    }
+  },
+  "taxonomy_text": "목 : 집게벌레목 (Dermaptera)\n과 : 민집게벌레과 (Anisolabididae)\n속 : 민집게벌레속 (Anisolabis)",
+  "basic_information": {
+    "곤충명": "민집게벌레",
+    "학명": "Anisolabis maritima (Bonelli, 1832)"
+  },
+  "information": {
+    "general_description": "몸길이는 22 mm 내외이다. 몸은 밤색이며, 뒷머리에는 3개의 짧은 세로 줄 무늬가 있다. 다리는 담황색이고, 배는 중앙이 폭이 넓고 끝마디에 1개의 중종선이 있다. 집게는 짧고 굵다.",
+    "adult": null,
+    "adult_male": "집게가 좌우 이형이며, 후반이 현저하게 안쪽으로 만곡해 있다.",
+    "adult_female": "집게가 거의 직선이고 안두리에 톱니가 있으며 말단이 약간 만곡되었다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 22 mm 내외이다. 몸은 밤색이며, 뒷머리에는 3개의 짧은 세로 줄 무늬가 있다. 다리는 담황색이고, 배는 중앙이 폭이 넓고 끝마디에 1개의 중종선이 있다. 집게는 짧고 굵다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "집게가 좌우 이형이며, 후반이 현저하게 안쪽으로 만곡해 있다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "집게가 거의 직선이고 안두리에 톱니가 있으며 말단이 약간 만곡되었다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZGBA0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/G2/ZGBA0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/G2/ZGBA0001_1_th.jpg",
+      "alt": "민집게벌레 1번째 사진 : 민집게벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/G2/ZGBA0001_1_th2.jpg",
+      "caption": "민집게벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZGBA0001-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0304181034",
+      "description": "[FRIE0304181034] 민집게벌레 2001.11.17 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0304181035",
+      "description": "[FRIE0304181035] 민집게벌레 2001.09.26 / / 국립산림과학원"
+    },
+    {
+      "id": "SNUE0203141070",
+      "description": "[SNUE0203141070] 민집게벌레 1991.06.26 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZGBA0001-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZGBA0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:53+00:00",
+    "html_sha256": "68fdf78f823e13a37140cc75eedc63d7c4cc60b7b958f5529b1981df7731a03b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "id": "ZMBC0004",
+  "name_ko": "나카노상투벌레",
+  "scientific_name": "Raivuna nakanonis (Matsumura, 1910)",
+  "display_name": "나카노상투벌레",
+  "family_ko": "상투벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "꽃매미상과",
+      "name_latin": "Fulgoroidea"
+    },
+    "family": {
+      "name_ko": "상투벌레과",
+      "name_latin": "Dictyopharidae"
+    },
+    "subfamily": {
+      "name_ko": "상투벌레아과",
+      "name_latin": "Dictyopharinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Raivuna"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 꽃매미상과 (Fulgoroidea)\n과 : 상투벌레과 (Dictyopharidae)\n아과 : 상투벌레아과 (Dictyopharinae)\n속 : (Raivuna)",
+  "basic_information": {
+    "곤충명": "나카노상투벌레",
+    "학명": "Raivuna nakanonis (Matsumura, 1910)"
+  },
+  "information": {
+    "general_description": "몸길이:약13-15mm. 몸은 황백색 또는 담황색을 띤다.등면에 황갈색에서 흑갈색의 섬세한 무늬가 산재한다. 때때로 희미한 초록색 줄무늬를 가지는 개체도 있다. 머리는 앞가슴등판보다 훨씬 좁고, 정수리는 특히 크고 길게 발달하였고, 중앙 종주선과 양 옆가장자리가 평행을 이루며 볼록하게 융기 되었다. 정수리는 길이가 폭의 3-4배 이상으로 현저하게 돌출되어있다. 앞가슴등판과 작은방패판에는 세로로 발달된 3개의 융기선을 가지며, 황갈색 또는 적갈색의 희미한 세로줄 무늬가 있다. 앞날개는 투명하며, 기부의 날개맥은 초록색의 줄무늬를 갖는다. 후반부의 날개맥과 가로맥 및 날개 무늬는 암갈색을 띤다. 뒷날개는 잘발달되어있고 투명하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "경작지역과 초원지대에 드물게 발견된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": "알로 월동한다.",
+    "distribution": "[일본]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이:약13-15mm. 몸은 황백색 또는 담황색을 띤다.등면에 황갈색에서 흑갈색의 섬세한 무늬가 산재한다. 때때로 희미한 초록색 줄무늬를 가지는 개체도 있다. 머리는 앞가슴등판보다 훨씬 좁고, 정수리는 특히 크고 길게 발달하였고, 중앙 종주선과 양 옆가장자리가 평행을 이루며 볼록하게 융기 되었다. 정수리는 길이가 폭의 3-4배 이상으로 현저하게 돌출되어있다. 앞가슴등판과 작은방패판에는 세로로 발달된 3개의 융기선을 가지며, 황갈색 또는 적갈색의 희미한 세로줄 무늬가 있다. 앞날개는 투명하며, 기부의 날개맥은 초록색의 줄무늬를 갖는다. 후반부의 날개맥과 가로맥 및 날개 무늬는 암갈색을 띤다. 뒷날개는 잘발달되어있고 투명하다."
+    },
+    {
+      "title": "생태",
+      "text": "경작지역과 초원지대에 드물게 발견된다."
+    },
+    {
+      "title": "월동",
+      "text": "알로 월동한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMBC0004-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMBC0004_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMBC0004_1_th.jpg",
+      "alt": "나카노상투벌레 1번째 사진 : 나카노상투벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMBC0004_1_th2.jpg",
+      "caption": "나카노상투벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMBC0004-1",
+  "specimen_examples": [
+    {
+      "id": "HNUE0408144071",
+      "description": "[HNUE0408144071] 나카노상투벌레 1986.09.03 / / 한남대학교 자연사박물관"
+    },
+    {
+      "id": "HNUE0408144072",
+      "description": "[HNUE0408144072] 나카노상투벌레 1983.09.12 / / 한남대학교 자연사박물관"
+    },
+    {
+      "id": "KNAE0705150038",
+      "description": "[KNAE0705150038] 나카노상투벌레 1999.07.05 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "상수리나무",
+      "scientific_name": "Quercus acutissima Carruth."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZMBC0004.png",
+    "reference_image_id": "ZMBC0004-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T15:40:52.421485+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "988d0aca03d60156d08ee3a54211a97b46fe176bddd6a2576613e66cc0f3928b"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMBC0004&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:11+00:00",
+    "html_sha256": "5d21771128678dc0ac0994a581db782d4345523abe2ac6692a4f90c8534e1842",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "id": "ZRDS0431",
+  "name_ko": "쌍무늬꼬마밤나방",
+  "scientific_name": "Koyaga falsa (Butler, 1885)",
+  "display_name": "쌍무늬꼬마밤나방",
+  "family_ko": "밤나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "밤나방과",
+      "name_latin": "Noctuidae"
+    },
+    "subfamily": {
+      "name_ko": "띠꼬마밤나방아과",
+      "name_latin": "Eustrotiinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Koyaga"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 밤나방과 (Noctuidae)\n아과 : 띠꼬마밤나방아과 (Eustrotiinae)\n속 : (Koyaga)",
+  "basic_information": {
+    "곤충명": "쌍무늬꼬마밤나방",
+    "학명": "Koyaga falsa (Butler, 1885)"
+  },
+  "information": {
+    "general_description": "날개편 길이 수컷 12~13, 암컷 14~15mm. 암컷이 수컷에 비해 약간 크며, 날개의 무늬가 다소 차이가 있다. 암컷은 수컷에 비해 전체적으로 다소 어두운 감이 돌며, 앞날개의 외연부 후반에 백색 무늬가 나타나지 않는다. 뒷날개는 암·수 모두 회갈색을 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 7~8월경에 출현된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 수컷 12~13, 암컷 14~15mm. 암컷이 수컷에 비해 약간 크며, 날개의 무늬가 다소 차이가 있다. 암컷은 수컷에 비해 전체적으로 다소 어두운 감이 돌며, 앞날개의 외연부 후반에 백색 무늬가 나타나지 않는다. 뒷날개는 암·수 모두 회갈색을 띤다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 7~8월경에 출현된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0431-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0431_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0431_2_th.jpg",
+      "alt": "쌍무늬꼬마밤나방 1번째 사진 : 쌍무늬꼬마밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0431_2_th2.jpg",
+      "caption": "쌍무늬꼬마밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDS0431-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0431_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0431_1_th.jpg",
+      "alt": "쌍무늬꼬마밤나방 2번째 사진 : 쌍무늬꼬마밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0431_1_th2.jpg",
+      "caption": "쌍무늬꼬마밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0431-1",
+  "specimen_examples": [
+    {
+      "id": "KNUE0304111029",
+      "description": "[KNUE0304111029] 쌍무늬꼬마밤나방 1994.08.05 / / 강원대학교"
+    },
+    {
+      "id": "KNAE0303061038",
+      "description": "[KNAE0303061038] 쌍무늬꼬마밤나방 2000.08.13 / / 국립수목원"
+    },
+    {
+      "id": "CBNE0405271018",
+      "description": "[CBNE0405271018] 쌍무늬꼬마밤나방 2003.08.01 / / 충북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDS0431-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0431&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:59+00:00",
+    "html_sha256": "df32e79b0d52ac3099fa9ec311c2c3457f40eedaac24bae35c5873706463a439",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

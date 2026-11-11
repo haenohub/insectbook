@@ -1,0 +1,118 @@
+{
+  "id": "ZRCI0467",
+  "name_ko": "남방갈고리가지나방",
+  "scientific_name": "Odontopera arida (Butler, 1878)",
+  "display_name": "남방갈고리가지나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "가지나방아과",
+      "name_latin": "Ennominae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Odontopera"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 가지나방아과 (Ennominae)\n속 : (Odontopera)",
+  "basic_information": {
+    "곤충명": "남방갈고리가지나방",
+    "학명": "Odontopera arida (Butler, 1878)"
+  },
+  "information": {
+    "general_description": "더듬이는 수컷이 빗살 모양이고, 암컷은 실 모양. 몸과 날개는 모두 회갈색 암컷은 색깔이 연하고 붉은 시를 띠는 것이 많음. 앞날개에는 전면에 암색 점이 산재함. 내횡선은 명료하지 않음. 횡맥상에는 중심이 회색을 띠는 암색 고리가 있음. 외횡선은 거의 일직선을 이루고, 바깥쪽이 담황색으로 테지어 있음. 연모의 끝은 담황색임. 뒷날개는 담갈색이며, 횡맥 무늬는 앞날개보다 큼. 외횡선은 희미하고, 전연에는 소실되어 있음.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[네팔]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 수컷이 빗살 모양이고, 암컷은 실 모양. 몸과 날개는 모두 회갈색 암컷은 색깔이 연하고 붉은 시를 띠는 것이 많음. 앞날개에는 전면에 암색 점이 산재함. 내횡선은 명료하지 않음. 횡맥상에는 중심이 회색을 띠는 암색 고리가 있음. 외횡선은 거의 일직선을 이루고, 바깥쪽이 담황색으로 테지어 있음. 연모의 끝은 담황색임. 뒷날개는 담갈색이며, 횡맥 무늬는 앞날개보다 큼. 외횡선은 희미하고, 전연에는 소실되어 있음."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[네팔]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0467-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0467_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0467_2_th.jpg",
+      "alt": "남방갈고리가지나방 1번째 사진 : 남방갈고리가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0467_2_th2.jpg",
+      "caption": "남방갈고리가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0467-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0467_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0467_1_th.jpg",
+      "alt": "남방갈고리가지나방 2번째 사진 : 남방갈고리가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0467_1_th2.jpg",
+      "caption": "남방갈고리가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0467-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304171035",
+      "description": "[KNAE0304171035] 남방갈고리가지나방 1999.04.22 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304171037",
+      "description": "[KNAE0304171037] 남방갈고리가지나방 1999.04.24 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304171038",
+      "description": "[KNAE0304171038] 남방갈고리가지나방 1999.04.25 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRCI0467.png",
+    "reference_image_id": "ZRCI0467-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T16:24:05.336354+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "4530296e500301643e0bfc11cf0c769000c67ba6a4fbf24c13d7d7c57aac4795"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0467&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:20+00:00",
+    "html_sha256": "64be46b4a7e8361de5980366d271c1f5394ecb0f44c2d5ed13053c155f2b81ee",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

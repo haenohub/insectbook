@@ -1,0 +1,137 @@
+{
+  "id": "ZREP0036",
+  "name_ko": "물결나비",
+  "scientific_name": "Ypthima multistriata Butler, 1883",
+  "display_name": "물결나비",
+  "family_ko": "네발나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "네발나비과",
+      "name_latin": "Nymphalidae"
+    },
+    "subfamily": {
+      "name_ko": "뱀눈나비아과",
+      "name_latin": "Satyrinae"
+    },
+    "genus": {
+      "name_ko": "물결나비속",
+      "name_latin": "Ypthima"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 네발나비과 (Nymphalidae)\n아과 : 뱀눈나비아과 (Satyrinae)\n속 : 물결나비속 (Ypthima)",
+  "basic_information": {
+    "곤충명": "물결나비",
+    "학명": "Ypthima multistriata Butler, 1883"
+  },
+  "information": {
+    "general_description": "애물결나비와 유사하여 날고 있을 때는 구별하기 어렵고 쉬고 있을 때 아랫면의 무늬를 보면 구별할 수 있다. 이 나비는 날개 윗면의 눈알모양 무늬 둘레의 노랑색 고리가 선명하지 않고 뒷날개 아랫면에 언제나3개의 눈알모양 무늬가 있어 구별된다.",
+    "adult": null,
+    "adult_male": "암수구별은 애물결나비와 거의 같다.",
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "애물결나비와 같은 장소에서 서식하는데 개체수는 좀 적다. 풀 사이를 톡톡 튀듯이 가볍게 날아다니나 나는 속도는 애물결나비보다 약간 빠르다. 드물게 꽃에서 흡밀하거나 썩은 과일에 모여 과즙을 빠는 경우가 있다. 지금까지 종명이 motschulskyi (Bremer et Grey)로 알려져 있었다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[대만]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "애물결나비와 유사하여 날고 있을 때는 구별하기 어렵고 쉬고 있을 때 아랫면의 무늬를 보면 구별할 수 있다. 이 나비는 날개 윗면의 눈알모양 무늬 둘레의 노랑색 고리가 선명하지 않고 뒷날개 아랫면에 언제나3개의 눈알모양 무늬가 있어 구별된다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "암수구별은 애물결나비와 거의 같다."
+    },
+    {
+      "title": "습성",
+      "text": "애물결나비와 같은 장소에서 서식하는데 개체수는 좀 적다. 풀 사이를 톡톡 튀듯이 가볍게 날아다니나 나는 속도는 애물결나비보다 약간 빠르다. 드물게 꽃에서 흡밀하거나 썩은 과일에 모여 과즙을 빠는 경우가 있다. 지금까지 종명이 motschulskyi (Bremer et Grey)로 알려져 있었다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[대만]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREP0036-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZREP0036_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZREP0036_3.jpg",
+      "alt": "물결나비 1번째 사진 : 물결나비 암컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZREP0036_3_th2.jpg",
+      "caption": "물결나비 암컷 이미지",
+      "photographed_at": "20060707",
+      "location": "경기도 포천시 소흘읍 광릉숲",
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZREP0036-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREP0036_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREP0036_2_th.jpg",
+      "alt": "물결나비 2번째 사진 : 물결나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREP0036_2_th2.jpg",
+      "caption": "물결나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREP0036-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREP0036_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREP0036_1_th.jpg",
+      "alt": "물결나비 3번째 사진 : 물결나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREP0036_1_th2.jpg",
+      "caption": "물결나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREP0036-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408111040",
+      "description": "[MPME0408111040] 물결나비 2001.06.16 / / 목포자연사박물관"
+    },
+    {
+      "id": "SJNE0306141351",
+      "description": "[SJNE0306141351] 물결나비 2002.06.20 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0306141352",
+      "description": "[SJNE0306141352] 물결나비 2002.06.20 / / 상주대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREP0036-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREP0036&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:36+00:00",
+    "html_sha256": "3116e57de4e99db705d1199cf7b75cb92fbb7a77ad71f25215379bc3c0939086",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

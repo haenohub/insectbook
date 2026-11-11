@@ -1,0 +1,115 @@
+{
+  "id": "ZRFB0009",
+  "name_ko": "깜둥이창나방",
+  "scientific_name": "Thyris fenestella seoulensis Park & Byun, 1990",
+  "display_name": "깜둥이창나방",
+  "family_ko": "창나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "창나방상과",
+      "name_latin": "Thyridoidea"
+    },
+    "family": {
+      "name_ko": "창나방과",
+      "name_latin": "Thyrididae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Thyris"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 창나방상과 (Thyridoidea)\n과 : 창나방과 (Thyrididae)\n속 : (Thyris)",
+  "basic_information": {
+    "곤충명": "깜둥이창나방",
+    "학명": "Thyris fenestella seoulensis Park & Byun, 1990"
+  },
+  "information": {
+    "general_description": "머리는 흑색이고 약간의 황색 인편이 섞여 있다. 앞이마는 돌출하지 않았다. 더듬이는 흑색이고 빗살 모양이다. 아랫입술수염이 비스듬히 위를 향하며, 제3마디는 뾰족하다. 제3마디 및 제2마디의 아래 절반은 백색에 가깝고, 제2마디 위 절반에는 황색 인편이 덮여 있다. 목과 날개의 기부는 황색이다. 배의 등쪽면은 흑색으로 2~3개의 백색 띠가 있다. 앞, 뒷날개는 흑색으로, 날개 중앙에는 반투명한 부분이 있으며, 적황색 점이 곳곳에 산포되어 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "성충은 주간에 민첩하게 날아다니며 각종 야생화에 잘 모인다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대한민국] 경기도\n[대한민국] 경기도\n[대한민국] 경기도\n[대한민국] 강원특별자치도\n[대한민국] 강원특별자치도\n[대한민국] 경기도",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "머리는 흑색이고 약간의 황색 인편이 섞여 있다. 앞이마는 돌출하지 않았다. 더듬이는 흑색이고 빗살 모양이다. 아랫입술수염이 비스듬히 위를 향하며, 제3마디는 뾰족하다. 제3마디 및 제2마디의 아래 절반은 백색에 가깝고, 제2마디 위 절반에는 황색 인편이 덮여 있다. 목과 날개의 기부는 황색이다. 배의 등쪽면은 흑색으로 2~3개의 백색 띠가 있다. 앞, 뒷날개는 흑색으로, 날개 중앙에는 반투명한 부분이 있으며, 적황색 점이 곳곳에 산포되어 있다."
+    },
+    {
+      "title": "생태",
+      "text": null
+    },
+    {
+      "title": "습성",
+      "text": "성충은 주간에 민첩하게 날아다니며 각종 야생화에 잘 모인다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대한민국] 경기도\n[대한민국] 경기도\n[대한민국] 경기도\n[대한민국] 강원특별자치도\n[대한민국] 강원특별자치도\n[대한민국] 경기도"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRFB0009-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFB0009_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFB0009_1_th.jpg",
+      "alt": "깜둥이창나방 1번째 사진 : 깜둥이창나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFB0009_1_th2.jpg",
+      "caption": "깜둥이창나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRFB0009-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0304281047",
+      "description": "[FRIE0304281047] 깜둥이창나방 1997.07.10 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0302061078",
+      "description": "[KNAE0302061078] 깜둥이창나방 1995.05.21 / / 국립수목원"
+    },
+    {
+      "id": "YNUE0210292094",
+      "description": "[YNUE0210292094] 깜둥이창나방 1998.06.22 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRFB0009.png",
+    "reference_image_id": "ZRFB0009-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T10:04:12.465601+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "fb19e00a5e6bd1d840d659a075034ce9c841766fb5c150f20a1aa661b6c5d66e"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRFB0009&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:19+00:00",
+    "html_sha256": "4766a006736c717212db08ad1aa04032f991072488af46e6d734c4a056f07f4c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

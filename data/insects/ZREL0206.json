@@ -1,0 +1,103 @@
+{
+  "id": "ZREL0206",
+  "name_ko": "갈색집명나방",
+  "scientific_name": "Orthaga achatina (Butler, 1878)",
+  "display_name": "갈색집명나방",
+  "family_ko": "명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "명나방과",
+      "name_latin": "Pyralidae"
+    },
+    "subfamily": {
+      "name_ko": "집명나방아과",
+      "name_latin": "Epipaschiinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Orthaga"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 명나방과 (Pyralidae)\n아과 : 집명나방아과 (Epipaschiinae)\n속 : (Orthaga)",
+  "basic_information": {
+    "곤충명": "갈색집명나방",
+    "학명": "Orthaga achatina (Butler, 1878)"
+  },
+  "information": {
+    "general_description": "일본에 분포하며 23-30mm길이의 날개를 가지고 있으며, 앞날개는 황갈색이고 특히 외횡\n선 바깥쪽은 흑갈색이다. 수컷의 더듬이는 섬모상이나 암컷은 미모상이다\n병절에는 약간 뒤쪽으로 뻗은 갈색 돌기가 있으며, 그 하부에 흑갈색의\n긴 털다발이 있다. 아랫입술수염은 뿔 모양으로 위로 향하며 선단은 뾰족 하다. 가슴과 배의 등쪽면은 담갈색이고, 암컷은 약간 흑갈색을 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "일본에 분포하며 23-30mm길이의 날개를 가지고 있으며, 앞날개는 황갈색이고 특히 외횡\n선 바깥쪽은 흑갈색이다. 수컷의 더듬이는 섬모상이나 암컷은 미모상이다\n병절에는 약간 뒤쪽으로 뻗은 갈색 돌기가 있으며, 그 하부에 흑갈색의\n긴 털다발이 있다. 아랫입술수염은 뿔 모양으로 위로 향하며 선단은 뾰족 하다. 가슴과 배의 등쪽면은 담갈색이고, 암컷은 약간 흑갈색을 띤다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0206-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0206_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0206_1_th.jpg",
+      "alt": "갈색집명나방 1번째 사진 : 갈색집명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0206_1_th2.jpg",
+      "caption": "갈색집명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0206-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303121089",
+      "description": "[KNAE0303121089] 갈색집명나방 1997.06.27 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0302062053",
+      "description": "[KNAE0302062053] 갈색집명나방 1994.07.29 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0302062052",
+      "description": "[KNAE0302062052] 갈색집명나방 1994.07.26 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZREL0206.png",
+    "reference_image_id": "ZREL0206-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T16:48:50.440404+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "02efbcc26ca14c51ed25ddbbadd1c312c80947c0a9ccb5890a9c4426beb552ea"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0206&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:36+00:00",
+    "html_sha256": "797f16b7ba78adce2946e9645f886d36908de63e790093825ad3a9846c73ed80",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

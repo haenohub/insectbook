@@ -1,0 +1,118 @@
+{
+  "id": "ZOBH0002",
+  "name_ko": "검정명주딱정벌레",
+  "scientific_name": "Calosoma (Calosoma) maximowiczi (Morawitz, 1863)",
+  "display_name": "검정명주딱정벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "딱정벌레아과",
+      "name_latin": "Carabinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Calosoma"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 딱정벌레아과 (Carabinae)\n속 : (Calosoma)",
+  "basic_information": {
+    "곤충명": "검정명주딱정벌레",
+    "학명": "Calosoma (Calosoma) maximowiczi (Morawitz, 1863)"
+  },
+  "information": {
+    "general_description": "몸길이는 22~31mm이며 몸색깔은 녹색광택이 나는 흑색이다. 앞머리는 오목하고 주름무늬가 있다. 딱지날개에는 비늘모양으로 된 너비가 넓은 15줄의 굴곡진 홈이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 흙속에서 월동하고 이른봄부터 초여름에 가장많이 활동한다. 주로 산지의 활엽수림에서 많이 발견된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 22~31mm이며 몸색깔은 녹색광택이 나는 흑색이다. 앞머리는 오목하고 주름무늬가 있다. 딱지날개에는 비늘모양으로 된 너비가 넓은 15줄의 굴곡진 홈이 있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 흙속에서 월동하고 이른봄부터 초여름에 가장많이 활동한다. 주로 산지의 활엽수림에서 많이 발견된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0002_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0002_2_th.jpg",
+      "alt": "검정명주딱정벌레 1번째 사진 : 검정명주딱정벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0002_2_th2.jpg",
+      "caption": "검정명주딱정벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0002-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0002_1_th.jpg",
+      "alt": "검정명주딱정벌레 2번째 사진 : 검정명주딱정벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0002_1_th2.jpg",
+      "caption": "검정명주딱정벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0002-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0301302096",
+      "description": "[UIBE0301302096] 검정명주딱정벌레 1999.08.11 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301302097",
+      "description": "[UIBE0301302097] 검정명주딱정벌레 1985.05.02 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301302099",
+      "description": "[UIBE0301302099] 검정명주딱정벌레 1985.05.02 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBH0002.png",
+    "reference_image_id": "ZOBH0002-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T11:21:03.243913+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "f3d5f6f75844f0080d5f509c2c2bf527e270cc77a0445663bc9777480a41aba9"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:17+00:00",
+    "html_sha256": "d5f3a5b15347c297afde8d1aa5122d2c00883b6322f00e45a9a94479d8c9fa8d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

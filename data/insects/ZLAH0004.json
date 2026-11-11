@@ -1,0 +1,99 @@
+{
+  "id": "ZLAH0004",
+  "name_ko": "큰물자라",
+  "scientific_name": "Appasus major (Esaki, 1934)",
+  "display_name": "큰물자라",
+  "family_ko": "물장군과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "family": {
+      "name_ko": "물장군과",
+      "name_latin": "Belostomatidae"
+    },
+    "subfamily": {
+      "name_ko": "물장군아과",
+      "name_latin": "Belostomatinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Appasus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n과 : 물장군과 (Belostomatidae)\n아과 : 물장군아과 (Belostomatinae)\n속 : (Appasus)",
+  "basic_information": {
+    "곤충명": "큰물자라",
+    "학명": "Appasus major (Esaki, 1934)"
+  },
+  "information": {
+    "general_description": "몸길이 : 24-27mm\n물자라와 비슷하나 몸이 훨씬 큰 점으로 쉽게 구별된다. 아생식관은 물자라보다 잛고 수컷에서는 기부의 폭보다 약간 길지만, 암컷에서는 약간 짧다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 24-27mm\n물자라와 비슷하나 몸이 훨씬 큰 점으로 쉽게 구별된다. 아생식관은 물자라보다 잛고 수컷에서는 기부의 폭보다 약간 길지만, 암컷에서는 약간 짧다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLAH0004-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAH0004_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAH0004_1_th.jpg",
+      "alt": "큰물자라 1번째 사진 : 큰물자라전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAH0004_1_th2.jpg",
+      "caption": "큰물자라전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLAH0004-1",
+  "specimen_examples": [
+    {
+      "id": "ADUE0302261176",
+      "description": "[ADUE0302261176] 큰물자라 2000.03.30 / / 안동대학교"
+    },
+    {
+      "id": "HNUE0408191095",
+      "description": "[HNUE0408191095] 큰물자라 1996.08.09 / / 한남대학교 자연사박물관"
+    },
+    {
+      "id": "HNUE0408191096",
+      "description": "[HNUE0408191096] 큰물자라 1997.10.09 / / 한남대학교 자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLAH0004-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLAH0004&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:48+00:00",
+    "html_sha256": "0df0f8cc68dcc2536978b4668058093355e4fa156817ba59131bdc72389565ca",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "id": "ZSEO0026",
+  "name_ko": "노랑털기생파리",
+  "scientific_name": "Tachina luteola (Coquillett, 1898)",
+  "display_name": "노랑털기생파리",
+  "family_ko": "기생파리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "쇠파리상과",
+      "name_latin": "Oestroidea"
+    },
+    "family": {
+      "name_ko": "기생파리과",
+      "name_latin": "Tachinidae"
+    },
+    "subfamily": {
+      "name_ko": "기생파리아과",
+      "name_latin": "Tachininae"
+    },
+    "genus": {
+      "name_ko": "기생파리속",
+      "name_latin": "Tachina"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 쇠파리상과 (Oestroidea)\n과 : 기생파리과 (Tachinidae)\n아과 : 기생파리아과 (Tachininae)\n속 : 기생파리속 (Tachina)",
+  "basic_information": {
+    "곤충명": "노랑털기생파리",
+    "학명": "Tachina luteola (Coquillett, 1898)"
+  },
+  "information": {
+    "general_description": "몸길이는 15 mm 내외이다. 수컷의 이마는 갈색이다. 더듬이는 제2마디가 제3마디보다 약간 더 길다. 볼과 목덜미에는 황백색의 긴 털이 많이 나 있고, 아래턱수염은 가늘고 황백색이다. 배에는 황색 털이 전면에 나 있다. 각 마디의 가장자리는 갈색, 다른 부분은 황색 띠를 두르고 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "주로 4~10월에 출현한다.",
+    "habits": "주로 산에서 많이 발견된다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 15 mm 내외이다. 수컷의 이마는 갈색이다. 더듬이는 제2마디가 제3마디보다 약간 더 길다. 볼과 목덜미에는 황백색의 긴 털이 많이 나 있고, 아래턱수염은 가늘고 황백색이다. 배에는 황색 털이 전면에 나 있다. 각 마디의 가장자리는 갈색, 다른 부분은 황색 띠를 두르고 있다."
+    },
+    {
+      "title": "생태",
+      "text": "주로 4~10월에 출현한다."
+    },
+    {
+      "title": "습성",
+      "text": "주로 산에서 많이 발견된다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSEO0026-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEO0026_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEO0026_2_th.jpg",
+      "alt": "노랑털기생파리 1번째 사진 : 노랑털기생파리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEO0026_2_th2.jpg",
+      "caption": "노랑털기생파리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZSEO0026-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEO0026_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEO0026_1_th.jpg",
+      "alt": "노랑털기생파리 2번째 사진 : 노랑털기생파리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEO0026_1_th2.jpg",
+      "caption": "노랑털기생파리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSEO0026-1",
+  "specimen_examples": [
+    {
+      "id": "CBNE0301211001",
+      "description": "[CBNE0301211001] 노랑털기생파리 1993.08.29 / / 충북대학교"
+    },
+    {
+      "id": "KNAE0301171003",
+      "description": "[KNAE0301171003] 노랑털기생파리 1994.07.02 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0301171004",
+      "description": "[KNAE0301171004] 노랑털기생파리 1994.03.12 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZSEO0026-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSEO0026&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:28+00:00",
+    "html_sha256": "cb8f825bd969bed1752721c3e1434ea0b55016bcff6cfd8cad7f6293a4963a31",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "id": "ZOBL0005",
+  "name_ko": "톱하늘소",
+  "scientific_name": "Prionus insularis insularis Motschulsky, 1857",
+  "display_name": "톱하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "톱하늘소아과",
+      "name_latin": "Prioninae"
+    },
+    "genus": {
+      "name_ko": "톱하늘소속",
+      "name_latin": "Prionus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 톱하늘소아과 (Prioninae)\n속 : 톱하늘소속 (Prionus)",
+  "basic_information": {
+    "곤충명": "톱하늘소",
+    "학명": "Prionus insularis insularis Motschulsky, 1857"
+  },
+  "information": {
+    "general_description": "몸길이 23~48mm, 몸색깔은 흑갈색이며, 앞가슴등판의 옆에 톱니 모양의 가시돌기가 있는게 특징이다. 암컷의 더듬이는 12마디로, 톱날처럼 되어있다",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[중국]\n[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 23~48mm, 몸색깔은 흑갈색이며, 앞가슴등판의 옆에 톱니 모양의 가시돌기가 있는게 특징이다. 암컷의 더듬이는 12마디로, 톱날처럼 되어있다"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0005-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0005_4.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0005_4.jpg",
+      "alt": "톱하늘소 1번째 사진 : ",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0005_4_th2.jpg",
+      "caption": null,
+      "photographed_at": null,
+      "location": null,
+      "photographer": "국립수목원(이승규)"
+    },
+    {
+      "id": "ZOBL0005-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0005_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0005_3.jpg",
+      "alt": "톱하늘소 2번째 사진 : ",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0005_3_th2.jpg",
+      "caption": null,
+      "photographed_at": "20190729",
+      "location": null,
+      "photographer": "국립수목원(김무성)"
+    },
+    {
+      "id": "ZOBL0005-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0005_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0005_2_th.jpg",
+      "alt": "톱하늘소 3번째 사진 : 톱하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0005_2_th2.jpg",
+      "caption": "톱하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBL0005-4",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0005_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0005_1_th.jpg",
+      "alt": "톱하늘소 4번째 사진 : 톱하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0005_1_th2.jpg",
+      "caption": "톱하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0005-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0408101008",
+      "description": "[KNAE0408101008] 톱하늘소 2001.07.19 / / 국립수목원"
+    },
+    {
+      "id": "UIBE0301282003",
+      "description": "[UIBE0301282003] 톱하늘소 1985.07.20 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301282004",
+      "description": "[UIBE0301282004] 톱하늘소 1985.07.24 / / 인천대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "너도밤나무",
+      "scientific_name": "Fagus multinervis Nakai"
+    },
+    {
+      "group": "식물",
+      "name_ko": "밤나무",
+      "scientific_name": "Castanea crenata Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "소나무",
+      "scientific_name": "Pinus densiflora Siebold & Zucc."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0005-3"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0005&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:29+00:00",
+    "html_sha256": "e188b9357ec4b59c5a03ddd98d59a746cd32c187faecce2f8f0a80e66d658085",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

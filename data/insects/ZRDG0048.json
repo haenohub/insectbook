@@ -1,0 +1,137 @@
+{
+  "id": "ZRDG0048",
+  "name_ko": "담흑부전나비",
+  "scientific_name": "Niphanda fusca (Bremer & Grey, 1852)",
+  "display_name": "담흑부전나비",
+  "family_ko": "부전나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "부전나비과",
+      "name_latin": "Lycaenidae"
+    },
+    "subfamily": {
+      "name_ko": "부전나비아과",
+      "name_latin": "Polyommatinae"
+    },
+    "genus": {
+      "name_ko": "담흑부전나비속",
+      "name_latin": "Niphanda"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 부전나비과 (Lycaenidae)\n아과 : 부전나비아과 (Polyommatinae)\n속 : 담흑부전나비속 (Niphanda)",
+  "basic_information": {
+    "곤충명": "담흑부전나비",
+    "학명": "Niphanda fusca (Bremer & Grey, 1852)"
+  },
+  "information": {
+    "general_description": "수컷의 날개 윗면은 약한 광택이 나는 보라색이며 검은색으로 테가 둘려져 있고 외연이 직선상이나 암컷은 흑갈색으로 둥글다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "일본에서는 이 종의 1∼2령애벌레는 나무 위에서 진딧물과 공생하다가 2령 이후에 일본왕개미의 집으로 들어가 개미와 다시 공생하는 것으로 알려져 있다.",
+    "habits": "나무가 적은 잡목림 주변의 초지에 서식한다. 수컷은 맑은 날에 점유 행동을 하는데 엉겅퀴, 개망초, 주뱅이 등의 꽃에서 흡밀한다. 암컷은 그다지 활발하게 날지 않는다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[대만]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "수컷의 날개 윗면은 약한 광택이 나는 보라색이며 검은색으로 테가 둘려져 있고 외연이 직선상이나 암컷은 흑갈색으로 둥글다."
+    },
+    {
+      "title": "생태",
+      "text": "일본에서는 이 종의 1∼2령애벌레는 나무 위에서 진딧물과 공생하다가 2령 이후에 일본왕개미의 집으로 들어가 개미와 다시 공생하는 것으로 알려져 있다."
+    },
+    {
+      "title": "습성",
+      "text": "나무가 적은 잡목림 주변의 초지에 서식한다. 수컷은 맑은 날에 점유 행동을 하는데 엉겅퀴, 개망초, 주뱅이 등의 꽃에서 흡밀한다. 암컷은 그다지 활발하게 날지 않는다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[대만]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDG0048-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDG0048_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDG0048_2.jpg",
+      "alt": "담흑부전나비 1번째 사진 : 담흑부전나비 암컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDG0048_2_th2.jpg",
+      "caption": "담흑부전나비 암컷 이미지",
+      "photographed_at": "20130701",
+      "location": "충청북도 제천시 수산면",
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRDG0048-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0048_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0048_1_th.jpg",
+      "alt": "담흑부전나비 2번째 사진 : 담흑부전나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0048_1_th2.jpg",
+      "caption": "담흑부전나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDG0048-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0304281036",
+      "description": "[FRIE0304281036] 담흑부전나비 1997.07.10 / / 국립산림과학원"
+    },
+    {
+      "id": "KUIE0301161050",
+      "description": "[KUIE0301161050] 담흑부전나비 1962.07.15 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0301161051",
+      "description": "[KUIE0301161051] 담흑부전나비 1966.07.18 / / 고려대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "탱자나무",
+      "scientific_name": "Poncirus trifoliata (L.) Raf."
+    },
+    {
+      "group": "식물",
+      "name_ko": "파",
+      "scientific_name": "Allium fistulosum L."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDG0048-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDG0048&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:02+00:00",
+    "html_sha256": "8a4bf24493c773f0d8a9bdeffc91db86185a49f55df46abb749e27cee42515fc",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

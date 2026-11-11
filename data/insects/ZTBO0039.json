@@ -1,0 +1,107 @@
+{
+  "id": "ZTBO0039",
+  "name_ko": "가시방패개미",
+  "scientific_name": "Myrmecina nipponica Wheeler W.M., 1906",
+  "display_name": "가시방패개미",
+  "family_ko": "개미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "말벌상과",
+      "name_latin": "Vespoidea"
+    },
+    "family": {
+      "name_ko": "개미과",
+      "name_latin": "Formicidae"
+    },
+    "subfamily": {
+      "name_ko": "두배자루마디개미아과",
+      "name_latin": "Myrmicinae"
+    },
+    "genus": {
+      "name_ko": "가시방패개미속",
+      "name_latin": "Myrmecina"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 말벌상과 (Vespoidea)\n과 : 개미과 (Formicidae)\n아과 : 두배자루마디개미아과 (Myrmicinae)\n속 : 가시방패개미속 (Myrmecina)",
+  "basic_information": {
+    "곤충명": "가시방패개미",
+    "학명": "Myrmecina nipponica Wheeler W.M., 1906"
+  },
+  "information": {
+    "general_description": "몸길이는 2.8-3.0mm 정도이며, 몸은 흑색이고 광택이 강하다. 더듬이와 큰턱, 큰턱의기부와 겹눈사이, 머리방패, 다리 등은 암적갈색이고 제1.2배자루마디도 다소 적갈색이다. 온몸에 황갈색털이 조밀하게 났다. 머리, 가슴과 2배자루마디에는 불규칙한그물모양의 조각무늬가 있고 앞머리에서도 세로주름으로 되어있다. 더듬이는 12마디로 되었고 끝3마디는 아령 모양을 이루고있다. 머리방패에는 중앙에1개, 양 옆에 각각 1개의 짧은 이가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 2.8-3.0mm 정도이며, 몸은 흑색이고 광택이 강하다. 더듬이와 큰턱, 큰턱의기부와 겹눈사이, 머리방패, 다리 등은 암적갈색이고 제1.2배자루마디도 다소 적갈색이다. 온몸에 황갈색털이 조밀하게 났다. 머리, 가슴과 2배자루마디에는 불규칙한그물모양의 조각무늬가 있고 앞머리에서도 세로주름으로 되어있다. 더듬이는 12마디로 되었고 끝3마디는 아령 모양을 이루고있다. 머리방패에는 중앙에1개, 양 옆에 각각 1개의 짧은 이가 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBO0039-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0039_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0039_1_th.jpg",
+      "alt": "가시방패개미 1번째 사진 : 가시방패개미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0039_1_th2.jpg",
+      "caption": "가시방패개미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBO0039-1",
+  "specimen_examples": [
+    {
+      "id": "CBNE0204181037",
+      "description": "[CBNE0204181037] 가시방패개미 1996.09.20 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0204181038",
+      "description": "[CBNE0204181038] 가시방패개미 1991.09.11 / / 충북대학교"
+    },
+    {
+      "id": "KNAE154099",
+      "description": "[KNAE154099] 가시방패개미 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTBO0039.png",
+    "reference_image_id": "ZTBO0039-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T16:31:04.468078+00:00",
+    "sha256": "b00595c37e63100e8c18b7ef04e2975a8d50c3dae5bc19c47af1c8192eb6d58b",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBO0039&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:12+00:00",
+    "html_sha256": "e52ec86d3a2ce88d06c028e580b10c813f3c6dd43572a1e8e26de578aacc3c7c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

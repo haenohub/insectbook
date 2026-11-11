@@ -1,0 +1,107 @@
+{
+  "id": "ZOCF0019",
+  "name_ko": "밤색주둥이바구미",
+  "scientific_name": "Cyrtepistomus castaneus (Roelofs, 1873)",
+  "display_name": "밤색주둥이바구미",
+  "family_ko": "바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "바구미과",
+      "name_latin": "Curculionidae"
+    },
+    "subfamily": {
+      "name_ko": "줄바구미아과",
+      "name_latin": "Entiminae"
+    },
+    "genus": {
+      "name_ko": "밤색주둥이바구미속",
+      "name_latin": "Cyrtepistomus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 바구미과 (Curculionidae)\n아과 : 줄바구미아과 (Entiminae)\n속 : 밤색주둥이바구미속 (Cyrtepistomus)",
+  "basic_information": {
+    "곤충명": "밤색주둥이바구미",
+    "학명": "Cyrtepistomus castaneus (Roelofs, 1873)"
+  },
+  "information": {
+    "general_description": "한국(북부, 중부, 남부, 제주특별자치도), 일본, 북아메리카에 분포하며, 몸길이 5.0-6.0 mm. 딱지날개 각 간실에 반쯤 누운 1열의 긴 인모가 있고, 등면에 인편이 거의 없다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "Quercus spp.를 기주식물로 하며, 단성생식한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국(북부, 중부, 남부, 제주특별자치도), 일본, 북아메리카에 분포하며, 몸길이 5.0-6.0 mm. 딱지날개 각 간실에 반쯤 누운 1열의 긴 인모가 있고, 등면에 인편이 거의 없다."
+    },
+    {
+      "title": "생태",
+      "text": "Quercus spp.를 기주식물로 하며, 단성생식한다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCF0019-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0019_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0019_1_th.jpg",
+      "alt": "밤색주둥이바구미 1번째 사진 : 밤색주둥이바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0019_1_th2.jpg",
+      "caption": "밤색주둥이바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCF0019-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0203274014",
+      "description": "[SNUE0203274014] 밤색주둥이바구미 1997.08.07 / / 서울대학교"
+    },
+    {
+      "id": "FRIE0303261034",
+      "description": "[FRIE0303261034] 밤색주둥이바구미 1982.09.13 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0911101288",
+      "description": "[KNAE0911101288] 밤색주둥이바구미 1999.08.14 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOCF0019-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCF0019&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:16+00:00",
+    "html_sha256": "31a7c958e6ae28ff80049953e178214632640b9e95485632d49f4b5e781d54b6",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "ZSEX0037",
+  "name_ko": "왕상제각다귀",
+  "scientific_name": "Libnotes (Libnotes) nohirai Alexander, 1918",
+  "display_name": "왕상제각다귀",
+  "family_ko": "애기각다귀과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "각다귀상과",
+      "name_latin": "Tipuloidea"
+    },
+    "family": {
+      "name_ko": "애기각다귀과",
+      "name_latin": "Limoniidae"
+    },
+    "subfamily": {
+      "name_ko": "애기각다귀아과",
+      "name_latin": "Limoniinae"
+    },
+    "genus": {
+      "name_ko": "왕상제각다귀속",
+      "name_latin": "Libnotes"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 각다귀상과 (Tipuloidea)\n과 : 애기각다귀과 (Limoniidae)\n아과 : 애기각다귀아과 (Limoniinae)\n속 : 왕상제각다귀속 (Libnotes)",
+  "basic_information": {
+    "곤충명": "왕상제각다귀",
+    "학명": "Libnotes (Libnotes) nohirai Alexander, 1918"
+  },
+  "information": {
+    "general_description": "몸길이 9~13mm. 앞날개길이 12~17mm. 몸색깔은 황갈색이며 머리는 회갈색이고 겹눈은 흑색임. 입과 작은턱수염은 암갈색이고 더듬이의 기부 2마디는 암갈색이나 그 이하는 황갈색임. 가슴은 황갈색이나 등면은 암색이고 앞방패판 위에서는 4세로 줄무늬 있음. 배는 황색이며 정중선과 옆면에 1개의 암색 줄 존재. 날개는 길고 투명하며 흑갈색 줄이 있음. 평균곤은 연황색이나 끝은 암색임. 다리는 황색이나 넓적다리마디끝은 흑갈색임.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 9~13mm. 앞날개길이 12~17mm. 몸색깔은 황갈색이며 머리는 회갈색이고 겹눈은 흑색임. 입과 작은턱수염은 암갈색이고 더듬이의 기부 2마디는 암갈색이나 그 이하는 황갈색임. 가슴은 황갈색이나 등면은 암색이고 앞방패판 위에서는 4세로 줄무늬 있음. 배는 황색이며 정중선과 옆면에 1개의 암색 줄 존재. 날개는 길고 투명하며 흑갈색 줄이 있음. 평균곤은 연황색이나 끝은 암색임. 다리는 황색이나 넓적다리마디끝은 흑갈색임."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSEX0037-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEX0037_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEX0037_1_th.jpg",
+      "alt": "왕상제각다귀 1번째 사진 : 왕상제각다귀전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEX0037_1_th2.jpg",
+      "caption": "왕상제각다귀전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSEX0037-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408191038",
+      "description": "[MPME0408191038] 왕상제각다귀 2003.10.03 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408161005",
+      "description": "[MPME0408161005] 왕상제각다귀 2003.10.03 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408161006",
+      "description": "[MPME0408161006] 왕상제각다귀 2003.10.03 / / 목포자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZSEX0037-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSEX0037&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:41+00:00",
+    "html_sha256": "211e26c1dc4bfcd65e3c2824c5a54e15e0fc309f653ab2cb0db9dfa741625f71",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "ZOGJ0022",
+  "name_ko": "고려소똥풍뎅이",
+  "scientific_name": "Onthophagus (Palaeonthophagus) koryoensis Kim, 1985",
+  "display_name": "고려소똥풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "소똥구리아과",
+      "name_latin": "Scarabaeinae"
+    },
+    "genus": {
+      "name_ko": "소똥풍뎅이속",
+      "name_latin": "Onthophagus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 소똥구리아과 (Scarabaeinae)\n속 : 소똥풍뎅이속 (Onthophagus)",
+  "basic_information": {
+    "곤충명": "고려소똥풍뎅이",
+    "학명": "Onthophagus (Palaeonthophagus) koryoensis Kim, 1985"
+  },
+  "information": {
+    "general_description": "한국에 분포하며 흑색이며 소형이나 두껍고 두정융기는 암수 모두 큰데 양옆은 평행이나 윗면은 크게 파인 U자형이다. 전흉배판 앞쪽에 3개의 융기가 있는데 가운데 것은 특히 크고 굵으며 전상방으로 뻗었다. BL:6.5~7.5mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "인,견분에서 주로 채집되며, 우분에도 모인다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국에 분포하며 흑색이며 소형이나 두껍고 두정융기는 암수 모두 큰데 양옆은 평행이나 윗면은 크게 파인 U자형이다. 전흉배판 앞쪽에 3개의 융기가 있는데 가운데 것은 특히 크고 굵으며 전상방으로 뻗었다. BL:6.5~7.5mm."
+    },
+    {
+      "title": "생태",
+      "text": "인,견분에서 주로 채집되며, 우분에도 모인다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGJ0022-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0022_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0022_1_th.jpg",
+      "alt": "고려소똥풍뎅이 1번째 사진 : 고려소똥풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0022_1_th2.jpg",
+      "caption": "고려소똥풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGJ0022-1",
+  "specimen_examples": [
+    {
+      "id": "SSUE0302211081",
+      "description": "[SSUE0302211081] 고려소똥풍뎅이 1986.03.29 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0302211083",
+      "description": "[SSUE0302211083] 고려소똥풍뎅이 1992.05.09 / / 성신여자대학교"
+    },
+    {
+      "id": "SNUE0202211001",
+      "description": "[SNUE0202211001] 고려소똥풍뎅이 1966.11.25 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOGJ0022.png",
+    "reference_image_id": "ZOGJ0022-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T12:30:43.619198+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "475f39a66cf62ce076feba6e077e9f91a4599205c15ea63ae58f8bc3fea7858e"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGJ0022&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:46+00:00",
+    "html_sha256": "3c07de39ba7efa9528b68331268f1affc9a63d3f78e4a617974d2174b1df7898",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

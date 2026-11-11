@@ -1,0 +1,99 @@
+{
+  "id": "ZOCW0018",
+  "name_ko": "꽁지검은버섯벌레",
+  "scientific_name": "Dactylotritoma atricapilla (Lewis, 1887)",
+  "display_name": "꽁지검은버섯벌레",
+  "family_ko": "버섯벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "머리대장상과",
+      "name_latin": "Cucujoidea"
+    },
+    "family": {
+      "name_ko": "버섯벌레과",
+      "name_latin": "Erotylidae"
+    },
+    "subfamily": {
+      "name_ko": "버섯벌레아과",
+      "name_latin": "Erotylinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Dactylotritoma"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 머리대장상과 (Cucujoidea)\n과 : 버섯벌레과 (Erotylidae)\n아과 : 버섯벌레아과 (Erotylinae)\n속 : (Dactylotritoma)",
+  "basic_information": {
+    "곤충명": "꽁지검은버섯벌레",
+    "학명": "Dactylotritoma atricapilla (Lewis, 1887)"
+  },
+  "information": {
+    "general_description": "몸길이는 6~6.5mm 이며 촉각, 두부, 다리는 검은색이며 딱지날개의 중앙부분 부터 뒷부분은 검은색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 6~6.5mm 이며 촉각, 두부, 다리는 검은색이며 딱지날개의 중앙부분 부터 뒷부분은 검은색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCW0018-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCW0018_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCW0018_1_th.jpg",
+      "alt": "꽁지검은버섯벌레 1번째 사진 : 꽁지검은버섯벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCW0018_1_th2.jpg",
+      "caption": "꽁지검은버섯벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCW0018-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0203274020",
+      "description": "[SNUE0203274020] 꽁지검은버섯벌레 1991.08.12 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOCW0018.png",
+    "reference_image_id": "ZOCW0018-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T14:36:13.340586+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "16303e190a68d888316b91a5639df7df0e152c17f0ec30f6ba56ec8c6b3d6da3"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCW0018&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:54+00:00",
+    "html_sha256": "67d6aadeb86a840b99259ee58f417721beca0cccb7a116240b617131a471caa7",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

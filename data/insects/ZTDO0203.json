@@ -1,0 +1,99 @@
+{
+  "id": "ZTDO0203",
+  "name_ko": "광채잎벌",
+  "scientific_name": "Tenthredopsis nassata (Linnaeus, 1767)",
+  "display_name": "광채잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "잎벌아과",
+      "name_latin": "Tenthredininae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Tenthredopsis"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 잎벌아과 (Tenthredininae)\n속 : (Tenthredopsis)",
+  "basic_information": {
+    "곤충명": "광채잎벌",
+    "학명": "Tenthredopsis nassata (Linnaeus, 1767)"
+  },
+  "information": {
+    "general_description": "몸길이는 11.5mm,더듬이 길이는 7.5mm, 앞날개 길이는 13mm이다. 몸은 흑색이다. 머리방패, 윗입술, 큰턱, 수염, 배마디 측면, 밑마디 끝, 뒷가슴 츨면 끝 가두리, 앞가슴 등판 뒷가두리는 밝은 황색이다. 뒷다리 종아리마디 끝 1/2이하 발목마디까지는 흑색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 11.5mm,더듬이 길이는 7.5mm, 앞날개 길이는 13mm이다. 몸은 흑색이다. 머리방패, 윗입술, 큰턱, 수염, 배마디 측면, 밑마디 끝, 뒷가슴 츨면 끝 가두리, 앞가슴 등판 뒷가두리는 밝은 황색이다. 뒷다리 종아리마디 끝 1/2이하 발목마디까지는 흑색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0203-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0203_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0203_1_th.jpg",
+      "alt": "광채잎벌 1번째 사진 : 광채잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0203_1_th2.jpg",
+      "caption": "광채잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0203-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0301059110",
+      "description": "[YNUE0301059110] 광채잎벌 1992.06.13 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTDO0203.png",
+    "reference_image_id": "ZTDO0203-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T13:31:48.434269+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "33a1a7342e3af2dc20fb750853a1d550ba7a5d5fa6b7586cce426159d6058b5e"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0203&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:15+00:00",
+    "html_sha256": "0ab50b52e5e7c9f9852c9961f51e02705af977fda9ce9baec0dee816e2b75a3f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

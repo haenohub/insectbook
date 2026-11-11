@@ -1,0 +1,114 @@
+{
+  "id": "ZDAP0015",
+  "name_ko": "여름좀잠자리",
+  "scientific_name": "Sympetrum darwinianum (Selys, 1883)",
+  "display_name": "여름좀잠자리",
+  "family_ko": "잠자리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "잠자리목",
+      "name_latin": "Odonata"
+    },
+    "family": {
+      "name_ko": "잠자리과",
+      "name_latin": "Libellulidae"
+    },
+    "subfamily": {
+      "name_ko": "고추잠자리아과",
+      "name_latin": "Sympetrinae"
+    },
+    "genus": {
+      "name_ko": "좀잠자리속",
+      "name_latin": "Sympetrum"
+    }
+  },
+  "taxonomy_text": "목 : 잠자리목 (Odonata)\n과 : 잠자리과 (Libellulidae)\n아과 : 고추잠자리아과 (Sympetrinae)\n속 : 좀잠자리속 (Sympetrum)",
+  "basic_information": {
+    "곤충명": "여름좀잠자리",
+    "학명": "Sympetrum darwinianum (Selys, 1883)"
+  },
+  "information": {
+    "general_description": "배길이 25mm, 뒷날개길이 28mm. 얼굴은 오황색이고 뒷머리, 이마혹, 이마는 등적갈색이며 이마조각, 윗입술조각, 윗입술은 등황갈색임. 아랫입술은 가운데조각이 황색이며 가운데가슴은 앞쪽이 갈색이고 가슴 옆쪽은 황갈색인데 흑색줄이 3줄 있음. 배는 적색 또는 황색이고 암컷 옆면 흑색부는 항상 점모양이고 발달하지 않음. 미부 상부기는 등황적색이고 약하게 굴곡되었고 아랫쪽 톱니는 아주 작음. 하부기는 등황적갈색임. 날개는 투명하고 가두리무늬는 흑갈색임.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 7월초순부터 11월경까지 관찰된다. 교미후 암수는 떨어지지 않은채 물가를 날면서 공중에서 알을 뿌리듯이 산란한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "배길이 25mm, 뒷날개길이 28mm. 얼굴은 오황색이고 뒷머리, 이마혹, 이마는 등적갈색이며 이마조각, 윗입술조각, 윗입술은 등황갈색임. 아랫입술은 가운데조각이 황색이며 가운데가슴은 앞쪽이 갈색이고 가슴 옆쪽은 황갈색인데 흑색줄이 3줄 있음. 배는 적색 또는 황색이고 암컷 옆면 흑색부는 항상 점모양이고 발달하지 않음. 미부 상부기는 등황적색이고 약하게 굴곡되었고 아랫쪽 톱니는 아주 작음. 하부기는 등황적갈색임. 날개는 투명하고 가두리무늬는 흑갈색임."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 7월초순부터 11월경까지 관찰된다. 교미후 암수는 떨어지지 않은채 물가를 날면서 공중에서 알을 뿌리듯이 산란한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZDAP0015-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0015_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0015_2_th.jpg",
+      "alt": "여름좀잠자리 1번째 사진 : 여름좀잠자리전체 옆면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0015_2_th2.jpg",
+      "caption": "여름좀잠자리전체 옆면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZDAP0015-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0015_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0015_1_th.jpg",
+      "alt": "여름좀잠자리 2번째 사진 : 여름좀잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0015_1_th2.jpg",
+      "caption": "여름좀잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZDAP0015-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408201133",
+      "description": "[MPME0408201133] 여름좀잠자리 2003.08.13 / / 목포자연사박물관"
+    },
+    {
+      "id": "YNUE0306281093",
+      "description": "[YNUE0306281093] 여름좀잠자리 1997.09.06 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306281094",
+      "description": "[YNUE0306281094] 여름좀잠자리 1999.09.04 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZDAP0015-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZDAP0015&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:01+00:00",
+    "html_sha256": "59a8ade4a25dfaed122982a4e63a0799cb99d3a0e8d9aa378494bea51bef4904",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

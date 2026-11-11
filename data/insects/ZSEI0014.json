@@ -1,0 +1,99 @@
+{
+  "id": "ZSEI0014",
+  "name_ko": "방울동애등에",
+  "scientific_name": "Craspedometopon frontale Kertész, 1909",
+  "display_name": "방울동애등에",
+  "family_ko": "동애등에과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "동애등에상과",
+      "name_latin": "Stratiomyoidea"
+    },
+    "family": {
+      "name_ko": "동애등에과",
+      "name_latin": "Stratiomyidae"
+    },
+    "subfamily": {
+      "name_ko": "방울동애등에아과",
+      "name_latin": "Pachygastrinae"
+    },
+    "genus": {
+      "name_ko": "방울동애등에속",
+      "name_latin": "Craspedometopon"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 동애등에상과 (Stratiomyoidea)\n과 : 동애등에과 (Stratiomyidae)\n아과 : 방울동애등에아과 (Pachygastrinae)\n속 : 방울동애등에속 (Craspedometopon)",
+  "basic_information": {
+    "곤충명": "방울동애등에",
+    "학명": "Craspedometopon frontale Kertész, 1909"
+  },
+  "information": {
+    "general_description": "체장: 7-9mm. 몸은 광택있는 흑색. 앞이마는 대단히 작고 흰가루로 덮임. 중앙에 가는 세로홈. 얼굴은 대단히 짧고 회색가루로 덮임. 더듬이는 적갈색. 가슴에는 흑색 미모 밀생. 작은방패판은 대단히 크며 뒷가장자리에 4개의 짧은 가시. 날개는 크고 기부 약 1/2는 흑갈색이며 바깥가장자리는 약간 황색이고 나머지는 약간 흐림. 다리는 흑갈색이고 무릎이하는 황색. 배는 짧고 굵으며 흑갈색 미모.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체장: 7-9mm. 몸은 광택있는 흑색. 앞이마는 대단히 작고 흰가루로 덮임. 중앙에 가는 세로홈. 얼굴은 대단히 짧고 회색가루로 덮임. 더듬이는 적갈색. 가슴에는 흑색 미모 밀생. 작은방패판은 대단히 크며 뒷가장자리에 4개의 짧은 가시. 날개는 크고 기부 약 1/2는 흑갈색이며 바깥가장자리는 약간 황색이고 나머지는 약간 흐림. 다리는 흑갈색이고 무릎이하는 황색. 배는 짧고 굵으며 흑갈색 미모."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSEI0014-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEI0014_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEI0014_1_th.jpg",
+      "alt": "방울동애등에 1번째 사진 : 방울동애등에전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEI0014_1_th2.jpg",
+      "caption": "방울동애등에전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSEI0014-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0201023042",
+      "description": "[YNUE0201023042] 방울동애등에 1992.05.22 / / 영남대학교"
+    },
+    {
+      "id": "KNAE146847",
+      "description": "[KNAE146847] 방울동애등에 / / 국립수목원"
+    },
+    {
+      "id": "KNAE146869",
+      "description": "[KNAE146869] 방울동애등에 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZSEI0014-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSEI0014&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:19+00:00",
+    "html_sha256": "68ed6f73a8830a724400b4d7866ef22555b271818298ab036c43b09231a849c2",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

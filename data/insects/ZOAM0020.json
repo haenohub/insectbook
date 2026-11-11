@@ -1,0 +1,114 @@
+{
+  "id": "ZOAM0020",
+  "name_ko": "흰원무늬소바구미",
+  "scientific_name": "Enedreytes gotoi Shibata, 1969",
+  "display_name": "흰원무늬소바구미",
+  "family_ko": "소바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "소바구미과",
+      "name_latin": "Anthribidae"
+    },
+    "subfamily": {
+      "name_ko": "소바구미아과",
+      "name_latin": "Anthribinae"
+    },
+    "genus": {
+      "name_ko": "무늬소바구미속",
+      "name_latin": "Enedreytes"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 소바구미과 (Anthribidae)\n아과 : 소바구미아과 (Anthribinae)\n속 : 무늬소바구미속 (Enedreytes)",
+  "basic_information": {
+    "곤충명": "흰원무늬소바구미",
+    "학명": "Enedreytes gotoi Shibata, 1969"
+  },
+  "information": {
+    "general_description": "몸은 흑색을 띄며 검은 색의 털을 바탕으로 흰색의 털 무늬를 가지고 있으며 수컷의 촉각이 암컷보다 길고, 곤봉부의 아랫면은 편평. 주둥이는 폭보가 약간 길어 보이지만 불규칙적인 점각흠이 보임.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸은 흑색을 띄며 검은 색의 털을 바탕으로 흰색의 털 무늬를 가지고 있으며 수컷의 촉각이 암컷보다 길고, 곤봉부의 아랫면은 편평. 주둥이는 폭보가 약간 길어 보이지만 불규칙적인 점각흠이 보임."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAM0020-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0020_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0020_2_th.jpg",
+      "alt": "흰원무늬소바구미 1번째 사진 : 흰원무늬소바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0020_2_th2.jpg",
+      "caption": "흰원무늬소바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOAM0020-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0020_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0020_1_th.jpg",
+      "alt": "흰원무늬소바구미 2번째 사진 : 흰원무늬소바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0020_1_th2.jpg",
+      "caption": "흰원무늬소바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAM0020-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0203274043",
+      "description": "[SNUE0203274043] 흰원무늬소바구미 1982.08.11 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0203274044",
+      "description": "[SNUE0203274044] 흰원무늬소바구미 1997.06.02 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0203274045",
+      "description": "[SNUE0203274045] 흰원무늬소바구미 1995.05.06 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAM0020-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAM0020&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:42+00:00",
+    "html_sha256": "a9f85a86912c5cc7f59f9ccf57061d7a164f3cc9b45fd48e1b2a542a4001307d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

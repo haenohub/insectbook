@@ -1,0 +1,114 @@
+{
+  "id": "ZOBU0014",
+  "name_ko": "꼬마길앞잡이",
+  "scientific_name": "Cylindera (Eugrapha) elisae elisae Motschulsky, 1859",
+  "display_name": "꼬마길앞잡이",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "길앞잡이아과",
+      "name_latin": "Cicindelinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Cylindera"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 길앞잡이아과 (Cicindelinae)\n속 : (Cylindera)",
+  "basic_information": {
+    "곤충명": "꼬마길앞잡이",
+    "학명": "Cylindera (Eugrapha) elisae elisae Motschulsky, 1859"
+  },
+  "information": {
+    "general_description": "한국, 만주, 몽고, 아무르, 중국에 분포하며, 체자은 8-10mm 정도이다. 몸은 편평하고 녹색을 띤 구리색 광택이 난다. 딱지날개는 편평하고 중앙부에서 폭이 넓어졌다. 전면은 구리색 광택이 나고 한편 금록색이 나는 점각이 밀포되었다. 딱지날개 반문은 가운데 띠반문의 기부에서 날개 가두리를 다라 위 아래로 가지가 났고 이것이 어깨반문까지 연결하였다. 일반적으로 반문은 가늘고 어깨부늬는 완전하고 C자형 또는 S자형으로 되었고 날개끝의 무늬는 윗끝에서 안쪽으로 가지가 나와 <모양을 형성하였다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 만주, 몽고, 아무르, 중국에 분포하며, 체자은 8-10mm 정도이다. 몸은 편평하고 녹색을 띤 구리색 광택이 난다. 딱지날개는 편평하고 중앙부에서 폭이 넓어졌다. 전면은 구리색 광택이 나고 한편 금록색이 나는 점각이 밀포되었다. 딱지날개 반문은 가운데 띠반문의 기부에서 날개 가두리를 다라 위 아래로 가지가 났고 이것이 어깨반문까지 연결하였다. 일반적으로 반문은 가늘고 어깨부늬는 완전하고 C자형 또는 S자형으로 되었고 날개끝의 무늬는 윗끝에서 안쪽으로 가지가 나와 <모양을 형성하였다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBU0014-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0014_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0014_2_th.jpg",
+      "alt": "꼬마길앞잡이 1번째 사진 : 꼬마길앞잡이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0014_2_th2.jpg",
+      "caption": "꼬마길앞잡이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBU0014-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0014_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0014_1_th.jpg",
+      "alt": "꼬마길앞잡이 2번째 사진 : 꼬마길앞잡이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0014_1_th2.jpg",
+      "caption": "꼬마길앞잡이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBU0014-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0408131010",
+      "description": "[UIBE0408131010] 꼬마길앞잡이 1995.08.11 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0408131012",
+      "description": "[UIBE0408131012] 꼬마길앞잡이 1995.08.11 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0408131013",
+      "description": "[UIBE0408131013] 꼬마길앞잡이 2000.07.04 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBU0014.png",
+    "reference_image_id": "ZOBU0014-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T13:16:46.849581+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "85a6714807859d4378bae72956cee87be9f171ec4a0b48608a599162472e5958"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBU0014&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:30+00:00",
+    "html_sha256": "0e2fbfd956a5c5d9c4ac1539aabdab683c430997ed8bb3249faa1622aba94a58",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

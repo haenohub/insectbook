@@ -1,0 +1,118 @@
+{
+  "id": "ZDAP0007",
+  "name_ko": "큰밀잠자리",
+  "scientific_name": "Orthetrum melania (Selys, 1883)",
+  "display_name": "큰밀잠자리",
+  "family_ko": "잠자리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "잠자리목",
+      "name_latin": "Odonata"
+    },
+    "family": {
+      "name_ko": "잠자리과",
+      "name_latin": "Libellulidae"
+    },
+    "subfamily": {
+      "name_ko": "잠자리아과",
+      "name_latin": "Libellulinae"
+    },
+    "genus": {
+      "name_ko": "밀잠자리속",
+      "name_latin": "Orthetrum"
+    }
+  },
+  "taxonomy_text": "목 : 잠자리목 (Odonata)\n과 : 잠자리과 (Libellulidae)\n아과 : 잠자리아과 (Libellulinae)\n속 : 밀잠자리속 (Orthetrum)",
+  "basic_information": {
+    "곤충명": "큰밀잠자리",
+    "학명": "Orthetrum melania (Selys, 1883)"
+  },
+  "information": {
+    "general_description": "뒷날개의 길이는 약 40 mm이다. 뒷머리와 이마혹은 흑색이다. 배는 남색을 띤 회색으로 흰 가루가 덮였으나, 끝 3마디는 흰 가루가 없이 흑색이다. 날개는 투명하다. 날개맥은 흑갈색이고, 가두리 무늬는 황색 또는 갈색이다.",
+    "adult": null,
+    "adult_male": "뒷날개 밑에는 흑갈색 무늬가 있다.",
+    "adult_female": "몸 좌우에 있는 흑색 줄 무늬는 굵고 뒤쪽으로 감에 따라 점점 굵어져 나중에는 전부 흑색으로 된다. 뒷날개 밑은 등황색이다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[대만]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "뒷날개의 길이는 약 40 mm이다. 뒷머리와 이마혹은 흑색이다. 배는 남색을 띤 회색으로 흰 가루가 덮였으나, 끝 3마디는 흰 가루가 없이 흑색이다. 날개는 투명하다. 날개맥은 흑갈색이고, 가두리 무늬는 황색 또는 갈색이다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "뒷날개 밑에는 흑갈색 무늬가 있다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "몸 좌우에 있는 흑색 줄 무늬는 굵고 뒤쪽으로 감에 따라 점점 굵어져 나중에는 전부 흑색으로 된다. 뒷날개 밑은 등황색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[대만]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZDAP0007-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0007_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0007_2_th.jpg",
+      "alt": "큰밀잠자리 1번째 사진 : 큰밀잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0007_2_th2.jpg",
+      "caption": "큰밀잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZDAP0007-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0007_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0007_1_th.jpg",
+      "alt": "큰밀잠자리 2번째 사진 : 큰밀잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0007_1_th2.jpg",
+      "caption": "큰밀잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZDAP0007-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0306242001",
+      "description": "[SNUE0306242001] 큰밀잠자리 1989.06.23 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0306242041",
+      "description": "[SNUE0306242041] 큰밀잠자리 1983.06.14 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0306242042",
+      "description": "[SNUE0306242042] 큰밀잠자리 1986.05.23 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZDAP0007-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZDAP0007&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:48+00:00",
+    "html_sha256": "ccbe2d8a9e9498ccd8434ac94d333965ea980e96a730dcc6a5a05b8222381a6c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

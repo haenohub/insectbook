@@ -1,0 +1,99 @@
+{
+  "id": "ZODK0026",
+  "name_ko": "갈색다리풍뎅이붙이",
+  "scientific_name": "Hister simplicisternus Lewis, 1879",
+  "display_name": "갈색다리풍뎅이붙이",
+  "family_ko": "풍뎅이붙이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "물땡땡이상과",
+      "name_latin": "Hydrophiloidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이붙이과",
+      "name_latin": "Histeridae"
+    },
+    "subfamily": {
+      "name_ko": "풍뎅이붙이아과",
+      "name_latin": "Histerinae"
+    },
+    "genus": {
+      "name_ko": "풍뎅이붙이속",
+      "name_latin": "Hister"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 물땡땡이상과 (Hydrophiloidea)\n과 : 풍뎅이붙이과 (Histeridae)\n아과 : 풍뎅이붙이아과 (Histerinae)\n속 : 풍뎅이붙이속 (Hister)",
+  "basic_information": {
+    "곤충명": "갈색다리풍뎅이붙이",
+    "학명": "Hister simplicisternus Lewis, 1879"
+  },
+  "information": {
+    "general_description": "몸길이는 4.2~6.5mm 이며 몸은 폭이 넓은 편이고 전체적으로 검은색이나 촉각 다리는 갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 4.2~6.5mm 이며 몸은 폭이 넓은 편이고 전체적으로 검은색이나 촉각 다리는 갈색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZODK0026-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODK0026_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODK0026_1_th.jpg",
+      "alt": "갈색다리풍뎅이붙이 1번째 사진 : 갈색다리풍뎅이붙이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODK0026_1_th2.jpg",
+      "caption": "갈색다리풍뎅이붙이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZODK0026-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0202081026",
+      "description": "[SNUE0202081026] 갈색다리풍뎅이붙이 1995.05.24 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZODK0026.png",
+    "reference_image_id": "ZODK0026-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T16:35:03.740077+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "3b9ffffc4e50ceaa98eb0c097db847e0a46716c5379c942b8b75304c13df6c94"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZODK0026&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:29+00:00",
+    "html_sha256": "a67ac3a01df0578f7f3f49628b9d8b58ad42193fbd86953bcdbae1381b85b773",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "id": "ZOAM0006",
+  "name_ko": "알락소바구미",
+  "scientific_name": "Opanthribus tessellatus (Boheman, 1829)",
+  "display_name": "알락소바구미",
+  "family_ko": "소바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "소바구미과",
+      "name_latin": "Anthribidae"
+    },
+    "subfamily": {
+      "name_ko": "소바구미아과",
+      "name_latin": "Anthribinae"
+    },
+    "genus": {
+      "name_ko": "알락소바구미속",
+      "name_latin": "Opanthribus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 소바구미과 (Anthribidae)\n아과 : 소바구미아과 (Anthribinae)\n속 : 알락소바구미속 (Opanthribus)",
+  "basic_information": {
+    "곤충명": "알락소바구미",
+    "학명": "Opanthribus tessellatus (Boheman, 1829)"
+  },
+  "information": {
+    "general_description": "크기 2.1-3.5mm\n체색은 흑색. 밝은 회색의 얼룩덜룩한 털무늬가 있다.\n주둥이는 매우 짧다.\n측융기선은 뒤쪽으로 길게 뻗어, 눈의 중앙까지 들어간다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "크기 2.1-3.5mm\n체색은 흑색. 밝은 회색의 얼룩덜룩한 털무늬가 있다.\n주둥이는 매우 짧다.\n측융기선은 뒤쪽으로 길게 뻗어, 눈의 중앙까지 들어간다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAM0006-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0006_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0006_2_th.jpg",
+      "alt": "알락소바구미 1번째 사진 : 알락소바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0006_2_th2.jpg",
+      "caption": "알락소바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOAM0006-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0006_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0006_1_th.jpg",
+      "alt": "알락소바구미 2번째 사진 : 알락소바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0006_1_th2.jpg",
+      "caption": "알락소바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAM0006-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0204034021",
+      "description": "[SNUE0204034021] 알락소바구미 1991.06.20 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0203294085",
+      "description": "[SNUE0203294085] 알락소바구미 1998.07.27 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0203294087",
+      "description": "[SNUE0203294087] 알락소바구미 1998.07.27 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAM0006-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAM0006&tabId=tab1",
+    "collected_at": "2026-11-04T14:14:31+00:00",
+    "html_sha256": "5c18e3228951d7b1e22c89c86853f2980de1ea3a847d6be488c94e1df8ebb37c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

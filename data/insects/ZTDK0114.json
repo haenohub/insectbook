@@ -1,0 +1,107 @@
+{
+  "id": "ZTDK0114",
+  "name_ko": "네줄노래기벌",
+  "scientific_name": "Cerceris quadrifasciata (Panzer, 1799)",
+  "display_name": "네줄노래기벌",
+  "family_ko": "은주둥이벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "은주둥이벌과",
+      "name_latin": "Crabronidae"
+    },
+    "subfamily": {
+      "name_ko": "노래기벌아과",
+      "name_latin": "Philanthinae"
+    },
+    "genus": {
+      "name_ko": "노래기벌속",
+      "name_latin": "Cerceris"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 은주둥이벌과 (Crabronidae)\n아과 : 노래기벌아과 (Philanthinae)\n속 : 노래기벌속 (Cerceris)",
+  "basic_information": {
+    "곤충명": "네줄노래기벌",
+    "학명": "Cerceris quadrifasciata (Panzer, 1799)"
+  },
+  "information": {
+    "general_description": "몸길이는 암컷11mm, 수컷9.5~11mm이다.\n암컷은 가슴의 전체와 다리는 넓적다리의 끝 앞까지 흑색이고, 머리방패의 중엽은 한층 더 돌출했고 그 작은 돌출물은 약간 돌출했으며 그 끝은 엷고 융기하였고 절단형이다. 머리방패 위의 무늬, 2ㆍ3ㆍ4배마디등판의 좁은 띠무늬는 황색이다. 수컷에서는 배의 점각은 섬세하고 드물며 더듬이의 끝마디는 뚜렷이 구부러 들었다. 제6배마디배판은 옆구리에 털다발이 없다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 암컷11mm, 수컷9.5~11mm이다.\n암컷은 가슴의 전체와 다리는 넓적다리의 끝 앞까지 흑색이고, 머리방패의 중엽은 한층 더 돌출했고 그 작은 돌출물은 약간 돌출했으며 그 끝은 엷고 융기하였고 절단형이다. 머리방패 위의 무늬, 2ㆍ3ㆍ4배마디등판의 좁은 띠무늬는 황색이다. 수컷에서는 배의 점각은 섬세하고 드물며 더듬이의 끝마디는 뚜렷이 구부러 들었다. 제6배마디배판은 옆구리에 털다발이 없다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDK0114-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0114_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0114_1_th.jpg",
+      "alt": "네줄노래기벌 1번째 사진 : 네줄노래기벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0114_1_th2.jpg",
+      "caption": "네줄노래기벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDK0114-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306261003",
+      "description": "[YNUE0306261003] 네줄노래기벌 1995.08.14 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306261010",
+      "description": "[YNUE0306261010] 네줄노래기벌 1983.09.24 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306261011",
+      "description": "[YNUE0306261011] 네줄노래기벌 1990.07.18 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTDK0114.png",
+    "reference_image_id": "ZTDK0114-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T10:56:29.945470+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "e134a4043d7ed6447385161edda28e6e22587d53cc6fa32a3e350398ab2b9126"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDK0114&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:51+00:00",
+    "html_sha256": "bd9daafece9158b8feea75bcfe875fa877c19847dac1ab4fc6bb8d1e0fab5907",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

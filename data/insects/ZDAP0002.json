@@ -1,0 +1,114 @@
+{
+  "id": "ZDAP0002",
+  "name_ko": "넉점박이잠자리",
+  "scientific_name": "Libellula quadrimaculata Linnaeus, 1758",
+  "display_name": "넉점박이잠자리",
+  "family_ko": "잠자리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "잠자리목",
+      "name_latin": "Odonata"
+    },
+    "family": {
+      "name_ko": "잠자리과",
+      "name_latin": "Libellulidae"
+    },
+    "subfamily": {
+      "name_ko": "잠자리아과",
+      "name_latin": "Libellulinae"
+    },
+    "genus": {
+      "name_ko": "대모잠자리속",
+      "name_latin": "Libellula"
+    }
+  },
+  "taxonomy_text": "목 : 잠자리목 (Odonata)\n과 : 잠자리과 (Libellulidae)\n아과 : 잠자리아과 (Libellulinae)\n속 : 대모잠자리속 (Libellula)",
+  "basic_information": {
+    "곤충명": "넉점박이잠자리",
+    "학명": "Libellula quadrimaculata Linnaeus, 1758"
+  },
+  "information": {
+    "general_description": "배길이 29mm, 뒷날개길이 36mm. 머리는 황색이고 가슴은 회황색이며 2개의 줄이 있음. 배는 굵고 넓적하며 등쪽은 오황색이고 6마디에서 뒤쪽에 이름에 따라 중앙에 흑색부가 많아지고 10마디에서는 전부가 흑색인데 배쪽은 흑색과 황색이 가로로 띠를 형성함. 암컷과 수컷의 색은 거의 같고 날개맥은 황갈색이며 가두리무늬는 흑갈색임. 4개 날개의 결절 위에는 작은 흑색점이 있음. 뒷날개 밑에는 삼각형의 큰 흑색 무늬 있음. 삼각실도 흑색임.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]\n[중국]\n[캐나다]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "배길이 29mm, 뒷날개길이 36mm. 머리는 황색이고 가슴은 회황색이며 2개의 줄이 있음. 배는 굵고 넓적하며 등쪽은 오황색이고 6마디에서 뒤쪽에 이름에 따라 중앙에 흑색부가 많아지고 10마디에서는 전부가 흑색인데 배쪽은 흑색과 황색이 가로로 띠를 형성함. 암컷과 수컷의 색은 거의 같고 날개맥은 황갈색이며 가두리무늬는 흑갈색임. 4개 날개의 결절 위에는 작은 흑색점이 있음. 뒷날개 밑에는 삼각형의 큰 흑색 무늬 있음. 삼각실도 흑색임."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]\n[중국]\n[캐나다]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZDAP0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0002_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0002_2_th.jpg",
+      "alt": "넉점박이잠자리 1번째 사진 : 넉점박이잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0002_2_th2.jpg",
+      "caption": "넉점박이잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZDAP0002-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0002_1_th.jpg",
+      "alt": "넉점박이잠자리 2번째 사진 : 넉점박이잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0002_1_th2.jpg",
+      "caption": "넉점박이잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZDAP0002-1",
+  "specimen_examples": [
+    {
+      "id": "ADUE0208081049",
+      "description": "[ADUE0208081049] 넉점박이잠자리 2002.06.04 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0208081050",
+      "description": "[ADUE0208081050] 넉점박이잠자리 2002.06.02 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0208091001",
+      "description": "[ADUE0208091001] 넉점박이잠자리 2002.06.02 / / 안동대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZDAP0002.png",
+    "reference_image_id": "ZDAP0002-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T10:00:00.491898+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "07c200c11c67738e1bfaf3b1430a6de6351ff6bc56ad4e73d28c1774f43d1ce0"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZDAP0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:35+00:00",
+    "html_sha256": "1cfe2824f54927050f2493e7b519d8c9cb5e9f47987618ebba2368279e7a4442",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "ZTDO0158",
+  "name_ko": "흰무늬검정잎벌",
+  "scientific_name": "Macrophya (Macrophya) apicalis F. Smith, 1874",
+  "display_name": "흰무늬검정잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "잎벌아과",
+      "name_latin": "Tenthredininae"
+    },
+    "genus": {
+      "name_ko": "검정잎벌속",
+      "name_latin": "Macrophya"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 잎벌아과 (Tenthredininae)\n속 : 검정잎벌속 (Macrophya)",
+  "basic_information": {
+    "곤충명": "흰무늬검정잎벌",
+    "학명": "Macrophya (Macrophya) apicalis F. Smith, 1874"
+  },
+  "information": {
+    "general_description": "몸길이는 12mm,더듬이 길이는 7mm,앞날개 길이는 12mm이다. 작은방패판은 거의 평활하고 오각형이다. 앞날개 둔맥은 중앙에서 응축되었다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 12mm,더듬이 길이는 7mm,앞날개 길이는 12mm이다. 작은방패판은 거의 평활하고 오각형이다. 앞날개 둔맥은 중앙에서 응축되었다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0158-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0158_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0158_1_th.jpg",
+      "alt": "흰무늬검정잎벌 1번째 사진 : 흰무늬검정잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0158_1_th2.jpg",
+      "caption": "흰무늬검정잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0158-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0201172007",
+      "description": "[YNUE0201172007] 흰무늬검정잎벌 1996.06.25 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0201172008",
+      "description": "[YNUE0201172008] 흰무늬검정잎벌 1996.06.25 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0201172009",
+      "description": "[YNUE0201172009] 흰무늬검정잎벌 1997.07.14 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDO0158-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0158&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:31+00:00",
+    "html_sha256": "ecb67f9407e7ac11ee4dd5ade4fe0046d32f5068b1b6a2e3abc70376302cae1c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

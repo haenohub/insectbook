@@ -1,0 +1,91 @@
+{
+  "id": "ZOCR0006",
+  "name_ko": "알물방개",
+  "scientific_name": "Hyphydrus japonicus Sharp, 1873",
+  "display_name": "알물방개",
+  "family_ko": "물방개과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "물방개과",
+      "name_latin": "Dytiscidae"
+    },
+    "subfamily": {
+      "name_ko": "알물방개아과",
+      "name_latin": "Hydroporinae"
+    },
+    "genus": {
+      "name_ko": "알물방개속",
+      "name_latin": "Hyphydrus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 물방개과 (Dytiscidae)\n아과 : 알물방개아과 (Hydroporinae)\n속 : 알물방개속 (Hyphydrus)",
+  "basic_information": {
+    "곤충명": "알물방개",
+    "학명": "Hyphydrus japonicus Sharp, 1873"
+  },
+  "information": {
+    "general_description": "한국, 일본, 대만, 중국에 분포하며, 체장은 4-5mm 정도이다. 머리는 황갈색인데 점각이 밀포하고 뒷머리는 평활하며 앞머리의 양쪽은 약간 움푹 파였고 앞가두리를 따라 조금 융기하였다. 앞가슴등판의 바깥가두리는 직선이고 황갈색이며 앞가두리와 뒷가두리에는 흑갈색의 얼룩 무늬가 있다. 몸의 아랫면은 황갈색이며 점각이 많고 다리도 황갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 대만, 중국에 분포하며, 체장은 4-5mm 정도이다. 머리는 황갈색인데 점각이 밀포하고 뒷머리는 평활하며 앞머리의 양쪽은 약간 움푹 파였고 앞가두리를 따라 조금 융기하였다. 앞가슴등판의 바깥가두리는 직선이고 황갈색이며 앞가두리와 뒷가두리에는 흑갈색의 얼룩 무늬가 있다. 몸의 아랫면은 황갈색이며 점각이 많고 다리도 황갈색이다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCR0006-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCR0006_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCR0006_1_th.jpg",
+      "alt": "알물방개 1번째 사진 : 알물방개전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCR0006_1_th2.jpg",
+      "caption": "알물방개전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCR0006-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304032026",
+      "description": "[KNAE0304032026] 알물방개 1994.08.10 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOCR0006-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCR0006&tabId=tab1",
+    "collected_at": "2026-11-04T14:14:37+00:00",
+    "html_sha256": "9b2137cbc2fe07646274c7fba4a607431228590fdd738814cbf2f005922f8108",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

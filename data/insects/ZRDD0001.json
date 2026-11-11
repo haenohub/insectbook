@@ -1,0 +1,163 @@
+{
+  "id": "ZRDD0001",
+  "name_ko": "뿔나비",
+  "scientific_name": "Libythea lepita Moore, 1858",
+  "display_name": "뿔나비",
+  "family_ko": "네발나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "네발나비과",
+      "name_latin": "Nymphalidae"
+    },
+    "subfamily": {
+      "name_ko": "뿔나비아과",
+      "name_latin": "Libytheinae"
+    },
+    "genus": {
+      "name_ko": "뿔나비속",
+      "name_latin": "Libythea"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 네발나비과 (Nymphalidae)\n아과 : 뿔나비아과 (Libytheinae)\n속 : 뿔나비속 (Libythea)",
+  "basic_information": {
+    "곤충명": "뿔나비",
+    "학명": "Libythea lepita Moore, 1858"
+  },
+  "information": {
+    "general_description": "암컷은 수컷보다 날개 윗면 주황색 무늬가 크고 앞날개 제1b실과 뒷날개 제6실에 작은 점무늬가 나타난다. (때로 수컷에서도 나타나는 일이 있다.) 또 뒷날개 아랫면 중맥상에 검은 줄무늬가 돋보인다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "7∼8월경 한참 무더울 떄에는 하면(夏眠)을 하고 가을에 다시 활동하다가 그대로 월동한다.",
+    "habits": "산지의 활엽수가 많은 곳에 서식하며 길가 습지에 떼지어 흡수하고 일광욕을 하는 일이 많다. 여름에는 찍은 과일이나 동물 사체에도 모이는 편이나 월동 전후에는 꽃에서 흡밀하는 경우도 있다.",
+    "season": null,
+    "overwintering": "성충",
+    "distribution": "[일본]\n[중국]\n[대만]\n[러시아]\n[유럽]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷은 수컷보다 날개 윗면 주황색 무늬가 크고 앞날개 제1b실과 뒷날개 제6실에 작은 점무늬가 나타난다. (때로 수컷에서도 나타나는 일이 있다.) 또 뒷날개 아랫면 중맥상에 검은 줄무늬가 돋보인다."
+    },
+    {
+      "title": "생태",
+      "text": "7∼8월경 한참 무더울 떄에는 하면(夏眠)을 하고 가을에 다시 활동하다가 그대로 월동한다."
+    },
+    {
+      "title": "습성",
+      "text": "산지의 활엽수가 많은 곳에 서식하며 길가 습지에 떼지어 흡수하고 일광욕을 하는 일이 많다. 여름에는 찍은 과일이나 동물 사체에도 모이는 편이나 월동 전후에는 꽃에서 흡밀하는 경우도 있다."
+    },
+    {
+      "title": "월동",
+      "text": "성충"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[대만]\n[러시아]\n[유럽]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDD0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDD0001_4.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDD0001_4.jpg",
+      "alt": "뿔나비 1번째 사진 : 뿔나비 무리 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDD0001_4_th2.jpg",
+      "caption": "뿔나비 무리 이미지",
+      "photographed_at": "20190604",
+      "location": "경기도 포천시 소흘읍 광릉숲",
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRDD0001-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDD0001_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDD0001_3.jpg",
+      "alt": "뿔나비 2번째 사진 : 뿔나비 수컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDD0001_3_th2.jpg",
+      "caption": "뿔나비 수컷 이미지",
+      "photographed_at": "20190702",
+      "location": "경기도 포천시 소흘읍 광릉숲",
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRDD0001-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDD0001_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDD0001_2_th.jpg",
+      "alt": "뿔나비 3번째 사진 : 뿔나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDD0001_2_th2.jpg",
+      "caption": "뿔나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDD0001-4",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDD0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDD0001_1_th.jpg",
+      "alt": "뿔나비 4번째 사진 : 뿔나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDD0001_1_th2.jpg",
+      "caption": "뿔나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDD0001-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408111046",
+      "description": "[MPME0408111046] 뿔나비 2002.06.22 / / 목포자연사박물관"
+    },
+    {
+      "id": "ADUE0408251024",
+      "description": "[ADUE0408251024] 뿔나비 2004.04.19 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0408251025",
+      "description": "[ADUE0408251025] 뿔나비 2004.04.19 / / 안동대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "팽나무",
+      "scientific_name": "Celtis sinensis Pers."
+    },
+    {
+      "group": "식물",
+      "name_ko": "풍게나무",
+      "scientific_name": "Celtis jessoensis Koidz."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDD0001-3"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDD0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:11+00:00",
+    "html_sha256": "48eeec8fb8443dd54c7fb099000e23cd1141bb1374e7cb5328e22859d3389264",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

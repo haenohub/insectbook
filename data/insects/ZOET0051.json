@@ -1,0 +1,107 @@
+{
+  "id": "ZOET0051",
+  "name_ko": "넉점긴다리밑빠진벌레",
+  "scientific_name": "Atarphia quadripunctata Reitter, 1884",
+  "display_name": "넉점긴다리밑빠진벌레",
+  "family_ko": "밑빠진벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "머리대장상과",
+      "name_latin": "Cucujoidea"
+    },
+    "family": {
+      "name_ko": "밑빠진벌레과",
+      "name_latin": "Nitidulidae"
+    },
+    "subfamily": {
+      "name_ko": "밑빠진벌레아과",
+      "name_latin": "Nitidulinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Atarphia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 머리대장상과 (Cucujoidea)\n과 : 밑빠진벌레과 (Nitidulidae)\n아과 : 밑빠진벌레아과 (Nitidulinae)\n속 : (Atarphia)",
+  "basic_information": {
+    "곤충명": "넉점긴다리밑빠진벌레",
+    "학명": "Atarphia quadripunctata Reitter, 1884"
+  },
+  "information": {
+    "general_description": "몸길이는 5~7mm이며 긴알처럼 둥그나 납작하지는 않다. 색깔은 흑색이며 강한 광택을 갖고 있다. 딱지날개는 황적색무늬가 두쌍이 있다. 앞무늬는 넓고 바깥쪽은 가늘고 경사지어 있는데 뒤쪽도 비슷한 모양이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 5~7mm이며 긴알처럼 둥그나 납작하지는 않다. 색깔은 흑색이며 강한 광택을 갖고 있다. 딱지날개는 황적색무늬가 두쌍이 있다. 앞무늬는 넓고 바깥쪽은 가늘고 경사지어 있는데 뒤쪽도 비슷한 모양이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOET0051-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOET0051_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOET0051_1_th.jpg",
+      "alt": "넉점긴다리밑빠진벌레 1번째 사진 : 네무늬밑빠진벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOET0051_1_th2.jpg",
+      "caption": "네무늬밑빠진벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOET0051-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0212206028",
+      "description": "[YNUE0212206028] 넉점긴다리밑빠진벌레 1998.05.15 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0212206030",
+      "description": "[YNUE0212206030] 넉점긴다리밑빠진벌레 1992.06.21 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0212206031",
+      "description": "[YNUE0212206031] 넉점긴다리밑빠진벌레 1992.06.20 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOET0051.png",
+    "reference_image_id": "ZOET0051-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T09:48:02.275577+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "5cd4f85a3187213497dc8c8e1a3251001d9405fb9b44d4abf8d3f31afaa6b52b"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOET0051&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:32+00:00",
+    "html_sha256": "97179cae036d85b993fc9d44d10343a3055377bb67e2c097f3e41d39c885bc06",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

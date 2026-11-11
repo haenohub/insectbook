@@ -1,0 +1,107 @@
+{
+  "id": "ZOAN0013",
+  "name_ko": "먹무늬똥풍뎅이",
+  "scientific_name": "Aphodius (Aphodaulacus) variabilis Waterhouse, 1875",
+  "display_name": "먹무늬똥풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "똥풍뎅이아과",
+      "name_latin": "Aphodiinae"
+    },
+    "genus": {
+      "name_ko": "똥풍뎅이속",
+      "name_latin": "Aphodius"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 똥풍뎅이아과 (Aphodiinae)\n속 : 똥풍뎅이속 (Aphodius)",
+  "basic_information": {
+    "곤충명": "먹무늬똥풍뎅이",
+    "학명": "Aphodius (Aphodaulacus) variabilis Waterhouse, 1875"
+  },
+  "information": {
+    "general_description": "중국, 시베리아, 일본에 분포하며 광택있는 흑색이나 머리의 주변과 전흉배판은 밝은 갈색이고 딱지날개는 황갈색이다. 제 5간실 기부, 2,3간실 중간과 끝 근처, 6~8간실의 대부분에 작은 암흑색 점무늬들이 퍼져 있고 간실에는 미세한 강모들도 분포한다. 머리방패 전연테는 뚜렷하고, 뺨은 거의 직각이며, 이마봉합선은 뚜렷하다. 중,후경절단극모열의 길이는 서로 다르며, 제1후부절은 다음 3마디의 합보다 길다. BL:6~6.5mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]\n[중국]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중국, 시베리아, 일본에 분포하며 광택있는 흑색이나 머리의 주변과 전흉배판은 밝은 갈색이고 딱지날개는 황갈색이다. 제 5간실 기부, 2,3간실 중간과 끝 근처, 6~8간실의 대부분에 작은 암흑색 점무늬들이 퍼져 있고 간실에는 미세한 강모들도 분포한다. 머리방패 전연테는 뚜렷하고, 뺨은 거의 직각이며, 이마봉합선은 뚜렷하다. 중,후경절단극모열의 길이는 서로 다르며, 제1후부절은 다음 3마디의 합보다 길다. BL:6~6.5mm."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAN0013-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAN0013_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAN0013_1_th.jpg",
+      "alt": "먹무늬똥풍뎅이 1번째 사진 : 먹무늬똥풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAN0013_1_th2.jpg",
+      "caption": "먹무늬똥풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAN0013-1",
+  "specimen_examples": [
+    {
+      "id": "SSUE0302241046",
+      "description": "[SSUE0302241046] 먹무늬똥풍뎅이 1986.10.25 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0302241047",
+      "description": "[SSUE0302241047] 먹무늬똥풍뎅이 1986.10.25 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0302241048",
+      "description": "[SSUE0302241048] 먹무늬똥풍뎅이 1986.10.25 / / 성신여자대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAN0013-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAN0013&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:01+00:00",
+    "html_sha256": "d65960113a7d9805fb6ea355ce3695d1122abb131ee50267343edec5098b7f1b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

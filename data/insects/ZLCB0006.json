@@ -1,0 +1,107 @@
+{
+  "id": "ZLCB0006",
+  "name_ko": "희미무늬알노린재",
+  "scientific_name": "Coptosoma parvipictum Montandon, 1892",
+  "display_name": "희미무늬알노린재",
+  "family_ko": "알노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "노린재상과",
+      "name_latin": "Pentatomoidea"
+    },
+    "family": {
+      "name_ko": "알노린재과",
+      "name_latin": "Plataspididae"
+    },
+    "subfamily": {
+      "name_ko": "알노린재아과",
+      "name_latin": "Coptosomatinae"
+    },
+    "genus": {
+      "name_ko": "알노린재속",
+      "name_latin": "Coptosoma"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 노린재상과 (Pentatomoidea)\n과 : 알노린재과 (Plataspididae)\n아과 : 알노린재아과 (Coptosomatinae)\n속 : 알노린재속 (Coptosoma)",
+  "basic_information": {
+    "곤충명": "희미무늬알노린재",
+    "학명": "Coptosoma parvipictum Montandon, 1892"
+  },
+  "information": {
+    "general_description": "몸길이 : 3.5-4mm\n몸은 칠흑색이며, 작고 가는 점각이 산포되어 있다. 머리는 흑색이며 점각이 분포하고 양 측엽은 중엽보다 약간 길지만 좌우가 완전히 접하지는 않았다. 더듬이는 4마디이며 다갈색이다. 양 겹눈의 안쪽 옆가장자리에 인접해서 겹눈 바깥쪽으로 아주 작고 연한 황색의 반점이 있다. 주둥이는 길고 뒷다리의 기부를 넣는다. 앞가슴등판은 앞쪽 절반 부분의 중간 부위에 한 쌍의 점각이 없고 가로 무늬가 있다. 양 옆가장자리의 뒷옆모시리 바로 앞에 황색의 작은 무늬가 있는 것 외에는 균일하게 흑갈색이고 점각이 산포되어 있다. 가슴의 아랫면은 회색이고 광택이 전혀 없으며 주름이 많다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": "생식절은 원형이고 중앙돌기와 양쪽의 융기부는 암황색이다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 3.5-4mm\n몸은 칠흑색이며, 작고 가는 점각이 산포되어 있다. 머리는 흑색이며 점각이 분포하고 양 측엽은 중엽보다 약간 길지만 좌우가 완전히 접하지는 않았다. 더듬이는 4마디이며 다갈색이다. 양 겹눈의 안쪽 옆가장자리에 인접해서 겹눈 바깥쪽으로 아주 작고 연한 황색의 반점이 있다. 주둥이는 길고 뒷다리의 기부를 넣는다. 앞가슴등판은 앞쪽 절반 부분의 중간 부위에 한 쌍의 점각이 없고 가로 무늬가 있다. 양 옆가장자리의 뒷옆모시리 바로 앞에 황색의 작은 무늬가 있는 것 외에는 균일하게 흑갈색이고 점각이 산포되어 있다. 가슴의 아랫면은 회색이고 광택이 전혀 없으며 주름이 많다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "생식절은 원형이고 중앙돌기와 양쪽의 융기부는 암황색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLCB0006-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCB0006_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCB0006_1_th.jpg",
+      "alt": "희미무늬알노린재 1번째 사진 : 희미무늬알노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCB0006_1_th2.jpg",
+      "caption": "희미무늬알노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLCB0006-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0304011029",
+      "description": "[FRIE0304011029] 희미무늬알노린재 1982.07.03 / / 국립산림과학원"
+    },
+    {
+      "id": "YNUE0211302001",
+      "description": "[YNUE0211302001] 희미무늬알노린재 1999.06.29 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0211302002",
+      "description": "[YNUE0211302002] 희미무늬알노린재 1999.06.29 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLCB0006-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLCB0006&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:17+00:00",
+    "html_sha256": "c2279166b3328063b80deccf820faa385a31275ed11cc6e2ca6f273aaf68fcf8",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

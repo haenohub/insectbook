@@ -1,0 +1,148 @@
+{
+  "id": "ZREV0031",
+  "name_ko": "줄홍색박각시",
+  "scientific_name": "Sphinx ligustri Linnaeus, 1758",
+  "display_name": "줄홍색박각시",
+  "family_ko": "박각시과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "누에나방상과",
+      "name_latin": "Bombycoidea"
+    },
+    "family": {
+      "name_ko": "박각시과",
+      "name_latin": "Sphingidae"
+    },
+    "subfamily": {
+      "name_ko": "박각시아과",
+      "name_latin": "Sphinginae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Sphinx"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 누에나방상과 (Bombycoidea)\n과 : 박각시과 (Sphingidae)\n아과 : 박각시아과 (Sphinginae)\n속 : (Sphinx)",
+  "basic_information": {
+    "곤충명": "줄홍색박각시",
+    "학명": "Sphinx ligustri Linnaeus, 1758"
+  },
+  "information": {
+    "general_description": "날개편 길이는 약 73-84mm가량이다. 수컷의 더듬이는 굵지만 암컷에서는 가늘다. 복부의 마디는 흑색을 띠며, 그 사이에는 홍색을 띠는 것이 특징이다. 앞날개의 전연 부분과 아외연대에서는 분홍색을 띠는 황색의 무늬가 나타나는데, 뒷날개의 외횡대와 아외연대에서 나타난다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "5월중순부터 8월중순에 걸쳐 출현한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이는 약 73-84mm가량이다. 수컷의 더듬이는 굵지만 암컷에서는 가늘다. 복부의 마디는 흑색을 띠며, 그 사이에는 홍색을 띠는 것이 특징이다. 앞날개의 전연 부분과 아외연대에서는 분홍색을 띠는 황색의 무늬가 나타나는데, 뒷날개의 외횡대와 아외연대에서 나타난다."
+    },
+    {
+      "title": "생태",
+      "text": "5월중순부터 8월중순에 걸쳐 출현한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREV0031-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0031_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0031_2_th.jpg",
+      "alt": "줄홍색박각시 1번째 사진 : 줄홍색박각시전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0031_2_th2.jpg",
+      "caption": "줄홍색박각시전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREV0031-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0031_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0031_1_th.jpg",
+      "alt": "줄홍색박각시 2번째 사진 : 줄홍색박각시전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0031_1_th2.jpg",
+      "caption": "줄홍색박각시전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREV0031-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE011113240",
+      "description": "[KNAE011113240] 줄홍색박각시 / / 국립수목원"
+    },
+    {
+      "id": "FRIE0305201015",
+      "description": "[FRIE0305201015] 줄홍색박각시 1999.05.19 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0305201016",
+      "description": "[FRIE0305201016] 줄홍색박각시 1996.05.10 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "가는잎조팝나무",
+      "scientific_name": "Spiraea thunbergii Siebold ex Blume"
+    },
+    {
+      "group": "식물",
+      "name_ko": "개회나무",
+      "scientific_name": "Syringa reticulata var. amurensis (Rupr.) J.S.Pringle"
+    },
+    {
+      "group": "식물",
+      "name_ko": "물푸레나무",
+      "scientific_name": "Fraxinus rhynchophylla Hance"
+    },
+    {
+      "group": "식물",
+      "name_ko": "조팝나무",
+      "scientific_name": "Spiraea prunifolia f. simpliciflora Nakai"
+    },
+    {
+      "group": "식물",
+      "name_ko": "쥐똥나무",
+      "scientific_name": "Ligustrum obtusifolium Siebold & Zucc."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREV0031-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREV0031&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:20+00:00",
+    "html_sha256": "381a2f38a2401fa2bf0b3d7fe9d9c070924541c36c19ea465f8784dafbe98be6",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

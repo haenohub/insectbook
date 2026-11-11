@@ -1,0 +1,115 @@
+{
+  "id": "ZRDV0066",
+  "name_ko": "신선나비",
+  "scientific_name": "Nymphalis antiopa (Linnaeus, 1758)",
+  "display_name": "신선나비",
+  "family_ko": "네발나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "네발나비과",
+      "name_latin": "Nymphalidae"
+    },
+    "subfamily": {
+      "name_ko": "네발나비아과",
+      "name_latin": "Nymphalinae"
+    },
+    "genus": {
+      "name_ko": "신선나비속",
+      "name_latin": "Nymphalis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 네발나비과 (Nymphalidae)\n아과 : 네발나비아과 (Nymphalinae)\n속 : 신선나비속 (Nymphalis)",
+  "basic_information": {
+    "곤충명": "신선나비",
+    "학명": "Nymphalis antiopa (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "암컷은 수컷에 비하여 날개폭이 조금 넓으나 거의 차이가 없다. 배의 모양으로 암수가 구별된다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "남한에서는 1958년에 설악산 봉정암과 대청봉 사이의 등산로에서 채집한 기록 외에는 채집되지 않고 있다가 1997년 8월 강원특별자치도 광덕산에서 채집되었다. 한지성 나비로 북한에서는 계곡이나 임도의 주변 바위의 습한 곳에 많다. 자작나무가 많은 고지대 계곡 가장자리에서 서식하는 것으로 추정된다. 날 때에 날개 외여연의 노랑색이 눌에 띄어 독특한 아름다움을 지닌 나비이다.",
+    "season": null,
+    "overwintering": "성충",
+    "distribution": "[일본]\n[중국]\n[러시아]\n[멕시코]\n[미국]",
+    "notes": "[희귀종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷은 수컷에 비하여 날개폭이 조금 넓으나 거의 차이가 없다. 배의 모양으로 암수가 구별된다."
+    },
+    {
+      "title": "습성",
+      "text": "남한에서는 1958년에 설악산 봉정암과 대청봉 사이의 등산로에서 채집한 기록 외에는 채집되지 않고 있다가 1997년 8월 강원특별자치도 광덕산에서 채집되었다. 한지성 나비로 북한에서는 계곡이나 임도의 주변 바위의 습한 곳에 많다. 자작나무가 많은 고지대 계곡 가장자리에서 서식하는 것으로 추정된다. 날 때에 날개 외여연의 노랑색이 눌에 띄어 독특한 아름다움을 지닌 나비이다."
+    },
+    {
+      "title": "월동",
+      "text": "성충"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]\n[멕시코]\n[미국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[희귀종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDV0066-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0066_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0066_1_th.jpg",
+      "alt": "신선나비 1번째 사진 : 신선나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0066_1_th2.jpg",
+      "caption": "신선나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDV0066-1",
+  "specimen_examples": [
+    {
+      "id": "ADUE0305091150",
+      "description": "[ADUE0305091150] 신선나비 1999.06.23 / / 안동대학교"
+    },
+    {
+      "id": "MPME0409011458",
+      "description": "[MPME0409011458] 신선나비 2000.09.19 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0409011456",
+      "description": "[MPME0409011456] 신선나비 1999.08.29 / / 목포자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDV0066-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDV0066&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:50+00:00",
+    "html_sha256": "e033265b1920f4258a175050d12eb1dcac5312d3f6008d3bb1e3dbc5e3637778",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "ZOBT0010",
+  "name_ko": "혹가슴잎벌레",
+  "scientific_name": "Zeugophora (Pedrillia) annulata (Baly, 1873)",
+  "display_name": "혹가슴잎벌레",
+  "family_ko": "수중다리잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "수중다리잎벌레과",
+      "name_latin": "Megalopodidae"
+    },
+    "subfamily": {
+      "name_ko": "혹가슴잎벌레아과",
+      "name_latin": "Zeugophorinae"
+    },
+    "genus": {
+      "name_ko": "혹가슴잎벌레속",
+      "name_latin": "Zeugophora"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 수중다리잎벌레과 (Megalopodidae)\n아과 : 혹가슴잎벌레아과 (Zeugophorinae)\n속 : 혹가슴잎벌레속 (Zeugophora)",
+  "basic_information": {
+    "곤충명": "혹가슴잎벌레",
+    "학명": "Zeugophora (Pedrillia) annulata (Baly, 1873)"
+  },
+  "information": {
+    "general_description": "몸길이가 4.2~4.8mm, 등판에는 강모가 있으며 더듬이의 간실이 약간 넓다 다리는 종아리 마디에 1개의 작은 돌기가 있고 발마디의 발톱은 1쌍의 돌기가 있다. 한국(중부,남부), 일본(훗가이도,혼슈,시코쿠,규슈), 중국(만주), 러시아(동시베리아)에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 여름부터 가을까지 활동하며 성충상태로 월동을 난다. 4월말에 산란함 유충은5~6월에 땅속에서 출현한다.",
+    "habits": "기주식물 참빗살나무, 화살나무.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이가 4.2~4.8mm, 등판에는 강모가 있으며 더듬이의 간실이 약간 넓다 다리는 종아리 마디에 1개의 작은 돌기가 있고 발마디의 발톱은 1쌍의 돌기가 있다. 한국(중부,남부), 일본(훗가이도,혼슈,시코쿠,규슈), 중국(만주), 러시아(동시베리아)에 분포되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 여름부터 가을까지 활동하며 성충상태로 월동을 난다. 4월말에 산란함 유충은5~6월에 땅속에서 출현한다."
+    },
+    {
+      "title": "습성",
+      "text": "기주식물 참빗살나무, 화살나무."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0010-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0010_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0010_1_th.jpg",
+      "alt": "혹가슴잎벌레 1번째 사진 : 혹가슴잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0010_1_th2.jpg",
+      "caption": "혹가슴잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0010-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0306231016",
+      "description": "[FRIE0306231016] 혹가슴잎벌레 1999.08.06 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0306231017",
+      "description": "[FRIE0306231017] 혹가슴잎벌레 1999.08.10 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0306231035",
+      "description": "[FRIE0306231035] 혹가슴잎벌레 1999.07.20 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0010-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0010&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:18+00:00",
+    "html_sha256": "56a4a0253a27cd8be405d8e2784dee092ca4e2050aee324145704c110c482aa6",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

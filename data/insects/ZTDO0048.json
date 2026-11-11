@@ -1,0 +1,114 @@
+{
+  "id": "ZTDO0048",
+  "name_ko": "두색무잎벌",
+  "scientific_name": "Athalia proxima (Klug, 1815)",
+  "display_name": "두색무잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "무잎벌아과",
+      "name_latin": "Athaliinae"
+    },
+    "genus": {
+      "name_ko": "무잎벌속",
+      "name_latin": "Athalia"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 무잎벌아과 (Athaliinae)\n속 : 무잎벌속 (Athalia)",
+  "basic_information": {
+    "곤충명": "두색무잎벌",
+    "학명": "Athalia proxima (Klug, 1815)"
+  },
+  "information": {
+    "general_description": "암컷은 황갈색이다. 머리와 가운데, 뒷가슴등판과 제 1배마디등판의 중앙은 흑색이다. 머리방패, 윗입술, 큰턱은 암갈색이다. 날개는 암색이며 반투명하고 겉쪽이 다소 담색이다. 다리는 황갈색이나 종아리마디와 발목마디는 흑색이고 종아리마디의 안쪽 면은 다소 갈색이다. 산란관집 끝은 흑색이다. 얼굴에는 회백색 털이 가슴등판에는 암색 털이 났다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[말레이시아]\n[미얀마]\n[일본]\n[인도]\n[인도네시아]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷은 황갈색이다. 머리와 가운데, 뒷가슴등판과 제 1배마디등판의 중앙은 흑색이다. 머리방패, 윗입술, 큰턱은 암갈색이다. 날개는 암색이며 반투명하고 겉쪽이 다소 담색이다. 다리는 황갈색이나 종아리마디와 발목마디는 흑색이고 종아리마디의 안쪽 면은 다소 갈색이다. 산란관집 끝은 흑색이다. 얼굴에는 회백색 털이 가슴등판에는 암색 털이 났다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[말레이시아]\n[미얀마]\n[일본]\n[인도]\n[인도네시아]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0048-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0048_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0048_2_th.jpg",
+      "alt": "두색무잎벌 1번째 사진 : 두색무잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0048_2_th2.jpg",
+      "caption": "두색무잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTDO0048-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0048_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0048_1_th.jpg",
+      "alt": "두색무잎벌 2번째 사진 : 두색무잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0048_1_th2.jpg",
+      "caption": "두색무잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0048-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0212249104",
+      "description": "[YNUE0212249104] 두색무잎벌 2002.05.12 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305171044",
+      "description": "[YNUE0305171044] 두색무잎벌 2000.06.19 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305171046",
+      "description": "[YNUE0305171046] 두색무잎벌 2000.06.19 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDO0048-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0048&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:40+00:00",
+    "html_sha256": "25757825e67d315fea12f8414d0c541aef08006868aa9e59cf9ee01917f7d189",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

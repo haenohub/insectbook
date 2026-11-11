@@ -1,0 +1,103 @@
+{
+  "id": "ZSEM0109",
+  "name_ko": "오줄루리꽃등에",
+  "scientific_name": "Eristalinus quinquestriatus (Fabricius, 1794)",
+  "display_name": "오줄루리꽃등에",
+  "family_ko": "꽃등에과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "꽃등에상과",
+      "name_latin": "Syrphoidea"
+    },
+    "family": {
+      "name_ko": "꽃등에과",
+      "name_latin": "Syrphidae"
+    },
+    "subfamily": {
+      "name_ko": "순꽃등에아과",
+      "name_latin": "Eristalinae"
+    },
+    "genus": {
+      "name_ko": "루리꽃등에속",
+      "name_latin": "Eristalinus"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 꽃등에상과 (Syrphoidea)\n과 : 꽃등에과 (Syrphidae)\n아과 : 순꽃등에아과 (Eristalinae)\n속 : 루리꽃등에속 (Eristalinus)",
+  "basic_information": {
+    "곤충명": "오줄루리꽃등에",
+    "학명": "Eristalinus quinquestriatus (Fabricius, 1794)"
+  },
+  "information": {
+    "general_description": "성충의 몸길이는 9~10mm. 몸은 구리빛 나는 흑색이고 머리는 반구형이며 이마는 머리폭의 1/6이 조금 넘고 회색가루로 덮였다. 이마돌기는 대단히 낮고 황회색 가루로 덮였는데 수컷에서는 대단히 작다. 더듬이는 작고 황적색이며, 가슴등판은 금속성 광택이 풍부하고 때로는 보라색을 띤다. 작은 방패판은 황색이고 날개는 무색이다. 다리는 흑색이고 무릎은 황백색이다. 배는 짧고 제 1,2배마디의 기부와 제 3,4배마디의 각 가로띠는 황색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충의 몸길이는 9~10mm. 몸은 구리빛 나는 흑색이고 머리는 반구형이며 이마는 머리폭의 1/6이 조금 넘고 회색가루로 덮였다. 이마돌기는 대단히 낮고 황회색 가루로 덮였는데 수컷에서는 대단히 작다. 더듬이는 작고 황적색이며, 가슴등판은 금속성 광택이 풍부하고 때로는 보라색을 띤다. 작은 방패판은 황색이고 날개는 무색이다. 다리는 흑색이고 무릎은 황백색이다. 배는 짧고 제 1,2배마디의 기부와 제 3,4배마디의 각 가로띠는 황색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSEM0109-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0109_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0109_1_th.jpg",
+      "alt": "오줄루리꽃등에 1번째 사진 : 오줄루리꽃등에전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0109_1_th2.jpg",
+      "caption": "오줄루리꽃등에전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSEM0109-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0307191382",
+      "description": "[KUIE0307191382] 오줄루리꽃등에 1961.04.30 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307191383",
+      "description": "[KUIE0307191383] 오줄루리꽃등에 1958.05.01 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307191384",
+      "description": "[KUIE0307191384] 오줄루리꽃등에 1958.08.01 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZSEM0109-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSEM0109&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:23+00:00",
+    "html_sha256": "b3c439ea4be599b1a3f6635ddcf8bbadc040be0f1787cd13b256cb4d77f440a3",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

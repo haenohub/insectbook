@@ -1,0 +1,103 @@
+{
+  "id": "ZOGJ0015",
+  "name_ko": "노랑무늬소똥풍뎅이",
+  "scientific_name": "Onthophagus (Matashia) solivagus Harold, 1886",
+  "display_name": "노랑무늬소똥풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "소똥구리아과",
+      "name_latin": "Scarabaeinae"
+    },
+    "genus": {
+      "name_ko": "소똥풍뎅이속",
+      "name_latin": "Onthophagus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 소똥구리아과 (Scarabaeinae)\n속 : 소똥풍뎅이속 (Onthophagus)",
+  "basic_information": {
+    "곤충명": "노랑무늬소똥풍뎅이",
+    "학명": "Onthophagus (Matashia) solivagus Harold, 1886"
+  },
+  "information": {
+    "general_description": "중국 중,북부에 분포하며 몸은 광택이 없는 흑색 내지 회흑색이다. 딱지날개 기부에 1~3개, 끝 근처에 1~2개의 황갈색 가로 점무늬가 있다. 머리의 점각은 강한 주름상, 딱지날개의 점각은 안상인데 크고 뒤쪽으로 열렸다. 수컷의 전경절은 가늘고 길며, 끝의 내각에는 지상돌기가 있고 외치는 짧으며 경절과 직각이다. 후경절의 끝은 3층의 계단모양이다. BL:7.5~10mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "주로 하천변의 모래땅에 사는데 우분에 많으나 인분이나 양분에도 모인다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중국 중,북부에 분포하며 몸은 광택이 없는 흑색 내지 회흑색이다. 딱지날개 기부에 1~3개, 끝 근처에 1~2개의 황갈색 가로 점무늬가 있다. 머리의 점각은 강한 주름상, 딱지날개의 점각은 안상인데 크고 뒤쪽으로 열렸다. 수컷의 전경절은 가늘고 길며, 끝의 내각에는 지상돌기가 있고 외치는 짧으며 경절과 직각이다. 후경절의 끝은 3층의 계단모양이다. BL:7.5~10mm."
+    },
+    {
+      "title": "생태",
+      "text": "주로 하천변의 모래땅에 사는데 우분에 많으나 인분이나 양분에도 모인다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGJ0015-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0015_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0015_1_th.jpg",
+      "alt": "노랑무늬소똥풍뎅이 1번째 사진 : 노랑무늬소똥풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0015_1_th2.jpg",
+      "caption": "노랑무늬소똥풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGJ0015-1",
+  "specimen_examples": [
+    {
+      "id": "SSUE0302061016",
+      "description": "[SSUE0302061016] 노랑무늬소똥풍뎅이 1983.06.22 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0302061018",
+      "description": "[SSUE0302061018] 노랑무늬소똥풍뎅이 1983.06.22 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0302061019",
+      "description": "[SSUE0302061019] 노랑무늬소똥풍뎅이 1983.08.16 / / 성신여자대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGJ0015-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGJ0015&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:14+00:00",
+    "html_sha256": "431db292cf72c10484775aa05ec5cdc774511532d463a9a627e57dad1ee6d38e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

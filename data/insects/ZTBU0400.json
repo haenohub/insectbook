@@ -1,0 +1,99 @@
+{
+  "id": "ZTBU0400",
+  "name_ko": "한국잎벌살이뭉툭맵시벌",
+  "scientific_name": "Monoblastus koreensis Kasparyan & Lee, 2018",
+  "display_name": "한국잎벌살이뭉툭맵시벌",
+  "family_ko": "맵시벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "맵시벌과",
+      "name_latin": "Ichneumonidae"
+    },
+    "subfamily": {
+      "name_ko": "뭉툭맵시벌아과",
+      "name_latin": "Tryphoninae"
+    },
+    "genus": {
+      "name_ko": "잎벌살이뭉툭맵시벌속",
+      "name_latin": "Monoblastus"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 맵시벌과 (Ichneumonidae)\n아과 : 뭉툭맵시벌아과 (Tryphoninae)\n속 : 잎벌살이뭉툭맵시벌속 (Monoblastus)",
+  "basic_information": {
+    "곤충명": "한국잎벌살이뭉툭맵시벌",
+    "학명": "Monoblastus koreensis Kasparyan & Lee, 2018"
+  },
+  "information": {
+    "general_description": "얼굴은 검정색이다. 가운데가슴등판과 가운데가슴앞옆판은 검은색이다. 뒷다리 종아리마디는 노란색이다. 첫 번째부터 2번째마디는 흑색이며 3번째에서 7번째까지는 적색이다. 중앙 세로 융기선(median longitudinal carina)은 첫 번째 배마디의 0.4배보다 작다. 산란관의 길이는 복부 말단의 높이와 같고 직선이다. 경포는 존재한다. PI: 0.68-0.70, CI: 1.60-1.70, BI: 1.00, DBI: 0.65-0.80, MI: 2.08-2.13, ICI: 0.22-0.24, NI: 7.50-7.66, RI: 4.37-6.66, IOD/OOD: 0.33, IOD/POD: 0.33-0.37, IOD/MOD: 0.66-0.75, POD/MOD: 2.00-2.25. 앞날개 길이는 5mm이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "얼굴은 검정색이다. 가운데가슴등판과 가운데가슴앞옆판은 검은색이다. 뒷다리 종아리마디는 노란색이다. 첫 번째부터 2번째마디는 흑색이며 3번째에서 7번째까지는 적색이다. 중앙 세로 융기선(median longitudinal carina)은 첫 번째 배마디의 0.4배보다 작다. 산란관의 길이는 복부 말단의 높이와 같고 직선이다. 경포는 존재한다. PI: 0.68-0.70, CI: 1.60-1.70, BI: 1.00, DBI: 0.65-0.80, MI: 2.08-2.13, ICI: 0.22-0.24, NI: 7.50-7.66, RI: 4.37-6.66, IOD/OOD: 0.33, IOD/POD: 0.33-0.37, IOD/MOD: 0.66-0.75, POD/MOD: 2.00-2.25. 앞날개 길이는 5mm이다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBU0400-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0400_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0400_1_th.jpg",
+      "alt": "한국잎벌살이뭉툭맵시벌 1번째 사진 : 알프스뭉툭맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0400_1_th2.jpg",
+      "caption": "알프스뭉툭맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBU0400-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306021066",
+      "description": "[YNUE0306021066] 한국잎벌살이뭉툭맵시벌 1991.05.08 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306021067",
+      "description": "[YNUE0306021067] 한국잎벌살이뭉툭맵시벌 1992.05.22 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306021069",
+      "description": "[YNUE0306021069] 한국잎벌살이뭉툭맵시벌 1989.04.04 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTBU0400-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBU0400&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:04+00:00",
+    "html_sha256": "4b125940757dd043524f9eb6fd00de216f4bce074498614d7f2f6adfc9bb5338",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

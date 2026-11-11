@@ -1,0 +1,129 @@
+{
+  "id": "ZREL0279",
+  "name_ko": "애알락명나방",
+  "scientific_name": "Hypsotropa solipunctella Ragonot & Hampson, 1901",
+  "display_name": "애알락명나방",
+  "family_ko": "명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "명나방과",
+      "name_latin": "Pyralidae"
+    },
+    "subfamily": {
+      "name_ko": "알락명나방아과",
+      "name_latin": "Phycitinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Hypsotropa"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 명나방과 (Pyralidae)\n아과 : 알락명나방아과 (Phycitinae)\n속 : (Hypsotropa)",
+  "basic_information": {
+    "곤충명": "애알락명나방",
+    "학명": "Hypsotropa solipunctella Ragonot & Hampson, 1901"
+  },
+  "information": {
+    "general_description": "아랫입술수염은 쇠뿔 모양으로 아주 가늘고 길며 위로 향함. 더듬이는 수컷에서도 실모양에 가까움. 앞날개는 담회황색이며, 전연부위에는 띠 모양으로 백색에 가까움. 횡맥상에 흑갈색 점이 있으며, 개체에 따라서는 내횡선이나 아외연선에 해당하는 부분에 작은 점들이 있음.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "7～8월",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "아랫입술수염은 쇠뿔 모양으로 아주 가늘고 길며 위로 향함. 더듬이는 수컷에서도 실모양에 가까움. 앞날개는 담회황색이며, 전연부위에는 띠 모양으로 백색에 가까움. 횡맥상에 흑갈색 점이 있으며, 개체에 따라서는 내횡선이나 아외연선에 해당하는 부분에 작은 점들이 있음."
+    },
+    {
+      "title": "생태",
+      "text": "7～8월"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0279-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0279_7.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0279_7_th.jpg",
+      "alt": "애알락명나방 1번째 사진 : 애알락명나방가슴 확대 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0279_7_th2.jpg",
+      "caption": "애알락명나방가슴 확대 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREL0279-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0279_6.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0279_6_th.jpg",
+      "alt": "애알락명나방 2번째 사진 : 애알락명나방배 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0279_6_th2.jpg",
+      "caption": "애알락명나방배 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREL0279-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0279_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0279_1_th.jpg",
+      "alt": "애알락명나방 3번째 사진 : 애알락명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0279_1_th2.jpg",
+      "caption": "애알락명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0279-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0302271246",
+      "description": "[UIBE0302271246] 애알락명나방 1996.07.12 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0302271247",
+      "description": "[UIBE0302271247] 애알락명나방 1998.08.14 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0302271248",
+      "description": "[UIBE0302271248] 애알락명나방 1997.07.28 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREL0279-3"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0279&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:15+00:00",
+    "html_sha256": "2ab69772e2789dd08b5a06be9242e89daadce1c5700d11a52b047e5216439c63",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

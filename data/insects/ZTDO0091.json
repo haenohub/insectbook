@@ -1,0 +1,99 @@
+{
+  "id": "ZTDO0091",
+  "name_ko": "펜톤잎벌",
+  "scientific_name": "Tenthredo (Propodea) fentoni W. F. Kirby, 1882",
+  "display_name": "펜톤잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "잎벌아과",
+      "name_latin": "Tenthredininae"
+    },
+    "genus": {
+      "name_ko": "잎벌속",
+      "name_latin": "Tenthredo"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 잎벌아과 (Tenthredininae)\n속 : 잎벌속 (Tenthredo)",
+  "basic_information": {
+    "곤충명": "펜톤잎벌",
+    "학명": "Tenthredo (Propodea) fentoni W. F. Kirby, 1882"
+  },
+  "information": {
+    "general_description": "뺨은 좁으며 복안 넓이보다 훨씬 좁다. 전신복절은 오나전하며 중앙도랑에 의해 나뉘지 않는다. 큰턱은 4개의 이를 가지며 윗입술은 둥글거나 가두리가 뾰족하다. 복안내연은 아래쪽에 수렴하며 이들 사이의 거리는 복안 높이보다 좁다. 뒷날개에는 항상 2개의 중실을 가지나 가두리맥은 없다. 뒷다리 넓적다리마디는 종아리마디보다 짧으며 앞날개의 둔실은 짧은 횡맥을 갖거나 짧게 응축되었다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "뺨은 좁으며 복안 넓이보다 훨씬 좁다. 전신복절은 오나전하며 중앙도랑에 의해 나뉘지 않는다. 큰턱은 4개의 이를 가지며 윗입술은 둥글거나 가두리가 뾰족하다. 복안내연은 아래쪽에 수렴하며 이들 사이의 거리는 복안 높이보다 좁다. 뒷날개에는 항상 2개의 중실을 가지나 가두리맥은 없다. 뒷다리 넓적다리마디는 종아리마디보다 짧으며 앞날개의 둔실은 짧은 횡맥을 갖거나 짧게 응축되었다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0091-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0091_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0091_1_th.jpg",
+      "alt": "펜톤잎벌 1번째 사진 : 펜톤잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0091_1_th2.jpg",
+      "caption": "펜톤잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0091-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0301049188",
+      "description": "[YNUE0301049188] 펜톤잎벌 1981.08.05 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301049189",
+      "description": "[YNUE0301049189] 펜톤잎벌 1977.08.22 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDO0091-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0091&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:40+00:00",
+    "html_sha256": "ef8574695436af9df229c1d70879e220ba9efcdaf21075f5730804be35804670",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

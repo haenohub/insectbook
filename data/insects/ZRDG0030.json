@@ -1,0 +1,136 @@
+{
+  "id": "ZRDG0030",
+  "name_ko": "북방까마귀부전나비",
+  "scientific_name": "Satyrium latior (Fixsen, 1887)",
+  "display_name": "북방까마귀부전나비",
+  "family_ko": "부전나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "부전나비과",
+      "name_latin": "Lycaenidae"
+    },
+    "subfamily": {
+      "name_ko": "녹색부전나비아과",
+      "name_latin": "Theclinae"
+    },
+    "genus": {
+      "name_ko": "까마귀부전나비속",
+      "name_latin": "Satyrium"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 부전나비과 (Lycaenidae)\n아과 : 녹색부전나비아과 (Theclinae)\n속 : 까마귀부전나비속 (Satyrium)",
+  "basic_information": {
+    "곤충명": "북방까마귀부전나비",
+    "학명": "Satyrium latior (Fixsen, 1887)"
+  },
+  "information": {
+    "general_description": "수컷의 앞날개 윗면 중실 끝 부근에 긴 타원형의 성표가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "암컷은 가지의 분지부나 수피의 흠, 틈에 한 개씩 산란한다.",
+    "habits": "석회암 지대의 나무가 적은 낮은 산지의 능선이나 정상에서 서식한다. 수컷은 점유행동을 강하게 한다. 암수 모두 개망초 등의 흰색 꽃에 잘 모여 흡밀하나 습지에 모이는 것은 아직 관찰되지 않았다.",
+    "season": null,
+    "overwintering": "알",
+    "distribution": "[중국]\n[러시아]\n[유럽]",
+    "notes": "[국지적분포종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "수컷의 앞날개 윗면 중실 끝 부근에 긴 타원형의 성표가 있다."
+    },
+    {
+      "title": "생태",
+      "text": "암컷은 가지의 분지부나 수피의 흠, 틈에 한 개씩 산란한다."
+    },
+    {
+      "title": "습성",
+      "text": "석회암 지대의 나무가 적은 낮은 산지의 능선이나 정상에서 서식한다. 수컷은 점유행동을 강하게 한다. 암수 모두 개망초 등의 흰색 꽃에 잘 모여 흡밀하나 습지에 모이는 것은 아직 관찰되지 않았다."
+    },
+    {
+      "title": "월동",
+      "text": "알"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[러시아]\n[유럽]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[국지적분포종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDG0030-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0030_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0030_2_th.jpg",
+      "alt": "북방까마귀부전나비 1번째 사진 : 북방까마귀부전나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0030_2_th2.jpg",
+      "caption": "북방까마귀부전나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDG0030-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0030_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0030_1_th.jpg",
+      "alt": "북방까마귀부전나비 2번째 사진 : 북방까마귀부전나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0030_1_th2.jpg",
+      "caption": "북방까마귀부전나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDG0030-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0203062040",
+      "description": "[KNAE0203062040] 북방까마귀부전나비 1991.06.24 / / 국립수목원"
+    },
+    {
+      "id": "SJNE0203251030",
+      "description": "[SJNE0203251030] 북방까마귀부전나비 2001.06.12 / / 상주대학교"
+    },
+    {
+      "id": "MPME0409031323",
+      "description": "[MPME0409031323] 북방까마귀부전나비 2003.06.20 / / 목포자연사박물관"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "갈매나무",
+      "scientific_name": "Rhamnus davurica Pall."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDG0030-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDG0030&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:25+00:00",
+    "html_sha256": "55bcb5bb0d10c71eefcf9c98aa142abd0c76757509f7abcf3a447a7fc1203a15",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

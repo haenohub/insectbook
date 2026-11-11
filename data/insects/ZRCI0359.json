@@ -1,0 +1,107 @@
+{
+  "id": "ZRCI0359",
+  "name_ko": "굵은줄가지나방",
+  "scientific_name": "Cleora repulsaria (Walker, 1860)",
+  "display_name": "굵은줄가지나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "가지나방아과",
+      "name_latin": "Ennominae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Cleora"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 가지나방아과 (Ennominae)\n속 : (Cleora)",
+  "basic_information": {
+    "곤충명": "굵은줄가지나방",
+    "학명": "Cleora repulsaria (Walker, 1860)"
+  },
+  "information": {
+    "general_description": "날개편길이 수컷34~38mm. 수컷의 더듬이 끝은 실모양이고 밑부분 반은 빗살모양임. 앞뒷날개는 회갈색이며 중앙 부분은 다소 밝은색임. 횡맥환은 크고 외횡선은 톱니 모양임. 뒷날개 외횡선 안쪽은 밝은색임.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[미얀마]\n[일본]\n[중국]\n[인도네시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편길이 수컷34~38mm. 수컷의 더듬이 끝은 실모양이고 밑부분 반은 빗살모양임. 앞뒷날개는 회갈색이며 중앙 부분은 다소 밝은색임. 횡맥환은 크고 외횡선은 톱니 모양임. 뒷날개 외횡선 안쪽은 밝은색임."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[미얀마]\n[일본]\n[중국]\n[인도네시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0359-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0359_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0359_1_th.jpg",
+      "alt": "굵은줄가지나방 1번째 사진 : 굵은줄가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0359_1_th2.jpg",
+      "caption": "굵은줄가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0359-1",
+  "specimen_examples": [
+    {
+      "id": "JFNE0201141113",
+      "description": "[JFNE0201141113] 굵은줄가지나방 1996.08.08 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0201141115",
+      "description": "[JFNE0201141115] 굵은줄가지나방 1993.08.14 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0201141116",
+      "description": "[JFNE0201141116] 굵은줄가지나방 1993.08.17 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRCI0359.png",
+    "reference_image_id": "ZRCI0359-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T14:19:19.747949+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "d84da31b2e6e2064a89dc31db005c56eb850b2a64d971058e2a399e8f82dc9ca"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0359&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:30+00:00",
+    "html_sha256": "4458e86b6b9bde986a07397242cb7b2c32567e6a76a7e9c47a21018167f56b4c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

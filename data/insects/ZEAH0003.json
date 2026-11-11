@@ -1,0 +1,110 @@
+{
+  "id": "ZEAH0003",
+  "name_ko": "알락귀뚜라미",
+  "scientific_name": "Loxoblemmus arietulus Saussure, 1877",
+  "display_name": "알락귀뚜라미",
+  "family_ko": "귀뚜라미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "메뚜기목",
+      "name_latin": "Orthoptera"
+    },
+    "family": {
+      "name_ko": "귀뚜라미과",
+      "name_latin": "Gryllidae"
+    },
+    "subfamily": {
+      "name_ko": "귀뚜라미아과",
+      "name_latin": "Gryllinae"
+    },
+    "genus": {
+      "name_ko": "알락귀뚜라미속",
+      "name_latin": "Loxoblemmus"
+    }
+  },
+  "taxonomy_text": "목 : 메뚜기목 (Orthoptera)\n과 : 귀뚜라미과 (Gryllidae)\n아과 : 귀뚜라미아과 (Gryllinae)\n속 : 알락귀뚜라미속 (Loxoblemmus)",
+  "basic_information": {
+    "곤충명": "알락귀뚜라미",
+    "학명": "Loxoblemmus arietulus Saussure, 1877"
+  },
+  "information": {
+    "general_description": "몸길이 13~16mm 이고 몸 전부가 흑갈색이고 복잡한 반점이 있다. 머리는 특수하게 생겼고 얼굴은 넓적하고 뒤 아랫쪽으로 절단한것 같이 되었다. 머리꼭대기는 앞쪽으로 둥그렇게 돌출하였고 그 안쪽에 담황색의 세로줄이 있다. 겹눈은 타원형이고 촉각은 몸의 길이보다 길다. 앞가슴등판에는 옅은 색의 불규칙한 반점이 있다. 앞날개는 꼬리끝에 달하지 못하고 뒷날개는 한 번 났다가 떨어져 없어진다. 다리에는 옅은색 또는 흑갈색의 반점이 산재하고 뒷종아리마디의 가시는 5개이며 미모는 체장의 반 정도이고 산란관은 미모보다 길다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 13~16mm 이고 몸 전부가 흑갈색이고 복잡한 반점이 있다. 머리는 특수하게 생겼고 얼굴은 넓적하고 뒤 아랫쪽으로 절단한것 같이 되었다. 머리꼭대기는 앞쪽으로 둥그렇게 돌출하였고 그 안쪽에 담황색의 세로줄이 있다. 겹눈은 타원형이고 촉각은 몸의 길이보다 길다. 앞가슴등판에는 옅은 색의 불규칙한 반점이 있다. 앞날개는 꼬리끝에 달하지 못하고 뒷날개는 한 번 났다가 떨어져 없어진다. 다리에는 옅은색 또는 흑갈색의 반점이 산재하고 뒷종아리마디의 가시는 5개이며 미모는 체장의 반 정도이고 산란관은 미모보다 길다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZEAH0003-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAH0003_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAH0003_2_th.jpg",
+      "alt": "알락귀뚜라미 1번째 사진 : 알락귀뚜라미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAH0003_2_th2.jpg",
+      "caption": "알락귀뚜라미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZEAH0003-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAH0003_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAH0003_1_th.jpg",
+      "alt": "알락귀뚜라미 2번째 사진 : 알락귀뚜라미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAH0003_1_th2.jpg",
+      "caption": "알락귀뚜라미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZEAH0003-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0407291010",
+      "description": "[MPME0407291010] 알락귀뚜라미 2002.08.18 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0407291009",
+      "description": "[MPME0407291009] 알락귀뚜라미 2002.08.18 / / 목포자연사박물관"
+    },
+    {
+      "id": "JFNE0306121116",
+      "description": "[JFNE0306121116] 알락귀뚜라미 1994.09.20 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZEAH0003-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZEAH0003&tabId=tab1",
+    "collected_at": "2026-11-04T14:14:25+00:00",
+    "html_sha256": "9e63deef8f6514bf212080a8c895fe70b979522e1a074602922c5d4a63e28b53",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

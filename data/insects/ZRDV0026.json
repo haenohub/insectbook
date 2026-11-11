@@ -1,0 +1,163 @@
+{
+  "id": "ZRDV0026",
+  "name_ko": "수노랑나비",
+  "scientific_name": "Chitoria ulupi (Doherty, 1889)",
+  "display_name": "수노랑나비",
+  "family_ko": "네발나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "네발나비과",
+      "name_latin": "Nymphalidae"
+    },
+    "subfamily": {
+      "name_ko": "오색나비아과",
+      "name_latin": "Apaturinae"
+    },
+    "genus": {
+      "name_ko": "수노랑나비속",
+      "name_latin": "Chitoria"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 네발나비과 (Nymphalidae)\n아과 : 오색나비아과 (Apaturinae)\n속 : 수노랑나비속 (Chitoria)",
+  "basic_information": {
+    "곤충명": "수노랑나비",
+    "학명": "Chitoria ulupi (Doherty, 1889)"
+  },
+  "information": {
+    "general_description": "수컷은 날개 윗면이 황갈색이고 앞날개 외연이 심하게 파여 있으나 암컷은 날개 윗면이 흑갈색이고 앞날개 외연이 덜 파여져 있다. 수컷이 암컷보다 크기가 작다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "암컷은 잎 뒷면에 한꺼번에 60여 개를 산란하는데 전체적인 알덩어리의 모습을 위에서 보면 6각형을 이루고 있다.",
+    "habits": "낮은 산지의 계곡이나 그 주변에 서식하는데 암수 모두 참나무의 진에 잘 모이나 습지에는 오지 않는다.",
+    "season": null,
+    "overwintering": "애벌레",
+    "distribution": "[중국]\n[대만]\n[인도]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "수컷은 날개 윗면이 황갈색이고 앞날개 외연이 심하게 파여 있으나 암컷은 날개 윗면이 흑갈색이고 앞날개 외연이 덜 파여져 있다. 수컷이 암컷보다 크기가 작다."
+    },
+    {
+      "title": "생태",
+      "text": "암컷은 잎 뒷면에 한꺼번에 60여 개를 산란하는데 전체적인 알덩어리의 모습을 위에서 보면 6각형을 이루고 있다."
+    },
+    {
+      "title": "습성",
+      "text": "낮은 산지의 계곡이나 그 주변에 서식하는데 암수 모두 참나무의 진에 잘 모이나 습지에는 오지 않는다."
+    },
+    {
+      "title": "월동",
+      "text": "애벌레"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[대만]\n[인도]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDV0026-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0026_4.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0026_4.jpg",
+      "alt": "수노랑나비 1번째 사진 : 수노랑나비 암컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0026_4.jpg",
+      "caption": "수노랑나비 암컷 이미지",
+      "photographed_at": "20090716",
+      "location": "경기도 포천시 소흘읍 광릉숲",
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRDV0026-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0026_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0026_3.jpg",
+      "alt": "수노랑나비 2번째 사진 : 수노랑나비 수컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0026_3_th2.jpg",
+      "caption": "수노랑나비 수컷 이미지",
+      "photographed_at": "20120626",
+      "location": "경기도 포천시 소흘읍 광릉숲",
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRDV0026-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0026_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0026_2_th.jpg",
+      "alt": "수노랑나비 3번째 사진 : 수노랑나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0026_2_th2.jpg",
+      "caption": "수노랑나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDV0026-4",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0026_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0026_1_th.jpg",
+      "alt": "수노랑나비 4번째 사진 : 수노랑나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0026_1_th2.jpg",
+      "caption": "수노랑나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDV0026-1",
+  "specimen_examples": [
+    {
+      "id": "SJNE0306201102",
+      "description": "[SJNE0306201102] 수노랑나비 2002.06.07 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0306201103",
+      "description": "[SJNE0306201103] 수노랑나비 2002.06.07 / / 상주대학교"
+    },
+    {
+      "id": "KNAE0302031053",
+      "description": "[KNAE0302031053] 수노랑나비 1998.05.06 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "팽나무",
+      "scientific_name": "Celtis sinensis Pers."
+    },
+    {
+      "group": "식물",
+      "name_ko": "풍게나무",
+      "scientific_name": "Celtis jessoensis Koidz."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDV0026-3"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDV0026&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:30+00:00",
+    "html_sha256": "6ca3135d4a6e9f24600989deef141fd9002c1966f7e158decea75428ba1538ae",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

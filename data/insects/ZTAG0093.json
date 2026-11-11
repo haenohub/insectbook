@@ -1,0 +1,107 @@
+{
+  "id": "ZTAG0093",
+  "name_ko": "수염줄벌",
+  "scientific_name": "Eucera (Eucera) spurcatipes (Perez, 1911)",
+  "display_name": "수염줄벌",
+  "family_ko": "꿀벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "꿀벌과",
+      "name_latin": "Apidae"
+    },
+    "subfamily": {
+      "name_ko": "꿀벌아과",
+      "name_latin": "Apinae"
+    },
+    "genus": {
+      "name_ko": "수염줄벌속",
+      "name_latin": "Eucera"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 꿀벌과 (Apidae)\n아과 : 꿀벌아과 (Apinae)\n속 : 수염줄벌속 (Eucera)",
+  "basic_information": {
+    "곤충명": "수염줄벌",
+    "학명": "Eucera (Eucera) spurcatipes (Perez, 1911)"
+  },
+  "information": {
+    "general_description": "몸길이는 15mm 정도이고, 몸은 흑색이다. 머리 방패와 윗입술은 황색이며 다리 끝은 약간 흑갈색이다. 머리, 가슴배의 기부와 다리에는 긴 털이 나있고 등면의 털은 회황색이나 아래쪽으로 갈수록 담색으로 되어 거의 백색으로 되었다. 얼굴의 양 옆, 윗입술과 양 뺨의 것은 거의 백색으로 보인다. 다리의 발목마디의 안면에는 담황갈색 털이 많다. 더듬이는 길고 흑색 광택이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[감소추세종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 15mm 정도이고, 몸은 흑색이다. 머리 방패와 윗입술은 황색이며 다리 끝은 약간 흑갈색이다. 머리, 가슴배의 기부와 다리에는 긴 털이 나있고 등면의 털은 회황색이나 아래쪽으로 갈수록 담색으로 되어 거의 백색으로 되었다. 얼굴의 양 옆, 윗입술과 양 뺨의 것은 거의 백색으로 보인다. 다리의 발목마디의 안면에는 담황갈색 털이 많다. 더듬이는 길고 흑색 광택이 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[감소추세종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0093-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0093_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0093_1_th.jpg",
+      "alt": "수염줄벌 1번째 사진 : 수염줄벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0093_1_th2.jpg",
+      "caption": "수염줄벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0093-1",
+  "specimen_examples": [
+    {
+      "id": "CBNE0207241011",
+      "description": "[CBNE0207241011] 수염줄벌 2000.05.23 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0207241012",
+      "description": "[CBNE0207241012] 수염줄벌 2000.05.24 / / 충북대학교"
+    },
+    {
+      "id": "KNAE524003",
+      "description": "[KNAE524003] 수염줄벌 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAG0093-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0093&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:34+00:00",
+    "html_sha256": "39e8ffd3effe7c48568c63dcb0595b37a1750557658b584b1e5df7243b66aa9f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

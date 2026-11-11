@@ -1,0 +1,114 @@
+{
+  "id": "ZOGP0015",
+  "name_ko": "큰수중다리송장벌레",
+  "scientific_name": "Necrodes littoralis (Linnaeus, 1758)",
+  "display_name": "큰수중다리송장벌레",
+  "family_ko": "송장벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "반날개상과",
+      "name_latin": "Staphylinoidea"
+    },
+    "family": {
+      "name_ko": "송장벌레과",
+      "name_latin": "Silphidae"
+    },
+    "subfamily": {
+      "name_ko": "송장벌레아과",
+      "name_latin": "Silphinae"
+    },
+    "genus": {
+      "name_ko": "수중다리송장벌레속",
+      "name_latin": "Necrodes"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 반날개상과 (Staphylinoidea)\n과 : 송장벌레과 (Silphidae)\n아과 : 송장벌레아과 (Silphinae)\n속 : 수중다리송장벌레속 (Necrodes)",
+  "basic_information": {
+    "곤충명": "큰수중다리송장벌레",
+    "학명": "Necrodes littoralis (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "한국, 일본, 쿠릴열도, 시베리아, 티벳에 분포하며, 체장은 12mm 내외이다. 전체가 흑색이고 머리에는 작은 점각을 밀포하였다. 머리방패의 앞가두리 중앙부는 함입하고 황갈색의 강모로 덮이었다. 촉각의 말단 세마디는 팽대하고 등황색이다. 양 수염은 흑색이고 각 마디의 말단은 적갈색이다. 앞가슴등판은 원형이고 그 주변가두리는 흑갈색이고 중앙에서 앞가두리까지는 한 개의 융기가 있고 점각을 밀포하였다. 다리는 흑색이고 수컷의 허벅다리는 팽대하였다. 딱지날개는 흑갈색인데 세줄의 종융이 있고 간실에는 거칠고 큰 점각을 밀포하고 그 제 3간실의 중앙 가까이에 1개의 융기가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 쿠릴열도, 시베리아, 티벳에 분포하며, 체장은 12mm 내외이다. 전체가 흑색이고 머리에는 작은 점각을 밀포하였다. 머리방패의 앞가두리 중앙부는 함입하고 황갈색의 강모로 덮이었다. 촉각의 말단 세마디는 팽대하고 등황색이다. 양 수염은 흑색이고 각 마디의 말단은 적갈색이다. 앞가슴등판은 원형이고 그 주변가두리는 흑갈색이고 중앙에서 앞가두리까지는 한 개의 융기가 있고 점각을 밀포하였다. 다리는 흑색이고 수컷의 허벅다리는 팽대하였다. 딱지날개는 흑갈색인데 세줄의 종융이 있고 간실에는 거칠고 큰 점각을 밀포하고 그 제 3간실의 중앙 가까이에 1개의 융기가 있다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGP0015-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0015_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0015_2_th.jpg",
+      "alt": "큰수중다리송장벌레 1번째 사진 : 큰수중다리송장벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0015_2_th2.jpg",
+      "caption": "큰수중다리송장벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOGP0015-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0015_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0015_1_th.jpg",
+      "alt": "큰수중다리송장벌레 2번째 사진 : 큰수중다리송장벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0015_1_th2.jpg",
+      "caption": "큰수중다리송장벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGP0015-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408191058",
+      "description": "[MPME0408191058] 큰수중다리송장벌레 1999.07.01 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408191059",
+      "description": "[MPME0408191059] 큰수중다리송장벌레 1999.07.01 / / 목포자연사박물관"
+    },
+    {
+      "id": "KNAE0408091036",
+      "description": "[KNAE0408091036] 큰수중다리송장벌레 2002.07.28 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGP0015-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGP0015&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:53+00:00",
+    "html_sha256": "8d2073bb6547bb7f4193c98ca37a1cf5783cec442c7c393bfa27ca04ca706cc6",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

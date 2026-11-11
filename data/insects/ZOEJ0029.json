@@ -1,0 +1,129 @@
+{
+  "id": "ZOEJ0029",
+  "name_ko": "왕풍뎅이",
+  "scientific_name": "Melolontha incana (Motschulsky, 1853)",
+  "display_name": "왕풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "검정풍뎅이아과",
+      "name_latin": "Melolonthinae"
+    },
+    "genus": {
+      "name_ko": "왕풍뎅이속",
+      "name_latin": "Melolontha"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 검정풍뎅이아과 (Melolonthinae)\n속 : 왕풍뎅이속 (Melolontha)",
+  "basic_information": {
+    "곤충명": "왕풍뎅이",
+    "학명": "Melolontha incana (Motschulsky, 1853)"
+  },
+  "information": {
+    "general_description": "중국 북부, 시베리아 동부에 분포하며, 적갈색 내지 짙은 갈색이며 광택이 있으나 매우 짧은 회백색 내지 황백색 털이 전신을 덮고 있어서 알아 볼 수 없다. 머리방패는 거의 사각형인데 앞쪽은 낮고 편평하다. 촉각은 10마디인데 수컷의 곤봉부는 7마디로서 자루의 2배 정도로 길고 중간이 굽었으며, 암컷은 6마디인데 자루의 절반 길이이다. 앞가슴등판의 옆 테두리는 긴 갈색털을 동반한 홈들이 있고, 후흉복판 돌기는 기부가 넓고, 전기절까지 길게 늘어났다. 전경절의 외치는 3개이나 제 3은 흔적적이며, 발톱은 기고 심하게 굽었으며, 기부 가까이에 1개의 짧고 넓은 이빨이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중국 북부, 시베리아 동부에 분포하며, 적갈색 내지 짙은 갈색이며 광택이 있으나 매우 짧은 회백색 내지 황백색 털이 전신을 덮고 있어서 알아 볼 수 없다. 머리방패는 거의 사각형인데 앞쪽은 낮고 편평하다. 촉각은 10마디인데 수컷의 곤봉부는 7마디로서 자루의 2배 정도로 길고 중간이 굽었으며, 암컷은 6마디인데 자루의 절반 길이이다. 앞가슴등판의 옆 테두리는 긴 갈색털을 동반한 홈들이 있고, 후흉복판 돌기는 기부가 넓고, 전기절까지 길게 늘어났다. 전경절의 외치는 3개이나 제 3은 흔적적이며, 발톱은 기고 심하게 굽었으며, 기부 가까이에 1개의 짧고 넓은 이빨이 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOEJ0029-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0029_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0029_2_th.jpg",
+      "alt": "왕풍뎅이 1번째 사진 : 왕풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0029_2_th2.jpg",
+      "caption": "왕풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOEJ0029-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0029_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0029_1_th.jpg",
+      "alt": "왕풍뎅이 2번째 사진 : 왕풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0029_1_th2.jpg",
+      "caption": "왕풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOEJ0029-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0408101060",
+      "description": "[KNAE0408101060] 왕풍뎅이 2001.08.17 / / 국립수목원"
+    },
+    {
+      "id": "FRIE0306171048",
+      "description": "[FRIE0306171048] 왕풍뎅이 1997.08.25 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0306171047",
+      "description": "[FRIE0306171047] 왕풍뎅이 1998.07.14 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "갈참나무",
+      "scientific_name": "Quercus aliena Blume"
+    },
+    {
+      "group": "식물",
+      "name_ko": "상수리나무",
+      "scientific_name": "Quercus acutissima Carruth."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOEJ0029-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOEJ0029&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:48+00:00",
+    "html_sha256": "056fc189de64f0249539db9a188b261bd8dd1e34f993bed7a58e89a860087ee7",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

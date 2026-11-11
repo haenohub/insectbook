@@ -1,0 +1,118 @@
+{
+  "id": "ZLBN0100",
+  "name_ko": "보리장님노린재",
+  "scientific_name": "Stenodema (Stenodema) rubrinerve Horváth, 1905",
+  "display_name": "보리장님노린재",
+  "family_ko": "장님노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "장님노린재상과",
+      "name_latin": "Miroidea"
+    },
+    "family": {
+      "name_ko": "장님노린재과",
+      "name_latin": "Miridae"
+    },
+    "subfamily": {
+      "name_ko": "장님노린재아과",
+      "name_latin": "Mirinae"
+    },
+    "genus": {
+      "name_ko": "보리장님노린재속",
+      "name_latin": "Stenodema"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 장님노린재상과 (Miroidea)\n과 : 장님노린재과 (Miridae)\n아과 : 장님노린재아과 (Mirinae)\n속 : 보리장님노린재속 (Stenodema)",
+  "basic_information": {
+    "곤충명": "보리장님노린재",
+    "학명": "Stenodema (Stenodema) rubrinerve Horváth, 1905"
+  },
+  "information": {
+    "general_description": "몸길이 : 8.5-10.5mm\n몸은 가늘고 길쭉하며 양 옆이 다소 평행을 이룬다. 등면에는 현저한 적갈색을 띤다. 다리와 옆가장자리는 보통 연두색을 띤다. 머리는 세모꼴이고 앞쪽으로 뭉툭하게 돌출하였다. 더듬이는 갈색을 띠며 몸길이와 비슷하게 길고, 제 1마디는 짧고 폭이 넓다. 제 2마디는 가장 길고 기부가 약간 더 굵다. 앞가슴등판은 사다리꼴이고 중앙 정중선은 황갈색을 띠고, 양 옆가장자리는 황록색의 띠무늬를 갖는다. 작은방패판은 정삼각형이고 중앙의 정중선은 앞가슴등판과 이어져 있다. 앞날개는 폭이 좁고 길며, 혁질부의 바깥가장자리에는 폭넓은 황록색의 세로띠를 특징적으로 갖는다. 설상부는 혁질부와 연속적으로 황록색 무늬를 띤다. 막질부는 갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "산야의 초원지대나 경작지 주변에 널리 분포한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 8.5-10.5mm\n몸은 가늘고 길쭉하며 양 옆이 다소 평행을 이룬다. 등면에는 현저한 적갈색을 띤다. 다리와 옆가장자리는 보통 연두색을 띤다. 머리는 세모꼴이고 앞쪽으로 뭉툭하게 돌출하였다. 더듬이는 갈색을 띠며 몸길이와 비슷하게 길고, 제 1마디는 짧고 폭이 넓다. 제 2마디는 가장 길고 기부가 약간 더 굵다. 앞가슴등판은 사다리꼴이고 중앙 정중선은 황갈색을 띠고, 양 옆가장자리는 황록색의 띠무늬를 갖는다. 작은방패판은 정삼각형이고 중앙의 정중선은 앞가슴등판과 이어져 있다. 앞날개는 폭이 좁고 길며, 혁질부의 바깥가장자리에는 폭넓은 황록색의 세로띠를 특징적으로 갖는다. 설상부는 혁질부와 연속적으로 황록색 무늬를 띤다. 막질부는 갈색이다."
+    },
+    {
+      "title": "생태",
+      "text": "산야의 초원지대나 경작지 주변에 널리 분포한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLBN0100-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBN0100_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBN0100_1_th.jpg",
+      "alt": "보리장님노린재 1번째 사진 : 보리장님노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBN0100_1_th2.jpg",
+      "caption": "보리장님노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLBN0100-1",
+  "specimen_examples": [
+    {
+      "id": "HNUE0408181073",
+      "description": "[HNUE0408181073] 보리장님노린재 2002.08.25 / / 한남대학교 자연사박물관"
+    },
+    {
+      "id": "KNAE0808040100",
+      "description": "[KNAE0808040100] 보리장님노린재 2001.05.23 / / 국립수목원"
+    },
+    {
+      "id": "CJUE0910261258",
+      "description": "[CJUE0910261258] 보리장님노린재 2002.07.17 / / 제주대학교 곤충표본관"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "벼",
+      "scientific_name": "Oryza sativa L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "보리",
+      "scientific_name": "Hordeum vulgare L."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLBN0100-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLBN0100&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:10+00:00",
+    "html_sha256": "eca15d3fd4064dca9ad019842e5f32c7b228eef7fc494574adfb3f4bdd519111",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

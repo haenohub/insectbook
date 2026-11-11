@@ -1,0 +1,115 @@
+{
+  "id": "ZRDS0154",
+  "name_ko": "검은띠맵시밤나방",
+  "scientific_name": "Mythimna nigrilinea (Leech, 1899)",
+  "display_name": "검은띠맵시밤나방",
+  "family_ko": "밤나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "밤나방과",
+      "name_latin": "Noctuidae"
+    },
+    "subfamily": {
+      "name_ko": "밤나방아과",
+      "name_latin": "Noctuinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Mythimna"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 밤나방과 (Noctuidae)\n아과 : 밤나방아과 (Noctuinae)\n속 : (Mythimna)",
+  "basic_information": {
+    "곤충명": "검은띠맵시밤나방",
+    "학명": "Mythimna nigrilinea (Leech, 1899)"
+  },
+  "information": {
+    "general_description": "날개편 길이 17～18mm. 앞날개는 기부에서 중실을 따라 중앙부는 암색을 띠나 전연부와 후연부는 넓게 황갈색을 띤다. 뒷날개는 농회황색을 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 7～8월경에 출현된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[인도]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 17～18mm. 앞날개는 기부에서 중실을 따라 중앙부는 암색을 띠나 전연부와 후연부는 넓게 황갈색을 띤다. 뒷날개는 농회황색을 띤다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 7～8월경에 출현된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[인도]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0154-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0154_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0154_1_th.jpg",
+      "alt": "검은띠맵시밤나방 1번째 사진 : 검은띠줄무늬밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0154_1_th2.jpg",
+      "caption": "검은띠줄무늬밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0154-1",
+  "specimen_examples": [
+    {
+      "id": "KNUE0212171380",
+      "description": "[KNUE0212171380] 검은띠맵시밤나방 1994.08.18 / / 강원대학교"
+    },
+    {
+      "id": "KNUE0212171381",
+      "description": "[KNUE0212171381] 검은띠맵시밤나방 1993.08.01 / / 강원대학교"
+    },
+    {
+      "id": "KNUE0212171382",
+      "description": "[KNUE0212171382] 검은띠맵시밤나방 1994.08.18 / / 강원대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDS0154.png",
+    "reference_image_id": "ZRDS0154-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T17:52:34.151124+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "24c887e64c87eb9f1c0552523b623bb92d03f69572d990602231de9e1e969456"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0154&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:55+00:00",
+    "html_sha256": "013f8ad80cef4af1a4adb9b19902b7ba7a2d9dd8350572043f9b84085a006273",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

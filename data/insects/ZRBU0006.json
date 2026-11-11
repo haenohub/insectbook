@@ -1,0 +1,118 @@
+{
+  "id": "ZRBU0006",
+  "name_ko": "남방흰갈고리나방",
+  "scientific_name": "Deroca inconclusa coreana Hampson, 1814",
+  "display_name": "남방흰갈고리나방",
+  "family_ko": "갈고리나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "갈고리나방상과",
+      "name_latin": "Drepanoidea"
+    },
+    "family": {
+      "name_ko": "갈고리나방과",
+      "name_latin": "Drepanidae"
+    },
+    "subfamily": {
+      "name_ko": "갈고리나방아과",
+      "name_latin": "Drepaninae"
+    },
+    "genus": {
+      "name_ko": "흰갈고리나방속",
+      "name_latin": "Deroca"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 갈고리나방상과 (Drepanoidea)\n과 : 갈고리나방과 (Drepanidae)\n아과 : 갈고리나방아과 (Drepaninae)\n속 : 흰갈고리나방속 (Deroca)",
+  "basic_information": {
+    "곤충명": "남방흰갈고리나방",
+    "학명": "Deroca inconclusa coreana Hampson, 1814"
+  },
+  "information": {
+    "general_description": "원종은 앞․뒷날개 모두 반투명하고, 반문은 암회갈색으로부터 흑갈색까지 있고, 앞날개에는 횡맥 무늬가 있고, 외연에는 줄무늬가 있음.\n이 아종은 원종보다 더듬이의 빗니가 길고, 반문은 한층 더 거무스레함. 암컷은 수컷보다 반문은 약하고 훨씬 투명함. 교미기의 구상돌기는 끝에서 2개의 가지로 나누어지지 않음.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "원종은 앞․뒷날개 모두 반투명하고, 반문은 암회갈색으로부터 흑갈색까지 있고, 앞날개에는 횡맥 무늬가 있고, 외연에는 줄무늬가 있음.\n이 아종은 원종보다 더듬이의 빗니가 길고, 반문은 한층 더 거무스레함. 암컷은 수컷보다 반문은 약하고 훨씬 투명함. 교미기의 구상돌기는 끝에서 2개의 가지로 나누어지지 않음."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRBU0006-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBU0006_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBU0006_2_th.jpg",
+      "alt": "남방흰갈고리나방 1번째 사진 : 남방흰갈고리나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBU0006_2_th2.jpg",
+      "caption": "남방흰갈고리나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRBU0006-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBU0006_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBU0006_1_th.jpg",
+      "alt": "남방흰갈고리나방 2번째 사진 : 남방흰갈고리나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBU0006_1_th2.jpg",
+      "caption": "남방흰갈고리나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRBU0006-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0305021040",
+      "description": "[FRIE0305021040] 남방흰갈고리나방 1998.07.27 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0301131015",
+      "description": "[KNAE0301131015] 남방흰갈고리나방 1993.09.08 / / 국립수목원"
+    },
+    {
+      "id": "CBNE0201261037",
+      "description": "[CBNE0201261037] 남방흰갈고리나방 2000.08.29 / / 충북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRBU0006.png",
+    "reference_image_id": "ZRBU0006-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T16:42:07.209465+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "223c7d89a910af36cf2631f88aa9904b004a8527f2636f4876a1b37387b583da"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRBU0006&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:26+00:00",
+    "html_sha256": "5d427f74b966b033e2672b7525d1046f014e81df1f86e9d7bfa114ea608a0b8c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

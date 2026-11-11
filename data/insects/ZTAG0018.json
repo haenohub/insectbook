@@ -1,0 +1,103 @@
+{
+  "id": "ZTAG0018",
+  "name_ko": "홍가슴애꽃벌",
+  "scientific_name": "Andrena (Melandrena) parathoracica Hirashima, 1957",
+  "display_name": "홍가슴애꽃벌",
+  "family_ko": "애꽃벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "애꽃벌과",
+      "name_latin": "Andrenidae"
+    },
+    "subfamily": {
+      "name_ko": "애꽃벌아과",
+      "name_latin": "Andreninae"
+    },
+    "genus": {
+      "name_ko": "애꽃벌속",
+      "name_latin": "Andrena"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 애꽃벌과 (Andrenidae)\n아과 : 애꽃벌아과 (Andreninae)\n속 : 애꽃벌속 (Andrena)",
+  "basic_information": {
+    "곤충명": "홍가슴애꽃벌",
+    "학명": "Andrena (Melandrena) parathoracica Hirashima, 1957"
+  },
+  "information": {
+    "general_description": "암컷은 13-14mm정도이며, 체색은 흑색이나 머리의 털은 황갈색이고 흑갈색 털이 섞여져 나 있다. 가슴의 털은 황갈색이고, 등면의 것은 특히 붉은 감이 짙다. 배에는 털이 적고 등판에 털줄이 없고 뒷다리의 종아리마디와 발목마디의 털은 흑색이다.머리방패는 보기 좋게 솟았다. 수컷은 11mm 정도로 머리와 가슴에 담황갈색 털이 밀생 하고 머리에는 흑갈색 털이 섞여져 나 있고 정수리는 강하게 겹눈 위쪽 선을 넘고 있으며 머리 방패는 강하게 도드라져 성긴 점각이 있고 따라서 광택이 없다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷은 13-14mm정도이며, 체색은 흑색이나 머리의 털은 황갈색이고 흑갈색 털이 섞여져 나 있다. 가슴의 털은 황갈색이고, 등면의 것은 특히 붉은 감이 짙다. 배에는 털이 적고 등판에 털줄이 없고 뒷다리의 종아리마디와 발목마디의 털은 흑색이다.머리방패는 보기 좋게 솟았다. 수컷은 11mm 정도로 머리와 가슴에 담황갈색 털이 밀생 하고 머리에는 흑갈색 털이 섞여져 나 있고 정수리는 강하게 겹눈 위쪽 선을 넘고 있으며 머리 방패는 강하게 도드라져 성긴 점각이 있고 따라서 광택이 없다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0018-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0018_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0018_1_th.jpg",
+      "alt": "홍가슴애꽃벌 1번째 사진 : 홍가슴애꽃벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0018_1_th2.jpg",
+      "caption": "홍가슴애꽃벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0018-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306051150",
+      "description": "[YNUE0306051150] 홍가슴애꽃벌 1999.06.29 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306278016",
+      "description": "[YNUE0306278016] 홍가슴애꽃벌 1996.06.26 / / 영남대학교"
+    },
+    {
+      "id": "KUIE0408102049",
+      "description": "[KUIE0408102049] 홍가슴애꽃벌 1998.05.27 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAG0018-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0018&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:27+00:00",
+    "html_sha256": "57c92453fb8889cc0f99ce99cdab4d59ebd914d0bb94bae67a9971c192ed0d67",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

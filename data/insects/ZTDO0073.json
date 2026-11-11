@@ -1,0 +1,99 @@
+{
+  "id": "ZTDO0073",
+  "name_ko": "말검정잎벌",
+  "scientific_name": "Macrophya (Macrophya) carbonaria F. Smith, 1874",
+  "display_name": "말검정잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "잎벌아과",
+      "name_latin": "Tenthredininae"
+    },
+    "genus": {
+      "name_ko": "검정잎벌속",
+      "name_latin": "Macrophya"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 잎벌아과 (Tenthredininae)\n속 : 검정잎벌속 (Macrophya)",
+  "basic_information": {
+    "곤충명": "말검정잎벌",
+    "학명": "Macrophya (Macrophya) carbonaria F. Smith, 1874"
+  },
+  "information": {
+    "general_description": "몸길이는 12mm,더듬이 길이는 6mm,앞날개 길이는 12mm이다. 머리는 가슴과 비슷한 넓이이며 광택이 나고 조밀한 회색 털로 덮여있다. 산란관집은 곧고 끝에서 둥글다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 12mm,더듬이 길이는 6mm,앞날개 길이는 12mm이다. 머리는 가슴과 비슷한 넓이이며 광택이 나고 조밀한 회색 털로 덮여있다. 산란관집은 곧고 끝에서 둥글다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0073-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0073_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0073_1_th.jpg",
+      "alt": "말검정잎벌 1번째 사진 : 말검정잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0073_1_th2.jpg",
+      "caption": "말검정잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0073-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0111283063",
+      "description": "[YNUE0111283063] 말검정잎벌 1990.06.13 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0111283062",
+      "description": "[YNUE0111283062] 말검정잎벌 1992.05.13 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDO0073-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0073&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:45+00:00",
+    "html_sha256": "88dbb0c7542b06a6e3b9bf9222d74686337317aff588815041069b9db919b0a1",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

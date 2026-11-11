@@ -1,0 +1,103 @@
+{
+  "id": "ZOGT0114",
+  "name_ko": "큰노랑무늬검정반날개",
+  "scientific_name": "Protocypus scutiger (Sharp, 1889)",
+  "display_name": "큰노랑무늬검정반날개",
+  "family_ko": "반날개과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "반날개상과",
+      "name_latin": "Staphylinoidea"
+    },
+    "family": {
+      "name_ko": "반날개과",
+      "name_latin": "Staphylinidae"
+    },
+    "subfamily": {
+      "name_ko": "반날개아과",
+      "name_latin": "Staphylininae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Protocypus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 반날개상과 (Staphylinoidea)\n과 : 반날개과 (Staphylinidae)\n아과 : 반날개아과 (Staphylininae)\n속 : (Protocypus)",
+  "basic_information": {
+    "곤충명": "큰노랑무늬검정반날개",
+    "학명": "Protocypus scutiger (Sharp, 1889)"
+  },
+  "information": {
+    "general_description": "몸의 길이는 20~24mm 이며, 몸은 대체로 큰편이고, 옅은갈색을 띈다. 배마디에 큰노랑 무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의 길이는 20~24mm 이며, 몸은 대체로 큰편이고, 옅은갈색을 띈다. 배마디에 큰노랑 무늬가 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGT0114-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGT0114_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGT0114_1_th.jpg",
+      "alt": "큰노랑무늬검정반날개 1번째 사진 : 큰노랑무늬검정반날개전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGT0114_1_th2.jpg",
+      "caption": "큰노랑무늬검정반날개전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGT0114-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0112216005",
+      "description": "[YNUE0112216005] 큰노랑무늬검정반날개 1991.05.13 / / 영남대학교"
+    },
+    {
+      "id": "KNAE0607202011",
+      "description": "[KNAE0607202011] 큰노랑무늬검정반날개 1999.06.26 / / 국립수목원"
+    },
+    {
+      "id": "YNUE0112286014",
+      "description": "[YNUE0112286014] 큰노랑무늬검정반날개 1992.05.16 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGT0114-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGT0114&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:43+00:00",
+    "html_sha256": "748e3cce08a05dbbecaa1fd9cecc4a7cc5b1c713275cf9e27d56ce6d11cde25d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

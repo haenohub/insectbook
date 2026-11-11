@@ -1,0 +1,114 @@
+{
+  "id": "ZOEJ0055",
+  "name_ko": "광릉다색우단풍뎅이",
+  "scientific_name": "Sericania koryoensis Murayama, 1935",
+  "display_name": "광릉다색우단풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "검정풍뎅이아과",
+      "name_latin": "Melolonthinae"
+    },
+    "genus": {
+      "name_ko": "다색우단풍뎅이속",
+      "name_latin": "Sericania"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 검정풍뎅이아과 (Melolonthinae)\n속 : 다색우단풍뎅이속 (Sericania)",
+  "basic_information": {
+    "곤충명": "광릉다색우단풍뎅이",
+    "학명": "Sericania koryoensis Murayama, 1935"
+  },
+  "information": {
+    "general_description": "한국에 분포하며, 몸은 짧고, 등쪽은 광택이 매우 강한 흑색 또는 갈색이며, 입술 수염과 발톱은 갈색이다. 복부 복판은 희미한 광택이 있고, 각 마디에는 여러 개의 불규칙한 강모가 나있다. 촉각은 흑갈색으로 9마디인데 수컷의 곤봉부는 4마디이며, 자루마디보다 약간 길고, 암컷은 3마디이다. 뒷다리의 럾적다리마디는 광택이 강하고, 기적에는 가로로 파인 홈이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국에 분포하며, 몸은 짧고, 등쪽은 광택이 매우 강한 흑색 또는 갈색이며, 입술 수염과 발톱은 갈색이다. 복부 복판은 희미한 광택이 있고, 각 마디에는 여러 개의 불규칙한 강모가 나있다. 촉각은 흑갈색으로 9마디인데 수컷의 곤봉부는 4마디이며, 자루마디보다 약간 길고, 암컷은 3마디이다. 뒷다리의 럾적다리마디는 광택이 강하고, 기적에는 가로로 파인 홈이 있다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOEJ0055-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0055_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0055_2_th.jpg",
+      "alt": "광릉다색우단풍뎅이 1번째 사진 : 광릉다색우단풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0055_2_th2.jpg",
+      "caption": "광릉다색우단풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOEJ0055-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0055_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0055_1_th.jpg",
+      "alt": "광릉다색우단풍뎅이 2번째 사진 : 광릉다색우단풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0055_1_th2.jpg",
+      "caption": "광릉다색우단풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOEJ0055-1",
+  "specimen_examples": [
+    {
+      "id": "SSUE0201091031",
+      "description": "[SSUE0201091031] 광릉다색우단풍뎅이 1979.06.05 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0201091033",
+      "description": "[SSUE0201091033] 광릉다색우단풍뎅이 1996.05.10 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0201091034",
+      "description": "[SSUE0201091034] 광릉다색우단풍뎅이 1996.05.26 / / 성신여자대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOEJ0055.png",
+    "reference_image_id": "ZOEJ0055-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T13:21:33.595681+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "97a3d4903b5d0fe89244ef5bee8b89322473df1aaf565158ed8af20e5191630b"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOEJ0055&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:12+00:00",
+    "html_sha256": "cf31ccfa8688962fb5962845e6b6751a508217a26a33520b12fa7e4d52dec9d3",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

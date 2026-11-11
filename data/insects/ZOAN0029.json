@@ -1,0 +1,107 @@
+{
+  "id": "ZOAN0029",
+  "name_ko": "똥풍뎅이",
+  "scientific_name": "Aphodius (Phaeaphodius) rectus (Motschulsky, 1866)",
+  "display_name": "똥풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "똥풍뎅이아과",
+      "name_latin": "Aphodiinae"
+    },
+    "genus": {
+      "name_ko": "똥풍뎅이속",
+      "name_latin": "Aphodius"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 똥풍뎅이아과 (Aphodiinae)\n속 : 똥풍뎅이속 (Aphodius)",
+  "basic_information": {
+    "곤충명": "똥풍뎅이",
+    "학명": "Aphodius (Phaeaphodius) rectus (Motschulsky, 1866)"
+  },
+  "information": {
+    "general_description": "만주아구에 분포하며 광택있는 흑색이나 딱지날개는 전체가 흑색이나 국내에는 매우 넓게 경사진 황적~황갈색 무늬를 가진 biformis형도 대단히 많으며, 전체가 황갈색인 개체도 있다. 머리 앞쪽은 주름상 점각이, 수컷은 3개의 작은 이마융기가 있다. 방패 앞테두리는 분명하다. 전흉배판 옆은 털이 있고 후각은 경사지며 약한 테두리가 있고, 날개의 조구는 뚜렷하다. 중,후경절단극모열의 길이는 서로 다르다. 제1후부절은 다음 3마디의 합과 같은 길이이다. BL:4.5~7.2mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "만주아구에 분포하며 광택있는 흑색이나 딱지날개는 전체가 흑색이나 국내에는 매우 넓게 경사진 황적~황갈색 무늬를 가진 biformis형도 대단히 많으며, 전체가 황갈색인 개체도 있다. 머리 앞쪽은 주름상 점각이, 수컷은 3개의 작은 이마융기가 있다. 방패 앞테두리는 분명하다. 전흉배판 옆은 털이 있고 후각은 경사지며 약한 테두리가 있고, 날개의 조구는 뚜렷하다. 중,후경절단극모열의 길이는 서로 다르다. 제1후부절은 다음 3마디의 합과 같은 길이이다. BL:4.5~7.2mm."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAN0029-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAN0029_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAN0029_1_th.jpg",
+      "alt": "똥풍뎅이 1번째 사진 : 똥풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAN0029_1_th2.jpg",
+      "caption": "똥풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAN0029-1",
+  "specimen_examples": [
+    {
+      "id": "SSUE0302281092",
+      "description": "[SSUE0302281092] 똥풍뎅이 1993.04.24 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0302281093",
+      "description": "[SSUE0302281093] 똥풍뎅이 1984.04.01 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0302281094",
+      "description": "[SSUE0302281094] 똥풍뎅이 1984.04.01 / / 성신여자대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAN0029-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAN0029&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:27+00:00",
+    "html_sha256": "98fe231915b9946f76e6c17f2803fe025f2a03f276898c90a2a1108c46402f19",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

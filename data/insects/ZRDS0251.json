@@ -1,0 +1,126 @@
+{
+  "id": "ZRDS0251",
+  "name_ko": "흰눈까마귀밤나방",
+  "scientific_name": "Amphipyra monolitha Guenée, 1852",
+  "display_name": "흰눈까마귀밤나방",
+  "family_ko": "밤나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "밤나방과",
+      "name_latin": "Noctuidae"
+    },
+    "subfamily": {
+      "name_ko": "까마귀밤나방아과",
+      "name_latin": "Amphipyrinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Amphipyra"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 밤나방과 (Noctuidae)\n아과 : 까마귀밤나방아과 (Amphipyrinae)\n속 : (Amphipyra)",
+  "basic_information": {
+    "곤충명": "흰눈까마귀밤나방",
+    "학명": "Amphipyra monolitha Guenée, 1852"
+  },
+  "information": {
+    "general_description": "날개편 길이 28～30mm. 앞날개는 농자갈색 바탕인데 각 횡선은 전종에 비해 물결 모양의 굴곡이 약간 심하며, 외횡선의 바깥쪽으로는 넓게 밝은 담색 부분이 있다. 뒷날개는 농적갈색 바탕으로 전연부는 회갈색을 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 7～8월경에 출현된다.",
+    "habits": "유충은 전종과 마찬가지로 식물의 잎을 먹는다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]\n[인도]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 28～30mm. 앞날개는 농자갈색 바탕인데 각 횡선은 전종에 비해 물결 모양의 굴곡이 약간 심하며, 외횡선의 바깥쪽으로는 넓게 밝은 담색 부분이 있다. 뒷날개는 농적갈색 바탕으로 전연부는 회갈색을 띤다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 7～8월경에 출현된다."
+    },
+    {
+      "title": "습성",
+      "text": "유충은 전종과 마찬가지로 식물의 잎을 먹는다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]\n[인도]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0251-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0251_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0251_2_th.jpg",
+      "alt": "흰눈까마귀밤나방 1번째 사진 : 흰눈까마귀밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0251_2_th2.jpg",
+      "caption": "흰눈까마귀밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDS0251-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0251_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0251_1_th.jpg",
+      "alt": "흰눈까마귀밤나방 2번째 사진 : 흰눈까마귀밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0251_1_th2.jpg",
+      "caption": "흰눈까마귀밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0251-1",
+  "specimen_examples": [
+    {
+      "id": "GSNE0408182154",
+      "description": "[GSNE0408182154] 흰눈까마귀밤나방 2002.07.12 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0408182155",
+      "description": "[GSNE0408182155] 흰눈까마귀밤나방 2001.07.24 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0408182158",
+      "description": "[GSNE0408182158] 흰눈까마귀밤나방 1992.07.29 / / 경상대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDS0251-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0251&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:23+00:00",
+    "html_sha256": "b043f26e1923364de5a3e746928defa0bfc1f28b3e03e3f860c689c09d8d7d6a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

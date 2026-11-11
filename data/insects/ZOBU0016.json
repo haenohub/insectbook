@@ -1,0 +1,114 @@
+{
+  "id": "ZOBU0016",
+  "name_ko": "길앞잡이",
+  "scientific_name": "Cicindela (Sophiodela) chinensis flammifera Horn, 1902",
+  "display_name": "길앞잡이",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "길앞잡이아과",
+      "name_latin": "Cicindelinae"
+    },
+    "genus": {
+      "name_ko": "길앞잡이속",
+      "name_latin": "Cicindela"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 길앞잡이아과 (Cicindelinae)\n속 : 길앞잡이속 (Cicindela)",
+  "basic_information": {
+    "곤충명": "길앞잡이",
+    "학명": "Cicindela (Sophiodela) chinensis flammifera Horn, 1902"
+  },
+  "information": {
+    "general_description": "한국, 일본, 중국에 분포하며, 체장은 21mm 내외이다. 몸은 금록색 또는 금적색으로 빛나고 머리는 일반적으로 금록청색이며 윗입술은 퇴황색, 중앙에 현저한 용골돌기가 있다. 그리고 이것과 기부 앞가두리는 흑색이다. 앞가두리 중앙에는 예리한 한 개의 이가 있고 그 양쪽에 각각 세개의 이가 병렬하였다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 중국에 분포하며, 체장은 21mm 내외이다. 몸은 금록색 또는 금적색으로 빛나고 머리는 일반적으로 금록청색이며 윗입술은 퇴황색, 중앙에 현저한 용골돌기가 있다. 그리고 이것과 기부 앞가두리는 흑색이다. 앞가두리 중앙에는 예리한 한 개의 이가 있고 그 양쪽에 각각 세개의 이가 병렬하였다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBU0016-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0016_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0016_2_th.jpg",
+      "alt": "길앞잡이 1번째 사진 : 길앞잡이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0016_2_th2.jpg",
+      "caption": "길앞잡이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBU0016-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0016_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0016_1_th.jpg",
+      "alt": "길앞잡이 2번째 사진 : 길앞잡이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0016_1_th2.jpg",
+      "caption": "길앞잡이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBU0016-1",
+  "specimen_examples": [
+    {
+      "id": "SJNE0408181077",
+      "description": "[SJNE0408181077] 길앞잡이 2002.06.27 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0408181079",
+      "description": "[SJNE0408181079] 길앞잡이 2002.06.27 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0408181075",
+      "description": "[SJNE0408181075] 길앞잡이 2002.06.27 / / 상주대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBU0016.png",
+    "reference_image_id": "ZOBU0016-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T09:27:33.014642+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "1c2de7d95206eb9aefcb0038c0439bc1e8750bb0cd69318c7e42c33b3e506777"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBU0016&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:11+00:00",
+    "html_sha256": "23c889c9a99c6604879ab09a8bfa413d704c2cfa1928476d9e5098bf0872b4f1",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

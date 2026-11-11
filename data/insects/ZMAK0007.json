@@ -1,0 +1,128 @@
+{
+  "id": "ZMAK0007",
+  "name_ko": "설악거품벌레",
+  "scientific_name": "Aphilaenus nigripectus (Matsumura, 1903)",
+  "display_name": "설악거품벌레",
+  "family_ko": "거품벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "거품벌레상과",
+      "name_latin": "Cercopoidea"
+    },
+    "family": {
+      "name_ko": "거품벌레과",
+      "name_latin": "Aphrophoridae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Aphrophorinae"
+    },
+    "genus": {
+      "name_ko": "꼬마거품벌레속",
+      "name_latin": "Aphilaenus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 거품벌레상과 (Cercopoidea)\n과 : 거품벌레과 (Aphrophoridae)\n아과 : (Aphrophorinae)\n속 : 꼬마거품벌레속 (Aphilaenus)",
+  "basic_information": {
+    "곤충명": "설악거품벌레",
+    "학명": "Aphilaenus nigripectus (Matsumura, 1903)"
+  },
+  "information": {
+    "general_description": "몸길이: 6.6-7mm. 암컷이 약간 수컷보다 크다. 몸은담황색 또는 회황색을 띄며 등면에는 머리, 앞가슴등판, 작은방패판 및 앞날개 회함부 기부에 결쳐 폭넓은 주황색 무늬가 나타난다. 앞날개에는 담황색 또는 회황색을 띠고 불투명하다. 조상부 경계에서부터 세로로 크고 현저한 암갈색 무늬가 특징적으로 나타나므로 다른근사종들과 쉽게 구별가능하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "주로 산림지대에 서식",
+    "habits": "주로 침엽수의 새순의 즙액을 빨아먹고 산다. 뒷다리가 잘발달하여 방해를 받으면 튀어나가는 성질이있다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이: 6.6-7mm. 암컷이 약간 수컷보다 크다. 몸은담황색 또는 회황색을 띄며 등면에는 머리, 앞가슴등판, 작은방패판 및 앞날개 회함부 기부에 결쳐 폭넓은 주황색 무늬가 나타난다. 앞날개에는 담황색 또는 회황색을 띠고 불투명하다. 조상부 경계에서부터 세로로 크고 현저한 암갈색 무늬가 특징적으로 나타나므로 다른근사종들과 쉽게 구별가능하다."
+    },
+    {
+      "title": "생태",
+      "text": "주로 산림지대에 서식"
+    },
+    {
+      "title": "습성",
+      "text": "주로 침엽수의 새순의 즙액을 빨아먹고 산다. 뒷다리가 잘발달하여 방해를 받으면 튀어나가는 성질이있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMAK0007-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAK0007_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAK0007_2_th.jpg",
+      "alt": "설악거품벌레 1번째 사진 : 설악거품벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAK0007_2_th2.jpg",
+      "caption": "설악거품벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZMAK0007-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAK0007_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAK0007_1_th.jpg",
+      "alt": "설악거품벌레 2번째 사진 : 설악거품벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAK0007_1_th2.jpg",
+      "caption": "설악거품벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMAK0007-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0305151003",
+      "description": "[KPNE0305151003] 설악거품벌레 1997.05.26 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0305151006",
+      "description": "[KPNE0305151006] 설악거품벌레 1994.08.13 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0305151007",
+      "description": "[KPNE0305151007] 설악거품벌레 1982.09.19 / / 경북대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "전나무",
+      "scientific_name": "Abies holophylla Maxim."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZMAK0007-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMAK0007&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:55+00:00",
+    "html_sha256": "3b2e04c34c7c6b1b89981b1313e7e79886156c3c285e1917e2ea5d7861112751",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

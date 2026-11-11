@@ -1,0 +1,103 @@
+{
+  "id": "ZOBT0355",
+  "name_ko": "좀남생이잎벌레",
+  "scientific_name": "Cassida (Cassidulella) vittata Villers, 1789",
+  "display_name": "좀남생이잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "남생이잎벌레아과",
+      "name_latin": "Cassidinae"
+    },
+    "genus": {
+      "name_ko": "남생이잎벌레속",
+      "name_latin": "Cassida"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 남생이잎벌레아과 (Cassidinae)\n속 : 남생이잎벌레속 (Cassida)",
+  "basic_information": {
+    "곤충명": "좀남생이잎벌레",
+    "학명": "Cassida (Cassidulella) vittata Villers, 1789"
+  },
+  "information": {
+    "general_description": "체장은 5.6~6.5㎜이며, 체배면은 황갈색을 띄고 있다. 두부와 체배면은 흑색이고, 복부 각절 측연부는 황갈색이며, 촉각과 다리는 황갈색이다.분포는 한국, 일본, 시베리아, 유럽등지이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[유럽]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체장은 5.6~6.5㎜이며, 체배면은 황갈색을 띄고 있다. 두부와 체배면은 흑색이고, 복부 각절 측연부는 황갈색이며, 촉각과 다리는 황갈색이다.분포는 한국, 일본, 시베리아, 유럽등지이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[유럽]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0355-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0355_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0355_1_th.jpg",
+      "alt": "좀남생이잎벌레 1번째 사진 : 좀남생이잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0355_1_th2.jpg",
+      "caption": "좀남생이잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0355-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0112244012",
+      "description": "[YNUE0112244012] 좀남생이잎벌레 1991.05.28 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0112244013",
+      "description": "[YNUE0112244013] 좀남생이잎벌레 1991.05.13 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0112244014",
+      "description": "[YNUE0112244014] 좀남생이잎벌레 1997.05.24 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0355-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0355&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:46+00:00",
+    "html_sha256": "65e4744267f1c196d1234f66adc4fad6f9743a17422781dc3e09c47e531ddeec",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

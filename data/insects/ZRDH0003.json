@@ -1,0 +1,118 @@
+{
+  "id": "ZRDH0003",
+  "name_ko": "엘무늬독나방",
+  "scientific_name": "Arctornis l-nigrum (Müller, 1764)",
+  "display_name": "엘무늬독나방",
+  "family_ko": "태극나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "태극나방과",
+      "name_latin": "Erebidae"
+    },
+    "subfamily": {
+      "name_ko": "독나방아과",
+      "name_latin": "Lymantriinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Arctornis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 태극나방과 (Erebidae)\n아과 : 독나방아과 (Lymantriinae)\n속 : (Arctornis)",
+  "basic_information": {
+    "곤충명": "엘무늬독나방",
+    "학명": "Arctornis l-nigrum (Müller, 1764)"
+  },
+  "information": {
+    "general_description": "더듬이는 빗살 모양으로 되었는데 암컷은 빗살이 짧음. 몸과 날개는 백색인데 더듬이는 등황색을 띔. 아랫입술수염의 기부는 백색인데 그 끝은 검음. 다리는 백색이며, 각 종아리마디와 발목마디의 끝은 검음. 앞날개의 횡맥에는 흑색으로 된 L자 모양의 무늬가 있음. 뒷날개 및 앞날개와　뒷날개의 양　뒷면에는 아무런 무늬도 없이 백색임.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6월-8월에 걸쳐 출현함. 유충은 느릅나무, 버드나무류, 사시나무류, 너도밤나무, 졸참나무, 보리수 나무 등의 잎을 먹음.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[아르메니아]\n[러시아]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 빗살 모양으로 되었는데 암컷은 빗살이 짧음. 몸과 날개는 백색인데 더듬이는 등황색을 띔. 아랫입술수염의 기부는 백색인데 그 끝은 검음. 다리는 백색이며, 각 종아리마디와 발목마디의 끝은 검음. 앞날개의 횡맥에는 흑색으로 된 L자 모양의 무늬가 있음. 뒷날개 및 앞날개와　뒷날개의 양　뒷면에는 아무런 무늬도 없이 백색임."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6월-8월에 걸쳐 출현함. 유충은 느릅나무, 버드나무류, 사시나무류, 너도밤나무, 졸참나무, 보리수 나무 등의 잎을 먹음."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[아르메니아]\n[러시아]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDH0003-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDH0003_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDH0003_2_th.jpg",
+      "alt": "엘무늬독나방 1번째 사진 : 엘-무늬독나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDH0003_2_th2.jpg",
+      "caption": "엘-무늬독나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDH0003-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDH0003_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDH0003_1_th.jpg",
+      "alt": "엘무늬독나방 2번째 사진 : 엘-무늬독나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDH0003_1_th2.jpg",
+      "caption": "엘-무늬독나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDH0003-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0302061025",
+      "description": "[KNAE0302061025] 엘무늬독나방 2000.06.28 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0212302023",
+      "description": "[KNAE0212302023] 엘무늬독나방 1993.08.28 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0212302024",
+      "description": "[KNAE0212302024] 엘무늬독나방 1991.07.10 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDH0003-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDH0003&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:59+00:00",
+    "html_sha256": "fbdf9ea59f9ade5da2c30d4430d979a2719441bfba7bbe11e1c4dff2fbe8f2b4",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

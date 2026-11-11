@@ -1,0 +1,107 @@
+{
+  "id": "ZOBL0025",
+  "name_ko": "작은청동하늘소",
+  "scientific_name": "Carilia virginea (Linnaeus, 1758)",
+  "display_name": "작은청동하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "꽃하늘소아과",
+      "name_latin": "Lepturinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Carilia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 꽃하늘소아과 (Lepturinae)\n속 : (Carilia)",
+  "basic_information": {
+    "곤충명": "작은청동하늘소",
+    "학명": "Carilia virginea (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "몸길이는 6~8mm 이다. 몸은 남색에 가까운 푸른색의 광택이 강하며 앞가슴이 매우 좁고 약간길다. 딱지날개에 점각이 매우\n빽빽해서 거칠어 보인다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 5~7월 상이에 꽃에 날온다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 6~8mm 이다. 몸은 남색에 가까운 푸른색의 광택이 강하며 앞가슴이 매우 좁고 약간길다. 딱지날개에 점각이 매우\n빽빽해서 거칠어 보인다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 5~7월 상이에 꽃에 날온다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0025-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0025_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0025_1_th.jpg",
+      "alt": "작은청동하늘소 1번째 사진 : 작은청동하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0025_1_th2.jpg",
+      "caption": "작은청동하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0025-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304161015",
+      "description": "[KNAE0304161015] 작은청동하늘소 1995.06.05 / / 국립수목원"
+    },
+    {
+      "id": "FRIE0304211055",
+      "description": "[FRIE0304211055] 작은청동하늘소 2001.05.02 / / 국립산림과학원"
+    },
+    {
+      "id": "ADUE0303201026",
+      "description": "[ADUE0303201026] 작은청동하늘소 1995.06.19 / / 안동대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0025-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0025&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:54+00:00",
+    "html_sha256": "13ff5933cae0dedab6b8212726e1109ca7451b07c98183ca35012ff0a6de886f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "ZOBL0272",
+  "name_ko": "녹색네모하늘소",
+  "scientific_name": "Eutetrapha metallescens (Motschulsky, 1860)",
+  "display_name": "녹색네모하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "목하늘소아과",
+      "name_latin": "Lamiinae"
+    },
+    "genus": {
+      "name_ko": "네모하늘소속",
+      "name_latin": "Eutetrapha"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 목하늘소아과 (Lamiinae)\n속 : 네모하늘소속 (Eutetrapha)",
+  "basic_information": {
+    "곤충명": "녹색네모하늘소",
+    "학명": "Eutetrapha metallescens (Motschulsky, 1860)"
+  },
+  "information": {
+    "general_description": "몸길이는 12~15mm이며 몸색은 녹색이 나는 금속 광택이다. 겹눈과 더듬이는 흑색인데 촉각의 길이는 몸길이를 조금 넘는다. 앞가슴은 원통형, 등판은 두개의 흑색 무늬가 있으며, 딱지날개에는 6개의 흑색무늬가 있고, 뒤쪽에는 두개의 흑색무늬가 연결되어 갈고리모양으로 휘여져 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 12~15mm이며 몸색은 녹색이 나는 금속 광택이다. 겹눈과 더듬이는 흑색인데 촉각의 길이는 몸길이를 조금 넘는다. 앞가슴은 원통형, 등판은 두개의 흑색 무늬가 있으며, 딱지날개에는 6개의 흑색무늬가 있고, 뒤쪽에는 두개의 흑색무늬가 연결되어 갈고리모양으로 휘여져 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0272-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0272_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0272_1_th.jpg",
+      "alt": "녹색네모하늘소 1번째 사진 : 녹색네모하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0272_1_th2.jpg",
+      "caption": "녹색네모하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0272-1",
+  "specimen_examples": [
+    {
+      "id": "ADUE0303081001",
+      "description": "[ADUE0303081001] 녹색네모하늘소 1996.08.20 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0303071058",
+      "description": "[ADUE0303071058] 녹색네모하늘소 1996.08.20 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0303201006",
+      "description": "[ADUE0303201006] 녹색네모하늘소 1993.06.20 / / 안동대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "머루",
+      "scientific_name": "Vitis coignetiae Pulliat ex Planch."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0272-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0272&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:33+00:00",
+    "html_sha256": "42e678f226d8440dca52cb7306ec9c00b2f4c60bd59239ed15c1f5d5a57957e3",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

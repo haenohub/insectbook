@@ -1,0 +1,103 @@
+{
+  "id": "ZTBI0001",
+  "name_ko": "황슭감탕벌",
+  "scientific_name": "Anterhynchium flavomarginatum flavomarginatum (Smith, 1852)",
+  "display_name": "황슭감탕벌",
+  "family_ko": "말벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "말벌상과",
+      "name_latin": "Vespoidea"
+    },
+    "family": {
+      "name_ko": "말벌과",
+      "name_latin": "Vespidae"
+    },
+    "subfamily": {
+      "name_ko": "호리병벌아과",
+      "name_latin": "Eumeninae"
+    },
+    "genus": {
+      "name_ko": "황슭감탕벌속",
+      "name_latin": "Anterhynchium"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 말벌상과 (Vespoidea)\n과 : 말벌과 (Vespidae)\n아과 : 호리병벌아과 (Eumeninae)\n속 : 황슭감탕벌속 (Anterhynchium)",
+  "basic_information": {
+    "곤충명": "황슭감탕벌",
+    "학명": "Anterhynchium flavomarginatum flavomarginatum (Smith, 1852)"
+  },
+  "information": {
+    "general_description": "수컷은 흑색이다. 머리와 가슴에 점각이 밀포되었고 머리방패의 변두리는 흑색이다. 더듬이사이의 한개의 작은 점과 자루마디 앞면은 유백색이다. 앞가슴의 변두리에는 중단된 황색줄이 있고, 어깨판에는 적갈색 점이 있고, 날개는 흐렸으며 그 앞슭은 암색이다. 아름다운 무지개색이 난다. 가운데 다리와 뒷다리에 넓적 다리마디는 위가 적갈색이고, 앞다리에 것은 끝이 그렇다. 앞다리에 발목마디앞면에는 유백색의 줄이 하나 있고 발톱은 황갈색이다. 배는 깊은 점각이 있고 제 1.2 배마디의 뒷슭은 황색이다. 그리고 중앙에서 약간 끊겼다. 하면은 배마디마다 뒷슭이 회적색이다. 성충은 8월에 채집되었으며 드물다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "수컷은 흑색이다. 머리와 가슴에 점각이 밀포되었고 머리방패의 변두리는 흑색이다. 더듬이사이의 한개의 작은 점과 자루마디 앞면은 유백색이다. 앞가슴의 변두리에는 중단된 황색줄이 있고, 어깨판에는 적갈색 점이 있고, 날개는 흐렸으며 그 앞슭은 암색이다. 아름다운 무지개색이 난다. 가운데 다리와 뒷다리에 넓적 다리마디는 위가 적갈색이고, 앞다리에 것은 끝이 그렇다. 앞다리에 발목마디앞면에는 유백색의 줄이 하나 있고 발톱은 황갈색이다. 배는 깊은 점각이 있고 제 1.2 배마디의 뒷슭은 황색이다. 그리고 중앙에서 약간 끊겼다. 하면은 배마디마다 뒷슭이 회적색이다. 성충은 8월에 채집되었으며 드물다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBI0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBI0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBI0001_1_th.jpg",
+      "alt": "황슭감탕벌 1번째 사진 : 황테감탕벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBI0001_1_th2.jpg",
+      "caption": "황테감탕벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBI0001-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0301029078",
+      "description": "[YNUE0301029078] 황슭감탕벌 2001.05.25 / / 영남대학교"
+    },
+    {
+      "id": "KNAE0303251023",
+      "description": "[KNAE0303251023] 황슭감탕벌 1995.08.25 / / 국립수목원"
+    },
+    {
+      "id": "ADUE0302271079",
+      "description": "[ADUE0302271079] 황슭감탕벌 2001.07.20 / / 안동대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTBI0001-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBI0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:58+00:00",
+    "html_sha256": "9aa7462c62c3fe51af7317a80ff5133c87ad4dc777eb42882969a29e73bc9007",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

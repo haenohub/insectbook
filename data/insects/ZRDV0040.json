@@ -1,0 +1,162 @@
+{
+  "id": "ZRDV0040",
+  "name_ko": "제이줄나비",
+  "scientific_name": "Limenitis doerriesi Staudinger, 1892",
+  "display_name": "제이줄나비",
+  "family_ko": "네발나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "네발나비과",
+      "name_latin": "Nymphalidae"
+    },
+    "subfamily": {
+      "name_ko": "줄나비아과",
+      "name_latin": "Limenitidinae"
+    },
+    "genus": {
+      "name_ko": "줄나비속",
+      "name_latin": "Limenitis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 네발나비과 (Nymphalidae)\n아과 : 줄나비아과 (Limenitidinae)\n속 : 줄나비속 (Limenitis)",
+  "basic_information": {
+    "곤충명": "제이줄나비",
+    "학명": "Limenitis doerriesi Staudinger, 1892"
+  },
+  "information": {
+    "general_description": "무늬와 날개모양에 의한 암수구별은 어렵고 배끝의 모양을 조사하는 것이 확실하다. 제일줄나비와 매우 유사하나 뒷날개 아랫면의 아외연에 따르는 흰무니 안쪽에 작은 검은 점이 있는 것(제일줄나비는 없음)과 앞날개 기부에서 중실로 나온 곤봉모양의 흰무늬 길이가 짧고, 제3실에 있는 흰무늬가 작은 것 등에 의해 구별할 수 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "오후에 암컷이 기주식물 잎 뒷면에 한 개씩 산란한다.",
+    "habits": "제일줄나비에 비해 분포 범위가 다소 좁은 편이나 서식 장소는 서로 일치한다. 계곡의 습한 곳에 잘 모이며 산초나무, 조팝나무의 꽃에서 흡밀하고 짐승 똥에도 잘 모인다. 일광욕을 할 때에는 날개를 펴고 앉으나 습지나 꽃에 앉을 때에는 날개를 폈다 접었다 한다.",
+    "season": null,
+    "overwintering": "애벌레",
+    "distribution": "[중국]\n[러시아]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "무늬와 날개모양에 의한 암수구별은 어렵고 배끝의 모양을 조사하는 것이 확실하다. 제일줄나비와 매우 유사하나 뒷날개 아랫면의 아외연에 따르는 흰무니 안쪽에 작은 검은 점이 있는 것(제일줄나비는 없음)과 앞날개 기부에서 중실로 나온 곤봉모양의 흰무늬 길이가 짧고, 제3실에 있는 흰무늬가 작은 것 등에 의해 구별할 수 있다."
+    },
+    {
+      "title": "생태",
+      "text": "오후에 암컷이 기주식물 잎 뒷면에 한 개씩 산란한다."
+    },
+    {
+      "title": "습성",
+      "text": "제일줄나비에 비해 분포 범위가 다소 좁은 편이나 서식 장소는 서로 일치한다. 계곡의 습한 곳에 잘 모이며 산초나무, 조팝나무의 꽃에서 흡밀하고 짐승 똥에도 잘 모인다. 일광욕을 할 때에는 날개를 펴고 앉으나 습지나 꽃에 앉을 때에는 날개를 폈다 접었다 한다."
+    },
+    {
+      "title": "월동",
+      "text": "애벌레"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDV0040-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0040_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0040_3.jpg",
+      "alt": "제이줄나비 1번째 사진 : 제이줄나비 수컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0040_3_th2.jpg",
+      "caption": "제이줄나비 수컷 이미지",
+      "photographed_at": "20200527",
+      "location": "경기도 포천시 소흘읍 광릉숲",
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRDV0040-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0040_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0040_2_th.jpg",
+      "alt": "제이줄나비 2번째 사진 : 제이줄나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0040_2_th2.jpg",
+      "caption": "제이줄나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDV0040-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0040_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0040_1_th.jpg",
+      "alt": "제이줄나비 3번째 사진 : 제이줄나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0040_1_th2.jpg",
+      "caption": "제이줄나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDV0040-1",
+  "specimen_examples": [
+    {
+      "id": "MPNE0408101421",
+      "description": "[MPNE0408101421] 제이줄나비 2004.06.05 / / 목포 대학교 환경연구소"
+    },
+    {
+      "id": "SJNE0306201111",
+      "description": "[SJNE0306201111] 제이줄나비 2002.06.10 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0306201112",
+      "description": "[SJNE0306201112] 제이줄나비 2002.06.10 / / 상주대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "괴불나무",
+      "scientific_name": "Lonicera maackii (Rupr.) Maxim."
+    },
+    {
+      "group": "식물",
+      "name_ko": "올괴불나무",
+      "scientific_name": "Lonicera praeflorens Batalin"
+    },
+    {
+      "group": "식물",
+      "name_ko": "인동덩굴",
+      "scientific_name": "Lonicera japonica Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "작살나무",
+      "scientific_name": "Callicarpa japonica Thunb."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDV0040-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDV0040&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:30+00:00",
+    "html_sha256": "43ba13421d929f9c1c8c04dd3e9cd9397ee2ba4870cb5e16072fe6f56f3a8938",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "id": "ZRDS0011",
+  "name_ko": "검은저녁나방",
+  "scientific_name": "Acronicta carbonaria (Graeser, 1889 [1890])",
+  "display_name": "검은저녁나방",
+  "family_ko": "밤나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "밤나방과",
+      "name_latin": "Noctuidae"
+    },
+    "subfamily": {
+      "name_ko": "저녁나방아과",
+      "name_latin": "Acronictinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Acronicta"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 밤나방과 (Noctuidae)\n아과 : 저녁나방아과 (Acronictinae)\n속 : (Acronicta)",
+  "basic_information": {
+    "곤충명": "검은저녁나방",
+    "학명": "Acronicta carbonaria (Graeser, 1889 [1890])"
+  },
+  "information": {
+    "general_description": "날개편 길이 18～22mm. 앞날개는 암갈색 바탕인데 아기선, 내횡선, 외횡선은 흑색이며 2중선으로 되었으나 뚜렷하지는 않다. 뒷날개는 유백색 바탕으로 전연과 외연 쪽에 다소 암갈색을 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 4월경에 출현된다",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 18～22mm. 앞날개는 암갈색 바탕인데 아기선, 내횡선, 외횡선은 흑색이며 2중선으로 되었으나 뚜렷하지는 않다. 뒷날개는 유백색 바탕으로 전연과 외연 쪽에 다소 암갈색을 띤다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 4월경에 출현된다"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0011-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0011_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0011_1_th.jpg",
+      "alt": "검은저녁나방 1번째 사진 : 검은저녁나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0011_1_th2.jpg",
+      "caption": "검은저녁나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0011-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0201241038",
+      "description": "[FRIE0201241038] 검은저녁나방 1985.05.18 / / 국립산림과학원"
+    },
+    {
+      "id": "CBFE0405251040",
+      "description": "[CBFE0405251040] 검은저녁나방 2000.06.04 / / 충북산림환경연구소"
+    },
+    {
+      "id": "CBFE0405251041",
+      "description": "[CBFE0405251041] 검은저녁나방 2001.06.15 / / 충북산림환경연구소"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "상수리나무",
+      "scientific_name": "Quercus acutissima Carruth."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDS0011.png",
+    "reference_image_id": "ZRDS0011-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T10:56:07.422395+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "451be68e32ea2607453d6c90b56aa6511b5f8bd72d341c70836fd6a41c065902"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0011&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:00+00:00",
+    "html_sha256": "402acd63d024b73c795761433d5ec850ea186af97d4099a9d4e56d6c69c3d51b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

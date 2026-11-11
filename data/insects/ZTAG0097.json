@@ -1,0 +1,118 @@
+{
+  "id": "ZTAG0097",
+  "name_ko": "일본광채꽃벌",
+  "scientific_name": "Ceratina (Ceratinida) japonica Cockerell, 1911",
+  "display_name": "일본광채꽃벌",
+  "family_ko": "꿀벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "꿀벌과",
+      "name_latin": "Apidae"
+    },
+    "subfamily": {
+      "name_ko": "어리호박벌아과",
+      "name_latin": "Xylocopinae"
+    },
+    "genus": {
+      "name_ko": "광채꽃벌속",
+      "name_latin": "Ceratina"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 꿀벌과 (Apidae)\n아과 : 어리호박벌아과 (Xylocopinae)\n속 : 광채꽃벌속 (Ceratina)",
+  "basic_information": {
+    "곤충명": "일본광채꽃벌",
+    "학명": "Ceratina (Ceratinida) japonica Cockerell, 1911"
+  },
+  "information": {
+    "general_description": "암컷의 몸 길이는 9mm 정도이며,흑색이고 광택이 많이 난다. 머리와 배에는 황색 줄 무늬가 있으나특히 머리의 변이가 많다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[감소추세종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷의 몸 길이는 9mm 정도이며,흑색이고 광택이 많이 난다. 머리와 배에는 황색 줄 무늬가 있으나특히 머리의 변이가 많다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[감소추세종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0097-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0097_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0097_2_th.jpg",
+      "alt": "일본광채꽃벌 1번째 사진 : 일본광채꽃벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0097_2_th2.jpg",
+      "caption": "일본광채꽃벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTAG0097-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0097_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0097_1_th.jpg",
+      "alt": "일본광채꽃벌 2번째 사진 : 일본광채꽃벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0097_1_th2.jpg",
+      "caption": "일본광채꽃벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0097-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0211162100",
+      "description": "[YNUE0211162100] 일본광채꽃벌 1991.02.04 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0211162101",
+      "description": "[YNUE0211162101] 일본광채꽃벌 1991.05.10 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0211162103",
+      "description": "[YNUE0211162103] 일본광채꽃벌 1991.05.04 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAG0097-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0097&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:35+00:00",
+    "html_sha256": "031469017a0bc1747296bc2762444722cf70b7a4d73007aa0c6d5cc1da36cbf1",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

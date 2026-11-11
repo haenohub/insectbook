@@ -1,0 +1,114 @@
+{
+  "id": "ZLCH0006",
+  "name_ko": "투명잡초노린재",
+  "scientific_name": "Liorhyssus hyalinus (Fabricius, 1794)",
+  "display_name": "투명잡초노린재",
+  "family_ko": "잡초노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "허리노린재상과",
+      "name_latin": "Coreoidea"
+    },
+    "family": {
+      "name_ko": "잡초노린재과",
+      "name_latin": "Rhopalidae"
+    },
+    "subfamily": {
+      "name_ko": "잡초노린재아과",
+      "name_latin": "Phopalinae"
+    },
+    "genus": {
+      "name_ko": "투명잡초노린재속",
+      "name_latin": "Liorhyssus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 허리노린재상과 (Coreoidea)\n과 : 잡초노린재과 (Rhopalidae)\n아과 : 잡초노린재아과 (Phopalinae)\n속 : 투명잡초노린재속 (Liorhyssus)",
+  "basic_information": {
+    "곤충명": "투명잡초노린재",
+    "학명": "Liorhyssus hyalinus (Fabricius, 1794)"
+  },
+  "information": {
+    "general_description": "몸길이 : 6-7mm\n몸은 적갈색을 띤다. 머리의 중엽과 측엽의 경계선은 흑색이고, 그 기부에는 가로로 흑색 무늬가 있다. 뒷머리 홑눈의 뒤쪽 목둘레와 홑눈 사이에 ┴자 모양의 오황색 무늬가 있다. 앞가슴등판은 다음앞가장자리에 앞가장자리선과 평행으로 융기선이 있고 그 뒷선은 흑색이며 약간 우묵하다. 양 옆가장자리는 적갈색이고 중앙부는 흑색의 점각이 많아 적색을 띤 흑갈색이다. 뒷가장자리선은 가늘고 오황색이다. 작은방패판은 비교적 작으나 폭보다 길고, 기부의 양 측선은 연한 갈색이고 첨단은 오황색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 6-7mm\n몸은 적갈색을 띤다. 머리의 중엽과 측엽의 경계선은 흑색이고, 그 기부에는 가로로 흑색 무늬가 있다. 뒷머리 홑눈의 뒤쪽 목둘레와 홑눈 사이에 ┴자 모양의 오황색 무늬가 있다. 앞가슴등판은 다음앞가장자리에 앞가장자리선과 평행으로 융기선이 있고 그 뒷선은 흑색이며 약간 우묵하다. 양 옆가장자리는 적갈색이고 중앙부는 흑색의 점각이 많아 적색을 띤 흑갈색이다. 뒷가장자리선은 가늘고 오황색이다. 작은방패판은 비교적 작으나 폭보다 길고, 기부의 양 측선은 연한 갈색이고 첨단은 오황색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLCH0006-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCH0006_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCH0006_2_th.jpg",
+      "alt": "투명잡초노린재 1번째 사진 : 투명잡초노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCH0006_2_th2.jpg",
+      "caption": "투명잡초노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZLCH0006-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCH0006_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCH0006_1_th.jpg",
+      "alt": "투명잡초노린재 2번째 사진 : 투명잡초노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCH0006_1_th2.jpg",
+      "caption": "투명잡초노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLCH0006-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0303051125",
+      "description": "[KPNE0303051125] 투명잡초노린재 1996.09.14 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0303051127",
+      "description": "[KPNE0303051127] 투명잡초노린재 1998.10.09 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0303051129",
+      "description": "[KPNE0303051129] 투명잡초노린재 1996.10.04 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLCH0006-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLCH0006&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:32+00:00",
+    "html_sha256": "beec0f038a53fb75b61daf0421b466e478cadf9fb2dfd0f548574392325a8a6d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "id": "ZOBT0193",
+  "name_ko": "오리나무잎벌레",
+  "scientific_name": "Agelastica coerulea Baly, 1874",
+  "display_name": "오리나무잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "긴더듬이잎벌레아과",
+      "name_latin": "Galerucinae"
+    },
+    "genus": {
+      "name_ko": "오리나무잎벌레속",
+      "name_latin": "Agelastica"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 긴더듬이잎벌레아과 (Galerucinae)\n속 : 오리나무잎벌레속 (Agelastica)",
+  "basic_information": {
+    "곤충명": "오리나무잎벌레",
+    "학명": "Agelastica coerulea Baly, 1874"
+  },
+  "information": {
+    "general_description": "성충의 몸길이는 7 mm 내외이며 체색은 진한 남색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": "노숙 유충의 몸길이는 10 mm 내외이고 광택 있는 흑색으로 검은 잔털이 드문드문 나있다.",
+    "egg": "알은 황색이며 타원형으로 장경(長徑)이 1 mm 내외이다.",
+    "pupa": "번데기의 몸길이는 5 mm 정도이고 황색이다.",
+    "ecology": "월동한 성충은 4월 하순부터 나와 새 잎을 엽맥만 남기고 엽육을 먹으며 생활하다가 5월 중순~6월 하순에 300여 개의 알을 잎 뒷면에 50~60개씩 무더기로 산란한다. 15일 후에 부화한 유충은 잎 뒷면에서 머리를 나란히 하고 엽육을 먹다가 성장하면서 나무 전체로 분산하여 식해하는데 유충의 가해 기간은 5월 하순~8월 상순이고 유충 기간은 20일 내외이다. 2회 탈피한 유충은 6월 하순~7월 하순에 땅 속으로 들어가 흙집을 짓고 번데기가 된 후 20여 일 후인 7월 중순부터 신 성충이 우화하여 다시 잎을 식해하다가 8월 하순경부터 지면으로 내려와 월동에 들어간다.",
+    "habits": "성충과 유충이 동시에 오리나무 잎을 식해한다. 수관(樹冠) 아래의 잎부터 식해하기 시작하여 점차 위로 올라간다. 엽육만 먹기 때문에 잎이 붉게 변색되며 한 마리의 섭식량은 약 100 cm²이다. 피해를 받은 나무는 8월경에 부정아(不定芽)가 나와 대부분 소생하나 2~3년 간 계속 피해를 받으면 고사되기도 한다.",
+    "season": null,
+    "overwintering": "성충으로 지피물(地被物) 밑 또는 흙 속에서 월동한다.",
+    "distribution": "[일본]\n[중국] 동북지방\n[러시아] 동시베리아지역\n[러시아] 서시베리아지역",
+    "notes": "[산림해충] 임업연구원 (1991)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충의 몸길이는 7 mm 내외이며 체색은 진한 남색이다."
+    },
+    {
+      "title": "번데기",
+      "text": "번데기의 몸길이는 5 mm 정도이고 황색이다."
+    },
+    {
+      "title": "유충",
+      "text": "노숙 유충의 몸길이는 10 mm 내외이고 광택 있는 흑색으로 검은 잔털이 드문드문 나있다."
+    },
+    {
+      "title": "생태",
+      "text": "월동한 성충은 4월 하순부터 나와 새 잎을 엽맥만 남기고 엽육을 먹으며 생활하다가 5월 중순~6월 하순에 300여 개의 알을 잎 뒷면에 50~60개씩 무더기로 산란한다. 15일 후에 부화한 유충은 잎 뒷면에서 머리를 나란히 하고 엽육을 먹다가 성장하면서 나무 전체로 분산하여 식해하는데 유충의 가해 기간은 5월 하순~8월 상순이고 유충 기간은 20일 내외이다. 2회 탈피한 유충은 6월 하순~7월 하순에 땅 속으로 들어가 흙집을 짓고 번데기가 된 후 20여 일 후인 7월 중순부터 신 성충이 우화하여 다시 잎을 식해하다가 8월 하순경부터 지면으로 내려와 월동에 들어간다."
+    },
+    {
+      "title": "습성",
+      "text": "성충과 유충이 동시에 오리나무 잎을 식해한다. 수관(樹冠) 아래의 잎부터 식해하기 시작하여 점차 위로 올라간다. 엽육만 먹기 때문에 잎이 붉게 변색되며 한 마리의 섭식량은 약 100 cm²이다. 피해를 받은 나무는 8월경에 부정아(不定芽)가 나와 대부분 소생하나 2~3년 간 계속 피해를 받으면 고사되기도 한다."
+    },
+    {
+      "title": "월동",
+      "text": "성충으로 지피물(地被物) 밑 또는 흙 속에서 월동한다."
+    },
+    {
+      "title": "알",
+      "text": "알은 황색이며 타원형으로 장경(長徑)이 1 mm 내외이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국] 동북지방\n[러시아] 동시베리아지역\n[러시아] 서시베리아지역"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] 임업연구원 (1991)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0193-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0193_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0193_2_th.jpg",
+      "alt": "오리나무잎벌레 1번째 사진 : 오리나무잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0193_2_th2.jpg",
+      "caption": "오리나무잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBT0193-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0193_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0193_1_th.jpg",
+      "alt": "오리나무잎벌레 2번째 사진 : 오리나무잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0193_1_th2.jpg",
+      "caption": "오리나무잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0193-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408201118",
+      "description": "[MPME0408201118] 오리나무잎벌레 1999.05.21 / / 목포자연사박물관"
+    },
+    {
+      "id": "UIBE0408181102",
+      "description": "[UIBE0408181102] 오리나무잎벌레 1988.06.13 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0408181103",
+      "description": "[UIBE0408181103] 오리나무잎벌레 1988.06.13 / / 인천대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "개암나무",
+      "scientific_name": "Corylus heterophylla Fisch. ex Trautv."
+    },
+    {
+      "group": "식물",
+      "name_ko": "물개암나무",
+      "scientific_name": "Corylus sieboldiana var. mandshurica (Maxim.) C.K.Schneid."
+    },
+    {
+      "group": "식물",
+      "name_ko": "박달나무",
+      "scientific_name": "Betula schmidtii Regel"
+    },
+    {
+      "group": "식물",
+      "name_ko": "밤나무",
+      "scientific_name": "Castanea crenata Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "사과나무",
+      "scientific_name": "Malus domestica (Suckow) Borkh."
+    },
+    {
+      "group": "식물",
+      "name_ko": "사시나무",
+      "scientific_name": "Populus tremula var. davidiana (Dode) C.K.Schneid."
+    },
+    {
+      "group": "식물",
+      "name_ko": "산돌배",
+      "scientific_name": "Pyrus ussuriensis Maxim. ex Rupr."
+    },
+    {
+      "group": "식물",
+      "name_ko": "서어나무",
+      "scientific_name": "Carpinus laxiflora (Siebold & Zucc.) Blume"
+    },
+    {
+      "group": "식물",
+      "name_ko": "오리나무",
+      "scientific_name": "Alnus japonica (Thunb.) Steud."
+    },
+    {
+      "group": "식물",
+      "name_ko": "피나무",
+      "scientific_name": "Tilia amurensis Rupr."
+    },
+    {
+      "group": "식물",
+      "name_ko": "황철나무",
+      "scientific_name": "Populus suaveolens Fisch. ex Poit. & A.Vilm."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0193-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0193&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:20+00:00",
+    "html_sha256": "42b2b5214e863ce8b4f52d34e217f687b8b85f37560ca3b1518f9c6e7105055e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

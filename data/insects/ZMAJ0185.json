@@ -1,0 +1,180 @@
+{
+  "id": "ZMAJ0185",
+  "name_ko": "붉은테두리진딧물",
+  "scientific_name": "Rhopalosiphum rufiabdominale (Sasaki, 1899)",
+  "display_name": "붉은테두리진딧물",
+  "family_ko": "진딧물과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "진딧물상과",
+      "name_latin": "Aphidoidea"
+    },
+    "family": {
+      "name_ko": "진딧물과",
+      "name_latin": "Aphididae"
+    },
+    "subfamily": {
+      "name_ko": "진딧물아과",
+      "name_latin": "Aphidinae"
+    },
+    "genus": {
+      "name_ko": "테두리진딧물속",
+      "name_latin": "Rhopalosiphum"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 진딧물상과 (Aphidoidea)\n과 : 진딧물과 (Aphididae)\n아과 : 진딧물아과 (Aphidinae)\n속 : 테두리진딧물속 (Rhopalosiphum)",
+  "basic_information": {
+    "곤충명": "붉은테두리진딧물",
+    "학명": "Rhopalosiphum rufiabdominale (Sasaki, 1899)"
+  },
+  "information": {
+    "general_description": "무시성충의 몸길이는 1.8 mm이고 원형이며 청녹색이나 흰 가루가 전면에 덮혀 있어 회색을 띤다. 입틀은 연한 녹색 또는 녹갈색이며 뿔과 끝편, 밑판 등은 모두 검다. 유시충의 몸길이는 2.2 mm, 머리는 흑색이며 눈은 암적색 또는 흑색이다. 입틀 밑은 연한 녹색이나 나머지 부분은 회갈색이다. 촉각은 흑색이고 배는 암녹색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "3월 중순~하순에 부화하기 시작하며, 최성기는 4월 상순이다. 3세대 경과 후에 유시태생 암컷이 출현하며 중간기주인 벼과 식물에 이주한다. 벼 잎에 기생한 약충은 자력으로 지표면으로 기어 내려와 흙 속에 잠입하거나 흰개미에 의해 운반되어 벼 뿌리에 기생한다. 6월 하순~7월 상순에 가장 많이 발생하고 늦여름에는 일시 감소하지만 가을에 재차 증가하여 9월 중순경 유시산성(有翅産性) 암컷과 유시 수컷이 출현하여 주 기주에 기생한다.",
+    "habits": "4~5월경 기주식물의 신초(新梢) 선단부에 군서하여 흡즙 가해하므로 신초의 생장이 저해되며 잎의 전개나 과실의 생장에 영향을 준다. 그러나 6월 중순경 중간기주에 이주하기 때문에 피해 기간은 비교적 짧다.",
+    "season": null,
+    "overwintering": "기주식물의 동아(冬芽)나 가지에서 알로 월동한다.",
+    "distribution": "[일본]\n[대만]\n[중국]\n[호주]\n[뉴질랜드]\n[인도]\n[유럽]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "무시성충의 몸길이는 1.8 mm이고 원형이며 청녹색이나 흰 가루가 전면에 덮혀 있어 회색을 띤다. 입틀은 연한 녹색 또는 녹갈색이며 뿔과 끝편, 밑판 등은 모두 검다. 유시충의 몸길이는 2.2 mm, 머리는 흑색이며 눈은 암적색 또는 흑색이다. 입틀 밑은 연한 녹색이나 나머지 부분은 회갈색이다. 촉각은 흑색이고 배는 암녹색이다."
+    },
+    {
+      "title": "생태",
+      "text": "3월 중순~하순에 부화하기 시작하며, 최성기는 4월 상순이다. 3세대 경과 후에 유시태생 암컷이 출현하며 중간기주인 벼과 식물에 이주한다. 벼 잎에 기생한 약충은 자력으로 지표면으로 기어 내려와 흙 속에 잠입하거나 흰개미에 의해 운반되어 벼 뿌리에 기생한다. 6월 하순~7월 상순에 가장 많이 발생하고 늦여름에는 일시 감소하지만 가을에 재차 증가하여 9월 중순경 유시산성(有翅産性) 암컷과 유시 수컷이 출현하여 주 기주에 기생한다."
+    },
+    {
+      "title": "습성",
+      "text": "4~5월경 기주식물의 신초(新梢) 선단부에 군서하여 흡즙 가해하므로 신초의 생장이 저해되며 잎의 전개나 과실의 생장에 영향을 준다. 그러나 6월 중순경 중간기주에 이주하기 때문에 피해 기간은 비교적 짧다."
+    },
+    {
+      "title": "월동",
+      "text": "기주식물의 동아(冬芽)나 가지에서 알로 월동한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[대만]\n[중국]\n[호주]\n[뉴질랜드]\n[인도]\n[유럽]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMAJ0185-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAJ0185_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAJ0185_1_th.jpg",
+      "alt": "붉은테두리진딧물 1번째 사진 : 붉은테두리진딧물전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAJ0185_1_th2.jpg",
+      "caption": "붉은테두리진딧물전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMAJ0185-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0408281128",
+      "description": "[SNUE0408281128] 붉은테두리진딧물 2000.05.18 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0408281129",
+      "description": "[SNUE0408281129] 붉은테두리진딧물 2000.05.18 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0408281130",
+      "description": "[SNUE0408281130] 붉은테두리진딧물 2000.05.18 / / 서울대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "돌배나무",
+      "scientific_name": "Pyrus pyrifolia (Burm.f.) Nakai"
+    },
+    {
+      "group": "식물",
+      "name_ko": "매실나무",
+      "scientific_name": "Prunus mume (Siebold) Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "모과나무",
+      "scientific_name": "Pseudocydonia sinensis (Thouin) C.K.Schneid."
+    },
+    {
+      "group": "식물",
+      "name_ko": "벚나무",
+      "scientific_name": "Prunus serrulata f. spontanea (Maxim.) Chin S.Chang"
+    },
+    {
+      "group": "식물",
+      "name_ko": "복사나무",
+      "scientific_name": "Prunus persica (L.) Batsch"
+    },
+    {
+      "group": "식물",
+      "name_ko": "산돌배",
+      "scientific_name": "Pyrus ussuriensis Maxim. ex Rupr."
+    },
+    {
+      "group": "식물",
+      "name_ko": "산벚나무",
+      "scientific_name": "Prunus sargentii Rehder"
+    },
+    {
+      "group": "식물",
+      "name_ko": "산앵도나무",
+      "scientific_name": "Vaccinium hirtum var. koreanum (Nakai) Kitam."
+    },
+    {
+      "group": "식물",
+      "name_ko": "산옥매",
+      "scientific_name": "Prunus glandulosa Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "왕벚나무",
+      "scientific_name": "Prunus × yedoensis Matsum."
+    },
+    {
+      "group": "식물",
+      "name_ko": "팥배나무",
+      "scientific_name": "Aria alnifolia (Siebold & Zucc.) Decne."
+    },
+    {
+      "group": "식물",
+      "name_ko": "황매화",
+      "scientific_name": "Kerria japonica (L.) DC."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZMAJ0185-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMAJ0185&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:55+00:00",
+    "html_sha256": "e94f3ebfd7a93e2d110813e9a189cd977faa40c1a124ded0416f771cf0056ffb",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

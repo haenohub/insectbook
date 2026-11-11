@@ -1,0 +1,110 @@
+{
+  "id": "ZOEC0010",
+  "name_ko": "다우리아사슴벌레",
+  "scientific_name": "Prismognathus dauricus (Motschulsky, 1860)",
+  "display_name": "다우리아사슴벌레",
+  "family_ko": "사슴벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "사슴벌레과",
+      "name_latin": "Lucanidae"
+    },
+    "subfamily": {
+      "name_ko": "사슴벌레아과",
+      "name_latin": "Lucaninae"
+    },
+    "genus": {
+      "name_ko": "산사슴벌레속",
+      "name_latin": "Prismognathus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 사슴벌레과 (Lucanidae)\n아과 : 사슴벌레아과 (Lucaninae)\n속 : 산사슴벌레속 (Prismognathus)",
+  "basic_information": {
+    "곤충명": "다우리아사슴벌레",
+    "학명": "Prismognathus dauricus (Motschulsky, 1860)"
+  },
+  "information": {
+    "general_description": "중국 동북부, 동부 시베리아, 일본에 분포하며, 밤갈색, 흑갈색의 소형으로 강한 광택이 있다. 복안의 앞쪽은 뾰족하게 늘어났고, ocular canthus는 복안 폭의 1/3보다 짧고 큰턱도 짧은나 거의 직선형으로 끝은 뽀족하다. 전흉배판의 후각은 경사지게 파였다. BL:11~17mm(수),12~17mm(암). ML:2~6mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중국 동북부, 동부 시베리아, 일본에 분포하며, 밤갈색, 흑갈색의 소형으로 강한 광택이 있다. 복안의 앞쪽은 뾰족하게 늘어났고, ocular canthus는 복안 폭의 1/3보다 짧고 큰턱도 짧은나 거의 직선형으로 끝은 뽀족하다. 전흉배판의 후각은 경사지게 파였다. BL:11~17mm(수),12~17mm(암). ML:2~6mm."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOEC0010-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEC0010_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEC0010_2_th.jpg",
+      "alt": "다우리아사슴벌레 1번째 사진 : 다우리아사슴벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEC0010_2_th2.jpg",
+      "caption": "다우리아사슴벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOEC0010-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEC0010_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEC0010_1_th.jpg",
+      "alt": "다우리아사슴벌레 2번째 사진 : 다우리아사슴벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEC0010_1_th2.jpg",
+      "caption": "다우리아사슴벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOEC0010-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0408091079",
+      "description": "[KNAE0408091079] 다우리아사슴벌레 2002.10.06 / / 국립수목원"
+    },
+    {
+      "id": "UIBE0301282120",
+      "description": "[UIBE0301282120] 다우리아사슴벌레 1998.09.11 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301282121",
+      "description": "[UIBE0301282121] 다우리아사슴벌레 1998.09.11 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOEC0010-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOEC0010&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:48+00:00",
+    "html_sha256": "ba33a57a6ba5eb8eb31133f9c041be363650f89e4dc68763dd83dc80876a7d73",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "id": "ZRDS0032",
+  "name_ko": "쥐똥나무저녁나방",
+  "scientific_name": "Craniophora ligustri (Denis & Schiffermüller, 1775)",
+  "display_name": "쥐똥나무저녁나방",
+  "family_ko": "밤나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "밤나방과",
+      "name_latin": "Noctuidae"
+    },
+    "subfamily": {
+      "name_ko": "저녁나방아과",
+      "name_latin": "Acronictinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Craniophora"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 밤나방과 (Noctuidae)\n아과 : 저녁나방아과 (Acronictinae)\n속 : (Craniophora)",
+  "basic_information": {
+    "곤충명": "쥐똥나무저녁나방",
+    "학명": "Craniophora ligustri (Denis & Schiffermüller, 1775)"
+  },
+  "information": {
+    "general_description": "날개편 길이 17～18mm. 앞날개는 암갈색인데 중실의 바깥쪽은 넓게 회백색을 띠며, 바깥쪽의 외횡선 역시 2중의 물결 모양 선으로 되었다. 뒷날개는 담갈색을 띠며, 날개의 뒷면에는 뚜렷하지 않은 횡맥 무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 7～8월경에 출현된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]\n[중국]\n[유럽]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 17～18mm. 앞날개는 암갈색인데 중실의 바깥쪽은 넓게 회백색을 띠며, 바깥쪽의 외횡선 역시 2중의 물결 모양 선으로 되었다. 뒷날개는 담갈색을 띠며, 날개의 뒷면에는 뚜렷하지 않은 횡맥 무늬가 있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 7～8월경에 출현된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]\n[중국]\n[유럽]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0032-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0032_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0032_2_th.jpg",
+      "alt": "쥐똥나무저녁나방 1번째 사진 : 쥐똥나무저녁나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0032_2_th2.jpg",
+      "caption": "쥐똥나무저녁나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDS0032-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0032_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0032_1_th.jpg",
+      "alt": "쥐똥나무저녁나방 2번째 사진 : 쥐똥나무저녁나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0032_1_th2.jpg",
+      "caption": "쥐똥나무저녁나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0032-1",
+  "specimen_examples": [
+    {
+      "id": "KNUE0208301049",
+      "description": "[KNUE0208301049] 쥐똥나무저녁나방 1996.07.23 / / 강원대학교"
+    },
+    {
+      "id": "KNUE0208301050",
+      "description": "[KNUE0208301050] 쥐똥나무저녁나방 2000.06.22 / / 강원대학교"
+    },
+    {
+      "id": "KNUE0208301051",
+      "description": "[KNUE0208301051] 쥐똥나무저녁나방 1989.08.09 / / 강원대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "물푸레나무",
+      "scientific_name": "Fraxinus rhynchophylla Hance"
+    },
+    {
+      "group": "식물",
+      "name_ko": "쥐똥나무",
+      "scientific_name": "Ligustrum obtusifolium Siebold & Zucc."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDS0032-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0032&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:27+00:00",
+    "html_sha256": "e74cee6b58606cf7e689835e285ac55b76a7119a2bd31f689745074eb12f57cc",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

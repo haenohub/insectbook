@@ -1,0 +1,118 @@
+{
+  "id": "ZOEC0013",
+  "name_ko": "참넓적사슴벌레",
+  "scientific_name": "Dorcus consentaneus consentaneus (Albers, 1886)",
+  "display_name": "참넓적사슴벌레",
+  "family_ko": "사슴벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "사슴벌레과",
+      "name_latin": "Lucanidae"
+    },
+    "subfamily": {
+      "name_ko": "사슴벌레아과",
+      "name_latin": "Lucaninae"
+    },
+    "genus": {
+      "name_ko": "왕사슴벌레속",
+      "name_latin": "Dorcus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 사슴벌레과 (Lucanidae)\n아과 : 사슴벌레아과 (Lucaninae)\n속 : 왕사슴벌레속 (Dorcus)",
+  "basic_information": {
+    "곤충명": "참넓적사슴벌레",
+    "학명": "Dorcus consentaneus consentaneus (Albers, 1886)"
+  },
+  "information": {
+    "general_description": "중국, 일본에 분포하며 흑색이다. 전종보다 약간 작고, 광택은 더 강하다. 머리는 좁으나, 두순은 보다 넓고, 앞쪽의 함입도 낮다. 큰턱은 가늘고, 반원형에 가깝게 굽었다. 암컷의 딱지날개에는 강한 점각이 있다. BL:19~38mm(수),18~29mm(암). ML:4~14mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충으로 월동하며, 상수리나무류의 나무진에 모인다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[반출금지종] 환경부고시제2001-210호",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중국, 일본에 분포하며 흑색이다. 전종보다 약간 작고, 광택은 더 강하다. 머리는 좁으나, 두순은 보다 넓고, 앞쪽의 함입도 낮다. 큰턱은 가늘고, 반원형에 가깝게 굽었다. 암컷의 딱지날개에는 강한 점각이 있다. BL:19~38mm(수),18~29mm(암). ML:4~14mm."
+    },
+    {
+      "title": "생태",
+      "text": "성충으로 월동하며, 상수리나무류의 나무진에 모인다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[반출금지종] 환경부고시제2001-210호"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOEC0013-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEC0013_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEC0013_2_th.jpg",
+      "alt": "참넓적사슴벌레 1번째 사진 : 참넓적사슴벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEC0013_2_th2.jpg",
+      "caption": "참넓적사슴벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOEC0013-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEC0013_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEC0013_1_th.jpg",
+      "alt": "참넓적사슴벌레 2번째 사진 : 참넓적사슴벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEC0013_1_th2.jpg",
+      "caption": "참넓적사슴벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOEC0013-1",
+  "specimen_examples": [
+    {
+      "id": "SJNE0408181072",
+      "description": "[SJNE0408181072] 참넓적사슴벌레 2003.07.24 / / 상주대학교"
+    },
+    {
+      "id": "KNAE0408101024",
+      "description": "[KNAE0408101024] 참넓적사슴벌레 2001.08.17 / / 국립수목원"
+    },
+    {
+      "id": "SJNE0408181073",
+      "description": "[SJNE0408181073] 참넓적사슴벌레 2003.07.24 / / 상주대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOEC0013-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOEC0013&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:53+00:00",
+    "html_sha256": "e361a8d7061543b4c338efd38cf7009a9fa76a8271be51761987cf88fbbe2e8a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

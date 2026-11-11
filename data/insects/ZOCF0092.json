@@ -1,0 +1,106 @@
+{
+  "id": "ZOCF0092",
+  "name_ko": "가문비곰보바구미",
+  "scientific_name": "Hylobius (Callirus) pinastri (Gyllenhal, 1813)",
+  "display_name": "가문비곰보바구미",
+  "family_ko": "바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "바구미과",
+      "name_latin": "Curculionidae"
+    },
+    "subfamily": {
+      "name_ko": "참바구미아과",
+      "name_latin": "Molytinae"
+    },
+    "genus": {
+      "name_ko": "솔곰보바구미속",
+      "name_latin": "Hylobius"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 바구미과 (Curculionidae)\n아과 : 참바구미아과 (Molytinae)\n속 : 솔곰보바구미속 (Hylobius)",
+  "basic_information": {
+    "곤충명": "가문비곰보바구미",
+    "학명": "Hylobius (Callirus) pinastri (Gyllenhal, 1813)"
+  },
+  "information": {
+    "general_description": "몸길이는 6~8mm이다. 몸색깔은 흑색을보이며 딱지날개의 가운데부분에 너비가 가장넓다. 뒷가슴배판 기부에 점각부가 없는 부분이 넓다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 6~8mm이다. 몸색깔은 흑색을보이며 딱지날개의 가운데부분에 너비가 가장넓다. 뒷가슴배판 기부에 점각부가 없는 부분이 넓다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCF0092-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0092_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0092_1_th.jpg",
+      "alt": "가문비곰보바구미 1번째 사진 : 가문비곰보바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0092_1_th2.jpg",
+      "caption": "가문비곰보바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCF0092-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0205131082",
+      "description": "[FRIE0205131082] 가문비곰보바구미 1983.05.24 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0205131084",
+      "description": "[FRIE0205131084] 가문비곰보바구미 1983.05.16 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0205131085",
+      "description": "[FRIE0205131085] 가문비곰보바구미 1983.06.04 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOCF0092.png",
+    "reference_image_id": "ZOCF0092-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T15:21:41.137163+00:00",
+    "sha256": "6394e5c919d3a75fce28be84beaa833416f11e3191dd3aba9e71fffeb00c9e51"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCF0092&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:05+00:00",
+    "html_sha256": "0724898448ba82dbbdccc29eae66af10f4347d1426f7bfb93030041b0787a350",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

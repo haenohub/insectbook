@@ -1,0 +1,95 @@
+{
+  "id": "ZTDO0059",
+  "name_ko": "고려노랑잎벌",
+  "scientific_name": "Senoclidea koreana (Konow, 1898)",
+  "display_name": "고려노랑잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "검정꼬마잎벌아과",
+      "name_latin": "Blennocampinae"
+    },
+    "genus": {
+      "name_ko": "오색잎벌속",
+      "name_latin": "Senoclidea"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 검정꼬마잎벌아과 (Blennocampinae)\n속 : 오색잎벌속 (Senoclidea)",
+  "basic_information": {
+    "곤충명": "고려노랑잎벌",
+    "학명": "Senoclidea koreana (Konow, 1898)"
+  },
+  "information": {
+    "general_description": "더듬이는 짧고 강건하다. 제 2마디는 길이와 넓이가 같거나 넓다. 제 3마디는 제 4마디보다 길다. 머리방패는 잘린형이다. malar space.는 중앙단안보다 좁거나 비슷하다. 앞날개의 2A+3A는 직선이다. 뒷날개의 m-cu는 존재하며 M cell은 닫혔다. 수컷 생식기는 측가시나 basal lobe 가 없다. 전세계 13종이 분포한다",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 짧고 강건하다. 제 2마디는 길이와 넓이가 같거나 넓다. 제 3마디는 제 4마디보다 길다. 머리방패는 잘린형이다. malar space.는 중앙단안보다 좁거나 비슷하다. 앞날개의 2A+3A는 직선이다. 뒷날개의 m-cu는 존재하며 M cell은 닫혔다. 수컷 생식기는 측가시나 basal lobe 가 없다. 전세계 13종이 분포한다"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0059-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0059_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0059_1_th.jpg",
+      "alt": "고려노랑잎벌 1번째 사진 : 고려노랑잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0059_1_th2.jpg",
+      "caption": "고려노랑잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0059-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303211098",
+      "description": "[KNAE0303211098] 고려노랑잎벌 1991.05.25 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTDO0059.png",
+    "reference_image_id": "ZTDO0059-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T12:22:00.613509+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "df89d61cfd80b331251144cc74a27029ab0d47e24254e45e6af63ec13954d368"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0059&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:43+00:00",
+    "html_sha256": "621abf142ccabe2b0ec93324abf0d96c6f3e0c8caa90c52751b5bf166085a09b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "id": "ZOBH0440",
+  "name_ko": "녹색먼지벌레",
+  "scientific_name": "Calleida (Callidiola) onoha Bates, 1873",
+  "display_name": "녹색먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "먼지벌레아과",
+      "name_latin": "Harpalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Calleida"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 먼지벌레아과 (Harpalinae)\n속 : (Calleida)",
+  "basic_information": {
+    "곤충명": "녹색먼지벌레",
+    "학명": "Calleida (Callidiola) onoha Bates, 1873"
+  },
+  "information": {
+    "general_description": "몸길이는 7~9.5mm 이며 두부는 연한갈색이며 전흉배판은 검은색이나 녹색의 광택이있고 딱지날개는 녹색의 광택이 있다",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 7~9.5mm 이며 두부는 연한갈색이며 전흉배판은 검은색이나 녹색의 광택이있고 딱지날개는 녹색의 광택이 있다"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0440-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0440_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0440_2_th.jpg",
+      "alt": "녹색먼지벌레 1번째 사진 : 녹색먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0440_2_th2.jpg",
+      "caption": "녹색먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0440-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0440_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0440_1_th.jpg",
+      "alt": "녹색먼지벌레 2번째 사진 : 녹색먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0440_1_th2.jpg",
+      "caption": "녹색먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0440-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0112314054",
+      "description": "[YNUE0112314054] 녹색먼지벌레 1999.07.20 / / 영남대학교"
+    },
+    {
+      "id": "ADUE0202221009",
+      "description": "[ADUE0202221009] 녹색먼지벌레 1999.06.25 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0202221010",
+      "description": "[ADUE0202221010] 녹색먼지벌레 1999.06.25 / / 안동대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0440-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0440&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:34+00:00",
+    "html_sha256": "efbfa83f2d6a5fb645af862321e11d70057ecb6ddd41f391d302ae6f25fb655d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "id": "ZRDS0095",
+  "name_ko": "더러운밤나방",
+  "scientific_name": "Naenia contaminata (Walker, 1865)",
+  "display_name": "더러운밤나방",
+  "family_ko": "밤나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "밤나방과",
+      "name_latin": "Noctuidae"
+    },
+    "subfamily": {
+      "name_ko": "밤나방아과",
+      "name_latin": "Noctuinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Naenia"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 밤나방과 (Noctuidae)\n아과 : 밤나방아과 (Noctuinae)\n속 : (Naenia)",
+  "basic_information": {
+    "곤충명": "더러운밤나방",
+    "학명": "Naenia contaminata (Walker, 1865)"
+  },
+  "information": {
+    "general_description": "날개편 길이 18～22mm. 앞날개는 회갈색 바탕인데 각 횡선은 2중으로 되어 담색을 띤다. 뒷날개는 흑갈색을 띠고, 연모는 유백색을 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6～7월경에 출현된다. 유충으로 월동하게 된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 18～22mm. 앞날개는 회갈색 바탕인데 각 횡선은 2중으로 되어 담색을 띤다. 뒷날개는 흑갈색을 띠고, 연모는 유백색을 띤다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6～7월경에 출현된다. 유충으로 월동하게 된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0095-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0095_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0095_2_th.jpg",
+      "alt": "더러운밤나방 1번째 사진 : 더러운밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0095_2_th2.jpg",
+      "caption": "더러운밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDS0095-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0095_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0095_1_th.jpg",
+      "alt": "더러운밤나방 2번째 사진 : 더러운밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0095_1_th2.jpg",
+      "caption": "더러운밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0095-1",
+  "specimen_examples": [
+    {
+      "id": "MPNE0408051155",
+      "description": "[MPNE0408051155] 더러운밤나방 2002.06.22 / / 목포 대학교 환경연구소"
+    },
+    {
+      "id": "FRIE0203051032",
+      "description": "[FRIE0203051032] 더러운밤나방 1983.09.05 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0203051033",
+      "description": "[FRIE0203051033] 더러운밤나방 1983.07.27 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDS0095-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0095&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:21+00:00",
+    "html_sha256": "4a71e05e6030f950c18f1ed53f42b8b4814bd61454ce6d538a13888607ed9d57",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

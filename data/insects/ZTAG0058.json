@@ -1,0 +1,114 @@
+{
+  "id": "ZTAG0058",
+  "name_ko": "화장가위벌",
+  "scientific_name": "Megachile abluta Cockerell, 1911",
+  "display_name": "화장가위벌",
+  "family_ko": "가위벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "가위벌과",
+      "name_latin": "Megachilidae"
+    },
+    "subfamily": {
+      "name_ko": "가위벌아과",
+      "name_latin": "Megachilinae"
+    },
+    "genus": {
+      "name_ko": "가위벌속",
+      "name_latin": "Megachile"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 가위벌과 (Megachilidae)\n아과 : 가위벌아과 (Megachilinae)\n속 : 가위벌속 (Megachile)",
+  "basic_information": {
+    "곤충명": "화장가위벌",
+    "학명": "Megachile abluta Cockerell, 1911"
+  },
+  "information": {
+    "general_description": "암컷은 9.5-10.5mm정도이며, 배마디의 배면의 털이 흑색이고 정수리의 털은 암갈색이다. 머리방패에는 점각이 많이 났고 중앙에 평활한 줄이 없다. 더듬이의 채찍마디는 아랫면이 적색이 아니고 발목마디의 안쪽에 난 털은 더 밝은 색이다. 브러시 털은 보통 더 밝고 기부반은 백색인 점이 다르다. 수컷은 7-9mm정도이며 얼굴은 옅은 황토색 털로 촘촘히 덮였고 더듬이의 채찍마디는 흑색이다. 앞다리의 밑마디에는 짧은 흑색 가시가 있고 그 종아리와 발목마디는 단순하며 발목마디는 끝이 적색이다. 제6배마디는 두조각으로 깔렸고 그 조각은 둥글고 그 등면에 커다란 콩팥모양의 담색 털이 촘촘히 난 무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": "[감소추세종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷은 9.5-10.5mm정도이며, 배마디의 배면의 털이 흑색이고 정수리의 털은 암갈색이다. 머리방패에는 점각이 많이 났고 중앙에 평활한 줄이 없다. 더듬이의 채찍마디는 아랫면이 적색이 아니고 발목마디의 안쪽에 난 털은 더 밝은 색이다. 브러시 털은 보통 더 밝고 기부반은 백색인 점이 다르다. 수컷은 7-9mm정도이며 얼굴은 옅은 황토색 털로 촘촘히 덮였고 더듬이의 채찍마디는 흑색이다. 앞다리의 밑마디에는 짧은 흑색 가시가 있고 그 종아리와 발목마디는 단순하며 발목마디는 끝이 적색이다. 제6배마디는 두조각으로 깔렸고 그 조각은 둥글고 그 등면에 커다란 콩팥모양의 담색 털이 촘촘히 난 무늬가 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[감소추세종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0058-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0058_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0058_2_th.jpg",
+      "alt": "화장가위벌 1번째 사진 : 화장가위벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0058_2_th2.jpg",
+      "caption": "화장가위벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTAG0058-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0058_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0058_1_th.jpg",
+      "alt": "화장가위벌 2번째 사진 : 화장가위벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0058_1_th2.jpg",
+      "caption": "화장가위벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0058-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0111303031",
+      "description": "[YNUE0111303031] 화장가위벌 1966.08.05 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0111303009",
+      "description": "[YNUE0111303009] 화장가위벌 1989.05.17 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAG0058-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0058&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:45+00:00",
+    "html_sha256": "b6451dbcc21a9f995275bdb48a41341e5e5a8be53491d2f1aff36c2f299ec33f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

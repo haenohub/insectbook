@@ -1,0 +1,141 @@
+{
+  "id": "ZTCL0009",
+  "name_ko": "무지개납작잎벌",
+  "scientific_name": "Neurotoma iridescens André, 1882",
+  "display_name": "무지개납작잎벌",
+  "family_ko": "납작잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "납작잎벌상과",
+      "name_latin": "Pamphilioidea"
+    },
+    "family": {
+      "name_ko": "납작잎벌과",
+      "name_latin": "Pamphiliidae"
+    },
+    "subfamily": {
+      "name_ko": "납작잎벌아과",
+      "name_latin": "Pamphiliinae"
+    },
+    "genus": {
+      "name_ko": "무지개납작잎벌속",
+      "name_latin": "Neurotoma"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 납작잎벌상과 (Pamphilioidea)\n과 : 납작잎벌과 (Pamphiliidae)\n아과 : 납작잎벌아과 (Pamphiliinae)\n속 : 무지개납작잎벌속 (Neurotoma)",
+  "basic_information": {
+    "곤충명": "무지개납작잎벌",
+    "학명": "Neurotoma iridescens André, 1882"
+  },
+  "information": {
+    "general_description": "성충의 몸길이는 12 mm 정도이고 머리와 가슴은 흑색으로 황색 점이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": "유충의 몸길이는 25~30 mm로서 머리는 흑색이고 몸은 황록색이며 복각(腹脚)이 없다.",
+    "egg": null,
+    "pupa": null,
+    "ecology": "월동한 유충은 봄에 번데기가 되고 4월 중, 하순에 성충이 우화한다. 잎 뒷면 주맥 속에 산란하고 5월 상, 중순에 부화한 유충은 군서하면서 식해한다. 6월 상, 중순경 노숙한 유충은 거미줄을 타고 땅으로 내려와 흙 속으로 들어간다.",
+    "habits": "가지 끝부분에 거미줄을 치고 군서하면서 잎을 식해한다.",
+    "season": null,
+    "overwintering": "흙 속에서 유충으로 월동한다.",
+    "distribution": "[일본]\n[중국]\n[유럽]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충의 몸길이는 12 mm 정도이고 머리와 가슴은 흑색으로 황색 점이 있다."
+    },
+    {
+      "title": "유충",
+      "text": "유충의 몸길이는 25~30 mm로서 머리는 흑색이고 몸은 황록색이며 복각(腹脚)이 없다."
+    },
+    {
+      "title": "생태",
+      "text": "월동한 유충은 봄에 번데기가 되고 4월 중, 하순에 성충이 우화한다. 잎 뒷면 주맥 속에 산란하고 5월 상, 중순에 부화한 유충은 군서하면서 식해한다. 6월 상, 중순경 노숙한 유충은 거미줄을 타고 땅으로 내려와 흙 속으로 들어간다."
+    },
+    {
+      "title": "습성",
+      "text": "가지 끝부분에 거미줄을 치고 군서하면서 잎을 식해한다."
+    },
+    {
+      "title": "월동",
+      "text": "흙 속에서 유충으로 월동한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[유럽]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTCL0009-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTCL0009_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTCL0009_1_th.jpg",
+      "alt": "무지개납작잎벌 1번째 사진 : 무지개납작잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTCL0009_1_th2.jpg",
+      "caption": "무지개납작잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTCL0009-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0304091028",
+      "description": "[FRIE0304091028] 무지개납작잎벌 1986.05.30 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "마가목",
+      "scientific_name": "Sorbus commixta Hedl."
+    },
+    {
+      "group": "식물",
+      "name_ko": "벚나무",
+      "scientific_name": "Prunus serrulata f. spontanea (Maxim.) Chin S.Chang"
+    },
+    {
+      "group": "식물",
+      "name_ko": "산사나무",
+      "scientific_name": "Crataegus pinnatifida Bunge"
+    },
+    {
+      "group": "식물",
+      "name_ko": "아그배나무",
+      "scientific_name": "Malus toringo (Siebold) Siebold ex de Vriese"
+    },
+    {
+      "group": "식물",
+      "name_ko": "왕벚나무",
+      "scientific_name": "Prunus × yedoensis Matsum."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTCL0009-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTCL0009&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:34+00:00",
+    "html_sha256": "2856e98897bb644c5a275f8f08e3e482e3736de06f2badd66cf44922dde1d587",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

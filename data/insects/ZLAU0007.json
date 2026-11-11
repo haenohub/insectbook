@@ -1,0 +1,107 @@
+{
+  "id": "ZLAU0007",
+  "name_ko": "등빨간소금쟁이",
+  "scientific_name": "Gerris (Macrogerris) gracilicornis (Horváth, 1879)",
+  "display_name": "등빨간소금쟁이",
+  "family_ko": "소금쟁이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "소금쟁이상과",
+      "name_latin": "Gerroidea"
+    },
+    "family": {
+      "name_ko": "소금쟁이과",
+      "name_latin": "Gerridae"
+    },
+    "subfamily": {
+      "name_ko": "소금쟁이아과",
+      "name_latin": "Gerrinae"
+    },
+    "genus": {
+      "name_ko": "소금쟁이속",
+      "name_latin": "Gerris"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 소금쟁이상과 (Gerroidea)\n과 : 소금쟁이과 (Gerridae)\n아과 : 소금쟁이아과 (Gerrinae)\n속 : 소금쟁이속 (Gerris)",
+  "basic_information": {
+    "곤충명": "등빨간소금쟁이",
+    "학명": "Gerris (Macrogerris) gracilicornis (Horváth, 1879)"
+  },
+  "information": {
+    "general_description": "몸길이 : 수컷 10-13mm 암컷 12-15mm\n몸은 흑갈색 또는 갈색 바탕을 띠며 등면에는 적갈색 또는 갈색 무늬가 나타난다. 아랫면은 은빛 잔털이 밀생한다. 머리는 더듬이의 기부에서 폭이 가장 넓고, 정수리 뒷쪽에 V자 모양의 갈색 무늬가 있다. 더듬이는 가늘고 짧아서 몸길이의 절반 정도이다. 제 1마디는 2-3마디를 합한 길이보다 약간 짧다. 앞가슴등판은 앞쪽 1/3부위에서 약간 협착되고 가로로 굴곡을 이룬다. 종주선은 전반부는 명확하나 중앙부에서는 약하다. 옆가장자리는 후반부에서 약간 돌출하였다가 다시 좁아진다. 앞날개는 보통 장시형이 출현하고 막질부가 배 끝까지 도달한다. 배는 몸 끝으로 갈수록 넓어지고, 제 6마디가 가장 넓다. 앞다리의 허벅마디는 물결처럼 굽었다. 가운데다리와 뒷다리의 허벅마디는 몸길이보다 명백히 짧다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "하천이나 고요한 저수지에 널리 분포하고, 다른 곤충류의 체액을 빨아먹는다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[대만]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 수컷 10-13mm 암컷 12-15mm\n몸은 흑갈색 또는 갈색 바탕을 띠며 등면에는 적갈색 또는 갈색 무늬가 나타난다. 아랫면은 은빛 잔털이 밀생한다. 머리는 더듬이의 기부에서 폭이 가장 넓고, 정수리 뒷쪽에 V자 모양의 갈색 무늬가 있다. 더듬이는 가늘고 짧아서 몸길이의 절반 정도이다. 제 1마디는 2-3마디를 합한 길이보다 약간 짧다. 앞가슴등판은 앞쪽 1/3부위에서 약간 협착되고 가로로 굴곡을 이룬다. 종주선은 전반부는 명확하나 중앙부에서는 약하다. 옆가장자리는 후반부에서 약간 돌출하였다가 다시 좁아진다. 앞날개는 보통 장시형이 출현하고 막질부가 배 끝까지 도달한다. 배는 몸 끝으로 갈수록 넓어지고, 제 6마디가 가장 넓다. 앞다리의 허벅마디는 물결처럼 굽었다. 가운데다리와 뒷다리의 허벅마디는 몸길이보다 명백히 짧다."
+    },
+    {
+      "title": "생태",
+      "text": "하천이나 고요한 저수지에 널리 분포하고, 다른 곤충류의 체액을 빨아먹는다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[대만]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLAU0007-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAU0007_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAU0007_1_th.jpg",
+      "alt": "등빨간소금쟁이 1번째 사진 : 등빨간소금쟁이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAU0007_1_th2.jpg",
+      "caption": "등빨간소금쟁이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLAU0007-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0204281261",
+      "description": "[SNUE0204281261] 등빨간소금쟁이 1990.05.08 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0204281262",
+      "description": "[SNUE0204281262] 등빨간소금쟁이 1987.06.30 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0204281263",
+      "description": "[SNUE0204281263] 등빨간소금쟁이 1988.05.14 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLAU0007-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLAU0007&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:15+00:00",
+    "html_sha256": "7bf13a9376fc4e9491bb7ca7e6aa648cc734331038be320174c5057e088f11b7",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

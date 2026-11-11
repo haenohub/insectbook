@@ -1,0 +1,121 @@
+{
+  "id": "ZRDS0489",
+  "name_ko": "국화은무늬밤나방",
+  "scientific_name": "Macdunnoughia confusa (Stephens, 1850)",
+  "display_name": "국화은무늬밤나방",
+  "family_ko": "밤나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "밤나방과",
+      "name_latin": "Noctuidae"
+    },
+    "subfamily": {
+      "name_ko": "은무늬밤나방아과",
+      "name_latin": "Plusiinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Macdunnoughia"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 밤나방과 (Noctuidae)\n아과 : 은무늬밤나방아과 (Plusiinae)\n속 : (Macdunnoughia)",
+  "basic_information": {
+    "곤충명": "국화은무늬밤나방",
+    "학명": "Macdunnoughia confusa (Stephens, 1850)"
+  },
+  "information": {
+    "general_description": "날개편 길이 16~18mm. 앞날개는 자갈색 바탕인데 제2맥의 기부 근처에서 시정 쪽으로 외연부의 넓은 부분이 황금색을 띤다. 뒷날개는 담황갈색을 띠는데 외연부의 넓은 부분과 시맥은 암갈색을 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 7~9월경에 출현된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[대만]\n[인도]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 16~18mm. 앞날개는 자갈색 바탕인데 제2맥의 기부 근처에서 시정 쪽으로 외연부의 넓은 부분이 황금색을 띤다. 뒷날개는 담황갈색을 띠는데 외연부의 넓은 부분과 시맥은 암갈색을 띤다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 7~9월경에 출현된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[대만]\n[인도]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0489-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0489_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0489_1_th.jpg",
+      "alt": "국화은무늬밤나방 1번째 사진 : 국화은무늬밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0489_1_th2.jpg",
+      "caption": "국화은무늬밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0489-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0408131018",
+      "description": "[KNAE0408131018] 국화은무늬밤나방 1998.05.28 / / 국립수목원"
+    },
+    {
+      "id": "JFNE0306041223",
+      "description": "[JFNE0306041223] 국화은무늬밤나방 1996.07.25 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0306041224",
+      "description": "[JFNE0306041224] 국화은무늬밤나방 1996.07.26 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "국화",
+      "scientific_name": "Chrysanthemum × morifolium (Ramat.) Hemsl."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDS0489.png",
+    "reference_image_id": "ZRDS0489-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T13:49:24.215307+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "ddf2c0d8c9c6113f615ed089d45cd8cc0fc4d47c2caaa342217ace551d36c78e"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0489&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:23+00:00",
+    "html_sha256": "0424c4b8439f852f349f8138febd8be2e31ff330d12b578ee854f7b780968fdc",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "id": "ZOBT0303",
+  "name_ko": "점날개잎벌레",
+  "scientific_name": "Nonarthra cyanea Baly, 1874",
+  "display_name": "점날개잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "긴더듬이잎벌레아과",
+      "name_latin": "Galerucinae"
+    },
+    "genus": {
+      "name_ko": "짧은더듬이벼룩잎벌레속",
+      "name_latin": "Nonarthra"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 긴더듬이잎벌레아과 (Galerucinae)\n속 : 짧은더듬이벼룩잎벌레속 (Nonarthra)",
+  "basic_information": {
+    "곤충명": "점날개잎벌레",
+    "학명": "Nonarthra cyanea Baly, 1874"
+  },
+  "information": {
+    "general_description": "몸길이는 3.2~4.0mm, 등판, 머리, 앞가슴배판, 더듬이는 모두 흑청색이며, 복부는 적갈색이다. 더듬이늬 4절은 삼각형이다. 다리는 암갈색이다. 윗날개의 점각은 강하며 촘촘하다. 한국(북부,중부,남부,제주특별자치도),중국, 대만에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 11월에 각종 꽃에서 볼 수 있다. 5월에 알을 황백색의 둥근 알을 낳는다. 유충은 삼목의 이끼류를 먹는다. 자극을 받으면 투명한 액체를 분비한다. 노숙유충은 땅속에서 용화. 연 1화성이며 성충은로 월동한다.",
+    "habits": "기주식물 Clethra barbinervis S.etZ.의 꽃.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[대만]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 3.2~4.0mm, 등판, 머리, 앞가슴배판, 더듬이는 모두 흑청색이며, 복부는 적갈색이다. 더듬이늬 4절은 삼각형이다. 다리는 암갈색이다. 윗날개의 점각은 강하며 촘촘하다. 한국(북부,중부,남부,제주특별자치도),중국, 대만에 분포되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 11월에 각종 꽃에서 볼 수 있다. 5월에 알을 황백색의 둥근 알을 낳는다. 유충은 삼목의 이끼류를 먹는다. 자극을 받으면 투명한 액체를 분비한다. 노숙유충은 땅속에서 용화. 연 1화성이며 성충은로 월동한다."
+    },
+    {
+      "title": "습성",
+      "text": "기주식물 Clethra barbinervis S.etZ.의 꽃."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[대만]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0303-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0303_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0303_1_th.jpg",
+      "alt": "점날개잎벌레 1번째 사진 : 점날개잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0303_1_th2.jpg",
+      "caption": "점날개잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0303-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0306131012",
+      "description": "[FRIE0306131012] 점날개잎벌레 1980.09.30 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0304121024",
+      "description": "[KNAE0304121024] 점날개잎벌레 1982.05.08 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304121015",
+      "description": "[KNAE0304121015] 점날개잎벌레 1982.05.05 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "해당화",
+      "scientific_name": "Rosa rugosa Thunb."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0303-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0303&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:15+00:00",
+    "html_sha256": "987c03d1868d3c9be4a2e73577c6a9d5c88d5045ff11764bb5499aa891f62b5a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

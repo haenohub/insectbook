@@ -1,0 +1,103 @@
+{
+  "id": "ZOCF0186",
+  "name_ko": "흰점박이꽃바구미",
+  "scientific_name": "Anthinobaris dispilota dispilota (Solsky, 1870)",
+  "display_name": "흰점박이꽃바구미",
+  "family_ko": "바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "바구미과",
+      "name_latin": "Curculionidae"
+    },
+    "subfamily": {
+      "name_ko": "애바구미아과",
+      "name_latin": "Baridinae"
+    },
+    "genus": {
+      "name_ko": "꽃애바구미속",
+      "name_latin": "Anthinobaris"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 바구미과 (Curculionidae)\n아과 : 애바구미아과 (Baridinae)\n속 : 꽃애바구미속 (Anthinobaris)",
+  "basic_information": {
+    "곤충명": "흰점박이꽃바구미",
+    "학명": "Anthinobaris dispilota dispilota (Solsky, 1870)"
+  },
+  "information": {
+    "general_description": "몸길이는 4~5mm이고, 몸색깔은 흑색이며 더듬이의 절반은 갈색이다. 앞가슴등판의 옆면과 딱지날개에는 황색의 비닐조각무늬가 있다. 주둥이는 갈고리모양으로 구부러져있는 흑색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 4~5mm이고, 몸색깔은 흑색이며 더듬이의 절반은 갈색이다. 앞가슴등판의 옆면과 딱지날개에는 황색의 비닐조각무늬가 있다. 주둥이는 갈고리모양으로 구부러져있는 흑색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCF0186-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0186_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0186_1_th.jpg",
+      "alt": "흰점박이꽃바구미 1번째 사진 : 흰점박이꽃바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0186_1_th2.jpg",
+      "caption": "흰점박이꽃바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCF0186-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0303311024",
+      "description": "[FRIE0303311024] 흰점박이꽃바구미 1982.08.02 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0303311026",
+      "description": "[FRIE0303311026] 흰점박이꽃바구미 1983.07.16 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0303311027",
+      "description": "[FRIE0303311027] 흰점박이꽃바구미 1982.08.05 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOCF0186-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCF0186&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:45+00:00",
+    "html_sha256": "fe400045c26130c24701c835685baf459ae6da8d4028c84ca4e6ab869a04a712",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

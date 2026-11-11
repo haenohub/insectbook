@@ -1,0 +1,133 @@
+{
+  "id": "ZRCQ0024",
+  "name_ko": "황알락팔랑나비",
+  "scientific_name": "Potanthus flavus (Murray, 1875)",
+  "display_name": "황알락팔랑나비",
+  "family_ko": "팔랑나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "팔랑나비과",
+      "name_latin": "Hesperiidae"
+    },
+    "subfamily": {
+      "name_ko": "팔랑나비아과",
+      "name_latin": "Hesperiinae"
+    },
+    "genus": {
+      "name_ko": "황알락팔랑나비속",
+      "name_latin": "Potanthus"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 팔랑나비과 (Hesperiidae)\n아과 : 팔랑나비아과 (Hesperiinae)\n속 : 황알락팔랑나비속 (Potanthus)",
+  "basic_information": {
+    "곤충명": "황알락팔랑나비",
+    "학명": "Potanthus flavus (Murray, 1875)"
+  },
+  "information": {
+    "general_description": "암수의 무늬는 거의 같으나 암컷이 수컷에 비하여 날개 윗면의 바탕색 다소 연하고 날개모야이 가로로 길며 둥그스름하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "평지에서 저산지에 이르는 초지나 수림내 공간, 산길 등에 많이 서식한다. 큰까치수영, 개망초, 갈퀴나물의 꽃에서 흡밀하며, 풀 위를 빠르게 날아다닌다. 앞날개를 반쯤 펴서 잎 위에 앉아 있는 경우가 많으며 습지나 오물에도 날아와 앉는 경우가 종종 있다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]\n[필리핀]\n[말레이시아]\n[인도]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암수의 무늬는 거의 같으나 암컷이 수컷에 비하여 날개 윗면의 바탕색 다소 연하고 날개모야이 가로로 길며 둥그스름하다."
+    },
+    {
+      "title": "습성",
+      "text": "평지에서 저산지에 이르는 초지나 수림내 공간, 산길 등에 많이 서식한다. 큰까치수영, 개망초, 갈퀴나물의 꽃에서 흡밀하며, 풀 위를 빠르게 날아다닌다. 앞날개를 반쯤 펴서 잎 위에 앉아 있는 경우가 많으며 습지나 오물에도 날아와 앉는 경우가 종종 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]\n[필리핀]\n[말레이시아]\n[인도]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCQ0024-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRCQ0024_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRCQ0024_3.jpg",
+      "alt": "황알락팔랑나비 1번째 사진 : 황알락팔랑나비 수컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRCQ0024_3_th2.jpg",
+      "caption": "황알락팔랑나비 수컷 이미지",
+      "photographed_at": "20080630",
+      "location": "강원도 춘천시 남면 가정리",
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRCQ0024-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0024_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0024_2_th.jpg",
+      "alt": "황알락팔랑나비 2번째 사진 : 황알락팔랑나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0024_2_th2.jpg",
+      "caption": "황알락팔랑나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCQ0024-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0024_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0024_1_th.jpg",
+      "alt": "황알락팔랑나비 3번째 사진 : 황알락팔랑나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0024_1_th2.jpg",
+      "caption": "황알락팔랑나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCQ0024-1",
+  "specimen_examples": [
+    {
+      "id": "JFNE0304051011",
+      "description": "[JFNE0304051011] 황알락팔랑나비 2000.06.29 / / 제주자연사박물관"
+    },
+    {
+      "id": "ADUE0208121006",
+      "description": "[ADUE0208121006] 황알락팔랑나비 2002.05.16 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0208121008",
+      "description": "[ADUE0208121008] 황알락팔랑나비 2002.05.18 / / 안동대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCQ0024-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCQ0024&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:59+00:00",
+    "html_sha256": "ae3cf70d51ec4d1c7c6cdab898cc08792ee3c5b78bde30b2f28aa58b2ea66030",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

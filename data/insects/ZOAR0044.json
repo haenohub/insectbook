@@ -1,0 +1,117 @@
+{
+  "id": "ZOAR0044",
+  "name_ko": "노랑배거위벌레",
+  "scientific_name": "Cycnotrachelodes cyanopterus (Motschulsky, 1860)",
+  "display_name": "노랑배거위벌레",
+  "family_ko": "거위벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "거위벌레과",
+      "name_latin": "Attelabidae"
+    },
+    "subfamily": {
+      "name_ko": "목거위벌레아과",
+      "name_latin": "Apoderinae"
+    },
+    "genus": {
+      "name_ko": "긴자루목거위벌레속",
+      "name_latin": "Cycnotrachelodes"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 거위벌레과 (Attelabidae)\n아과 : 목거위벌레아과 (Apoderinae)\n속 : 긴자루목거위벌레속 (Cycnotrachelodes)",
+  "basic_information": {
+    "곤충명": "노랑배거위벌레",
+    "학명": "Cycnotrachelodes cyanopterus (Motschulsky, 1860)"
+  },
+  "information": {
+    "general_description": "한국, 중국, 러시아에 분포하며, 체장은 3.5-5.5mm 정도이다. 체색은 검은색이며, 복부와 미절판은 황색 또는 황적색이다. 머리는 길이가 폴보다 길며, 수컷의 머리는 폭보다 2배 정도 길지만 암컷은 2배가 되지 않는다. 수컷의 목부분은 전흉 앞쪽으로 짧게 원통형으로 신장되었다가 넓어진다. 눈은 매우 돌출되어 있다. 수컷의 전흉배판은 길이가 폭보다 훨씬 길지만, 암컷은 폭이 약간 넓다. 암컷의 목은 원통형으로 신장된 부분이 거의 없으며 바로 넓어지며, 수컷보다 넓다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "싸리를 기주식물로 한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 중국, 러시아에 분포하며, 체장은 3.5-5.5mm 정도이다. 체색은 검은색이며, 복부와 미절판은 황색 또는 황적색이다. 머리는 길이가 폴보다 길며, 수컷의 머리는 폭보다 2배 정도 길지만 암컷은 2배가 되지 않는다. 수컷의 목부분은 전흉 앞쪽으로 짧게 원통형으로 신장되었다가 넓어진다. 눈은 매우 돌출되어 있다. 수컷의 전흉배판은 길이가 폭보다 훨씬 길지만, 암컷은 폭이 약간 넓다. 암컷의 목은 원통형으로 신장된 부분이 거의 없으며 바로 넓어지며, 수컷보다 넓다."
+    },
+    {
+      "title": "생태",
+      "text": "싸리를 기주식물로 한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAR0044-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0044_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0044_1_th.jpg",
+      "alt": "노랑배거위벌레 1번째 사진 : 노랑배거위벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0044_1_th2.jpg",
+      "caption": "노랑배거위벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAR0044-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0407302047",
+      "description": "[KUIE0407302047] 노랑배거위벌레 1978.07.04 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0407302050",
+      "description": "[KUIE0407302050] 노랑배거위벌레 1981.06.11 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0407302015",
+      "description": "[KUIE0407302015] 노랑배거위벌레 1974.05.26 / / 고려대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "싸리",
+      "scientific_name": "Lespedeza bicolor Turcz."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAR0044-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAR0044&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:17+00:00",
+    "html_sha256": "1efe8714a4e714bb77a9a8867d685da30297327c4c236655ff93bb9ff761587b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

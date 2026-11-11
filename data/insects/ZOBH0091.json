@@ -1,0 +1,110 @@
+{
+  "id": "ZOBH0091",
+  "name_ko": "애가슴먼지벌레",
+  "scientific_name": "Leistus (Leistus) niger Gebler, 1847",
+  "display_name": "애가슴먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "가슴먼지벌레아과",
+      "name_latin": "Nebriinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Leistus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 가슴먼지벌레아과 (Nebriinae)\n속 : (Leistus)",
+  "basic_information": {
+    "곤충명": "애가슴먼지벌레",
+    "학명": "Leistus (Leistus) niger Gebler, 1847"
+  },
+  "information": {
+    "general_description": "몸길이는 9~10mm 이며, 큰턱은 넓게 확장되어 있고 전체적으로 검은색이며, 앞가슴 등판은 심장형이고 딱지날개는 긴타원형이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 9~10mm 이며, 큰턱은 넓게 확장되어 있고 전체적으로 검은색이며, 앞가슴 등판은 심장형이고 딱지날개는 긴타원형이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0091-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0091_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0091_2_th.jpg",
+      "alt": "애가슴먼지벌레 1번째 사진 : 애가슴먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0091_2_th2.jpg",
+      "caption": "애가슴먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0091-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0091_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0091_1_th.jpg",
+      "alt": "애가슴먼지벌레 2번째 사진 : 애가슴먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0091_1_th2.jpg",
+      "caption": "애가슴먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0091-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303262027",
+      "description": "[KNAE0303262027] 애가슴먼지벌레 1991.08.21 / / 국립수목원"
+    },
+    {
+      "id": "SJNE0203051079",
+      "description": "[SJNE0203051079] 애가슴먼지벌레 1977.07.24 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0203051080",
+      "description": "[SJNE0203051080] 애가슴먼지벌레 1976.08.10 / / 상주대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0091-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0091&tabId=tab1",
+    "collected_at": "2026-11-04T14:14:52+00:00",
+    "html_sha256": "b9da4985042c1f09e5a409e86c663a6466f7911e0fcb462c4931e74ebcab478f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

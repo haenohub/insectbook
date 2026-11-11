@@ -1,0 +1,103 @@
+{
+  "id": "ZOBL0038",
+  "name_ko": "산각시하늘소",
+  "scientific_name": "Pidonia (Pseudopidonia) amurensis (Pic, 1900)",
+  "display_name": "산각시하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "꽃하늘소아과",
+      "name_latin": "Lepturinae"
+    },
+    "genus": {
+      "name_ko": "각시하늘소속",
+      "name_latin": "Pidonia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 꽃하늘소아과 (Lepturinae)\n속 : 각시하늘소속 (Pidonia)",
+  "basic_information": {
+    "곤충명": "산각시하늘소",
+    "학명": "Pidonia (Pseudopidonia) amurensis (Pic, 1900)"
+  },
+  "information": {
+    "general_description": "몸의길이는 8~10mm 이다. 몸은 대체로 흑색이며 다리는 황갈색또는 흑색이다. 딱지날개에는 황갈색이며 가운데와 옆에 굵은 흑색 띠무늬가 있으며 뒷부분은 흑색무늬가있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의길이는 8~10mm 이다. 몸은 대체로 흑색이며 다리는 황갈색또는 흑색이다. 딱지날개에는 황갈색이며 가운데와 옆에 굵은 흑색 띠무늬가 있으며 뒷부분은 흑색무늬가있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0038-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0038_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0038_1_th.jpg",
+      "alt": "산각시하늘소 1번째 사진 : 산각시하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0038_1_th2.jpg",
+      "caption": "산각시하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0038-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408201027",
+      "description": "[MPME0408201027] 산각시하늘소 1999.06.16 / / 목포자연사박물관"
+    },
+    {
+      "id": "UIBE0408101022",
+      "description": "[UIBE0408101022] 산각시하늘소 1997.05.17 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0408101023",
+      "description": "[UIBE0408101023] 산각시하늘소 2000.06.13 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0038-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0038&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:30+00:00",
+    "html_sha256": "b32e540cb2d4f95a8f29b3bd666572e3507ddc7e5239ff8b437ce40a17eecf39",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

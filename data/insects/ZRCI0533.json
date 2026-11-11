@@ -1,0 +1,114 @@
+{
+  "id": "ZRCI0533",
+  "name_ko": "점짤룩가지나방",
+  "scientific_name": "Xerodes albonotaria (Bremer, 1864)",
+  "display_name": "점짤룩가지나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "가지나방아과",
+      "name_latin": "Ennominae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Xerodes"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 가지나방아과 (Ennominae)\n속 : (Xerodes)",
+  "basic_information": {
+    "곤충명": "점짤룩가지나방",
+    "학명": "Xerodes albonotaria (Bremer, 1864)"
+  },
+  "information": {
+    "general_description": "더듬이는 수컷이 미모상이고, 암컷은 실 모양임. 몸과 날개는 암갈색임. 앞날개의 날개끝은 뾰족하고, 외연은 제 3 중맥에서 모서리짐. 앞날개의 내횡선과 중횡선은 띠 모양으로 약함. 외횡선은 각 맥상에서 흑색 점이 됨. 외횡선의 바깥쪽 제 3실에는 흑색 혹은 흑갈색의 고리가 있음. 중심은 백색임. 이 고리는 종종 중심까지 검게 되어 백색부가 나타나지 않음. 날개의 색깔은 변화가 많으나 일반적으로 봄의 것은 붉은 기가 돔.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[러시아]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 수컷이 미모상이고, 암컷은 실 모양임. 몸과 날개는 암갈색임. 앞날개의 날개끝은 뾰족하고, 외연은 제 3 중맥에서 모서리짐. 앞날개의 내횡선과 중횡선은 띠 모양으로 약함. 외횡선은 각 맥상에서 흑색 점이 됨. 외횡선의 바깥쪽 제 3실에는 흑색 혹은 흑갈색의 고리가 있음. 중심은 백색임. 이 고리는 종종 중심까지 검게 되어 백색부가 나타나지 않음. 날개의 색깔은 변화가 많으나 일반적으로 봄의 것은 붉은 기가 돔."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[러시아]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0533-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0533_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0533_2_th.jpg",
+      "alt": "점짤룩가지나방 1번째 사진 : 점짤룩가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0533_2_th2.jpg",
+      "caption": "점짤룩가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0533-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0533_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0533_1_th.jpg",
+      "alt": "점짤룩가지나방 2번째 사진 : 점짤룩가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0533_1_th2.jpg",
+      "caption": "점짤룩가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0533-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304182024",
+      "description": "[KNAE0304182024] 점짤룩가지나방 1997.06.20 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304182025",
+      "description": "[KNAE0304182025] 점짤룩가지나방 1998.05.19 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304182026",
+      "description": "[KNAE0304182026] 점짤룩가지나방 1997.06.18 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCI0533-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0533&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:26+00:00",
+    "html_sha256": "fbfa2d462bb1028ab466e8fe30989654f807466f41fb83fe6b787f8dfb8083c3",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

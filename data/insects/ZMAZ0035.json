@@ -1,0 +1,103 @@
+{
+  "id": "ZMAZ0035",
+  "name_ko": "벼멸구",
+  "scientific_name": "Nilaparvata lugens (Stål, 1854)",
+  "display_name": "벼멸구",
+  "family_ko": "멸구과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "꽃매미상과",
+      "name_latin": "Fulgoroidea"
+    },
+    "family": {
+      "name_ko": "멸구과",
+      "name_latin": "Delphacidae"
+    },
+    "subfamily": {
+      "name_ko": "멸구아과",
+      "name_latin": "Delphacinae"
+    },
+    "genus": {
+      "name_ko": "벼멸구속",
+      "name_latin": "Nilaparvata"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 꽃매미상과 (Fulgoroidea)\n과 : 멸구과 (Delphacidae)\n아과 : 멸구아과 (Delphacinae)\n속 : 벼멸구속 (Nilaparvata)",
+  "basic_information": {
+    "곤충명": "벼멸구",
+    "학명": "Nilaparvata lugens (Stål, 1854)"
+  },
+  "information": {
+    "general_description": "몸길이: 단시형인 경우 2.5-3.5mm. 장시형인 경우 4-4.5mm. 암컷이 수컷보다 다소크다. 몸은 황갈색 또는 담황색을 띠고, 개체에 따라 갈색 또는 흑갈색을 띠기도 한다. 머리는 양겹눈의 끝이 앞가슴등판보다 훨씬좁다. 정수리는 길이와 폭이 비슷하고 평행을 이루고있다. 앞가장자리에 M 자 모양의 볼록선이 있고 작은 방을 이루고 이마와 연결되어있다. 앞가슴등판과 작은방패판은 황갈색 또는 갈색의 단순한 광택이 있고 3개의 세로 볼록선을 갖는다. 장거리를 이동할 때에는 앞날개가 잘 발달된 장시형이 출현하며 여름철 논에 정착하여 벼 줄기를 빨아먹기 시작하면 단시형이 발생하고 집중적으로 격발하여 그 피해가 마치 폭탄을 맞은것처럼 나타나는 우리나라의 유명한 농업해충이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "성충은 이동성이 강하다. 6월 부터 중국이나 동남아시아의 기류를 타고 날아오는 비래성해충이다.",
+    "season": null,
+    "overwintering": "추위에 약해 우리나라에서 월동하지 못한다.",
+    "distribution": "[대만]\n[일본]\n[중국]\n[인도네시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이: 단시형인 경우 2.5-3.5mm. 장시형인 경우 4-4.5mm. 암컷이 수컷보다 다소크다. 몸은 황갈색 또는 담황색을 띠고, 개체에 따라 갈색 또는 흑갈색을 띠기도 한다. 머리는 양겹눈의 끝이 앞가슴등판보다 훨씬좁다. 정수리는 길이와 폭이 비슷하고 평행을 이루고있다. 앞가장자리에 M 자 모양의 볼록선이 있고 작은 방을 이루고 이마와 연결되어있다. 앞가슴등판과 작은방패판은 황갈색 또는 갈색의 단순한 광택이 있고 3개의 세로 볼록선을 갖는다. 장거리를 이동할 때에는 앞날개가 잘 발달된 장시형이 출현하며 여름철 논에 정착하여 벼 줄기를 빨아먹기 시작하면 단시형이 발생하고 집중적으로 격발하여 그 피해가 마치 폭탄을 맞은것처럼 나타나는 우리나라의 유명한 농업해충이다."
+    },
+    {
+      "title": "습성",
+      "text": "성충은 이동성이 강하다. 6월 부터 중국이나 동남아시아의 기류를 타고 날아오는 비래성해충이다."
+    },
+    {
+      "title": "월동",
+      "text": "추위에 약해 우리나라에서 월동하지 못한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대만]\n[일본]\n[중국]\n[인도네시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMAZ0035-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAZ0035_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAZ0035_1_th.jpg",
+      "alt": "벼멸구 1번째 사진 : 벼멸구전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAZ0035_1_th2.jpg",
+      "caption": "벼멸구전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMAZ0035-1",
+  "specimen_examples": [
+    {
+      "id": "HNUE0408134030",
+      "description": "[HNUE0408134030] 벼멸구 1997.08.30 / / 한남대학교 자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZMAZ0035-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMAZ0035&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:54+00:00",
+    "html_sha256": "80088294d8218a80c3d2554183e4ab87a1f2a12eb59b2b1aeee3b6a0fe24fcdd",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

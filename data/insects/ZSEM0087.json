@@ -1,0 +1,114 @@
+{
+  "id": "ZSEM0087",
+  "name_ko": "어리대모꽃등에",
+  "scientific_name": "Volucella pellucens tabanoides Motschulsky, 1859",
+  "display_name": "어리대모꽃등에",
+  "family_ko": "꽃등에과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "꽃등에상과",
+      "name_latin": "Syrphoidea"
+    },
+    "family": {
+      "name_ko": "꽃등에과",
+      "name_latin": "Syrphidae"
+    },
+    "subfamily": {
+      "name_ko": "순꽃등에아과",
+      "name_latin": "Eristalinae"
+    },
+    "genus": {
+      "name_ko": "대모꽃등에속",
+      "name_latin": "Volucella"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 꽃등에상과 (Syrphoidea)\n과 : 꽃등에과 (Syrphidae)\n아과 : 순꽃등에아과 (Eristalinae)\n속 : 대모꽃등에속 (Volucella)",
+  "basic_information": {
+    "곤충명": "어리대모꽃등에",
+    "학명": "Volucella pellucens tabanoides Motschulsky, 1859"
+  },
+  "information": {
+    "general_description": "몸길이는 16~18 mm이다. 몸은 크고 광택이 있는 흑색이다. 가슴등판의 옆 가장자리의 털은 적고 암컷에서는 옆 가장자리의 굵은 세로 줄 무늬와 가장자리의 반원 무늬가 오렌지색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "5~8월에 많이 출현한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 16~18 mm이다. 몸은 크고 광택이 있는 흑색이다. 가슴등판의 옆 가장자리의 털은 적고 암컷에서는 옆 가장자리의 굵은 세로 줄 무늬와 가장자리의 반원 무늬가 오렌지색이다."
+    },
+    {
+      "title": "생태",
+      "text": "5~8월에 많이 출현한다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSEM0087-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0087_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0087_2_th.jpg",
+      "alt": "어리대모꽃등에 1번째 사진 : 어리대모꽃등에전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0087_2_th2.jpg",
+      "caption": "어리대모꽃등에전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZSEM0087-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0087_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0087_1_th.jpg",
+      "alt": "어리대모꽃등에 2번째 사진 : 어리대모꽃등에전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0087_1_th2.jpg",
+      "caption": "어리대모꽃등에전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSEM0087-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0307191109",
+      "description": "[KUIE0307191109] 어리대모꽃등에 1984.06.22 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307201098",
+      "description": "[KUIE0307201098] 어리대모꽃등에 1981.07.20 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307191104",
+      "description": "[KUIE0307191104] 어리대모꽃등에 1978.06.06 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZSEM0087-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSEM0087&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:34+00:00",
+    "html_sha256": "a7d8a14fe20f30dbffb4994866a2ced9a5e56ec52e2076a2f95f173e046bdd87",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

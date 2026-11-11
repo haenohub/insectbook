@@ -1,0 +1,99 @@
+{
+  "id": "ZSEM0063",
+  "name_ko": "난쟁이별꽃등에",
+  "scientific_name": "Cheilosia abbreviata Shiraki, 1953",
+  "display_name": "난쟁이별꽃등에",
+  "family_ko": "꽃등에과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "꽃등에상과",
+      "name_latin": "Syrphoidea"
+    },
+    "family": {
+      "name_ko": "꽃등에과",
+      "name_latin": "Syrphidae"
+    },
+    "subfamily": {
+      "name_ko": "순꽃등에아과",
+      "name_latin": "Eristalinae"
+    },
+    "genus": {
+      "name_ko": "별꽃등에속",
+      "name_latin": "Cheilosia"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 꽃등에상과 (Syrphoidea)\n과 : 꽃등에과 (Syrphidae)\n아과 : 순꽃등에아과 (Eristalinae)\n속 : 별꽃등에속 (Cheilosia)",
+  "basic_information": {
+    "곤충명": "난쟁이별꽃등에",
+    "학명": "Cheilosia abbreviata Shiraki, 1953"
+  },
+  "information": {
+    "general_description": "성충의 몸길이는 10mm 정도. 몸은 흑색이고 보라빛 흑색 광택이 있다. 머리는 가슴과 거의 같은 폭이다. 암컷의 이마는 머리 쪽의 거의 1/5이고 앞으로 약간 좁아졌다. 가운데세로홈은 뚜렷하고 짧은 갈색 털이 있다. 얼굴의 가운데 융기는 크고 입가장자리 가까이에 있다. 더듬이는 연한 갈색이고 제3마디는 폭보다 다소 길다. 더듬이의 극모는 비교적 짧고 크며 길이는 제3마디의 4배되며 미세한 털이 났다. 겹눈은 갈색 미모가 났고, 날개는 투명하나 끝 1/3은 흐리다. 다리는 연한 황갈색이고 발목마디는 흑갈색인데 뒷다리의 발목마디 중앙에는 흑갈색 고리무늬가 있다. 근연종과는 광택의 색체, 겹눈의 미모, 날개의 흐림이나 다리의 색으로 구별이 된다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충의 몸길이는 10mm 정도. 몸은 흑색이고 보라빛 흑색 광택이 있다. 머리는 가슴과 거의 같은 폭이다. 암컷의 이마는 머리 쪽의 거의 1/5이고 앞으로 약간 좁아졌다. 가운데세로홈은 뚜렷하고 짧은 갈색 털이 있다. 얼굴의 가운데 융기는 크고 입가장자리 가까이에 있다. 더듬이는 연한 갈색이고 제3마디는 폭보다 다소 길다. 더듬이의 극모는 비교적 짧고 크며 길이는 제3마디의 4배되며 미세한 털이 났다. 겹눈은 갈색 미모가 났고, 날개는 투명하나 끝 1/3은 흐리다. 다리는 연한 황갈색이고 발목마디는 흑갈색인데 뒷다리의 발목마디 중앙에는 흑갈색 고리무늬가 있다. 근연종과는 광택의 색체, 겹눈의 미모, 날개의 흐림이나 다리의 색으로 구별이 된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSEM0063-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0063_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0063_1_th.jpg",
+      "alt": "난쟁이별꽃등에 1번째 사진 : 난쟁이별꽃등에전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0063_1_th2.jpg",
+      "caption": "난쟁이별꽃등에전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSEM0063-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0307201202",
+      "description": "[KUIE0307201202] 난쟁이별꽃등에 1963.08.05 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZSEM0063.png",
+    "reference_image_id": "ZSEM0063-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T15:47:04.265510+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "b954f61d2874eeef6252a51ce440ad13a974985ce52c6b894a8a3996aa59adaf"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSEM0063&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:13+00:00",
+    "html_sha256": "d260397bbb4b33265a2edda7bf9ec6fe214225968532c5e34c22b964023fc25f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

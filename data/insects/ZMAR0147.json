@@ -1,0 +1,95 @@
+{
+  "id": "ZMAR0147",
+  "name_ko": "벼알락매미충",
+  "scientific_name": "Maiestas oryzae (Matsumura, 1902)",
+  "display_name": "벼알락매미충",
+  "family_ko": "매미충과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "뿔매미상과",
+      "name_latin": "Membracoidea"
+    },
+    "family": {
+      "name_ko": "매미충과",
+      "name_latin": "Cicadellidae"
+    },
+    "subfamily": {
+      "name_ko": "매미충아과",
+      "name_latin": "Deltocephalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Maiestas"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 뿔매미상과 (Membracoidea)\n과 : 매미충과 (Cicadellidae)\n아과 : 매미충아과 (Deltocephalinae)\n속 : (Maiestas)",
+  "basic_information": {
+    "곤충명": "벼알락매미충",
+    "학명": "Maiestas oryzae (Matsumura, 1902)"
+  },
+  "information": {
+    "general_description": "몸길이:2.9-3mm.\n머리의 등면은 황백색이고 전반부는 담갈색 내지 갈색이다. 겹눈 사이에 암갈색의 점무늬를 가지며 뒤편 정중선은 암갈색의 선명한 선으로 나타난다. 겹눈은 흑갈색이고, 홑눈은 담갈색이다. 앞가장자리는 돌출되었다. 앞가슴등판의 앞쪽은 황백색에 갈색 무늬를 가지며 중간 대부분은 담갈색을 나타낸다. 뒷편 중앙은 암갈색의 무늬가 뒷쪽 작은방패판의 양쪽 무늬에 이어진다. 날개는 담갈색의 무늬가 둘러져 복잡한 무늬를 나타내고 배의 짙은색이 비쳐 어두운 색으로 나타난다. 몸의 밑면은 담황색이나 담황갈색 내지 암갈색의 무늬로 요란하다. 머리의 뒷머리방패에 갈색 가로줄 무늬를 가지며 앞머리방패는 황색이며 주앙이 갈색이다. 앞다리의 밑마디는 암갈색이고 다리의 넓적다리마디 및 종아리마디는 담황갈색에 암갈색의 무늬로 알록달록하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대만]\n[러시아]\n[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이:2.9-3mm.\n머리의 등면은 황백색이고 전반부는 담갈색 내지 갈색이다. 겹눈 사이에 암갈색의 점무늬를 가지며 뒤편 정중선은 암갈색의 선명한 선으로 나타난다. 겹눈은 흑갈색이고, 홑눈은 담갈색이다. 앞가장자리는 돌출되었다. 앞가슴등판의 앞쪽은 황백색에 갈색 무늬를 가지며 중간 대부분은 담갈색을 나타낸다. 뒷편 중앙은 암갈색의 무늬가 뒷쪽 작은방패판의 양쪽 무늬에 이어진다. 날개는 담갈색의 무늬가 둘러져 복잡한 무늬를 나타내고 배의 짙은색이 비쳐 어두운 색으로 나타난다. 몸의 밑면은 담황색이나 담황갈색 내지 암갈색의 무늬로 요란하다. 머리의 뒷머리방패에 갈색 가로줄 무늬를 가지며 앞머리방패는 황색이며 주앙이 갈색이다. 앞다리의 밑마디는 암갈색이고 다리의 넓적다리마디 및 종아리마디는 담황갈색에 암갈색의 무늬로 알록달록하다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대만]\n[러시아]\n[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMAR0147-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0147_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0147_1_th.jpg",
+      "alt": "벼알락매미충 1번째 사진 : 벼알락매미충전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0147_1_th2.jpg",
+      "caption": "벼알락매미충전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMAR0147-1",
+  "specimen_examples": [
+    {
+      "id": "HNUE0408144001",
+      "description": "[HNUE0408144001] 벼알락매미충 1997.08.19 / / 한남대학교 자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZMAR0147-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMAR0147&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:56+00:00",
+    "html_sha256": "dcae3121b0f21a89205be210e8695439decad75c5a8824ba484d3ab6f6ef9bc2",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

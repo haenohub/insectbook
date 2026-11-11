@@ -1,0 +1,99 @@
+{
+  "id": "ZOHE0009",
+  "name_ko": "갈색테송장풍뎅이",
+  "scientific_name": "Trox vimmeri Balthasar, 1931",
+  "display_name": "갈색테송장풍뎅이",
+  "family_ko": "송장풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "송장풍뎅이과",
+      "name_latin": "Trogidae"
+    },
+    "genus": {
+      "name_ko": "송장풍뎅이속",
+      "name_latin": "Trox"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 송장풍뎅이과 (Trogidae)\n속 : 송장풍뎅이속 (Trox)",
+  "basic_information": {
+    "곤충명": "갈색테송장풍뎅이",
+    "학명": "Trox vimmeri Balthasar, 1931"
+  },
+  "information": {
+    "general_description": "우수리지방에 분포하며 몸은 흑색이나 회황색 분비물로 덮혔고, 짧은 난형. 뒷머리와 전흉배판의 점각은 안상. 등쪽의 극모는 짧고 담황색이나 머리방패의 둘레와 전흉배판의 긴 극모는 담황적색, 전흉배판 가장자리는 긴 잎모양이며 거의 투명한 황갈색이다. 딱지날개 홀수 간실의 융기부는 원형인데 거리가 멀고 각각 5~10갱의 극모를 수반하나 짝수 간실은 매우 작고 불규칙하다. BL:5.8mm내외.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "우수리지방에 분포하며 몸은 흑색이나 회황색 분비물로 덮혔고, 짧은 난형. 뒷머리와 전흉배판의 점각은 안상. 등쪽의 극모는 짧고 담황색이나 머리방패의 둘레와 전흉배판의 긴 극모는 담황적색, 전흉배판 가장자리는 긴 잎모양이며 거의 투명한 황갈색이다. 딱지날개 홀수 간실의 융기부는 원형인데 거리가 멀고 각각 5~10갱의 극모를 수반하나 짝수 간실은 매우 작고 불규칙하다. BL:5.8mm내외."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOHE0009-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOHE0009_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOHE0009_1_th.jpg",
+      "alt": "갈색테송장풍뎅이 1번째 사진 : 갈색테송장풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOHE0009_1_th2.jpg",
+      "caption": "갈색테송장풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOHE0009-1",
+  "specimen_examples": [
+    {
+      "id": "SSUE0302051001",
+      "description": "[SSUE0302051001] 갈색테송장풍뎅이 1983.04.05 / / 성신여자대학교"
+    },
+    {
+      "id": "KNAE359790",
+      "description": "[KNAE359790] 갈색테송장풍뎅이 / / 국립수목원"
+    },
+    {
+      "id": "KNAE359792",
+      "description": "[KNAE359792] 갈색테송장풍뎅이 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOHE0009.png",
+    "reference_image_id": "ZOHE0009-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T16:50:23.702940+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "22c57ca2402f6b4825abc4d7a55dab7d73049e0651ec52468e82de9ac2448cae"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOHE0009&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:36+00:00",
+    "html_sha256": "f65d72fa8a2a18e577763c7cc2b169db4007a2e84b7031489be6386faf86f49d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

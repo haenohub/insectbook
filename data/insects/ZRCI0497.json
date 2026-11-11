@@ -1,0 +1,118 @@
+{
+  "id": "ZRCI0497",
+  "name_ko": "띠넓은가지나방",
+  "scientific_name": "Plagodis pulveraria (Linnaeus, 1758)",
+  "display_name": "띠넓은가지나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "가지나방아과",
+      "name_latin": "Ennominae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Plagodis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 가지나방아과 (Ennominae)\n속 : (Plagodis)",
+  "basic_information": {
+    "곤충명": "띠넓은가지나방",
+    "학명": "Plagodis pulveraria (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "더듬이는 수컷이 빗살 모양이고, 암컷은 실 모양이다. 몸과 날개는 담황갈색으로 적갈색의 짧은 선이 밀포되어 있다. 봄형에서는 내횡선과 외횡선 사이가 전연에서 후연까지 띠 모양으로 농색이고, 여름형에서는 농색의 내횡선과 외횡선이 있으며, 뒷날개에는 외횡선만 있다. 외횡선이 제2주맥(Cu2)부근에서는 밑부분으로 향하여 있고, 다시 휘어 후연에 이른다. 뒷면이 봄형에서는 전면에 황갈색 및 적갈색의 짧은 선이 산포되어 있고, 여름형에서는 황색부에 적갈색의 짧은 선이 산재하며, 횡선이 연하게 나타난다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 5월과 8월에 출현한다. 유충은 자작나무, 오리나무 및 털인동넝굴 등의 잎을 먹는다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 수컷이 빗살 모양이고, 암컷은 실 모양이다. 몸과 날개는 담황갈색으로 적갈색의 짧은 선이 밀포되어 있다. 봄형에서는 내횡선과 외횡선 사이가 전연에서 후연까지 띠 모양으로 농색이고, 여름형에서는 농색의 내횡선과 외횡선이 있으며, 뒷날개에는 외횡선만 있다. 외횡선이 제2주맥(Cu2)부근에서는 밑부분으로 향하여 있고, 다시 휘어 후연에 이른다. 뒷면이 봄형에서는 전면에 황갈색 및 적갈색의 짧은 선이 산포되어 있고, 여름형에서는 황색부에 적갈색의 짧은 선이 산재하며, 횡선이 연하게 나타난다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 5월과 8월에 출현한다. 유충은 자작나무, 오리나무 및 털인동넝굴 등의 잎을 먹는다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0497-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0497_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0497_2_th.jpg",
+      "alt": "띠넓은가지나방 1번째 사진 : 띠넓은가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0497_2_th2.jpg",
+      "caption": "띠넓은가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0497-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0497_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0497_1_th.jpg",
+      "alt": "띠넓은가지나방 2번째 사진 : 띠넓은가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0497_1_th2.jpg",
+      "caption": "띠넓은가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0497-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303121040",
+      "description": "[KNAE0303121040] 띠넓은가지나방 1990.07.05 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303121041",
+      "description": "[KNAE0303121041] 띠넓은가지나방 1990.07.10 / / 국립수목원"
+    },
+    {
+      "id": "FRIE0303101006",
+      "description": "[FRIE0303101006] 띠넓은가지나방 1996.09.12 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCI0497-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0497&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:30+00:00",
+    "html_sha256": "ab232db7962e0a08cf5905ea18a6d1e5118dca67dde42aea73bd40ea5ce4d93f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

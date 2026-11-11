@@ -1,0 +1,122 @@
+{
+  "id": "ZRCI0421",
+  "name_ko": "네줄가지나방",
+  "scientific_name": "Hypomecis crassestrigata (Christoph, 1881)",
+  "display_name": "네줄가지나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "가지나방아과",
+      "name_latin": "Ennominae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Hypomecis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 가지나방아과 (Ennominae)\n속 : (Hypomecis)",
+  "basic_information": {
+    "곤충명": "네줄가지나방",
+    "학명": "Hypomecis crassestrigata (Christoph, 1881)"
+  },
+  "information": {
+    "general_description": "더듬이는　수컷이　빗살　모양이고，암컷은실　모양임．몸과　날개의　색깔은　개체에따라　변화가　많아　갈색에서　어두운　것에　이르기까지　다양함．앞뒷날개　모두　횡맥상에는　횡맥　무늬가　고리　모양을　이루는데　중심은　백색임．앞날개에서는　외횡선이　후연부에서　중횡선에　접근하며결합하는　개체도　적지　않음．뒷날개　외연의　굴곡은　깊음．",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은　６～７월에　출현함．",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는　수컷이　빗살　모양이고，암컷은실　모양임．몸과　날개의　색깔은　개체에따라　변화가　많아　갈색에서　어두운　것에　이르기까지　다양함．앞뒷날개　모두　횡맥상에는　횡맥　무늬가　고리　모양을　이루는데　중심은　백색임．앞날개에서는　외횡선이　후연부에서　중횡선에　접근하며결합하는　개체도　적지　않음．뒷날개　외연의　굴곡은　깊음．"
+    },
+    {
+      "title": "생태",
+      "text": "성충은　６～７월에　출현함．"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0421-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0421_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0421_2_th.jpg",
+      "alt": "네줄가지나방 1번째 사진 : 네줄가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0421_2_th2.jpg",
+      "caption": "네줄가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0421-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0421_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0421_1_th.jpg",
+      "alt": "네줄가지나방 2번째 사진 : 네줄가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0421_1_th2.jpg",
+      "caption": "네줄가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0421-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0201242008",
+      "description": "[KNAE0201242008] 네줄가지나방 1991.07.24 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0201242009",
+      "description": "[KNAE0201242009] 네줄가지나방 1990.07.22 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0201242010",
+      "description": "[KNAE0201242010] 네줄가지나방 1994.07.26 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRCI0421.png",
+    "reference_image_id": "ZRCI0421-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T10:58:28.165119+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "a4ef78cea704a20f4ce226b3fc3dcd3ab8572cfdd949159759c0c1a41787bd9e"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0421&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:51+00:00",
+    "html_sha256": "4e9c65f670cc72ac0dd4573d77b6ca137a4c8fe7218349b6427f61891e8ae67b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

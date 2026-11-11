@@ -1,0 +1,122 @@
+{
+  "id": "ZRCI0206",
+  "name_ko": "노랑그물물결자나방",
+  "scientific_name": "Eustroma aerosum (Butler, 1878)",
+  "display_name": "노랑그물물결자나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "물결자나방아과",
+      "name_latin": "Larentiinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Eustroma"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 물결자나방아과 (Larentiinae)\n속 : (Eustroma)",
+  "basic_information": {
+    "곤충명": "노랑그물물결자나방",
+    "학명": "Eustroma aerosum (Butler, 1878)"
+  },
+  "information": {
+    "general_description": "더듬이-암수 모두 실모양. 몸과 날개(30~32mm)는 모두 흑색. 이마, 가슴, 배의 양쪽 및 횡선-담황색. *앞날개-아기선 경사, 내횡선: 제 1c실에서 안쪽으로 감김. 중횡선 3개, 중앙선은 선명하지 않다. 가장 안쪽 선은 내횡선과 접하고 후각으로 뻗음. 외횡선 3개, 중앙선 약하고 바깥쪽 선은 제 1,2주맥상 안쪽으로 날카롭게 돌출. 아외연선-비스듬한 줄과 제 2중맥에서 결합. 외연부-시맥 황색, 제 2중맥 이하 녹황색. *뒷날개-담회황색, 수컷 뒷날개 앞면의 횡맥상에 융기된 비늘 조각에 의한 흑색 무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[인도]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이-암수 모두 실모양. 몸과 날개(30~32mm)는 모두 흑색. 이마, 가슴, 배의 양쪽 및 횡선-담황색. *앞날개-아기선 경사, 내횡선: 제 1c실에서 안쪽으로 감김. 중횡선 3개, 중앙선은 선명하지 않다. 가장 안쪽 선은 내횡선과 접하고 후각으로 뻗음. 외횡선 3개, 중앙선 약하고 바깥쪽 선은 제 1,2주맥상 안쪽으로 날카롭게 돌출. 아외연선-비스듬한 줄과 제 2중맥에서 결합. 외연부-시맥 황색, 제 2중맥 이하 녹황색. *뒷날개-담회황색, 수컷 뒷날개 앞면의 횡맥상에 융기된 비늘 조각에 의한 흑색 무늬가 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[인도]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0206-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0206_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0206_2_th.jpg",
+      "alt": "노랑그물물결자나방 1번째 사진 : 노랑그물물결자나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0206_2_th2.jpg",
+      "caption": "노랑그물물결자나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0206-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0206_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0206_1_th.jpg",
+      "alt": "노랑그물물결자나방 2번째 사진 : 노랑그물물결자나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0206_1_th2.jpg",
+      "caption": "노랑그물물결자나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0206-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0304281025",
+      "description": "[FRIE0304281025] 노랑그물물결자나방 1995.09.02 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0303071066",
+      "description": "[KNAE0303071066] 노랑그물물결자나방 2000.06.05 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303071067",
+      "description": "[KNAE0303071067] 노랑그물물결자나방 2000.08.11 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRCI0206.png",
+    "reference_image_id": "ZRCI0206-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T11:35:57.407560+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "50116ab59fb25597dcc3cc1a5821e88060c96cb6308bfb450960f56768c7923a"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0206&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:01+00:00",
+    "html_sha256": "78df9b3a9e19c47e12c4c73978500bedc5a49d9b72f58367cffe1d969c71ee93",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

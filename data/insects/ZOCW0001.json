@@ -1,0 +1,103 @@
+{
+  "id": "ZOCW0001",
+  "name_ko": "톱니무늬버섯벌레",
+  "scientific_name": "Aulacochilus luniferus decoratus Reitter, 1879",
+  "display_name": "톱니무늬버섯벌레",
+  "family_ko": "버섯벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "머리대장상과",
+      "name_latin": "Cucujoidea"
+    },
+    "family": {
+      "name_ko": "버섯벌레과",
+      "name_latin": "Erotylidae"
+    },
+    "subfamily": {
+      "name_ko": "버섯벌레아과",
+      "name_latin": "Erotylinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Aulacochilus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 머리대장상과 (Cucujoidea)\n과 : 버섯벌레과 (Erotylidae)\n아과 : 버섯벌레아과 (Erotylinae)\n속 : (Aulacochilus)",
+  "basic_information": {
+    "곤충명": "톱니무늬버섯벌레",
+    "학명": "Aulacochilus luniferus decoratus Reitter, 1879"
+  },
+  "information": {
+    "general_description": "몸의 길이는 5~7mm, 몸은 광택이 나는 흑색인데 딱지날개의 윗부분에는 한쌍의 붉은색의 톱니무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의 길이는 5~7mm, 몸은 광택이 나는 흑색인데 딱지날개의 윗부분에는 한쌍의 붉은색의 톱니무늬가 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCW0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCW0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCW0001_1_th.jpg",
+      "alt": "톱니무늬버섯벌레 1번째 사진 : 톱니무늬버섯벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCW0001_1_th2.jpg",
+      "caption": "톱니무늬버섯벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCW0001-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0203274011",
+      "description": "[SNUE0203274011] 톱니무늬버섯벌레 1998.05.15 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0203274010",
+      "description": "[SNUE0203274010] 톱니무늬버섯벌레 1998.08.29 / / 서울대학교"
+    },
+    {
+      "id": "RIFI1207192043",
+      "description": "[RIFI1207192043] 톱니무늬버섯벌레 2011.09.05 / / 산림곤충다양성연구소"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOCW0001-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCW0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:27+00:00",
+    "html_sha256": "10cc37cd3c3dfa1516370b67dd170f4b4a897e94b824d8605c011628879222ae",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "ZOBL0066",
+  "name_ko": "열두점박이꽃하늘소",
+  "scientific_name": "Leptura (Leptura) duodecimguttata Fabricius, 1801",
+  "display_name": "열두점박이꽃하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "꽃하늘소아과",
+      "name_latin": "Lepturinae"
+    },
+    "genus": {
+      "name_ko": "꽃하늘소속",
+      "name_latin": "Leptura"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 꽃하늘소아과 (Lepturinae)\n속 : 꽃하늘소속 (Leptura)",
+  "basic_information": {
+    "곤충명": "열두점박이꽃하늘소",
+    "학명": "Leptura (Leptura) duodecimguttata Fabricius, 1801"
+  },
+  "information": {
+    "general_description": "몸길이는 11~15이며 몸색깔은 흑색이며 딱지날개에는 6개의 노란무늬가 있다. 가운데소순판에 1쌍, 딱지날개 가운데 앞뒤로 4쌍, 날개 끝에 가로로 1쌍 등이 있다. 이렇게 12개의 황색무늬가 있는데 개체에 따라 다르다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[러시아]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 11~15이며 몸색깔은 흑색이며 딱지날개에는 6개의 노란무늬가 있다. 가운데소순판에 1쌍, 딱지날개 가운데 앞뒤로 4쌍, 날개 끝에 가로로 1쌍 등이 있다. 이렇게 12개의 황색무늬가 있는데 개체에 따라 다르다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[러시아]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0066-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0066_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0066_1_th.jpg",
+      "alt": "열두점박이꽃하늘소 1번째 사진 : 열두점박이꽃하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0066_1_th2.jpg",
+      "caption": "열두점박이꽃하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0066-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304151014",
+      "description": "[KNAE0304151014] 열두점박이꽃하늘소 1994.05.28 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304151015",
+      "description": "[KNAE0304151015] 열두점박이꽃하늘소 1994.05.29 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304151016",
+      "description": "[KNAE0304151016] 열두점박이꽃하늘소 1995.05.18 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0066-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0066&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:10+00:00",
+    "html_sha256": "afd75d4671bfd72fb00360e71f643e1bbcae980fb5f76128bce3f1a32b7b8cc5",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "ZODA0004",
+  "name_ko": "무늬금풍뎅이",
+  "scientific_name": "Bolbocerodema zonatum (Nikolayev, 1973)",
+  "display_name": "무늬금풍뎅이",
+  "family_ko": "참금풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "참금풍뎅이과",
+      "name_latin": "Bolboceratidae"
+    },
+    "genus": {
+      "name_ko": "무늬금풍뎅이속",
+      "name_latin": "Bolbocerodema"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 참금풍뎅이과 (Bolboceratidae)\n속 : 무늬금풍뎅이속 (Bolbocerodema)",
+  "basic_information": {
+    "곤충명": "무늬금풍뎅이",
+    "학명": "Bolbocerodema zonatum (Nikolayev, 1973)"
+  },
+  "information": {
+    "general_description": "높고 둥근 반구형으로서 광택있는 황적갈색이나 복면과 다리에는 흑색부가 많고 긴 황색털이 밀생하였다. 머리,큰턱,전흉배판 앞쪽의 경사부, 기부의 낮은 산모양의 무늬, 소순판, 딱지날개의 뒤쪽과 테두리 등의 무늬는 흑색이다. 촉각 곤봉부는 크고 전경절의 털무늬는 없다. 겹눈은 상하가 ocular canthus로 이분되었고 중기절 앞쪽의 흠에는 3개의 작은 가시가 있다. BL:13mm내외.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아] 동시베리아지역",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "높고 둥근 반구형으로서 광택있는 황적갈색이나 복면과 다리에는 흑색부가 많고 긴 황색털이 밀생하였다. 머리,큰턱,전흉배판 앞쪽의 경사부, 기부의 낮은 산모양의 무늬, 소순판, 딱지날개의 뒤쪽과 테두리 등의 무늬는 흑색이다. 촉각 곤봉부는 크고 전경절의 털무늬는 없다. 겹눈은 상하가 ocular canthus로 이분되었고 중기절 앞쪽의 흠에는 3개의 작은 가시가 있다. BL:13mm내외."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아] 동시베리아지역"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZODA0004-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODA0004_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODA0004_1_th.jpg",
+      "alt": "무늬금풍뎅이 1번째 사진 : 무늬금풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODA0004_1_th2.jpg",
+      "caption": "무늬금풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZODA0004-1",
+  "specimen_examples": [
+    {
+      "id": "SSUE0301141103",
+      "description": "[SSUE0301141103] 무늬금풍뎅이 1929.07.11 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0301141104",
+      "description": "[SSUE0301141104] 무늬금풍뎅이 1983.06.16 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0301141105",
+      "description": "[SSUE0301141105] 무늬금풍뎅이 1997.06.10 / / 성신여자대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZODA0004-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZODA0004&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:27+00:00",
+    "html_sha256": "aa26489b32f3cea13db2d7788ad88bd68de98690537e99e7ea853b9a985e4201",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

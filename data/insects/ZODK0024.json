@@ -1,0 +1,103 @@
+{
+  "id": "ZODK0024",
+  "name_ko": "애풍뎅이붙이",
+  "scientific_name": "Hister japonicus Marseul, 1854",
+  "display_name": "애풍뎅이붙이",
+  "family_ko": "풍뎅이붙이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "물땡땡이상과",
+      "name_latin": "Hydrophiloidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이붙이과",
+      "name_latin": "Histeridae"
+    },
+    "subfamily": {
+      "name_ko": "풍뎅이붙이아과",
+      "name_latin": "Histerinae"
+    },
+    "genus": {
+      "name_ko": "풍뎅이붙이속",
+      "name_latin": "Hister"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 물땡땡이상과 (Hydrophiloidea)\n과 : 풍뎅이붙이과 (Histeridae)\n아과 : 풍뎅이붙이아과 (Histerinae)\n속 : 풍뎅이붙이속 (Hister)",
+  "basic_information": {
+    "곤충명": "애풍뎅이붙이",
+    "학명": "Hister japonicus Marseul, 1854"
+  },
+  "information": {
+    "general_description": "한국, 일본에 분포하며, 체장은 7mm 내외이다. 앞머리에 고리 모양의 가는 구가 있고 머리꼭대기, 윗입술, 큰턱에는 아주 가는 점각이 있다. 촉각은 적갈색이고 자루마디는 흑색이며 구산상단은 회갈색이다. 딱지날개는 짧고 배끝은 두마디를 노출하고 점각이 밀포하였다. 몸 아랫면은 점각을 밀포하였다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본에 분포하며, 체장은 7mm 내외이다. 앞머리에 고리 모양의 가는 구가 있고 머리꼭대기, 윗입술, 큰턱에는 아주 가는 점각이 있다. 촉각은 적갈색이고 자루마디는 흑색이며 구산상단은 회갈색이다. 딱지날개는 짧고 배끝은 두마디를 노출하고 점각이 밀포하였다. 몸 아랫면은 점각을 밀포하였다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZODK0024-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODK0024_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODK0024_1_th.jpg",
+      "alt": "애풍뎅이붙이 1번째 사진 : 애풍뎅이붙이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODK0024_1_th2.jpg",
+      "caption": "애풍뎅이붙이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZODK0024-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0212206044",
+      "description": "[YNUE0212206044] 애풍뎅이붙이 2001.06.09 / / 영남대학교"
+    },
+    {
+      "id": "SNUE0204221115",
+      "description": "[SNUE0204221115] 애풍뎅이붙이 1967.08.26 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0204221116",
+      "description": "[SNUE0204221116] 애풍뎅이붙이 1990.04.20 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZODK0024-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZODK0024&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:19+00:00",
+    "html_sha256": "6b88fb81dee2e7678448502bf9811f1a5f7a186cf7edfb16212d5a6545b3b86c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

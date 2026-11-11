@@ -1,0 +1,148 @@
+{
+  "id": "ZRDU0011",
+  "name_ko": "점줄재주나방",
+  "scientific_name": "Drymonia dodonides (Staudinger, 1887)",
+  "display_name": "점줄재주나방",
+  "family_ko": "재주나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "재주나방과",
+      "name_latin": "Notodontidae"
+    },
+    "subfamily": {
+      "name_ko": "재주나방아과",
+      "name_latin": "Notodontinae"
+    },
+    "genus": {
+      "name_ko": "점줄재주나방속",
+      "name_latin": "Drymonia"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 재주나방과 (Notodontidae)\n아과 : 재주나방아과 (Notodontinae)\n속 : 점줄재주나방속 (Drymonia)",
+  "basic_information": {
+    "곤충명": "점줄재주나방",
+    "학명": "Drymonia dodonides (Staudinger, 1887)"
+  },
+  "information": {
+    "general_description": "날개편 길이 31～38mm. 앞날개 전연의 외횡선 부위에서 시정 사이에 흑색으로된 큰 점무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 5～7월에 출현한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[중국]\n[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 31～38mm. 앞날개 전연의 외횡선 부위에서 시정 사이에 흑색으로된 큰 점무늬가 있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 5～7월에 출현한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDU0011-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0011_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0011_2_th.jpg",
+      "alt": "점줄재주나방 1번째 사진 : 점줄재주나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0011_2_th2.jpg",
+      "caption": "점줄재주나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDU0011-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0011_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0011_1_th.jpg",
+      "alt": "점줄재주나방 2번째 사진 : 점줄재주나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0011_1_th2.jpg",
+      "caption": "점줄재주나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDU0011-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0302081051",
+      "description": "[KNAE0302081051] 점줄재주나방 2000.06.06 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0302081052",
+      "description": "[KNAE0302081052] 점줄재주나방 2000.06.05 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0302081053",
+      "description": "[KNAE0302081053] 점줄재주나방 2000.06.05 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "가시나무",
+      "scientific_name": "Quercus myrsinifolia Blume"
+    },
+    {
+      "group": "식물",
+      "name_ko": "갈참나무",
+      "scientific_name": "Quercus aliena Blume"
+    },
+    {
+      "group": "식물",
+      "name_ko": "떡갈나무",
+      "scientific_name": "Quercus dentata Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "신갈나무",
+      "scientific_name": "Quercus mongolica Fisch. ex Ledeb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "자작나무",
+      "scientific_name": "Betula pendula Roth"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDU0011-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDU0011&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:25+00:00",
+    "html_sha256": "b1d6e7810c155b8750bf77a9182003a7e1a0c6d2b094f983eb407c436a11a741",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "ZDAE0006",
+  "name_ko": "등줄실잠자리",
+  "scientific_name": "Paracercion hieroglyphicum (Brauer, 1865)",
+  "display_name": "등줄실잠자리",
+  "family_ko": "실잠자리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "잠자리목",
+      "name_latin": "Odonata"
+    },
+    "family": {
+      "name_ko": "실잠자리과",
+      "name_latin": "Coenagrionidae"
+    },
+    "subfamily": {
+      "name_ko": "실잠자리아과",
+      "name_latin": "Coenagrionae"
+    },
+    "genus": {
+      "name_ko": "등줄실잠자리속",
+      "name_latin": "Paracercion"
+    }
+  },
+  "taxonomy_text": "목 : 잠자리목 (Odonata)\n과 : 실잠자리과 (Coenagrionidae)\n아과 : 실잠자리아과 (Coenagrionae)\n속 : 등줄실잠자리속 (Paracercion)",
+  "basic_information": {
+    "곤충명": "등줄실잠자리",
+    "학명": "Paracercion hieroglyphicum (Brauer, 1865)"
+  },
+  "information": {
+    "general_description": "뒷날개의 길이는 수컷은 13-18 mm, 암컷은 16-22 mm이다. 수컷은 날개가슴 측면이 다소 황록색을 띠며, 암컷은 바탕색이 황록색 또는 황갈색을 띠는데, 복부의 등면도 노랑색을 강하게 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 5월부터 9월까지 볼수 있으며, 평지나 구릉지의 수초가 많은 연못이나, 수로 또는 저수지 등지에 서식한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "뒷날개의 길이는 수컷은 13-18 mm, 암컷은 16-22 mm이다. 수컷은 날개가슴 측면이 다소 황록색을 띠며, 암컷은 바탕색이 황록색 또는 황갈색을 띠는데, 복부의 등면도 노랑색을 강하게 띤다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 5월부터 9월까지 볼수 있으며, 평지나 구릉지의 수초가 많은 연못이나, 수로 또는 저수지 등지에 서식한다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZDAE0006-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAE0006_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAE0006_1_th.jpg",
+      "alt": "등줄실잠자리 1번째 사진 : 등줄실잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAE0006_1_th2.jpg",
+      "caption": "등줄실잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZDAE0006-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0302032042",
+      "description": "[KNAE0302032042] 등줄실잠자리 1993.07.07 / / 국립수목원"
+    },
+    {
+      "id": "JFNE0202041118",
+      "description": "[JFNE0202041118] 등줄실잠자리 1982.07.22 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0202041120",
+      "description": "[JFNE0202041120] 등줄실잠자리 1995.09.22 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZDAE0006-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZDAE0006&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:19+00:00",
+    "html_sha256": "227a496734a1fe403c6004e0a1806b77d8e4d50804f14c970b5e8a29f941434d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

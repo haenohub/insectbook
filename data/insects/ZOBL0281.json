@@ -1,0 +1,118 @@
+{
+  "id": "ZOBL0281",
+  "name_ko": "홀쭉사과하늘소",
+  "scientific_name": "Oberea (Oberea) atropunctata Pic, 1916",
+  "display_name": "홀쭉사과하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "목하늘소아과",
+      "name_latin": "Lamiinae"
+    },
+    "genus": {
+      "name_ko": "사과하늘소속",
+      "name_latin": "Oberea"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 목하늘소아과 (Lamiinae)\n속 : 사과하늘소속 (Oberea)",
+  "basic_information": {
+    "곤충명": "홀쭉사과하늘소",
+    "학명": "Oberea (Oberea) atropunctata Pic, 1916"
+  },
+  "information": {
+    "general_description": "몸길이는 11~18mm이며, 가늘고 긴 하늘소이다. 몸은 전체적으로 황적색 내지 갈색이고, 더듬이는 흑색이다. 딱지날개는 양옆으로 갈수록 검은 연기처럼 보이는 어두운 색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[베트남]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 11~18mm이며, 가늘고 긴 하늘소이다. 몸은 전체적으로 황적색 내지 갈색이고, 더듬이는 흑색이다. 딱지날개는 양옆으로 갈수록 검은 연기처럼 보이는 어두운 색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[베트남]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0281-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0281_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0281_1_th.jpg",
+      "alt": "홀쭉사과하늘소 1번째 사진 : 홀쭉사과하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0281_1_th2.jpg",
+      "caption": "홀쭉사과하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0281-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408041090",
+      "description": "[MPME0408041090] 홀쭉사과하늘소 2002.06.30 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408041091",
+      "description": "[MPME0408041091] 홀쭉사과하늘소 2002.06.30 / / 목포자연사박물관"
+    },
+    {
+      "id": "ADUE0303201033",
+      "description": "[ADUE0303201033] 홀쭉사과하늘소 1996.06.28 / / 안동대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "쉬나무",
+      "scientific_name": "Tetradium daniellii (Benn.) T.G.Hartley"
+    },
+    {
+      "group": "식물",
+      "name_ko": "황벽나무",
+      "scientific_name": "Phellodendron amurense Rupr."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0281-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0281&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:24+00:00",
+    "html_sha256": "3475c8f4b437e19d864eb709da260bfa94039383d9f62805fd0866618b70cb9d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

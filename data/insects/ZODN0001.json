@@ -1,0 +1,99 @@
+{
+  "id": "ZODN0001",
+  "name_ko": "바가지촉각풍뎅이",
+  "scientific_name": "Phaeochrous emarginatus Laporte, 1840",
+  "display_name": "바가지촉각풍뎅이",
+  "family_ko": "바가지촉각풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "바가지촉각풍뎅이과",
+      "name_latin": "Hybosoridae"
+    },
+    "subfamily": {
+      "name_ko": "바가지촉각풍뎅이아과",
+      "name_latin": "Hybosorinae"
+    },
+    "genus": {
+      "name_ko": "바가지촉각풍뎅이속",
+      "name_latin": "Phaeochrous"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 바가지촉각풍뎅이과 (Hybosoridae)\n아과 : 바가지촉각풍뎅이아과 (Hybosorinae)\n속 : 바가지촉각풍뎅이속 (Phaeochrous)",
+  "basic_information": {
+    "곤충명": "바가지촉각풍뎅이",
+    "학명": "Phaeochrous emarginatus Laporte, 1840"
+  },
+  "information": {
+    "general_description": "중국, 티벳, 동양구의 대부분, 호주에 분포하며 흑갈색으로 약한 광택이 있다. 머리의 점각은 불규칙한데 양쪽에 더 많으며, 윗입술은 앞으로 돌출하였고 그 앞쪽에는 긴 강모열이 있다. 딱지날개의 가장자리에는 테두리가 있고, 황색 내지 적색의 긴 털이 났으며 조구는 16~18개인데 제 5,9,13간실은 다른 간실보다 높고 점각의 분포도 다르다. BL:8~13.7mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중국, 티벳, 동양구의 대부분, 호주에 분포하며 흑갈색으로 약한 광택이 있다. 머리의 점각은 불규칙한데 양쪽에 더 많으며, 윗입술은 앞으로 돌출하였고 그 앞쪽에는 긴 강모열이 있다. 딱지날개의 가장자리에는 테두리가 있고, 황색 내지 적색의 긴 털이 났으며 조구는 16~18개인데 제 5,9,13간실은 다른 간실보다 높고 점각의 분포도 다르다. BL:8~13.7mm."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZODN0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODN0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODN0001_1_th.jpg",
+      "alt": "바가지촉각풍뎅이 1번째 사진 : 바가지촉각풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODN0001_1_th2.jpg",
+      "caption": "바가지촉각풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZODN0001-1",
+  "specimen_examples": [
+    {
+      "id": "SSUE0301141101",
+      "description": "[SSUE0301141101] 바가지촉각풍뎅이 1999.08.06 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0301141102",
+      "description": "[SSUE0301141102] 바가지촉각풍뎅이 1990.07.16 / / 성신여자대학교"
+    },
+    {
+      "id": "KPNE0910102156",
+      "description": "[KPNE0910102156] 바가지촉각풍뎅이 1984.08.12 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZODN0001-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZODN0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:00+00:00",
+    "html_sha256": "5a1c20b6746c12a46fb3a0e203ef5ac3cdb0a902a910baa0f1dd282428b1b297",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

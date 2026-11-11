@@ -1,0 +1,132 @@
+{
+  "id": "ZOBT0013",
+  "name_ko": "남경잎벌레",
+  "scientific_name": "Temnaspis nankinea Pic, 1914",
+  "display_name": "남경잎벌레",
+  "family_ko": "수중다리잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "수중다리잎벌레과",
+      "name_latin": "Megalopodidae"
+    },
+    "subfamily": {
+      "name_ko": "수중다리잎벌레아과",
+      "name_latin": "Megalopodinae"
+    },
+    "genus": {
+      "name_ko": "가시수중다리잎벌레속",
+      "name_latin": "Temnaspis"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 수중다리잎벌레과 (Megalopodidae)\n아과 : 수중다리잎벌레아과 (Megalopodinae)\n속 : 가시수중다리잎벌레속 (Temnaspis)",
+  "basic_information": {
+    "곤충명": "남경잎벌레",
+    "학명": "Temnaspis nankinea Pic, 1914"
+  },
+  "information": {
+    "general_description": "몸길이가 7.0~9.0mm, 앞가슴등판에는 검은색을 가지며 옆판에는 조그만 돌기가 있고 날개에는 연한 갈색 다리는 뒷넓적 다리에 돌기 3개가 있고 종아리부분이 많이 휘어있다. 한국(북부,중부), 중국(북부,중부)에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "기주식물 물푸레나무.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이가 7.0~9.0mm, 앞가슴등판에는 검은색을 가지며 옆판에는 조그만 돌기가 있고 날개에는 연한 갈색 다리는 뒷넓적 다리에 돌기 3개가 있고 종아리부분이 많이 휘어있다. 한국(북부,중부), 중국(북부,중부)에 분포되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "기주식물 물푸레나무."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0013-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0013_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0013_2_th.jpg",
+      "alt": "남경잎벌레 1번째 사진 : 남경잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0013_2_th2.jpg",
+      "caption": "남경잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBT0013-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0013_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0013_1_th.jpg",
+      "alt": "남경잎벌레 2번째 사진 : 남경잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0013_1_th2.jpg",
+      "caption": "남경잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0013-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0307161261",
+      "description": "[KUIE0307161261] 남경잎벌레 1974.05.26 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307161262",
+      "description": "[KUIE0307161262] 남경잎벌레 1974.06.23 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307161263",
+      "description": "[KUIE0307161263] 남경잎벌레 1987.05.10 / / 고려대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "물푸레나무",
+      "scientific_name": "Fraxinus rhynchophylla Hance"
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBT0013.png",
+    "reference_image_id": "ZOBT0013-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T16:19:52.387857+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "4459e79d9dc153f75fe4290085f7011f957918d2a693290bd1477b4f7f85f79e"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0013&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:19+00:00",
+    "html_sha256": "07aa87aa110145332601561b1a61d60195293b7cb989bbcf9ab9ea4d6133c089",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

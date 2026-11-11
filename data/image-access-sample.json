@@ -1,0 +1,97 @@
+{
+  "checked_at": "2026-11-04T14:26:49.007344+00:00",
+  "sample_count": 11,
+  "all_passed": true,
+  "scope": "Representative original photo for 10 evenly spaced records plus records without Korean names; not all photo URLs",
+  "results": [
+    {
+      "id": "ZMAJ0111",
+      "url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAJ0111_1.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "image_signature_valid": true,
+      "passed": true
+    },
+    {
+      "id": "ZMAJ0084",
+      "url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAJ0084_1.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "image_signature_valid": true,
+      "passed": true
+    },
+    {
+      "id": "ZOAR0044",
+      "url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0044_1.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "image_signature_valid": true,
+      "passed": true
+    },
+    {
+      "id": "ZREP0020",
+      "url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZREP0020_3.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "image_signature_valid": true,
+      "passed": true
+    },
+    {
+      "id": "ZOEJ0016",
+      "url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0016_1.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "image_signature_valid": true,
+      "passed": true
+    },
+    {
+      "id": "ZOBH0442",
+      "url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0442_1.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "image_signature_valid": true,
+      "passed": true
+    },
+    {
+      "id": "ZOEC0003",
+      "url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOEC0003_3.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "image_signature_valid": true,
+      "passed": true
+    },
+    {
+      "id": "ZOBH0244",
+      "url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0244_2.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "image_signature_valid": true,
+      "passed": true
+    },
+    {
+      "id": "ZREL0246",
+      "url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0246_7.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "image_signature_valid": true,
+      "passed": true
+    },
+    {
+      "id": "ZTDK0008",
+      "url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0008_1.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "image_signature_valid": true,
+      "passed": true
+    },
+    {
+      "id": "ZLBX0028",
+      "url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0028_2.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "image_signature_valid": true,
+      "passed": true
+    }
+  ],
+  "request_count": 12
+}

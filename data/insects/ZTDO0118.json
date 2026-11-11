@@ -1,0 +1,114 @@
+{
+  "id": "ZTDO0118",
+  "name_ko": "날개무늬잎벌",
+  "scientific_name": "Tenthredo providens F. Smith, 1874",
+  "display_name": "날개무늬잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "잎벌아과",
+      "name_latin": "Tenthredininae"
+    },
+    "genus": {
+      "name_ko": "잎벌속",
+      "name_latin": "Tenthredo"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 잎벌아과 (Tenthredininae)\n속 : 잎벌속 (Tenthredo)",
+  "basic_information": {
+    "곤충명": "날개무늬잎벌",
+    "학명": "Tenthredo providens F. Smith, 1874"
+  },
+  "information": {
+    "general_description": "암컷의 몸은 흑색이다. 큰턱의 끝부분을 제외한 대부분이 황색이다. 더듬이는 흑갈색이고 기부의 3마디는 황갈색이다. 날개는 황색이고 투명하며 앞날개의 연문의 겉쪽은 암갈색, 연문은 황갈색이며, 그 밖의 맥은 암갈색이고, 다리는 황색이다. 밑마디와 뒷다리의 넓적다리의 끝 반은 흑색이다. 머리는 점각이 얕고 성기며 광택이 다소 강하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷의 몸은 흑색이다. 큰턱의 끝부분을 제외한 대부분이 황색이다. 더듬이는 흑갈색이고 기부의 3마디는 황갈색이다. 날개는 황색이고 투명하며 앞날개의 연문의 겉쪽은 암갈색, 연문은 황갈색이며, 그 밖의 맥은 암갈색이고, 다리는 황색이다. 밑마디와 뒷다리의 넓적다리의 끝 반은 흑색이다. 머리는 점각이 얕고 성기며 광택이 다소 강하다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0118-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0118_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0118_2_th.jpg",
+      "alt": "날개무늬잎벌 1번째 사진 : 날개무늬잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0118_2_th2.jpg",
+      "caption": "날개무늬잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTDO0118-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0118_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0118_1_th.jpg",
+      "alt": "날개무늬잎벌 2번째 사진 : 날개무늬잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0118_1_th2.jpg",
+      "caption": "날개무늬잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0118-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0301046160",
+      "description": "[YNUE0301046160] 날개무늬잎벌 1993.05.26 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301046161",
+      "description": "[YNUE0301046161] 날개무늬잎벌 1993.05.26 / / 영남대학교"
+    },
+    {
+      "id": "KNAE0303241029",
+      "description": "[KNAE0303241029] 날개무늬잎벌 1992.09.01 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTDO0118.png",
+    "reference_image_id": "ZTDO0118-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T16:06:36.016099+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "535bd89e4d7afb1846be80588d40ed81dc964f54d5b30ee67bc64b606a1cc7dd"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0118&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:16+00:00",
+    "html_sha256": "47c41233ce9ac6f9f134be80617becef6c2155d07c18a9464160d807401e12e1",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

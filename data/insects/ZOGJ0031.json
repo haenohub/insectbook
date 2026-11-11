@@ -1,0 +1,99 @@
+{
+  "id": "ZOGJ0031",
+  "name_ko": "보기드믄소똥풍뎅이",
+  "scientific_name": "Onthophagus (Altonthophagus) uniformis Heyden, 1886",
+  "display_name": "보기드믄소똥풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "소똥구리아과",
+      "name_latin": "Scarabaeinae"
+    },
+    "genus": {
+      "name_ko": "소똥풍뎅이속",
+      "name_latin": "Onthophagus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 소똥구리아과 (Scarabaeinae)\n속 : 소똥풍뎅이속 (Onthophagus)",
+  "basic_information": {
+    "곤충명": "보기드믄소똥풍뎅이",
+    "학명": "Onthophagus (Altonthophagus) uniformis Heyden, 1886"
+  },
+  "information": {
+    "general_description": "만주, 시베리아 동남부에 분포하며 광택이 있는 흑색. 수컷의 이마융기는 중아이 S자형으로 굽은 뿔모양이나 이마융기는 없고 암컷은 이마융기가 뚜렷하며, 두정융기도 명확한데 윗면이 늘어나서 치사 또는 삼각뿔 모양이다. 전흉배판 점각은 드물지만 명확하고 뒤쪽으로 열렸다. BL:8~11.5mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "만주, 시베리아 동남부에 분포하며 광택이 있는 흑색. 수컷의 이마융기는 중아이 S자형으로 굽은 뿔모양이나 이마융기는 없고 암컷은 이마융기가 뚜렷하며, 두정융기도 명확한데 윗면이 늘어나서 치사 또는 삼각뿔 모양이다. 전흉배판 점각은 드물지만 명확하고 뒤쪽으로 열렸다. BL:8~11.5mm."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGJ0031-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0031_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0031_1_th.jpg",
+      "alt": "보기드믄소똥풍뎅이 1번째 사진 : 보기드믄소똥풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0031_1_th2.jpg",
+      "caption": "보기드믄소똥풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGJ0031-1",
+  "specimen_examples": [
+    {
+      "id": "SSUE0301281061",
+      "description": "[SSUE0301281061] 보기드믄소똥풍뎅이 1981.07.21 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0301281062",
+      "description": "[SSUE0301281062] 보기드믄소똥풍뎅이 1985.06.29 / / 성신여자대학교"
+    },
+    {
+      "id": "KPNE1007023186",
+      "description": "[KPNE1007023186] 보기드믄소똥풍뎅이 2008.06.17 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGJ0031-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGJ0031&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:05+00:00",
+    "html_sha256": "9740a34ae802a1f0a7935352f340ce2d825d4906bbfc7e7b2d2817eb7c63331f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

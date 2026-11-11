@@ -1,0 +1,103 @@
+{
+  "id": "ZRER0001",
+  "name_ko": "두점애기비단나방",
+  "scientific_name": "Scythris sinensis (Felder & Rogenhofer, 1875)",
+  "display_name": "두점애기비단나방",
+  "family_ko": "",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "뿔나방상과",
+      "name_latin": "Gelechioidea"
+    },
+    "family": {
+      "name_ko": "",
+      "name_latin": "Scythrididae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Scythris"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 뿔나방상과 (Gelechioidea)\n과 : (Scythrididae)\n속 : (Scythris)",
+  "basic_information": {
+    "곤충명": "두점애기비단나방",
+    "학명": "Scythris sinensis (Felder & Rogenhofer, 1875)"
+  },
+  "information": {
+    "general_description": "머리의 털은 매끈하게 잘 빗겨져 있고 흑자색의 약한 광택이 남. 겹눈은 크고 밖으로 약간 돌출되어 있음. 아랫입술수염은 보통이고, 제 3마디는 가늘고 뾰족하며 다소 위로 향함. 더듬이는 톱니 모양이며, 기부의 제 1마디는 특히 굵음. 뒷다리의 종아리마디에는 긴털이 빽빽이 나 있음. 배의 아랫부분인 암컷의 경우 제 4마디까지가 흑색이고 그 이하의 마디는 짙은 오렌지색인 반면에 수컷은 제 4마디이하부터의 각 마디마다 가로로 흑색띠가 뚜렷이 보이며 양쪽 면은 짙은 오렌지색임.",
+    "adult": null,
+    "adult_male": "파악판 기부는 넓고 세모꼴을 이루나 점점 좁아져 끝부분까지 가늘어져 있으며 그 끝은 둥들며, 삽입기는 가늘고 구부러졌으며 그 기부는 약간 굵다.",
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "머리의 털은 매끈하게 잘 빗겨져 있고 흑자색의 약한 광택이 남. 겹눈은 크고 밖으로 약간 돌출되어 있음. 아랫입술수염은 보통이고, 제 3마디는 가늘고 뾰족하며 다소 위로 향함. 더듬이는 톱니 모양이며, 기부의 제 1마디는 특히 굵음. 뒷다리의 종아리마디에는 긴털이 빽빽이 나 있음. 배의 아랫부분인 암컷의 경우 제 4마디까지가 흑색이고 그 이하의 마디는 짙은 오렌지색인 반면에 수컷은 제 4마디이하부터의 각 마디마다 가로로 흑색띠가 뚜렷이 보이며 양쪽 면은 짙은 오렌지색임."
+    },
+    {
+      "title": "성충(수)",
+      "text": "파악판 기부는 넓고 세모꼴을 이루나 점점 좁아져 끝부분까지 가늘어져 있으며 그 끝은 둥들며, 삽입기는 가늘고 구부러졌으며 그 기부는 약간 굵다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRER0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRER0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRER0001_1_th.jpg",
+      "alt": "두점애기비단나방 1번째 사진 : 두점애기비단나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRER0001_1_th2.jpg",
+      "caption": "두점애기비단나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRER0001-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0407161079",
+      "description": "[UIBE0407161079] 두점애기비단나방 1996.09.03 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0407161080",
+      "description": "[UIBE0407161080] 두점애기비단나방 1996.07.07 / / 인천대학교"
+    },
+    {
+      "id": "KNAE0604030093",
+      "description": "[KNAE0604030093] 두점애기비단나방 2005.04.30 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRER0001-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRER0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:44+00:00",
+    "html_sha256": "32fb0ee3f9a7d03479bad752ec9e7f17ab260b24ff10dd174d10aeb61d3cbad6",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

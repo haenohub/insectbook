@@ -1,0 +1,158 @@
+{
+  "id": "ZRDG0065",
+  "name_ko": "먹부전나비",
+  "scientific_name": "Tongeia fischeri (Eversmann, 1843)",
+  "display_name": "먹부전나비",
+  "family_ko": "부전나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "부전나비과",
+      "name_latin": "Lycaenidae"
+    },
+    "subfamily": {
+      "name_ko": "부전나비아과",
+      "name_latin": "Polyommatinae"
+    },
+    "genus": {
+      "name_ko": "먹부전나비속",
+      "name_latin": "Tongeia"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 부전나비과 (Lycaenidae)\n아과 : 부전나비아과 (Polyommatinae)\n속 : 먹부전나비속 (Tongeia)",
+  "basic_information": {
+    "곤충명": "먹부전나비",
+    "학명": "Tongeia fischeri (Eversmann, 1843)"
+  },
+  "information": {
+    "general_description": "암먹부전나비의 암컷과 비슷하나 날개 아랫면의 바탕색이 갈색을 띠고 어두우며 흑점이 전반적으로 크고 미상돌기가 짧으며 뒷날개 내연각의 주황색 무늬가 작다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": "암수 모두 비슷하나 암컷은 날개 모양이 다소 둥글고 날개 아랫면의 검정색 무늬도 발달하나 배끝을 조사하는 것이 확실하다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "풀이 별로 없는 계곡이나 길가, 제방 둑, 해안 모래밭 등지에 서식한다. 활발하게 날아다니나 서식지를 그다지 멀리 벗어나는 일은 드물다. 암수 모두 개망초, 냉이, 토끼풀 등의 꽃에서 흡밀하며 풀이나 바위 위에서 날개를 반쯤 펴고 앉아 쉬는 일이 많다. 수컷은 습지에서 흡수하는 모습을 흔히 볼 수 있다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]\n[몽골]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암먹부전나비의 암컷과 비슷하나 날개 아랫면의 바탕색이 갈색을 띠고 어두우며 흑점이 전반적으로 크고 미상돌기가 짧으며 뒷날개 내연각의 주황색 무늬가 작다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "암수 모두 비슷하나 암컷은 날개 모양이 다소 둥글고 날개 아랫면의 검정색 무늬도 발달하나 배끝을 조사하는 것이 확실하다."
+    },
+    {
+      "title": "습성",
+      "text": "풀이 별로 없는 계곡이나 길가, 제방 둑, 해안 모래밭 등지에 서식한다. 활발하게 날아다니나 서식지를 그다지 멀리 벗어나는 일은 드물다. 암수 모두 개망초, 냉이, 토끼풀 등의 꽃에서 흡밀하며 풀이나 바위 위에서 날개를 반쯤 펴고 앉아 쉬는 일이 많다. 수컷은 습지에서 흡수하는 모습을 흔히 볼 수 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]\n[몽골]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDG0065-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDG0065_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDG0065_3.jpg",
+      "alt": "먹부전나비 1번째 사진 : 먹부전나비 수컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDG0065_3_th2.jpg",
+      "caption": "먹부전나비 수컷 이미지",
+      "photographed_at": "20191010",
+      "location": "경기도 포천시 소흘읍 광릉숲",
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRDG0065-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0065_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0065_2_th.jpg",
+      "alt": "먹부전나비 2번째 사진 : 먹부전나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0065_2_th2.jpg",
+      "caption": "먹부전나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDG0065-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0065_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0065_1_th.jpg",
+      "alt": "먹부전나비 3번째 사진 : 먹부전나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0065_1_th2.jpg",
+      "caption": "먹부전나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDG0065-1",
+  "specimen_examples": [
+    {
+      "id": "MPNE0408101427",
+      "description": "[MPNE0408101427] 먹부전나비 2004.05.23 / / 목포 대학교 환경연구소"
+    },
+    {
+      "id": "FRIE0305291107",
+      "description": "[FRIE0305291107] 먹부전나비 1987.09.26 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0302042011",
+      "description": "[KNAE0302042011] 먹부전나비 1994.06.22 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "돌나물",
+      "scientific_name": "Sedum sarmentosum Bunge"
+    },
+    {
+      "group": "식물",
+      "name_ko": "둥근바위솔",
+      "scientific_name": "Orostachys malacophylla (Pall.) Fisch."
+    },
+    {
+      "group": "식물",
+      "name_ko": "땅채송화",
+      "scientific_name": "Sedum oryzifolium Makino"
+    },
+    {
+      "group": "식물",
+      "name_ko": "바위채송화",
+      "scientific_name": "Sedum polytrichoides Hemsl."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDG0065-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDG0065&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:01+00:00",
+    "html_sha256": "a171473130753fa0511a6138dd4b0d55df90c06ee0fe49d9f2b6018e11dda44e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

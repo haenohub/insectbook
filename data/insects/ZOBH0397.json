@@ -1,0 +1,106 @@
+{
+  "id": "ZOBH0397",
+  "name_ko": "풀색먼지벌레",
+  "scientific_name": "Chlaenius (Chlaenius) pallipes (Gebler, 1823)",
+  "display_name": "풀색먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "먼지벌레아과",
+      "name_latin": "Harpalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Chlaenius"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 먼지벌레아과 (Harpalinae)\n속 : (Chlaenius)",
+  "basic_information": {
+    "곤충명": "풀색먼지벌레",
+    "학명": "Chlaenius (Chlaenius) pallipes (Gebler, 1823)"
+  },
+  "information": {
+    "general_description": "몸길이는 14내외이며 몸 전체에 짧은 털이있다. 몸색깔은 녹색이나는 광택이며 머리와 앞가슴등판은 붉은 구릿빛을 띤다. 딱지날개는 매우 빽빽한 알맹이 모양과 황갈색 털로 덮여 광택이 없다. 더듬이,수염,다리는 황갈색 내지 적갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 14내외이며 몸 전체에 짧은 털이있다. 몸색깔은 녹색이나는 광택이며 머리와 앞가슴등판은 붉은 구릿빛을 띤다. 딱지날개는 매우 빽빽한 알맹이 모양과 황갈색 털로 덮여 광택이 없다. 더듬이,수염,다리는 황갈색 내지 적갈색이다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0397-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0397_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0397_2_th.jpg",
+      "alt": "풀색먼지벌레 1번째 사진 : 풀색먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0397_2_th2.jpg",
+      "caption": "풀색먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0397-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0397_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0397_1_th.jpg",
+      "alt": "풀색먼지벌레 2번째 사진 : 풀색먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0397_1_th2.jpg",
+      "caption": "풀색먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0397-1",
+  "specimen_examples": [
+    {
+      "id": "SJNE0408181070",
+      "description": "[SJNE0408181070] 풀색먼지벌레 2001.08.14 / / 상주대학교"
+    },
+    {
+      "id": "MPME0408201076",
+      "description": "[MPME0408201076] 풀색먼지벌레 1999.06.15 / / 목포자연사박물관"
+    },
+    {
+      "id": "KNAE0304031002",
+      "description": "[KNAE0304031002] 풀색먼지벌레 1991.06.01 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0397-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0397&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:52+00:00",
+    "html_sha256": "fd77c1abe20212a641993127416481cd9f707327c2269e62184bbcbd8544b608",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

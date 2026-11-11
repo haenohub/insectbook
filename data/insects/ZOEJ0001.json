@@ -1,0 +1,114 @@
+{
+  "id": "ZOEJ0001",
+  "name_ko": "주황긴다리풍뎅이",
+  "scientific_name": "Ectinohoplia rufipes (Motschulsky, 1860)",
+  "display_name": "주황긴다리풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "검정풍뎅이아과",
+      "name_latin": "Melolonthinae"
+    },
+    "genus": {
+      "name_ko": "주황긴다리풍뎅이속",
+      "name_latin": "Ectinohoplia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 검정풍뎅이아과 (Melolonthinae)\n속 : 주황긴다리풍뎅이속 (Ectinohoplia)",
+  "basic_information": {
+    "곤충명": "주황긴다리풍뎅이",
+    "학명": "Ectinohoplia rufipes (Motschulsky, 1860)"
+  },
+  "information": {
+    "general_description": "중국, 시베리아, 사할린, 일본에 분포하며, 몸은 짧고 넓으며, 암갈색 내지 흑갈색이나 비늘이 조밀하게 덮였다. 복면의 비늘은 황녹색이나, 등쪽의 비늘은 갈색과 연한 황갈색이며 전체적으로 균일하게 덮여있다. 대개는 암적갈색 비늘이 바탕을 이루고 밝은 녹색 비늘이 분포하여 가슴의 둘레와 중간의 일부분, 딱지날개에서 1-2쌍의 꺽인 무늬를 형성하며, 가슴과 날개의 가장자리는 밝은 녹색 비늘로 덮인 개체도 있다. 퇴절과 경절은 가늘고 길며, 발톱은 심하게 굽지 않았고, 끝은 뾰족하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중국, 시베리아, 사할린, 일본에 분포하며, 몸은 짧고 넓으며, 암갈색 내지 흑갈색이나 비늘이 조밀하게 덮였다. 복면의 비늘은 황녹색이나, 등쪽의 비늘은 갈색과 연한 황갈색이며 전체적으로 균일하게 덮여있다. 대개는 암적갈색 비늘이 바탕을 이루고 밝은 녹색 비늘이 분포하여 가슴의 둘레와 중간의 일부분, 딱지날개에서 1-2쌍의 꺽인 무늬를 형성하며, 가슴과 날개의 가장자리는 밝은 녹색 비늘로 덮인 개체도 있다. 퇴절과 경절은 가늘고 길며, 발톱은 심하게 굽지 않았고, 끝은 뾰족하다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOEJ0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0001_1_th.jpg",
+      "alt": "주황긴다리풍뎅이 1번째 사진 : 주황긴다리풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0001_1_th2.jpg",
+      "caption": "주황긴다리풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOEJ0001-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408201058",
+      "description": "[MPME0408201058] 주황긴다리풍뎅이 1997.05.23 / / 목포자연사박물관"
+    },
+    {
+      "id": "JFNE0408171001",
+      "description": "[JFNE0408171001] 주황긴다리풍뎅이 1977.07.01 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0408171002",
+      "description": "[JFNE0408171002] 주황긴다리풍뎅이 1977.07.02 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "물푸레나무",
+      "scientific_name": "Fraxinus rhynchophylla Hance"
+    },
+    {
+      "group": "식물",
+      "name_ko": "사시나무",
+      "scientific_name": "Populus tremula var. davidiana (Dode) C.K.Schneid."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOEJ0001-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOEJ0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:01+00:00",
+    "html_sha256": "fd993ea8ba00534258b17c7cd8490f94b2ed9c0a490128cfb13d6449057beb31",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "id": "ZRDS0588",
+  "name_ko": "무늬뒷노랑나방",
+  "scientific_name": "Chrysorithrum flavomaculatum (Bremer, 1861)",
+  "display_name": "무늬뒷노랑나방",
+  "family_ko": "태극나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "태극나방과",
+      "name_latin": "Erebidae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Toxocampinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Chrysorithrum"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 태극나방과 (Erebidae)\n아과 : (Toxocampinae)\n속 : (Chrysorithrum)",
+  "basic_information": {
+    "곤충명": "무늬뒷노랑나방",
+    "학명": "Chrysorithrum flavomaculatum (Bremer, 1861)"
+  },
+  "information": {
+    "general_description": "사랑밤나방과는 비슷한 편이나 크기가 약간 작고 날개의 무늬에 다소 차이가 있음. 이 내횡선의 안쪽에는 농암갈색의 무늬가 있으며, 중실의 중앙에는 흑색 점이 나타나 있음. 중앙에는 경사져서 거의 직선상으로 된 경계부가 있는데 바깥쪽으로 아외연부까지는 암갈색 무늬가 나타남. 뒷날개는 회갈색 바탕으로 중앙에 등황색의 넓은 띠 무늬가 있는데, 이 무늬의 둘레는 굴곡되지 않은 단조로운 무늬가 나타남.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6~8월경에 출현됨.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[러시아]\n[일본]\n[몽골]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "사랑밤나방과는 비슷한 편이나 크기가 약간 작고 날개의 무늬에 다소 차이가 있음. 이 내횡선의 안쪽에는 농암갈색의 무늬가 있으며, 중실의 중앙에는 흑색 점이 나타나 있음. 중앙에는 경사져서 거의 직선상으로 된 경계부가 있는데 바깥쪽으로 아외연부까지는 암갈색 무늬가 나타남. 뒷날개는 회갈색 바탕으로 중앙에 등황색의 넓은 띠 무늬가 있는데, 이 무늬의 둘레는 굴곡되지 않은 단조로운 무늬가 나타남."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6~8월경에 출현됨."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[러시아]\n[일본]\n[몽골]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0588-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0588_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0588_2_th.jpg",
+      "alt": "무늬뒷노랑나방 1번째 사진 : 무늬뒷노랑나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0588_2_th2.jpg",
+      "caption": "무늬뒷노랑나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDS0588-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0588_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0588_1_th.jpg",
+      "alt": "무늬뒷노랑나방 2번째 사진 : 무늬뒷노랑나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0588_1_th2.jpg",
+      "caption": "무늬뒷노랑나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0588-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0302181088",
+      "description": "[KNAE0302181088] 무늬뒷노랑나방 1997.08.16 / / 국립수목원"
+    },
+    {
+      "id": "KNUE0212271922",
+      "description": "[KNUE0212271922] 무늬뒷노랑나방 1996.07.25 / / 강원대학교"
+    },
+    {
+      "id": "KNUE0212271924",
+      "description": "[KNUE0212271924] 무늬뒷노랑나방 1995.06.08 / / 강원대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDS0588-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0588&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:28+00:00",
+    "html_sha256": "e129f810adf2627bb0aeda3442a2a1a9365dd5cbedfbd392148d4614b3df18b3",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

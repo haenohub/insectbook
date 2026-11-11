@@ -1,0 +1,111 @@
+{
+  "id": "ZREL0007",
+  "name_ko": "애기산명나방",
+  "scientific_name": "Scoparia congestalis Walker, 1859",
+  "display_name": "애기산명나방",
+  "family_ko": "풀명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "풀명나방과",
+      "name_latin": "Crambidae"
+    },
+    "subfamily": {
+      "name_ko": "산명나방아과",
+      "name_latin": "Scopariinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Scoparia"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 풀명나방과 (Crambidae)\n아과 : 산명나방아과 (Scopariinae)\n속 : (Scoparia)",
+  "basic_information": {
+    "곤충명": "애기산명나방",
+    "학명": "Scoparia congestalis Walker, 1859"
+  },
+  "information": {
+    "general_description": "소형으로 날개는 아주 좁고, 앞날개의 외연은 심한 경사를 이룬다. 백색의 내횡선과 외횡선은 좁고 선명하며, 내횡선은 중앙에서 둥글게 구부러져 후연에 대해 거의 수직을 이루고, 외횡선은 중간에서 예리한 각을 이루며 구부러져 있다.",
+    "adult": null,
+    "adult_male": "생식기의 측구기는 아주 짧고, 삽입기에는 침 모양의 사정낭침이 없다.",
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "일본의 경우, 성충은 5~9월에 출현하는 것으로 알려져 있다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대한민국] 전북특별자치도\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "소형으로 날개는 아주 좁고, 앞날개의 외연은 심한 경사를 이룬다. 백색의 내횡선과 외횡선은 좁고 선명하며, 내횡선은 중앙에서 둥글게 구부러져 후연에 대해 거의 수직을 이루고, 외횡선은 중간에서 예리한 각을 이루며 구부러져 있다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "생식기의 측구기는 아주 짧고, 삽입기에는 침 모양의 사정낭침이 없다."
+    },
+    {
+      "title": "생태",
+      "text": "일본의 경우, 성충은 5~9월에 출현하는 것으로 알려져 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대한민국] 전북특별자치도\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0007-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0007_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0007_1_th.jpg",
+      "alt": "애기산명나방 1번째 사진 : 애기산명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0007_1_th2.jpg",
+      "caption": "애기산명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0007-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0302281046",
+      "description": "[UIBE0302281046] 애기산명나방 1998.08.25 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0302281048",
+      "description": "[UIBE0302281048] 애기산명나방 1998.08.14 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0302281049",
+      "description": "[UIBE0302281049] 애기산명나방 1999.05.23 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREL0007-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0007&tabId=tab1",
+    "collected_at": "2026-11-04T14:14:57+00:00",
+    "html_sha256": "66b53f5e1f9b63af3b5f895bdbedfa8363f518e004b176c3dc4964411eb8cf34",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

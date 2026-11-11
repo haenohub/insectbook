@@ -1,0 +1,118 @@
+{
+  "id": "ZSEM0113",
+  "name_ko": "배짧은꽃등에",
+  "scientific_name": "Eristalis cerealis Fabricius, 1805",
+  "display_name": "배짧은꽃등에",
+  "family_ko": "꽃등에과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "꽃등에상과",
+      "name_latin": "Syrphoidea"
+    },
+    "family": {
+      "name_ko": "꽃등에과",
+      "name_latin": "Syrphidae"
+    },
+    "subfamily": {
+      "name_ko": "순꽃등에아과",
+      "name_latin": "Eristalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Eristalis"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 꽃등에상과 (Syrphoidea)\n과 : 꽃등에과 (Syrphidae)\n아과 : 순꽃등에아과 (Eristalinae)\n속 : (Eristalis)",
+  "basic_information": {
+    "곤충명": "배짧은꽃등에",
+    "학명": "Eristalis cerealis Fabricius, 1805"
+  },
+  "information": {
+    "general_description": "몸길이는 12 mm 내외이다. 머리 중앙에 흑색 세로 줄이 뚜렷하나, 배는 흑색으로 제2마디에는 1쌍의 황갈색을 띤 삼각형 무늬가 있으며, 수컷에서 특히 뚜렷하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "주로 꽃이 핀 들판이나 숲에 많이 서식한다. 파리 특유의 끈적이는 주둥이로 식물의 수분을 도와 준다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[대만]\n[중국] 동북지방",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 12 mm 내외이다. 머리 중앙에 흑색 세로 줄이 뚜렷하나, 배는 흑색으로 제2마디에는 1쌍의 황갈색을 띤 삼각형 무늬가 있으며, 수컷에서 특히 뚜렷하다."
+    },
+    {
+      "title": "습성",
+      "text": "주로 꽃이 핀 들판이나 숲에 많이 서식한다. 파리 특유의 끈적이는 주둥이로 식물의 수분을 도와 준다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[대만]\n[중국] 동북지방"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSEM0113-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0113_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0113_2_th.jpg",
+      "alt": "배짧은꽃등에 1번째 사진 : 배짧은꽃등에전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0113_2_th2.jpg",
+      "caption": "배짧은꽃등에전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZSEM0113-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0113_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0113_1_th.jpg",
+      "alt": "배짧은꽃등에 2번째 사진 : 배짧은꽃등에전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0113_1_th2.jpg",
+      "caption": "배짧은꽃등에전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSEM0113-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0407261086",
+      "description": "[MPME0407261086] 배짧은꽃등에 2001.05.17 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0407261087",
+      "description": "[MPME0407261087] 배짧은꽃등에 2001.05.17 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0407261088",
+      "description": "[MPME0407261088] 배짧은꽃등에 2001.05.17 / / 목포자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZSEM0113-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSEM0113&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:30+00:00",
+    "html_sha256": "756d36336474fd34feff36af9235d8c463c4cff58a8fc079232faae133eb2581",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

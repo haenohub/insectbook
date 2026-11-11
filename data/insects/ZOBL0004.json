@@ -1,0 +1,176 @@
+{
+  "id": "ZOBL0004",
+  "name_ko": "버들하늘소",
+  "scientific_name": "Aegosoma sinicum sinicum White, 1853",
+  "display_name": "버들하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "톱하늘소아과",
+      "name_latin": "Prioninae"
+    },
+    "genus": {
+      "name_ko": "버들하늘소속",
+      "name_latin": "Aegosoma"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 톱하늘소아과 (Prioninae)\n속 : 버들하늘소속 (Aegosoma)",
+  "basic_information": {
+    "곤충명": "버들하늘소",
+    "학명": "Aegosoma sinicum sinicum White, 1853"
+  },
+  "information": {
+    "general_description": "몸길이는 30~55mm 이다. 몸색깔은 적갈색, 연한갈색, 흑갈색 등 변이가 많고 비교적 가늘고 긴 종류이다. 앞가슴등판은 앞쪽이 좁고 깔때기 모양이며, 딱지날개는 4개가 뚜렷한 세로 줄무늬가 있다. 암컷은 산란관이 길게 노출되어 끝이 뭉툭하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 30~55mm 이다. 몸색깔은 적갈색, 연한갈색, 흑갈색 등 변이가 많고 비교적 가늘고 긴 종류이다. 앞가슴등판은 앞쪽이 좁고 깔때기 모양이며, 딱지날개는 4개가 뚜렷한 세로 줄무늬가 있다. 암컷은 산란관이 길게 노출되어 끝이 뭉툭하다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0004-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0004_4.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0004_4.jpg",
+      "alt": "버들하늘소 1번째 사진 : ",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0004_4_th2.jpg",
+      "caption": null,
+      "photographed_at": "20130725",
+      "location": null,
+      "photographer": "국립수목원(임종옥)"
+    },
+    {
+      "id": "ZOBL0004-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0004_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0004_3.jpg",
+      "alt": "버들하늘소 2번째 사진 : ",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0004_3_th2.jpg",
+      "caption": null,
+      "photographed_at": null,
+      "location": null,
+      "photographer": "국립수목원(이승규)"
+    },
+    {
+      "id": "ZOBL0004-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0004_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0004_2_th.jpg",
+      "alt": "버들하늘소 3번째 사진 : 버들하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0004_2_th2.jpg",
+      "caption": "버들하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBL0004-4",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0004_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0004_1_th.jpg",
+      "alt": "버들하늘소 4번째 사진 : 버들하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0004_1_th2.jpg",
+      "caption": "버들하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0004-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0301272122",
+      "description": "[UIBE0301272122] 버들하늘소 1995.07.21 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301272123",
+      "description": "[UIBE0301272123] 버들하늘소 1988.09.20 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301272124",
+      "description": "[UIBE0301272124] 버들하늘소 1989.09.20 / / 인천대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "갈참나무",
+      "scientific_name": "Quercus aliena Blume"
+    },
+    {
+      "group": "식물",
+      "name_ko": "떡갈나무",
+      "scientific_name": "Quercus dentata Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "아까시나무",
+      "scientific_name": "Robinia pseudoacacia L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "양버들",
+      "scientific_name": "Populus nigra L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "오리나무",
+      "scientific_name": "Alnus japonica (Thunb.) Steud."
+    },
+    {
+      "group": "식물",
+      "name_ko": "참오동나무",
+      "scientific_name": "Paulownia tomentosa (Thunb.) Steud."
+    },
+    {
+      "group": "식물",
+      "name_ko": "황철나무",
+      "scientific_name": "Populus suaveolens Fisch. ex Poit. & A.Vilm."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0004-3"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0004&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:42+00:00",
+    "html_sha256": "7c4e3153dc8515933c8e4c59773722044c1544c568549de60f03017d57f94d6f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

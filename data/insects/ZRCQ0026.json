@@ -1,0 +1,122 @@
+{
+  "id": "ZRCQ0026",
+  "name_ko": "흰점팔랑나비",
+  "scientific_name": "Pyrgus maculatus (Bremer & Grey, 1853)",
+  "display_name": "흰점팔랑나비",
+  "family_ko": "팔랑나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "팔랑나비과",
+      "name_latin": "Hesperiidae"
+    },
+    "subfamily": {
+      "name_ko": "흰점팔랑나비아과",
+      "name_latin": "Pyrginae"
+    },
+    "genus": {
+      "name_ko": "흰점팔랑나비속",
+      "name_latin": "Pyrgus"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 팔랑나비과 (Hesperiidae)\n아과 : 흰점팔랑나비아과 (Pyrginae)\n속 : 흰점팔랑나비속 (Pyrgus)",
+  "basic_information": {
+    "곤충명": "흰점팔랑나비",
+    "학명": "Pyrgus maculatus (Bremer & Grey, 1853)"
+  },
+  "information": {
+    "general_description": "수컷은 앞날개 전연의 기반부가 위로 젖혀져 있어 위에서 보면 갈색 선으로 보이므로 암컷과 쉽게 구별된다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "비교적 넓은 초지에 서식하며 꼬마흰점팔랑나비와 같은 장소에 서식하는 경우가 많다. 제 1화 개체들은 꼬마흰점팔랑나비보다 일주일 가량 출현시기가 늦다. 솜방망이, 민들레, 양지꽃 등의 꽃에서 흡밀하며 가끔 습지에 모여 흡수하는 경우가 있다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]\n[미얀마]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "수컷은 앞날개 전연의 기반부가 위로 젖혀져 있어 위에서 보면 갈색 선으로 보이므로 암컷과 쉽게 구별된다."
+    },
+    {
+      "title": "습성",
+      "text": "비교적 넓은 초지에 서식하며 꼬마흰점팔랑나비와 같은 장소에 서식하는 경우가 많다. 제 1화 개체들은 꼬마흰점팔랑나비보다 일주일 가량 출현시기가 늦다. 솜방망이, 민들레, 양지꽃 등의 꽃에서 흡밀하며 가끔 습지에 모여 흡수하는 경우가 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]\n[미얀마]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCQ0026-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0026_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0026_2_th.jpg",
+      "alt": "흰점팔랑나비 1번째 사진 : 흰점팔랑나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0026_2_th2.jpg",
+      "caption": "흰점팔랑나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCQ0026-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0026_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0026_1_th.jpg",
+      "alt": "흰점팔랑나비 2번째 사진 : 흰점팔랑나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0026_1_th2.jpg",
+      "caption": "흰점팔랑나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCQ0026-1",
+  "specimen_examples": [
+    {
+      "id": "ADUE0305091078",
+      "description": "[ADUE0305091078] 흰점팔랑나비 2002.04.16 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0305091079",
+      "description": "[ADUE0305091079] 흰점팔랑나비 2002.04.20 / / 안동대학교"
+    },
+    {
+      "id": "JFNE0304051014",
+      "description": "[JFNE0304051014] 흰점팔랑나비 2000.06.27 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCQ0026-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCQ0026&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:49+00:00",
+    "html_sha256": "e95ab7e486917309d1b0c9c421918618439cac580ee2bf755b298ef59ea73ae6",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "ZEBA0014",
+  "name_ko": "여치베짱이",
+  "scientific_name": "Pseudorhynchus japonicus Shiraki, 1930",
+  "display_name": "여치베짱이",
+  "family_ko": "여치과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "메뚜기목",
+      "name_latin": "Orthoptera"
+    },
+    "family": {
+      "name_ko": "여치과",
+      "name_latin": "Tettigoniidae"
+    },
+    "subfamily": {
+      "name_ko": "쌕쌔기아과",
+      "name_latin": "Conocephalinae"
+    },
+    "genus": {
+      "name_ko": "여치배짱이속",
+      "name_latin": "Pseudorhynchus"
+    }
+  },
+  "taxonomy_text": "목 : 메뚜기목 (Orthoptera)\n과 : 여치과 (Tettigoniidae)\n아과 : 쌕쌔기아과 (Conocephalinae)\n속 : 여치배짱이속 (Pseudorhynchus)",
+  "basic_information": {
+    "곤충명": "여치베짱이",
+    "학명": "Pseudorhynchus japonicus Shiraki, 1930"
+  },
+  "information": {
+    "general_description": "몸길이 64mm내외이며 연한 청색이고 머리꼭대기돌기는 수평으로 돌출하였고 아랫면은 세로로 융기하였으며 앞쪽은 비스듬히 절단되었고 그 기부에 작은 돌기가 있다. 앞이마돌기는 분명치 않고 1개의 횡구로써 머리꼭대기와 분리되었다. 촉각의 아랫면은 흑색이고 앞가슴은 뒷쪽일수록 폭이 넓고 앞가두리는 직선으로 되고 담황색이고 뒷가두리는 뒷쪽으로 구부러졌다. 횡구는 3개인데 제 1의 것은 직선이고 제 2의 것은 V자형인데 중앙에 위치하고 제 3의 것은 뒷가두리와 평행하다. 버금생식판은 짧고 크며 뒷가두리는 삼각형을 안쪽으로 절단되었고 미모 모양의 부속기는 짧고 작다. 중앙에 짧은 종융기선이 있는데 옆쪽에는 없다. 미모는 굵고 짧으며 말단 안쪽에 직각으로 향한 1개의 가시가 있고 안쪽에는 깊은 종구가 있으며 밑등 위에 직가으로 된 가늘고 긴 1개의 돌기가 있다. 뒷허벅마디는 짧고 가늘며 앞날개의 발음부는 크다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 64mm내외이며 연한 청색이고 머리꼭대기돌기는 수평으로 돌출하였고 아랫면은 세로로 융기하였으며 앞쪽은 비스듬히 절단되었고 그 기부에 작은 돌기가 있다. 앞이마돌기는 분명치 않고 1개의 횡구로써 머리꼭대기와 분리되었다. 촉각의 아랫면은 흑색이고 앞가슴은 뒷쪽일수록 폭이 넓고 앞가두리는 직선으로 되고 담황색이고 뒷가두리는 뒷쪽으로 구부러졌다. 횡구는 3개인데 제 1의 것은 직선이고 제 2의 것은 V자형인데 중앙에 위치하고 제 3의 것은 뒷가두리와 평행하다. 버금생식판은 짧고 크며 뒷가두리는 삼각형을 안쪽으로 절단되었고 미모 모양의 부속기는 짧고 작다. 중앙에 짧은 종융기선이 있는데 옆쪽에는 없다. 미모는 굵고 짧으며 말단 안쪽에 직각으로 향한 1개의 가시가 있고 안쪽에는 깊은 종구가 있으며 밑등 위에 직가으로 된 가늘고 긴 1개의 돌기가 있다. 뒷허벅마디는 짧고 가늘며 앞날개의 발음부는 크다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZEBA0014-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0014_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0014_1_th.jpg",
+      "alt": "여치베짱이 1번째 사진 : 여치베짱이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0014_1_th2.jpg",
+      "caption": "여치베짱이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZEBA0014-1",
+  "specimen_examples": [
+    {
+      "id": "JFNE0202051101",
+      "description": "[JFNE0202051101] 여치베짱이 1992.07.15 / / 제주자연사박물관"
+    },
+    {
+      "id": "DJUE0912022209",
+      "description": "[DJUE0912022209] 여치베짱이 1993.09.27 / / 대전대학교"
+    },
+    {
+      "id": "DJUE0912022210",
+      "description": "[DJUE0912022210] 여치베짱이 1993.10.03 / / 대전대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZEBA0014-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZEBA0014&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:03+00:00",
+    "html_sha256": "543fd78bf3163a16253149ac55a556b5d90e451ffcdeebf9fb11cb3922146a45",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

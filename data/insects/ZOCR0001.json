@@ -1,0 +1,103 @@
+{
+  "id": "ZOCR0001",
+  "name_ko": "깨알물방개",
+  "scientific_name": "Laccophilus difficilis Sharp, 1873",
+  "display_name": "깨알물방개",
+  "family_ko": "물방개과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "물방개과",
+      "name_latin": "Dytiscidae"
+    },
+    "subfamily": {
+      "name_ko": "깨알물방개아과",
+      "name_latin": "Laccophilinae"
+    },
+    "genus": {
+      "name_ko": "깨알물방개속",
+      "name_latin": "Laccophilus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 물방개과 (Dytiscidae)\n아과 : 깨알물방개아과 (Laccophilinae)\n속 : 깨알물방개속 (Laccophilus)",
+  "basic_information": {
+    "곤충명": "깨알물방개",
+    "학명": "Laccophilus difficilis Sharp, 1873"
+  },
+  "information": {
+    "general_description": "한국, 일본에 분포하며, 체장은 4.2-5mm 정도이다. 머리와 앞가슴등판은 황색으로 점각이 없다. 촉각과 양 수염은 모두 담황색인데 끝은 암갈색이고 촉각은 특히 가늘다. 딱지날개는 황색 또는 황갈색인데 황갈색과 암황갈색의 얼룩 무늬가 있다. 몸의 아랫며은 황색이고 다리는 황갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본에 분포하며, 체장은 4.2-5mm 정도이다. 머리와 앞가슴등판은 황색으로 점각이 없다. 촉각과 양 수염은 모두 담황색인데 끝은 암갈색이고 촉각은 특히 가늘다. 딱지날개는 황색 또는 황갈색인데 황갈색과 암황갈색의 얼룩 무늬가 있다. 몸의 아랫며은 황색이고 다리는 황갈색이다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCR0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCR0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCR0001_1_th.jpg",
+      "alt": "깨알물방개 1번째 사진 : 깨알물방개전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCR0001_1_th2.jpg",
+      "caption": "깨알물방개전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCR0001-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304032027",
+      "description": "[KNAE0304032027] 깨알물방개 1992.07.05 / / 국립수목원"
+    },
+    {
+      "id": "HNUE0408265078",
+      "description": "[HNUE0408265078] 깨알물방개 1988.07.21 / / 한남대학교 자연사박물관"
+    },
+    {
+      "id": "HNUE0408265079",
+      "description": "[HNUE0408265079] 깨알물방개 1997.04.26 / / 한남대학교 자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOCR0001.png",
+    "reference_image_id": "ZOCR0001-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T10:11:28.901873+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "eca2d869d8972aef014d8dc72d536f815b7d99927e10e27a8531de7a6c0ffc6a"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCR0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:21+00:00",
+    "html_sha256": "c0850f6f6b7dc3c49940a0f5b2232bf74c637eca49a6433f4b79bdd7dc6d647c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

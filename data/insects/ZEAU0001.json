@@ -1,0 +1,103 @@
+{
+  "id": "ZEAU0001",
+  "name_ko": "꼽등이",
+  "scientific_name": "Tachycines (Tachycines) coreanus Yamasaki, 1969",
+  "display_name": "꼽등이",
+  "family_ko": "꼽등이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "메뚜기목",
+      "name_latin": "Orthoptera"
+    },
+    "family": {
+      "name_ko": "꼽등이과",
+      "name_latin": "Rhaphidophoridae"
+    },
+    "subfamily": {
+      "name_ko": "꼽등이아과",
+      "name_latin": "Aemodogryllinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Tachycines"
+    }
+  },
+  "taxonomy_text": "목 : 메뚜기목 (Orthoptera)\n과 : 꼽등이과 (Rhaphidophoridae)\n아과 : 꼽등이아과 (Aemodogryllinae)\n속 : (Tachycines)",
+  "basic_information": {
+    "곤충명": "꼽등이",
+    "학명": "Tachycines (Tachycines) coreanus Yamasaki, 1969"
+  },
+  "information": {
+    "general_description": "몸길이 45mm이며, 어두운 갈색이고 알락꼽등이와 근사하나 흑색 무늬가 없는 점으로 구별이된다. 앞가슴에 황갈색의 불규칙한 무늬가 있고 가운데∙뒷가슴에는 같은 빛의 가로선이 있다. 배에도 황갈색 무늬가 있고 산란관은 체장과 거의 같은데 적갈색이고 윗쪽으로 향하였으며, 다리는 황갈색이고 앞∙가운데다리 허벅마디의 끝은 어두운 갈색이고 밑은 황백색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 45mm이며, 어두운 갈색이고 알락꼽등이와 근사하나 흑색 무늬가 없는 점으로 구별이된다. 앞가슴에 황갈색의 불규칙한 무늬가 있고 가운데∙뒷가슴에는 같은 빛의 가로선이 있다. 배에도 황갈색 무늬가 있고 산란관은 체장과 거의 같은데 적갈색이고 윗쪽으로 향하였으며, 다리는 황갈색이고 앞∙가운데다리 허벅마디의 끝은 어두운 갈색이고 밑은 황백색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZEAU0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAU0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAU0001_1_th.jpg",
+      "alt": "꼽등이 1번째 사진 : 꼽등이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAU0001_1_th2.jpg",
+      "caption": "꼽등이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZEAU0001-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0301242003",
+      "description": "[UIBE0301242003] 꼽등이 1994.11.17 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301242004",
+      "description": "[UIBE0301242004] 꼽등이 1994.10.03 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301242005",
+      "description": "[UIBE0301242005] 꼽등이 1994.08.31 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZEAU0001.png",
+    "reference_image_id": "ZEAU0001-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T14:34:17.285692+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "51c8e0c9b9c3edf7ca8185b628f0a514e80870ab3549ffb2c8263bd0f9ba4b2e"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZEAU0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:53+00:00",
+    "html_sha256": "249c7d49fd9cca1330aca16b91c5a3a518a33570ab8cb5abb48211be71f4abcd",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "ZOBH0384",
+  "name_ko": "울릉둥글먼지벌레",
+  "scientific_name": "Amara (Curtonotus) hiogoensis (Bates, 1873)",
+  "display_name": "울릉둥글먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "먼지벌레아과",
+      "name_latin": "Harpalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Amara"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 먼지벌레아과 (Harpalinae)\n속 : (Amara)",
+  "basic_information": {
+    "곤충명": "울릉둥글먼지벌레",
+    "학명": "Amara (Curtonotus) hiogoensis (Bates, 1873)"
+  },
+  "information": {
+    "general_description": "몸의길이는 13.5~15.5mm, 앞가슴등판의 폭은 길이보다 약1.6배 넓다. 검은색이며 딱지날개는 녹동색의 광택이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의길이는 13.5~15.5mm, 앞가슴등판의 폭은 길이보다 약1.6배 넓다. 검은색이며 딱지날개는 녹동색의 광택이 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0384-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0384_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0384_1_th.jpg",
+      "alt": "울릉둥글먼지벌레 1번째 사진 : 울릉둥글먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0384_1_th2.jpg",
+      "caption": "울릉둥글먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0384-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304031080",
+      "description": "[KNAE0304031080] 울릉둥글먼지벌레 1992.06.29 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304031079",
+      "description": "[KNAE0304031079] 울릉둥글먼지벌레 1991.09.01 / / 국립수목원"
+    },
+    {
+      "id": "SJNE0302191034",
+      "description": "[SJNE0302191034] 울릉둥글먼지벌레 1982.10.02 / / 상주대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0384-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0384&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:09+00:00",
+    "html_sha256": "1f00958075ee339e684f54bafe796694dd3da38c47e6141d2d64a783a44b1bf5",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

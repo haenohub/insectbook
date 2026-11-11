@@ -1,0 +1,95 @@
+{
+  "id": "ZTDK0017",
+  "name_ko": "닙폰구멍벌",
+  "scientific_name": "Tachytes sibiricus sibiricus Gussakovskij, 1932",
+  "display_name": "닙폰구멍벌",
+  "family_ko": "은주둥이벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "은주둥이벌과",
+      "name_latin": "Crabronidae"
+    },
+    "subfamily": {
+      "name_ko": "은주둥이벌아과",
+      "name_latin": "Crabroninae"
+    },
+    "genus": {
+      "name_ko": "참구멍벌속",
+      "name_latin": "Tachytes"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 은주둥이벌과 (Crabronidae)\n아과 : 은주둥이벌아과 (Crabroninae)\n속 : 참구멍벌속 (Tachytes)",
+  "basic_information": {
+    "곤충명": "닙폰구멍벌",
+    "학명": "Tachytes sibiricus sibiricus Gussakovskij, 1932"
+  },
+  "information": {
+    "general_description": "암컷은 미역의 기부가 다소 담색이나 반짝이는 금빛 센털이 났고, 얼굴과 머리방패에는 담황색 또는 구리빛 털이 났다. 날개는 담황색이고 다리의 각 관절과 발목마디의 대부분은 적갈색이다. 정수리에서 겹눈 사이의 거리는 암컷에서는 더듬이 제 3마디와 같은 길이이나 수컷에서는 그보다 다소 짧다. 수컷에서는 큰턱 중앙과 앞다리종아리마디와 모든 발목마디가 대부분 적갈색이고 얼굴과 머리방패에는 구리빛 털이 났다. 미역에는 은빛 도는 연한 구리빛 털이 났다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷은 미역의 기부가 다소 담색이나 반짝이는 금빛 센털이 났고, 얼굴과 머리방패에는 담황색 또는 구리빛 털이 났다. 날개는 담황색이고 다리의 각 관절과 발목마디의 대부분은 적갈색이다. 정수리에서 겹눈 사이의 거리는 암컷에서는 더듬이 제 3마디와 같은 길이이나 수컷에서는 그보다 다소 짧다. 수컷에서는 큰턱 중앙과 앞다리종아리마디와 모든 발목마디가 대부분 적갈색이고 얼굴과 머리방패에는 구리빛 털이 났다. 미역에는 은빛 도는 연한 구리빛 털이 났다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDK0017-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0017_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0017_1_th.jpg",
+      "alt": "닙폰구멍벌 1번째 사진 : 닙폰구멍벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0017_1_th2.jpg",
+      "caption": "닙폰구멍벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDK0017-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306262088",
+      "description": "[YNUE0306262088] 닙폰구멍벌 1972.08.15 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDK0017-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDK0017&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:44+00:00",
+    "html_sha256": "c0ec2251a673ae26fce111bb11579c7dbc0cdb615f97c748ae859cb114696d92",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

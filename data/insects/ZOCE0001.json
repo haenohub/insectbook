@@ -1,0 +1,103 @@
+{
+  "id": "ZOCE0001",
+  "name_ko": "곰보벌레",
+  "scientific_name": "Tenomerga anguliscutus (Kolbe, 1886)",
+  "display_name": "곰보벌레",
+  "family_ko": "곰보벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "곰보벌레과",
+      "name_latin": "Cupedidae"
+    },
+    "subfamily": {
+      "name_ko": "곰보벌레아과",
+      "name_latin": "Cupedinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Tenomerga"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 곰보벌레과 (Cupedidae)\n아과 : 곰보벌레아과 (Cupedinae)\n속 : (Tenomerga)",
+  "basic_information": {
+    "곤충명": "곰보벌레",
+    "학명": "Tenomerga anguliscutus (Kolbe, 1886)"
+  },
+  "information": {
+    "general_description": "한국에 분포하며, 체장은 11-13mm 정도이다. 머리에는 세쌍의 혹 모양의 돌기가 있고 머리꼭대기의 중앙에는 한 개의 종구가 있다. 촉각은 담갈색이고 회색을 혼합시켰고 딱지날개보다는 약간 길다. 복판은 회색이고 사각형으로 되었다. 다리는 담갈회색이고 대단히 짧다. 딱지날개는 담갈색인데 회색을 혼합하였고 딱지나개의 양쪽은 평행하고, 9줄의 점각졸렬이 있고 제1, 제5, 제7줄의 각 간실은 융기하였다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국에 분포하며, 체장은 11-13mm 정도이다. 머리에는 세쌍의 혹 모양의 돌기가 있고 머리꼭대기의 중앙에는 한 개의 종구가 있다. 촉각은 담갈색이고 회색을 혼합시켰고 딱지날개보다는 약간 길다. 복판은 회색이고 사각형으로 되었다. 다리는 담갈회색이고 대단히 짧다. 딱지날개는 담갈색인데 회색을 혼합하였고 딱지나개의 양쪽은 평행하고, 9줄의 점각졸렬이 있고 제1, 제5, 제7줄의 각 간실은 융기하였다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCE0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCE0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCE0001_1_th.jpg",
+      "alt": "곰보벌레 1번째 사진 : 곰보벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCE0001_1_th2.jpg",
+      "caption": "곰보벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCE0001-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304122009",
+      "description": "[KNAE0304122009] 곰보벌레 1995.09.03 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304122013",
+      "description": "[KNAE0304122013] 곰보벌레 1989.06.23 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304122011",
+      "description": "[KNAE0304122011] 곰보벌레 1989.06.21 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOCE0001.png",
+    "reference_image_id": "ZOCE0001-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T13:02:54.821836+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "32bd6515c1c8ef98ee4b3c9fc3aeb765301ded2e1500074c26b83fdc8980b45e"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCE0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:03+00:00",
+    "html_sha256": "a4e18594657a73ab6f9bca1bf9c64da4d5ae3970427f73e34b525e36abb613d6",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

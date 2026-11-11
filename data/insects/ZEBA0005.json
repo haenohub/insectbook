@@ -1,0 +1,136 @@
+{
+  "id": "ZEBA0005",
+  "name_ko": "날베짱이",
+  "scientific_name": "Sinochlora longifissa (Matsumura & Shiraki, 1908)",
+  "display_name": "날베짱이",
+  "family_ko": "여치과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "메뚜기목",
+      "name_latin": "Orthoptera"
+    },
+    "family": {
+      "name_ko": "여치과",
+      "name_latin": "Tettigoniidae"
+    },
+    "subfamily": {
+      "name_ko": "실베짱이아과",
+      "name_latin": "Phaneropterinae"
+    },
+    "genus": {
+      "name_ko": "날베짱이속",
+      "name_latin": "Sinochlora"
+    }
+  },
+  "taxonomy_text": "목 : 메뚜기목 (Orthoptera)\n과 : 여치과 (Tettigoniidae)\n아과 : 실베짱이아과 (Phaneropterinae)\n속 : 날베짱이속 (Sinochlora)",
+  "basic_information": {
+    "곤충명": "날베짱이",
+    "학명": "Sinochlora longifissa (Matsumura & Shiraki, 1908)"
+  },
+  "information": {
+    "general_description": "기본색은 녹색. 두텁날개 기부 전연맥은 백색이고 바깥 테두리는 흑색. 전퇴절은 황색 내지 적색. 후퇴절의 복면 가시는 뚜렷이 흑색. 산란관은 갈색이며 가장자리는 흑색.",
+    "adult": null,
+    "adult_male": "체장: 25-28mm. 머리-날개끝 46-55mm. 앞가슴판 5.5-6.0mm. 두텁날개 40.0-47.0mm. 후퇴절 25.0-28.5mm. 두정돌기는 더듬이 자루마디보다 좁고 이마돌기와 분리. 측엽은 높이보다 짧고 후연은 S자로 굽음. 뒷날개는 두텁날개보다 약간 길게 뒤로 노출되고 왼쪽 기부 마찰기구의 가장자리는 돌출하지 않음. 복부말단 등판은 큰 사각형의 가운데 엽과 양측에서 돌출한 측엽으로 이루어짐.미모는 단순하고 다소 길지만 복부말단 등판을 초월하지 않으며 위로 약간 굽으며 끝은 뾰족. 아생식판은 기부 폭의 3배로 길고 좁으며 복부말단 등판을 초월하여 위로 굽으며 기부 1/3 지점에서 2엽으로 나뉘고 매우 짧은 원형 미돌기가 있음.",
+    "adult_female": "체장: 27-30mm. 머리-날개끝 53-57mm. 앞가슴등판 6.0-7.2mm. 두텁날개 43.0-48.0mm. 후퇴절 28.0-32.0mm 산란관 7.5-9.5mm. 산란관은 위로 굽으며 말단부 1/3은 점각거치상. 아생식판은 삼각형이며 후연은 V자로 뾰족하게 파임.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "산길주변에 있는 작은 나무의 잎 위에서 생활하며 잎을 섭식. 주행성. 수컷은 찌지지지하고 작은 소리를 냄.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "기본색은 녹색. 두텁날개 기부 전연맥은 백색이고 바깥 테두리는 흑색. 전퇴절은 황색 내지 적색. 후퇴절의 복면 가시는 뚜렷이 흑색. 산란관은 갈색이며 가장자리는 흑색."
+    },
+    {
+      "title": "성충(수)",
+      "text": "체장: 25-28mm. 머리-날개끝 46-55mm. 앞가슴판 5.5-6.0mm. 두텁날개 40.0-47.0mm. 후퇴절 25.0-28.5mm. 두정돌기는 더듬이 자루마디보다 좁고 이마돌기와 분리. 측엽은 높이보다 짧고 후연은 S자로 굽음. 뒷날개는 두텁날개보다 약간 길게 뒤로 노출되고 왼쪽 기부 마찰기구의 가장자리는 돌출하지 않음. 복부말단 등판은 큰 사각형의 가운데 엽과 양측에서 돌출한 측엽으로 이루어짐.미모는 단순하고 다소 길지만 복부말단 등판을 초월하지 않으며 위로 약간 굽으며 끝은 뾰족. 아생식판은 기부 폭의 3배로 길고 좁으며 복부말단 등판을 초월하여 위로 굽으며 기부 1/3 지점에서 2엽으로 나뉘고 매우 짧은 원형 미돌기가 있음."
+    },
+    {
+      "title": "성충(암)",
+      "text": "체장: 27-30mm. 머리-날개끝 53-57mm. 앞가슴등판 6.0-7.2mm. 두텁날개 43.0-48.0mm. 후퇴절 28.0-32.0mm 산란관 7.5-9.5mm. 산란관은 위로 굽으며 말단부 1/3은 점각거치상. 아생식판은 삼각형이며 후연은 V자로 뾰족하게 파임."
+    },
+    {
+      "title": "생태",
+      "text": "산길주변에 있는 작은 나무의 잎 위에서 생활하며 잎을 섭식. 주행성. 수컷은 찌지지지하고 작은 소리를 냄."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZEBA0005-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0005_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0005_2_th.jpg",
+      "alt": "날베짱이 1번째 사진 : 날베짱이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0005_2_th2.jpg",
+      "caption": "날베짱이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZEBA0005-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0005_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0005_1_th.jpg",
+      "alt": "날베짱이 2번째 사진 : 날베짱이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0005_1_th2.jpg",
+      "caption": "날베짱이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZEBA0005-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0304112024",
+      "description": "[SNUE0304112024] 날베짱이 1970.08.10 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0304112025",
+      "description": "[SNUE0304112025] 날베짱이 1997.09.27 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0304112026",
+      "description": "[SNUE0304112026] 날베짱이 1988.09.03 / / 서울대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "복사나무",
+      "scientific_name": "Prunus persica (L.) Batsch"
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZEBA0005.png",
+    "reference_image_id": "ZEBA0005-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T16:17:41.460724+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "b90f2e72c5ae1743726dc14ef1c40c64f434c9d03737494715a021afb49a49da"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZEBA0005&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:19+00:00",
+    "html_sha256": "1163456a8a45835329fce2245a749a8ac32c41ebd24a4ea587e814fe65342746",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

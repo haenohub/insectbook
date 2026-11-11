@@ -1,0 +1,122 @@
+{
+  "id": "ZTDK0068",
+  "name_ko": "나나니",
+  "scientific_name": "Ammophila infesta Smith, 1873",
+  "display_name": "나나니",
+  "family_ko": "구멍벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "구멍벌과",
+      "name_latin": "Sphecidae"
+    },
+    "subfamily": {
+      "name_ko": "나나니아과",
+      "name_latin": "Ammophilinae"
+    },
+    "genus": {
+      "name_ko": "나나니속",
+      "name_latin": "Ammophila"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 구멍벌과 (Sphecidae)\n아과 : 나나니아과 (Ammophilinae)\n속 : 나나니속 (Ammophila)",
+  "basic_information": {
+    "곤충명": "나나니",
+    "학명": "Ammophila infesta Smith, 1873"
+  },
+  "information": {
+    "general_description": "암컷(20-25mm)의 머리와 가슴에는 회갈색의 긴 털과 짧은 털이 많고 다리에는 은백의 미세한 털이 많다. 가슴에는 점각이 많이 있다. 날개는 회갈색이다. 수컷(18-20mm)은 몸이 가늘고 길며 배자루 제2마디의 아랫부분은 다소 적갈색이고 등면 중앙에 검은 세로 무늬가 있다. 얼굴에는 미세한 털이 많고 은백색을 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "배추밤나방, 작은 갈고리밤나방, 배추흰나비의 유충을 포식한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷(20-25mm)의 머리와 가슴에는 회갈색의 긴 털과 짧은 털이 많고 다리에는 은백의 미세한 털이 많다. 가슴에는 점각이 많이 있다. 날개는 회갈색이다. 수컷(18-20mm)은 몸이 가늘고 길며 배자루 제2마디의 아랫부분은 다소 적갈색이고 등면 중앙에 검은 세로 무늬가 있다. 얼굴에는 미세한 털이 많고 은백색을 띤다."
+    },
+    {
+      "title": "생태",
+      "text": "배추밤나방, 작은 갈고리밤나방, 배추흰나비의 유충을 포식한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDK0068-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0068_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0068_2_th.jpg",
+      "alt": "나나니 1번째 사진 : 나나니전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0068_2_th2.jpg",
+      "caption": "나나니전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTDK0068-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0068_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0068_1_th.jpg",
+      "alt": "나나니 2번째 사진 : 나나니전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0068_1_th2.jpg",
+      "caption": "나나니전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDK0068-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306261027",
+      "description": "[YNUE0306261027] 나나니 2002.08.22 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306262008",
+      "description": "[YNUE0306262008] 나나니 1996.06.25 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306262009",
+      "description": "[YNUE0306262009] 나나니 1997.08.15 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTDK0068.png",
+    "reference_image_id": "ZTDK0068-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T15:30:28.641271+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "d363df1c938ffb67fd70c9b82b218e0baef0b12ee61cd5198f03cb8b1d53df58"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDK0068&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:08+00:00",
+    "html_sha256": "94a19bb3fbff64a96d15b1ec1e010f2c77d704cea1be16337c87858db57d4cd8",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

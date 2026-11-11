@@ -1,0 +1,103 @@
+{
+  "id": "ZTAG0045",
+  "name_ko": "큰꼬마꽃벌",
+  "scientific_name": "Lasioglossum (Sphecodogastra) nipponense (Hirashima, 1953)",
+  "display_name": "큰꼬마꽃벌",
+  "family_ko": "꼬마꽃벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "꼬마꽃벌과",
+      "name_latin": "Halictidae"
+    },
+    "subfamily": {
+      "name_ko": "꼬마꽃벌아과",
+      "name_latin": "Halictinae"
+    },
+    "genus": {
+      "name_ko": "줄꼬마꽃벌속",
+      "name_latin": "Lasioglossum"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 꼬마꽃벌과 (Halictidae)\n아과 : 꼬마꽃벌아과 (Halictinae)\n속 : 줄꼬마꽃벌속 (Lasioglossum)",
+  "basic_information": {
+    "곤충명": "큰꼬마꽃벌",
+    "학명": "Lasioglossum (Sphecodogastra) nipponense (Hirashima, 1953)"
+  },
+  "information": {
+    "general_description": "몸길이는 10mm미만이며, 몸은 다소 가늘고, 몸의 털은 회백색이며 그다지 많지는 않다. 얼굴은 가늘고 길며, 머리방패는 성기고 강한 점각이 있고 가운데가슴등판에는 에나멜모양의 둔한 광택이 있고 불규칙한 점각이 있다. 배는 강한 광택이 있고 등판 쪽은 폭이 넓고 갈색이며 꼬리의 털다발은 황금색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 10mm미만이며, 몸은 다소 가늘고, 몸의 털은 회백색이며 그다지 많지는 않다. 얼굴은 가늘고 길며, 머리방패는 성기고 강한 점각이 있고 가운데가슴등판에는 에나멜모양의 둔한 광택이 있고 불규칙한 점각이 있다. 배는 강한 광택이 있고 등판 쪽은 폭이 넓고 갈색이며 꼬리의 털다발은 황금색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0045-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0045_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0045_1_th.jpg",
+      "alt": "큰꼬마꽃벌 1번째 사진 : 닙폰줄애꽃벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0045_1_th2.jpg",
+      "caption": "닙폰줄애꽃벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0045-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306051148",
+      "description": "[YNUE0306051148] 큰꼬마꽃벌 2001.04.28 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0201182070",
+      "description": "[YNUE0201182070] 큰꼬마꽃벌 1996.06.26 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0201182071",
+      "description": "[YNUE0201182071] 큰꼬마꽃벌 1996.06.24 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAG0045-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0045&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:40+00:00",
+    "html_sha256": "20986430ce1181493fadff7f5fc4d4cb778e92e395efd8bdd71fda406b12ce42",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

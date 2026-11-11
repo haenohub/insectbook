@@ -1,0 +1,115 @@
+{
+  "id": "ZOGJ0002",
+  "name_ko": "소똥구리",
+  "scientific_name": "Gymnopleurus mopsus (Pallas, 1781)",
+  "display_name": "소똥구리",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "소똥구리아과",
+      "name_latin": "Scarabaeinae"
+    },
+    "genus": {
+      "name_ko": "소똥구리속",
+      "name_latin": "Gymnopleurus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 소똥구리아과 (Scarabaeinae)\n속 : 소똥구리속 (Gymnopleurus)",
+  "basic_information": {
+    "곤충명": "소똥구리",
+    "학명": "Gymnopleurus mopsus (Pallas, 1781)"
+  },
+  "information": {
+    "general_description": "몸길이 16 mm 내외이며, 몸은 광택이 없는 흑색으로 넓고 편평하다. 머리와 머리방패는 편평한 마름모꼴이다. 머리방패의 앞쪽가장자리는 약간 위쪽으로 솟아 올랐고 그 중간은 삼각형 모양으로 약간 파였다. 앞가슴등판은 넓고 둥글며 편평하나 가운데는 높다. 딱지날개는 앞가슴등판보다 좁고 희미한 7줄의 조구가 있으며, 간실에는 매우 작은 알맹이들이 들어 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "문헌 기록에 의하면 성충은 늦봄부터 가을까지 활동하나 6-7월에 가장 많고, 땅 속의 굴로 소, 말 또는 사람의 똥을 굴려가 알을 낳는다.",
+    "habits": "과거에는 우리 나라의 소똥구리류 중 우점종이었다고 하는데, 1967년 이후에는 표본조차 희귀하여 환경부에 의해 보호종으로 지정되었다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국] 동북지방\n[중국]\n[유럽]",
+    "notes": "[II급 멸종위기야생동식물] 환경부지정",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 16 mm 내외이며, 몸은 광택이 없는 흑색으로 넓고 편평하다. 머리와 머리방패는 편평한 마름모꼴이다. 머리방패의 앞쪽가장자리는 약간 위쪽으로 솟아 올랐고 그 중간은 삼각형 모양으로 약간 파였다. 앞가슴등판은 넓고 둥글며 편평하나 가운데는 높다. 딱지날개는 앞가슴등판보다 좁고 희미한 7줄의 조구가 있으며, 간실에는 매우 작은 알맹이들이 들어 있다."
+    },
+    {
+      "title": "생태",
+      "text": "문헌 기록에 의하면 성충은 늦봄부터 가을까지 활동하나 6-7월에 가장 많고, 땅 속의 굴로 소, 말 또는 사람의 똥을 굴려가 알을 낳는다."
+    },
+    {
+      "title": "습성",
+      "text": "과거에는 우리 나라의 소똥구리류 중 우점종이었다고 하는데, 1967년 이후에는 표본조차 희귀하여 환경부에 의해 보호종으로 지정되었다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국] 동북지방\n[중국]\n[유럽]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[II급 멸종위기야생동식물] 환경부지정"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGJ0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0002_1_th.jpg",
+      "alt": "소똥구리 1번째 사진 : 소똥구리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0002_1_th2.jpg",
+      "caption": "소똥구리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGJ0002-1",
+  "specimen_examples": [
+    {
+      "id": "SSUE0301281041",
+      "description": "[SSUE0301281041] 소똥구리 1964.05.21 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0301281042",
+      "description": "[SSUE0301281042] 소똥구리 1964.05.08 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0301281043",
+      "description": "[SSUE0301281043] 소똥구리 1964.05.08 / / 성신여자대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGJ0002-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGJ0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:12+00:00",
+    "html_sha256": "d54bbfb6d59e0b2b7bb0ef05717f1aca3c6763891140a2a8c594e4a9f74b764c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

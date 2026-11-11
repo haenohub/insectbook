@@ -1,0 +1,114 @@
+{
+  "id": "ZTBI0004",
+  "name_ko": "민호리병벌",
+  "scientific_name": "Eumenes rubronotatus rubronotatus Pérez, 1905",
+  "display_name": "민호리병벌",
+  "family_ko": "말벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "말벌상과",
+      "name_latin": "Vespoidea"
+    },
+    "family": {
+      "name_ko": "말벌과",
+      "name_latin": "Vespidae"
+    },
+    "subfamily": {
+      "name_ko": "호리병벌아과",
+      "name_latin": "Eumeninae"
+    },
+    "genus": {
+      "name_ko": "호리병벌속",
+      "name_latin": "Eumenes"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 말벌상과 (Vespoidea)\n과 : 말벌과 (Vespidae)\n아과 : 호리병벌아과 (Eumeninae)\n속 : 호리병벌속 (Eumenes)",
+  "basic_information": {
+    "곤충명": "민호리병벌",
+    "학명": "Eumenes rubronotatus rubronotatus Pérez, 1905"
+  },
+  "information": {
+    "general_description": "암컷의 몸은 흑색이다. 더듬이의 기부 사이에 있는 곤봉 모양의 무늬,겹눈 부근의 뒷뺨 위의 작은 점, 앞가슴등판 뒷슭의 좁은 1개의 띠, 그 양 옆에서 가롤로 달리는 융기선의 바로 뒤쪽에 있는 1개의 점, 어깨판의 기부를 제외한 부분, 뒷가슴등판 위의 가로 때 제 1.2앞다리에서는 넓적다리마디 끝과 종아리마디의 기부 절반의 겉쪽과 그 끝은 적갈색이고 발목마디는 암색이다. 가운데다리와 뒷다리에서는 넓적다리마디의 끝과 종아리마디 및 각 발목마디의 끝은 적갈색이다. 날개는 투명하나 약간 회갈색이고 구리빛의 광택이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[태국]\n[일본]\n[중국]\n[인도]\n[인도네시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷의 몸은 흑색이다. 더듬이의 기부 사이에 있는 곤봉 모양의 무늬,겹눈 부근의 뒷뺨 위의 작은 점, 앞가슴등판 뒷슭의 좁은 1개의 띠, 그 양 옆에서 가롤로 달리는 융기선의 바로 뒤쪽에 있는 1개의 점, 어깨판의 기부를 제외한 부분, 뒷가슴등판 위의 가로 때 제 1.2앞다리에서는 넓적다리마디 끝과 종아리마디의 기부 절반의 겉쪽과 그 끝은 적갈색이고 발목마디는 암색이다. 가운데다리와 뒷다리에서는 넓적다리마디의 끝과 종아리마디 및 각 발목마디의 끝은 적갈색이다. 날개는 투명하나 약간 회갈색이고 구리빛의 광택이 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[태국]\n[일본]\n[중국]\n[인도]\n[인도네시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBI0004-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBI0004_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBI0004_2_th.jpg",
+      "alt": "민호리병벌 1번째 사진 : 민호리병벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBI0004_2_th2.jpg",
+      "caption": "민호리병벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTBI0004-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBI0004_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBI0004_1_th.jpg",
+      "alt": "민호리병벌 2번째 사진 : 민호리병벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBI0004_1_th2.jpg",
+      "caption": "민호리병벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBI0004-1",
+  "specimen_examples": [
+    {
+      "id": "CBNE0204171006",
+      "description": "[CBNE0204171006] 민호리병벌 1999.08.15 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0204171007",
+      "description": "[CBNE0204171007] 민호리병벌 1995.06.26 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0204171008",
+      "description": "[CBNE0204171008] 민호리병벌 1996.08.14 / / 충북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTBI0004-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBI0004&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:54+00:00",
+    "html_sha256": "5674e7238b559f6253f91dfeb4eec9746fd3acf156bb3a60ee6aa5262116123a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

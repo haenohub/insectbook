@@ -1,0 +1,95 @@
+{
+  "id": "ZTBU0235",
+  "name_ko": "장수자루맵시벌",
+  "scientific_name": "Habronyx (Habronyx) heros (Wesmael, 1849)",
+  "display_name": "장수자루맵시벌",
+  "family_ko": "맵시벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "맵시벌과",
+      "name_latin": "Ichneumonidae"
+    },
+    "subfamily": {
+      "name_ko": "그물등자루맵시벌아과",
+      "name_latin": "Anomaloninae"
+    },
+    "genus": {
+      "name_ko": "곤봉자루맵시벌속",
+      "name_latin": "Habronyx"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 맵시벌과 (Ichneumonidae)\n아과 : 그물등자루맵시벌아과 (Anomaloninae)\n속 : 곤봉자루맵시벌속 (Habronyx)",
+  "basic_information": {
+    "곤충명": "장수자루맵시벌",
+    "학명": "Habronyx (Habronyx) heros (Wesmael, 1849)"
+  },
+  "information": {
+    "general_description": "가슴은 검은색, 더듬이, 복부, 뒷다리 일부는 진한 적갈색이다. 앞다리와 중간다리는 노란색이다. 더듬이 길이는 날개보다 길다. 복부 길이는 가슴 길이보다 2배 이상 길다. 산란관은 복부 말단의 높이보다 1.5배 이상 길고 직선이다. 작은방패판도랑은 없다. 이마와 더듬이 사이에 융기선이 있다. CI: 1.30, BI: 1.62-1.80, DBI: 0.60-0.85, BAI: 0.90-0.95, MI: 1.30-1.45, ICI: 3.50-8.00, NI: 0.60-0.70, RI: 1.40-1.70, PI: 4.50-5.40, LBI: 5.60. Forewing length: 18-22 mm, Lowerface: 0.70-0.78,",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "가슴은 검은색, 더듬이, 복부, 뒷다리 일부는 진한 적갈색이다. 앞다리와 중간다리는 노란색이다. 더듬이 길이는 날개보다 길다. 복부 길이는 가슴 길이보다 2배 이상 길다. 산란관은 복부 말단의 높이보다 1.5배 이상 길고 직선이다. 작은방패판도랑은 없다. 이마와 더듬이 사이에 융기선이 있다. CI: 1.30, BI: 1.62-1.80, DBI: 0.60-0.85, BAI: 0.90-0.95, MI: 1.30-1.45, ICI: 3.50-8.00, NI: 0.60-0.70, RI: 1.40-1.70, PI: 4.50-5.40, LBI: 5.60. Forewing length: 18-22 mm, Lowerface: 0.70-0.78,"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBU0235-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0235_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0235_1_th.jpg",
+      "alt": "장수자루맵시벌 1번째 사진 : 장수자루맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0235_1_th2.jpg",
+      "caption": "장수자루맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBU0235-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0301182009",
+      "description": "[KNAE0301182009] 장수자루맵시벌 1993.08.31 / / 국립수목원"
+    },
+    {
+      "id": "KNAE159930",
+      "description": "[KNAE159930] 장수자루맵시벌 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTBU0235-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBU0235&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:09+00:00",
+    "html_sha256": "1d7ea2b1e2fdb8c8b164be861f3663231fcb42d5b20fe1ab18f6c317dba78a1b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

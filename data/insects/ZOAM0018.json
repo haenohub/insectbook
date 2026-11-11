@@ -1,0 +1,114 @@
+{
+  "id": "ZOAM0018",
+  "name_ko": "주홍버섯소바구미",
+  "scientific_name": "Euparius koreanus Park & Morimoto, 1999",
+  "display_name": "주홍버섯소바구미",
+  "family_ko": "소바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "소바구미과",
+      "name_latin": "Anthribidae"
+    },
+    "subfamily": {
+      "name_ko": "소바구미아과",
+      "name_latin": "Anthribinae"
+    },
+    "genus": {
+      "name_ko": "버섯소바구미속",
+      "name_latin": "Euparius"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 소바구미과 (Anthribidae)\n아과 : 소바구미아과 (Anthribinae)\n속 : 버섯소바구미속 (Euparius)",
+  "basic_information": {
+    "곤충명": "주홍버섯소바구미",
+    "학명": "Euparius koreanus Park & Morimoto, 1999"
+  },
+  "information": {
+    "general_description": "한국에 분포하며, 체장은 6.5에서 8mm 정도이다. 체색은 옅은 주홍색이며, 적갈색의 무늬를 가진다. 다리는 흑색에 가깝다. 몸은 긴 타원형이며, 눈은 구형이다. 주둥이는 짧은 편이며, 주둥이 한가운데가 약간 오목하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국에 분포하며, 체장은 6.5에서 8mm 정도이다. 체색은 옅은 주홍색이며, 적갈색의 무늬를 가진다. 다리는 흑색에 가깝다. 몸은 긴 타원형이며, 눈은 구형이다. 주둥이는 짧은 편이며, 주둥이 한가운데가 약간 오목하다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAM0018-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0018_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0018_2_th.jpg",
+      "alt": "주홍버섯소바구미 1번째 사진 : 주홍버섯소바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0018_2_th2.jpg",
+      "caption": "주홍버섯소바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOAM0018-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0018_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0018_1_th.jpg",
+      "alt": "주홍버섯소바구미 2번째 사진 : 주홍버섯소바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0018_1_th2.jpg",
+      "caption": "주홍버섯소바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAM0018-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0203294091",
+      "description": "[SNUE0203294091] 주홍버섯소바구미 1998.05.13 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0203294092",
+      "description": "[SNUE0203294092] 주홍버섯소바구미 1997.09.06 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0203294093",
+      "description": "[SNUE0203294093] 주홍버섯소바구미 1997.09.12 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAM0018-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAM0018&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:59+00:00",
+    "html_sha256": "2142ea79e28f233ecff7d3eabb92211c57ea215df93960019d0c8c9ff24b4a22",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

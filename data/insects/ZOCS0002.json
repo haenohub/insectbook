@@ -1,0 +1,125 @@
+{
+  "id": "ZOCS0002",
+  "name_ko": "대유동방아벌레",
+  "scientific_name": "Agrypnus argillaceus argillaceus (Solsky, 1871)",
+  "display_name": "대유동방아벌레",
+  "family_ko": "방아벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "방아벌레상과",
+      "name_latin": "Elateroidea"
+    },
+    "family": {
+      "name_ko": "방아벌레과",
+      "name_latin": "Elateridae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Agrypninae"
+    },
+    "genus": {
+      "name_ko": "녹슬은방아벌레속",
+      "name_latin": "Agrypnus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 방아벌레상과 (Elateroidea)\n과 : 방아벌레과 (Elateridae)\n아과 : (Agrypninae)\n속 : 녹슬은방아벌레속 (Agrypnus)",
+  "basic_information": {
+    "곤충명": "대유동방아벌레",
+    "학명": "Agrypnus argillaceus argillaceus (Solsky, 1871)"
+  },
+  "information": {
+    "general_description": "몸길이는 9~12mm 이다. 몸이 넓고 둥근편이며 등쪽이 약간 둥글고 분홍색이며 적갈색의 비늘모양의 털로 덮여있다. 배쪽도 엷은 갈색의 비늘로 덮였다. 더듬이는 톱날처럼 생겼다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 9~12mm 이다. 몸이 넓고 둥근편이며 등쪽이 약간 둥글고 분홍색이며 적갈색의 비늘모양의 털로 덮여있다. 배쪽도 엷은 갈색의 비늘로 덮였다. 더듬이는 톱날처럼 생겼다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCS0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOCS0002_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOCS0002_3.jpg",
+      "alt": "대유동방아벌레 1번째 사진 : ",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOCS0002_3_th2.jpg",
+      "caption": null,
+      "photographed_at": "20130514",
+      "location": "경기도 포천시 죽엽산",
+      "photographer": "국립수목원(임종옥)"
+    },
+    {
+      "id": "ZOCS0002-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCS0002_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCS0002_2_th.jpg",
+      "alt": "대유동방아벌레 2번째 사진 : 대유동방아벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCS0002_2_th2.jpg",
+      "caption": "대유동방아벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOCS0002-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCS0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCS0002_1_th.jpg",
+      "alt": "대유동방아벌레 3번째 사진 : 대유동방아벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCS0002_1_th2.jpg",
+      "caption": "대유동방아벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCS0002-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0212206062",
+      "description": "[YNUE0212206062] 대유동방아벌레 1997.05.04 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0212206063",
+      "description": "[YNUE0212206063] 대유동방아벌레 1997.05.04 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0212206065",
+      "description": "[YNUE0212206065] 대유동방아벌레 1997.04.02 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOCS0002-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCS0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:18+00:00",
+    "html_sha256": "de489b7ec8129e80c1fa3dc854b04ab162d4950fb99d2794b990387d1ce9dc4d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

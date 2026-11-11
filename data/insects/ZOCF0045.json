@@ -1,0 +1,113 @@
+{
+  "id": "ZOCF0045",
+  "name_ko": "쌍무늬바구미",
+  "scientific_name": "Eugnathus distinctus Roelofs, 1873",
+  "display_name": "쌍무늬바구미",
+  "family_ko": "바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "바구미과",
+      "name_latin": "Curculionidae"
+    },
+    "subfamily": {
+      "name_ko": "줄바구미아과",
+      "name_latin": "Entiminae"
+    },
+    "genus": {
+      "name_ko": "쌍무늬바구미속",
+      "name_latin": "Eugnathus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 바구미과 (Curculionidae)\n아과 : 줄바구미아과 (Entiminae)\n속 : 쌍무늬바구미속 (Eugnathus)",
+  "basic_information": {
+    "곤충명": "쌍무늬바구미",
+    "학명": "Eugnathus distinctus Roelofs, 1873"
+  },
+  "information": {
+    "general_description": "한국(중부, 남부, 제주특별자치도), 일본, 중국, 대만에 분포하며, 몸길이 3.5-7.5 mm. 큰턱에 녹새 인편 및 회록색 인모가 있다. 체표는 밝은 녹색 및 녹황색 인편이 피복. 체표 아랫면은 백색 및 밝은 회황색 인편이 피복. 딱지날개 중앙 전방에 가로 무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "Lespedeza spp. 와 Pureraria thunbergiana 에서 채집",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국(중부, 남부, 제주특별자치도), 일본, 중국, 대만에 분포하며, 몸길이 3.5-7.5 mm. 큰턱에 녹새 인편 및 회록색 인모가 있다. 체표는 밝은 녹색 및 녹황색 인편이 피복. 체표 아랫면은 백색 및 밝은 회황색 인편이 피복. 딱지날개 중앙 전방에 가로 무늬가 있다."
+    },
+    {
+      "title": "생태",
+      "text": "Lespedeza spp. 와 Pureraria thunbergiana 에서 채집"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCF0045-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0045_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0045_1_th.jpg",
+      "alt": "쌍무늬바구미 1번째 사진 : 쌍무늬바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0045_1_th2.jpg",
+      "caption": "쌍무늬바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCF0045-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0201082059",
+      "description": "[YNUE0201082059] 쌍무늬바구미 1997.05.24 / / 영남대학교"
+    },
+    {
+      "id": "KUIE0408262015",
+      "description": "[KUIE0408262015] 쌍무늬바구미 1990.07.16 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0408262016",
+      "description": "[KUIE0408262016] 쌍무늬바구미 1990.07.29 / / 고려대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "등",
+      "scientific_name": "Wisteria floribunda (Willd.) DC."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOCF0045-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCF0045&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:59+00:00",
+    "html_sha256": "f7717ef9b39ac7683e4f8a4f85e830d1dc887fb7c7fee0b2ec4fa15a0843e6c1",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

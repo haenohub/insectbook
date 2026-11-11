@@ -1,0 +1,103 @@
+{
+  "id": "ZTBU0276",
+  "name_ko": "두줄박이맵시벌",
+  "scientific_name": "Cratichneumon bifasciatus (Uchida, 1926)",
+  "display_name": "두줄박이맵시벌",
+  "family_ko": "맵시벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "맵시벌과",
+      "name_latin": "Ichneumonidae"
+    },
+    "subfamily": {
+      "name_ko": "맵시벌아과",
+      "name_latin": "Ichneumoninae"
+    },
+    "genus": {
+      "name_ko": "혹뿌리맵시벌속",
+      "name_latin": "Cratichneumon"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 맵시벌과 (Ichneumonidae)\n아과 : 맵시벌아과 (Ichneumoninae)\n속 : 혹뿌리맵시벌속 (Cratichneumon)",
+  "basic_information": {
+    "곤충명": "두줄박이맵시벌",
+    "학명": "Cratichneumon bifasciatus (Uchida, 1926)"
+  },
+  "information": {
+    "general_description": "15∼20mm",
+    "adult": null,
+    "adult_male": "♂은 얼굴 전면이 황색이고 뒷다리의 밑마디에는 황색 무늬가 있다. 날개는 검은 갈색이고 반투명하다.",
+    "adult_female": "♀의 몸은 흑색이고 겹눈의 안팎 가두리, 날개 밑, 작은방패판, 뒷가슴 뒷끝 양편, 제1배마디의 뒷슭 양편과 제2배마디의 뒷가두리는 황색이다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "15∼20mm"
+    },
+    {
+      "title": "성충(수)",
+      "text": "♂은 얼굴 전면이 황색이고 뒷다리의 밑마디에는 황색 무늬가 있다. 날개는 검은 갈색이고 반투명하다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "♀의 몸은 흑색이고 겹눈의 안팎 가두리, 날개 밑, 작은방패판, 뒷가슴 뒷끝 양편, 제1배마디의 뒷슭 양편과 제2배마디의 뒷가두리는 황색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBU0276-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0276_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0276_1_th.jpg",
+      "alt": "두줄박이맵시벌 1번째 사진 : 두줄박이맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0276_1_th2.jpg",
+      "caption": "두줄박이맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBU0276-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305281016",
+      "description": "[YNUE0305281016] 두줄박이맵시벌 1963.05.08 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTBU0276-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBU0276&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:48+00:00",
+    "html_sha256": "9f1d3e17488b0f9058954e8e1e8664155f76f25c73db267cc4abeb60682cc55c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

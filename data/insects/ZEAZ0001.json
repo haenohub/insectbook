@@ -1,0 +1,102 @@
+{
+  "id": "ZEAZ0001",
+  "name_ko": "가시모메뚜기",
+  "scientific_name": "Criotettix japonicus (Haan, 1843)",
+  "display_name": "가시모메뚜기",
+  "family_ko": "모메뚜기과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "메뚜기목",
+      "name_latin": "Orthoptera"
+    },
+    "family": {
+      "name_ko": "모메뚜기과",
+      "name_latin": "Tetrigidae"
+    },
+    "subfamily": {
+      "name_ko": "가시모메뚜기아과",
+      "name_latin": "Scelimeninae"
+    },
+    "genus": {
+      "name_ko": "가시모메뚜기속",
+      "name_latin": "Criotettix"
+    }
+  },
+  "taxonomy_text": "목 : 메뚜기목 (Orthoptera)\n과 : 모메뚜기과 (Tetrigidae)\n아과 : 가시모메뚜기아과 (Scelimeninae)\n속 : 가시모메뚜기속 (Criotettix)",
+  "basic_information": {
+    "곤충명": "가시모메뚜기",
+    "학명": "Criotettix japonicus (Haan, 1843)"
+  },
+  "information": {
+    "general_description": "몸길이 19~27mm이고 촉각은 겹눈 사이에서 나왔고 앞가슴의 옆가시는 뒷쪽으로 향하였다. 회갈색 또는 갈색이고 머리꼭대기의 종융기선은 뚜렷하지 않고 얼굴의 종융기는 폭이 좁으며 종구는 가늘다. 앞가슴등은 비교적 넓적하고 흑 모양의 돌기는 작고 앞쪽의 옆융기선은 뒷쪽으로 향함에 따라 좁아지고 중앙선은 뒷쪽과의 경계에서 굵어졌고 횡구는 절단되지 않았으며 옆모는 둔하고 그 안쪽에 좌우 각각 1개씩의 짧고 평행한 종융기선이 있다. 수컷의 버금생식판은 가늘고 길며 옆쪽에서는 긴 삼각형으로 보인다. 산란관은 가늘고 길며 치열은 뚜렷하고 앞날개는 길고 뒷날개는 앞가슴의 뒷쪽으로 조금 연장하였다. 허벅마디의 등∙배 양 가두리는 약간 물결 모양으로 되었다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[대만]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 19~27mm이고 촉각은 겹눈 사이에서 나왔고 앞가슴의 옆가시는 뒷쪽으로 향하였다. 회갈색 또는 갈색이고 머리꼭대기의 종융기선은 뚜렷하지 않고 얼굴의 종융기는 폭이 좁으며 종구는 가늘다. 앞가슴등은 비교적 넓적하고 흑 모양의 돌기는 작고 앞쪽의 옆융기선은 뒷쪽으로 향함에 따라 좁아지고 중앙선은 뒷쪽과의 경계에서 굵어졌고 횡구는 절단되지 않았으며 옆모는 둔하고 그 안쪽에 좌우 각각 1개씩의 짧고 평행한 종융기선이 있다. 수컷의 버금생식판은 가늘고 길며 옆쪽에서는 긴 삼각형으로 보인다. 산란관은 가늘고 길며 치열은 뚜렷하고 앞날개는 길고 뒷날개는 앞가슴의 뒷쪽으로 조금 연장하였다. 허벅마디의 등∙배 양 가두리는 약간 물결 모양으로 되었다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[대만]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZEAZ0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAZ0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAZ0001_1_th.jpg",
+      "alt": "가시모메뚜기 1번째 사진 : 가시모메뚜기전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAZ0001_1_th2.jpg",
+      "caption": "가시모메뚜기전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZEAZ0001-1",
+  "specimen_examples": [
+    {
+      "id": "CBNE0301201042",
+      "description": "[CBNE0301201042] 가시모메뚜기 1999.10.17 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0301201043",
+      "description": "[CBNE0301201043] 가시모메뚜기 1999.09.23 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0301201044",
+      "description": "[CBNE0301201044] 가시모메뚜기 1999.09.25 / / 충북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZEAZ0001.png",
+    "reference_image_id": "ZEAZ0001-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T15:31:48.547686+00:00",
+    "sha256": "b3da0795f5224f2210a745a2d8a138a7c3bc3b0bb4f72a832a09f5ae3bf98053"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZEAZ0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:10+00:00",
+    "html_sha256": "5e736a64ce67cdc434f1dc5db8665819a2e3556e11a55b2a27d1be227d6788f8",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

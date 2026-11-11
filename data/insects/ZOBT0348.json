@@ -1,0 +1,129 @@
+{
+  "id": "ZOBT0348",
+  "name_ko": "남생이잎벌레",
+  "scientific_name": "Cassida (Cassida) nebulosa Linnaeus, 1758",
+  "display_name": "남생이잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "남생이잎벌레아과",
+      "name_latin": "Cassidinae"
+    },
+    "genus": {
+      "name_ko": "남생이잎벌레속",
+      "name_latin": "Cassida"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 남생이잎벌레아과 (Cassidinae)\n속 : 남생이잎벌레속 (Cassida)",
+  "basic_information": {
+    "곤충명": "남생이잎벌레",
+    "학명": "Cassida (Cassida) nebulosa Linnaeus, 1758"
+  },
+  "information": {
+    "general_description": "몸길이는 6.3~7.2mm이다.몸색깔은 황갈색이고, 작은 흑색 무늬가 있다.다리는 적갈색이고, 더듬이는 흑갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[몽골]\n[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 6.3~7.2mm이다.몸색깔은 황갈색이고, 작은 흑색 무늬가 있다.다리는 적갈색이고, 더듬이는 흑갈색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[몽골]\n[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0348-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0348_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0348_2_th.jpg",
+      "alt": "남생이잎벌레 1번째 사진 : 남생이잎벌레(거북잎벌레)전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0348_2_th2.jpg",
+      "caption": "남생이잎벌레(거북잎벌레)전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBT0348-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0348_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0348_1_th.jpg",
+      "alt": "남생이잎벌레 2번째 사진 : 남생이잎벌레(거북잎벌레)전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0348_1_th2.jpg",
+      "caption": "남생이잎벌레(거북잎벌레)전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0348-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0307161049",
+      "description": "[KUIE0307161049] 남생이잎벌레 1984.05.05 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307161050",
+      "description": "[KUIE0307161050] 남생이잎벌레 1984.06.26 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307161051",
+      "description": "[KUIE0307161051] 남생이잎벌레 1983.05.29 / / 고려대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "명아주",
+      "scientific_name": "Chenopodium album var. centrorubrum Makino"
+    },
+    {
+      "group": "식물",
+      "name_ko": "흰명아주",
+      "scientific_name": "Chenopodium album L."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBT0348.png",
+    "reference_image_id": "ZOBT0348-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T09:40:33.608453+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "ed29ec9488b13ed07224f273bb63860aefb13f67408c1eb9f47ec4579a5a840d"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0348&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:28+00:00",
+    "html_sha256": "f36cc0175a704a4e641c3bf1abab1db9637e8cec2b8ba0ed9b33e0a0a497e443",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

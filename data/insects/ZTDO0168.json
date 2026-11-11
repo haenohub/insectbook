@@ -1,0 +1,103 @@
+{
+  "id": "ZTDO0168",
+  "name_ko": "황갈무리잎벌",
+  "scientific_name": "Nesotaxonus fulvus (Cameron, 1877)",
+  "display_name": "황갈무리잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "검정날개잎벌아과",
+      "name_latin": "Allantinae"
+    },
+    "genus": {
+      "name_ko": "황갈무리잎벌속",
+      "name_latin": "Nesotaxonus"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 검정날개잎벌아과 (Allantinae)\n속 : 황갈무리잎벌속 (Nesotaxonus)",
+  "basic_information": {
+    "곤충명": "황갈무리잎벌",
+    "학명": "Nesotaxonus fulvus (Cameron, 1877)"
+  },
+  "information": {
+    "general_description": "더듬이는 filiform, prepectus는 명확하다. 뒷날개의 둔실은 자루를 가지고 있다. 앞다리 종아리마디의 바깥쪽 며느리발톱은 매우 작다. 안쪽의 며느리발톱은 보통 크기이며 끝에서 갈라지지 않았다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 filiform, prepectus는 명확하다. 뒷날개의 둔실은 자루를 가지고 있다. 앞다리 종아리마디의 바깥쪽 며느리발톱은 매우 작다. 안쪽의 며느리발톱은 보통 크기이며 끝에서 갈라지지 않았다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0168-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0168_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0168_1_th.jpg",
+      "alt": "황갈무리잎벌 1번째 사진 : 황갈무리잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0168_1_th2.jpg",
+      "caption": "황갈무리잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0168-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0301059090",
+      "description": "[YNUE0301059090] 황갈무리잎벌 1992.05.28 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301059092",
+      "description": "[YNUE0301059092] 황갈무리잎벌 1991.06.24 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301059093",
+      "description": "[YNUE0301059093] 황갈무리잎벌 1992.05.21 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDO0168-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0168&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:48+00:00",
+    "html_sha256": "87f7dd7e80f705b9668fb26637c2eecb392f46457f5c82555dc531467e044d5d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

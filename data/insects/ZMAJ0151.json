@@ -1,0 +1,308 @@
+{
+  "id": "ZMAJ0151",
+  "name_ko": "조팝나무진딧물",
+  "scientific_name": "Aphis (Aphis) spiraecola Patch, 1914",
+  "display_name": "조팝나무진딧물",
+  "family_ko": "진딧물과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "진딧물상과",
+      "name_latin": "Aphidoidea"
+    },
+    "family": {
+      "name_ko": "진딧물과",
+      "name_latin": "Aphididae"
+    },
+    "subfamily": {
+      "name_ko": "진딧물아과",
+      "name_latin": "Aphidinae"
+    },
+    "genus": {
+      "name_ko": "진딧물속",
+      "name_latin": "Aphis"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 진딧물상과 (Aphidoidea)\n과 : 진딧물과 (Aphididae)\n아과 : 진딧물아과 (Aphidinae)\n속 : 진딧물속 (Aphis)",
+  "basic_information": {
+    "곤충명": "조팝나무진딧물",
+    "학명": "Aphis (Aphis) spiraecola Patch, 1914"
+  },
+  "information": {
+    "general_description": "몸길이: 유시충인 경우 약 1.2-1.8 mm 무시충인 경우 1.5-2.5 mm. 머리, 가슴, 뿔관 밑부분 및 옆구리가 검고, 배는 일반적으로 연두색이다. 그러나 변이가 심해서 배가 황갈색 또는 적갈색을 띠는 개체도 존재한다.\n국내에서 사용되고 있는 본종의 학명은 오류(同物異名)이고 Aphis spiraecola Patch 가 올바르다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": "무시태생 암컷 성충의 체장은 2 mm 내외이며 타원형으로 녹황색을 띤다. 촉각은 몸길이보다 짧고 흑색이다. 배는 둥글며, 끝부는 넓은 원추형으로 옆에는 몇 개의 센털이 있다. 유시태생 암컷 성충은 무시태생 성충과 비슷하나 머리와 가슴 중앙부가 흑색이며 날개가 투명하다.",
+    "larva": null,
+    "egg": "알은 광택을 띠는 검은색이다.",
+    "pupa": null,
+    "ecology": "주 기주인 조팝나무에서 월동한 알은 4월경에 부화하여 신초(新梢)에 기생한다. 5월 중순에 유시태생 암컷 성충이 출현하여 명자꽃나무, 귤나무로 이주하며, 10월 중순에 주 기주로 이동한다. 유시형 수컷과 무시형 암컷이 교미해서 과수의 겨울눈이나 과수원 주변에 자생하고 있는 조팝나무 가지의 지표 가까운 부위나 겨울 눈에 알을 낳는다.",
+    "habits": "성충과 유충이 신초부와 새로 나온 잎에 군서하여 흡즙 가해하므로 신초의 생장이 저해된다. 봄에 피해를 받은 잎은 뒷면으로 말리며 여름에 낙엽된다.",
+    "season": null,
+    "overwintering": "보통 알로 월동하나 따뜻한 지방에서는 태생(胎生) 암컷 성충으로 월동한다.",
+    "distribution": "[일본]\n[중국]\n[미국]",
+    "notes": "[농업해충] 과수 가해하는 주요 해충이고 밀도가 급등하면 배설물에 의한 그을음병을 유발하기도 한다.\n[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이: 유시충인 경우 약 1.2-1.8 mm 무시충인 경우 1.5-2.5 mm. 머리, 가슴, 뿔관 밑부분 및 옆구리가 검고, 배는 일반적으로 연두색이다. 그러나 변이가 심해서 배가 황갈색 또는 적갈색을 띠는 개체도 존재한다.\n국내에서 사용되고 있는 본종의 학명은 오류(同物異名)이고 Aphis spiraecola Patch 가 올바르다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "무시태생 암컷 성충의 체장은 2 mm 내외이며 타원형으로 녹황색을 띤다. 촉각은 몸길이보다 짧고 흑색이다. 배는 둥글며, 끝부는 넓은 원추형으로 옆에는 몇 개의 센털이 있다. 유시태생 암컷 성충은 무시태생 성충과 비슷하나 머리와 가슴 중앙부가 흑색이며 날개가 투명하다."
+    },
+    {
+      "title": "생태",
+      "text": "주 기주인 조팝나무에서 월동한 알은 4월경에 부화하여 신초(新梢)에 기생한다. 5월 중순에 유시태생 암컷 성충이 출현하여 명자꽃나무, 귤나무로 이주하며, 10월 중순에 주 기주로 이동한다. 유시형 수컷과 무시형 암컷이 교미해서 과수의 겨울눈이나 과수원 주변에 자생하고 있는 조팝나무 가지의 지표 가까운 부위나 겨울 눈에 알을 낳는다."
+    },
+    {
+      "title": "습성",
+      "text": "성충과 유충이 신초부와 새로 나온 잎에 군서하여 흡즙 가해하므로 신초의 생장이 저해된다. 봄에 피해를 받은 잎은 뒷면으로 말리며 여름에 낙엽된다."
+    },
+    {
+      "title": "월동",
+      "text": "보통 알로 월동하나 따뜻한 지방에서는 태생(胎生) 암컷 성충으로 월동한다."
+    },
+    {
+      "title": "알",
+      "text": "알은 광택을 띠는 검은색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[미국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[농업해충] 과수 가해하는 주요 해충이고 밀도가 급등하면 배설물에 의한 그을음병을 유발하기도 한다.\n[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMAJ0151-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAJ0151_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAJ0151_1_th.jpg",
+      "alt": "조팝나무진딧물 1번째 사진 : 조팝나무진딧물전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAJ0151_1_th2.jpg",
+      "caption": "조팝나무진딧물전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMAJ0151-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0203212014",
+      "description": "[SNUE0203212014] 조팝나무진딧물 1999.08.10 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0203212015",
+      "description": "[SNUE0203212015] 조팝나무진딧물 1999.08.10 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0203212016",
+      "description": "[SNUE0203212016] 조팝나무진딧물 1999.08.10 / / 서울대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "가는잎조팝나무",
+      "scientific_name": "Spiraea thunbergii Siebold ex Blume"
+    },
+    {
+      "group": "식물",
+      "name_ko": "갈기조팝나무",
+      "scientific_name": "Spiraea trichocarpa Nakai"
+    },
+    {
+      "group": "식물",
+      "name_ko": "감나무",
+      "scientific_name": "Diospyros kaki Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "개아그배나무",
+      "scientific_name": "Malus micromalus Makino"
+    },
+    {
+      "group": "식물",
+      "name_ko": "국수나무",
+      "scientific_name": "Neillia incisa (Thunb.) S.H.Oh"
+    },
+    {
+      "group": "식물",
+      "name_ko": "꼬리조팝나무",
+      "scientific_name": "Spiraea salicifolia L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "나도국수나무",
+      "scientific_name": "Neillia uekii Nakai"
+    },
+    {
+      "group": "식물",
+      "name_ko": "노박덩굴",
+      "scientific_name": "Celastrus orbiculatus Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "돌배나무",
+      "scientific_name": "Pyrus pyrifolia (Burm.f.) Nakai"
+    },
+    {
+      "group": "식물",
+      "name_ko": "매발톱나무",
+      "scientific_name": "Berberis amurensis Rupr."
+    },
+    {
+      "group": "식물",
+      "name_ko": "매실나무",
+      "scientific_name": "Prunus mume (Siebold) Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "모과나무",
+      "scientific_name": "Pseudocydonia sinensis (Thouin) C.K.Schneid."
+    },
+    {
+      "group": "식물",
+      "name_ko": "모란",
+      "scientific_name": "Paeonia × suffruticosa Andrews"
+    },
+    {
+      "group": "식물",
+      "name_ko": "물싸리",
+      "scientific_name": "Dasiphora fruticosa (L.) Rydb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "복사나무",
+      "scientific_name": "Prunus persica (L.) Batsch"
+    },
+    {
+      "group": "식물",
+      "name_ko": "분꽃나무",
+      "scientific_name": "Viburnum carlesii Hemsl."
+    },
+    {
+      "group": "식물",
+      "name_ko": "분단나무",
+      "scientific_name": "Viburnum furcatum Blume ex Maxim."
+    },
+    {
+      "group": "식물",
+      "name_ko": "비파나무",
+      "scientific_name": "Eriobotrya japonica (Thunb.) Lindl."
+    },
+    {
+      "group": "식물",
+      "name_ko": "사과나무",
+      "scientific_name": "Malus domestica (Suckow) Borkh."
+    },
+    {
+      "group": "식물",
+      "name_ko": "사철나무",
+      "scientific_name": "Euonymus japonicus Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "산돌배",
+      "scientific_name": "Pyrus ussuriensis Maxim. ex Rupr."
+    },
+    {
+      "group": "식물",
+      "name_ko": "산사나무",
+      "scientific_name": "Crataegus pinnatifida Bunge"
+    },
+    {
+      "group": "식물",
+      "name_ko": "산초나무",
+      "scientific_name": "Zanthoxylum schinifolium Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "수국",
+      "scientific_name": "Hydrangea macrophylla (Thunb.) Ser."
+    },
+    {
+      "group": "식물",
+      "name_ko": "온주밀감",
+      "scientific_name": "Citrus unshiu (Yu.Tanaka ex Swingle) Marcow."
+    },
+    {
+      "group": "식물",
+      "name_ko": "왕머루",
+      "scientific_name": "Vitis amurensis Rupr."
+    },
+    {
+      "group": "식물",
+      "name_ko": "왕벚나무",
+      "scientific_name": "Prunus × yedoensis Matsum."
+    },
+    {
+      "group": "식물",
+      "name_ko": "윤노리나무",
+      "scientific_name": "Pourthiaea villosa (Thunb.) Decne."
+    },
+    {
+      "group": "식물",
+      "name_ko": "인가목조팝나무",
+      "scientific_name": "Spiraea chamaedryfolia L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "조팝나무",
+      "scientific_name": "Spiraea prunifolia f. simpliciflora Nakai"
+    },
+    {
+      "group": "식물",
+      "name_ko": "참싸리",
+      "scientific_name": "Lespedeza cyrtobotrya Miq."
+    },
+    {
+      "group": "식물",
+      "name_ko": "참조팝나무",
+      "scientific_name": "Spiraea fritschiana C.K.Schneid."
+    },
+    {
+      "group": "식물",
+      "name_ko": "치자나무",
+      "scientific_name": "Gardenia jasminoides J.Ellis"
+    },
+    {
+      "group": "식물",
+      "name_ko": "팽나무",
+      "scientific_name": "Celtis sinensis Pers."
+    },
+    {
+      "group": "식물",
+      "name_ko": "홍가시나무",
+      "scientific_name": "Photinia glabra (Thunb.) Franch. & Sav."
+    },
+    {
+      "group": "식물",
+      "name_ko": "황매화",
+      "scientific_name": "Kerria japonica (L.) DC."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZMAJ0151-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMAJ0151&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:42+00:00",
+    "html_sha256": "6a0b51e382b31df2d739f5c29caa55317b0ccb2e0ef749bf4bdaec2c85ba0e87",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

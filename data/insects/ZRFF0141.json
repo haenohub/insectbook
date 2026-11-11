@@ -1,0 +1,114 @@
+{
+  "id": "ZRFF0141",
+  "name_ko": "흰애기잎말이나방",
+  "scientific_name": "Ancylis amplimacula Falkovitsh, 1965",
+  "display_name": "흰애기잎말이나방",
+  "family_ko": "잎말이나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎말이나방상과",
+      "name_latin": "Tortricoidea"
+    },
+    "family": {
+      "name_ko": "잎말이나방과",
+      "name_latin": "Tortricidae"
+    },
+    "subfamily": {
+      "name_ko": "애기잎말이나방아과",
+      "name_latin": "Olethreutinae"
+    },
+    "genus": {
+      "name_ko": "살구애기잎말이나방속",
+      "name_latin": "Ancylis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 잎말이나방상과 (Tortricoidea)\n과 : 잎말이나방과 (Tortricidae)\n아과 : 애기잎말이나방아과 (Olethreutinae)\n속 : 살구애기잎말이나방속 (Ancylis)",
+  "basic_information": {
+    "곤충명": "흰애기잎말이나방",
+    "학명": "Ancylis amplimacula Falkovitsh, 1965"
+  },
+  "information": {
+    "general_description": "경기도 수원시, 경기도 남양주시 광릉과 국외는 일본과 아무르에 분포하며, 아랫입술수염은 백색이고, 제 2 마디는 삼각형을 이루고, 제 3 마디는 아주 짧다. 앞날개의 바탕색이 백색이며, 전연 중앙 이후에 있는 암갈색의 삼각 무늬는 뚜렷하고, 기부 무늬도 암갈색으로 비교적 명료하나, 전연 쪽 1/3에는 미치지 못한다. 앞날개의 날개끝과 외연은 갈고리 모양을 이루며, 연모는 순백색이다. 뒷날개는 갈색이며, 연모는 회갈색이다. 날개길이는 15～18㎜ 이다.",
+    "adult": null,
+    "adult_male": "생식기의 쿠쿨루스(cucullus)가 짧은 것으로 근연종과 구분한다.",
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "경기도 수원시, 경기도 남양주시 광릉과 국외는 일본과 아무르에 분포하며, 아랫입술수염은 백색이고, 제 2 마디는 삼각형을 이루고, 제 3 마디는 아주 짧다. 앞날개의 바탕색이 백색이며, 전연 중앙 이후에 있는 암갈색의 삼각 무늬는 뚜렷하고, 기부 무늬도 암갈색으로 비교적 명료하나, 전연 쪽 1/3에는 미치지 못한다. 앞날개의 날개끝과 외연은 갈고리 모양을 이루며, 연모는 순백색이다. 뒷날개는 갈색이며, 연모는 회갈색이다. 날개길이는 15～18㎜ 이다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "생식기의 쿠쿨루스(cucullus)가 짧은 것으로 근연종과 구분한다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRFF0141-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0141_7.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0141_7_th.jpg",
+      "alt": "흰애기잎말이나방 1번째 사진 : 흰애기잎말이나방가슴 확대 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0141_7_th2.jpg",
+      "caption": "흰애기잎말이나방가슴 확대 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRFF0141-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0141_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0141_1_th.jpg",
+      "alt": "흰애기잎말이나방 2번째 사진 : 흰애기잎말이나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0141_1_th2.jpg",
+      "caption": "흰애기잎말이나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRFF0141-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0307122080",
+      "description": "[KNAE0307122080] 흰애기잎말이나방 1998.05.22 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0307122081",
+      "description": "[KNAE0307122081] 흰애기잎말이나방 1998.05.22 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0307122082",
+      "description": "[KNAE0307122082] 흰애기잎말이나방 1998.05.06 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRFF0141-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRFF0141&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:40+00:00",
+    "html_sha256": "f075c0bce89e6763bff90bc7afd97963d938c4a854d12da7af96a123d4dfcc8b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "ZRDW0002",
+  "name_ko": "노랑띠원뿔나방",
+  "scientific_name": "Meleonoma torophanes (Meyrick, 1935)",
+  "display_name": "노랑띠원뿔나방",
+  "family_ko": "판날개뿔나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "뿔나방상과",
+      "name_latin": "Gelechioidea"
+    },
+    "family": {
+      "name_ko": "판날개뿔나방과",
+      "name_latin": "Xyloryctidae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Periacminae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Meleonoma"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 뿔나방상과 (Gelechioidea)\n과 : 판날개뿔나방과 (Xyloryctidae)\n아과 : (Periacminae)\n속 : (Meleonoma)",
+  "basic_information": {
+    "곤충명": "노랑띠원뿔나방",
+    "학명": "Meleonoma torophanes (Meyrick, 1935)"
+  },
+  "information": {
+    "general_description": "머리는 황갈색이며, 가슴 윗부분은 흑갈색임. 아랫입술수염은 아주 잘 발달되어 있으며, 제 2마디는 두텁고 길며, 제 3마디는 매끈하고 뽀족함. 앞날개와 가운데다리의 바깥쪽은 흑갈색을 띠며, 뒷다리의 종아리마디는 황갈색의 긴 털로 덮여 있음. 앞날개의 바탕색은 흑갈색임. 중횡선은 황색으로 넓은 띠를 이루며, 날개의 전연끝부분에 삼각형의 황색 무늬가 명료하게 나타나 보임. 앞날개는 약간 뾰족한편이고, 뒷날개는 암회색임.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": "교미관과 교미주머니가 함께 연결되어 긴 자루모양을 이룸",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "머리는 황갈색이며, 가슴 윗부분은 흑갈색임. 아랫입술수염은 아주 잘 발달되어 있으며, 제 2마디는 두텁고 길며, 제 3마디는 매끈하고 뽀족함. 앞날개와 가운데다리의 바깥쪽은 흑갈색을 띠며, 뒷다리의 종아리마디는 황갈색의 긴 털로 덮여 있음. 앞날개의 바탕색은 흑갈색임. 중횡선은 황색으로 넓은 띠를 이루며, 날개의 전연끝부분에 삼각형의 황색 무늬가 명료하게 나타나 보임. 앞날개는 약간 뾰족한편이고, 뒷날개는 암회색임."
+    },
+    {
+      "title": "성충(암)",
+      "text": "교미관과 교미주머니가 함께 연결되어 긴 자루모양을 이룸"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDW0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDW0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDW0002_1_th.jpg",
+      "alt": "노랑띠원뿔나방 1번째 사진 : 노랑띠원뿔나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDW0002_1_th2.jpg",
+      "caption": "노랑띠원뿔나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDW0002-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0303111055",
+      "description": "[UIBE0303111055] 노랑띠원뿔나방 1996.07.20 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0303111057",
+      "description": "[UIBE0303111057] 노랑띠원뿔나방 1996.07.20 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0303111058",
+      "description": "[UIBE0303111058] 노랑띠원뿔나방 1996.07.07 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDW0002.png",
+    "reference_image_id": "ZRDW0002-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T11:58:57.275766+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "e22c7bc8cf5dffa79650aec3b2d00ff33c5962951fed0a12a3d328fdf0ee1796"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDW0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:09+00:00",
+    "html_sha256": "528b4efa711b327916fe29a930839b2691c309b30deb467352319b61df10d4f5",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

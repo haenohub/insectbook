@@ -1,0 +1,110 @@
+{
+  "id": "ZOCQ0003",
+  "name_ko": "둥글장수풍뎅이",
+  "scientific_name": "Pentodon quadridens (Gebler, 1845)",
+  "display_name": "둥글장수풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "장수풍뎅이아과",
+      "name_latin": "Dynastinae"
+    },
+    "genus": {
+      "name_ko": "둥글장수풍뎅이속",
+      "name_latin": "Pentodon"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 장수풍뎅이아과 (Dynastinae)\n속 : 둥글장수풍뎅이속 (Pentodon)",
+  "basic_information": {
+    "곤충명": "둥글장수풍뎅이",
+    "학명": "Pentodon quadridens (Gebler, 1845)"
+  },
+  "information": {
+    "general_description": "러시아, 몽고, 중국, 이란, 터어키, 시리아, 키프로스에 분포하며, 갈색을 띠는 흑색이며 약하게 광택이 있다. 복면은 적갈색이 강하고, 다리, 촉각, 각 수염은 흑색을 디는 갈색이다. 이마의 가운데는 2개의 작은 돌기가 있고, 큰턱은 밖쪽이 3개의 구름처럼 나뉘었고, 앞쪽 면과 아랫입술의 가장자리는 황금빛의 조밀한 털로 덮였다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "러시아, 몽고, 중국, 이란, 터어키, 시리아, 키프로스에 분포하며, 갈색을 띠는 흑색이며 약하게 광택이 있다. 복면은 적갈색이 강하고, 다리, 촉각, 각 수염은 흑색을 디는 갈색이다. 이마의 가운데는 2개의 작은 돌기가 있고, 큰턱은 밖쪽이 3개의 구름처럼 나뉘었고, 앞쪽 면과 아랫입술의 가장자리는 황금빛의 조밀한 털로 덮였다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCQ0003-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCQ0003_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCQ0003_2_th.jpg",
+      "alt": "둥글장수풍뎅이 1번째 사진 : 둥글장수풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCQ0003_2_th2.jpg",
+      "caption": "둥글장수풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOCQ0003-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCQ0003_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCQ0003_1_th.jpg",
+      "alt": "둥글장수풍뎅이 2번째 사진 : 둥글장수풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCQ0003_1_th2.jpg",
+      "caption": "둥글장수풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCQ0003-1",
+  "specimen_examples": [
+    {
+      "id": "SSUE0202221041",
+      "description": "[SSUE0202221041] 둥글장수풍뎅이 1996.06.23 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0202221042",
+      "description": "[SSUE0202221042] 둥글장수풍뎅이 1996.06.23 / / 성신여자대학교"
+    },
+    {
+      "id": "SNUE0306172143",
+      "description": "[SNUE0306172143] 둥글장수풍뎅이 1966.08.04 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOCQ0003-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCQ0003&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:57+00:00",
+    "html_sha256": "b42339720372ad0f1210c0e9e517ef37df50e965a12e1d25e0b87933de91b34f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "ZOBH0331",
+  "name_ko": "애기윤머리먼지벌레",
+  "scientific_name": "Trichotichnus (Trichotichnus) congruus (Motschulsky, 1866)",
+  "display_name": "애기윤머리먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "먼지벌레아과",
+      "name_latin": "Harpalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Trichotichnus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 먼지벌레아과 (Harpalinae)\n속 : (Trichotichnus)",
+  "basic_information": {
+    "곤충명": "애기윤머리먼지벌레",
+    "학명": "Trichotichnus (Trichotichnus) congruus (Motschulsky, 1866)"
+  },
+  "information": {
+    "general_description": "몸길이는 6~9mm 이며 촉각, 다리색깔은 연한갈색이며 두부, 앞가슴등판 의 색깔은 검은색광택이 난다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "일반적으로 야산의 평지에서 발견된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 6~9mm 이며 촉각, 다리색깔은 연한갈색이며 두부, 앞가슴등판 의 색깔은 검은색광택이 난다."
+    },
+    {
+      "title": "생태",
+      "text": "일반적으로 야산의 평지에서 발견된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0331-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0331_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0331_1_th.jpg",
+      "alt": "애기윤머리먼지벌레 1번째 사진 : 애기윤머리먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0331_1_th2.jpg",
+      "caption": "애기윤머리먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0331-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304031075",
+      "description": "[KNAE0304031075] 애기윤머리먼지벌레 1991.08.24 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304031076",
+      "description": "[KNAE0304031076] 애기윤머리먼지벌레 1991.08.25 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304031077",
+      "description": "[KNAE0304031077] 애기윤머리먼지벌레 1991.08.31 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0331-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0331&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:00+00:00",
+    "html_sha256": "8d9b9fb72d4ba1840c413f90ffef0a219564aa77bb24d7f8370ba2a29eca69c2",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

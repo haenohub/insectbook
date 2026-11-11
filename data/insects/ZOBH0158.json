@@ -1,0 +1,103 @@
+{
+  "id": "ZOBH0158",
+  "name_ko": "검은강변먼지벌레",
+  "scientific_name": "Bembidion (Notaphocampa) niloticum batesi (Putzeys, 1875)",
+  "display_name": "검은강변먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "꼬마먼지벌레아과",
+      "name_latin": "Trechinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Bembidion"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 꼬마먼지벌레아과 (Trechinae)\n속 : (Bembidion)",
+  "basic_information": {
+    "곤충명": "검은강변먼지벌레",
+    "학명": "Bembidion (Notaphocampa) niloticum batesi (Putzeys, 1875)"
+  },
+  "information": {
+    "general_description": "몸의길이는 3.5mm내외. 다리,촉각은 연한갈색이다. 두부와 앞가슴등판 딱지날개는 검은색의 광택이있다. 딱지날개 뒷부분에 한쌍의 둥근 노랑반점이있다",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[베트남]\n[필리핀]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의길이는 3.5mm내외. 다리,촉각은 연한갈색이다. 두부와 앞가슴등판 딱지날개는 검은색의 광택이있다. 딱지날개 뒷부분에 한쌍의 둥근 노랑반점이있다"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[베트남]\n[필리핀]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0158-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0158_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0158_1_th.jpg",
+      "alt": "검은강변먼지벌레 1번째 사진 : 검은강변먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0158_1_th2.jpg",
+      "caption": "검은강변먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0158-1",
+  "specimen_examples": [
+    {
+      "id": "SJNE0301261012",
+      "description": "[SJNE0301261012] 검은강변먼지벌레 1977.08.15 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0301261013",
+      "description": "[SJNE0301261013] 검은강변먼지벌레 1976.08.04 / / 상주대학교"
+    },
+    {
+      "id": "SCNE0407301153",
+      "description": "[SCNE0407301153] 검은강변먼지벌레 2000.11.27 / / 순천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBH0158.png",
+    "reference_image_id": "ZOBH0158-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T17:43:47.018781+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "7a717a5cc1bad836572ff7625a315583871b81108ac830aa2a72fd9718a59e4f"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0158&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:52+00:00",
+    "html_sha256": "e1c9f48dbd6f4a0d88d0a4cf2e1b70e1b3d735c0fd6bfdca7141a873845ce277",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

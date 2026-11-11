@@ -1,0 +1,121 @@
+{
+  "id": "ZOBT0107",
+  "name_ko": "주홍꼽추잎벌레",
+  "scientific_name": "Acrothinium gaschkevitchii gaschkevitchii (Motschulsky, 1860)",
+  "display_name": "주홍꼽추잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "꼽추잎벌레아과",
+      "name_latin": "Eumolpinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Acrothinium"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 꼽추잎벌레아과 (Eumolpinae)\n속 : (Acrothinium)",
+  "basic_information": {
+    "곤충명": "주홍꼽추잎벌레",
+    "학명": "Acrothinium gaschkevitchii gaschkevitchii (Motschulsky, 1860)"
+  },
+  "information": {
+    "general_description": "몸길이는 5.5~7.5mm, 등판은 청록색이며 앞날개 중앙은 적동색이다. 한국, 동시베리아, 중국, 대만, 일본(훗카이도,혼슈,시코쿠,큐슈,유큐섬,미야코)에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "포도 해충",
+    "habits": "기주식물 포도.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 5.5~7.5mm, 등판은 청록색이며 앞날개 중앙은 적동색이다. 한국, 동시베리아, 중국, 대만, 일본(훗카이도,혼슈,시코쿠,큐슈,유큐섬,미야코)에 분포되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "포도 해충"
+    },
+    {
+      "title": "습성",
+      "text": "기주식물 포도."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0107-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0107_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0107_1_th.jpg",
+      "alt": "주홍꼽추잎벌레 1번째 사진 : 주홍꼽추잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0107_1_th2.jpg",
+      "caption": "주홍꼽추잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0107-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0201092060",
+      "description": "[YNUE0201092060] 주홍꼽추잎벌레 1995.06.10 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0201092061",
+      "description": "[YNUE0201092061] 주홍꼽추잎벌레 1988.05.18 / / 영남대학교"
+    },
+    {
+      "id": "KNAE0612070011",
+      "description": "[KNAE0612070011] 주홍꼽추잎벌레 2006.06.22 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "포도",
+      "scientific_name": "Vitis vinifera L."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0107-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0107&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:58+00:00",
+    "html_sha256": "f0ecd95bf5d8a954d45b628720c515091a5b5303e8d6232e0b05e942954139c7",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "id": "ZRFF0144",
+  "name_ko": "대추애기잎말이나방",
+  "scientific_name": "Ancylis sativa Liu, 1979",
+  "display_name": "대추애기잎말이나방",
+  "family_ko": "잎말이나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎말이나방상과",
+      "name_latin": "Tortricoidea"
+    },
+    "family": {
+      "name_ko": "잎말이나방과",
+      "name_latin": "Tortricidae"
+    },
+    "subfamily": {
+      "name_ko": "애기잎말이나방아과",
+      "name_latin": "Olethreutinae"
+    },
+    "genus": {
+      "name_ko": "살구애기잎말이나방속",
+      "name_latin": "Ancylis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 잎말이나방상과 (Tortricoidea)\n과 : 잎말이나방과 (Tortricidae)\n아과 : 애기잎말이나방아과 (Olethreutinae)\n속 : 살구애기잎말이나방속 (Ancylis)",
+  "basic_information": {
+    "곤충명": "대추애기잎말이나방",
+    "학명": "Ancylis sativa Liu, 1979"
+  },
+  "information": {
+    "general_description": "한국의 경기도. 서울, 강원특별자치도, 일본에 분포하며 아랫입술수염의 제 2 마디는 앞쪽 아래로 향하며,제 3 마디는 작고 잘 보이지 않는다. 앞날개의 끝은 뾰족한 갈고리를 이루고 전연의 톱니 무늬는 중간 이후부터 발달되었다. 날개의 전연 쪽 절반은 다소 황갈색을 띠나 후연 쪽 절반은 광택이 있는 흑갈색 인편이 섞여 있다. 개체에 따라 색깔의 변이가 많다. 날개길이:12-14mm",
+    "adult": null,
+    "adult_male": "생식기의 모양은 다른 근연종들과 다소 차이가 있다. 파악판의 끝부분은넓고 긴 타원형을 이루고, 후연의 만곡부는 다소 약하게 형성되었다",
+    "adult_female": null,
+    "larva": "유충은 대추 잎이 전개되는 봄부터 1개의 잎 또는 주위의 여러 개의 잎을 함께 묶어 갉아먹고 가해하며,과일이 커지면 과일에 구멍을 뚫고 들어가 가해한다.",
+    "egg": null,
+    "pupa": null,
+    "ecology": "대추나무에 피해가 심하며, 발생이 많은 경우에는 한 나무의 과일 전체가 대추좀나방으로 알려져 왔으나 좀나방류가 아니므로개칭한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": "번데기 상태로 월동한다고 알려져 있으나, 담장의 양지 바른 곳이나 건물의 틈바구니에서 나와 나는 것이 2월 중에 확인되어 성충으로 월동할 가능성도 보여진다. 연간 발생 횟수는 3회 정도로 추측된다.",
+    "distribution": null,
+    "notes": "[보통종]\n[반출금지종] 환경부고시제2001-210호",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국의 경기도. 서울, 강원특별자치도, 일본에 분포하며 아랫입술수염의 제 2 마디는 앞쪽 아래로 향하며,제 3 마디는 작고 잘 보이지 않는다. 앞날개의 끝은 뾰족한 갈고리를 이루고 전연의 톱니 무늬는 중간 이후부터 발달되었다. 날개의 전연 쪽 절반은 다소 황갈색을 띠나 후연 쪽 절반은 광택이 있는 흑갈색 인편이 섞여 있다. 개체에 따라 색깔의 변이가 많다. 날개길이:12-14mm"
+    },
+    {
+      "title": "성충(수)",
+      "text": "생식기의 모양은 다른 근연종들과 다소 차이가 있다. 파악판의 끝부분은넓고 긴 타원형을 이루고, 후연의 만곡부는 다소 약하게 형성되었다"
+    },
+    {
+      "title": "유충",
+      "text": "유충은 대추 잎이 전개되는 봄부터 1개의 잎 또는 주위의 여러 개의 잎을 함께 묶어 갉아먹고 가해하며,과일이 커지면 과일에 구멍을 뚫고 들어가 가해한다."
+    },
+    {
+      "title": "생태",
+      "text": "대추나무에 피해가 심하며, 발생이 많은 경우에는 한 나무의 과일 전체가 대추좀나방으로 알려져 왔으나 좀나방류가 아니므로개칭한다."
+    },
+    {
+      "title": "월동",
+      "text": "번데기 상태로 월동한다고 알려져 있으나, 담장의 양지 바른 곳이나 건물의 틈바구니에서 나와 나는 것이 2월 중에 확인되어 성충으로 월동할 가능성도 보여진다. 연간 발생 횟수는 3회 정도로 추측된다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]\n[반출금지종] 환경부고시제2001-210호"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRFF0144-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0144_7.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0144_7_th.jpg",
+      "alt": "대추애기잎말이나방 1번째 사진 : 대추애기잎말이나방가슴 확대 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0144_7_th2.jpg",
+      "caption": "대추애기잎말이나방가슴 확대 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRFF0144-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0144_6.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0144_6_th.jpg",
+      "alt": "대추애기잎말이나방 2번째 사진 : 대추애기잎말이나방배 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0144_6_th2.jpg",
+      "caption": "대추애기잎말이나방배 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRFF0144-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0144_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0144_1_th.jpg",
+      "alt": "대추애기잎말이나방 3번째 사진 : 대추애기잎말이나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0144_1_th2.jpg",
+      "caption": "대추애기잎말이나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRFF0144-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0304101091",
+      "description": "[UIBE0304101091] 대추애기잎말이나방 1997.07.26 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0304101092",
+      "description": "[UIBE0304101092] 대추애기잎말이나방 1997.07.26 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0304101093",
+      "description": "[UIBE0304101093] 대추애기잎말이나방 1997.05.07 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRFF0144-3"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRFF0144&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:19+00:00",
+    "html_sha256": "307cbff7a499bdac7b1ad93edc176ff758eed40d4450bdcbe082c7c7741b8049",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

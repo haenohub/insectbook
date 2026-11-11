@@ -1,0 +1,118 @@
+{
+  "id": "ZRCI0317",
+  "name_ko": "털뿔가지나방",
+  "scientific_name": "Alcis angulifera (Butler, 1878)",
+  "display_name": "털뿔가지나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "가지나방아과",
+      "name_latin": "Ennominae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Alcis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 가지나방아과 (Ennominae)\n속 : (Alcis)",
+  "basic_information": {
+    "곤충명": "털뿔가지나방",
+    "학명": "Alcis angulifera (Butler, 1878)"
+  },
+  "information": {
+    "general_description": "더듬이는　수컷이　빗살　모양이고，암컷은　실　모양임．몸과　날개는　회색을　띤　흑갈색인데，수컷의　앞날개　밑부분에는　큰　각공이　있음．날개의　중앙은　빛깔이약간　연함．횡선은　흑색인데，내횡선은\n안쪽에　접하여　１개의　띠가　있음．중횡선은　대분분의　 경우　전연부근에서만　선명함．횡맥상에는　흑색무늬가　있음．개체에　따라서는　중횡선의　일부와　횡맥　점으로　흑색　고리를　형성하는　일이　있음．",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은　５～７월과　９～１０월에　출현함． 유충은　졸참나무와　밤나무　등의　잎을　먹음．",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는　수컷이　빗살　모양이고，암컷은　실　모양임．몸과　날개는　회색을　띤　흑갈색인데，수컷의　앞날개　밑부분에는　큰　각공이　있음．날개의　중앙은　빛깔이약간　연함．횡선은　흑색인데，내횡선은\n안쪽에　접하여　１개의　띠가　있음．중횡선은　대분분의　 경우　전연부근에서만　선명함．횡맥상에는　흑색무늬가　있음．개체에　따라서는　중횡선의　일부와　횡맥　점으로　흑색　고리를　형성하는　일이　있음．"
+    },
+    {
+      "title": "생태",
+      "text": "성충은　５～７월과　９～１０월에　출현함． 유충은　졸참나무와　밤나무　등의　잎을　먹음．"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0317-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0317_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0317_2_th.jpg",
+      "alt": "털뿔가지나방 1번째 사진 : 털뿔가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0317_2_th2.jpg",
+      "caption": "털뿔가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0317-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0317_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0317_1_th.jpg",
+      "alt": "털뿔가지나방 2번째 사진 : 털뿔가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0317_1_th2.jpg",
+      "caption": "털뿔가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0317-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408111053",
+      "description": "[MPME0408111053] 털뿔가지나방 2002.05.31 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408111052",
+      "description": "[MPME0408111052] 털뿔가지나방 2002.05.31 / / 목포자연사박물관"
+    },
+    {
+      "id": "KNAE0409101020",
+      "description": "[KNAE0409101020] 털뿔가지나방 1998.06.29 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCI0317-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0317&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:21+00:00",
+    "html_sha256": "8a190d9a336bfe70a090ba6dfdcf6bc87cb5a772d769678c60ee8b2157604ca7",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

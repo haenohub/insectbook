@@ -1,0 +1,122 @@
+{
+  "id": "ZRDU0039",
+  "name_ko": "작은점노랑재주나방",
+  "scientific_name": "Mimopydna pallida (Butler, 1877)",
+  "display_name": "작은점노랑재주나방",
+  "family_ko": "재주나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "재주나방과",
+      "name_latin": "Notodontidae"
+    },
+    "subfamily": {
+      "name_ko": "점노랑재주나방아과",
+      "name_latin": "Ceirinae"
+    },
+    "genus": {
+      "name_ko": "작은점노랑재주나방속",
+      "name_latin": "Mimopydna"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 재주나방과 (Notodontidae)\n아과 : 점노랑재주나방아과 (Ceirinae)\n속 : 작은점노랑재주나방속 (Mimopydna)",
+  "basic_information": {
+    "곤충명": "작은점노랑재주나방",
+    "학명": "Mimopydna pallida (Butler, 1877)"
+  },
+  "information": {
+    "general_description": "날개편 길이 42～45mm. 날개는 전반적으로 황색을 띠고 중실의 끝에서 외연쪽으로 평행하게 갈색띠 무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 4～6월, 8～9월 연 2회 출현한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[중국]\n[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 42～45mm. 날개는 전반적으로 황색을 띠고 중실의 끝에서 외연쪽으로 평행하게 갈색띠 무늬가 있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 4～6월, 8～9월 연 2회 출현한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDU0039-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0039_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0039_2_th.jpg",
+      "alt": "작은점노랑재주나방 1번째 사진 : 작은점노랑재주나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0039_2_th2.jpg",
+      "caption": "작은점노랑재주나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDU0039-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0039_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0039_1_th.jpg",
+      "alt": "작은점노랑재주나방 2번째 사진 : 작은점노랑재주나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0039_1_th2.jpg",
+      "caption": "작은점노랑재주나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDU0039-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0204121045",
+      "description": "[KNAE0204121045] 작은점노랑재주나방 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0204121042",
+      "description": "[KNAE0204121042] 작은점노랑재주나방 / / 국립수목원"
+    },
+    {
+      "id": "FRIE0204121037",
+      "description": "[FRIE0204121037] 작은점노랑재주나방 1981.08.20 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDU0039-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDU0039&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:53+00:00",
+    "html_sha256": "5aaf1b7096eae0ea5eab528469b0f4066635c41d481f29a3f19c9fd02ab52d9a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

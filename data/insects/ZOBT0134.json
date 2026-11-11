@@ -1,0 +1,103 @@
+{
+  "id": "ZOBT0134",
+  "name_ko": "비로봉잎벌레",
+  "scientific_name": "Chrysolina (Chrysocrosita) sulcicollis solida (Weise, 1898)",
+  "display_name": "비로봉잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "잎벌레아과",
+      "name_latin": "Chrysomelinae"
+    },
+    "genus": {
+      "name_ko": "참잎벌레속",
+      "name_latin": "Chrysolina"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 잎벌레아과 (Chrysomelinae)\n속 : 참잎벌레속 (Chrysolina)",
+  "basic_information": {
+    "곤충명": "비로봉잎벌레",
+    "학명": "Chrysolina (Chrysocrosita) sulcicollis solida (Weise, 1898)"
+  },
+  "information": {
+    "general_description": "몸길이는 7.0~9.2mm, 앞가슴등판은 점각은 점각열사이 공간보다 크며, 불규칙 점각. 앞날개 점각이 있다. 한국(북부), 중국(만주,북부)에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 7.0~9.2mm, 앞가슴등판은 점각은 점각열사이 공간보다 크며, 불규칙 점각. 앞날개 점각이 있다. 한국(북부), 중국(만주,북부)에 분포되어있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0134-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0134_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0134_1_th.jpg",
+      "alt": "비로봉잎벌레 1번째 사진 : 비로봉잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0134_1_th2.jpg",
+      "caption": "비로봉잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0134-1",
+  "specimen_examples": [
+    {
+      "id": "SJNE0301241008",
+      "description": "[SJNE0301241008] 비로봉잎벌레 1972.06.08 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0301241009",
+      "description": "[SJNE0301241009] 비로봉잎벌레 1980.06.29 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0301241011",
+      "description": "[SJNE0301241011] 비로봉잎벌레 1995.09.07 / / 상주대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0134-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0134&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:56+00:00",
+    "html_sha256": "d816439f03a40c6c549beba104a61896f1fa3bdd97246f48182c178f9f00c980",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "ZOBL0264",
+  "name_ko": "큰남색하늘소",
+  "scientific_name": "Tetraophthalmus (Tetraophthalmus) episcopalis (Chevrolat, 1852)",
+  "display_name": "큰남색하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "목하늘소아과",
+      "name_latin": "Lamiinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Tetraophthalmus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 목하늘소아과 (Lamiinae)\n속 : (Tetraophthalmus)",
+  "basic_information": {
+    "곤충명": "큰남색하늘소",
+    "학명": "Tetraophthalmus (Tetraophthalmus) episcopalis (Chevrolat, 1852)"
+  },
+  "information": {
+    "general_description": "몸의 길이는 12~14mm 이며, 두부는 적갈색을 띠고, 딱지날개 검은색을 띠며 광택이 난다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "6~7월에 출현한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의 길이는 12~14mm 이며, 두부는 적갈색을 띠고, 딱지날개 검은색을 띠며 광택이 난다."
+    },
+    {
+      "title": "생태",
+      "text": "6~7월에 출현한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0264-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0264_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0264_1_th.jpg",
+      "alt": "큰남색하늘소 1번째 사진 : 큰남색하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0264_1_th2.jpg",
+      "caption": "큰남색하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0264-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0304031016",
+      "description": "[FRIE0304031016] 큰남색하늘소 1967.07.09 / / 국립산림과학원"
+    },
+    {
+      "id": "KUIE0203221057",
+      "description": "[KUIE0203221057] 큰남색하늘소 1978.07.21 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0203221068",
+      "description": "[KUIE0203221068] 큰남색하늘소 1983.07.12 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0264-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0264&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:41+00:00",
+    "html_sha256": "9104c605ea959d3b3bc813a10765f25672fbbbdae8c6992a620dddaa8fe0a32d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": "ZRDS0369",
+  "name_ko": "꼬마숨대나방",
+  "scientific_name": "Trachea melanospila Kollar, [1844]",
+  "display_name": "꼬마숨대나방",
+  "family_ko": "밤나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "밤나방과",
+      "name_latin": "Noctuidae"
+    },
+    "subfamily": {
+      "name_ko": "밤나방아과",
+      "name_latin": "Noctuinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Trachea"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 밤나방과 (Noctuidae)\n아과 : 밤나방아과 (Noctuinae)\n속 : (Trachea)",
+  "basic_information": {
+    "곤충명": "꼬마숨대나방",
+    "학명": "Trachea melanospila Kollar, [1844]"
+  },
+  "information": {
+    "general_description": "날개편 길이 20～21mm. 앞날개는 회갈색 바탕으로 녹색 또는 녹황색의 무늬가 고르게 산재해 있다. 뒷날개는 회갈색 바탕인데 외연부는 다소 농갈색을 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 7～8월경에 출현된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]\n[러시아]\n[인도]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 20～21mm. 앞날개는 회갈색 바탕으로 녹색 또는 녹황색의 무늬가 고르게 산재해 있다. 뒷날개는 회갈색 바탕인데 외연부는 다소 농갈색을 띤다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 7～8월경에 출현된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]\n[러시아]\n[인도]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0369-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0369_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0369_1_th.jpg",
+      "alt": "꼬마숨대나방 1번째 사진 : 꼬마숨대밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0369_1_th2.jpg",
+      "caption": "꼬마숨대밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0369-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0302182041",
+      "description": "[KNAE0302182041] 꼬마숨대나방 1991.08.01 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0610180110",
+      "description": "[KNAE0610180110] 꼬마숨대나방 2006.06.15 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0911162015",
+      "description": "[KNAE0911162015] 꼬마숨대나방 2006.06.15 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDS0369.png",
+    "reference_image_id": "ZRDS0369-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T14:05:00.875199+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "865e55f2df29fbf5b70e1b2c9669671f4256892a21f7f544bc0d942bcf8908a6"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0369&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:43+00:00",
+    "html_sha256": "3bd2b276186a30dbf3021ceef087290bc541c2c308c07e6c1bae500e81623b22",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

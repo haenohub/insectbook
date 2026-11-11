@@ -1,0 +1,149 @@
+{
+  "id": "ZOBT0139",
+  "name_ko": "사시나무잎벌레",
+  "scientific_name": "Chrysomela populi Linnaeus, 1758",
+  "display_name": "사시나무잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "잎벌레아과",
+      "name_latin": "Chrysomelinae"
+    },
+    "genus": {
+      "name_ko": "잎벌레속",
+      "name_latin": "Chrysomela"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 잎벌레아과 (Chrysomelinae)\n속 : 잎벌레속 (Chrysomela)",
+  "basic_information": {
+    "곤충명": "사시나무잎벌레",
+    "학명": "Chrysomela populi Linnaeus, 1758"
+  },
+  "information": {
+    "general_description": "성충의 몸길이는 10~12 mm이고 몸은 흑남색이며 광택이 있으나 우화 직후에는 황갈색을 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": "노숙 유충의 몸길이는 약 15 mm이며 분홍색이다. 등쪽에 2줄의 흑색 점이 있고 옆에는 2줄의 흑색 돌기가 있다.",
+    "egg": "알은 등황색이며 장경(長徑)이 약 2 mm 가량 되는 긴 타원형이다.",
+    "pupa": null,
+    "ecology": "월동 성충은 4월 하순경에 출현하여 새 잎을 식해하며 6월 초순부터 잎 뒷면에 40~50개의 알을 무더기로 낳는다. 난 기간은 5~6일이다. 부화 유충은 무리를 지어 새 잎을 식해하지만 노숙해지면 분산하여 식해하며, 유충 기간은 20일 내외이다. 노숙 유충은 꼬리를 잎 뒷면에 부착하고 번데기가 되며 번데기 기간은 3~5일이다. 신 성충은 7월 하순경에 우화하여 계속 산란하므로 10월 중순까지 알, 유충을 볼 수 있고 번데기는 9월 중순까지 볼 수 있다. 10월 중순경부터 성충은 기주식물에서 지면으로 낙하하여 월동에 들어간다.",
+    "habits": "포플러류의 주요 해충으로 성충과 유충이 잎을 식해한다. 어린 유충은 잎 뒷면에 모여서 엽맥만 남기고 엽육만 먹고 성장하면 분산하여 식해한다.",
+    "season": null,
+    "overwintering": "성충으로 지피물(地皮物) 및 흙 속에서 월동한다.",
+    "distribution": "[일본]\n[중국]",
+    "notes": "[산림해충] 임업연구원(1991)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충의 몸길이는 10~12 mm이고 몸은 흑남색이며 광택이 있으나 우화 직후에는 황갈색을 띤다."
+    },
+    {
+      "title": "유충",
+      "text": "노숙 유충의 몸길이는 약 15 mm이며 분홍색이다. 등쪽에 2줄의 흑색 점이 있고 옆에는 2줄의 흑색 돌기가 있다."
+    },
+    {
+      "title": "생태",
+      "text": "월동 성충은 4월 하순경에 출현하여 새 잎을 식해하며 6월 초순부터 잎 뒷면에 40~50개의 알을 무더기로 낳는다. 난 기간은 5~6일이다. 부화 유충은 무리를 지어 새 잎을 식해하지만 노숙해지면 분산하여 식해하며, 유충 기간은 20일 내외이다. 노숙 유충은 꼬리를 잎 뒷면에 부착하고 번데기가 되며 번데기 기간은 3~5일이다. 신 성충은 7월 하순경에 우화하여 계속 산란하므로 10월 중순까지 알, 유충을 볼 수 있고 번데기는 9월 중순까지 볼 수 있다. 10월 중순경부터 성충은 기주식물에서 지면으로 낙하하여 월동에 들어간다."
+    },
+    {
+      "title": "습성",
+      "text": "포플러류의 주요 해충으로 성충과 유충이 잎을 식해한다. 어린 유충은 잎 뒷면에 모여서 엽맥만 남기고 엽육만 먹고 성장하면 분산하여 식해한다."
+    },
+    {
+      "title": "월동",
+      "text": "성충으로 지피물(地皮物) 및 흙 속에서 월동한다."
+    },
+    {
+      "title": "알",
+      "text": "알은 등황색이며 장경(長徑)이 약 2 mm 가량 되는 긴 타원형이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] 임업연구원(1991)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0139-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0139_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0139_2_th.jpg",
+      "alt": "사시나무잎벌레 1번째 사진 : 사시나무잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0139_2_th2.jpg",
+      "caption": "사시나무잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBT0139-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0139_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0139_1_th.jpg",
+      "alt": "사시나무잎벌레 2번째 사진 : 사시나무잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0139_1_th2.jpg",
+      "caption": "사시나무잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0139-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408201114",
+      "description": "[MPME0408201114] 사시나무잎벌레 1999.06.25 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408201113",
+      "description": "[MPME0408201113] 사시나무잎벌레 1999.06.25 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408051007",
+      "description": "[MPME0408051007] 사시나무잎벌레 1999.06.25 / / 목포자연사박물관"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "사시나무",
+      "scientific_name": "Populus tremula var. davidiana (Dode) C.K.Schneid."
+    },
+    {
+      "group": "식물",
+      "name_ko": "황철나무",
+      "scientific_name": "Populus suaveolens Fisch. ex Poit. & A.Vilm."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0139-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0139&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:27+00:00",
+    "html_sha256": "156753417c13285b5afd57759a116876b932a38d4aa618781721c06e6d43e4dc",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

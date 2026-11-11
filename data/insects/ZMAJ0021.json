@@ -1,0 +1,129 @@
+{
+  "id": "ZMAJ0021",
+  "name_ko": "싸리수염진딧물",
+  "scientific_name": "Aulacorthum (Aulacorthum) solani (Kaltenbach, 1843)",
+  "display_name": "싸리수염진딧물",
+  "family_ko": "진딧물과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "진딧물상과",
+      "name_latin": "Aphidoidea"
+    },
+    "family": {
+      "name_ko": "진딧물과",
+      "name_latin": "Aphididae"
+    },
+    "subfamily": {
+      "name_ko": "진딧물아과",
+      "name_latin": "Aphidinae"
+    },
+    "genus": {
+      "name_ko": "싸리수염진딧물속",
+      "name_latin": "Aulacorthum"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 진딧물상과 (Aphidoidea)\n과 : 진딧물과 (Aphididae)\n아과 : 진딧물아과 (Aphidinae)\n속 : 싸리수염진딧물속 (Aulacorthum)",
+  "basic_information": {
+    "곤충명": "싸리수염진딧물",
+    "학명": "Aulacorthum (Aulacorthum) solani (Kaltenbach, 1843)"
+  },
+  "information": {
+    "general_description": "유시충은 2.4mm정도의 녹색∼연녹색이며, 배에 5개의 검은 띠무늬가 있는데 배 3, 4마디의 무늬가 하나로 합쳐 보이기도 한다. 더듬이는 몸길이의 1.5배로 길다. 무시충은 2.2∼3mm의 연황색, 녹황색, 녹색이며 더듬이는 몸길이의 1.8배로 길다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "유시충은 2.4mm정도의 녹색∼연녹색이며, 배에 5개의 검은 띠무늬가 있는데 배 3, 4마디의 무늬가 하나로 합쳐 보이기도 한다. 더듬이는 몸길이의 1.5배로 길다. 무시충은 2.2∼3mm의 연황색, 녹황색, 녹색이며 더듬이는 몸길이의 1.8배로 길다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMAJ0021-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAJ0021_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAJ0021_1_th.jpg",
+      "alt": "싸리수염진딧물 1번째 사진 : 싸리수염진딧물전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAJ0021_1_th2.jpg",
+      "caption": "싸리수염진딧물전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMAJ0021-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0203222001",
+      "description": "[SNUE0203222001] 싸리수염진딧물 1999.08.11 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0203222004",
+      "description": "[SNUE0203222004] 싸리수염진딧물 1999.08.11 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0203222005",
+      "description": "[SNUE0203222005] 싸리수염진딧물 1999.08.11 / / 서울대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "구기자나무",
+      "scientific_name": "Lycium chinense Mill."
+    },
+    {
+      "group": "식물",
+      "name_ko": "돌배나무",
+      "scientific_name": "Pyrus pyrifolia (Burm.f.) Nakai"
+    },
+    {
+      "group": "식물",
+      "name_ko": "산돌배",
+      "scientific_name": "Pyrus ussuriensis Maxim. ex Rupr."
+    },
+    {
+      "group": "식물",
+      "name_ko": "싸리",
+      "scientific_name": "Lespedeza bicolor Turcz."
+    },
+    {
+      "group": "식물",
+      "name_ko": "온주밀감",
+      "scientific_name": "Citrus unshiu (Yu.Tanaka ex Swingle) Marcow."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZMAJ0021-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMAJ0021&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:54+00:00",
+    "html_sha256": "c4322de2e61fc6be56ce67f57fc90007f5234fb666d3d53b465849a574f2f7ef",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

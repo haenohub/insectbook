@@ -1,0 +1,107 @@
+{
+  "id": "ZTCE0004",
+  "name_ko": "구주개미벌",
+  "scientific_name": "Mutilla mikado Cameron, 1900",
+  "display_name": "구주개미벌",
+  "family_ko": "개미벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "말벌상과",
+      "name_latin": "Vespoidea"
+    },
+    "family": {
+      "name_ko": "개미벌과",
+      "name_latin": "Mutillidae"
+    },
+    "subfamily": {
+      "name_ko": "개미벌아과",
+      "name_latin": "Mutillinae"
+    },
+    "genus": {
+      "name_ko": "개미벌속",
+      "name_latin": "Mutilla"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 말벌상과 (Vespoidea)\n과 : 개미벌과 (Mutillidae)\n아과 : 개미벌아과 (Mutillinae)\n속 : 개미벌속 (Mutilla)",
+  "basic_information": {
+    "곤충명": "구주개미벌",
+    "학명": "Mutilla mikado Cameron, 1900"
+  },
+  "information": {
+    "general_description": "몸길이는 14mm 정도이며 암컷의 머리는 흑색이나 개체에 따라서 정수리가 팥빛이다. 더듬이 얼굴, 작은턱과 입의 대부분은 갈색 또는 흑갈색이다. 가슴은 팥빛이다. 배, 다리는 흑색이나 종아리마디 이하는 점차 담색으로 되지만 흑갈색이다. 전면에 긴 털이 많이 났는데 머리와 배의 것은 흑색이고, 가슴의 것은 갈색, 다리의 것은 갈색내지 회갈색이다. 온몸에는 점각이 있는데 머리의 점각은 거칠고 크다. 온몸에 광택이 있는데 배가 특히 심하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 14mm 정도이며 암컷의 머리는 흑색이나 개체에 따라서 정수리가 팥빛이다. 더듬이 얼굴, 작은턱과 입의 대부분은 갈색 또는 흑갈색이다. 가슴은 팥빛이다. 배, 다리는 흑색이나 종아리마디 이하는 점차 담색으로 되지만 흑갈색이다. 전면에 긴 털이 많이 났는데 머리와 배의 것은 흑색이고, 가슴의 것은 갈색, 다리의 것은 갈색내지 회갈색이다. 온몸에는 점각이 있는데 머리의 점각은 거칠고 크다. 온몸에 광택이 있는데 배가 특히 심하다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTCE0004-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTCE0004_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTCE0004_1_th.jpg",
+      "alt": "구주개미벌 1번째 사진 : 구주개미벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTCE0004_1_th2.jpg",
+      "caption": "구주개미벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTCE0004-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305201036",
+      "description": "[YNUE0305201036] 구주개미벌 1974.08.04 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305201037",
+      "description": "[YNUE0305201037] 구주개미벌 1989.06.04 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305201038",
+      "description": "[YNUE0305201038] 구주개미벌 1970.08.07 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTCE0004.png",
+    "reference_image_id": "ZTCE0004-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T13:47:20.920143+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "039dd6a443e890154c9d9ad3ff137023fd3fa6ac5d72a6676c2f3b2a6cc37e39"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTCE0004&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:22+00:00",
+    "html_sha256": "e50464a2338a178420e2788b7bd3a225a375ebb3c536b2b6f71cdaaeb80d08a5",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

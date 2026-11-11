@@ -1,0 +1,114 @@
+{
+  "id": "ZOBH0412",
+  "name_ko": "끝무늬녹색먼지벌레",
+  "scientific_name": "Chlaenius (Achlaenius) micans Fabricius, 1792",
+  "display_name": "끝무늬녹색먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "먼지벌레아과",
+      "name_latin": "Harpalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Chlaenius"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 먼지벌레아과 (Harpalinae)\n속 : (Chlaenius)",
+  "basic_information": {
+    "곤충명": "끝무늬녹색먼지벌레",
+    "학명": "Chlaenius (Achlaenius) micans Fabricius, 1792"
+  },
+  "information": {
+    "general_description": "몸길이는15~17.5mm 이며 두부와 전흉배판은 녹동색의 광택이 강하고 점각과 작은털이 밀생한다. 딱지날개의 후반부에는 고리형태의 황갈색 대가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는15~17.5mm 이며 두부와 전흉배판은 녹동색의 광택이 강하고 점각과 작은털이 밀생한다. 딱지날개의 후반부에는 고리형태의 황갈색 대가 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0412-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0412_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0412_2_th.jpg",
+      "alt": "끝무늬녹색먼지벌레 1번째 사진 : 끝무늬녹색먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0412_2_th2.jpg",
+      "caption": "끝무늬녹색먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0412-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0412_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0412_1_th.jpg",
+      "alt": "끝무늬녹색먼지벌레 2번째 사진 : 끝무늬녹색먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0412_1_th2.jpg",
+      "caption": "끝무늬녹색먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0412-1",
+  "specimen_examples": [
+    {
+      "id": "SJNE0408181080",
+      "description": "[SJNE0408181080] 끝무늬녹색먼지벌레 2001.08.14 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0408181082",
+      "description": "[SJNE0408181082] 끝무늬녹색먼지벌레 2001.08.14 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0408181083",
+      "description": "[SJNE0408181083] 끝무늬녹색먼지벌레 2001.08.14 / / 상주대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBH0412.png",
+    "reference_image_id": "ZOBH0412-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T15:14:41.709061+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "b5f8269649f0d46647c5d9be0932a6a79e91c7c8dd7e312c67033f137f19762f"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0412&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:03+00:00",
+    "html_sha256": "2df4279845fdd6029a97f452c8b02c8f7de28358e7587f35b11ee6dd4a8ffd3a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

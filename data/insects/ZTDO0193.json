@@ -1,0 +1,103 @@
+{
+  "id": "ZTDO0193",
+  "name_ko": "앵무잎벌",
+  "scientific_name": "Tenthredo (Tenthredina) smithii W. F. Kirby, 1882",
+  "display_name": "앵무잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "잎벌아과",
+      "name_latin": "Tenthredininae"
+    },
+    "genus": {
+      "name_ko": "잎벌속",
+      "name_latin": "Tenthredo"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 잎벌아과 (Tenthredininae)\n속 : 잎벌속 (Tenthredo)",
+  "basic_information": {
+    "곤충명": "앵무잎벌",
+    "학명": "Tenthredo (Tenthredina) smithii W. F. Kirby, 1882"
+  },
+  "information": {
+    "general_description": "몸의 길이는 11.5mm,더듬이 길이는 5mm, 앞날개 길이는 11.5mm이다. 몸은 황색 또는 황갈색이다. 더듬이 제 1~3채찍마디는 적갈색, 두정은 황갈색, 가운데가슴 등판은 황갈색이고 가두리는 흑색이다. 작은방패판, 제 1배마디, 다리의 대부분은 밝은 황색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의 길이는 11.5mm,더듬이 길이는 5mm, 앞날개 길이는 11.5mm이다. 몸은 황색 또는 황갈색이다. 더듬이 제 1~3채찍마디는 적갈색, 두정은 황갈색, 가운데가슴 등판은 황갈색이고 가두리는 흑색이다. 작은방패판, 제 1배마디, 다리의 대부분은 밝은 황색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0193-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0193_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0193_1_th.jpg",
+      "alt": "앵무잎벌 1번째 사진 : 앵무잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0193_1_th2.jpg",
+      "caption": "앵무잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0193-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0301049180",
+      "description": "[YNUE0301049180] 앵무잎벌 1979.06.09 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301049181",
+      "description": "[YNUE0301049181] 앵무잎벌 1980.05.08 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301049182",
+      "description": "[YNUE0301049182] 앵무잎벌 1978.06.17 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDO0193-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0193&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:23+00:00",
+    "html_sha256": "fb1ae6a2f809f53c71bc27d0ea9012abc6403284c977b84ac4291e9f8451e0f0",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

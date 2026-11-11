@@ -1,0 +1,121 @@
+{
+  "id": "ZRCI0060",
+  "name_ko": "각시톱무늬자나방",
+  "scientific_name": "Pingasa aigneri Prout, 1930",
+  "display_name": "각시톱무늬자나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "푸른자나방아과",
+      "name_latin": "Geometrinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Pingasa"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 푸른자나방아과 (Geometrinae)\n속 : (Pingasa)",
+  "basic_information": {
+    "곤충명": "각시톱무늬자나방",
+    "학명": "Pingasa aigneri Prout, 1930"
+  },
+  "information": {
+    "general_description": "더듬이는 수컷이 빗살 모양이고, 암컷은 실 모양이다. 몸은 회색이다. 날개는 회색에 다서 청록색을 띤다. 횡선은 흑색이고, 횡맥 위는 암회색이다. 아외연선은 백색이고, 톱니 모양이다. 연모는 회백색인데 내횡선의 굴곡은 중실 안쪽에서는 약하고 그 아래에서는 세게 돌출하여 있다. 외횡선의 톱니는 날카로운 편이고, 전연에서 제3중맥(M3)까지는 다소 바깥쪽으로 달리고, 그 이하는 외연에 평행으로 달린다. 날개의 바깥쪽반은 올리브색을 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 수컷이 빗살 모양이고, 암컷은 실 모양이다. 몸은 회색이다. 날개는 회색에 다서 청록색을 띤다. 횡선은 흑색이고, 횡맥 위는 암회색이다. 아외연선은 백색이고, 톱니 모양이다. 연모는 회백색인데 내횡선의 굴곡은 중실 안쪽에서는 약하고 그 아래에서는 세게 돌출하여 있다. 외횡선의 톱니는 날카로운 편이고, 전연에서 제3중맥(M3)까지는 다소 바깥쪽으로 달리고, 그 이하는 외연에 평행으로 달린다. 날개의 바깥쪽반은 올리브색을 띤다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0060-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0060_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0060_2_th.jpg",
+      "alt": "각시톱무늬자나방 1번째 사진 : 각시톱무늬자나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0060_2_th2.jpg",
+      "caption": "각시톱무늬자나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0060-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0060_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0060_1_th.jpg",
+      "alt": "각시톱무늬자나방 2번째 사진 : 각시톱무늬자나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0060_1_th2.jpg",
+      "caption": "각시톱무늬자나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0060-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304182019",
+      "description": "[KNAE0304182019] 각시톱무늬자나방 1998.06.26 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304182020",
+      "description": "[KNAE0304182020] 각시톱무늬자나방 1998.06.27 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304182021",
+      "description": "[KNAE0304182021] 각시톱무늬자나방 1998.06.28 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRCI0060.png",
+    "reference_image_id": "ZRCI0060-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T15:55:05.652151+00:00",
+    "sha256": "b6158376acd8d908c7194413a1aa8aa22e1f7efe34ff632771883b8ecc6790c9"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0060&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:24+00:00",
+    "html_sha256": "00ad5f7978a5faac2fffe2475f8a50f1a5842820512b27c0bc6a767e647c29bb",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

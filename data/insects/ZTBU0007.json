@@ -1,0 +1,99 @@
+{
+  "id": "ZTBU0007",
+  "name_ko": "민꼬리납작맵시벌",
+  "scientific_name": "Pimpla aethiops Curtis, 1828",
+  "display_name": "민꼬리납작맵시벌",
+  "family_ko": "맵시벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "맵시벌과",
+      "name_latin": "Ichneumonidae"
+    },
+    "subfamily": {
+      "name_ko": "납작맵시벌아과",
+      "name_latin": "Pimplinae"
+    },
+    "genus": {
+      "name_ko": "홋카이도오납작맵시벌속",
+      "name_latin": "Pimpla"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 맵시벌과 (Ichneumonidae)\n아과 : 납작맵시벌아과 (Pimplinae)\n속 : 홋카이도오납작맵시벌속 (Pimpla)",
+  "basic_information": {
+    "곤충명": "민꼬리납작맵시벌",
+    "학명": "Pimpla aethiops Curtis, 1828"
+  },
+  "information": {
+    "general_description": "몸은 흑색이고 날개는 약간 흐리다. 앞다리의 넓적다리마디의 안쪽과 끝, 종아리마디, 발목마디와 가운데다리의 넓적다리마디 이하는 황갈색 또는 갈색이다. 앞날개의 경포는 마름모꼴이다. 뒷가슴의 등면에 미세한 그물 모양의 조각이 있다. 검정마디꼬리납작벌과 비슷하나 제1배마디에는 두 개의 갈고리 모양의 돌기가 없고 다소 둥글다. 각 배마디의 뒷슭에는 점각이 있고 몸의 점각은 더 잘고 배게 있다. 성충은 4∼6월에 채집되었으나 많지 않다. 13mm정도, 산란관 3mm정도",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "솔나방, 천막벌레나방, 배추흰나비, 큰쥐박각시, 청띠신선나비 등의 번데기에 기생한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[루마니아]\n[폴란드]\n[일본]\n[이탈리아]\n[헝가리]\n[영국]\n[프랑스]\n[스페인]\n[독일]\n[중국]\n[불가리아]\n[오스트리아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸은 흑색이고 날개는 약간 흐리다. 앞다리의 넓적다리마디의 안쪽과 끝, 종아리마디, 발목마디와 가운데다리의 넓적다리마디 이하는 황갈색 또는 갈색이다. 앞날개의 경포는 마름모꼴이다. 뒷가슴의 등면에 미세한 그물 모양의 조각이 있다. 검정마디꼬리납작벌과 비슷하나 제1배마디에는 두 개의 갈고리 모양의 돌기가 없고 다소 둥글다. 각 배마디의 뒷슭에는 점각이 있고 몸의 점각은 더 잘고 배게 있다. 성충은 4∼6월에 채집되었으나 많지 않다. 13mm정도, 산란관 3mm정도"
+    },
+    {
+      "title": "생태",
+      "text": "솔나방, 천막벌레나방, 배추흰나비, 큰쥐박각시, 청띠신선나비 등의 번데기에 기생한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[루마니아]\n[폴란드]\n[일본]\n[이탈리아]\n[헝가리]\n[영국]\n[프랑스]\n[스페인]\n[독일]\n[중국]\n[불가리아]\n[오스트리아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBU0007-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0007_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0007_1_th.jpg",
+      "alt": "민꼬리납작맵시벌 1번째 사진 : 민꼬리납작맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0007_1_th2.jpg",
+      "caption": "민꼬리납작맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBU0007-1",
+  "specimen_examples": [
+    {
+      "id": "DJUE0408141085",
+      "description": "[DJUE0408141085] 민꼬리납작맵시벌 1992.06.14 / / 대전대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTBU0007-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBU0007&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:50+00:00",
+    "html_sha256": "2edb6f48f6abc2612db8a420ee2adb3d1b184f4997d2717b3ce0790f4d7f807b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

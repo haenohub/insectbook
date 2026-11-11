@@ -1,0 +1,122 @@
+{
+  "id": "ZTAG0113",
+  "name_ko": "참뒤영벌",
+  "scientific_name": "Bombus (Thoracobombus) opulentus Smith, 1864",
+  "display_name": "참뒤영벌",
+  "family_ko": "꿀벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "꿀벌과",
+      "name_latin": "Apidae"
+    },
+    "subfamily": {
+      "name_ko": "꿀벌아과",
+      "name_latin": "Apinae"
+    },
+    "genus": {
+      "name_ko": "뒤영벌속",
+      "name_latin": "Bombus"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 꿀벌과 (Apidae)\n아과 : 꿀벌아과 (Apinae)\n속 : 뒤영벌속 (Bombus)",
+  "basic_information": {
+    "곤충명": "참뒤영벌",
+    "학명": "Bombus (Thoracobombus) opulentus Smith, 1864"
+  },
+  "information": {
+    "general_description": "몸길이는 19 mm 내외이다. 암컷의 머리는 폭과 길이가 거의 같으며 완전히 흑색이다. 가슴에는 광택이 있는 황갈색의 털로 덮여 있으며, 복부의 기부 2마디는 광택이 있는 황금빛의 털로 덮여 있다. 나머지 배마디는 흑색 털로 덮여 있다. 날개는 암갈색이며, 다리와 몸의 배면은 흑색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "6~9월 중에 흔히 출현한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": "[감소추세종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 19 mm 내외이다. 암컷의 머리는 폭과 길이가 거의 같으며 완전히 흑색이다. 가슴에는 광택이 있는 황갈색의 털로 덮여 있으며, 복부의 기부 2마디는 광택이 있는 황금빛의 털로 덮여 있다. 나머지 배마디는 흑색 털로 덮여 있다. 날개는 암갈색이며, 다리와 몸의 배면은 흑색이다."
+    },
+    {
+      "title": "생태",
+      "text": "6~9월 중에 흔히 출현한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[감소추세종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0113-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0113_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0113_2_th.jpg",
+      "alt": "참뒤영벌 1번째 사진 : 참뒤영벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0113_2_th2.jpg",
+      "caption": "참뒤영벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTAG0113-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0113_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0113_1_th.jpg",
+      "alt": "참뒤영벌 2번째 사진 : 참뒤영벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0113_1_th2.jpg",
+      "caption": "참뒤영벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0113-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0304022107",
+      "description": "[SNUE0304022107] 참뒤영벌 1968.05.24 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0304032001",
+      "description": "[SNUE0304032001] 참뒤영벌 1993.09.08 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0304032002",
+      "description": "[SNUE0304032002] 참뒤영벌 1989.06.20 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAG0113-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0113&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:53+00:00",
+    "html_sha256": "feedb3d6e6034ea5c279dac5ccf5934b32fd8d4fb23798c3741422389335d23a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

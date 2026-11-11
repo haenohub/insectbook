@@ -1,0 +1,114 @@
+{
+  "id": "ZLAD0004",
+  "name_ko": "막대허리노린재",
+  "scientific_name": "Paraplesius unicolor Scott, 1874",
+  "display_name": "막대허리노린재",
+  "family_ko": "호리허리노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "허리노린재상과",
+      "name_latin": "Coreoidea"
+    },
+    "family": {
+      "name_ko": "호리허리노린재과",
+      "name_latin": "Alydidae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Micrelytrinae"
+    },
+    "genus": {
+      "name_ko": "막대허리노린재속",
+      "name_latin": "Paraplesius"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 허리노린재상과 (Coreoidea)\n과 : 호리허리노린재과 (Alydidae)\n아과 : (Micrelytrinae)\n속 : 막대허리노린재속 (Paraplesius)",
+  "basic_information": {
+    "곤충명": "막대허리노린재",
+    "학명": "Paraplesius unicolor Scott, 1874"
+  },
+  "information": {
+    "general_description": "몸길이 : 12-14mm\n몸은 녹색을 띤 연한 황갈색이며, 흑색 점각이 산포되어 있다. 체형은 아주 가늘고 길다. 머리는 앞쪽으로 돌출했고, 정수리에는 불규칙한 진한 색의 세로줄이 있다. 측엽은 돌출했으나 좌우가 서로 분리되어 있다. 더듬이는 4마디이고, 극히 가늘고 길다. 앞가슴등판은 폭보다 훨씬 길고, 옆모서리에 상당하는 부위는 흑색이다. 반시초는 점각이 매우 성기고 혁질부 앞가장자리의 첨단은 흑색이다. 막질부는 길고 배끝에 접근했다. 몸의 아랫면은 황갈색이고 가슴의 중앙은 흑색이며, 다리홈타기를 잇는 흑색 줄이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 12-14mm\n몸은 녹색을 띤 연한 황갈색이며, 흑색 점각이 산포되어 있다. 체형은 아주 가늘고 길다. 머리는 앞쪽으로 돌출했고, 정수리에는 불규칙한 진한 색의 세로줄이 있다. 측엽은 돌출했으나 좌우가 서로 분리되어 있다. 더듬이는 4마디이고, 극히 가늘고 길다. 앞가슴등판은 폭보다 훨씬 길고, 옆모서리에 상당하는 부위는 흑색이다. 반시초는 점각이 매우 성기고 혁질부 앞가장자리의 첨단은 흑색이다. 막질부는 길고 배끝에 접근했다. 몸의 아랫면은 황갈색이고 가슴의 중앙은 흑색이며, 다리홈타기를 잇는 흑색 줄이 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLAD0004-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAD0004_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAD0004_2_th.jpg",
+      "alt": "막대허리노린재 1번째 사진 : 막대허리노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAD0004_2_th2.jpg",
+      "caption": "막대허리노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZLAD0004-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAD0004_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAD0004_1_th.jpg",
+      "alt": "막대허리노린재 2번째 사진 : 막대허리노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAD0004_1_th2.jpg",
+      "caption": "막대허리노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLAD0004-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0407011161",
+      "description": "[KPNE0407011161] 막대허리노린재 1984.08.10 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0407011162",
+      "description": "[KPNE0407011162] 막대허리노린재 1984.08.06 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0407011164",
+      "description": "[KPNE0407011164] 막대허리노린재 1999.07.04 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLAD0004-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLAD0004&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:43+00:00",
+    "html_sha256": "76d3168a3a9651aa4936af5cf148d8372a16ba630ed528bd577794406669ad47",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

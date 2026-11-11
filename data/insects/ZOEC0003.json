@@ -1,0 +1,129 @@
+{
+  "id": "ZOEC0003",
+  "name_ko": "왕사슴벌레",
+  "scientific_name": "Dorcus hopei binodulosus Waterhouse, 1874",
+  "display_name": "왕사슴벌레",
+  "family_ko": "사슴벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "사슴벌레과",
+      "name_latin": "Lucanidae"
+    },
+    "subfamily": {
+      "name_ko": "사슴벌레아과",
+      "name_latin": "Lucaninae"
+    },
+    "genus": {
+      "name_ko": "왕사슴벌레속",
+      "name_latin": "Dorcus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 사슴벌레과 (Lucanidae)\n아과 : 사슴벌레아과 (Lucaninae)\n속 : 왕사슴벌레속 (Dorcus)",
+  "basic_information": {
+    "곤충명": "왕사슴벌레",
+    "학명": "Dorcus hopei binodulosus Waterhouse, 1874"
+  },
+  "information": {
+    "general_description": "중국, 일본에 분포하며 흑색으로 광택이 있는 대형종. 큰턱은 몸에 비하여 짧은편이나 굵고, 둥글게 굽었으며, 내치는 1개이나 굵고 전방의 상향으로 나갔다. ocular canthus는 거의 복안의 끝까지 늘어났다. 전흉배판은 넓은데 중간의 앞쪽과 뒤쪽이 깊게 파였다. 딱지날개에는 8~10갱의 점각열이 조구처럼 달리는데 암컷은 크고 뚜렷하나 수컷은 작다.\nBL:26~53mm(수),25~45mm(암). ML:4~20mm(수),5~17mm(암).",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "종보호 차원에서 국외로 반출이 법으로 금지된 종이다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[반출금지종] 환경부고시제2001-210호",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중국, 일본에 분포하며 흑색으로 광택이 있는 대형종. 큰턱은 몸에 비하여 짧은편이나 굵고, 둥글게 굽었으며, 내치는 1개이나 굵고 전방의 상향으로 나갔다. ocular canthus는 거의 복안의 끝까지 늘어났다. 전흉배판은 넓은데 중간의 앞쪽과 뒤쪽이 깊게 파였다. 딱지날개에는 8~10갱의 점각열이 조구처럼 달리는데 암컷은 크고 뚜렷하나 수컷은 작다.\nBL:26~53mm(수),25~45mm(암). ML:4~20mm(수),5~17mm(암)."
+    },
+    {
+      "title": "생태",
+      "text": "종보호 차원에서 국외로 반출이 법으로 금지된 종이다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[반출금지종] 환경부고시제2001-210호"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOEC0003-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOEC0003_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOEC0003_3.jpg",
+      "alt": "왕사슴벌레 1번째 사진 : ",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOEC0003_3_th2.jpg",
+      "caption": null,
+      "photographed_at": null,
+      "location": null,
+      "photographer": "국립수목원(이승규)"
+    },
+    {
+      "id": "ZOEC0003-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEC0003_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEC0003_2_th.jpg",
+      "alt": "왕사슴벌레 2번째 사진 : 왕사슴벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEC0003_2_th2.jpg",
+      "caption": "왕사슴벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOEC0003-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEC0003_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEC0003_1_th.jpg",
+      "alt": "왕사슴벌레 3번째 사진 : 왕사슴벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEC0003_1_th2.jpg",
+      "caption": "왕사슴벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOEC0003-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408191062",
+      "description": "[MPME0408191062] 왕사슴벌레 1999.07.09 / / 목포자연사박물관"
+    },
+    {
+      "id": "FRIE0306261016",
+      "description": "[FRIE0306261016] 왕사슴벌레 1999.08.06 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0305131054",
+      "description": "[FRIE0305131054] 왕사슴벌레 1986.08.16 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOEC0003-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOEC0003&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:40+00:00",
+    "html_sha256": "deadd3bda2971a5725537cec1523b6c913b0a3f6812a998415bbdd1ee4d9068f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

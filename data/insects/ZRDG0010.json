@@ -1,0 +1,156 @@
+{
+  "id": "ZRDG0010",
+  "name_ko": "산푸른부전나비",
+  "scientific_name": "Celastrina sugitanii (Matsumura, 1919)",
+  "display_name": "산푸른부전나비",
+  "family_ko": "부전나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "부전나비과",
+      "name_latin": "Lycaenidae"
+    },
+    "subfamily": {
+      "name_ko": "부전나비아과",
+      "name_latin": "Polyommatinae"
+    },
+    "genus": {
+      "name_ko": "푸른부전나비속",
+      "name_latin": "Celastrina"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 부전나비과 (Lycaenidae)\n아과 : 부전나비아과 (Polyommatinae)\n속 : 푸른부전나비속 (Celastrina)",
+  "basic_information": {
+    "곤충명": "산푸른부전나비",
+    "학명": "Celastrina sugitanii (Matsumura, 1919)"
+  },
+  "information": {
+    "general_description": "푸른부전나비와 아주 비슷하여 혼돈하기 쉬음으로 식별에 특별한 주의가 필요하다.",
+    "adult": null,
+    "adult_male": "수컷은 앞뒤날개 외연이 가는 검정색 테로 둘러져 있다.",
+    "adult_female": "암컷은 검정색 테가 폭이 넓어 암수 구별은 쉽다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "산란 시기에 암컷이 나무 사이를 느리게 날아 다니는 것을 간혹 볼 수 있다.",
+    "habits": "산지의 나무가 많은 계곡 주변 양지바른 곳에 서식한다. 수컷은 산길 축축한 곳에 집단으로 흡수하는 장면을 불 수 있는데 보통 푸른부전나비와 함께 있는 경우가 많다",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[대만]",
+    "notes": "[국지적분포종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "푸른부전나비와 아주 비슷하여 혼돈하기 쉬음으로 식별에 특별한 주의가 필요하다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "수컷은 앞뒤날개 외연이 가는 검정색 테로 둘러져 있다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "암컷은 검정색 테가 폭이 넓어 암수 구별은 쉽다."
+    },
+    {
+      "title": "생태",
+      "text": "산란 시기에 암컷이 나무 사이를 느리게 날아 다니는 것을 간혹 볼 수 있다."
+    },
+    {
+      "title": "습성",
+      "text": "산지의 나무가 많은 계곡 주변 양지바른 곳에 서식한다. 수컷은 산길 축축한 곳에 집단으로 흡수하는 장면을 불 수 있는데 보통 푸른부전나비와 함께 있는 경우가 많다"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[대만]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[국지적분포종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDG0010-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDG0010_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDG0010_3.jpg",
+      "alt": "산푸른부전나비 1번째 사진 : 산푸른부전나비 짝짓기 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDG0010_3_th2.jpg",
+      "caption": "산푸른부전나비 짝짓기 이미지",
+      "photographed_at": "20160408",
+      "location": "경기도 포천시 소흘읍 광릉숲",
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRDG0010-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0010_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0010_2_th.jpg",
+      "alt": "산푸른부전나비 2번째 사진 : 산푸른부전나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0010_2_th2.jpg",
+      "caption": "산푸른부전나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDG0010-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0010_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0010_1_th.jpg",
+      "alt": "산푸른부전나비 3번째 사진 : 산푸른부전나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0010_1_th2.jpg",
+      "caption": "산푸른부전나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDG0010-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0203122142",
+      "description": "[KPNE0203122142] 산푸른부전나비 1963.05.26 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0203122143",
+      "description": "[KPNE0203122143] 산푸른부전나비 1984.05.30 / / 경북대학교"
+    },
+    {
+      "id": "ADUE0201071018",
+      "description": "[ADUE0201071018] 산푸른부전나비 1999.05.28 / / 안동대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "층층나무",
+      "scientific_name": "Cornus controversa Hemsl."
+    },
+    {
+      "group": "식물",
+      "name_ko": "황벽나무",
+      "scientific_name": "Phellodendron amurense Rupr."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDG0010-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDG0010&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:38+00:00",
+    "html_sha256": "5f918bd98dc9cb1b02917e91352173490552b000631bc2ddb195f1acd67d2764",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

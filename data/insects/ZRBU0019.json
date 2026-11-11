@@ -1,0 +1,110 @@
+{
+  "id": "ZRBU0019",
+  "name_ko": "세욱갈고리나방",
+  "scientific_name": "Oreta paki (Inoue, 1964)",
+  "display_name": "세욱갈고리나방",
+  "family_ko": "갈고리나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "갈고리나방상과",
+      "name_latin": "Drepanoidea"
+    },
+    "family": {
+      "name_ko": "갈고리나방과",
+      "name_latin": "Drepanidae"
+    },
+    "subfamily": {
+      "name_ko": "멋쟁이갈고리나방아과",
+      "name_latin": "Oretinae"
+    },
+    "genus": {
+      "name_ko": "멋쟁이갈고리나방속",
+      "name_latin": "Oreta"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 갈고리나방상과 (Drepanoidea)\n과 : 갈고리나방과 (Drepanidae)\n아과 : 멋쟁이갈고리나방아과 (Oretinae)\n속 : 멋쟁이갈고리나방속 (Oreta)",
+  "basic_information": {
+    "곤충명": "세욱갈고리나방",
+    "학명": "Oreta paki (Inoue, 1964)"
+  },
+  "information": {
+    "general_description": "황갈색형과 갈색형의 2가지 형이 있음. 무늬의 색깔은 멋쟁이갈고리 나방과 점갈고리나방의 것과 가장 비슷하고, 특히 갈색형에서 그러함. 그러나　멋쟁이갈고리나방과는 앞날개가 더 강하게 갈고리 모양인 날개 끝과 강하게 튀어 난 외연에 의해 구별되며, 또 이　종류는 앞날개의 후각에 1개 아니면 2개의 검은 점이 있음． 뒷날개에서는 안쪽 중앙 줄무늬가 빈약하게 있는 반면 점갈고리나방에서는 그런 접이 없고, 뒷날개에서는 안쪽 중앙 줄무늬가 강하게 나타남．",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "황갈색형과 갈색형의 2가지 형이 있음. 무늬의 색깔은 멋쟁이갈고리 나방과 점갈고리나방의 것과 가장 비슷하고, 특히 갈색형에서 그러함. 그러나　멋쟁이갈고리나방과는 앞날개가 더 강하게 갈고리 모양인 날개 끝과 강하게 튀어 난 외연에 의해 구별되며, 또 이　종류는 앞날개의 후각에 1개 아니면 2개의 검은 점이 있음． 뒷날개에서는 안쪽 중앙 줄무늬가 빈약하게 있는 반면 점갈고리나방에서는 그런 접이 없고, 뒷날개에서는 안쪽 중앙 줄무늬가 강하게 나타남．"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRBU0019-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBU0019_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBU0019_2_th.jpg",
+      "alt": "세욱갈고리나방 1번째 사진 : 세욱갈고리나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBU0019_2_th2.jpg",
+      "caption": "세욱갈고리나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRBU0019-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBU0019_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBU0019_1_th.jpg",
+      "alt": "세욱갈고리나방 2번째 사진 : 세욱갈고리나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBU0019_1_th2.jpg",
+      "caption": "세욱갈고리나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRBU0019-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0304301007",
+      "description": "[FRIE0304301007] 세욱갈고리나방 1997.08.18 / / 국립산림과학원"
+    },
+    {
+      "id": "KNUE0212241367",
+      "description": "[KNUE0212241367] 세욱갈고리나방 1993.06.04 / / 강원대학교"
+    },
+    {
+      "id": "KNAE0301112036",
+      "description": "[KNAE0301112036] 세욱갈고리나방 1993.11.14 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRBU0019-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRBU0019&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:02+00:00",
+    "html_sha256": "3bdad222e320c3d7df065ac46a51041ac61ff920c1120ceb9ebac7f67e519b88",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

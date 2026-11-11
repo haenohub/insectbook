@@ -1,0 +1,103 @@
+{
+  "id": "ZTBU0272",
+  "name_ko": "왕맵시벌",
+  "scientific_name": "Quandrus pepsoides (Smith, 1852)",
+  "display_name": "왕맵시벌",
+  "family_ko": "맵시벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "맵시벌과",
+      "name_latin": "Ichneumonidae"
+    },
+    "subfamily": {
+      "name_ko": "맵시벌아과",
+      "name_latin": "Ichneumoninae"
+    },
+    "genus": {
+      "name_ko": "왕맵시벌속",
+      "name_latin": "Quandrus"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 맵시벌과 (Ichneumonidae)\n아과 : 맵시벌아과 (Ichneumoninae)\n속 : 왕맵시벌속 (Quandrus)",
+  "basic_information": {
+    "곤충명": "왕맵시벌",
+    "학명": "Quandrus pepsoides (Smith, 1852)"
+  },
+  "information": {
+    "general_description": "체색에 변이가 많다. 특히 제1·2배마디의 색이 그렇다. 체색이 흑갈색이고 더듬이의 기부2/3, 앞가슴과 가운데가슴의 등, 어깨판, 작은방패판, 제1·2배마디의 뒷가두리, 각 배마디의 아랫면, 뒷가두리와 양 옆은 황갈색이며 다리도 암갈색이나 황갈색인 부분이 많은 것이 형종인 f. shirakii MATSUMURA이고 머리와 가슴의 앞쪽 반이 적갈색이며 뒷가슴과 배마디가 흑색이고 그밖에도 가슴에 흑색인 곳이 많은 것이 형종인 f. arrogans SMITH이다. 날개는 다 같이 황색이며 끝은 암색이다. 22∼40mm",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체색에 변이가 많다. 특히 제1·2배마디의 색이 그렇다. 체색이 흑갈색이고 더듬이의 기부2/3, 앞가슴과 가운데가슴의 등, 어깨판, 작은방패판, 제1·2배마디의 뒷가두리, 각 배마디의 아랫면, 뒷가두리와 양 옆은 황갈색이며 다리도 암갈색이나 황갈색인 부분이 많은 것이 형종인 f. shirakii MATSUMURA이고 머리와 가슴의 앞쪽 반이 적갈색이며 뒷가슴과 배마디가 흑색이고 그밖에도 가슴에 흑색인 곳이 많은 것이 형종인 f. arrogans SMITH이다. 날개는 다 같이 황색이며 끝은 암색이다. 22∼40mm"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBU0272-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0272_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0272_1_th.jpg",
+      "alt": "왕맵시벌 1번째 사진 : 왕맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0272_1_th2.jpg",
+      "caption": "왕맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBU0272-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305261137",
+      "description": "[YNUE0305261137] 왕맵시벌 1956.05.08 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305301038",
+      "description": "[YNUE0305301038] 왕맵시벌 1987.07.17 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305301039",
+      "description": "[YNUE0305301039] 왕맵시벌 1978.07.09 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTBU0272-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBU0272&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:35+00:00",
+    "html_sha256": "3cbda1b27315af54723a355f0642966477def2d8736822db710dd6a23d93cd21",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

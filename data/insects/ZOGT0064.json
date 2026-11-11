@@ -1,0 +1,107 @@
+{
+  "id": "ZOGT0064",
+  "name_ko": "곳체개미반날개",
+  "scientific_name": "Paederus (Harpopaederus) gottschei (Kolbe, 1886)",
+  "display_name": "곳체개미반날개",
+  "family_ko": "반날개과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "반날개상과",
+      "name_latin": "Staphylinoidea"
+    },
+    "family": {
+      "name_ko": "반날개과",
+      "name_latin": "Staphylinidae"
+    },
+    "subfamily": {
+      "name_ko": "개미반날개아과",
+      "name_latin": "Paederinae"
+    },
+    "genus": {
+      "name_ko": "개미반날개속",
+      "name_latin": "Paederus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 반날개상과 (Staphylinoidea)\n과 : 반날개과 (Staphylinidae)\n아과 : 개미반날개아과 (Paederinae)\n속 : 개미반날개속 (Paederus)",
+  "basic_information": {
+    "곤충명": "곳체개미반날개",
+    "학명": "Paederus (Harpopaederus) gottschei (Kolbe, 1886)"
+  },
+  "information": {
+    "general_description": "한국에 분포하며, 체장은 11mm 정도이다. 머리는 광택이 나는 흑람색이고 아주 작은 점각이 있다. 촉각은 황갈색인데 제3마디부터는 암갈색이다. 앞가슴등판은 둥글고 황갈색이며 광택이 나고 작은 점각이 있다. 딱지날개는 흑람색이고 거칠고 큰 점각이 있고 복판은 흑색이다. 배부는 황갈색인데 점각이 많고 말단절은 흑색이고 배마디마다 등색 털이 열생하였다. 다리는 허벅마디의 대부분이 흑색이고 종아리마디의 뒷부분은 황갈색이며 발목마디는 등황색이고 털이 많다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국에 분포하며, 체장은 11mm 정도이다. 머리는 광택이 나는 흑람색이고 아주 작은 점각이 있다. 촉각은 황갈색인데 제3마디부터는 암갈색이다. 앞가슴등판은 둥글고 황갈색이며 광택이 나고 작은 점각이 있다. 딱지날개는 흑람색이고 거칠고 큰 점각이 있고 복판은 흑색이다. 배부는 황갈색인데 점각이 많고 말단절은 흑색이고 배마디마다 등색 털이 열생하였다. 다리는 허벅마디의 대부분이 흑색이고 종아리마디의 뒷부분은 황갈색이며 발목마디는 등황색이고 털이 많다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGT0064-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGT0064_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGT0064_1_th.jpg",
+      "alt": "곳체개미반날개 1번째 사진 : 곳체개미반날개전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGT0064_1_th2.jpg",
+      "caption": "곳체개미반날개전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGT0064-1",
+  "specimen_examples": [
+    {
+      "id": "HNUE0408194008",
+      "description": "[HNUE0408194008] 곳체개미반날개 1988.11.14 / / 한남대학교 자연사박물관"
+    },
+    {
+      "id": "HNUE0408194007",
+      "description": "[HNUE0408194007] 곳체개미반날개 1988.11.14 / / 한남대학교 자연사박물관"
+    },
+    {
+      "id": "HNUE0408194009",
+      "description": "[HNUE0408194009] 곳체개미반날개 1999.05.01 / / 한남대학교 자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOGT0064.png",
+    "reference_image_id": "ZOGT0064-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T13:13:27.925019+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "81f04753ffcb811d3eef8474c008031ad4cc82f54674d46764b3f572516d5556"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGT0064&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:07+00:00",
+    "html_sha256": "bf3eb0ae2b101445127ede6dc3bed64e771c1d5e66afc3c931b6a325305d1084",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

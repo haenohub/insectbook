@@ -1,0 +1,117 @@
+{
+  "id": "ZOCF0162",
+  "name_ko": "검정밤바구미",
+  "scientific_name": "Curculio distinguendus (Roelofs, 1875)",
+  "display_name": "검정밤바구미",
+  "family_ko": "바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "바구미과",
+      "name_latin": "Curculionidae"
+    },
+    "subfamily": {
+      "name_ko": "밤바구미아과",
+      "name_latin": "Curculioninae"
+    },
+    "genus": {
+      "name_ko": "밤바구미속",
+      "name_latin": "Curculio"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 바구미과 (Curculionidae)\n아과 : 밤바구미아과 (Curculioninae)\n속 : 밤바구미속 (Curculio)",
+  "basic_information": {
+    "곤충명": "검정밤바구미",
+    "학명": "Curculio distinguendus (Roelofs, 1875)"
+  },
+  "information": {
+    "general_description": "한국(북부, 중부, 남부, 제주특별자치도), 일본(혼슈, 큐슈), 중국(흑룡강, 북경, 강소), 러시아(아무르, 하바로프스키 쁘리모르스키, 사할린, 쿠릴)에 분포하며, 몸길이 5.5-8.0 mm. 딱지날개는 백색의 작은 점무늬가 얼룩무늬를 형성. 앞가슴등판은 소순판 전에 뚜렷한 인편형 무늬가 없다. 딱지날개 봉합선에는 암갈색 직립강모가 점무늬 형성. 소순판은 회황색. 몸의 아랫면은 백색 인편이 얇게 피복. 후흉후측판, 후흉복판의 측후방 모서리 및 제2, 3 복판의 의 측면은 황색 인편이 피복.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 Quercus acutissima에서 채집되었다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국(북부, 중부, 남부, 제주특별자치도), 일본(혼슈, 큐슈), 중국(흑룡강, 북경, 강소), 러시아(아무르, 하바로프스키 쁘리모르스키, 사할린, 쿠릴)에 분포하며, 몸길이 5.5-8.0 mm. 딱지날개는 백색의 작은 점무늬가 얼룩무늬를 형성. 앞가슴등판은 소순판 전에 뚜렷한 인편형 무늬가 없다. 딱지날개 봉합선에는 암갈색 직립강모가 점무늬 형성. 소순판은 회황색. 몸의 아랫면은 백색 인편이 얇게 피복. 후흉후측판, 후흉복판의 측후방 모서리 및 제2, 3 복판의 의 측면은 황색 인편이 피복."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 Quercus acutissima에서 채집되었다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCF0162-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0162_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0162_1_th.jpg",
+      "alt": "검정밤바구미 1번째 사진 : 검정밤바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0162_1_th2.jpg",
+      "caption": "검정밤바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCF0162-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303122031",
+      "description": "[KNAE0303122031] 검정밤바구미 1990.08.25 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303122032",
+      "description": "[KNAE0303122032] 검정밤바구미 1991.08.31 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303122033",
+      "description": "[KNAE0303122033] 검정밤바구미 1991.09.01 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "상수리나무",
+      "scientific_name": "Quercus acutissima Carruth."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOCF0162.png",
+    "reference_image_id": "ZOCF0162-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T11:30:20.131429+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "d094f611a2fef95c73f481de87dd0ddbe6e9813dde5f5d4d5ee1f2db18effdb9"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCF0162&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:20+00:00",
+    "html_sha256": "d5f90de67c11cb77c09f580c361e4c6b28c9ebb0f87d212872d6d75452581c7d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

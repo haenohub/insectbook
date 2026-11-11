@@ -1,0 +1,122 @@
+{
+  "id": "ZOBL0011",
+  "name_ko": "넓적하늘소",
+  "scientific_name": "Cephalallus unicolor (Gahan, 1906)",
+  "display_name": "넓적하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "검정하늘소아과",
+      "name_latin": "Spondylidinae"
+    },
+    "genus": {
+      "name_ko": "넓적하늘소속",
+      "name_latin": "Cephalallus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 검정하늘소아과 (Spondylidinae)\n속 : 넓적하늘소속 (Cephalallus)",
+  "basic_information": {
+    "곤충명": "넓적하늘소",
+    "학명": "Cephalallus unicolor (Gahan, 1906)"
+  },
+  "information": {
+    "general_description": "몸의 길이는 16~28mm 이며, 몸은 전체적으로 원통형이다. 진한갈색이고, 촉각의 길이는 딱지날개의 중간 부분에 이른다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[라오스]\n[일본]\n[인도]\n[중국]\n[미얀마]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의 길이는 16~28mm 이며, 몸은 전체적으로 원통형이다. 진한갈색이고, 촉각의 길이는 딱지날개의 중간 부분에 이른다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[라오스]\n[일본]\n[인도]\n[중국]\n[미얀마]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0011-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0011_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0011_2_th.jpg",
+      "alt": "넓적하늘소 1번째 사진 : 넓적하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0011_2_th2.jpg",
+      "caption": "넓적하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBL0011-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0011_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0011_1_th.jpg",
+      "alt": "넓적하늘소 2번째 사진 : 넓적하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0011_1_th2.jpg",
+      "caption": "넓적하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0011-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304152060",
+      "description": "[KNAE0304152060] 넓적하늘소 1994.07.03 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304162001",
+      "description": "[KNAE0304162001] 넓적하늘소 1995.07.05 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304162003",
+      "description": "[KNAE0304162003] 넓적하늘소 1994.08.10 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBL0011.png",
+    "reference_image_id": "ZOBL0011-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T10:20:37.660680+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "f2223940f8c6c955fed73e514e18356484c4c3324a17ed0e0239539dbfbbeff3"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0011&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:43+00:00",
+    "html_sha256": "fa32538f7f4a7a824c436bd28b770394bef09b32db3bf7c4ceea9eef9e8dc915",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

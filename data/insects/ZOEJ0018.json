@@ -1,0 +1,103 @@
+{
+  "id": "ZOEJ0018",
+  "name_ko": "꼬마검정풍뎅이",
+  "scientific_name": "Holotrichia picea (Waterhouse, 1875)",
+  "display_name": "꼬마검정풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "검정풍뎅이아과",
+      "name_latin": "Melolonthinae"
+    },
+    "genus": {
+      "name_ko": "검정풍뎅이속",
+      "name_latin": "Holotrichia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 검정풍뎅이아과 (Melolonthinae)\n속 : 검정풍뎅이속 (Holotrichia)",
+  "basic_information": {
+    "곤충명": "꼬마검정풍뎅이",
+    "학명": "Holotrichia picea (Waterhouse, 1875)"
+  },
+  "information": {
+    "general_description": "중국 북부, 아무르, 일본에 분포하며, 몸은 짧고 넓은 소형으로서 보통 흑색이나 적갈색도 있다. 머리방패의 전연은 깊게 파였고, 촉각 곤봉부는 매우 짧다. 앞가슴등판의 앞쪽 테두리 위에는 매우 길고 조밀한 강모열리 있고, 등판의 점각은 작고 조밀하다. 발톱의 내치는 끝쪽이 갈라진 형이며, 미절판은 삼각형인데 중앙이 약간 높고, 점각은 작으나 분명한데 암컷은 더 작고 조밀하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중국 북부, 아무르, 일본에 분포하며, 몸은 짧고 넓은 소형으로서 보통 흑색이나 적갈색도 있다. 머리방패의 전연은 깊게 파였고, 촉각 곤봉부는 매우 짧다. 앞가슴등판의 앞쪽 테두리 위에는 매우 길고 조밀한 강모열리 있고, 등판의 점각은 작고 조밀하다. 발톱의 내치는 끝쪽이 갈라진 형이며, 미절판은 삼각형인데 중앙이 약간 높고, 점각은 작으나 분명한데 암컷은 더 작고 조밀하다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOEJ0018-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0018_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0018_1_th.jpg",
+      "alt": "꼬마검정풍뎅이 1번째 사진 : 꼬마검정풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0018_1_th2.jpg",
+      "caption": "꼬마검정풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOEJ0018-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303072069",
+      "description": "[KNAE0303072069] 꼬마검정풍뎅이 1990.09.26 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303072070",
+      "description": "[KNAE0303072070] 꼬마검정풍뎅이 1990.07.23 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303072065",
+      "description": "[KNAE0303072065] 꼬마검정풍뎅이 1990.07.22 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOEJ0018.png",
+    "reference_image_id": "ZOEJ0018-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T10:26:30.769971+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "71329b87d3472ff904eee001370ccc21dbe4e1554b6071e70e6c08e0e00308e9"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOEJ0018&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:29+00:00",
+    "html_sha256": "56170afdb9c40b58216fda62778d4f6719536415f473c8fd3ff8683d7c12ed84",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

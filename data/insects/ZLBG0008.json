@@ -1,0 +1,103 @@
+{
+  "id": "ZLBG0008",
+  "name_ko": "머리폭긴노린재",
+  "scientific_name": "Ninomimus flavipes (Matsumura, 1913)",
+  "display_name": "머리폭긴노린재",
+  "family_ko": "폭긴노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "긴노린재상과",
+      "name_latin": "Lygaeioidea"
+    },
+    "family": {
+      "name_ko": "폭긴노린재과",
+      "name_latin": "Cymidae"
+    },
+    "genus": {
+      "name_ko": "머리폭긴노린재속",
+      "name_latin": "Ninomimus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 긴노린재상과 (Lygaeioidea)\n과 : 폭긴노린재과 (Cymidae)\n속 : 머리폭긴노린재속 (Ninomimus)",
+  "basic_information": {
+    "곤충명": "머리폭긴노린재",
+    "학명": "Ninomimus flavipes (Matsumura, 1913)"
+  },
+  "information": {
+    "general_description": "몸은 가늘고 길며 흑갈색을 띤다. 회색 비늘털로 덮여 있어 훨씬 색이 옅게 보여 연한 오황색으로 나타나며, 전신에 비교적 긴 털이 밀생해 있다. 머리는 크고 특히 폭이 넓고, 겹눈은 옆쪽으로 돌출하고 거의 흑색이다. 더듬이는 연한 황갈색이며 가늘고 길며 제 1마디는 굵고 짧으며, 제 2마디와 제 3마디는 심히 가늘고 제 4마디는 약간 팽대한다. 앞가슴등판은 중앙부의 두 군데가 약간 잘록해지고, 앞가장자리 부분의 양쪽과 뒤옆모서리 부분에 각각 1쌍의 색이 진한 다갈색의 큰 무늬가 있다. 작은방패판은 흑갈색이고, 반시초는 연한 회황색이며, 점각이 성기나, 혁질부의 앞가장자리에는 없다. 막질부는 약간 회백색을 띠고 투명하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "장시형과 단시형의 2형이 있다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸은 가늘고 길며 흑갈색을 띤다. 회색 비늘털로 덮여 있어 훨씬 색이 옅게 보여 연한 오황색으로 나타나며, 전신에 비교적 긴 털이 밀생해 있다. 머리는 크고 특히 폭이 넓고, 겹눈은 옆쪽으로 돌출하고 거의 흑색이다. 더듬이는 연한 황갈색이며 가늘고 길며 제 1마디는 굵고 짧으며, 제 2마디와 제 3마디는 심히 가늘고 제 4마디는 약간 팽대한다. 앞가슴등판은 중앙부의 두 군데가 약간 잘록해지고, 앞가장자리 부분의 양쪽과 뒤옆모서리 부분에 각각 1쌍의 색이 진한 다갈색의 큰 무늬가 있다. 작은방패판은 흑갈색이고, 반시초는 연한 회황색이며, 점각이 성기나, 혁질부의 앞가장자리에는 없다. 막질부는 약간 회백색을 띠고 투명하다."
+    },
+    {
+      "title": "생태",
+      "text": "장시형과 단시형의 2형이 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLBG0008-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBG0008_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBG0008_1_th.jpg",
+      "alt": "머리폭긴노린재 1번째 사진 : 머리폭긴노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBG0008_1_th2.jpg",
+      "caption": "머리폭긴노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLBG0008-1",
+  "specimen_examples": [
+    {
+      "id": "HNUE0408181020",
+      "description": "[HNUE0408181020] 머리폭긴노린재 1997.08.30 / / 한남대학교 자연사박물관"
+    },
+    {
+      "id": "KNAE349523",
+      "description": "[KNAE349523] 머리폭긴노린재 / / 국립수목원"
+    },
+    {
+      "id": "KNAE349524",
+      "description": "[KNAE349524] 머리폭긴노린재 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLBG0008-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLBG0008&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:56+00:00",
+    "html_sha256": "45795f82e51f17c2adc669ecdab8a63704cf321a64064745cc052a44c4c00e95",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

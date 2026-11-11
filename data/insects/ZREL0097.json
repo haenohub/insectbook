@@ -1,0 +1,103 @@
+{
+  "id": "ZREL0097",
+  "name_ko": "네눈흰색들명나방",
+  "scientific_name": "Lygropia yerburii (Butler, 1886)",
+  "display_name": "네눈흰색들명나방",
+  "family_ko": "풀명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "풀명나방과",
+      "name_latin": "Crambidae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Spilomelinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Lygropia"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 풀명나방과 (Crambidae)\n아과 : (Spilomelinae)\n속 : (Lygropia)",
+  "basic_information": {
+    "곤충명": "네눈흰색들명나방",
+    "학명": "Lygropia yerburii (Butler, 1886)"
+  },
+  "information": {
+    "general_description": "한국,일본,인디아,보르네오에 분포하며 머리는 황갈색이며, 더듬이는 실 모양이다. 가슴의 등쪽면은 황색이다. 앞․뒷날개는 회갈색 바탕으로 윤곽이 뚜렷하지 않은 담황색 또는 황백색 무늬가 있으며, 외횡선은 명료하지 않다. 앞날개의 중실 안쪽에 사각형 무늬가 있다. 날개길이는 32mm내외.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국,일본,인디아,보르네오에 분포하며 머리는 황갈색이며, 더듬이는 실 모양이다. 가슴의 등쪽면은 황색이다. 앞․뒷날개는 회갈색 바탕으로 윤곽이 뚜렷하지 않은 담황색 또는 황백색 무늬가 있으며, 외횡선은 명료하지 않다. 앞날개의 중실 안쪽에 사각형 무늬가 있다. 날개길이는 32mm내외."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0097-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0097_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0097_1_th.jpg",
+      "alt": "네눈흰색들명나방 1번째 사진 : 네눈흰색들명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0097_1_th2.jpg",
+      "caption": "네눈흰색들명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0097-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0203151117",
+      "description": "[UIBE0203151117] 네눈흰색들명나방 2001.09.07 / / 인천대학교"
+    },
+    {
+      "id": "DJUE0407261086",
+      "description": "[DJUE0407261086] 네눈흰색들명나방 2003.04.25 / / 대전대학교"
+    },
+    {
+      "id": "KNAE0611080140",
+      "description": "[KNAE0611080140] 네눈흰색들명나방 2006.09.19 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZREL0097.png",
+    "reference_image_id": "ZREL0097-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T10:45:27.125693+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "01882f3dba6ebd34445126e6c50c6de8ce73127d4f17f8416edc3f9651929ba1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0097&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:46+00:00",
+    "html_sha256": "f22cd16e116553b586c16f2a4ebee5c3e1ad50a49f0d2df642864fdec646ee43",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

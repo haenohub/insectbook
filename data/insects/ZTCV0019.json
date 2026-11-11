@@ -1,0 +1,99 @@
+{
+  "id": "ZTCV0019",
+  "name_ko": "료헤이대모벌",
+  "scientific_name": "Platydialepsis ryoheii (Ishikawa, 1957)",
+  "display_name": "료헤이대모벌",
+  "family_ko": "대모벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "말벌상과",
+      "name_latin": "Vespoidea"
+    },
+    "family": {
+      "name_ko": "대모벌과",
+      "name_latin": "Pompilidae"
+    },
+    "subfamily": {
+      "name_ko": "배고랑대모벌아과",
+      "name_latin": "Pepsinae"
+    },
+    "genus": {
+      "name_ko": "료헤이대모벌속",
+      "name_latin": "Platydialepsis"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 말벌상과 (Vespoidea)\n과 : 대모벌과 (Pompilidae)\n아과 : 배고랑대모벌아과 (Pepsinae)\n속 : 료헤이대모벌속 (Platydialepsis)",
+  "basic_information": {
+    "곤충명": "료헤이대모벌",
+    "학명": "Platydialepsis ryoheii (Ishikawa, 1957)"
+  },
+  "information": {
+    "general_description": "암수에 따라 크게 다르다. 수컷은 몸에 황색 털이 밀생했고 날개는 황색이고 다리는 황갈색이다. 큰턱에는 2개의 이가 있고 발톱에도 2개의 이가 있다. 머리방패는 크고 앞슭에는 둔한 2개의 홈타기가 있따. 뒷다리의 종아리마디에는 2줄의 혀 모양 돌기가 있다. 수컷은 몸이 가늘고 날개는 암색이며 얼굴 아래와 머리방패는 황색이고 다리에는 갈색 무늬가 있다. 발톱에는 1개의 이가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암수에 따라 크게 다르다. 수컷은 몸에 황색 털이 밀생했고 날개는 황색이고 다리는 황갈색이다. 큰턱에는 2개의 이가 있고 발톱에도 2개의 이가 있다. 머리방패는 크고 앞슭에는 둔한 2개의 홈타기가 있따. 뒷다리의 종아리마디에는 2줄의 혀 모양 돌기가 있다. 수컷은 몸이 가늘고 날개는 암색이며 얼굴 아래와 머리방패는 황색이고 다리에는 갈색 무늬가 있다. 발톱에는 1개의 이가 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTCV0019-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTCV0019_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTCV0019_1_th.jpg",
+      "alt": "료헤이대모벌 1번째 사진 : 료헤이대모벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTCV0019_1_th2.jpg",
+      "caption": "료헤이대모벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTCV0019-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0408071001",
+      "description": "[KNAE0408071001] 료헤이대모벌 2002.09.08 / / 국립수목원"
+    },
+    {
+      "id": "YNUE0306261032",
+      "description": "[YNUE0306261032] 료헤이대모벌 1960.05.08 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTCV0019-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTCV0019&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:35+00:00",
+    "html_sha256": "568b95559780c46b8293d5c8d66a69b8b87d064f4edfdec6322672c726220432",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

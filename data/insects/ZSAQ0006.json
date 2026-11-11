@@ -1,0 +1,99 @@
+{
+  "id": "ZSAQ0006",
+  "name_ko": "산금파리",
+  "scientific_name": "Hemipyrellia ligurriens (Wiedemann, 1830)",
+  "display_name": "산금파리",
+  "family_ko": "검정파리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "쇠파리상과",
+      "name_latin": "Oestroidea"
+    },
+    "family": {
+      "name_ko": "검정파리과",
+      "name_latin": "Calliphoridae"
+    },
+    "subfamily": {
+      "name_ko": "검정파리아과",
+      "name_latin": "Calliphorinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Hemipyrellia"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 쇠파리상과 (Oestroidea)\n과 : 검정파리과 (Calliphoridae)\n아과 : 검정파리아과 (Calliphorinae)\n속 : (Hemipyrellia)",
+  "basic_information": {
+    "곤충명": "산금파리",
+    "학명": "Hemipyrellia ligurriens (Wiedemann, 1830)"
+  },
+  "information": {
+    "general_description": "몸길이 6~9mm. 수컷의 겹눈은 상접하여 이마와 옆이마의 폭이 좁음. 이마는 검정색, 옆이마는 황백색 가루로 덮였고 낯과 옆얼굴도 황백색 가루로 덮임. 더듬이는 연갈색을 하고 3마디의 길이는 2마디의 5배, 3마디는 막대기 모양을 지나서 끝부분이 납작함. 아래턱수염은 막대기형이며 황백색임. 가슴, 배는 광택녹색이며 방패판의 변두리는 흰가루가 덮임. 배의 1,2마디 등쪽은 흑색이며 한가운데센털은 2+2, 등가운데센털은 3+3, 배의 끝마디인 안쪽 집게가 우뚝 솟았고 바깥쪽 집게는 폭넓고 크며 안쪽 집게를 받치고 있음.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "들에서는 보기 힘들며 타 금파리와 같이 동물의 똥에 주로 모이는 습성을 지님.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[싱가포르]\n[태국]\n[필리핀]\n[스리랑카]\n[인도]\n[영국]\n[중국]\n[호주]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 6~9mm. 수컷의 겹눈은 상접하여 이마와 옆이마의 폭이 좁음. 이마는 검정색, 옆이마는 황백색 가루로 덮였고 낯과 옆얼굴도 황백색 가루로 덮임. 더듬이는 연갈색을 하고 3마디의 길이는 2마디의 5배, 3마디는 막대기 모양을 지나서 끝부분이 납작함. 아래턱수염은 막대기형이며 황백색임. 가슴, 배는 광택녹색이며 방패판의 변두리는 흰가루가 덮임. 배의 1,2마디 등쪽은 흑색이며 한가운데센털은 2+2, 등가운데센털은 3+3, 배의 끝마디인 안쪽 집게가 우뚝 솟았고 바깥쪽 집게는 폭넓고 크며 안쪽 집게를 받치고 있음."
+    },
+    {
+      "title": "생태",
+      "text": "들에서는 보기 힘들며 타 금파리와 같이 동물의 똥에 주로 모이는 습성을 지님."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[싱가포르]\n[태국]\n[필리핀]\n[스리랑카]\n[인도]\n[영국]\n[중국]\n[호주]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSAQ0006-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSAQ0006_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSAQ0006_1_th.jpg",
+      "alt": "산금파리 1번째 사진 : 산금파리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSAQ0006_1_th2.jpg",
+      "caption": "산금파리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSAQ0006-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0201023053",
+      "description": "[YNUE0201023053] 산금파리 1992.05.22 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZSAQ0006-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSAQ0006&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:31+00:00",
+    "html_sha256": "1fb79999957f71322f6e92b1fa27968e94c3cac4a509b0a50ddc55bcbe100dac",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

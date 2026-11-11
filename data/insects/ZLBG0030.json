@@ -1,0 +1,128 @@
+{
+  "id": "ZLBG0030",
+  "name_ko": "더듬이긴노린재",
+  "scientific_name": "Pachygrontha antennata antennata (Uhler, 1860)",
+  "display_name": "더듬이긴노린재",
+  "family_ko": "더듬이긴노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "긴노린재상과",
+      "name_latin": "Lygaeioidea"
+    },
+    "family": {
+      "name_ko": "더듬이긴노린재과",
+      "name_latin": "Pachygronthidae"
+    },
+    "genus": {
+      "name_ko": "더듬이긴노린재속",
+      "name_latin": "Pachygrontha"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 긴노린재상과 (Lygaeioidea)\n과 : 더듬이긴노린재과 (Pachygronthidae)\n속 : 더듬이긴노린재속 (Pachygrontha)",
+  "basic_information": {
+    "곤충명": "더듬이긴노린재",
+    "학명": "Pachygrontha antennata antennata (Uhler, 1860)"
+  },
+  "information": {
+    "general_description": "몸길이 : 7.5-9.5mm\n몸은 흑갈색 바탕에 회백색 또는 황갈색 무늬를 가진다. 등면은 광택이 강하고 몸전체가 특히 좁고 길다. 더듬이는 수컷의 겨우 매우 길게 발달하였다. 선단부가 곤봉형이다. 앞가슴등판의 흑갈색 무늬가 한 쌍 있다. 작은방패판은 흑갈색이고 Y자 모양의 회황색무늬가 나타난다. 앞날개는 좁고 길다. 막질부는 투명하고 배 끝을 초과한다. 앞다리의 허벅마디는 굵고 팽대하였다. 아랫면에는 가시돌기가 나 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "산야의 초원지대나 경작지 주변에 널리 분포한다.",
+    "habits": "벼이삭을 가해하여 반점미의 원인이 된다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[중국]\n[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 7.5-9.5mm\n몸은 흑갈색 바탕에 회백색 또는 황갈색 무늬를 가진다. 등면은 광택이 강하고 몸전체가 특히 좁고 길다. 더듬이는 수컷의 겨우 매우 길게 발달하였다. 선단부가 곤봉형이다. 앞가슴등판의 흑갈색 무늬가 한 쌍 있다. 작은방패판은 흑갈색이고 Y자 모양의 회황색무늬가 나타난다. 앞날개는 좁고 길다. 막질부는 투명하고 배 끝을 초과한다. 앞다리의 허벅마디는 굵고 팽대하였다. 아랫면에는 가시돌기가 나 있다."
+    },
+    {
+      "title": "생태",
+      "text": "산야의 초원지대나 경작지 주변에 널리 분포한다."
+    },
+    {
+      "title": "습성",
+      "text": "벼이삭을 가해하여 반점미의 원인이 된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLBG0030-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBG0030_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBG0030_2_th.jpg",
+      "alt": "더듬이긴노린재 1번째 사진 : 더듬이긴노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBG0030_2_th2.jpg",
+      "caption": "더듬이긴노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZLBG0030-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBG0030_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBG0030_1_th.jpg",
+      "alt": "더듬이긴노린재 2번째 사진 : 더듬이긴노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBG0030_1_th2.jpg",
+      "caption": "더듬이긴노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLBG0030-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408191131",
+      "description": "[MPME0408191131] 더듬이긴노린재 1998.07.16 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408021023",
+      "description": "[MPME0408021023] 더듬이긴노린재 1998.07.16 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408021024",
+      "description": "[MPME0408021024] 더듬이긴노린재 1998.07.16 / / 목포자연사박물관"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "회양목",
+      "scientific_name": "Buxus sinica var. insularis (Nakai) M.Cheng"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLBG0030-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLBG0030&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:20+00:00",
+    "html_sha256": "5946149ccddae193e88f686c516c90a226cc6229fb72254b94ddb720d7b4cf68",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "id": "ZRDG0039",
+  "name_ko": "산부전나비",
+  "scientific_name": "Plebejus subsolanus (Eversmann, 1851)",
+  "display_name": "산부전나비",
+  "family_ko": "부전나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "부전나비과",
+      "name_latin": "Lycaenidae"
+    },
+    "subfamily": {
+      "name_ko": "부전나비아과",
+      "name_latin": "Polyommatinae"
+    },
+    "genus": {
+      "name_ko": "부전나비속",
+      "name_latin": "Plebejus"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 부전나비과 (Lycaenidae)\n아과 : 부전나비아과 (Polyommatinae)\n속 : 부전나비속 (Plebejus)",
+  "basic_information": {
+    "곤충명": "산부전나비",
+    "학명": "Plebejus subsolanus (Eversmann, 1851)"
+  },
+  "information": {
+    "general_description": "부전나비와 유사하나 암컷끼리의 구별은 날개 윗면의 주황색 무늬가 작고 뒷날개 아랫면 주황색 띠의 바깥 검정색 무늬가 작은 점 등으로 구별된다. 수컷끼리는 날개 윗면의 색깔과 무늬로 구별된다.",
+    "adult": null,
+    "adult_male": "날개 윗면 바탕색이 청남색이다.",
+    "adult_female": "날개 윗면 바탕색이 어두운 다갈색이다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "산지의 목초지나, 목장 주변의 건조한 초지에 서식한다. 활동이 활발하며, 흡밀할 때에는 대체로 천천히 난다. 현재까지 남한 내륙에서는 강원특별자치도 太白山이 잘 알려져 있는 채집지이나 이 지역이 점차 파괴되고 있어 앞으로 감소 또는 멸종이 우려되고 있다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]",
+    "notes": "[희귀종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "부전나비와 유사하나 암컷끼리의 구별은 날개 윗면의 주황색 무늬가 작고 뒷날개 아랫면 주황색 띠의 바깥 검정색 무늬가 작은 점 등으로 구별된다. 수컷끼리는 날개 윗면의 색깔과 무늬로 구별된다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "날개 윗면 바탕색이 청남색이다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "날개 윗면 바탕색이 어두운 다갈색이다."
+    },
+    {
+      "title": "습성",
+      "text": "산지의 목초지나, 목장 주변의 건조한 초지에 서식한다. 활동이 활발하며, 흡밀할 때에는 대체로 천천히 난다. 현재까지 남한 내륙에서는 강원특별자치도 太白山이 잘 알려져 있는 채집지이나 이 지역이 점차 파괴되고 있어 앞으로 감소 또는 멸종이 우려되고 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[희귀종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDG0039-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0039_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0039_2_th.jpg",
+      "alt": "산부전나비 1번째 사진 : 산부전나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0039_2_th2.jpg",
+      "caption": "산부전나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDG0039-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0039_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0039_1_th.jpg",
+      "alt": "산부전나비 2번째 사진 : 산부전나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0039_1_th2.jpg",
+      "caption": "산부전나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDG0039-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0203122164",
+      "description": "[KPNE0203122164] 산부전나비 1980.09.09 / / 경북대학교"
+    },
+    {
+      "id": "ADUE0201261091",
+      "description": "[ADUE0201261091] 산부전나비 2000.05.22 / / 안동대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDG0039-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDG0039&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:34+00:00",
+    "html_sha256": "bcbd63c0817172e5c1b1f9dbdd5eea81880c9e16f51683b5b06640d86c56bf64",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "ZOCF0011",
+  "name_ko": "주둥이바구미",
+  "scientific_name": "Lepidepistomodes fumosus (Faust, 1882)",
+  "display_name": "주둥이바구미",
+  "family_ko": "바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "바구미과",
+      "name_latin": "Curculionidae"
+    },
+    "subfamily": {
+      "name_ko": "줄바구미아과",
+      "name_latin": "Entiminae"
+    },
+    "genus": {
+      "name_ko": "주둥이바구미속",
+      "name_latin": "Lepidepistomodes"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 바구미과 (Curculionidae)\n아과 : 줄바구미아과 (Entiminae)\n속 : 주둥이바구미속 (Lepidepistomodes)",
+  "basic_information": {
+    "곤충명": "주둥이바구미",
+    "학명": "Lepidepistomodes fumosus (Faust, 1882)"
+  },
+  "information": {
+    "general_description": "한국(중부, 남부, 제주특별자치도), 일본에 분포하며, 몸길이 5.0-6.0 mm. 체표는 녹색이 아니라 갈색과 회갈색의 인편이 피복. 딱지날개 간실의 직립인모는 정단이 재단형, 간실폭과 길이가 같다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "Castanea sp. 와 Quercus sp. 에서 발견",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국(중부, 남부, 제주특별자치도), 일본에 분포하며, 몸길이 5.0-6.0 mm. 체표는 녹색이 아니라 갈색과 회갈색의 인편이 피복. 딱지날개 간실의 직립인모는 정단이 재단형, 간실폭과 길이가 같다."
+    },
+    {
+      "title": "생태",
+      "text": "Castanea sp. 와 Quercus sp. 에서 발견"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCF0011-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0011_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0011_1_th.jpg",
+      "alt": "주둥이바구미 1번째 사진 : 주둥이바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0011_1_th2.jpg",
+      "caption": "주둥이바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCF0011-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0304221057",
+      "description": "[FRIE0304221057] 주둥이바구미 1994.06.03 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0303261024",
+      "description": "[FRIE0303261024] 주둥이바구미 1979.06.23 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOCF0011-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCF0011&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:56+00:00",
+    "html_sha256": "45846987d2d774171eb3535c1de66dbef876318fcc3933a4324eb52bf5a90434",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

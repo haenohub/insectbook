@@ -1,0 +1,124 @@
+{
+  "id": "ZOBL0290",
+  "name_ko": "국화하늘소",
+  "scientific_name": "Phytoecia (Phytoecia) rufiventris Gautier des Gottes, 1870",
+  "display_name": "국화하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "목하늘소아과",
+      "name_latin": "Lamiinae"
+    },
+    "genus": {
+      "name_ko": "국화하늘소속",
+      "name_latin": "Phytoecia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 목하늘소아과 (Lamiinae)\n속 : 국화하늘소속 (Phytoecia)",
+  "basic_information": {
+    "곤충명": "국화하늘소",
+    "학명": "Phytoecia (Phytoecia) rufiventris Gautier des Gottes, 1870"
+  },
+  "information": {
+    "general_description": "몸길이는 6~9mm이며, 몸은 흑청색이다. 앞가슴등판의 가운데에는 주홍색의 반들반들한 융기부가 있고, 배부분은 적갈색이다. 다리는 짧다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[몽골]\n[일본]\n[러시아]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 6~9mm이며, 몸은 흑청색이다. 앞가슴등판의 가운데에는 주홍색의 반들반들한 융기부가 있고, 배부분은 적갈색이다. 다리는 짧다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[몽골]\n[일본]\n[러시아]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0290-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0290_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0290_2_th.jpg",
+      "alt": "국화하늘소 1번째 사진 : 국화하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0290_2_th2.jpg",
+      "caption": "국화하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBL0290-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0290_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0290_1_th.jpg",
+      "alt": "국화하늘소 2번째 사진 : 국화하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0290_1_th2.jpg",
+      "caption": "국화하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0290-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408191150",
+      "description": "[MPME0408191150] 국화하늘소 1998.04.06 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408041094",
+      "description": "[MPME0408041094] 국화하늘소 1998.04.06 / / 목포자연사박물관"
+    },
+    {
+      "id": "UIBE0408101033",
+      "description": "[UIBE0408101033] 국화하늘소 2000.05.23 / / 인천대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "국화",
+      "scientific_name": "Chrysanthemum × morifolium (Ramat.) Hemsl."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBL0290.png",
+    "reference_image_id": "ZOBL0290-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T13:55:09.776725+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "c5a4dacb3dc1a013be592e36ebea299ffb65f15bad489fadd74e3399de3445da"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0290&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:24+00:00",
+    "html_sha256": "1da05b5e440680ce03b7b691c89309b7036ad33350c3872f8de51a90bce03325",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

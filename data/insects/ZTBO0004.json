@@ -1,0 +1,122 @@
+{
+  "id": "ZTBO0004",
+  "name_ko": "일본침개미",
+  "scientific_name": "Ectomomyrmex javanus Mayr, 1867",
+  "display_name": "일본침개미",
+  "family_ko": "개미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "말벌상과",
+      "name_latin": "Vespoidea"
+    },
+    "family": {
+      "name_ko": "개미과",
+      "name_latin": "Formicidae"
+    },
+    "subfamily": {
+      "name_ko": "침개미아과",
+      "name_latin": "Ponerinae"
+    },
+    "genus": {
+      "name_ko": "뚱보침개미속",
+      "name_latin": "Ectomomyrmex"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 말벌상과 (Vespoidea)\n과 : 개미과 (Formicidae)\n아과 : 침개미아과 (Ponerinae)\n속 : 뚱보침개미속 (Ectomomyrmex)",
+  "basic_information": {
+    "곤충명": "일본침개미",
+    "학명": "Ectomomyrmex javanus Mayr, 1867"
+  },
+  "information": {
+    "general_description": "길이는 7.5-8.5mm 정도이며 더듬이는 13마디이고, 몸은 흑색인데 큰턱은 흑갈색이고 턱수염은 황갈색이며 종아리마디는 황갈색이고, 발목마디는 황색이다. 머리와 가슴에는 회황색 털이 났고 머리와 가슴은 광택이 없고 미세한 점각이 많이 났다. 배자루는 다소 광택이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "모래땅에 집을 짓거나 돌밑에 집을 짓고 산다. 일벌은 침으로 쏜다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[인도네시아]\n[중국]\n[인도]",
+    "notes": "[감소추세종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "길이는 7.5-8.5mm 정도이며 더듬이는 13마디이고, 몸은 흑색인데 큰턱은 흑갈색이고 턱수염은 황갈색이며 종아리마디는 황갈색이고, 발목마디는 황색이다. 머리와 가슴에는 회황색 털이 났고 머리와 가슴은 광택이 없고 미세한 점각이 많이 났다. 배자루는 다소 광택이 있다."
+    },
+    {
+      "title": "생태",
+      "text": "모래땅에 집을 짓거나 돌밑에 집을 짓고 산다. 일벌은 침으로 쏜다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[인도네시아]\n[중국]\n[인도]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[감소추세종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBO0004-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0004_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0004_2_th.jpg",
+      "alt": "일본침개미 1번째 사진 : 일본침개미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0004_2_th2.jpg",
+      "caption": "일본침개미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTBO0004-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0004_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0004_1_th.jpg",
+      "alt": "일본침개미 2번째 사진 : 일본침개미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0004_1_th2.jpg",
+      "caption": "일본침개미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBO0004-1",
+  "specimen_examples": [
+    {
+      "id": "CBNE0204261021",
+      "description": "[CBNE0204261021] 일본침개미 1991.09.12 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0204261023",
+      "description": "[CBNE0204261023] 일본침개미 1998.08.28 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0204261024",
+      "description": "[CBNE0204261024] 일본침개미 1991.08.03 / / 충북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTBO0004-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBO0004&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:40+00:00",
+    "html_sha256": "6377b5b0b36bf4f4bba37aa36b79c587cccead5feb080e0fb3e7e0bafcf21f3d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

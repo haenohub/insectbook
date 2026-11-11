@@ -1,0 +1,225 @@
+{
+  "id": "ZMAJ0096",
+  "name_ko": "복숭아혹진딧물",
+  "scientific_name": "Myzus (Nectarosiphon) persicae (Sulzer, 1776)",
+  "display_name": "복숭아혹진딧물",
+  "family_ko": "진딧물과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "진딧물상과",
+      "name_latin": "Aphidoidea"
+    },
+    "family": {
+      "name_ko": "진딧물과",
+      "name_latin": "Aphididae"
+    },
+    "subfamily": {
+      "name_ko": "진딧물아과",
+      "name_latin": "Aphidinae"
+    },
+    "genus": {
+      "name_ko": "혹진딧물속",
+      "name_latin": "Myzus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 진딧물상과 (Aphidoidea)\n과 : 진딧물과 (Aphididae)\n아과 : 진딧물아과 (Aphidinae)\n속 : 혹진딧물속 (Myzus)",
+  "basic_information": {
+    "곤충명": "복숭아혹진딧물",
+    "학명": "Myzus (Nectarosiphon) persicae (Sulzer, 1776)"
+  },
+  "information": {
+    "general_description": "무시태생 암컷 성충의 몸길이는 약 1.5 mm이며 담황록색 내지는 농록색을 띠는 개체가 많으나 적갈색 개체도 나타난다. 유시태생 성충의 머리, 가슴은 흑색, 배는 담황색으로 등면에 담흑색의 반문이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "3월 하순~4월 상순에 부화한 약충은 신초(新梢)로 이동하여 성장하며 무시태생 성충으로 번식한다. 10월 중순경에 유시태생 암컷 성충과 유시 수컷 성충이 출현하여 양성(兩性) 암컷충을 낳는다. 양성 암컷 성충은 1월 상순경에 유시 수컷 성충과 교미한 후 나뭇가지에 5~8개의 알을 낳는다.",
+    "habits": "기주식물의 잎 뒷면에 군서하여 흡즙 가해한다. 피해를 받은 잎은 시들면서 종 방향으로 말리며 갈색으로 변한다. 대발생하면 신초(新梢)의 생장이 저해되며 수세(樹勢)가 약화된다.",
+    "season": null,
+    "overwintering": "기주식물의 새순 기부에서 알로 월동한다.",
+    "distribution": "[대만]\n[중국]\n[유럽]\n[미국]\n[일본]\n[뉴질랜드]\n[인도]\n[미국] 하와이(Hawaii)",
+    "notes": "[산림해충] Chung et al.(1995)\n[농업해충]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "무시태생 암컷 성충의 몸길이는 약 1.5 mm이며 담황록색 내지는 농록색을 띠는 개체가 많으나 적갈색 개체도 나타난다. 유시태생 성충의 머리, 가슴은 흑색, 배는 담황색으로 등면에 담흑색의 반문이 있다."
+    },
+    {
+      "title": "생태",
+      "text": "3월 하순~4월 상순에 부화한 약충은 신초(新梢)로 이동하여 성장하며 무시태생 성충으로 번식한다. 10월 중순경에 유시태생 암컷 성충과 유시 수컷 성충이 출현하여 양성(兩性) 암컷충을 낳는다. 양성 암컷 성충은 1월 상순경에 유시 수컷 성충과 교미한 후 나뭇가지에 5~8개의 알을 낳는다."
+    },
+    {
+      "title": "습성",
+      "text": "기주식물의 잎 뒷면에 군서하여 흡즙 가해한다. 피해를 받은 잎은 시들면서 종 방향으로 말리며 갈색으로 변한다. 대발생하면 신초(新梢)의 생장이 저해되며 수세(樹勢)가 약화된다."
+    },
+    {
+      "title": "월동",
+      "text": "기주식물의 새순 기부에서 알로 월동한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대만]\n[중국]\n[유럽]\n[미국]\n[일본]\n[뉴질랜드]\n[인도]\n[미국] 하와이(Hawaii)"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)\n[농업해충]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMAJ0096-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAJ0096_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAJ0096_1_th.jpg",
+      "alt": "복숭아혹진딧물 1번째 사진 : 복숭아혹진딧물전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAJ0096_1_th2.jpg",
+      "caption": "복숭아혹진딧물전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMAJ0096-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0203212001",
+      "description": "[SNUE0203212001] 복숭아혹진딧물 1998.03.24 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0203212003",
+      "description": "[SNUE0203212003] 복숭아혹진딧물 1997.11.06 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0203212004",
+      "description": "[SNUE0203212004] 복숭아혹진딧물 1998.03.26 / / 서울대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "감나무",
+      "scientific_name": "Diospyros kaki Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "개나리",
+      "scientific_name": "Forsythia koreana (Rehder) Nakai"
+    },
+    {
+      "group": "식물",
+      "name_ko": "고욤나무",
+      "scientific_name": "Diospyros lotus L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "구기자나무",
+      "scientific_name": "Lycium chinense Mill."
+    },
+    {
+      "group": "식물",
+      "name_ko": "돌배나무",
+      "scientific_name": "Pyrus pyrifolia (Burm.f.) Nakai"
+    },
+    {
+      "group": "식물",
+      "name_ko": "매실나무",
+      "scientific_name": "Prunus mume (Siebold) Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "벚나무",
+      "scientific_name": "Prunus serrulata f. spontanea (Maxim.) Chin S.Chang"
+    },
+    {
+      "group": "식물",
+      "name_ko": "복사나무",
+      "scientific_name": "Prunus persica (L.) Batsch"
+    },
+    {
+      "group": "식물",
+      "name_ko": "사철나무",
+      "scientific_name": "Euonymus japonicus Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "산돌배",
+      "scientific_name": "Pyrus ussuriensis Maxim. ex Rupr."
+    },
+    {
+      "group": "식물",
+      "name_ko": "산옥매",
+      "scientific_name": "Prunus glandulosa Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "서향",
+      "scientific_name": "Daphne odora Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "온주밀감",
+      "scientific_name": "Citrus unshiu (Yu.Tanaka ex Swingle) Marcow."
+    },
+    {
+      "group": "식물",
+      "name_ko": "왕벚나무",
+      "scientific_name": "Prunus × yedoensis Matsum."
+    },
+    {
+      "group": "식물",
+      "name_ko": "작살나무",
+      "scientific_name": "Callicarpa japonica Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "참오동나무",
+      "scientific_name": "Paulownia tomentosa (Thunb.) Steud."
+    },
+    {
+      "group": "식물",
+      "name_ko": "초피나무",
+      "scientific_name": "Zanthoxylum piperitum (L.) DC."
+    },
+    {
+      "group": "식물",
+      "name_ko": "해당화",
+      "scientific_name": "Rosa rugosa Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "협죽도",
+      "scientific_name": "Nerium oleander L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "호자나무",
+      "scientific_name": "Damnacanthus indicus C.F.Gaertn."
+    },
+    {
+      "group": "식물",
+      "name_ko": "흰말채나무",
+      "scientific_name": "Cornus alba L."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZMAJ0096-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMAJ0096&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:13+00:00",
+    "html_sha256": "ba0979f9f3204a03a97932bc014ba739fe4794aafe02228cbedc66b46d8e5119",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

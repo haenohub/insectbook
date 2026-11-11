@@ -1,0 +1,119 @@
+{
+  "id": "ZOBC0024",
+  "name_ko": "배나무육점박이비단벌레",
+  "scientific_name": "Chrysobothris (Chrysobothris) succedanea Saunders, 1873",
+  "display_name": "배나무육점박이비단벌레",
+  "family_ko": "비단벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "비단벌레상과",
+      "name_latin": "Buprestoidea"
+    },
+    "family": {
+      "name_ko": "비단벌레과",
+      "name_latin": "Buprestidae"
+    },
+    "subfamily": {
+      "name_ko": "넓적비단벌레아과",
+      "name_latin": "Buprestinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Chrysobothris"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 비단벌레상과 (Buprestoidea)\n과 : 비단벌레과 (Buprestidae)\n아과 : 넓적비단벌레아과 (Buprestinae)\n속 : (Chrysobothris)",
+  "basic_information": {
+    "곤충명": "배나무육점박이비단벌레",
+    "학명": "Chrysobothris (Chrysobothris) succedanea Saunders, 1873"
+  },
+  "information": {
+    "general_description": "한국, 일본에 분포하며, 체장은 8-10mm 정도이다. 머리는 청동색인데 녹색 또는 구리색으로 반사하고 옆으로 된 주름이 있고 겹눈 사이에는 한 개의 횡융이 있다. 딱지날개는 청동색인데 자색을 띠고 점각이 치밀하며 각 딱지날개에는 세개의 금색 요함이 있다. 바깥가두리의 바깥쪽에 작은 이가 났다. 회합선과 바깥가두리를 따라 각 한줄의 종융이 있다. 배쪽은 금록색이고 양옆과 종아리마디는 동적색이고 점각을 산포하였다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본에 분포하며, 체장은 8-10mm 정도이다. 머리는 청동색인데 녹색 또는 구리색으로 반사하고 옆으로 된 주름이 있고 겹눈 사이에는 한 개의 횡융이 있다. 딱지날개는 청동색인데 자색을 띠고 점각이 치밀하며 각 딱지날개에는 세개의 금색 요함이 있다. 바깥가두리의 바깥쪽에 작은 이가 났다. 회합선과 바깥가두리를 따라 각 한줄의 종융이 있다. 배쪽은 금록색이고 양옆과 종아리마디는 동적색이고 점각을 산포하였다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBC0024-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBC0024_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBC0024_1_th.jpg",
+      "alt": "배나무육점박이비단벌레 1번째 사진 : 배나무육점박이비단벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBC0024_1_th2.jpg",
+      "caption": "배나무육점박이비단벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBC0024-1",
+  "specimen_examples": [
+    {
+      "id": "CBNE0212301017",
+      "description": "[CBNE0212301017] 배나무육점박이비단벌레 2002.04.18 / / 충북대학교"
+    },
+    {
+      "id": "YNUE0112296039",
+      "description": "[YNUE0112296039] 배나무육점박이비단벌레 1991.05.15 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0112296040",
+      "description": "[YNUE0112296040] 배나무육점박이비단벌레 1991.05.15 / / 영남대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "감나무",
+      "scientific_name": "Diospyros kaki Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "개잎갈나무",
+      "scientific_name": "Cedrus deodara (Roxb. ex D.Don) G.Don"
+    },
+    {
+      "group": "식물",
+      "name_ko": "매실나무",
+      "scientific_name": "Prunus mume (Siebold) Siebold & Zucc."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBC0024-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBC0024&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:23+00:00",
+    "html_sha256": "1b613d577ddca536472989d6d8cb32441984ba20f48bcbdad33bc2ca0cae8d28",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "ZOBT0252",
+  "name_ko": "검정발잎벌레",
+  "scientific_name": "Argopus nigritarsis (Gebler, 1823)",
+  "display_name": "검정발잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "긴더듬이잎벌레아과",
+      "name_latin": "Galerucinae"
+    },
+    "genus": {
+      "name_ko": "둥글잎벌레속",
+      "name_latin": "Argopus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 긴더듬이잎벌레아과 (Galerucinae)\n속 : 둥글잎벌레속 (Argopus)",
+  "basic_information": {
+    "곤충명": "검정발잎벌레",
+    "학명": "Argopus nigritarsis (Gebler, 1823)"
+  },
+  "information": {
+    "general_description": "몸길이는 3.6~4.8m, 더듬이는 3째마디까지 갈색이며 나머지는 검은색이다. 종아리마디와 발마디는 검은색이지만 종아리마다의 끝은 간혹 갈색이다. 몸의 색깔은 적갈색이다. 한국, 동유럽, 터키, 시베리아, 중국, 일본에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[유럽]\n[튀르키예공화국]\n[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 3.6~4.8m, 더듬이는 3째마디까지 갈색이며 나머지는 검은색이다. 종아리마디와 발마디는 검은색이지만 종아리마다의 끝은 간혹 갈색이다. 몸의 색깔은 적갈색이다. 한국, 동유럽, 터키, 시베리아, 중국, 일본에 분포되어있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[유럽]\n[튀르키예공화국]\n[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0252-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0252_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0252_1_th.jpg",
+      "alt": "검정발잎벌레 1번째 사진 : 검정발잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0252_1_th2.jpg",
+      "caption": "검정발잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0252-1",
+  "specimen_examples": [
+    {
+      "id": "JFNE0407131065",
+      "description": "[JFNE0407131065] 검정발잎벌레 1993.06.02 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0407131066",
+      "description": "[JFNE0407131066] 검정발잎벌레 1993.06.03 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0407131067",
+      "description": "[JFNE0407131067] 검정발잎벌레 1993.06.04 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBT0252.png",
+    "reference_image_id": "ZOBT0252-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T11:29:41.800221+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "bfe00cfd2697c807a189a7d3100f3c5fae84d5a7af0823e9fffb5a95bd222a3b"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0252&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:20+00:00",
+    "html_sha256": "54a9c44b93c7af24983aad172f9e095d10020473e4d3823b80f70a91016a9694",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "ZLBN0005",
+  "name_ko": "소나무장님노린재",
+  "scientific_name": "Alloeotomus chinensis Reuter, 1903",
+  "display_name": "소나무장님노린재",
+  "family_ko": "장님노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "장님노린재상과",
+      "name_latin": "Miroidea"
+    },
+    "family": {
+      "name_ko": "장님노린재과",
+      "name_latin": "Miridae"
+    },
+    "subfamily": {
+      "name_ko": "무늬장님노린재아과",
+      "name_latin": "Deraeocorinae"
+    },
+    "genus": {
+      "name_ko": "소나무장님노린재속",
+      "name_latin": "Alloeotomus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 장님노린재상과 (Miroidea)\n과 : 장님노린재과 (Miridae)\n아과 : 무늬장님노린재아과 (Deraeocorinae)\n속 : 소나무장님노린재속 (Alloeotomus)",
+  "basic_information": {
+    "곤충명": "소나무장님노린재",
+    "학명": "Alloeotomus chinensis Reuter, 1903"
+  },
+  "information": {
+    "general_description": "몸길이 : 5~6mm\n몸은 약간 광택이 있는 황갈색이고 때로는 붉은색이 도는 색깔을 나타내며, 앞가슴등의 앞가장자리의 깃모양 부분은 회백색의 밀랍 물질로 덮여 있다. 등면은 거의 털이 없고, 갈색의 점각이 산포되어 있다. 소나무 위에 살고, 월동한 성충은 이른 봄에 나타나며, 새로운 성충은 6월 말에서 7월에 걸쳐 출현한다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "깍지벌레를 흡식한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 5~6mm\n몸은 약간 광택이 있는 황갈색이고 때로는 붉은색이 도는 색깔을 나타내며, 앞가슴등의 앞가장자리의 깃모양 부분은 회백색의 밀랍 물질로 덮여 있다. 등면은 거의 털이 없고, 갈색의 점각이 산포되어 있다. 소나무 위에 살고, 월동한 성충은 이른 봄에 나타나며, 새로운 성충은 6월 말에서 7월에 걸쳐 출현한다."
+    },
+    {
+      "title": "생태",
+      "text": "깍지벌레를 흡식한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLBN0005-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBN0005_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBN0005_1_th.jpg",
+      "alt": "소나무장님노린재 1번째 사진 : 소나무장님노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBN0005_1_th2.jpg",
+      "caption": "소나무장님노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLBN0005-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0304011020",
+      "description": "[FRIE0304011020] 소나무장님노린재 1984.04.17 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0304011021",
+      "description": "[FRIE0304011021] 소나무장님노린재 1983.12.16 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0304011022",
+      "description": "[FRIE0304011022] 소나무장님노린재 1983.07.27 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLBN0005-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLBN0005&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:11+00:00",
+    "html_sha256": "e130a28d9908f655ab93db369b9ee398e41fd1bccff3517717412eaacdb72a23",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

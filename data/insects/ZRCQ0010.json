@@ -1,0 +1,158 @@
+{
+  "id": "ZRCQ0010",
+  "name_ko": "멧팔랑나비",
+  "scientific_name": "Erynnis montanus (Bremer, 1861)",
+  "display_name": "멧팔랑나비",
+  "family_ko": "팔랑나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "팔랑나비과",
+      "name_latin": "Hesperiidae"
+    },
+    "subfamily": {
+      "name_ko": "흰점팔랑나비아과",
+      "name_latin": "Pyrginae"
+    },
+    "genus": {
+      "name_ko": "멧팔랑나비속",
+      "name_latin": "Erynnis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 팔랑나비과 (Hesperiidae)\n아과 : 흰점팔랑나비아과 (Pyrginae)\n속 : 멧팔랑나비속 (Erynnis)",
+  "basic_information": {
+    "곤충명": "멧팔랑나비",
+    "학명": "Erynnis montanus (Bremer, 1861)"
+  },
+  "information": {
+    "general_description": "암컷은 앞날개 윗면 중앙에 흰색 띠가 있고 앞날개 아랫면에 노랑색이 크게 발달하고 있으므로 암수구별이 쉽다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "암컷은 주로 넓게 확 트인 참나무의 어린 잎에 한 개씩 산란하는데 알은 처음 엷은 황색이나 곧 적갈색으로 변한다.",
+    "habits": "나무가 덜 우거진 산지의 수림내 산길이나 계곡 주변에 서식한다. 줄딸기, 제비꽃, 고추나무 등의 꽃에 잘 모여 흡밀한다. 수컷은 습지에 모이거나 돌 위에서 일광욕을 하는 경우가 많다.",
+    "season": null,
+    "overwintering": "애벌레",
+    "distribution": "[일본]\n[중국]\n[대만]\n[러시아]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷은 앞날개 윗면 중앙에 흰색 띠가 있고 앞날개 아랫면에 노랑색이 크게 발달하고 있으므로 암수구별이 쉽다."
+    },
+    {
+      "title": "생태",
+      "text": "암컷은 주로 넓게 확 트인 참나무의 어린 잎에 한 개씩 산란하는데 알은 처음 엷은 황색이나 곧 적갈색으로 변한다."
+    },
+    {
+      "title": "습성",
+      "text": "나무가 덜 우거진 산지의 수림내 산길이나 계곡 주변에 서식한다. 줄딸기, 제비꽃, 고추나무 등의 꽃에 잘 모여 흡밀한다. 수컷은 습지에 모이거나 돌 위에서 일광욕을 하는 경우가 많다."
+    },
+    {
+      "title": "월동",
+      "text": "애벌레"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[대만]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCQ0010-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRCQ0010_4.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRCQ0010_4.jpg",
+      "alt": "멧팔랑나비 1번째 사진 : 멧팔랑나비 암컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRCQ0010_4_th2.jpg",
+      "caption": "멧팔랑나비 암컷 이미지",
+      "photographed_at": "20200429",
+      "location": null,
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRCQ0010-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRCQ0010_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRCQ0010_3.jpg",
+      "alt": "멧팔랑나비 2번째 사진 : 멧팔랑나비 수컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRCQ0010_3_th2.jpg",
+      "caption": "멧팔랑나비 수컷 이미지",
+      "photographed_at": "20200425",
+      "location": "경기도 포천시 소흘읍 광릉숲",
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRCQ0010-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0010_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0010_2_th.jpg",
+      "alt": "멧팔랑나비 3번째 사진 : 멧팔랑나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0010_2_th2.jpg",
+      "caption": "멧팔랑나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCQ0010-4",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0010_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0010_1_th.jpg",
+      "alt": "멧팔랑나비 4번째 사진 : 멧팔랑나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0010_1_th2.jpg",
+      "caption": "멧팔랑나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCQ0010-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408111037",
+      "description": "[MPME0408111037] 멧팔랑나비 2002.04.12 / / 목포자연사박물관"
+    },
+    {
+      "id": "SJNE0306131178",
+      "description": "[SJNE0306131178] 멧팔랑나비 2003.06.05 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0306131180",
+      "description": "[SJNE0306131180] 멧팔랑나비 2003.06.05 / / 상주대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "떡갈나무",
+      "scientific_name": "Quercus dentata Thunb."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCQ0010-3"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCQ0010&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:11+00:00",
+    "html_sha256": "583b253610994bae9162d0419d3e0f4878145b9ac973a50f323fcbfbe1142b26",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

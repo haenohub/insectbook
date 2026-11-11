@@ -1,0 +1,131 @@
+{
+  "id": "ZREP0001",
+  "name_ko": "가락지나비",
+  "scientific_name": "Aphantopus hyperantus (Linnaeus, 1758)",
+  "display_name": "가락지나비",
+  "family_ko": "네발나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "네발나비과",
+      "name_latin": "Nymphalidae"
+    },
+    "subfamily": {
+      "name_ko": "뱀눈나비아과",
+      "name_latin": "Satyrinae"
+    },
+    "genus": {
+      "name_ko": "가락지나비속",
+      "name_latin": "Aphantopus"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 네발나비과 (Nymphalidae)\n아과 : 뱀눈나비아과 (Satyrinae)\n속 : 가락지나비속 (Aphantopus)",
+  "basic_information": {
+    "곤충명": "가락지나비",
+    "학명": "Aphantopus hyperantus (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "앞날개 길이는 19~27mm에 이른다. 날개는 암갈색을 띠며, 앞날개 앞뒤에는 눈알 모양의 무늬가 발달되어 있다. 뒷날개에는 앞면과 뒷면 모두 눈알 모양의 무늬가 있으며 그 한가운데는 백색이고 둘레에 연한 황색의 테두리가 있다. 이 무늬의 수는 개체에 따라 변이가 있다.",
+    "adult": null,
+    "adult_male": "앞날개 길이는 수컷 19~26mm이다.",
+    "adult_female": "앞날개 길이는 암컷 20~27mm이다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "한국·중국 동북부·아무르주(州)·유럽 등지에 분포한다. 문헌에 의하면 제주특별자치도 한라산의 1,200m이상의 건조한 화산지대의 초지에 서식하는 것으로 알려져 있다. 출현기에는 개체수가 어느정도 많은 것으로 기록되어 있다. 7월말에서 8월에 걸쳐 연 1회 발생한다.",
+    "habits": "풀과 풀 사이를 낮게 날아다니다가 금방망이 등의 꽃에서 흡밀하는데 강한 햇빛에 오랫동안 노출될 경우에는 날개를 수직으로 접는다. 활동력이 매우 강한 특징을 가진다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[러시아]\n[유럽]",
+    "notes": "[국지적분포종] (박,김: 1997)\n[흡밀곤충] 금방망이",
+    "pest_control": "한국·중국 동북부·아무르주(州)·유럽 등지에 분포한다",
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "앞날개 길이는 19~27mm에 이른다. 날개는 암갈색을 띠며, 앞날개 앞뒤에는 눈알 모양의 무늬가 발달되어 있다. 뒷날개에는 앞면과 뒷면 모두 눈알 모양의 무늬가 있으며 그 한가운데는 백색이고 둘레에 연한 황색의 테두리가 있다. 이 무늬의 수는 개체에 따라 변이가 있다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "앞날개 길이는 수컷 19~26mm이다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "앞날개 길이는 암컷 20~27mm이다."
+    },
+    {
+      "title": "생태",
+      "text": "한국·중국 동북부·아무르주(州)·유럽 등지에 분포한다. 문헌에 의하면 제주특별자치도 한라산의 1,200m이상의 건조한 화산지대의 초지에 서식하는 것으로 알려져 있다. 출현기에는 개체수가 어느정도 많은 것으로 기록되어 있다. 7월말에서 8월에 걸쳐 연 1회 발생한다."
+    },
+    {
+      "title": "습성",
+      "text": "풀과 풀 사이를 낮게 날아다니다가 금방망이 등의 꽃에서 흡밀하는데 강한 햇빛에 오랫동안 노출될 경우에는 날개를 수직으로 접는다. 활동력이 매우 강한 특징을 가진다."
+    },
+    {
+      "title": "방제법",
+      "text": "한국·중국 동북부·아무르주(州)·유럽 등지에 분포한다"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[러시아]\n[유럽]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[국지적분포종] (박,김: 1997)\n[흡밀곤충] 금방망이"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREP0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREP0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREP0001_1_th.jpg",
+      "alt": "가락지나비 1번째 사진 : 가락지나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREP0001_1_th2.jpg",
+      "caption": "가락지나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREP0001-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0202281125",
+      "description": "[KPNE0202281125] 가락지나비 1981.07.23 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0202281126",
+      "description": "[KPNE0202281126] 가락지나비 1994.07.08 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0202281127",
+      "description": "[KPNE0202281127] 가락지나비 1981.07.23 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZREP0001.png",
+    "reference_image_id": "ZREP0001-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T16:00:21.795864+00:00",
+    "sha256": "d5d8e976416150ee5390489ce4acd7995f399bcd619bf17da0c7b07ed461ee7d",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREP0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:02+00:00",
+    "html_sha256": "543d413034ac88c6c99fbd77ac7d8052a431c75b91a3c83f45819d85d98db1e5",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

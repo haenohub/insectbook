@@ -1,0 +1,103 @@
+{
+  "id": "ZRCI0410",
+  "name_ko": "뾰족줄가지나방",
+  "scientific_name": "Heterarmia dissimilis (Staudinger, 1897)",
+  "display_name": "뾰족줄가지나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "가지나방아과",
+      "name_latin": "Ennominae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Heterarmia"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 가지나방아과 (Ennominae)\n속 : (Heterarmia)",
+  "basic_information": {
+    "곤충명": "뾰족줄가지나방",
+    "학명": "Heterarmia dissimilis (Staudinger, 1897)"
+  },
+  "information": {
+    "general_description": "날개편길이 37mm 내외임. 앞날개의 검은색 내외횡선은 뚜렷함. 외횡선은 M3에서 밖으로 각을 이룬 후 안쪽으로 휘어짐. 뒷날개의 외횡선은 톱날모양임.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편길이 37mm 내외임. 앞날개의 검은색 내외횡선은 뚜렷함. 외횡선은 M3에서 밖으로 각을 이룬 후 안쪽으로 휘어짐. 뒷날개의 외횡선은 톱날모양임."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0410-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0410_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0410_1_th.jpg",
+      "alt": "뾰족줄가지나방 1번째 사진 : 뾰족줄가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0410_1_th2.jpg",
+      "caption": "뾰족줄가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0410-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0201211019",
+      "description": "[KNAE0201211019] 뾰족줄가지나방 1991.06.09 / / 국립수목원"
+    },
+    {
+      "id": "CBNE0407131029",
+      "description": "[CBNE0407131029] 뾰족줄가지나방 2003.06.10 / / 충북대학교"
+    },
+    {
+      "id": "DJUE0407281009",
+      "description": "[DJUE0407281009] 뾰족줄가지나방 2002.08.16 / / 대전대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCI0410-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0410&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:09+00:00",
+    "html_sha256": "28b094ba0d19919d8d048421ca5c23a9e1852295566fad6030d5a18ac5777832",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

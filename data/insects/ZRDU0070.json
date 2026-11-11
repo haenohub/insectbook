@@ -1,0 +1,138 @@
+{
+  "id": "ZRDU0070",
+  "name_ko": "애기린재주나방",
+  "scientific_name": "Ptilodon capucina kuwayamae (Matsumura, 1919)",
+  "display_name": "애기린재주나방",
+  "family_ko": "재주나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "재주나방과",
+      "name_latin": "Notodontidae"
+    },
+    "subfamily": {
+      "name_ko": "기린재주나방아과",
+      "name_latin": "Ptilodoninae"
+    },
+    "genus": {
+      "name_ko": "애기린재주나방속",
+      "name_latin": "Ptilodon"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 재주나방과 (Notodontidae)\n아과 : 기린재주나방아과 (Ptilodoninae)\n속 : 애기린재주나방속 (Ptilodon)",
+  "basic_information": {
+    "곤충명": "애기린재주나방",
+    "학명": "Ptilodon capucina kuwayamae (Matsumura, 1919)"
+  },
+  "information": {
+    "general_description": "날개편 길이 30～39mm. 앞날개는 적갈색이며, 외연쪽이 기부쪽에 비하여 짙은편이다. 내횡선과 외횡선은 흑색을 띤 톱니모양이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6～8월에 출현한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[중국]\n[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 30～39mm. 앞날개는 적갈색이며, 외연쪽이 기부쪽에 비하여 짙은편이다. 내횡선과 외횡선은 흑색을 띤 톱니모양이다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6～8월에 출현한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDU0070-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0070_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0070_2_th.jpg",
+      "alt": "애기린재주나방 1번째 사진 : 애기린재주나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0070_2_th2.jpg",
+      "caption": "애기린재주나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDU0070-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0070_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0070_1_th.jpg",
+      "alt": "애기린재주나방 2번째 사진 : 애기린재주나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0070_1_th2.jpg",
+      "caption": "애기린재주나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDU0070-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0301102008",
+      "description": "[KNAE0301102008] 애기린재주나방 1991.08.07 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0301102009",
+      "description": "[KNAE0301102009] 애기린재주나방 1992.07.12 / / 국립수목원"
+    },
+    {
+      "id": "KNUE0202071063",
+      "description": "[KNUE0202071063] 애기린재주나방 1995.06.05 / / 강원대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "꼬리조팝나무",
+      "scientific_name": "Spiraea salicifolia L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "자작나무",
+      "scientific_name": "Betula pendula Roth"
+    },
+    {
+      "group": "식물",
+      "name_ko": "피나무",
+      "scientific_name": "Tilia amurensis Rupr."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDU0070-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDU0070&tabId=tab1",
+    "collected_at": "2026-11-04T14:14:54+00:00",
+    "html_sha256": "9935eb778644933007bd4933397ccddff9229c7d2369f88017eff7c16c3ff26e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

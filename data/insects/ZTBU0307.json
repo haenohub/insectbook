@@ -1,0 +1,99 @@
+{
+  "id": "ZTBU0307",
+  "name_ko": "신라뾰족맵시벌",
+  "scientific_name": "Mesostenus coreanus (Kim, 1955)",
+  "display_name": "신라뾰족맵시벌",
+  "family_ko": "맵시벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "맵시벌과",
+      "name_latin": "Ichneumonidae"
+    },
+    "subfamily": {
+      "name_ko": "뾰족맵시벌아과",
+      "name_latin": "Cryptinae"
+    },
+    "genus": {
+      "name_ko": "신라뾰족맵시벌속",
+      "name_latin": "Mesostenus"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 맵시벌과 (Ichneumonidae)\n아과 : 뾰족맵시벌아과 (Cryptinae)\n속 : 신라뾰족맵시벌속 (Mesostenus)",
+  "basic_information": {
+    "곤충명": "신라뾰족맵시벌",
+    "학명": "Mesostenus coreanus (Kim, 1955)"
+  },
+  "information": {
+    "general_description": "몸은 흑색이나 더듬이 중앙은 백색이고 배와 다리는 암갈색이나 제2·3배마디, 뒷다리의 넓적다리마디와 그 종아리마디의 기부 반은 적갈색이고, 제5∼7배마디의 끝은 백색이다. 앞·가운데다리는 밑마디와 도래마디를 제외하고는 적색이다. 머리는 앞에서 보아 삼각형이고 얼굴의 중앙과 머리방패는 돌출했고 점각이 있다. 가슴에는 조잡한 점각이 있고 작은방패판은 돌출했다. 뒷가슴에는 2개의 가로 줄이 있다. 뒷줄은 중앙이 확실치 않다. 배는 평활하고 광택이 있으며 가늘고 길다. 제1배마디의 뒷부분 양쪽과 제2배마디에는 약간의 점각이 있다. 날개는 황색으로 흐리고 연문은 담갈색이다. 15mm정도",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸은 흑색이나 더듬이 중앙은 백색이고 배와 다리는 암갈색이나 제2·3배마디, 뒷다리의 넓적다리마디와 그 종아리마디의 기부 반은 적갈색이고, 제5∼7배마디의 끝은 백색이다. 앞·가운데다리는 밑마디와 도래마디를 제외하고는 적색이다. 머리는 앞에서 보아 삼각형이고 얼굴의 중앙과 머리방패는 돌출했고 점각이 있다. 가슴에는 조잡한 점각이 있고 작은방패판은 돌출했다. 뒷가슴에는 2개의 가로 줄이 있다. 뒷줄은 중앙이 확실치 않다. 배는 평활하고 광택이 있으며 가늘고 길다. 제1배마디의 뒷부분 양쪽과 제2배마디에는 약간의 점각이 있다. 날개는 황색으로 흐리고 연문은 담갈색이다. 15mm정도"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBU0307-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0307_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0307_1_th.jpg",
+      "alt": "신라뾰족맵시벌 1번째 사진 : 대한맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0307_1_th2.jpg",
+      "caption": "대한맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBU0307-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305301016",
+      "description": "[YNUE0305301016] 신라뾰족맵시벌 1956.10.07 / / 영남대학교"
+    },
+    {
+      "id": "KKFE0606261030",
+      "description": "[KKFE0606261030] 신라뾰족맵시벌 1998.10.10 / / 경기산림환경연구소"
+    },
+    {
+      "id": "KKFE0606261031",
+      "description": "[KKFE0606261031] 신라뾰족맵시벌 1998.09.04 / / 경기산림환경연구소"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTBU0307-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBU0307&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:49+00:00",
+    "html_sha256": "cfb6331c73e8c48bf4e32aec589cb6da564ee5a1d52574584d4d5b439abf383b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

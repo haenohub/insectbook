@@ -1,0 +1,99 @@
+{
+  "id": "ZOEJ0004",
+  "name_ko": "잔감자풍뎅이",
+  "scientific_name": "Apogonia cribricollis Burmeister, 1855",
+  "display_name": "잔감자풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "검정풍뎅이아과",
+      "name_latin": "Melolonthinae"
+    },
+    "genus": {
+      "name_ko": "잔감자풍뎅이속",
+      "name_latin": "Apogonia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 검정풍뎅이아과 (Melolonthinae)\n속 : 잔감자풍뎅이속 (Apogonia)",
+  "basic_information": {
+    "곤충명": "잔감자풍뎅이",
+    "학명": "Apogonia cribricollis Burmeister, 1855"
+  },
+  "information": {
+    "general_description": "중국과 통킹에 분포하며, 흑색내지 적갈색이며 광택이 강하다. 머리는 반구형이며, 방패의 점각은 크고 조밀하여 주름살모양이며, 전흉배판은 길이의 2배이상으로 폭이 넓고, 점각은 작으나 매우 조밀하게 분포하였다. 딱지날개는 뒤쪽이 약간 넓고, 봉합선 외에 3-4개의 세로 융기선이 있다. 복면과 다리도 작은 점각이 조밀한데 흰털을 동반한다. 후퇴절의 뒤쪽 가장자리에는 1열의 긴 가시털이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중국과 통킹에 분포하며, 흑색내지 적갈색이며 광택이 강하다. 머리는 반구형이며, 방패의 점각은 크고 조밀하여 주름살모양이며, 전흉배판은 길이의 2배이상으로 폭이 넓고, 점각은 작으나 매우 조밀하게 분포하였다. 딱지날개는 뒤쪽이 약간 넓고, 봉합선 외에 3-4개의 세로 융기선이 있다. 복면과 다리도 작은 점각이 조밀한데 흰털을 동반한다. 후퇴절의 뒤쪽 가장자리에는 1열의 긴 가시털이 있다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOEJ0004-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0004_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0004_1_th.jpg",
+      "alt": "잔감자풍뎅이 1번째 사진 : 잔감자풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0004_1_th2.jpg",
+      "caption": "잔감자풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOEJ0004-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304092034",
+      "description": "[KNAE0304092034] 잔감자풍뎅이 1992.07.28 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304092035",
+      "description": "[KNAE0304092035] 잔감자풍뎅이 1994.06.29 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304092036",
+      "description": "[KNAE0304092036] 잔감자풍뎅이 1994.08.01 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOEJ0004-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOEJ0004&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:55+00:00",
+    "html_sha256": "10e4082f9df4ace4f38fa87478df96b160d8894a1969be81a2fe803ab2014103",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

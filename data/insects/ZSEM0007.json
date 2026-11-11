@@ -1,0 +1,103 @@
+{
+  "id": "ZSEM0007",
+  "name_ko": "멍꽃등에",
+  "scientific_name": "Didea alneti (Fallén, 1817)",
+  "display_name": "멍꽃등에",
+  "family_ko": "꽃등에과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "꽃등에상과",
+      "name_latin": "Syrphoidea"
+    },
+    "family": {
+      "name_ko": "꽃등에과",
+      "name_latin": "Syrphidae"
+    },
+    "subfamily": {
+      "name_ko": "꽃등에아과",
+      "name_latin": "Syrphinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Didea"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 꽃등에상과 (Syrphoidea)\n과 : 꽃등에과 (Syrphidae)\n아과 : 꽃등에아과 (Syrphinae)\n속 : (Didea)",
+  "basic_information": {
+    "곤충명": "멍꽃등에",
+    "학명": "Didea alneti (Fallén, 1817)"
+  },
+  "information": {
+    "general_description": "성충은 몸길이 11~13mm. 몸은 크고 흑색이다. 수컷에서는 이마는 황색이고 황색 털이 났으며, 더듬이 위족에 암색인 1줄의 꼬부라진 줄이 있다. 겹눈에는 미세한 털이 났고 정수리 삼각부와 같은 길이의 접촉선이 있으며, 이 선은 이마 길이의 2/3이고 더듬이는 흑색이나 얼굴은 황색이고 앞가장자리와 가운데혹은 흑색이다. 가운데가슴등판은 광택이 있는 흑색이며 둔한 황색 털로 덮였다. 작은방패판은 갈색이 도는 황색이나 흑색 털이 났다. 배는 뚜렷한 옆가장자리 부분을 가졌고 흑색이며, 녹색이 도는 황색의 가로 무늬가 있다. 날개는 약한 갈색이나 연문(stigma)은 갈색이다. 평균곤(halter)은 진한 갈색이다. 암컷에서는 이마는 둔한 황색이고 정수리와 더듬이 윗부분은 광택 있는 흑색이다. 배의 가로 무늬는 수컷의 것보다 가늘다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "유충시기에 진딧물인 Lachnus tropicalis를 섭식한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충은 몸길이 11~13mm. 몸은 크고 흑색이다. 수컷에서는 이마는 황색이고 황색 털이 났으며, 더듬이 위족에 암색인 1줄의 꼬부라진 줄이 있다. 겹눈에는 미세한 털이 났고 정수리 삼각부와 같은 길이의 접촉선이 있으며, 이 선은 이마 길이의 2/3이고 더듬이는 흑색이나 얼굴은 황색이고 앞가장자리와 가운데혹은 흑색이다. 가운데가슴등판은 광택이 있는 흑색이며 둔한 황색 털로 덮였다. 작은방패판은 갈색이 도는 황색이나 흑색 털이 났다. 배는 뚜렷한 옆가장자리 부분을 가졌고 흑색이며, 녹색이 도는 황색의 가로 무늬가 있다. 날개는 약한 갈색이나 연문(stigma)은 갈색이다. 평균곤(halter)은 진한 갈색이다. 암컷에서는 이마는 둔한 황색이고 정수리와 더듬이 윗부분은 광택 있는 흑색이다. 배의 가로 무늬는 수컷의 것보다 가늘다."
+    },
+    {
+      "title": "생태",
+      "text": "유충시기에 진딧물인 Lachnus tropicalis를 섭식한다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSEM0007-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0007_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0007_1_th.jpg",
+      "alt": "멍꽃등에 1번째 사진 : 멍꽃등에전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0007_1_th2.jpg",
+      "caption": "멍꽃등에전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSEM0007-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0307201055",
+      "description": "[KUIE0307201055] 멍꽃등에 1957.09.14 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307201061",
+      "description": "[KUIE0307201061] 멍꽃등에 1961.04.15 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307201056",
+      "description": "[KUIE0307201056] 멍꽃등에 1971.09.19 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZSEM0007-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSEM0007&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:09+00:00",
+    "html_sha256": "b9b100a14ec67955bd61a2a8eeac30925720691315da44841563f010a335dbc4",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

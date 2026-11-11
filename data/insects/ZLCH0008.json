@@ -1,0 +1,122 @@
+{
+  "id": "ZLCH0008",
+  "name_ko": "붉은잡초노린재",
+  "scientific_name": "Rhopalus (Aeschyntelus) maculatus (Fieber, 1837)",
+  "display_name": "붉은잡초노린재",
+  "family_ko": "잡초노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "허리노린재상과",
+      "name_latin": "Coreoidea"
+    },
+    "family": {
+      "name_ko": "잡초노린재과",
+      "name_latin": "Rhopalidae"
+    },
+    "subfamily": {
+      "name_ko": "잡초노린재아과",
+      "name_latin": "Phopalinae"
+    },
+    "genus": {
+      "name_ko": "잡초노린재속",
+      "name_latin": "Rhopalus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 허리노린재상과 (Coreoidea)\n과 : 잡초노린재과 (Rhopalidae)\n아과 : 잡초노린재아과 (Phopalinae)\n속 : 잡초노린재속 (Rhopalus)",
+  "basic_information": {
+    "곤충명": "붉은잡초노린재",
+    "학명": "Rhopalus (Aeschyntelus) maculatus (Fieber, 1837)"
+  },
+  "information": {
+    "general_description": "몸길이 : 5.5-8.5mm\n몸은 황갈색 또는 적갈색을 띠며, 광택이 있다. 등면은 미세한 털이 산재하고, 흑갈색 점각을 가진다. 머리는 중앙부가 돌출하였고 점각이 많다. 더듬이는 적갈색을 띤다. 앞가슴등판은 사다리꼴이고 앞가장자리 바로 뒤에 가로홈이 있다. 중앙에는 세로로 볼록선을 가진다. 작은방패판은 정삼각형이고 단순하다. 앞날개는 앞가장자리와 혁질부의 말단부만 경화되었고 흑갈색 점무늬가 흩어져 있다. 다른 부분은 막질부처럼 반투명하고 배마디의 등면이 적갈색으로 비쳐 보인다. 배마디의 옆가장자리는 앞날개 후반부 옆으로 노출되었다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "산야의 초원지대나 경작지 주변에 널리 분포한다.",
+    "habits": "화본과 및 국화과 식물을 먹고 산다. 때때로 벼이삭을 가해하여 반점미의 피해를 입힌다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[몽골]\n[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 5.5-8.5mm\n몸은 황갈색 또는 적갈색을 띠며, 광택이 있다. 등면은 미세한 털이 산재하고, 흑갈색 점각을 가진다. 머리는 중앙부가 돌출하였고 점각이 많다. 더듬이는 적갈색을 띤다. 앞가슴등판은 사다리꼴이고 앞가장자리 바로 뒤에 가로홈이 있다. 중앙에는 세로로 볼록선을 가진다. 작은방패판은 정삼각형이고 단순하다. 앞날개는 앞가장자리와 혁질부의 말단부만 경화되었고 흑갈색 점무늬가 흩어져 있다. 다른 부분은 막질부처럼 반투명하고 배마디의 등면이 적갈색으로 비쳐 보인다. 배마디의 옆가장자리는 앞날개 후반부 옆으로 노출되었다."
+    },
+    {
+      "title": "생태",
+      "text": "산야의 초원지대나 경작지 주변에 널리 분포한다."
+    },
+    {
+      "title": "습성",
+      "text": "화본과 및 국화과 식물을 먹고 산다. 때때로 벼이삭을 가해하여 반점미의 피해를 입힌다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[몽골]\n[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLCH0008-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCH0008_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCH0008_2_th.jpg",
+      "alt": "붉은잡초노린재 1번째 사진 : 붉은잡초노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCH0008_2_th2.jpg",
+      "caption": "붉은잡초노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZLCH0008-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCH0008_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCH0008_1_th.jpg",
+      "alt": "붉은잡초노린재 2번째 사진 : 붉은잡초노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCH0008_1_th2.jpg",
+      "caption": "붉은잡초노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLCH0008-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0212189188",
+      "description": "[YNUE0212189188] 붉은잡초노린재 1991.05.10 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0212189189",
+      "description": "[YNUE0212189189] 붉은잡초노린재 1991.05.10 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0212189191",
+      "description": "[YNUE0212189191] 붉은잡초노린재 1991.05.09 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLCH0008-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLCH0008&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:53+00:00",
+    "html_sha256": "6fbf1538eccd540a9b8c6dbc57f643df2d2f7adc970511c04081997de8d7c86d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "ZOGG0017",
+  "name_ko": "홈줄풍뎅이",
+  "scientific_name": "Anomala aulax (Wiedemann, 1923)",
+  "display_name": "홈줄풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "풍뎅이아과",
+      "name_latin": "Rutelinae"
+    },
+    "genus": {
+      "name_ko": "청동풍뎅이속",
+      "name_latin": "Anomala"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 풍뎅이아과 (Rutelinae)\n속 : 청동풍뎅이속 (Anomala)",
+  "basic_information": {
+    "곤충명": "홈줄풍뎅이",
+    "학명": "Anomala aulax (Wiedemann, 1923)"
+  },
+  "information": {
+    "general_description": "중국, 시베리아 동부에 분포하며, 딱지날개에는 10개의 깊은 조구가 있고, 간실은 넓고 완만하게 경사가 졌어며, 가로로 좁은 반달형인데 복잡하게 이중적인 점각이 있다. 몸은 넓은 난형 내지 원통형으로 변이가 있다. 등쪽은 녹색이나 보통 약한 구릿빛 광택이 있는데 드물게 흑록색 내지 검은 구릿빛이다 .복면과 다리는 녹갈색 내지 암갈색이다. 앞가슴등판의 점각은 가로로 타원형이며 매우 조밀하나 양 옆쪽은 보다 크고 드물며 그물모양이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중국, 시베리아 동부에 분포하며, 딱지날개에는 10개의 깊은 조구가 있고, 간실은 넓고 완만하게 경사가 졌어며, 가로로 좁은 반달형인데 복잡하게 이중적인 점각이 있다. 몸은 넓은 난형 내지 원통형으로 변이가 있다. 등쪽은 녹색이나 보통 약한 구릿빛 광택이 있는데 드물게 흑록색 내지 검은 구릿빛이다 .복면과 다리는 녹갈색 내지 암갈색이다. 앞가슴등판의 점각은 가로로 타원형이며 매우 조밀하나 양 옆쪽은 보다 크고 드물며 그물모양이다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGG0017-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0017_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0017_1_th.jpg",
+      "alt": "홈줄풍뎅이 1번째 사진 : 홈줄풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0017_1_th2.jpg",
+      "caption": "홈줄풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGG0017-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0408101034",
+      "description": "[KNAE0408101034] 홈줄풍뎅이 2001.07.19 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0408101035",
+      "description": "[KNAE0408101035] 홈줄풍뎅이 2001.06.16 / / 국립수목원"
+    },
+    {
+      "id": "ENHE0408241001",
+      "description": "[ENHE0408241001] 홈줄풍뎅이 1986.07.10 / / 이화여자대학교 자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGG0017-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGG0017&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:25+00:00",
+    "html_sha256": "7f5972433752129d232096beb47346a0f3e76b9008ff6fc95b811019cd8f9ca8",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

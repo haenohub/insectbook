@@ -1,0 +1,114 @@
+{
+  "id": "ZRAM0061",
+  "name_ko": "배점무늬불나방",
+  "scientific_name": "Spilosoma lubricipeda (Linnaeus, 1758)",
+  "display_name": "배점무늬불나방",
+  "family_ko": "태극나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "태극나방과",
+      "name_latin": "Erebidae"
+    },
+    "subfamily": {
+      "name_ko": "불나방아과",
+      "name_latin": "Arctiinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Spilosoma"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 태극나방과 (Erebidae)\n아과 : 불나방아과 (Arctiinae)\n속 : (Spilosoma)",
+  "basic_information": {
+    "곤충명": "배점무늬불나방",
+    "학명": "Spilosoma lubricipeda (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "더듬이는 흑색으로 수컷은 양측 빗살 모양, 암컷은 톱니 모양임. 머리, 가슴은 연한 미색이고, 아랫입술수염은 흑색임. 배의 배쪽면은 등황색이고, 등쪽면은 황색인데 중앙과 양 옆면에 흑색점의 열이 있음. 앞다리의 넓적다리마디는 황색, 그 외는 대체로 백색임. 날개는 모두 연한 우윳빛을 띠며 흑색점이 산포되어 있는데 앞날개에 많이 있고, 뒷날개에는 횡맥의 중앙과 외연쪽에 3∼4개가 있음.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 흑색으로 수컷은 양측 빗살 모양, 암컷은 톱니 모양임. 머리, 가슴은 연한 미색이고, 아랫입술수염은 흑색임. 배의 배쪽면은 등황색이고, 등쪽면은 황색인데 중앙과 양 옆면에 흑색점의 열이 있음. 앞다리의 넓적다리마디는 황색, 그 외는 대체로 백색임. 날개는 모두 연한 우윳빛을 띠며 흑색점이 산포되어 있는데 앞날개에 많이 있고, 뒷날개에는 횡맥의 중앙과 외연쪽에 3∼4개가 있음."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRAM0061-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0061_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0061_2_th.jpg",
+      "alt": "배점무늬불나방 1번째 사진 : 배점무늬불나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0061_2_th2.jpg",
+      "caption": "배점무늬불나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRAM0061-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0061_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0061_1_th.jpg",
+      "alt": "배점무늬불나방 2번째 사진 : 배점무늬불나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0061_1_th2.jpg",
+      "caption": "배점무늬불나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRAM0061-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304192015",
+      "description": "[KNAE0304192015] 배점무늬불나방 1999.04.22 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303141011",
+      "description": "[KNAE0303141011] 배점무늬불나방 1999.07.21 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303141012",
+      "description": "[KNAE0303141012] 배점무늬불나방 1997.05.05 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRAM0061-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRAM0061&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:29+00:00",
+    "html_sha256": "20e9fb2b10c65fad5f71d94db6fc2c175eb73f0f48c082f9d719c0bef3a3bf8a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "ZREL0231",
+  "name_ko": "쌍줄비단명나방",
+  "scientific_name": "Zitha torridalis (Lederer, 1863)",
+  "display_name": "쌍줄비단명나방",
+  "family_ko": "명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "명나방과",
+      "name_latin": "Pyralidae"
+    },
+    "subfamily": {
+      "name_ko": "비단명나방아과",
+      "name_latin": "Pyralinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Zitha"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 명나방과 (Pyralidae)\n아과 : 비단명나방아과 (Pyralinae)\n속 : (Zitha)",
+  "basic_information": {
+    "곤충명": "쌍줄비단명나방",
+    "학명": "Zitha torridalis (Lederer, 1863)"
+  },
+  "information": {
+    "general_description": "일본 중국 인디아에 분포하며 머리는 백갈색 인편으로 덮여 있고 더듬이는 담황갈색이며 약간 적색을 띤다. 수컷의 더듬이는 톱니 모양이다. 아랫입술수염은 위로 향하고 담황갈색이며 기부는 적색을 약간 띠고 흑갈색 인편이 섞여 있다. 주둥이는 아주 작고 가슴과 배의 등면은 담황갈색이고 복면과 다리는 약간 적색을 띤다. 앞날개의 바탕색은 황색에 적색 인편이 섞여 있다. 외횡선은 전연 4/5에서 시작되어 후연 2/3에 닿으며 톱니 모양이나 거의 직선에 가깝고 흑색이다. 외횡선과 중횡선 사이의 전연쪽에는 반달모양의 뚜렷한 흑색 무늬가 있다. 뒷날개는 앞날개보다 적색기가 강하며 2줄의 흑색 횡선이 뚜렷히 나타난다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "일본 중국 인디아에 분포하며 머리는 백갈색 인편으로 덮여 있고 더듬이는 담황갈색이며 약간 적색을 띤다. 수컷의 더듬이는 톱니 모양이다. 아랫입술수염은 위로 향하고 담황갈색이며 기부는 적색을 약간 띠고 흑갈색 인편이 섞여 있다. 주둥이는 아주 작고 가슴과 배의 등면은 담황갈색이고 복면과 다리는 약간 적색을 띤다. 앞날개의 바탕색은 황색에 적색 인편이 섞여 있다. 외횡선은 전연 4/5에서 시작되어 후연 2/3에 닿으며 톱니 모양이나 거의 직선에 가깝고 흑색이다. 외횡선과 중횡선 사이의 전연쪽에는 반달모양의 뚜렷한 흑색 무늬가 있다. 뒷날개는 앞날개보다 적색기가 강하며 2줄의 흑색 횡선이 뚜렷히 나타난다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0231-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0231_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0231_1_th.jpg",
+      "alt": "쌍줄비단명나방 1번째 사진 : 쌍줄비단명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0231_1_th2.jpg",
+      "caption": "쌍줄비단명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0231-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0305021047",
+      "description": "[FRIE0305021047] 쌍줄비단명나방 1983.07.23 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0302062043",
+      "description": "[KNAE0302062043] 쌍줄비단명나방 1993.07.18 / / 국립수목원"
+    },
+    {
+      "id": "FRIE0302041033",
+      "description": "[FRIE0302041033] 쌍줄비단명나방 1997.07.14 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREL0231-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0231&tabId=tab1",
+    "collected_at": "2026-11-04T14:14:06+00:00",
+    "html_sha256": "d0a2f0810c50e56853ba037cb15a5721b622e8676f67941c8c66250221cbe788",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

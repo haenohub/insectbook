@@ -1,0 +1,9 @@
+__pycache__/
+.venv/
+node_modules/
+dist/
+test-results/
+playwright-report/
+
+# Full-resolution drawing archive stays in the cloud; deployable WebP copies are tracked.
+/assets/illustrations/

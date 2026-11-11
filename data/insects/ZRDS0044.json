@@ -1,0 +1,126 @@
+{
+  "id": "ZRDS0044",
+  "name_ko": "꼬마저녁나방",
+  "scientific_name": "Narcotica niveosparsa (Matsumura, 1926)",
+  "display_name": "꼬마저녁나방",
+  "family_ko": "밤나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "밤나방과",
+      "name_latin": "Noctuidae"
+    },
+    "subfamily": {
+      "name_ko": "저녁나방아과",
+      "name_latin": "Acronictinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Narcotica"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 밤나방과 (Noctuidae)\n아과 : 저녁나방아과 (Acronictinae)\n속 : (Narcotica)",
+  "basic_information": {
+    "곤충명": "꼬마저녁나방",
+    "학명": "Narcotica niveosparsa (Matsumura, 1926)"
+  },
+  "information": {
+    "general_description": "날개편 길이 14～15mm. 앞날개는 전체적으로 흑색을 띠나 외연부는 백색을 띠며, 중앙부는 약간 갈색 빛이 난다. 뒷날개는 갈색 바탕인데, 외연부는 다소 암갈색을 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6～8월경에 출현된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 14～15mm. 앞날개는 전체적으로 흑색을 띠나 외연부는 백색을 띠며, 중앙부는 약간 갈색 빛이 난다. 뒷날개는 갈색 바탕인데, 외연부는 다소 암갈색을 띤다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6～8월경에 출현된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0044-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0044_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0044_2_th.jpg",
+      "alt": "꼬마저녁나방 1번째 사진 : 꼬마저녁나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0044_2_th2.jpg",
+      "caption": "꼬마저녁나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDS0044-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0044_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0044_1_th.jpg",
+      "alt": "꼬마저녁나방 2번째 사진 : 꼬마저녁나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0044_1_th2.jpg",
+      "caption": "꼬마저녁나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0044-1",
+  "specimen_examples": [
+    {
+      "id": "KNUE0210211054",
+      "description": "[KNUE0210211054] 꼬마저녁나방 1999.07.15 / / 강원대학교"
+    },
+    {
+      "id": "KNUE0210211056",
+      "description": "[KNUE0210211056] 꼬마저녁나방 1998.06.29 / / 강원대학교"
+    },
+    {
+      "id": "KNUE0210211052",
+      "description": "[KNUE0210211052] 꼬마저녁나방 1990.07.10 / / 강원대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDS0044.png",
+    "reference_image_id": "ZRDS0044-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T14:21:51.860801+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "f6d63aa2fc88a6b638f4ceb861bac4b7427e8968e97689d26bd3c8e1233a0253"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0044&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:49+00:00",
+    "html_sha256": "6c510c3435b97bdbf3416c3dce902f5762ec354a6ab6c309245ba645056a1fba",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

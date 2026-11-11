@@ -1,0 +1,114 @@
+{
+  "id": "ZTDO0113",
+  "name_ko": "청잎벌",
+  "scientific_name": "Tenthredo (Eurogaster) mesomela Linnaeus, 1758",
+  "display_name": "청잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "잎벌아과",
+      "name_latin": "Tenthredininae"
+    },
+    "genus": {
+      "name_ko": "잎벌속",
+      "name_latin": "Tenthredo"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 잎벌아과 (Tenthredininae)\n속 : 잎벌속 (Tenthredo)",
+  "basic_information": {
+    "곤충명": "청잎벌",
+    "학명": "Tenthredo (Eurogaster) mesomela Linnaeus, 1758"
+  },
+  "information": {
+    "general_description": "몸은 등면 부분이 흑색이나 아랫면 대부분은 황록색이다. 더듬이는 흑색이며 비교적 짧고 제 3마디는 제 4마디보다 길다. 머리에는 잔 점각과 주름 조각이 있고 가슴등판에는 점각이 밀포하여 있다. 작은방패판은 약하게 융기했고 평활하고 암색 털이 났다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸은 등면 부분이 흑색이나 아랫면 대부분은 황록색이다. 더듬이는 흑색이며 비교적 짧고 제 3마디는 제 4마디보다 길다. 머리에는 잔 점각과 주름 조각이 있고 가슴등판에는 점각이 밀포하여 있다. 작은방패판은 약하게 융기했고 평활하고 암색 털이 났다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0113-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0113_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0113_2_th.jpg",
+      "alt": "청잎벌 1번째 사진 : 청잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0113_2_th2.jpg",
+      "caption": "청잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTDO0113-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0113_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0113_1_th.jpg",
+      "alt": "청잎벌 2번째 사진 : 청잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0113_1_th2.jpg",
+      "caption": "청잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0113-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305211011",
+      "description": "[YNUE0305211011] 청잎벌 1999.05.14 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301049194",
+      "description": "[YNUE0301049194] 청잎벌 1992.05.13 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301049196",
+      "description": "[YNUE0301049196] 청잎벌 1999.07.10 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDO0113-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0113&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:18+00:00",
+    "html_sha256": "6aecfd63d0abe4504e895049f0fb672a86ace708428c942ef630fd567ea7d339",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "ZOGX0026",
+  "name_ko": "르위스거저리",
+  "scientific_name": "Diaperis lewisi lewisi Bates, 1873",
+  "display_name": "르위스거저리",
+  "family_ko": "거저리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "거저리상과",
+      "name_latin": "Tenebrionoidea"
+    },
+    "family": {
+      "name_ko": "거저리과",
+      "name_latin": "Tenebrionidae"
+    },
+    "subfamily": {
+      "name_ko": "르위스거저리아과",
+      "name_latin": "Diaperinae"
+    },
+    "genus": {
+      "name_ko": "르위스거저리속",
+      "name_latin": "Diaperis"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 거저리상과 (Tenebrionoidea)\n과 : 거저리과 (Tenebrionidae)\n아과 : 르위스거저리아과 (Diaperinae)\n속 : 르위스거저리속 (Diaperis)",
+  "basic_information": {
+    "곤충명": "르위스거저리",
+    "학명": "Diaperis lewisi lewisi Bates, 1873"
+  },
+  "information": {
+    "general_description": "몸의 길이는 6~7mm 이며, 몸은 전체적으로 광택을 띠는 검은색이고, 딱지날개에는 적갈색의 큰물결무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의 길이는 6~7mm 이며, 몸은 전체적으로 광택을 띠는 검은색이고, 딱지날개에는 적갈색의 큰물결무늬가 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGX0026-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGX0026_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGX0026_1_th.jpg",
+      "alt": "르위스거저리 1번째 사진 : 르위스거저리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGX0026_1_th2.jpg",
+      "caption": "르위스거저리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGX0026-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303272036",
+      "description": "[KNAE0303272036] 르위스거저리 1995.06.09 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303272037",
+      "description": "[KNAE0303272037] 르위스거저리 1995.06.10 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303272039",
+      "description": "[KNAE0303272039] 르위스거저리 1994.06.29 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGX0026-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGX0026&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:38+00:00",
+    "html_sha256": "56d34dee06d84c8b7f51c935cc532e9f52e772b646021354adb0ff15d5f26f2c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

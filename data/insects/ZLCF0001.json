@@ -1,0 +1,107 @@
+{
+  "id": "ZLCF0001",
+  "name_ko": "땅별노린재",
+  "scientific_name": "Pyrrhocoris sibiricus Kuschakewitsch, 1866",
+  "display_name": "땅별노린재",
+  "family_ko": "별노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "별노린재상과",
+      "name_latin": "Pyrrhocoroidea"
+    },
+    "family": {
+      "name_ko": "별노린재과",
+      "name_latin": "Pyrrhocoridae"
+    },
+    "genus": {
+      "name_ko": "별노린재속",
+      "name_latin": "Pyrrhocoris"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 별노린재상과 (Pyrrhocoroidea)\n과 : 별노린재과 (Pyrrhocoridae)\n속 : 별노린재속 (Pyrrhocoris)",
+  "basic_information": {
+    "곤충명": "땅별노린재",
+    "학명": "Pyrrhocoris sibiricus Kuschakewitsch, 1866"
+  },
+  "information": {
+    "general_description": "몸길이 : 7.5-9.5mm\n몸은 등면이 편평하고 타원형이다. 몸은 회갈색 또는 갈색을 띠며, 미세한 점각이 산재한다. 머리는 흑갈색이고 중앙의 정중선은 갈색을 띠며, 홑눈은 퇴화되고 없다. 더듬이는 4마디이다. 앞가슴등판은 앞가장자리 바로 뒤에 커다란 한 쌍의 광택이 있는 검정 무늬가 있다. 무늬 주변에는 흑갈색 점각이 뚜렷하다. 작은 방패판에는 불규칙한 흑갈색 무늬가 나타난다. 앞날개는 장시형과 단시형이 비슷하게 나타난다. 단시형의 막질부는 배 끝마디보다 짧으며, 뒷날개는 퇴화되었다. 배마디의 옆가장자리는 등면에 적갈색 무늬를 갖는다. 앞다리의 허벅마디 아랫면에는 4-5개의 가시돌기가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "산야의 초원지대나 경작지 주변에 널리 분포한다.",
+    "habits": "지표면의 풀뿌리 사이에서 활동한다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[몽골]\n[일본]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 7.5-9.5mm\n몸은 등면이 편평하고 타원형이다. 몸은 회갈색 또는 갈색을 띠며, 미세한 점각이 산재한다. 머리는 흑갈색이고 중앙의 정중선은 갈색을 띠며, 홑눈은 퇴화되고 없다. 더듬이는 4마디이다. 앞가슴등판은 앞가장자리 바로 뒤에 커다란 한 쌍의 광택이 있는 검정 무늬가 있다. 무늬 주변에는 흑갈색 점각이 뚜렷하다. 작은 방패판에는 불규칙한 흑갈색 무늬가 나타난다. 앞날개는 장시형과 단시형이 비슷하게 나타난다. 단시형의 막질부는 배 끝마디보다 짧으며, 뒷날개는 퇴화되었다. 배마디의 옆가장자리는 등면에 적갈색 무늬를 갖는다. 앞다리의 허벅마디 아랫면에는 4-5개의 가시돌기가 있다."
+    },
+    {
+      "title": "생태",
+      "text": "산야의 초원지대나 경작지 주변에 널리 분포한다."
+    },
+    {
+      "title": "습성",
+      "text": "지표면의 풀뿌리 사이에서 활동한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[몽골]\n[일본]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLCF0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCF0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCF0001_1_th.jpg",
+      "alt": "땅별노린재 1번째 사진 : 땅별노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCF0001_1_th2.jpg",
+      "caption": "땅별노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLCF0001-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0212236199",
+      "description": "[YNUE0212236199] 땅별노린재 2001.05.26 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0212236200",
+      "description": "[YNUE0212236200] 땅별노린재 1995.06.07 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0212236201",
+      "description": "[YNUE0212236201] 땅별노린재 1999.09.03 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLCF0001-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLCF0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:25+00:00",
+    "html_sha256": "fa5b64c58632035c5f6da4b417e149bda834bb00b4991dd1e8aedbf20b42ae4b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

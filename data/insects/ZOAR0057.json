@@ -1,0 +1,107 @@
+{
+  "id": "ZOAR0057",
+  "name_ko": "앞다리톱거위벌레",
+  "scientific_name": "Cyrtolabus mutus (Faust, 1890)",
+  "display_name": "앞다리톱거위벌레",
+  "family_ko": "거위벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "거위벌레과",
+      "name_latin": "Attelabidae"
+    },
+    "subfamily": {
+      "name_ko": "거위벌레아과",
+      "name_latin": "Attelabinae"
+    },
+    "genus": {
+      "name_ko": "앞다리톱거위벌레속",
+      "name_latin": "Cyrtolabus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 거위벌레과 (Attelabidae)\n아과 : 거위벌레아과 (Attelabinae)\n속 : 앞다리톱거위벌레속 (Cyrtolabus)",
+  "basic_information": {
+    "곤충명": "앞다리톱거위벌레",
+    "학명": "Cyrtolabus mutus (Faust, 1890)"
+  },
+  "information": {
+    "general_description": "한국, 중국, 러시아에 분포하며 체장은 4-4.5mm 정도이다. 몸은 어두운 청색의 금속광택을 지닌다. 앞가슴등판과 다리는 검은 빛을 띤다. 머리는 폭보다 길이가 길며, 앞가슴등판은 길이보다 폭이 넓고, 중앙 바로 뒤에서 가장 넓다. 경절은 가늘며 살짝 굽어 있다. 퇴절의 앞부분에는 작은 돌기들이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[러시아]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 중국, 러시아에 분포하며 체장은 4-4.5mm 정도이다. 몸은 어두운 청색의 금속광택을 지닌다. 앞가슴등판과 다리는 검은 빛을 띤다. 머리는 폭보다 길이가 길며, 앞가슴등판은 길이보다 폭이 넓고, 중앙 바로 뒤에서 가장 넓다. 경절은 가늘며 살짝 굽어 있다. 퇴절의 앞부분에는 작은 돌기들이 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAR0057-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0057_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0057_1_th.jpg",
+      "alt": "앞다리톱거위벌레 1번째 사진 : 앞다리톱거위벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0057_1_th2.jpg",
+      "caption": "앞다리톱거위벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAR0057-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0205021001",
+      "description": "[SNUE0205021001] 앞다리톱거위벌레 1990.05.16 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0205021002",
+      "description": "[SNUE0205021002] 앞다리톱거위벌레 1985.05.09 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0205021003",
+      "description": "[SNUE0205021003] 앞다리톱거위벌레 1993.05.23 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAR0057-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAR0057&tabId=tab1",
+    "collected_at": "2026-11-04T14:14:46+00:00",
+    "html_sha256": "09edbb1eb2977c11f49c1e944ad0880d87c7ca567958bb015b96686e33c155ae",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

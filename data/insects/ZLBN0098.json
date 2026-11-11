@@ -1,0 +1,107 @@
+{
+  "id": "ZLBN0098",
+  "name_ko": "홍맥장님노린재",
+  "scientific_name": "Stenodema (Brachystira) calcarata (Fallén, 1807)",
+  "display_name": "홍맥장님노린재",
+  "family_ko": "장님노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "장님노린재상과",
+      "name_latin": "Miroidea"
+    },
+    "family": {
+      "name_ko": "장님노린재과",
+      "name_latin": "Miridae"
+    },
+    "subfamily": {
+      "name_ko": "장님노린재아과",
+      "name_latin": "Mirinae"
+    },
+    "genus": {
+      "name_ko": "보리장님노린재속",
+      "name_latin": "Stenodema"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 장님노린재상과 (Miroidea)\n과 : 장님노린재과 (Miridae)\n아과 : 장님노린재아과 (Mirinae)\n속 : 보리장님노린재속 (Stenodema)",
+  "basic_information": {
+    "곤충명": "홍맥장님노린재",
+    "학명": "Stenodema (Brachystira) calcarata (Fallén, 1807)"
+  },
+  "information": {
+    "general_description": "몸길이 : 7-9mm\n몸은 황록색 내지 황갈색이고, 앞가슴등의 옆가장자리 안쪽에는 암색 세로 무늬가 있다. 정수리에 뚜렷한 세로홈이 있고, 더듬이 제 1마디는 굵고 긴 털이 밀생했다. 앞가슴등과 작은방패판은 점각이 산포되고, 뒷다리의 넓적다리마디 선단 가까이 안쪽에 크고 작은 2개의 가시가 돌출하였다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "보리 등 포아풀 과 식물의 이삭에 붙는다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 7-9mm\n몸은 황록색 내지 황갈색이고, 앞가슴등의 옆가장자리 안쪽에는 암색 세로 무늬가 있다. 정수리에 뚜렷한 세로홈이 있고, 더듬이 제 1마디는 굵고 긴 털이 밀생했다. 앞가슴등과 작은방패판은 점각이 산포되고, 뒷다리의 넓적다리마디 선단 가까이 안쪽에 크고 작은 2개의 가시가 돌출하였다."
+    },
+    {
+      "title": "생태",
+      "text": "보리 등 포아풀 과 식물의 이삭에 붙는다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLBN0098-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBN0098_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBN0098_1_th.jpg",
+      "alt": "홍맥장님노린재 1번째 사진 : 홍맥장님노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBN0098_1_th2.jpg",
+      "caption": "홍맥장님노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLBN0098-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303062022",
+      "description": "[KNAE0303062022] 홍맥장님노린재 1991.09.01 / / 국립수목원"
+    },
+    {
+      "id": "SNUE0408232050",
+      "description": "[SNUE0408232050] 홍맥장님노린재 2003.04.18 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0408232051",
+      "description": "[SNUE0408232051] 홍맥장님노린재 2003.04.18 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLBN0098-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLBN0098&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:37+00:00",
+    "html_sha256": "fcbf61c82df1f9da2b7113e24fa023b9707124d9944aa1d6d2010e2add4364c3",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

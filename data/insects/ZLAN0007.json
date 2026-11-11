@@ -1,0 +1,133 @@
+{
+  "id": "ZLAN0007",
+  "name_ko": "떼허리노린재",
+  "scientific_name": "Hygia (Colpura) lativentris (Motschulsky, 1866)",
+  "display_name": "떼허리노린재",
+  "family_ko": "허리노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "허리노린재상과",
+      "name_latin": "Coreoidea"
+    },
+    "family": {
+      "name_ko": "허리노린재과",
+      "name_latin": "Coreidae"
+    },
+    "subfamily": {
+      "name_ko": "허리노린재아과",
+      "name_latin": "Coreinae"
+    },
+    "genus": {
+      "name_ko": "애허리노린재속",
+      "name_latin": "Hygia"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 허리노린재상과 (Coreoidea)\n과 : 허리노린재과 (Coreidae)\n아과 : 허리노린재아과 (Coreinae)\n속 : 애허리노린재속 (Hygia)",
+  "basic_information": {
+    "곤충명": "떼허리노린재",
+    "학명": "Hygia (Colpura) lativentris (Motschulsky, 1866)"
+  },
+  "information": {
+    "general_description": "몸길이 : 8.3-11.5mm\n몸은 흑갈색 또는 암갈색을 띠고, 광택이 없다. 체표면에 황갈색 짧은 털이 산재한다. 더듬이는 적갈색을 띤다. 앞가슴등판은 긴 사다리꼴이고 옆가장자리의 뒷모서리가 세모꼴이며, 그 앞부분은 가로로 얕고 넓게 홈이 파여졌고 황갈색의 얼룩무늬가 있다. 막질부는 암갈색이고 작다. 배마디의 옆가장자리는 넓게 확장되었고 넓적하다.",
+    "adult": null,
+    "adult_male": "배 끝마디에는 한 쌍의 젖꼭지 모양을 한 돌기가 있다.",
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "산야의 초원지대에서 흔히 볼 수가 있다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 8.3-11.5mm\n몸은 흑갈색 또는 암갈색을 띠고, 광택이 없다. 체표면에 황갈색 짧은 털이 산재한다. 더듬이는 적갈색을 띤다. 앞가슴등판은 긴 사다리꼴이고 옆가장자리의 뒷모서리가 세모꼴이며, 그 앞부분은 가로로 얕고 넓게 홈이 파여졌고 황갈색의 얼룩무늬가 있다. 막질부는 암갈색이고 작다. 배마디의 옆가장자리는 넓게 확장되었고 넓적하다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "배 끝마디에는 한 쌍의 젖꼭지 모양을 한 돌기가 있다."
+    },
+    {
+      "title": "생태",
+      "text": "산야의 초원지대에서 흔히 볼 수가 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLAN0007-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZLAN0007_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZLAN0007_3.jpg",
+      "alt": "떼허리노린재 1번째 사진 : ",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZLAN0007_3_th2.jpg",
+      "caption": null,
+      "photographed_at": "20120615",
+      "location": "전라북도 군산시 선유도",
+      "photographer": "국립수목원(임종옥)"
+    },
+    {
+      "id": "ZLAN0007-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0007_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0007_2_th.jpg",
+      "alt": "떼허리노린재 2번째 사진 : 떼허리노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0007_2_th2.jpg",
+      "caption": "떼허리노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZLAN0007-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0007_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0007_1_th.jpg",
+      "alt": "떼허리노린재 3번째 사진 : 떼허리노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0007_1_th2.jpg",
+      "caption": "떼허리노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLAN0007-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408191137",
+      "description": "[MPME0408191137] 떼허리노린재 1999.06.25 / / 목포자연사박물관"
+    },
+    {
+      "id": "YNUE0212236214",
+      "description": "[YNUE0212236214] 떼허리노린재 1995.06.16 / / 영남대학교"
+    },
+    {
+      "id": "KNAE0304012073",
+      "description": "[KNAE0304012073] 떼허리노린재 1995.08.09 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLAN0007-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLAN0007&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:27+00:00",
+    "html_sha256": "b167e2af715764c9ec58ced0caa8ead696c77882ac1f22a7b24b8fb531fa7d52",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "ZSFB0001",
+  "name_ko": "얼룩점밑들이파리매",
+  "scientific_name": "Xylomya maculata (Meigen, 1804)",
+  "display_name": "얼룩점밑들이파리매",
+  "family_ko": "점밑들이파리매과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "동애등에상과",
+      "name_latin": "Stratiomyoidea"
+    },
+    "family": {
+      "name_ko": "점밑들이파리매과",
+      "name_latin": "Xylomyidae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Xylomya"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 동애등에상과 (Stratiomyoidea)\n과 : 점밑들이파리매과 (Xylomyidae)\n속 : (Xylomya)",
+  "basic_information": {
+    "곤충명": "얼룩점밑들이파리매",
+    "학명": "Xylomya maculata (Meigen, 1804)"
+  },
+  "information": {
+    "general_description": "몸이 큼 주둥이, 작은턱수염은 오렌지 색. 가슴등판은 광택 있는 흑색이나 어제 앞가슴옆구리 등면, 날개의 기부 위쪽 혹, 날개 기부 밑면 중앙의 세로줄과 이보다 바깥가장자리의 가운데가슴 앞가장자리와 작은방패판의 뒤쪽 절반은 황색. 가슴 전체에 황색 미모가 밀생. 다리는 황색이나 앞다리의 도래마디, 가운데다리와 뒷다리의 넓적다리마디 기부와 종아리마디의 뒷반은 흑색이고 뒷다리의 넓적다리와 종아리마디의 끝도 흑색인데 뒷다리 넓적다리마디는 굵지 않고 아랫가장자리에 작은 흑색 가시가 없음. 가슴의 등판과 배판의 뒷가장자리에 황색 띠무늬. 제1배마디등판 양 옆에 황색 무늬. 수컷의 생식기는 연한 갈색으로 뚜렷.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸이 큼 주둥이, 작은턱수염은 오렌지 색. 가슴등판은 광택 있는 흑색이나 어제 앞가슴옆구리 등면, 날개의 기부 위쪽 혹, 날개 기부 밑면 중앙의 세로줄과 이보다 바깥가장자리의 가운데가슴 앞가장자리와 작은방패판의 뒤쪽 절반은 황색. 가슴 전체에 황색 미모가 밀생. 다리는 황색이나 앞다리의 도래마디, 가운데다리와 뒷다리의 넓적다리마디 기부와 종아리마디의 뒷반은 흑색이고 뒷다리의 넓적다리와 종아리마디의 끝도 흑색인데 뒷다리 넓적다리마디는 굵지 않고 아랫가장자리에 작은 흑색 가시가 없음. 가슴의 등판과 배판의 뒷가장자리에 황색 띠무늬. 제1배마디등판 양 옆에 황색 무늬. 수컷의 생식기는 연한 갈색으로 뚜렷."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSFB0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSFB0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSFB0001_1_th.jpg",
+      "alt": "얼룩점밑들이파리매 1번째 사진 : 얼룩점밑들이파리매전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSFB0001_1_th2.jpg",
+      "caption": "얼룩점밑들이파리매전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSFB0001-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0307191185",
+      "description": "[KUIE0307191185] 얼룩점밑들이파리매 1968.06.16 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307191187",
+      "description": "[KUIE0307191187] 얼룩점밑들이파리매 1971.05.23 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307191188",
+      "description": "[KUIE0307191188] 얼룩점밑들이파리매 1972.06.22 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZSFB0001-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSFB0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:54+00:00",
+    "html_sha256": "e2d52713d3d29acd88e20459eee1c7b518645639357db468088316a1a38ed19e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

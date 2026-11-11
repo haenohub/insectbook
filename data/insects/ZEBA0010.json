@@ -1,0 +1,99 @@
+{
+  "id": "ZEBA0010",
+  "name_ko": "쌕쌔기",
+  "scientific_name": "Conocephalus (Amurocephalus) chinensis (Redtenbacher, 1891)",
+  "display_name": "쌕쌔기",
+  "family_ko": "여치과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "메뚜기목",
+      "name_latin": "Orthoptera"
+    },
+    "family": {
+      "name_ko": "여치과",
+      "name_latin": "Tettigoniidae"
+    },
+    "subfamily": {
+      "name_ko": "쌕쌔기아과",
+      "name_latin": "Conocephalinae"
+    },
+    "genus": {
+      "name_ko": "쌕쌔기속",
+      "name_latin": "Conocephalus"
+    }
+  },
+  "taxonomy_text": "목 : 메뚜기목 (Orthoptera)\n과 : 여치과 (Tettigoniidae)\n아과 : 쌕쌔기아과 (Conocephalinae)\n속 : 쌕쌔기속 (Conocephalus)",
+  "basic_information": {
+    "곤충명": "쌕쌔기",
+    "학명": "Conocephalus (Amurocephalus) chinensis (Redtenbacher, 1891)"
+  },
+  "information": {
+    "general_description": "몸길이 13~18mm이고 몸은 가늘고 길며 얼굴의 옆쪽은 뚜렷이 경사졌고 앞쪽은 가늘고 길다. 앞머리꼭대기는 돌출하여쏙 앞가슴은 등쪽에서 보면 가늘고 길며 약간 안장 모양이고 옆가슴등의 아랫끝은 직선이고 뒤 아랫모는 약하게 돌출하였다. 수컷의 미모는 가늘고 길며 원추형이고 생식아랬판의 폭은 중간이고 뒷가두리는 중앙만 우묵 들어갔다. 암컷의 산란관은 대단히 짧다. 앞날개는 가늘고 길며 옅은 녹색인데 머리와 가슴부의 등쪽에 갈색 줄무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국] 동북지방",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 13~18mm이고 몸은 가늘고 길며 얼굴의 옆쪽은 뚜렷이 경사졌고 앞쪽은 가늘고 길다. 앞머리꼭대기는 돌출하여쏙 앞가슴은 등쪽에서 보면 가늘고 길며 약간 안장 모양이고 옆가슴등의 아랫끝은 직선이고 뒤 아랫모는 약하게 돌출하였다. 수컷의 미모는 가늘고 길며 원추형이고 생식아랬판의 폭은 중간이고 뒷가두리는 중앙만 우묵 들어갔다. 암컷의 산란관은 대단히 짧다. 앞날개는 가늘고 길며 옅은 녹색인데 머리와 가슴부의 등쪽에 갈색 줄무늬가 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국] 동북지방"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZEBA0010-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0010_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0010_1_th.jpg",
+      "alt": "쌕쌔기 1번째 사진 : 쌕새기전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0010_1_th2.jpg",
+      "caption": "쌕새기전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZEBA0010-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0407291030",
+      "description": "[MPME0407291030] 쌕쌔기 1999.08.23 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0407291028",
+      "description": "[MPME0407291028] 쌕쌔기 1999.08.23 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0407291029",
+      "description": "[MPME0407291029] 쌕쌔기 2000.09.08 / / 목포자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZEBA0010-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZEBA0010&tabId=tab1",
+    "collected_at": "2026-11-04T14:14:09+00:00",
+    "html_sha256": "9f3d445b4357226b7ccd288cffa5279adc9b30dc5424b1d6254ca3a2ee438c45",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

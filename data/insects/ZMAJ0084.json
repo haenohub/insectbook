@@ -1,0 +1,142 @@
+{
+  "id": "ZMAJ0084",
+  "name_ko": "긴꼬리볼록진딧물",
+  "scientific_name": "Megoura crassicauda Mordvilko, 1919",
+  "display_name": "긴꼬리볼록진딧물",
+  "family_ko": "진딧물과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "진딧물상과",
+      "name_latin": "Aphidoidea"
+    },
+    "family": {
+      "name_ko": "진딧물과",
+      "name_latin": "Aphididae"
+    },
+    "subfamily": {
+      "name_ko": "진딧물아과",
+      "name_latin": "Aphidinae"
+    },
+    "genus": {
+      "name_ko": "싸리볼록진딧물속",
+      "name_latin": "Megoura"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 진딧물상과 (Aphidoidea)\n과 : 진딧물과 (Aphididae)\n아과 : 진딧물아과 (Aphidinae)\n속 : 싸리볼록진딧물속 (Megoura)",
+  "basic_information": {
+    "곤충명": "긴꼬리볼록진딧물",
+    "학명": "Megoura crassicauda Mordvilko, 1919"
+  },
+  "information": {
+    "general_description": "무시형 암컷성충의 경우 몸은 짙은 녹색으로 더듬이, 다리, 뿔관 끝편 등은 짙은 검은색으로 광택이 난다. 비교적 큰 진딧물로 (2.87-3.43mm) 뿔관이 볼록하고, 끝편이 매우 길다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "무시형 암컷성충의 경우 몸은 짙은 녹색으로 더듬이, 다리, 뿔관 끝편 등은 짙은 검은색으로 광택이 난다. 비교적 큰 진딧물로 (2.87-3.43mm) 뿔관이 볼록하고, 끝편이 매우 길다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMAJ0084-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAJ0084_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAJ0084_1_th.jpg",
+      "alt": "긴꼬리볼록진딧물 1번째 사진 : 긴꼬리볼록진딧물전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAJ0084_1_th2.jpg",
+      "caption": "긴꼬리볼록진딧물전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMAJ0084-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0203222013",
+      "description": "[SNUE0203222013] 긴꼬리볼록진딧물 1998.04.15 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0203222009",
+      "description": "[SNUE0203222009] 긴꼬리볼록진딧물 1998.04.15 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0203222010",
+      "description": "[SNUE0203222010] 긴꼬리볼록진딧물 1998.04.15 / / 서울대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "긴잎나비나물",
+      "scientific_name": "Vicia unijuga f. angustifolia (Makino) Makino ex W.T.Lee"
+    },
+    {
+      "group": "식물",
+      "name_ko": "넓은잎갈퀴",
+      "scientific_name": "Vicia japonica A.Gray"
+    },
+    {
+      "group": "식물",
+      "name_ko": "등갈퀴나물",
+      "scientific_name": "Vicia cracca L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "벌완두",
+      "scientific_name": "Vicia amurensis Oett."
+    },
+    {
+      "group": "식물",
+      "name_ko": "살갈퀴",
+      "scientific_name": "Vicia sativa L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "활량나물",
+      "scientific_name": "Lathyrus davidii Hance"
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZMAJ0084.png",
+    "reference_image_id": "ZMAJ0084-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T08:36:41.208741+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "003b5de21e259a2d4dca32d72ce88ff125921ffbebbc8b64a4455e8cc94f8a31"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMAJ0084&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:54+00:00",
+    "html_sha256": "4ae74374a8e24633621f1ac4627ee9a38b1882d8c6cbd246070d7643f75acab8",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

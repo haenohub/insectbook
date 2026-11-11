@@ -1,0 +1,95 @@
+{
+  "id": "ZOAM0032",
+  "name_ko": "복주머니떡소바구미",
+  "scientific_name": "Gonotropis gibbosa LeConte, 1876",
+  "display_name": "복주머니떡소바구미",
+  "family_ko": "소바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "소바구미과",
+      "name_latin": "Anthribidae"
+    },
+    "subfamily": {
+      "name_ko": "소바구미아과",
+      "name_latin": "Anthribinae"
+    },
+    "genus": {
+      "name_ko": "복주머니떡소바구미속",
+      "name_latin": "Gonotropis"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 소바구미과 (Anthribidae)\n아과 : 소바구미아과 (Anthribinae)\n속 : 복주머니떡소바구미속 (Gonotropis)",
+  "basic_information": {
+    "곤충명": "복주머니떡소바구미",
+    "학명": "Gonotropis gibbosa LeConte, 1876"
+  },
+  "information": {
+    "general_description": "몸길이는 4.3mm이다. 주둥이는 흰색의 털로 되어있고, 앞날개의 중앙앞에 복주머니형태의 황갈색무늬가 있으며, 앞날개의 선단에 돌기를 가진다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 4.3mm이다. 주둥이는 흰색의 털로 되어있고, 앞날개의 중앙앞에 복주머니형태의 황갈색무늬가 있으며, 앞날개의 선단에 돌기를 가진다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAM0032-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0032_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0032_1_th.jpg",
+      "alt": "복주머니떡소바구미 1번째 사진 : 복주머니떡소바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0032_1_th2.jpg",
+      "caption": "복주머니떡소바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAM0032-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0202251001",
+      "description": "[SNUE0202251001] 복주머니떡소바구미 1986.08.19 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAM0032-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAM0032&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:14+00:00",
+    "html_sha256": "3c08c8ec29de0bcf1019965512d032b0a143ac93ea67a273e37f2c15ef7f2f31",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

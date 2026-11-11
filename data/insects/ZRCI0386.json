@@ -1,0 +1,118 @@
+{
+  "id": "ZRCI0386",
+  "name_ko": "줄고운가지나방",
+  "scientific_name": "Ectropis excellens (Butler, 1884)",
+  "display_name": "줄고운가지나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "가지나방아과",
+      "name_latin": "Ennominae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Ectropis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 가지나방아과 (Ennominae)\n속 : (Ectropis)",
+  "basic_information": {
+    "곤충명": "줄고운가지나방",
+    "학명": "Ectropis excellens (Butler, 1884)"
+  },
+  "information": {
+    "general_description": "더듬이는 수컷이 미모상이고, 암컷은 실 모양임． 몸과 날개는 모두 회백색인데 암회색 비늘이 산재함．날개의　횡선은　흑갈색이며，내횡선은　물결　모양임． 중횡선은 대부분의 경우 전연과 후연에서 흑색 반문을 이루는 데 불과함． 외횡선은 톱니 모양이고, 제3실（M3）에서 이선과 바깥쪽의 그늘에 의하여 명료한 무늬를 이루고 있음.　외횡선의　바깥쪽과　내횡선의　안쪽에는　갈색　띠가　수반되는데　암컷은　뚜렷하고 수컷은　흔적임．",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6~7월, 8월에 출현함.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 수컷이 미모상이고, 암컷은 실 모양임． 몸과 날개는 모두 회백색인데 암회색 비늘이 산재함．날개의　횡선은　흑갈색이며，내횡선은　물결　모양임． 중횡선은 대부분의 경우 전연과 후연에서 흑색 반문을 이루는 데 불과함． 외횡선은 톱니 모양이고, 제3실（M3）에서 이선과 바깥쪽의 그늘에 의하여 명료한 무늬를 이루고 있음.　외횡선의　바깥쪽과　내횡선의　안쪽에는　갈색　띠가　수반되는데　암컷은　뚜렷하고 수컷은　흔적임．"
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6~7월, 8월에 출현함."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0386-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0386_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0386_2_th.jpg",
+      "alt": "줄고운가지나방 1번째 사진 : 줄고운가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0386_2_th2.jpg",
+      "caption": "줄고운가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0386-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0386_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0386_1_th.jpg",
+      "alt": "줄고운가지나방 2번째 사진 : 줄고운가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0386_1_th2.jpg",
+      "caption": "줄고운가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0386-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304181041",
+      "description": "[KNAE0304181041] 줄고운가지나방 1998.08.10 / / 국립수목원"
+    },
+    {
+      "id": "JFNE0305121153",
+      "description": "[JFNE0305121153] 줄고운가지나방 1992.08.10 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0305121154",
+      "description": "[JFNE0305121154] 줄고운가지나방 1992.08.11 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCI0386-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0386&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:04+00:00",
+    "html_sha256": "2a37865486e1594b605f1bb4ac34ce56b699c5734080b38c3ba3b857ecc0be41",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "ZTAG0020",
+  "name_ko": "중국애꽃벌",
+  "scientific_name": "Andrena (Melandrena) sinensis Cockerell, 1910",
+  "display_name": "중국애꽃벌",
+  "family_ko": "애꽃벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "애꽃벌과",
+      "name_latin": "Andrenidae"
+    },
+    "subfamily": {
+      "name_ko": "애꽃벌아과",
+      "name_latin": "Andreninae"
+    },
+    "genus": {
+      "name_ko": "애꽃벌속",
+      "name_latin": "Andrena"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 애꽃벌과 (Andrenidae)\n아과 : 애꽃벌아과 (Andreninae)\n속 : 애꽃벌속 (Andrena)",
+  "basic_information": {
+    "곤충명": "중국애꽃벌",
+    "학명": "Andrena (Melandrena) sinensis Cockerell, 1910"
+  },
+  "information": {
+    "general_description": "몸길이는 13-16mm. 머리에 흑색 털이 났고 가슴은 윗면에 아황갈색 털이, 아랫면에는 흑색 털이 덮였다. 배는 광택이 있는 흑색이고 다리와 함께 흑색 털로 덮였다. 암컷의 정수리는 거친 점각이 있고 그 뒤쪽을 따라 갈색 털이 났다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": "[반출금지종] 환경부고시제2001-210호",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 13-16mm. 머리에 흑색 털이 났고 가슴은 윗면에 아황갈색 털이, 아랫면에는 흑색 털이 덮였다. 배는 광택이 있는 흑색이고 다리와 함께 흑색 털로 덮였다. 암컷의 정수리는 거친 점각이 있고 그 뒤쪽을 따라 갈색 털이 났다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[반출금지종] 환경부고시제2001-210호"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0020-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0020_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0020_1_th.jpg",
+      "alt": "중국애꽃벌 1번째 사진 : 중국애꽃벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0020_1_th2.jpg",
+      "caption": "중국애꽃벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0020-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306278002",
+      "description": "[YNUE0306278002] 중국애꽃벌 1973.05.19 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306278017",
+      "description": "[YNUE0306278017] 중국애꽃벌 1991.05.21 / / 영남대학교"
+    },
+    {
+      "id": "KUIE0112111018",
+      "description": "[KUIE0112111018] 중국애꽃벌 1977.05.22 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAG0020-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0020&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:23+00:00",
+    "html_sha256": "516321928e2ac94ac179601b809d456ee08d851b2827aff58d1bf7b73e8f28eb",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

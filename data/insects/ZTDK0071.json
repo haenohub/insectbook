@@ -1,0 +1,115 @@
+{
+  "id": "ZTDK0071",
+  "name_ko": "왕나나니",
+  "scientific_name": "Hoplammophila aemulans (Kohl, 1901)",
+  "display_name": "왕나나니",
+  "family_ko": "구멍벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "구멍벌과",
+      "name_latin": "Sphecidae"
+    },
+    "subfamily": {
+      "name_ko": "나나니아과",
+      "name_latin": "Ammophilinae"
+    },
+    "genus": {
+      "name_ko": "왕나나니속",
+      "name_latin": "Hoplammophila"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 구멍벌과 (Sphecidae)\n아과 : 나나니아과 (Ammophilinae)\n속 : 왕나나니속 (Hoplammophila)",
+  "basic_information": {
+    "곤충명": "왕나나니",
+    "학명": "Hoplammophila aemulans (Kohl, 1901)"
+  },
+  "information": {
+    "general_description": "암컷은 머리, 가슴, 배 끝마디 등에 흑갈색 털이 난 이외에 회갈색의 미세한 털이 밀생했다. 가운데가슴옆판 위에는 특히 은백색 털 무늬가 있다. 몸은 흑색이고 제1배마디 등판 양 옆과 뒷슭 제2마디, 뒷다리의 넓적다리마디의 기부는 적색이다. 날개는 투명하고 황갈색이다.",
+    "adult": null,
+    "adult_male": "몸길이는 32~35 mm이다.",
+    "adult_female": "몸길이는 29~33 mm이다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "9월 전후에 많이 볼 수 있다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아] 극동지역",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷은 머리, 가슴, 배 끝마디 등에 흑갈색 털이 난 이외에 회갈색의 미세한 털이 밀생했다. 가운데가슴옆판 위에는 특히 은백색 털 무늬가 있다. 몸은 흑색이고 제1배마디 등판 양 옆과 뒷슭 제2마디, 뒷다리의 넓적다리마디의 기부는 적색이다. 날개는 투명하고 황갈색이다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "몸길이는 32~35 mm이다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "몸길이는 29~33 mm이다."
+    },
+    {
+      "title": "생태",
+      "text": "9월 전후에 많이 볼 수 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아] 극동지역"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDK0071-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0071_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0071_1_th.jpg",
+      "alt": "왕나나니 1번째 사진 : 왕나나니전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0071_1_th2.jpg",
+      "caption": "왕나나니전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDK0071-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306262019",
+      "description": "[YNUE0306262019] 왕나나니 1997.08.15 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306262020",
+      "description": "[YNUE0306262020] 왕나나니 1956.09.12 / / 영남대학교"
+    },
+    {
+      "id": "KNAE0301171011",
+      "description": "[KNAE0301171011] 왕나나니 1991.07.25 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDK0071-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDK0071&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:32+00:00",
+    "html_sha256": "88294e595815b856142402cdd1b327556fe1d8f0fb519b840688a5bd9535b7fc",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": "ZOBZ0070",
+  "name_ko": "중국무당벌레",
+  "scientific_name": "Epilachna chinensis (Weise, 1912)",
+  "display_name": "중국무당벌레",
+  "family_ko": "무당벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Coccinelloidea"
+    },
+    "family": {
+      "name_ko": "무당벌레과",
+      "name_latin": "Coccinellidae"
+    },
+    "subfamily": {
+      "name_ko": "무당벌레아과",
+      "name_latin": "Coccinellinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Epilachna"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : (Coccinelloidea)\n과 : 무당벌레과 (Coccinellidae)\n아과 : 무당벌레아과 (Coccinellinae)\n속 : (Epilachna)",
+  "basic_information": {
+    "곤충명": "중국무당벌레",
+    "학명": "Epilachna chinensis (Weise, 1912)"
+  },
+  "information": {
+    "general_description": "이들은 한국, 일본,(대마도), 중국(화남,화중), 대만 등지에서 서식한다.",
+    "adult": null,
+    "adult_male": "체형은 짧은 달걀형이며 체표면의 색갈은 어두운붉은색에 검은색 반점이 존재한다.\n생식기는 음경의 말단 부분의 모양은 갈고리 형이다.",
+    "adult_female": null,
+    "larva": "체형은 긴달걀형을 띠며 등쪽면은 볼록하고, 가지모양으로 길게 나온 돌기를 관찰 할 수 있다.\n두부의 색깔은 검은갈색이며, 등쪽면은 대체로 아갈색을 띠고 있다. 다리의 색깔은 연한 황색을 띠며, 더듬이는 3마디로 구성되며, 다리의 길이는 다소짧은 편이다.",
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "본 종의 기주 식물은 꼭두서니과의 Rubia akani Nakai이며, 구체적인 생활사는 밝혀지지 않은 상태이다. 일본의 경우 하늘타리(박과식물,Trichosanthes kirilowii Max.)를 섭식하는 것으로 알려져 있다.\n국네에서는 주로 남부지역에서 서식하므로 하늘타리를 섭식할 것으로 추정된다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대만]\n[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "이들은 한국, 일본,(대마도), 중국(화남,화중), 대만 등지에서 서식한다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "체형은 짧은 달걀형이며 체표면의 색갈은 어두운붉은색에 검은색 반점이 존재한다.\n생식기는 음경의 말단 부분의 모양은 갈고리 형이다."
+    },
+    {
+      "title": "유충",
+      "text": "체형은 긴달걀형을 띠며 등쪽면은 볼록하고, 가지모양으로 길게 나온 돌기를 관찰 할 수 있다.\n두부의 색깔은 검은갈색이며, 등쪽면은 대체로 아갈색을 띠고 있다. 다리의 색깔은 연한 황색을 띠며, 더듬이는 3마디로 구성되며, 다리의 길이는 다소짧은 편이다."
+    },
+    {
+      "title": "습성",
+      "text": "본 종의 기주 식물은 꼭두서니과의 Rubia akani Nakai이며, 구체적인 생활사는 밝혀지지 않은 상태이다. 일본의 경우 하늘타리(박과식물,Trichosanthes kirilowii Max.)를 섭식하는 것으로 알려져 있다.\n국네에서는 주로 남부지역에서 서식하므로 하늘타리를 섭식할 것으로 추정된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대만]\n[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBZ0070-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBZ0070_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBZ0070_1_th.jpg",
+      "alt": "중국무당벌레 1번째 사진 : 중국무당벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBZ0070_1_th2.jpg",
+      "caption": "중국무당벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBZ0070-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0307061089",
+      "description": "[KUIE0307061089] 중국무당벌레 1985.07.16 / / 고려대학교"
+    },
+    {
+      "id": "YNUE0201052072",
+      "description": "[YNUE0201052072] 중국무당벌레 1999.09.03 / / 영남대학교"
+    },
+    {
+      "id": "KUIE0307061088",
+      "description": "[KUIE0307061088] 중국무당벌레 1994.08.05 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBZ0070-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBZ0070&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:23+00:00",
+    "html_sha256": "bd63b5b74c9e3b1cb1504fe30bdcd326a9a4783789b8cff90b2c93282a31a5b1",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

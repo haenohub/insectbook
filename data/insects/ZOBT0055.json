@@ -1,0 +1,111 @@
+{
+  "id": "ZOBT0055",
+  "name_ko": "반금색잎벌레",
+  "scientific_name": "Smaragdina semiaurantiaca (Fairmaire, 1888)",
+  "display_name": "반금색잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "통잎벌레아과",
+      "name_latin": "Cryptocephalinae"
+    },
+    "genus": {
+      "name_ko": "애가슴잎벌레속",
+      "name_latin": "Smaragdina"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 통잎벌레아과 (Cryptocephalinae)\n속 : 애가슴잎벌레속 (Smaragdina)",
+  "basic_information": {
+    "곤충명": "반금색잎벌레",
+    "학명": "Smaragdina semiaurantiaca (Fairmaire, 1888)"
+  },
+  "information": {
+    "general_description": "몸길이는 5.2~6.0mm, 머리와 배판은 흑람색이며 다리는 적갈색을 보인다. 앞날개 강한 점각. 앞가슴등판에 약한 점각. 한국(중부,남부), 일본(혼슈,시코쿠), 중국(만주,북부,중부)에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 4~5월에 나타나며 참소리쟁이 꽃에 발견되며 버드나무류를 가해한다. 6월 이후에는 볼 수 없다.",
+    "habits": "기주식물 덩굴볼레나무",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 5.2~6.0mm, 머리와 배판은 흑람색이며 다리는 적갈색을 보인다. 앞날개 강한 점각. 앞가슴등판에 약한 점각. 한국(중부,남부), 일본(혼슈,시코쿠), 중국(만주,북부,중부)에 분포되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 4~5월에 나타나며 참소리쟁이 꽃에 발견되며 버드나무류를 가해한다. 6월 이후에는 볼 수 없다."
+    },
+    {
+      "title": "습성",
+      "text": "기주식물 덩굴볼레나무"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0055-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0055_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0055_1_th.jpg",
+      "alt": "반금색잎벌레 1번째 사진 : 반금색잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0055_1_th2.jpg",
+      "caption": "반금색잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0055-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0306241030",
+      "description": "[FRIE0306241030] 반금색잎벌레 1982.05.05 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0304141009",
+      "description": "[KNAE0304141009] 반금색잎벌레 1985.06.19 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0302152028",
+      "description": "[KNAE0302152028] 반금색잎벌레 1980.05.27 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0055-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0055&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:05+00:00",
+    "html_sha256": "08ca82c68dd59099692ec14aaefc745f762925dd6c18102ac4d680cd1f0c7ca6",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

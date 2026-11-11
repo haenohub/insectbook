@@ -1,0 +1,167 @@
+{
+  "id": "ZOBL0111",
+  "name_ko": "참풀색하늘소",
+  "scientific_name": "Chloridolum (Parachloridolum) japonicum (Harold, 1879)",
+  "display_name": "참풀색하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "하늘소아과",
+      "name_latin": "Cerambycinae"
+    },
+    "genus": {
+      "name_ko": "참풀색하늘소속",
+      "name_latin": "Chloridolum"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 하늘소아과 (Cerambycinae)\n속 : 참풀색하늘소속 (Chloridolum)",
+  "basic_information": {
+    "곤충명": "참풀색하늘소",
+    "학명": "Chloridolum (Parachloridolum) japonicum (Harold, 1879)"
+  },
+  "information": {
+    "general_description": "체장 15.0~30.0 mm. 몸은 적갈색이다. 머리와 앞가슴등판은 금속성 녹색이다. 앞가슴등판의 앞, 뒤 가장자리에는 황색의 줄무늬가 있으며, 측면에는 뾰족한 돌기물이 있다. 소순판에는 미세한 점각들이 밀집한다. 딱지날개의 말단 안쪽에는 현저한 뾰족한 돌기물이 있다. 더듬이 마디들의 말단 양 가장자리는 각이 져 있다.",
+    "adult": null,
+    "adult_male": "수컷은 더듬이가 상대적으로 길다.",
+    "adult_female": "수컷은 더듬이가 상대적으로 짧다.",
+    "larva": "유충에 대한 특징이 알려지지 않았다.",
+    "egg": "알에 대한 특징이 알려지지 않았다.",
+    "pupa": "번데기에 대한 형태특징이 알려지지 않았다.",
+    "ecology": "야간활동성으로, 수세가 약한 참나무류에 날아오고, 유충도 참나무류에 기생한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": "유충",
+    "distribution": null,
+    "notes": "[산림해충] 상수리나무의 수목해충으로 지정되어 있다.",
+    "pest_control": "경제적 피해 유발 해충으로 알려져 있지 않아, 종 특이적 방제법은 현재까지 없다.",
+    "references": "한반도에서는 제주, 수원, 금강산에서 채집한 표본으로 첫 기록이 되었다."
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체장 15.0~30.0 mm. 몸은 적갈색이다. 머리와 앞가슴등판은 금속성 녹색이다. 앞가슴등판의 앞, 뒤 가장자리에는 황색의 줄무늬가 있으며, 측면에는 뾰족한 돌기물이 있다. 소순판에는 미세한 점각들이 밀집한다. 딱지날개의 말단 안쪽에는 현저한 뾰족한 돌기물이 있다. 더듬이 마디들의 말단 양 가장자리는 각이 져 있다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "수컷은 더듬이가 상대적으로 길다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "수컷은 더듬이가 상대적으로 짧다."
+    },
+    {
+      "title": "번데기",
+      "text": "번데기에 대한 형태특징이 알려지지 않았다."
+    },
+    {
+      "title": "유충",
+      "text": "유충에 대한 특징이 알려지지 않았다."
+    },
+    {
+      "title": "참고사항",
+      "text": "한반도에서는 제주, 수원, 금강산에서 채집한 표본으로 첫 기록이 되었다."
+    },
+    {
+      "title": "생태",
+      "text": "야간활동성으로, 수세가 약한 참나무류에 날아오고, 유충도 참나무류에 기생한다."
+    },
+    {
+      "title": "월동",
+      "text": "유충"
+    },
+    {
+      "title": "방제법",
+      "text": "경제적 피해 유발 해충으로 알려져 있지 않아, 종 특이적 방제법은 현재까지 없다."
+    },
+    {
+      "title": "알",
+      "text": "알에 대한 특징이 알려지지 않았다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] 상수리나무의 수목해충으로 지정되어 있다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0111-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0111_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0111_3.jpg",
+      "alt": "참풀색하늘소 1번째 사진 : ",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBL0111_3_th2.jpg",
+      "caption": null,
+      "photographed_at": null,
+      "location": null,
+      "photographer": "국립수목원(이승규)"
+    },
+    {
+      "id": "ZOBL0111-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0111_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0111_2_th.jpg",
+      "alt": "참풀색하늘소 2번째 사진 : 참풀색하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0111_2_th2.jpg",
+      "caption": "참풀색하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBL0111-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0111_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0111_1_th.jpg",
+      "alt": "참풀색하늘소 3번째 사진 : 참풀색하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0111_1_th2.jpg",
+      "caption": "참풀색하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0111-1",
+  "specimen_examples": [
+    {
+      "id": "ADUE0303071037",
+      "description": "[ADUE0303071037] 참풀색하늘소 1998.07.20 / / 안동대학교"
+    },
+    {
+      "id": "CBNE0212241067",
+      "description": "[CBNE0212241067] 참풀색하늘소 2002.07.09 / / 충북대학교"
+    },
+    {
+      "id": "SJNE0301041013",
+      "description": "[SJNE0301041013] 참풀색하늘소 2000.06.07 / / 상주대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "상수리나무",
+      "scientific_name": "Quercus acutissima Carruth."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0111-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0111&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:04+00:00",
+    "html_sha256": "2b3ec3b3887283fc6040c33bc81e4f9e40b303caa7e7c268b3ae17b59483d77a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

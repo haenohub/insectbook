@@ -1,0 +1,131 @@
+{
+  "id": "ZOBP0005",
+  "name_ko": "호랑꽃무지",
+  "scientific_name": "Lasiotrichius succinctus (Pallas, 1781)",
+  "display_name": "호랑꽃무지",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "꽃무지아과",
+      "name_latin": "Cetoniinae"
+    },
+    "genus": {
+      "name_ko": "호랑꽃무지속",
+      "name_latin": "Lasiotrichius"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 꽃무지아과 (Cetoniinae)\n속 : 호랑꽃무지속 (Lasiotrichius)",
+  "basic_information": {
+    "곤충명": "호랑꽃무지",
+    "학명": "Lasiotrichius succinctus (Pallas, 1781)"
+  },
+  "information": {
+    "general_description": "만주, 동부 시베리아, 일본에 분포한다. 몸은 흑색인데 전신에 황색 털이 빽빽하게 나있고, 딱지날개에는 3개의 황색 가로무늬가 있다. 머리방패는 상반하였으나 앞쪽 중앙은 파였고, 옆은 아래로 굽었다. 수컷의 배는 마지막 마디가 짧고, 미절판은 좁고 길며 가운데가 높은나 암컷은 배가 부풀었고, 마지막마디는 넓고 길며, 미절판은 둥글다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "만주, 동부 시베리아, 일본에 분포한다. 몸은 흑색인데 전신에 황색 털이 빽빽하게 나있고, 딱지날개에는 3개의 황색 가로무늬가 있다. 머리방패는 상반하였으나 앞쪽 중앙은 파였고, 옆은 아래로 굽었다. 수컷의 배는 마지막 마디가 짧고, 미절판은 좁고 길며 가운데가 높은나 암컷은 배가 부풀었고, 마지막마디는 넓고 길며, 미절판은 둥글다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBP0005-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBP0005_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBP0005_3.jpg",
+      "alt": "호랑꽃무지 1번째 사진 : ",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBP0005_3_th2.jpg",
+      "caption": null,
+      "photographed_at": "20060616",
+      "location": null,
+      "photographer": "국립수목원(임종옥)"
+    },
+    {
+      "id": "ZOBP0005-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBP0005_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBP0005_2_th.jpg",
+      "alt": "호랑꽃무지 2번째 사진 : 호랑꽃무지전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBP0005_2_th2.jpg",
+      "caption": "호랑꽃무지전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBP0005-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBP0005_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBP0005_1_th.jpg",
+      "alt": "호랑꽃무지 3번째 사진 : 호랑꽃무지전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBP0005_1_th2.jpg",
+      "caption": "호랑꽃무지전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBP0005-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0306181048",
+      "description": "[FRIE0306181048] 호랑꽃무지 1997.07.08 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0306181049",
+      "description": "[FRIE0306181049] 호랑꽃무지 1996.08.30 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0306181050",
+      "description": "[FRIE0306181050] 호랑꽃무지 1996.07.30 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "밤나무",
+      "scientific_name": "Castanea crenata Siebold & Zucc."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBP0005-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBP0005&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:13+00:00",
+    "html_sha256": "0b454697777d9d222505bac30a89bc7c7091f4a809617fbd7b1e55f9dc01da1e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "id": "ZDAP0031",
+  "name_ko": "노란허리잠자리",
+  "scientific_name": "Pseudothemis zonata (Burmeister, 1839)",
+  "display_name": "노란허리잠자리",
+  "family_ko": "잠자리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "잠자리목",
+      "name_latin": "Odonata"
+    },
+    "family": {
+      "name_ko": "잠자리과",
+      "name_latin": "Libellulidae"
+    },
+    "subfamily": {
+      "name_ko": "노란허리잠자리아과",
+      "name_latin": "Trithemistinae"
+    },
+    "genus": {
+      "name_ko": "노란허리잠자리속",
+      "name_latin": "Pseudothemis"
+    }
+  },
+  "taxonomy_text": "목 : 잠자리목 (Odonata)\n과 : 잠자리과 (Libellulidae)\n아과 : 노란허리잠자리아과 (Trithemistinae)\n속 : 노란허리잠자리속 (Pseudothemis)",
+  "basic_information": {
+    "곤충명": "노란허리잠자리",
+    "학명": "Pseudothemis zonata (Burmeister, 1839)"
+  },
+  "information": {
+    "general_description": "뒷날개의 길이는 42 mm 내외이다.",
+    "adult": null,
+    "adult_male": "몸은 검은색이고, 제3, 4배마디가 노랑색을 띠나 성숙하면 흰색을 띤다.",
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "평지나 구릉지, 낮은 산지의 흐름이 느린 연못이나 괸 물에 산다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[대만]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "뒷날개의 길이는 42 mm 내외이다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "몸은 검은색이고, 제3, 4배마디가 노랑색을 띠나 성숙하면 흰색을 띤다."
+    },
+    {
+      "title": "습성",
+      "text": "평지나 구릉지, 낮은 산지의 흐름이 느린 연못이나 괸 물에 산다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[대만]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZDAP0031-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0031_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0031_2_th.jpg",
+      "alt": "노란허리잠자리 1번째 사진 : 노란허리잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0031_2_th2.jpg",
+      "caption": "노란허리잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZDAP0031-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0031_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0031_1_th.jpg",
+      "alt": "노란허리잠자리 2번째 사진 : 노란허리잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0031_1_th2.jpg",
+      "caption": "노란허리잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZDAP0031-1",
+  "specimen_examples": [
+    {
+      "id": "ADUE0303181029",
+      "description": "[ADUE0303181029] 노란허리잠자리 1998.07.12 / / 안동대학교"
+    },
+    {
+      "id": "KNAE0301241040",
+      "description": "[KNAE0301241040] 노란허리잠자리 1993.07.03 / / 국립수목원"
+    },
+    {
+      "id": "CBNE0203131016",
+      "description": "[CBNE0203131016] 노란허리잠자리 1991.06.24 / / 충북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZDAP0031.png",
+    "reference_image_id": "ZDAP0031-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T11:22:13.645799+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "e42ea500982798d64569dbee92ca2c8cf9778d04c44fc71d356a36b6107be8d9"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZDAP0031&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:58+00:00",
+    "html_sha256": "c9bef4720e557531fa1bd45282596b1499dcf36f884c0725b7c9e0ae7fd4c451",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

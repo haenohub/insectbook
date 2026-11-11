@@ -1,0 +1,103 @@
+{
+  "id": "ZTBU0210",
+  "name_ko": "동양화장뭉툭맵시벌",
+  "scientific_name": "Colpotrochia orientalis (Uchida, 1930)",
+  "display_name": "동양화장뭉툭맵시벌",
+  "family_ko": "맵시벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "맵시벌과",
+      "name_latin": "Ichneumonidae"
+    },
+    "subfamily": {
+      "name_ko": "줄뭉툭맵시벌아과",
+      "name_latin": "Metopiinae"
+    },
+    "genus": {
+      "name_ko": "화장뭉툭맵시벌속",
+      "name_latin": "Colpotrochia"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 맵시벌과 (Ichneumonidae)\n아과 : 줄뭉툭맵시벌아과 (Metopiinae)\n속 : 화장뭉툭맵시벌속 (Colpotrochia)",
+  "basic_information": {
+    "곤충명": "동양화장뭉툭맵시벌",
+    "학명": "Colpotrochia orientalis (Uchida, 1930)"
+  },
+  "information": {
+    "general_description": "♀의 머리와 가슴에는 황갈색 털이 밀생했고 특히 얼굴에는 명백히 긴 털이 났다. 머리방패의 앞슭은 넓고 둥글다. 더듬이는 흑색이고 아래쪽은 흑갈색이다. 머리와 가슴은 흑색이며 광택이 있으나 작은방패판은 현저히 점각이 있고 납작하며 너비보다 길이가 길다. 제1배마디는 너비보다 3배나 길고 제2배마디는 정방형이고 제2배마디의 뒷슭과 제3·4배마디는 황색인데 흑점이 있다. 날개는 황색이나 바깥가두리가 암색으로 흐렸고 연문은 적황색이다. 앞다리의 넓적다리마디는 특히 굵고 앞·가운데다리와 뒷다리의 종아리마디는 황색이나 모든 발목마디는 흑색이다. 뒷다리의 넓적다리마디는 흑갈색이다. 19mm정도",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "♀의 머리와 가슴에는 황갈색 털이 밀생했고 특히 얼굴에는 명백히 긴 털이 났다. 머리방패의 앞슭은 넓고 둥글다. 더듬이는 흑색이고 아래쪽은 흑갈색이다. 머리와 가슴은 흑색이며 광택이 있으나 작은방패판은 현저히 점각이 있고 납작하며 너비보다 길이가 길다. 제1배마디는 너비보다 3배나 길고 제2배마디는 정방형이고 제2배마디의 뒷슭과 제3·4배마디는 황색인데 흑점이 있다. 날개는 황색이나 바깥가두리가 암색으로 흐렸고 연문은 적황색이다. 앞다리의 넓적다리마디는 특히 굵고 앞·가운데다리와 뒷다리의 종아리마디는 황색이나 모든 발목마디는 흑색이다. 뒷다리의 넓적다리마디는 흑갈색이다. 19mm정도"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBU0210-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0210_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0210_1_th.jpg",
+      "alt": "동양화장뭉툭맵시벌 1번째 사진 : 동양화장뭉툭맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0210_1_th2.jpg",
+      "caption": "동양화장뭉툭맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBU0210-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0301089048",
+      "description": "[YNUE0301089048] 동양화장뭉툭맵시벌 1981.07.31 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301089049",
+      "description": "[YNUE0301089049] 동양화장뭉툭맵시벌 1972.08.15 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306031043",
+      "description": "[YNUE0306031043] 동양화장뭉툭맵시벌 1987.07.26 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTBU0210-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBU0210&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:33+00:00",
+    "html_sha256": "733659cdf809e4d43c395bd503ffdc95b480f114d2bec62e0b226ee4e1fab128",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

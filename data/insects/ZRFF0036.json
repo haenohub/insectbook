@@ -1,0 +1,141 @@
+{
+  "id": "ZRFF0036",
+  "name_ko": "삼나무잎말이나방",
+  "scientific_name": "Homona issikii Yasuda, 1962",
+  "display_name": "삼나무잎말이나방",
+  "family_ko": "잎말이나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎말이나방상과",
+      "name_latin": "Tortricoidea"
+    },
+    "family": {
+      "name_ko": "잎말이나방과",
+      "name_latin": "Tortricidae"
+    },
+    "subfamily": {
+      "name_ko": "잎말이나방아과",
+      "name_latin": "Tortricinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Homona"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 잎말이나방상과 (Tortricoidea)\n과 : 잎말이나방과 (Tortricidae)\n아과 : 잎말이나방아과 (Tortricinae)\n속 : (Homona)",
+  "basic_information": {
+    "곤충명": "삼나무잎말이나방",
+    "학명": "Homona issikii Yasuda, 1962"
+  },
+  "information": {
+    "general_description": "제주특별자치도 서귀포시와 국외는 일본·타이완에 분포하며\n머리와 가슴은 등갈색. 아랫입술수염은 짧고 암갈색이고,눈지름의 1.5배길이. 앞날개의 바탕색은 담회갈색이고,암컷은 그물무늬가 뚜렷하며.\n날개 주름은 크고, 반 달걀 모양.\n날개길이:♂22∼24mm, ♀26∼30mm",
+    "adult": null,
+    "adult_male": "생식기는 구상돌기는 넓으며 길이는 짧음. 파악판의 기부는 넓고 끝이 좁아진 삼각\n형을 나타냄. 트란스틸라의 위쪽 끝이 빗살모양.",
+    "adult_female": "생식기는 교미구관은 좁고 앤트룸은 잘 발달되어 있음. 교미관은 길고, 세트룸이\n있거나 없음.",
+    "larva": "머리가 암갈색이고,흑색무늬가 있음. 몸은 흑록색이고, 몸길이는 18mm.",
+    "egg": null,
+    "pupa": null,
+    "ecology": "낙우송과의 삼나무를 가해",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "제주특별자치도 서귀포시와 국외는 일본·타이완에 분포하며\n머리와 가슴은 등갈색. 아랫입술수염은 짧고 암갈색이고,눈지름의 1.5배길이. 앞날개의 바탕색은 담회갈색이고,암컷은 그물무늬가 뚜렷하며.\n날개 주름은 크고, 반 달걀 모양.\n날개길이:♂22∼24mm, ♀26∼30mm"
+    },
+    {
+      "title": "성충(수)",
+      "text": "생식기는 구상돌기는 넓으며 길이는 짧음. 파악판의 기부는 넓고 끝이 좁아진 삼각\n형을 나타냄. 트란스틸라의 위쪽 끝이 빗살모양."
+    },
+    {
+      "title": "성충(암)",
+      "text": "생식기는 교미구관은 좁고 앤트룸은 잘 발달되어 있음. 교미관은 길고, 세트룸이\n있거나 없음."
+    },
+    {
+      "title": "유충",
+      "text": "머리가 암갈색이고,흑색무늬가 있음. 몸은 흑록색이고, 몸길이는 18mm."
+    },
+    {
+      "title": "생태",
+      "text": "낙우송과의 삼나무를 가해"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRFF0036-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0036_7.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0036_7_th.jpg",
+      "alt": "삼나무잎말이나방 1번째 사진 : 삼나무잎말이나방가슴 확대 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0036_7_th2.jpg",
+      "caption": "삼나무잎말이나방가슴 확대 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRFF0036-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0036_6.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0036_6_th.jpg",
+      "alt": "삼나무잎말이나방 2번째 사진 : 삼나무잎말이나방배 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0036_6_th2.jpg",
+      "caption": "삼나무잎말이나방배 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRFF0036-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0036_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0036_1_th.jpg",
+      "alt": "삼나무잎말이나방 3번째 사진 : 삼나무잎말이나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0036_1_th2.jpg",
+      "caption": "삼나무잎말이나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRFF0036-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0301281015",
+      "description": "[UIBE0301281015] 삼나무잎말이나방 1997.08.12 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301281017",
+      "description": "[UIBE0301281017] 삼나무잎말이나방 1997.07.11 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301281016",
+      "description": "[UIBE0301281016] 삼나무잎말이나방 1998.06.24 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRFF0036-3"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRFF0036&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:41+00:00",
+    "html_sha256": "a045c4b4367ba238a741897c311d209aa1c4260beaf047cab0e21f084a4fac9f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

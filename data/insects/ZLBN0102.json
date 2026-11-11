@@ -1,0 +1,107 @@
+{
+  "id": "ZLBN0102",
+  "name_ko": "빨간촉각장님노린재",
+  "scientific_name": "Trigonotylus caelestialium (Kirkaldy, 1902)",
+  "display_name": "빨간촉각장님노린재",
+  "family_ko": "장님노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "장님노린재상과",
+      "name_latin": "Miroidea"
+    },
+    "family": {
+      "name_ko": "장님노린재과",
+      "name_latin": "Miridae"
+    },
+    "subfamily": {
+      "name_ko": "장님노린재아과",
+      "name_latin": "Mirinae"
+    },
+    "genus": {
+      "name_ko": "촉각장님노린재속",
+      "name_latin": "Trigonotylus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 장님노린재상과 (Miroidea)\n과 : 장님노린재과 (Miridae)\n아과 : 장님노린재아과 (Mirinae)\n속 : 촉각장님노린재속 (Trigonotylus)",
+  "basic_information": {
+    "곤충명": "빨간촉각장님노린재",
+    "학명": "Trigonotylus caelestialium (Kirkaldy, 1902)"
+  },
+  "information": {
+    "general_description": "몸길이 : 5-6.5mm\n몸은 가늘고 길며 녹색을 띤다. 머리는 앞쪽으로 뾰족하게 돌출했고, 정수리의 중앙에 가느다란 세로홈이 있다. 겹눈은 흑색이고, 반구상이며, 더듬이는 길다. 앞가슴등은 약간 사다리꼴이고, 각 변은 모두 안쪽으로 만곡했다. 작은방패판은 비교적 크고 삼각형이며, 기부는 약간 융기했다. 앞가슴등에는 미소한 점각이 산포되나, 작은 방패판은 평활하다. 반시초는 연한 녹색이다. 몸의 아랫면과 다리는 황록색이고, 종아리마디끝과 발목마디는 암색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "평지나 산지의 포아풀 과 식물의 잡초사이에 많다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 5-6.5mm\n몸은 가늘고 길며 녹색을 띤다. 머리는 앞쪽으로 뾰족하게 돌출했고, 정수리의 중앙에 가느다란 세로홈이 있다. 겹눈은 흑색이고, 반구상이며, 더듬이는 길다. 앞가슴등은 약간 사다리꼴이고, 각 변은 모두 안쪽으로 만곡했다. 작은방패판은 비교적 크고 삼각형이며, 기부는 약간 융기했다. 앞가슴등에는 미소한 점각이 산포되나, 작은 방패판은 평활하다. 반시초는 연한 녹색이다. 몸의 아랫면과 다리는 황록색이고, 종아리마디끝과 발목마디는 암색이다."
+    },
+    {
+      "title": "생태",
+      "text": "평지나 산지의 포아풀 과 식물의 잡초사이에 많다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLBN0102-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBN0102_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBN0102_1_th.jpg",
+      "alt": "빨간촉각장님노린재 1번째 사진 : 빨간촉각장님노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBN0102_1_th2.jpg",
+      "caption": "빨간촉각장님노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLBN0102-1",
+  "specimen_examples": [
+    {
+      "id": "HNUE0408103024",
+      "description": "[HNUE0408103024] 빨간촉각장님노린재 2002.05.23 / / 한남대학교 자연사박물관"
+    },
+    {
+      "id": "HNUE0408103025",
+      "description": "[HNUE0408103025] 빨간촉각장님노린재 2002.05.23 / / 한남대학교 자연사박물관"
+    },
+    {
+      "id": "HNUE0408103016",
+      "description": "[HNUE0408103016] 빨간촉각장님노린재 2002.05.23 / / 한남대학교 자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLBN0102-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLBN0102&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:03+00:00",
+    "html_sha256": "fef2c61fb7d8db1256c2e67c9bcfd8b1d2ed3af09d26b23d2afa00d5322575c5",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

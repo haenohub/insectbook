@@ -1,0 +1,107 @@
+{
+  "id": "ZOGJ0011",
+  "name_ko": "외뿔애기꼬마소똥구리",
+  "scientific_name": "Caccobius (Caccophilus) unicornis (Fabricius, 1798)",
+  "display_name": "외뿔애기꼬마소똥구리",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "소똥구리아과",
+      "name_latin": "Scarabaeinae"
+    },
+    "genus": {
+      "name_ko": "꼬마소똥구리속",
+      "name_latin": "Caccobius"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 소똥구리아과 (Scarabaeinae)\n속 : 꼬마소똥구리속 (Caccobius)",
+  "basic_information": {
+    "곤충명": "외뿔애기꼬마소똥구리",
+    "학명": "Caccobius (Caccophilus) unicornis (Fabricius, 1798)"
+  },
+  "information": {
+    "general_description": "흑색으로서 매우 작고 몸에는 짧고 강한 털이 많으며, 암수 모두 전흉배판이 단순하다. 머리방패, 딱지날개, 각 다리는 적갈색을 띠는 개체가 많고, 머리방패의 앞쪽은 깊게 함입하였다. BL:3.5mm미만.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "주로 인,견분에 모이는데 양분과 우분에서의 기록도 있다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "흑색으로서 매우 작고 몸에는 짧고 강한 털이 많으며, 암수 모두 전흉배판이 단순하다. 머리방패, 딱지날개, 각 다리는 적갈색을 띠는 개체가 많고, 머리방패의 앞쪽은 깊게 함입하였다. BL:3.5mm미만."
+    },
+    {
+      "title": "생태",
+      "text": "주로 인,견분에 모이는데 양분과 우분에서의 기록도 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGJ0011-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0011_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0011_1_th.jpg",
+      "alt": "외뿔애기꼬마소똥구리 1번째 사진 : 외뿔애기꼬마소똥구리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0011_1_th2.jpg",
+      "caption": "외뿔애기꼬마소똥구리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGJ0011-1",
+  "specimen_examples": [
+    {
+      "id": "SSUE0303031001",
+      "description": "[SSUE0303031001] 외뿔애기꼬마소똥구리 1986.05.30 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0303031002",
+      "description": "[SSUE0303031002] 외뿔애기꼬마소똥구리 1984.09.29 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0303031003",
+      "description": "[SSUE0303031003] 외뿔애기꼬마소똥구리 1984.07.30 / / 성신여자대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGJ0011-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGJ0011&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:53+00:00",
+    "html_sha256": "0d2f14c3e62f880be92b72b7353af42bb939db87ef12040041c45fcff5b6f77c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

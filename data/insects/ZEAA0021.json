@@ -1,0 +1,121 @@
+{
+  "id": "ZEAA0021",
+  "name_ko": "각시메뚜기",
+  "scientific_name": "Patanga japonica (Bolívar, 1898)",
+  "display_name": "각시메뚜기",
+  "family_ko": "메뚜기과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "메뚜기목",
+      "name_latin": "Orthoptera"
+    },
+    "family": {
+      "name_ko": "메뚜기과",
+      "name_latin": "Acrididae"
+    },
+    "subfamily": {
+      "name_ko": "각시메뚜기아과",
+      "name_latin": "Catantopinae"
+    },
+    "genus": {
+      "name_ko": "각시메뚜기속",
+      "name_latin": "Patanga"
+    }
+  },
+  "taxonomy_text": "목 : 메뚜기목 (Orthoptera)\n과 : 메뚜기과 (Acrididae)\n아과 : 각시메뚜기아과 (Catantopinae)\n속 : 각시메뚜기속 (Patanga)",
+  "basic_information": {
+    "곤충명": "각시메뚜기",
+    "학명": "Patanga japonica (Bolívar, 1898)"
+  },
+  "information": {
+    "general_description": "체장: 38-50mm. 몸은 적갈색이나 개체변이 심함. 머리, 가슴, 날개의 중앙부에 굵은 세로줄 무늬.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 9-10월에 출현하였다가 성충으로 월동하여 이듬해 봄까지 활동. 주로 평지의 풀밭이나 숲의 가장자리에서 풀의 줄기에 붙어 생활.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체장: 38-50mm. 몸은 적갈색이나 개체변이 심함. 머리, 가슴, 날개의 중앙부에 굵은 세로줄 무늬."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 9-10월에 출현하였다가 성충으로 월동하여 이듬해 봄까지 활동. 주로 평지의 풀밭이나 숲의 가장자리에서 풀의 줄기에 붙어 생활."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZEAA0021-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0021_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0021_2_th.jpg",
+      "alt": "각시메뚜기 1번째 사진 : 각시메뚜기전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0021_2_th2.jpg",
+      "caption": "각시메뚜기전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZEAA0021-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0021_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0021_1_th.jpg",
+      "alt": "각시메뚜기 2번째 사진 : 각시메뚜기전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0021_1_th2.jpg",
+      "caption": "각시메뚜기전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZEAA0021-1",
+  "specimen_examples": [
+    {
+      "id": "CBNE0306151058",
+      "description": "[CBNE0306151058] 각시메뚜기 2002.06.09 / / 충북대학교"
+    },
+    {
+      "id": "JFNE0306101077",
+      "description": "[JFNE0306101077] 각시메뚜기 2001.07.19 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0306101079",
+      "description": "[JFNE0306101079] 각시메뚜기 2001.07.21 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZEAA0021.png",
+    "reference_image_id": "ZEAA0021-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T15:46:19.590738+00:00",
+    "sha256": "465876d3b229bf1e95063d0fcc9a58c28e0fc20741e4cb9d80bf27b372835e8f"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZEAA0021&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:17+00:00",
+    "html_sha256": "1dacb3b492f4d0262642cb3233b23098c81f1d85cae92dee35ab18db4cc44a76",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

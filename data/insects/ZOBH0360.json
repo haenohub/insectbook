@@ -1,0 +1,110 @@
+{
+  "id": "ZOBH0360",
+  "name_ko": "어리둥글먼지벌레",
+  "scientific_name": "Amara (Amara) congrua Morawitz, 1862",
+  "display_name": "어리둥글먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "먼지벌레아과",
+      "name_latin": "Harpalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Amara"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 먼지벌레아과 (Harpalinae)\n속 : (Amara)",
+  "basic_information": {
+    "곤충명": "어리둥글먼지벌레",
+    "학명": "Amara (Amara) congrua Morawitz, 1862"
+  },
+  "information": {
+    "general_description": "몸의길이는 7.5~10mm, 검은색이고 금속광택이 강하다. 딱지날개의 배는 기부 공점과 두개의 추가공점이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[몽골]\n[일본]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의길이는 7.5~10mm, 검은색이고 금속광택이 강하다. 딱지날개의 배는 기부 공점과 두개의 추가공점이 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[몽골]\n[일본]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0360-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0360_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0360_2_th.jpg",
+      "alt": "어리둥글먼지벌레 1번째 사진 : 어리둥글먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0360_2_th2.jpg",
+      "caption": "어리둥글먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0360-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0360_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0360_1_th.jpg",
+      "alt": "어리둥글먼지벌레 2번째 사진 : 어리둥글먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0360_1_th2.jpg",
+      "caption": "어리둥글먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0360-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304041024",
+      "description": "[KNAE0304041024] 어리둥글먼지벌레 1992.05.29 / / 국립수목원"
+    },
+    {
+      "id": "JFNE0303121024",
+      "description": "[JFNE0303121024] 어리둥글먼지벌레 1994.04.05 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0303121025",
+      "description": "[JFNE0303121025] 어리둥글먼지벌레 1994.04.06 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0360-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0360&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:35+00:00",
+    "html_sha256": "6824f7cff38a7339a777fa848c0c0d18a404b7023d60e1f0c73d7d759c08e314",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

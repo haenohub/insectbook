@@ -1,0 +1,103 @@
+{
+  "id": "ZMBI0001",
+  "name_ko": "희조꽃매미",
+  "scientific_name": "Limois emelianovi Oshanin, 1908",
+  "display_name": "희조꽃매미",
+  "family_ko": "꽃매미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "꽃매미상과",
+      "name_latin": "Fulgoroidea"
+    },
+    "family": {
+      "name_ko": "꽃매미과",
+      "name_latin": "Fulgoridae"
+    },
+    "genus": {
+      "name_ko": "꽃매미속",
+      "name_latin": "Limois"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 꽃매미상과 (Fulgoroidea)\n과 : 꽃매미과 (Fulgoridae)\n속 : 꽃매미속 (Limois)",
+  "basic_information": {
+    "곤충명": "희조꽃매미",
+    "학명": "Limois emelianovi Oshanin, 1908"
+  },
+  "information": {
+    "general_description": "몸길이는 약 9-11mm 정도이며, 양날개를 모두 폈을때는 30-35mm에 달한다. 암컷이 다소 수컷보다 더 크다. 몸의 등면에는 황갈색, 유백색 및 흑갈색의 불규칙한 얼룩무늬가 산재해 있다.날개를 접었을 때는 흑갈색의 얼룩무늬가 참나무류의 나무 껍질과 조화를 이루며 보호색을 띤다. 그러나 날개를 펼치면 뒷날개의 기부는 현저하게 붉은색을 띠는 아름다운 곤충이다. 머리는 앞모서리가 수직으로 좁게 발달하였고, 뒷쪽으로 휘어져서 기묘한 모양을 갖는다. 중앙종주선은 볼록하게 융기되어 있고, 앞가슴등판은 길이보다 폭이 2배 가량 넓고 흑갈색 점무늬가 나타난다. 작은방패판은 앞가슴등판보다 크고 3줄의 세로 볼록선을 가진다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "숲이 우거진 산림지대와 관목 숲에서 매우 희귀하게 발견된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 약 9-11mm 정도이며, 양날개를 모두 폈을때는 30-35mm에 달한다. 암컷이 다소 수컷보다 더 크다. 몸의 등면에는 황갈색, 유백색 및 흑갈색의 불규칙한 얼룩무늬가 산재해 있다.날개를 접었을 때는 흑갈색의 얼룩무늬가 참나무류의 나무 껍질과 조화를 이루며 보호색을 띤다. 그러나 날개를 펼치면 뒷날개의 기부는 현저하게 붉은색을 띠는 아름다운 곤충이다. 머리는 앞모서리가 수직으로 좁게 발달하였고, 뒷쪽으로 휘어져서 기묘한 모양을 갖는다. 중앙종주선은 볼록하게 융기되어 있고, 앞가슴등판은 길이보다 폭이 2배 가량 넓고 흑갈색 점무늬가 나타난다. 작은방패판은 앞가슴등판보다 크고 3줄의 세로 볼록선을 가진다."
+    },
+    {
+      "title": "생태",
+      "text": "숲이 우거진 산림지대와 관목 숲에서 매우 희귀하게 발견된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMBI0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMBI0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMBI0001_1_th.jpg",
+      "alt": "희조꽃매미 1번째 사진 : 꽃매미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMBI0001_1_th2.jpg",
+      "caption": "꽃매미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMBI0001-1",
+  "specimen_examples": [
+    {
+      "id": "GSNE0408242251",
+      "description": "[GSNE0408242251] 희조꽃매미 1998.09.19 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0408242252",
+      "description": "[GSNE0408242252] 희조꽃매미 1998.09.19 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0408242254",
+      "description": "[GSNE0408242254] 희조꽃매미 1998.09.18 / / 경상대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZMBI0001-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMBI0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:18+00:00",
+    "html_sha256": "add70987df61307d0a651f77952d29ee176d260f0d9bba0e59f84940cd23e681",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

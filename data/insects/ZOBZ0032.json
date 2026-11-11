@@ -1,0 +1,99 @@
+{
+  "id": "ZOBZ0032",
+  "name_ko": "홍색무당벌레",
+  "scientific_name": "Rodolia concolor (Lewis, 1879)",
+  "display_name": "홍색무당벌레",
+  "family_ko": "무당벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Coccinelloidea"
+    },
+    "family": {
+      "name_ko": "무당벌레과",
+      "name_latin": "Coccinellidae"
+    },
+    "subfamily": {
+      "name_ko": "무당벌레아과",
+      "name_latin": "Coccinellinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Rodolia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : (Coccinelloidea)\n과 : 무당벌레과 (Coccinellidae)\n아과 : 무당벌레아과 (Coccinellinae)\n속 : (Rodolia)",
+  "basic_information": {
+    "곤충명": "홍색무당벌레",
+    "학명": "Rodolia concolor (Lewis, 1879)"
+  },
+  "information": {
+    "general_description": "체형은 달걀형이고 옆면에서 봤을때는 활꼴로 되어있다. 등쪽은 조금 볼록하며 털이 나 있다. 몸의 색깔은 등쪽은 붉은 갈색이며 머리와 입은 검은색이고 하순은 붉은갈색, 더듬이는 어두운붉은갈색을 띤다.\n다리는 검은색이다. 홈은 세세한 것과 조금더 큰 홈이 존재하고 있다. 체표면의 홈은 일정하지 않으며 다소 큰 홈들도 존재하였다. 이들은 한국, 일본등지에서 서식한다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": "암컷 생식기는 수정낭이 limbata와 비슷하긴 하나 끝의 원형의 부분이 조금 작은 편이다. 전체적으로 막대형인 생식판을 가지고 있다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체형은 달걀형이고 옆면에서 봤을때는 활꼴로 되어있다. 등쪽은 조금 볼록하며 털이 나 있다. 몸의 색깔은 등쪽은 붉은 갈색이며 머리와 입은 검은색이고 하순은 붉은갈색, 더듬이는 어두운붉은갈색을 띤다.\n다리는 검은색이다. 홈은 세세한 것과 조금더 큰 홈이 존재하고 있다. 체표면의 홈은 일정하지 않으며 다소 큰 홈들도 존재하였다. 이들은 한국, 일본등지에서 서식한다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "암컷 생식기는 수정낭이 limbata와 비슷하긴 하나 끝의 원형의 부분이 조금 작은 편이다. 전체적으로 막대형인 생식판을 가지고 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBZ0032-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBZ0032_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBZ0032_1_th.jpg",
+      "alt": "홍색무당벌레 1번째 사진 : 홍색무당벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBZ0032_1_th2.jpg",
+      "caption": "홍색무당벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBZ0032-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0304221026",
+      "description": "[FRIE0304221026] 홍색무당벌레 1995.06.01 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBZ0032-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBZ0032&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:40+00:00",
+    "html_sha256": "6c39cf90dfaa23b3ddcbf14e199243e258da657d2d490314333b93aba8db0c09",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

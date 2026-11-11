@@ -1,0 +1,110 @@
+{
+  "id": "ZDAA0009",
+  "name_ko": "먹줄왕잠자리",
+  "scientific_name": "Anax nigrofasciatus Oguma, 1915",
+  "display_name": "먹줄왕잠자리",
+  "family_ko": "왕잠자리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "잠자리목",
+      "name_latin": "Odonata"
+    },
+    "family": {
+      "name_ko": "왕잠자리과",
+      "name_latin": "Aeshnidae"
+    },
+    "subfamily": {
+      "name_ko": "왕잠자리아과",
+      "name_latin": "Aeschninae"
+    },
+    "genus": {
+      "name_ko": "왕잠자리속",
+      "name_latin": "Anax"
+    }
+  },
+  "taxonomy_text": "목 : 잠자리목 (Odonata)\n과 : 왕잠자리과 (Aeshnidae)\n아과 : 왕잠자리아과 (Aeschninae)\n속 : 왕잠자리속 (Anax)",
+  "basic_information": {
+    "곤충명": "먹줄왕잠자리",
+    "학명": "Anax nigrofasciatus Oguma, 1915"
+  },
+  "information": {
+    "general_description": "배길이 49mm, 뒷날개길이 45mm. 얼굴은 황색이고 이마꼭대기에는 T자형의 흑색 무늬 있음. 가슴은 녹색이며 가슴옆에 흑색 줄이 2개임. 배는 수컷의 1마디는 황록색이고 2마디 등쪽에 있는 앞가두리 중앙 편삼각형부는 황록색이고 굵은 갈색 선으로 싸여 있으며 그 외 부분은 푸른하늘색임. 암컷의 2마디는 황록색이고 그 외 마디는 갈색이며 날개는 투명하고 앞가두리맥만 황색임. 가두리무늬는 갈색임.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "배길이 49mm, 뒷날개길이 45mm. 얼굴은 황색이고 이마꼭대기에는 T자형의 흑색 무늬 있음. 가슴은 녹색이며 가슴옆에 흑색 줄이 2개임. 배는 수컷의 1마디는 황록색이고 2마디 등쪽에 있는 앞가두리 중앙 편삼각형부는 황록색이고 굵은 갈색 선으로 싸여 있으며 그 외 부분은 푸른하늘색임. 암컷의 2마디는 황록색이고 그 외 마디는 갈색이며 날개는 투명하고 앞가두리맥만 황색임. 가두리무늬는 갈색임."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZDAA0009-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAA0009_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAA0009_2_th.jpg",
+      "alt": "먹줄왕잠자리 1번째 사진 : 먹줄왕잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAA0009_2_th2.jpg",
+      "caption": "먹줄왕잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZDAA0009-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAA0009_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAA0009_1_th.jpg",
+      "alt": "먹줄왕잠자리 2번째 사진 : 먹줄왕잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAA0009_1_th2.jpg",
+      "caption": "먹줄왕잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZDAA0009-1",
+  "specimen_examples": [
+    {
+      "id": "ADUE0303181039",
+      "description": "[ADUE0303181039] 먹줄왕잠자리 2002.07.15 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0303181040",
+      "description": "[ADUE0303181040] 먹줄왕잠자리 2002.07.19 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0303181041",
+      "description": "[ADUE0303181041] 먹줄왕잠자리 2002.07.10 / / 안동대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZDAA0009-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZDAA0009&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:05+00:00",
+    "html_sha256": "d54f313c9b153a4663c8e440bfddc34b316a3a972deccc763494ce8b5fa0318d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

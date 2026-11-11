@@ -1,0 +1,114 @@
+{
+  "id": "ZOBH0271",
+  "name_ko": "검정칠납작먼지벌레",
+  "scientific_name": "Synuchus (Synuchus) melantho (Bates, 1883)",
+  "display_name": "검정칠납작먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "먼지벌레아과",
+      "name_latin": "Harpalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Synuchus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 먼지벌레아과 (Harpalinae)\n속 : (Synuchus)",
+  "basic_information": {
+    "곤충명": "검정칠납작먼지벌레",
+    "학명": "Synuchus (Synuchus) melantho (Bates, 1883)"
+  },
+  "information": {
+    "general_description": "몸길이는 10~13mm 이며 몸색깔은 흑색이나는 광택이며 앞가슴등판 크지않고 옆쪽이 완만하다. 딱지날개의 끝 쪽은 앞부분으로 강하게 돌출하였다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 10~13mm 이며 몸색깔은 흑색이나는 광택이며 앞가슴등판 크지않고 옆쪽이 완만하다. 딱지날개의 끝 쪽은 앞부분으로 강하게 돌출하였다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0271-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0271_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0271_2_th.jpg",
+      "alt": "검정칠납작먼지벌레 1번째 사진 : 검정칠납작먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0271_2_th2.jpg",
+      "caption": "검정칠납작먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0271-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0271_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0271_1_th.jpg",
+      "alt": "검정칠납작먼지벌레 2번째 사진 : 검정칠납작먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0271_1_th2.jpg",
+      "caption": "검정칠납작먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0271-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303271002",
+      "description": "[KNAE0303271002] 검정칠납작먼지벌레 1992.06.29 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303271003",
+      "description": "[KNAE0303271003] 검정칠납작먼지벌레 1992.09.19 / / 국립수목원"
+    },
+    {
+      "id": "SJNE0202251031",
+      "description": "[SJNE0202251031] 검정칠납작먼지벌레 1971.07.31 / / 상주대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBH0271.png",
+    "reference_image_id": "ZOBH0271-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T11:57:56.718884+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "f90607e9aa8e7909169f75b40b297797bc53d1908a1c56d9661dd463af4963a3"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0271&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:30+00:00",
+    "html_sha256": "2d89fe83e10faabbb5fdb882be3f2301a7ff9bdabf4f693be2a62da2e72db78c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

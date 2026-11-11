@@ -1,0 +1,111 @@
+{
+  "id": "ZRDW0015",
+  "name_ko": "검은무늬원뿔나방",
+  "scientific_name": "Agonopterix costamaculella Christoph, 1882",
+  "display_name": "검은무늬원뿔나방",
+  "family_ko": "큰원뿔나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "뿔나방상과",
+      "name_latin": "Gelechioidea"
+    },
+    "family": {
+      "name_ko": "큰원뿔나방과",
+      "name_latin": "Depressariidae"
+    },
+    "subfamily": {
+      "name_ko": "큰원뿔나방아과",
+      "name_latin": "Depressariinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Agonopterix"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 뿔나방상과 (Gelechioidea)\n과 : 큰원뿔나방과 (Depressariidae)\n아과 : 큰원뿔나방아과 (Depressariinae)\n속 : (Agonopterix)",
+  "basic_information": {
+    "곤충명": "검은무늬원뿔나방",
+    "학명": "Agonopterix costamaculella Christoph, 1882"
+  },
+  "information": {
+    "general_description": "머리와 가슴 윗부분은 흑색이고, 배 부분은 흑갈색을 나타냄. 앞날개의 바탕색은 흑자색이며, 그 기부는 흑색으로 반월형을 나타냄. 전연에는 삼각형의 커다란 흑색 무늬가 명료하게 나타나 보이며, 중실에는 작은 흑색 점이 1개 있음. 뒷날개는 암갈색임.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": "교미주머니는 크고 타원형이며 1개의 특징적인 시그눔을 가짐.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "머리와 가슴 윗부분은 흑색이고, 배 부분은 흑갈색을 나타냄. 앞날개의 바탕색은 흑자색이며, 그 기부는 흑색으로 반월형을 나타냄. 전연에는 삼각형의 커다란 흑색 무늬가 명료하게 나타나 보이며, 중실에는 작은 흑색 점이 1개 있음. 뒷날개는 암갈색임."
+    },
+    {
+      "title": "성충(암)",
+      "text": "교미주머니는 크고 타원형이며 1개의 특징적인 시그눔을 가짐."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDW0015-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDW0015_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDW0015_1_th.jpg",
+      "alt": "검은무늬원뿔나방 1번째 사진 : 검은무늬원뿔나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDW0015_1_th2.jpg",
+      "caption": "검은무늬원뿔나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDW0015-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0407131079",
+      "description": "[UIBE0407131079] 검은무늬원뿔나방 1996.07.20 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0407131080",
+      "description": "[UIBE0407131080] 검은무늬원뿔나방 2000.07.22 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0407131081",
+      "description": "[UIBE0407131081] 검은무늬원뿔나방 1998.08.25 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDW0015.png",
+    "reference_image_id": "ZRDW0015-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T17:59:56.983977+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "eeadbbec6a9af541332cc276f28dcbb1408042ac1504956945cbb5b445bf26e7"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDW0015&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:58+00:00",
+    "html_sha256": "9db9dc533c0f120efb858178f5af7666d64f35e4b9b67e67bc08ca04429c98e4",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

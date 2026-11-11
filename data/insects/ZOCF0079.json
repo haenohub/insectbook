@@ -1,0 +1,110 @@
+{
+  "id": "ZOCF0079",
+  "name_ko": "가시길쭉바구미",
+  "scientific_name": "Lixus (Eulixus) divaricatus Motschulsky, 1861",
+  "display_name": "가시길쭉바구미",
+  "family_ko": "바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "바구미과",
+      "name_latin": "Curculionidae"
+    },
+    "subfamily": {
+      "name_ko": "길쭉바구미아과",
+      "name_latin": "Lixinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Lixus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 바구미과 (Curculionidae)\n아과 : 길쭉바구미아과 (Lixinae)\n속 : (Lixus)",
+  "basic_information": {
+    "곤충명": "가시길쭉바구미",
+    "학명": "Lixus (Eulixus) divaricatus Motschulsky, 1861"
+  },
+  "information": {
+    "general_description": "몸길이는 15~17mm이다. 몸의 색깔은 흑색이며 적갈색의 비늘가루가 덮여있다. 주둥이는 가늘며 길다. 회백색의 짧은 털로 덮였는데 특히 딱지날개의 양옆에 회색의 털이 빽빽하게 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 7월경에 산지에 많고 다년생 초본의 잎을 먹는다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 15~17mm이다. 몸의 색깔은 흑색이며 적갈색의 비늘가루가 덮여있다. 주둥이는 가늘며 길다. 회백색의 짧은 털로 덮였는데 특히 딱지날개의 양옆에 회색의 털이 빽빽하게 있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 7월경에 산지에 많고 다년생 초본의 잎을 먹는다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCF0079-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0079_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0079_1_th.jpg",
+      "alt": "가시길쭉바구미 1번째 사진 : 가시길쭉바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0079_1_th2.jpg",
+      "caption": "가시길쭉바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCF0079-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303132061",
+      "description": "[KNAE0303132061] 가시길쭉바구미 1997.07.04 / / 국립수목원"
+    },
+    {
+      "id": "YNUE0212268138",
+      "description": "[YNUE0212268138] 가시길쭉바구미 1996.05.11 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0212278002",
+      "description": "[YNUE0212278002] 가시길쭉바구미 1990.05.28 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOCF0079.png",
+    "reference_image_id": "ZOCF0079-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T15:26:46.464169+00:00",
+    "sha256": "b8e591d2a1ddfe05e63ef6371866385fc3df2df2215cac63bb08236a5a6b8ba5"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCF0079&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:09+00:00",
+    "html_sha256": "1f739510cc044376434ca4bece27e57b34b7809fd13645fb2e831aa34e4e6e50",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

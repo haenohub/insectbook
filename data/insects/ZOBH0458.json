@@ -1,0 +1,99 @@
+{
+  "id": "ZOBH0458",
+  "name_ko": "한라십자무늬먼지벌레",
+  "scientific_name": "Lebia (Poecilothais) retrofasciata Motschulsky, 1864",
+  "display_name": "한라십자무늬먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "먼지벌레아과",
+      "name_latin": "Harpalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Lebia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 먼지벌레아과 (Harpalinae)\n속 : (Lebia)",
+  "basic_information": {
+    "곤충명": "한라십자무늬먼지벌레",
+    "학명": "Lebia (Poecilothais) retrofasciata Motschulsky, 1864"
+  },
+  "information": {
+    "general_description": "몸의길이는 5.5~6.5mm, 몸전체는 황갈색에서 적갈색, 두부는 약간 암갈색, 딱지날개의 앞부분과 중앙부분에 검은색의 무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의길이는 5.5~6.5mm, 몸전체는 황갈색에서 적갈색, 두부는 약간 암갈색, 딱지날개의 앞부분과 중앙부분에 검은색의 무늬가 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0458-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0458_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0458_1_th.jpg",
+      "alt": "한라십자무늬먼지벌레 1번째 사진 : 한라십자무늬먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0458_1_th2.jpg",
+      "caption": "한라십자무늬먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0458-1",
+  "specimen_examples": [
+    {
+      "id": "CBNE0301021028",
+      "description": "[CBNE0301021028] 한라십자무늬먼지벌레 2000.08.29 / / 충북대학교"
+    },
+    {
+      "id": "KPNE0407081200",
+      "description": "[KPNE0407081200] 한라십자무늬먼지벌레 1981.06.06 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0407081201",
+      "description": "[KPNE0407081201] 한라십자무늬먼지벌레 1984.08.11 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0458-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0458&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:06+00:00",
+    "html_sha256": "83e086219c05bc1285f911e74a1f8021ad5c8d3ce650d054401226bc717d655f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

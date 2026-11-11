@@ -1,0 +1,122 @@
+{
+  "id": "ZOBT0019",
+  "name_ko": "고려긴가슴잎벌레",
+  "scientific_name": "Lilioceris (Lilioceris) sieversi (Heyden, 1887)",
+  "display_name": "고려긴가슴잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "긴가슴잎벌레아과",
+      "name_latin": "Criocerinae"
+    },
+    "genus": {
+      "name_ko": "긴가슴잎벌레속",
+      "name_latin": "Lilioceris"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 긴가슴잎벌레아과 (Criocerinae)\n속 : 긴가슴잎벌레속 (Lilioceris)",
+  "basic_information": {
+    "곤충명": "고려긴가슴잎벌레",
+    "학명": "Lilioceris (Lilioceris) sieversi (Heyden, 1887)"
+  },
+  "information": {
+    "general_description": "몸길이가 8.5mm, 몸 전체가 광택이 나는 흑청색이며 윗날개에 강한 점각, 앞가슴등판에도 점각이 강하다 소순판에는 강모가 없고 가운데다리의 종아리마디에 가시돌기가 있으며 다리는 흑색이다. 한국(중부,남부), 일본(쓰시마), 중국(만주,북부,중부,남부,하이난다오)에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6~8월에 초원이나 산에 나타난다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이가 8.5mm, 몸 전체가 광택이 나는 흑청색이며 윗날개에 강한 점각, 앞가슴등판에도 점각이 강하다 소순판에는 강모가 없고 가운데다리의 종아리마디에 가시돌기가 있으며 다리는 흑색이다. 한국(중부,남부), 일본(쓰시마), 중국(만주,북부,중부,남부,하이난다오)에 분포되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6~8월에 초원이나 산에 나타난다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0019-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0019_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0019_2_th.jpg",
+      "alt": "고려긴가슴잎벌레 1번째 사진 : 고려긴가슴잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0019_2_th2.jpg",
+      "caption": "고려긴가슴잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBT0019-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0019_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0019_1_th.jpg",
+      "alt": "고려긴가슴잎벌레 2번째 사진 : 고려긴가슴잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0019_1_th2.jpg",
+      "caption": "고려긴가슴잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0019-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304121028",
+      "description": "[KNAE0304121028] 고려긴가슴잎벌레 1995.07.07 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304121029",
+      "description": "[KNAE0304121029] 고려긴가슴잎벌레 1984.06.27 / / 국립수목원"
+    },
+    {
+      "id": "FRIE0205141083",
+      "description": "[FRIE0205141083] 고려긴가슴잎벌레 1984.09.05 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBT0019.png",
+    "reference_image_id": "ZOBT0019-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T12:27:21.461634+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "313718b45e2fb45218da81e55fc5e099932223bfb253946f5cfea9012710703a"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0019&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:41+00:00",
+    "html_sha256": "9b0cba08948d9fde55f899cbd46fe06ae997117b98539463f5443455065ba501",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

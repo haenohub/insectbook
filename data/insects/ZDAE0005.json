@@ -1,0 +1,110 @@
+{
+  "id": "ZDAE0005",
+  "name_ko": "등검은실잠자리",
+  "scientific_name": "Paracercion calamorum (Ris, 1916)",
+  "display_name": "등검은실잠자리",
+  "family_ko": "실잠자리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "잠자리목",
+      "name_latin": "Odonata"
+    },
+    "family": {
+      "name_ko": "실잠자리과",
+      "name_latin": "Coenagrionidae"
+    },
+    "subfamily": {
+      "name_ko": "실잠자리아과",
+      "name_latin": "Coenagrionae"
+    },
+    "genus": {
+      "name_ko": "등줄실잠자리속",
+      "name_latin": "Paracercion"
+    }
+  },
+  "taxonomy_text": "목 : 잠자리목 (Odonata)\n과 : 실잠자리과 (Coenagrionidae)\n아과 : 실잠자리아과 (Coenagrionae)\n속 : 등줄실잠자리속 (Paracercion)",
+  "basic_information": {
+    "곤충명": "등검은실잠자리",
+    "학명": "Paracercion calamorum (Ris, 1916)"
+  },
+  "information": {
+    "general_description": "배길이 22~25mm, 뒷날개길이 16~21mm. 흑색무늬가 발달하였으며 눈 뒷무늬는 작고 둥금. 날개가슴은 앞면은 성숙한 수컷은 전부 흑색이며 암컷은 옅은 색의 앞어깨줄이 가늘며 발달하지 않음. 배의 등쪽은 흑색이고 수컷의 8~10마디는 청색임. 수컷의 가슴과 배는 흰 가루로 덮임. 수컷의 상부기는 크고 좌우로 벌려짐.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "배길이 22~25mm, 뒷날개길이 16~21mm. 흑색무늬가 발달하였으며 눈 뒷무늬는 작고 둥금. 날개가슴은 앞면은 성숙한 수컷은 전부 흑색이며 암컷은 옅은 색의 앞어깨줄이 가늘며 발달하지 않음. 배의 등쪽은 흑색이고 수컷의 8~10마디는 청색임. 수컷의 가슴과 배는 흰 가루로 덮임. 수컷의 상부기는 크고 좌우로 벌려짐."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZDAE0005-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAE0005_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAE0005_2_th.jpg",
+      "alt": "등검은실잠자리 1번째 사진 : 등검은실잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAE0005_2_th2.jpg",
+      "caption": "등검은실잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZDAE0005-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAE0005_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAE0005_1_th.jpg",
+      "alt": "등검은실잠자리 2번째 사진 : 등검은실잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAE0005_1_th2.jpg",
+      "caption": "등검은실잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZDAE0005-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0212268023",
+      "description": "[YNUE0212268023] 등검은실잠자리 1998.05.23 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0212268025",
+      "description": "[YNUE0212268025] 등검은실잠자리 1996.05.30 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0212268027",
+      "description": "[YNUE0212268027] 등검은실잠자리 1998.05.23 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZDAE0005-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZDAE0005&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:11+00:00",
+    "html_sha256": "fb26141a420c5c0c42759e956e2a0c1800fc14e27b28dc1559cff7b9218f97dd",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

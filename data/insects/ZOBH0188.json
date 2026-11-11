@@ -1,0 +1,99 @@
+{
+  "id": "ZOBH0188",
+  "name_ko": "루이스큰먼지벌레",
+  "scientific_name": "Trigonotoma lewisii Bates, 1873",
+  "display_name": "루이스큰먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "먼지벌레아과",
+      "name_latin": "Harpalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Trigonotoma"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 먼지벌레아과 (Harpalinae)\n속 : (Trigonotoma)",
+  "basic_information": {
+    "곤충명": "루이스큰먼지벌레",
+    "학명": "Trigonotoma lewisii Bates, 1873"
+  },
+  "information": {
+    "general_description": "몸길이는 16~18mm 이며 앞가슴등판은 적동색이며 광택이 강하다. 딱지날개는 자청색을 나타낸다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 16~18mm 이며 앞가슴등판은 적동색이며 광택이 강하다. 딱지날개는 자청색을 나타낸다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0188-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0188_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0188_1_th.jpg",
+      "alt": "루이스큰먼지벌레 1번째 사진 : 루이스큰먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0188_1_th2.jpg",
+      "caption": "루이스큰먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0188-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303261039",
+      "description": "[KNAE0303261039] 루이스큰먼지벌레 1993.08.25 / / 국립수목원"
+    },
+    {
+      "id": "SJNE0408091006",
+      "description": "[SJNE0408091006] 루이스큰먼지벌레 1993.07.23 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0408091005",
+      "description": "[SJNE0408091005] 루이스큰먼지벌레 1993.07.23 / / 상주대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0188-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0188&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:38+00:00",
+    "html_sha256": "5c8a458828e1554c84abeac392e8176d2548db59bfc9dd51ff30733966a0598e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

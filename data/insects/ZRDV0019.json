@@ -1,0 +1,147 @@
+{
+  "id": "ZRDV0019",
+  "name_ko": "작은은점선표범나비",
+  "scientific_name": "Boloria perryi (Butler, 1882)",
+  "display_name": "작은은점선표범나비",
+  "family_ko": "네발나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "네발나비과",
+      "name_latin": "Nymphalidae"
+    },
+    "subfamily": {
+      "name_ko": "독나비아과",
+      "name_latin": "Heliconiinae"
+    },
+    "genus": {
+      "name_ko": "꼬마표범나비속",
+      "name_latin": "Boloria"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 네발나비과 (Nymphalidae)\n아과 : 독나비아과 (Heliconiinae)\n속 : 꼬마표범나비속 (Boloria)",
+  "basic_information": {
+    "곤충명": "작은은점선표범나비",
+    "학명": "Boloria perryi (Butler, 1882)"
+  },
+  "information": {
+    "general_description": "암컷은 수컷에 비하여 크기가 크고 날개모양이 둥그스름하며 폭도 넓다. 또한 뒷날개 외연에 은무늬줄이 있고 중아 노랑띠 제1,4,7실 및 기부 1,7실에도 은무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "암컷은 기주식물 주변의 마른 풀줄기 등에 한 개씩 산란한다. 월동 번데기는 나뭇가지나 인가의 담벽 등에서 불 수 있다.",
+    "habits": "강이나 하천 변의 초지에 주로 서식한다. 봄에서 가을까지 발생지 주변의 여러 꽃에 모여 흡밀하고 초지 위를 천천히 낮게 날아다닌다.",
+    "season": null,
+    "overwintering": "번데기",
+    "distribution": "[중국]\n[러시아]\n[유럽]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷은 수컷에 비하여 크기가 크고 날개모양이 둥그스름하며 폭도 넓다. 또한 뒷날개 외연에 은무늬줄이 있고 중아 노랑띠 제1,4,7실 및 기부 1,7실에도 은무늬가 있다."
+    },
+    {
+      "title": "생태",
+      "text": "암컷은 기주식물 주변의 마른 풀줄기 등에 한 개씩 산란한다. 월동 번데기는 나뭇가지나 인가의 담벽 등에서 불 수 있다."
+    },
+    {
+      "title": "습성",
+      "text": "강이나 하천 변의 초지에 주로 서식한다. 봄에서 가을까지 발생지 주변의 여러 꽃에 모여 흡밀하고 초지 위를 천천히 낮게 날아다닌다."
+    },
+    {
+      "title": "월동",
+      "text": "번데기"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[러시아]\n[유럽]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDV0019-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0019_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0019_3.jpg",
+      "alt": "작은은점선표범나비 1번째 사진 : 작은은점선표범나비 수컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0019_3_th2.jpg",
+      "caption": "작은은점선표범나비 수컷 이미지",
+      "photographed_at": "20200523",
+      "location": null,
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRDV0019-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0019_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0019_2_th.jpg",
+      "alt": "작은은점선표범나비 2번째 사진 : 작은은점선표범나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0019_2_th2.jpg",
+      "caption": "작은은점선표범나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDV0019-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0019_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0019_1_th.jpg",
+      "alt": "작은은점선표범나비 3번째 사진 : 작은은점선표범나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0019_1_th2.jpg",
+      "caption": "작은은점선표범나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDV0019-1",
+  "specimen_examples": [
+    {
+      "id": "SJNE0306171038",
+      "description": "[SJNE0306171038] 작은은점선표범나비 2002.07.01 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0306171039",
+      "description": "[SJNE0306171039] 작은은점선표범나비 2002.07.01 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0306171040",
+      "description": "[SJNE0306171040] 작은은점선표범나비 2002.07.01 / / 상주대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "졸방제비꽃",
+      "scientific_name": "Viola acuminata Ledeb."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDV0019-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDV0019&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:53+00:00",
+    "html_sha256": "f17205f19b44c1f646a01a6532f38b0ffcd64020a62110e5b83abb97bebf4c9e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

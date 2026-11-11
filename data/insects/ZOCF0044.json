@@ -1,0 +1,110 @@
+{
+  "id": "ZOCF0044",
+  "name_ko": "가시털바구미",
+  "scientific_name": "Pseudocneorhinus setosus Roelofs, 1879",
+  "display_name": "가시털바구미",
+  "family_ko": "바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "바구미과",
+      "name_latin": "Curculionidae"
+    },
+    "subfamily": {
+      "name_ko": "줄바구미아과",
+      "name_latin": "Entiminae"
+    },
+    "genus": {
+      "name_ko": "가시털바구미속",
+      "name_latin": "Pseudocneorhinus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 바구미과 (Curculionidae)\n아과 : 줄바구미아과 (Entiminae)\n속 : 가시털바구미속 (Pseudocneorhinus)",
+  "basic_information": {
+    "곤충명": "가시털바구미",
+    "학명": "Pseudocneorhinus setosus Roelofs, 1879"
+  },
+  "information": {
+    "general_description": "한국(중부, 남부), 일본, 북중국, 러시아에 분포하며, 몸길이 4.4-6.6 mm. 앞가슴 전측 가두리에 목향엽이 있다. 촉각구는 눈을 향한다. 구상판은 V형, 뒤쪽에 넓은 나출지역이 없고, 융기선의 융기는 약하며, 뒤쪽으로 예각을 이룬다. 후경절 내연에 치돌기가 없다. 제1채찍마디의 길이는 제2마디보다 길어, 제2마디와 제3마디의 합이 제1마디와 같다. 딱지날개의 인모는 넓은 대나무잎모양이며 홀수 간실에 인모수가 많다. 체표의 인편은 짙은 갈색, 다각형 금속광택, 방사형으로 피복.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "일본에서는 단위생식, 중국에서는 수컷이 있다. 한국에서는 불확실.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국(중부, 남부), 일본, 북중국, 러시아에 분포하며, 몸길이 4.4-6.6 mm. 앞가슴 전측 가두리에 목향엽이 있다. 촉각구는 눈을 향한다. 구상판은 V형, 뒤쪽에 넓은 나출지역이 없고, 융기선의 융기는 약하며, 뒤쪽으로 예각을 이룬다. 후경절 내연에 치돌기가 없다. 제1채찍마디의 길이는 제2마디보다 길어, 제2마디와 제3마디의 합이 제1마디와 같다. 딱지날개의 인모는 넓은 대나무잎모양이며 홀수 간실에 인모수가 많다. 체표의 인편은 짙은 갈색, 다각형 금속광택, 방사형으로 피복."
+    },
+    {
+      "title": "생태",
+      "text": "일본에서는 단위생식, 중국에서는 수컷이 있다. 한국에서는 불확실."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCF0044-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0044_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0044_1_th.jpg",
+      "alt": "가시털바구미 1번째 사진 : 가시털바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0044_1_th2.jpg",
+      "caption": "가시털바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCF0044-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0302182019",
+      "description": "[KNAE0302182019] 가시털바구미 1977.08.14 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0302182020",
+      "description": "[KNAE0302182020] 가시털바구미 1981.06.09 / / 국립수목원"
+    },
+    {
+      "id": "KPNE1007016151",
+      "description": "[KPNE1007016151] 가시털바구미 2008.06.12 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOCF0044.png",
+    "reference_image_id": "ZOCF0044-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T15:38:12.518386+00:00",
+    "sha256": "8ef8bf1b1d5e045f84ad38cb3869319af527067c0b171ac4df2cb24f9f4f2534"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCF0044&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:14+00:00",
+    "html_sha256": "88a1f85cc2817f24e9df76a6292d6e7e31edde9eb589e5be6d36886a10c1de5b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

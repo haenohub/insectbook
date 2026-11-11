@@ -1,0 +1,126 @@
+{
+  "id": "ZLBX0069",
+  "name_ko": "먹노린재",
+  "scientific_name": "Scotinophara lurida (Burmeister, 1834)",
+  "display_name": "먹노린재",
+  "family_ko": "노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "노린재상과",
+      "name_latin": "Pentatomoidea"
+    },
+    "family": {
+      "name_ko": "노린재과",
+      "name_latin": "Pentatomidae"
+    },
+    "subfamily": {
+      "name_ko": "홍줄노린재아과",
+      "name_latin": "Podopinae"
+    },
+    "genus": {
+      "name_ko": "먹노린재속",
+      "name_latin": "Scotinophara"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 노린재상과 (Pentatomoidea)\n과 : 노린재과 (Pentatomidae)\n아과 : 홍줄노린재아과 (Podopinae)\n속 : 먹노린재속 (Scotinophara)",
+  "basic_information": {
+    "곤충명": "먹노린재",
+    "학명": "Scotinophara lurida (Burmeister, 1834)"
+  },
+  "information": {
+    "general_description": "몸길이 : 8-10mm\n몸의 전체가 흑색이며, 때로 약간 암갈색을 띤다. 표면은 거칠고 광택은 없다. 머리는 앞쪽으로 돌출했고 중엽은 측엽과 같은 길이이다. 더듬이돌기는 뚜렷하고 선단은 예리하며, 겹눈은 작다. 더듬이는 길고 5마디로 되어 있으며, 약간 갈색을 띠고 짧은 센털이 밀생했다. 앞가슴등판의 앞가장자리의 양 끝은 옆쪽으로 향하는 뚜렷한 가시모양의 돌기가 있다. 앞옆가장자리는 직선이며 측간부는 앞옆가장자리의 직선에서 바로 예각으로 끝났고 그 뒤쪽은 약간 둥글다. 작은방패판은 혀모양이며 거의 배끝 가까이 뻗어 있다. 몸의 아랫면과 다리는 흑색이나, 발목마디는 갈색을 띤다. 또 가운데가슴의 후반과 뒷가슴의 대부분은 젼혀 광택이 없고 또 주름이 많다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "산지에 가까운 논에 다수 출현하는 해충이다.",
+    "habits": null,
+    "season": null,
+    "overwintering": "성충으로 가을 일찍부터 이듬해 여름까지 돌 밑이나 낙엽 밑에서 월동한다.",
+    "distribution": "[중국]\n[일본]\n[필리핀]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 8-10mm\n몸의 전체가 흑색이며, 때로 약간 암갈색을 띤다. 표면은 거칠고 광택은 없다. 머리는 앞쪽으로 돌출했고 중엽은 측엽과 같은 길이이다. 더듬이돌기는 뚜렷하고 선단은 예리하며, 겹눈은 작다. 더듬이는 길고 5마디로 되어 있으며, 약간 갈색을 띠고 짧은 센털이 밀생했다. 앞가슴등판의 앞가장자리의 양 끝은 옆쪽으로 향하는 뚜렷한 가시모양의 돌기가 있다. 앞옆가장자리는 직선이며 측간부는 앞옆가장자리의 직선에서 바로 예각으로 끝났고 그 뒤쪽은 약간 둥글다. 작은방패판은 혀모양이며 거의 배끝 가까이 뻗어 있다. 몸의 아랫면과 다리는 흑색이나, 발목마디는 갈색을 띤다. 또 가운데가슴의 후반과 뒷가슴의 대부분은 젼혀 광택이 없고 또 주름이 많다."
+    },
+    {
+      "title": "생태",
+      "text": "산지에 가까운 논에 다수 출현하는 해충이다."
+    },
+    {
+      "title": "월동",
+      "text": "성충으로 가을 일찍부터 이듬해 여름까지 돌 밑이나 낙엽 밑에서 월동한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]\n[필리핀]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLBX0069-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0069_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0069_2_th.jpg",
+      "alt": "먹노린재 1번째 사진 : 먹노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0069_2_th2.jpg",
+      "caption": "먹노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZLBX0069-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0069_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0069_1_th.jpg",
+      "alt": "먹노린재 2번째 사진 : 먹노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0069_1_th2.jpg",
+      "caption": "먹노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLBX0069-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408201124",
+      "description": "[MPME0408201124] 먹노린재 2002.08.24 / / 목포자연사박물관"
+    },
+    {
+      "id": "KPNE0303151213",
+      "description": "[KPNE0303151213] 먹노린재 1996.08.07 / / 경북대학교"
+    },
+    {
+      "id": "MPME0407281012",
+      "description": "[MPME0407281012] 먹노린재 2002.08.24 / / 목포자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLBX0069-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLBX0069&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:59+00:00",
+    "html_sha256": "3f212e255131342cccf1f8e8dddb6846213b2f3f46bb4833fb4416edc91f1eff",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

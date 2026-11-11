@@ -1,0 +1,107 @@
+{
+  "id": "ZQBG0002",
+  "name_ko": "굴뚝날도래",
+  "scientific_name": "Semblis phalaenoides (Linnaeus, 1758)",
+  "display_name": "굴뚝날도래",
+  "family_ko": "날도래과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "날도래목",
+      "name_latin": "Trichoptera"
+    },
+    "family": {
+      "name_ko": "날도래과",
+      "name_latin": "Phryganeidae"
+    },
+    "subfamily": {
+      "name_ko": "날도래아과",
+      "name_latin": "Phryganeinae"
+    },
+    "genus": {
+      "name_ko": "굴뚝날도래속",
+      "name_latin": "Semblis"
+    }
+  },
+  "taxonomy_text": "목 : 날도래목 (Trichoptera)\n과 : 날도래과 (Phryganeidae)\n아과 : 날도래아과 (Phryganeinae)\n속 : 굴뚝날도래속 (Semblis)",
+  "basic_information": {
+    "곤충명": "굴뚝날도래",
+    "학명": "Semblis phalaenoides (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "몸길이는 27 mm 내외이다. 더듬이의 길이가 앞날개의 길이와 비슷하며, 검정색을 띤다. 몸통 역시 검정색을 띠며, 뒷날개의 끝 부분에는 밤색의 굵은 줄 무늬가 있다. 날개는 전체적으로 아이보리색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": "머리 등면의 바탕색은 붉은빛을 띤 노란색이며 3줄의 고동색의 세로로 뻗은 무늬가 나 있고 옆면에도 1줄의 세로로 뻗은 무늬가 나 있다. 집은 나뭇잎 조각을 길다란 사각형 모양으로 잘라 원통 모양으로 지으며, 단발날도래와는 달리 나선형을 이루지 않는다.",
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아] 동시베리아지역\n[러시아] 극동지역\n[몽골]\n[러시아]\n[유럽]\n[러시아] 서시베리아지역",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 27 mm 내외이다. 더듬이의 길이가 앞날개의 길이와 비슷하며, 검정색을 띤다. 몸통 역시 검정색을 띠며, 뒷날개의 끝 부분에는 밤색의 굵은 줄 무늬가 있다. 날개는 전체적으로 아이보리색이다."
+    },
+    {
+      "title": "유충",
+      "text": "머리 등면의 바탕색은 붉은빛을 띤 노란색이며 3줄의 고동색의 세로로 뻗은 무늬가 나 있고 옆면에도 1줄의 세로로 뻗은 무늬가 나 있다. 집은 나뭇잎 조각을 길다란 사각형 모양으로 잘라 원통 모양으로 지으며, 단발날도래와는 달리 나선형을 이루지 않는다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아] 동시베리아지역\n[러시아] 극동지역\n[몽골]\n[러시아]\n[유럽]\n[러시아] 서시베리아지역"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZQBG0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/Q1/ZQBG0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/Q1/ZQBG0002_1_th.jpg",
+      "alt": "굴뚝날도래 1번째 사진 : 굴뚝날도래전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/Q1/ZQBG0002_1_th2.jpg",
+      "caption": "굴뚝날도래전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZQBG0002-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304072053",
+      "description": "[KNAE0304072053] 굴뚝날도래 2000.06.06 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303172008",
+      "description": "[KNAE0303172008] 굴뚝날도래 1991.05.22 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303172009",
+      "description": "[KNAE0303172009] 굴뚝날도래 1991.05.23 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZQBG0002.png",
+    "reference_image_id": "ZQBG0002-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T13:57:12.581518+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "b56c7aa0921dfc678b193bbc8e70e5af4a5f7c46193fbc4d2d39ae36b3db13de"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZQBG0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:25+00:00",
+    "html_sha256": "155908a4ccbe509d18e9be67367daf8db299ccdb2418d16913030061345e7122",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

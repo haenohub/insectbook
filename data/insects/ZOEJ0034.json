@@ -1,0 +1,110 @@
+{
+  "id": "ZOEJ0034",
+  "name_ko": "알모양우단풍뎅이",
+  "scientific_name": "Maladera cariniceps (Moser, 1915)",
+  "display_name": "알모양우단풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "검정풍뎅이아과",
+      "name_latin": "Melolonthinae"
+    },
+    "genus": {
+      "name_ko": "애우단풍뎅이속",
+      "name_latin": "Maladera"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 검정풍뎅이아과 (Melolonthinae)\n속 : 애우단풍뎅이속 (Maladera)",
+  "basic_information": {
+    "곤충명": "알모양우단풍뎅이",
+    "학명": "Maladera cariniceps (Moser, 1915)"
+  },
+  "information": {
+    "general_description": "만주, 일본에 분포하며, 몸은 난형으로 광택은 없는 흑갈색이나 아랫면은 밝은 적갈색이다. 머리는 두정부에 가로로 강모열이 이꼬, 머리방패는 광택이 강하고 앞쪽으로 좁아졌으며, 양옆은 강하게 상반하였고, 앞쪽의 중앙은 파였으며 바로 뒤쪽은 밭고랑처럼 가로 융기와 도랑이 있다. 초각은 10마디씩이나 때로는 9마디이며, 곤봉부는 암,수 모두 자루마디보다 짧다. 몸의 윗면은 대부분 흑갈색, 아랫면은 황적갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "만주, 일본에 분포하며, 몸은 난형으로 광택은 없는 흑갈색이나 아랫면은 밝은 적갈색이다. 머리는 두정부에 가로로 강모열이 이꼬, 머리방패는 광택이 강하고 앞쪽으로 좁아졌으며, 양옆은 강하게 상반하였고, 앞쪽의 중앙은 파였으며 바로 뒤쪽은 밭고랑처럼 가로 융기와 도랑이 있다. 초각은 10마디씩이나 때로는 9마디이며, 곤봉부는 암,수 모두 자루마디보다 짧다. 몸의 윗면은 대부분 흑갈색, 아랫면은 황적갈색이다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOEJ0034-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0034_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0034_2_th.jpg",
+      "alt": "알모양우단풍뎅이 1번째 사진 : 알모양우단풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0034_2_th2.jpg",
+      "caption": "알모양우단풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOEJ0034-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0034_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0034_1_th.jpg",
+      "alt": "알모양우단풍뎅이 2번째 사진 : 알모양우단풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0034_1_th2.jpg",
+      "caption": "알모양우단풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOEJ0034-1",
+  "specimen_examples": [
+    {
+      "id": "SSUE0201171052",
+      "description": "[SSUE0201171052] 알모양우단풍뎅이 2001.06.25 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0201171053",
+      "description": "[SSUE0201171053] 알모양우단풍뎅이 1981.11.11 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0201171054",
+      "description": "[SSUE0201171054] 알모양우단풍뎅이 1987.05.10 / / 성신여자대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOEJ0034-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOEJ0034&tabId=tab1",
+    "collected_at": "2026-11-04T14:14:37+00:00",
+    "html_sha256": "0154ed4dfbc9c7e79f70a9759b7786c81c7b342afe777d16b02603400e476bf0",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

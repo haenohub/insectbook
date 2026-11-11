@@ -1,0 +1,111 @@
+{
+  "id": "ZOAR0008",
+  "name_ko": "뿔거위벌레",
+  "scientific_name": "Byctiscus congener (Jekel, 1860)",
+  "display_name": "뿔거위벌레",
+  "family_ko": "거위벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "거위벌레과",
+      "name_latin": "Attelabidae"
+    },
+    "subfamily": {
+      "name_ko": "주둥이거위벌레아과",
+      "name_latin": "Rhynchitinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Byctiscus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 거위벌레과 (Attelabidae)\n아과 : 주둥이거위벌레아과 (Rhynchitinae)\n속 : (Byctiscus)",
+  "basic_information": {
+    "곤충명": "뿔거위벌레",
+    "학명": "Byctiscus congener (Jekel, 1860)"
+  },
+  "information": {
+    "general_description": "체장은 5.4-7.0mm정도이다. 시초가 모두 녹색이며, 몸은 짙은 청색이다. 수컷의 더듬이 제3절은 길이가 폭의 1.3-6배이뎌, 암컷은 1.4-1.8배이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "사과, 피나무, 황철나무, 자작나무, 난티나무, 고로쇠나무, 당단풍, 버드나무류를 기주식물로한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]",
+    "notes": "[보통종]\n[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체장은 5.4-7.0mm정도이다. 시초가 모두 녹색이며, 몸은 짙은 청색이다. 수컷의 더듬이 제3절은 길이가 폭의 1.3-6배이뎌, 암컷은 1.4-1.8배이다."
+    },
+    {
+      "title": "생태",
+      "text": "사과, 피나무, 황철나무, 자작나무, 난티나무, 고로쇠나무, 당단풍, 버드나무류를 기주식물로한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]\n[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAR0008-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0008_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0008_1_th.jpg",
+      "alt": "뿔거위벌레 1번째 사진 : 뿔거위벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0008_1_th2.jpg",
+      "caption": "뿔거위벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAR0008-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0204171182",
+      "description": "[SNUE0204171182] 뿔거위벌레 1992.05.09 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0204171183",
+      "description": "[SNUE0204171183] 뿔거위벌레 1990.05.28 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0204171184",
+      "description": "[SNUE0204171184] 뿔거위벌레 1990.05.28 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAR0008-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAR0008&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:10+00:00",
+    "html_sha256": "ec6194b23fb6666cdf5d74d5e049078449e7b950458adf83df6c258ed052bc40",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "id": "ZOEJ0035",
+  "name_ko": "밤색우단풍뎅이",
+  "scientific_name": "Maladera castanea (Arrow, 1913)",
+  "display_name": "밤색우단풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "검정풍뎅이아과",
+      "name_latin": "Melolonthinae"
+    },
+    "genus": {
+      "name_ko": "애우단풍뎅이속",
+      "name_latin": "Maladera"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 검정풍뎅이아과 (Melolonthinae)\n속 : 애우단풍뎅이속 (Maladera)",
+  "basic_information": {
+    "곤충명": "밤색우단풍뎅이",
+    "학명": "Maladera castanea (Arrow, 1913)"
+  },
+  "information": {
+    "general_description": "성충의 몸길이는 8~10 mm이며 몸은 긴 난형으로 체색은 적갈색이나, 개체에 따라 짙은 것과 엷은 것이 있다. 광선에 따라 청남색의 반사광이 있다. 등쪽은 보통 무지개빛 광채가 있고, 곳곳에 황색 가시털이 있으나 배쪽은 적갈색으로써 진주빛 광택이 강하다. 촉각은 황색이며 10마디인데 수컷의 곤봉부는 자루마디보다 약간 길고, 암컷은 훨씬 짧다. 날개에 9개의 점각이 세로로 나 있고 날개의 가장자리에는 자모(刺毛)가 있다. 앞가슴 등쪽의 가장자리와 다리에도 자모가 나 있으며 뒷다리의 경절이 넓다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": "유충의 몸길이는 약 15 mm이고 체색은 엷은 황백색이며 몸의 제5~9절에 가로로 3줄의 띠가 있고 거기에 짧은 털이 총생(叢生)되어 있다. 배 끝 아래에 불규칙한 짧은 털이 드문드문 나 있고 그 밑에 1줄의 규칙적인 자모가 가로로 나있다.",
+    "egg": null,
+    "pupa": "번데기는 담갈색이며 1쌍의 자모가 나 있고 크기는 약 8 mm이다.",
+    "ecology": "성충은 연 1회 4월 중순~6월 하순에 나타나며 1세대 기간은 125일이다. 난 기간은 19일이고 유충 기간은 91일이며 용 기간은 15일이다. 7월 중순~9월 하순에 우화한다.",
+    "habits": "성충은 밤에 나와 나무의 눈, 잎을 식해하고 유충은 뿌리를 갉아 먹는다.",
+    "season": null,
+    "overwintering": "성충으로 땅 속에서 월동한다.",
+    "distribution": "[일본]\n[대만]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충의 몸길이는 8~10 mm이며 몸은 긴 난형으로 체색은 적갈색이나, 개체에 따라 짙은 것과 엷은 것이 있다. 광선에 따라 청남색의 반사광이 있다. 등쪽은 보통 무지개빛 광채가 있고, 곳곳에 황색 가시털이 있으나 배쪽은 적갈색으로써 진주빛 광택이 강하다. 촉각은 황색이며 10마디인데 수컷의 곤봉부는 자루마디보다 약간 길고, 암컷은 훨씬 짧다. 날개에 9개의 점각이 세로로 나 있고 날개의 가장자리에는 자모(刺毛)가 있다. 앞가슴 등쪽의 가장자리와 다리에도 자모가 나 있으며 뒷다리의 경절이 넓다."
+    },
+    {
+      "title": "번데기",
+      "text": "번데기는 담갈색이며 1쌍의 자모가 나 있고 크기는 약 8 mm이다."
+    },
+    {
+      "title": "유충",
+      "text": "유충의 몸길이는 약 15 mm이고 체색은 엷은 황백색이며 몸의 제5~9절에 가로로 3줄의 띠가 있고 거기에 짧은 털이 총생(叢生)되어 있다. 배 끝 아래에 불규칙한 짧은 털이 드문드문 나 있고 그 밑에 1줄의 규칙적인 자모가 가로로 나있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 연 1회 4월 중순~6월 하순에 나타나며 1세대 기간은 125일이다. 난 기간은 19일이고 유충 기간은 91일이며 용 기간은 15일이다. 7월 중순~9월 하순에 우화한다."
+    },
+    {
+      "title": "습성",
+      "text": "성충은 밤에 나와 나무의 눈, 잎을 식해하고 유충은 뿌리를 갉아 먹는다."
+    },
+    {
+      "title": "월동",
+      "text": "성충으로 땅 속에서 월동한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[대만]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOEJ0035-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0035_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0035_1_th.jpg",
+      "alt": "밤색우단풍뎅이 1번째 사진 : 밤색우단풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0035_1_th2.jpg",
+      "caption": "밤색우단풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOEJ0035-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0301292028",
+      "description": "[UIBE0301292028] 밤색우단풍뎅이 1999.09.04 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301292029",
+      "description": "[UIBE0301292029] 밤색우단풍뎅이 1999.09.04 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301292030",
+      "description": "[UIBE0301292030] 밤색우단풍뎅이 1999.09.04 / / 인천대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "감나무",
+      "scientific_name": "Diospyros kaki Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "사과나무",
+      "scientific_name": "Malus domestica (Suckow) Borkh."
+    },
+    {
+      "group": "식물",
+      "name_ko": "양벚나무",
+      "scientific_name": "Prunus avium (L.) L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "자두나무",
+      "scientific_name": "Prunus salicina Lindl."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOEJ0035-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOEJ0035&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:16+00:00",
+    "html_sha256": "54ad1db09c8168f6449bcc17fd3ab973798b6fe15a0cb8012e48a79ac48f92fd",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

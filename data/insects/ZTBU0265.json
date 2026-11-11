@@ -1,0 +1,103 @@
+{
+  "id": "ZTBU0265",
+  "name_ko": "흰줄박이맵시벌",
+  "scientific_name": "Achaius oratorius albizonellus (Matsumura, 1912)",
+  "display_name": "흰줄박이맵시벌",
+  "family_ko": "맵시벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "맵시벌과",
+      "name_latin": "Ichneumonidae"
+    },
+    "subfamily": {
+      "name_ko": "맵시벌아과",
+      "name_latin": "Ichneumoninae"
+    },
+    "genus": {
+      "name_ko": "흰줄박이맵시벌속",
+      "name_latin": "Achaius"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 맵시벌과 (Ichneumonidae)\n아과 : 맵시벌아과 (Ichneumoninae)\n속 : 흰줄박이맵시벌속 (Achaius)",
+  "basic_information": {
+    "곤충명": "흰줄박이맵시벌",
+    "학명": "Achaius oratorius albizonellus (Matsumura, 1912)"
+  },
+  "information": {
+    "general_description": "몸은 흑색이나 앞머리, 머리방패, 큰턱, 겹눈의 안슭, 뺨 무늬, 더듬이의 자루마디의 아랫면, 앞가 슴등판 뒷가두리의 양쪽, 날개 밑, 그 바로 아래 무늬, 작은방패판, 처음 3배마디의 뒷가두리와 꼬 리마디의 무늬(♀에서는 제5·6·7배마디에도 무늬가 있다) 등은 황백색이다. 머리와 가슴에는 점각이 배게 있고 날개는 반투명하며 다소 암황색이다. 다리는 암황색이나 앞·가운데다리의 넓적다리마디 윗면과 종아리마디 끝, 뒷다리의 넓적다리마디까지는 흑색이다. 13∼15mm",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸은 흑색이나 앞머리, 머리방패, 큰턱, 겹눈의 안슭, 뺨 무늬, 더듬이의 자루마디의 아랫면, 앞가 슴등판 뒷가두리의 양쪽, 날개 밑, 그 바로 아래 무늬, 작은방패판, 처음 3배마디의 뒷가두리와 꼬 리마디의 무늬(♀에서는 제5·6·7배마디에도 무늬가 있다) 등은 황백색이다. 머리와 가슴에는 점각이 배게 있고 날개는 반투명하며 다소 암황색이다. 다리는 암황색이나 앞·가운데다리의 넓적다리마디 윗면과 종아리마디 끝, 뒷다리의 넓적다리마디까지는 흑색이다. 13∼15mm"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBU0265-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0265_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0265_1_th.jpg",
+      "alt": "흰줄박이맵시벌 1번째 사진 : 흰줄박이맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0265_1_th2.jpg",
+      "caption": "흰줄박이맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBU0265-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305261138",
+      "description": "[YNUE0305261138] 흰줄박이맵시벌 1956.05.08 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305301018",
+      "description": "[YNUE0305301018] 흰줄박이맵시벌 1991.06.05 / / 영남대학교"
+    },
+    {
+      "id": "KNAE325302",
+      "description": "[KNAE325302] 흰줄박이맵시벌 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTBU0265-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBU0265&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:52+00:00",
+    "html_sha256": "151b5b2f82ea84a3ebb755816cc4bdd1329aa05ba6b02ad97d8849d283063fbc",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

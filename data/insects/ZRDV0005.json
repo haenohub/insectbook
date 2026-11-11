@@ -1,0 +1,162 @@
+{
+  "id": "ZRDV0005",
+  "name_ko": "거꾸로여덟팔나비",
+  "scientific_name": "Araschnia burejana Bremer, 1861",
+  "display_name": "거꾸로여덟팔나비",
+  "family_ko": "네발나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "네발나비과",
+      "name_latin": "Nymphalidae"
+    },
+    "subfamily": {
+      "name_ko": "네발나비아과",
+      "name_latin": "Nymphalinae"
+    },
+    "genus": {
+      "name_ko": "거꾸로여덟팔나비속",
+      "name_latin": "Araschnia"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 네발나비과 (Nymphalidae)\n아과 : 네발나비아과 (Nymphalinae)\n속 : 거꾸로여덟팔나비속 (Araschnia)",
+  "basic_information": {
+    "곤충명": "거꾸로여덟팔나비",
+    "학명": "Araschnia burejana Bremer, 1861"
+  },
+  "information": {
+    "general_description": "암컷은 수컷에 비하여 날개모양이 둥그스름하고 윗면의 얼룩무늬가 크게 발달하고 있다. 봄형은 날개 윗면이 흑갈색 바탕에 등황색의 그물눈무늬가 있으나 여름형은 중아에 흰띠가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "암컷은 약간 어두운 곳에 자라는 기주식물의 잎 뒷면에 세로로 겹쳐 2∼4개씩 산란한다. 계절형에서 크게 차이가 나 자칫하면 서로 다른 종으로 알기 쉽다.",
+    "habits": "낮은 산지의 계곡 편평한 곳이나 길가 주변에서 서식한다. 습지에 모이거나 고추나무, 얇은잎고광나무, 쉬땅나무, 마타리 등의 꽃에 잘 모여 흡밀한다.",
+    "season": null,
+    "overwintering": "번데기",
+    "distribution": "[러시아]\n[일본]\n[중국]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷은 수컷에 비하여 날개모양이 둥그스름하고 윗면의 얼룩무늬가 크게 발달하고 있다. 봄형은 날개 윗면이 흑갈색 바탕에 등황색의 그물눈무늬가 있으나 여름형은 중아에 흰띠가 있다."
+    },
+    {
+      "title": "생태",
+      "text": "암컷은 약간 어두운 곳에 자라는 기주식물의 잎 뒷면에 세로로 겹쳐 2∼4개씩 산란한다. 계절형에서 크게 차이가 나 자칫하면 서로 다른 종으로 알기 쉽다."
+    },
+    {
+      "title": "습성",
+      "text": "낮은 산지의 계곡 편평한 곳이나 길가 주변에서 서식한다. 습지에 모이거나 고추나무, 얇은잎고광나무, 쉬땅나무, 마타리 등의 꽃에 잘 모여 흡밀한다."
+    },
+    {
+      "title": "월동",
+      "text": "번데기"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDV0005-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0005_4.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0005_4.jpg",
+      "alt": "거꾸로여덟팔나비 1번째 사진 : 거꾸로여덟팔나비 수컷 여름형 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0005_4_th2.jpg",
+      "caption": "거꾸로여덟팔나비 수컷 여름형 이미지",
+      "photographed_at": "20060723",
+      "location": null,
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRDV0005-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0005_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0005_3.jpg",
+      "alt": "거꾸로여덟팔나비 2번째 사진 : 거꾸로여덟팔나비 봄형 암컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0005_3_th2.jpg",
+      "caption": "거꾸로여덟팔나비 봄형 암컷 이미지",
+      "photographed_at": "20060520",
+      "location": null,
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRDV0005-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0005_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0005_2_th.jpg",
+      "alt": "거꾸로여덟팔나비 3번째 사진 : 거꾸로여덟팔나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0005_2_th2.jpg",
+      "caption": "거꾸로여덟팔나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDV0005-4",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0005_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0005_1_th.jpg",
+      "alt": "거꾸로여덟팔나비 4번째 사진 : 거꾸로여덟팔나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0005_1_th2.jpg",
+      "caption": "거꾸로여덟팔나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDV0005-1",
+  "specimen_examples": [
+    {
+      "id": "SJNE0306201134",
+      "description": "[SJNE0306201134] 거꾸로여덟팔나비 2002.06.13 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0306201135",
+      "description": "[SJNE0306201135] 거꾸로여덟팔나비 2002.06.13 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0306201136",
+      "description": "[SJNE0306201136] 거꾸로여덟팔나비 2002.06.13 / / 상주대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "거북꼬리",
+      "scientific_name": "Boehmeria silvestrii (Pamp.) W.T.Wang"
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDV0005.png",
+    "reference_image_id": "ZRDV0005-3",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T17:28:53.751670+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "73420835a36cfa10fe80a6a7903609fcfa0b94b7258f56db15db5d05d5aaa9c3"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDV0005&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:47+00:00",
+    "html_sha256": "13c0281e3340f87def8fece54ae0d1b4449c78cc9a68ca24b935d3a42ffba073",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "ZSEN0014",
+  "name_ko": "황등에붙이",
+  "scientific_name": "Atylotus horvathi (Szilády, 1926)",
+  "display_name": "황등에붙이",
+  "family_ko": "등에과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "등에상과",
+      "name_latin": "Tabanoidea"
+    },
+    "family": {
+      "name_ko": "등에과",
+      "name_latin": "Tabanidae"
+    },
+    "subfamily": {
+      "name_ko": "등에아과",
+      "name_latin": "Tabaninae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Atylotus"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 등에상과 (Tabanoidea)\n과 : 등에과 (Tabanidae)\n아과 : 등에아과 (Tabaninae)\n속 : (Atylotus)",
+  "basic_information": {
+    "곤충명": "황등에붙이",
+    "학명": "Atylotus horvathi (Szilády, 1926)"
+  },
+  "information": {
+    "general_description": "체장: 12-14mm. 머리는 반구형으로 아주 크며 가슴폭의 1.5배정도되고 황갈색의 짧은 털로 덮임. 앞이마는 작고 수컷은 회백색 가루로, 암컷은 황회색 가루로 덮임. 앞이마 중앙에 1개의 세로홈. 입은 돌출하여 찔러 흡수하는데 적합. 눈은 황갈색. 가슴과 배부위도 황갈색 털로 덮임. 배의 제1-4마디에는 등황색의 측무늬.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 물가 주변의 잡초에 산란. 유충은 물가 주변에 서식. 암컷 성충은 정온동물의 피를 빨아먹으며 여러가지 병을 전파. 수컷은 주로 꽃가루나 수액 섭취.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체장: 12-14mm. 머리는 반구형으로 아주 크며 가슴폭의 1.5배정도되고 황갈색의 짧은 털로 덮임. 앞이마는 작고 수컷은 회백색 가루로, 암컷은 황회색 가루로 덮임. 앞이마 중앙에 1개의 세로홈. 입은 돌출하여 찔러 흡수하는데 적합. 눈은 황갈색. 가슴과 배부위도 황갈색 털로 덮임. 배의 제1-4마디에는 등황색의 측무늬."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 물가 주변의 잡초에 산란. 유충은 물가 주변에 서식. 암컷 성충은 정온동물의 피를 빨아먹으며 여러가지 병을 전파. 수컷은 주로 꽃가루나 수액 섭취."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSEN0014-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEN0014_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEN0014_1_th.jpg",
+      "alt": "황등에붙이 1번째 사진 : 황등에붙이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEN0014_1_th2.jpg",
+      "caption": "황등에붙이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSEN0014-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0304061060",
+      "description": "[UIBE0304061060] 황등에붙이 1995.08.15 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0304061061",
+      "description": "[UIBE0304061061] 황등에붙이 1995.08.15 / / 인천대학교"
+    },
+    {
+      "id": "ENHE0605231011",
+      "description": "[ENHE0605231011] 황등에붙이 1974.08.08 / / 이화여자대학교 자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZSEN0014-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSEN0014&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:53+00:00",
+    "html_sha256": "0d9de62224d9c9672d9250d6ac33c52cc960fba3c4175ceb89dda836b0536ab2",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

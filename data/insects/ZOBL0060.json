@@ -1,0 +1,133 @@
+{
+  "id": "ZOBL0060",
+  "name_ko": "알락수염붉은산꽃하늘소",
+  "scientific_name": "Stictoleptura (Variileptura) variicornis variicornis (Dalman, 1817)",
+  "display_name": "알락수염붉은산꽃하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "꽃하늘소아과",
+      "name_latin": "Lepturinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Stictoleptura"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 꽃하늘소아과 (Lepturinae)\n속 : (Stictoleptura)",
+  "basic_information": {
+    "곤충명": "알락수염붉은산꽃하늘소",
+    "학명": "Stictoleptura (Variileptura) variicornis variicornis (Dalman, 1817)"
+  },
+  "information": {
+    "general_description": "몸길이는 15~22mm 이다. 몸색은 붉지만 앞가슴등판은 흑색이며 더듬이는 황백색이나 붉은 백색이다. 딱지날개는 뒤쪽이 좁고 원뿔 모양이며 끝은 날카롭지않다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[몽골]\n[러시아]\n[중국]\n[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 15~22mm 이다. 몸색은 붉지만 앞가슴등판은 흑색이며 더듬이는 황백색이나 붉은 백색이다. 딱지날개는 뒤쪽이 좁고 원뿔 모양이며 끝은 날카롭지않다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[몽골]\n[러시아]\n[중국]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0060-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0060_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0060_1_th.jpg",
+      "alt": "알락수염붉은산꽃하늘소 1번째 사진 : 알락수염붉은산꽃하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0060_1_th2.jpg",
+      "caption": "알락수염붉은산꽃하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0060-1",
+  "specimen_examples": [
+    {
+      "id": "SJNE0301031127",
+      "description": "[SJNE0301031127] 알락수염붉은산꽃하늘소 2000.08.30 / / 상주대학교"
+    },
+    {
+      "id": "SNUE0204204104",
+      "description": "[SNUE0204204104] 알락수염붉은산꽃하늘소 1974.07.21 / / 서울대학교"
+    },
+    {
+      "id": "HNUE0408171013",
+      "description": "[HNUE0408171013] 알락수염붉은산꽃하늘소 1997.08.03 / / 한남대학교 자연사박물관"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "느릅나무",
+      "scientific_name": "Ulmus davidiana var. japonica (Rehder) Nakai"
+    },
+    {
+      "group": "식물",
+      "name_ko": "분비나무",
+      "scientific_name": "Abies nephrolepis (Trautv. ex Maxim.) Maxim."
+    },
+    {
+      "group": "식물",
+      "name_ko": "오리나무",
+      "scientific_name": "Alnus japonica (Thunb.) Steud."
+    },
+    {
+      "group": "식물",
+      "name_ko": "잎갈나무",
+      "scientific_name": "Larix gmelinii var. olgensis (A.Henry) Ostenf. & Syrach"
+    },
+    {
+      "group": "식물",
+      "name_ko": "잣나무",
+      "scientific_name": "Pinus koraiensis Siebold & Zucc."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0060-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0060&tabId=tab1",
+    "collected_at": "2026-11-04T14:14:32+00:00",
+    "html_sha256": "0ba6cbf5efaf5c5148c2cc33b090237e0a72ff0c7b0bc30feed7a4647b6e7485",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

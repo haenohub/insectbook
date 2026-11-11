@@ -1,0 +1,107 @@
+{
+  "id": "ZREL0217",
+  "name_ko": "굵은띠비단명나방",
+  "scientific_name": "Arippara indicator Walker, 1864",
+  "display_name": "굵은띠비단명나방",
+  "family_ko": "명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "명나방과",
+      "name_latin": "Pyralidae"
+    },
+    "subfamily": {
+      "name_ko": "비단명나방아과",
+      "name_latin": "Pyralinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Arippara"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 명나방과 (Pyralidae)\n아과 : 비단명나방아과 (Pyralinae)\n속 : (Arippara)",
+  "basic_information": {
+    "곤충명": "굵은띠비단명나방",
+    "학명": "Arippara indicator Walker, 1864"
+  },
+  "information": {
+    "general_description": "일본 타이완 수마트라에 분포하며 머리는 갈색이며 수컷은 다소 흑갈색이 가미되었다. 더듬이는 흑갈색이며 작은털을 가진 실모양으로 수컷의 경우에는 병절에 흑갈색의 돌기가 있다. 아랫입술수염은 위로 향하며 인편이 섞여 있다. 앞날개는 갈색바탕으로 내횡선의 안쪽과 외횡선 바깥쪽은 농황갈색이며 그 사이부분은 담갈색띠를 형성한다. 내횡선은 전연 1/3에서 시작되어 후연 1/3에 닿으며 거의 직선이 가까우나 외횡선은 전연 2/3를 지난 지점에서 출발하여 후연 2/3에 도달하며 중앙에서 구부러져 후연쪽의 나비는 전연쪽 나비의 절반정도이다. 뒷날개는 농황갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": "녹나무 잎을 가해",
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "일본 타이완 수마트라에 분포하며 머리는 갈색이며 수컷은 다소 흑갈색이 가미되었다. 더듬이는 흑갈색이며 작은털을 가진 실모양으로 수컷의 경우에는 병절에 흑갈색의 돌기가 있다. 아랫입술수염은 위로 향하며 인편이 섞여 있다. 앞날개는 갈색바탕으로 내횡선의 안쪽과 외횡선 바깥쪽은 농황갈색이며 그 사이부분은 담갈색띠를 형성한다. 내횡선은 전연 1/3에서 시작되어 후연 1/3에 닿으며 거의 직선이 가까우나 외횡선은 전연 2/3를 지난 지점에서 출발하여 후연 2/3에 도달하며 중앙에서 구부러져 후연쪽의 나비는 전연쪽 나비의 절반정도이다. 뒷날개는 농황갈색이다."
+    },
+    {
+      "title": "유충",
+      "text": "녹나무 잎을 가해"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0217-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0217_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0217_1_th.jpg",
+      "alt": "굵은띠비단명나방 1번째 사진 : 굵은띠비단명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0217_1_th2.jpg",
+      "caption": "굵은띠비단명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0217-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0305021053",
+      "description": "[FRIE0305021053] 굵은띠비단명나방 1983.08.07 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0301101040",
+      "description": "[FRIE0301101040] 굵은띠비단명나방 2002.06.24 / / 국립산림과학원"
+    },
+    {
+      "id": "UIBE0203211183",
+      "description": "[UIBE0203211183] 굵은띠비단명나방 1999.08.07 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZREL0217.png",
+    "reference_image_id": "ZREL0217-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T14:07:10.893709+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "036168190dbc16e8653a00cbb6db6c6dce185f80128d068f7a5cc91567dd6f42"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0217&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:28+00:00",
+    "html_sha256": "bf03bd85c5d2a99ee0295cb089ed88626bc21dce29c479a6e8f707b7ef388c42",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

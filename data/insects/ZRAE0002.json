@@ -1,0 +1,115 @@
+{
+  "id": "ZRAE0002",
+  "name_ko": "얼룩나방",
+  "scientific_name": "Chelonomorpha japana Motschulsky, [1861]",
+  "display_name": "얼룩나방",
+  "family_ko": "밤나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "밤나방과",
+      "name_latin": "Noctuidae"
+    },
+    "subfamily": {
+      "name_ko": "얼룩나방아과",
+      "name_latin": "Agaristinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Chelonomorpha"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 밤나방과 (Noctuidae)\n아과 : 얼룩나방아과 (Agaristinae)\n속 : (Chelonomorpha)",
+  "basic_information": {
+    "곤충명": "얼룩나방",
+    "학명": "Chelonomorpha japana Motschulsky, [1861]"
+  },
+  "information": {
+    "general_description": "날개편 길이 28mm. 앞날개에는 중실 중에 2개, 제 1맥을 걸쳐서 1개의 커다란 황백색 무늬가 있고, 외연 가까이에 황백섹의 작은 줄무늬가 있다. 시정 부근에 황백색 무늬가 있어 흑색의 시맥에 의해 몇 개로 나누어진다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6월경에 출현",
+    "habits": "낮에 날아다닌다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 28mm. 앞날개에는 중실 중에 2개, 제 1맥을 걸쳐서 1개의 커다란 황백색 무늬가 있고, 외연 가까이에 황백섹의 작은 줄무늬가 있다. 시정 부근에 황백색 무늬가 있어 흑색의 시맥에 의해 몇 개로 나누어진다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6월경에 출현"
+    },
+    {
+      "title": "습성",
+      "text": "낮에 날아다닌다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRAE0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAE0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAE0002_1_th.jpg",
+      "alt": "얼룩나방 1번째 사진 : 얼룩나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAE0002_1_th2.jpg",
+      "caption": "얼룩나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRAE0002-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE102334",
+      "description": "[KNAE102334] 얼룩나방 / / 국립수목원"
+    },
+    {
+      "id": "FRIE0305121037",
+      "description": "[FRIE0305121037] 얼룩나방 1987.05.18 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0305121039",
+      "description": "[FRIE0305121039] 얼룩나방 1987.05.21 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRAE0002-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRAE0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:47+00:00",
+    "html_sha256": "7290908efd831690e271604036386978fb6fd4a9e8d28ac2e287aa846abede96",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

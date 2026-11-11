@@ -1,0 +1,114 @@
+{
+  "id": "ZTDO0074",
+  "name_ko": "애황종아리잎벌",
+  "scientific_name": "Macrophya coxalis (Motschulsky, 1866)",
+  "display_name": "애황종아리잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "잎벌아과",
+      "name_latin": "Tenthredininae"
+    },
+    "genus": {
+      "name_ko": "검정잎벌속",
+      "name_latin": "Macrophya"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 잎벌아과 (Tenthredininae)\n속 : 검정잎벌속 (Macrophya)",
+  "basic_information": {
+    "곤충명": "애황종아리잎벌",
+    "학명": "Macrophya coxalis (Motschulsky, 1866)"
+  },
+  "information": {
+    "general_description": "암컷의 몸은 흑색이다. 머리방패, 윗입술, 큰턱 기부의 바깥쪽, 앞가슴등판의 뒷슭, 어깨판의 앞쪽 반은 백색이다. 더듬이는 흑색, 날개는 거의 투명하고 맥과 연문은 대부분 흑갈색이다. 다리는 흑색이고 ,몸은 비교적 짧고 굵으며 머리와 가슴에는 뚜렷한 점각이 있다. 수컷은 앞다리와 가운데다리 대부분이 황백색이고 뒷다리의 넓적다리의 황백색부는 암컷보다 작다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷의 몸은 흑색이다. 머리방패, 윗입술, 큰턱 기부의 바깥쪽, 앞가슴등판의 뒷슭, 어깨판의 앞쪽 반은 백색이다. 더듬이는 흑색, 날개는 거의 투명하고 맥과 연문은 대부분 흑갈색이다. 다리는 흑색이고 ,몸은 비교적 짧고 굵으며 머리와 가슴에는 뚜렷한 점각이 있다. 수컷은 앞다리와 가운데다리 대부분이 황백색이고 뒷다리의 넓적다리의 황백색부는 암컷보다 작다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0074-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0074_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0074_2_th.jpg",
+      "alt": "애황종아리잎벌 1번째 사진 : 애황종아리잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0074_2_th2.jpg",
+      "caption": "애황종아리잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTDO0074-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0074_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0074_1_th.jpg",
+      "alt": "애황종아리잎벌 2번째 사진 : 애황종아리잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0074_1_th2.jpg",
+      "caption": "애황종아리잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0074-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305121032",
+      "description": "[YNUE0305121032] 애황종아리잎벌 1982.04.18 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305121033",
+      "description": "[YNUE0305121033] 애황종아리잎벌 1990.05.13 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305121034",
+      "description": "[YNUE0305121034] 애황종아리잎벌 1991.05.04 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDO0074-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0074&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:22+00:00",
+    "html_sha256": "1ec07b8e411973a7c56bea1c31fdcbfd6c5fcafcc5c9729c13d3b00597eb1e38",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "id": "ZOBL0123",
+  "name_ko": "홍띠하늘소",
+  "scientific_name": "Phymatodes (Phymatodes) maaki maaki (Kraatz, 1879)",
+  "display_name": "홍띠하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "하늘소아과",
+      "name_latin": "Cerambycinae"
+    },
+    "genus": {
+      "name_ko": "띠하늘소속",
+      "name_latin": "Phymatodes"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 하늘소아과 (Cerambycinae)\n속 : 띠하늘소속 (Phymatodes)",
+  "basic_information": {
+    "곤충명": "홍띠하늘소",
+    "학명": "Phymatodes (Phymatodes) maaki maaki (Kraatz, 1879)"
+  },
+  "information": {
+    "general_description": "체장 6.0~10.0 mm. 몸은 검은색이고, 딱지날개 기부 2/5는 적갈색이며, 뒤쪽으로 굵은 검은색의 2개의 띠와 얇은 흰띠가 있다. 앞가슴등판의 등면에는 미세한 점각들과 연모들이 밀생한다. 측면은 둥글다. 딱지날개의 양 가장자리는 평행하다.",
+    "adult": null,
+    "adult_male": "각 다리의 퇴절은 현저히 굵다.",
+    "adult_female": "각 다리의 퇴절은 굵지만, 확연히 각을 이루며 굵지는 않다.",
+    "larva": "다리마디는 매우 작다. 머리는 전체적으로 삼각형이다. 앞쪽 옆가장자리에는 연모가 밀생한다.",
+    "egg": "알에 대한 특징이 알려지지 않았다.",
+    "pupa": "앞가슴등판의 앞 가장자리의 등면으로 볼록하고 전체적으로 털이 적다. 체장은 11 mm 내외이다.",
+    "ecology": "성충은 낮은 산지에 서식하며, 유충은 포도류의 고사목에 기생한다.",
+    "habits": "포도류의 고사목(덩굴)에 날아오기도 한다.",
+    "season": null,
+    "overwintering": "유충",
+    "distribution": null,
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": "경제적 피해 유발 해충으로 알려져 있지 않아, 종 특이적 방제법은 현재까지 없다.",
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체장 6.0~10.0 mm. 몸은 검은색이고, 딱지날개 기부 2/5는 적갈색이며, 뒤쪽으로 굵은 검은색의 2개의 띠와 얇은 흰띠가 있다. 앞가슴등판의 등면에는 미세한 점각들과 연모들이 밀생한다. 측면은 둥글다. 딱지날개의 양 가장자리는 평행하다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "각 다리의 퇴절은 현저히 굵다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "각 다리의 퇴절은 굵지만, 확연히 각을 이루며 굵지는 않다."
+    },
+    {
+      "title": "번데기",
+      "text": "앞가슴등판의 앞 가장자리의 등면으로 볼록하고 전체적으로 털이 적다. 체장은 11 mm 내외이다."
+    },
+    {
+      "title": "유충",
+      "text": "다리마디는 매우 작다. 머리는 전체적으로 삼각형이다. 앞쪽 옆가장자리에는 연모가 밀생한다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 낮은 산지에 서식하며, 유충은 포도류의 고사목에 기생한다."
+    },
+    {
+      "title": "습성",
+      "text": "포도류의 고사목(덩굴)에 날아오기도 한다."
+    },
+    {
+      "title": "월동",
+      "text": "유충"
+    },
+    {
+      "title": "방제법",
+      "text": "경제적 피해 유발 해충으로 알려져 있지 않아, 종 특이적 방제법은 현재까지 없다."
+    },
+    {
+      "title": "알",
+      "text": "알에 대한 특징이 알려지지 않았다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0123-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0123_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0123_1_th.jpg",
+      "alt": "홍띠하늘소 1번째 사진 : 홍띠하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0123_1_th2.jpg",
+      "caption": "홍띠하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0123-1",
+  "specimen_examples": [
+    {
+      "id": "ADUE0303081025",
+      "description": "[ADUE0303081025] 홍띠하늘소 1995.05.20 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0303081026",
+      "description": "[ADUE0303081026] 홍띠하늘소 1990.05.30 / / 안동대학교"
+    },
+    {
+      "id": "HNUE0408171076",
+      "description": "[HNUE0408171076] 홍띠하늘소 1997.06.01 / / 한남대학교 자연사박물관"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "포도",
+      "scientific_name": "Vitis vinifera L."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0123-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0123&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:36+00:00",
+    "html_sha256": "a8594063d30415e9590e59e97ce3918efee8eb8687c865080847308c67a40137",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": "ZOBT0169",
+  "name_ko": "날개잎벌레",
+  "scientific_name": "Potaninia cyrtonoides (Jacoby, 1885)",
+  "display_name": "날개잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "잎벌레아과",
+      "name_latin": "Chrysomelinae"
+    },
+    "genus": {
+      "name_ko": "날개잎벌레속",
+      "name_latin": "Potaninia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 잎벌레아과 (Chrysomelinae)\n속 : 날개잎벌레속 (Potaninia)",
+  "basic_information": {
+    "곤충명": "날개잎벌레",
+    "학명": "Potaninia cyrtonoides (Jacoby, 1885)"
+  },
+  "information": {
+    "general_description": "몸길이는 4.8~6.0mm, 몸색깔은 동흑색이다. 앞날개 어깨부분에 융기가 없으며 뒷날개는 퇴화되었다.더듬이는 폭이 넓다. 앞가슴등판과 앞날개는 강한 점각. 한국, 일본(혼슈,시코쿠,큐슈)에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 5월에 좀개잎나무에서 관찰. 가늘고 긴 황백색 알을 잎에 산란. 유충은 단독생활을 하며 땅속에 들어가 용화한다.",
+    "habits": "기주식물 거북꼬리.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 4.8~6.0mm, 몸색깔은 동흑색이다. 앞날개 어깨부분에 융기가 없으며 뒷날개는 퇴화되었다.더듬이는 폭이 넓다. 앞가슴등판과 앞날개는 강한 점각. 한국, 일본(혼슈,시코쿠,큐슈)에 분포되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 5월에 좀개잎나무에서 관찰. 가늘고 긴 황백색 알을 잎에 산란. 유충은 단독생활을 하며 땅속에 들어가 용화한다."
+    },
+    {
+      "title": "습성",
+      "text": "기주식물 거북꼬리."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0169-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0169_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0169_1_th.jpg",
+      "alt": "날개잎벌레 1번째 사진 : 날개잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0169_1_th2.jpg",
+      "caption": "날개잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0169-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0407221137",
+      "description": "[KPNE0407221137] 날개잎벌레 1998.05.28 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0407221138",
+      "description": "[KPNE0407221138] 날개잎벌레 1998.05.29 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0407221139",
+      "description": "[KPNE0407221139] 날개잎벌레 1998.06.07 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBT0169.png",
+    "reference_image_id": "ZOBT0169-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T16:10:27.270922+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "541e8099d2b44d0172b09a18dd11d512c20845317bfaa697c138537e11242c69"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0169&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:17+00:00",
+    "html_sha256": "9db257a9cfe317f90bf5a93c85bdbfb6223c6d0fda0ffa8b6948448aeb607e1e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

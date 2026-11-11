@@ -1,0 +1,126 @@
+{
+  "id": "ZLAN0002",
+  "name_ko": "꽈리허리노린재",
+  "scientific_name": "Acanthocoris sordidus (Thunberg, 1783)",
+  "display_name": "꽈리허리노린재",
+  "family_ko": "허리노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "허리노린재상과",
+      "name_latin": "Coreoidea"
+    },
+    "family": {
+      "name_ko": "허리노린재과",
+      "name_latin": "Coreidae"
+    },
+    "subfamily": {
+      "name_ko": "허리노린재아과",
+      "name_latin": "Coreinae"
+    },
+    "genus": {
+      "name_ko": "꽈리허리노린재속",
+      "name_latin": "Acanthocoris"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 허리노린재상과 (Coreoidea)\n과 : 허리노린재과 (Coreidae)\n아과 : 허리노린재아과 (Coreinae)\n속 : 꽈리허리노린재속 (Acanthocoris)",
+  "basic_information": {
+    "곤충명": "꽈리허리노린재",
+    "학명": "Acanthocoris sordidus (Thunberg, 1783)"
+  },
+  "information": {
+    "general_description": "몸길이 : 10-13.5mm\n몸은 균일한 회흑갈색이고 광택은 없다. 몸 표면에는 회색의 엎어진 밀모와 흑색의 직립한 센털이 있다. 머리는 작고 더듬이는 길고 4마디이다. 곤봉모양이다. 앞가슴등판은 앞쪽으로 경사졌으며 그 앞옆가장자리는 능모양이고 불규칙한 미세한 톱니모양으 나타낸다. 정중선을 따라서 연한 색의 세로줄이 있다. 몸의 아랫면과 다리는 몸의 등면보다 연한 색이고 약간 붉은 기를 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "꽈리, 메, 고추, 고구마 등에 기생한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 10-13.5mm\n몸은 균일한 회흑갈색이고 광택은 없다. 몸 표면에는 회색의 엎어진 밀모와 흑색의 직립한 센털이 있다. 머리는 작고 더듬이는 길고 4마디이다. 곤봉모양이다. 앞가슴등판은 앞쪽으로 경사졌으며 그 앞옆가장자리는 능모양이고 불규칙한 미세한 톱니모양으 나타낸다. 정중선을 따라서 연한 색의 세로줄이 있다. 몸의 아랫면과 다리는 몸의 등면보다 연한 색이고 약간 붉은 기를 띤다."
+    },
+    {
+      "title": "생태",
+      "text": "꽈리, 메, 고추, 고구마 등에 기생한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLAN0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0002_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0002_2_th.jpg",
+      "alt": "꽈리허리노린재 1번째 사진 : 꽈리허리노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0002_2_th2.jpg",
+      "caption": "꽈리허리노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZLAN0002-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0002_1_th.jpg",
+      "alt": "꽈리허리노린재 2번째 사진 : 꽈리허리노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0002_1_th2.jpg",
+      "caption": "꽈리허리노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLAN0002-1",
+  "specimen_examples": [
+    {
+      "id": "JFNE0306091024",
+      "description": "[JFNE0306091024] 꽈리허리노린재 1992.07.09 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0306091025",
+      "description": "[JFNE0306091025] 꽈리허리노린재 1992.07.10 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0306091026",
+      "description": "[JFNE0306091026] 꽈리허리노린재 1992.07.11 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZLAN0002.png",
+    "reference_image_id": "ZLAN0002-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T14:57:15.678225+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "e65bf0d6443a7dac7620357d951237a62b7b448b1a0bd621549e756788e92e33"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLAN0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:58+00:00",
+    "html_sha256": "d9f460bb857f8aa7b53b1f47892e745873f1eed835d9982f20da3de9ee760651",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

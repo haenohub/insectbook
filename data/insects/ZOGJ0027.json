@@ -1,0 +1,107 @@
+{
+  "id": "ZOGJ0027",
+  "name_ko": "꼬마곰보소똥풍뎅이",
+  "scientific_name": "Onthophagus (Parentius) punctator Reitter, 1892",
+  "display_name": "꼬마곰보소똥풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "소똥구리아과",
+      "name_latin": "Scarabaeinae"
+    },
+    "genus": {
+      "name_ko": "소똥풍뎅이속",
+      "name_latin": "Onthophagus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 소똥구리아과 (Scarabaeinae)\n속 : 소똥풍뎅이속 (Onthophagus)",
+  "basic_information": {
+    "곤충명": "꼬마곰보소똥풍뎅이",
+    "학명": "Onthophagus (Parentius) punctator Reitter, 1892"
+  },
+  "information": {
+    "general_description": "중국 중,북부, 일본에 분포하며 매우 작고, 전종과 비슷하나 머리방패 전연이 깊게 파였고, 두정융기는 매우 짧다. 전흉배판의 돌기열은 없으며, 점각은 깊고 강하게 연합되었으나 안상은 아닌 점으로 구별된다. BL:4~6mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "우분에도 잘 모이나 인,견분에 더 많고, 양분에서도 기록되었다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중국 중,북부, 일본에 분포하며 매우 작고, 전종과 비슷하나 머리방패 전연이 깊게 파였고, 두정융기는 매우 짧다. 전흉배판의 돌기열은 없으며, 점각은 깊고 강하게 연합되었으나 안상은 아닌 점으로 구별된다. BL:4~6mm."
+    },
+    {
+      "title": "생태",
+      "text": "우분에도 잘 모이나 인,견분에 더 많고, 양분에서도 기록되었다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGJ0027-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0027_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0027_1_th.jpg",
+      "alt": "꼬마곰보소똥풍뎅이 1번째 사진 : 꼬마곰보소똥풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0027_1_th2.jpg",
+      "caption": "꼬마곰보소똥풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGJ0027-1",
+  "specimen_examples": [
+    {
+      "id": "SSUE0302211008",
+      "description": "[SSUE0302211008] 꼬마곰보소똥풍뎅이 1984.05.09 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0302211001",
+      "description": "[SSUE0302211001] 꼬마곰보소똥풍뎅이 1983.05.04 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0302211009",
+      "description": "[SSUE0302211009] 꼬마곰보소똥풍뎅이 1984.05.09 / / 성신여자대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOGJ0027.png",
+    "reference_image_id": "ZOGJ0027-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T10:27:18.402727+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "f5fffd55e8cee13726d0cc931f91619b6b1cb00d5acc2c52a775adae25bab4b5"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGJ0027&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:29+00:00",
+    "html_sha256": "6fbbe85b503859b8657e6c9c5faddb4c338320d6f687b524961d91bbae993a7e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

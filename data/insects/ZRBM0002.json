@@ -1,0 +1,118 @@
+{
+  "id": "ZRBM0002",
+  "name_ko": "노랑애기나방",
+  "scientific_name": "Amata germana Felder, 1862",
+  "display_name": "노랑애기나방",
+  "family_ko": "태극나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "태극나방과",
+      "name_latin": "Erebidae"
+    },
+    "subfamily": {
+      "name_ko": "불나방아과",
+      "name_latin": "Arctiinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Amata"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 태극나방과 (Erebidae)\n아과 : 불나방아과 (Arctiinae)\n속 : (Amata)",
+  "basic_information": {
+    "곤충명": "노랑애기나방",
+    "학명": "Amata germana Felder, 1862"
+  },
+  "information": {
+    "general_description": "머리는 흑색이고, 얼굴은 등황색이며, 더듬이는 끝 가까이에서 백색을 띰. 가슴과 배는 등황색임. 경판, 어깨판, 배의 각 환절의 전연은 흑색이며 때로는 어깨판 위에 1개의 등황색 부분을 남김. 다리는 흑색이고, 날개도 흑색이나 기부 가까이가 등황색을 띰. 앞날개에는 기부 가까이에 1개, 중앙에 2개, 외연 부근에 2개, 도합 5개의 투명한 큰 무늬가 있음. 그 중 외연 부근의 1개는 흑색의 시맥에 의해 2개로 나뉨. 뒷날개에는 중앙에 1개의 같은 투명한 큰 무늬가 있음.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 7월에 출현함.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "머리는 흑색이고, 얼굴은 등황색이며, 더듬이는 끝 가까이에서 백색을 띰. 가슴과 배는 등황색임. 경판, 어깨판, 배의 각 환절의 전연은 흑색이며 때로는 어깨판 위에 1개의 등황색 부분을 남김. 다리는 흑색이고, 날개도 흑색이나 기부 가까이가 등황색을 띰. 앞날개에는 기부 가까이에 1개, 중앙에 2개, 외연 부근에 2개, 도합 5개의 투명한 큰 무늬가 있음. 그 중 외연 부근의 1개는 흑색의 시맥에 의해 2개로 나뉨. 뒷날개에는 중앙에 1개의 같은 투명한 큰 무늬가 있음."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 7월에 출현함."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRBM0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBM0002_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBM0002_2_th.jpg",
+      "alt": "노랑애기나방 1번째 사진 : 노랑애기나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBM0002_2_th2.jpg",
+      "caption": "노랑애기나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRBM0002-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBM0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBM0002_1_th.jpg",
+      "alt": "노랑애기나방 2번째 사진 : 노랑애기나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBM0002_1_th2.jpg",
+      "caption": "노랑애기나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRBM0002-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0304231025",
+      "description": "[FRIE0304231025] 노랑애기나방 1996.07.23 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0301102060",
+      "description": "[KNAE0301102060] 노랑애기나방 1994.07.12 / / 국립수목원"
+    },
+    {
+      "id": "CBNE0203061014",
+      "description": "[CBNE0203061014] 노랑애기나방 2000.07.13 / / 충북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRBM0002-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRBM0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:21+00:00",
+    "html_sha256": "e2b8c59819f95c28b7bb6e64bc2718eadb2ec84088b4857a9a17d79ae2a7f888",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

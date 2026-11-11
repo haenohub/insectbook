@@ -1,0 +1,133 @@
+{
+  "id": "ZREP0031",
+  "name_ko": "참산뱀눈나비",
+  "scientific_name": "Oeneis mongolica (Oberthür, 1876)",
+  "display_name": "참산뱀눈나비",
+  "family_ko": "네발나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "네발나비과",
+      "name_latin": "Nymphalidae"
+    },
+    "subfamily": {
+      "name_ko": "뱀눈나비아과",
+      "name_latin": "Satyrinae"
+    },
+    "genus": {
+      "name_ko": "산뱀눈나비속",
+      "name_latin": "Oeneis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 네발나비과 (Nymphalidae)\n아과 : 뱀눈나비아과 (Satyrinae)\n속 : 산뱀눈나비속 (Oeneis)",
+  "basic_information": {
+    "곤충명": "참산뱀눈나비",
+    "학명": "Oeneis mongolica (Oberthür, 1876)"
+  },
+  "information": {
+    "general_description": "날개의 색깔과 무늬에 변화가 매우 많은 종으로 암컷은 일반적으로 눈알모양 무늬가 크게 발달하나 확실한 구별을 위하여 배끝을 조사해야 한다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "초봄에 출현하는데 초원의 양지바른 장소에 서식한다. 수컷은 일광욕을 하기 위하여 태양에 비스듬히 날개를 펴고 앉는 경우가 많다. 날 때에는 민첩하나 그다지 멀리 가지 않는다. 가끔 조합나무등의 꽃에서 흡밀하기도 한다. 날개의 눈알 모양의 모늬는 없는 데에서 크게 발달하는 것까지 다양하게 나타난다",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개의 색깔과 무늬에 변화가 매우 많은 종으로 암컷은 일반적으로 눈알모양 무늬가 크게 발달하나 확실한 구별을 위하여 배끝을 조사해야 한다."
+    },
+    {
+      "title": "습성",
+      "text": "초봄에 출현하는데 초원의 양지바른 장소에 서식한다. 수컷은 일광욕을 하기 위하여 태양에 비스듬히 날개를 펴고 앉는 경우가 많다. 날 때에는 민첩하나 그다지 멀리 가지 않는다. 가끔 조합나무등의 꽃에서 흡밀하기도 한다. 날개의 눈알 모양의 모늬는 없는 데에서 크게 발달하는 것까지 다양하게 나타난다"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREP0031-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZREP0031_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZREP0031_3.jpg",
+      "alt": "참산뱀눈나비 1번째 사진 : 참산뱀눈나비 암컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZREP0031_3_th2.jpg",
+      "caption": "참산뱀눈나비 암컷 이미지",
+      "photographed_at": null,
+      "location": "강원도 영월군 남면 새술막",
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZREP0031-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREP0031_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREP0031_2_th.jpg",
+      "alt": "참산뱀눈나비 2번째 사진 : 참산뱀눈나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREP0031_2_th2.jpg",
+      "caption": "참산뱀눈나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREP0031-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREP0031_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREP0031_1_th.jpg",
+      "alt": "참산뱀눈나비 3번째 사진 : 참산뱀눈나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREP0031_1_th2.jpg",
+      "caption": "참산뱀눈나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREP0031-1",
+  "specimen_examples": [
+    {
+      "id": "ADUE0305091097",
+      "description": "[ADUE0305091097] 참산뱀눈나비 2002.04.18 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0305091096",
+      "description": "[ADUE0305091096] 참산뱀눈나비 2002.04.18 / / 안동대학교"
+    },
+    {
+      "id": "YNUE0210292013",
+      "description": "[YNUE0210292013] 참산뱀눈나비 1990.06.28 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREP0031-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREP0031&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:57+00:00",
+    "html_sha256": "8b603c36e5a21606ce3706e64716315fa4e78361009001e8faadb09a671ea5bc",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

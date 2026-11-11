@@ -1,0 +1,99 @@
+{
+  "id": "ZOBH0435",
+  "name_ko": "애밑빠진먼지벌레",
+  "scientific_name": "Cymindis (Cymindis) kuznetzowi Sundukov, 2001",
+  "display_name": "애밑빠진먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "먼지벌레아과",
+      "name_latin": "Harpalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Cymindis"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 먼지벌레아과 (Harpalinae)\n속 : (Cymindis)",
+  "basic_information": {
+    "곤충명": "애밑빠진먼지벌레",
+    "학명": "Cymindis (Cymindis) kuznetzowi Sundukov, 2001"
+  },
+  "information": {
+    "general_description": "몸의길이는 8mm내외 촉각과 다리는 황갈색이고 두부 앞가슴등판 딱지날개는 검은색으로 금속광택이있다. 몸전체에 작은 털이있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[몽골]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의길이는 8mm내외 촉각과 다리는 황갈색이고 두부 앞가슴등판 딱지날개는 검은색으로 금속광택이있다. 몸전체에 작은 털이있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[몽골]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0435-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0435_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0435_1_th.jpg",
+      "alt": "애밑빠진먼지벌레 1번째 사진 : 애밑빠진먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0435_1_th2.jpg",
+      "caption": "애밑빠진먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0435-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0304171049",
+      "description": "[FRIE0304171049] 애밑빠진먼지벌레 2001.10.17 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0304171050",
+      "description": "[FRIE0304171050] 애밑빠진먼지벌레 2001.11.17 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE1106304137",
+      "description": "[KNAE1106304137] 애밑빠진먼지벌레 2000.08.29 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0435-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0435&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:10+00:00",
+    "html_sha256": "57a624e6e3ae2f134c0f861273e5d37c93c7e6265865ad89d072f7744c6129a5",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

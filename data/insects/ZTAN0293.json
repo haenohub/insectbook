@@ -1,0 +1,103 @@
+{
+  "id": "ZTAN0293",
+  "name_ko": "독나방살이고치벌",
+  "scientific_name": "Protapanteles (Protapanteles) liparidis (Bouché, 1834)",
+  "display_name": "독나방살이고치벌",
+  "family_ko": "고치벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "고치벌과",
+      "name_latin": "Braconidae"
+    },
+    "subfamily": {
+      "name_ko": "밤나방살이고치벌아과",
+      "name_latin": "Microgastrinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Protapanteles"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 고치벌과 (Braconidae)\n아과 : 밤나방살이고치벌아과 (Microgastrinae)\n속 : (Protapanteles)",
+  "basic_information": {
+    "곤충명": "독나방살이고치벌",
+    "학명": "Protapanteles (Protapanteles) liparidis (Bouché, 1834)"
+  },
+  "information": {
+    "general_description": "몸길이는 2.5-3.5mm이고, 겹눈 뒷부분의 머리는 둥글게 되었다. 머리는 점각으로 되었고, 얼굴은 강하게 돌출하지 않았다. 정수리는 매끈하고 광택이 난다. 가운데가슴옆판은 매끈하고 광택이 있으며, 앞가장자리에는 약간의 점각이 있다. 작은 방패판은 매끈하고 광택이 나며, 작은 점각들이 흩어져 있다. 산란관집은 돌출하였다. 뒷다리 밑 마디는 검은 색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[카자흐스탄]\n[몽골]\n[러시아]\n[중국]\n[미국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 2.5-3.5mm이고, 겹눈 뒷부분의 머리는 둥글게 되었다. 머리는 점각으로 되었고, 얼굴은 강하게 돌출하지 않았다. 정수리는 매끈하고 광택이 난다. 가운데가슴옆판은 매끈하고 광택이 있으며, 앞가장자리에는 약간의 점각이 있다. 작은 방패판은 매끈하고 광택이 나며, 작은 점각들이 흩어져 있다. 산란관집은 돌출하였다. 뒷다리 밑 마디는 검은 색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[카자흐스탄]\n[몽골]\n[러시아]\n[중국]\n[미국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAN0293-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAN0293_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAN0293_1_th.jpg",
+      "alt": "독나방살이고치벌 1번째 사진 : 독나방살이고치벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAN0293_1_th2.jpg",
+      "caption": "독나방살이고치벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAN0293-1",
+  "specimen_examples": [
+    {
+      "id": "GSNE0408302098",
+      "description": "[GSNE0408302098] 독나방살이고치벌 2001.07.09 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0408302099",
+      "description": "[GSNE0408302099] 독나방살이고치벌 2001.05.19 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0408302100",
+      "description": "[GSNE0408302100] 독나방살이고치벌 2001.07.26 / / 경상대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAN0293-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAN0293&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:26+00:00",
+    "html_sha256": "d67218582bbc13d58b7d5665fd6252ed3282a1f30413c173eb47e43bd3e2f782",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": "ZTAT0010",
+  "name_ko": "육니청벌",
+  "scientific_name": "Chrysis principalis Smith, 1874",
+  "display_name": "육니청벌",
+  "family_ko": "청벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "청벌상과",
+      "name_latin": "Chrysidoidea"
+    },
+    "family": {
+      "name_ko": "청벌과",
+      "name_latin": "Chrysididae"
+    },
+    "subfamily": {
+      "name_ko": "청벌아과",
+      "name_latin": "Chrysidinae"
+    },
+    "genus": {
+      "name_ko": "청벌속",
+      "name_latin": "Chrysis"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 청벌상과 (Chrysidoidea)\n과 : 청벌과 (Chrysididae)\n아과 : 청벌아과 (Chrysidinae)\n속 : 청벌속 (Chrysis)",
+  "basic_information": {
+    "곤충명": "육니청벌",
+    "학명": "Chrysis principalis Smith, 1874"
+  },
+  "information": {
+    "general_description": "암컷의 몸길이는 9-13mm 정도이고 머리와 가슴이 초록색이고, 배는 바이올렛이나 각마디의 끝쪽으로 반짝이는 초록색의 좁은 부분이 있다. 얼굴은 금록색이며, 더듬이의 기부 3마디는 청록색이나 첫마디는 앞이 초록색이고, 나머지는 흑색이다. 정수리의 홑눈이 있는 곳에 알모양 청색 점이 있다. 앞가슴에 가로 청색 줄이 있고 작은 방패판, 어깨판, 가운데가슴등판은 다소 청색이고 앞날개는 암색이며, 투명하다. 발목마디는 흑색이다",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷의 몸길이는 9-13mm 정도이고 머리와 가슴이 초록색이고, 배는 바이올렛이나 각마디의 끝쪽으로 반짝이는 초록색의 좁은 부분이 있다. 얼굴은 금록색이며, 더듬이의 기부 3마디는 청록색이나 첫마디는 앞이 초록색이고, 나머지는 흑색이다. 정수리의 홑눈이 있는 곳에 알모양 청색 점이 있다. 앞가슴에 가로 청색 줄이 있고 작은 방패판, 어깨판, 가운데가슴등판은 다소 청색이고 앞날개는 암색이며, 투명하다. 발목마디는 흑색이다"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAT0010-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAT0010_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAT0010_2_th.jpg",
+      "alt": "육니청벌 1번째 사진 : 육니청벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAT0010_2_th2.jpg",
+      "caption": "육니청벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTAT0010-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAT0010_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAT0010_1_th.jpg",
+      "alt": "육니청벌 2번째 사진 : 육니청벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAT0010_1_th2.jpg",
+      "caption": "육니청벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAT0010-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305201014",
+      "description": "[YNUE0305201014] 육니청벌 1976.08.07 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305201015",
+      "description": "[YNUE0305201015] 육니청벌 1990.07.28 / / 영남대학교"
+    },
+    {
+      "id": "ADUE0303171007",
+      "description": "[ADUE0303171007] 육니청벌 2001.07.22 / / 안동대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAT0010-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAT0010&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:15+00:00",
+    "html_sha256": "567d7f6161f82760c80bb225713fb009a64bf5391589add320305715fd85327a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

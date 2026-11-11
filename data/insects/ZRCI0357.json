@@ -1,0 +1,118 @@
+{
+  "id": "ZRCI0357",
+  "name_ko": "그늘가지나방",
+  "scientific_name": "Cleora insolita (Butler, 1878)",
+  "display_name": "그늘가지나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "가지나방아과",
+      "name_latin": "Ennominae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Cleora"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 가지나방아과 (Ennominae)\n속 : (Cleora)",
+  "basic_information": {
+    "곤충명": "그늘가지나방",
+    "학명": "Cleora insolita (Butler, 1878)"
+  },
+  "information": {
+    "general_description": "날개 편길이 수컷33~34mm. 수컷의 더듬이는 빗살모양임. 앞날개 내횡선 안쪽을 따라 검은색 띠가 있고 외횡선은 각 맥상에서 돌출하고 있음.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개 편길이 수컷33~34mm. 수컷의 더듬이는 빗살모양임. 앞날개 내횡선 안쪽을 따라 검은색 띠가 있고 외횡선은 각 맥상에서 돌출하고 있음."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0357-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0357_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0357_2_th.jpg",
+      "alt": "그늘가지나방 1번째 사진 : 그늘가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0357_2_th2.jpg",
+      "caption": "그늘가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0357-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0357_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0357_1_th.jpg",
+      "alt": "그늘가지나방 2번째 사진 : 그늘가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0357_1_th2.jpg",
+      "caption": "그늘가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0357-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0302122063",
+      "description": "[KNAE0302122063] 그늘가지나방 1991.05.26 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0302122064",
+      "description": "[KNAE0302122064] 그늘가지나방 1994.05.10 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0302122065",
+      "description": "[KNAE0302122065] 그늘가지나방 1991.05.26 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRCI0357.png",
+    "reference_image_id": "ZRCI0357-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T14:32:04.172795+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "4d1a7b39bc0445741fac3c08beb67c055289199ae7f617ddb7afcf0361375265"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0357&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:35+00:00",
+    "html_sha256": "8f333aea0c18c44d877b2b48f7a9a7a6e5f14d5d419bb1bf79a93daa37b14854",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "ZDAE0003",
+  "name_ko": "알락실잠자리",
+  "scientific_name": "Enallagma cyathigerum (Charpentier, 1840)",
+  "display_name": "알락실잠자리",
+  "family_ko": "실잠자리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "잠자리목",
+      "name_latin": "Odonata"
+    },
+    "family": {
+      "name_ko": "실잠자리과",
+      "name_latin": "Coenagrionidae"
+    },
+    "subfamily": {
+      "name_ko": "아시아실잠자리아과",
+      "name_latin": "Ischnurinae"
+    },
+    "genus": {
+      "name_ko": "알락실잠자리속",
+      "name_latin": "Enallagma"
+    }
+  },
+  "taxonomy_text": "목 : 잠자리목 (Odonata)\n과 : 실잠자리과 (Coenagrionidae)\n아과 : 아시아실잠자리아과 (Ischnurinae)\n속 : 알락실잠자리속 (Enallagma)",
+  "basic_information": {
+    "곤충명": "알락실잠자리",
+    "학명": "Enallagma cyathigerum (Charpentier, 1840)"
+  },
+  "information": {
+    "general_description": "앞날개 결절 뒷가로맥은 8개 이상이고 배길이는 20mm 이상임. 배는 암수컷 모두 청색이며 수컷 2배마디 등쪽에는 뒷가두리 가까이에 심장형의 흑색무늬 있음.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "앞날개 결절 뒷가로맥은 8개 이상이고 배길이는 20mm 이상임. 배는 암수컷 모두 청색이며 수컷 2배마디 등쪽에는 뒷가두리 가까이에 심장형의 흑색무늬 있음."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZDAE0003-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAE0003_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAE0003_1_th.jpg",
+      "alt": "알락실잠자리 1번째 사진 : 알락실잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAE0003_1_th2.jpg",
+      "caption": "알락실잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZDAE0003-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0302032034",
+      "description": "[KNAE0302032034] 알락실잠자리 1993.07.07 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0302032035",
+      "description": "[KNAE0302032035] 알락실잠자리 1995.05.29 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0302032036",
+      "description": "[KNAE0302032036] 알락실잠자리 1995.06.12 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZDAE0003-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZDAE0003&tabId=tab1",
+    "collected_at": "2026-11-04T14:14:33+00:00",
+    "html_sha256": "a188f0a54c2e695597f26fbe00f2e65d0567d597fb1df4fd985c34446d6c0cbf",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

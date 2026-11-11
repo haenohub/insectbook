@@ -1,0 +1,119 @@
+{
+  "id": "ZOBZ0033",
+  "name_ko": "홍테무당벌레",
+  "scientific_name": "Rodolia limbata (Motschulsky, 1866)",
+  "display_name": "홍테무당벌레",
+  "family_ko": "무당벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Coccinelloidea"
+    },
+    "family": {
+      "name_ko": "무당벌레과",
+      "name_latin": "Coccinellidae"
+    },
+    "subfamily": {
+      "name_ko": "무당벌레아과",
+      "name_latin": "Coccinellinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Rodolia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : (Coccinelloidea)\n과 : 무당벌레과 (Coccinellidae)\n아과 : 무당벌레아과 (Coccinellinae)\n속 : (Rodolia)",
+  "basic_information": {
+    "곤충명": "홍테무당벌레",
+    "학명": "Rodolia limbata (Motschulsky, 1866)"
+  },
+  "information": {
+    "general_description": "체형은 달걀형이며, 약간 볼록한 등면의 형태를 갖고 있다. 두부의 색깔은 검은색이고, 더듬이와 입은 붉은 갈색을 띤다. 소순판의 색깔은 붉은 갈색인데 거의 검은색으로 덮여있다. 배면은 검은색이며, 앞가슴옆면과 가운데가슴옆면은 어두운 갈색을 띤다.\n이들은 한국, 일본, 중국(만주,화중,화남), 시베리아 등지에서 널리 분포한다.",
+    "adult": null,
+    "adult_male": "수컷의 음경 양쪽에는 돌기가 있으며, 둘레는 가늘어 보이긴 하나 강해 보이고 길이가 긴편이다.",
+    "adult_female": "암컷의 생식기는 수정낭 끝부분에는 큰 원형모양이며 가는 생식판의 형태이며, 전체적으로 봤을때 긴막대형이다.",
+    "larva": "체형은 타원형이며, 등면은 어두운붉은색을 띤다.\n배면은 등면보다 연한 편이다. 두부는 넓은 직사각형의 모양이다. 머리와 다리는 검은색을 띤다. 더듬이는 2마디 이며, 흉부는 앞가슴배판은 넓은 편이며, 거의 직사각형이다. 다리의 형태는 뭉뚝하고 짧은 길이의 형태이다.",
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "관찰된 시기는 봄이며, 참나무류에서 볼 수 있다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체형은 달걀형이며, 약간 볼록한 등면의 형태를 갖고 있다. 두부의 색깔은 검은색이고, 더듬이와 입은 붉은 갈색을 띤다. 소순판의 색깔은 붉은 갈색인데 거의 검은색으로 덮여있다. 배면은 검은색이며, 앞가슴옆면과 가운데가슴옆면은 어두운 갈색을 띤다.\n이들은 한국, 일본, 중국(만주,화중,화남), 시베리아 등지에서 널리 분포한다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "수컷의 음경 양쪽에는 돌기가 있으며, 둘레는 가늘어 보이긴 하나 강해 보이고 길이가 긴편이다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "암컷의 생식기는 수정낭 끝부분에는 큰 원형모양이며 가는 생식판의 형태이며, 전체적으로 봤을때 긴막대형이다."
+    },
+    {
+      "title": "유충",
+      "text": "체형은 타원형이며, 등면은 어두운붉은색을 띤다.\n배면은 등면보다 연한 편이다. 두부는 넓은 직사각형의 모양이다. 머리와 다리는 검은색을 띤다. 더듬이는 2마디 이며, 흉부는 앞가슴배판은 넓은 편이며, 거의 직사각형이다. 다리의 형태는 뭉뚝하고 짧은 길이의 형태이다."
+    },
+    {
+      "title": "습성",
+      "text": "관찰된 시기는 봄이며, 참나무류에서 볼 수 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBZ0033-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBZ0033_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBZ0033_1_th.jpg",
+      "alt": "홍테무당벌레 1번째 사진 : 홍테무당벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBZ0033_1_th2.jpg",
+      "caption": "홍테무당벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBZ0033-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0307071094",
+      "description": "[KUIE0307071094] 홍테무당벌레 1997.06.06 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307071095",
+      "description": "[KUIE0307071095] 홍테무당벌레 1997.06.06 / / 고려대학교"
+    },
+    {
+      "id": "HNUE1006012017",
+      "description": "[HNUE1006012017] 홍테무당벌레 1997.04.13 / / 한남대학교 자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBZ0033-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBZ0033&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:43+00:00",
+    "html_sha256": "5a12425becac76a17ad4b0a4bdaf36abce5324066c14528da210b9fb46927b29",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "id": "ZOGJ0001",
+  "name_ko": "왕소똥구리",
+  "scientific_name": "Scarabaeus (Scarabaeus) typhon (Fischer von Waldheim, 1823)",
+  "display_name": "왕소똥구리",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "소똥구리아과",
+      "name_latin": "Scarabaeinae"
+    },
+    "genus": {
+      "name_ko": "왕소똥구리속",
+      "name_latin": "Scarabaeus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 소똥구리아과 (Scarabaeinae)\n속 : 왕소똥구리속 (Scarabaeus)",
+  "basic_information": {
+    "곤충명": "왕소똥구리",
+    "학명": "Scarabaeus (Scarabaeus) typhon (Fischer von Waldheim, 1823)"
+  },
+  "information": {
+    "general_description": "중,북부 아시아, 남부 유럽에 분포하며 흑색으로 대체로 둥글 넓적하며, 머리방패는 넓고, 앞쪽은 6갱의 큰 톱날모양이다. 소순판은 보이지 않으며, 전경절 외치는 4개이나 전부절은 없다. BL:20~33mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "종보호차원에서 국외로의 반출이 법으로 금지된 종이다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[반출금지종] 환경부고시제2001-210호",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중,북부 아시아, 남부 유럽에 분포하며 흑색으로 대체로 둥글 넓적하며, 머리방패는 넓고, 앞쪽은 6갱의 큰 톱날모양이다. 소순판은 보이지 않으며, 전경절 외치는 4개이나 전부절은 없다. BL:20~33mm."
+    },
+    {
+      "title": "생태",
+      "text": "종보호차원에서 국외로의 반출이 법으로 금지된 종이다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[반출금지종] 환경부고시제2001-210호"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGJ0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0001_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0001_2_th.jpg",
+      "alt": "왕소똥구리 1번째 사진 : 왕소똥구리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0001_2_th2.jpg",
+      "caption": "왕소똥구리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOGJ0001-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0001_1_th.jpg",
+      "alt": "왕소똥구리 2번째 사진 : 왕소똥구리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0001_1_th2.jpg",
+      "caption": "왕소똥구리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGJ0001-1",
+  "specimen_examples": [
+    {
+      "id": "SSUE0301281031",
+      "description": "[SSUE0301281031] 왕소똥구리 1977.06.19 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0301281032",
+      "description": "[SSUE0301281032] 왕소똥구리 1977.06.19 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0301281033",
+      "description": "[SSUE0301281033] 왕소똥구리 1987.08.21 / / 성신여자대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGJ0001-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGJ0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:42+00:00",
+    "html_sha256": "47dfd1c9a883e94f9e8ed458efb1faad2a092cd3285b1d5d00c271291041fec3",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

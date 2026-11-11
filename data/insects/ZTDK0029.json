@@ -1,0 +1,103 @@
+{
+  "id": "ZTDK0029",
+  "name_ko": "어리나나니",
+  "scientific_name": "Trypoxylon malaisei Gussakovskij, 1932",
+  "display_name": "어리나나니",
+  "family_ko": "은주둥이벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "은주둥이벌과",
+      "name_latin": "Crabronidae"
+    },
+    "subfamily": {
+      "name_ko": "은주둥이벌아과",
+      "name_latin": "Crabroninae"
+    },
+    "genus": {
+      "name_ko": "어리나나니속",
+      "name_latin": "Trypoxylon"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 은주둥이벌과 (Crabronidae)\n아과 : 은주둥이벌아과 (Crabroninae)\n속 : 어리나나니속 (Trypoxylon)",
+  "basic_information": {
+    "곤충명": "어리나나니",
+    "학명": "Trypoxylon malaisei Gussakovskij, 1932"
+  },
+  "information": {
+    "general_description": "암컷(11-16mm)의 몸은 흑색이다. 큰턱의 끝반과 날개밑 비늘 및 종아리마디의 며느리발톱은 갈색을 띤다. 앞날개의 경실은 뒷다리의 발목마디보다 더 길다. 더듬이와 다리는 완전히 흑색이다. 수컷(10-13mm)은 암컷과 비슷하나 약간 작다. 배에는 적황색부가 없고 더듬이의 마디도 짧다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷(11-16mm)의 몸은 흑색이다. 큰턱의 끝반과 날개밑 비늘 및 종아리마디의 며느리발톱은 갈색을 띤다. 앞날개의 경실은 뒷다리의 발목마디보다 더 길다. 더듬이와 다리는 완전히 흑색이다. 수컷(10-13mm)은 암컷과 비슷하나 약간 작다. 배에는 적황색부가 없고 더듬이의 마디도 짧다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDK0029-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0029_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0029_1_th.jpg",
+      "alt": "어리나나니 1번째 사진 : 어리나나니전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0029_1_th2.jpg",
+      "caption": "어리나나니전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDK0029-1",
+  "specimen_examples": [
+    {
+      "id": "DJUE0408141138",
+      "description": "[DJUE0408141138] 어리나나니 1997.10.12 / / 대전대학교"
+    },
+    {
+      "id": "DJUE0608291009",
+      "description": "[DJUE0608291009] 어리나나니 1997.06.08 / / 대전대학교"
+    },
+    {
+      "id": "LIDH1208091034",
+      "description": "[LIDH1208091034] 어리나나니 2007.05.17 / / 한서대학교 곤충표본실"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDK0029-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDK0029&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:34+00:00",
+    "html_sha256": "769ffa48d7a8b0f028ebb16e3cd75c491c9dca9c8747bd4f04be974ca524bfea",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

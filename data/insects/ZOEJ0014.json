@@ -1,0 +1,103 @@
+{
+  "id": "ZOEJ0014",
+  "name_ko": "고려다색풍뎅이",
+  "scientific_name": "Holotrichia koraiensis Murayama, 1937",
+  "display_name": "고려다색풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "검정풍뎅이아과",
+      "name_latin": "Melolonthinae"
+    },
+    "genus": {
+      "name_ko": "검정풍뎅이속",
+      "name_latin": "Holotrichia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 검정풍뎅이아과 (Melolonthinae)\n속 : 검정풍뎅이속 (Holotrichia)",
+  "basic_information": {
+    "곤충명": "고려다색풍뎅이",
+    "학명": "Holotrichia koraiensis Murayama, 1937"
+  },
+  "information": {
+    "general_description": "중국에 분포하며, 몸은 긴 원통형으로 적갈색 내지 암갈색이나 드물게 흑색이며 광택이 강하다. 다른 종에 비하여 부적이 가늘고 매우 길며, 발톱의 내치는 끝쪽이 파인 형이다. 수컷의 촉각 곤봉부는 줄기보다 약간 짧다. 미절판은 중간 뒤쪽이 높으며, 점각은 작으나 뚜렷하고, 서로 분리되어 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중국에 분포하며, 몸은 긴 원통형으로 적갈색 내지 암갈색이나 드물게 흑색이며 광택이 강하다. 다른 종에 비하여 부적이 가늘고 매우 길며, 발톱의 내치는 끝쪽이 파인 형이다. 수컷의 촉각 곤봉부는 줄기보다 약간 짧다. 미절판은 중간 뒤쪽이 높으며, 점각은 작으나 뚜렷하고, 서로 분리되어 있다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOEJ0014-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0014_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0014_1_th.jpg",
+      "alt": "고려다색풍뎅이 1번째 사진 : 고려다색풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0014_1_th2.jpg",
+      "caption": "고려다색풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOEJ0014-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408201060",
+      "description": "[MPME0408201060] 고려다색풍뎅이 2000.09.26 / / 목포자연사박물관"
+    },
+    {
+      "id": "ENHE0408241043",
+      "description": "[ENHE0408241043] 고려다색풍뎅이 1978.05.02 / / 이화여자대학교 자연사박물관"
+    },
+    {
+      "id": "KUIE0204211158",
+      "description": "[KUIE0204211158] 고려다색풍뎅이 1999.06.04 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOEJ0014.png",
+    "reference_image_id": "ZOEJ0014-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T12:23:17.079208+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "89343a2e1135747de3d37d0960abfa626619ef058b2eeff527ec67e778b582cb"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOEJ0014&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:43+00:00",
+    "html_sha256": "5c06e8d0f0c28ec69c786ab9178c0fdbf6df3b6c7ea5e8cfede512f6f542813a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

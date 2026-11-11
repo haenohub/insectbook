@@ -1,0 +1,111 @@
+{
+  "id": "ZOHF0002",
+  "name_ko": "쌀도적",
+  "scientific_name": "Tenebroides mauritanicus (Linnaeus, 1758)",
+  "display_name": "쌀도적",
+  "family_ko": "쌀도적과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "개미붙이상과",
+      "name_latin": "Cleroidea"
+    },
+    "family": {
+      "name_ko": "쌀도적과",
+      "name_latin": "Trogossitidae"
+    },
+    "subfamily": {
+      "name_ko": "쌀도적아과",
+      "name_latin": "Trogossitinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Tenebroides"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 개미붙이상과 (Cleroidea)\n과 : 쌀도적과 (Trogossitidae)\n아과 : 쌀도적아과 (Trogossitinae)\n속 : (Tenebroides)",
+  "basic_information": {
+    "곤충명": "쌀도적",
+    "학명": "Tenebroides mauritanicus (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "성충은 길이가 10 mm, 나비는 3 mm 정도이고, 몸이 납작하고 갈색~적갈색이며, 머리는 반원형에 가깝다. 더듬이는 뭉둥이 모양이며, 앞가슴도 반원형이고, 날개에는 7줄의 뚜렷한 점각구가 세로로 줄지어 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": "길이가 13 mm 정도이며, 유백색으로서 앞가슴피부판 및 밑판은 흑갈색이고, 배 끝에는 2개의 가시가 있다. 가운뎃가슴과 뒷가슴의 등면에 1쌍씩의 흑갈색 무늬가 있으며, 몸은 뒤쪽의 나비가 약간 넓다.",
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "성충과 유충이 저장 곡물 및 그 가공품을 가해하고, 유충은 엽연초에 먹어 들어가며 선박이나 창고의 재목 속에 먹어 들어가기도 한다. 저장 곡물에 쌀바구미가 발생하면 쌀도적도 발생하는데, 유충은 곡물을 식해하나 성충은 오히려 쌀바구미나 그 밖의 곤충을 잡아먹는 성질이 있다. 그러므로 곡물에 쌀도적이 발생했을 때에는 반드시 다른 곡충도 발생하고 있다고 보아야 할 것이다.",
+    "season": null,
+    "overwintering": "성충또는 유충으로 월동하는데, 발생이 매우 불규칙하다.",
+    "distribution": "[일본]",
+    "notes": "[산림해충] Paik (1985)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충은 길이가 10 mm, 나비는 3 mm 정도이고, 몸이 납작하고 갈색~적갈색이며, 머리는 반원형에 가깝다. 더듬이는 뭉둥이 모양이며, 앞가슴도 반원형이고, 날개에는 7줄의 뚜렷한 점각구가 세로로 줄지어 있다."
+    },
+    {
+      "title": "유충",
+      "text": "길이가 13 mm 정도이며, 유백색으로서 앞가슴피부판 및 밑판은 흑갈색이고, 배 끝에는 2개의 가시가 있다. 가운뎃가슴과 뒷가슴의 등면에 1쌍씩의 흑갈색 무늬가 있으며, 몸은 뒤쪽의 나비가 약간 넓다."
+    },
+    {
+      "title": "습성",
+      "text": "성충과 유충이 저장 곡물 및 그 가공품을 가해하고, 유충은 엽연초에 먹어 들어가며 선박이나 창고의 재목 속에 먹어 들어가기도 한다. 저장 곡물에 쌀바구미가 발생하면 쌀도적도 발생하는데, 유충은 곡물을 식해하나 성충은 오히려 쌀바구미나 그 밖의 곤충을 잡아먹는 성질이 있다. 그러므로 곡물에 쌀도적이 발생했을 때에는 반드시 다른 곡충도 발생하고 있다고 보아야 할 것이다."
+    },
+    {
+      "title": "월동",
+      "text": "성충또는 유충으로 월동하는데, 발생이 매우 불규칙하다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Paik (1985)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOHF0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOHF0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOHF0002_1_th.jpg",
+      "alt": "쌀도적 1번째 사진 : 쌀도적전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOHF0002_1_th2.jpg",
+      "caption": "쌀도적전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOHF0002-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304102063",
+      "description": "[KNAE0304102063] 쌀도적 1994.10.17 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOHF0002-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOHF0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:55+00:00",
+    "html_sha256": "1c2e75d82bee1fccb00fc5891ceb289a861878997e650f121eaa9a1b206116e4",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

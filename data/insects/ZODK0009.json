@@ -1,0 +1,95 @@
+{
+  "id": "ZODK0009",
+  "name_ko": "둥근풍뎅이붙이",
+  "scientific_name": "Saprinus (Saprinus) niponicus Dahlgren, 1962",
+  "display_name": "둥근풍뎅이붙이",
+  "family_ko": "풍뎅이붙이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "물땡땡이상과",
+      "name_latin": "Hydrophiloidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이붙이과",
+      "name_latin": "Histeridae"
+    },
+    "subfamily": {
+      "name_ko": "둥근풍뎅이붙이아과",
+      "name_latin": "Saprininae"
+    },
+    "genus": {
+      "name_ko": "둥근풍뎅이붙이속",
+      "name_latin": "Saprinus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 물땡땡이상과 (Hydrophiloidea)\n과 : 풍뎅이붙이과 (Histeridae)\n아과 : 둥근풍뎅이붙이아과 (Saprininae)\n속 : 둥근풍뎅이붙이속 (Saprinus)",
+  "basic_information": {
+    "곤충명": "둥근풍뎅이붙이",
+    "학명": "Saprinus (Saprinus) niponicus Dahlgren, 1962"
+  },
+  "information": {
+    "general_description": "몸길이는 4.8~6.6mm 이며 몸전체는 둥근형이며 검은색의 강한광택이있다. 수컷의 복부 제 8 마디는 가늘고 길다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 4.8~6.6mm 이며 몸전체는 둥근형이며 검은색의 강한광택이있다. 수컷의 복부 제 8 마디는 가늘고 길다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZODK0009-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODK0009_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODK0009_1_th.jpg",
+      "alt": "둥근풍뎅이붙이 1번째 사진 : 둥근풍뎅이붙이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODK0009_1_th2.jpg",
+      "caption": "둥근풍뎅이붙이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZODK0009-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0202081009",
+      "description": "[SNUE0202081009] 둥근풍뎅이붙이 1968.07.17 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZODK0009-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZODK0009&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:55+00:00",
+    "html_sha256": "ce84958dac2638e81f8c77d1672a18d8fc10b1d3a6bc8b9d72510c7dc9b7cdd6",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

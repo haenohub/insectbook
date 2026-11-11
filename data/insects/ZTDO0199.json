@@ -1,0 +1,99 @@
+{
+  "id": "ZTDO0199",
+  "name_ko": "황점잎벌",
+  "scientific_name": "Tenthredo (Eurogaster) nitidiceps (Takeuchi, 1955)",
+  "display_name": "황점잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "잎벌아과",
+      "name_latin": "Tenthredininae"
+    },
+    "genus": {
+      "name_ko": "잎벌속",
+      "name_latin": "Tenthredo"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 잎벌아과 (Tenthredininae)\n속 : 잎벌속 (Tenthredo)",
+  "basic_information": {
+    "곤충명": "황점잎벌",
+    "학명": "Tenthredo (Eurogaster) nitidiceps (Takeuchi, 1955)"
+  },
+  "information": {
+    "general_description": "암컷의 몸길이는 13~16mm,머리는 광택을 띠며 표면에는 점각이 없다.malar space의 길이는 홑눈의 폭과 비슷하다.작은방패판의 말단부는 평평하고 넓다.가운데가슴 등판은 암갈색이며, 앞가슴 등판은 은빛이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷의 몸길이는 13~16mm,머리는 광택을 띠며 표면에는 점각이 없다.malar space의 길이는 홑눈의 폭과 비슷하다.작은방패판의 말단부는 평평하고 넓다.가운데가슴 등판은 암갈색이며, 앞가슴 등판은 은빛이다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0199-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0199_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0199_1_th.jpg",
+      "alt": "황점잎벌 1번째 사진 : 황점잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0199_1_th2.jpg",
+      "caption": "황점잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0199-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0301059281",
+      "description": "[YNUE0301059281] 황점잎벌 1999.07.11 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301059282",
+      "description": "[YNUE0301059282] 황점잎벌 1999.07.11 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301059280",
+      "description": "[YNUE0301059280] 황점잎벌 1999.07.11 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDO0199-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0199&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:59+00:00",
+    "html_sha256": "2abd48713ada05b9db69fd823f4cf43d90468b62ee3cb78bc354ef755a2bd3b9",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

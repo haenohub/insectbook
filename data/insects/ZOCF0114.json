@@ -1,0 +1,144 @@
+{
+  "id": "ZOCF0114",
+  "name_ko": "옻나무바구미",
+  "scientific_name": "Ectatorhinus adamsi Pascoe, 1872",
+  "display_name": "옻나무바구미",
+  "family_ko": "바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "바구미과",
+      "name_latin": "Curculionidae"
+    },
+    "subfamily": {
+      "name_ko": "참바구미아과",
+      "name_latin": "Molytinae"
+    },
+    "genus": {
+      "name_ko": "옻나무바구미속",
+      "name_latin": "Ectatorhinus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 바구미과 (Curculionidae)\n아과 : 참바구미아과 (Molytinae)\n속 : 옻나무바구미속 (Ectatorhinus)",
+  "basic_information": {
+    "곤충명": "옻나무바구미",
+    "학명": "Ectatorhinus adamsi Pascoe, 1872"
+  },
+  "information": {
+    "general_description": "몸길이는 14~18mm이다. 몸 전체가 우둘투둘하며 요철이 심하다. 발부분에도 혹같이 생긴 융기가 있다. 몸에는 나무껍질처럼 보이는 보호색이있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 5~8월에 나타난다. 참나무와 붉나무 등의 수액에 모여든다. 건드리면 죽은체 쓰러져 움직이지 않는생동을 보인다. 뒷날개는 퇴화되어 날지 못한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 14~18mm이다. 몸 전체가 우둘투둘하며 요철이 심하다. 발부분에도 혹같이 생긴 융기가 있다. 몸에는 나무껍질처럼 보이는 보호색이있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 5~8월에 나타난다. 참나무와 붉나무 등의 수액에 모여든다. 건드리면 죽은체 쓰러져 움직이지 않는생동을 보인다. 뒷날개는 퇴화되어 날지 못한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCF0114-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOCF0114_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOCF0114_3.jpg",
+      "alt": "옻나무바구미 1번째 사진 : ",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOCF0114_3_th2.jpg",
+      "caption": null,
+      "photographed_at": "20120601",
+      "location": null,
+      "photographer": "국립수목원(임종옥)"
+    },
+    {
+      "id": "ZOCF0114-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOCF0114_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOCF0114_2.jpg",
+      "alt": "옻나무바구미 2번째 사진 : ",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOCF0114_2_th2.jpg",
+      "caption": null,
+      "photographed_at": "20120601",
+      "location": null,
+      "photographer": "국립수목원(임종옥)"
+    },
+    {
+      "id": "ZOCF0114-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0114_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0114_1_th.jpg",
+      "alt": "옻나무바구미 3번째 사진 : 옻나무바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0114_1_th2.jpg",
+      "caption": "옻나무바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCF0114-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0408101071",
+      "description": "[KNAE0408101071] 옻나무바구미 2001.06.18 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303112064",
+      "description": "[KNAE0303112064] 옻나무바구미 1994.07.12 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303112065",
+      "description": "[KNAE0303112065] 옻나무바구미 1992.05.22 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "붉나무",
+      "scientific_name": "Rhus chinensis Mill."
+    },
+    {
+      "group": "식물",
+      "name_ko": "옻나무",
+      "scientific_name": "Toxicodendron vernicifluum (Stokes) F.A.Barkley"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOCF0114-3"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCF0114&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:28+00:00",
+    "html_sha256": "19769ff2757e58f48efd70aee05ff23dea9ab35007469fea3fc4307b881d078c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

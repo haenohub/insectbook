@@ -1,0 +1,161 @@
+{
+  "id": "ZRDV0057",
+  "name_ko": "참세줄나비",
+  "scientific_name": "Neptis philyroides Staudinger, 1887",
+  "display_name": "참세줄나비",
+  "family_ko": "네발나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "네발나비과",
+      "name_latin": "Nymphalidae"
+    },
+    "subfamily": {
+      "name_ko": "줄나비아과",
+      "name_latin": "Limenitidinae"
+    },
+    "genus": {
+      "name_ko": "세줄나비속",
+      "name_latin": "Neptis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 네발나비과 (Nymphalidae)\n아과 : 줄나비아과 (Limenitidinae)\n속 : 세줄나비속 (Neptis)",
+  "basic_information": {
+    "곤충명": "참세줄나비",
+    "학명": "Neptis philyroides Staudinger, 1887"
+  },
+  "information": {
+    "general_description": "세줄나비와 유사하나 앞날개 윗면 제6실의 기부와 그 앞에 작은 흰무늬가 있으며 날개 아랫면이 황갈색을 띠므로 구별된다.",
+    "adult": null,
+    "adult_male": "수컷은 뒷날개 뒷면 제7실의 검정색이 연하고 광택이 있어 암컷과 쉽게 구별된다.",
+    "adult_female": "암컷은 수컷에 비하여 크기가 크고 날개모양이 둥그스름하며 흰무늬도 발달한다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "세줄나비와 비슷한 서식지에서 두 종이 혼서하는 경우가 많다. 수컷은 습지에 내려와 흡수하거나 등산객이 버린 쓰레기에 잘 날아온다. 또한 썩은 과일이나 오디같은 열매에서도 과즙을 빠는 일이 있다.",
+    "season": null,
+    "overwintering": "애벌레",
+    "distribution": "[중국]\n[러시아]\n[대만]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "세줄나비와 유사하나 앞날개 윗면 제6실의 기부와 그 앞에 작은 흰무늬가 있으며 날개 아랫면이 황갈색을 띠므로 구별된다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "수컷은 뒷날개 뒷면 제7실의 검정색이 연하고 광택이 있어 암컷과 쉽게 구별된다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "암컷은 수컷에 비하여 크기가 크고 날개모양이 둥그스름하며 흰무늬도 발달한다."
+    },
+    {
+      "title": "습성",
+      "text": "세줄나비와 비슷한 서식지에서 두 종이 혼서하는 경우가 많다. 수컷은 습지에 내려와 흡수하거나 등산객이 버린 쓰레기에 잘 날아온다. 또한 썩은 과일이나 오디같은 열매에서도 과즙을 빠는 일이 있다."
+    },
+    {
+      "title": "월동",
+      "text": "애벌레"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[러시아]\n[대만]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDV0057-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0057_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0057_3.jpg",
+      "alt": "참세줄나비 1번째 사진 : 참세줄나비 수컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0057_3_th2.jpg",
+      "caption": "참세줄나비 수컷 이미지",
+      "photographed_at": "20120520",
+      "location": "경기도 포천시 소흘읍 광릉숲",
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRDV0057-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0057_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0057_2_th.jpg",
+      "alt": "참세줄나비 2번째 사진 : 참세줄나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0057_2_th2.jpg",
+      "caption": "참세줄나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDV0057-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0057_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0057_1_th.jpg",
+      "alt": "참세줄나비 3번째 사진 : 참세줄나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0057_1_th2.jpg",
+      "caption": "참세줄나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDV0057-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0306021059",
+      "description": "[FRIE0306021059] 참세줄나비 1983.06.04 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0306021060",
+      "description": "[FRIE0306021060] 참세줄나비 1987.05.26 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0306021061",
+      "description": "[FRIE0306021061] 참세줄나비 1989.05.28 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "개암나무",
+      "scientific_name": "Corylus heterophylla Fisch. ex Trautv."
+    },
+    {
+      "group": "식물",
+      "name_ko": "까치박달",
+      "scientific_name": "Carpinus cordata Blume"
+    },
+    {
+      "group": "식물",
+      "name_ko": "참개암나무",
+      "scientific_name": "Corylus sieboldiana Blume"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDV0057-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDV0057&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:57+00:00",
+    "html_sha256": "55e30960759e386de72a6b0f5930c2b84d5fa93cd0bf18c262e1dd14379171ac",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": "ZEAA0026",
+  "name_ko": "등검은메뚜기",
+  "scientific_name": "Shirakiacris shirakii (Bolívar, 1914)",
+  "display_name": "등검은메뚜기",
+  "family_ko": "메뚜기과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "메뚜기목",
+      "name_latin": "Orthoptera"
+    },
+    "family": {
+      "name_ko": "메뚜기과",
+      "name_latin": "Acrididae"
+    },
+    "subfamily": {
+      "name_ko": "각시메뚜기아과",
+      "name_latin": "Catantopinae"
+    },
+    "genus": {
+      "name_ko": "등검은메뚜기속",
+      "name_latin": "Shirakiacris"
+    }
+  },
+  "taxonomy_text": "목 : 메뚜기목 (Orthoptera)\n과 : 메뚜기과 (Acrididae)\n아과 : 각시메뚜기아과 (Catantopinae)\n속 : 등검은메뚜기속 (Shirakiacris)",
+  "basic_information": {
+    "곤충명": "등검은메뚜기",
+    "학명": "Shirakiacris shirakii (Bolívar, 1914)"
+  },
+  "information": {
+    "general_description": "몸길이는 31~40 mm이다. 몸은 갈색이다. 앞가슴등판은 짙은 갈색을 띠고 좌우로 가는 황색 테두리가 있다. 겹눈에는 가는 세로 줄 무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "다소 습하고 잡초가 엉성하게 난 빈터나 풀밭에서 흔히 볼 수 있다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 31~40 mm이다. 몸은 갈색이다. 앞가슴등판은 짙은 갈색을 띠고 좌우로 가는 황색 테두리가 있다. 겹눈에는 가는 세로 줄 무늬가 있다."
+    },
+    {
+      "title": "습성",
+      "text": "다소 습하고 잡초가 엉성하게 난 빈터나 풀밭에서 흔히 볼 수 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZEAA0026-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0026_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0026_2_th.jpg",
+      "alt": "등검은메뚜기 1번째 사진 : 등검은메뚜기전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0026_2_th2.jpg",
+      "caption": "등검은메뚜기전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZEAA0026-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0026_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0026_1_th.jpg",
+      "alt": "등검은메뚜기 2번째 사진 : 등검은메뚜기전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0026_1_th2.jpg",
+      "caption": "등검은메뚜기전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZEAA0026-1",
+  "specimen_examples": [
+    {
+      "id": "JFNE0306121162",
+      "description": "[JFNE0306121162] 등검은메뚜기 1992.09.22 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0306121164",
+      "description": "[JFNE0306121164] 등검은메뚜기 1992.09.24 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0306121165",
+      "description": "[JFNE0306121165] 등검은메뚜기 1992.09.25 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZEAA0026-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZEAA0026&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:11+00:00",
+    "html_sha256": "ae801e54fd3d00d1d8e6f46488dc39262de7892416db98fb58b36050a52b0297",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

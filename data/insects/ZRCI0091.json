@@ -1,0 +1,122 @@
+{
+  "id": "ZRCI0091",
+  "name_ko": "끝무늬애기자나방",
+  "scientific_name": "Pylargosceles steganioides (Butler, 1878)",
+  "display_name": "끝무늬애기자나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "애기자나방아과",
+      "name_latin": "Sterrhinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Pylargosceles"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 애기자나방아과 (Sterrhinae)\n속 : (Pylargosceles)",
+  "basic_information": {
+    "곤충명": "끝무늬애기자나방",
+    "학명": "Pylargosceles steganioides (Butler, 1878)"
+  },
+  "information": {
+    "general_description": "더듬이는 수컷이 빗살 모양이고, 암컷은 실 모양임, 몸과 날개는 모두 회갈색인데, 이마는 암적갈색임．앞날개의 전연은 주황갈색인데，내횡선은 톱니모양 또는 물결모양임．중횡선은 갈색띠를 수반하고，거의 일직선으로 횡맥점의 바깥쪽을 달림．외횡선은 물결 모양으로 굴곡되고，제２주맥（Cu2)，제３중맥（M3)사이에서　바깥쪽으로 튀어나옴, 뒷날개에는 내횡선이 없음．연모는 안쪽 반이 주황갈색이고，바깥쪽 반은 붉은색을 띰．",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 ４~５월과 ６~７월，８~９월에 출현함．",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 수컷이 빗살 모양이고, 암컷은 실 모양임, 몸과 날개는 모두 회갈색인데, 이마는 암적갈색임．앞날개의 전연은 주황갈색인데，내횡선은 톱니모양 또는 물결모양임．중횡선은 갈색띠를 수반하고，거의 일직선으로 횡맥점의 바깥쪽을 달림．외횡선은 물결 모양으로 굴곡되고，제２주맥（Cu2)，제３중맥（M3)사이에서　바깥쪽으로 튀어나옴, 뒷날개에는 내횡선이 없음．연모는 안쪽 반이 주황갈색이고，바깥쪽 반은 붉은색을 띰．"
+    },
+    {
+      "title": "생태",
+      "text": "성충은 ４~５월과 ６~７월，８~９월에 출현함．"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0091-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0091_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0091_2_th.jpg",
+      "alt": "끝무늬애기자나방 1번째 사진 : 끝무늬애기자나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0091_2_th2.jpg",
+      "caption": "끝무늬애기자나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0091-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0091_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0091_1_th.jpg",
+      "alt": "끝무늬애기자나방 2번째 사진 : 끝무늬애기자나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0091_1_th2.jpg",
+      "caption": "끝무늬애기자나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0091-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0305011030",
+      "description": "[FRIE0305011030] 끝무늬애기자나방 1996.04.29 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0303041035",
+      "description": "[FRIE0303041035] 끝무늬애기자나방 2000.04.19 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0302111040",
+      "description": "[FRIE0302111040] 끝무늬애기자나방 1983.04.21 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRCI0091.png",
+    "reference_image_id": "ZRCI0091-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T15:20:36.550762+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "60d3f637ec827b53589b077d5d181823b10f8a3c4dc1a89ab44c91227e063a5a"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0091&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:05+00:00",
+    "html_sha256": "8922262fb7fac190c0aa87ea9111e3ff430154bf2b7323a246ef7753c35ac4b9",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "id": "ZRCI0401",
+  "name_ko": "노랑가지나방",
+  "scientific_name": "Exangerona prattiaria (Leech, 1891)",
+  "display_name": "노랑가지나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "가지나방아과",
+      "name_latin": "Ennominae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Exangerona"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 가지나방아과 (Ennominae)\n속 : (Exangerona)",
+  "basic_information": {
+    "곤충명": "노랑가지나방",
+    "학명": "Exangerona prattiaria (Leech, 1891)"
+  },
+  "information": {
+    "general_description": "더듬이는 수컷이 빗살 모양,암컷은 실모양. 몸과 날개는 황갈색.\n앞날개의 3선과 뒷날개의 2선은 각각 거의 평행. 앞날개의 외횡선만\n약간 강하게 굴곡. 외횡선의 바깥쪽 제2실, 제3실, 제4실 부근에는 암색\n반문이 있고, 그 바깥쪽 제3실에는 담황색 무늬가 있을때가 많음.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6월에 출현.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 수컷이 빗살 모양,암컷은 실모양. 몸과 날개는 황갈색.\n앞날개의 3선과 뒷날개의 2선은 각각 거의 평행. 앞날개의 외횡선만\n약간 강하게 굴곡. 외횡선의 바깥쪽 제2실, 제3실, 제4실 부근에는 암색\n반문이 있고, 그 바깥쪽 제3실에는 담황색 무늬가 있을때가 많음."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6월에 출현."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0401-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0401_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0401_2_th.jpg",
+      "alt": "노랑가지나방 1번째 사진 : 노랑가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0401_2_th2.jpg",
+      "caption": "노랑가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0401-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0401_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0401_1_th.jpg",
+      "alt": "노랑가지나방 2번째 사진 : 노랑가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0401_1_th2.jpg",
+      "caption": "노랑가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0401-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303071052",
+      "description": "[KNAE0303071052] 노랑가지나방 2000.09.20 / / 국립수목원"
+    },
+    {
+      "id": "FRIE0302171008",
+      "description": "[FRIE0302171008] 노랑가지나방 1985.09.05 / / 국립산림과학원"
+    },
+    {
+      "id": "KNUE0212281532",
+      "description": "[KNUE0212281532] 노랑가지나방 1994.09.22 / / 강원대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRCI0401.png",
+    "reference_image_id": "ZRCI0401-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T11:29:52.573305+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "6535a6c0e41d37a3741de7705ffab9350febbf00f00373d4c5f31c531cb9df52"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0401&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:00+00:00",
+    "html_sha256": "2981fd110122e2599cffc93d1f87b1a842c472f2949378556d8fda9ca7298373",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "ZLBN0051",
+  "name_ko": "흰솜털검정장님노린재",
+  "scientific_name": "Charagochilus (Charagochilus) angusticollis Linnavuori, 1961",
+  "display_name": "흰솜털검정장님노린재",
+  "family_ko": "장님노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "장님노린재상과",
+      "name_latin": "Miroidea"
+    },
+    "family": {
+      "name_ko": "장님노린재과",
+      "name_latin": "Miridae"
+    },
+    "subfamily": {
+      "name_ko": "장님노린재아과",
+      "name_latin": "Mirinae"
+    },
+    "genus": {
+      "name_ko": "솜털검정장님노린재속",
+      "name_latin": "Charagochilus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 장님노린재상과 (Miroidea)\n과 : 장님노린재과 (Miridae)\n아과 : 장님노린재아과 (Mirinae)\n속 : 솜털검정장님노린재속 (Charagochilus)",
+  "basic_information": {
+    "곤충명": "흰솜털검정장님노린재",
+    "학명": "Charagochilus (Charagochilus) angusticollis Linnavuori, 1961"
+  },
+  "information": {
+    "general_description": "몸길이 : 3-4mm\n몸의 등면에는 흑색 미모가 많고, 회백색의 솜털이 등쪽에 산포되고, 점각은 작으나 뚜렷하다. 작은방패판의 선단부의 적갈색의 무늬는 뚜렷하고, 앞가슴등 뒷가장자리의 가는선, 혁질부의 기부와 그 뒤끝 설상부에 접하는 부위 및 설상부의 말단부는 연한 갈색이다 .뒷다리의 무늬, 냄새샘의 개구역은 뚜렷하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "평지와 산지의 잡초 사이에 많다",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 3-4mm\n몸의 등면에는 흑색 미모가 많고, 회백색의 솜털이 등쪽에 산포되고, 점각은 작으나 뚜렷하다. 작은방패판의 선단부의 적갈색의 무늬는 뚜렷하고, 앞가슴등 뒷가장자리의 가는선, 혁질부의 기부와 그 뒤끝 설상부에 접하는 부위 및 설상부의 말단부는 연한 갈색이다 .뒷다리의 무늬, 냄새샘의 개구역은 뚜렷하다."
+    },
+    {
+      "title": "생태",
+      "text": "평지와 산지의 잡초 사이에 많다"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLBN0051-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBN0051_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBN0051_1_th.jpg",
+      "alt": "흰솜털검정장님노린재 1번째 사진 : 흰솜털검정장님노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBN0051_1_th2.jpg",
+      "caption": "흰솜털검정장님노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLBN0051-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0408192014",
+      "description": "[SNUE0408192014] 흰솜털검정장님노린재 2003.10.10 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0408192016",
+      "description": "[SNUE0408192016] 흰솜털검정장님노린재 2003.09.21 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0408192017",
+      "description": "[SNUE0408192017] 흰솜털검정장님노린재 2003.06.30 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLBN0051-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLBN0051&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:40+00:00",
+    "html_sha256": "a1f6c0ed7674dbd2fa5f199cad3377e8765428abacdc6461781f796dfe364efd",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

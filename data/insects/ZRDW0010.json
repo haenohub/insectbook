@@ -1,0 +1,115 @@
+{
+  "id": "ZRDW0010",
+  "name_ko": "구슬무늬원뿔나방",
+  "scientific_name": "Promalactis suzukiella Matsumura, 1931",
+  "display_name": "구슬무늬원뿔나방",
+  "family_ko": "원뿔나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "뿔나방상과",
+      "name_latin": "Gelechioidea"
+    },
+    "family": {
+      "name_ko": "원뿔나방과",
+      "name_latin": "Oecophoridae"
+    },
+    "subfamily": {
+      "name_ko": "원뿔나방아과",
+      "name_latin": "Oecophorinae"
+    },
+    "genus": {
+      "name_ko": "원뿔나방속",
+      "name_latin": "Promalactis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 뿔나방상과 (Gelechioidea)\n과 : 원뿔나방과 (Oecophoridae)\n아과 : 원뿔나방아과 (Oecophorinae)\n속 : 원뿔나방속 (Promalactis)",
+  "basic_information": {
+    "곤충명": "구슬무늬원뿔나방",
+    "학명": "Promalactis suzukiella Matsumura, 1931"
+  },
+  "information": {
+    "general_description": "머리는 은백색이며, 가슴은 황갈색내지 오렌지색을 나타냄. 앞날개의 바탕색은 황갈색이며, 기부의 가로줄은 아주 미미하나 둘째가로줄은 전연 1/4에서 출발하여 후연의 중간에 와 닿음. 전연 3/4지점에 반달걀 모양의 흰색무늬가 뚜렷하여 구별이 쉬움.",
+    "adult": null,
+    "adult_male": "구상돌기와 그네이토스는 잘 발달됨.",
+    "adult_female": "교미관은 길고 교미주머니 속의 시그눔은 하나로 크고 특징적임.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "대한민국(수원, 울산, 소흑산도); 일본.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "머리는 은백색이며, 가슴은 황갈색내지 오렌지색을 나타냄. 앞날개의 바탕색은 황갈색이며, 기부의 가로줄은 아주 미미하나 둘째가로줄은 전연 1/4에서 출발하여 후연의 중간에 와 닿음. 전연 3/4지점에 반달걀 모양의 흰색무늬가 뚜렷하여 구별이 쉬움."
+    },
+    {
+      "title": "성충(수)",
+      "text": "구상돌기와 그네이토스는 잘 발달됨."
+    },
+    {
+      "title": "성충(암)",
+      "text": "교미관은 길고 교미주머니 속의 시그눔은 하나로 크고 특징적임."
+    },
+    {
+      "title": "생태",
+      "text": "대한민국(수원, 울산, 소흑산도); 일본."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDW0010-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDW0010_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDW0010_1_th.jpg",
+      "alt": "구슬무늬원뿔나방 1번째 사진 : 구슬무늬원뿔나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDW0010_1_th2.jpg",
+      "caption": "구슬무늬원뿔나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDW0010-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0302062079",
+      "description": "[KNAE0302062079] 구슬무늬원뿔나방 1989.07.15 / / 국립수목원"
+    },
+    {
+      "id": "UIBE0303181020",
+      "description": "[UIBE0303181020] 구슬무늬원뿔나방 1999.07.12 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0303181018",
+      "description": "[UIBE0303181018] 구슬무늬원뿔나방 1996.06.30 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDW0010.png",
+    "reference_image_id": "ZRDW0010-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T13:51:02.904542+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "13a031701443782affc6db32633c35a3969ee0cfa5cba5dd7f1853e1417c2a37"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDW0010&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:21+00:00",
+    "html_sha256": "506c48e1ab1f00416e0701bb3d59cf0e35a95e30d04f2bebaa5a462aa658cba9",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

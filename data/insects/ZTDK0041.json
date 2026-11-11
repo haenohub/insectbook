@@ -1,0 +1,99 @@
+{
+  "id": "ZTDK0041",
+  "name_ko": "애진딧물벌",
+  "scientific_name": "Pemphredon diervillae Iwata, 1933",
+  "display_name": "애진딧물벌",
+  "family_ko": "은주둥이벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "은주둥이벌과",
+      "name_latin": "Crabronidae"
+    },
+    "subfamily": {
+      "name_ko": "진딧물벌아과",
+      "name_latin": "Pemphredoninae"
+    },
+    "genus": {
+      "name_ko": "진딧물벌속",
+      "name_latin": "Pemphredon"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 은주둥이벌과 (Crabronidae)\n아과 : 진딧물벌아과 (Pemphredoninae)\n속 : 진딧물벌속 (Pemphredon)",
+  "basic_information": {
+    "곤충명": "애진딧물벌",
+    "학명": "Pemphredon diervillae Iwata, 1933"
+  },
+  "information": {
+    "general_description": "몸길이는 7.5mm 이며 머리와가슴에는 잔주름무늬가 있고 흰색 긴 털이 성기게 났다. 가운데방패판 앞판과 뒷방패판 앞이 깊이 도랑이 패였다. 배자루는 점각이 있고 흰색 긴 털이 났으나 배는 원할하다. 제1-3배마디는 양 옆에만 제4배마디 이하는 전면에 또 배면 전면에 백색 긴 털이 성기게 났다. 몸은 흑색이고 다리는 흑갈색이다. 뒷다리 제1발목마디는 나머지 발목을 합친 길이와 같다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 7.5mm 이며 머리와가슴에는 잔주름무늬가 있고 흰색 긴 털이 성기게 났다. 가운데방패판 앞판과 뒷방패판 앞이 깊이 도랑이 패였다. 배자루는 점각이 있고 흰색 긴 털이 났으나 배는 원할하다. 제1-3배마디는 양 옆에만 제4배마디 이하는 전면에 또 배면 전면에 백색 긴 털이 성기게 났다. 몸은 흑색이고 다리는 흑갈색이다. 뒷다리 제1발목마디는 나머지 발목을 합친 길이와 같다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDK0041-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0041_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0041_1_th.jpg",
+      "alt": "애진딧물벌 1번째 사진 : 애기진딧물벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0041_1_th2.jpg",
+      "caption": "애기진딧물벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDK0041-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306262081",
+      "description": "[YNUE0306262081] 애진딧물벌 1971.09.20 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306262082",
+      "description": "[YNUE0306262082] 애진딧물벌 1960.06.06 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDK0041-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDK0041&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:18+00:00",
+    "html_sha256": "d9c5677d76cd1967c34dc064920bc2cd3e0fa516e2928e825e1e508f621fe8bd",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

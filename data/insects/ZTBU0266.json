@@ -1,0 +1,115 @@
+{
+  "id": "ZTBU0266",
+  "name_ko": "검정맵시벌",
+  "scientific_name": "Amblyjoppa cognatoria (Smith, 1874)",
+  "display_name": "검정맵시벌",
+  "family_ko": "맵시벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "맵시벌과",
+      "name_latin": "Ichneumonidae"
+    },
+    "subfamily": {
+      "name_ko": "맵시벌아과",
+      "name_latin": "Ichneumoninae"
+    },
+    "genus": {
+      "name_ko": "검정맵시벌속",
+      "name_latin": "Amblyjoppa"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 맵시벌과 (Ichneumonidae)\n아과 : 맵시벌아과 (Ichneumoninae)\n속 : 검정맵시벌속 (Amblyjoppa)",
+  "basic_information": {
+    "곤충명": "검정맵시벌",
+    "학명": "Amblyjoppa cognatoria (Smith, 1874)"
+  },
+  "information": {
+    "general_description": "몸은 강대하고 점각이 밀포하며 백색인 무늬가 많은 흑색종이다. 앞가슴의 등면 뒷가두리의 양쪽, 어깨판의 끝, 작은방패판, 뒷가슴 등면의 2개의 무늬, 제1배마디의 뒷가두리 등은 황백색 또는 백색이고 그밖에 각 도래마디의 대부분, 넓적다리마디의 끝무늬, 종아리마디의 끝을 제외한 부분도 같은 빛이다. 다리에는 암갈색인 부분이 많다. 날개는 암색이다. 형종 f. maackii UCHIDA 는 뒷가슴이 완전히 흑색이고 가운데가슴의 옆에는 백색 무늬가 없다. 주홍박각시, 등줄박각시등의 유충이나 번데기에 기생한다.",
+    "adult": null,
+    "adult_male": "♂은 큰턱, 머리방패, 뺨과 얼굴의 대부분이 백색이다.",
+    "adult_female": "♀은 눈의 안쪽, 정수리 양쪽 무늬가 백색이다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸은 강대하고 점각이 밀포하며 백색인 무늬가 많은 흑색종이다. 앞가슴의 등면 뒷가두리의 양쪽, 어깨판의 끝, 작은방패판, 뒷가슴 등면의 2개의 무늬, 제1배마디의 뒷가두리 등은 황백색 또는 백색이고 그밖에 각 도래마디의 대부분, 넓적다리마디의 끝무늬, 종아리마디의 끝을 제외한 부분도 같은 빛이다. 다리에는 암갈색인 부분이 많다. 날개는 암색이다. 형종 f. maackii UCHIDA 는 뒷가슴이 완전히 흑색이고 가운데가슴의 옆에는 백색 무늬가 없다. 주홍박각시, 등줄박각시등의 유충이나 번데기에 기생한다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "♂은 큰턱, 머리방패, 뺨과 얼굴의 대부분이 백색이다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "♀은 눈의 안쪽, 정수리 양쪽 무늬가 백색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBU0266-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0266_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0266_1_th.jpg",
+      "alt": "검정맵시벌 1번째 사진 : 검정맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0266_1_th2.jpg",
+      "caption": "검정맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBU0266-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305261154",
+      "description": "[YNUE0305261154] 검정맵시벌 1962.10.05 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305261155",
+      "description": "[YNUE0305261155] 검정맵시벌 1962.10.05 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305301042",
+      "description": "[YNUE0305301042] 검정맵시벌 1977.07.23 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTBU0266.png",
+    "reference_image_id": "ZTBU0266-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T11:24:42.129516+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "d00e700ae55a6765ad10e94fce21bea142b1fa431fa18578407308739ebd4073"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBU0266&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:16+00:00",
+    "html_sha256": "ef30d8dbec8f31ee9dfe6ca19c25e93399b4269e296c76814f49da648bb1f7e4",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

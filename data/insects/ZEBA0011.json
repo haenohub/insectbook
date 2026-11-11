@@ -1,0 +1,114 @@
+{
+  "id": "ZEBA0011",
+  "name_ko": "긴꼬리쌕쌔기",
+  "scientific_name": "Conocephalus (Anisoptera) exemptus (Walker, 1869)",
+  "display_name": "긴꼬리쌕쌔기",
+  "family_ko": "여치과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "메뚜기목",
+      "name_latin": "Orthoptera"
+    },
+    "family": {
+      "name_ko": "여치과",
+      "name_latin": "Tettigoniidae"
+    },
+    "subfamily": {
+      "name_ko": "쌕쌔기아과",
+      "name_latin": "Conocephalinae"
+    },
+    "genus": {
+      "name_ko": "쌕쌔기속",
+      "name_latin": "Conocephalus"
+    }
+  },
+  "taxonomy_text": "목 : 메뚜기목 (Orthoptera)\n과 : 여치과 (Tettigoniidae)\n아과 : 쌕쌔기아과 (Conocephalinae)\n속 : 쌕쌔기속 (Conocephalus)",
+  "basic_information": {
+    "곤충명": "긴꼬리쌕쌔기",
+    "학명": "Conocephalus (Anisoptera) exemptus (Walker, 1869)"
+  },
+  "information": {
+    "general_description": "몸길이 15~20mm이며 몸은 비대하고 머리와 겹눈은 돌출하였다. 그옆쪽 아랫가두리모는 신장하였고 머리꼭대기의 등면은 돌출하였고 폭이 넓고 앞면도 폭이 넓고 앞가슴등은 굵고 안장 모양이다. 옆가슴등의 아랫가두리는 단직하고 뒤아랫각은 적당히 돌출하였다. 뒷가두리는 모가 나고 구부러졌고 수컷의 미모는 밑반이 굵고 끝반은 원추형이고 바깥쪽으로 구부러졌다. 수컷의 생식판은 폭이 넓고 뒷가두리 전체가 얕게 우묵하다. 수컷의 산란관은 길고 앞날개는 폭이 넓고 다리는 모두 굵고 전체가 올리브 담록색이고 머리와 가슴의 등면에 갈색 줄무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국] 동북지방",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 15~20mm이며 몸은 비대하고 머리와 겹눈은 돌출하였다. 그옆쪽 아랫가두리모는 신장하였고 머리꼭대기의 등면은 돌출하였고 폭이 넓고 앞면도 폭이 넓고 앞가슴등은 굵고 안장 모양이다. 옆가슴등의 아랫가두리는 단직하고 뒤아랫각은 적당히 돌출하였다. 뒷가두리는 모가 나고 구부러졌고 수컷의 미모는 밑반이 굵고 끝반은 원추형이고 바깥쪽으로 구부러졌다. 수컷의 생식판은 폭이 넓고 뒷가두리 전체가 얕게 우묵하다. 수컷의 산란관은 길고 앞날개는 폭이 넓고 다리는 모두 굵고 전체가 올리브 담록색이고 머리와 가슴의 등면에 갈색 줄무늬가 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국] 동북지방"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZEBA0011-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0011_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0011_2_th.jpg",
+      "alt": "긴꼬리쌕쌔기 1번째 사진 : 긴꼬리쌕새기전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0011_2_th2.jpg",
+      "caption": "긴꼬리쌕새기전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZEBA0011-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0011_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0011_1_th.jpg",
+      "alt": "긴꼬리쌕쌔기 2번째 사진 : 긴꼬리쌕새기전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0011_1_th2.jpg",
+      "caption": "긴꼬리쌕새기전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZEBA0011-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0301272028",
+      "description": "[UIBE0301272028] 긴꼬리쌕쌔기 1999.10.08 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301272026",
+      "description": "[UIBE0301272026] 긴꼬리쌕쌔기 2000.08.21 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301272029",
+      "description": "[UIBE0301272029] 긴꼬리쌕쌔기 1999.10.08 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZEBA0011.png",
+    "reference_image_id": "ZEBA0011-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T08:41:18.185254+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "44a64bf570d99b43fa11b0532b78e21f3b8b890306100f7fef595214d6d4bcf4"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZEBA0011&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:54+00:00",
+    "html_sha256": "9d0492b439bce2af7316255a6da96e2d9999d1d65f720710d68dbb1bf3ebc6a2",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

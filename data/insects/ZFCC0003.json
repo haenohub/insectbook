@@ -1,0 +1,126 @@
+{
+  "id": "ZFCC0003",
+  "name_ko": "집바퀴",
+  "scientific_name": "Periplaneta japonica Karny, 1908",
+  "display_name": "집바퀴",
+  "family_ko": "왕바퀴과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "바퀴목",
+      "name_latin": "Blattodea"
+    },
+    "family": {
+      "name_ko": "왕바퀴과",
+      "name_latin": "Blattidae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Periplaneta"
+    }
+  },
+  "taxonomy_text": "목 : 바퀴목 (Blattodea)\n과 : 왕바퀴과 (Blattidae)\n속 : (Periplaneta)",
+  "basic_information": {
+    "곤충명": "집바퀴",
+    "학명": "Periplaneta japonica Karny, 1908"
+  },
+  "information": {
+    "general_description": "성충은 20~25mm 정도의 중간크기이다. 몸은 대체로 광택이 있는 흑갈색을 띠고, 더듬이는 실 모양이며, 앞가슴등판에는 불규칙한 함몰 부위가 있다.\n집바퀴는 먹바퀴와 유사하나 크기가 약간 작고, 앞가슴 등판에 약간의 요철이 있는 것으로 구분된다. 바퀴종류 중에서 특이하게 저온에 적응한 종류로서 세계적으로 가장 북쪽에 서식하는 종류로 알려져 있다",
+    "adult": null,
+    "adult_male": "날개가 길어 복부 끝에 달한다.",
+    "adult_female": "몸이 수컷에 비해 현저히 작고, 짙은 색이다. 날개가 복부의 중앙에 달한다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "주로 집안에서 생활하나, 따뜻한 지역에서는 야외의 나무 껍질 속에서 무리 지어 살기도 한다.",
+    "season": null,
+    "overwintering": "유충으로 월동한다.",
+    "distribution": null,
+    "notes": "[위생해충]",
+    "pest_control": null,
+    "references": "학명을 따라 일본 바퀴라고 불리우기도 한다."
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충은 20~25mm 정도의 중간크기이다. 몸은 대체로 광택이 있는 흑갈색을 띠고, 더듬이는 실 모양이며, 앞가슴등판에는 불규칙한 함몰 부위가 있다.\n집바퀴는 먹바퀴와 유사하나 크기가 약간 작고, 앞가슴 등판에 약간의 요철이 있는 것으로 구분된다. 바퀴종류 중에서 특이하게 저온에 적응한 종류로서 세계적으로 가장 북쪽에 서식하는 종류로 알려져 있다"
+    },
+    {
+      "title": "성충(수)",
+      "text": "날개가 길어 복부 끝에 달한다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "몸이 수컷에 비해 현저히 작고, 짙은 색이다. 날개가 복부의 중앙에 달한다."
+    },
+    {
+      "title": "참고사항",
+      "text": "학명을 따라 일본 바퀴라고 불리우기도 한다."
+    },
+    {
+      "title": "습성",
+      "text": "주로 집안에서 생활하나, 따뜻한 지역에서는 야외의 나무 껍질 속에서 무리 지어 살기도 한다."
+    },
+    {
+      "title": "월동",
+      "text": "유충으로 월동한다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[위생해충]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZFCC0003-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/F3/ZFCC0003_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/F3/ZFCC0003_2_th.jpg",
+      "alt": "집바퀴 1번째 사진 : 집바퀴전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/F3/ZFCC0003_2_th2.jpg",
+      "caption": "집바퀴전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZFCC0003-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/F3/ZFCC0003_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/F3/ZFCC0003_1_th.jpg",
+      "alt": "집바퀴 2번째 사진 : 집바퀴전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/F3/ZFCC0003_1_th2.jpg",
+      "caption": "집바퀴전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZFCC0003-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0301079001",
+      "description": "[YNUE0301079001] 집바퀴 1986.05.08 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301079002",
+      "description": "[YNUE0301079002] 집바퀴 1986.05.11 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301079003",
+      "description": "[YNUE0301079003] 집바퀴 1986.06.15 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZFCC0003-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZFCC0003&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:39+00:00",
+    "html_sha256": "7679010f19ea84bc8089aad68d5c2c80be591002400aeb5899bbca75583d9f97",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

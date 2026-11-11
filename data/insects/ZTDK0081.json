@@ -1,0 +1,114 @@
+{
+  "id": "ZTDK0081",
+  "name_ko": "어리조롱박벌",
+  "scientific_name": "Prionyx subfuscatus (Dahlbom, 1845)",
+  "display_name": "어리조롱박벌",
+  "family_ko": "구멍벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "구멍벌과",
+      "name_latin": "Sphecidae"
+    },
+    "subfamily": {
+      "name_ko": "구멍벌아과",
+      "name_latin": "Sphecinae"
+    },
+    "genus": {
+      "name_ko": "어리조롱박벌속",
+      "name_latin": "Prionyx"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 구멍벌과 (Sphecidae)\n아과 : 구멍벌아과 (Sphecinae)\n속 : 어리조롱박벌속 (Prionyx)",
+  "basic_information": {
+    "곤충명": "어리조롱박벌",
+    "학명": "Prionyx subfuscatus (Dahlbom, 1845)"
+  },
+  "information": {
+    "general_description": "암컷(19mm)의 몸은 완전히 흑색이나 배는 광택이 있다. 날개는 투명하고 기부 2/3은 황갈색 또는 황색이고 끝은 흑갈색이고 날개맥은 갈색 또는 황색이다. 수컷(14mm)도 암컷과 같으나 날개의 끝반은 청갈색 또는 흑갈색이고 머리와 가슴에 흑갈색 또는 흑색 털이 났다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷(19mm)의 몸은 완전히 흑색이나 배는 광택이 있다. 날개는 투명하고 기부 2/3은 황갈색 또는 황색이고 끝은 흑갈색이고 날개맥은 갈색 또는 황색이다. 수컷(14mm)도 암컷과 같으나 날개의 끝반은 청갈색 또는 흑갈색이고 머리와 가슴에 흑갈색 또는 흑색 털이 났다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDK0081-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0081_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0081_2_th.jpg",
+      "alt": "어리조롱박벌 1번째 사진 : 어리조롱박벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0081_2_th2.jpg",
+      "caption": "어리조롱박벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTDK0081-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0081_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0081_1_th.jpg",
+      "alt": "어리조롱박벌 2번째 사진 : 어리조롱박벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0081_1_th2.jpg",
+      "caption": "어리조롱박벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDK0081-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306262013",
+      "description": "[YNUE0306262013] 어리조롱박벌 1958.09.20 / / 영남대학교"
+    },
+    {
+      "id": "KNAE0703120006",
+      "description": "[KNAE0703120006] 어리조롱박벌 1999.07.23 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0911132068",
+      "description": "[KNAE0911132068] 어리조롱박벌 1999.07.23 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDK0081-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDK0081&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:44+00:00",
+    "html_sha256": "c102b3425103c3933522239ab950ba5f0255aced34a5dce7e0c01bc97645dd00",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

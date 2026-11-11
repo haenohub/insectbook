@@ -1,0 +1,107 @@
+{
+  "id": "ZOAR0052",
+  "name_ko": "팽나무알락거위벌레",
+  "scientific_name": "Paroplapoderus (Gomadaranus) vanvolxemi (Roelofs, 1875)",
+  "display_name": "팽나무알락거위벌레",
+  "family_ko": "거위벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "거위벌레과",
+      "name_latin": "Attelabidae"
+    },
+    "subfamily": {
+      "name_ko": "목거위벌레아과",
+      "name_latin": "Apoderinae"
+    },
+    "genus": {
+      "name_ko": "혹등목거위벌레속",
+      "name_latin": "Paroplapoderus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 거위벌레과 (Attelabidae)\n아과 : 목거위벌레아과 (Apoderinae)\n속 : 혹등목거위벌레속 (Paroplapoderus)",
+  "basic_information": {
+    "곤충명": "팽나무알락거위벌레",
+    "학명": "Paroplapoderus (Gomadaranus) vanvolxemi (Roelofs, 1875)"
+  },
+  "information": {
+    "general_description": "한국, 일본, 러시아에 분포하며, 체장은 4.5-4.7mm 정도이다. 시초의 중앙에 원추형의 혹이 있다. 몸은 적색으로 검은색의 무늬를 이루는데 머리와 앞가슴등판 시초는 거의 검은 빛이며 적색의 무늬를 가지는 모양이다. 뒷다리의 퇴절의 중반 이후도 검은색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 러시아에 분포하며, 체장은 4.5-4.7mm 정도이다. 시초의 중앙에 원추형의 혹이 있다. 몸은 적색으로 검은색의 무늬를 이루는데 머리와 앞가슴등판 시초는 거의 검은 빛이며 적색의 무늬를 가지는 모양이다. 뒷다리의 퇴절의 중반 이후도 검은색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAR0052-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0052_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0052_1_th.jpg",
+      "alt": "팽나무알락거위벌레 1번째 사진 : 팽나무알락거위벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0052_1_th2.jpg",
+      "caption": "팽나무알락거위벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAR0052-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0303311007",
+      "description": "[FRIE0303311007] 팽나무알락거위벌레 1980.05.20 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0303311008",
+      "description": "[FRIE0303311008] 팽나무알락거위벌레 1981.04.22 / / 국립산림과학원"
+    },
+    {
+      "id": "ENHE0605181024",
+      "description": "[ENHE0605181024] 팽나무알락거위벌레 1984.05.27 / / 이화여자대학교 자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAR0052-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAR0052&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:39+00:00",
+    "html_sha256": "81087acddf7d30fd5c8e811f31f4a28084f42dd36b62666ee2dcfc4cb19ed8d9",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

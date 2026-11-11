@@ -1,0 +1,110 @@
+{
+  "id": "ZEAA0054",
+  "name_ko": "두꺼비메뚜기",
+  "scientific_name": "Trilophidia annulata (Thunberg, 1815)",
+  "display_name": "두꺼비메뚜기",
+  "family_ko": "메뚜기과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "메뚜기목",
+      "name_latin": "Orthoptera"
+    },
+    "family": {
+      "name_ko": "메뚜기과",
+      "name_latin": "Acrididae"
+    },
+    "subfamily": {
+      "name_ko": "풀무치아과",
+      "name_latin": "Oedipodinae"
+    },
+    "genus": {
+      "name_ko": "두꺼비메뚜기속",
+      "name_latin": "Trilophidia"
+    }
+  },
+  "taxonomy_text": "목 : 메뚜기목 (Orthoptera)\n과 : 메뚜기과 (Acrididae)\n아과 : 풀무치아과 (Oedipodinae)\n속 : 두꺼비메뚜기속 (Trilophidia)",
+  "basic_information": {
+    "곤충명": "두꺼비메뚜기",
+    "학명": "Trilophidia annulata (Thunberg, 1815)"
+  },
+  "information": {
+    "general_description": "몸길이는 32~45 mm이다. 몸은 회색 또는 암색인데 더듬이에는 흑색 고리가 있다. 앞가슴은 가늘게 잘록하고 혹 모양의 돌기가 많고 뒷가두리는 직각에 가깝고 양쪽에 흑색 무늬가 나란히 있다. 앞날개는 가늘고 말단보다 길며 날개 밑 부분에 흑갈색 무늬가 많이 있다. 뒷허벅마디는 미단보다 길고 그 윗쪽에 2개의 흑색 무늬가 있는데 중앙의 것은 삼각형으로 되었다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[대만]\n[인도]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 32~45 mm이다. 몸은 회색 또는 암색인데 더듬이에는 흑색 고리가 있다. 앞가슴은 가늘게 잘록하고 혹 모양의 돌기가 많고 뒷가두리는 직각에 가깝고 양쪽에 흑색 무늬가 나란히 있다. 앞날개는 가늘고 말단보다 길며 날개 밑 부분에 흑갈색 무늬가 많이 있다. 뒷허벅마디는 미단보다 길고 그 윗쪽에 2개의 흑색 무늬가 있는데 중앙의 것은 삼각형으로 되었다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[대만]\n[인도]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZEAA0054-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0054_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0054_2_th.jpg",
+      "alt": "두꺼비메뚜기 1번째 사진 : 두꺼비메뚜기전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0054_2_th2.jpg",
+      "caption": "두꺼비메뚜기전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZEAA0054-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0054_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0054_1_th.jpg",
+      "alt": "두꺼비메뚜기 2번째 사진 : 두꺼비메뚜기전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0054_1_th2.jpg",
+      "caption": "두꺼비메뚜기전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZEAA0054-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0408241125",
+      "description": "[UIBE0408241125] 두꺼비메뚜기 2002.10.04 / / 인천대학교"
+    },
+    {
+      "id": "CBNE0306151077",
+      "description": "[CBNE0306151077] 두꺼비메뚜기 1993.06.24 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0306151078",
+      "description": "[CBNE0306151078] 두꺼비메뚜기 1996.05.30 / / 충북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZEAA0054-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZEAA0054&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:34+00:00",
+    "html_sha256": "8c459bf28b903b8573fa2b90441efaa01e9e09c8b07e16ceb18a9e6789891156",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

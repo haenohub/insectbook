@@ -1,0 +1,99 @@
+{
+  "id": "ZEBA0028",
+  "name_ko": "긴날개중베짱이",
+  "scientific_name": "Tettigonia dolichoptera Mori, 1933",
+  "display_name": "긴날개중베짱이",
+  "family_ko": "여치과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "메뚜기목",
+      "name_latin": "Orthoptera"
+    },
+    "family": {
+      "name_ko": "여치과",
+      "name_latin": "Tettigoniidae"
+    },
+    "subfamily": {
+      "name_ko": "여치아과",
+      "name_latin": "Tettigoniinae"
+    },
+    "genus": {
+      "name_ko": "중베짱이속",
+      "name_latin": "Tettigonia"
+    }
+  },
+  "taxonomy_text": "목 : 메뚜기목 (Orthoptera)\n과 : 여치과 (Tettigoniidae)\n아과 : 여치아과 (Tettigoniinae)\n속 : 중베짱이속 (Tettigonia)",
+  "basic_information": {
+    "곤충명": "긴날개중베짱이",
+    "학명": "Tettigonia dolichoptera Mori, 1933"
+  },
+  "information": {
+    "general_description": "몸길이 28~34mm이고 1933년에 모리 박사가 신의주산의 것이 앞날개가 대단히 길고 폭이 좁고 다리도 길다하여 신종으로 발표한 것이다. 머리꼭대기돌기는 폭이 넓고 종구돌기가 분명치 낳고 앞가슴등횡구 제 1은 뒷쪽이 다소 만곡하고 제 2는 v자형이며 제 3은 직선으로 되었다. 뒷쪽 편평부에 1종융기선이 있다. 앞가슴배판에는 1쌍의 긴 가시가 있고 가운데가슴 복판에는 1쌍의 긴 삼각형돌기각 있으며 뒷가슴복판에는 1쌍의 편평한 삼각형돌기가 있다. 수컷의 버금생식판은 굵고 뒷가두리는 삼각형으로 오목하고 미모는 안으로 향하였고 기부에 가까운 안쪽에 다소 아래로 향한 1개의 큰 가시가 있다. 몸은 밤색이고, 날개는 녹색인데 날개맥의 기부는 굵고 어두운 갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 28~34mm이고 1933년에 모리 박사가 신의주산의 것이 앞날개가 대단히 길고 폭이 좁고 다리도 길다하여 신종으로 발표한 것이다. 머리꼭대기돌기는 폭이 넓고 종구돌기가 분명치 낳고 앞가슴등횡구 제 1은 뒷쪽이 다소 만곡하고 제 2는 v자형이며 제 3은 직선으로 되었다. 뒷쪽 편평부에 1종융기선이 있다. 앞가슴배판에는 1쌍의 긴 가시가 있고 가운데가슴 복판에는 1쌍의 긴 삼각형돌기각 있으며 뒷가슴복판에는 1쌍의 편평한 삼각형돌기가 있다. 수컷의 버금생식판은 굵고 뒷가두리는 삼각형으로 오목하고 미모는 안으로 향하였고 기부에 가까운 안쪽에 다소 아래로 향한 1개의 큰 가시가 있다. 몸은 밤색이고, 날개는 녹색인데 날개맥의 기부는 굵고 어두운 갈색이다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZEBA0028-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0028_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0028_1_th.jpg",
+      "alt": "긴날개중베짱이 1번째 사진 : 긴날개중베짱이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0028_1_th2.jpg",
+      "caption": "긴날개중베짱이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZEBA0028-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0306192102",
+      "description": "[SNUE0306192102] 긴날개중베짱이 1978.08.10 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0306192103",
+      "description": "[SNUE0306192103] 긴날개중베짱이 1973.07.23 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0306192104",
+      "description": "[SNUE0306192104] 긴날개중베짱이 1970.08.22 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZEBA0028.png",
+    "reference_image_id": "ZEBA0028-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T08:49:55.148193+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "a503ee1c6b31a4138baef17ff2759d8d59363ee75e7790a8f351c040fe2bbda1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZEBA0028&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:57+00:00",
+    "html_sha256": "7ccb7d95d9885be668ce6351ffd1444d3152af84c497d918a54d0f13c2fed90d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

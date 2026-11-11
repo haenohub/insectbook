@@ -1,0 +1,118 @@
+{
+  "id": "ZLAH0003",
+  "name_ko": "물자라",
+  "scientific_name": "Appasus japonicus (Vuillefroy, 1864)",
+  "display_name": "물자라",
+  "family_ko": "물장군과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "family": {
+      "name_ko": "물장군과",
+      "name_latin": "Belostomatidae"
+    },
+    "subfamily": {
+      "name_ko": "물장군아과",
+      "name_latin": "Belostomatinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Appasus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n과 : 물장군과 (Belostomatidae)\n아과 : 물장군아과 (Belostomatinae)\n속 : (Appasus)",
+  "basic_information": {
+    "곤충명": "물자라",
+    "학명": "Appasus japonicus (Vuillefroy, 1864)"
+  },
+  "information": {
+    "general_description": "몸길이: 15~22mm\n몸은 갈색 또는 황갈색을 띠며, 등면은 납작하고 타원형이다. 머리는 폭이 넓은 삼각형 모양이며 앞으로 돌출하였다. 더듬이는 4마디이고, 2-3마디는 옆면이 길게 발달하였고 끝마디는 엄지손가락 모양이다. 앞가슴등판은 폭이 넓고 뒷쪽 2/3부위에 가로홈이 있다. 옆가장자리는 나뭇잎모양으로 확장되었다. 작은 방패판은 크고 정삼각형이다. 앞날개는 광택이 있고, 혁질부에는 그물눈형의 날개맥이다. 막질부는 좁고 배 끝까지 도달한다. 배는 앞날개 밑에 가려져 있다. 앞다리는 포획다리를 형성하고, 발톱이 2개이다. 가운데다리와 뒷다리는 헤엄다리를 형성하며 종아리마디에는 잔털이 한 방향으로 밀생한다. 배 끝에는 짧은 숨관이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "하천이나 저수지의 고요한 물속에 서식하고, 작은 어류나 올챙이등의 체액을 빨아 먹는다.",
+    "habits": "암컷은 수컷의 등에 알덩이를 산란하여 부착시키고, 수컷은 부화할 때까지 부착하여 다니며 돌본다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이: 15~22mm\n몸은 갈색 또는 황갈색을 띠며, 등면은 납작하고 타원형이다. 머리는 폭이 넓은 삼각형 모양이며 앞으로 돌출하였다. 더듬이는 4마디이고, 2-3마디는 옆면이 길게 발달하였고 끝마디는 엄지손가락 모양이다. 앞가슴등판은 폭이 넓고 뒷쪽 2/3부위에 가로홈이 있다. 옆가장자리는 나뭇잎모양으로 확장되었다. 작은 방패판은 크고 정삼각형이다. 앞날개는 광택이 있고, 혁질부에는 그물눈형의 날개맥이다. 막질부는 좁고 배 끝까지 도달한다. 배는 앞날개 밑에 가려져 있다. 앞다리는 포획다리를 형성하고, 발톱이 2개이다. 가운데다리와 뒷다리는 헤엄다리를 형성하며 종아리마디에는 잔털이 한 방향으로 밀생한다. 배 끝에는 짧은 숨관이 있다."
+    },
+    {
+      "title": "생태",
+      "text": "하천이나 저수지의 고요한 물속에 서식하고, 작은 어류나 올챙이등의 체액을 빨아 먹는다."
+    },
+    {
+      "title": "습성",
+      "text": "암컷은 수컷의 등에 알덩이를 산란하여 부착시키고, 수컷은 부화할 때까지 부착하여 다니며 돌본다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLAH0003-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAH0003_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAH0003_2_th.jpg",
+      "alt": "물자라 1번째 사진 : 물자라전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAH0003_2_th2.jpg",
+      "caption": "물자라전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZLAH0003-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAH0003_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAH0003_1_th.jpg",
+      "alt": "물자라 2번째 사진 : 물자라전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAH0003_1_th2.jpg",
+      "caption": "물자라전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLAH0003-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0407291036",
+      "description": "[MPME0407291036] 물자라 1999.09.24 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0407291035",
+      "description": "[MPME0407291035] 물자라 1999.09.24 / / 목포자연사박물관"
+    },
+    {
+      "id": "KNAE0303192016",
+      "description": "[KNAE0303192016] 물자라 1997.08.27 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLAH0003-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLAH0003&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:42+00:00",
+    "html_sha256": "7a64e519d3d2d61935bfd0ef24951e535ad6a62dc9c5cfece0a7d5b9e98c6311",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

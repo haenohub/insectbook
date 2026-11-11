@@ -1,0 +1,99 @@
+{
+  "id": "ZOBH0225",
+  "name_ko": "큰긴먼지벌레",
+  "scientific_name": "Pterostichus (Platysma) eschscholtzii (Germar, 1824)",
+  "display_name": "큰긴먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "먼지벌레아과",
+      "name_latin": "Harpalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Pterostichus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 먼지벌레아과 (Harpalinae)\n속 : (Pterostichus)",
+  "basic_information": {
+    "곤충명": "큰긴먼지벌레",
+    "학명": "Pterostichus (Platysma) eschscholtzii (Germar, 1824)"
+  },
+  "information": {
+    "general_description": "몸길이는 10mm 정도이며 몸색깔은 전체 흑색의 광택이 나며 다리나 더듬이 수염따위에 갈색 또는 황색인 종도 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 10mm 정도이며 몸색깔은 전체 흑색의 광택이 나며 다리나 더듬이 수염따위에 갈색 또는 황색인 종도 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0225-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0225_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0225_1_th.jpg",
+      "alt": "큰긴먼지벌레 1번째 사진 : 큰긴먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0225_1_th2.jpg",
+      "caption": "큰긴먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0225-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0204301011",
+      "description": "[FRIE0204301011] 큰긴먼지벌레 1984.05.13 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0204301012",
+      "description": "[FRIE0204301012] 큰긴먼지벌레 1984.05.15 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0204301013",
+      "description": "[FRIE0204301013] 큰긴먼지벌레 1982.05.27 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0225-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0225&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:39+00:00",
+    "html_sha256": "3fbd5a0a28aa7f983e5c893fdd871641fbd703541b6c71f7cb5b401045aeaa1d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

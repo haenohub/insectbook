@@ -1,0 +1,189 @@
+{
+  "id": "ZREB0003",
+  "name_ko": "애호랑나비",
+  "scientific_name": "Luehdorfia puziloi (Erschoff, 1872)",
+  "display_name": "애호랑나비",
+  "family_ko": "호랑나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "호랑나비과",
+      "name_latin": "Papilionidae"
+    },
+    "subfamily": {
+      "name_ko": "모시나비아과",
+      "name_latin": "Parnassiinae"
+    },
+    "genus": {
+      "name_ko": "애호랑나비속",
+      "name_latin": "Luehdorfia"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 호랑나비과 (Papilionidae)\n아과 : 모시나비아과 (Parnassiinae)\n속 : 애호랑나비속 (Luehdorfia)",
+  "basic_information": {
+    "곤충명": "애호랑나비",
+    "학명": "Luehdorfia puziloi (Erschoff, 1872)"
+  },
+  "information": {
+    "general_description": "날개 편 길이는 50mm내외. 배와 날개 기부에 긴 털이 나 있고, 뒷날개 후각에 붉은 무늬가 있는 것이 특징이다. 미상돌기는 다소 발달해 있다.",
+    "adult": null,
+    "adult_male": "복부끝에 잔털이 없고, 교미한 후 수태낭이 생긴다.",
+    "adult_female": "복부끝에 수태낭이 없고 잔털이 나 있다.",
+    "larva": "1령: 흑갈색을 띠며, 취각이 뚜렷히 형성되 있지 않다. 2령: 흑갈색을 띠며, 취각이 형성되 있다. 3령: 측면에 노란 점 무늬가 생긴다.",
+    "egg": "산란직후에는 유백색을 띠나 시간이 지남에 따라 붉은 색을 띠게 된다.",
+    "pupa": "갈색을 띠며, 등의 돌기는 뚜렷히 형성되어 있지 않다.",
+    "ecology": "연 1회 발생하며, 낮은 산지의 계곡, 숲 가장자리에서 활동하며, 진달래, 얼레지, 제비꽃의 꿀을 빤다. 수컷은 산 능선 주위를 날아다니며, 풀 위에서 햇빛을 쬐기도 한다. 교미가 끝난 암컷은 5월 초순쯤 기주식물의 잎 뒷면에 6-15개 가량의 알을 산란한다.",
+    "habits": "수컷은 교미후 암컷의 배끝에 분비물을 뭍혀서 수태낭을 만든다. 유충 1령기에는 모여서 생활하다가 3령이 되서는 흩어진다.",
+    "season": null,
+    "overwintering": "번데기, 식초주변 낙엽밑에서 월동",
+    "distribution": "[일본]\n[중국]\n[러시아]",
+    "notes": "[보통종]\n[흡밀곤충] 진달래, 얼레지, 제비꽃",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개 편 길이는 50mm내외. 배와 날개 기부에 긴 털이 나 있고, 뒷날개 후각에 붉은 무늬가 있는 것이 특징이다. 미상돌기는 다소 발달해 있다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "복부끝에 잔털이 없고, 교미한 후 수태낭이 생긴다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "복부끝에 수태낭이 없고 잔털이 나 있다."
+    },
+    {
+      "title": "번데기",
+      "text": "갈색을 띠며, 등의 돌기는 뚜렷히 형성되어 있지 않다."
+    },
+    {
+      "title": "유충",
+      "text": "1령: 흑갈색을 띠며, 취각이 뚜렷히 형성되 있지 않다. 2령: 흑갈색을 띠며, 취각이 형성되 있다. 3령: 측면에 노란 점 무늬가 생긴다."
+    },
+    {
+      "title": "생태",
+      "text": "연 1회 발생하며, 낮은 산지의 계곡, 숲 가장자리에서 활동하며, 진달래, 얼레지, 제비꽃의 꿀을 빤다. 수컷은 산 능선 주위를 날아다니며, 풀 위에서 햇빛을 쬐기도 한다. 교미가 끝난 암컷은 5월 초순쯤 기주식물의 잎 뒷면에 6-15개 가량의 알을 산란한다."
+    },
+    {
+      "title": "습성",
+      "text": "수컷은 교미후 암컷의 배끝에 분비물을 뭍혀서 수태낭을 만든다. 유충 1령기에는 모여서 생활하다가 3령이 되서는 흩어진다."
+    },
+    {
+      "title": "월동",
+      "text": "번데기, 식초주변 낙엽밑에서 월동"
+    },
+    {
+      "title": "알",
+      "text": "산란직후에는 유백색을 띠나 시간이 지남에 따라 붉은 색을 띠게 된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]\n[흡밀곤충] 진달래, 얼레지, 제비꽃"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREB0003-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZREB0003_5.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZREB0003_5.jpg",
+      "alt": "애호랑나비 1번째 사진 : ",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZREB0003_5_th2.jpg",
+      "caption": null,
+      "photographed_at": "20110519",
+      "location": null,
+      "photographer": "국립수목원(임종옥)"
+    },
+    {
+      "id": "ZREB0003-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZREB0003_4.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZREB0003_4.jpg",
+      "alt": "애호랑나비 2번째 사진 : 애호랑나비 수컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZREB0003_4_th2.jpg",
+      "caption": "애호랑나비 수컷 이미지",
+      "photographed_at": "20180411",
+      "location": "경기도 포천시 소흘읍 광릉숲",
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZREB0003-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZREB0003_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZREB0003_3.jpg",
+      "alt": "애호랑나비 3번째 사진 : 애호랑나비 수컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZREB0003_3_th2.jpg",
+      "caption": "애호랑나비 수컷 이미지",
+      "photographed_at": "20200331",
+      "location": null,
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZREB0003-4",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREB0003_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREB0003_2_th.jpg",
+      "alt": "애호랑나비 4번째 사진 : 애호랑나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREB0003_2_th2.jpg",
+      "caption": "애호랑나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREB0003-5",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREB0003_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREB0003_1_th.jpg",
+      "alt": "애호랑나비 5번째 사진 : 애호랑나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREB0003_1_th2.jpg",
+      "caption": "애호랑나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREB0003-1",
+  "specimen_examples": [
+    {
+      "id": "JFNE0304071071",
+      "description": "[JFNE0304071071] 애호랑나비 1994.04.11 / / 제주자연사박물관"
+    },
+    {
+      "id": "SJNE0306131162",
+      "description": "[SJNE0306131162] 애호랑나비 2003.06.05 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0306131163",
+      "description": "[SJNE0306131163] 애호랑나비 2003.06.05 / / 상주대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "만주족도리풀",
+      "scientific_name": "Asarum mandshuricum (Maxim.) M.Kim & S.So"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREB0003-4"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREB0003&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:19+00:00",
+    "html_sha256": "6acdbf577b21ed53c1d7b6f4ece60a592dc7e551626d310dac26931ce5c0130d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

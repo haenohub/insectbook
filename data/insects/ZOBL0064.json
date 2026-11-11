@@ -1,0 +1,150 @@
+{
+  "id": "ZOBL0064",
+  "name_ko": "꽃하늘소",
+  "scientific_name": "Leptura (Leptura) aethiops Poda, 1761",
+  "display_name": "꽃하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "꽃하늘소아과",
+      "name_latin": "Lepturinae"
+    },
+    "genus": {
+      "name_ko": "꽃하늘소속",
+      "name_latin": "Leptura"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 꽃하늘소아과 (Lepturinae)\n속 : 꽃하늘소속 (Leptura)",
+  "basic_information": {
+    "곤충명": "꽃하늘소",
+    "학명": "Leptura (Leptura) aethiops Poda, 1761"
+  },
+  "information": {
+    "general_description": "체장 12.0~17.0 mm. 딱지날개, 더듬이와 다리는 전체적으로 검은색이다. 머리에는 작은 점각들이 밀집하고 중앙의 세로 홈이 있다. 정수리는 짧고 긴 털들이 밀집한다. 앞가슴등판에는 드문드문 회색 빛과 어두운 색의 연모가 밀집하며, 앞 가장자리에는 가로의 좁은 융기선이 있고 기부에는 가로의 홈이 있고, 이는 뒤 가장자리 쪽으로 돌기모양을 형성한다. 복부는 밀집한 회색 빛 연모로 뒤덮여 있다.",
+    "adult": null,
+    "adult_male": "수컷은 암컷보다 앞가슴등판이 길다.",
+    "adult_female": "암컷은 수컷보다 앞가슴등판이 짧다.",
+    "larva": "머리는 앞쪽으로 다소 좁아지며, 긴 강모들이 앞쪽 반의 측면에 밀집한다. 이마방패는 현저히 앞쪽으로 좁아진다. 앞가슴등판은 기부에서 둥글며, 앞쪽으로 넓어지고, 가로의 노란색 띠가 중앙 세로의 불분명한 선으로 나뉜다. 복부 측면에는 짧은 털들이 드물게 있다.",
+    "egg": "길이 1.9 mm 내외. 너비 0.6 mm 내외. 흰색이며, 길쭉하다. 양 말단 쪽으로 가늘게 좁아진다. 난포막에는 큰 세포 모양의 문양이 있다.",
+    "pupa": "몸은 길쭉하다. 머리의 볼록한 부분은 더듬이 사이에 가로형으로 있으며, 양 가장자리에는 강모뭉치가 세로의 띠를 형성한다. 앞가슴등판은 길쭉하고 앞쪽 가장자리에는 뾰족한 돌기물이 있다. 복부는 좁고 뒤쪽으로 서서히 좁아진다.",
+    "ecology": "활엽수(Alnus, Betula, Salix, Tilia, Quercus, Corylus)등에서 성장하며, 유충은 줄기나 가지 안에서 생활한다.",
+    "habits": "다양한 꽃에 모이는 습성이 있다.",
+    "season": null,
+    "overwintering": "유충",
+    "distribution": null,
+    "notes": null,
+    "pest_control": "경제적 피해 유발 해충으로 알려져 있지 않아, 종 특이적 방제법은 현재까지 없다.",
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체장 12.0~17.0 mm. 딱지날개, 더듬이와 다리는 전체적으로 검은색이다. 머리에는 작은 점각들이 밀집하고 중앙의 세로 홈이 있다. 정수리는 짧고 긴 털들이 밀집한다. 앞가슴등판에는 드문드문 회색 빛과 어두운 색의 연모가 밀집하며, 앞 가장자리에는 가로의 좁은 융기선이 있고 기부에는 가로의 홈이 있고, 이는 뒤 가장자리 쪽으로 돌기모양을 형성한다. 복부는 밀집한 회색 빛 연모로 뒤덮여 있다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "수컷은 암컷보다 앞가슴등판이 길다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "암컷은 수컷보다 앞가슴등판이 짧다."
+    },
+    {
+      "title": "번데기",
+      "text": "몸은 길쭉하다. 머리의 볼록한 부분은 더듬이 사이에 가로형으로 있으며, 양 가장자리에는 강모뭉치가 세로의 띠를 형성한다. 앞가슴등판은 길쭉하고 앞쪽 가장자리에는 뾰족한 돌기물이 있다. 복부는 좁고 뒤쪽으로 서서히 좁아진다."
+    },
+    {
+      "title": "유충",
+      "text": "머리는 앞쪽으로 다소 좁아지며, 긴 강모들이 앞쪽 반의 측면에 밀집한다. 이마방패는 현저히 앞쪽으로 좁아진다. 앞가슴등판은 기부에서 둥글며, 앞쪽으로 넓어지고, 가로의 노란색 띠가 중앙 세로의 불분명한 선으로 나뉜다. 복부 측면에는 짧은 털들이 드물게 있다."
+    },
+    {
+      "title": "생태",
+      "text": "활엽수(Alnus, Betula, Salix, Tilia, Quercus, Corylus)등에서 성장하며, 유충은 줄기나 가지 안에서 생활한다."
+    },
+    {
+      "title": "습성",
+      "text": "다양한 꽃에 모이는 습성이 있다."
+    },
+    {
+      "title": "월동",
+      "text": "유충"
+    },
+    {
+      "title": "방제법",
+      "text": "경제적 피해 유발 해충으로 알려져 있지 않아, 종 특이적 방제법은 현재까지 없다."
+    },
+    {
+      "title": "알",
+      "text": "길이 1.9 mm 내외. 너비 0.6 mm 내외. 흰색이며, 길쭉하다. 양 말단 쪽으로 가늘게 좁아진다. 난포막에는 큰 세포 모양의 문양이 있다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0064-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0064_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0064_2_th.jpg",
+      "alt": "꽃하늘소 1번째 사진 : 꽃하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0064_2_th2.jpg",
+      "caption": "꽃하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBL0064-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0064_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0064_1_th.jpg",
+      "alt": "꽃하늘소 2번째 사진 : 꽃하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0064_1_th2.jpg",
+      "caption": "꽃하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0064-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408201032",
+      "description": "[MPME0408201032] 꽃하늘소 2001.05.16 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408201031",
+      "description": "[MPME0408201031] 꽃하늘소 2000.05.16 / / 목포자연사박물관"
+    },
+    {
+      "id": "UIBE0301282056",
+      "description": "[UIBE0301282056] 꽃하늘소 1985.06.06 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBL0064.png",
+    "reference_image_id": "ZOBL0064-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T14:54:29.427682+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "aa8327e1688e472f4f87b35f373be3e9a534d50125b5809b68ae6a6eabee1d28"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0064&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:57+00:00",
+    "html_sha256": "31b4688e434b5e39190ffe21cc1ee3f81fef27216a5d682aa76d08d8965d6865",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

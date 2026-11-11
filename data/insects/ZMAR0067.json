@@ -1,0 +1,222 @@
+{
+  "id": "ZMAR0067",
+  "name_ko": "끝검은말매미충",
+  "scientific_name": "Bothrogonia ferruginea (Fabricius, 1787)",
+  "display_name": "끝검은말매미충",
+  "family_ko": "매미충과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "뿔매미상과",
+      "name_latin": "Membracoidea"
+    },
+    "family": {
+      "name_ko": "매미충과",
+      "name_latin": "Cicadellidae"
+    },
+    "subfamily": {
+      "name_ko": "말매미충아과",
+      "name_latin": "Cicadellinae"
+    },
+    "genus": {
+      "name_ko": "끝검은말매미충속",
+      "name_latin": "Bothrogonia"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 뿔매미상과 (Membracoidea)\n과 : 매미충과 (Cicadellidae)\n아과 : 말매미충아과 (Cicadellinae)\n속 : 끝검은말매미충속 (Bothrogonia)",
+  "basic_information": {
+    "곤충명": "끝검은말매미충",
+    "학명": "Bothrogonia ferruginea (Fabricius, 1787)"
+  },
+  "information": {
+    "general_description": "몸길이: 약 11-13.5 mm. 매미충류 중에서 대형종에 속한다. 몸의 색은 광택을 띤 황록색이지만 죽으면 주황색 또는 등황색으로 바뀐다. 아랫면과 다리의 기부는 검다. 머리는 현저하게 작고 둥글게 돌출하였고 앞가슴판보다 훨씬 좁다. 정수리의 홑눈 사이, 앞이마 및 얼굴 중앙부에 각각 한 개씩의 흑색 점을 가진다. 앞가슴등판에는 삼각형으로 세개의 점을 가진다. 앞날개의 선단부는 검은 띠를 특징적으로 가진다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충으로 월동하고 봄, 여름에 수관(樹冠)에 서식하면서 즙액을 흡즙한다. 자세한 생활 경과나 발생 회수 등은 밝혀지지 않았다.",
+    "habits": "각종 수목 및 과수의 즙액을 흡즙 가해한다.",
+    "season": null,
+    "overwintering": "성충으로 월동한다.",
+    "distribution": "[대만]\n[일본]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이: 약 11-13.5 mm. 매미충류 중에서 대형종에 속한다. 몸의 색은 광택을 띤 황록색이지만 죽으면 주황색 또는 등황색으로 바뀐다. 아랫면과 다리의 기부는 검다. 머리는 현저하게 작고 둥글게 돌출하였고 앞가슴판보다 훨씬 좁다. 정수리의 홑눈 사이, 앞이마 및 얼굴 중앙부에 각각 한 개씩의 흑색 점을 가진다. 앞가슴등판에는 삼각형으로 세개의 점을 가진다. 앞날개의 선단부는 검은 띠를 특징적으로 가진다."
+    },
+    {
+      "title": "생태",
+      "text": "성충으로 월동하고 봄, 여름에 수관(樹冠)에 서식하면서 즙액을 흡즙한다. 자세한 생활 경과나 발생 회수 등은 밝혀지지 않았다."
+    },
+    {
+      "title": "습성",
+      "text": "각종 수목 및 과수의 즙액을 흡즙 가해한다."
+    },
+    {
+      "title": "월동",
+      "text": "성충으로 월동한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대만]\n[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMAR0067-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZMAR0067_4.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZMAR0067_4.jpg",
+      "alt": "끝검은말매미충 1번째 사진 : ",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZMAR0067_4_th2.jpg",
+      "caption": null,
+      "photographed_at": "20120507",
+      "location": null,
+      "photographer": "국립수목원(임종옥)"
+    },
+    {
+      "id": "ZMAR0067-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZMAR0067_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZMAR0067_3.jpg",
+      "alt": "끝검은말매미충 2번째 사진 : ",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZMAR0067_3_th2.jpg",
+      "caption": null,
+      "photographed_at": "20120825",
+      "location": null,
+      "photographer": "국립수목원(임종옥)"
+    },
+    {
+      "id": "ZMAR0067-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0067_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0067_2_th.jpg",
+      "alt": "끝검은말매미충 3번째 사진 : 끝검은말매미충전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0067_2_th2.jpg",
+      "caption": "끝검은말매미충전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZMAR0067-4",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0067_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0067_1_th.jpg",
+      "alt": "끝검은말매미충 4번째 사진 : 끝검은말매미충전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0067_1_th2.jpg",
+      "caption": "끝검은말매미충전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMAR0067-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0407072052",
+      "description": "[KUIE0407072052] 끝검은말매미충 1983.04.18 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0407072055",
+      "description": "[KUIE0407072055] 끝검은말매미충 1983.05.28 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0407072056",
+      "description": "[KUIE0407072056] 끝검은말매미충 1983.05.29 / / 고려대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "감나무",
+      "scientific_name": "Diospyros kaki Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "등",
+      "scientific_name": "Wisteria floribunda (Willd.) DC."
+    },
+    {
+      "group": "식물",
+      "name_ko": "무화과나무",
+      "scientific_name": "Ficus carica L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "벚나무",
+      "scientific_name": "Prunus serrulata f. spontanea (Maxim.) Chin S.Chang"
+    },
+    {
+      "group": "식물",
+      "name_ko": "벽오동나무",
+      "scientific_name": "Firmiana simplex (L.) W.Wight"
+    },
+    {
+      "group": "식물",
+      "name_ko": "복사나무",
+      "scientific_name": "Prunus persica (L.) Batsch"
+    },
+    {
+      "group": "식물",
+      "name_ko": "비파나무",
+      "scientific_name": "Eriobotrya japonica (Thunb.) Lindl."
+    },
+    {
+      "group": "식물",
+      "name_ko": "뽕나무",
+      "scientific_name": "Morus alba L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "오동나무",
+      "scientific_name": "Paulownia coreana Uyeki"
+    },
+    {
+      "group": "식물",
+      "name_ko": "온주밀감",
+      "scientific_name": "Citrus unshiu (Yu.Tanaka ex Swingle) Marcow."
+    },
+    {
+      "group": "식물",
+      "name_ko": "차나무",
+      "scientific_name": "Camellia sinensis (L.) Kuntze"
+    },
+    {
+      "group": "식물",
+      "name_ko": "참오동나무",
+      "scientific_name": "Paulownia tomentosa (Thunb.) Steud."
+    },
+    {
+      "group": "식물",
+      "name_ko": "포도",
+      "scientific_name": "Vitis vinifera L."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZMAR0067.png",
+    "reference_image_id": "ZMAR0067-3",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T15:07:08.841080+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "990aeeac869c4f587a50c90a812f6c98d7f7bf7534eec03f89aa1300f2167b8e"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMAR0067&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:00+00:00",
+    "html_sha256": "676342a5bdb2938ce4c23cc08f9cb1d75c2c9b9b1bd1f8eb41c356fbc5296ae7",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

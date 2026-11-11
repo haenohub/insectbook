@@ -1,0 +1,110 @@
+{
+  "id": "ZFBF0003",
+  "name_ko": "사마귀",
+  "scientific_name": "Tenodera angustipennis Saussure, 1869",
+  "display_name": "사마귀",
+  "family_ko": "사마귀과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "사마귀목",
+      "name_latin": "Mantodea"
+    },
+    "family": {
+      "name_ko": "사마귀과",
+      "name_latin": "Mantidae"
+    },
+    "genus": {
+      "name_ko": "사마귀속",
+      "name_latin": "Tenodera"
+    }
+  },
+  "taxonomy_text": "목 : 사마귀목 (Mantodea)\n과 : 사마귀과 (Mantidae)\n속 : 사마귀속 (Tenodera)",
+  "basic_information": {
+    "곤충명": "사마귀",
+    "학명": "Tenodera angustipennis Saussure, 1869"
+  },
+  "information": {
+    "general_description": "몸길이는 70~82 mm이다. 몸이 크고 황갈색 또는 녹색이다. 왕사마귀와 비슷하나 앞가슴의 뒷쪽은 앞다리의 밑마디보다 조금 긴 점(왕사마귀는 대단히 길다)으로 구별 된다. 앞가슴의 어깨는 비교적 발달하였고, 옆가두리의 수평부는 가느나 앞쪽은 폭이 넓고, 옆가두리의 치열은 뚜렷하나 뒷쪽에는 없고, 앞쪽의 중종구 양 가두리에 수 개의 작은 혹이 나란히 있고, 뒷쪽의 중앙의 종융기선에 수 개의 분명치 않은 작은 혹이 있다. 배는 암컷의 것은 폭이 넓고 앞날개는 꼬리부의 뒷쪽에 연장되고 갈색의 날개맥이 있다. 앞가두리, 즉 옆부는 비교적 폭이 넓고 녹색 혁질이고 뒷날개는 앞날개의 뒷쪽에 조금 연장되고 흑갈색이며 불규칙한 옅은 색 무늬가 산포되었다. 다리는 가늘고 길며 앞밑마디는 아랫바깥가두리에 16개 이상의 짧은 가시가 있고 앞허벅마디의 아랫바깥가두리에는 4개, 아랫안가두리에는 17개 내외의 가시가 있고 중간 가시는 4개인데 둘째 것이 특히 길고 크다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[베트남]\n[대한민국] 제주특별자치도\n[대한민국] 경상북도",
+    "notes": "[포식성]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 70~82 mm이다. 몸이 크고 황갈색 또는 녹색이다. 왕사마귀와 비슷하나 앞가슴의 뒷쪽은 앞다리의 밑마디보다 조금 긴 점(왕사마귀는 대단히 길다)으로 구별 된다. 앞가슴의 어깨는 비교적 발달하였고, 옆가두리의 수평부는 가느나 앞쪽은 폭이 넓고, 옆가두리의 치열은 뚜렷하나 뒷쪽에는 없고, 앞쪽의 중종구 양 가두리에 수 개의 작은 혹이 나란히 있고, 뒷쪽의 중앙의 종융기선에 수 개의 분명치 않은 작은 혹이 있다. 배는 암컷의 것은 폭이 넓고 앞날개는 꼬리부의 뒷쪽에 연장되고 갈색의 날개맥이 있다. 앞가두리, 즉 옆부는 비교적 폭이 넓고 녹색 혁질이고 뒷날개는 앞날개의 뒷쪽에 조금 연장되고 흑갈색이며 불규칙한 옅은 색 무늬가 산포되었다. 다리는 가늘고 길며 앞밑마디는 아랫바깥가두리에 16개 이상의 짧은 가시가 있고 앞허벅마디의 아랫바깥가두리에는 4개, 아랫안가두리에는 17개 내외의 가시가 있고 중간 가시는 4개인데 둘째 것이 특히 길고 크다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[베트남]\n[대한민국] 제주특별자치도\n[대한민국] 경상북도"
+    },
+    {
+      "title": "특기사항",
+      "text": "[포식성]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZFBF0003-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/F2/ZFBF0003_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/F2/ZFBF0003_2_th.jpg",
+      "alt": "사마귀 1번째 사진 : 사마귀전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/F2/ZFBF0003_2_th2.jpg",
+      "caption": "사마귀전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZFBF0003-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/F2/ZFBF0003_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/F2/ZFBF0003_1_th.jpg",
+      "alt": "사마귀 2번째 사진 : 사마귀전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/F2/ZFBF0003_1_th2.jpg",
+      "caption": "사마귀전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZFBF0003-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0308132004",
+      "description": "[FRIE0308132004] 사마귀 1997.09.20 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0308132005",
+      "description": "[FRIE0308132005] 사마귀 1997.11.18 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0308132006",
+      "description": "[FRIE0308132006] 사마귀 1997.11.03 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZFBF0003-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZFBF0003&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:24+00:00",
+    "html_sha256": "30a5af38e1863140815a89350b71ba2de38f40d46bdedaad1eedf8cebba42321",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

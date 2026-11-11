@@ -1,0 +1,118 @@
+{
+  "id": "ZOCF0041",
+  "name_ko": "얼룩무늬가시털바구미",
+  "scientific_name": "Pseudocneorhinus adamsi Roelofs, 1879",
+  "display_name": "얼룩무늬가시털바구미",
+  "family_ko": "바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "바구미과",
+      "name_latin": "Curculionidae"
+    },
+    "subfamily": {
+      "name_ko": "줄바구미아과",
+      "name_latin": "Entiminae"
+    },
+    "genus": {
+      "name_ko": "가시털바구미속",
+      "name_latin": "Pseudocneorhinus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 바구미과 (Curculionidae)\n아과 : 줄바구미아과 (Entiminae)\n속 : 가시털바구미속 (Pseudocneorhinus)",
+  "basic_information": {
+    "곤충명": "얼룩무늬가시털바구미",
+    "학명": "Pseudocneorhinus adamsi Roelofs, 1879"
+  },
+  "information": {
+    "general_description": "한국(중부, 남부), 일본, 중국에 분포하며, 몸길이 5.0-6.2 mm. 앞가슴 전측 가두리에 목향엽이 있다. 촉각구는 눈을 향한다. 후경절 내연에 2-4개의 작은 치돌기가 있다. 더듬이 제3, 4채찍마디는 길이는 폭과 같거나 약간 짧다. 제1채찍마디는 매우 길어 제2마디와 제3마디의 합과 거의 같다. 딱지날개 간실의 인모는 가늘며, 바늘모양이거나 막대기 모양이다. 구상판은 둔각의 V형이고 뒤쪽에 넓은 나출지역이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "Chamaecyparis spp. 를 기주식물",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국(중부, 남부), 일본, 중국에 분포하며, 몸길이 5.0-6.2 mm. 앞가슴 전측 가두리에 목향엽이 있다. 촉각구는 눈을 향한다. 후경절 내연에 2-4개의 작은 치돌기가 있다. 더듬이 제3, 4채찍마디는 길이는 폭과 같거나 약간 짧다. 제1채찍마디는 매우 길어 제2마디와 제3마디의 합과 거의 같다. 딱지날개 간실의 인모는 가늘며, 바늘모양이거나 막대기 모양이다. 구상판은 둔각의 V형이고 뒤쪽에 넓은 나출지역이 있다."
+    },
+    {
+      "title": "생태",
+      "text": "Chamaecyparis spp. 를 기주식물"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCF0041-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0041_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0041_2_th.jpg",
+      "alt": "얼룩무늬가시털바구미 1번째 사진 : 얼룩무늬가시털바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0041_2_th2.jpg",
+      "caption": "얼룩무늬가시털바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOCF0041-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0041_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0041_1_th.jpg",
+      "alt": "얼룩무늬가시털바구미 2번째 사진 : 얼룩무늬가시털바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0041_1_th2.jpg",
+      "caption": "얼룩무늬가시털바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCF0041-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0303311019",
+      "description": "[FRIE0303311019] 얼룩무늬가시털바구미 1982.05.28 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0303311020",
+      "description": "[FRIE0303311020] 얼룩무늬가시털바구미 1982.08.16 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0303311021",
+      "description": "[FRIE0303311021] 얼룩무늬가시털바구미 1981.06.09 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOCF0041-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCF0041&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:49+00:00",
+    "html_sha256": "16ca4c4c0bac894199f0d4c7851b8c7945d12f45afbbb5ff4e634b72982eab21",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

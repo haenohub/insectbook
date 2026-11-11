@@ -1,0 +1,122 @@
+{
+  "id": "ZLBQ0001",
+  "name_ko": "장구애비",
+  "scientific_name": "Laccotrephes (Laccotrephes) japonensis Scott, 1874",
+  "display_name": "장구애비",
+  "family_ko": "장구애비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "장구애비상과",
+      "name_latin": "Nepoidea"
+    },
+    "family": {
+      "name_ko": "장구애비과",
+      "name_latin": "Nepidae"
+    },
+    "subfamily": {
+      "name_ko": "장구애비아과",
+      "name_latin": "Nepinae"
+    },
+    "genus": {
+      "name_ko": "장구애비속",
+      "name_latin": "Laccotrephes"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 장구애비상과 (Nepoidea)\n과 : 장구애비과 (Nepidae)\n아과 : 장구애비아과 (Nepinae)\n속 : 장구애비속 (Laccotrephes)",
+  "basic_information": {
+    "곤충명": "장구애비",
+    "학명": "Laccotrephes (Laccotrephes) japonensis Scott, 1874"
+  },
+  "information": {
+    "general_description": "몸길이는 30~38 mm (숨관 제외)이다. 대형종이며, 몸은 황갈색, 회갈색 또는 흑갈색을 띠기도 한다. 몸 전체가 납작하며, 좁고 길게 발달하였다. 머리는 작고 뭉툭하게 돌출하였으며, 중앙 종주선을 따라 불록하다. 더듬이는 매우 작고 3마디이다. 겹눈 밑에 있어서 위에서는 보이지 않는다. 2-3마디는 집게손가락 모양으로 길게 발달하였다. 앞가슴등판은 옆가장자리의 앞뒤 모서리가 각각 둥글게 돌출하였으며, 뒷쪽 2/3부위에 가로홈이 있다. 앞날개는 양 옆이 다소 평행을 이루며 길게 발달하였고, 막질부는 배 끝 숨관의 기부까지 도달한다. 배 끝에는 몸길이와 비슷하게 길다란 숨관을 가진다. 앞다리는 낫 모양의 포획다리이고, 허벅마디가 특히 비대하고 아랫면에는 가시돌기가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "늪, 못, 논 등의 물 속에서 생활한다. 수서 곤충이나 작은 물고기를 잡아서 체액을 빨아먹는다. 배 끝에 달린 한 쌍의 호흡관을 물 위로 내놓고 호흡한다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[대만]",
+    "notes": "[감소추세종] 근년에 논에서는 거의 볼 수 없게 되었다.",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 30~38 mm (숨관 제외)이다. 대형종이며, 몸은 황갈색, 회갈색 또는 흑갈색을 띠기도 한다. 몸 전체가 납작하며, 좁고 길게 발달하였다. 머리는 작고 뭉툭하게 돌출하였으며, 중앙 종주선을 따라 불록하다. 더듬이는 매우 작고 3마디이다. 겹눈 밑에 있어서 위에서는 보이지 않는다. 2-3마디는 집게손가락 모양으로 길게 발달하였다. 앞가슴등판은 옆가장자리의 앞뒤 모서리가 각각 둥글게 돌출하였으며, 뒷쪽 2/3부위에 가로홈이 있다. 앞날개는 양 옆이 다소 평행을 이루며 길게 발달하였고, 막질부는 배 끝 숨관의 기부까지 도달한다. 배 끝에는 몸길이와 비슷하게 길다란 숨관을 가진다. 앞다리는 낫 모양의 포획다리이고, 허벅마디가 특히 비대하고 아랫면에는 가시돌기가 있다."
+    },
+    {
+      "title": "습성",
+      "text": "늪, 못, 논 등의 물 속에서 생활한다. 수서 곤충이나 작은 물고기를 잡아서 체액을 빨아먹는다. 배 끝에 달린 한 쌍의 호흡관을 물 위로 내놓고 호흡한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[대만]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[감소추세종] 근년에 논에서는 거의 볼 수 없게 되었다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLBQ0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBQ0001_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBQ0001_2_th.jpg",
+      "alt": "장구애비 1번째 사진 : 장구애비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBQ0001_2_th2.jpg",
+      "caption": "장구애비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZLBQ0001-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBQ0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBQ0001_1_th.jpg",
+      "alt": "장구애비 2번째 사진 : 장구애비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBQ0001_1_th2.jpg",
+      "caption": "장구애비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLBQ0001-1",
+  "specimen_examples": [
+    {
+      "id": "ADUE0302261180",
+      "description": "[ADUE0302261180] 장구애비 2002.03.21 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0302261181",
+      "description": "[ADUE0302261181] 장구애비 2002.10.30 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0302261182",
+      "description": "[ADUE0302261182] 장구애비 2002.11.05 / / 안동대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLBQ0001-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLBQ0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:02+00:00",
+    "html_sha256": "0eaf913408ce5b1bf99285cb7ad5b603164dcca68594f65e259ef046a94f81c8",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "ZOBT0174",
+  "name_ko": "길쭉잎벌레",
+  "scientific_name": "Apophylia grandicornis (Fairmaire, 1888)",
+  "display_name": "길쭉잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "긴더듬이잎벌레아과",
+      "name_latin": "Galerucinae"
+    },
+    "genus": {
+      "name_ko": "길쭉긴더듬이잎벌레속",
+      "name_latin": "Apophylia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 긴더듬이잎벌레아과 (Galerucinae)\n속 : 길쭉긴더듬이잎벌레속 (Apophylia)",
+  "basic_information": {
+    "곤충명": "길쭉잎벌레",
+    "학명": "Apophylia grandicornis (Fairmaire, 1888)"
+  },
+  "information": {
+    "general_description": "몸길이는 5.5~6.0mm, 날개는 파란색의 금속광택이 나는 초록색이다. 더듬이는 제1절과 3절의 길이가 같다. 앞가슴등판은 앞부분에 융기된 곳에 노란갈색을 보이며, 기부쪽에는 좁게 갈색을 보인다. 몸 전체적으로는 길쭉한 형태이다. 한국에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 5.5~6.0mm, 날개는 파란색의 금속광택이 나는 초록색이다. 더듬이는 제1절과 3절의 길이가 같다. 앞가슴등판은 앞부분에 융기된 곳에 노란갈색을 보이며, 기부쪽에는 좁게 갈색을 보인다. 몸 전체적으로는 길쭉한 형태이다. 한국에 분포되어있다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0174-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0174_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0174_1_th.jpg",
+      "alt": "길쭉잎벌레 1번째 사진 : 길쭉잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0174_1_th2.jpg",
+      "caption": "길쭉잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0174-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0407231374",
+      "description": "[KPNE0407231374] 길쭉잎벌레 1994.07.11 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0407231375",
+      "description": "[KPNE0407231375] 길쭉잎벌레 1994.07.11 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBT0174.png",
+    "reference_image_id": "ZOBT0174-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T09:31:42.975379+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "7bc284a3b1401b8a923303f812cfa0c14f00556885bc4b5803aa1b5f6cc7644d"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0174&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:12+00:00",
+    "html_sha256": "6ebf2bcd8bfc21868c6d702ac80e3839310b49e388c09d7437500bf6b4365994",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

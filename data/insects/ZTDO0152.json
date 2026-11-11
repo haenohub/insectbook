@@ -1,0 +1,99 @@
+{
+  "id": "ZTDO0152",
+  "name_ko": "검정머리무늬잎벌",
+  "scientific_name": "Hemibeleses nigriceps Takeuchi, 1929",
+  "display_name": "검정머리무늬잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "검정날개잎벌아과",
+      "name_latin": "Allantinae"
+    },
+    "genus": {
+      "name_ko": "무늬잎벌속",
+      "name_latin": "Hemibeleses"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 검정날개잎벌아과 (Allantinae)\n속 : 무늬잎벌속 (Hemibeleses)",
+  "basic_information": {
+    "곤충명": "검정머리무늬잎벌",
+    "학명": "Hemibeleses nigriceps Takeuchi, 1929"
+  },
+  "information": {
+    "general_description": "뒷다리 발목마디의 기절은 매우 짧다. 더듬이는 다소 짧고 filiform이며 자루마디는 scape와 비슷하다. 제 3마디는 제 4마디 보다 길며, 끝 3마디의 합 보다 약간 짧다. 머리방패는 잘린형이며 malar space는 매우 좁으나 명확하다. 복안 내연은 약간 아래에서 수렴한다. posterior orbits는 좁고 margin이 없다. 뒷날개에는 반실이 없으며 둔실은 짧은 자루를 갖는다. 수컷에서는 기부맥에 의해 둘러져 있다. 앞다리 종아리마디에는 두개의 긴 며느리발톱이 있으며 바깥 것은 끝에서 분지하다. 뒷다리 발목마디 기부절은 다음 마디들의 합과 길이가 비슷하다. 발톱은 분지되었다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "뒷다리 발목마디의 기절은 매우 짧다. 더듬이는 다소 짧고 filiform이며 자루마디는 scape와 비슷하다. 제 3마디는 제 4마디 보다 길며, 끝 3마디의 합 보다 약간 짧다. 머리방패는 잘린형이며 malar space는 매우 좁으나 명확하다. 복안 내연은 약간 아래에서 수렴한다. posterior orbits는 좁고 margin이 없다. 뒷날개에는 반실이 없으며 둔실은 짧은 자루를 갖는다. 수컷에서는 기부맥에 의해 둘러져 있다. 앞다리 종아리마디에는 두개의 긴 며느리발톱이 있으며 바깥 것은 끝에서 분지하다. 뒷다리 발목마디 기부절은 다음 마디들의 합과 길이가 비슷하다. 발톱은 분지되었다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0152-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0152_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0152_1_th.jpg",
+      "alt": "검정머리무늬잎벌 1번째 사진 : 검정머리무늬잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0152_1_th2.jpg",
+      "caption": "검정머리무늬잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0152-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0201174001",
+      "description": "[YNUE0201174001] 검정머리무늬잎벌 1989.04.22 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTDO0152.png",
+    "reference_image_id": "ZTDO0152-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T11:20:27.262915+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "dd0d4d565c8243c793148edba9dc183b6bb915a7aed4faf31b4890fa58e120a6"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0152&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:16+00:00",
+    "html_sha256": "419e72d5b6b63e751b2bb42bbe6f5ef269b8335d2b5d4cb00296e8a15cf66746",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

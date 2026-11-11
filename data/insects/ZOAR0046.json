@@ -1,0 +1,111 @@
+{
+  "id": "ZOAR0046",
+  "name_ko": "사과거위벌레",
+  "scientific_name": "Morphocorynus nigricollis (Roelofs, 1874)",
+  "display_name": "사과거위벌레",
+  "family_ko": "거위벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "거위벌레과",
+      "name_latin": "Attelabidae"
+    },
+    "subfamily": {
+      "name_ko": "목거위벌레아과",
+      "name_latin": "Apoderinae"
+    },
+    "genus": {
+      "name_ko": "민무늬거위벌레속",
+      "name_latin": "Morphocorynus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 거위벌레과 (Attelabidae)\n아과 : 목거위벌레아과 (Apoderinae)\n속 : 민무늬거위벌레속 (Morphocorynus)",
+  "basic_information": {
+    "곤충명": "사과거위벌레",
+    "학명": "Morphocorynus nigricollis (Roelofs, 1874)"
+  },
+  "information": {
+    "general_description": "한국, 일본, 러시아에 분포하며, 체장은 6.0-8.5mm 정도이다. 체색은 적갈색으로 머리의 목부분과 다리의 퇴절의 색이 훨씬 짙다. 머리의 목부분은 원통형으로 짧게 신장되었다가 넓어지며, 넓어지는 부분의 길이는 다원통형인 부분보다 훨씬 길다. 다리의 경절, 부절, 촉각은 밝은 적갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "벚나무류, 사과를 기주식물로 하며, 성충이 밤나무의 어린잎에 구멍을 내며 식해하고, 4-5번째 잎의 중앙부를 가로로 중맥만 남기고 직선으로 잘라서 끝부분을 말고 그 속에 산란한다. 말린 잎은 윤기나는 기름성분이 칠해져 있어서 쉽게 썩지 않으므로 그 속에서 유충이 계속 식해하게 된다. 년 1회 발생하며, 성충으로 월동하고 6월경 월동처에서 나와 밤나무의 신초상단잎을 식해하며 산란하고 여름에 유충기를 거친 뒤 가을에 번데기가 되어 우화한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 러시아에 분포하며, 체장은 6.0-8.5mm 정도이다. 체색은 적갈색으로 머리의 목부분과 다리의 퇴절의 색이 훨씬 짙다. 머리의 목부분은 원통형으로 짧게 신장되었다가 넓어지며, 넓어지는 부분의 길이는 다원통형인 부분보다 훨씬 길다. 다리의 경절, 부절, 촉각은 밝은 적갈색이다."
+    },
+    {
+      "title": "생태",
+      "text": "벚나무류, 사과를 기주식물로 하며, 성충이 밤나무의 어린잎에 구멍을 내며 식해하고, 4-5번째 잎의 중앙부를 가로로 중맥만 남기고 직선으로 잘라서 끝부분을 말고 그 속에 산란한다. 말린 잎은 윤기나는 기름성분이 칠해져 있어서 쉽게 썩지 않으므로 그 속에서 유충이 계속 식해하게 된다. 년 1회 발생하며, 성충으로 월동하고 6월경 월동처에서 나와 밤나무의 신초상단잎을 식해하며 산란하고 여름에 유충기를 거친 뒤 가을에 번데기가 되어 우화한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAR0046-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0046_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0046_1_th.jpg",
+      "alt": "사과거위벌레 1번째 사진 : 사과거위벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0046_1_th2.jpg",
+      "caption": "사과거위벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAR0046-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0201092072",
+      "description": "[YNUE0201092072] 사과거위벌레 1991.07.22 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0112244023",
+      "description": "[YNUE0112244023] 사과거위벌레 1992.05.20 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0201092071",
+      "description": "[YNUE0201092071] 사과거위벌레 1991.05.13 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAR0046-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAR0046&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:16+00:00",
+    "html_sha256": "a5c85ee808776e307608b5d4a0838104f1aab83f35e2b0e3b987d8b15be4e5e3",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

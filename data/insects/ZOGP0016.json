@@ -1,0 +1,114 @@
+{
+  "id": "ZOGP0016",
+  "name_ko": "수중다리송장벌레",
+  "scientific_name": "Necrodes nigricornis Harold, 1875",
+  "display_name": "수중다리송장벌레",
+  "family_ko": "송장벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "반날개상과",
+      "name_latin": "Staphylinoidea"
+    },
+    "family": {
+      "name_ko": "송장벌레과",
+      "name_latin": "Silphidae"
+    },
+    "subfamily": {
+      "name_ko": "송장벌레아과",
+      "name_latin": "Silphinae"
+    },
+    "genus": {
+      "name_ko": "수중다리송장벌레속",
+      "name_latin": "Necrodes"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 반날개상과 (Staphylinoidea)\n과 : 송장벌레과 (Silphidae)\n아과 : 송장벌레아과 (Silphinae)\n속 : 수중다리송장벌레속 (Necrodes)",
+  "basic_information": {
+    "곤충명": "수중다리송장벌레",
+    "학명": "Necrodes nigricornis Harold, 1875"
+  },
+  "information": {
+    "general_description": "몸길이는 15~20mm이며 딱지날개의 뒤쪽이 길게 늘어지고 끝이 뾰족한 것은 암컷이다. 뒷다리는 매우 굵고 넓적다리마디 안쪽에 돌기를 가진것은 수컷이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 15~20mm이며 딱지날개의 뒤쪽이 길게 늘어지고 끝이 뾰족한 것은 암컷이다. 뒷다리는 매우 굵고 넓적다리마디 안쪽에 돌기를 가진것은 수컷이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGP0016-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0016_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0016_2_th.jpg",
+      "alt": "수중다리송장벌레 1번째 사진 : 수중다리송장벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0016_2_th2.jpg",
+      "caption": "수중다리송장벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOGP0016-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0016_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0016_1_th.jpg",
+      "alt": "수중다리송장벌레 2번째 사진 : 수중다리송장벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0016_1_th2.jpg",
+      "caption": "수중다리송장벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGP0016-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408191056",
+      "description": "[MPME0408191056] 수중다리송장벌레 2003.04.07 / / 목포자연사박물관"
+    },
+    {
+      "id": "KNAE0408111016",
+      "description": "[KNAE0408111016] 수중다리송장벌레 2001.08.18 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304042022",
+      "description": "[KNAE0304042022] 수중다리송장벌레 1995.08.11 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGP0016-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGP0016&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:37+00:00",
+    "html_sha256": "97c04c6ceb7621fdcf3613ad40c9d685f9f8871c4e83b9ad81cb944450495ebc",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

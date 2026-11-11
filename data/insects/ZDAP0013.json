@@ -1,0 +1,114 @@
+{
+  "id": "ZDAP0013",
+  "name_ko": "노란잠자리",
+  "scientific_name": "Sympetrum croceolum (Selys, 1883)",
+  "display_name": "노란잠자리",
+  "family_ko": "잠자리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "잠자리목",
+      "name_latin": "Odonata"
+    },
+    "family": {
+      "name_ko": "잠자리과",
+      "name_latin": "Libellulidae"
+    },
+    "subfamily": {
+      "name_ko": "고추잠자리아과",
+      "name_latin": "Sympetrinae"
+    },
+    "genus": {
+      "name_ko": "좀잠자리속",
+      "name_latin": "Sympetrum"
+    }
+  },
+  "taxonomy_text": "목 : 잠자리목 (Odonata)\n과 : 잠자리과 (Libellulidae)\n아과 : 고추잠자리아과 (Sympetrinae)\n속 : 좀잠자리속 (Sympetrum)",
+  "basic_information": {
+    "곤충명": "노란잠자리",
+    "학명": "Sympetrum croceolum (Selys, 1883)"
+  },
+  "information": {
+    "general_description": "배길이 26mm, 뒷날개길이 31mm. 머리부위는 모두 등황색이고 가슴부위는 등황색인데 민무늬임. 배에는 무늬가 없고 미부 상하부기와 같이 등황색임. 날개는 투명하고 결절 조금 앞쪽까지 선명한 감빛이고 앞가두리방과 버금앞가두리방은 등색임. 날개맥은 등갈색이고 가두리무늬는 등갈색인데 앞가두리는 흑색으로 깃동이 달림.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "배길이 26mm, 뒷날개길이 31mm. 머리부위는 모두 등황색이고 가슴부위는 등황색인데 민무늬임. 배에는 무늬가 없고 미부 상하부기와 같이 등황색임. 날개는 투명하고 결절 조금 앞쪽까지 선명한 감빛이고 앞가두리방과 버금앞가두리방은 등색임. 날개맥은 등갈색이고 가두리무늬는 등갈색인데 앞가두리는 흑색으로 깃동이 달림."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZDAP0013-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0013_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0013_2_th.jpg",
+      "alt": "노란잠자리 1번째 사진 : 노란잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0013_2_th2.jpg",
+      "caption": "노란잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZDAP0013-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0013_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0013_1_th.jpg",
+      "alt": "노란잠자리 2번째 사진 : 노란잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0013_1_th2.jpg",
+      "caption": "노란잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZDAP0013-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0407211021",
+      "description": "[MPME0407211021] 노란잠자리 2003.08.13 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0407211022",
+      "description": "[MPME0407211022] 노란잠자리 2003.08.13 / / 목포자연사박물관"
+    },
+    {
+      "id": "KNAE0301271049",
+      "description": "[KNAE0301271049] 노란잠자리 1993.08.21 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZDAP0013.png",
+    "reference_image_id": "ZDAP0013-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T11:15:54.326311+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "6a68ef17a75fd299ed869cad298d5319d3ff7f72173c162f8f0c90aa3fef58b5"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZDAP0013&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:56+00:00",
+    "html_sha256": "ef016dc19cdb435ff83e98596dcdbba58a8a8ec735dcabf9f29533e3fe4b305d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

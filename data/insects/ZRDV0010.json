@@ -1,0 +1,145 @@
+{
+  "id": "ZRDV0010",
+  "name_ko": "큰흰줄표범나비",
+  "scientific_name": "Argynnis ruslana Motschulsky, 1866",
+  "display_name": "큰흰줄표범나비",
+  "family_ko": "네발나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "네발나비과",
+      "name_latin": "Nymphalidae"
+    },
+    "subfamily": {
+      "name_ko": "독나비아과",
+      "name_latin": "Heliconiinae"
+    },
+    "genus": {
+      "name_ko": "은점표범나비속",
+      "name_latin": "Argynnis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 네발나비과 (Nymphalidae)\n아과 : 독나비아과 (Heliconiinae)\n속 : 은점표범나비속 (Argynnis)",
+  "basic_information": {
+    "곤충명": "큰흰줄표범나비",
+    "학명": "Argynnis ruslana Motschulsky, 1866"
+  },
+  "information": {
+    "general_description": "흰줄표범나비와 유사하나 앞날개 끝이 바깥으로 돌출하고 있고 뒷날개 윗면 중앙의 검정색 줄무늬가 이 종은 이어져 있으나 흰줄표범나비는 시맥에 잘리어 토막 나 있는 점 등으로 구별된다.",
+    "adult": null,
+    "adult_male": "수컷은 날개 윗면 바탕색이 붉은 색이 강하게 돌고 앞날개 윗면 제1b~2먁상에 검정색 줄 성표가 있다.",
+    "adult_female": "암컷은 일반적으로 수컷보다 크고 날개모양이 둥그스름하며 앞날개 윗면 날개 끝에 삼각형의 흰무늬가 있다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "산지의 숲 가장자리, 임도 주변의 밝은 초지에 서식한다. 개망초, 엉겅퀴 등의 꽃에서 흡밀하고 힘차게 날아다닌다. 대체로 하면(夏眠)하는 습성이라든가 산란하는 습성은 흰줄표범나비와 공통된다.",
+    "season": null,
+    "overwintering": "알이나 1령애벌레",
+    "distribution": "[일본]\n[중국]\n[러시아]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "흰줄표범나비와 유사하나 앞날개 끝이 바깥으로 돌출하고 있고 뒷날개 윗면 중앙의 검정색 줄무늬가 이 종은 이어져 있으나 흰줄표범나비는 시맥에 잘리어 토막 나 있는 점 등으로 구별된다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "수컷은 날개 윗면 바탕색이 붉은 색이 강하게 돌고 앞날개 윗면 제1b~2먁상에 검정색 줄 성표가 있다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "암컷은 일반적으로 수컷보다 크고 날개모양이 둥그스름하며 앞날개 윗면 날개 끝에 삼각형의 흰무늬가 있다."
+    },
+    {
+      "title": "습성",
+      "text": "산지의 숲 가장자리, 임도 주변의 밝은 초지에 서식한다. 개망초, 엉겅퀴 등의 꽃에서 흡밀하고 힘차게 날아다닌다. 대체로 하면(夏眠)하는 습성이라든가 산란하는 습성은 흰줄표범나비와 공통된다."
+    },
+    {
+      "title": "월동",
+      "text": "알이나 1령애벌레"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDV0010-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0010_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0010_3.jpg",
+      "alt": "큰흰줄표범나비 1번째 사진 : 큰흰줄표범나비 짝짓기 거부행동 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0010_3_th2.jpg",
+      "caption": "큰흰줄표범나비 짝짓기 거부행동 이미지",
+      "photographed_at": "20200706",
+      "location": "경기도 포천시 소흘읍 광릉숲",
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRDV0010-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0010_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0010_2_th.jpg",
+      "alt": "큰흰줄표범나비 2번째 사진 : 큰흰줄표범나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0010_2_th2.jpg",
+      "caption": "큰흰줄표범나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDV0010-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0010_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0010_1_th.jpg",
+      "alt": "큰흰줄표범나비 3번째 사진 : 큰흰줄표범나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0010_1_th2.jpg",
+      "caption": "큰흰줄표범나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDV0010-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0305301040",
+      "description": "[FRIE0305301040] 큰흰줄표범나비 1984.07.11 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0305301041",
+      "description": "[FRIE0305301041] 큰흰줄표범나비 1985.07.01 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0305301042",
+      "description": "[FRIE0305301042] 큰흰줄표범나비 1984.06.30 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDV0010-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDV0010&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:09+00:00",
+    "html_sha256": "5f0327fd32d0ac32650cf970540111c9cb329434a21b9130046abffd0ee2a3bf",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

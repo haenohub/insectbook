@@ -1,0 +1,107 @@
+{
+  "id": "ZTDO0041",
+  "name_ko": "긴꼬리잎벌",
+  "scientific_name": "Tenthredo longipennis (Matsumura, 1912)",
+  "display_name": "긴꼬리잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "잎벌아과",
+      "name_latin": "Tenthredininae"
+    },
+    "genus": {
+      "name_ko": "잎벌속",
+      "name_latin": "Tenthredo"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 잎벌아과 (Tenthredininae)\n속 : 잎벌속 (Tenthredo)",
+  "basic_information": {
+    "곤충명": "긴꼬리잎벌",
+    "학명": "Tenthredo longipennis (Matsumura, 1912)"
+  },
+  "information": {
+    "general_description": "몸의 길이는 19mm,더듬이 길이는 9.7mm,앞날개 길이는 15.5mm이다. 몸은 흑색이다. 머리방패, 복안내연, 윗입술, 더듬이 경판, 뺨, 앞가슴 등판의 뒷가두리와 앞가두리는 밝은 황색이다. 작은방패판은 앞 1/2ㅇ느 밝은 황색이고 뒷부분은 갈색이며 중앙이 융기하여 세로로된 융기부를 가지고 있다. 가운데가슴 측판의 중앙에는 갈색의 돌기를 가지고 있다. 제 1배마디의 제 3~7배마디 뒷가두리에는 엷은 황색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의 길이는 19mm,더듬이 길이는 9.7mm,앞날개 길이는 15.5mm이다. 몸은 흑색이다. 머리방패, 복안내연, 윗입술, 더듬이 경판, 뺨, 앞가슴 등판의 뒷가두리와 앞가두리는 밝은 황색이다. 작은방패판은 앞 1/2ㅇ느 밝은 황색이고 뒷부분은 갈색이며 중앙이 융기하여 세로로된 융기부를 가지고 있다. 가운데가슴 측판의 중앙에는 갈색의 돌기를 가지고 있다. 제 1배마디의 제 3~7배마디 뒷가두리에는 엷은 황색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0041-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0041_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0041_1_th.jpg",
+      "alt": "긴꼬리잎벌 1번째 사진 : 긴꼬리잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0041_1_th2.jpg",
+      "caption": "긴꼬리잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0041-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0301049193",
+      "description": "[YNUE0301049193] 긴꼬리잎벌 1995.08.16 / / 영남대학교"
+    },
+    {
+      "id": "ADUE0202231092",
+      "description": "[ADUE0202231092] 긴꼬리잎벌 1996.05.31 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0202231091",
+      "description": "[ADUE0202231091] 긴꼬리잎벌 2000.05.12 / / 안동대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTDO0041.png",
+    "reference_image_id": "ZTDO0041-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T08:41:54.762452+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "4f63ed5c33048262256bd2ca657c2652536f401b66c0d023cc82335ced58fd60"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0041&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:55+00:00",
+    "html_sha256": "9efc8c8bf89f8335f9245fef197467a4148469b8e719c13e8643c4882d7c5255",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

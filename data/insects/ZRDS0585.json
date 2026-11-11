@@ -1,0 +1,118 @@
+{
+  "id": "ZRDS0585",
+  "name_ko": "갈고리큰나방",
+  "scientific_name": "Calyptra thalictri (Borkhausen, 1790)",
+  "display_name": "갈고리큰나방",
+  "family_ko": "태극나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "태극나방과",
+      "name_latin": "Erebidae"
+    },
+    "subfamily": {
+      "name_ko": "갈고리큰나방아과",
+      "name_latin": "Calpinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Calyptra"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 태극나방과 (Erebidae)\n아과 : 갈고리큰나방아과 (Calpinae)\n속 : (Calyptra)",
+  "basic_information": {
+    "곤충명": "갈고리큰나방",
+    "학명": "Calyptra thalictri (Borkhausen, 1790)"
+  },
+  "information": {
+    "general_description": "수컷의 더듬이는 짧은 빗살 모양이며, 암컷의 더듬이는 실 모양임. 아랫입술수염은 길게 앞으로 돌출되었으며 끝은 뾰족하고 적황색을 띰. 암컷의 정수리는 황색 바탕인데 양쪽임.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[카자흐스탄]\n[러시아]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "수컷의 더듬이는 짧은 빗살 모양이며, 암컷의 더듬이는 실 모양임. 아랫입술수염은 길게 앞으로 돌출되었으며 끝은 뾰족하고 적황색을 띰. 암컷의 정수리는 황색 바탕인데 양쪽임."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[카자흐스탄]\n[러시아]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0585-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0585_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0585_2_th.jpg",
+      "alt": "갈고리큰나방 1번째 사진 : 갈고리밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0585_2_th2.jpg",
+      "caption": "갈고리밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDS0585-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0585_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0585_1_th.jpg",
+      "alt": "갈고리큰나방 2번째 사진 : 갈고리밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0585_1_th2.jpg",
+      "caption": "갈고리밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0585-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0203221011",
+      "description": "[KNAE0203221011] 갈고리큰나방 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0203221012",
+      "description": "[KNAE0203221012] 갈고리큰나방 / / 국립수목원"
+    },
+    {
+      "id": "KNUE0202251009",
+      "description": "[KNUE0202251009] 갈고리큰나방 1990.07.03 / / 강원대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDS0585.png",
+    "reference_image_id": "ZRDS0585-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T16:09:02.994340+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "326f29a79cbf0ef5603a04d0ce651ef8078f874938964f7dac743bf568c8f865"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0585&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:24+00:00",
+    "html_sha256": "5c605c2e1ef7d60f4490a324bdaf7445b3a39be2c54644b72dafaf02b4c7592b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

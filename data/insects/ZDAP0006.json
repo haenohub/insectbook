@@ -1,0 +1,110 @@
+{
+  "id": "ZDAP0006",
+  "name_ko": "홀쭉밀잠자리",
+  "scientific_name": "Orthetrum lineostigma (Selys, 1886)",
+  "display_name": "홀쭉밀잠자리",
+  "family_ko": "잠자리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "잠자리목",
+      "name_latin": "Odonata"
+    },
+    "family": {
+      "name_ko": "잠자리과",
+      "name_latin": "Libellulidae"
+    },
+    "subfamily": {
+      "name_ko": "잠자리아과",
+      "name_latin": "Libellulinae"
+    },
+    "genus": {
+      "name_ko": "밀잠자리속",
+      "name_latin": "Orthetrum"
+    }
+  },
+  "taxonomy_text": "목 : 잠자리목 (Odonata)\n과 : 잠자리과 (Libellulidae)\n아과 : 잠자리아과 (Libellulinae)\n속 : 밀잠자리속 (Orthetrum)",
+  "basic_information": {
+    "곤충명": "홀쭉밀잠자리",
+    "학명": "Orthetrum lineostigma (Selys, 1886)"
+  },
+  "information": {
+    "general_description": "배길이 30mm. 날개는 다소 갈색이고 위끝은 짙고 앞가두리방과 버금가두리방이 담황색이며, 날개맥은 흑갈색인데 가두리무늬 바깥 앞쪽 2/3은 흑갈색이고 안 뒤쪽 1/3은 황색임. 다리는 대부분이 흑색임. 미부 상부기와 하부기는 흑갈색, 황갈색형이 있으며 미모는 등갈색임.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "배길이 30mm. 날개는 다소 갈색이고 위끝은 짙고 앞가두리방과 버금가두리방이 담황색이며, 날개맥은 흑갈색인데 가두리무늬 바깥 앞쪽 2/3은 흑갈색이고 안 뒤쪽 1/3은 황색임. 다리는 대부분이 흑색임. 미부 상부기와 하부기는 흑갈색, 황갈색형이 있으며 미모는 등갈색임."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZDAP0006-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0006_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0006_2_th.jpg",
+      "alt": "홀쭉밀잠자리 1번째 사진 : 홀쪽밀잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0006_2_th2.jpg",
+      "caption": "홀쪽밀잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZDAP0006-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0006_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0006_1_th.jpg",
+      "alt": "홀쭉밀잠자리 2번째 사진 : 홀쪽밀잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0006_1_th2.jpg",
+      "caption": "홀쪽밀잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZDAP0006-1",
+  "specimen_examples": [
+    {
+      "id": "CBNE0203111090",
+      "description": "[CBNE0203111090] 홀쭉밀잠자리 1996.07.23 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0203111091",
+      "description": "[CBNE0203111091] 홀쭉밀잠자리 1994.06.12 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0203111093",
+      "description": "[CBNE0203111093] 홀쭉밀잠자리 1992.08.02 / / 충북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZDAP0006-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZDAP0006&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:24+00:00",
+    "html_sha256": "9e663fd0c70bce461196ea0ce934fe39d7c34b7740be5ee29b29ae40c815d0d9",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

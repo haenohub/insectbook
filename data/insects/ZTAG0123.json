@@ -1,0 +1,99 @@
+{
+  "id": "ZTAG0123",
+  "name_ko": "도이떡벌",
+  "scientific_name": "Bombus (Psithyrus) doii Yasumatsu, 1939",
+  "display_name": "도이떡벌",
+  "family_ko": "꿀벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "꿀벌과",
+      "name_latin": "Apidae"
+    },
+    "subfamily": {
+      "name_ko": "꿀벌아과",
+      "name_latin": "Apinae"
+    },
+    "genus": {
+      "name_ko": "뒤영벌속",
+      "name_latin": "Bombus"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 꿀벌과 (Apidae)\n아과 : 꿀벌아과 (Apinae)\n속 : 뒤영벌속 (Bombus)",
+  "basic_information": {
+    "곤충명": "도이떡벌",
+    "학명": "Bombus (Psithyrus) doii Yasumatsu, 1939"
+  },
+  "information": {
+    "general_description": "몸길이는 24mm 정도이며 암컷의 가슴은 검은 색이고 앞가슴등판과 작은 방패판의 뒤쪽의 털은 담황색이다. 작은 방패판은 약간 흑색털이 섞여 있다. 날개는 암황갈색으로 흐리고 보라색으로 반사한다. 제6배마디등판은 광택이 없고 적갈색 털이 났다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 24mm 정도이며 암컷의 가슴은 검은 색이고 앞가슴등판과 작은 방패판의 뒤쪽의 털은 담황색이다. 작은 방패판은 약간 흑색털이 섞여 있다. 날개는 암황갈색으로 흐리고 보라색으로 반사한다. 제6배마디등판은 광택이 없고 적갈색 털이 났다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0123-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0123_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0123_1_th.jpg",
+      "alt": "도이떡벌 1번째 사진 : 도이떡벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0123_1_th2.jpg",
+      "caption": "도이떡벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0123-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0301119100",
+      "description": "[YNUE0301119100] 도이떡벌 1986.06.03 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301119101",
+      "description": "[YNUE0301119101] 도이떡벌 1987.07.12 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301119103",
+      "description": "[YNUE0301119103] 도이떡벌 1993.04.16 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAG0123-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0123&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:24+00:00",
+    "html_sha256": "fe770d528cb18d192046f9916cab41efc504ecc32d6cfc13dd35293390d16e09",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

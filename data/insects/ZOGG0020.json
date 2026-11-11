@@ -1,0 +1,134 @@
+{
+  "id": "ZOGG0020",
+  "name_ko": "연노랑풍뎅이",
+  "scientific_name": "Blitopertha pallidipennis Reitter, 1903",
+  "display_name": "연노랑풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "풍뎅이아과",
+      "name_latin": "Rutelinae"
+    },
+    "genus": {
+      "name_ko": "연노랑풍뎅이속",
+      "name_latin": "Blitopertha"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 풍뎅이아과 (Rutelinae)\n속 : 연노랑풍뎅이속 (Blitopertha)",
+  "basic_information": {
+    "곤충명": "연노랑풍뎅이",
+    "학명": "Blitopertha pallidipennis Reitter, 1903"
+  },
+  "information": {
+    "general_description": "대체로 연한 황색 내지 갈황색이며, 보통 앞가슴등판에 삼각형의 흑색 무늬가 있으나 무늬는 구릿빛이나 녹색빛을 띠거나 또는 백색인 개체도 있고, 전신이 흑색형인 집단까지로 개체변이가 매우 심하다. 머리방패는 거의 반원형이며, 앞쪽은 약하게 상반하였고, 딱지날개는 무늬가 없으며, 간실은 높고, 불규칙한 열상의 점각이 있는데 제 1간실의 것은 조구처럼 보이며 조구점각은 매우 작고 드물다. 전미절판은 노출하지 않았다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국] 동북지방\n[러시아] 동시베리아지역",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "대체로 연한 황색 내지 갈황색이며, 보통 앞가슴등판에 삼각형의 흑색 무늬가 있으나 무늬는 구릿빛이나 녹색빛을 띠거나 또는 백색인 개체도 있고, 전신이 흑색형인 집단까지로 개체변이가 매우 심하다. 머리방패는 거의 반원형이며, 앞쪽은 약하게 상반하였고, 딱지날개는 무늬가 없으며, 간실은 높고, 불규칙한 열상의 점각이 있는데 제 1간실의 것은 조구처럼 보이며 조구점각은 매우 작고 드물다. 전미절판은 노출하지 않았다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국] 동북지방\n[러시아] 동시베리아지역"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGG0020-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0020_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0020_2_th.jpg",
+      "alt": "연노랑풍뎅이 1번째 사진 : 연노랑풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0020_2_th2.jpg",
+      "caption": "연노랑풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOGG0020-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0020_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0020_1_th.jpg",
+      "alt": "연노랑풍뎅이 2번째 사진 : 연노랑풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0020_1_th2.jpg",
+      "caption": "연노랑풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGG0020-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408201080",
+      "description": "[MPME0408201080] 연노랑풍뎅이 1994.06.25 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408201079",
+      "description": "[MPME0408201079] 연노랑풍뎅이 1994.06.25 / / 목포자연사박물관"
+    },
+    {
+      "id": "FRIE0306171010",
+      "description": "[FRIE0306171010] 연노랑풍뎅이 1997.07.08 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "상수리나무",
+      "scientific_name": "Quercus acutissima Carruth."
+    },
+    {
+      "group": "식물",
+      "name_ko": "소나무",
+      "scientific_name": "Pinus densiflora Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "잎갈나무",
+      "scientific_name": "Larix gmelinii var. olgensis (A.Henry) Ostenf. & Syrach"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGG0020-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGG0020&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:06+00:00",
+    "html_sha256": "81a624bc809700416d8d640e0365b491028fb3e8e4ad52d7b81bcb729780b9ea",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

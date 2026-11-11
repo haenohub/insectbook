@@ -1,0 +1,109 @@
+{
+  "id": "ZEBA0008",
+  "name_ko": "철써기",
+  "scientific_name": "Mecopoda niponensis (Haan, 1843)",
+  "display_name": "철써기",
+  "family_ko": "여치과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "메뚜기목",
+      "name_latin": "Orthoptera"
+    },
+    "family": {
+      "name_ko": "여치과",
+      "name_latin": "Tettigoniidae"
+    },
+    "subfamily": {
+      "name_ko": "철써기아과",
+      "name_latin": "Mecopodinae"
+    },
+    "genus": {
+      "name_ko": "철써기속",
+      "name_latin": "Mecopoda"
+    }
+  },
+  "taxonomy_text": "목 : 메뚜기목 (Orthoptera)\n과 : 여치과 (Tettigoniidae)\n아과 : 철써기아과 (Mecopodinae)\n속 : 철써기속 (Mecopoda)",
+  "basic_information": {
+    "곤충명": "철써기",
+    "학명": "Mecopoda niponensis (Haan, 1843)"
+  },
+  "information": {
+    "general_description": "몸길이 50~70mm이며 녹색 또는 갈색이고 머리꼭대기는 폭이 넓고 앞쪽으로 돌출하였고 말단은 둥그렇고 앞이마와의 사이에 1개의 가는 횡구가 있다. 앞가슴은 짧고 넓적하고 뒷쪽일수록 넓어졌으며 앞가두리는 직선인데 뒷가두리는 둥그렇고, 뒷쪽에 구부러진 2개의 횡구가있다. 옆가두리는 모가 났고 횡구사이에서 옆쪽으로 불규칙하게 돌출하였다. 수컷의 버금생식판은 뚜렷하게 길고 뒷가두리는 삼각형으로 안쪽으로 절단되었다. 수컷의 미모는 버금생식판의 중앙에 달할 뿐이다. 산란관은 몸길이보다 조금 짧고 다소 구부러졌다. 앞날개는 뒷허벅마디끝을 초월하고 뒷끝은 비스듬히 절단되었다. 갈색의 개체는 앞경맥의 앞쪽에 수개 또는 10개의 원형이 있고 가운데방에는 수개의 초승달 모양의 흑갈색 또는 흑색 무늬가 있다. 뒷다리는 특히 길고 밑은 뭉툭하게 되었다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[대만]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 50~70mm이며 녹색 또는 갈색이고 머리꼭대기는 폭이 넓고 앞쪽으로 돌출하였고 말단은 둥그렇고 앞이마와의 사이에 1개의 가는 횡구가 있다. 앞가슴은 짧고 넓적하고 뒷쪽일수록 넓어졌으며 앞가두리는 직선인데 뒷가두리는 둥그렇고, 뒷쪽에 구부러진 2개의 횡구가있다. 옆가두리는 모가 났고 횡구사이에서 옆쪽으로 불규칙하게 돌출하였다. 수컷의 버금생식판은 뚜렷하게 길고 뒷가두리는 삼각형으로 안쪽으로 절단되었다. 수컷의 미모는 버금생식판의 중앙에 달할 뿐이다. 산란관은 몸길이보다 조금 짧고 다소 구부러졌다. 앞날개는 뒷허벅마디끝을 초월하고 뒷끝은 비스듬히 절단되었다. 갈색의 개체는 앞경맥의 앞쪽에 수개 또는 10개의 원형이 있고 가운데방에는 수개의 초승달 모양의 흑갈색 또는 흑색 무늬가 있다. 뒷다리는 특히 길고 밑은 뭉툭하게 되었다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[대만]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZEBA0008-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0008_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0008_1_th.jpg",
+      "alt": "철써기 1번째 사진 : 철써기전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEBA0008_1_th2.jpg",
+      "caption": "철써기전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZEBA0008-1",
+  "specimen_examples": [
+    {
+      "id": "SCNE0301181045",
+      "description": "[SCNE0301181045] 철써기 2001.08.24 / / 순천대학교"
+    },
+    {
+      "id": "SCNE0301181046",
+      "description": "[SCNE0301181046] 철써기 2001.08.24 / / 순천대학교"
+    },
+    {
+      "id": "SCNE0301181048",
+      "description": "[SCNE0301181048] 철써기 2001.08.24 / / 순천대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "감나무",
+      "scientific_name": "Diospyros kaki Thunb."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZEBA0008-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZEBA0008&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:10+00:00",
+    "html_sha256": "399201b6e05d7e5b2895d380c4c950e8756e61140ed4e1b5471f396ede23aea9",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "ZOBH0153",
+  "name_ko": "넉점박이강변먼지벌레",
+  "scientific_name": "Bembidion (Bracteon) stenoderum stenoderum Bates, 1873",
+  "display_name": "넉점박이강변먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "꼬마먼지벌레아과",
+      "name_latin": "Trechinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Bembidion"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 꼬마먼지벌레아과 (Trechinae)\n속 : (Bembidion)",
+  "basic_information": {
+    "곤충명": "넉점박이강변먼지벌레",
+    "학명": "Bembidion (Bracteon) stenoderum stenoderum Bates, 1873"
+  },
+  "information": {
+    "general_description": "몸의길이는5.0mm내외. 두부,앞가슴,등판,딱지날개가 아주강하게 연결되어있고 금빛광택이있으며 딱지날개에 네개의 회색부분의 공점이있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의길이는5.0mm내외. 두부,앞가슴,등판,딱지날개가 아주강하게 연결되어있고 금빛광택이있으며 딱지날개에 네개의 회색부분의 공점이있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0153-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0153_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0153_1_th.jpg",
+      "alt": "넉점박이강변먼지벌레 1번째 사진 : 넉점박이강변먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0153_1_th2.jpg",
+      "caption": "넉점박이강변먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0153-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0302172015",
+      "description": "[KNAE0302172015] 넉점박이강변먼지벌레 1980.06.29 / / 국립수목원"
+    },
+    {
+      "id": "SCNE0407161093",
+      "description": "[SCNE0407161093] 넉점박이강변먼지벌레 2002.08.18 / / 순천대학교"
+    },
+    {
+      "id": "SCNE0407161092",
+      "description": "[SCNE0407161092] 넉점박이강변먼지벌레 2002.08.04 / / 순천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBH0153.png",
+    "reference_image_id": "ZOBH0153-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T09:51:34.884037+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "4601d968bb92f4caa4605f0a47a9cf4a95d1cbc8f264f3bbe633123de52da044"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0153&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:33+00:00",
+    "html_sha256": "2ede2f2e8448462b7050f348adf310974544ceabdd901f5ca796a16f67bf1b48",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

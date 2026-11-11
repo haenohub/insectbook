@@ -1,0 +1,122 @@
+{
+  "id": "ZTAG0100",
+  "name_ko": "어리호박벌",
+  "scientific_name": "Xylocopa circumvolacs circumvolacs Smith, 1852",
+  "display_name": "어리호박벌",
+  "family_ko": "꿀벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "꿀벌과",
+      "name_latin": "Apidae"
+    },
+    "subfamily": {
+      "name_ko": "어리호박벌아과",
+      "name_latin": "Xylocopinae"
+    },
+    "genus": {
+      "name_ko": "어리호박벌속",
+      "name_latin": "Xylocopa"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 꿀벌과 (Apidae)\n아과 : 어리호박벌아과 (Xylocopinae)\n속 : 어리호박벌속 (Xylocopa)",
+  "basic_information": {
+    "곤충명": "어리호박벌",
+    "학명": "Xylocopa circumvolacs circumvolacs Smith, 1852"
+  },
+  "information": {
+    "general_description": "몸길이는 22 mm 정도이다. 수컷의 몸은 흑색이다. 날개는 흑색을 띠고 보라빛이 도는 검정색 광택이 있다. 머리, 가슴의 하면, 배와 다리에는 흑색 내지 흑갈색의 긴 털이 밀생하고 정수리와 배의 등판에서는 털이 비교적 짧다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "5~8월에 출현한다.",
+    "habits": "주로 죽은 나무의 줄기 속에 굴을 파고 그 속에서 생활한다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[감소추세종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 22 mm 정도이다. 수컷의 몸은 흑색이다. 날개는 흑색을 띠고 보라빛이 도는 검정색 광택이 있다. 머리, 가슴의 하면, 배와 다리에는 흑색 내지 흑갈색의 긴 털이 밀생하고 정수리와 배의 등판에서는 털이 비교적 짧다."
+    },
+    {
+      "title": "생태",
+      "text": "5~8월에 출현한다."
+    },
+    {
+      "title": "습성",
+      "text": "주로 죽은 나무의 줄기 속에 굴을 파고 그 속에서 생활한다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[감소추세종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0100-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0100_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0100_2_th.jpg",
+      "alt": "어리호박벌 1번째 사진 : 어리호박벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0100_2_th2.jpg",
+      "caption": "어리호박벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTAG0100-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0100_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0100_1_th.jpg",
+      "alt": "어리호박벌 2번째 사진 : 어리호박벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0100_1_th2.jpg",
+      "caption": "어리호박벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0100-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408191054",
+      "description": "[MPME0408191054] 어리호박벌 2003.05.22 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408191055",
+      "description": "[MPME0408191055] 어리호박벌 2003.05.22 / / 목포자연사박물관"
+    },
+    {
+      "id": "YNUE0306051094",
+      "description": "[YNUE0306051094] 어리호박벌 2001.08.23 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAG0100-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0100&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:45+00:00",
+    "html_sha256": "9c4873f95429d91417f63990ac2902236f139ae751b76666f96b7a32ed2a3f48",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

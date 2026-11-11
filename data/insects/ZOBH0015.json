@@ -1,0 +1,114 @@
+{
+  "id": "ZOBH0015",
+  "name_ko": "강원우리딱정벌레",
+  "scientific_name": "Eucarabus (Parhomopterus) cartereti cartereti (Deuve, 1982)",
+  "display_name": "강원우리딱정벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "딱정벌레아과",
+      "name_latin": "Carabinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Eucarabus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 딱정벌레아과 (Carabinae)\n속 : (Eucarabus)",
+  "basic_information": {
+    "곤충명": "강원우리딱정벌레",
+    "학명": "Eucarabus (Parhomopterus) cartereti cartereti (Deuve, 1982)"
+  },
+  "information": {
+    "general_description": "몸길이는 수컷이 22~24mm, 암컷은 23~27mm이다. 몸체는 간간히 금속광택을 띠고 색깔변이가 심하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[한국고유종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 수컷이 22~24mm, 암컷은 23~27mm이다. 몸체는 간간히 금속광택을 띠고 색깔변이가 심하다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[한국고유종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0015-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0015_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0015_2_th.jpg",
+      "alt": "강원우리딱정벌레 1번째 사진 : 강원우리딱정벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0015_2_th2.jpg",
+      "caption": "강원우리딱정벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0015-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0015_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0015_1_th.jpg",
+      "alt": "강원우리딱정벌레 2번째 사진 : 강원우리딱정벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0015_1_th2.jpg",
+      "caption": "강원우리딱정벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0015-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0306261037",
+      "description": "[FRIE0306261037] 강원우리딱정벌레 1986.07.26 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0301231009",
+      "description": "[KNAE0301231009] 강원우리딱정벌레 1992.09.13 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0301231010",
+      "description": "[KNAE0301231010] 강원우리딱정벌레 1991.08.14 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBH0015.png",
+    "reference_image_id": "ZOBH0015-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T17:04:18.073043+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "921df4c2f2c7e51502f2336265a6912fd0bdf1bf8b0234af37e13606012157b6"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0015&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:42+00:00",
+    "html_sha256": "0537f3b0b2e1ba8725b4bc2114648dde45cde2c788f9d59f427e6a59073f9d76",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

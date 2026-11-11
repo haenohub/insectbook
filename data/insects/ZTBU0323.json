@@ -1,0 +1,115 @@
+{
+  "id": "ZTBU0323",
+  "name_ko": "꼬마맵시벌",
+  "scientific_name": "Phaeogenes eguchii Uchida, 1935",
+  "display_name": "꼬마맵시벌",
+  "family_ko": "맵시벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "맵시벌과",
+      "name_latin": "Ichneumonidae"
+    },
+    "subfamily": {
+      "name_ko": "맵시벌아과",
+      "name_latin": "Ichneumoninae"
+    },
+    "genus": {
+      "name_ko": "꼬마맵시벌속",
+      "name_latin": "Phaeogenes"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 맵시벌과 (Ichneumonidae)\n아과 : 맵시벌아과 (Ichneumoninae)\n속 : 꼬마맵시벌속 (Phaeogenes)",
+  "basic_information": {
+    "곤충명": "꼬마맵시벌",
+    "학명": "Phaeogenes eguchii Uchida, 1935"
+  },
+  "information": {
+    "general_description": "11mm정도",
+    "adult": null,
+    "adult_male": "♂에 있어서는 제4배마디의 기부반과 뒷슭은 다음마디의 기부와 함께 다소 적색이다.",
+    "adult_female": "♀는 흑색이고 광택이 없다. 더듬이는 기부가 적색, 중앙이 백색, 끝이 흑갈색이며 자루마디는 흑색이다. 큰턱 대부분과 수염은 갈색이다. 다리와 제1∼3배마디는 적색이고 뒷다리의 넓적다리마디의 끝 절반과, 그 종아리마디의 기부와 말단은 흑색이다. 그 발목마디는 암색이고 제4배마디의 기부는 적색을 띠고 있다.♀에 있어서는 뒷다리의 밑마디의 아랫면 끝 부근에 하나의 큰 이(齒)가 있으나 ♂에는 없다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "11mm정도"
+    },
+    {
+      "title": "성충(수)",
+      "text": "♂에 있어서는 제4배마디의 기부반과 뒷슭은 다음마디의 기부와 함께 다소 적색이다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "♀는 흑색이고 광택이 없다. 더듬이는 기부가 적색, 중앙이 백색, 끝이 흑갈색이며 자루마디는 흑색이다. 큰턱 대부분과 수염은 갈색이다. 다리와 제1∼3배마디는 적색이고 뒷다리의 넓적다리마디의 끝 절반과, 그 종아리마디의 기부와 말단은 흑색이다. 그 발목마디는 암색이고 제4배마디의 기부는 적색을 띠고 있다.♀에 있어서는 뒷다리의 밑마디의 아랫면 끝 부근에 하나의 큰 이(齒)가 있으나 ♂에는 없다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBU0323-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0323_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0323_1_th.jpg",
+      "alt": "꼬마맵시벌 1번째 사진 : 꼬마맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0323_1_th2.jpg",
+      "caption": "꼬마맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBU0323-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305301001",
+      "description": "[YNUE0305301001] 꼬마맵시벌 1995.07.12 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305301002",
+      "description": "[YNUE0305301002] 꼬마맵시벌 1995.07.12 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305281009",
+      "description": "[YNUE0305281009] 꼬마맵시벌 1961.08.05 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTBU0323.png",
+    "reference_image_id": "ZTBU0323-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T13:36:37.143574+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "4746b3b068638a5ac6e676ac819cdda7fd6203da53046c468f6b80fa5d0dc0d5"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBU0323&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:34+00:00",
+    "html_sha256": "054e459816c004943c0a577ff71359f78990202292e5c50557cad6662314682b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

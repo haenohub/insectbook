@@ -1,0 +1,107 @@
+{
+  "id": "ZLAE0004",
+  "name_ko": "애꽃노린재",
+  "scientific_name": "Orius (Heterorius) sauteri (Poppius, 1909)",
+  "display_name": "애꽃노린재",
+  "family_ko": "꽃노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "빈대상과",
+      "name_latin": "Cimicoidea"
+    },
+    "family": {
+      "name_ko": "꽃노린재과",
+      "name_latin": "Anthocoridae"
+    },
+    "subfamily": {
+      "name_ko": "꽃노린재아과",
+      "name_latin": "Anthocorinae"
+    },
+    "genus": {
+      "name_ko": "애꽃노린재속",
+      "name_latin": "Orius"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 빈대상과 (Cimicoidea)\n과 : 꽃노린재과 (Anthocoridae)\n아과 : 꽃노린재아과 (Anthocorinae)\n속 : 애꽃노린재속 (Orius)",
+  "basic_information": {
+    "곤충명": "애꽃노린재",
+    "학명": "Orius (Heterorius) sauteri (Poppius, 1909)"
+  },
+  "information": {
+    "general_description": "몸길이 : 1.8-2.1mm\n몸은 흑색, 머리, 앞가슴등 및 작은방패판도 마찬가지로 흑색이고 광택이 강하다. 머리는 앞쪽으로 돌출했고, 겹눈은 흑색, 홑눈은 홍색이다. 더듬이는 연한 갈색이고, 제 1마디는 머리끝에 달하고 제 2마디가 가장 길고, 제 3마디와 제 4마디는 거의 같은 길이이며 가늘고, 제 2마디보다 약간 짧다. 앞가슴등은 사디리꼴에 가깝고 뒷가장자리는 만입하였다. 반시초는 연한 갈색이고, 반투명하고, 설상부의 앞가장자리에서 선단에 걸쳐 흑갈색을 띤다. 막질부는 약간 회색을 띠고 투명하며, 몸의 아랫면은 한결같이 흑색이다. 다리는 연한 갈색이다. 뒷다리의 넓적다리마디의 기반은 흑갈색인 수가 많다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "각종 애매미충의 유충을 포식하므로 애매미충이 서식하는 데서 발견되고 등불에도 온다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 1.8-2.1mm\n몸은 흑색, 머리, 앞가슴등 및 작은방패판도 마찬가지로 흑색이고 광택이 강하다. 머리는 앞쪽으로 돌출했고, 겹눈은 흑색, 홑눈은 홍색이다. 더듬이는 연한 갈색이고, 제 1마디는 머리끝에 달하고 제 2마디가 가장 길고, 제 3마디와 제 4마디는 거의 같은 길이이며 가늘고, 제 2마디보다 약간 짧다. 앞가슴등은 사디리꼴에 가깝고 뒷가장자리는 만입하였다. 반시초는 연한 갈색이고, 반투명하고, 설상부의 앞가장자리에서 선단에 걸쳐 흑갈색을 띤다. 막질부는 약간 회색을 띠고 투명하며, 몸의 아랫면은 한결같이 흑색이다. 다리는 연한 갈색이다. 뒷다리의 넓적다리마디의 기반은 흑갈색인 수가 많다."
+    },
+    {
+      "title": "생태",
+      "text": "각종 애매미충의 유충을 포식하므로 애매미충이 서식하는 데서 발견되고 등불에도 온다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLAE0004-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAE0004_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAE0004_1_th.jpg",
+      "alt": "애꽃노린재 1번째 사진 : 애꽃노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAE0004_1_th2.jpg",
+      "caption": "애꽃노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLAE0004-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303192025",
+      "description": "[KNAE0303192025] 애꽃노린재 1996.06.30 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303192026",
+      "description": "[KNAE0303192026] 애꽃노린재 1996.07.26 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303192028",
+      "description": "[KNAE0303192028] 애꽃노린재 1996.06.22 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLAE0004-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLAE0004&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:03+00:00",
+    "html_sha256": "b17269a3443ff636a04269d9f20366a55898e502e732ab0bd1953c5629d3d069",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

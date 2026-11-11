@@ -1,0 +1,121 @@
+{
+  "id": "ZOBT0184",
+  "name_ko": "딸기잎벌레",
+  "scientific_name": "Galerucella (Galerucella) grisescens (Joannis, 1865)",
+  "display_name": "딸기잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "긴더듬이잎벌레아과",
+      "name_latin": "Galerucinae"
+    },
+    "genus": {
+      "name_ko": "딸기잎벌레속",
+      "name_latin": "Galerucella"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 긴더듬이잎벌레아과 (Galerucinae)\n속 : 딸기잎벌레속 (Galerucella)",
+  "basic_information": {
+    "곤충명": "딸기잎벌레",
+    "학명": "Galerucella (Galerucella) grisescens (Joannis, 1865)"
+  },
+  "information": {
+    "general_description": "몸길이는 3.7~5.2mm, 앞가슴배판과 뒷가슴배판은 흑갈색이다. 날개는 거의 평행하며, 평탄부는 좁다. 몸색깔은 암갈색이다. 한국, 유럽, 시베리아, 중국에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 4~11월까지 볼 수 있다. 4월에 황색 알을 산란한다. 유충은 4~11월에 성충과 같이 보인다. 딸기의 해충이다.",
+    "habits": "기주식물 소리쟁이.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[유럽]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 3.7~5.2mm, 앞가슴배판과 뒷가슴배판은 흑갈색이다. 날개는 거의 평행하며, 평탄부는 좁다. 몸색깔은 암갈색이다. 한국, 유럽, 시베리아, 중국에 분포되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 4~11월까지 볼 수 있다. 4월에 황색 알을 산란한다. 유충은 4~11월에 성충과 같이 보인다. 딸기의 해충이다."
+    },
+    {
+      "title": "습성",
+      "text": "기주식물 소리쟁이."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[유럽]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0184-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0184_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0184_1_th.jpg",
+      "alt": "딸기잎벌레 1번째 사진 : 딸기잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0184_1_th2.jpg",
+      "caption": "딸기잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0184-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0306241044",
+      "description": "[FRIE0306241044] 딸기잎벌레 1997.07.13 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0306241046",
+      "description": "[FRIE0306241046] 딸기잎벌레 1997.07.08 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0306241047",
+      "description": "[FRIE0306241047] 딸기잎벌레 1998.07.07 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "오리나무",
+      "scientific_name": "Alnus japonica (Thunb.) Steud."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0184-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0184&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:23+00:00",
+    "html_sha256": "ad339f3a6d80630084305d82f2b386ba7c41f23d2cd0cceda600a17c5fab0283",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

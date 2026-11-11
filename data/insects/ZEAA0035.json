@@ -1,0 +1,99 @@
+{
+  "id": "ZEAA0035",
+  "name_ko": "수염치레애메뚜기",
+  "scientific_name": "Schmidtiacris schmidti (Ikonnikov, 1913)",
+  "display_name": "수염치레애메뚜기",
+  "family_ko": "메뚜기과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "메뚜기목",
+      "name_latin": "Orthoptera"
+    },
+    "family": {
+      "name_ko": "메뚜기과",
+      "name_latin": "Acrididae"
+    },
+    "subfamily": {
+      "name_ko": "메뚜기아과",
+      "name_latin": "Acridinae"
+    },
+    "genus": {
+      "name_ko": "수염치레애메뚜기속",
+      "name_latin": "Schmidtiacris"
+    }
+  },
+  "taxonomy_text": "목 : 메뚜기목 (Orthoptera)\n과 : 메뚜기과 (Acrididae)\n아과 : 메뚜기아과 (Acridinae)\n속 : 수염치레애메뚜기속 (Schmidtiacris)",
+  "basic_information": {
+    "곤충명": "수염치레애메뚜기",
+    "학명": "Schmidtiacris schmidti (Ikonnikov, 1913)"
+  },
+  "information": {
+    "general_description": "날개 끝까지의 몸길이는 25~27 mm이다. 몸은 다갈색이고 머리꼭대기돌기의 밑부 구멍은 뚜렷하다. 더듬이는 길고 수컷의 것은 특히 굵고 길며 짙은 밤색인데 말단은 다소 넓적하다. 앞가슴의 제2횡구는 거의 중앙에 위치한다. 옆조각의 하부 반은 황색이다. 앞날개는 뒷허벅마디 끝을 넘고 수컷에 있어서는 버금앞가두리맥과 앞경맥 사이에서 다소 폭이 넓어지고 암컷은 같은 쪽에 불규칙한 1개의 종지맥이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아] 극동지역\n[북한]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개 끝까지의 몸길이는 25~27 mm이다. 몸은 다갈색이고 머리꼭대기돌기의 밑부 구멍은 뚜렷하다. 더듬이는 길고 수컷의 것은 특히 굵고 길며 짙은 밤색인데 말단은 다소 넓적하다. 앞가슴의 제2횡구는 거의 중앙에 위치한다. 옆조각의 하부 반은 황색이다. 앞날개는 뒷허벅마디 끝을 넘고 수컷에 있어서는 버금앞가두리맥과 앞경맥 사이에서 다소 폭이 넓어지고 암컷은 같은 쪽에 불규칙한 1개의 종지맥이 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아] 극동지역\n[북한]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZEAA0035-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0035_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0035_1_th.jpg",
+      "alt": "수염치레애메뚜기 1번째 사진 : 수염치레애메뚜기전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0035_1_th2.jpg",
+      "caption": "수염치레애메뚜기전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZEAA0035-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0409161033",
+      "description": "[KUIE0409161033] 수염치레애메뚜기 1984.08.06 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0409161034",
+      "description": "[KUIE0409161034] 수염치레애메뚜기 1984.08.06 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0409161035",
+      "description": "[KUIE0409161035] 수염치레애메뚜기 1984.08.07 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZEAA0035-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZEAA0035&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:34+00:00",
+    "html_sha256": "fab53757bfb52f27eac36ba10966e685e859753bd0df374fe7bf97812eec42ab",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

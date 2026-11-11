@@ -1,0 +1,99 @@
+{
+  "id": "ZOBH0043",
+  "name_ko": "조롱박딱정벌레",
+  "scientific_name": "Acoptolabrus constricticollis constricticollis (Kraatz, 1886)",
+  "display_name": "조롱박딱정벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "딱정벌레아과",
+      "name_latin": "Carabinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Acoptolabrus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 딱정벌레아과 (Carabinae)\n속 : (Acoptolabrus)",
+  "basic_information": {
+    "곤충명": "조롱박딱정벌레",
+    "학명": "Acoptolabrus constricticollis constricticollis (Kraatz, 1886)"
+  },
+  "information": {
+    "general_description": "몸길이는 25~34mm 이며 몸 빛깔은 전체가 광택이 나는 녹색이며 머리와 앞등판 딱지날개의 상부에는 구릿빛이 돈다. 딱지날개는 앞뒤가 좁고 크게 융기된 3줄의 혹 줄무늬가 있다. 그사이에 작은 혹 줄무늬가 4줄 있다. 촉각과 머리 앞부분은 흑색이며 앞가슴등판의 가장자리가 멋쟁이딱정벌레보다는 좁다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 25~34mm 이며 몸 빛깔은 전체가 광택이 나는 녹색이며 머리와 앞등판 딱지날개의 상부에는 구릿빛이 돈다. 딱지날개는 앞뒤가 좁고 크게 융기된 3줄의 혹 줄무늬가 있다. 그사이에 작은 혹 줄무늬가 4줄 있다. 촉각과 머리 앞부분은 흑색이며 앞가슴등판의 가장자리가 멋쟁이딱정벌레보다는 좁다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0043-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0043_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0043_1_th.jpg",
+      "alt": "조롱박딱정벌레 1번째 사진 : 조롱박딱정벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0043_1_th2.jpg",
+      "caption": "조롱박딱정벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0043-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE1107124155",
+      "description": "[KNAE1107124155] 조롱박딱정벌레 2007.06.25 / / 국립수목원"
+    },
+    {
+      "id": "KNAE1107124156",
+      "description": "[KNAE1107124156] 조롱박딱정벌레 2007.06.25 / / 국립수목원"
+    },
+    {
+      "id": "KNAE1107124157",
+      "description": "[KNAE1107124157] 조롱박딱정벌레 2007.06.25 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0043-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0043&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:39+00:00",
+    "html_sha256": "6ee6b5d2fc728202cd37157fe024b971be4544bc9a191b7f6e1fe7b7f678bf88",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

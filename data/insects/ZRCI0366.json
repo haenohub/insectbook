@@ -1,0 +1,118 @@
+{
+  "id": "ZRCI0366",
+  "name_ko": "얼룩수염가지나방",
+  "scientific_name": "Cryptochorina amphidasyaria (Oberthür, 1880)",
+  "display_name": "얼룩수염가지나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "가지나방아과",
+      "name_latin": "Ennominae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Cryptochorina"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 가지나방아과 (Ennominae)\n속 : (Cryptochorina)",
+  "basic_information": {
+    "곤충명": "얼룩수염가지나방",
+    "학명": "Cryptochorina amphidasyaria (Oberthür, 1880)"
+  },
+  "information": {
+    "general_description": "날개편길이 수컷46mm내외. 수컷의 더듬이는 빗살모양, 암컷은 실모양임. 더듬이 자루의 등쪽은 검은색과 연노란색이 교대로 이어져 있음. 앞날개의 외연은 톱니모양이며, 앞날개 아외연선 안쪽에는 검은색의 테가있음.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 3~4월에 나타나는데 개체수는 많지 않음.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편길이 수컷46mm내외. 수컷의 더듬이는 빗살모양, 암컷은 실모양임. 더듬이 자루의 등쪽은 검은색과 연노란색이 교대로 이어져 있음. 앞날개의 외연은 톱니모양이며, 앞날개 아외연선 안쪽에는 검은색의 테가있음."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 3~4월에 나타나는데 개체수는 많지 않음."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0366-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0366_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0366_2_th.jpg",
+      "alt": "얼룩수염가지나방 1번째 사진 : 얼룩수염가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0366_2_th2.jpg",
+      "caption": "얼룩수염가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0366-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0366_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0366_1_th.jpg",
+      "alt": "얼룩수염가지나방 2번째 사진 : 얼룩수염가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0366_1_th2.jpg",
+      "caption": "얼룩수염가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0366-1",
+  "specimen_examples": [
+    {
+      "id": "KNUE0201211155",
+      "description": "[KNUE0201211155] 얼룩수염가지나방 1996.04.19 / / 강원대학교"
+    },
+    {
+      "id": "KNUE0201161307",
+      "description": "[KNUE0201161307] 얼룩수염가지나방 1987.04.18 / / 강원대학교"
+    },
+    {
+      "id": "KNUE0201161300",
+      "description": "[KNUE0201161300] 얼룩수염가지나방 1987.04.18 / / 강원대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCI0366-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0366&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:52+00:00",
+    "html_sha256": "1042488e60638b3c909a4efcf0693074ad228046b5f5ca1543c61dcee72d88ea",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "id": "ZOCF0117",
+  "name_ko": "버들바구미",
+  "scientific_name": "Cryptorhynchus lapathi (Linnaeus, 1758)",
+  "display_name": "버들바구미",
+  "family_ko": "바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "바구미과",
+      "name_latin": "Curculionidae"
+    },
+    "subfamily": {
+      "name_ko": "버들바구미아과",
+      "name_latin": "Cryptorhynchinae"
+    },
+    "genus": {
+      "name_ko": "버들바구미속",
+      "name_latin": "Cryptorhynchus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 바구미과 (Curculionidae)\n아과 : 버들바구미아과 (Cryptorhynchinae)\n속 : 버들바구미속 (Cryptorhynchus)",
+  "basic_information": {
+    "곤충명": "버들바구미",
+    "학명": "Cryptorhynchus lapathi (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "성충의 몸길이는 8~10 mm이고 몸은 흑갈색이며 등쪽에는 흑색의 인편이 있고 날개 뒷쪽과 몸 아래에는 백색의 인모로 덮혀 있다. 가슴 등쪽의 앞과 중앙에 걸쳐 있는 3개의 돌기와 날개의 3개 간실(間室)의 돌기는 흑색 인편으로 덮혀 있고 가슴의 중앙에 융기선이 있다. 날개에는 조잡한 큰 점각열이 있고 머리와 가슴에는 주름 모양의 점각이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": "유충의 몸길이는 10 mm 내외이고 유백색이다.",
+    "egg": null,
+    "pupa": null,
+    "ecology": "연 1회 발생하나 생활 경과가 매우 불규칙하다. 우화 시기는 7월 상순~8월 중순이고 우화 최성기는 7월 상순~하순이며 성충의 수명은 40일 가량이다. 성충은 줄기에서 즙액을 빨아 먹으며 생활하고 수피 속에 산란한다. 4월경에 부화한 유충은 5월 하순부터 6월 상순에 급속히 성장한다. 노숙 유충은 목질부에 갱도를 만들고 6월 상순~7월 하순에 번데기가 된다. 번데기 기간은 2주 내외이다.",
+    "habits": "어린 유충은 수피 밑을 둥글게 갉아 먹고 노숙 유충이 되면 목질부 속으로 먹어 들어간다. 어린 유충기에는 피해가 외견으로 나타나지 않으나 점차 성장하면서 톱밥과 같은 것을 외부로 배출하므로 피해가 발견된다.",
+    "season": null,
+    "overwintering": "대부분 알로 월동하며 유충 또는 성충으로 월동하는 경우도 있다.",
+    "distribution": "[일본]\n[러시아]\n[유럽]\n[미국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충의 몸길이는 8~10 mm이고 몸은 흑갈색이며 등쪽에는 흑색의 인편이 있고 날개 뒷쪽과 몸 아래에는 백색의 인모로 덮혀 있다. 가슴 등쪽의 앞과 중앙에 걸쳐 있는 3개의 돌기와 날개의 3개 간실(間室)의 돌기는 흑색 인편으로 덮혀 있고 가슴의 중앙에 융기선이 있다. 날개에는 조잡한 큰 점각열이 있고 머리와 가슴에는 주름 모양의 점각이 있다."
+    },
+    {
+      "title": "유충",
+      "text": "유충의 몸길이는 10 mm 내외이고 유백색이다."
+    },
+    {
+      "title": "생태",
+      "text": "연 1회 발생하나 생활 경과가 매우 불규칙하다. 우화 시기는 7월 상순~8월 중순이고 우화 최성기는 7월 상순~하순이며 성충의 수명은 40일 가량이다. 성충은 줄기에서 즙액을 빨아 먹으며 생활하고 수피 속에 산란한다. 4월경에 부화한 유충은 5월 하순부터 6월 상순에 급속히 성장한다. 노숙 유충은 목질부에 갱도를 만들고 6월 상순~7월 하순에 번데기가 된다. 번데기 기간은 2주 내외이다."
+    },
+    {
+      "title": "습성",
+      "text": "어린 유충은 수피 밑을 둥글게 갉아 먹고 노숙 유충이 되면 목질부 속으로 먹어 들어간다. 어린 유충기에는 피해가 외견으로 나타나지 않으나 점차 성장하면서 톱밥과 같은 것을 외부로 배출하므로 피해가 발견된다."
+    },
+    {
+      "title": "월동",
+      "text": "대부분 알로 월동하며 유충 또는 성충으로 월동하는 경우도 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]\n[유럽]\n[미국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCF0117-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0117_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0117_1_th.jpg",
+      "alt": "버들바구미 1번째 사진 : 버들바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0117_1_th2.jpg",
+      "caption": "버들바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCF0117-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303132016",
+      "description": "[KNAE0303132016] 버들바구미 1993.07.29 / / 국립수목원"
+    },
+    {
+      "id": "FRIE0205141007",
+      "description": "[FRIE0205141007] 버들바구미 1984.07.26 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0205141009",
+      "description": "[FRIE0205141009] 버들바구미 1985.10.16 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "양버들",
+      "scientific_name": "Populus nigra L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "오리나무",
+      "scientific_name": "Alnus japonica (Thunb.) Steud."
+    },
+    {
+      "group": "식물",
+      "name_ko": "황철나무",
+      "scientific_name": "Populus suaveolens Fisch. ex Poit. & A.Vilm."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOCF0117-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCF0117&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:40+00:00",
+    "html_sha256": "bce68fe011356fa19516e02d6bc8865fc0ac14bd270ff9e6f58460b94eeb07c1",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

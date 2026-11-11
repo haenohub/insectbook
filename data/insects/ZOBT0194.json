@@ -1,0 +1,122 @@
+{
+  "id": "ZOBT0194",
+  "name_ko": "상아잎벌레",
+  "scientific_name": "Gallerucida bifasciata Motschulsky, 1860",
+  "display_name": "상아잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "긴더듬이잎벌레아과",
+      "name_latin": "Galerucinae"
+    },
+    "genus": {
+      "name_ko": "줄잎벌레속",
+      "name_latin": "Gallerucida"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 긴더듬이잎벌레아과 (Galerucinae)\n속 : 줄잎벌레속 (Gallerucida)",
+  "basic_information": {
+    "곤충명": "상아잎벌레",
+    "학명": "Gallerucida bifasciata Motschulsky, 1860"
+  },
+  "information": {
+    "general_description": "몸길이는 7.5~9.5mm, 머리, 앞가슴등판, 배판, 더듬이, 다리는 흑색을 보인다. 윗날개는 2종류의 크고 작은 점각을 가지며, 앞가슴등판에 1쌍의 홈이 있다. 앞날개는 흑색이며, 점의 크기 모양의 변이가 심하다. 한국, 시베리아(동부,남부), 중국(중부), 일본, 대만에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 3~8월까지 보이며, 5~6월에 산란. 유충은 5~7월에 포장근잎에서 보인다. 알,유충 2주간 정도 노숙유충은 땅속에서 융화한다. 연 1화성이며, 성충으로 월동한다.",
+    "habits": "기주식물 소리쟁이류, 며느리배꼽.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 7.5~9.5mm, 머리, 앞가슴등판, 배판, 더듬이, 다리는 흑색을 보인다. 윗날개는 2종류의 크고 작은 점각을 가지며, 앞가슴등판에 1쌍의 홈이 있다. 앞날개는 흑색이며, 점의 크기 모양의 변이가 심하다. 한국, 시베리아(동부,남부), 중국(중부), 일본, 대만에 분포되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 3~8월까지 보이며, 5~6월에 산란. 유충은 5~7월에 포장근잎에서 보인다. 알,유충 2주간 정도 노숙유충은 땅속에서 융화한다. 연 1화성이며, 성충으로 월동한다."
+    },
+    {
+      "title": "습성",
+      "text": "기주식물 소리쟁이류, 며느리배꼽."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0194-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0194_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0194_2_th.jpg",
+      "alt": "상아잎벌레 1번째 사진 : 상아잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0194_2_th2.jpg",
+      "caption": "상아잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBT0194-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0194_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0194_1_th.jpg",
+      "alt": "상아잎벌레 2번째 사진 : 상아잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0194_1_th2.jpg",
+      "caption": "상아잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0194-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408201121",
+      "description": "[MPME0408201121] 상아잎벌레 1999.06.25 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408201120",
+      "description": "[MPME0408201120] 상아잎벌레 1999.06.25 / / 목포자연사박물관"
+    },
+    {
+      "id": "KUIE0307151105",
+      "description": "[KUIE0307151105] 상아잎벌레 1983.05.21 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0194-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0194&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:46+00:00",
+    "html_sha256": "9cdd15f7cbe8466efbfd6e6acd2dd7166634fab49f7e126a2434ea3526c6842b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

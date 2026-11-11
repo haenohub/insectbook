@@ -1,0 +1,132 @@
+{
+  "id": "ZOBL0007",
+  "name_ko": "검정하늘소",
+  "scientific_name": "Spondylis buprestoides (Linnaeus, 1758)",
+  "display_name": "검정하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "검정하늘소아과",
+      "name_latin": "Spondylidinae"
+    },
+    "genus": {
+      "name_ko": "검정하늘소속",
+      "name_latin": "Spondylis"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 검정하늘소아과 (Spondylidinae)\n속 : 검정하늘소속 (Spondylis)",
+  "basic_information": {
+    "곤충명": "검정하늘소",
+    "학명": "Spondylis buprestoides (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "몸 길이는 12~25mm 몸 색깔은 흑색이며 짧고 뭉툭한 원통형이다. 앞가슴등판의 딱지날개에는 작은 점무늬가 빽빽하며 딱지날개에는 약간 굵고 낮은 두개의 세로 융기선이 있으며 암컷에서는 뚜렷하지가 않다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 7~8월에 활동, 밤에 불빛에 날아들든다. 유충은 소나무뿌리 속에서 산다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸 길이는 12~25mm 몸 색깔은 흑색이며 짧고 뭉툭한 원통형이다. 앞가슴등판의 딱지날개에는 작은 점무늬가 빽빽하며 딱지날개에는 약간 굵고 낮은 두개의 세로 융기선이 있으며 암컷에서는 뚜렷하지가 않다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 7~8월에 활동, 밤에 불빛에 날아들든다. 유충은 소나무뿌리 속에서 산다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0007-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0007_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0007_2_th.jpg",
+      "alt": "검정하늘소 1번째 사진 : 검정하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0007_2_th2.jpg",
+      "caption": "검정하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBL0007-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0007_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0007_1_th.jpg",
+      "alt": "검정하늘소 2번째 사진 : 검정하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0007_1_th2.jpg",
+      "caption": "검정하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0007-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408201026",
+      "description": "[MPME0408201026] 검정하늘소 1997.08.02 / / 목포자연사박물관"
+    },
+    {
+      "id": "UIBE0301282055",
+      "description": "[UIBE0301282055] 검정하늘소 2002.09.13 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0408101018",
+      "description": "[UIBE0408101018] 검정하늘소 1993.09.11 / / 인천대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "소나무",
+      "scientific_name": "Pinus densiflora Siebold & Zucc."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBL0007.png",
+    "reference_image_id": "ZOBL0007-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T12:05:32.677241+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "4272bac822ce66b58158f39f884238efe06f688b4648b246d20c691153968314"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0007&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:32+00:00",
+    "html_sha256": "fb30add01e813fb8cccc76e34c44962b414a3721e2374bf6878239e860177601",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

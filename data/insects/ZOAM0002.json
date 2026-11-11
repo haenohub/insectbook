@@ -1,0 +1,132 @@
+{
+  "id": "ZOAM0002",
+  "name_ko": "술소바구미",
+  "scientific_name": "Araecerus fasciculatus (De Geer, 1775)",
+  "display_name": "술소바구미",
+  "family_ko": "소바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "소바구미과",
+      "name_latin": "Anthribidae"
+    },
+    "subfamily": {
+      "name_ko": "꼬마소바구미아과",
+      "name_latin": "Choraginae"
+    },
+    "genus": {
+      "name_ko": "술소바구미속",
+      "name_latin": "Araecerus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 소바구미과 (Anthribidae)\n아과 : 꼬마소바구미아과 (Choraginae)\n속 : 술소바구미속 (Araecerus)",
+  "basic_information": {
+    "곤충명": "술소바구미",
+    "학명": "Araecerus fasciculatus (De Geer, 1775)"
+  },
+  "information": {
+    "general_description": "크기 2.5-4.0mm\n체색은 밝은 적갈색. 털색은 황색, 갈색, 흑색.\n두 겹눈사이의 폭은 넓다.\n촉각홈사이의 폭이 겹눈사이의 폭보다 넓다.\n촉각의 10째마디의 끝부분이 비스듬하게 기울어져있다.",
+    "adult": null,
+    "adult_male": "미절판에는 치상돌기가 있고 끝부분이 둥글다",
+    "adult_female": "미절판은 삼각형을 이루며 끝부분이 뾰족하다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "저장물 해충",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]\n[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "크기 2.5-4.0mm\n체색은 밝은 적갈색. 털색은 황색, 갈색, 흑색.\n두 겹눈사이의 폭은 넓다.\n촉각홈사이의 폭이 겹눈사이의 폭보다 넓다.\n촉각의 10째마디의 끝부분이 비스듬하게 기울어져있다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "미절판에는 치상돌기가 있고 끝부분이 둥글다"
+    },
+    {
+      "title": "성충(암)",
+      "text": "미절판은 삼각형을 이루며 끝부분이 뾰족하다."
+    },
+    {
+      "title": "생태",
+      "text": "저장물 해충"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]\n[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAM0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0002_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0002_2_th.jpg",
+      "alt": "술소바구미 1번째 사진 : 술소바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0002_2_th2.jpg",
+      "caption": "술소바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOAM0002-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0002_1_th.jpg",
+      "alt": "술소바구미 2번째 사진 : 술소바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0002_1_th2.jpg",
+      "caption": "술소바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAM0002-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0202141005",
+      "description": "[SNUE0202141005] 술소바구미 1993.10.20 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0202141008",
+      "description": "[SNUE0202141008] 술소바구미 1998.05.23 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0202141009",
+      "description": "[SNUE0202141009] 술소바구미 1998.09.20 / / 서울대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "대추나무",
+      "scientific_name": "Ziziphus jujuba Mill."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAM0002-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAM0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:39+00:00",
+    "html_sha256": "16ce729acecd135dec72e7565c125c00a0411cc5b56907e5ae1576dba2b47117",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

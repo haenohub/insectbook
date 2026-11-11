@@ -1,0 +1,117 @@
+{
+  "id": "ZMAS0015",
+  "name_ko": "참깽깽매미",
+  "scientific_name": "Auritibicen intermedius (Mori, 1931)",
+  "display_name": "참깽깽매미",
+  "family_ko": "매미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "매미상과",
+      "name_latin": "Cicadoidea"
+    },
+    "family": {
+      "name_ko": "매미과",
+      "name_latin": "Cicadidae"
+    },
+    "subfamily": {
+      "name_ko": "매미아과",
+      "name_latin": "Cicadinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Auritibicen"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 매미상과 (Cicadoidea)\n과 : 매미과 (Cicadidae)\n아과 : 매미아과 (Cicadinae)\n속 : (Auritibicen)",
+  "basic_information": {
+    "곤충명": "참깽깽매미",
+    "학명": "Auritibicen intermedius (Mori, 1931)"
+  },
+  "information": {
+    "general_description": "몸길이: 30-37 mm.\n깽깽매미와 비슷하나 크기가 작고 몸의 폭이 좁으며, 배딱지의 길이가 짧아 제2 배마디를 넘지 못한다. 머리는 가운데가슴등 기부보다 폭이 넓고, 가운데가슴에 W자 모양의 누르스름한 큰 무늬가 있다. 앞날개맥의 기반부는 초록색이다. 배의 윗면에 선명한 흰 무늬가 세로 두 줄로 되어 있다. 몸의 아랫면은 누루스름하며 백색 가루로 덮여 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "해발 600 m 이상의 수림이 울창한 산 속에 많이 산다. 울음소리를 향해 접근하면 울음을 멈추는 경우가 많아 발견되기 힘들다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": "[국지적분포종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이: 30-37 mm.\n깽깽매미와 비슷하나 크기가 작고 몸의 폭이 좁으며, 배딱지의 길이가 짧아 제2 배마디를 넘지 못한다. 머리는 가운데가슴등 기부보다 폭이 넓고, 가운데가슴에 W자 모양의 누르스름한 큰 무늬가 있다. 앞날개맥의 기반부는 초록색이다. 배의 윗면에 선명한 흰 무늬가 세로 두 줄로 되어 있다. 몸의 아랫면은 누루스름하며 백색 가루로 덮여 있다."
+    },
+    {
+      "title": "생태",
+      "text": "해발 600 m 이상의 수림이 울창한 산 속에 많이 산다. 울음소리를 향해 접근하면 울음을 멈추는 경우가 많아 발견되기 힘들다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[국지적분포종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMAS0015-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAS0015_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAS0015_1_th.jpg",
+      "alt": "참깽깽매미 1번째 사진 : 참깽깽매미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAS0015_1_th2.jpg",
+      "caption": "참깽깽매미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMAS0015-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408191170",
+      "description": "[MPME0408191170] 참깽깽매미 2002.08.12 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0407281014",
+      "description": "[MPME0407281014] 참깽깽매미 2002.08.12 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0407281015",
+      "description": "[MPME0407281015] 참깽깽매미 2002.08.12 / / 목포자연사박물관"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "소나무",
+      "scientific_name": "Pinus densiflora Siebold & Zucc."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZMAS0015-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMAS0015&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:48+00:00",
+    "html_sha256": "2bccdb79866d2937c0cb2c6aa327a38c46b0aa88d1cc1c38d2402fee40f8df4a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

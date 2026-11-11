@@ -1,0 +1,122 @@
+{
+  "id": "ZLBX0010",
+  "name_ko": "남색주둥이노린재",
+  "scientific_name": "Zicrona caerulea (Linnaeus, 1758)",
+  "display_name": "남색주둥이노린재",
+  "family_ko": "노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "노린재상과",
+      "name_latin": "Pentatomoidea"
+    },
+    "family": {
+      "name_ko": "노린재과",
+      "name_latin": "Pentatomidae"
+    },
+    "subfamily": {
+      "name_ko": "주둥이노린재아과",
+      "name_latin": "Asopinae"
+    },
+    "genus": {
+      "name_ko": "남색주둥이노린재속",
+      "name_latin": "Zicrona"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 노린재상과 (Pentatomoidea)\n과 : 노린재과 (Pentatomidae)\n아과 : 주둥이노린재아과 (Asopinae)\n속 : 남색주둥이노린재속 (Zicrona)",
+  "basic_information": {
+    "곤충명": "남색주둥이노린재",
+    "학명": "Zicrona caerulea (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "몸길이 : 6-8.5mm\n몸은 암청색 또는 청남색이다. 체표면에 광택이 강하다. 머리의 측엽은 중엽과 독립적으로 앞부분이 서로 떨어져 있다. 더듬이는 제 1마디가 청남색이고 나머지는 검다. 앞가슴등판은 옆가장자리의 뒷모서리가 세모꼴로 돌출하였다. 가로로 잇는 선은 능선을 이룬다. 작은방패판은 크고, 선단부는 길고 둥글게 돌출하였으며 앞날개의 2/3근처까지 도달한다. 막질부는 검거나 갈색을 띤다. 다리는 검다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "산야의 초원지대에서 서식한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 6-8.5mm\n몸은 암청색 또는 청남색이다. 체표면에 광택이 강하다. 머리의 측엽은 중엽과 독립적으로 앞부분이 서로 떨어져 있다. 더듬이는 제 1마디가 청남색이고 나머지는 검다. 앞가슴등판은 옆가장자리의 뒷모서리가 세모꼴로 돌출하였다. 가로로 잇는 선은 능선을 이룬다. 작은방패판은 크고, 선단부는 길고 둥글게 돌출하였으며 앞날개의 2/3근처까지 도달한다. 막질부는 검거나 갈색을 띤다. 다리는 검다."
+    },
+    {
+      "title": "생태",
+      "text": "산야의 초원지대에서 서식한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLBX0010-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0010_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0010_2_th.jpg",
+      "alt": "남색주둥이노린재 1번째 사진 : 남색주둥이노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0010_2_th2.jpg",
+      "caption": "남색주둥이노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZLBX0010-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0010_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0010_1_th.jpg",
+      "alt": "남색주둥이노린재 2번째 사진 : 남색주둥이노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0010_1_th2.jpg",
+      "caption": "남색주둥이노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLBX0010-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0303191179",
+      "description": "[KPNE0303191179] 남색주둥이노린재 1979.05.21 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0303191180",
+      "description": "[KPNE0303191180] 남색주둥이노린재 1999.07.20 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0303191181",
+      "description": "[KPNE0303191181] 남색주둥이노린재 1998.05.31 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZLBX0010.png",
+    "reference_image_id": "ZLBX0010-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T09:36:58.961372+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "e7c166c05c62d7819a19909e382f6754dd8bc1772006f2253e2fb006cecb6e32"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLBX0010&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:28+00:00",
+    "html_sha256": "f6f328a96b57def4b4f139e06481d2cdd3a0af520707ebc001ed5684f9657d96",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

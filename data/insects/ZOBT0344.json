@@ -1,0 +1,121 @@
+{
+  "id": "ZOBT0344",
+  "name_ko": "꼽추남생이잎벌레",
+  "scientific_name": "Cassida (Alledoya) vespertina Boheman, 1862",
+  "display_name": "꼽추남생이잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "남생이잎벌레아과",
+      "name_latin": "Cassidinae"
+    },
+    "genus": {
+      "name_ko": "남생이잎벌레속",
+      "name_latin": "Cassida"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 남생이잎벌레아과 (Cassidinae)\n속 : 남생이잎벌레속 (Cassida)",
+  "basic_information": {
+    "곤충명": "꼽추남생이잎벌레",
+    "학명": "Cassida (Alledoya) vespertina Boheman, 1862"
+  },
+  "information": {
+    "general_description": "체장은 4.7~6.7㎜이며 앞가슴등판은 암갈색이나 적갈색이며, 배는 흑색을 띄고 있고, 촉각은 황갈색, 적갈색을 띄고 있다. 다리는 적갈색이며, 넓적마디의 기부는 흑색이다. 분포는 한국, 일본, 대만, 몽골, 시베리아, 중국등지이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "4월경~5말까지 성충으로 있다가 5월 초순부터 산란을 시작한다. 유충은 5~7월에 나타나고 알, 유충기간은 3~4일과 3주일정도이다. 연 1화성이다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대만]\n[몽골]\n[중국]\n[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체장은 4.7~6.7㎜이며 앞가슴등판은 암갈색이나 적갈색이며, 배는 흑색을 띄고 있고, 촉각은 황갈색, 적갈색을 띄고 있다. 다리는 적갈색이며, 넓적마디의 기부는 흑색이다. 분포는 한국, 일본, 대만, 몽골, 시베리아, 중국등지이다."
+    },
+    {
+      "title": "생태",
+      "text": "4월경~5말까지 성충으로 있다가 5월 초순부터 산란을 시작한다. 유충은 5~7월에 나타나고 알, 유충기간은 3~4일과 3주일정도이다. 연 1화성이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대만]\n[몽골]\n[중국]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0344-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0344_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0344_1_th.jpg",
+      "alt": "꼽추남생이잎벌레 1번째 사진 : 곱추남생이잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0344_1_th2.jpg",
+      "caption": "곱추남생이잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0344-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0306131003",
+      "description": "[FRIE0306131003] 꼽추남생이잎벌레 1977.06.22 / / 국립산림과학원"
+    },
+    {
+      "id": "HNUE1006072051",
+      "description": "[HNUE1006072051] 꼽추남생이잎벌레 1997.05.31 / / 한남대학교 자연사박물관"
+    },
+    {
+      "id": "RIFI1207182053",
+      "description": "[RIFI1207182053] 꼽추남생이잎벌레 2006.04.29 / / 산림곤충다양성연구소"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "사위질빵",
+      "scientific_name": "Clematis apiifolia DC."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBT0344.png",
+    "reference_image_id": "ZOBT0344-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T14:37:25.740287+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "de22288e447e15115a0a7a2858ecfb033f62597f8d5f9f5669eb050fa7077dff"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0344&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:54+00:00",
+    "html_sha256": "e54d5390286f8e849f4ea5e8ff788e1670ccb54597acdf4c7c9fd510d3daf573",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

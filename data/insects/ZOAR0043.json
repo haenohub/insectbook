@@ -1,0 +1,107 @@
+{
+  "id": "ZOAR0043",
+  "name_ko": "분홍거위벌레",
+  "scientific_name": "Leptapoderus (Leptapoderidius) rubidus (Motschulsky, 1860)",
+  "display_name": "분홍거위벌레",
+  "family_ko": "거위벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "거위벌레과",
+      "name_latin": "Attelabidae"
+    },
+    "subfamily": {
+      "name_ko": "목거위벌레아과",
+      "name_latin": "Apoderinae"
+    },
+    "genus": {
+      "name_ko": "삼각가슴목거위벌레속",
+      "name_latin": "Leptapoderus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 거위벌레과 (Attelabidae)\n아과 : 목거위벌레아과 (Apoderinae)\n속 : 삼각가슴목거위벌레속 (Leptapoderus)",
+  "basic_information": {
+    "곤충명": "분홍거위벌레",
+    "학명": "Leptapoderus (Leptapoderidius) rubidus (Motschulsky, 1860)"
+  },
+  "information": {
+    "general_description": "한국, 일본, 중국, 러시아에 분포하며, 체장은 6.0mm 정도이다.체색은 광택이 있는 적갈색이며, 머리는 긴 도원추형이고, 겹눈은 검은색이다. 촉각은 담색인데 곤봉모양이다. 머리는 폭보다 길이가 2배이상 길다. 전흉배판은 원추형이고 바깥 가두리는 직선이며, 전흉 양쪽은 흑갈색이다. 앞, 가운데다리의 넓적마디 기부와 뒷다리 넓적마디 끝은 암색인데 흑갈색이다. 앞날개에는 9줄의 점각열이 있고 그 간실은 날개밑과 날개끝부분에서 융기하였으나 다른 부분에서는 평탄하다. 복판의 뒤쪽에 1개의 가로로 오목한 곳이 있다. 어깨부분은 현저하다. 다리의 경절은 곧게 뻗어 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]\n[중국]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 중국, 러시아에 분포하며, 체장은 6.0mm 정도이다.체색은 광택이 있는 적갈색이며, 머리는 긴 도원추형이고, 겹눈은 검은색이다. 촉각은 담색인데 곤봉모양이다. 머리는 폭보다 길이가 2배이상 길다. 전흉배판은 원추형이고 바깥 가두리는 직선이며, 전흉 양쪽은 흑갈색이다. 앞, 가운데다리의 넓적마디 기부와 뒷다리 넓적마디 끝은 암색인데 흑갈색이다. 앞날개에는 9줄의 점각열이 있고 그 간실은 날개밑과 날개끝부분에서 융기하였으나 다른 부분에서는 평탄하다. 복판의 뒤쪽에 1개의 가로로 오목한 곳이 있다. 어깨부분은 현저하다. 다리의 경절은 곧게 뻗어 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAR0043-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0043_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0043_1_th.jpg",
+      "alt": "분홍거위벌레 1번째 사진 : 분홍거위벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0043_1_th2.jpg",
+      "caption": "분홍거위벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAR0043-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0407292012",
+      "description": "[KUIE0407292012] 분홍거위벌레 1974.06.16 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0407292013",
+      "description": "[KUIE0407292013] 분홍거위벌레 1977.05.25 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0407292014",
+      "description": "[KUIE0407292014] 분홍거위벌레 1977.06.13 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAR0043-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAR0043&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:40+00:00",
+    "html_sha256": "dc6598094b1aafacd400c21ee2f8a646822de1481bcb289140a2b78db4f46cd4",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

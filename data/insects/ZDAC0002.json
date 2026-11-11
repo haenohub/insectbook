@@ -1,0 +1,110 @@
+{
+  "id": "ZDAC0002",
+  "name_ko": "물잠자리",
+  "scientific_name": "Calopteryx japonica Selys, 1869",
+  "display_name": "물잠자리",
+  "family_ko": "물잠자리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "잠자리목",
+      "name_latin": "Odonata"
+    },
+    "family": {
+      "name_ko": "물잠자리과",
+      "name_latin": "Calopterygidae"
+    },
+    "subfamily": {
+      "name_ko": "물잠자리아과",
+      "name_latin": "Calopteryginae"
+    },
+    "genus": {
+      "name_ko": "물잠자리속",
+      "name_latin": "Calopteryx"
+    }
+  },
+  "taxonomy_text": "목 : 잠자리목 (Odonata)\n과 : 물잠자리과 (Calopterygidae)\n아과 : 물잠자리아과 (Calopteryginae)\n속 : 물잠자리속 (Calopteryx)",
+  "basic_information": {
+    "곤충명": "물잠자리",
+    "학명": "Calopteryx japonica Selys, 1869"
+  },
+  "information": {
+    "general_description": "뒷날개의 길이는 수컷은 31-37 mm, 암컷은 33-40 mm이다. 수컷은 날개가 남색으로 세로맥은 금록색을 띠고 소가로맥은 자남색을 띠는 것이 보통이다. 이와 같은 이유로 수컷은 날개를 움직일 때마다 날개 표면이 청람색을 띠게 된다. 암컷은 광택이 없는 갈색으로 앞날개의 기부를 제외하고는 색이 밝고 유백색의 연문이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 5월에서 7월까지 나타난다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "뒷날개의 길이는 수컷은 31-37 mm, 암컷은 33-40 mm이다. 수컷은 날개가 남색으로 세로맥은 금록색을 띠고 소가로맥은 자남색을 띠는 것이 보통이다. 이와 같은 이유로 수컷은 날개를 움직일 때마다 날개 표면이 청람색을 띠게 된다. 암컷은 광택이 없는 갈색으로 앞날개의 기부를 제외하고는 색이 밝고 유백색의 연문이 있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 5월에서 7월까지 나타난다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZDAC0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAC0002_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAC0002_2_th.jpg",
+      "alt": "물잠자리 1번째 사진 : 물잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAC0002_2_th2.jpg",
+      "caption": "물잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZDAC0002-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAC0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAC0002_1_th.jpg",
+      "alt": "물잠자리 2번째 사진 : 물잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAC0002_1_th2.jpg",
+      "caption": "물잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZDAC0002-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0212236047",
+      "description": "[YNUE0212236047] 물잠자리 2000.06.17 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0212236048",
+      "description": "[YNUE0212236048] 물잠자리 1995.06.07 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0212236049",
+      "description": "[YNUE0212236049] 물잠자리 1995.06.07 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZDAC0002-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZDAC0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:42+00:00",
+    "html_sha256": "85a359f93e8fc89736b94e3ced2f83e1670f30ec62cb5614050df3bca0955882",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

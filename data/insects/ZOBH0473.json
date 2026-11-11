@@ -1,0 +1,122 @@
+{
+  "id": "ZOBH0473",
+  "name_ko": "꼬마목가는먼지벌레",
+  "scientific_name": "Brachinus stenoderus Redtenbacher, 1868",
+  "display_name": "꼬마목가는먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "폭탄먼지벌레아과",
+      "name_latin": "Brachininae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Brachinus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 폭탄먼지벌레아과 (Brachininae)\n속 : (Brachinus)",
+  "basic_information": {
+    "곤충명": "꼬마목가는먼지벌레",
+    "학명": "Brachinus stenoderus Redtenbacher, 1868"
+  },
+  "information": {
+    "general_description": "몸길이는 5.5~11.5mm이며, 다리,촉각, 두부 및 앞가슴등판은 갈색 또는 연한노란색이고 딱지날개는 검은색 또는 청색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "썩은 고기등을 포식하며 부식물질이 많은 곳에 서식한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]",
+    "notes": "[포식성]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 5.5~11.5mm이며, 다리,촉각, 두부 및 앞가슴등판은 갈색 또는 연한노란색이고 딱지날개는 검은색 또는 청색이다."
+    },
+    {
+      "title": "생태",
+      "text": "썩은 고기등을 포식하며 부식물질이 많은 곳에 서식한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[포식성]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0473-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0473_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0473_2_th.jpg",
+      "alt": "꼬마목가는먼지벌레 1번째 사진 : 꼬마목가는먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0473_2_th2.jpg",
+      "caption": "꼬마목가는먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0473-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0473_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0473_1_th.jpg",
+      "alt": "꼬마목가는먼지벌레 2번째 사진 : 꼬마목가는먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0473_1_th2.jpg",
+      "caption": "꼬마목가는먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0473-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303262041",
+      "description": "[KNAE0303262041] 꼬마목가는먼지벌레 1990.09.08 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303261036",
+      "description": "[KNAE0303261036] 꼬마목가는먼지벌레 1995.08.09 / / 국립수목원"
+    },
+    {
+      "id": "SCNE0302141063",
+      "description": "[SCNE0302141063] 꼬마목가는먼지벌레 2001.06.27 / / 순천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBH0473.png",
+    "reference_image_id": "ZOBH0473-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T13:41:31.149285+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "6d5a3755538d85ced50568d348f3060ccd47ea7cd6d700fec3f3c68af2e0f8e2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0473&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:35+00:00",
+    "html_sha256": "f5c3de6fb2880e1ccda1d3dc30f703ded9d7c696578c7be8ba4761d7bda205c4",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

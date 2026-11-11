@@ -1,0 +1,126 @@
+{
+  "id": "ZRDU0068",
+  "name_ko": "겹줄무늬재주나방",
+  "scientific_name": "Ptilodon saturata hoegei (Graeser, 1888)",
+  "display_name": "겹줄무늬재주나방",
+  "family_ko": "재주나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "재주나방과",
+      "name_latin": "Notodontidae"
+    },
+    "subfamily": {
+      "name_ko": "기린재주나방아과",
+      "name_latin": "Ptilodoninae"
+    },
+    "genus": {
+      "name_ko": "애기린재주나방속",
+      "name_latin": "Ptilodon"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 재주나방과 (Notodontidae)\n아과 : 기린재주나방아과 (Ptilodoninae)\n속 : 애기린재주나방속 (Ptilodon)",
+  "basic_information": {
+    "곤충명": "겹줄무늬재주나방",
+    "학명": "Ptilodon saturata hoegei (Graeser, 1888)"
+  },
+  "information": {
+    "general_description": "날개편 길이 33～40mm. 물결 모양의 내횡선과 2중으로 된 외횡선은 후연에서 제 4맥까지는 직선이나 제 4맥에서 전연까지는 톱니모양이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 4～6월, 8～9월 연 2회 출현한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[중국]\n[대만]\n[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 33～40mm. 물결 모양의 내횡선과 2중으로 된 외횡선은 후연에서 제 4맥까지는 직선이나 제 4맥에서 전연까지는 톱니모양이다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 4～6월, 8～9월 연 2회 출현한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]\n[대만]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDU0068-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0068_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0068_2_th.jpg",
+      "alt": "겹줄무늬재주나방 1번째 사진 : 겹줄무늬재주나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0068_2_th2.jpg",
+      "caption": "겹줄무늬재주나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDU0068-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0068_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0068_1_th.jpg",
+      "alt": "겹줄무늬재주나방 2번째 사진 : 겹줄무늬재주나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0068_1_th2.jpg",
+      "caption": "겹줄무늬재주나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDU0068-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0301102006",
+      "description": "[KNAE0301102006] 겹줄무늬재주나방 1994.05.13 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0301102007",
+      "description": "[KNAE0301102007] 겹줄무늬재주나방 1994.05.10 / / 국립수목원"
+    },
+    {
+      "id": "GSNE0204252277",
+      "description": "[GSNE0204252277] 겹줄무늬재주나방 1996.07.19 / / 경상대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDU0068.png",
+    "reference_image_id": "ZRDU0068-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T12:14:20.055910+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "3e6043d4e0c6cf0bb1c7c7614735a553afe391ec96d9e7d08af2ec84331cf00f"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDU0068&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:36+00:00",
+    "html_sha256": "be919a1d30e2faba029083a72ce1b309460240a8216afa29817b044e0382ca47",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

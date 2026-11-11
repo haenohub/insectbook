@@ -1,0 +1,101 @@
+{
+  "id": "ZOBL0291",
+  "name_ko": "열두점긴하늘소",
+  "scientific_name": "Saperda (Lopezcolonia) alberti Plavilstshikov, 1915",
+  "display_name": "열두점긴하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "목하늘소아과",
+      "name_latin": "Lamiinae"
+    },
+    "genus": {
+      "name_ko": "긴하늘소속",
+      "name_latin": "Saperda"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 목하늘소아과 (Lamiinae)\n속 : 긴하늘소속 (Saperda)",
+  "basic_information": {
+    "곤충명": "열두점긴하늘소",
+    "학명": "Saperda (Lopezcolonia) alberti Plavilstshikov, 1915"
+  },
+  "information": {
+    "general_description": "몸길이는 12~20mm 가늘고 긴형태이다. 딱지날개에 5쌍의 무늬가 불규칙적으로 나있다. 온몸은 회색빛 내지 검은 빛이 도는 회청색의 미세한 털로 되어있다. 다리와 더듬이는 흑색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 12~20mm 가늘고 긴형태이다. 딱지날개에 5쌍의 무늬가 불규칙적으로 나있다. 온몸은 회색빛 내지 검은 빛이 도는 회청색의 미세한 털로 되어있다. 다리와 더듬이는 흑색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0291-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0291_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0291_1_th.jpg",
+      "alt": "열두점긴하늘소 1번째 사진 : 열두점긴하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0291_1_th2.jpg",
+      "caption": "열두점긴하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0291-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0910201043",
+      "description": "[SNUE0910201043] 열두점긴하늘소 2005.06.16 / / 서울대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "느릅나무",
+      "scientific_name": "Ulmus davidiana var. japonica (Rehder) Nakai"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0291-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0291&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:10+00:00",
+    "html_sha256": "422f8f057cb1d0b69062dc70930380dbacfaa9cad5c2678b7873f60b49642e01",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

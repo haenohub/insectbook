@@ -1,0 +1,118 @@
+{
+  "id": "ZRAM0030",
+  "name_ko": "목도리불나방",
+  "scientific_name": "Macrobrochis staudingeri (Alphèraky, 1897)",
+  "display_name": "목도리불나방",
+  "family_ko": "태극나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "태극나방과",
+      "name_latin": "Erebidae"
+    },
+    "subfamily": {
+      "name_ko": "불나방아과",
+      "name_latin": "Arctiinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Macrobrochis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 태극나방과 (Erebidae)\n아과 : 불나방아과 (Arctiinae)\n속 : (Macrobrochis)",
+  "basic_information": {
+    "곤충명": "목도리불나방",
+    "학명": "Macrobrochis staudingeri (Alphèraky, 1897)"
+  },
+  "information": {
+    "general_description": "더듬이는 암․수 모두 가는 미모상(微毛狀)으로, 얼굴은 흑갈색을 띠고 있음. 머리의 정수리 부분, 어깨판(肩板), 가슴, 배의 배쪽면은 등황색을 띠고 있음. 아랫입술수염의 제3절 등쪽면은 흑갈색을 띠고 그 외는 등황색임. 앞다리, 가운뎃다리. 뒷다리의 넓적다리마디는 기부의 절반이 등황색이고, 나머지 절반과 종아리마디. 발목마디 등은 흑갈색바탕에 청남색 인분이 덮여있음. 앞날개는 흑갈색 바탕에 청남색의 광택이 나고, 뒷날개는 회갈색을 띠고 있음",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6～7월 경에 연1회 출현",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 암․수 모두 가는 미모상(微毛狀)으로, 얼굴은 흑갈색을 띠고 있음. 머리의 정수리 부분, 어깨판(肩板), 가슴, 배의 배쪽면은 등황색을 띠고 있음. 아랫입술수염의 제3절 등쪽면은 흑갈색을 띠고 그 외는 등황색임. 앞다리, 가운뎃다리. 뒷다리의 넓적다리마디는 기부의 절반이 등황색이고, 나머지 절반과 종아리마디. 발목마디 등은 흑갈색바탕에 청남색 인분이 덮여있음. 앞날개는 흑갈색 바탕에 청남색의 광택이 나고, 뒷날개는 회갈색을 띠고 있음"
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6～7월 경에 연1회 출현"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRAM0030-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0030_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0030_2_th.jpg",
+      "alt": "목도리불나방 1번째 사진 : 목도리불나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0030_2_th2.jpg",
+      "caption": "목도리불나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRAM0030-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0030_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0030_1_th.jpg",
+      "alt": "목도리불나방 2번째 사진 : 목도리불나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0030_1_th2.jpg",
+      "caption": "목도리불나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRAM0030-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304191025",
+      "description": "[KNAE0304191025] 목도리불나방 1998.06.30 / / 국립수목원"
+    },
+    {
+      "id": "FRIE0305261056",
+      "description": "[FRIE0305261056] 목도리불나방 1999.07.05 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0305261057",
+      "description": "[FRIE0305261057] 목도리불나방 1999.06.26 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRAM0030-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRAM0030&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:21+00:00",
+    "html_sha256": "0859373d8ed92e0fc4b892a029a5d6d19a6d0393a7c3797d92b423569e3add90",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

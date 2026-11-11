@@ -1,0 +1,103 @@
+{
+  "id": "ZREL0142",
+  "name_ko": "알락흰들명나방",
+  "scientific_name": "Pycnarmon lactiferalis (Walker, 1859)",
+  "display_name": "알락흰들명나방",
+  "family_ko": "풀명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "풀명나방과",
+      "name_latin": "Crambidae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Spilomelinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Pycnarmon"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 풀명나방과 (Crambidae)\n아과 : (Spilomelinae)\n속 : (Pycnarmon)",
+  "basic_information": {
+    "곤충명": "알락흰들명나방",
+    "학명": "Pycnarmon lactiferalis (Walker, 1859)"
+  },
+  "information": {
+    "general_description": "앞날개의 바탕색은 백색이며, 오렌지색의 횡대가 3줄 있다. 앞날개에는 원형의 흑색 무늬가 7～8개 있는데, 중실(中室)에 있는 것이 가장 크다. 뒷날개도 앞날개와 같은 색이며, 오렌지색의 외횡선이 명료하고, 3개의 뚜렷한 원형 흑색 무늬가 있는 것이 특징이다. 날개 길이 21-23 mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대한민국] 경기도\n[대한민국] 경상남도\n[대한민국] 강원특별자치도\n[대한민국] 제주특별자치도\n[일본]\n[중국]\n[러시아]\n[인도]\n[대만]\n[미얀마]\n[스리랑카]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "앞날개의 바탕색은 백색이며, 오렌지색의 횡대가 3줄 있다. 앞날개에는 원형의 흑색 무늬가 7～8개 있는데, 중실(中室)에 있는 것이 가장 크다. 뒷날개도 앞날개와 같은 색이며, 오렌지색의 외횡선이 명료하고, 3개의 뚜렷한 원형 흑색 무늬가 있는 것이 특징이다. 날개 길이 21-23 mm."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대한민국] 경기도\n[대한민국] 경상남도\n[대한민국] 강원특별자치도\n[대한민국] 제주특별자치도\n[일본]\n[중국]\n[러시아]\n[인도]\n[대만]\n[미얀마]\n[스리랑카]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0142-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0142_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0142_1_th.jpg",
+      "alt": "알락흰들명나방 1번째 사진 : 알락흰들명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0142_1_th2.jpg",
+      "caption": "알락흰들명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0142-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0301032043",
+      "description": "[UIBE0301032043] 알락흰들명나방 2000.06.13 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301032044",
+      "description": "[UIBE0301032044] 알락흰들명나방 1998.08.19 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301032046",
+      "description": "[UIBE0301032046] 알락흰들명나방 1998.07.07 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREL0142-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0142&tabId=tab1",
+    "collected_at": "2026-11-04T14:14:36+00:00",
+    "html_sha256": "3670ffb25b86d49d9a035d227dfcd789872d2780d7823f4d5c57b35bb923c097",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": "ZOBH0030",
+  "name_ko": "부산멋쟁이딱정벌레",
+  "scientific_name": "Coptolabrus jankowskii fusanus (Born, 1907)",
+  "display_name": "부산멋쟁이딱정벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "딱정벌레아과",
+      "name_latin": "Carabinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Coptolabrus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 딱정벌레아과 (Carabinae)\n속 : (Coptolabrus)",
+  "basic_information": {
+    "곤충명": "부산멋쟁이딱정벌레",
+    "학명": "Coptolabrus jankowskii fusanus (Born, 1907)"
+  },
+  "information": {
+    "general_description": "몸길이는 수컷은 30~31mm 암컷은 35~38mm두부와 앞가슴 등판은 적동색의 광택이 있다. 딱지날개는 적녹색에 측연 가장자리는 금색또는 녹동색의 광택이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "포식성이며, 미소절지동물을 먹고산다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[포식성]\n[한국고유종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 수컷은 30~31mm 암컷은 35~38mm두부와 앞가슴 등판은 적동색의 광택이 있다. 딱지날개는 적녹색에 측연 가장자리는 금색또는 녹동색의 광택이 있다."
+    },
+    {
+      "title": "생태",
+      "text": "포식성이며, 미소절지동물을 먹고산다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[포식성]\n[한국고유종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0030-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0030_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0030_2_th.jpg",
+      "alt": "부산멋쟁이딱정벌레 1번째 사진 : 부산멋쟁이딱정벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0030_2_th2.jpg",
+      "caption": "부산멋쟁이딱정벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0030-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0030_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0030_1_th.jpg",
+      "alt": "부산멋쟁이딱정벌레 2번째 사진 : 부산멋쟁이딱정벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0030_1_th2.jpg",
+      "caption": "부산멋쟁이딱정벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0030-1",
+  "specimen_examples": [
+    {
+      "id": "JFNE0302221320",
+      "description": "[JFNE0302221320] 부산멋쟁이딱정벌레 1999.11.02 / / 제주자연사박물관"
+    },
+    {
+      "id": "KPNE0203211059",
+      "description": "[KPNE0203211059] 부산멋쟁이딱정벌레 1977.06.03 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0203211060",
+      "description": "[KPNE0203211060] 부산멋쟁이딱정벌레 1977.06.03 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0030-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0030&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:16+00:00",
+    "html_sha256": "fca81346751ce37d470cf4989b69f9687d9c270213301b0a689ccaea3cbfdcce",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

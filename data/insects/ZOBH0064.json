@@ -1,0 +1,107 @@
+{
+  "id": "ZOBH0064",
+  "name_ko": "고려줄딱정벌레",
+  "scientific_name": "Aulonocarabus (Weolseocarabus) koreanus koreanus (Reitter, 1895)",
+  "display_name": "고려줄딱정벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "딱정벌레아과",
+      "name_latin": "Carabinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Aulonocarabus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 딱정벌레아과 (Carabinae)\n속 : (Aulonocarabus)",
+  "basic_information": {
+    "곤충명": "고려줄딱정벌레",
+    "학명": "Aulonocarabus (Weolseocarabus) koreanus koreanus (Reitter, 1895)"
+  },
+  "information": {
+    "general_description": "몸길이는 수컷은 24~30mm, 암컷은 25~33mm 이며, 일반적으로 검은색이나 암갈색을 띠는 경우가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "포식성이며, 활엽수림에 주로 서식한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[포식성]\n[한국고유종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 수컷은 24~30mm, 암컷은 25~33mm 이며, 일반적으로 검은색이나 암갈색을 띠는 경우가 있다."
+    },
+    {
+      "title": "생태",
+      "text": "포식성이며, 활엽수림에 주로 서식한다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[포식성]\n[한국고유종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0064-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0064_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0064_1_th.jpg",
+      "alt": "고려줄딱정벌레 1번째 사진 : 고려줄딱정벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0064_1_th2.jpg",
+      "caption": "고려줄딱정벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0064-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0301231015",
+      "description": "[KNAE0301231015] 고려줄딱정벌레 1991.08.01 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0301231016",
+      "description": "[KNAE0301231016] 고려줄딱정벌레 1991.08.21 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0301281024",
+      "description": "[KNAE0301281024] 고려줄딱정벌레 1991.08.01 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBH0064.png",
+    "reference_image_id": "ZOBH0064-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T12:32:20.417147+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "8d8434060a152d921c5d4193135ec757975bcf8a5bc5422b1dff13a4cd7c09ae"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0064&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:49+00:00",
+    "html_sha256": "019c039473bb7dcaea066854c42d5dcaeece24e9d4ce029864e514cff7d7a75d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

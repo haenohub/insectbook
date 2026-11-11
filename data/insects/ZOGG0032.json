@@ -1,0 +1,110 @@
+{
+  "id": "ZOGG0032",
+  "name_ko": "등노랑풍뎅이",
+  "scientific_name": "Callistethus plagiicollis (Fairmaire, 1886)",
+  "display_name": "등노랑풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "풍뎅이아과",
+      "name_latin": "Rutelinae"
+    },
+    "genus": {
+      "name_ko": "등노랑풍뎅이속",
+      "name_latin": "Callistethus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 풍뎅이아과 (Rutelinae)\n속 : 등노랑풍뎅이속 (Callistethus)",
+  "basic_information": {
+    "곤충명": "등노랑풍뎅이",
+    "학명": "Callistethus plagiicollis (Fairmaire, 1886)"
+  },
+  "information": {
+    "general_description": "중국, 시베리아 동부에 분포하며, 등이 높고 긴 난형이며 광택이 강하다. 등쪽은 밝은 황색인데 보통 머리방패와 앞가슴등판의 가장자리는 녹색 내지 녹남색이며, 복면은 갈색 내지 암갈색이다. 복부 복판의 가운데는 녹색 내지 구릿빛 흑색인데 가끔 복부 전체와 다리까지 확장되기도 하며, 경절과 부절은 광택이 강한 흑남색이다. 전흉복판 돌기는 없으나 중흉복판 돌기는 매우 길며, 거의 왜웅형이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중국, 시베리아 동부에 분포하며, 등이 높고 긴 난형이며 광택이 강하다. 등쪽은 밝은 황색인데 보통 머리방패와 앞가슴등판의 가장자리는 녹색 내지 녹남색이며, 복면은 갈색 내지 암갈색이다. 복부 복판의 가운데는 녹색 내지 구릿빛 흑색인데 가끔 복부 전체와 다리까지 확장되기도 하며, 경절과 부절은 광택이 강한 흑남색이다. 전흉복판 돌기는 없으나 중흉복판 돌기는 매우 길며, 거의 왜웅형이다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGG0032-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0032_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0032_2_th.jpg",
+      "alt": "등노랑풍뎅이 1번째 사진 : 등노랑풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0032_2_th2.jpg",
+      "caption": "등노랑풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOGG0032-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0032_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0032_1_th.jpg",
+      "alt": "등노랑풍뎅이 2번째 사진 : 등노랑풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0032_1_th2.jpg",
+      "caption": "등노랑풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGG0032-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0408101031",
+      "description": "[KNAE0408101031] 등노랑풍뎅이 2001.07.21 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0408101033",
+      "description": "[KNAE0408101033] 등노랑풍뎅이 2001.06.16 / / 국립수목원"
+    },
+    {
+      "id": "UIBE0301302004",
+      "description": "[UIBE0301302004] 등노랑풍뎅이 1999.06.30 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGG0032-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGG0032&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:13+00:00",
+    "html_sha256": "5ec91fd036fe00fb63634fd17c65d644b242f500691ab8b99ec115f5be5ae925",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

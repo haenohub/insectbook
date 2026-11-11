@@ -1,0 +1,107 @@
+{
+  "id": "ZOBT0247",
+  "name_ko": "깨알벼룩잎벌레",
+  "scientific_name": "Argopistes tsekooni Chen, 1934",
+  "display_name": "깨알벼룩잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "긴더듬이잎벌레아과",
+      "name_latin": "Galerucinae"
+    },
+    "genus": {
+      "name_ko": "알벼룩잎벌레속",
+      "name_latin": "Argopistes"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 긴더듬이잎벌레아과 (Galerucinae)\n속 : 알벼룩잎벌레속 (Argopistes)",
+  "basic_information": {
+    "곤충명": "깨알벼룩잎벌레",
+    "학명": "Argopistes tsekooni Chen, 1934"
+  },
+  "information": {
+    "general_description": "몸길이는 2.2~2.5mm, 더듬이는 적갈색이며, 끝부분의6절과 7절은 암갈색이다. 다리는 흑색이며, 넓적마디와 발마디는 적갈색이다. 윗날개의 중앙부 앞에 적색의 부늬를 가지며, 개체에 따라 전체가 적갈색인 것도 있다. 한국, 일본(혼슈,큐슈), 중국에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 2.2~2.5mm, 더듬이는 적갈색이며, 끝부분의6절과 7절은 암갈색이다. 다리는 흑색이며, 넓적마디와 발마디는 적갈색이다. 윗날개의 중앙부 앞에 적색의 부늬를 가지며, 개체에 따라 전체가 적갈색인 것도 있다. 한국, 일본(혼슈,큐슈), 중국에 분포되어있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0247-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0247_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0247_1_th.jpg",
+      "alt": "깨알벼룩잎벌레 1번째 사진 : 깨알벼룩잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0247_1_th2.jpg",
+      "caption": "깨알벼룩잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0247-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304091017",
+      "description": "[KNAE0304091017] 깨알벼룩잎벌레 1994.04.08 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304091018",
+      "description": "[KNAE0304091018] 깨알벼룩잎벌레 1994.04.07 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304091001",
+      "description": "[KNAE0304091001] 깨알벼룩잎벌레 1994.04.21 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBT0247.png",
+    "reference_image_id": "ZOBT0247-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T10:12:37.415772+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "e1cb36f30b6f55d83bdb28027c389d9282614566f92c3a7bfe0ceca06628a4b8"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0247&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:22+00:00",
+    "html_sha256": "30ef733d3afff1702d4b8cde0178ae19feac91106866bed1e54eb677a8f08b9c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

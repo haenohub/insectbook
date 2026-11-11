@@ -1,0 +1,107 @@
+{
+  "id": "ZLBX0060",
+  "name_ko": "꼬마갈색노린재",
+  "scientific_name": "Plautia splendens Distant, 1900",
+  "display_name": "꼬마갈색노린재",
+  "family_ko": "노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "노린재상과",
+      "name_latin": "Pentatomoidea"
+    },
+    "family": {
+      "name_ko": "노린재과",
+      "name_latin": "Pentatomidae"
+    },
+    "subfamily": {
+      "name_ko": "노린재아과",
+      "name_latin": "Pentatominae"
+    },
+    "genus": {
+      "name_ko": "꼬마갈색노린재속",
+      "name_latin": "Plautia"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 노린재상과 (Pentatomoidea)\n과 : 노린재과 (Pentatomidae)\n아과 : 노린재아과 (Pentatominae)\n속 : 꼬마갈색노린재속 (Plautia)",
+  "basic_information": {
+    "곤충명": "꼬마갈색노린재",
+    "학명": "Plautia splendens Distant, 1900"
+  },
+  "information": {
+    "general_description": "몸길이 : 8mm\n몸은 선록색 또는 청색을 띤다. 앞가슴등 앞옆가장자리의 능(稜)이 흑색이 아닌 점으로 쉽게 구별된다. 머리, 앞가슴등판, 작은방패판과 반시초의 전연부는 선록색이다. 혁질부의 대부분과 조상부는 암갈색이고, 막질부는 투명하며 거의 무색이다. 더듬이는 5마디이고 녹색이다. 다리와 몸의 아랫면은 연한 녹색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 8mm\n몸은 선록색 또는 청색을 띤다. 앞가슴등 앞옆가장자리의 능(稜)이 흑색이 아닌 점으로 쉽게 구별된다. 머리, 앞가슴등판, 작은방패판과 반시초의 전연부는 선록색이다. 혁질부의 대부분과 조상부는 암갈색이고, 막질부는 투명하며 거의 무색이다. 더듬이는 5마디이고 녹색이다. 다리와 몸의 아랫면은 연한 녹색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLBX0060-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0060_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0060_1_th.jpg",
+      "alt": "꼬마갈색노린재 1번째 사진 : 꼬마갈색노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0060_1_th2.jpg",
+      "caption": "꼬마갈색노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLBX0060-1",
+  "specimen_examples": [
+    {
+      "id": "ADUE0207231097",
+      "description": "[ADUE0207231097] 꼬마갈색노린재 2002.06.17 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0207231098",
+      "description": "[ADUE0207231098] 꼬마갈색노린재 2002.06.16 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0207231099",
+      "description": "[ADUE0207231099] 꼬마갈색노린재 2002.05.05 / / 안동대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZLBX0060.png",
+    "reference_image_id": "ZLBX0060-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T10:21:22.665907+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "dcbc04dbf353139115bd7286afeec916b045846390d6a2797a0cfc04f3d73e7b"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLBX0060&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:27+00:00",
+    "html_sha256": "d76a1597266a86245ba581a2f19dea991ee0423a0763b4b903db93acd2c0f36e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

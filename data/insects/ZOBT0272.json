@@ -1,0 +1,107 @@
+{
+  "id": "ZOBT0272",
+  "name_ko": "알통다리잎벌레",
+  "scientific_name": "Crepidodera plutus (Latreille, 1804)",
+  "display_name": "알통다리잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "긴더듬이잎벌레아과",
+      "name_latin": "Galerucinae"
+    },
+    "genus": {
+      "name_ko": "꼬마벼룩잎벌레속",
+      "name_latin": "Crepidodera"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 긴더듬이잎벌레아과 (Galerucinae)\n속 : 꼬마벼룩잎벌레속 (Crepidodera)",
+  "basic_information": {
+    "곤충명": "알통다리잎벌레",
+    "학명": "Crepidodera plutus (Latreille, 1804)"
+  },
+  "information": {
+    "general_description": "몸의 길이는 2.4-3.2mm정도이며 체배면은 파란색 혹은 초록색을 띤다. 앞가슴배판은 금속광택이 나는 녹색을 띤다. 두정에는 미세한 점각이 산포해 있다.\n이들은 유럽, 시베리아, 중국, 한국, 코카서스 등지에서 서식한다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의 길이는 2.4-3.2mm정도이며 체배면은 파란색 혹은 초록색을 띤다. 앞가슴배판은 금속광택이 나는 녹색을 띤다. 두정에는 미세한 점각이 산포해 있다.\n이들은 유럽, 시베리아, 중국, 한국, 코카서스 등지에서 서식한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0272-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0272_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0272_1_th.jpg",
+      "alt": "알통다리잎벌레 1번째 사진 : 알통다리잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0272_1_th2.jpg",
+      "caption": "알통다리잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0272-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0306251014",
+      "description": "[FRIE0306251014] 알통다리잎벌레 1997.07.13 / / 국립산림과학원"
+    },
+    {
+      "id": "ADUE1206181001",
+      "description": "[ADUE1206181001] 알통다리잎벌레 2011.05.05 / / 안동대학교"
+    },
+    {
+      "id": "ADUE1207261045",
+      "description": "[ADUE1207261045] 알통다리잎벌레 2011.05.23 / / 안동대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0272-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0272&tabId=tab1",
+    "collected_at": "2026-11-04T14:14:39+00:00",
+    "html_sha256": "85940e9efc94439863c06b59066c25a4e3b166272b245b439c664f504dba3803",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

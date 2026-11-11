@@ -1,0 +1,147 @@
+{
+  "id": "ZRDG0046",
+  "name_ko": "고운점박이푸른부전나비",
+  "scientific_name": "Phengaris teleius (Bergstrsser, 1779)",
+  "display_name": "고운점박이푸른부전나비",
+  "family_ko": "부전나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "부전나비과",
+      "name_latin": "Lycaenidae"
+    },
+    "subfamily": {
+      "name_ko": "부전나비아과",
+      "name_latin": "Polyommatinae"
+    },
+    "genus": {
+      "name_ko": "점박이푸른부전나비속",
+      "name_latin": "Phengaris"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 부전나비과 (Lycaenidae)\n아과 : 부전나비아과 (Polyommatinae)\n속 : 점박이푸른부전나비속 (Phengaris)",
+  "basic_information": {
+    "곤충명": "고운점박이푸른부전나비",
+    "학명": "Phengaris teleius (Bergstrsser, 1779)"
+  },
+  "information": {
+    "general_description": "암컷은 수컷에 비하여 날개 아랫면의 바탕색이 진하고 윗면의 파랑색 부분의 면적이 좁고 날개모양이 둥그스름하다. 사는 지역에 따라 크기, 무늬, 색채 등에 많은 변이가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "알은 부화하여 오이풀의 꽃을 먹고 자라다가 중령애벌레가 되면 개미에 의해 개미집으로 운반되어 개미 애벌레를 먹는다고 알려져 있다.",
+    "habits": "저산지의 오이풀이 있는 곳이나 밭 주변에 서식한다. 흐린 날에는 풀이 v 위에 앉아 있는 일이 많고 맑은 날에는 활발하게 서식지 주변을 날아다닌다. 오이풀, 엉겅퀴꽃에서 흡밀한다",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]\n[유럽]",
+    "notes": "[감소추세종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷은 수컷에 비하여 날개 아랫면의 바탕색이 진하고 윗면의 파랑색 부분의 면적이 좁고 날개모양이 둥그스름하다. 사는 지역에 따라 크기, 무늬, 색채 등에 많은 변이가 있다."
+    },
+    {
+      "title": "생태",
+      "text": "알은 부화하여 오이풀의 꽃을 먹고 자라다가 중령애벌레가 되면 개미에 의해 개미집으로 운반되어 개미 애벌레를 먹는다고 알려져 있다."
+    },
+    {
+      "title": "습성",
+      "text": "저산지의 오이풀이 있는 곳이나 밭 주변에 서식한다. 흐린 날에는 풀이 v 위에 앉아 있는 일이 많고 맑은 날에는 활발하게 서식지 주변을 날아다닌다. 오이풀, 엉겅퀴꽃에서 흡밀한다"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]\n[유럽]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[감소추세종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDG0046-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDG0046_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDG0046_3.jpg",
+      "alt": "고운점박이푸른부전나비 1번째 사진 : 고운점박이푸른부전나비 암컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDG0046_3_th2.jpg",
+      "caption": "고운점박이푸른부전나비 암컷 이미지",
+      "photographed_at": "20100812",
+      "location": "충청남도 청양군 운곡면 후덕리",
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRDG0046-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0046_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0046_2_th.jpg",
+      "alt": "고운점박이푸른부전나비 2번째 사진 : 고운점박이푸른부전나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0046_2_th2.jpg",
+      "caption": "고운점박이푸른부전나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDG0046-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0046_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0046_1_th.jpg",
+      "alt": "고운점박이푸른부전나비 3번째 사진 : 고운점박이푸른부전나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0046_1_th2.jpg",
+      "caption": "고운점박이푸른부전나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDG0046-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0305291112",
+      "description": "[FRIE0305291112] 고운점박이푸른부전나비 1987.08.08 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0203042078",
+      "description": "[KNAE0203042078] 고운점박이푸른부전나비 1986.08.08 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0203042079",
+      "description": "[KNAE0203042079] 고운점박이푸른부전나비 1985.07.25 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "오이풀",
+      "scientific_name": "Sanguisorba officinalis L."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDG0046.png",
+    "reference_image_id": "ZRDG0046-2",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T12:40:02.815278+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "fc68f77d05cfc458fe454e6750d3c70098b38210a950182ecb2a6d94bebabb72"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDG0046&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:55+00:00",
+    "html_sha256": "0a21e3c9478fe6020e248f577803175ccb055ffc6abdd2d5e5f1a7c98ea32cd6",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

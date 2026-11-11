@@ -1,0 +1,110 @@
+{
+  "id": "ZOEJ0046",
+  "name_ko": "스웬휄드트우단풍뎅이",
+  "scientific_name": "Maladera schoenfeldti (Murayama, 1937)",
+  "display_name": "스웬휄드트우단풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "검정풍뎅이아과",
+      "name_latin": "Melolonthinae"
+    },
+    "genus": {
+      "name_ko": "애우단풍뎅이속",
+      "name_latin": "Maladera"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 검정풍뎅이아과 (Melolonthinae)\n속 : 애우단풍뎅이속 (Maladera)",
+  "basic_information": {
+    "곤충명": "스웬휄드트우단풍뎅이",
+    "학명": "Maladera schoenfeldti (Murayama, 1937)"
+  },
+  "information": {
+    "general_description": "한국에 분포하며, 전 종보다 약간 넓은데 뒤쪽이 더 넓다. 후퇴절도 넓고, 후경절 거의 길이는 제 1부절과 같다. 촉각은 황갈색으로써 10마디인데 수컷의 공봉부는 자루마디와 거의 같은 길이이며, 암컷은 절반보다 약간 길고 굵다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국에 분포하며, 전 종보다 약간 넓은데 뒤쪽이 더 넓다. 후퇴절도 넓고, 후경절 거의 길이는 제 1부절과 같다. 촉각은 황갈색으로써 10마디인데 수컷의 공봉부는 자루마디와 거의 같은 길이이며, 암컷은 절반보다 약간 길고 굵다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOEJ0046-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0046_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0046_2_th.jpg",
+      "alt": "스웬휄드트우단풍뎅이 1번째 사진 : 스웬휄드트우단풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0046_2_th2.jpg",
+      "caption": "스웬휄드트우단풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOEJ0046-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0046_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0046_1_th.jpg",
+      "alt": "스웬휄드트우단풍뎅이 2번째 사진 : 스웬휄드트우단풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0046_1_th2.jpg",
+      "caption": "스웬휄드트우단풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOEJ0046-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0306191020",
+      "description": "[FRIE0306191020] 스웬휄드트우단풍뎅이 1999.06.11 / / 국립산림과학원"
+    },
+    {
+      "id": "SSUE0201151034",
+      "description": "[SSUE0201151034] 스웬휄드트우단풍뎅이 1992.07.03 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0201151035",
+      "description": "[SSUE0201151035] 스웬휄드트우단풍뎅이 1998.08.23 / / 성신여자대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOEJ0046-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOEJ0046&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:42+00:00",
+    "html_sha256": "2821ec73462e5583a37306e1607e0937a846679112febb48a2011651bfeb6205",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

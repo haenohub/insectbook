@@ -1,0 +1,128 @@
+{
+  "id": "ZLBG0025",
+  "name_ko": "십자무늬긴노린재",
+  "scientific_name": "Tropidothorax cruciger (Motschulsky, 1860)",
+  "display_name": "십자무늬긴노린재",
+  "family_ko": "긴노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "긴노린재상과",
+      "name_latin": "Lygaeioidea"
+    },
+    "family": {
+      "name_ko": "긴노린재과",
+      "name_latin": "Lygaeidae"
+    },
+    "subfamily": {
+      "name_ko": "긴노린재아과",
+      "name_latin": "Lygaeinae"
+    },
+    "genus": {
+      "name_ko": "십자무늬긴노린재속",
+      "name_latin": "Tropidothorax"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 긴노린재상과 (Lygaeioidea)\n과 : 긴노린재과 (Lygaeidae)\n아과 : 긴노린재아과 (Lygaeinae)\n속 : 십자무늬긴노린재속 (Tropidothorax)",
+  "basic_information": {
+    "곤충명": "십자무늬긴노린재",
+    "학명": "Tropidothorax cruciger (Motschulsky, 1860)"
+  },
+  "information": {
+    "general_description": "몸길이 : 7.5-11.5mm\n몸의 등면은 주홍색 또는 선홍색 바탕에 현저한 검정색 무늬를 가진다 체표면에는 노랑색의 미세한 털이 있다. 더듬이는 몸길이의 2/3정도로 짧고 검다. 앞가슴등판은 사다리꼴이고, 가장자리와 중앙정중선을 따라 주홍색을 띠어서 중앙부에는 한 쌍의 검은 무늬가 독특하게 나타난다. 앞날개는 혁질부의 가장자리와 막질부와의 경계선을 따라서 주홍색 무늬가 나타난다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "산야의 초원지대나 경작지 주변에 널리 분포한다.",
+    "habits": "쑥이나 박주가리 등에 집단 군서하기도 한다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 7.5-11.5mm\n몸의 등면은 주홍색 또는 선홍색 바탕에 현저한 검정색 무늬를 가진다 체표면에는 노랑색의 미세한 털이 있다. 더듬이는 몸길이의 2/3정도로 짧고 검다. 앞가슴등판은 사다리꼴이고, 가장자리와 중앙정중선을 따라 주홍색을 띠어서 중앙부에는 한 쌍의 검은 무늬가 독특하게 나타난다. 앞날개는 혁질부의 가장자리와 막질부와의 경계선을 따라서 주홍색 무늬가 나타난다."
+    },
+    {
+      "title": "생태",
+      "text": "산야의 초원지대나 경작지 주변에 널리 분포한다."
+    },
+    {
+      "title": "습성",
+      "text": "쑥이나 박주가리 등에 집단 군서하기도 한다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLBG0025-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBG0025_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBG0025_2_th.jpg",
+      "alt": "십자무늬긴노린재 1번째 사진 : 십자무늬긴노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBG0025_2_th2.jpg",
+      "caption": "십자무늬긴노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZLBG0025-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBG0025_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBG0025_1_th.jpg",
+      "alt": "십자무늬긴노린재 2번째 사진 : 십자무늬긴노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBG0025_1_th2.jpg",
+      "caption": "십자무늬긴노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLBG0025-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0212236073",
+      "description": "[YNUE0212236073] 십자무늬긴노린재 1998.05.05 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0212236075",
+      "description": "[YNUE0212236075] 십자무늬긴노린재 1990.05.27 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0212236076",
+      "description": "[YNUE0212236076] 십자무늬긴노린재 1990.05.16 / / 영남대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "감나무",
+      "scientific_name": "Diospyros kaki Thunb."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLBG0025-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLBG0025&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:52+00:00",
+    "html_sha256": "0c1cf841b4dbae2f409b2147a5dbf72e2c8568333df1b9ffd36a0d8e66935095",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "ZOBL0198",
+  "name_ko": "꼬마하늘소",
+  "scientific_name": "Egesina (Niijimaia) bifasciana bifasciana (Matsushita, 1933)",
+  "display_name": "꼬마하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "목하늘소아과",
+      "name_latin": "Lamiinae"
+    },
+    "genus": {
+      "name_ko": "꼬마하늘소속",
+      "name_latin": "Egesina"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 목하늘소아과 (Lamiinae)\n속 : 꼬마하늘소속 (Egesina)",
+  "basic_information": {
+    "곤충명": "꼬마하늘소",
+    "학명": "Egesina (Niijimaia) bifasciana bifasciana (Matsushita, 1933)"
+  },
+  "information": {
+    "general_description": "몸의 길이는 3.5~5mm 이며, 다리와 촉각, 두부는 검은색이다. 촉각은 몸의 길이보다 조금더 길다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의 길이는 3.5~5mm 이며, 다리와 촉각, 두부는 검은색이다. 촉각은 몸의 길이보다 조금더 길다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0198-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0198_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0198_1_th.jpg",
+      "alt": "꼬마하늘소 1번째 사진 : 꼬마하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0198_1_th2.jpg",
+      "caption": "꼬마하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0198-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0304251056",
+      "description": "[FRIE0304251056] 꼬마하늘소 1995.08.21 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0712280024",
+      "description": "[KNAE0712280024] 꼬마하늘소 2006.07.20 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBL0198.png",
+    "reference_image_id": "ZOBL0198-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T14:30:37.165446+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "a2ed04ef840456d33adc90718eb8f67da1cc754a30f9884e02335bd34b18a61b"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0198&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:52+00:00",
+    "html_sha256": "c0a0b67988f69451b4a1680b78804749b01f882fb31ca5da999aa1c97658072e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

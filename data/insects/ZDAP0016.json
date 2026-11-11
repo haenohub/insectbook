@@ -1,0 +1,99 @@
+{
+  "id": "ZDAP0016",
+  "name_ko": "대륙고추좀잠자리",
+  "scientific_name": "Sympetrum depressiusculum (Selys, 1841)",
+  "display_name": "대륙고추좀잠자리",
+  "family_ko": "잠자리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "잠자리목",
+      "name_latin": "Odonata"
+    },
+    "family": {
+      "name_ko": "잠자리과",
+      "name_latin": "Libellulidae"
+    },
+    "subfamily": {
+      "name_ko": "고추잠자리아과",
+      "name_latin": "Sympetrinae"
+    },
+    "genus": {
+      "name_ko": "좀잠자리속",
+      "name_latin": "Sympetrum"
+    }
+  },
+  "taxonomy_text": "목 : 잠자리목 (Odonata)\n과 : 잠자리과 (Libellulidae)\n아과 : 고추잠자리아과 (Sympetrinae)\n속 : 좀잠자리속 (Sympetrum)",
+  "basic_information": {
+    "곤충명": "대륙고추좀잠자리",
+    "학명": "Sympetrum depressiusculum (Selys, 1841)"
+  },
+  "information": {
+    "general_description": "배의 길이는 20-26 mm, 뒷날개의 길이는 23-32 mm이며, 갓 우화된 개체는 암수 모두 가슴이 황색이고 배는 주황색이다. 가을이 되면 가슴이 갈색으로 변하는데 수컷은 배 전체가 적색, 암컷은 배의 위쪽만 적색이 된다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 낮은 지역의 못이나 늪에서 6-7월에 출현하기 시작하여 점차 높은 지대로 이동한다. 여름 동안에는 산정부에서 무리를 지내다가 기온이 내려가면 다시 산 아래쪽으로 내려와 물가나 연못에서 산란을 한다. 가을에 하늘을 떼지어 날아다니는 우리 나라에서 가장 흔한 잠자리이다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "배의 길이는 20-26 mm, 뒷날개의 길이는 23-32 mm이며, 갓 우화된 개체는 암수 모두 가슴이 황색이고 배는 주황색이다. 가을이 되면 가슴이 갈색으로 변하는데 수컷은 배 전체가 적색, 암컷은 배의 위쪽만 적색이 된다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 낮은 지역의 못이나 늪에서 6-7월에 출현하기 시작하여 점차 높은 지대로 이동한다. 여름 동안에는 산정부에서 무리를 지내다가 기온이 내려가면 다시 산 아래쪽으로 내려와 물가나 연못에서 산란을 한다. 가을에 하늘을 떼지어 날아다니는 우리 나라에서 가장 흔한 잠자리이다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZDAP0016-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0016_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0016_1_th.jpg",
+      "alt": "대륙고추좀잠자리 1번째 사진 : 고추좀잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0016_1_th2.jpg",
+      "caption": "고추좀잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZDAP0016-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408161121",
+      "description": "[MPME0408161121] 대륙고추좀잠자리 2003.10.03 / / 목포자연사박물관"
+    },
+    {
+      "id": "UIBE0301212112",
+      "description": "[UIBE0301212112] 대륙고추좀잠자리 2002.10.13 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301212111",
+      "description": "[UIBE0301212111] 대륙고추좀잠자리 2002.10.13 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZDAP0016-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZDAP0016&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:05+00:00",
+    "html_sha256": "e14a491e128f6f0f121a3470336844771893198cfd1caa669d535e5685b9f171",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

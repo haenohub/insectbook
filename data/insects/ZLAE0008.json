@@ -1,0 +1,111 @@
+{
+  "id": "ZLAE0008",
+  "name_ko": "천적꽃노린재",
+  "scientific_name": "Lyctocoris beneficus (Hiura, 1957)",
+  "display_name": "천적꽃노린재",
+  "family_ko": "천적꽃노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "빈대상과",
+      "name_latin": "Cimicoidea"
+    },
+    "family": {
+      "name_ko": "천적꽃노린재과",
+      "name_latin": "Lyctocoridae"
+    },
+    "genus": {
+      "name_ko": "천적꽃노린재속",
+      "name_latin": "Lyctocoris"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 빈대상과 (Cimicoidea)\n과 : 천적꽃노린재과 (Lyctocoridae)\n속 : 천적꽃노린재속 (Lyctocoris)",
+  "basic_information": {
+    "곤충명": "천적꽃노린재",
+    "학명": "Lyctocoris beneficus (Hiura, 1957)"
+  },
+  "information": {
+    "general_description": "몸길이 : 3.5-4mm\n등면은 흑색이고, 아랫면은 적흑색이다. 더듬이와 주둥이, 머리의 끝과 다리는 갈색이다. 반시초는 황색을 띠고 투명하며, 보라색 광택이 있다. 조상부의 기부와 뒷가장자리, 혁질부와 연상부의 기부는 암갈색이고 설상부의 위끝은 암색이다. 막질부는 회색을 띠고 투명하다. 몸은 편평하고 긴 알모양이다. 머리의 윗면은 겹눈의 내연역을 제외하고 점각이 성기게 분포햇다. 주둥이는 길고 가운데가슴판의 뒷가장자리에 이른다. 앞가슴등의 앞쪽은 평활하고 중앙부는 정중선에 따라 작은 홈이 있고 뒤쪽은 한 쌍의 큰 삼각형의 압축된 무늬가 있으며 좌우 두 무늬는 중아에서 연결된다. 가운데가슴판은 넓고 편평하며, 뒷가슴판은 중앙에 짧은 융기가 있다. 앞다리와 뒷다리의 도래마디는 좌우가 접촉되나 가운데다리의 도래마디는 좌우 접하지 않는다. 앞다리와 가운데다리의 종아리마디는 끝에 뚜렷하고 작은 해면구가 있다. 반시초는 광택이 있고, 점각이 성기다.",
+    "adult": null,
+    "adult_male": "생식절은 비대칭이고, 다른 외부 생식기도 비대칭이다.",
+    "adult_female": "산란관은 좌우 대칭이고, 잘 발달되어 있다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "산야의 땔나무 다발에 많으나, 늦가을에서 봄에 걸쳐 짚단 속에 많이 살고 명충류를 포식하므로 중요한 천적의 하나이다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 3.5-4mm\n등면은 흑색이고, 아랫면은 적흑색이다. 더듬이와 주둥이, 머리의 끝과 다리는 갈색이다. 반시초는 황색을 띠고 투명하며, 보라색 광택이 있다. 조상부의 기부와 뒷가장자리, 혁질부와 연상부의 기부는 암갈색이고 설상부의 위끝은 암색이다. 막질부는 회색을 띠고 투명하다. 몸은 편평하고 긴 알모양이다. 머리의 윗면은 겹눈의 내연역을 제외하고 점각이 성기게 분포햇다. 주둥이는 길고 가운데가슴판의 뒷가장자리에 이른다. 앞가슴등의 앞쪽은 평활하고 중앙부는 정중선에 따라 작은 홈이 있고 뒤쪽은 한 쌍의 큰 삼각형의 압축된 무늬가 있으며 좌우 두 무늬는 중아에서 연결된다. 가운데가슴판은 넓고 편평하며, 뒷가슴판은 중앙에 짧은 융기가 있다. 앞다리와 뒷다리의 도래마디는 좌우가 접촉되나 가운데다리의 도래마디는 좌우 접하지 않는다. 앞다리와 가운데다리의 종아리마디는 끝에 뚜렷하고 작은 해면구가 있다. 반시초는 광택이 있고, 점각이 성기다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "생식절은 비대칭이고, 다른 외부 생식기도 비대칭이다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "산란관은 좌우 대칭이고, 잘 발달되어 있다."
+    },
+    {
+      "title": "생태",
+      "text": "산야의 땔나무 다발에 많으나, 늦가을에서 봄에 걸쳐 짚단 속에 많이 살고 명충류를 포식하므로 중요한 천적의 하나이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLAE0008-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAE0008_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAE0008_1_th.jpg",
+      "alt": "천적꽃노린재 1번째 사진 : 명충잡이꽃노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAE0008_1_th2.jpg",
+      "caption": "명충잡이꽃노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLAE0008-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0303181023",
+      "description": "[FRIE0303181023] 천적꽃노린재 1983.12.16 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE383144",
+      "description": "[KNAE383144] 천적꽃노린재 / / 국립수목원"
+    },
+    {
+      "id": "KNAE383147",
+      "description": "[KNAE383147] 천적꽃노린재 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLAE0008-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLAE0008&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:10+00:00",
+    "html_sha256": "68c61cc1a8543974dc33fa2802ec8de70a34686a1f33ae9a7a8f9b6872279fb3",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

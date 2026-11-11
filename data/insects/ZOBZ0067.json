@@ -1,0 +1,103 @@
+{
+  "id": "ZOBZ0067",
+  "name_ko": "노랑무당벌레",
+  "scientific_name": "Illeis (Illeis) koebelei koebelei Timberlake, 1943",
+  "display_name": "노랑무당벌레",
+  "family_ko": "무당벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Coccinelloidea"
+    },
+    "family": {
+      "name_ko": "무당벌레과",
+      "name_latin": "Coccinellidae"
+    },
+    "subfamily": {
+      "name_ko": "무당벌레아과",
+      "name_latin": "Coccinellinae"
+    },
+    "genus": {
+      "name_ko": "노랑무당벌레속",
+      "name_latin": "Illeis"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : (Coccinelloidea)\n과 : 무당벌레과 (Coccinellidae)\n아과 : 무당벌레아과 (Coccinellinae)\n속 : 노랑무당벌레속 (Illeis)",
+  "basic_information": {
+    "곤충명": "노랑무당벌레",
+    "학명": "Illeis (Illeis) koebelei koebelei Timberlake, 1943"
+  },
+  "information": {
+    "general_description": "두부의 색깔은 연한 황색이며, 다리는 연황색을 띤다. 닾다리와 중지의 퇴절의 말단은 약간 암화되어 있음을 볼 수 있다. 대악의 교편은 이가 8개 정도로 이루어져 있음을 볼 수 있고 , 흉부의 앞가슴배판은 사변형꼴이긴 하나 각이 완만한 편이며, 다리는 굵으면서 잛은 형상을 띠고 있다. 앞다리의 경절은 머리폭에 비해서 다소 길다. 제9배마디는 반원처럼 생긴 모양이며, 발톱의 기부치는 큰 편이다.\n이들은 한국, 일본, 대만, 중국 등지에서 널리 분포한다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대만]\n[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "두부의 색깔은 연한 황색이며, 다리는 연황색을 띤다. 닾다리와 중지의 퇴절의 말단은 약간 암화되어 있음을 볼 수 있다. 대악의 교편은 이가 8개 정도로 이루어져 있음을 볼 수 있고 , 흉부의 앞가슴배판은 사변형꼴이긴 하나 각이 완만한 편이며, 다리는 굵으면서 잛은 형상을 띠고 있다. 앞다리의 경절은 머리폭에 비해서 다소 길다. 제9배마디는 반원처럼 생긴 모양이며, 발톱의 기부치는 큰 편이다.\n이들은 한국, 일본, 대만, 중국 등지에서 널리 분포한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대만]\n[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBZ0067-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBZ0067_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBZ0067_1_th.jpg",
+      "alt": "노랑무당벌레 1번째 사진 : 노랑무당벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBZ0067_1_th2.jpg",
+      "caption": "노랑무당벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBZ0067-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0307071096",
+      "description": "[KUIE0307071096] 노랑무당벌레 1993.06.03 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307071097",
+      "description": "[KUIE0307071097] 노랑무당벌레 1991.06.03 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307071098",
+      "description": "[KUIE0307071098] 노랑무당벌레 1991.05.19 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBZ0067-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBZ0067&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:16+00:00",
+    "html_sha256": "978b2eff365b85e30298de81e18ddcf4d2377029cb0686dafdae61b06c67e9c6",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

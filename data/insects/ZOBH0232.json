@@ -1,0 +1,110 @@
+{
+  "id": "ZOBH0232",
+  "name_ko": "청암길쭉먼지벌레",
+  "scientific_name": "Pterostichus (Koreonialoe) bellatrix (Tschitschérine, 1895)",
+  "display_name": "청암길쭉먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "먼지벌레아과",
+      "name_latin": "Harpalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Pterostichus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 먼지벌레아과 (Harpalinae)\n속 : (Pterostichus)",
+  "basic_information": {
+    "곤충명": "청암길쭉먼지벌레",
+    "학명": "Pterostichus (Koreonialoe) bellatrix (Tschitschérine, 1895)"
+  },
+  "information": {
+    "general_description": "몸길이는 17~24mm 이며 수컷 생식기 중간부분에 둥근 혹이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "산간지역에서 서식하는 포식성이다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 17~24mm 이며 수컷 생식기 중간부분에 둥근 혹이 있다."
+    },
+    {
+      "title": "생태",
+      "text": "산간지역에서 서식하는 포식성이다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0232-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0232_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0232_2_th.jpg",
+      "alt": "청암길쭉먼지벌레 1번째 사진 : 청암길쭉먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0232_2_th2.jpg",
+      "caption": "청암길쭉먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0232-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0232_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0232_1_th.jpg",
+      "alt": "청암길쭉먼지벌레 2번째 사진 : 청암길쭉먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0232_1_th2.jpg",
+      "caption": "청암길쭉먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0232-1",
+  "specimen_examples": [
+    {
+      "id": "SJNE0202061132",
+      "description": "[SJNE0202061132] 청암길쭉먼지벌레 1980.09.07 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0202061133",
+      "description": "[SJNE0202061133] 청암길쭉먼지벌레 1983.08.06 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0202061134",
+      "description": "[SJNE0202061134] 청암길쭉먼지벌레 1983.08.06 / / 상주대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0232-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0232&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:18+00:00",
+    "html_sha256": "5234d1703da8bf4dd3bd06e078973c02cfaeba3b2a431e8021f8e2495aae3c2d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "ZOCS0048",
+  "name_ko": "시이볼드방아벌레",
+  "scientific_name": "Orthostethus sieboldi sieboldi (Candèze, 1873)",
+  "display_name": "시이볼드방아벌레",
+  "family_ko": "방아벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "방아벌레상과",
+      "name_latin": "Elateroidea"
+    },
+    "family": {
+      "name_ko": "방아벌레과",
+      "name_latin": "Elateridae"
+    },
+    "subfamily": {
+      "name_ko": "방아벌레아과",
+      "name_latin": "Elaterinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Orthostethus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 방아벌레상과 (Elateroidea)\n과 : 방아벌레과 (Elateridae)\n아과 : 방아벌레아과 (Elaterinae)\n속 : (Orthostethus)",
+  "basic_information": {
+    "곤충명": "시이볼드방아벌레",
+    "학명": "Orthostethus sieboldi sieboldi (Candèze, 1873)"
+  },
+  "information": {
+    "general_description": "몸의 길이는 23~30mm이며, 몸은 약간 넓고 더듬이는 수컷만 날카로운 빗살모양이다. 등쪽은 흑갈색인데 빳빳한 회황색털로 덮여있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[베트남]\n[라오스]\n[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의 길이는 23~30mm이며, 몸은 약간 넓고 더듬이는 수컷만 날카로운 빗살모양이다. 등쪽은 흑갈색인데 빳빳한 회황색털로 덮여있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[베트남]\n[라오스]\n[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCS0048-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCS0048_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCS0048_1_th.jpg",
+      "alt": "시이볼드방아벌레 1번째 사진 : 시이볼드방아벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCS0048_1_th2.jpg",
+      "caption": "시이볼드방아벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCS0048-1",
+  "specimen_examples": [
+    {
+      "id": "ENHE1108073198",
+      "description": "[ENHE1108073198] 시이볼드방아벌레 1964.08.04 / / 이화여자대학교 자연사박물관"
+    },
+    {
+      "id": "KNAE358612",
+      "description": "[KNAE358612] 시이볼드방아벌레 / / 국립수목원"
+    },
+    {
+      "id": "KNAE565985",
+      "description": "[KNAE565985] 시이볼드방아벌레 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOCS0048-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCS0048&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:48+00:00",
+    "html_sha256": "f5a1e5d6652ae6709bd8df1d49a2e7c507251dc9048d090e3c7797410d575f49",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

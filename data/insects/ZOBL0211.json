@@ -1,0 +1,118 @@
+{
+  "id": "ZOBL0211",
+  "name_ko": "우단하늘소",
+  "scientific_name": "Acalolepta fraudatrix fraudatrix (Bates, 1873)",
+  "display_name": "우단하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "목하늘소아과",
+      "name_latin": "Lamiinae"
+    },
+    "genus": {
+      "name_ko": "우단하늘소속",
+      "name_latin": "Acalolepta"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 목하늘소아과 (Lamiinae)\n속 : 우단하늘소속 (Acalolepta)",
+  "basic_information": {
+    "곤충명": "우단하늘소",
+    "학명": "Acalolepta fraudatrix fraudatrix (Bates, 1873)"
+  },
+  "information": {
+    "general_description": "몸길이는 12~25mm이며, 몸색깔은 갈색또는 회갈색이다. 앞가슴과 딱지날개에는 거칠고 큰점무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 12~25mm이며, 몸색깔은 갈색또는 회갈색이다. 앞가슴과 딱지날개에는 거칠고 큰점무늬가 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0211-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0211_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0211_1_th.jpg",
+      "alt": "우단하늘소 1번째 사진 : 우단하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0211_1_th2.jpg",
+      "caption": "우단하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0211-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0301282051",
+      "description": "[UIBE0301282051] 우단하늘소 1998.09.04 / / 인천대학교"
+    },
+    {
+      "id": "KNAE92012",
+      "description": "[KNAE92012] 우단하늘소 / / 국립수목원"
+    },
+    {
+      "id": "FRIE0304081019",
+      "description": "[FRIE0304081019] 우단하늘소 1986.07.18 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "굴거리나무",
+      "scientific_name": "Daphniphyllum macropodum Miq."
+    },
+    {
+      "group": "식물",
+      "name_ko": "오리나무",
+      "scientific_name": "Alnus japonica (Thunb.) Steud."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0211-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0211&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:59+00:00",
+    "html_sha256": "bc76777ec43494fd5445205b8187958f6a0c26392cee384652583bc86566a923",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "id": "ZRDG0017",
+  "name_ko": "암먹부전나비",
+  "scientific_name": "Cupido argiades (Pallas, 1771)",
+  "display_name": "암먹부전나비",
+  "family_ko": "부전나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "부전나비과",
+      "name_latin": "Lycaenidae"
+    },
+    "subfamily": {
+      "name_ko": "부전나비아과",
+      "name_latin": "Polyommatinae"
+    },
+    "genus": {
+      "name_ko": "꼬마부전나비속",
+      "name_latin": "Cupido"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 부전나비과 (Lycaenidae)\n아과 : 부전나비아과 (Polyommatinae)\n속 : 꼬마부전나비속 (Cupido)",
+  "basic_information": {
+    "곤충명": "암먹부전나비",
+    "학명": "Cupido argiades (Pallas, 1771)"
+  },
+  "information": {
+    "general_description": "수컷은 날개 윗면이 청남색이며 외연은 검정색으로 테가 둘려져 있으나 암컷은 검정색으로 봄 가을형은 기반부에 청남색의 비늘가루가 발달한다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "숲 가장자리의 양지바른 초지나 강둑 등지에 서식한다. 수컷은 초지를 낮게 활발히 날아다니며, 물가에서 물을 먹는 일이 많다. 또한 암수 모두 갈퀴나물, 토끼풀, 싸리 등의 꽃에 잘 모여 흡밀한다. 맑은 날 날개를 반쯤 펴고 일광욕을 하는 일이 많다.",
+    "season": null,
+    "overwintering": "번데기",
+    "distribution": "[일본]\n[중국]\n[대만]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "수컷은 날개 윗면이 청남색이며 외연은 검정색으로 테가 둘려져 있으나 암컷은 검정색으로 봄 가을형은 기반부에 청남색의 비늘가루가 발달한다."
+    },
+    {
+      "title": "습성",
+      "text": "숲 가장자리의 양지바른 초지나 강둑 등지에 서식한다. 수컷은 초지를 낮게 활발히 날아다니며, 물가에서 물을 먹는 일이 많다. 또한 암수 모두 갈퀴나물, 토끼풀, 싸리 등의 꽃에 잘 모여 흡밀한다. 맑은 날 날개를 반쯤 펴고 일광욕을 하는 일이 많다."
+    },
+    {
+      "title": "월동",
+      "text": "번데기"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[대만]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDG0017-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDG0017_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDG0017_3.jpg",
+      "alt": "암먹부전나비 1번째 사진 : 암먹부전나비 암컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDG0017_3_th2.jpg",
+      "caption": "암먹부전나비 암컷 이미지",
+      "photographed_at": "20130701",
+      "location": "강원도 영월군 남면 새술막",
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRDG0017-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0017_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0017_2_th.jpg",
+      "alt": "암먹부전나비 2번째 사진 : 암먹부전나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0017_2_th2.jpg",
+      "caption": "암먹부전나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDG0017-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0017_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0017_1_th.jpg",
+      "alt": "암먹부전나비 3번째 사진 : 암먹부전나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0017_1_th2.jpg",
+      "caption": "암먹부전나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDG0017-1",
+  "specimen_examples": [
+    {
+      "id": "MPNE0408101426",
+      "description": "[MPNE0408101426] 암먹부전나비 2003.10.03 / / 목포 대학교 환경연구소"
+    },
+    {
+      "id": "MPME0408191014",
+      "description": "[MPME0408191014] 암먹부전나비 2002.06.21 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408191013",
+      "description": "[MPME0408191013] 암먹부전나비 2002.06.21 / / 목포자연사박물관"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "갈퀴나물",
+      "scientific_name": "Vicia amoena Fisch. ex Ser."
+    },
+    {
+      "group": "식물",
+      "name_ko": "매듭풀",
+      "scientific_name": "Kummerowia striata (Thunb.) Schindl."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDG0017-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDG0017&tabId=tab1",
+    "collected_at": "2026-11-04T14:14:40+00:00",
+    "html_sha256": "4792a8c8a1e67fbd3d7edaca029b045372beef356bdb087fba5d190efc405ab9",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

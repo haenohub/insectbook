@@ -1,0 +1,132 @@
+{
+  "id": "ZMAZ0032",
+  "name_ko": "애멸구",
+  "scientific_name": "Laodelphax striatellus (Fallén, 1826)",
+  "display_name": "애멸구",
+  "family_ko": "멸구과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "꽃매미상과",
+      "name_latin": "Fulgoroidea"
+    },
+    "family": {
+      "name_ko": "멸구과",
+      "name_latin": "Delphacidae"
+    },
+    "subfamily": {
+      "name_ko": "멸구아과",
+      "name_latin": "Delphacinae"
+    },
+    "genus": {
+      "name_ko": "애멸구속",
+      "name_latin": "Laodelphax"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 꽃매미상과 (Fulgoroidea)\n과 : 멸구과 (Delphacidae)\n아과 : 멸구아과 (Delphacinae)\n속 : 애멸구속 (Laodelphax)",
+  "basic_information": {
+    "곤충명": "애멸구",
+    "학명": "Laodelphax striatellus (Fallén, 1826)"
+  },
+  "information": {
+    "general_description": "몸길이: 단시형인경우 2.2-2.5mm 장시형인경우 3-4mm 암컷이 수컷보다 다소 크다. 몸은 황갈색 또는 담황색이고 암컷의 경우 갈색 또는 흑갈색 무늬를 가지는데 반해 수컷은 현저하게 검다. 머리는 양 겹눈의 끝이 앞가슴등판보다 훨씬 좁다. 정수리는 길이와 폭이 비슷 하거나 약간 더 넓고 평행을 이룬다. 앞가장자리에 M자 모양의 볼록선이 있고 작은 방을 이루며 이마와 연결되어있다. 앞가슴 등판은 암 수 모두 황갈색이다. 작은방패판은 암컷의 경우 세로볼록선 양 옆부위가 황갈색 또는 갈색이고, 중앙부는 회백색을 띠어서 대조를 이룬다. 그러나 쉇의 경우 전체가 흑색이어서 쉽게 구분된다. 앞날개는 장시형과 단시형이 모두 출현하며, 벼, 보리, 밀, 옥수수 등 각종 작물을 가해한다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "바이러스병을 매개한다.",
+    "season": null,
+    "overwintering": "추위에 강해 보리밭이나 논둑에서 월동한다.",
+    "distribution": "[중국]\n[일본]\n[러시아]\n[유럽]\n[말레이시아]\n[인도네시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이: 단시형인경우 2.2-2.5mm 장시형인경우 3-4mm 암컷이 수컷보다 다소 크다. 몸은 황갈색 또는 담황색이고 암컷의 경우 갈색 또는 흑갈색 무늬를 가지는데 반해 수컷은 현저하게 검다. 머리는 양 겹눈의 끝이 앞가슴등판보다 훨씬 좁다. 정수리는 길이와 폭이 비슷 하거나 약간 더 넓고 평행을 이룬다. 앞가장자리에 M자 모양의 볼록선이 있고 작은 방을 이루며 이마와 연결되어있다. 앞가슴 등판은 암 수 모두 황갈색이다. 작은방패판은 암컷의 경우 세로볼록선 양 옆부위가 황갈색 또는 갈색이고, 중앙부는 회백색을 띠어서 대조를 이룬다. 그러나 쉇의 경우 전체가 흑색이어서 쉽게 구분된다. 앞날개는 장시형과 단시형이 모두 출현하며, 벼, 보리, 밀, 옥수수 등 각종 작물을 가해한다."
+    },
+    {
+      "title": "습성",
+      "text": "바이러스병을 매개한다."
+    },
+    {
+      "title": "월동",
+      "text": "추위에 강해 보리밭이나 논둑에서 월동한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]\n[러시아]\n[유럽]\n[말레이시아]\n[인도네시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMAZ0032-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAZ0032_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAZ0032_1_th.jpg",
+      "alt": "애멸구 1번째 사진 : 애멸구전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAZ0032_1_th2.jpg",
+      "caption": "애멸구전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMAZ0032-1",
+  "specimen_examples": [
+    {
+      "id": "HNUE0408134020",
+      "description": "[HNUE0408134020] 애멸구 2002.08.25 / / 한남대학교 자연사박물관"
+    },
+    {
+      "id": "HNUE0408134021",
+      "description": "[HNUE0408134021] 애멸구 2002.08.25 / / 한남대학교 자연사박물관"
+    },
+    {
+      "id": "HNUE0408134022",
+      "description": "[HNUE0408134022] 애멸구 2002.08.25 / / 한남대학교 자연사박물관"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "밀",
+      "scientific_name": "Triticum aestivum L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "벼",
+      "scientific_name": "Oryza sativa L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "보리",
+      "scientific_name": "Hordeum vulgare L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "옥수수",
+      "scientific_name": "Zea mays L."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZMAZ0032-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMAZ0032&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:09+00:00",
+    "html_sha256": "1a07555f290391a4b5b5755dfa80251b236215f25232c46d8ea3f42ac7625510",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

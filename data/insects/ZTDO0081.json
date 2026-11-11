@@ -1,0 +1,110 @@
+{
+  "id": "ZTDO0081",
+  "name_ko": "흰점박이검정잎벌",
+  "scientific_name": "Macrophya (Pseudomacrophya) minutissima Takeuchi, 1937",
+  "display_name": "흰점박이검정잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "잎벌아과",
+      "name_latin": "Tenthredininae"
+    },
+    "genus": {
+      "name_ko": "검정잎벌속",
+      "name_latin": "Macrophya"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 잎벌아과 (Tenthredininae)\n속 : 검정잎벌속 (Macrophya)",
+  "basic_information": {
+    "곤충명": "흰점박이검정잎벌",
+    "학명": "Macrophya (Pseudomacrophya) minutissima Takeuchi, 1937"
+  },
+  "information": {
+    "general_description": "암컷은 흑색이며 윗입술의 앞슭에는 삼각 무늬를 가지며, 더듬이는 흑색이며 뒷다리는 밑마디의 겉쪽이 흑색이고 도래마디, 넓적다리마디의 기부의 반 아래쪽, 종아리마디의 중앙의 넓은 가락지 무늬는 황백색이다. 날개는 투명하고 연문은 암갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷은 흑색이며 윗입술의 앞슭에는 삼각 무늬를 가지며, 더듬이는 흑색이며 뒷다리는 밑마디의 겉쪽이 흑색이고 도래마디, 넓적다리마디의 기부의 반 아래쪽, 종아리마디의 중앙의 넓은 가락지 무늬는 황백색이다. 날개는 투명하고 연문은 암갈색이다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0081-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0081_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0081_2_th.jpg",
+      "alt": "흰점박이검정잎벌 1번째 사진 : 흰점박이검정잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0081_2_th2.jpg",
+      "caption": "흰점박이검정잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTDO0081-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0081_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0081_1_th.jpg",
+      "alt": "흰점박이검정잎벌 2번째 사진 : 흰점박이검정잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0081_1_th2.jpg",
+      "caption": "흰점박이검정잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0081-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305171016",
+      "description": "[YNUE0305171016] 흰점박이검정잎벌 2000.06.19 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305171017",
+      "description": "[YNUE0305171017] 흰점박이검정잎벌 2000.06.19 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305171018",
+      "description": "[YNUE0305171018] 흰점박이검정잎벌 2000.06.19 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDO0081-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0081&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:45+00:00",
+    "html_sha256": "ded083d314c60cf23f3f8217e7d172746571131786929c8ba245ff57dce61457",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

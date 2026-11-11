@@ -1,0 +1,111 @@
+{
+  "id": "ZREL0118",
+  "name_ko": "네줄들명나방",
+  "scientific_name": "Pagyda quinquelineata Hering, 1903",
+  "display_name": "네줄들명나방",
+  "family_ko": "풀명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "풀명나방과",
+      "name_latin": "Crambidae"
+    },
+    "subfamily": {
+      "name_ko": "들명나방아과",
+      "name_latin": "Pyraustinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Pagyda"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 풀명나방과 (Crambidae)\n아과 : 들명나방아과 (Pyraustinae)\n속 : (Pagyda)",
+  "basic_information": {
+    "곤충명": "네줄들명나방",
+    "학명": "Pagyda quinquelineata Hering, 1903"
+  },
+  "information": {
+    "general_description": "날개 길이 18-22 mm. 앞날개의 바탕색은 황색기가 있는 오렌지색이다. 몸긴네줄들명나방과 아주 비슷하여 서로 구별하기 어려울 때가 많다. 그러나 내횡선이 잘 발달하고, 외횡선은 아전연맥과 둔맥(A) 상에서 서로 만나는 중횡선과 거의 평행을 이룬다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대한민국] 경기도\n[대한민국] 서울특별시\n[대한민국] 경상남도\n[대한민국] 제주특별자치도\n[중국]\n[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개 길이 18-22 mm. 앞날개의 바탕색은 황색기가 있는 오렌지색이다. 몸긴네줄들명나방과 아주 비슷하여 서로 구별하기 어려울 때가 많다. 그러나 내횡선이 잘 발달하고, 외횡선은 아전연맥과 둔맥(A) 상에서 서로 만나는 중횡선과 거의 평행을 이룬다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대한민국] 경기도\n[대한민국] 서울특별시\n[대한민국] 경상남도\n[대한민국] 제주특별자치도\n[중국]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0118-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0118_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0118_1_th.jpg",
+      "alt": "네줄들명나방 1번째 사진 : 네줄들명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0118_1_th2.jpg",
+      "caption": "네줄들명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0118-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0301021045",
+      "description": "[UIBE0301021045] 네줄들명나방 1998.08.19 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301021046",
+      "description": "[UIBE0301021046] 네줄들명나방 2000.08.21 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301021048",
+      "description": "[UIBE0301021048] 네줄들명나방 2000.08.21 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZREL0118.png",
+    "reference_image_id": "ZREL0118-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T11:01:54.664438+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "eb5aa8f940dc196db1c61e8b3af54bc9f7b43b18055ba940a94b71788b46934c"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0118&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:51+00:00",
+    "html_sha256": "ed238e11306fb4bd1c14199dc61877a9fcca41356942bc81405cdead2155880b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

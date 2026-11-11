@@ -1,0 +1,99 @@
+{
+  "id": "ZOBC0008",
+  "name_ko": "띠금테비단벌레",
+  "scientific_name": "Lamprodila (Lamprodila) suyfunensis (Obenberger, 1934)",
+  "display_name": "띠금테비단벌레",
+  "family_ko": "비단벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "비단벌레상과",
+      "name_latin": "Buprestoidea"
+    },
+    "family": {
+      "name_ko": "비단벌레과",
+      "name_latin": "Buprestidae"
+    },
+    "subfamily": {
+      "name_ko": "비단벌레아과",
+      "name_latin": "Chrysochroinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Lamprodila"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 비단벌레상과 (Buprestoidea)\n과 : 비단벌레과 (Buprestidae)\n아과 : 비단벌레아과 (Chrysochroinae)\n속 : (Lamprodila)",
+  "basic_information": {
+    "곤충명": "띠금테비단벌레",
+    "학명": "Lamprodila (Lamprodila) suyfunensis (Obenberger, 1934)"
+  },
+  "information": {
+    "general_description": "몸의 길이는 11~16mm 이며, 몸은 전체적으로 광택을 띠는 녹색이고, 앞가슴등판의 측연에 금색광택이 난다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의 길이는 11~16mm 이며, 몸은 전체적으로 광택을 띠는 녹색이고, 앞가슴등판의 측연에 금색광택이 난다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBC0008-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBC0008_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBC0008_1_th.jpg",
+      "alt": "띠금테비단벌레 1번째 사진 : 띠금테비단벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBC0008_1_th2.jpg",
+      "caption": "띠금테비단벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBC0008-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0304031027",
+      "description": "[FRIE0304031027] 띠금테비단벌레 1986.05.17 / / 국립산림과학원"
+    },
+    {
+      "id": "DJUE0406101003",
+      "description": "[DJUE0406101003] 띠금테비단벌레 1987.04.20 / / 대전대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBC0008-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBC0008&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:30+00:00",
+    "html_sha256": "d3f90aa6ccf065e4f4beb224982bcc194ab839501d03b7cebef77340c3d76b71",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

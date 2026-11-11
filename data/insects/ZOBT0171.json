@@ -1,0 +1,139 @@
+{
+  "id": "ZOBT0171",
+  "name_ko": "열점박이별잎벌레",
+  "scientific_name": "Oides decempunctatus (Billberg, 1808)",
+  "display_name": "열점박이별잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "긴더듬이잎벌레아과",
+      "name_latin": "Galerucinae"
+    },
+    "genus": {
+      "name_ko": "별잎벌레속",
+      "name_latin": "Oides"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 긴더듬이잎벌레아과 (Galerucinae)\n속 : 별잎벌레속 (Oides)",
+  "basic_information": {
+    "곤충명": "열점박이별잎벌레",
+    "학명": "Oides decempunctatus (Billberg, 1808)"
+  },
+  "information": {
+    "general_description": "몸길이는 10~14mm, 몸 전체가 황갈색인데 딸지날개에 크고 작은 10개의 흑색 점박이 무늬가 있다. 더듬이의 끝쪽 여러 마디는 흑갈색이다. 앞가슴등판에는 점각이 없다. 한국(북부,중부,남부), 중국(만주,북부,중부,서부,남부, 대만, 하이난다오), 베트남(던킨), 캄보디아, 라오스에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 봄~가을까지 보인다. 8~9월이 가장 왕성한 활동을 한다. 먹이는 포도나무지만 밭이나 여러 나무에서 발견된다.",
+    "habits": "기주식물 Vitis vinifera.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[베트남]\n[중국]\n[라오스]\n[캄보디아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 10~14mm, 몸 전체가 황갈색인데 딸지날개에 크고 작은 10개의 흑색 점박이 무늬가 있다. 더듬이의 끝쪽 여러 마디는 흑갈색이다. 앞가슴등판에는 점각이 없다. 한국(북부,중부,남부), 중국(만주,북부,중부,서부,남부, 대만, 하이난다오), 베트남(던킨), 캄보디아, 라오스에 분포되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 봄~가을까지 보인다. 8~9월이 가장 왕성한 활동을 한다. 먹이는 포도나무지만 밭이나 여러 나무에서 발견된다."
+    },
+    {
+      "title": "습성",
+      "text": "기주식물 Vitis vinifera."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[베트남]\n[중국]\n[라오스]\n[캄보디아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0171-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBT0171_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBT0171_3.jpg",
+      "alt": "열점박이별잎벌레 1번째 사진 : ",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBT0171_3_th2.jpg",
+      "caption": null,
+      "photographed_at": null,
+      "location": "서울시 관악구 서울대학교",
+      "photographer": "국립수목원(임종옥)"
+    },
+    {
+      "id": "ZOBT0171-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0171_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0171_2_th.jpg",
+      "alt": "열점박이별잎벌레 2번째 사진 : 열점박이별잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0171_2_th2.jpg",
+      "caption": "열점박이별잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBT0171-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0171_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0171_1_th.jpg",
+      "alt": "열점박이별잎벌레 3번째 사진 : 열점박이별잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0171_1_th2.jpg",
+      "caption": "열점박이별잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0171-1",
+  "specimen_examples": [
+    {
+      "id": "ADUE0202021069",
+      "description": "[ADUE0202021069] 열점박이별잎벌레 1999.05.24 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0202021070",
+      "description": "[ADUE0202021070] 열점박이별잎벌레 1999.05.24 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0202021071",
+      "description": "[ADUE0202021071] 열점박이별잎벌레 1999.05.24 / / 안동대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "포도",
+      "scientific_name": "Vitis vinifera L."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0171-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0171&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:12+00:00",
+    "html_sha256": "502bccea3b7850c4ec05fbad7a9f94fc45ba5981c607189f31683fcf888845f7",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "ZMAK0014",
+  "name_ko": "가라지거품벌레",
+  "scientific_name": "Philaenus spumarius (Linnaeus, 1758)",
+  "display_name": "가라지거품벌레",
+  "family_ko": "거품벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "거품벌레상과",
+      "name_latin": "Cercopoidea"
+    },
+    "family": {
+      "name_ko": "거품벌레과",
+      "name_latin": "Aphrophoridae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Aphrophorinae"
+    },
+    "genus": {
+      "name_ko": "가라지거품벌레속",
+      "name_latin": "Philaenus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 거품벌레상과 (Cercopoidea)\n과 : 거품벌레과 (Aphrophoridae)\n아과 : (Aphrophorinae)\n속 : 가라지거품벌레속 (Philaenus)",
+  "basic_information": {
+    "곤충명": "가라지거품벌레",
+    "학명": "Philaenus spumarius (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "몸길이:약7mm\n등면에 색깔의 변이가 매우 다양하다. 주둥이는 2마디로 되어서 근연의 속과 쉽게 구분할 수가 있고, 정수리의 양쪽 앞가장자리에 가로홈이 있다. 얼굴은 둥글게 부풀어 올랐다. 주요한 형(型)을 구분하면 다음과 같다. 1)담갈색 구름 모양의 무늬를 띤 형. 2)머리와 앞가슴등에 흑갈색 무늬를 갖는형. 3)머리 및 앞가슴등의 전반이 담황색인 형. 4)전체가 흑갈색을 띠는형. 5)전체가 담황갈색인 형 등을 대표적인 예로 들수있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]\n[중국]\n[유럽]\n[미국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이:약7mm\n등면에 색깔의 변이가 매우 다양하다. 주둥이는 2마디로 되어서 근연의 속과 쉽게 구분할 수가 있고, 정수리의 양쪽 앞가장자리에 가로홈이 있다. 얼굴은 둥글게 부풀어 올랐다. 주요한 형(型)을 구분하면 다음과 같다. 1)담갈색 구름 모양의 무늬를 띤 형. 2)머리와 앞가슴등에 흑갈색 무늬를 갖는형. 3)머리 및 앞가슴등의 전반이 담황색인 형. 4)전체가 흑갈색을 띠는형. 5)전체가 담황갈색인 형 등을 대표적인 예로 들수있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]\n[중국]\n[유럽]\n[미국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMAK0014-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAK0014_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAK0014_1_th.jpg",
+      "alt": "가라지거품벌레 1번째 사진 : 가라지거품벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAK0014_1_th2.jpg",
+      "caption": "가라지거품벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMAK0014-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0408221040",
+      "description": "[UIBE0408221040] 가라지거품벌레 1996.10.01 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZMAK0014.png",
+    "reference_image_id": "ZMAK0014-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T15:59:27.727535+00:00",
+    "sha256": "c068be2639567bbfb729c1f439cffc9fe8425fbea1ce8fae2d82ee4366d737c7",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMAK0014&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:03+00:00",
+    "html_sha256": "f6c566d4308c5391ef1d1239937b106e83603f7eeda405e0137dd9b383b49ed0",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

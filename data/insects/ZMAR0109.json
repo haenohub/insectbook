@@ -1,0 +1,99 @@
+{
+  "id": "ZMAR0109",
+  "name_ko": "남방매미충",
+  "scientific_name": "Alobaldia tobae (Matsumura, 1902)",
+  "display_name": "남방매미충",
+  "family_ko": "매미충과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "뿔매미상과",
+      "name_latin": "Membracoidea"
+    },
+    "family": {
+      "name_ko": "매미충과",
+      "name_latin": "Cicadellidae"
+    },
+    "subfamily": {
+      "name_ko": "매미충아과",
+      "name_latin": "Deltocephalinae"
+    },
+    "genus": {
+      "name_ko": "남방매미충속",
+      "name_latin": "Alobaldia"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 뿔매미상과 (Membracoidea)\n과 : 매미충과 (Cicadellidae)\n아과 : 매미충아과 (Deltocephalinae)\n속 : 남방매미충속 (Alobaldia)",
+  "basic_information": {
+    "곤충명": "남방매미충",
+    "학명": "Alobaldia tobae (Matsumura, 1902)"
+  },
+  "information": {
+    "general_description": "몸길이:약 3.5mm.\n몸의 등면은 담황백색이고 머리는 삼각형으로 돌출되며 2쌍의 흑갈색 무늬가 있는데 앞쪽것은 크고 뒷쪽것은 작다. 겹눈은 암적갈색이고 홑눈은 무색 투명하고 정수리의 뒷편 정중선과 양 겹눈 사이에는 민숭한 자리가 있다. 앞가슴등판은 길이가 길며 나비는 좁다. 작은방패판은 가로홈이 선면하고 그 양쪽 정중선 부분에 어두운 색의 세로 무늬를 가지는 표본도 있다. 날개는 길며 옅은 색깔의 개체에서는 전체가 담황백색이다. 색깔이 짙은 표본에서는 담황갈색에 암갈색의 무늬를 중앙에 가진다. 몸의 밑면도 담황색과 담황갈색등 변이를 가지며 뒷머리방패에는 갈색 내지 암갈색의 가로 무늬가 있고 앞다리 밑마디는 흑갈색이며 각 다리의 마디에도 얼룩덜룩한 무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이:약 3.5mm.\n몸의 등면은 담황백색이고 머리는 삼각형으로 돌출되며 2쌍의 흑갈색 무늬가 있는데 앞쪽것은 크고 뒷쪽것은 작다. 겹눈은 암적갈색이고 홑눈은 무색 투명하고 정수리의 뒷편 정중선과 양 겹눈 사이에는 민숭한 자리가 있다. 앞가슴등판은 길이가 길며 나비는 좁다. 작은방패판은 가로홈이 선면하고 그 양쪽 정중선 부분에 어두운 색의 세로 무늬를 가지는 표본도 있다. 날개는 길며 옅은 색깔의 개체에서는 전체가 담황백색이다. 색깔이 짙은 표본에서는 담황갈색에 암갈색의 무늬를 중앙에 가진다. 몸의 밑면도 담황색과 담황갈색등 변이를 가지며 뒷머리방패에는 갈색 내지 암갈색의 가로 무늬가 있고 앞다리 밑마디는 흑갈색이며 각 다리의 마디에도 얼룩덜룩한 무늬가 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMAR0109-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0109_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0109_1_th.jpg",
+      "alt": "남방매미충 1번째 사진 : 남방매미충전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0109_1_th2.jpg",
+      "caption": "남방매미충전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMAR0109-1",
+  "specimen_examples": [
+    {
+      "id": "HNUE0408134026",
+      "description": "[HNUE0408134026] 남방매미충 1997.08.30 / / 한남대학교 자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZMAR0109.png",
+    "reference_image_id": "ZMAR0109-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T16:27:28.044928+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "78fbb1dee6e5d851d8e5e57165346173eb838d38a5aeb97f15a16db7c806f50e"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMAR0109&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:21+00:00",
+    "html_sha256": "82fdf08fb8afbbe3578ec8710da41609c6f80f564ebe9865ea848e92d83920bd",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

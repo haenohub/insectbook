@@ -1,0 +1,114 @@
+{
+  "id": "ZTDO0089",
+  "name_ko": "호리검정잎벌",
+  "scientific_name": "Pachyprotasis rapae (Linnaeus, 1767)",
+  "display_name": "호리검정잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "잎벌아과",
+      "name_latin": "Tenthredininae"
+    },
+    "genus": {
+      "name_ko": "향로잎벌속",
+      "name_latin": "Pachyprotasis"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 잎벌아과 (Tenthredininae)\n속 : 향로잎벌속 (Pachyprotasis)",
+  "basic_information": {
+    "곤충명": "호리검정잎벌",
+    "학명": "Pachyprotasis rapae (Linnaeus, 1767)"
+  },
+  "information": {
+    "general_description": "몸길이는7.2mm,더듬이 길이는 5mm,앞날개 길이는 8mm이다. 몸의 등면은 흑색이고, 측면 및 배면은 밝은 황색이다. 겹눈 가두리는 밝은 황색이나 복안 윗뒤쪽은 흑색이다. 가운데가슴 등판에는 V자 모양의 밝은 황색무늬가 있고, 작은방패판은 밝은 황색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는7.2mm,더듬이 길이는 5mm,앞날개 길이는 8mm이다. 몸의 등면은 흑색이고, 측면 및 배면은 밝은 황색이다. 겹눈 가두리는 밝은 황색이나 복안 윗뒤쪽은 흑색이다. 가운데가슴 등판에는 V자 모양의 밝은 황색무늬가 있고, 작은방패판은 밝은 황색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0089-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0089_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0089_2_th.jpg",
+      "alt": "호리검정잎벌 1번째 사진 : 호리검정잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0089_2_th2.jpg",
+      "caption": "호리검정잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTDO0089-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0089_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0089_1_th.jpg",
+      "alt": "호리검정잎벌 2번째 사진 : 호리검정잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0089_1_th2.jpg",
+      "caption": "호리검정잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0089-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0112053014",
+      "description": "[YNUE0112053014] 호리검정잎벌 2000.04.29 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0112053015",
+      "description": "[YNUE0112053015] 호리검정잎벌 2000.06.19 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0112053013",
+      "description": "[YNUE0112053013] 호리검정잎벌 2000.04.29 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDO0089-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0089&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:14+00:00",
+    "html_sha256": "2b6bf3e6fe7c19e47142e3ba8294433bb0dfff4fc3f8bb5b6a686c7e21ed5b87",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

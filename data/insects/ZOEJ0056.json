@@ -1,0 +1,99 @@
+{
+  "id": "ZOEJ0056",
+  "name_ko": "넓은줄우단풍뎅이",
+  "scientific_name": "Sericania latisulcata Murayama, 1941",
+  "display_name": "넓은줄우단풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "검정풍뎅이아과",
+      "name_latin": "Melolonthinae"
+    },
+    "genus": {
+      "name_ko": "다색우단풍뎅이속",
+      "name_latin": "Sericania"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 검정풍뎅이아과 (Melolonthinae)\n속 : 다색우단풍뎅이속 (Sericania)",
+  "basic_information": {
+    "곤충명": "넓은줄우단풍뎅이",
+    "학명": "Sericania latisulcata Murayama, 1941"
+  },
+  "information": {
+    "general_description": "한국에 분포하며, 비교적 소형으로써 몸은 황갈색 내지 갈색이며, 머리는 암갈색이다. 앞가슴등판의 양옆은 둥글지 않고, 딱지날개의 간실은 높다. 머리방패는 거의 4각형으로 앞쪽은 겨우 좁아지며, 앞쪽은 강하게 상반하였다. 촉각은 9마디인데 수컷의 곤봉부는 4 마디이며, 자루마디의 길이와 같고, 제 5 절은 곤봉절의 절반 길이여서 실제적인 곤봉부는 4.5마디인 셈이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국에 분포하며, 비교적 소형으로써 몸은 황갈색 내지 갈색이며, 머리는 암갈색이다. 앞가슴등판의 양옆은 둥글지 않고, 딱지날개의 간실은 높다. 머리방패는 거의 4각형으로 앞쪽은 겨우 좁아지며, 앞쪽은 강하게 상반하였다. 촉각은 9마디인데 수컷의 곤봉부는 4 마디이며, 자루마디의 길이와 같고, 제 5 절은 곤봉절의 절반 길이여서 실제적인 곤봉부는 4.5마디인 셈이다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOEJ0056-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0056_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0056_1_th.jpg",
+      "alt": "넓은줄우단풍뎅이 1번째 사진 : 넓은줄우단풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0056_1_th2.jpg",
+      "caption": "넓은줄우단풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOEJ0056-1",
+  "specimen_examples": [
+    {
+      "id": "ENHE0407231070",
+      "description": "[ENHE0407231070] 넓은줄우단풍뎅이 1984.06.09 / / 이화여자대학교 자연사박물관"
+    },
+    {
+      "id": "ENHE0908191303",
+      "description": "[ENHE0908191303] 넓은줄우단풍뎅이 1991.05.23 / / 이화여자대학교 자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOEJ0056.png",
+    "reference_image_id": "ZOEJ0056-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T10:09:33.629623+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "4e8f517770b4ada49a750cca1e98f4100a11864a4e2c312b9efdb130c8e98c92"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOEJ0056&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:39+00:00",
+    "html_sha256": "4481b34ad7c12606cf37445ee7b922ceedbc4425ea81bb5279cd5e5a2c0c48f1",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

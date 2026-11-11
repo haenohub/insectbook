@@ -1,0 +1,107 @@
+{
+  "id": "ZOBL0057",
+  "name_ko": "남색산꽃하늘소",
+  "scientific_name": "Anoplodera (Anoploderomorpha) cyanea (Gebler, 1832)",
+  "display_name": "남색산꽃하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "꽃하늘소아과",
+      "name_latin": "Lepturinae"
+    },
+    "genus": {
+      "name_ko": "산꽃하늘소속",
+      "name_latin": "Anoplodera"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 꽃하늘소아과 (Lepturinae)\n속 : 산꽃하늘소속 (Anoplodera)",
+  "basic_information": {
+    "곤충명": "남색산꽃하늘소",
+    "학명": "Anoplodera (Anoploderomorpha) cyanea (Gebler, 1832)"
+  },
+  "information": {
+    "general_description": "몸길이는 10~15mm이며 머리와 더듬이, 앞가슴 등판은 푸른빛을 띠는 검은색이고 딱지날개는 푸른빛을 띠는 남색이다. 점들이 많고 검은색털이 드물게 있다. 배부분도 푸른빛을 띤 검은색으로 점과 검은색 털이 드물게 나있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[몽골]\n[일본]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 10~15mm이며 머리와 더듬이, 앞가슴 등판은 푸른빛을 띠는 검은색이고 딱지날개는 푸른빛을 띠는 남색이다. 점들이 많고 검은색털이 드물게 있다. 배부분도 푸른빛을 띤 검은색으로 점과 검은색 털이 드물게 나있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[몽골]\n[일본]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0057-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0057_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0057_1_th.jpg",
+      "alt": "남색산꽃하늘소 1번째 사진 : 남색산꽃하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0057_1_th2.jpg",
+      "caption": "남색산꽃하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0057-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304172025",
+      "description": "[KNAE0304172025] 남색산꽃하늘소 1994.05.28 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304152030",
+      "description": "[KNAE0304152030] 남색산꽃하늘소 1993.06.09 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304152032",
+      "description": "[KNAE0304152032] 남색산꽃하늘소 1991.05.29 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBL0057.png",
+    "reference_image_id": "ZOBL0057-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T16:43:27.853670+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "977767f5feeba4af6404c67f8aef52f83c1334a4d27b7f0a6d80360448d9fb67"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0057&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:27+00:00",
+    "html_sha256": "c8e09959b32fc640629220bbfe8628d0b5d80da976a236d21dd19405f35cc406",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

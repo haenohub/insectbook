@@ -1,0 +1,125 @@
+{
+  "id": "ZREL0315",
+  "name_ko": "긴수염알락명나방",
+  "scientific_name": "Sandrabatis crassiella Ragonot, 1893",
+  "display_name": "긴수염알락명나방",
+  "family_ko": "명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "명나방과",
+      "name_latin": "Pyralidae"
+    },
+    "subfamily": {
+      "name_ko": "알락명나방아과",
+      "name_latin": "Phycitinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Sandrabatis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 명나방과 (Pyralidae)\n아과 : 알락명나방아과 (Phycitinae)\n속 : (Sandrabatis)",
+  "basic_information": {
+    "곤충명": "긴수염알락명나방",
+    "학명": "Sandrabatis crassiella Ragonot, 1893"
+  },
+  "information": {
+    "general_description": "날개편 길이는 22-24 mm가량이다. 이 종은 앞날개 바탕색이 검은색을 띠며, 날개의 끝부분의 선이 흑색을 띠는 특징으로 다른종들과 구분된다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이는 22-24 mm가량이다. 이 종은 앞날개 바탕색이 검은색을 띠며, 날개의 끝부분의 선이 흑색을 띠는 특징으로 다른종들과 구분된다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0315-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0315_7.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0315_7_th.jpg",
+      "alt": "긴수염알락명나방 1번째 사진 : 긴수염알락명나방가슴 확대 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0315_7_th2.jpg",
+      "caption": "긴수염알락명나방가슴 확대 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREL0315-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0315_6.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0315_6_th.jpg",
+      "alt": "긴수염알락명나방 2번째 사진 : 긴수염알락명나방배 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0315_6_th2.jpg",
+      "caption": "긴수염알락명나방배 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREL0315-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0315_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0315_1_th.jpg",
+      "alt": "긴수염알락명나방 3번째 사진 : 긴수염알락명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0315_1_th2.jpg",
+      "caption": "긴수염알락명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0315-1",
+  "specimen_examples": [
+    {
+      "id": "KNUE0407231009",
+      "description": "[KNUE0407231009] 긴수염알락명나방 1990.06.29 / / 강원대학교"
+    },
+    {
+      "id": "KNUE0407231010",
+      "description": "[KNUE0407231010] 긴수염알락명나방 1990.06.29 / / 강원대학교"
+    },
+    {
+      "id": "KNUE0407231011",
+      "description": "[KNUE0407231011] 긴수염알락명나방 1990.06.29 / / 강원대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZREL0315.png",
+    "reference_image_id": "ZREL0315-3",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T09:08:44.962384+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "8277098636ff12d3a2d8329a0e4b1014a76448f0d25e04a75a2d15c600d90476"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0315&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:04+00:00",
+    "html_sha256": "bc5d1b475a3f5572273d3ac8226cf554984438bddc964a0d2f4630dd2eb94c85",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

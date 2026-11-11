@@ -1,0 +1,134 @@
+{
+  "id": "ZLAQ0001",
+  "name_ko": "톱날노린재",
+  "scientific_name": "Megymenum gracilicorne Dallas, 1851",
+  "display_name": "톱날노린재",
+  "family_ko": "톱날노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "노린재상과",
+      "name_latin": "Pentatomoidea"
+    },
+    "family": {
+      "name_ko": "톱날노린재과",
+      "name_latin": "Dinidoridae"
+    },
+    "subfamily": {
+      "name_ko": "톱날노린재아과",
+      "name_latin": "Megymeninae"
+    },
+    "genus": {
+      "name_ko": "톱날노린재속",
+      "name_latin": "Megymenum"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 노린재상과 (Pentatomoidea)\n과 : 톱날노린재과 (Dinidoridae)\n아과 : 톱날노린재아과 (Megymeninae)\n속 : 톱날노린재속 (Megymenum)",
+  "basic_information": {
+    "곤충명": "톱날노린재",
+    "학명": "Megymenum gracilicorne Dallas, 1851"
+  },
+  "information": {
+    "general_description": "몸길이 : 13-16mm\n몸은 적갈색의 광택이 있는 흑갈색이다. 배면은 약간 적동색의 금속 광택이 있다. 머리는 위끝의 중앙이 얕게 만입하고, 정수리는 뚜렷하게 옴폭하여 삽모양으로 크게 돌출하였다. 중엽은 미소하고 측엽이 머리의 대부분을 차지한다. 겹눈의 앞쪽에 옆쪽으로 향하는 작은 돌기가 있다. 앞가슴등판은 폭이 넓고 앞가장자리 위 겹눈의 바깥쪽에 뚜렷한 삼각형의 돌기가 있다. 작은방패판은 비교적 작고 혀모양이다. 막질부는 크며, 반시초의 반 이상을 차지하고, 옅은 갈색이다. 배의 옆가장자리는 약간 톱니 모양이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "하늘타리에 많이 기생하고, 호박, 수박, 참외등을 해친다. 유충기는 4령이고, 성충이 되어 8월말경에는 땅속 또는 돌 밑에 잠입한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 13-16mm\n몸은 적갈색의 광택이 있는 흑갈색이다. 배면은 약간 적동색의 금속 광택이 있다. 머리는 위끝의 중앙이 얕게 만입하고, 정수리는 뚜렷하게 옴폭하여 삽모양으로 크게 돌출하였다. 중엽은 미소하고 측엽이 머리의 대부분을 차지한다. 겹눈의 앞쪽에 옆쪽으로 향하는 작은 돌기가 있다. 앞가슴등판은 폭이 넓고 앞가장자리 위 겹눈의 바깥쪽에 뚜렷한 삼각형의 돌기가 있다. 작은방패판은 비교적 작고 혀모양이다. 막질부는 크며, 반시초의 반 이상을 차지하고, 옅은 갈색이다. 배의 옆가장자리는 약간 톱니 모양이다."
+    },
+    {
+      "title": "생태",
+      "text": "하늘타리에 많이 기생하고, 호박, 수박, 참외등을 해친다. 유충기는 4령이고, 성충이 되어 8월말경에는 땅속 또는 돌 밑에 잠입한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLAQ0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAQ0001_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAQ0001_2_th.jpg",
+      "alt": "톱날노린재 1번째 사진 : 톱날노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAQ0001_2_th2.jpg",
+      "caption": "톱날노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZLAQ0001-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAQ0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAQ0001_1_th.jpg",
+      "alt": "톱날노린재 2번째 사진 : 톱날노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAQ0001_1_th2.jpg",
+      "caption": "톱날노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLAQ0001-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0303171233",
+      "description": "[KPNE0303171233] 톱날노린재 1973.06.16 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0303171234",
+      "description": "[KPNE0303171234] 톱날노린재 1976.06.20 / / 경북대학교"
+    },
+    {
+      "id": "JFNE0202101283",
+      "description": "[JFNE0202101283] 톱날노린재 1994.07.26 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "수박",
+      "scientific_name": "Citrullus lanatus (Thunb.) Matsum. & Nakai"
+    },
+    {
+      "group": "식물",
+      "name_ko": "참외",
+      "scientific_name": "Cucumis melo L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "호박",
+      "scientific_name": "Cucurbita moschata Duchesne"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLAQ0001-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLAQ0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:26+00:00",
+    "html_sha256": "9efadc44b0b67e76746eed2fc683213c41e05b12bb4adc203ac8936d942e9f1b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

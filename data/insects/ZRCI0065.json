@@ -1,0 +1,122 @@
+{
+  "id": "ZRCI0065",
+  "name_ko": "네눈박이푸른자나방",
+  "scientific_name": "Thetidia albocostaria (Bremer, 1864)",
+  "display_name": "네눈박이푸른자나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "푸른자나방아과",
+      "name_latin": "Geometrinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Thetidia"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 푸른자나방아과 (Geometrinae)\n속 : (Thetidia)",
+  "basic_information": {
+    "곤충명": "네눈박이푸른자나방",
+    "학명": "Thetidia albocostaria (Bremer, 1864)"
+  },
+  "information": {
+    "general_description": "더듬이는 수컷이 빗살모양, 암컷이 실모양\n몸과 날개는 모두 녹색\n이마. 더듬이의 줄기, 몸의 복면, 다리는 백색\n앞,뒷날개의 횡맥부분에 있는 백색무늬는 거의 원형으로 갈색의 윤곽\n연모는 갈색과 백색이 반문을 이룸\n뒷면은 다시 연하지만 앞날개의 무늬와 거의 같음",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 수컷이 빗살모양, 암컷이 실모양\n몸과 날개는 모두 녹색\n이마. 더듬이의 줄기, 몸의 복면, 다리는 백색\n앞,뒷날개의 횡맥부분에 있는 백색무늬는 거의 원형으로 갈색의 윤곽\n연모는 갈색과 백색이 반문을 이룸\n뒷면은 다시 연하지만 앞날개의 무늬와 거의 같음"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0065-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0065_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0065_2_th.jpg",
+      "alt": "네눈박이푸른자나방 1번째 사진 : 네눈박이푸른자나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0065_2_th2.jpg",
+      "caption": "네눈박이푸른자나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0065-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0065_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0065_1_th.jpg",
+      "alt": "네눈박이푸른자나방 2번째 사진 : 네눈박이푸른자나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0065_1_th2.jpg",
+      "caption": "네눈박이푸른자나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0065-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0301072001",
+      "description": "[KNAE0301072001] 네눈박이푸른자나방 1993.11.05 / / 국립수목원"
+    },
+    {
+      "id": "KNUE0212271161",
+      "description": "[KNUE0212271161] 네눈박이푸른자나방 1990.07.05 / / 강원대학교"
+    },
+    {
+      "id": "KNUE0212271160",
+      "description": "[KNUE0212271160] 네눈박이푸른자나방 1993.07.05 / / 강원대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRCI0065.png",
+    "reference_image_id": "ZRCI0065-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T10:33:17.724803+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "cb82fc972fa1dd61ad14d5e20c429c83141e7b123524c49947b386d199919fe4"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0065&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:46+00:00",
+    "html_sha256": "fcbcce0096a59663b33b33a7bda15da6516b90a068e715e189b6ebf1918c343a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

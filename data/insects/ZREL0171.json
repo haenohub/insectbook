@@ -1,0 +1,117 @@
+{
+  "id": "ZREL0171",
+  "name_ko": "주홍날개들명나방",
+  "scientific_name": "Udea ferrugalis (Hübner, 1796)",
+  "display_name": "주홍날개들명나방",
+  "family_ko": "풀명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "풀명나방과",
+      "name_latin": "Crambidae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Spilomelinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Udea"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 풀명나방과 (Crambidae)\n아과 : (Spilomelinae)\n속 : (Udea)",
+  "basic_information": {
+    "곤충명": "주홍날개들명나방",
+    "학명": "Udea ferrugalis (Hübner, 1796)"
+  },
+  "information": {
+    "general_description": "머리는 회갈색에 약간 황색을 띠고, 앞이마는 다소 둥글고 비스듬하다. 더듬이는 미모 모양이다. 아랫입술수염은 약간 아래쪽으로 향하며 담흑갈색을 띠나 제2마디의 아랫부분은 백색이다. 수컷의 뒷다리 종아리마디의 바깥쪽 며느리발톱은 흔적만 있으며, 암컷의 경우는 안쪽 것의 2/5 길이이다. 앞날개는 황갈색 바탕에 중실 안쪽과 중실 끝쪽에 있는 원형의 암색 무늬는 대부분의 경우 명료하게 나타난다. 뒷날개는 백갈색이며, 중실 안쪽에 흑갈색의 점 무늬가 있다. 날개 길이는 16~19 mm이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 5월~11월경까지 불규칙하게 발생하며, 유충은 국화, 콩 등의 농작물을 가해한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대한민국] 경기도\n[대한민국] 경상남도\n[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "머리는 회갈색에 약간 황색을 띠고, 앞이마는 다소 둥글고 비스듬하다. 더듬이는 미모 모양이다. 아랫입술수염은 약간 아래쪽으로 향하며 담흑갈색을 띠나 제2마디의 아랫부분은 백색이다. 수컷의 뒷다리 종아리마디의 바깥쪽 며느리발톱은 흔적만 있으며, 암컷의 경우는 안쪽 것의 2/5 길이이다. 앞날개는 황갈색 바탕에 중실 안쪽과 중실 끝쪽에 있는 원형의 암색 무늬는 대부분의 경우 명료하게 나타난다. 뒷날개는 백갈색이며, 중실 안쪽에 흑갈색의 점 무늬가 있다. 날개 길이는 16~19 mm이다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 5월~11월경까지 불규칙하게 발생하며, 유충은 국화, 콩 등의 농작물을 가해한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대한민국] 경기도\n[대한민국] 경상남도\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0171-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0171_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0171_1_th.jpg",
+      "alt": "주홍날개들명나방 1번째 사진 : 주홍날개들명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0171_1_th2.jpg",
+      "caption": "주홍날개들명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0171-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0302131005",
+      "description": "[FRIE0302131005] 주홍날개들명나방 1997.10.13 / / 국립산림과학원"
+    },
+    {
+      "id": "UIBE0301071056",
+      "description": "[UIBE0301071056] 주홍날개들명나방 1999.11.19 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301071057",
+      "description": "[UIBE0301071057] 주홍날개들명나방 1998.08.21 / / 인천대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "국화",
+      "scientific_name": "Chrysanthemum × morifolium (Ramat.) Hemsl."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREL0171-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0171&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:58+00:00",
+    "html_sha256": "0ab3804c23e265634845ee0095e868e4f1840e805f7303c29c4e2553b2aefc1e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "ZOAN0047",
+  "name_ko": "서해안모래풍뎅이",
+  "scientific_name": "Psammodius flavolittoralis Kim, 1980",
+  "display_name": "서해안모래풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "똥풍뎅이아과",
+      "name_latin": "Aphodiinae"
+    },
+    "genus": {
+      "name_ko": "모래풍뎅이속",
+      "name_latin": "Psammodius"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 똥풍뎅이아과 (Aphodiinae)\n속 : 모래풍뎅이속 (Psammodius)",
+  "basic_information": {
+    "곤충명": "서해안모래풍뎅이",
+    "학명": "Psammodius flavolittoralis Kim, 1980"
+  },
+  "information": {
+    "general_description": "한국에 분포하며 황갈색이며, 짧고 높은 난형이다. 머리방패 앞쪽은 깊이 파였는데 가운데는 가는 선모양으로 더 깊이 파였고 양옆은 넓게 둥글다. 두정 양측의 융기선은 매우 굵어서 불규칙한 혹돌기처럼 보인다. 전흉배판에는 뚜렷한 5개의 가로홈과 1개의 세로홈이 있으며, 뒷날개는 단시형으로 몸의 1/2~2/3길이이다. 전경절은 처음 3부절의 합과 비슷한 길이이며, 후퇴절은 앞쪽이 거의 반원형으로 확장되었고 각 경절은 매우 넓고 30여개의 혹돌기와 강모가 발달하였다. 미절판에는 10여쌍의 강모가 났다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[한국고유종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국에 분포하며 황갈색이며, 짧고 높은 난형이다. 머리방패 앞쪽은 깊이 파였는데 가운데는 가는 선모양으로 더 깊이 파였고 양옆은 넓게 둥글다. 두정 양측의 융기선은 매우 굵어서 불규칙한 혹돌기처럼 보인다. 전흉배판에는 뚜렷한 5개의 가로홈과 1개의 세로홈이 있으며, 뒷날개는 단시형으로 몸의 1/2~2/3길이이다. 전경절은 처음 3부절의 합과 비슷한 길이이며, 후퇴절은 앞쪽이 거의 반원형으로 확장되었고 각 경절은 매우 넓고 30여개의 혹돌기와 강모가 발달하였다. 미절판에는 10여쌍의 강모가 났다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[한국고유종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAN0047-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAN0047_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAN0047_1_th.jpg",
+      "alt": "서해안모래풍뎅이 1번째 사진 : 서해안모래풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAN0047_1_th2.jpg",
+      "caption": "서해안모래풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAN0047-1",
+  "specimen_examples": [
+    {
+      "id": "SSUE0303071036",
+      "description": "[SSUE0303071036] 서해안모래풍뎅이 1980.05.08 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0303071035",
+      "description": "[SSUE0303071035] 서해안모래풍뎅이 1980.05.08 / / 성신여자대학교"
+    },
+    {
+      "id": "KNAE357876",
+      "description": "[KNAE357876] 서해안모래풍뎅이 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAN0047-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAN0047&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:52+00:00",
+    "html_sha256": "a3e153f01f84a31bf7e1f592b7d8d004e88d52ed25a9863ff34eea6fb6f6abea",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

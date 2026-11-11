@@ -1,0 +1,99 @@
+{
+  "id": "ZODN0002",
+  "name_ko": "제주바가지촉각풍뎅이",
+  "scientific_name": "Phaeochrous tokaraensis Nomura, 1961",
+  "display_name": "제주바가지촉각풍뎅이",
+  "family_ko": "바가지촉각풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "바가지촉각풍뎅이과",
+      "name_latin": "Hybosoridae"
+    },
+    "subfamily": {
+      "name_ko": "바가지촉각풍뎅이아과",
+      "name_latin": "Hybosorinae"
+    },
+    "genus": {
+      "name_ko": "바가지촉각풍뎅이속",
+      "name_latin": "Phaeochrous"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 바가지촉각풍뎅이과 (Hybosoridae)\n아과 : 바가지촉각풍뎅이아과 (Hybosorinae)\n속 : 바가지촉각풍뎅이속 (Phaeochrous)",
+  "basic_information": {
+    "곤충명": "제주바가지촉각풍뎅이",
+    "학명": "Phaeochrous tokaraensis Nomura, 1961"
+  },
+  "information": {
+    "general_description": "일본에 분포하며 전 종보다 작고 광택이 강하며, 짙은 갈색이다. 뺨은 덜 돌출하였고, 딱지날개의 점각열은 규칙적이다. BL:7~9mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "일본에 분포하며 전 종보다 작고 광택이 강하며, 짙은 갈색이다. 뺨은 덜 돌출하였고, 딱지날개의 점각열은 규칙적이다. BL:7~9mm."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZODN0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODN0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODN0002_1_th.jpg",
+      "alt": "제주바가지촉각풍뎅이 1번째 사진 : 제주바가지촉각풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODN0002_1_th2.jpg",
+      "caption": "제주바가지촉각풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZODN0002-1",
+  "specimen_examples": [
+    {
+      "id": "SSUE0302051002",
+      "description": "[SSUE0302051002] 제주바가지촉각풍뎅이 1983.07.12 / / 성신여자대학교"
+    },
+    {
+      "id": "JFNE0407291088",
+      "description": "[JFNE0407291088] 제주바가지촉각풍뎅이 2001.07.01 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0407291089",
+      "description": "[JFNE0407291089] 제주바가지촉각풍뎅이 2001.07.02 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZODN0002-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZODN0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:33+00:00",
+    "html_sha256": "19ed050451c0d5516735168153a0f07caa244bfdc39568c46b2c873dd05581f9",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

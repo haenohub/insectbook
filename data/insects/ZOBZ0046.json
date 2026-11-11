@@ -1,0 +1,107 @@
+{
+  "id": "ZOBZ0046",
+  "name_ko": "구성무당벌레",
+  "scientific_name": "Coccinella (Coccinella) explanata Miyatake, 1963",
+  "display_name": "구성무당벌레",
+  "family_ko": "무당벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Coccinelloidea"
+    },
+    "family": {
+      "name_ko": "무당벌레과",
+      "name_latin": "Coccinellidae"
+    },
+    "subfamily": {
+      "name_ko": "무당벌레아과",
+      "name_latin": "Coccinellinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Coccinella"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : (Coccinelloidea)\n과 : 무당벌레과 (Coccinellidae)\n아과 : 무당벌레아과 (Coccinellinae)\n속 : (Coccinella)",
+  "basic_information": {
+    "곤충명": "구성무당벌레",
+    "학명": "Coccinella (Coccinella) explanata Miyatake, 1963"
+  },
+  "information": {
+    "general_description": "이들의 분포는 한국(남,북한)과 일본 등지에서 서식한다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "이들은 구체적인 생태적인 정보나 습성등이 파악되지는 않았지만, 2차례 정도 모래속에서 발견됨에 따라 모래사장과 일부 관련이 있을 것이라고 추정된다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[감소추세종] 일본에서도 흔하지 않은 희귀종이라고 알려져 있다.",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "이들의 분포는 한국(남,북한)과 일본 등지에서 서식한다."
+    },
+    {
+      "title": "습성",
+      "text": "이들은 구체적인 생태적인 정보나 습성등이 파악되지는 않았지만, 2차례 정도 모래속에서 발견됨에 따라 모래사장과 일부 관련이 있을 것이라고 추정된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[감소추세종] 일본에서도 흔하지 않은 희귀종이라고 알려져 있다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBZ0046-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBZ0046_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBZ0046_1_th.jpg",
+      "alt": "구성무당벌레 1번째 사진 : 구성무당벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBZ0046_1_th2.jpg",
+      "caption": "구성무당벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBZ0046-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0307071116",
+      "description": "[KUIE0307071116] 구성무당벌레 1980.06.06 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBZ0046.png",
+    "reference_image_id": "ZOBZ0046-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T13:46:16.369574+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "9befa4320ccb2111fd5323df7aeb8791af2f10fbff13840c7fbe37679b1ed020"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBZ0046&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:21+00:00",
+    "html_sha256": "82e6348dd19dddb8069d082f5ce4f1dc6d7d869d17eeda160f2bf13a8b579d21",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

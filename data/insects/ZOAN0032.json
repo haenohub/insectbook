@@ -1,0 +1,107 @@
+{
+  "id": "ZOAN0032",
+  "name_ko": "줄똥풍뎅이",
+  "scientific_name": "Aphodius (Pharaphodius) rugosostriatus Waterhouse, 1875",
+  "display_name": "줄똥풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "똥풍뎅이아과",
+      "name_latin": "Aphodiinae"
+    },
+    "genus": {
+      "name_ko": "똥풍뎅이속",
+      "name_latin": "Aphodius"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 똥풍뎅이아과 (Aphodiinae)\n속 : 똥풍뎅이속 (Aphodius)",
+  "basic_information": {
+    "곤충명": "줄똥풍뎅이",
+    "학명": "Aphodius (Pharaphodius) rugosostriatus Waterhouse, 1875"
+  },
+  "information": {
+    "general_description": "중국 중,북부, 일본에 분포하며 암갈색이나 머리와 가슴의 둘레는 담황색이다. 머리는 편평하나 이마봉합선 앞쪽이 약간 높고, 머리방패의 테두리는 가늘다. 전흉배판 후각은 테두리가 졌으나 기부테는 없다. 딱지날개는 털이 없고 조구점각은 뚜렷한 가로형으로 간실을 약간 침범한다. 중,후경절단극모열의 길이는 같으며, 제1후부절은 다음 3마디의 합보다 짧다. BL:4.5~7mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중국 중,북부, 일본에 분포하며 암갈색이나 머리와 가슴의 둘레는 담황색이다. 머리는 편평하나 이마봉합선 앞쪽이 약간 높고, 머리방패의 테두리는 가늘다. 전흉배판 후각은 테두리가 졌으나 기부테는 없다. 딱지날개는 털이 없고 조구점각은 뚜렷한 가로형으로 간실을 약간 침범한다. 중,후경절단극모열의 길이는 같으며, 제1후부절은 다음 3마디의 합보다 짧다. BL:4.5~7mm."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAN0032-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAN0032_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAN0032_1_th.jpg",
+      "alt": "줄똥풍뎅이 1번째 사진 : 줄똥풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAN0032_1_th2.jpg",
+      "caption": "줄똥풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAN0032-1",
+  "specimen_examples": [
+    {
+      "id": "SSUE0302191015",
+      "description": "[SSUE0302191015] 줄똥풍뎅이 1994.07.14 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0302191017",
+      "description": "[SSUE0302191017] 줄똥풍뎅이 1994.06.25 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0302191018",
+      "description": "[SSUE0302191018] 줄똥풍뎅이 1994.06.14 / / 성신여자대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAN0032-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAN0032&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:09+00:00",
+    "html_sha256": "1c73aa6c52a62b080af329f157a0f22e7e9d704acdfd0d0cdc860710e85fc0c1",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

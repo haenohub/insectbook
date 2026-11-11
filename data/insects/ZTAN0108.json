@@ -1,0 +1,103 @@
+{
+  "id": "ZTAN0108",
+  "name_ko": "뽕나무들명나방살이줄고치벌",
+  "scientific_name": "Phanerotoma (Phanerotoma) planifrons (Nees, 1816)",
+  "display_name": "뽕나무들명나방살이줄고치벌",
+  "family_ko": "고치벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "고치벌과",
+      "name_latin": "Braconidae"
+    },
+    "subfamily": {
+      "name_ko": "흰허리고치벌아과",
+      "name_latin": "Cheloninae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Phanerotoma"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 고치벌과 (Braconidae)\n아과 : 흰허리고치벌아과 (Cheloninae)\n속 : (Phanerotoma)",
+  "basic_information": {
+    "곤충명": "뽕나무들명나방살이줄고치벌",
+    "학명": "Phanerotoma (Phanerotoma) planifrons (Nees, 1816)"
+  },
+  "information": {
+    "general_description": "몸길이는 4.6-5.5mm. 앞날개는 3.9-4.1mm. 대부분의 머리, 가운데 가슴 옆판의 등쪽, 가운데 가슴등판과 작은 방패판은 적갈색이다. 수컷은 머리와 가슴은 정수리를 제외하고는 대부분 암갈색이다. 가운데가슴배판은 어렴풋한 아주 작은 점각을 제외하고는 대개 매끈하다. 가운데가슴등판은 거친 주름으로 되었다. 암컷 더듬이 끝부분은 다소 뭉툭하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[스페인]\n[포르투갈]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 4.6-5.5mm. 앞날개는 3.9-4.1mm. 대부분의 머리, 가운데 가슴 옆판의 등쪽, 가운데 가슴등판과 작은 방패판은 적갈색이다. 수컷은 머리와 가슴은 정수리를 제외하고는 대부분 암갈색이다. 가운데가슴배판은 어렴풋한 아주 작은 점각을 제외하고는 대개 매끈하다. 가운데가슴등판은 거친 주름으로 되었다. 암컷 더듬이 끝부분은 다소 뭉툭하다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[스페인]\n[포르투갈]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAN0108-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAN0108_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAN0108_1_th.jpg",
+      "alt": "뽕나무들명나방살이줄고치벌 1번째 사진 : 뽕나무들명나방살이줄고치벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAN0108_1_th2.jpg",
+      "caption": "뽕나무들명나방살이줄고치벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAN0108-1",
+  "specimen_examples": [
+    {
+      "id": "GSNE0408302046",
+      "description": "[GSNE0408302046] 뽕나무들명나방살이줄고치벌 2001.07.20 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0408302047",
+      "description": "[GSNE0408302047] 뽕나무들명나방살이줄고치벌 2001.07.13 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0408302048",
+      "description": "[GSNE0408302048] 뽕나무들명나방살이줄고치벌 2001.08.18 / / 경상대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAN0108-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAN0108&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:04+00:00",
+    "html_sha256": "b22969d17af9de8289cef77cef08551330d53c9c9c088439534b769e0f8e8761",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

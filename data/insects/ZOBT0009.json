@@ -1,0 +1,119 @@
+{
+  "id": "ZOBT0009",
+  "name_ko": "넓적뿌리잎벌레",
+  "scientific_name": "Plateumaris sericea sibirica (Solsky, 1872)",
+  "display_name": "넓적뿌리잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "뿌리잎벌레아과",
+      "name_latin": "Donaciinae"
+    },
+    "genus": {
+      "name_ko": "넓적뿌리잎벌레속",
+      "name_latin": "Plateumaris"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 뿌리잎벌레아과 (Donaciinae)\n속 : 넓적뿌리잎벌레속 (Plateumaris)",
+  "basic_information": {
+    "곤충명": "넓적뿌리잎벌레",
+    "학명": "Plateumaris sericea sibirica (Solsky, 1872)"
+  },
+  "information": {
+    "general_description": "몸길이가 7.0~1.1mm, 몸등면에 색깔이 흑갈색,동적색이며 더듬이는 폭이 넓고 끝절의 폭이 약2.5배이다.앞가슴등판은 옆주름이 되어있다. 한국(북부,중부,남부), 일본(남부규릴,훗가이도,혼슈,규슈), 러시아(시베리아,사할린), 유럽, 트랜스코카시아에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 9월에 5월에는 산란한다. 유충은 5월~11월까지 보이며 10월~ 다음해 5월까지 번데기로있는다.",
+    "habits": "기주식물 사초류.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]",
+    "notes": "[농업해충]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이가 7.0~1.1mm, 몸등면에 색깔이 흑갈색,동적색이며 더듬이는 폭이 넓고 끝절의 폭이 약2.5배이다.앞가슴등판은 옆주름이 되어있다. 한국(북부,중부,남부), 일본(남부규릴,훗가이도,혼슈,규슈), 러시아(시베리아,사할린), 유럽, 트랜스코카시아에 분포되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 9월에 5월에는 산란한다. 유충은 5월~11월까지 보이며 10월~ 다음해 5월까지 번데기로있는다."
+    },
+    {
+      "title": "습성",
+      "text": "기주식물 사초류."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[농업해충]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0009-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0009_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0009_1_th.jpg",
+      "alt": "넓적뿌리잎벌레 1번째 사진 : 넓적뿌리잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0009_1_th2.jpg",
+      "caption": "넓적뿌리잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0009-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304141019",
+      "description": "[KNAE0304141019] 넓적뿌리잎벌레 1993.05.23 / / 국립수목원"
+    },
+    {
+      "id": "KPNE0407261066",
+      "description": "[KPNE0407261066] 넓적뿌리잎벌레 1999.05.15 / / 경북대학교"
+    },
+    {
+      "id": "HNUE0408174111",
+      "description": "[HNUE0408174111] 넓적뿌리잎벌레 1997.05.20 / / 한남대학교 자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBT0009.png",
+    "reference_image_id": "ZOBT0009-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T10:16:24.589181+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "564fe212bfa3f59e9321487cfd7a96b030f91b1b43fd02c0701bf16604ae9441"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0009&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:42+00:00",
+    "html_sha256": "b86ab5d4a4ef294830f31460467fede9577773e4d2c22d94718be7d2ea45ef11",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

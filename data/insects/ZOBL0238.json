@@ -1,0 +1,99 @@
+{
+  "id": "ZOBL0238",
+  "name_ko": "염소하늘소",
+  "scientific_name": "Olenecamptus octopustulatus (Motschulsky, 1860)",
+  "display_name": "염소하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "목하늘소아과",
+      "name_latin": "Lamiinae"
+    },
+    "genus": {
+      "name_ko": "염소하늘소속",
+      "name_latin": "Olenecamptus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 목하늘소아과 (Lamiinae)\n속 : 염소하늘소속 (Olenecamptus)",
+  "basic_information": {
+    "곤충명": "염소하늘소",
+    "학명": "Olenecamptus octopustulatus (Motschulsky, 1860)"
+  },
+  "information": {
+    "general_description": "몸의 길이는 8~12mm 이며, 몸은 전체적으로 황갈색이고, 촉각이 매우길다. 딱지날개의 중앙부와 후반부에 흰색의 작은 둥근 반점이 한쌍씩 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]\n[베트남]\n[몽골]",
+    "notes": "[보통종] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의 길이는 8~12mm 이며, 몸은 전체적으로 황갈색이고, 촉각이 매우길다. 딱지날개의 중앙부와 후반부에 흰색의 작은 둥근 반점이 한쌍씩 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]\n[베트남]\n[몽골]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0238-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0238_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0238_1_th.jpg",
+      "alt": "염소하늘소 1번째 사진 : 염소하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0238_1_th2.jpg",
+      "caption": "염소하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0238-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0408101130",
+      "description": "[UIBE0408101130] 염소하늘소 1998.07.07 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0238-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0238&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:14+00:00",
+    "html_sha256": "564a8fb862663b7287f9ff2d3253a3ab33fd7672554104a4a43d09acbd5855ed",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

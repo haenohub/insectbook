@@ -1,0 +1,122 @@
+{
+  "id": "ZOBH0089",
+  "name_ko": "길앞잡이붙이",
+  "scientific_name": "Elaphrus (Neoelaphrus) sibiricus Motschulsky, 1844",
+  "display_name": "길앞잡이붙이",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "길앞잡이붙이아과",
+      "name_latin": "Elaphrinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Elaphrus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 길앞잡이붙이아과 (Elaphrinae)\n속 : (Elaphrus)",
+  "basic_information": {
+    "곤충명": "길앞잡이붙이",
+    "학명": "Elaphrus (Neoelaphrus) sibiricus Motschulsky, 1844"
+  },
+  "information": {
+    "general_description": "몸의 길이는 8~9mm 이며, 몸전체는 강한 금녹색 광택이 있다. 앞딱지날개에는 아주 많은 점각이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "포식성이며, 습지나 수원지에 서식한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]\n[몽골]\n[러시아]",
+    "notes": "[포식성]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의 길이는 8~9mm 이며, 몸전체는 강한 금녹색 광택이 있다. 앞딱지날개에는 아주 많은 점각이 있다."
+    },
+    {
+      "title": "생태",
+      "text": "포식성이며, 습지나 수원지에 서식한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]\n[몽골]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[포식성]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0089-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0089_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0089_2_th.jpg",
+      "alt": "길앞잡이붙이 1번째 사진 : 길앞잡이붙이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0089_2_th2.jpg",
+      "caption": "길앞잡이붙이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0089-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0089_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0089_1_th.jpg",
+      "alt": "길앞잡이붙이 2번째 사진 : 길앞잡이붙이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0089_1_th2.jpg",
+      "caption": "길앞잡이붙이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0089-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0407121002",
+      "description": "[KPNE0407121002] 길앞잡이붙이 2001.04.25 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0407121003",
+      "description": "[KPNE0407121003] 길앞잡이붙이 2001.04.25 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0407121005",
+      "description": "[KPNE0407121005] 길앞잡이붙이 2001.04.25 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBH0089.png",
+    "reference_image_id": "ZOBH0089-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T09:28:22.419743+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "377e4cd874bfdb09f08e3432b2a2093766b175aabd1100cf69e681e8b62cfb11"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0089&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:11+00:00",
+    "html_sha256": "2aee018c070f25fa55053672a4610e6aa68193aa772f9a68534af70ca5cb7b8a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

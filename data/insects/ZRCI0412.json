@@ -1,0 +1,118 @@
+{
+  "id": "ZRCI0412",
+  "name_ko": "뒷분홍가지나방",
+  "scientific_name": "Heterolocha aristonaria (Walker, 1860)",
+  "display_name": "뒷분홍가지나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "가지나방아과",
+      "name_latin": "Ennominae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Heterolocha"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 가지나방아과 (Ennominae)\n속 : (Heterolocha)",
+  "basic_information": {
+    "곤충명": "뒷분홍가지나방",
+    "학명": "Heterolocha aristonaria (Walker, 1860)"
+  },
+  "information": {
+    "general_description": "더듬이는 수컷이 빗살 모양이고, 암컷은 실 모양이다. 봄의 제1화기에서는 수컷의 날개 빛깔이 노랑기가 적은 것이 많고, 여름의 제2화기에서는 소형으로 빛깔이 노랑빛으로 선명하다. 앞․뒷날개는 모두 횡맥상의 고리 모양 무늬가 있으며, 앞날개 내횡선의 안쪽과 앞․뒷날개 외횡선의 바깥쪽은 자홍색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 4～5월과 8월에 출현한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 수컷이 빗살 모양이고, 암컷은 실 모양이다. 봄의 제1화기에서는 수컷의 날개 빛깔이 노랑기가 적은 것이 많고, 여름의 제2화기에서는 소형으로 빛깔이 노랑빛으로 선명하다. 앞․뒷날개는 모두 횡맥상의 고리 모양 무늬가 있으며, 앞날개 내횡선의 안쪽과 앞․뒷날개 외횡선의 바깥쪽은 자홍색이다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 4～5월과 8월에 출현한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0412-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0412_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0412_2_th.jpg",
+      "alt": "뒷분홍가지나방 1번째 사진 : 뒷분홍가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0412_2_th2.jpg",
+      "caption": "뒷분홍가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0412-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0412_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0412_1_th.jpg",
+      "alt": "뒷분홍가지나방 2번째 사진 : 뒷분홍가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0412_1_th2.jpg",
+      "caption": "뒷분홍가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0412-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304171013",
+      "description": "[KNAE0304171013] 뒷분홍가지나방 1999.04.25 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304171014",
+      "description": "[KNAE0304171014] 뒷분홍가지나방 1999.04.26 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304171015",
+      "description": "[KNAE0304171015] 뒷분홍가지나방 1999.04.27 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCI0412-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0412&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:05+00:00",
+    "html_sha256": "bd78b6ce75455d5bd057c4d7a00880613ec4a77488c63424cb5f76d35786719c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

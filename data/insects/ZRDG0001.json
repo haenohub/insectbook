@@ -1,0 +1,147 @@
+{
+  "id": "ZRDG0001",
+  "name_ko": "물빛긴꼬리부전나비",
+  "scientific_name": "Antigius attilia (Bremer, 1861)",
+  "display_name": "물빛긴꼬리부전나비",
+  "family_ko": "부전나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "부전나비과",
+      "name_latin": "Lycaenidae"
+    },
+    "subfamily": {
+      "name_ko": "녹색부전나비아과",
+      "name_latin": "Theclinae"
+    },
+    "genus": {
+      "name_ko": "담색긴꼬리부전나비속",
+      "name_latin": "Antigius"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 부전나비과 (Lycaenidae)\n아과 : 녹색부전나비아과 (Theclinae)\n속 : 담색긴꼬리부전나비속 (Antigius)",
+  "basic_information": {
+    "곤충명": "물빛긴꼬리부전나비",
+    "학명": "Antigius attilia (Bremer, 1861)"
+  },
+  "information": {
+    "general_description": "암컷이 수컷보다 다소 크며 날개 아랫면의 검은색 무늬가 발달하는 경향이 있으나 암수 구별점이 되지는 못하므로 배끝을 조사하는 것이 확실하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "암컷은 기주식물의 겨울눈 아래에 한 개식 산란한다.",
+    "habits": "참나무림 주변이나 계곡에 접한 확 트인 공간에 서식한다. 낮 동안에는 거의 활동하지 않고 나뭇잎 위에서 쉬는 경우가 많다 오후 4시경 이후 어두워질 무렵까지 나무 위를 천천히 날아다니나 한 장소를 점유하는 일은 없다.",
+    "season": null,
+    "overwintering": "알",
+    "distribution": "[일본]\n[중국]\n[대만]\n[러시아]\n[몽골]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷이 수컷보다 다소 크며 날개 아랫면의 검은색 무늬가 발달하는 경향이 있으나 암수 구별점이 되지는 못하므로 배끝을 조사하는 것이 확실하다."
+    },
+    {
+      "title": "생태",
+      "text": "암컷은 기주식물의 겨울눈 아래에 한 개식 산란한다."
+    },
+    {
+      "title": "습성",
+      "text": "참나무림 주변이나 계곡에 접한 확 트인 공간에 서식한다. 낮 동안에는 거의 활동하지 않고 나뭇잎 위에서 쉬는 경우가 많다 오후 4시경 이후 어두워질 무렵까지 나무 위를 천천히 날아다니나 한 장소를 점유하는 일은 없다."
+    },
+    {
+      "title": "월동",
+      "text": "알"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[대만]\n[러시아]\n[몽골]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDG0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDG0001_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDG0001_3.jpg",
+      "alt": "물빛긴꼬리부전나비 1번째 사진 : 물빛긴꼬리부전나비 암컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDG0001_3_th2.jpg",
+      "caption": "물빛긴꼬리부전나비 암컷 이미지",
+      "photographed_at": "20090612",
+      "location": null,
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRDG0001-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0001_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0001_2_th.jpg",
+      "alt": "물빛긴꼬리부전나비 2번째 사진 : 물빛긴꼬리부전나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0001_2_th2.jpg",
+      "caption": "물빛긴꼬리부전나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDG0001-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0001_1_th.jpg",
+      "alt": "물빛긴꼬리부전나비 3번째 사진 : 물빛긴꼬리부전나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0001_1_th2.jpg",
+      "caption": "물빛긴꼬리부전나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDG0001-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0302211028",
+      "description": "[KNAE0302211028] 물빛긴꼬리부전나비 2000.06.20 / / 국립수목원"
+    },
+    {
+      "id": "KUIE0301141225",
+      "description": "[KUIE0301141225] 물빛긴꼬리부전나비 1994.06.22 / / 고려대학교"
+    },
+    {
+      "id": "GSNE0201192003",
+      "description": "[GSNE0201192003] 물빛긴꼬리부전나비 1996.07.09 / / 경상대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "상수리나무",
+      "scientific_name": "Quercus acutissima Carruth."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDG0001-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDG0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:41+00:00",
+    "html_sha256": "4181212f48e99cdbc320e43f96b67e68a548b917f2f17d6879045433417e26d5",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

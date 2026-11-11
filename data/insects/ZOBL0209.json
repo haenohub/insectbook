@@ -1,0 +1,106 @@
+{
+  "id": "ZOBL0209",
+  "name_ko": "두꺼비하늘소",
+  "scientific_name": "Plectrura (Phlyctidola) metallica metallica (Bates, 1884)",
+  "display_name": "두꺼비하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "목하늘소아과",
+      "name_latin": "Lamiinae"
+    },
+    "genus": {
+      "name_ko": "두꺼비하늘소속",
+      "name_latin": "Plectrura"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 목하늘소아과 (Lamiinae)\n속 : 두꺼비하늘소속 (Plectrura)",
+  "basic_information": {
+    "곤충명": "두꺼비하늘소",
+    "학명": "Plectrura (Phlyctidola) metallica metallica (Bates, 1884)"
+  },
+  "information": {
+    "general_description": "몸의 길이는 8~12.5mm 이며, 몸전체는 회색의 털이 덮여있고, 촉각은 암갈색이며, 딱지날개에는 검은색의 털이 듬성듬성 나있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의 길이는 8~12.5mm 이며, 몸전체는 회색의 털이 덮여있고, 촉각은 암갈색이며, 딱지날개에는 검은색의 털이 듬성듬성 나있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0209-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0209_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0209_2_th.jpg",
+      "alt": "두꺼비하늘소 1번째 사진 : 두꺼비하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0209_2_th2.jpg",
+      "caption": "두꺼비하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBL0209-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0209_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0209_1_th.jpg",
+      "alt": "두꺼비하늘소 2번째 사진 : 두꺼비하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0209_1_th2.jpg",
+      "caption": "두꺼비하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0209-1",
+  "specimen_examples": [
+    {
+      "id": "SJNE0201231007",
+      "description": "[SJNE0201231007] 두꺼비하늘소 1999.05.25 / / 상주대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0209-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0209&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:35+00:00",
+    "html_sha256": "9f80c0a99d012033ccdf054719d45c31499cf90349653e70f1a93b16778ee98f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

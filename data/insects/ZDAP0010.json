@@ -1,0 +1,99 @@
+{
+  "id": "ZDAP0010",
+  "name_ko": "밀잠자리붙이",
+  "scientific_name": "Deielia phaon (Selys, 1883)",
+  "display_name": "밀잠자리붙이",
+  "family_ko": "잠자리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "잠자리목",
+      "name_latin": "Odonata"
+    },
+    "family": {
+      "name_ko": "잠자리과",
+      "name_latin": "Libellulidae"
+    },
+    "subfamily": {
+      "name_ko": "고추잠자리아과",
+      "name_latin": "Sympetrinae"
+    },
+    "genus": {
+      "name_ko": "밀잠자리붙이속",
+      "name_latin": "Deielia"
+    }
+  },
+  "taxonomy_text": "목 : 잠자리목 (Odonata)\n과 : 잠자리과 (Libellulidae)\n아과 : 고추잠자리아과 (Sympetrinae)\n속 : 밀잠자리붙이속 (Deielia)",
+  "basic_information": {
+    "곤충명": "밀잠자리붙이",
+    "학명": "Deielia phaon (Selys, 1883)"
+  },
+  "information": {
+    "general_description": "배길이 28mm, 뒷날개길이 36mm. 얼굴은 수컷은 창백색이고 암컷은 담황색이며 뒷머리는 흑색이고 이마혹은 흑색이나 이마꼭대기에 황색 무늬가 있음. 이마는 수컷이 흑갈색인데 양쪽과 아랫가두리는 담황색이고 암컷은 황색임. 가슴 옆면은 수컷은 흑색인데 흰 가루로 덮였으며 암컷은 황색인데 흑색 줄이 4개 있음. 수컷의 배는 흑색인데 짧고 작으며 흰 가루로 덮임. 미부 상부기와 하부기는 흑갈색이고 미모는 흑색이며 나래는 투명하고 날개맥은 흑갈색이며 가두리무늬는 갈색이고 4mm 정도임.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "배길이 28mm, 뒷날개길이 36mm. 얼굴은 수컷은 창백색이고 암컷은 담황색이며 뒷머리는 흑색이고 이마혹은 흑색이나 이마꼭대기에 황색 무늬가 있음. 이마는 수컷이 흑갈색인데 양쪽과 아랫가두리는 담황색이고 암컷은 황색임. 가슴 옆면은 수컷은 흑색인데 흰 가루로 덮였으며 암컷은 황색인데 흑색 줄이 4개 있음. 수컷의 배는 흑색인데 짧고 작으며 흰 가루로 덮임. 미부 상부기와 하부기는 흑갈색이고 미모는 흑색이며 나래는 투명하고 날개맥은 흑갈색이며 가두리무늬는 갈색이고 4mm 정도임."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZDAP0010-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0010_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0010_1_th.jpg",
+      "alt": "밀잠자리붙이 1번째 사진 : 밀잠자리붙이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0010_1_th2.jpg",
+      "caption": "밀잠자리붙이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZDAP0010-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0212236037",
+      "description": "[YNUE0212236037] 밀잠자리붙이 1993.06.18 / / 영남대학교"
+    },
+    {
+      "id": "KNAE0301241042",
+      "description": "[KNAE0301241042] 밀잠자리붙이 1992.05.24 / / 국립수목원"
+    },
+    {
+      "id": "JFNE0202021041",
+      "description": "[JFNE0202021041] 밀잠자리붙이 2001.07.25 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZDAP0010-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZDAP0010&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:56+00:00",
+    "html_sha256": "d8eee55ad9218b4657d59a138002d792b8f8f33db8705dc6f142ad27fea2d1e4",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

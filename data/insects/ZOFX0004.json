@@ -1,0 +1,115 @@
+{
+  "id": "ZOFX0004",
+  "name_ko": "길쭉표본벌레",
+  "scientific_name": "Ptinus (Cyphoderes) japonicus Reitter, 1877",
+  "display_name": "길쭉표본벌레",
+  "family_ko": "표본벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "개나무좀상과",
+      "name_latin": "Bostrichoidea"
+    },
+    "family": {
+      "name_ko": "표본벌레과",
+      "name_latin": "Ptinidae"
+    },
+    "subfamily": {
+      "name_ko": "표본벌레아과",
+      "name_latin": "Ptininae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Ptinus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 개나무좀상과 (Bostrichoidea)\n과 : 표본벌레과 (Ptinidae)\n아과 : 표본벌레아과 (Ptininae)\n속 : (Ptinus)",
+  "basic_information": {
+    "곤충명": "길쭉표본벌레",
+    "학명": "Ptinus (Cyphoderes) japonicus Reitter, 1877"
+  },
+  "information": {
+    "general_description": "체장은 개체별로 변이가 크나, 2.0-4.5mm정도이다.",
+    "adult": null,
+    "adult_male": "체형은 가늘고 기렴, 시초의 양쪽중앙부분은 다소 평행하다.",
+    "adult_female": "시초의 양쪽이 둥글고, 약간 표주박형의 형태를 띤다.",
+    "larva": "체장이 8mm정도에 달하며 체색은 유백색이며 원통형으로 복부쪽으로 굽어있는 것을 볼 수 있다. 두부는 연한 황갈색이며, 흉부와 복부의 마디에는 옆의 주름에 의해 작은 마디로 나누어 진다.",
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체장은 개체별로 변이가 크나, 2.0-4.5mm정도이다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "체형은 가늘고 기렴, 시초의 양쪽중앙부분은 다소 평행하다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "시초의 양쪽이 둥글고, 약간 표주박형의 형태를 띤다."
+    },
+    {
+      "title": "유충",
+      "text": "체장이 8mm정도에 달하며 체색은 유백색이며 원통형으로 복부쪽으로 굽어있는 것을 볼 수 있다. 두부는 연한 황갈색이며, 흉부와 복부의 마디에는 옆의 주름에 의해 작은 마디로 나누어 진다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOFX0004-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOFX0004_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOFX0004_1_th.jpg",
+      "alt": "길쭉표본벌레 1번째 사진 : 길쭉표본벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOFX0004_1_th2.jpg",
+      "caption": "길쭉표본벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOFX0004-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0303271026",
+      "description": "[FRIE0303271026] 길쭉표본벌레 1986.10.29 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0303271027",
+      "description": "[FRIE0303271027] 길쭉표본벌레 1982.03.14 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0911122015",
+      "description": "[KNAE0911122015] 길쭉표본벌레 1997.10.13 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOFX0004.png",
+    "reference_image_id": "ZOFX0004-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T09:34:48.243603+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "323d4acb3813311fcacca9d5a19eaa7f29fd23d5270168490cf52f482bbf12c5"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOFX0004&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:13+00:00",
+    "html_sha256": "2dfedaf8f7361c55e4e16726bcca99fec7ec6528d7b59c0ed7e7fe77c7470067",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

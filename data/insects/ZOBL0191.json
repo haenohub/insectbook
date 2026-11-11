@@ -1,0 +1,131 @@
+{
+  "id": "ZOBL0191",
+  "name_ko": "흰가슴하늘소",
+  "scientific_name": "Xylariopsis mimica Bates, 1884",
+  "display_name": "흰가슴하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "목하늘소아과",
+      "name_latin": "Lamiinae"
+    },
+    "genus": {
+      "name_ko": "흰가슴하늘소속",
+      "name_latin": "Xylariopsis"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 목하늘소아과 (Lamiinae)\n속 : 흰가슴하늘소속 (Xylariopsis)",
+  "basic_information": {
+    "곤충명": "흰가슴하늘소",
+    "학명": "Xylariopsis mimica Bates, 1884"
+  },
+  "information": {
+    "general_description": "체장 11.0~13.0 mm. 앞가슴등판에 흰 연모가 밀집하고 딱지날개의 끝 부분 앞의 흰 가로무늬로 쉽게 구분할 수 있다. 머리에는 중간에 세로 홈이 있다. 겹눈은 깊게 파여 있다. 앞가슴등판 양 측면 둥근 돌기는 약하게 발달한다. 딱지날개는 길며 약 측면은 평행하고, 말단은 약하게 위쪽을 향한다. 다리에는 작은 흰색의 연모들이 밀집한다.",
+    "adult": null,
+    "adult_male": "복부 5번째 복판은 뒤쪽으로 좁게 파여 있다.",
+    "adult_female": "복부 5번째 복판은 뒤쪽으로 넓게 둥글다.",
+    "larva": "보행돌기 위에 단지모양의 작은 돌기물들이 있다. 몸은 전체적으로 길다. 머리는 편평하고 양 측면은 평행하다. 9번째 배등판 말단에는 경화된 돌기가 없다.",
+    "egg": "알에 대한 특징이 알려지지 않았다.",
+    "pupa": "1~2번째 배 등판 위의 긴 돌기물이 특징적이다. 앞가슴등판은 평행하고 너비보다 조금 길다. 배 등판의 뒤쪽 반은 볼록하고 앞쪽 반은 현저히 압축된 모양이다.",
+    "ecology": "사철나무 등과 연관되는 것으로 보고되었으며, 직경 1.5~3.0 mm의 가지들을 주로 섭식한다. 성숙한 유충은 세로의 갱도를 형성한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": "유충",
+    "distribution": null,
+    "notes": null,
+    "pest_control": "경제적 피해 유발 해충으로 알려져 있지 않아, 종 특이적 방제법은 현재까지 없다.",
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체장 11.0~13.0 mm. 앞가슴등판에 흰 연모가 밀집하고 딱지날개의 끝 부분 앞의 흰 가로무늬로 쉽게 구분할 수 있다. 머리에는 중간에 세로 홈이 있다. 겹눈은 깊게 파여 있다. 앞가슴등판 양 측면 둥근 돌기는 약하게 발달한다. 딱지날개는 길며 약 측면은 평행하고, 말단은 약하게 위쪽을 향한다. 다리에는 작은 흰색의 연모들이 밀집한다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "복부 5번째 복판은 뒤쪽으로 좁게 파여 있다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "복부 5번째 복판은 뒤쪽으로 넓게 둥글다."
+    },
+    {
+      "title": "번데기",
+      "text": "1~2번째 배 등판 위의 긴 돌기물이 특징적이다. 앞가슴등판은 평행하고 너비보다 조금 길다. 배 등판의 뒤쪽 반은 볼록하고 앞쪽 반은 현저히 압축된 모양이다."
+    },
+    {
+      "title": "유충",
+      "text": "보행돌기 위에 단지모양의 작은 돌기물들이 있다. 몸은 전체적으로 길다. 머리는 편평하고 양 측면은 평행하다. 9번째 배등판 말단에는 경화된 돌기가 없다."
+    },
+    {
+      "title": "생태",
+      "text": "사철나무 등과 연관되는 것으로 보고되었으며, 직경 1.5~3.0 mm의 가지들을 주로 섭식한다. 성숙한 유충은 세로의 갱도를 형성한다."
+    },
+    {
+      "title": "월동",
+      "text": "유충"
+    },
+    {
+      "title": "방제법",
+      "text": "경제적 피해 유발 해충으로 알려져 있지 않아, 종 특이적 방제법은 현재까지 없다."
+    },
+    {
+      "title": "알",
+      "text": "알에 대한 특징이 알려지지 않았다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0191-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0191_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0191_1_th.jpg",
+      "alt": "흰가슴하늘소 1번째 사진 : 흰가슴하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0191_1_th2.jpg",
+      "caption": "흰가슴하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0191-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0408101093",
+      "description": "[UIBE0408101093] 흰가슴하늘소 1998.07.08 / / 인천대학교"
+    },
+    {
+      "id": "KKFE0607061088",
+      "description": "[KKFE0607061088] 흰가슴하늘소 1998.09.09 / / 경기산림환경연구소"
+    },
+    {
+      "id": "KNAE0608232009",
+      "description": "[KNAE0608232009] 흰가슴하늘소 1997.08.10 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0191-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0191&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:19+00:00",
+    "html_sha256": "8ebf750491d792389a0db5175b36c7bab976d510c21d5d05507d64643cdf255c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

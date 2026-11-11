@@ -1,0 +1,122 @@
+{
+  "id": "ZRCI0380",
+  "name_ko": "넓은띠큰가지나방",
+  "scientific_name": "Duliophyle agitata (Butler, 1878)",
+  "display_name": "넓은띠큰가지나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "가지나방아과",
+      "name_latin": "Ennominae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Duliophyle"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 가지나방아과 (Ennominae)\n속 : (Duliophyle)",
+  "basic_information": {
+    "곤충명": "넓은띠큰가지나방",
+    "학명": "Duliophyle agitata (Butler, 1878)"
+  },
+  "information": {
+    "general_description": "더듬이는 수컷이 빗살모양, 암컷은 실모양, 날개의 색깔은 흑갈색, 짧은선이 밀포, 외횡선은 가늘고 뚜렷, 앞날개에서는 제2중맥에서 모서리지고 안쪽으로 굴곡, 횡맥상의 흑색줄과 외횡선으로 둘러싸인 부분이 수컷에서는 연한 노란색이나 암컷에서는 백색인 경우가 많음, 뒷날개의 외횡선도 제2중맥에서 다소 모서리짐, 날개길이는 47~49mm",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 8월에 출현",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 수컷이 빗살모양, 암컷은 실모양, 날개의 색깔은 흑갈색, 짧은선이 밀포, 외횡선은 가늘고 뚜렷, 앞날개에서는 제2중맥에서 모서리지고 안쪽으로 굴곡, 횡맥상의 흑색줄과 외횡선으로 둘러싸인 부분이 수컷에서는 연한 노란색이나 암컷에서는 백색인 경우가 많음, 뒷날개의 외횡선도 제2중맥에서 다소 모서리짐, 날개길이는 47~49mm"
+    },
+    {
+      "title": "생태",
+      "text": "성충은 8월에 출현"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0380-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0380_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0380_2_th.jpg",
+      "alt": "넓은띠큰가지나방 1번째 사진 : 넓은띠큰가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0380_2_th2.jpg",
+      "caption": "넓은띠큰가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0380-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0380_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0380_1_th.jpg",
+      "alt": "넓은띠큰가지나방 2번째 사진 : 넓은띠큰가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0380_1_th2.jpg",
+      "caption": "넓은띠큰가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0380-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0302171011",
+      "description": "[KNAE0302171011] 넓은띠큰가지나방 2000.09.20 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0302171012",
+      "description": "[KNAE0302171012] 넓은띠큰가지나방 2000.09.20 / / 국립수목원"
+    },
+    {
+      "id": "FRIE0302131055",
+      "description": "[FRIE0302131055] 넓은띠큰가지나방 1986.09.12 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRCI0380.png",
+    "reference_image_id": "ZRCI0380-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T10:07:08.269226+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "2ddd2a1a6f610b72116da37e50f0bfc0c3a168cdc6172b16cf469cc225713c33"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0380&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:37+00:00",
+    "html_sha256": "44bc1545148771a1893d1879936bb35801d1391fbdea686bbbbc3f2a13f6115f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

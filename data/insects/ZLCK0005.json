@@ -1,0 +1,132 @@
+{
+  "id": "ZLCK0005",
+  "name_ko": "광대노린재",
+  "scientific_name": "Poecilocoris lewisi (Distant, 1883)",
+  "display_name": "광대노린재",
+  "family_ko": "광대노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "노린재상과",
+      "name_latin": "Pentatomoidea"
+    },
+    "family": {
+      "name_ko": "광대노린재과",
+      "name_latin": "Scutelleridae"
+    },
+    "subfamily": {
+      "name_ko": "광대노린재아과",
+      "name_latin": "Scutellerinae"
+    },
+    "genus": {
+      "name_ko": "광대노린재속",
+      "name_latin": "Poecilocoris"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 노린재상과 (Pentatomoidea)\n과 : 광대노린재과 (Scutelleridae)\n아과 : 광대노린재아과 (Scutellerinae)\n속 : 광대노린재속 (Poecilocoris)",
+  "basic_information": {
+    "곤충명": "광대노린재",
+    "학명": "Poecilocoris lewisi (Distant, 1883)"
+  },
+  "information": {
+    "general_description": "몸길이 : 17-20mm\n몸의 등면에는 영롱하게 광택이 나는 금록색의 바탕에 붉은 줄무늬를 가진다. 암청색 또는 흑색 바탕에 주황색이나 붉은색 줄무늬를 가지는 개체도 있다. 앞가슴등판에는 가장자리 부근과 중앙종주선을 따라 좁고 붉은 줄무늬가 있다. 작은 방패판은 배와 날개전체를 덮으며, 기부에 짧은 줄무늬를 갖는다. 또항 중앙에는 W자 모양의 줄무늬가 있으며, 그 뒤에는 +자 모양의 무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": "나무껍질이나 낙엽 밑에서 약충상태로 월동하며 5월 하순부터 성충으로 우화한다.",
+    "distribution": "[대만]\n[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 17-20mm\n몸의 등면에는 영롱하게 광택이 나는 금록색의 바탕에 붉은 줄무늬를 가진다. 암청색 또는 흑색 바탕에 주황색이나 붉은색 줄무늬를 가지는 개체도 있다. 앞가슴등판에는 가장자리 부근과 중앙종주선을 따라 좁고 붉은 줄무늬가 있다. 작은 방패판은 배와 날개전체를 덮으며, 기부에 짧은 줄무늬를 갖는다. 또항 중앙에는 W자 모양의 줄무늬가 있으며, 그 뒤에는 +자 모양의 무늬가 있다."
+    },
+    {
+      "title": "월동",
+      "text": "나무껍질이나 낙엽 밑에서 약충상태로 월동하며 5월 하순부터 성충으로 우화한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대만]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLCK0005-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCK0005_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCK0005_2_th.jpg",
+      "alt": "광대노린재 1번째 사진 : 광대노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCK0005_2_th2.jpg",
+      "caption": "광대노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZLCK0005-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCK0005_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCK0005_1_th.jpg",
+      "alt": "광대노린재 2번째 사진 : 광대노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCK0005_1_th2.jpg",
+      "caption": "광대노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLCK0005-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0305021001",
+      "description": "[KPNE0305021001] 광대노린재 1964.05.16 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0305021004",
+      "description": "[KPNE0305021004] 광대노린재 1982.05.27 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0305021006",
+      "description": "[KPNE0305021006] 광대노린재 1985.05.24 / / 경북대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "상수리나무",
+      "scientific_name": "Quercus acutissima Carruth."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZLCK0005.png",
+    "reference_image_id": "ZLCK0005-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T13:18:43.527798+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "e01cf429f06eaf8f0a68b201d8fc75b2c9a58f2335f20959d205994ba61ec968"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLCK0005&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:10+00:00",
+    "html_sha256": "5a5502bfd7b4de14c9f20c752b1495ac9df7751c6b288d03ba2f1458bae588cd",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

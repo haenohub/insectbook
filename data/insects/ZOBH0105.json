@@ -1,0 +1,114 @@
+{
+  "id": "ZOBH0105",
+  "name_ko": "노랑선두리먼지벌레",
+  "scientific_name": "Nebria (Paranebria) livida angulata Bänninger, 1949",
+  "display_name": "노랑선두리먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "가슴먼지벌레아과",
+      "name_latin": "Nebriinae"
+    },
+    "genus": {
+      "name_ko": "가슴먼지벌레속",
+      "name_latin": "Nebria"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 가슴먼지벌레아과 (Nebriinae)\n속 : 가슴먼지벌레속 (Nebria)",
+  "basic_information": {
+    "곤충명": "노랑선두리먼지벌레",
+    "학명": "Nebria (Paranebria) livida angulata Bänninger, 1949"
+  },
+  "information": {
+    "general_description": "몸길이는 13~16.5mm이며 몸색깔은 흑갈색이고 머리는 흑갈색의 광택이난다. 앞가슴등판은 작다. 딱지날개는 담홍색이고 세로10의 줄무늬가 있으며 그 사이사이가 솟아올랐다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 연중 보이며, 연못 주의나 습지 또는 나무 밑에서 볼수있다. 밤에 활동한다. 10월에는 돌 밑, 흙 속에 방을 만들고 월동준비를 한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 13~16.5mm이며 몸색깔은 흑갈색이고 머리는 흑갈색의 광택이난다. 앞가슴등판은 작다. 딱지날개는 담홍색이고 세로10의 줄무늬가 있으며 그 사이사이가 솟아올랐다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 연중 보이며, 연못 주의나 습지 또는 나무 밑에서 볼수있다. 밤에 활동한다. 10월에는 돌 밑, 흙 속에 방을 만들고 월동준비를 한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0105-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0105_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0105_2_th.jpg",
+      "alt": "노랑선두리먼지벌레 1번째 사진 : 노랑선두리먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0105_2_th2.jpg",
+      "caption": "노랑선두리먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0105-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0105_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0105_1_th.jpg",
+      "alt": "노랑선두리먼지벌레 2번째 사진 : 노랑선두리먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0105_1_th2.jpg",
+      "caption": "노랑선두리먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0105-1",
+  "specimen_examples": [
+    {
+      "id": "SCNE0302081063",
+      "description": "[SCNE0302081063] 노랑선두리먼지벌레 2002.05.13 / / 순천대학교"
+    },
+    {
+      "id": "SCNE0302081064",
+      "description": "[SCNE0302081064] 노랑선두리먼지벌레 2002.04.27 / / 순천대학교"
+    },
+    {
+      "id": "SCNE0302081065",
+      "description": "[SCNE0302081065] 노랑선두리먼지벌레 2002.04.27 / / 순천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0105-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0105&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:19+00:00",
+    "html_sha256": "937e63a11478469315c4d33e1ca383db21d200977a6e63f661f904ee6ea3a9df",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

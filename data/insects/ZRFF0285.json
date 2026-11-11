@@ -1,0 +1,103 @@
+{
+  "id": "ZRFF0285",
+  "name_ko": "벨루티애기잎말이나방",
+  "scientific_name": "Rudisociaria velutinum (Walsingham, 1900)",
+  "display_name": "벨루티애기잎말이나방",
+  "family_ko": "잎말이나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎말이나방상과",
+      "name_latin": "Tortricoidea"
+    },
+    "family": {
+      "name_ko": "잎말이나방과",
+      "name_latin": "Tortricidae"
+    },
+    "subfamily": {
+      "name_ko": "애기잎말이나방아과",
+      "name_latin": "Olethreutinae"
+    },
+    "genus": {
+      "name_ko": "점무늬애기잎말이나방속",
+      "name_latin": "Rudisociaria"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 잎말이나방상과 (Tortricoidea)\n과 : 잎말이나방과 (Tortricidae)\n아과 : 애기잎말이나방아과 (Olethreutinae)\n속 : 점무늬애기잎말이나방속 (Rudisociaria)",
+  "basic_information": {
+    "곤충명": "벨루티애기잎말이나방",
+    "학명": "Rudisociaria velutinum (Walsingham, 1900)"
+  },
+  "information": {
+    "general_description": "한국과 일본에 분포하며 이 종은 리치와 이토에 의하여 원산에서 채집된 표본과 중국, 일본 등지에서 채집된 표본을 대상으로 1900년 월싱앰에 의하여 신종으로 발표되었다. 그러나, 필자에 의하면 표본이 현재까지 확인되지 못하였다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국과 일본에 분포하며 이 종은 리치와 이토에 의하여 원산에서 채집된 표본과 중국, 일본 등지에서 채집된 표본을 대상으로 1900년 월싱앰에 의하여 신종으로 발표되었다. 그러나, 필자에 의하면 표본이 현재까지 확인되지 못하였다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRFF0285-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0285_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0285_1_th.jpg",
+      "alt": "벨루티애기잎말이나방 1번째 사진 : 벨루티애기잎말이나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0285_1_th2.jpg",
+      "caption": "벨루티애기잎말이나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRFF0285-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0302131012",
+      "description": "[UIBE0302131012] 벨루티애기잎말이나방 1997.07.02 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0302131021",
+      "description": "[UIBE0302131021] 벨루티애기잎말이나방 1998.08.11 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0302131022",
+      "description": "[UIBE0302131022] 벨루티애기잎말이나방 1998.07.17 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRFF0285-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRFF0285&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:52+00:00",
+    "html_sha256": "8bd0ab7bc178e8bf2e27b6ffa86aa01799f9281473fbb419031457479ab4c755",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

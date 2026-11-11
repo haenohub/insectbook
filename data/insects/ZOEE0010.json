@@ -1,0 +1,103 @@
+{
+  "id": "ZOEE0010",
+  "name_ko": "별홍반디",
+  "scientific_name": "Erotides (Glabroplatycis) nasutus (Kiesenwetter, 1874)",
+  "display_name": "별홍반디",
+  "family_ko": "홍반디과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "방아벌레상과",
+      "name_latin": "Elateroidea"
+    },
+    "family": {
+      "name_ko": "홍반디과",
+      "name_latin": "Lycidae"
+    },
+    "subfamily": {
+      "name_ko": "홍반디아과",
+      "name_latin": "Lycinae"
+    },
+    "genus": {
+      "name_ko": "별홍반디속",
+      "name_latin": "Erotides"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 방아벌레상과 (Elateroidea)\n과 : 홍반디과 (Lycidae)\n아과 : 홍반디아과 (Lycinae)\n속 : 별홍반디속 (Erotides)",
+  "basic_information": {
+    "곤충명": "별홍반디",
+    "학명": "Erotides (Glabroplatycis) nasutus (Kiesenwetter, 1874)"
+  },
+  "information": {
+    "general_description": "한국, 일본, 대만에 분포하며, 체장은 6mm 내외이다. 머리는 겹눈 사이에 있으며 현저하게 앞쪽으로 돌출하였다. 촉각은 체장보다 짧고 작으며 약한 톱날 모양이다. 복판은 장방형인데 흑색이다. 딱지날개에는 네줄의 종융이 있고 그 간실은 서로 엇갈리어 별렬된 2열의 오목 들어간 점각이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 대만에 분포하며, 체장은 6mm 내외이다. 머리는 겹눈 사이에 있으며 현저하게 앞쪽으로 돌출하였다. 촉각은 체장보다 짧고 작으며 약한 톱날 모양이다. 복판은 장방형인데 흑색이다. 딱지날개에는 네줄의 종융이 있고 그 간실은 서로 엇갈리어 별렬된 2열의 오목 들어간 점각이 있다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOEE0010-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEE0010_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEE0010_1_th.jpg",
+      "alt": "별홍반디 1번째 사진 : 별홍반디전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEE0010_1_th2.jpg",
+      "caption": "별홍반디전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOEE0010-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408031057",
+      "description": "[MPME0408031057] 별홍반디 2001.06.10 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408191247",
+      "description": "[MPME0408191247] 별홍반디 2002.06.22 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408031058",
+      "description": "[MPME0408031058] 별홍반디 2001.06.10 / / 목포자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOEE0010-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOEE0010&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:03+00:00",
+    "html_sha256": "24da8b07a7df82cf1cb5b44733573639ef5cdab025af5056cb815203c839ea1d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

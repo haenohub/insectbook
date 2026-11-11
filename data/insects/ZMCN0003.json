@@ -1,0 +1,206 @@
+{
+  "id": "ZMCN0003",
+  "name_ko": "일본날개매미충",
+  "scientific_name": "Ricania simulans (Walker, 1851)",
+  "display_name": "일본날개매미충",
+  "family_ko": "큰날개매미충과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "꽃매미상과",
+      "name_latin": "Fulgoroidea"
+    },
+    "family": {
+      "name_ko": "큰날개매미충과",
+      "name_latin": "Ricaniidae"
+    },
+    "subfamily": {
+      "name_ko": "큰날개매미충아과",
+      "name_latin": "Ricaniinae"
+    },
+    "genus": {
+      "name_ko": "날개매미충속",
+      "name_latin": "Ricania"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 꽃매미상과 (Fulgoroidea)\n과 : 큰날개매미충과 (Ricaniidae)\n아과 : 큰날개매미충아과 (Ricaniinae)\n속 : 날개매미충속 (Ricania)",
+  "basic_information": {
+    "곤충명": "일본날개매미충",
+    "학명": "Ricania simulans (Walker, 1851)"
+  },
+  "information": {
+    "general_description": "몸길이:약9-11mm. 양날개를 폈을때는 20-24mm 이며 암컷이 약간 수컷 보다 크다. 몸은 회황색이고 광택이 약하게 있다. 머리느 크고 짧게 뭉툭하며, 얼굴은 단순하게 편평하다. 앞가슴등판은 매우 작고, 머리가 좁다. 작은방패판은 잘 발달 되었고 중앙 종주선과 좌우에 한개씩의 작은 융기선을 가진다. 앞날개의 모습은 부채를 펼친것과 같이 넓고, 가장자리로 갈수록 더욱 넓어진다. 중앙부에 2개의 투명한 띠무늬를 가지며, 앞가장자리 중앙부에도 세모꼴의 투명반점을 가진다. 날개맥은 무수한 그물 모양을 가진다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "산야의 경작지 주변에 흔히 서식한다. 칡에 기생한다.",
+    "habits": "뒷다리가 잘발달 되어 방해 받으면 튀어나간다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대만]\n[일본]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이:약9-11mm. 양날개를 폈을때는 20-24mm 이며 암컷이 약간 수컷 보다 크다. 몸은 회황색이고 광택이 약하게 있다. 머리느 크고 짧게 뭉툭하며, 얼굴은 단순하게 편평하다. 앞가슴등판은 매우 작고, 머리가 좁다. 작은방패판은 잘 발달 되었고 중앙 종주선과 좌우에 한개씩의 작은 융기선을 가진다. 앞날개의 모습은 부채를 펼친것과 같이 넓고, 가장자리로 갈수록 더욱 넓어진다. 중앙부에 2개의 투명한 띠무늬를 가지며, 앞가장자리 중앙부에도 세모꼴의 투명반점을 가진다. 날개맥은 무수한 그물 모양을 가진다."
+    },
+    {
+      "title": "생태",
+      "text": "산야의 경작지 주변에 흔히 서식한다. 칡에 기생한다."
+    },
+    {
+      "title": "습성",
+      "text": "뒷다리가 잘발달 되어 방해 받으면 튀어나간다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대만]\n[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMCN0003-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMCN0003_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMCN0003_1_th.jpg",
+      "alt": "일본날개매미충 1번째 사진 : 일본날개매미충전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMCN0003_1_th2.jpg",
+      "caption": "일본날개매미충전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMCN0003-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408191081",
+      "description": "[MPME0408191081] 일본날개매미충 2003.08.08 / / 목포자연사박물관"
+    },
+    {
+      "id": "CBNE0203261012",
+      "description": "[CBNE0203261012] 일본날개매미충 1997.08.13 / / 충북대학교"
+    },
+    {
+      "id": "YNUE0112293016",
+      "description": "[YNUE0112293016] 일본날개매미충 2001.07.27 / / 영남대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "감나무",
+      "scientific_name": "Diospyros kaki Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "개서어나무",
+      "scientific_name": "Carpinus tschonoskii Maxim."
+    },
+    {
+      "group": "식물",
+      "name_ko": "꽝꽝나무",
+      "scientific_name": "Ilex crenata Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "누리장나무",
+      "scientific_name": "Clerodendrum trichotomum Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "느릅나무",
+      "scientific_name": "Ulmus davidiana var. japonica (Rehder) Nakai"
+    },
+    {
+      "group": "식물",
+      "name_ko": "단풍나무",
+      "scientific_name": "Acer palmatum Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "등",
+      "scientific_name": "Wisteria floribunda (Willd.) DC."
+    },
+    {
+      "group": "식물",
+      "name_ko": "말오줌때",
+      "scientific_name": "Euscaphis japonica (Thunb.) Kanitz"
+    },
+    {
+      "group": "식물",
+      "name_ko": "벚나무",
+      "scientific_name": "Prunus serrulata f. spontanea (Maxim.) Chin S.Chang"
+    },
+    {
+      "group": "식물",
+      "name_ko": "복사나무",
+      "scientific_name": "Prunus persica (L.) Batsch"
+    },
+    {
+      "group": "식물",
+      "name_ko": "비파나무",
+      "scientific_name": "Eriobotrya japonica (Thunb.) Lindl."
+    },
+    {
+      "group": "식물",
+      "name_ko": "뽕나무",
+      "scientific_name": "Morus alba L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "일본목련",
+      "scientific_name": "Magnolia obovata Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "작살나무",
+      "scientific_name": "Callicarpa japonica Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "쥐똥나무",
+      "scientific_name": "Ligustrum obtusifolium Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "칡",
+      "scientific_name": "Pueraria lobata (Willd.) Ohwi"
+    },
+    {
+      "group": "식물",
+      "name_ko": "팽나무",
+      "scientific_name": "Celtis sinensis Pers."
+    },
+    {
+      "group": "식물",
+      "name_ko": "포도",
+      "scientific_name": "Vitis vinifera L."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZMCN0003-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMCN0003&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:36+00:00",
+    "html_sha256": "b12f181d2d98e24ec287d4bf8589d292daa495ff1bc264d4f50d27eb31dc3696",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

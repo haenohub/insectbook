@@ -1,0 +1,103 @@
+{
+  "id": "ZTDO0083",
+  "name_ko": "흰발목마디잎벌",
+  "scientific_name": "Macrophya (Macrophya) sanguinolenta (Gmelin, 1790)",
+  "display_name": "흰발목마디잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "잎벌아과",
+      "name_latin": "Tenthredininae"
+    },
+    "genus": {
+      "name_ko": "검정잎벌속",
+      "name_latin": "Macrophya"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 잎벌아과 (Tenthredininae)\n속 : 검정잎벌속 (Macrophya)",
+  "basic_information": {
+    "곤충명": "흰발목마디잎벌",
+    "학명": "Macrophya (Macrophya) sanguinolenta (Gmelin, 1790)"
+  },
+  "information": {
+    "general_description": "암컷의 몸은 흑색이다. 윗입술 끝은 백색이고 더듬이는 흑색이다. 날개는 투명하고 연문의 기부를 넘어서 특히 약간 흐리다. 머리는 회색 털로 덮여있고 광택이 있고, 명백한 점각이 없다. 더듬이는 머리와 가슴을 합친 것보다 약간 길고 가운데 가슴등판은 광택이 있다. 앞날개의 둔실은 중앙에서 짧게 좁아진다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷의 몸은 흑색이다. 윗입술 끝은 백색이고 더듬이는 흑색이다. 날개는 투명하고 연문의 기부를 넘어서 특히 약간 흐리다. 머리는 회색 털로 덮여있고 광택이 있고, 명백한 점각이 없다. 더듬이는 머리와 가슴을 합친 것보다 약간 길고 가운데 가슴등판은 광택이 있다. 앞날개의 둔실은 중앙에서 짧게 좁아진다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0083-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0083_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0083_1_th.jpg",
+      "alt": "흰발목마디잎벌 1번째 사진 : 흰발목마디잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0083_1_th2.jpg",
+      "caption": "흰발목마디잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0083-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0111283061",
+      "description": "[YNUE0111283061] 흰발목마디잎벌 1987.07.09 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0201182007",
+      "description": "[YNUE0201182007] 흰발목마디잎벌 1999.07.11 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0201182008",
+      "description": "[YNUE0201182008] 흰발목마디잎벌 1983.06.11 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDO0083-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0083&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:36+00:00",
+    "html_sha256": "1c695f64e3b0f4fee219f17152f1ba11ee8d5e59a31554a9f84efa2bc68cb6b9",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

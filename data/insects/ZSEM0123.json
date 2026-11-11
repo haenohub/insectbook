@@ -1,0 +1,103 @@
+{
+  "id": "ZSEM0123",
+  "name_ko": "검정배수중다리꽃등에",
+  "scientific_name": "Mesembrius niger Shiraki, 1968",
+  "display_name": "검정배수중다리꽃등에",
+  "family_ko": "꽃등에과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "꽃등에상과",
+      "name_latin": "Syrphoidea"
+    },
+    "family": {
+      "name_ko": "꽃등에과",
+      "name_latin": "Syrphidae"
+    },
+    "subfamily": {
+      "name_ko": "순꽃등에아과",
+      "name_latin": "Eristalinae"
+    },
+    "genus": {
+      "name_ko": "배수중다리꽃등에속",
+      "name_latin": "Mesembrius"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 꽃등에상과 (Syrphoidea)\n과 : 꽃등에과 (Syrphidae)\n아과 : 순꽃등에아과 (Eristalinae)\n속 : 배수중다리꽃등에속 (Mesembrius)",
+  "basic_information": {
+    "곤충명": "검정배수중다리꽃등에",
+    "학명": "Mesembrius niger Shiraki, 1968"
+  },
+  "information": {
+    "general_description": "성충의 몸길이는 10-11mm. 머리는 가슴보다 폭이 약간 넓고, 이마는 앞쪽으로 넓어진다. 뺨은 흑색을 띤다. 더듬이는 흑색이지만, 제 3마디는 황색이다. 가슴등판은 흑색이며 2쌍의 회색 세로줄을 갖는다. 작은방패판은 광택있는 흑갈색을 띤다. 배는 머리와 가슴을 합친 길이와 같으며, 흑색을 띤다. 다리는 흑색이며 부분적으로 황색을 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충의 몸길이는 10-11mm. 머리는 가슴보다 폭이 약간 넓고, 이마는 앞쪽으로 넓어진다. 뺨은 흑색을 띤다. 더듬이는 흑색이지만, 제 3마디는 황색이다. 가슴등판은 흑색이며 2쌍의 회색 세로줄을 갖는다. 작은방패판은 광택있는 흑갈색을 띤다. 배는 머리와 가슴을 합친 길이와 같으며, 흑색을 띤다. 다리는 흑색이며 부분적으로 황색을 띤다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSEM0123-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0123_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0123_1_th.jpg",
+      "alt": "검정배수중다리꽃등에 1번째 사진 : 검정배수중다리꽃등에전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0123_1_th2.jpg",
+      "caption": "검정배수중다리꽃등에전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSEM0123-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306262095",
+      "description": "[YNUE0306262095] 검정배수중다리꽃등에 1995.04.27 / / 영남대학교"
+    },
+    {
+      "id": "KUIE0307181281",
+      "description": "[KUIE0307181281] 검정배수중다리꽃등에 1987.05.10 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZSEM0123.png",
+    "reference_image_id": "ZSEM0123-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T11:30:55.144260+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "355628afaa7d06c194e9da8987f45dd3ffb1bd0ba9aaa6697489879f0ce99509"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSEM0123&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:21+00:00",
+    "html_sha256": "9d1abaef93cca910258dcb61076951ab0656c9ace0ca970b4c9bc38854ad7310",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

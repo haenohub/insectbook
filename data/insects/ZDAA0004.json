@@ -1,0 +1,99 @@
+{
+  "id": "ZDAA0004",
+  "name_ko": "잘록허리왕잠자리",
+  "scientific_name": "Gynacantha japonica Bartenef, 1909",
+  "display_name": "잘록허리왕잠자리",
+  "family_ko": "왕잠자리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "잠자리목",
+      "name_latin": "Odonata"
+    },
+    "family": {
+      "name_ko": "왕잠자리과",
+      "name_latin": "Aeshnidae"
+    },
+    "subfamily": {
+      "name_ko": "왕잠자리아과",
+      "name_latin": "Aeschninae"
+    },
+    "genus": {
+      "name_ko": "잘록허리왕잠자리속",
+      "name_latin": "Gynacantha"
+    }
+  },
+  "taxonomy_text": "목 : 잠자리목 (Odonata)\n과 : 왕잠자리과 (Aeshnidae)\n아과 : 왕잠자리아과 (Aeschninae)\n속 : 잘록허리왕잠자리속 (Gynacantha)",
+  "basic_information": {
+    "곤충명": "잘록허리왕잠자리",
+    "학명": "Gynacantha japonica Bartenef, 1909"
+  },
+  "information": {
+    "general_description": "배길이 45mm, 뒷날개길이 43mm. 얼굴은 녹색이며 뒷머리는 황새이고 이마혹은 흑색임. 이마 위에는 T자형의 모늬가 있으며 이마조각은 녹색인데 윗입술조각, 윗입, 큰턱은 녹황색임. 가슴은 녹색인데 가운데가슴에는 앞면 중앙선에 흑색 줄이 있음. 배의 1~2마디는 합해져서 둥글며 3마디 앞 반은 극히 가늘고 2마디 좌우에는 녹색의 귀바퀴형 돌기가 있음. 배는 흑색이며 각 마디의 뒷가두리에 녹색 무늬가 있고 미부 상부기는 가늘고 길며 선단의 반응 안쪽으로 향하여 긴 털이 있음. 날개의 투명 날개맥과 가두리무늬는 흑갈색임.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "배길이 45mm, 뒷날개길이 43mm. 얼굴은 녹색이며 뒷머리는 황새이고 이마혹은 흑색임. 이마 위에는 T자형의 모늬가 있으며 이마조각은 녹색인데 윗입술조각, 윗입, 큰턱은 녹황색임. 가슴은 녹색인데 가운데가슴에는 앞면 중앙선에 흑색 줄이 있음. 배의 1~2마디는 합해져서 둥글며 3마디 앞 반은 극히 가늘고 2마디 좌우에는 녹색의 귀바퀴형 돌기가 있음. 배는 흑색이며 각 마디의 뒷가두리에 녹색 무늬가 있고 미부 상부기는 가늘고 길며 선단의 반응 안쪽으로 향하여 긴 털이 있음. 날개의 투명 날개맥과 가두리무늬는 흑갈색임."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZDAA0004-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAA0004_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAA0004_1_th.jpg",
+      "alt": "잘록허리왕잠자리 1번째 사진 : 잘룩허리왕잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAA0004_1_th2.jpg",
+      "caption": "잘룩허리왕잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZDAA0004-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408191182",
+      "description": "[MPME0408191182] 잘록허리왕잠자리 2003.09.28 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408191181",
+      "description": "[MPME0408191181] 잘록허리왕잠자리 2003.09.28 / / 목포자연사박물관"
+    },
+    {
+      "id": "UIBE0408201087",
+      "description": "[UIBE0408201087] 잘록허리왕잠자리 2003.09.29 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZDAA0004-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZDAA0004&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:00+00:00",
+    "html_sha256": "a46f25d579c6b78d90145a1e856fa70d22a17d2f3ea5f233a57cedcadca067f4",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

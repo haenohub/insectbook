@@ -1,0 +1,117 @@
+{
+  "id": "ZREV0032",
+  "name_ko": "줄녹색박각시",
+  "scientific_name": "Cephonodes hylas (Linnaeus, 1771)",
+  "display_name": "줄녹색박각시",
+  "family_ko": "박각시과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "누에나방상과",
+      "name_latin": "Bombycoidea"
+    },
+    "family": {
+      "name_ko": "박각시과",
+      "name_latin": "Sphingidae"
+    },
+    "subfamily": {
+      "name_ko": "꼬리박각시아과",
+      "name_latin": "Macroglossinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Cephonodes"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 누에나방상과 (Bombycoidea)\n과 : 박각시과 (Sphingidae)\n아과 : 꼬리박각시아과 (Macroglossinae)\n속 : (Cephonodes)",
+  "basic_information": {
+    "곤충명": "줄녹색박각시",
+    "학명": "Cephonodes hylas (Linnaeus, 1771)"
+  },
+  "information": {
+    "general_description": "날개편 길이 53～69mm. 날개와 몸에 녹색 인편이 전체적으로 덮혀 있는 것이 특징이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "7월초부터 9월말까지 출현.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]\n[대만]\n[미얀마]\n[베트남]\n[스리랑카]\n[인도]\n[호주]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 53～69mm. 날개와 몸에 녹색 인편이 전체적으로 덮혀 있는 것이 특징이다."
+    },
+    {
+      "title": "생태",
+      "text": "7월초부터 9월말까지 출현."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]\n[대만]\n[미얀마]\n[베트남]\n[스리랑카]\n[인도]\n[호주]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREV0032-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0032_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0032_1_th.jpg",
+      "alt": "줄녹색박각시 1번째 사진 : 줄녹색박각시전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0032_1_th2.jpg",
+      "caption": "줄녹색박각시전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREV0032-1",
+  "specimen_examples": [
+    {
+      "id": "JFNE0201161112",
+      "description": "[JFNE0201161112] 줄녹색박각시 1995.09.21 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0201161113",
+      "description": "[JFNE0201161113] 줄녹색박각시 1993.08.23 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0201161114",
+      "description": "[JFNE0201161114] 줄녹색박각시 1989.09.11 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "치자나무",
+      "scientific_name": "Gardenia jasminoides J.Ellis"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREV0032-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREV0032&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:08+00:00",
+    "html_sha256": "f0fab94b11b09a9010947cb33b14bee1154fb44195593dae58d4a125a5720fc8",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

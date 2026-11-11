@@ -1,0 +1,137 @@
+{
+  "id": "ZREL0063",
+  "name_ko": "혹명나방",
+  "scientific_name": "Cnaphalocrocis medinalis (Guenée, 1854)",
+  "display_name": "혹명나방",
+  "family_ko": "풀명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "풀명나방과",
+      "name_latin": "Crambidae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Spilomelinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Cnaphalocrocis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 풀명나방과 (Crambidae)\n아과 : (Spilomelinae)\n속 : (Cnaphalocrocis)",
+  "basic_information": {
+    "곤충명": "혹명나방",
+    "학명": "Cnaphalocrocis medinalis (Guenée, 1854)"
+  },
+  "information": {
+    "general_description": "머리는 황백색이고, 몸은 담황갈색이다. 앞날개의 바탕색은 황색이고, 전연은 갈색 인편으로 덮여 있고, 중간에 암갈색의 털융기가 있다. 앞날개의 외연은 담갈색부를 이룬다. 날개 길이 18mm 내외.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": "황록색이나 자라면서 점차 붉은색을 띤다.",
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 낮에는 벼의 잎이나 잡초 사이에서 배끝을 들고 정지해 있으며, 해질 무렵부터 교미, 또는 산란 활동을 하고 주광성은 강하다.",
+    "habits": "벼(Oryza sativa L.), 밀(Triticum aesticum L.)를 기주식물로 한다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대한민국] 경기도\n[중국]\n[일본]\n[인도네시아]\n[인도]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "머리는 황백색이고, 몸은 담황갈색이다. 앞날개의 바탕색은 황색이고, 전연은 갈색 인편으로 덮여 있고, 중간에 암갈색의 털융기가 있다. 앞날개의 외연은 담갈색부를 이룬다. 날개 길이 18mm 내외."
+    },
+    {
+      "title": "유충",
+      "text": "황록색이나 자라면서 점차 붉은색을 띤다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 낮에는 벼의 잎이나 잡초 사이에서 배끝을 들고 정지해 있으며, 해질 무렵부터 교미, 또는 산란 활동을 하고 주광성은 강하다."
+    },
+    {
+      "title": "습성",
+      "text": "벼(Oryza sativa L.), 밀(Triticum aesticum L.)를 기주식물로 한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대한민국] 경기도\n[중국]\n[일본]\n[인도네시아]\n[인도]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0063-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0063_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0063_2_th.jpg",
+      "alt": "혹명나방 1번째 사진 : 혹명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0063_2_th2.jpg",
+      "caption": "혹명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREL0063-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0063_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0063_1_th.jpg",
+      "alt": "혹명나방 2번째 사진 : 혹명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0063_1_th2.jpg",
+      "caption": "혹명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0063-1",
+  "specimen_examples": [
+    {
+      "id": "KNUE0304111210",
+      "description": "[KNUE0304111210] 혹명나방 1983.09.07 / / 강원대학교"
+    },
+    {
+      "id": "KNUE0304111211",
+      "description": "[KNUE0304111211] 혹명나방 1983.09.07 / / 강원대학교"
+    },
+    {
+      "id": "KNUE0304111203",
+      "description": "[KNUE0304111203] 혹명나방 1983.09.01 / / 강원대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "밀",
+      "scientific_name": "Triticum aestivum L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "벼",
+      "scientific_name": "Oryza sativa L."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREL0063-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0063&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:20+00:00",
+    "html_sha256": "86fd4e68abbe83437b2d0f24d66990b41a16e60cc35176eb606507c1c79000fb",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

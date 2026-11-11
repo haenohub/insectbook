@@ -1,0 +1,110 @@
+{
+  "id": "ZOBH0045",
+  "name_ko": "덕유멋조롱박딱정벌레",
+  "scientific_name": "Acoptolabrus mirabilissimus kana (Imura, 1989)",
+  "display_name": "덕유멋조롱박딱정벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "딱정벌레아과",
+      "name_latin": "Carabinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Acoptolabrus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 딱정벌레아과 (Carabinae)\n속 : (Acoptolabrus)",
+  "basic_information": {
+    "곤충명": "덕유멋조롱박딱정벌레",
+    "학명": "Acoptolabrus mirabilissimus kana (Imura, 1989)"
+  },
+  "information": {
+    "general_description": "몸길이는 23~30mm 이며, 강한 큰턱이 있으며, 두부와 앞가슴 등판은 적동광택이 있고, 딱지날개는 녹색의 광택이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[포식성]\n[한국고유종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 23~30mm 이며, 강한 큰턱이 있으며, 두부와 앞가슴 등판은 적동광택이 있고, 딱지날개는 녹색의 광택이 있다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[포식성]\n[한국고유종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0045-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0045_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0045_2_th.jpg",
+      "alt": "덕유멋조롱박딱정벌레 1번째 사진 : 덕유멋조롱박딱정벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0045_2_th2.jpg",
+      "caption": "덕유멋조롱박딱정벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0045-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0045_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0045_1_th.jpg",
+      "alt": "덕유멋조롱박딱정벌레 2번째 사진 : 덕유멋조롱박딱정벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0045_1_th2.jpg",
+      "caption": "덕유멋조롱박딱정벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0045-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0301251013",
+      "description": "[KPNE0301251013] 덕유멋조롱박딱정벌레 1991.09.18 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0301251014",
+      "description": "[KPNE0301251014] 덕유멋조롱박딱정벌레 1991.09.18 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0301251015",
+      "description": "[KPNE0301251015] 덕유멋조롱박딱정벌레 1991.06.25 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0045-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0045&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:21+00:00",
+    "html_sha256": "f62d55dc98b9fc22fea427eb297745ca72464e0fc761c333e9278e42b8277867",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

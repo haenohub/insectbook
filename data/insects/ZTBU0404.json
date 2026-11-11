@@ -1,0 +1,99 @@
+{
+  "id": "ZTBU0404",
+  "name_ko": "수염가두리뭉툭맵시벌",
+  "scientific_name": "Erromenus zonarius (Gravenhorst, 1820)",
+  "display_name": "수염가두리뭉툭맵시벌",
+  "family_ko": "맵시벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "맵시벌과",
+      "name_latin": "Ichneumonidae"
+    },
+    "subfamily": {
+      "name_ko": "뭉툭맵시벌아과",
+      "name_latin": "Tryphoninae"
+    },
+    "genus": {
+      "name_ko": "얼굴뭉툭맵시벌속",
+      "name_latin": "Erromenus"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 맵시벌과 (Ichneumonidae)\n아과 : 뭉툭맵시벌아과 (Tryphoninae)\n속 : 얼굴뭉툭맵시벌속 (Erromenus)",
+  "basic_information": {
+    "곤충명": "수염가두리뭉툭맵시벌",
+    "학명": "Erromenus zonarius (Gravenhorst, 1820)"
+  },
+  "information": {
+    "general_description": "얼굴은 검정색이다. 가운데가슴등판과 가운데가슴앞옆판은 검은색이다. 뒷다리 종아리마디는 갈색이다. 복부는 검은색이다. 산란관은 복부 말단 높이의 0.60-0.85배이다. 경포는 존재한다. PI: 0.60-0.66, CI: 1.66-1.77, BI: 0.90-1.00, DBI: 0.72-0.83, MI: 1.82-2.05, ICI: 0.18-0.20, NI: 3.88-4.33, RI: 5.20-6.20, IOD/OOD: 0.37-0.57, IOD/POD: 0.30-0.40, IOD/MOD: 0.80, POD/MOD: 2.00-2.4. 앞날개는 5mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "얼굴은 검정색이다. 가운데가슴등판과 가운데가슴앞옆판은 검은색이다. 뒷다리 종아리마디는 갈색이다. 복부는 검은색이다. 산란관은 복부 말단 높이의 0.60-0.85배이다. 경포는 존재한다. PI: 0.60-0.66, CI: 1.66-1.77, BI: 0.90-1.00, DBI: 0.72-0.83, MI: 1.82-2.05, ICI: 0.18-0.20, NI: 3.88-4.33, RI: 5.20-6.20, IOD/OOD: 0.37-0.57, IOD/POD: 0.30-0.40, IOD/MOD: 0.80, POD/MOD: 2.00-2.4. 앞날개는 5mm."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBU0404-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0404_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0404_1_th.jpg",
+      "alt": "수염가두리뭉툭맵시벌 1번째 사진 : 수염가두리뭉툭맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0404_1_th2.jpg",
+      "caption": "수염가두리뭉툭맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBU0404-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306021056",
+      "description": "[YNUE0306021056] 수염가두리뭉툭맵시벌 1987.05.23 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306021057",
+      "description": "[YNUE0306021057] 수염가두리뭉툭맵시벌 1987.05.26 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306021059",
+      "description": "[YNUE0306021059] 수염가두리뭉툭맵시벌 1988.05.17 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTBU0404-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBU0404&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:32+00:00",
+    "html_sha256": "1a712478a96422fe8914757b5eb6ccd3412fa67698c8896ba2d93e60d44c83e3",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

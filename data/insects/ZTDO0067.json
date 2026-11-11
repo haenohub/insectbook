@@ -1,0 +1,98 @@
+{
+  "id": "ZTDO0067",
+  "name_ko": "가시다리잎벌",
+  "scientific_name": "Armitarsus punctifemoratus Malaise, 1931",
+  "display_name": "가시다리잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "잎벌아과",
+      "name_latin": "Tenthredininae"
+    },
+    "genus": {
+      "name_ko": "가시다리잎벌속",
+      "name_latin": "Armitarsus"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 잎벌아과 (Tenthredininae)\n속 : 가시다리잎벌속 (Armitarsus)",
+  "basic_information": {
+    "곤충명": "가시다리잎벌",
+    "학명": "Armitarsus punctifemoratus Malaise, 1931"
+  },
+  "information": {
+    "general_description": "암컷의 몸은 흑색이다. 날개는 투명하고 약간 암색이나 바깥슭은 다소 지타. 다리도 흑색이나 뒷다리의 도래마디는 백색이고 앞다리의 넓적다리마디 끝과 앞다리와 가운데다리의 종아리마디와 발목마디 그리고 뒷다리의 종아리마디는 적갈색이다. 머리방패앞슭은 깊이 활 모양으로 오므라들었고 더듬이는 비교적 깊다. 뒷다리의 제 1발목마디는 그 이하의 4마디를 합친 것보다 훨씬 길고 윗면에 1개의 가시가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷의 몸은 흑색이다. 날개는 투명하고 약간 암색이나 바깥슭은 다소 지타. 다리도 흑색이나 뒷다리의 도래마디는 백색이고 앞다리의 넓적다리마디 끝과 앞다리와 가운데다리의 종아리마디와 발목마디 그리고 뒷다리의 종아리마디는 적갈색이다. 머리방패앞슭은 깊이 활 모양으로 오므라들었고 더듬이는 비교적 깊다. 뒷다리의 제 1발목마디는 그 이하의 4마디를 합친 것보다 훨씬 길고 윗면에 1개의 가시가 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0067-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0067_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0067_1_th.jpg",
+      "alt": "가시다리잎벌 1번째 사진 : 가시다리잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0067_1_th2.jpg",
+      "caption": "가시다리잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0067-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0111293029",
+      "description": "[YNUE0111293029] 가시다리잎벌 1960.06.05 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTDO0067.png",
+    "reference_image_id": "ZTDO0067-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T15:30:43.340863+00:00",
+    "sha256": "55583ac9b75a7dad7dba884d8cb70fd471d1cd36d2ef80ddf2c7b6aaa071b3b1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0067&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:10+00:00",
+    "html_sha256": "73087d755d8fd235e94da2460cf9c8b90589678b2a913df84c7bd04ed2251996",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

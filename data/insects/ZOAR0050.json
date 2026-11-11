@@ -1,0 +1,107 @@
+{
+  "id": "ZOAR0050",
+  "name_ko": "어깨넓은거위벌레",
+  "scientific_name": "Paroplapoderus (Erycapoderus) angulipennis (Kolbe, 1886)",
+  "display_name": "어깨넓은거위벌레",
+  "family_ko": "거위벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "거위벌레과",
+      "name_latin": "Attelabidae"
+    },
+    "subfamily": {
+      "name_ko": "목거위벌레아과",
+      "name_latin": "Apoderinae"
+    },
+    "genus": {
+      "name_ko": "혹등목거위벌레속",
+      "name_latin": "Paroplapoderus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 거위벌레과 (Attelabidae)\n아과 : 목거위벌레아과 (Apoderinae)\n속 : 혹등목거위벌레속 (Paroplapoderus)",
+  "basic_information": {
+    "곤충명": "어깨넓은거위벌레",
+    "학명": "Paroplapoderus (Erycapoderus) angulipennis (Kolbe, 1886)"
+  },
+  "information": {
+    "general_description": "한국, 중국에 분포하며, 체장은 5.0mm 정도이다. 체색은 황갈색이며, 앞가슴등판의 앞쪽과 시초 중앙 부위에 검은 무늬가 있으며, 시초의 전측연은 검고, 시포에는 세개의 검은 돌기를 가진다. 시초는 길이와 폭이 비슷하며, 어깨 뒷부분으로 급격하게 좁아지다가 넓어진다. 시초의 어깨부위에는 작은 두 돌기가 있으며, 미절판과 복부는 강한 점각을 가진다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 중국에 분포하며, 체장은 5.0mm 정도이다. 체색은 황갈색이며, 앞가슴등판의 앞쪽과 시초 중앙 부위에 검은 무늬가 있으며, 시초의 전측연은 검고, 시포에는 세개의 검은 돌기를 가진다. 시초는 길이와 폭이 비슷하며, 어깨 뒷부분으로 급격하게 좁아지다가 넓어진다. 시초의 어깨부위에는 작은 두 돌기가 있으며, 미절판과 복부는 강한 점각을 가진다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAR0050-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0050_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0050_1_th.jpg",
+      "alt": "어깨넓은거위벌레 1번째 사진 : 어깨넓은거위벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0050_1_th2.jpg",
+      "caption": "어깨넓은거위벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAR0050-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0204161389",
+      "description": "[SNUE0204161389] 어깨넓은거위벌레 2000.05.14 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0204161390",
+      "description": "[SNUE0204161390] 어깨넓은거위벌레 1998.05.15 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0204161391",
+      "description": "[SNUE0204161391] 어깨넓은거위벌레 1998.05.10 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAR0050-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAR0050&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:28+00:00",
+    "html_sha256": "eeaee6fc1fb37b7b9b9438fa7d7711bf8f5b45e424b6ca57d6c4296a5dd6da13",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

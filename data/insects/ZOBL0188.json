@@ -1,0 +1,99 @@
+{
+  "id": "ZOBL0188",
+  "name_ko": "우리하늘소",
+  "scientific_name": "Ropica coreana Breuning, 1980",
+  "display_name": "우리하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "목하늘소아과",
+      "name_latin": "Lamiinae"
+    },
+    "genus": {
+      "name_ko": "우리하늘소속",
+      "name_latin": "Ropica"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 목하늘소아과 (Lamiinae)\n속 : 우리하늘소속 (Ropica)",
+  "basic_information": {
+    "곤충명": "우리하늘소",
+    "학명": "Ropica coreana Breuning, 1980"
+  },
+  "information": {
+    "general_description": "몸의 길이는 6~8mm 이며, 몸전체의 색깔은 갈색이나 적녹색을 띄며, 촉각은 몸길이보다 길다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의 길이는 6~8mm 이며, 몸전체의 색깔은 갈색이나 적녹색을 띄며, 촉각은 몸길이보다 길다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0188-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0188_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0188_1_th.jpg",
+      "alt": "우리하늘소 1번째 사진 : 우리하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0188_1_th2.jpg",
+      "caption": "우리하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0188-1",
+  "specimen_examples": [
+    {
+      "id": "SJNE0301221128",
+      "description": "[SJNE0301221128] 우리하늘소 1993.07.22 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0301221129",
+      "description": "[SJNE0301221129] 우리하늘소 1993.07.22 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0301221130",
+      "description": "[SJNE0301221130] 우리하늘소 1999.06.16 / / 상주대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0188-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0188&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:05+00:00",
+    "html_sha256": "a1f402d08fec856e66bba8f868e5e9fde9a33d2f5a58dec9ef455638a010791d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "ZTAG0066",
+  "name_ko": "극동가위벌",
+  "scientific_name": "Megachile remota Smith, 1879",
+  "display_name": "극동가위벌",
+  "family_ko": "가위벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "가위벌과",
+      "name_latin": "Megachilidae"
+    },
+    "subfamily": {
+      "name_ko": "가위벌아과",
+      "name_latin": "Megachilinae"
+    },
+    "genus": {
+      "name_ko": "가위벌속",
+      "name_latin": "Megachile"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 가위벌과 (Megachilidae)\n아과 : 가위벌아과 (Megachilinae)\n속 : 가위벌속 (Megachile)",
+  "basic_information": {
+    "곤충명": "극동가위벌",
+    "학명": "Megachile remota Smith, 1879"
+  },
+  "information": {
+    "general_description": "몸길이는 12mm정도이며 흑색이다. 그러나 윗면의 보통 털은 담황갈색이며 더듬이 밑과 얼굴 양 옆이 가장 옅은 색이다. 머리방패에는 강한 점각이 있고 뺨과 가슴 아랫면의 털은 백색을 띠고 있다. 가운데가슴등판은 다소 강한 점각이 많이 나 있고, 날개는 투명하다. 다리에는 바깥쪽에 옅은 털이 나있고 발목마디는 안쪽이 황갈색이고 며느리발톱은 담황갈색이다. 배는 윗면이 바이올렛과 초록색의 홍채가 나고 모든 마디의 끝 쪽으로 가면 담황색 털 띠가 있다. 아랫면은 밝은 황갈색 털로 덮였고 두 끝마디의 것은 다소 암갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": "[감소추세종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 12mm정도이며 흑색이다. 그러나 윗면의 보통 털은 담황갈색이며 더듬이 밑과 얼굴 양 옆이 가장 옅은 색이다. 머리방패에는 강한 점각이 있고 뺨과 가슴 아랫면의 털은 백색을 띠고 있다. 가운데가슴등판은 다소 강한 점각이 많이 나 있고, 날개는 투명하다. 다리에는 바깥쪽에 옅은 털이 나있고 발목마디는 안쪽이 황갈색이고 며느리발톱은 담황갈색이다. 배는 윗면이 바이올렛과 초록색의 홍채가 나고 모든 마디의 끝 쪽으로 가면 담황색 털 띠가 있다. 아랫면은 밝은 황갈색 털로 덮였고 두 끝마디의 것은 다소 암갈색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[감소추세종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0066-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0066_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0066_1_th.jpg",
+      "alt": "극동가위벌 1번째 사진 : 극동가위벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0066_1_th2.jpg",
+      "caption": "극동가위벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0066-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0111191039",
+      "description": "[YNUE0111191039] 극동가위벌 1995.08.15 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0111191040",
+      "description": "[YNUE0111191040] 극동가위벌 1995.08.19 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0111191037",
+      "description": "[YNUE0111191037] 극동가위벌 1987.06.25 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTAG0066.png",
+    "reference_image_id": "ZTAG0066-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T14:42:48.034721+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "858953c65adf4851872a9b2df936716e83ea8188fa911ce25ac712647482b43b"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0066&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:39+00:00",
+    "html_sha256": "39101f6de531246a1104dccec2f5436cc93bf19966dde5fff3677bf5be5d3615",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

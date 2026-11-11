@@ -1,0 +1,99 @@
+{
+  "id": "ZEAZ0002",
+  "name_ko": "장삼모메뚜기",
+  "scientific_name": "Euparatettix insularis Bey-Bienko, 1951",
+  "display_name": "장삼모메뚜기",
+  "family_ko": "모메뚜기과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "메뚜기목",
+      "name_latin": "Orthoptera"
+    },
+    "family": {
+      "name_ko": "모메뚜기과",
+      "name_latin": "Tetrigidae"
+    },
+    "subfamily": {
+      "name_ko": "모메뚜기아과",
+      "name_latin": "Tetriginae"
+    },
+    "genus": {
+      "name_ko": "장삼모메뚜기속",
+      "name_latin": "Euparatettix"
+    }
+  },
+  "taxonomy_text": "목 : 메뚜기목 (Orthoptera)\n과 : 모메뚜기과 (Tetrigidae)\n아과 : 모메뚜기아과 (Tetriginae)\n속 : 장삼모메뚜기속 (Euparatettix)",
+  "basic_information": {
+    "곤충명": "장삼모메뚜기",
+    "학명": "Euparatettix insularis Bey-Bienko, 1951"
+  },
+  "information": {
+    "general_description": "몸길이 14~19mm이고 황갈색 또는 흑색 무늬가 있는 것도 있다. 머리는 가늘고 머리꼭대기는 겹눈보다 폭이 좁고 중앙의 종융기선은 뚜렷하고 얼굴의 융기와 연속하였다. 뒤의 것은 뚜렷하게 높고도 길고 종구도 2갈래로 나뉘었다. 앞가슴은 가늘고 불규칙한 좁쌀알 같은 것이 산포되었고 중앙의 종융기선은 완전하고 앞쪽에서 굵어지고 또 높아졌다. 옆가두리는 가느나 뚜렷이 융기하였으며 앞쪽에서 분명치 않게 되었고 앞가두리에는 짧은 종융기선이 있는데 뚜렷하지 않다. 옆모는 둔하나 뚜렷이 모가 났다. 옆조각은 뒷가두리가 물결 모양이고 뒷모는 다소 연장하였을뿐이다. 배는 뒷허벅마디 말단에 달하지 않는 것이 보통이다. 촉각은 실 모양이고 겹눈은 크고 돌출하였다. 앞날개는 크고 긴 타원형이며 뒷날개는 앞가슴의 뒷끝을 많이 초월하였다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[대만]\n[호주]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 14~19mm이고 황갈색 또는 흑색 무늬가 있는 것도 있다. 머리는 가늘고 머리꼭대기는 겹눈보다 폭이 좁고 중앙의 종융기선은 뚜렷하고 얼굴의 융기와 연속하였다. 뒤의 것은 뚜렷하게 높고도 길고 종구도 2갈래로 나뉘었다. 앞가슴은 가늘고 불규칙한 좁쌀알 같은 것이 산포되었고 중앙의 종융기선은 완전하고 앞쪽에서 굵어지고 또 높아졌다. 옆가두리는 가느나 뚜렷이 융기하였으며 앞쪽에서 분명치 않게 되었고 앞가두리에는 짧은 종융기선이 있는데 뚜렷하지 않다. 옆모는 둔하나 뚜렷이 모가 났다. 옆조각은 뒷가두리가 물결 모양이고 뒷모는 다소 연장하였을뿐이다. 배는 뒷허벅마디 말단에 달하지 않는 것이 보통이다. 촉각은 실 모양이고 겹눈은 크고 돌출하였다. 앞날개는 크고 긴 타원형이며 뒷날개는 앞가슴의 뒷끝을 많이 초월하였다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[대만]\n[호주]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZEAZ0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAZ0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAZ0002_1_th.jpg",
+      "alt": "장삼모메뚜기 1번째 사진 : 장삼모메뚜기전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAZ0002_1_th2.jpg",
+      "caption": "장삼모메뚜기전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZEAZ0002-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0407291016",
+      "description": "[MPME0407291016] 장삼모메뚜기 2003.07.27 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0407291017",
+      "description": "[MPME0407291017] 장삼모메뚜기 2003.07.27 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408191230",
+      "description": "[MPME0408191230] 장삼모메뚜기 2003.07.27 / / 목포자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZEAZ0002-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZEAZ0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:06+00:00",
+    "html_sha256": "318a27db8a10e83925e41425a4ebe87e9d1067b3bc7e6cf2ee0189d3d2586441",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

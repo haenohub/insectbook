@@ -1,0 +1,132 @@
+{
+  "id": "ZRDG0031",
+  "name_ko": "까마귀부전나비",
+  "scientific_name": "Satyrium w-album (Knoch, 1782)",
+  "display_name": "까마귀부전나비",
+  "family_ko": "부전나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "부전나비과",
+      "name_latin": "Lycaenidae"
+    },
+    "subfamily": {
+      "name_ko": "녹색부전나비아과",
+      "name_latin": "Theclinae"
+    },
+    "genus": {
+      "name_ko": "까마귀부전나비속",
+      "name_latin": "Satyrium"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 부전나비과 (Lycaenidae)\n아과 : 녹색부전나비아과 (Theclinae)\n속 : 까마귀부전나비속 (Satyrium)",
+  "basic_information": {
+    "곤충명": "까마귀부전나비",
+    "학명": "Satyrium w-album (Knoch, 1782)"
+  },
+  "information": {
+    "general_description": "수컷에는 앞날개 윗면 전연 가까이에 광택이 나지 않는 성표가 있으나 암컷에는 없다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "계곡을 낀 임도 주변 느릅나무가 많은 소로에 소식한다. 한낮에는 개망초꽃에서 흡밀하는 경우가 있다. 수컷은 가끔 물가에 모이는 경우가 있으며, 재빠르게 날아다닌다. 오후에 관목 끝의 잎에서 점유행동을 하는데, 일광욕을 하기 위해 앉을 때 태양을 향해 날개을 비스듬히 눕히는 습성이 있다.",
+    "season": null,
+    "overwintering": "알",
+    "distribution": "[일본]\n[러시아]\n[유럽]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "수컷에는 앞날개 윗면 전연 가까이에 광택이 나지 않는 성표가 있으나 암컷에는 없다."
+    },
+    {
+      "title": "습성",
+      "text": "계곡을 낀 임도 주변 느릅나무가 많은 소로에 소식한다. 한낮에는 개망초꽃에서 흡밀하는 경우가 있다. 수컷은 가끔 물가에 모이는 경우가 있으며, 재빠르게 날아다닌다. 오후에 관목 끝의 잎에서 점유행동을 하는데, 일광욕을 하기 위해 앉을 때 태양을 향해 날개을 비스듬히 눕히는 습성이 있다."
+    },
+    {
+      "title": "월동",
+      "text": "알"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]\n[유럽]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDG0031-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDG0031_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDG0031_2.jpg",
+      "alt": "까마귀부전나비 1번째 사진 : 까마귀부전나비 수컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDG0031_2_th2.jpg",
+      "caption": "까마귀부전나비 수컷 이미지",
+      "photographed_at": "20110530",
+      "location": "경기도 가평군 청평면 화야산",
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRDG0031-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0031_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0031_1_th.jpg",
+      "alt": "까마귀부전나비 2번째 사진 : 까마귀부전나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0031_1_th2.jpg",
+      "caption": "까마귀부전나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDG0031-1",
+  "specimen_examples": [
+    {
+      "id": "SJNE0203221092",
+      "description": "[SJNE0203221092] 까마귀부전나비 2000.07.20 / / 상주대학교"
+    },
+    {
+      "id": "MPME0409031116",
+      "description": "[MPME0409031116] 까마귀부전나비 2001.04.17 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0409031114",
+      "description": "[MPME0409031114] 까마귀부전나비 1999.07.26 / / 목포자연사박물관"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "느릅나무",
+      "scientific_name": "Ulmus davidiana var. japonica (Rehder) Nakai"
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDG0031.png",
+    "reference_image_id": "ZRDG0031-2",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T09:54:20.594326+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "0d22a47218707d6b7e9b0f1bdd0d0b433733e420b225cf047814df57eda70bef"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDG0031&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:17+00:00",
+    "html_sha256": "cf8af666a3c375d89964eeeebb7d97cc29010667ab1c324e57468fae58604eb4",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "id": "ZRCI0413",
+  "name_ko": "꼬마노랑가지나방",
+  "scientific_name": "Heterolocha sachalinensis Matsumura, 1925",
+  "display_name": "꼬마노랑가지나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "가지나방아과",
+      "name_latin": "Ennominae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Heterolocha"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 가지나방아과 (Ennominae)\n속 : (Heterolocha)",
+  "basic_information": {
+    "곤충명": "꼬마노랑가지나방",
+    "학명": "Heterolocha sachalinensis Matsumura, 1925"
+  },
+  "information": {
+    "general_description": "더듬이는 수컷이 빗살 모양이고, 암컷은 실 모양이다. 날개는 황록색에서 밝은 황색까지 있다. 앞날개의 횡맥 고리 무늬는 크고, 외횡선은 전연에서 날개끝에 걸쳐 암색 무늬를 이루며, 앞․뒷날개 모두 굵은 외횡선이 많다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6～7월에 출현한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 수컷이 빗살 모양이고, 암컷은 실 모양이다. 날개는 황록색에서 밝은 황색까지 있다. 앞날개의 횡맥 고리 무늬는 크고, 외횡선은 전연에서 날개끝에 걸쳐 암색 무늬를 이루며, 앞․뒷날개 모두 굵은 외횡선이 많다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6～7월에 출현한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0413-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0413_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0413_2_th.jpg",
+      "alt": "꼬마노랑가지나방 1번째 사진 : 꼬마노랑가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0413_2_th2.jpg",
+      "caption": "꼬마노랑가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0413-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0413_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0413_1_th.jpg",
+      "alt": "꼬마노랑가지나방 2번째 사진 : 꼬마노랑가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0413_1_th2.jpg",
+      "caption": "꼬마노랑가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0413-1",
+  "specimen_examples": [
+    {
+      "id": "KNUE0212281603",
+      "description": "[KNUE0212281603] 꼬마노랑가지나방 1998.05.27 / / 강원대학교"
+    },
+    {
+      "id": "KNAE0301242001",
+      "description": "[KNAE0301242001] 꼬마노랑가지나방 1991.07.10 / / 국립수목원"
+    },
+    {
+      "id": "UIBE0202082051",
+      "description": "[UIBE0202082051] 꼬마노랑가지나방 2000.05.24 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRCI0413.png",
+    "reference_image_id": "ZRCI0413-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T13:30:55.679824+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "f29565b35e1c6d629bc3b7d8c2252dd173f5e229262732770932452fe7990cb3"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0413&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:32+00:00",
+    "html_sha256": "fa250785420d1e57392f629ff0783add654a3ad7dee59cac87f53579c4ad4518",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

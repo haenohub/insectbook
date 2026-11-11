@@ -1,0 +1,107 @@
+{
+  "id": "ZOBZ0065",
+  "name_ko": "긴점무당벌레",
+  "scientific_name": "Myzia oblongoguttata nipponica (Yuasa, 1963)",
+  "display_name": "긴점무당벌레",
+  "family_ko": "무당벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Coccinelloidea"
+    },
+    "family": {
+      "name_ko": "무당벌레과",
+      "name_latin": "Coccinellidae"
+    },
+    "subfamily": {
+      "name_ko": "무당벌레아과",
+      "name_latin": "Coccinellinae"
+    },
+    "genus": {
+      "name_ko": "긴점무당벌레속",
+      "name_latin": "Myzia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : (Coccinelloidea)\n과 : 무당벌레과 (Coccinellidae)\n아과 : 무당벌레아과 (Coccinellinae)\n속 : 긴점무당벌레속 (Myzia)",
+  "basic_information": {
+    "곤충명": "긴점무당벌레",
+    "학명": "Myzia oblongoguttata nipponica (Yuasa, 1963)"
+  },
+  "information": {
+    "general_description": "체형은 상당히 긴 휴지형을 띠며 두부의 색깔은 검은색을 띤다. 등쪽의 색깔의 회색을띤 갈색이며, 제9배마디를 보면 흑색을 띤 갈색임을 볼 수 있다. 다리역시 흑갈색이다.\n이들의 분포지역 은 한국, 우수리, 일본 등지에서 서식한다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체형은 상당히 긴 휴지형을 띠며 두부의 색깔은 검은색을 띤다. 등쪽의 색깔의 회색을띤 갈색이며, 제9배마디를 보면 흑색을 띤 갈색임을 볼 수 있다. 다리역시 흑갈색이다.\n이들의 분포지역 은 한국, 우수리, 일본 등지에서 서식한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBZ0065-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBZ0065_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBZ0065_1_th.jpg",
+      "alt": "긴점무당벌레 1번째 사진 : 긴점무당벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBZ0065_1_th2.jpg",
+      "caption": "긴점무당벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBZ0065-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408201042",
+      "description": "[MPME0408201042] 긴점무당벌레 2002.10.25 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408201041",
+      "description": "[MPME0408201041] 긴점무당벌레 2002.10.25 / / 목포자연사박물관"
+    },
+    {
+      "id": "KUIE0307061074",
+      "description": "[KUIE0307061074] 긴점무당벌레 1994.08.05 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBZ0065.png",
+    "reference_image_id": "ZOBZ0065-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T09:24:58.159607+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "492e030d79c1814b692abc5485aa1471d008f4a8c3b94c3e2140cdf4cb3f3fd6"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBZ0065&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:08+00:00",
+    "html_sha256": "2c4bef5ffc208d2f79cacb098659b373bdb11f57e09082a2a798b386cd043596",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "id": "ZLBX0040",
+  "name_ko": "네점박이노린재",
+  "scientific_name": "Homalogonia obtusa obtusa (Walker, 1868)",
+  "display_name": "네점박이노린재",
+  "family_ko": "노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "노린재상과",
+      "name_latin": "Pentatomoidea"
+    },
+    "family": {
+      "name_ko": "노린재과",
+      "name_latin": "Pentatomidae"
+    },
+    "subfamily": {
+      "name_ko": "노린재아과",
+      "name_latin": "Pentatominae"
+    },
+    "genus": {
+      "name_ko": "느티나무노린재속",
+      "name_latin": "Homalogonia"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 노린재상과 (Pentatomoidea)\n과 : 노린재과 (Pentatomidae)\n아과 : 노린재아과 (Pentatominae)\n속 : 느티나무노린재속 (Homalogonia)",
+  "basic_information": {
+    "곤충명": "네점박이노린재",
+    "학명": "Homalogonia obtusa obtusa (Walker, 1868)"
+  },
+  "information": {
+    "general_description": "몸길이 : 11.5-14mm\n몸의 등면은 회갈색 또는 황록색 바탕에 흑갈색, 적갈색 및 황갈색의 불규칙한 무늬가 있다. 체표면에는 미세한 검은 점각이 산재한다. 머리의 측엽은 중엽보다 기고 서로 떨어져 있다. 앞가슴등판은 양 옆가장자리가 둥글고 넓적하다. 앞날개는 혁질부에 희미한 흑갈색 얼룩무늬가 있다. 배의 가장자리는 폭넓게 앞날개의 바깥으로 확장되었다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "초야나 산림지대에 서식한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 11.5-14mm\n몸의 등면은 회갈색 또는 황록색 바탕에 흑갈색, 적갈색 및 황갈색의 불규칙한 무늬가 있다. 체표면에는 미세한 검은 점각이 산재한다. 머리의 측엽은 중엽보다 기고 서로 떨어져 있다. 앞가슴등판은 양 옆가장자리가 둥글고 넓적하다. 앞날개는 혁질부에 희미한 흑갈색 얼룩무늬가 있다. 배의 가장자리는 폭넓게 앞날개의 바깥으로 확장되었다."
+    },
+    {
+      "title": "생태",
+      "text": "초야나 산림지대에 서식한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLBX0040-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0040_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0040_2_th.jpg",
+      "alt": "네점박이노린재 1번째 사진 : 네점박이노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0040_2_th2.jpg",
+      "caption": "네점박이노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZLBX0040-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0040_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0040_1_th.jpg",
+      "alt": "네점박이노린재 2번째 사진 : 네점박이노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0040_1_th2.jpg",
+      "caption": "네점박이노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLBX0040-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0408091014",
+      "description": "[KNAE0408091014] 네점박이노린재 2002.11.03 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304022045",
+      "description": "[KNAE0304022045] 네점박이노린재 1995.05.31 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304022046",
+      "description": "[KNAE0304022046] 네점박이노린재 1995.06.15 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "감나무",
+      "scientific_name": "Diospyros kaki Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "복사나무",
+      "scientific_name": "Prunus persica (L.) Batsch"
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZLBX0040.png",
+    "reference_image_id": "ZLBX0040-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T10:52:05.820560+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "22ad1f45b469851c32ef24fc3b1768b856aa6406979688519d84f1a795ecd598"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLBX0040&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:49+00:00",
+    "html_sha256": "c342e2488f39aff63c8aa90419408558e073adf1b116adbae1c12c79712fc671",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

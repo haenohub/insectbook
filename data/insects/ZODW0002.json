@@ -1,0 +1,118 @@
+{
+  "id": "ZODW0002",
+  "name_ko": "파파리반딧불이",
+  "scientific_name": "Luciola (Hotaria) papariensis Doi, 1932",
+  "display_name": "파파리반딧불이",
+  "family_ko": "반딧불이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "방아벌레상과",
+      "name_latin": "Elateroidea"
+    },
+    "family": {
+      "name_ko": "반딧불이과",
+      "name_latin": "Lampyridae"
+    },
+    "subfamily": {
+      "name_ko": "애반딧불이아과",
+      "name_latin": "Luciolinae"
+    },
+    "genus": {
+      "name_ko": "애반딧불이속",
+      "name_latin": "Luciola"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 방아벌레상과 (Elateroidea)\n과 : 반딧불이과 (Lampyridae)\n아과 : 애반딧불이아과 (Luciolinae)\n속 : 애반딧불이속 (Luciola)",
+  "basic_information": {
+    "곤충명": "파파리반딧불이",
+    "학명": "Luciola (Hotaria) papariensis Doi, 1932"
+  },
+  "information": {
+    "general_description": "몸길이는 8~9mm이며, 앞가슴등판은 주홍색이며, 딱지날개에는 검은색이고, 두줄의 홍줄이 있다. 머리는 앞가슴아래에 숨어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6~7월에 주변 초원 관목잎위에 있다. 수컷은 야간에 3초간격으로 발광하여 짝을 찾는다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 8~9mm이며, 앞가슴등판은 주홍색이며, 딱지날개에는 검은색이고, 두줄의 홍줄이 있다. 머리는 앞가슴아래에 숨어있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6~7월에 주변 초원 관목잎위에 있다. 수컷은 야간에 3초간격으로 발광하여 짝을 찾는다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZODW0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODW0002_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODW0002_2_th.jpg",
+      "alt": "파파리반딧불이 1번째 사진 : 파파리반딧불이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODW0002_2_th2.jpg",
+      "caption": "파파리반딧불이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZODW0002-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODW0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODW0002_1_th.jpg",
+      "alt": "파파리반딧불이 2번째 사진 : 파파리반딧불이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODW0002_1_th2.jpg",
+      "caption": "파파리반딧불이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZODW0002-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0212249057",
+      "description": "[YNUE0212249057] 파파리반딧불이 1997.07.14 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0212249056",
+      "description": "[YNUE0212249056] 파파리반딧불이 1982.06.10 / / 영남대학교"
+    },
+    {
+      "id": "KNAE0304091036",
+      "description": "[KNAE0304091036] 파파리반딧불이 1995.06.19 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZODW0002-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZODW0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:34+00:00",
+    "html_sha256": "f80e585d05523403937b919c1758f922da7a0ede7eba23aae384d81b9a59d2cf",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

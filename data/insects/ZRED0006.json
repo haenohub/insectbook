@@ -1,0 +1,141 @@
+{
+  "id": "ZRED0006",
+  "name_ko": "줄흰나비",
+  "scientific_name": "Pieris dulcinea Butler, 1882",
+  "display_name": "줄흰나비",
+  "family_ko": "흰나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "흰나비과",
+      "name_latin": "Pieridae"
+    },
+    "subfamily": {
+      "name_ko": "흰나비아과",
+      "name_latin": "Pierinae"
+    },
+    "genus": {
+      "name_ko": "흰나비속",
+      "name_latin": "Pieris"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 흰나비과 (Pieridae)\n아과 : 흰나비아과 (Pierinae)\n속 : 흰나비속 (Pieris)",
+  "basic_information": {
+    "곤충명": "줄흰나비",
+    "학명": "Pieris dulcinea Butler, 1882"
+  },
+  "information": {
+    "general_description": "큰줄흰나비와 외형상 유사하나 앞뒷날개 공히 시맥을 따라 발달한 흑색의 무늬가 약하다. 암수구별은 큰줄흰나비와 거의 같다",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "대부분 산지계곡의 숲 가장자리에 서식하며 큰줄흰나비와 비교해 보면 보다 밝은 장소에 서식하는 경향을 보이는 것이 일반적이다.",
+    "habits": "수컷의 경우 습지에 잘 모여 흡수하는 경향이 많으며, 암수 모두 마타리, 개망초, 엉겅퀴 등의 꽃에서 흡밀하는 것이 종종 관찰된다. 암컷은 기주식물 잎표면에 산란하며 한 장소에서 앞, 애벌레, 번데기를 한번에 모두 관찰하게 되는 경우가 많다.",
+    "season": null,
+    "overwintering": "번데기",
+    "distribution": "[일본]\n[중국]\n[러시아]\n[유럽]\n[미국]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "큰줄흰나비와 외형상 유사하나 앞뒷날개 공히 시맥을 따라 발달한 흑색의 무늬가 약하다. 암수구별은 큰줄흰나비와 거의 같다"
+    },
+    {
+      "title": "생태",
+      "text": "대부분 산지계곡의 숲 가장자리에 서식하며 큰줄흰나비와 비교해 보면 보다 밝은 장소에 서식하는 경향을 보이는 것이 일반적이다."
+    },
+    {
+      "title": "습성",
+      "text": "수컷의 경우 습지에 잘 모여 흡수하는 경향이 많으며, 암수 모두 마타리, 개망초, 엉겅퀴 등의 꽃에서 흡밀하는 것이 종종 관찰된다. 암컷은 기주식물 잎표면에 산란하며 한 장소에서 앞, 애벌레, 번데기를 한번에 모두 관찰하게 되는 경우가 많다."
+    },
+    {
+      "title": "월동",
+      "text": "번데기"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]\n[유럽]\n[미국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRED0006-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRED0006_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRED0006_2_th.jpg",
+      "alt": "줄흰나비 1번째 사진 : 줄흰나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRED0006_2_th2.jpg",
+      "caption": "줄흰나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRED0006-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRED0006_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRED0006_1_th.jpg",
+      "alt": "줄흰나비 2번째 사진 : 줄흰나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRED0006_1_th2.jpg",
+      "caption": "줄흰나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRED0006-1",
+  "specimen_examples": [
+    {
+      "id": "SJNE0306181020",
+      "description": "[SJNE0306181020] 줄흰나비 2002.06.20 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0306191001",
+      "description": "[SJNE0306191001] 줄흰나비 2002.06.20 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0306191002",
+      "description": "[SJNE0306191002] 줄흰나비 2002.06.20 / / 상주대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "꽃황새냉이",
+      "scientific_name": "Cardamine amariformis Nakai"
+    },
+    {
+      "group": "식물",
+      "name_ko": "바위장대",
+      "scientific_name": "Arabis serrata Franch. & Sav."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRED0006-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRED0006&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:21+00:00",
+    "html_sha256": "2c2c1a8b2005ecb3ff3c1cde115f37177a085946ad4d824ca99134daab183734",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "id": "ZOBL0008",
+  "name_ko": "흰점뽕나무하늘소",
+  "scientific_name": "Apriona swainsoni swainsoni (Hope, 1840)",
+  "display_name": "흰점뽕나무하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "목하늘소아과",
+      "name_latin": "Lamiinae"
+    },
+    "genus": {
+      "name_ko": "뽕나무하늘소속",
+      "name_latin": "Apriona"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 목하늘소아과 (Lamiinae)\n속 : 뽕나무하늘소속 (Apriona)",
+  "basic_information": {
+    "곤충명": "흰점뽕나무하늘소",
+    "학명": "Apriona swainsoni swainsoni (Hope, 1840)"
+  },
+  "information": {
+    "general_description": "몸의 길이는 10~27mm 이며, 몸은 적갈색에서 흑갈색이다. 앞가슴 등판은 둥근 형태고 촉각 길이는 딱지날개 중간을 넘지 않는다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의 길이는 10~27mm 이며, 몸은 적갈색에서 흑갈색이다. 앞가슴 등판은 둥근 형태고 촉각 길이는 딱지날개 중간을 넘지 않는다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0008-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0008_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0008_2_th.jpg",
+      "alt": "흰점뽕나무하늘소 1번째 사진 : 큰넓적하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0008_2_th2.jpg",
+      "caption": "큰넓적하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBL0008-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0008_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0008_1_th.jpg",
+      "alt": "흰점뽕나무하늘소 2번째 사진 : 큰넓적하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0008_1_th2.jpg",
+      "caption": "큰넓적하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0008-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304122027",
+      "description": "[KNAE0304122027] 흰점뽕나무하늘소 1991.08.04 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304122028",
+      "description": "[KNAE0304122028] 흰점뽕나무하늘소 1991.08.05 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304122029",
+      "description": "[KNAE0304122029] 흰점뽕나무하늘소 1991.08.06 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "삼나무",
+      "scientific_name": "Cryptomeria japonica (Thunb. ex L.f.) D.Don"
+    },
+    {
+      "group": "식물",
+      "name_ko": "소나무",
+      "scientific_name": "Pinus densiflora Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "편백",
+      "scientific_name": "Chamaecyparis obtusa (Siebold & Zucc.) Endl."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0008-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0008&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:47+00:00",
+    "html_sha256": "2c3b5e739b4f7e9178405175c996ec2acacdfcafa9f63a70e53ba2f71fc5c2c2",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

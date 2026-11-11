@@ -1,0 +1,155 @@
+{
+  "id": "ZREV0006",
+  "name_ko": "녹색박각시",
+  "scientific_name": "Callambulyx tatarinovii (Bremer & Grey, 1852)",
+  "display_name": "녹색박각시",
+  "family_ko": "박각시과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "누에나방상과",
+      "name_latin": "Bombycoidea"
+    },
+    "family": {
+      "name_ko": "박각시과",
+      "name_latin": "Sphingidae"
+    },
+    "subfamily": {
+      "name_ko": "박각시아과",
+      "name_latin": "Sphinginae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Callambulyx"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 누에나방상과 (Bombycoidea)\n과 : 박각시과 (Sphingidae)\n아과 : 박각시아과 (Sphinginae)\n속 : (Callambulyx)",
+  "basic_information": {
+    "곤충명": "녹색박각시",
+    "학명": "Callambulyx tatarinovii (Bremer & Grey, 1852)"
+  },
+  "information": {
+    "general_description": "성충의 앞날개 길이는 31~36 mm이고 담녹색이며 진한 색으로 된 불규칙한 무늬가 있다. 뒷날개는 홍적색이며 바깥 부분은 다갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": "유충의 몸길이는 60~70 mm로 황녹색이며 7줄의 회백색~적갈색 사선(斜線)이 있다.",
+    "egg": null,
+    "pupa": null,
+    "ecology": "연 2회 발생하는 것 같다. 1화기 성충이 5~6월에 우화하고 유충은 6~7월에 나타난다. 2화기 유충은 8~9월에 나타나며 노숙하면 흙 속으로 들어가 번데기가 되어 월동한다.",
+    "habits": "유충이 잎을 식해하며 대발생하지는 않는다.",
+    "season": null,
+    "overwintering": "번데기로 월동한다.",
+    "distribution": "[러시아]\n[중국]\n[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충의 앞날개 길이는 31~36 mm이고 담녹색이며 진한 색으로 된 불규칙한 무늬가 있다. 뒷날개는 홍적색이며 바깥 부분은 다갈색이다."
+    },
+    {
+      "title": "유충",
+      "text": "유충의 몸길이는 60~70 mm로 황녹색이며 7줄의 회백색~적갈색 사선(斜線)이 있다."
+    },
+    {
+      "title": "생태",
+      "text": "연 2회 발생하는 것 같다. 1화기 성충이 5~6월에 우화하고 유충은 6~7월에 나타난다. 2화기 유충은 8~9월에 나타나며 노숙하면 흙 속으로 들어가 번데기가 되어 월동한다."
+    },
+    {
+      "title": "습성",
+      "text": "유충이 잎을 식해하며 대발생하지는 않는다."
+    },
+    {
+      "title": "월동",
+      "text": "번데기로 월동한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREV0006-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0006_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0006_2_th.jpg",
+      "alt": "녹색박각시 1번째 사진 : 녹색박각시전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0006_2_th2.jpg",
+      "caption": "녹색박각시전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREV0006-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0006_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0006_1_th.jpg",
+      "alt": "녹색박각시 2번째 사진 : 녹색박각시전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0006_1_th2.jpg",
+      "caption": "녹색박각시전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREV0006-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304211004",
+      "description": "[KNAE0304211004] 녹색박각시 1998.08.19 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304171008",
+      "description": "[KNAE0304171008] 녹색박각시 1998.06.29 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304171009",
+      "description": "[KNAE0304171009] 녹색박각시 1998.07.27 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "느릅나무",
+      "scientific_name": "Ulmus davidiana var. japonica (Rehder) Nakai"
+    },
+    {
+      "group": "식물",
+      "name_ko": "느티나무",
+      "scientific_name": "Zelkova serrata (Thunb.) Makino"
+    },
+    {
+      "group": "식물",
+      "name_ko": "참빗살나무",
+      "scientific_name": "Euonymus hamiltonianus Wall."
+    },
+    {
+      "group": "식물",
+      "name_ko": "피나무",
+      "scientific_name": "Tilia amurensis Rupr."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREV0006-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREV0006&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:34+00:00",
+    "html_sha256": "ff35e2c8e00c27bca6d6673b94ffe6c89bc3f2dbd1b9e2c5545c0ecc3dfdacd1",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "id": "ZOAR0033",
+  "name_ko": "거위벌레",
+  "scientific_name": "Apoderus jekelii (Roelofs, 1874)",
+  "display_name": "거위벌레",
+  "family_ko": "거위벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "거위벌레과",
+      "name_latin": "Attelabidae"
+    },
+    "subfamily": {
+      "name_ko": "목거위벌레아과",
+      "name_latin": "Apoderinae"
+    },
+    "genus": {
+      "name_ko": "목거위벌레속",
+      "name_latin": "Apoderus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 거위벌레과 (Attelabidae)\n아과 : 목거위벌레아과 (Apoderinae)\n속 : 목거위벌레속 (Apoderus)",
+  "basic_information": {
+    "곤충명": "거위벌레",
+    "학명": "Apoderus jekelii (Roelofs, 1874)"
+  },
+  "information": {
+    "general_description": "성충의 몸길이는 8~9.5 mm이며 윗날개의 색은 적색 또는 흑색으로 색의 변이가 크다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "연 1회 발생하는 것으로 보이며 성충은 5~8월에 수관(樹冠)에 서식하면서 잎에 1~2개씩 산란한 후 그 잎을 원통 모양으로 말아 일찍 떨어지게 한다. 말린 잎 속에서 부화한 유충은 내부를 먹으면서 성장하여 흙 속에 들어가 번데기가 된다.",
+    "habits": "성충이 잎을 접어서 원통 모양으로 말고, 말린 부분은 일찍 낙엽된다. 엽육(葉肉)을 식해하기도 하여 잎에 구멍이 생긴다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": "성충대상으로 메프 또는 디프유제나 수화제를 살포한다.",
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충의 몸길이는 8~9.5 mm이며 윗날개의 색은 적색 또는 흑색으로 색의 변이가 크다."
+    },
+    {
+      "title": "생태",
+      "text": "연 1회 발생하는 것으로 보이며 성충은 5~8월에 수관(樹冠)에 서식하면서 잎에 1~2개씩 산란한 후 그 잎을 원통 모양으로 말아 일찍 떨어지게 한다. 말린 잎 속에서 부화한 유충은 내부를 먹으면서 성장하여 흙 속에 들어가 번데기가 된다."
+    },
+    {
+      "title": "습성",
+      "text": "성충이 잎을 접어서 원통 모양으로 말고, 말린 부분은 일찍 낙엽된다. 엽육(葉肉)을 식해하기도 하여 잎에 구멍이 생긴다."
+    },
+    {
+      "title": "방제법",
+      "text": "성충대상으로 메프 또는 디프유제나 수화제를 살포한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAR0033-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0033_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0033_1_th.jpg",
+      "alt": "거위벌레 1번째 사진 : 거위벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0033_1_th2.jpg",
+      "caption": "거위벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAR0033-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0407162002",
+      "description": "[KUIE0407162002] 거위벌레 1934.05.15 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0407162001",
+      "description": "[KUIE0407162001] 거위벌레 1934.05.07 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0407162003",
+      "description": "[KUIE0407162003] 거위벌레 1956.08.20 / / 고려대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "밤나무",
+      "scientific_name": "Castanea crenata Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "상수리나무",
+      "scientific_name": "Quercus acutissima Carruth."
+    },
+    {
+      "group": "식물",
+      "name_ko": "신갈나무",
+      "scientific_name": "Quercus mongolica Fisch. ex Ledeb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "오리나무",
+      "scientific_name": "Alnus japonica (Thunb.) Steud."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOAR0033.png",
+    "reference_image_id": "ZOAR0033-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T17:30:18.360364+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "c869c9f945d1c91ad60b0ed835037945e3fdac3c2374f45edbb9634fbf3d65bf"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAR0033&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:47+00:00",
+    "html_sha256": "8c54e41d75d33ed093acb3a60a646469fa084e6a078bd2f9dec346e476e39ac6",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

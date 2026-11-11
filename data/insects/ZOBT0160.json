@@ -1,0 +1,115 @@
+{
+  "id": "ZOBT0160",
+  "name_ko": "좁은가슴잎벌레",
+  "scientific_name": "Phaedon (Phaedon) brassicae Baly, 1874",
+  "display_name": "좁은가슴잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "잎벌레아과",
+      "name_latin": "Chrysomelinae"
+    },
+    "genus": {
+      "name_ko": "좁은가슴잎벌레속",
+      "name_latin": "Phaedon"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 잎벌레아과 (Chrysomelinae)\n속 : 좁은가슴잎벌레속 (Phaedon)",
+  "basic_information": {
+    "곤충명": "좁은가슴잎벌레",
+    "학명": "Phaedon (Phaedon) brassicae Baly, 1874"
+  },
+  "information": {
+    "general_description": "몸길이는 3.3~4.0mm, 몸 전체 색깔이 흑청색. 등판에 강한 융기. 앞가슴등판에 강한 점각이 조밀하게있다. 한국, 베트남, 중국, 대만, 일본(혼슈,시코쿠,큐슈,유큐섬)에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 5~6월에 활동하며 6월에 줄기에 엽병에 상처를 내어 그 속에 알을 산란. 유충은 잎을 먹으며 2회탈피. 연 2~3회 발생한다.",
+    "habits": "기주식물 십자화과의 야채류.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[베트남]\n[중국]\n[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 3.3~4.0mm, 몸 전체 색깔이 흑청색. 등판에 강한 융기. 앞가슴등판에 강한 점각이 조밀하게있다. 한국, 베트남, 중국, 대만, 일본(혼슈,시코쿠,큐슈,유큐섬)에 분포되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 5~6월에 활동하며 6월에 줄기에 엽병에 상처를 내어 그 속에 알을 산란. 유충은 잎을 먹으며 2회탈피. 연 2~3회 발생한다."
+    },
+    {
+      "title": "습성",
+      "text": "기주식물 십자화과의 야채류."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[베트남]\n[중국]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0160-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0160_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0160_1_th.jpg",
+      "alt": "좁은가슴잎벌레 1번째 사진 : 좁은가슴잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0160_1_th2.jpg",
+      "caption": "좁은가슴잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0160-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0303311038",
+      "description": "[FRIE0303311038] 좁은가슴잎벌레 1981.11.15 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0303311039",
+      "description": "[FRIE0303311039] 좁은가슴잎벌레 1981.11.13 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0303142034",
+      "description": "[KNAE0303142034] 좁은가슴잎벌레 1998.09.16 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0160-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0160&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:52+00:00",
+    "html_sha256": "65415ee6d6db605bd34e81f247ba45ad5701cb9a94fe4bd649af60baa74fbf71",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

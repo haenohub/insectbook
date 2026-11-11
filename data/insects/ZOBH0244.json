@@ -1,0 +1,110 @@
+{
+  "id": "ZOBH0244",
+  "name_ko": "줄납작먼지벌레",
+  "scientific_name": "Colpodes (Colpodes) adonis Tschitschérine, 1895",
+  "display_name": "줄납작먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "먼지벌레아과",
+      "name_latin": "Harpalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Colpodes"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 먼지벌레아과 (Harpalinae)\n속 : (Colpodes)",
+  "basic_information": {
+    "곤충명": "줄납작먼지벌레",
+    "학명": "Colpodes (Colpodes) adonis Tschitschérine, 1895"
+  },
+  "information": {
+    "general_description": "몸길이 17mm 내외, 촉각, 다리, 검은색에 청동 광택, 두부, 앞가슴등판 적동색 광택, 딱지발개은 강한 청남색 광택이 있슴\n큰턱이 발달되어 있슴",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[포식성] 썩은 시체같은 동물질 섭식",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 17mm 내외, 촉각, 다리, 검은색에 청동 광택, 두부, 앞가슴등판 적동색 광택, 딱지발개은 강한 청남색 광택이 있슴\n큰턱이 발달되어 있슴"
+    },
+    {
+      "title": "특기사항",
+      "text": "[포식성] 썩은 시체같은 동물질 섭식"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0244-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0244_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0244_2_th.jpg",
+      "alt": "줄납작먼지벌레 1번째 사진 : 줄납작먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0244_2_th2.jpg",
+      "caption": "줄납작먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0244-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0244_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0244_1_th.jpg",
+      "alt": "줄납작먼지벌레 2번째 사진 : 줄납작먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0244_1_th2.jpg",
+      "caption": "줄납작먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0244-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0302171034",
+      "description": "[KPNE0302171034] 줄납작먼지벌레 1988.06.29 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0302171036",
+      "description": "[KPNE0302171036] 줄납작먼지벌레 1988.06.29 / / 경북대학교"
+    },
+    {
+      "id": "HNUE0910142131",
+      "description": "[HNUE0910142131] 줄납작먼지벌레 2006.03.27 / / 한남대학교 자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0244-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0244&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:07+00:00",
+    "html_sha256": "96a704a4cd8d883dd5620b369f2e70a8a283a6092e1aaf47ba3d9c54d6be514d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

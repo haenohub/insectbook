@@ -1,0 +1,99 @@
+{
+  "id": "ZOBH0028",
+  "name_ko": "진도멋쟁이딱정벌레",
+  "scientific_name": "Coptolabrus jankowskii chindoensis (Kwon & Park, 1989)",
+  "display_name": "진도멋쟁이딱정벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "딱정벌레아과",
+      "name_latin": "Carabinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Coptolabrus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 딱정벌레아과 (Carabinae)\n속 : (Coptolabrus)",
+  "basic_information": {
+    "곤충명": "진도멋쟁이딱정벌레",
+    "학명": "Coptolabrus jankowskii chindoensis (Kwon & Park, 1989)"
+  },
+  "information": {
+    "general_description": "몸길이는 수컷은 28~35mm이고, 암컷은 35~40mm이다. 두부와 앞가슴등판은 적동색광택이 있고, 딱지날개의 측연부에 보랏빛광택이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[한국고유종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 수컷은 28~35mm이고, 암컷은 35~40mm이다. 두부와 앞가슴등판은 적동색광택이 있고, 딱지날개의 측연부에 보랏빛광택이 있다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[한국고유종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0028-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0028_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0028_1_th.jpg",
+      "alt": "진도멋쟁이딱정벌레 1번째 사진 : 진도멋쟁이딱정벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0028_1_th2.jpg",
+      "caption": "진도멋쟁이딱정벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0028-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0203181120",
+      "description": "[KPNE0203181120] 진도멋쟁이딱정벌레 1984.07.18 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0203181121",
+      "description": "[KPNE0203181121] 진도멋쟁이딱정벌레 1984.07.18 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0203181122",
+      "description": "[KPNE0203181122] 진도멋쟁이딱정벌레 1984.07.18 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0028-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0028&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:36+00:00",
+    "html_sha256": "f171c7b98fd03635ad72585681348748ca554d5a190c944b9dcada7377ad0e1c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

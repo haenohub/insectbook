@@ -1,0 +1,126 @@
+{
+  "id": "ZOBL0252",
+  "name_ko": "곤봉수염하늘소",
+  "scientific_name": "Acanthocinus (Acanthocinus) griseus (Fabricius, 1793)",
+  "display_name": "곤봉수염하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "목하늘소아과",
+      "name_latin": "Lamiinae"
+    },
+    "genus": {
+      "name_ko": "곤봉수염하늘소속",
+      "name_latin": "Acanthocinus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 목하늘소아과 (Lamiinae)\n속 : 곤봉수염하늘소속 (Acanthocinus)",
+  "basic_information": {
+    "곤충명": "곤봉수염하늘소",
+    "학명": "Acanthocinus (Acanthocinus) griseus (Fabricius, 1793)"
+  },
+  "information": {
+    "general_description": "몸의 길이는 9~14mm 이며, 몸전체 색깔은 검은 회색을 띠며, 광택이난다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "7~8월에 출현한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의 길이는 9~14mm 이며, 몸전체 색깔은 검은 회색을 띠며, 광택이난다."
+    },
+    {
+      "title": "생태",
+      "text": "7~8월에 출현한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0252-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0252_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0252_2_th.jpg",
+      "alt": "곤봉수염하늘소 1번째 사진 : 곤봉수염하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0252_2_th2.jpg",
+      "caption": "곤봉수염하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBL0252-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0252_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0252_1_th.jpg",
+      "alt": "곤봉수염하늘소 2번째 사진 : 곤봉수염하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0252_1_th2.jpg",
+      "caption": "곤봉수염하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0252-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304142062",
+      "description": "[KNAE0304142062] 곤봉수염하늘소 1988.08.22 / / 국립수목원"
+    },
+    {
+      "id": "ADUE0303081010",
+      "description": "[ADUE0303081010] 곤봉수염하늘소 1996.06.20 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0303081011",
+      "description": "[ADUE0303081011] 곤봉수염하늘소 1996.06.20 / / 안동대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBL0252.png",
+    "reference_image_id": "ZOBL0252-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T12:47:15.549342+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "e8d411bd2331adc7e48e55844b0cc5a38a13545010c8bc22eab78767b948bd09"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0252&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:58+00:00",
+    "html_sha256": "ec123be94fa34fa298d072866d73fd08caca7640f667b5214a045c4589b4c323",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "ZREV0037",
+  "name_ko": "애벌꼬리박각시",
+  "scientific_name": "Aspledon himachala sangaica (Butler, 1875)",
+  "display_name": "애벌꼬리박각시",
+  "family_ko": "박각시과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "누에나방상과",
+      "name_latin": "Bombycoidea"
+    },
+    "family": {
+      "name_ko": "박각시과",
+      "name_latin": "Sphingidae"
+    },
+    "subfamily": {
+      "name_ko": "꼬리박각시아과",
+      "name_latin": "Macroglossinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Aspledon"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 누에나방상과 (Bombycoidea)\n과 : 박각시과 (Sphingidae)\n아과 : 꼬리박각시아과 (Macroglossinae)\n속 : (Aspledon)",
+  "basic_information": {
+    "곤충명": "애벌꼬리박각시",
+    "학명": "Aspledon himachala sangaica (Butler, 1875)"
+  },
+  "information": {
+    "general_description": "날개편 길이 34～37mm. 소형종으로 뒷날개 기부에서 외횡선까지 등황색을 띤다. 성충 상태로 월동하는 것으로 알려져 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "6월말부터 9월말까지 출현.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]\n[미얀마]\n[인도]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 34～37mm. 소형종으로 뒷날개 기부에서 외횡선까지 등황색을 띤다. 성충 상태로 월동하는 것으로 알려져 있다."
+    },
+    {
+      "title": "생태",
+      "text": "6월말부터 9월말까지 출현."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]\n[미얀마]\n[인도]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREV0037-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0037_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0037_1_th.jpg",
+      "alt": "애벌꼬리박각시 1번째 사진 : 애벌꼬리박각시전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREV0037_1_th2.jpg",
+      "caption": "애벌꼬리박각시전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREV0037-1",
+  "specimen_examples": [
+    {
+      "id": "GSNE0203202088",
+      "description": "[GSNE0203202088] 애벌꼬리박각시 1998.10.27 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0203202086",
+      "description": "[GSNE0203202086] 애벌꼬리박각시 1990.08.24 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0203202087",
+      "description": "[GSNE0203202087] 애벌꼬리박각시 2000.09.30 / / 경상대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREV0037-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREV0037&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:11+00:00",
+    "html_sha256": "ca81b56fbdbba96edb09dc5163d3e9d98b90c5ffc6e2c3aa52a77b93693acfe0",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

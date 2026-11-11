@@ -1,0 +1,107 @@
+{
+  "id": "ZRCI0500",
+  "name_ko": "담흑가지나방",
+  "scientific_name": "Polymixinia appositaria (Leech, 1891)",
+  "display_name": "담흑가지나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "가지나방아과",
+      "name_latin": "Ennominae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Polymixinia"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 가지나방아과 (Ennominae)\n속 : (Polymixinia)",
+  "basic_information": {
+    "곤충명": "담흑가지나방",
+    "학명": "Polymixinia appositaria (Leech, 1891)"
+  },
+  "information": {
+    "general_description": "날개편길이 27~33mm. 더듬이는 수컷이 깃털모양이고 암컷은 실모양임. 날개의 횡선은 내횡선과 외횡선은 가늘고 중횡선은 약간 굵음. 외횡선과 중횡선은 앞날개 후연에서 만남.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 5~7월과 9월에 나타나며 연 2회 발생함.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편길이 27~33mm. 더듬이는 수컷이 깃털모양이고 암컷은 실모양임. 날개의 횡선은 내횡선과 외횡선은 가늘고 중횡선은 약간 굵음. 외횡선과 중횡선은 앞날개 후연에서 만남."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 5~7월과 9월에 나타나며 연 2회 발생함."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0500-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0500_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0500_1_th.jpg",
+      "alt": "담흑가지나방 1번째 사진 : 담흑가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0500_1_th2.jpg",
+      "caption": "담흑가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0500-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0409101024",
+      "description": "[KNAE0409101024] 담흑가지나방 1996.06.28 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0409101023",
+      "description": "[KNAE0409101023] 담흑가지나방 1996.06.28 / / 국립수목원"
+    },
+    {
+      "id": "FRIE0305011035",
+      "description": "[FRIE0305011035] 담흑가지나방 1996.09.19 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCI0500-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0500&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:02+00:00",
+    "html_sha256": "17d910c906b8a335e801b3558faa301290a288f111f2c1c69e0a2133cd5dd313",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "id": "ZRDH0014",
+  "name_ko": "꼬마독나방",
+  "scientific_name": "Somena pulverea (Leech, 1889)",
+  "display_name": "꼬마독나방",
+  "family_ko": "태극나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "태극나방과",
+      "name_latin": "Erebidae"
+    },
+    "subfamily": {
+      "name_ko": "독나방아과",
+      "name_latin": "Lymantriinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Somena"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 태극나방과 (Erebidae)\n아과 : 독나방아과 (Lymantriinae)\n속 : (Somena)",
+  "basic_information": {
+    "곤충명": "꼬마독나방",
+    "학명": "Somena pulverea (Leech, 1889)"
+  },
+  "information": {
+    "general_description": "더듬이는 담황색인데, 수컷은 깃털 모양이고, 암컷은 빗살이 짧은 빗살 모양으로 되어 있음. 암컷이 수컷에 비해 크기가 크며, 날개 및 몸은 대체로 황색을 띰. 수컷의 앞날개 표면은 짙은 황색 바탕에 갈색 또는 흑갈색의 비늘 가루가 산포되어 있음. 암컷의 앞날개 표면은 짙은 황색 바탕에 옅은 황갈색의 비늘가루가 덮여 있으며, 뒷날개는 담황색을 띠고 있음. 날개의 뒷면은 모두 담황색이며, 배도 담황색을 띠고 있으나 배의 말단부는 농황색의 긴 털이 나 있음.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 5월과 7월~8월에 걸쳐 연 2회 발생이 되는데 춘형은 하형에 비해 크기가 약간 작음. 유충은 채진목, 복숭아나무, 매실나무, 장미류, 귤나무류, 소귀나무, 사스레피나무 등의 잎을 먹음.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 담황색인데, 수컷은 깃털 모양이고, 암컷은 빗살이 짧은 빗살 모양으로 되어 있음. 암컷이 수컷에 비해 크기가 크며, 날개 및 몸은 대체로 황색을 띰. 수컷의 앞날개 표면은 짙은 황색 바탕에 갈색 또는 흑갈색의 비늘 가루가 산포되어 있음. 암컷의 앞날개 표면은 짙은 황색 바탕에 옅은 황갈색의 비늘가루가 덮여 있으며, 뒷날개는 담황색을 띠고 있음. 날개의 뒷면은 모두 담황색이며, 배도 담황색을 띠고 있으나 배의 말단부는 농황색의 긴 털이 나 있음."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 5월과 7월~8월에 걸쳐 연 2회 발생이 되는데 춘형은 하형에 비해 크기가 약간 작음. 유충은 채진목, 복숭아나무, 매실나무, 장미류, 귤나무류, 소귀나무, 사스레피나무 등의 잎을 먹음."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDH0014-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDH0014_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDH0014_2_th.jpg",
+      "alt": "꼬마독나방 1번째 사진 : 꼬마독나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDH0014_2_th2.jpg",
+      "caption": "꼬마독나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDH0014-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDH0014_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDH0014_1_th.jpg",
+      "alt": "꼬마독나방 2번째 사진 : 꼬마독나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDH0014_1_th2.jpg",
+      "caption": "꼬마독나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDH0014-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303141033",
+      "description": "[KNAE0303141033] 꼬마독나방 1997.05.05 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303141034",
+      "description": "[KNAE0303141034] 꼬마독나방 1998.08.21 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303141036",
+      "description": "[KNAE0303141036] 꼬마독나방 1996.08.20 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDH0014.png",
+    "reference_image_id": "ZRDH0014-2",
+    "reference_selection_note": "첫 사진은 배가 소실되어 배가 온전한 두 번째 전체 사진을 선택함.",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T13:31:47.053625+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "49f5164685bb67da642d44957c8f39c321911ee3c771644313de0db2f4e99565"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDH0014&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:32+00:00",
+    "html_sha256": "e7779f60959aafe15f55a7bbf93f2b2acd0af0217444000b9a946584f9de374b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

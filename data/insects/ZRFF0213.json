@@ -1,0 +1,133 @@
+{
+  "id": "ZRFF0213",
+  "name_ko": "괴불애기잎말이나방",
+  "scientific_name": "Apotomis geminata (Walsingham, 1900)",
+  "display_name": "괴불애기잎말이나방",
+  "family_ko": "잎말이나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎말이나방상과",
+      "name_latin": "Tortricoidea"
+    },
+    "family": {
+      "name_ko": "잎말이나방과",
+      "name_latin": "Tortricidae"
+    },
+    "subfamily": {
+      "name_ko": "애기잎말이나방아과",
+      "name_latin": "Olethreutinae"
+    },
+    "genus": {
+      "name_ko": "무늬애기잎말이나방속",
+      "name_latin": "Apotomis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 잎말이나방상과 (Tortricoidea)\n과 : 잎말이나방과 (Tortricidae)\n아과 : 애기잎말이나방아과 (Olethreutinae)\n속 : 무늬애기잎말이나방속 (Apotomis)",
+  "basic_information": {
+    "곤충명": "괴불애기잎말이나방",
+    "학명": "Apotomis geminata (Walsingham, 1900)"
+  },
+  "information": {
+    "general_description": "경기도 수원시, 경기도 광주시, 강원특별자치도 영월군 치악산과 국외는 일본에 분포하며, 앞날개의 외연부 및 후연 부분의 백색 무늬는 명료하게 나타나 보인다. 내횡선은 불명료 하며, 앞날개의 2/3부분까지는 잔 물결 모양의 무늬가 균일하게 퍼져 있다. 뒷날개는 갈색으로 균일한 빛깔을 띤다. 개체에 따라 크기 및 색깔의 변이가 심하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "괴불나무류, 후피향나무를 기주식물로 하며,성충은 4~10월에 출현한다. 유충은 괴불나무류나 후피향나무의 잎을 철하고 가해하는 것으로 알려져 있다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "경기도 수원시, 경기도 광주시, 강원특별자치도 영월군 치악산과 국외는 일본에 분포하며, 앞날개의 외연부 및 후연 부분의 백색 무늬는 명료하게 나타나 보인다. 내횡선은 불명료 하며, 앞날개의 2/3부분까지는 잔 물결 모양의 무늬가 균일하게 퍼져 있다. 뒷날개는 갈색으로 균일한 빛깔을 띤다. 개체에 따라 크기 및 색깔의 변이가 심하다."
+    },
+    {
+      "title": "생태",
+      "text": "괴불나무류, 후피향나무를 기주식물로 하며,성충은 4~10월에 출현한다. 유충은 괴불나무류나 후피향나무의 잎을 철하고 가해하는 것으로 알려져 있다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRFF0213-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0213_7.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0213_7_th.jpg",
+      "alt": "괴불애기잎말이나방 1번째 사진 : 괴불애기잎말이나방가슴 확대 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0213_7_th2.jpg",
+      "caption": "괴불애기잎말이나방가슴 확대 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRFF0213-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0213_6.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0213_6_th.jpg",
+      "alt": "괴불애기잎말이나방 2번째 사진 : 괴불애기잎말이나방배 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0213_6_th2.jpg",
+      "caption": "괴불애기잎말이나방배 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRFF0213-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0213_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0213_1_th.jpg",
+      "alt": "괴불애기잎말이나방 3번째 사진 : 괴불애기잎말이나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0213_1_th2.jpg",
+      "caption": "괴불애기잎말이나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRFF0213-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0302241114",
+      "description": "[UIBE0302241114] 괴불애기잎말이나방 1999.07.15 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0302241116",
+      "description": "[UIBE0302241116] 괴불애기잎말이나방 1999.07.15 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0302241107",
+      "description": "[UIBE0302241107] 괴불애기잎말이나방 1997.05.10 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRFF0213.png",
+    "reference_image_id": "ZRFF0213-3",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T13:28:20.086128+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "a4f8425e82454a4fbe1a35c1bf92be961ed9ad5511be5359522fba0f0883d3f9"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRFF0213&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:15+00:00",
+    "html_sha256": "abb13f88675e1310312b80ce347bbb820f43551bc4feba81488bf26604d32072",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

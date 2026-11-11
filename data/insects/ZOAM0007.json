@@ -1,0 +1,118 @@
+{
+  "id": "ZOAM0007",
+  "name_ko": "버섯소바구미",
+  "scientific_name": "Euparius oculatus (Sharp, 1891)",
+  "display_name": "버섯소바구미",
+  "family_ko": "소바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "소바구미과",
+      "name_latin": "Anthribidae"
+    },
+    "subfamily": {
+      "name_ko": "소바구미아과",
+      "name_latin": "Anthribinae"
+    },
+    "genus": {
+      "name_ko": "버섯소바구미속",
+      "name_latin": "Euparius"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 소바구미과 (Anthribidae)\n아과 : 소바구미아과 (Anthribinae)\n속 : 버섯소바구미속 (Euparius)",
+  "basic_information": {
+    "곤충명": "버섯소바구미",
+    "학명": "Euparius oculatus (Sharp, 1891)"
+  },
+  "information": {
+    "general_description": "크기 5.5-8.4mm\n체색은 흑색이며, 밝은 갈색의 털무늬가 있다.\n몸 전체가 흑색인 개체도 있다.\n더듬이의 10번째마디는 비대칭형이고, 안쪽으로 약간 넓게 신장됨.\n길이보다 폭이 넓은 편이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "크기 5.5-8.4mm\n체색은 흑색이며, 밝은 갈색의 털무늬가 있다.\n몸 전체가 흑색인 개체도 있다.\n더듬이의 10번째마디는 비대칭형이고, 안쪽으로 약간 넓게 신장됨.\n길이보다 폭이 넓은 편이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAM0007-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0007_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0007_2_th.jpg",
+      "alt": "버섯소바구미 1번째 사진 : 버섯소바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0007_2_th2.jpg",
+      "caption": "버섯소바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOAM0007-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0007_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0007_1_th.jpg",
+      "alt": "버섯소바구미 2번째 사진 : 버섯소바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0007_1_th2.jpg",
+      "caption": "버섯소바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAM0007-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303271053",
+      "description": "[KNAE0303271053] 버섯소바구미 1992.08.30 / / 국립수목원"
+    },
+    {
+      "id": "SNUE0204024003",
+      "description": "[SNUE0204024003] 버섯소바구미 1998.07.28 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0204024004",
+      "description": "[SNUE0204024004] 버섯소바구미 1998.07.28 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAM0007-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAM0007&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:42+00:00",
+    "html_sha256": "7c3978c8bca72519621685a9a7283dc12e430c7a4aded621c40e79fa5367a0a9",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

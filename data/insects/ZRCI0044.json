@@ -1,0 +1,118 @@
+{
+  "id": "ZRCI0044",
+  "name_ko": "붉은선두리푸른자나방",
+  "scientific_name": "Hemithea aestivaria (Hübner, 1799)",
+  "display_name": "붉은선두리푸른자나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "푸른자나방아과",
+      "name_latin": "Geometrinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Hemithea"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 푸른자나방아과 (Geometrinae)\n속 : (Hemithea)",
+  "basic_information": {
+    "곤충명": "붉은선두리푸른자나방",
+    "학명": "Hemithea aestivaria (Hübner, 1799)"
+  },
+  "information": {
+    "general_description": "더듬이는 암수모두 미모상\n이마는 적갈색, 날개는 녹색\n배의 등면 제 2,3,4 배마디에 분홍색내지 붉은색의 장식모가 나있음\n뒷다리 종아리디에 수컷1쌍, 암컷2쌍의 며느리발톱 존재\n날개 뒷면은 회백색으로 무늬가 없다",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[유럽]\n[중국]\n[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 암수모두 미모상\n이마는 적갈색, 날개는 녹색\n배의 등면 제 2,3,4 배마디에 분홍색내지 붉은색의 장식모가 나있음\n뒷다리 종아리디에 수컷1쌍, 암컷2쌍의 며느리발톱 존재\n날개 뒷면은 회백색으로 무늬가 없다"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[유럽]\n[중국]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0044-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0044_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0044_2_th.jpg",
+      "alt": "붉은선두리푸른자나방 1번째 사진 : 붉은선두리푸른자나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0044_2_th2.jpg",
+      "caption": "붉은선두리푸른자나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0044-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0044_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0044_1_th.jpg",
+      "alt": "붉은선두리푸른자나방 2번째 사진 : 붉은선두리푸른자나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0044_1_th2.jpg",
+      "caption": "붉은선두리푸른자나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0044-1",
+  "specimen_examples": [
+    {
+      "id": "KNUE0212271355",
+      "description": "[KNUE0212271355] 붉은선두리푸른자나방 1989.06.18 / / 강원대학교"
+    },
+    {
+      "id": "KNUE0212271356",
+      "description": "[KNUE0212271356] 붉은선두리푸른자나방 1990.06.19 / / 강원대학교"
+    },
+    {
+      "id": "KNUE0212271357",
+      "description": "[KNUE0212271357] 붉은선두리푸른자나방 1993.06.15 / / 강원대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCI0044-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0044&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:51+00:00",
+    "html_sha256": "84eb4a347424b0dc196cdaa2b1c067d4bcb8b0391da1472b66dbeefc75aaec4a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

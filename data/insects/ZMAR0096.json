@@ -1,0 +1,148 @@
+{
+  "id": "ZMAR0096",
+  "name_ko": "알락맥각시매미충",
+  "scientific_name": "Drabescus nigrifemoratus (Matsumura, 1905)",
+  "display_name": "알락맥각시매미충",
+  "family_ko": "매미충과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "뿔매미상과",
+      "name_latin": "Membracoidea"
+    },
+    "family": {
+      "name_ko": "매미충과",
+      "name_latin": "Cicadellidae"
+    },
+    "subfamily": {
+      "name_ko": "매미충아과",
+      "name_latin": "Deltocephalinae"
+    },
+    "genus": {
+      "name_ko": "각시매미충속",
+      "name_latin": "Drabescus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 뿔매미상과 (Membracoidea)\n과 : 매미충과 (Cicadellidae)\n아과 : 매미충아과 (Deltocephalinae)\n속 : 각시매미충속 (Drabescus)",
+  "basic_information": {
+    "곤충명": "알락맥각시매미충",
+    "학명": "Drabescus nigrifemoratus (Matsumura, 1905)"
+  },
+  "information": {
+    "general_description": "몸길이:약8-9mm. 암컷이약간 수컷보다 크다. 몸은 광택이 있고 황백색 또는 흑갈색의 불규칙한 무늬를 가진다. 머리는 매우 좁고 넓으며, 길이는 겹눈 사이 폭의 1/5이고 둥글게 돌출되어있고 앞가슴등판보다 약간 넓다. 머리의 아랫며은 검고, 넓적하다. 이마의 앞가장자리느 좁은 가로홈이 있고 황갈색을 띤다. 앞날개에는 기부와 주앙부, 그리고 후반부에 투명한 띠무늬와 암갈색 무늬가 교대로 나타난다. 날개맥은 흑갈색과 회백색 점선 무늬를 교대로 가진다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "주로 산야에 서식한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[중국]\n[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이:약8-9mm. 암컷이약간 수컷보다 크다. 몸은 광택이 있고 황백색 또는 흑갈색의 불규칙한 무늬를 가진다. 머리는 매우 좁고 넓으며, 길이는 겹눈 사이 폭의 1/5이고 둥글게 돌출되어있고 앞가슴등판보다 약간 넓다. 머리의 아랫며은 검고, 넓적하다. 이마의 앞가장자리느 좁은 가로홈이 있고 황갈색을 띤다. 앞날개에는 기부와 주앙부, 그리고 후반부에 투명한 띠무늬와 암갈색 무늬가 교대로 나타난다. 날개맥은 흑갈색과 회백색 점선 무늬를 교대로 가진다."
+    },
+    {
+      "title": "생태",
+      "text": "주로 산야에 서식한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMAR0096-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0096_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0096_2_th.jpg",
+      "alt": "알락맥각시매미충 1번째 사진 : 알락맥각시매미충전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0096_2_th2.jpg",
+      "caption": "알락맥각시매미충전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZMAR0096-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0096_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0096_1_th.jpg",
+      "alt": "알락맥각시매미충 2번째 사진 : 알락맥각시매미충전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0096_1_th2.jpg",
+      "caption": "알락맥각시매미충전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMAR0096-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0305171125",
+      "description": "[KPNE0305171125] 알락맥각시매미충 1981.08.23 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0305171126",
+      "description": "[KPNE0305171126] 알락맥각시매미충 1997.08.13 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0305171128",
+      "description": "[KPNE0305171128] 알락맥각시매미충 1997.08.13 / / 경북대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "갈참나무",
+      "scientific_name": "Quercus aliena Blume"
+    },
+    {
+      "group": "식물",
+      "name_ko": "떡갈나무",
+      "scientific_name": "Quercus dentata Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "삼나무",
+      "scientific_name": "Cryptomeria japonica (Thunb. ex L.f.) D.Don"
+    },
+    {
+      "group": "식물",
+      "name_ko": "상수리나무",
+      "scientific_name": "Quercus acutissima Carruth."
+    },
+    {
+      "group": "식물",
+      "name_ko": "측백나무",
+      "scientific_name": "Platycladus orientalis (L.) Franco"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZMAR0096-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMAR0096&tabId=tab1",
+    "collected_at": "2026-11-04T14:14:29+00:00",
+    "html_sha256": "2cc1207af40ef070bd38653fef265202c2dc224fa0d79313cb65382f41f9f3c6",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

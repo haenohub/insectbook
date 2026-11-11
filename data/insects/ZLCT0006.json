@@ -1,0 +1,118 @@
+{
+  "id": "ZLCT0006",
+  "name_ko": "뒷창참나무노린재",
+  "scientific_name": "Urostylis lateralis Walker, 1867",
+  "display_name": "뒷창참나무노린재",
+  "family_ko": "참나무노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "노린재상과",
+      "name_latin": "Pentatomoidea"
+    },
+    "family": {
+      "name_ko": "참나무노린재과",
+      "name_latin": "Urostylididae"
+    },
+    "subfamily": {
+      "name_ko": "참나무노린재아과",
+      "name_latin": "Urostylidinae"
+    },
+    "genus": {
+      "name_ko": "참나무노린재속",
+      "name_latin": "Urostylis"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 노린재상과 (Pentatomoidea)\n과 : 참나무노린재과 (Urostylididae)\n아과 : 참나무노린재아과 (Urostylidinae)\n속 : 참나무노린재속 (Urostylis)",
+  "basic_information": {
+    "곤충명": "뒷창참나무노린재",
+    "학명": "Urostylis lateralis Walker, 1867"
+  },
+  "information": {
+    "general_description": "몸길이 : 12-14.5mm\n몸은 황갈색을 띤다. 막질부는 투명하고 배의 생식절을 투시할 수 있다. 머리는 황갈색이 강하고 더듬이는 5마디, 제 1마디는 약간 만곡했고, 제 2마디는 가장 길다. 더듬이돌기는 바깥쪽에 2개의 아주 작은 흑색 점을 가진다. 겹눈은 흑갈색, 홑눈은 감적색, 주둥이의 말단은 흑색이다. 앞가슴등판의 양쪽 중앙은 약간 만입하고 이 만입을 잇는 직선으로 앞, 뒤의 두 부분으로 나뉘었으며, 앞쪽은 불규칙한 융기가 있다. 앞가슴등판의 양옆가장자리는 황갈색이고, 아랫가장자리 전반에는 흑색 줄무늬가 있다. 작은방패판은 삼각형이고 말단은 예각이다. 반시초의 전연부는 황갈색이고, 미소한 흑색 점이 드물게 분포해 있다.",
+    "adult": null,
+    "adult_male": "생식절 아래쪽의 중앙돌기는 창모양으로 길게 돌출하여 구부러져서 위로 향하게 되었다.",
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 12-14.5mm\n몸은 황갈색을 띤다. 막질부는 투명하고 배의 생식절을 투시할 수 있다. 머리는 황갈색이 강하고 더듬이는 5마디, 제 1마디는 약간 만곡했고, 제 2마디는 가장 길다. 더듬이돌기는 바깥쪽에 2개의 아주 작은 흑색 점을 가진다. 겹눈은 흑갈색, 홑눈은 감적색, 주둥이의 말단은 흑색이다. 앞가슴등판의 양쪽 중앙은 약간 만입하고 이 만입을 잇는 직선으로 앞, 뒤의 두 부분으로 나뉘었으며, 앞쪽은 불규칙한 융기가 있다. 앞가슴등판의 양옆가장자리는 황갈색이고, 아랫가장자리 전반에는 흑색 줄무늬가 있다. 작은방패판은 삼각형이고 말단은 예각이다. 반시초의 전연부는 황갈색이고, 미소한 흑색 점이 드물게 분포해 있다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "생식절 아래쪽의 중앙돌기는 창모양으로 길게 돌출하여 구부러져서 위로 향하게 되었다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLCT0006-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCT0006_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCT0006_2_th.jpg",
+      "alt": "뒷창참나무노린재 1번째 사진 : 뒷창참나무노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCT0006_2_th2.jpg",
+      "caption": "뒷창참나무노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZLCT0006-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCT0006_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCT0006_1_th.jpg",
+      "alt": "뒷창참나무노린재 2번째 사진 : 뒷창참나무노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCT0006_1_th2.jpg",
+      "caption": "뒷창참나무노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLCT0006-1",
+  "specimen_examples": [
+    {
+      "id": "GSNE0408242130",
+      "description": "[GSNE0408242130] 뒷창참나무노린재 1997.08.02 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0408242131",
+      "description": "[GSNE0408242131] 뒷창참나무노린재 1997.08.07 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0408242093",
+      "description": "[GSNE0408242093] 뒷창참나무노린재 1996.08.05 / / 경상대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLCT0006-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLCT0006&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:06+00:00",
+    "html_sha256": "e8ce25c78327baaaa3f871bf1669ff2f754f2b25b29ab38b2b76c3e9a011d3b1",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

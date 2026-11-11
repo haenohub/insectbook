@@ -1,0 +1,107 @@
+{
+  "id": "ZREL0041",
+  "name_ko": "금무늬새들명나방",
+  "scientific_name": "Evergestis junctalis (Warren, 1892)",
+  "display_name": "금무늬새들명나방",
+  "family_ko": "풀명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "풀명나방과",
+      "name_latin": "Crambidae"
+    },
+    "subfamily": {
+      "name_ko": "순들명나방아과",
+      "name_latin": "Glaphyriinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Evergestis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 풀명나방과 (Crambidae)\n아과 : 순들명나방아과 (Glaphyriinae)\n속 : (Evergestis)",
+  "basic_information": {
+    "곤충명": "금무늬새들명나방",
+    "학명": "Evergestis junctalis (Warren, 1892)"
+  },
+  "information": {
+    "general_description": "머리 부분은 황갈색이고, 양쪽에 백황색의 줄이 있으며, 머리끝은 약간 둥글고 비스듬하며, 갈색 및 황색의 긴 털이 많이 나 있다. 더듬이는 미모(微毛) 모양이다. 작은턱수염은 황갈색이고, 아랫입술수염은 갈색 인편으로 덮여 있으며, 제3마디는 조금 아래쪽으로 뻗어 있다. 가슴과 배의 등쪽면은 농갈색이며, 다리는 황색이다. 앞날개는 흑색 바탕에 날개의 중앙과 날개 끝쪽에 황백색의 큰 타원형 무늬가 2개 있고, 뒷날개에는 1개의 더 큰 무늬가 있다. 날개 길이 15-19 mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대한민국] 강원특별자치도\n[대한민국] 강원특별자치도\n[러시아]\n[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "머리 부분은 황갈색이고, 양쪽에 백황색의 줄이 있으며, 머리끝은 약간 둥글고 비스듬하며, 갈색 및 황색의 긴 털이 많이 나 있다. 더듬이는 미모(微毛) 모양이다. 작은턱수염은 황갈색이고, 아랫입술수염은 갈색 인편으로 덮여 있으며, 제3마디는 조금 아래쪽으로 뻗어 있다. 가슴과 배의 등쪽면은 농갈색이며, 다리는 황색이다. 앞날개는 흑색 바탕에 날개의 중앙과 날개 끝쪽에 황백색의 큰 타원형 무늬가 2개 있고, 뒷날개에는 1개의 더 큰 무늬가 있다. 날개 길이 15-19 mm."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대한민국] 강원특별자치도\n[대한민국] 강원특별자치도\n[러시아]\n[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0041-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0041_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0041_1_th.jpg",
+      "alt": "금무늬새들명나방 1번째 사진 : 금무늬들명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0041_1_th2.jpg",
+      "caption": "금무늬들명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0041-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0301071073",
+      "description": "[UIBE0301071073] 금무늬새들명나방 1996.06.27 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301071074",
+      "description": "[UIBE0301071074] 금무늬새들명나방 1998.08.19 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301071075",
+      "description": "[UIBE0301071075] 금무늬새들명나방 2000.07.19 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZREL0041.png",
+    "reference_image_id": "ZREL0041-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T14:56:57.133306+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "843aeda20c0be4028b134558f3458c00b225a7dbffb63072b118bbf3b2de214e"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0041&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:45+00:00",
+    "html_sha256": "eb150139a02e21f1898dbd44238d51aa76d2c2b856d12b085e610daa62d2c44b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

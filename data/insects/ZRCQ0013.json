@@ -1,0 +1,147 @@
+{
+  "id": "ZRCQ0013",
+  "name_ko": "돈무늬팔랑나비",
+  "scientific_name": "Heteropterus morpheus (Pallas, 1771)",
+  "display_name": "돈무늬팔랑나비",
+  "family_ko": "팔랑나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "팔랑나비과",
+      "name_latin": "Hesperiidae"
+    },
+    "subfamily": {
+      "name_ko": "돈무늬팔랑나비아과",
+      "name_latin": "Heteropterinae"
+    },
+    "genus": {
+      "name_ko": "돈무늬팔랑나비속",
+      "name_latin": "Heteropterus"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 팔랑나비과 (Hesperiidae)\n아과 : 돈무늬팔랑나비아과 (Heteropterinae)\n속 : 돈무늬팔랑나비속 (Heteropterus)",
+  "basic_information": {
+    "곤충명": "돈무늬팔랑나비",
+    "학명": "Heteropterus morpheus (Pallas, 1771)"
+  },
+  "information": {
+    "general_description": "암컷은 수컷보다 약간 크고 날개색이 연하다. 무늬에는 암수의 차이가 거의 얿으므로 배끝을 조사할 필요가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "암컷은 천천히 날다가 기주식물의 잎 뒷면에 한 개씩 산란한다.",
+    "habits": "산지에 접해 있는 초지, 밭, 습지 주변에 서식하며 간혹 산림 안의 벌채된 장소에도 서식한다. 날때에는 톡톡 튀듯이 날다가 날개를 접고 풀잎 위에 앉는데 햇빛이 강하면 날개를 펴고 일광욕을 한다. 개망초, 조뱅이의 꽃에서 흡밀한다.",
+    "season": null,
+    "overwintering": "애벌레",
+    "distribution": "[중국]\n[러시아]\n[유럽]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷은 수컷보다 약간 크고 날개색이 연하다. 무늬에는 암수의 차이가 거의 얿으므로 배끝을 조사할 필요가 있다."
+    },
+    {
+      "title": "생태",
+      "text": "암컷은 천천히 날다가 기주식물의 잎 뒷면에 한 개씩 산란한다."
+    },
+    {
+      "title": "습성",
+      "text": "산지에 접해 있는 초지, 밭, 습지 주변에 서식하며 간혹 산림 안의 벌채된 장소에도 서식한다. 날때에는 톡톡 튀듯이 날다가 날개를 접고 풀잎 위에 앉는데 햇빛이 강하면 날개를 펴고 일광욕을 한다. 개망초, 조뱅이의 꽃에서 흡밀한다."
+    },
+    {
+      "title": "월동",
+      "text": "애벌레"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[러시아]\n[유럽]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCQ0013-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRCQ0013_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRCQ0013_3.jpg",
+      "alt": "돈무늬팔랑나비 1번째 사진 : 돈무늬팔랑나비 암컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRCQ0013_3_th2.jpg",
+      "caption": "돈무늬팔랑나비 암컷 이미지",
+      "photographed_at": "20100810",
+      "location": null,
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRCQ0013-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0013_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0013_2_th.jpg",
+      "alt": "돈무늬팔랑나비 2번째 사진 : 돈무늬팔랑나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0013_2_th2.jpg",
+      "caption": "돈무늬팔랑나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCQ0013-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0013_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0013_1_th.jpg",
+      "alt": "돈무늬팔랑나비 3번째 사진 : 돈무늬팔랑나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0013_1_th2.jpg",
+      "caption": "돈무늬팔랑나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCQ0013-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0304212065",
+      "description": "[SNUE0304212065] 돈무늬팔랑나비 1992.06.20 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0304212066",
+      "description": "[SNUE0304212066] 돈무늬팔랑나비 1994.06.26 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0304212056",
+      "description": "[SNUE0304212056] 돈무늬팔랑나비 1968.07.20 / / 서울대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "기름새",
+      "scientific_name": "Spodiopogon cotulifer (Thunb.) Hack."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCQ0013-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCQ0013&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:27+00:00",
+    "html_sha256": "2d91b7a52c6b3eb41a9494cb2606a1bc5a8e660ab13bc8b18efb8658dc308ff1",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

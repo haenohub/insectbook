@@ -1,0 +1,118 @@
+{
+  "id": "ZTAG0052",
+  "name_ko": "구주홍배꼬마꽃벌",
+  "scientific_name": "Sphecodes scabricollis Wesmael, 1885",
+  "display_name": "구주홍배꼬마꽃벌",
+  "family_ko": "꼬마꽃벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "꼬마꽃벌과",
+      "name_latin": "Halictidae"
+    },
+    "subfamily": {
+      "name_ko": "꼬마꽃벌아과",
+      "name_latin": "Halictinae"
+    },
+    "genus": {
+      "name_ko": "홍배꼬마꽃벌속",
+      "name_latin": "Sphecodes"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 꼬마꽃벌과 (Halictidae)\n아과 : 꼬마꽃벌아과 (Halictinae)\n속 : 홍배꼬마꽃벌속 (Sphecodes)",
+  "basic_information": {
+    "곤충명": "구주홍배꼬마꽃벌",
+    "학명": "Sphecodes scabricollis Wesmael, 1885"
+  },
+  "information": {
+    "general_description": "몸길이는 13mm정도이고, 머리에는 성긴 점각이 있고 얼굴과 머리 방패에는 흰색 털이 났고 그 위의 이마에는 회색 털이 났다. 몸은 흑색이고 더듬이는 암갈색이며 제1배마디 끝과 제2마디와 제1-3마디의 배판은 적갈색이고 각 배마디의 원할부는 암갈색이다. 다리도 암갈색이고 앞다리의 종아리마디 앞면과 그 이하 그리고 가운데 다리와 뒷다리의 각 발목마디 끝은 황갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 13mm정도이고, 머리에는 성긴 점각이 있고 얼굴과 머리 방패에는 흰색 털이 났고 그 위의 이마에는 회색 털이 났다. 몸은 흑색이고 더듬이는 암갈색이며 제1배마디 끝과 제2마디와 제1-3마디의 배판은 적갈색이고 각 배마디의 원할부는 암갈색이다. 다리도 암갈색이고 앞다리의 종아리마디 앞면과 그 이하 그리고 가운데 다리와 뒷다리의 각 발목마디 끝은 황갈색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0052-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0052_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0052_2_th.jpg",
+      "alt": "구주홍배꼬마꽃벌 1번째 사진 : 구주꼬마꽃벌머리 정면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0052_2_th2.jpg",
+      "caption": "구주꼬마꽃벌머리 정면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTAG0052-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0052_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0052_1_th.jpg",
+      "alt": "구주홍배꼬마꽃벌 2번째 사진 : 구주꼬마꽃벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0052_1_th2.jpg",
+      "caption": "구주꼬마꽃벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0052-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306262049",
+      "description": "[YNUE0306262049] 구주홍배꼬마꽃벌 1991.05.20 / / 영남대학교"
+    },
+    {
+      "id": "KUIE0112111005",
+      "description": "[KUIE0112111005] 구주홍배꼬마꽃벌 1974.07.27 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0112111006",
+      "description": "[KUIE0112111006] 구주홍배꼬마꽃벌 1974.07.25 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTAG0052.png",
+    "reference_image_id": "ZTAG0052-2",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T13:52:15.006605+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "4044cc0430b6b94eaf90e37c158bbc079b14a52a445080638ca260575e55a571"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0052&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:22+00:00",
+    "html_sha256": "931809fee73f3510a49d4527339307a993458f22c5d1eec720bf012bcaa46d27",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

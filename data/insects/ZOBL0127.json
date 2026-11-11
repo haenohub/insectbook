@@ -1,0 +1,164 @@
+{
+  "id": "ZOBL0127",
+  "name_ko": "향나무하늘소",
+  "scientific_name": "Semanotus bifasciatus (Motschulsky, 1875)",
+  "display_name": "향나무하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "하늘소아과",
+      "name_latin": "Cerambycinae"
+    },
+    "genus": {
+      "name_ko": "향나무하늘소속",
+      "name_latin": "Semanotus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 하늘소아과 (Cerambycinae)\n속 : 향나무하늘소속 (Semanotus)",
+  "basic_information": {
+    "곤충명": "향나무하늘소",
+    "학명": "Semanotus bifasciatus (Motschulsky, 1875)"
+  },
+  "information": {
+    "general_description": "성충의 몸길이는 약 15 mm이며, 몸은 검고 머리와 가슴에 긴 털이 나 있다. 날개는 담황색이며 중앙과 끝에 흑색의 넓은 띠가 있고 기부에는 황갈색의 띠가 있으며 앞가슴 등쪽에 3개의 돌기가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": "유충의 몸길이는 46 mm이며, 머리는 갈색이고 몸통은 유백색(乳白色)이다.",
+    "egg": "알은 타원형으로, 장경(長經)이 약 2 mm이고 황갈색이다.",
+    "pupa": null,
+    "ecology": "월동한 성충은 3~4월에 탈출하여 수피를 물어뜯고 그 속에 산란한다. 유충은 형성층을 불규칙하고 편평하게 먹어 들어가면서 갱도에 똥을 채워 놓는다. 9월에 노숙 유충이 되면 목질부 속으로 뚫고 들어가 용실을 만들고 번데기가 된다.",
+    "habits": "유충이 수피 밑의 형성층을 갉아 먹어 나무를 급속히 고사시킨다. 쇠약한 나무에 피해를 주지만 대발생하면 건전한 나무에도 피해를 주며, 벌레똥을 밖으로 배출하지 않아 피해를 발견하기가 어렵다.",
+    "season": null,
+    "overwintering": "성충으로 피해목에서 월동한다.",
+    "distribution": null,
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": "-우선적으로 약제살포보다는 수세회복과 산란방지에 노력을 함.\n-대형 향나무의 경우 수세가 쇠약해지면 약제살포로 산란방지 및 부화유충의 수피천공방지\n- 산란시기와 부화유충 침입시기인 3월 중순부터 4월 중순사이에 스미치온 200~300배액, 다이아톤 200~300배액을 혼합하여 수간과 가지에 충분히 묻도록분무기로 살포 (7~10일 간격 3~5회 살포)\n-가해부위를 찾아내어 수피를 벗긴 후 그속에 있는 유충은 포살, 도포제로 상처의 피해확산방지\n-피해는 보이나 유충포살이 어려울 경우 수간과 가지를 비닐로 싸고 다이아톤 100배액을 주입\n-스미치온 200~300배액을 수간과 가지에 살포",
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충의 몸길이는 약 15 mm이며, 몸은 검고 머리와 가슴에 긴 털이 나 있다. 날개는 담황색이며 중앙과 끝에 흑색의 넓은 띠가 있고 기부에는 황갈색의 띠가 있으며 앞가슴 등쪽에 3개의 돌기가 있다."
+    },
+    {
+      "title": "유충",
+      "text": "유충의 몸길이는 46 mm이며, 머리는 갈색이고 몸통은 유백색(乳白色)이다."
+    },
+    {
+      "title": "생태",
+      "text": "월동한 성충은 3~4월에 탈출하여 수피를 물어뜯고 그 속에 산란한다. 유충은 형성층을 불규칙하고 편평하게 먹어 들어가면서 갱도에 똥을 채워 놓는다. 9월에 노숙 유충이 되면 목질부 속으로 뚫고 들어가 용실을 만들고 번데기가 된다."
+    },
+    {
+      "title": "습성",
+      "text": "유충이 수피 밑의 형성층을 갉아 먹어 나무를 급속히 고사시킨다. 쇠약한 나무에 피해를 주지만 대발생하면 건전한 나무에도 피해를 주며, 벌레똥을 밖으로 배출하지 않아 피해를 발견하기가 어렵다."
+    },
+    {
+      "title": "월동",
+      "text": "성충으로 피해목에서 월동한다."
+    },
+    {
+      "title": "방제법",
+      "text": "-우선적으로 약제살포보다는 수세회복과 산란방지에 노력을 함.\n-대형 향나무의 경우 수세가 쇠약해지면 약제살포로 산란방지 및 부화유충의 수피천공방지\n- 산란시기와 부화유충 침입시기인 3월 중순부터 4월 중순사이에 스미치온 200~300배액, 다이아톤 200~300배액을 혼합하여 수간과 가지에 충분히 묻도록분무기로 살포 (7~10일 간격 3~5회 살포)\n-가해부위를 찾아내어 수피를 벗긴 후 그속에 있는 유충은 포살, 도포제로 상처의 피해확산방지\n-피해는 보이나 유충포살이 어려울 경우 수간과 가지를 비닐로 싸고 다이아톤 100배액을 주입\n-스미치온 200~300배액을 수간과 가지에 살포"
+    },
+    {
+      "title": "알",
+      "text": "알은 타원형으로, 장경(長經)이 약 2 mm이고 황갈색이다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0127-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0127_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0127_2_th.jpg",
+      "alt": "향나무하늘소 1번째 사진 : 향나무하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0127_2_th2.jpg",
+      "caption": "향나무하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBL0127-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0127_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0127_1_th.jpg",
+      "alt": "향나무하늘소 2번째 사진 : 향나무하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0127_1_th2.jpg",
+      "caption": "향나무하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0127-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304161009",
+      "description": "[KNAE0304161009] 향나무하늘소 1995.04.19 / / 국립수목원"
+    },
+    {
+      "id": "FRIE0305131021",
+      "description": "[FRIE0305131021] 향나무하늘소 1982.11.11 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0305131022",
+      "description": "[FRIE0305131022] 향나무하늘소 1983.04.09 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "나한백",
+      "scientific_name": "Thujopsis dolabrata (L.f.) Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "삼나무",
+      "scientific_name": "Cryptomeria japonica (Thunb. ex L.f.) D.Don"
+    },
+    {
+      "group": "식물",
+      "name_ko": "측백나무",
+      "scientific_name": "Platycladus orientalis (L.) Franco"
+    },
+    {
+      "group": "식물",
+      "name_ko": "편백",
+      "scientific_name": "Chamaecyparis obtusa (Siebold & Zucc.) Endl."
+    },
+    {
+      "group": "식물",
+      "name_ko": "향나무",
+      "scientific_name": "Juniperus chinensis L."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0127-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0127&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:10+00:00",
+    "html_sha256": "f43a85374ac86fc9880b6aecf364c8b3f88373327d4cf77f32c551066ac9a6e0",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

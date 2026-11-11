@@ -1,0 +1,114 @@
+{
+  "id": "ZOBH0109",
+  "name_ko": "큰조롱박먼지벌레",
+  "scientific_name": "Scarites (Scarites) sulcatus sulcatus Olivier, 1795",
+  "display_name": "큰조롱박먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "조롱박먼지벌레아과",
+      "name_latin": "Scaritinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Scarites"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 조롱박먼지벌레아과 (Scaritinae)\n속 : (Scarites)",
+  "basic_information": {
+    "곤충명": "큰조롱박먼지벌레",
+    "학명": "Scarites (Scarites) sulcatus sulcatus Olivier, 1795"
+  },
+  "information": {
+    "general_description": "몸길이는 28~38mm 이며 몸 색깔은 흑색의 광택이 난다. 우리나라에 살고 있는 조롱박먼지벌레속에서는 가장 크다. 머리 꼭대기에 한쌍의 강한 털이 있고 앞다리 옆면에 2개의 날카로운 가시처럼 생긴 돌기가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 7~8월에 활동하며 해안 모래나 주간에 모래 속에 깊게 구멍을 파고 숨어 지낸다. 밤에 주로 활동하며 먹이를 잡아먹는다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 28~38mm 이며 몸 색깔은 흑색의 광택이 난다. 우리나라에 살고 있는 조롱박먼지벌레속에서는 가장 크다. 머리 꼭대기에 한쌍의 강한 털이 있고 앞다리 옆면에 2개의 날카로운 가시처럼 생긴 돌기가 있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 7~8월에 활동하며 해안 모래나 주간에 모래 속에 깊게 구멍을 파고 숨어 지낸다. 밤에 주로 활동하며 먹이를 잡아먹는다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0109-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0109_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0109_2_th.jpg",
+      "alt": "큰조롱박먼지벌레 1번째 사진 : 큰조롱박먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0109_2_th2.jpg",
+      "caption": "큰조롱박먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0109-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0109_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0109_1_th.jpg",
+      "alt": "큰조롱박먼지벌레 2번째 사진 : 큰조롱박먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0109_1_th2.jpg",
+      "caption": "큰조롱박먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0109-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0408161001",
+      "description": "[UIBE0408161001] 큰조롱박먼지벌레 1988.07.25 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0408161002",
+      "description": "[UIBE0408161002] 큰조롱박먼지벌레 1988.08.03 / / 인천대학교"
+    },
+    {
+      "id": "JFNE0303141037",
+      "description": "[JFNE0303141037] 큰조롱박먼지벌레 2000.08.02 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0109-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0109&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:59+00:00",
+    "html_sha256": "d2ac9ed9255dadf573b919fc2c6c90f0ecefed1a2ccf9ce1290165f2691420c3",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

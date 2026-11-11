@@ -1,0 +1,111 @@
+{
+  "id": "ZREL0222",
+  "name_ko": "갈색띠비단명나방",
+  "scientific_name": "Hypsopygia nannodes (Butler, 1879)",
+  "display_name": "갈색띠비단명나방",
+  "family_ko": "명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "명나방과",
+      "name_latin": "Pyralidae"
+    },
+    "subfamily": {
+      "name_ko": "비단명나방아과",
+      "name_latin": "Pyralinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Hypsopygia"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 명나방과 (Pyralidae)\n아과 : 비단명나방아과 (Pyralinae)\n속 : (Hypsopygia)",
+  "basic_information": {
+    "곤충명": "갈색띠비단명나방",
+    "학명": "Hypsopygia nannodes (Butler, 1879)"
+  },
+  "information": {
+    "general_description": "일본에 분포하며 머리는 황갈색에 약간의 적색기가 감돈다. 아랫입술수염은 제 2마디가 크고 길며 약간위쪽으로 향하나 제3마디는 짧고 아래로 쳐져 있다. 제 2마디의 바깥쪽은 농흑갈색의 인편이 섞여 있다. 앞 뒷날개의 바탕색은 단황갈색으로 서로 같고 앞날개의 중실중간 상단에는 흑갈색의 뚜렷한 반점이 있다.또 외횡선은 곧고 안쪽면이 농갈색을 나타내므로 다른 2종과 구별된다. 앞 뒷날개의 연모는 적색을 띤다.",
+    "adult": null,
+    "adult_male": "구상돌기는 혓바닥 모양으로 끝이 둥글고 파악판은 아주 짧고 끝의 나비가 넓다. 포낭의 끝은 볼록한 돌출부를 이루고 있다.",
+    "adult_female": "교미주머니는 둥글고 시그눔은 큰 화살촉 모양이다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "일본에 분포하며 머리는 황갈색에 약간의 적색기가 감돈다. 아랫입술수염은 제 2마디가 크고 길며 약간위쪽으로 향하나 제3마디는 짧고 아래로 쳐져 있다. 제 2마디의 바깥쪽은 농흑갈색의 인편이 섞여 있다. 앞 뒷날개의 바탕색은 단황갈색으로 서로 같고 앞날개의 중실중간 상단에는 흑갈색의 뚜렷한 반점이 있다.또 외횡선은 곧고 안쪽면이 농갈색을 나타내므로 다른 2종과 구별된다. 앞 뒷날개의 연모는 적색을 띤다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "구상돌기는 혓바닥 모양으로 끝이 둥글고 파악판은 아주 짧고 끝의 나비가 넓다. 포낭의 끝은 볼록한 돌출부를 이루고 있다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "교미주머니는 둥글고 시그눔은 큰 화살촉 모양이다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0222-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0222_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0222_1_th.jpg",
+      "alt": "갈색띠비단명나방 1번째 사진 : 갈색띠비단명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0222_1_th2.jpg",
+      "caption": "갈색띠비단명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0222-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0302181044",
+      "description": "[FRIE0302181044] 갈색띠비단명나방 1998.06.10 / / 국립산림과학원"
+    },
+    {
+      "id": "UIBE0203211079",
+      "description": "[UIBE0203211079] 갈색띠비단명나방 2000.08.19 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0203211080",
+      "description": "[UIBE0203211080] 갈색띠비단명나방 2000.08.19 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZREL0222.png",
+    "reference_image_id": "ZREL0222-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T16:37:03.490973+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "566b43884ea093a99348a0267f94f7462008123909749cb62c3b2328e36f6e66"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0222&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:31+00:00",
+    "html_sha256": "28f886b6731a692e8308c1541ada42fe951e08b23480885081a1574aefb8de1c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

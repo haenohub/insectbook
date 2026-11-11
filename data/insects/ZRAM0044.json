@@ -1,0 +1,122 @@
+{
+  "id": "ZRAM0044",
+  "name_ko": "굴뚝불나방",
+  "scientific_name": "Epatolmis caesarea (Goeze, 1781)",
+  "display_name": "굴뚝불나방",
+  "family_ko": "태극나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "태극나방과",
+      "name_latin": "Erebidae"
+    },
+    "subfamily": {
+      "name_ko": "불나방아과",
+      "name_latin": "Arctiinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Epatolmis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 태극나방과 (Erebidae)\n아과 : 불나방아과 (Arctiinae)\n속 : (Epatolmis)",
+  "basic_information": {
+    "곤충명": "굴뚝불나방",
+    "학명": "Epatolmis caesarea (Goeze, 1781)"
+  },
+  "information": {
+    "general_description": "수컷의 더듬이는 양측 빗살 모양이고 흑색을 띰. 머리와 가슴은 암흑갈색인데 긴 털이 골고루 밀생해 있음. 아랫입술수염도 흑색에 긴 털이 나 있으며, 각 다리는 흑색을 띰. 배의 등쪽면은 등황색을 띠고 있는데 중앙에는 흑색점의 열이 세로로 있으며 배쪽면은 흑색을 띠고 있음. 앞날개는 전체가 흑갈색을 띠고 있는데 무늬는 없으며, 뒷날개도 마찬가지로 흑갈색 바탕에 후연각 안쪽으로 등황색의 무늬를 띠고 있음.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 4~5월 경에 출현. 농림 해충임.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "수컷의 더듬이는 양측 빗살 모양이고 흑색을 띰. 머리와 가슴은 암흑갈색인데 긴 털이 골고루 밀생해 있음. 아랫입술수염도 흑색에 긴 털이 나 있으며, 각 다리는 흑색을 띰. 배의 등쪽면은 등황색을 띠고 있는데 중앙에는 흑색점의 열이 세로로 있으며 배쪽면은 흑색을 띠고 있음. 앞날개는 전체가 흑갈색을 띠고 있는데 무늬는 없으며, 뒷날개도 마찬가지로 흑갈색 바탕에 후연각 안쪽으로 등황색의 무늬를 띠고 있음."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 4~5월 경에 출현. 농림 해충임."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRAM0044-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0044_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0044_2_th.jpg",
+      "alt": "굴뚝불나방 1번째 사진 : 굴뚝불나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0044_2_th2.jpg",
+      "caption": "굴뚝불나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRAM0044-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0044_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0044_1_th.jpg",
+      "alt": "굴뚝불나방 2번째 사진 : 굴뚝불나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0044_1_th2.jpg",
+      "caption": "굴뚝불나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRAM0044-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0303131047",
+      "description": "[FRIE0303131047] 굴뚝불나방 1996.05.02 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0301171041",
+      "description": "[KNAE0301171041] 굴뚝불나방 1994.05.07 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0301171042",
+      "description": "[KNAE0301171042] 굴뚝불나방 1994.05.07 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRAM0044.png",
+    "reference_image_id": "ZRAM0044-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T13:58:36.870788+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "e9baf8cebe56e441a5307b189b2b970f450e4b1dc34e3111d5c55708f6183ed3"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRAM0044&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:25+00:00",
+    "html_sha256": "7c094947b299e851b6403f9ee528d0e7a9814ac3a2b221cab79b1788a6ff7d0c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

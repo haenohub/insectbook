@@ -1,0 +1,110 @@
+{
+  "id": "ZOBH0119",
+  "name_ko": "딱정벌레붙이",
+  "scientific_name": "Craspedonotus tibialis Shauman, 1863",
+  "display_name": "딱정벌레붙이",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "딱정벌레붙이아과",
+      "name_latin": "Broscinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Craspedonotus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 딱정벌레붙이아과 (Broscinae)\n속 : (Craspedonotus)",
+  "basic_information": {
+    "곤충명": "딱정벌레붙이",
+    "학명": "Craspedonotus tibialis Shauman, 1863"
+  },
+  "information": {
+    "general_description": "몸길이는 20~24mm 이며 몸색깔은 흑색이고 몸에 광택이 없다. 특이한 앞가슴의 형태로 쉽게 구별된다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 20~24mm 이며 몸색깔은 흑색이고 몸에 광택이 없다. 특이한 앞가슴의 형태로 쉽게 구별된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0119-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0119_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0119_2_th.jpg",
+      "alt": "딱정벌레붙이 1번째 사진 : 딱정벌레붙이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0119_2_th2.jpg",
+      "caption": "딱정벌레붙이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0119-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0119_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0119_1_th.jpg",
+      "alt": "딱정벌레붙이 2번째 사진 : 딱정벌레붙이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0119_1_th2.jpg",
+      "caption": "딱정벌레붙이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0119-1",
+  "specimen_examples": [
+    {
+      "id": "JFNE0303131038",
+      "description": "[JFNE0303131038] 딱정벌레붙이 1994.08.29 / / 제주자연사박물관"
+    },
+    {
+      "id": "KPNE0302131072",
+      "description": "[KPNE0302131072] 딱정벌레붙이 1982.07.29 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0302131071",
+      "description": "[KPNE0302131071] 딱정벌레붙이 2000.07.16 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0119-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0119&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:22+00:00",
+    "html_sha256": "4d17d8f1eca74725966335b614b94ea4387b093ec87785e10a9c9dc46ac7a93c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

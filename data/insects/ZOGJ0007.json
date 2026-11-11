@@ -1,0 +1,107 @@
+{
+  "id": "ZOGJ0007",
+  "name_ko": "작은꼬마소똥구리",
+  "scientific_name": "Caccobius (Caccobius) brevis Waterhouse, 1875",
+  "display_name": "작은꼬마소똥구리",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "소똥구리아과",
+      "name_latin": "Scarabaeinae"
+    },
+    "genus": {
+      "name_ko": "꼬마소똥구리속",
+      "name_latin": "Caccobius"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 소똥구리아과 (Scarabaeinae)\n속 : 꼬마소똥구리속 (Caccobius)",
+  "basic_information": {
+    "곤충명": "작은꼬마소똥구리",
+    "학명": "Caccobius (Caccobius) brevis Waterhouse, 1875"
+  },
+  "information": {
+    "general_description": "흑색으로 작은 공모양이다. 두정융기는 매우 약하여 목 근처에서 2개의 선모양이나 수컷의 이마 융기는 길다. 전흉배판의 앞쪽은 높은데 수컷은 급한 경사면을 이루며, 높아진 모서리에는 가로로 융기부를 형성한다. 점각은 낮은 안상이며, 딱지날개의 간실에는 과립과 강한 털이 발달하였다. BL:4~5.5mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "주로 우분에서 발견되나. 사람,개,염소분에서도 모이며, Paik(1976)은 유충관찰.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]\n[러시아] 극동지역",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "흑색으로 작은 공모양이다. 두정융기는 매우 약하여 목 근처에서 2개의 선모양이나 수컷의 이마 융기는 길다. 전흉배판의 앞쪽은 높은데 수컷은 급한 경사면을 이루며, 높아진 모서리에는 가로로 융기부를 형성한다. 점각은 낮은 안상이며, 딱지날개의 간실에는 과립과 강한 털이 발달하였다. BL:4~5.5mm."
+    },
+    {
+      "title": "생태",
+      "text": "주로 우분에서 발견되나. 사람,개,염소분에서도 모이며, Paik(1976)은 유충관찰."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]\n[러시아] 극동지역"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGJ0007-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0007_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0007_1_th.jpg",
+      "alt": "작은꼬마소똥구리 1번째 사진 : 작은꼬마소똥구리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0007_1_th2.jpg",
+      "caption": "작은꼬마소똥구리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGJ0007-1",
+  "specimen_examples": [
+    {
+      "id": "SSUE0302211077",
+      "description": "[SSUE0302211077] 작은꼬마소똥구리 1987.06.23 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0302211078",
+      "description": "[SSUE0302211078] 작은꼬마소똥구리 1987.06.23 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0302211080",
+      "description": "[SSUE0302211080] 작은꼬마소똥구리 1986.08.24 / / 성신여자대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGJ0007-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGJ0007&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:48+00:00",
+    "html_sha256": "d030398465c65fd144bf137ad2cd71c74ee17f96b9b5509b3d85cd63b5be0cda",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

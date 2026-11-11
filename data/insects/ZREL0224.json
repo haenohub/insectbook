@@ -1,0 +1,103 @@
+{
+  "id": "ZREL0224",
+  "name_ko": "노랑눈비단명나방",
+  "scientific_name": "Hirayamaia regalis (Leech, 1889)",
+  "display_name": "노랑눈비단명나방",
+  "family_ko": "명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "명나방과",
+      "name_latin": "Pyralidae"
+    },
+    "subfamily": {
+      "name_ko": "비단명나방아과",
+      "name_latin": "Pyralinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Hirayamaia"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 명나방과 (Pyralidae)\n아과 : 비단명나방아과 (Pyralinae)\n속 : (Hirayamaia)",
+  "basic_information": {
+    "곤충명": "노랑눈비단명나방",
+    "학명": "Hirayamaia regalis (Leech, 1889)"
+  },
+  "information": {
+    "general_description": "일본 중국에 분포하며 머리는 적황색의 인편으로 덮여 있으며 더듬이는 담적색으로 작은털이 있는 실모양이다. 아랫입술수염의 제3마디 및 제 2마디의 아래쪽 및 안쪽은 백색이고 다른 부분은 적색이 가미된 오렌지색을 나타내며 제 2마디는 위쪽으로 구부러져 있다. 제 3마디는 제 2마다와 같은 크기로 아래쪽을 향하기 때문에 전체가 삼각형모양을 나타내는 특이한 모양이다. 앞날개의 바탕색은 적황색이며 시정은 갈고리 모양을 이루고 있어 외연이 함입 부분을 이루고 있다. 중실의 끝부분 상단에는 큰 원형의 황색 무늬가 있어서 뚜렷한 특징을 나타내고 있으며 그 무늬로부터 기부쪽으로는 적갈색의 인편으로 덮여 있다. 뒷날개는 담적황색이다",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "일본 중국에 분포하며 머리는 적황색의 인편으로 덮여 있으며 더듬이는 담적색으로 작은털이 있는 실모양이다. 아랫입술수염의 제3마디 및 제 2마디의 아래쪽 및 안쪽은 백색이고 다른 부분은 적색이 가미된 오렌지색을 나타내며 제 2마디는 위쪽으로 구부러져 있다. 제 3마디는 제 2마다와 같은 크기로 아래쪽을 향하기 때문에 전체가 삼각형모양을 나타내는 특이한 모양이다. 앞날개의 바탕색은 적황색이며 시정은 갈고리 모양을 이루고 있어 외연이 함입 부분을 이루고 있다. 중실의 끝부분 상단에는 큰 원형의 황색 무늬가 있어서 뚜렷한 특징을 나타내고 있으며 그 무늬로부터 기부쪽으로는 적갈색의 인편으로 덮여 있다. 뒷날개는 담적황색이다"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0224-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0224_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0224_1_th.jpg",
+      "alt": "노랑눈비단명나방 1번째 사진 : 노랑눈비단명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0224_1_th2.jpg",
+      "caption": "노랑눈비단명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0224-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303141079",
+      "description": "[KNAE0303141079] 노랑눈비단명나방 1996.07.05 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303141080",
+      "description": "[KNAE0303141080] 노랑눈비단명나방 1998.07.13 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303141081",
+      "description": "[KNAE0303141081] 노랑눈비단명나방 1998.07.14 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZREL0224.png",
+    "reference_image_id": "ZREL0224-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T11:43:22.455352+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "36ccc021a64c4088657dac557a5ee33a18867277885b966129dcbd37cdd254ed"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0224&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:04+00:00",
+    "html_sha256": "feef6b0a20f6ac4e38bc6786a8726c783e55625c489ce0704d072a2b7cd53621",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

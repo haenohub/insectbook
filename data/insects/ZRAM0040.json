@@ -1,0 +1,118 @@
+{
+  "id": "ZRAM0040",
+  "name_ko": "불나방",
+  "scientific_name": "Arctia caja (Linnaeus, 1758)",
+  "display_name": "불나방",
+  "family_ko": "태극나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "태극나방과",
+      "name_latin": "Erebidae"
+    },
+    "subfamily": {
+      "name_ko": "불나방아과",
+      "name_latin": "Arctiinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Arctia"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 태극나방과 (Erebidae)\n아과 : 불나방아과 (Arctiinae)\n속 : (Arctia)",
+  "basic_information": {
+    "곤충명": "불나방",
+    "학명": "Arctia caja (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "더듬이는 갈색으로 수컷은 양측 빗살모양, 암컷은 톱니 모양임. 아랫입술수염, 머리, 어깨판, 가슴의 등쪽면은 초콜릿색을 띰. 경판의 앞쪽에는 붉은색 연모가, 뒤쪽에는 붉은색 강모가 나 있음. 배는 등황색을 띠며, 등쪽면 중앙에 흑색의 세로줄 무늬가 있음. 앞날개는 중앙에 흑색의 가락지 모양 무늬가 있고, 다갈색 바탕에 백색 줄무늬가 불규칙하게 뻗어 있는데 개체 변이가 심함. 뒷날개는 오렌지색 바탕에 아외연선 쪽에 3개의 흑색점이 있음.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]\n[러시아]",
+    "notes": "[II급 멸종위기야생동식물]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 갈색으로 수컷은 양측 빗살모양, 암컷은 톱니 모양임. 아랫입술수염, 머리, 어깨판, 가슴의 등쪽면은 초콜릿색을 띰. 경판의 앞쪽에는 붉은색 연모가, 뒤쪽에는 붉은색 강모가 나 있음. 배는 등황색을 띠며, 등쪽면 중앙에 흑색의 세로줄 무늬가 있음. 앞날개는 중앙에 흑색의 가락지 모양 무늬가 있고, 다갈색 바탕에 백색 줄무늬가 불규칙하게 뻗어 있는데 개체 변이가 심함. 뒷날개는 오렌지색 바탕에 아외연선 쪽에 3개의 흑색점이 있음."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[II급 멸종위기야생동식물]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRAM0040-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0040_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0040_2_th.jpg",
+      "alt": "불나방 1번째 사진 : 불나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0040_2_th2.jpg",
+      "caption": "불나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRAM0040-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0040_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0040_1_th.jpg",
+      "alt": "불나방 2번째 사진 : 불나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0040_1_th2.jpg",
+      "caption": "불나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRAM0040-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0305121025",
+      "description": "[FRIE0305121025] 불나방 1986.09.06 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0305121026",
+      "description": "[FRIE0305121026] 불나방 1987.09.13 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0305121027",
+      "description": "[FRIE0305121027] 불나방 1986.09.05 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRAM0040-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRAM0040&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:42+00:00",
+    "html_sha256": "8f019b4b19143624c4eb11f9815897fcb3986c66c4bbdbafc558e64d4b1322dc",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

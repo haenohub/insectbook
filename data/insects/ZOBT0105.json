@@ -1,0 +1,111 @@
+{
+  "id": "ZOBT0105",
+  "name_ko": "콩잎벌레",
+  "scientific_name": "Pagria consimilis (Baly, 1874)",
+  "display_name": "콩잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "꼽추잎벌레아과",
+      "name_latin": "Eumolpinae"
+    },
+    "genus": {
+      "name_ko": "콩잎벌레속",
+      "name_latin": "Pagria"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 꼽추잎벌레아과 (Eumolpinae)\n속 : 콩잎벌레속 (Pagria)",
+  "basic_information": {
+    "곤충명": "콩잎벌레",
+    "학명": "Pagria consimilis (Baly, 1874)"
+  },
+  "information": {
+    "general_description": "몸길이는 1.8~2.4mm, 앞가슴등판은 황갈색과 흑색이다. 앞날개는 흑색이며 황갈색도있다. 기부는 연하며 후방측연부는 흑갈색이다. 한국, 일본(혼슈,시코쿠,큐슈,유큐섬), 대만, 중국, 시베리아, 베트남, 라오스, 타이완, 인도, 필리핀, 인도네시아, 버마, 미크로네시아에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6~8월에 활동하며 10개의 알을 분비물을 이용 산란한다. 알,유충,번데기 각각 10, 30, 6일간이다.",
+    "habits": "기주식물 콩.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]\n[베트남]\n[라오스]\n[인도네시아]\n[버마]\n[마이크로네시아연방]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 1.8~2.4mm, 앞가슴등판은 황갈색과 흑색이다. 앞날개는 흑색이며 황갈색도있다. 기부는 연하며 후방측연부는 흑갈색이다. 한국, 일본(혼슈,시코쿠,큐슈,유큐섬), 대만, 중국, 시베리아, 베트남, 라오스, 타이완, 인도, 필리핀, 인도네시아, 버마, 미크로네시아에 분포되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6~8월에 활동하며 10개의 알을 분비물을 이용 산란한다. 알,유충,번데기 각각 10, 30, 6일간이다."
+    },
+    {
+      "title": "습성",
+      "text": "기주식물 콩."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]\n[베트남]\n[라오스]\n[인도네시아]\n[버마]\n[마이크로네시아연방]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0105-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0105_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0105_1_th.jpg",
+      "alt": "콩잎벌레 1번째 사진 : 콩잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0105_1_th2.jpg",
+      "caption": "콩잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0105-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0306241040",
+      "description": "[FRIE0306241040] 콩잎벌레 1999.07.26 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0304091014",
+      "description": "[FRIE0304091014] 콩잎벌레 1980.05.24 / / 국립산림과학원"
+    },
+    {
+      "id": "HNUE0408174106",
+      "description": "[HNUE0408174106] 콩잎벌레 2002.06.03 / / 한남대학교 자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0105-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0105&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:32+00:00",
+    "html_sha256": "6ebc7f899ff202cc06485c63548e5358cac6ce2e454a66f2bb52516a44c82588",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

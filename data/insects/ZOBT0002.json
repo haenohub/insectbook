@@ -1,0 +1,111 @@
+{
+  "id": "ZOBT0002",
+  "name_ko": "벼뿌리잎벌레",
+  "scientific_name": "Donacia (Cyphogaster) provostii Fairmaire, 1885",
+  "display_name": "벼뿌리잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "뿌리잎벌레아과",
+      "name_latin": "Donaciinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Donacia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 뿌리잎벌레아과 (Donaciinae)\n속 : (Donacia)",
+  "basic_information": {
+    "곤충명": "벼뿌리잎벌레",
+    "학명": "Donacia (Cyphogaster) provostii Fairmaire, 1885"
+  },
+  "information": {
+    "general_description": "몸길이가 6.0~6.8mm, 몸색깔은 청동색, 녹동색이며 하얀 강모가 있다. 더듬이는 적갈색이고 다리에는 암갈색이며, 발마디 전체는 동흑색이다. 한국(중부,남부), 일본(훗가이도,혼슈,시코쿠,큐슈,유큐), 중국(만주,북부,중부,남부,대만), 러시아(동시베리아), 인도차이나에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6월에 7~8월사이에 기주식물 잎 뒷면에 알을 산란하며 7월에 부화하고 주로 벼뿌리에 가해한다. 11월에 땅밑으로 들어가 월동을하여 다음해 5~6월에 다시 활동한다.",
+    "habits": "기주식물 순채, 개연꽃, 가래, 마름 이있다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]",
+    "notes": "[농업해충]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이가 6.0~6.8mm, 몸색깔은 청동색, 녹동색이며 하얀 강모가 있다. 더듬이는 적갈색이고 다리에는 암갈색이며, 발마디 전체는 동흑색이다. 한국(중부,남부), 일본(훗가이도,혼슈,시코쿠,큐슈,유큐), 중국(만주,북부,중부,남부,대만), 러시아(동시베리아), 인도차이나에 분포되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6월에 7~8월사이에 기주식물 잎 뒷면에 알을 산란하며 7월에 부화하고 주로 벼뿌리에 가해한다. 11월에 땅밑으로 들어가 월동을하여 다음해 5~6월에 다시 활동한다."
+    },
+    {
+      "title": "습성",
+      "text": "기주식물 순채, 개연꽃, 가래, 마름 이있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[농업해충]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0002_1_th.jpg",
+      "alt": "벼뿌리잎벌레 1번째 사진 : 벼뿌리잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0002_1_th2.jpg",
+      "caption": "벼뿌리잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0002-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0407261068",
+      "description": "[KPNE0407261068] 벼뿌리잎벌레 1983.06.26 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0407261069",
+      "description": "[KPNE0407261069] 벼뿌리잎벌레 1983.06.26 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0002-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:55+00:00",
+    "html_sha256": "002dd27495600b3afb2320693b480de0ef91871225712115456c24484f067033",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

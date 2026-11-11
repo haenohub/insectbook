@@ -1,0 +1,107 @@
+{
+  "id": "ZTAG0076",
+  "name_ko": "뾰족벌",
+  "scientific_name": "Coelioxys fenestratus Smith, 1873",
+  "display_name": "뾰족벌",
+  "family_ko": "가위벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "가위벌과",
+      "name_latin": "Megachilidae"
+    },
+    "subfamily": {
+      "name_ko": "가위벌아과",
+      "name_latin": "Megachilinae"
+    },
+    "genus": {
+      "name_ko": "뾰족벌속",
+      "name_latin": "Coelioxys"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 가위벌과 (Megachilidae)\n아과 : 가위벌아과 (Megachilinae)\n속 : 뾰족벌속 (Coelioxys)",
+  "basic_information": {
+    "곤충명": "뾰족벌",
+    "학명": "Coelioxys fenestratus Smith, 1873"
+  },
+  "information": {
+    "general_description": "몸길이는 14-18mm 정도이며, 몸은 흑색이고, 날개의 끝 2/3는 보랏빛이 도는 검정색의 광택이 있는 흑색이다. 정수리에서 머리방패까지는 황갈색 짧은 털이 많이 났다. 머리의 그밖의 부분, 가슴, 다리와 배의 기부 등은 황갈색 짧은털이 촘촘히 났다. 배의 각 마디 뒤쪽으로는 등판과 배판 다같이 회백색의 짧은 털이 났다. 머리와 가슴에 성기고 큰 점각이 있고 배는 광택이 강하며 점각의 각 마디 앞쪽 것은 작고 뒤쪽으로 가면서 다소 커진다. 꼬리 끝은 예리하게 돌출한다. 수컷은 꼬리 끝에 3쌍의 이모양의 돌기가 있고 배의 아랫면 제4.5 마디의 두쪽 중앙이 깊이 오므라들었고 그 주위에 황갈색 털이 촘촘히 났다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": "[감소추세종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 14-18mm 정도이며, 몸은 흑색이고, 날개의 끝 2/3는 보랏빛이 도는 검정색의 광택이 있는 흑색이다. 정수리에서 머리방패까지는 황갈색 짧은 털이 많이 났다. 머리의 그밖의 부분, 가슴, 다리와 배의 기부 등은 황갈색 짧은털이 촘촘히 났다. 배의 각 마디 뒤쪽으로는 등판과 배판 다같이 회백색의 짧은 털이 났다. 머리와 가슴에 성기고 큰 점각이 있고 배는 광택이 강하며 점각의 각 마디 앞쪽 것은 작고 뒤쪽으로 가면서 다소 커진다. 꼬리 끝은 예리하게 돌출한다. 수컷은 꼬리 끝에 3쌍의 이모양의 돌기가 있고 배의 아랫면 제4.5 마디의 두쪽 중앙이 깊이 오므라들었고 그 주위에 황갈색 털이 촘촘히 났다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[감소추세종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0076-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0076_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0076_1_th.jpg",
+      "alt": "뾰족벌 1번째 사진 : 뾰족벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0076_1_th2.jpg",
+      "caption": "뾰족벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0076-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0111303032",
+      "description": "[YNUE0111303032] 뾰족벌 1995.08.14 / / 영남대학교"
+    },
+    {
+      "id": "KNAE225058",
+      "description": "[KNAE225058] 뾰족벌 / / 국립수목원"
+    },
+    {
+      "id": "KUIE0408102013",
+      "description": "[KUIE0408102013] 뾰족벌 1998.08.04 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAG0076-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0076&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:08+00:00",
+    "html_sha256": "045a358ceb0700c3787945a12090837b262a08661d939251a72fecbd6300d136",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

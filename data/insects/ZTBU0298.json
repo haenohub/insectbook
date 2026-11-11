@@ -1,0 +1,99 @@
+{
+  "id": "ZTBU0298",
+  "name_ko": "흰무늬맵시벌",
+  "scientific_name": "Goedartia alboguttata (Gravenhorst, 1829)",
+  "display_name": "흰무늬맵시벌",
+  "family_ko": "맵시벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "맵시벌과",
+      "name_latin": "Ichneumonidae"
+    },
+    "subfamily": {
+      "name_ko": "맵시벌아과",
+      "name_latin": "Ichneumoninae"
+    },
+    "genus": {
+      "name_ko": "흰무늬맵시벌속",
+      "name_latin": "Goedartia"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 맵시벌과 (Ichneumonidae)\n아과 : 맵시벌아과 (Ichneumoninae)\n속 : 흰무늬맵시벌속 (Goedartia)",
+  "basic_information": {
+    "곤충명": "흰무늬맵시벌",
+    "학명": "Goedartia alboguttata (Gravenhorst, 1829)"
+  },
+  "information": {
+    "general_description": "♀은 몸 전체가 흑색이나 배는 남자색(藍紫色) 광택이 있다. 작은방패판 위의 1개의 무늬, 제1배마디의 뒷슭의 양쪽 무늬·제5배마디의 중앙의 긴 무늬들은 백황색이다. 더듬이는 흑색이고 중앙에 백황색 무늬가 있다. 날개는 약간 흐리고 경포는 마름모꼴이다. 다리는 흑갈색이고 앞다리의 넓적다리마디의 끝·종아리마디의 겉면·가운데다리와 뒷다리의 종아리마디의 기부는 황갈색이다. 전신복절에는 주름이 많고 전중획은 거의 둥근 모양이고 제3배마디 이하는 원활하다. 22mm 정도",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[이탈리아]\n[오스트리아]\n[벨기에]\n[스페인]\n[핀란드]\n[프랑스]\n[헝가리]\n[폴란드]\n[러시아]\n[스웨덴]\n[유고슬라비아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "♀은 몸 전체가 흑색이나 배는 남자색(藍紫色) 광택이 있다. 작은방패판 위의 1개의 무늬, 제1배마디의 뒷슭의 양쪽 무늬·제5배마디의 중앙의 긴 무늬들은 백황색이다. 더듬이는 흑색이고 중앙에 백황색 무늬가 있다. 날개는 약간 흐리고 경포는 마름모꼴이다. 다리는 흑갈색이고 앞다리의 넓적다리마디의 끝·종아리마디의 겉면·가운데다리와 뒷다리의 종아리마디의 기부는 황갈색이다. 전신복절에는 주름이 많고 전중획은 거의 둥근 모양이고 제3배마디 이하는 원활하다. 22mm 정도"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[이탈리아]\n[오스트리아]\n[벨기에]\n[스페인]\n[핀란드]\n[프랑스]\n[헝가리]\n[폴란드]\n[러시아]\n[스웨덴]\n[유고슬라비아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBU0298-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0298_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0298_1_th.jpg",
+      "alt": "흰무늬맵시벌 1번째 사진 : 흰무늬맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0298_1_th2.jpg",
+      "caption": "흰무늬맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBU0298-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305301041",
+      "description": "[YNUE0305301041] 흰무늬맵시벌 1998.07.30 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305281001",
+      "description": "[YNUE0305281001] 흰무늬맵시벌 1956.10.07 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTBU0298-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBU0298&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:33+00:00",
+    "html_sha256": "1f337b2414d160ec802d6ad3a0aca53dc303e6180f1bf9431691adcb6ac91b1e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "id": "ZOEC0011",
+  "name_ko": "두점박이사슴벌레",
+  "scientific_name": "Prosopocoilus astacoides blanchardi (Parry, 1873)",
+  "display_name": "두점박이사슴벌레",
+  "family_ko": "사슴벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "사슴벌레과",
+      "name_latin": "Lucanidae"
+    },
+    "subfamily": {
+      "name_ko": "사슴벌레아과",
+      "name_latin": "Lucaninae"
+    },
+    "genus": {
+      "name_ko": "톱사슴벌레속",
+      "name_latin": "Prosopocoilus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 사슴벌레과 (Lucanidae)\n아과 : 사슴벌레아과 (Lucaninae)\n속 : 톱사슴벌레속 (Prosopocoilus)",
+  "basic_information": {
+    "곤충명": "두점박이사슴벌레",
+    "학명": "Prosopocoilus astacoides blanchardi (Parry, 1873)"
+  },
+  "information": {
+    "general_description": "몸은 황갈색 또는 연한 갈색이며, 앞가슴등판 가운데의 가는 세로 줄과 양 옆의 뒤쪽에 있는 둥근 무늬, 딱지날개의 가운데와 가장자리의 가는 줄 등은 흑색이다.",
+    "adult": null,
+    "adult_male": "몸길이가 큰턱을 포함하여 47-60 mm 가량이다. 큰턱(이빨)은 매우 길며 가늘고, 약간 아래쪽으로 굽었으며, 바깥쪽은 넓게 둥글다. 큰턱의 안쪽 기부 근처에는 넓고 뾰족한 이빨이 있고, 끝부분에는 4개 정도의 날카로운 이빨이 있다.",
+    "adult_female": "몸길이가 23-24 mm 가량이다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "일반적인 생태적 특징은 잘 알려지지 않았다.",
+    "habits": "야간에 등불에 모이며, 종종 수액에도 모인다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대한민국] 제주특별자치도\n[대만]",
+    "notes": "[II급 멸종위기야생동식물]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸은 황갈색 또는 연한 갈색이며, 앞가슴등판 가운데의 가는 세로 줄과 양 옆의 뒤쪽에 있는 둥근 무늬, 딱지날개의 가운데와 가장자리의 가는 줄 등은 흑색이다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "몸길이가 큰턱을 포함하여 47-60 mm 가량이다. 큰턱(이빨)은 매우 길며 가늘고, 약간 아래쪽으로 굽었으며, 바깥쪽은 넓게 둥글다. 큰턱의 안쪽 기부 근처에는 넓고 뾰족한 이빨이 있고, 끝부분에는 4개 정도의 날카로운 이빨이 있다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "몸길이가 23-24 mm 가량이다."
+    },
+    {
+      "title": "생태",
+      "text": "일반적인 생태적 특징은 잘 알려지지 않았다."
+    },
+    {
+      "title": "습성",
+      "text": "야간에 등불에 모이며, 종종 수액에도 모인다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대한민국] 제주특별자치도\n[대만]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[II급 멸종위기야생동식물]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOEC0011-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEC0011_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEC0011_2_th.jpg",
+      "alt": "두점박이사슴벌레 1번째 사진 : 두점박이사슴벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEC0011_2_th2.jpg",
+      "caption": "두점박이사슴벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOEC0011-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEC0011_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEC0011_1_th.jpg",
+      "alt": "두점박이사슴벌레 2번째 사진 : 두점박이사슴벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEC0011_1_th2.jpg",
+      "caption": "두점박이사슴벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOEC0011-1",
+  "specimen_examples": [
+    {
+      "id": "JFNE0303101053",
+      "description": "[JFNE0303101053] 두점박이사슴벌레 1992.07.15 / / 제주자연사박물관"
+    },
+    {
+      "id": "SNUE0201231029",
+      "description": "[SNUE0201231029] 두점박이사슴벌레 1990.07.26 / / 서울대학교"
+    },
+    {
+      "id": "CJUE0910271225",
+      "description": "[CJUE0910271225] 두점박이사슴벌레 1983.09.15 / / 제주대학교 곤충표본관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOEC0011-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOEC0011&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:42+00:00",
+    "html_sha256": "1a9b32b6890bac20b753dbb67a6d6cae170fb99d1f682755c6c35c73007c8989",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

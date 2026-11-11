@@ -1,0 +1,107 @@
+{
+  "id": "ZOBL0076",
+  "name_ko": "노란점꽃하늘소",
+  "scientific_name": "Pedostrangalia (Neosphenalia) femoralis (Motschulsky, 1860)",
+  "display_name": "노란점꽃하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "꽃하늘소아과",
+      "name_latin": "Lepturinae"
+    },
+    "genus": {
+      "name_ko": "노란점꽃하늘소속",
+      "name_latin": "Pedostrangalia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 꽃하늘소아과 (Lepturinae)\n속 : 노란점꽃하늘소속 (Pedostrangalia)",
+  "basic_information": {
+    "곤충명": "노란점꽃하늘소",
+    "학명": "Pedostrangalia (Neosphenalia) femoralis (Motschulsky, 1860)"
+  },
+  "information": {
+    "general_description": "앞가슴등과 딱지날개는 검은색이고 허벅다리마디의 기부는 황갈색을 띤다. 조복성(1969)에 의해 Leptura femoralis Mtshulsky (진검정꽃하늘소)로 기록되었으나 이후 이승모(1987)은 Pedostrangalia femoralis (Motschulsky)(노란점꽃하늘소)로 재정리하여 한국산 하늘소도감에 기록하였다. 이후 한국곤충명집(1994)에서는 노랑점꽃하늘소 개칭되어 목록에 포함됬다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "앞가슴등과 딱지날개는 검은색이고 허벅다리마디의 기부는 황갈색을 띤다. 조복성(1969)에 의해 Leptura femoralis Mtshulsky (진검정꽃하늘소)로 기록되었으나 이후 이승모(1987)은 Pedostrangalia femoralis (Motschulsky)(노란점꽃하늘소)로 재정리하여 한국산 하늘소도감에 기록하였다. 이후 한국곤충명집(1994)에서는 노랑점꽃하늘소 개칭되어 목록에 포함됬다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0076-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0076_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0076_1_th.jpg",
+      "alt": "노란점꽃하늘소 1번째 사진 : 노랑점꽃하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0076_1_th2.jpg",
+      "caption": "노랑점꽃하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0076-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304152056",
+      "description": "[KNAE0304152056] 노란점꽃하늘소 1995.06.01 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0302112085",
+      "description": "[KNAE0302112085] 노란점꽃하늘소 1986.06.01 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0301242039",
+      "description": "[KNAE0301242039] 노란점꽃하늘소 1992.06.15 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBL0076.png",
+    "reference_image_id": "ZOBL0076-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T11:17:17.358682+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "6e57010ef53ab1d78add389791b8a0b69cd7f92c437b9443f14f97a764c1a6fc"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0076&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:56+00:00",
+    "html_sha256": "92562f01020f1bb17b5b30b61702118b9079ceedeaf2d43b636d0c2d48a22140",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

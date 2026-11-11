@@ -1,0 +1,136 @@
+{
+  "id": "ZREL0133",
+  "name_ko": "갈참나무명나방",
+  "scientific_name": "Patania balteata (Fabricius, 1798)",
+  "display_name": "갈참나무명나방",
+  "family_ko": "풀명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "풀명나방과",
+      "name_latin": "Crambidae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Spilomelinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Patania"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 풀명나방과 (Crambidae)\n아과 : (Spilomelinae)\n속 : (Patania)",
+  "basic_information": {
+    "곤충명": "갈참나무명나방",
+    "학명": "Patania balteata (Fabricius, 1798)"
+  },
+  "information": {
+    "general_description": "머리는 황갈색이고, 양쪽으로는 백색 인편이 덮여 있다. 앞이마는 둥글고 비스듬한 경사를 이룬다. 더듬이는 갈색이며 미모 모양이다. 아랫입술수염은 위쪽으로 뻗어 있으며, 제1마디와 제2마디의 아랫면은 백색이고, 그 밖의 부분은 갈색이다. 제3마디는 작다. 가슴과 배 등쪽면은 황갈색이지만 배쪽면은 백색에 가깝다. 다리는 백색에 가깝지만 종아리마디의 위쪽은 갈색의 줄이 있고, 발목마디는 갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "유충은 갈참나무, 떡갈나무, 밤나무, 비파나무 등의 잎을 철한 다음 그 속에서 해를 끼친다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대한민국] 서울특별시\n[대한민국] 충청남도\n[중국]\n[스리랑카]\n[인도]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "머리는 황갈색이고, 양쪽으로는 백색 인편이 덮여 있다. 앞이마는 둥글고 비스듬한 경사를 이룬다. 더듬이는 갈색이며 미모 모양이다. 아랫입술수염은 위쪽으로 뻗어 있으며, 제1마디와 제2마디의 아랫면은 백색이고, 그 밖의 부분은 갈색이다. 제3마디는 작다. 가슴과 배 등쪽면은 황갈색이지만 배쪽면은 백색에 가깝다. 다리는 백색에 가깝지만 종아리마디의 위쪽은 갈색의 줄이 있고, 발목마디는 갈색이다."
+    },
+    {
+      "title": "생태",
+      "text": "유충은 갈참나무, 떡갈나무, 밤나무, 비파나무 등의 잎을 철한 다음 그 속에서 해를 끼친다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대한민국] 서울특별시\n[대한민국] 충청남도\n[중국]\n[스리랑카]\n[인도]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0133-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0133_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0133_1_th.jpg",
+      "alt": "갈참나무명나방 1번째 사진 : 갈참나무명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0133_1_th2.jpg",
+      "caption": "갈참나무명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0133-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0303171022",
+      "description": "[FRIE0303171022] 갈참나무명나방 1996.06.03 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0303121083",
+      "description": "[KNAE0303121083] 갈참나무명나방 1997.08.16 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303121084",
+      "description": "[KNAE0303121084] 갈참나무명나방 1997.08.17 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "갈참나무",
+      "scientific_name": "Quercus aliena Blume"
+    },
+    {
+      "group": "식물",
+      "name_ko": "떡갈나무",
+      "scientific_name": "Quercus dentata Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "밤나무",
+      "scientific_name": "Castanea crenata Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "비파나무",
+      "scientific_name": "Eriobotrya japonica (Thunb.) Lindl."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZREL0133.png",
+    "reference_image_id": "ZREL0133-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T16:53:05.705016+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "53ff830c5eef74e2e9a49a3dfe9ab6b3b03c9c71ab2a9d239cb9851b16abc653"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0133&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:37+00:00",
+    "html_sha256": "99bb877a10511e87b045e85d470ad94fe32f20be7e0adb9780e4f673566295b3",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

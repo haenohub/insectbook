@@ -1,0 +1,99 @@
+{
+  "id": "ZOCR0039",
+  "name_ko": "줄무늬물방개",
+  "scientific_name": "Hydaticus (Prodaticus) bowringii Clark, 1864",
+  "display_name": "줄무늬물방개",
+  "family_ko": "물방개과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "물방개과",
+      "name_latin": "Dytiscidae"
+    },
+    "subfamily": {
+      "name_ko": "물방개붙이아과",
+      "name_latin": "Dytiscinae"
+    },
+    "genus": {
+      "name_ko": "줄물방개속",
+      "name_latin": "Hydaticus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 물방개과 (Dytiscidae)\n아과 : 물방개붙이아과 (Dytiscinae)\n속 : 줄물방개속 (Hydaticus)",
+  "basic_information": {
+    "곤충명": "줄무늬물방개",
+    "학명": "Hydaticus (Prodaticus) bowringii Clark, 1864"
+  },
+  "information": {
+    "general_description": "한국, 일본, 대만, 중국에 분포하며, 체장은 14mm 내외이다. 머리는 흑색이고 앞머리, 머리방패, 윗입술, 더듬이와 양쪽 수염은 왕색이다. 앞가슴등판은 황색인데 중앙부의 종선과 앞뒤 양가두리의 중앙부를 따라 흑색이고 중앙에 짧은 공주가 있다. 복판은 흑색이다. 배면은 적갈색이고 앞가슴돌기는 폭이 넓고 뒤쪽은 편평가고 끝은 뾰족하지 않다. 뒷가스편의 양쪽은 가늘고 끝은 측편에 미달한다. 앞다리와 가운데다리는 황갈색이고 뒷다리는 암적갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 대만, 중국에 분포하며, 체장은 14mm 내외이다. 머리는 흑색이고 앞머리, 머리방패, 윗입술, 더듬이와 양쪽 수염은 왕색이다. 앞가슴등판은 황색인데 중앙부의 종선과 앞뒤 양가두리의 중앙부를 따라 흑색이고 중앙에 짧은 공주가 있다. 복판은 흑색이다. 배면은 적갈색이고 앞가슴돌기는 폭이 넓고 뒤쪽은 편평가고 끝은 뾰족하지 않다. 뒷가스편의 양쪽은 가늘고 끝은 측편에 미달한다. 앞다리와 가운데다리는 황갈색이고 뒷다리는 암적갈색이다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCR0039-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCR0039_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCR0039_1_th.jpg",
+      "alt": "줄무늬물방개 1번째 사진 : 줄무늬물방개전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCR0039_1_th2.jpg",
+      "caption": "줄무늬물방개전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCR0039-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408191072",
+      "description": "[MPME0408191072] 줄무늬물방개 2002.08.30 / / 목포자연사박물관"
+    },
+    {
+      "id": "SNUE0204191135",
+      "description": "[SNUE0204191135] 줄무늬물방개 1992.05.09 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0204191136",
+      "description": "[SNUE0204191136] 줄무늬물방개 1995.06.24 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOCR0039-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCR0039&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:11+00:00",
+    "html_sha256": "9f408ebd148ecc71773a183b836473ed45f21bcadfc1d8eb04855883a6616e18",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

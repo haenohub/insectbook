@@ -1,0 +1,183 @@
+{
+  "id": "ZREL0253",
+  "name_ko": "큰솔알락명나방",
+  "scientific_name": "Dioryctria sylvestrella (Ratzeburg, 1840)",
+  "display_name": "큰솔알락명나방",
+  "family_ko": "명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "명나방과",
+      "name_latin": "Pyralidae"
+    },
+    "subfamily": {
+      "name_ko": "알락명나방아과",
+      "name_latin": "Phycitinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Dioryctria"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 명나방과 (Pyralidae)\n아과 : 알락명나방아과 (Phycitinae)\n속 : (Dioryctria)",
+  "basic_information": {
+    "곤충명": "큰솔알락명나방",
+    "학명": "Dioryctria sylvestrella (Ratzeburg, 1840)"
+  },
+  "information": {
+    "general_description": "앞날개의 길이는 10~15 mm이며 다갈색이고 선명하지 않은 무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": "유충의 몸길이는 25 mm 정도이며 머리는 적갈색이고 몸은 회갈색이나, 노숙 유충의 체장은 변이가 많다.",
+    "egg": null,
+    "pupa": null,
+    "ecology": "보통 연 1회 발생하나, 남부 지방에서는 연 2회 발생하기도 한다. 5~6월에 번데기가 되고, 성충은 6~7월에 우화하여 소나무류의 신초(新梢)나 구과(毬果)에 산란한다. 유충은 신초의 중심부나 구과 속에 구멍을 만들고 식해한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": "가해 부위 내에서 유충으로 월동한다.",
+    "distribution": "[일본]\n[유럽]\n[러시아] 동시베리아지역\n[러시아] 서시베리아지역",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "앞날개의 길이는 10~15 mm이며 다갈색이고 선명하지 않은 무늬가 있다."
+    },
+    {
+      "title": "유충",
+      "text": "유충의 몸길이는 25 mm 정도이며 머리는 적갈색이고 몸은 회갈색이나, 노숙 유충의 체장은 변이가 많다."
+    },
+    {
+      "title": "생태",
+      "text": "보통 연 1회 발생하나, 남부 지방에서는 연 2회 발생하기도 한다. 5~6월에 번데기가 되고, 성충은 6~7월에 우화하여 소나무류의 신초(新梢)나 구과(毬果)에 산란한다. 유충은 신초의 중심부나 구과 속에 구멍을 만들고 식해한다."
+    },
+    {
+      "title": "월동",
+      "text": "가해 부위 내에서 유충으로 월동한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[유럽]\n[러시아] 동시베리아지역\n[러시아] 서시베리아지역"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0253-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0253_7.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0253_7_th.jpg",
+      "alt": "큰솔알락명나방 1번째 사진 : 큰솔알락명나방가슴 확대 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0253_7_th2.jpg",
+      "caption": "큰솔알락명나방가슴 확대 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREL0253-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0253_6.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0253_6_th.jpg",
+      "alt": "큰솔알락명나방 2번째 사진 : 큰솔알락명나방배 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0253_6_th2.jpg",
+      "caption": "큰솔알락명나방배 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREL0253-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0253_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0253_2_th.jpg",
+      "alt": "큰솔알락명나방 3번째 사진 : 큰솔알락명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0253_2_th2.jpg",
+      "caption": "큰솔알락명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREL0253-4",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0253_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0253_1_th.jpg",
+      "alt": "큰솔알락명나방 4번째 사진 : 큰솔알락명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0253_1_th2.jpg",
+      "caption": "큰솔알락명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0253-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0302181043",
+      "description": "[FRIE0302181043] 큰솔알락명나방 1998.07.22 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0303041044",
+      "description": "[FRIE0303041044] 큰솔알락명나방 2000.05.31 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0302042025",
+      "description": "[KNAE0302042025] 큰솔알락명나방 1985.08.27 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "곰솔",
+      "scientific_name": "Pinus thunbergii Parl."
+    },
+    {
+      "group": "식물",
+      "name_ko": "리기다소나무",
+      "scientific_name": "Pinus rigida Mill."
+    },
+    {
+      "group": "식물",
+      "name_ko": "섬잣나무",
+      "scientific_name": "Pinus parviflora Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "소나무",
+      "scientific_name": "Pinus densiflora Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "잣나무",
+      "scientific_name": "Pinus koraiensis Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "전나무",
+      "scientific_name": "Abies holophylla Maxim."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREL0253-3"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0253&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:52+00:00",
+    "html_sha256": "fd6cfb8d7d4040e190fa8bfe260c7c53d7ab2ee5f11f1d49ee0e689deaec5c24",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

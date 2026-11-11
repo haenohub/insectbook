@@ -1,0 +1,148 @@
+{
+  "id": "ZRED0013",
+  "name_ko": "극남노랑나비",
+  "scientific_name": "Eurema laeta (Boisduval, 1836)",
+  "display_name": "극남노랑나비",
+  "family_ko": "흰나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "흰나비과",
+      "name_latin": "Pieridae"
+    },
+    "subfamily": {
+      "name_ko": "노랑나비아과",
+      "name_latin": "Coliadinae"
+    },
+    "genus": {
+      "name_ko": "남방노랑나비속",
+      "name_latin": "Eurema"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 흰나비과 (Pieridae)\n아과 : 노랑나비아과 (Coliadinae)\n속 : 남방노랑나비속 (Eurema)",
+  "basic_information": {
+    "곤충명": "극남노랑나비",
+    "학명": "Eurema laeta (Boisduval, 1836)"
+  },
+  "information": {
+    "general_description": "앞날개 전반적으로 바탕색은 진 노랑색인데 남방노랑나비와 매우 유사한 형태를 갖지만, 앞날개 끝부분의 흑색 테두리 무늬가 안쪽으로 파여 있는 부분이 다른 특징을 갖는다.",
+    "adult": null,
+    "adult_male": "가을형의 경우는 암수의 무늬가 거의 같으나 수컷은 앞날개 아랫면 제1b실의 기부에 등황색의 성표가 있다. 그러나 이 성표는 전시한 상태에서는 뒷날개 전연에 가리어 보이지 않는다.",
+    "adult_female": "여름형의 경우 암컷이 수컷보다 노랑색이 다소 연하고 뒷날개 윗면 외연의 제 6, 7실에 걸쳐 검은색 무늬가 있으며 앞날개 제1b실에 검은색 띠가 뻗어 있지 않으므로 쉽게 구별할 수 있다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "초지, 논밭 등 경작지를 비롯하여 하천 제방의 개활지에서 서식한다. 마을 주변이나 학교 운동장 주위를 낮게 날아다니기도 하며, 춘형은 5월 중순에서 6월, 하형은 7월에서 11월, 월동후 이듬해 3월에서 4월에 걸쳐 연 3-4회 발생한다.",
+    "habits": "수컷은 습지나 오물에 잘 모이는 습성을 갖는데 집단으로 모여 있을 때가 많으며, 남방노랑나비와 섞여 있을 때도 있다. 암수모두 엉겅퀴 등의 꽃에서 흡밀한다. 암컷은 기주식물의 위를 서서히 날아다니가 잎 표면에 낱개로 산란한다.",
+    "season": null,
+    "overwintering": "성충",
+    "distribution": "[일본]\n[중국]\n[대만]",
+    "notes": "[보통종]\n[흡밀곤충] 엉겅퀴",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "앞날개 전반적으로 바탕색은 진 노랑색인데 남방노랑나비와 매우 유사한 형태를 갖지만, 앞날개 끝부분의 흑색 테두리 무늬가 안쪽으로 파여 있는 부분이 다른 특징을 갖는다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "가을형의 경우는 암수의 무늬가 거의 같으나 수컷은 앞날개 아랫면 제1b실의 기부에 등황색의 성표가 있다. 그러나 이 성표는 전시한 상태에서는 뒷날개 전연에 가리어 보이지 않는다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "여름형의 경우 암컷이 수컷보다 노랑색이 다소 연하고 뒷날개 윗면 외연의 제 6, 7실에 걸쳐 검은색 무늬가 있으며 앞날개 제1b실에 검은색 띠가 뻗어 있지 않으므로 쉽게 구별할 수 있다."
+    },
+    {
+      "title": "생태",
+      "text": "초지, 논밭 등 경작지를 비롯하여 하천 제방의 개활지에서 서식한다. 마을 주변이나 학교 운동장 주위를 낮게 날아다니기도 하며, 춘형은 5월 중순에서 6월, 하형은 7월에서 11월, 월동후 이듬해 3월에서 4월에 걸쳐 연 3-4회 발생한다."
+    },
+    {
+      "title": "습성",
+      "text": "수컷은 습지나 오물에 잘 모이는 습성을 갖는데 집단으로 모여 있을 때가 많으며, 남방노랑나비와 섞여 있을 때도 있다. 암수모두 엉겅퀴 등의 꽃에서 흡밀한다. 암컷은 기주식물의 위를 서서히 날아다니가 잎 표면에 낱개로 산란한다."
+    },
+    {
+      "title": "월동",
+      "text": "성충"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[대만]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]\n[흡밀곤충] 엉겅퀴"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRED0013-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRED0013_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRED0013_2_th.jpg",
+      "alt": "극남노랑나비 1번째 사진 : 극남노랑나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRED0013_2_th2.jpg",
+      "caption": "극남노랑나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRED0013-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRED0013_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRED0013_1_th.jpg",
+      "alt": "극남노랑나비 2번째 사진 : 극남노랑나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRED0013_1_th2.jpg",
+      "caption": "극남노랑나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRED0013-1",
+  "specimen_examples": [
+    {
+      "id": "SJNE0306201060",
+      "description": "[SJNE0306201060] 극남노랑나비 1999.06.06 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0306201073",
+      "description": "[SJNE0306201073] 극남노랑나비 1999.05.19 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0306201074",
+      "description": "[SJNE0306201074] 극남노랑나비 1999.05.19 / / 상주대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "차풀",
+      "scientific_name": "Chamaecrista nomame (Makino) H.Ohashi"
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRED0013.png",
+    "reference_image_id": "ZRED0013-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T14:41:43.732909+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "24b1b4ed131134121ec5b59feae773158d7fc16d98e4273f8f1183b5bb9d182e"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRED0013&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:38+00:00",
+    "html_sha256": "c7c128dca037dcb2c5b56da114d96dc1736e3b09bfcde6fac38106fe282e4265",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

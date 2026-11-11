@@ -1,0 +1,103 @@
+{
+  "id": "ZIAK0001",
+  "name_ko": "두눈강도래",
+  "scientific_name": "Neoperla coreensis Ra, Kim, Kang & Ham, 1994",
+  "display_name": "두눈강도래",
+  "family_ko": "강도래과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "강도래목",
+      "name_latin": "Plecoptera"
+    },
+    "family": {
+      "name_ko": "강도래과",
+      "name_latin": "Perlidae"
+    },
+    "genus": {
+      "name_ko": "두눈강도래속",
+      "name_latin": "Neoperla"
+    }
+  },
+  "taxonomy_text": "목 : 강도래목 (Plecoptera)\n과 : 강도래과 (Perlidae)\n속 : 두눈강도래속 (Neoperla)",
+  "basic_information": {
+    "곤충명": "두눈강도래",
+    "학명": "Neoperla coreensis Ra, Kim, Kang & Ham, 1994"
+  },
+  "information": {
+    "general_description": "강도래 무리중 국외로 반출이 금지된 종 중 하나이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "표본기록에 의하면 성충의 경우 우리나라 남부지방에서 7월중순에 출현하는 것으로 알려져 있다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대한민국] 경상남도",
+    "notes": "[반출금지종] 환경부고시제2001-210호",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "강도래 무리중 국외로 반출이 금지된 종 중 하나이다."
+    },
+    {
+      "title": "생태",
+      "text": "표본기록에 의하면 성충의 경우 우리나라 남부지방에서 7월중순에 출현하는 것으로 알려져 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대한민국] 경상남도"
+    },
+    {
+      "title": "특기사항",
+      "text": "[반출금지종] 환경부고시제2001-210호"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZIAK0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/I1/ZIAK0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/I1/ZIAK0001_1_th.jpg",
+      "alt": "두눈강도래 1번째 사진 : 두눈강도래전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/I1/ZIAK0001_1_th2.jpg",
+      "caption": "두눈강도래전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZIAK0001-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0407231034",
+      "description": "[MPME0407231034] 두눈강도래 2001.07.16 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408191185",
+      "description": "[MPME0408191185] 두눈강도래 2001.07.16 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0407231035",
+      "description": "[MPME0407231035] 두눈강도래 2001.07.16 / / 목포자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZIAK0001-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZIAK0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:35+00:00",
+    "html_sha256": "ce7f05c999c123416d824d55bed1a1ca5425a99c787657f79703b7bded378489",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

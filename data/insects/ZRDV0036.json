@@ -1,0 +1,137 @@
+{
+  "id": "ZRDV0036",
+  "name_ko": "공작나비",
+  "scientific_name": "Inachis io (Linnaeus, 1758)",
+  "display_name": "공작나비",
+  "family_ko": "네발나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "네발나비과",
+      "name_latin": "Nymphalidae"
+    },
+    "subfamily": {
+      "name_ko": "네발나비아과",
+      "name_latin": "Nymphalinae"
+    },
+    "genus": {
+      "name_ko": "공작나비속",
+      "name_latin": "Inachis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 네발나비과 (Nymphalidae)\n아과 : 네발나비아과 (Nymphalinae)\n속 : 공작나비속 (Inachis)",
+  "basic_information": {
+    "곤충명": "공작나비",
+    "학명": "Inachis io (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "암컷은 수컷에 비하여 날개폭이 넓고 윗면의 바탕색이 다소 연하기는 하나 암수가 색채나 무늬에 큰 차가 없으므로 구별하기가 어렵다. 배끝의 모양으로 암수구별이 가능하나, 가장 확실한 방법은 굳어지기 전에 배끝을 눌러 교미기를 밀어내어 암수를 확인하는 것이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "대체로 1,000m 이상의 잡목림이 많은 산지의 나무가 적은 정상 주변에 서식하는 것으로 보이며, 큰까치수영이나 쉬땅나무의 꽃에서 흡밀한다. 대체로 흡밀할 때 쉽게 채집된다.",
+    "season": null,
+    "overwintering": "성충",
+    "distribution": "[일본]\n[중국]\n[러시아]\n[유럽]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷은 수컷에 비하여 날개폭이 넓고 윗면의 바탕색이 다소 연하기는 하나 암수가 색채나 무늬에 큰 차가 없으므로 구별하기가 어렵다. 배끝의 모양으로 암수구별이 가능하나, 가장 확실한 방법은 굳어지기 전에 배끝을 눌러 교미기를 밀어내어 암수를 확인하는 것이다."
+    },
+    {
+      "title": "습성",
+      "text": "대체로 1,000m 이상의 잡목림이 많은 산지의 나무가 적은 정상 주변에 서식하는 것으로 보이며, 큰까치수영이나 쉬땅나무의 꽃에서 흡밀한다. 대체로 흡밀할 때 쉽게 채집된다."
+    },
+    {
+      "title": "월동",
+      "text": "성충"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]\n[유럽]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDV0036-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0036_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0036_3.jpg",
+      "alt": "공작나비 1번째 사진 : 공작나비 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0036_3_th2.jpg",
+      "caption": "공작나비 이미지",
+      "photographed_at": "20130822",
+      "location": "강원도 양구군 대암산",
+      "photographer": "국립수목원(임종옥)"
+    },
+    {
+      "id": "ZRDV0036-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0036_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0036_2.jpg",
+      "alt": "공작나비 2번째 사진 : 공작나비 수컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0036_2_th2.jpg",
+      "caption": "공작나비 수컷 이미지",
+      "photographed_at": "20110628",
+      "location": "강원도 화천군 화천읍 해산령",
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRDV0036-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0036_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0036_1_th.jpg",
+      "alt": "공작나비 3번째 사진 : 공작나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0036_1_th2.jpg",
+      "caption": "공작나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDV0036-1",
+  "specimen_examples": [
+    {
+      "id": "ADUE0305101002",
+      "description": "[ADUE0305101002] 공작나비 2001.08.07 / / 안동대학교"
+    },
+    {
+      "id": "SJNE0203271035",
+      "description": "[SJNE0203271035] 공작나비 2001.07.20 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0203271036",
+      "description": "[SJNE0203271036] 공작나비 2001.07.20 / / 상주대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDV0036.png",
+    "reference_image_id": "ZRDV0036-3",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T13:14:03.619148+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "cd77ae0cb65bed6ebd088da43bb238e4df5e8e87f8f271c4a3ee20dbb2727fce"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDV0036&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:07+00:00",
+    "html_sha256": "8de40606fe20fd90b617527b7d91ee054708993f6f814339f61fd63b1c39d884",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "id": "ZTDJ0009",
+  "name_ko": "얼룩송곳벌",
+  "scientific_name": "Tremex fuscicornis (Fabricius, 1787)",
+  "display_name": "얼룩송곳벌",
+  "family_ko": "송곳벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "송곳벌상과",
+      "name_latin": "Siricoidea"
+    },
+    "family": {
+      "name_ko": "송곳벌과",
+      "name_latin": "Siricidae"
+    },
+    "subfamily": {
+      "name_ko": "참송곳벌아과",
+      "name_latin": "Tremicinae"
+    },
+    "genus": {
+      "name_ko": "참송곳벌속",
+      "name_latin": "Tremex"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 송곳벌상과 (Siricoidea)\n과 : 송곳벌과 (Siricidae)\n아과 : 참송곳벌아과 (Tremicinae)\n속 : 참송곳벌속 (Tremex)",
+  "basic_information": {
+    "곤충명": "얼룩송곳벌",
+    "학명": "Tremex fuscicornis (Fabricius, 1787)"
+  },
+  "information": {
+    "general_description": "몸길이는 25 mm 내외이다. 암컷은 흑색이다. 꼬리마디 대부분과 꼬리모양돌기는 황갈색이고 배쪽에는 다소 황갈색인 부분이 있다. 더듬이는 13마디로 되어 있고 갈색이다. 날개는 투명하고 황색을 띠며 가장자리 부근은 담황색이다. 머리의 앞부분에는 황색 털이, 그 밖의 부분에는 암색 털이 밀생한다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 25 mm 내외이다. 암컷은 흑색이다. 꼬리마디 대부분과 꼬리모양돌기는 황갈색이고 배쪽에는 다소 황갈색인 부분이 있다. 더듬이는 13마디로 되어 있고 갈색이다. 날개는 투명하고 황색을 띠며 가장자리 부근은 담황색이다. 머리의 앞부분에는 황색 털이, 그 밖의 부분에는 암색 털이 밀생한다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDJ0009-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDJ0009_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDJ0009_2_th.jpg",
+      "alt": "얼룩송곳벌 1번째 사진 : 얼룩송곳벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDJ0009_2_th2.jpg",
+      "caption": "얼룩송곳벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTDJ0009-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDJ0009_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDJ0009_1_th.jpg",
+      "alt": "얼룩송곳벌 2번째 사진 : 얼룩송곳벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDJ0009_1_th2.jpg",
+      "caption": "얼룩송곳벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDJ0009-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0301046143",
+      "description": "[YNUE0301046143] 얼룩송곳벌 1991.09.29 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301046144",
+      "description": "[YNUE0301046144] 얼룩송곳벌 1983.09.24 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301046145",
+      "description": "[YNUE0301046145] 얼룩송곳벌 1986.09.14 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDJ0009-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDJ0009&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:51+00:00",
+    "html_sha256": "9268b1618ea75914c44327183dbd47dfc03bfb2a8df0c1704966eec5215c866f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

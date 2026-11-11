@@ -1,0 +1,103 @@
+{
+  "id": "ZLBN0031",
+  "name_ko": "연리초장님노린재",
+  "scientific_name": "Adelphocoris lineolatus (Geoze, 1778)",
+  "display_name": "연리초장님노린재",
+  "family_ko": "장님노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "장님노린재상과",
+      "name_latin": "Miroidea"
+    },
+    "family": {
+      "name_ko": "장님노린재과",
+      "name_latin": "Miridae"
+    },
+    "subfamily": {
+      "name_ko": "장님노린재아과",
+      "name_latin": "Mirinae"
+    },
+    "genus": {
+      "name_ko": "변색장님노린재속",
+      "name_latin": "Adelphocoris"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 장님노린재상과 (Miroidea)\n과 : 장님노린재과 (Miridae)\n아과 : 장님노린재아과 (Mirinae)\n속 : 변색장님노린재속 (Adelphocoris)",
+  "basic_information": {
+    "곤충명": "연리초장님노린재",
+    "학명": "Adelphocoris lineolatus (Geoze, 1778)"
+  },
+  "information": {
+    "general_description": "몸길이 : 7.2-9.2mm\n몸은 연두색 또는 황갈색 바탕에 흑색과 갈색의 얼룩무늬가 있다. 머리는 앞 끝에 검은 무늬가 있으며, 더듬이는 길게 발달하였고 제 1마디가 가장 굵다. 앞가슴등판은 때때로 앞가장자리에 한 쌍의 작은 검정 무늬가 있으나 소실된 개체도 있다. 후반부에는 안경처럼 생긴 흑색 무늬를 가진다. 작은방패판은 T자 모양의 흑갈색 무늬를 갖는다. 앞날개의 혁질부에는 흑갈색의 줄무늬와 세모 무늬가 비스듬하게 나타난다. 막질부는 흑갈색을 띠고 불투명하다. 설상부는 연두색이거나 회황색을 띠며 날개의 다른 부위보다 밝은 색조를 가진다. 뒷다리는 특히 길게 발달하였고, 허벅마디와 말단부와 종아리마디는 흑갈색을 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[몽골]\n[러시아]\n[유럽]\n[미국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 7.2-9.2mm\n몸은 연두색 또는 황갈색 바탕에 흑색과 갈색의 얼룩무늬가 있다. 머리는 앞 끝에 검은 무늬가 있으며, 더듬이는 길게 발달하였고 제 1마디가 가장 굵다. 앞가슴등판은 때때로 앞가장자리에 한 쌍의 작은 검정 무늬가 있으나 소실된 개체도 있다. 후반부에는 안경처럼 생긴 흑색 무늬를 가진다. 작은방패판은 T자 모양의 흑갈색 무늬를 갖는다. 앞날개의 혁질부에는 흑갈색의 줄무늬와 세모 무늬가 비스듬하게 나타난다. 막질부는 흑갈색을 띠고 불투명하다. 설상부는 연두색이거나 회황색을 띠며 날개의 다른 부위보다 밝은 색조를 가진다. 뒷다리는 특히 길게 발달하였고, 허벅마디와 말단부와 종아리마디는 흑갈색을 띤다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[몽골]\n[러시아]\n[유럽]\n[미국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLBN0031-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBN0031_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBN0031_1_th.jpg",
+      "alt": "연리초장님노린재 1번째 사진 : 연리초장님노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBN0031_1_th2.jpg",
+      "caption": "연리초장님노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLBN0031-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0408182189",
+      "description": "[SNUE0408182189] 연리초장님노린재 1974.07.21 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0408182190",
+      "description": "[SNUE0408182190] 연리초장님노린재 1974.07.24 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0408182191",
+      "description": "[SNUE0408182191] 연리초장님노린재 1999.10.03 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLBN0031-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLBN0031&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:07+00:00",
+    "html_sha256": "0717a2443dbcac1c2930e788f0b6a25d9396caf4589b5f003cd0deab631ae98f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

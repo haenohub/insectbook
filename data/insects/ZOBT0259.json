@@ -1,0 +1,103 @@
+{
+  "id": "ZOBT0259",
+  "name_ko": "세줄털다리벼룩잎벌레",
+  "scientific_name": "Chaetocnema (Chaetocnema) concinnicollis (Baly, 1874)",
+  "display_name": "세줄털다리벼룩잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "긴더듬이잎벌레아과",
+      "name_latin": "Galerucinae"
+    },
+    "genus": {
+      "name_ko": "털다리벼룩잎벌레속",
+      "name_latin": "Chaetocnema"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 긴더듬이잎벌레아과 (Galerucinae)\n속 : 털다리벼룩잎벌레속 (Chaetocnema)",
+  "basic_information": {
+    "곤충명": "세줄털다리벼룩잎벌레",
+    "학명": "Chaetocnema (Chaetocnema) concinnicollis (Baly, 1874)"
+  },
+  "information": {
+    "general_description": "체장은 1.0~2.0㎜이며, 난형.체배면은 동금색이고, 촉각은 적갈색, 말단 4.5절은 흑색, 다리는 적갈색, 뒷다리 퇴절은 흑갈색, 윗날개의 점각 열간실은 점각의 직경보다 폭이 넓다.불규칙한 3열로 이루어진 윗날개 소순판 측방의 점각과 그 검각들을 다수 보유한 두부로 이루어져 있다.분포는 일본, 중국, 대만 인도차이나, 한국이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[대만]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체장은 1.0~2.0㎜이며, 난형.체배면은 동금색이고, 촉각은 적갈색, 말단 4.5절은 흑색, 다리는 적갈색, 뒷다리 퇴절은 흑갈색, 윗날개의 점각 열간실은 점각의 직경보다 폭이 넓다.불규칙한 3열로 이루어진 윗날개 소순판 측방의 점각과 그 검각들을 다수 보유한 두부로 이루어져 있다.분포는 일본, 중국, 대만 인도차이나, 한국이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[대만]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0259-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0259_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0259_1_th.jpg",
+      "alt": "세줄털다리벼룩잎벌레 1번째 사진 : 세줄털다리벼룩잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0259_1_th2.jpg",
+      "caption": "세줄털다리벼룩잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0259-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303142037",
+      "description": "[KNAE0303142037] 세줄털다리벼룩잎벌레 1998.08.04 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303142038",
+      "description": "[KNAE0303142038] 세줄털다리벼룩잎벌레 1998.08.05 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303142040",
+      "description": "[KNAE0303142040] 세줄털다리벼룩잎벌레 1998.08.07 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0259-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0259&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:08+00:00",
+    "html_sha256": "4e57f1367ae25854fc670abf6b0047236115a46154a93377c269fb4780a2e30c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

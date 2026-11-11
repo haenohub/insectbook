@@ -1,0 +1,133 @@
+{
+  "id": "ZOBP0012",
+  "name_ko": "꽃무지",
+  "scientific_name": "Cetonia (Eucetonia) pilifera pilifera (Motschulsky, 1860)",
+  "display_name": "꽃무지",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "꽃무지아과",
+      "name_latin": "Cetoniinae"
+    },
+    "genus": {
+      "name_ko": "꽃무지속",
+      "name_latin": "Cetonia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 꽃무지아과 (Cetoniinae)\n속 : 꽃무지속 (Cetonia)",
+  "basic_information": {
+    "곤충명": "꽃무지",
+    "학명": "Cetonia (Eucetonia) pilifera pilifera (Motschulsky, 1860)"
+  },
+  "information": {
+    "general_description": "몸은 적갈색 내지 암적갈색으로 광택이 없으며, 녹색을 띠거나 녹색 가루로 덮였는데 가루가 벗겨져 약한 광택이 보이는 개체도 있다. 딱지날개는 어깨융기와 날개 끝 융기가 있고, 담황색 내지 백색 무늬와 털도 있다. 머리방패의 앞쪽은 상반하였고 약하게 파였다. 전경절 외치는 3개인데 뾰족하다. 딱지날개는 말단부에서 서로 만나는 2개의 조구가 있고, 간실에는 구름모양의 인각이 있다. 수컷의 복부복판은 세로로 파였다. 참꽃무지는 중흉돌기의 앞쪽이 직선형이며, 내륙에 분포한다. 섬꽃무지는 중흉돌기의 앞쪽이 원추형으로 돌출하였고, 제주특별자치도에 분포한다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국] 동북지방\n[러시아] 동시베리아지역\n[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸은 적갈색 내지 암적갈색으로 광택이 없으며, 녹색을 띠거나 녹색 가루로 덮였는데 가루가 벗겨져 약한 광택이 보이는 개체도 있다. 딱지날개는 어깨융기와 날개 끝 융기가 있고, 담황색 내지 백색 무늬와 털도 있다. 머리방패의 앞쪽은 상반하였고 약하게 파였다. 전경절 외치는 3개인데 뾰족하다. 딱지날개는 말단부에서 서로 만나는 2개의 조구가 있고, 간실에는 구름모양의 인각이 있다. 수컷의 복부복판은 세로로 파였다. 참꽃무지는 중흉돌기의 앞쪽이 직선형이며, 내륙에 분포한다. 섬꽃무지는 중흉돌기의 앞쪽이 원추형으로 돌출하였고, 제주특별자치도에 분포한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국] 동북지방\n[러시아] 동시베리아지역\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBP0012-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBP0012_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBP0012_2_th.jpg",
+      "alt": "꽃무지 1번째 사진 : 꽃무지전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBP0012_2_th2.jpg",
+      "caption": "꽃무지전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBP0012-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBP0012_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBP0012_1_th.jpg",
+      "alt": "꽃무지 2번째 사진 : 꽃무지전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBP0012_1_th2.jpg",
+      "caption": "꽃무지전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBP0012-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0304092068",
+      "description": "[SNUE0304092068] 꽃무지 1986.06.29 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0304092070",
+      "description": "[SNUE0304092070] 꽃무지 1990.06.03 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0304092076",
+      "description": "[SNUE0304092076] 꽃무지 1986.06.29 / / 서울대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "배롱나무",
+      "scientific_name": "Lagerstroemia indica L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "해당화",
+      "scientific_name": "Rosa rugosa Thunb."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBP0012.png",
+    "reference_image_id": "ZOBP0012-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T14:47:44.041831+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "e3fd828930c7c771068c7209f87369cf78b4362dbc3d71e1caec233c5612689b"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBP0012&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:56+00:00",
+    "html_sha256": "4a45ba767d809c4968b34ff02098cf9c58720c192e5452ca4f4f56fac8f0caba",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

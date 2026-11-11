@@ -1,0 +1,118 @@
+{
+  "id": "ZOAM0019",
+  "name_ko": "털보소바구미",
+  "scientific_name": "Eucorynus crassicornis (Fabricius, 1801)",
+  "display_name": "털보소바구미",
+  "family_ko": "소바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "소바구미과",
+      "name_latin": "Anthribidae"
+    },
+    "subfamily": {
+      "name_ko": "소바구미아과",
+      "name_latin": "Anthribinae"
+    },
+    "genus": {
+      "name_ko": "털보소바구미속",
+      "name_latin": "Eucorynus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 소바구미과 (Anthribidae)\n아과 : 소바구미아과 (Anthribinae)\n속 : 털보소바구미속 (Eucorynus)",
+  "basic_information": {
+    "곤충명": "털보소바구미",
+    "학명": "Eucorynus crassicornis (Fabricius, 1801)"
+  },
+  "information": {
+    "general_description": "몸길이는 6.1~10mm이며, 다리에 두개의 흰색의 털로 된 띠무늬가 있고, 몸은 약간 편평한 편이다. 눈은 둥글며 촉각의 곤봉부는 네마디로 이루어져 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[말레이시아]\n[태국]\n[일본]\n[인도]\n[중국]\n[필리핀]",
+    "notes": "[감소추세종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 6.1~10mm이며, 다리에 두개의 흰색의 털로 된 띠무늬가 있고, 몸은 약간 편평한 편이다. 눈은 둥글며 촉각의 곤봉부는 네마디로 이루어져 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[말레이시아]\n[태국]\n[일본]\n[인도]\n[중국]\n[필리핀]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[감소추세종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAM0019-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0019_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0019_2_th.jpg",
+      "alt": "털보소바구미 1번째 사진 : 털보소바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0019_2_th2.jpg",
+      "caption": "털보소바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOAM0019-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0019_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0019_1_th.jpg",
+      "alt": "털보소바구미 2번째 사진 : 털보소바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0019_1_th2.jpg",
+      "caption": "털보소바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAM0019-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0204024001",
+      "description": "[SNUE0204024001] 털보소바구미 1998.08.29 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0204024002",
+      "description": "[SNUE0204024002] 털보소바구미 1998.08.29 / / 서울대학교"
+    },
+    {
+      "id": "KNAE1006222204",
+      "description": "[KNAE1006222204] 털보소바구미 1998.08.29 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAM0019-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAM0019&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:18+00:00",
+    "html_sha256": "bad0215fa02f0393242775c70b14e7329899d1d3e9b803ec491d55544ba41530",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

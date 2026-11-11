@@ -1,0 +1,142 @@
+{
+  "id": "ZOAR0032",
+  "name_ko": "개암거위벌레",
+  "scientific_name": "Apoderus coryli (Linnaeus, 1758)",
+  "display_name": "개암거위벌레",
+  "family_ko": "거위벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "거위벌레과",
+      "name_latin": "Attelabidae"
+    },
+    "subfamily": {
+      "name_ko": "목거위벌레아과",
+      "name_latin": "Apoderinae"
+    },
+    "genus": {
+      "name_ko": "목거위벌레속",
+      "name_latin": "Apoderus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 거위벌레과 (Attelabidae)\n아과 : 목거위벌레아과 (Apoderinae)\n속 : 목거위벌레속 (Apoderus)",
+  "basic_information": {
+    "곤충명": "개암거위벌레",
+    "학명": "Apoderus coryli (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "한국, 중국, 몽고, 러시아, 유럽에 분포하며, 체장은 6.0-7.5mm 정도이다. 체색은 검은색이며, 시초와 앞가슴, 퇴절은 붉은색이다. 개체마다 체색의 변이가 부분적으로 약간 있으며, 일부 개체들은 최절과 전흉이 부분적으로 검기도 하다. 머리는 폭보다 길이가 2배정도 길며, 짧은 뺨을 가진다. 정수리 부근은 중앙에 세로로 된 홈이 있으며, 주변에 깊게 패인 주름이 있다. 주둥이는 폭과 길이가 같으며, 기부가 좁으며 앞쪽으로 넓어진다. 촉각홈은 혹처럼 튀어나온 곳에서 삽입된다. 앞가슴등판은 빛나며, 점각이 산포한다. 시초는 어깨부분 뒤로 좁아졌다가 다시 넓어진다. 점각열은 크고, 깊게 파여있다. 점각열간은 주름을 가진다. 암컷의 머리는 폭보다 길이가 약간 길며, 더듬이는 짧다. 또한 앞가슴이 수컷보다 짧다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "개암나무류, 물오리나무, 밤나무, 상수리나무, 떡갈나무를 기주식물로 한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[몽골]\n[중국]",
+    "notes": "[보통종]\n[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 중국, 몽고, 러시아, 유럽에 분포하며, 체장은 6.0-7.5mm 정도이다. 체색은 검은색이며, 시초와 앞가슴, 퇴절은 붉은색이다. 개체마다 체색의 변이가 부분적으로 약간 있으며, 일부 개체들은 최절과 전흉이 부분적으로 검기도 하다. 머리는 폭보다 길이가 2배정도 길며, 짧은 뺨을 가진다. 정수리 부근은 중앙에 세로로 된 홈이 있으며, 주변에 깊게 패인 주름이 있다. 주둥이는 폭과 길이가 같으며, 기부가 좁으며 앞쪽으로 넓어진다. 촉각홈은 혹처럼 튀어나온 곳에서 삽입된다. 앞가슴등판은 빛나며, 점각이 산포한다. 시초는 어깨부분 뒤로 좁아졌다가 다시 넓어진다. 점각열은 크고, 깊게 파여있다. 점각열간은 주름을 가진다. 암컷의 머리는 폭보다 길이가 약간 길며, 더듬이는 짧다. 또한 앞가슴이 수컷보다 짧다."
+    },
+    {
+      "title": "생태",
+      "text": "개암나무류, 물오리나무, 밤나무, 상수리나무, 떡갈나무를 기주식물로 한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[몽골]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]\n[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAR0032-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOAR0032_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOAR0032_2.jpg",
+      "alt": "개암거위벌레 1번째 사진 : ",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOAR0032_2_th2.jpg",
+      "caption": null,
+      "photographed_at": "20130710",
+      "location": null,
+      "photographer": "국립수목원(임종옥)"
+    },
+    {
+      "id": "ZOAR0032-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0032_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0032_1_th.jpg",
+      "alt": "개암거위벌레 2번째 사진 : 개암거위벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0032_1_th2.jpg",
+      "caption": "개암거위벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAR0032-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0407182001",
+      "description": "[KUIE0407182001] 개암거위벌레 1934.05.13 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0407182002",
+      "description": "[KUIE0407182002] 개암거위벌레 1957.06.01 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0407182003",
+      "description": "[KUIE0407182003] 개암거위벌레 1957.06.01 / / 고려대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "떡갈나무",
+      "scientific_name": "Quercus dentata Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "밤나무",
+      "scientific_name": "Castanea crenata Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "상수리나무",
+      "scientific_name": "Quercus acutissima Carruth."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOAR0032.png",
+    "reference_image_id": "ZOAR0032-2",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T17:07:55.646381+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "c95a66ac48bef1e8fa000efb1b16f3fdabda8fcc75cc9a140cf335069c83c876"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAR0032&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:44+00:00",
+    "html_sha256": "dc05705ca19fa856a164e9b267954701a1aa1da0084af1f68bea04a3e7101d5f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": "ZOBH0322",
+  "name_ko": "설악머리먼지벌레",
+  "scientific_name": "Harpalus (Pseudoophonus) roninus Bates, 1873",
+  "display_name": "설악머리먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "먼지벌레아과",
+      "name_latin": "Harpalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Harpalus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 먼지벌레아과 (Harpalinae)\n속 : (Harpalus)",
+  "basic_information": {
+    "곤충명": "설악머리먼지벌레",
+    "학명": "Harpalus (Pseudoophonus) roninus Bates, 1873"
+  },
+  "information": {
+    "general_description": "체색은 검은색이며, 무광택이다. 시초는 두부,전흉보다 흐리다. 대악은 검은색이며 상순은 흑갈색이다. 두부는 넓은 편이며, 볼록한 편이다.\n이들은 한국,북중국, 일본 등지에서 분포한다.",
+    "adult": null,
+    "adult_male": "삽입구는 약간 뾰족하며 정점 근처에서 복부쪽으로 휘어져 있다.",
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체색은 검은색이며, 무광택이다. 시초는 두부,전흉보다 흐리다. 대악은 검은색이며 상순은 흑갈색이다. 두부는 넓은 편이며, 볼록한 편이다.\n이들은 한국,북중국, 일본 등지에서 분포한다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "삽입구는 약간 뾰족하며 정점 근처에서 복부쪽으로 휘어져 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0322-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0322_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0322_2_th.jpg",
+      "alt": "설악머리먼지벌레 1번째 사진 : 설악머리먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0322_2_th2.jpg",
+      "caption": "설악머리먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0322-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0322_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0322_1_th.jpg",
+      "alt": "설악머리먼지벌레 2번째 사진 : 설악머리먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0322_1_th2.jpg",
+      "caption": "설악머리먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0322-1",
+  "specimen_examples": [
+    {
+      "id": "SJNE0408171009",
+      "description": "[SJNE0408171009] 설악머리먼지벌레 2001.08.20 / / 상주대학교"
+    },
+    {
+      "id": "KNAE0303262028",
+      "description": "[KNAE0303262028] 설악머리먼지벌레 1994.08.30 / / 국립수목원"
+    },
+    {
+      "id": "JFNE0303131086",
+      "description": "[JFNE0303131086] 설악머리먼지벌레 1994.11.14 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0322-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0322&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:55+00:00",
+    "html_sha256": "3f044e24d6118d391031c69efc1aa2f94c60d79c7ab5404bf34d717c03a750b7",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

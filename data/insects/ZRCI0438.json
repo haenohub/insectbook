@@ -1,0 +1,111 @@
+{
+  "id": "ZRCI0438",
+  "name_ko": "고운애기가지나방",
+  "scientific_name": "Lomaspilis opis Butler, 1878",
+  "display_name": "고운애기가지나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "가지나방아과",
+      "name_latin": "Ennominae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Lomaspilis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 가지나방아과 (Ennominae)\n속 : (Lomaspilis)",
+  "basic_information": {
+    "곤충명": "고운애기가지나방",
+    "학명": "Lomaspilis opis Butler, 1878"
+  },
+  "information": {
+    "general_description": "백덕산,치악산,주을과 일본,아무르에 분포하며 더듬이- 수컷은 미모상, 암컷은 실 모양. 몸은 흑색이다.\n날개(24~26mm)- 백색, 큰 혹색 무늬가 있다.\n전연부; 밑부분에서 약 1/3까지 흑색, 전연의 중앙 부위에 큰 흑색 무늬,\n횡맥 부근의 무늬와 결합, 다시 후연에 1개의 반원형 무늬와 맞서고 있다 뒷날개의 밑부분은 넓고 백색. 중앙부의 흑색 무늬는 대부분의 경우 융합하여 넓은 띠를 이룬다. 앞,뒷날개 모두 외연이 흑색, 연모는 흑색 광택.\n한국산 아종은 amurensis Hedemann 이라 부른다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6월에 출현한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "백덕산,치악산,주을과 일본,아무르에 분포하며 더듬이- 수컷은 미모상, 암컷은 실 모양. 몸은 흑색이다.\n날개(24~26mm)- 백색, 큰 혹색 무늬가 있다.\n전연부; 밑부분에서 약 1/3까지 흑색, 전연의 중앙 부위에 큰 흑색 무늬,\n횡맥 부근의 무늬와 결합, 다시 후연에 1개의 반원형 무늬와 맞서고 있다 뒷날개의 밑부분은 넓고 백색. 중앙부의 흑색 무늬는 대부분의 경우 융합하여 넓은 띠를 이룬다. 앞,뒷날개 모두 외연이 흑색, 연모는 흑색 광택.\n한국산 아종은 amurensis Hedemann 이라 부른다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6월에 출현한다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0438-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0438_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0438_1_th.jpg",
+      "alt": "고운애기가지나방 1번째 사진 : 고운애기가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0438_1_th2.jpg",
+      "caption": "고운애기가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0438-1",
+  "specimen_examples": [
+    {
+      "id": "CBNE0301071009",
+      "description": "[CBNE0301071009] 고운애기가지나방 2002.07.30 / / 충북대학교"
+    },
+    {
+      "id": "KNUE0201231243",
+      "description": "[KNUE0201231243] 고운애기가지나방 1997.06.23 / / 강원대학교"
+    },
+    {
+      "id": "UIBE0202262119",
+      "description": "[UIBE0202262119] 고운애기가지나방 1999.07.15 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRCI0438.png",
+    "reference_image_id": "ZRCI0438-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T12:39:29.703297+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "6194810dac07aa617cf3e094cedf2604bd815a3ee9ff7f4a50d6a425a892384d"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0438&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:55+00:00",
+    "html_sha256": "11ed46614f2717f61690ef12951ed3b7ccb94b9e1371fecbdb25fe8a59362247",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

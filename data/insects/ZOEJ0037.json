@@ -1,0 +1,110 @@
+{
+  "id": "ZOEJ0037",
+  "name_ko": "부산우단풍뎅이",
+  "scientific_name": "Maladera fusania (Murayama, 1934)",
+  "display_name": "부산우단풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "검정풍뎅이아과",
+      "name_latin": "Melolonthinae"
+    },
+    "genus": {
+      "name_ko": "애우단풍뎅이속",
+      "name_latin": "Maladera"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 검정풍뎅이아과 (Melolonthinae)\n속 : 애우단풍뎅이속 (Maladera)",
+  "basic_information": {
+    "곤충명": "부산우단풍뎅이",
+    "학명": "Maladera fusania (Murayama, 1934)"
+  },
+  "information": {
+    "general_description": "대만에 분포하며, 몸은 난형이고, 등쪽은 적갈색내지 흑갈색의 우단모양이나 우단이 쉽게 벗겨져서 광택이 드러나기도 하며, 아랫면은 적갈색이다. 머리방패의 가운데는 혹이 없고, 후경절은 가늘고 길며, 촉각은 10마디인데 곤봉부는 암,수 모두 자루마디보다 훨씬 짧다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "대만에 분포하며, 몸은 난형이고, 등쪽은 적갈색내지 흑갈색의 우단모양이나 우단이 쉽게 벗겨져서 광택이 드러나기도 하며, 아랫면은 적갈색이다. 머리방패의 가운데는 혹이 없고, 후경절은 가늘고 길며, 촉각은 10마디인데 곤봉부는 암,수 모두 자루마디보다 훨씬 짧다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOEJ0037-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0037_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0037_2_th.jpg",
+      "alt": "부산우단풍뎅이 1번째 사진 : 부산우단풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0037_2_th2.jpg",
+      "caption": "부산우단풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOEJ0037-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0037_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0037_1_th.jpg",
+      "alt": "부산우단풍뎅이 2번째 사진 : 부산우단풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0037_1_th2.jpg",
+      "caption": "부산우단풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOEJ0037-1",
+  "specimen_examples": [
+    {
+      "id": "SSUE0201181040",
+      "description": "[SSUE0201181040] 부산우단풍뎅이 1987.05.23 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0201211017",
+      "description": "[SSUE0201211017] 부산우단풍뎅이 1993.05.08 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0201211018",
+      "description": "[SSUE0201211018] 부산우단풍뎅이 1998.05.07 / / 성신여자대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOEJ0037-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOEJ0037&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:16+00:00",
+    "html_sha256": "256527bf26b3e3514c0e33e176ba3c9b1208677d24c83770292bd056311c74ef",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

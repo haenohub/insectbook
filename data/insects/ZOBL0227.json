@@ -1,0 +1,129 @@
+{
+  "id": "ZOBL0227",
+  "name_ko": "수염하늘소",
+  "scientific_name": "Monochamus (Monochamus) urussovii (Waldheim, 1805)",
+  "display_name": "수염하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "목하늘소아과",
+      "name_latin": "Lamiinae"
+    },
+    "genus": {
+      "name_ko": "수염하늘소속",
+      "name_latin": "Monochamus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 목하늘소아과 (Lamiinae)\n속 : 수염하늘소속 (Monochamus)",
+  "basic_information": {
+    "곤충명": "수염하늘소",
+    "학명": "Monochamus (Monochamus) urussovii (Waldheim, 1805)"
+  },
+  "information": {
+    "general_description": "더듬이가 매우 짧아서 몸이 광택이 강하나 부분적으로 황록색을 띠고 군데군데에서 큰 무늬 모양이 나타나기도 한다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이가 매우 짧아서 몸이 광택이 강하나 부분적으로 황록색을 띠고 군데군데에서 큰 무늬 모양이 나타나기도 한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0227-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0227_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0227_2_th.jpg",
+      "alt": "수염하늘소 1번째 사진 : 수염하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0227_2_th2.jpg",
+      "caption": "수염하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBL0227-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0227_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0227_1_th.jpg",
+      "alt": "수염하늘소 2번째 사진 : 수염하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0227_1_th2.jpg",
+      "caption": "수염하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0227-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0203061077",
+      "description": "[KPNE0203061077] 수염하늘소 1990.05.27 / / 경북대학교"
+    },
+    {
+      "id": "SNUE0202272011",
+      "description": "[SNUE0202272011] 수염하늘소 1997.07.31 / / 서울대학교"
+    },
+    {
+      "id": "KNAE310305",
+      "description": "[KNAE310305] 수염하늘소 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "구상나무",
+      "scientific_name": "Abies koreana E.H.Wilson"
+    },
+    {
+      "group": "식물",
+      "name_ko": "일본잎갈나무",
+      "scientific_name": "Larix kaempferi (Lamb.) Carrière"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0227-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0227&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:35+00:00",
+    "html_sha256": "46f425a46c491cd01f429a449d3cf45d77cf5b9aa4c4ccf0a337b56b80fe5191",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

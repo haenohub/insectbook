@@ -1,0 +1,103 @@
+{
+  "id": "ZTDO0072",
+  "name_ko": "가락지검정잎벌",
+  "scientific_name": "Macrophya (Macrophya) annulitibia Takeuchi, 1933",
+  "display_name": "가락지검정잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "잎벌아과",
+      "name_latin": "Tenthredininae"
+    },
+    "genus": {
+      "name_ko": "검정잎벌속",
+      "name_latin": "Macrophya"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 잎벌아과 (Tenthredininae)\n속 : 검정잎벌속 (Macrophya)",
+  "basic_information": {
+    "곤충명": "가락지검정잎벌",
+    "학명": "Macrophya (Macrophya) annulitibia Takeuchi, 1933"
+  },
+  "information": {
+    "general_description": "몸길이는 9mm, 더듬이 길이는 5mm,앞날개 길이는 10mm이다. 얼굴의 폭은 길이의 두배 정도 넓으며 복안 뒤쪽에서 좁아져 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 9mm, 더듬이 길이는 5mm,앞날개 길이는 10mm이다. 얼굴의 폭은 길이의 두배 정도 넓으며 복안 뒤쪽에서 좁아져 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0072-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0072_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0072_1_th.jpg",
+      "alt": "가락지검정잎벌 1번째 사진 : 가락지검정잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0072_1_th2.jpg",
+      "caption": "가락지검정잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0072-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0111283060",
+      "description": "[YNUE0111283060] 가락지검정잎벌 1987.07.30 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0111283066",
+      "description": "[YNUE0111283066] 가락지검정잎벌 1998.05.27 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTDO0072.png",
+    "reference_image_id": "ZTDO0072-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T16:26:28.298353+00:00",
+    "sha256": "a182e7d05bc8a8b6cc504825dfd857d05869b68c49ee6cbe7af89a58052c7d85",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0072&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:04+00:00",
+    "html_sha256": "e371dd9fac31af30baff8bf267523503d44ce2170c1824a9b09cff7a192eecf1",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

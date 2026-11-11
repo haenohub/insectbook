@@ -1,0 +1,118 @@
+{
+  "id": "ZOGJ0026",
+  "name_ko": "꼬마외뿔소똥풍뎅이",
+  "scientific_name": "Onthophagus (Palaeonthophagus) olsoufieffi Boucomont, 1924",
+  "display_name": "꼬마외뿔소똥풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "소똥구리아과",
+      "name_latin": "Scarabaeinae"
+    },
+    "genus": {
+      "name_ko": "소똥풍뎅이속",
+      "name_latin": "Onthophagus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 소똥구리아과 (Scarabaeinae)\n속 : 소똥풍뎅이속 (Onthophagus)",
+  "basic_information": {
+    "곤충명": "꼬마외뿔소똥풍뎅이",
+    "학명": "Onthophagus (Palaeonthophagus) olsoufieffi Boucomont, 1924"
+  },
+  "information": {
+    "general_description": "중국 북부, 우수리, 일본에 분포하며 매우 작고 흑색이나 털이 많고 두껍다. 수컷의 두정융기는 위쪽으로 약간 좁아지다 다ㅣ 넓어져 끝이 Y자 모양이며, 암컷은 짧고 넓으며, 상단은 3치상이다. 전흉배판 앞쪽에 4개의 작은 돌기열이 있다. BL:7mm미만(암),수컷보다 작음.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "우분보다는 도시 근처의 인,견분을 더 선호하는 것 같다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중국 북부, 우수리, 일본에 분포하며 매우 작고 흑색이나 털이 많고 두껍다. 수컷의 두정융기는 위쪽으로 약간 좁아지다 다ㅣ 넓어져 끝이 Y자 모양이며, 암컷은 짧고 넓으며, 상단은 3치상이다. 전흉배판 앞쪽에 4개의 작은 돌기열이 있다. BL:7mm미만(암),수컷보다 작음."
+    },
+    {
+      "title": "생태",
+      "text": "우분보다는 도시 근처의 인,견분을 더 선호하는 것 같다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGJ0026-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0026_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0026_2_th.jpg",
+      "alt": "꼬마외뿔소똥풍뎅이 1번째 사진 : 꼬마외뿔소똥풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0026_2_th2.jpg",
+      "caption": "꼬마외뿔소똥풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOGJ0026-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0026_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0026_1_th.jpg",
+      "alt": "꼬마외뿔소똥풍뎅이 2번째 사진 : 꼬마외뿔소똥풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGJ0026_1_th2.jpg",
+      "caption": "꼬마외뿔소똥풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGJ0026-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0408181021",
+      "description": "[UIBE0408181021] 꼬마외뿔소똥풍뎅이 2001.07.12 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0408181022",
+      "description": "[UIBE0408181022] 꼬마외뿔소똥풍뎅이 2000.09.29 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0408181023",
+      "description": "[UIBE0408181023] 꼬마외뿔소똥풍뎅이 2000.09.29 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOGJ0026.png",
+    "reference_image_id": "ZOGJ0026-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T14:17:13.317856+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "2aed522cad0517b4b4112eb304841662d3547ead10088182a5dd6927cb7c620b"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGJ0026&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:47+00:00",
+    "html_sha256": "07f805fac43eb2efecac7eef58afce26206ef2c920bb4a31ea5b24b054723691",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

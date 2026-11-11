@@ -1,0 +1,95 @@
+{
+  "id": "ZOBL0163",
+  "name_ko": "애호랑하늘소",
+  "scientific_name": "Xylotrechus (Xylotrechus) polyzonus (Fairmaire, 1888)",
+  "display_name": "애호랑하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "하늘소아과",
+      "name_latin": "Cerambycinae"
+    },
+    "genus": {
+      "name_ko": "호랑하늘소속",
+      "name_latin": "Xylotrechus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 하늘소아과 (Cerambycinae)\n속 : 호랑하늘소속 (Xylotrechus)",
+  "basic_information": {
+    "곤충명": "애호랑하늘소",
+    "학명": "Xylotrechus (Xylotrechus) polyzonus (Fairmaire, 1888)"
+  },
+  "information": {
+    "general_description": "몸의 길이는 10~14mm 이며, 몸은 전체적으로 황갈색이나 두부의 왕관형태의 검은무늬가 있고 딱지날개에 4개의 검은색 가로무늬가 있다. 촉각과 다리는 황갈색이고, 다리의 퇴전은 암갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의 길이는 10~14mm 이며, 몸은 전체적으로 황갈색이나 두부의 왕관형태의 검은무늬가 있고 딱지날개에 4개의 검은색 가로무늬가 있다. 촉각과 다리는 황갈색이고, 다리의 퇴전은 암갈색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0163-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0163_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0163_1_th.jpg",
+      "alt": "애호랑하늘소 1번째 사진 : 애호랑하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0163_1_th2.jpg",
+      "caption": "애호랑하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0163-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0205061156",
+      "description": "[SNUE0205061156] 애호랑하늘소 1992.06.09 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0163-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0163&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:20+00:00",
+    "html_sha256": "650fa3d0f56850f80cfcbce07cb2af0dbafed74ee3e9c440a04efd3e4e510f26",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

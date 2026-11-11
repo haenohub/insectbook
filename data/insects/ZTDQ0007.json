@@ -1,0 +1,118 @@
+{
+  "id": "ZTDQ0007",
+  "name_ko": "참굼벵이벌",
+  "scientific_name": "Tiphia koreana Rohwer, 1927",
+  "display_name": "참굼벵이벌",
+  "family_ko": "굼벵이벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "말벌상과",
+      "name_latin": "Vespoidea"
+    },
+    "family": {
+      "name_ko": "굼벵이벌과",
+      "name_latin": "Tiphiidae"
+    },
+    "subfamily": {
+      "name_ko": "굼벵이벌아과",
+      "name_latin": "Tiphiinae"
+    },
+    "genus": {
+      "name_ko": "굼벵이벌속",
+      "name_latin": "Tiphia"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 말벌상과 (Vespoidea)\n과 : 굼벵이벌과 (Tiphiidae)\n아과 : 굼벵이벌아과 (Tiphiinae)\n속 : 굼벵이벌속 (Tiphia)",
+  "basic_information": {
+    "곤충명": "참굼벵이벌",
+    "학명": "Tiphia koreana Rohwer, 1927"
+  },
+  "information": {
+    "general_description": "본 종은 제1복절 배판에 작거나 중간크기의 점각을 가지며 아단부에 접힘부가 없고 분명한 점각 열을 가지며, 중흉측판 후연에 종구가 없는 비 \"koreanus-species group\"에 속하는 종이다. 복절 배판들은 통상의 긴 흰색 털에 부가하여, 짧고 조밀하며 직립한 갈색 털이 있으며, 이들은 측면부보다는 등면부에 더 풍부하다. 첫번째 복절 배판의 아연부의 접힘 부위의 후부에는 점각줄이 없다. 제1복절 복판에는 톱니 모양의 중앙 홈이 있고 측면 홈은 후부 절반까지 있다.\n.",
+    "adult": null,
+    "adult_male": "몸길이 6.0-7.5 mm. 제2-5복절 배판의 전면에 갈색 털들이 조밀하게 나 있다. 전신복절 경포의 측용골선은 약하게 후부 쪽으로 좁아지며, 중용골선은 기부 반 부분에 존재하며 넓고 선단이 편평하다.",
+    "adult_female": "몸길이 7.5-11.0 mm. 복부 제3-5절의 전면에 조밀한 갈색 털이 나 있다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "본 종은 제1복절 배판에 작거나 중간크기의 점각을 가지며 아단부에 접힘부가 없고 분명한 점각 열을 가지며, 중흉측판 후연에 종구가 없는 비 \"koreanus-species group\"에 속하는 종이다. 복절 배판들은 통상의 긴 흰색 털에 부가하여, 짧고 조밀하며 직립한 갈색 털이 있으며, 이들은 측면부보다는 등면부에 더 풍부하다. 첫번째 복절 배판의 아연부의 접힘 부위의 후부에는 점각줄이 없다. 제1복절 복판에는 톱니 모양의 중앙 홈이 있고 측면 홈은 후부 절반까지 있다.\n."
+    },
+    {
+      "title": "성충(수)",
+      "text": "몸길이 6.0-7.5 mm. 제2-5복절 배판의 전면에 갈색 털들이 조밀하게 나 있다. 전신복절 경포의 측용골선은 약하게 후부 쪽으로 좁아지며, 중용골선은 기부 반 부분에 존재하며 넓고 선단이 편평하다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "몸길이 7.5-11.0 mm. 복부 제3-5절의 전면에 조밀한 갈색 털이 나 있다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDQ0007-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDQ0007_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDQ0007_2_th.jpg",
+      "alt": "참굼벵이벌 1번째 사진 : 참굼벵이벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDQ0007_2_th2.jpg",
+      "caption": "참굼벵이벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTDQ0007-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDQ0007_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDQ0007_1_th.jpg",
+      "alt": "참굼벵이벌 2번째 사진 : 참굼벵이벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDQ0007_1_th2.jpg",
+      "caption": "참굼벵이벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDQ0007-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305201028",
+      "description": "[YNUE0305201028] 참굼벵이벌 1994.08.04 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305201029",
+      "description": "[YNUE0305201029] 참굼벵이벌 1960.05.08 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0201176016",
+      "description": "[YNUE0201176016] 참굼벵이벌 1995.08.15 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDQ0007-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDQ0007&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:46+00:00",
+    "html_sha256": "9e0ae7632997bd3482833477d911bfc996f8b843c53f75ae0f930904684c5bb7",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

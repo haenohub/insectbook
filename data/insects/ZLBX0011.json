@@ -1,0 +1,114 @@
+{
+  "id": "ZLBX0011",
+  "name_ko": "청동노린재",
+  "scientific_name": "Acrocorisellus serraticollis (Jakovlev, 1876)",
+  "display_name": "청동노린재",
+  "family_ko": "노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "노린재상과",
+      "name_latin": "Pentatomoidea"
+    },
+    "family": {
+      "name_ko": "노린재과",
+      "name_latin": "Pentatomidae"
+    },
+    "subfamily": {
+      "name_ko": "노린재아과",
+      "name_latin": "Pentatominae"
+    },
+    "genus": {
+      "name_ko": "청동노린재속",
+      "name_latin": "Acrocorisellus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 노린재상과 (Pentatomoidea)\n과 : 노린재과 (Pentatomidae)\n아과 : 노린재아과 (Pentatominae)\n속 : 청동노린재속 (Acrocorisellus)",
+  "basic_information": {
+    "곤충명": "청동노린재",
+    "학명": "Acrocorisellus serraticollis (Jakovlev, 1876)"
+  },
+  "information": {
+    "general_description": "일반적으로 청동색이며, 머리는 청색을 많이 띠고, 앞가슴등판은 갈색을 띤 청동색이며 양 옆모서리는 현저히 돌출되었다. 앞가슴등판의 양 돌기 사이의 폭은 혁질부보다 길다. 작은방패판은 비교적 길고 그 폭은 앞가슴등판의 폭의 약 반이며, 그 선단은 좁아서 혀모양으로 처지고 연한 색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "일반적으로 청동색이며, 머리는 청색을 많이 띠고, 앞가슴등판은 갈색을 띤 청동색이며 양 옆모서리는 현저히 돌출되었다. 앞가슴등판의 양 돌기 사이의 폭은 혁질부보다 길다. 작은방패판은 비교적 길고 그 폭은 앞가슴등판의 폭의 약 반이며, 그 선단은 좁아서 혀모양으로 처지고 연한 색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLBX0011-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0011_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0011_2_th.jpg",
+      "alt": "청동노린재 1번째 사진 : 청동노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0011_2_th2.jpg",
+      "caption": "청동노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZLBX0011-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0011_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0011_1_th.jpg",
+      "alt": "청동노린재 2번째 사진 : 청동노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0011_1_th2.jpg",
+      "caption": "청동노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLBX0011-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0302202119",
+      "description": "[KNAE0302202119] 청동노린재 1994.08.12 / / 국립수목원"
+    },
+    {
+      "id": "KPNE0303171007",
+      "description": "[KPNE0303171007] 청동노린재 1982.07.28 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0303171006",
+      "description": "[KPNE0303171006] 청동노린재 1980.07.16 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLBX0011-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLBX0011&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:12+00:00",
+    "html_sha256": "4517837eef6f405f714c22879e44e44b018a20d18ba75e7d9706ec1999566aa7",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

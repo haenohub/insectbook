@@ -1,0 +1,117 @@
+{
+  "id": "ZOBL0210",
+  "name_ko": "애기우단하늘소",
+  "scientific_name": "Astynoscelis degener degener (Bates, 1873)",
+  "display_name": "애기우단하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "목하늘소아과",
+      "name_latin": "Lamiinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Astynoscelis"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 목하늘소아과 (Lamiinae)\n속 : (Astynoscelis)",
+  "basic_information": {
+    "곤충명": "애기우단하늘소",
+    "학명": "Astynoscelis degener degener (Bates, 1873)"
+  },
+  "information": {
+    "general_description": "몸의 길이는 9~14mm 이며, 몸전체의 색은 회갈색이며 촉각은 몸 길이의 두 배 정도 길다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "6~7월에 출현한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[중국]\n[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의 길이는 9~14mm 이며, 몸전체의 색은 회갈색이며 촉각은 몸 길이의 두 배 정도 길다."
+    },
+    {
+      "title": "생태",
+      "text": "6~7월에 출현한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0210-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0210_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0210_1_th.jpg",
+      "alt": "애기우단하늘소 1번째 사진 : 애기우단하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0210_1_th2.jpg",
+      "caption": "애기우단하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0210-1",
+  "specimen_examples": [
+    {
+      "id": "SJNE0301221162",
+      "description": "[SJNE0301221162] 애기우단하늘소 1997.07.22 / / 상주대학교"
+    },
+    {
+      "id": "YNUE0112244034",
+      "description": "[YNUE0112244034] 애기우단하늘소 1990.07.27 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0201072028",
+      "description": "[YNUE0201072028] 애기우단하늘소 1997.07.14 / / 영남대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "두릅나무",
+      "scientific_name": "Aralia elata (Miq.) Seem."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0210-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0210&tabId=tab1",
+    "collected_at": "2026-11-04T14:14:59+00:00",
+    "html_sha256": "968442f88b1732b439e66647160ea7a04bb6f3bae5f66f5115322a89db2e150b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

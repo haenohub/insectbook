@@ -1,0 +1,107 @@
+{
+  "id": "ZOCF0017",
+  "name_ko": "다리가시뭉뚝바구미",
+  "scientific_name": "Anosimus decoratus Roelofs, 1873",
+  "display_name": "다리가시뭉뚝바구미",
+  "family_ko": "바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "바구미과",
+      "name_latin": "Curculionidae"
+    },
+    "subfamily": {
+      "name_ko": "줄바구미아과",
+      "name_latin": "Entiminae"
+    },
+    "genus": {
+      "name_ko": "삼각주둥이바구미속",
+      "name_latin": "Anosimus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 바구미과 (Curculionidae)\n아과 : 줄바구미아과 (Entiminae)\n속 : 삼각주둥이바구미속 (Anosimus)",
+  "basic_information": {
+    "곤충명": "다리가시뭉뚝바구미",
+    "학명": "Anosimus decoratus Roelofs, 1873"
+  },
+  "information": {
+    "general_description": "한국(중부, 남부, 제주특별자치도), 일본에 분포하며, 몸길이 3.8-4.0 mm. 주둥이 정단은 삼각형으로 돌출되어 있다. 촉각구는 등쪽에서 가까이 연접해 있다. 전경절은 안쪽 가두리 중앙은 강하게 삼각형으로 돌출.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "Castanea crenata 와 Quercus acutissima 에서 채집된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국(중부, 남부, 제주특별자치도), 일본에 분포하며, 몸길이 3.8-4.0 mm. 주둥이 정단은 삼각형으로 돌출되어 있다. 촉각구는 등쪽에서 가까이 연접해 있다. 전경절은 안쪽 가두리 중앙은 강하게 삼각형으로 돌출."
+    },
+    {
+      "title": "생태",
+      "text": "Castanea crenata 와 Quercus acutissima 에서 채집된다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCF0017-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0017_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0017_1_th.jpg",
+      "alt": "다리가시뭉뚝바구미 1번째 사진 : 다리가시뭉뚝바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0017_1_th2.jpg",
+      "caption": "다리가시뭉뚝바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCF0017-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0304211032",
+      "description": "[FRIE0304211032] 다리가시뭉뚝바구미 2001.08.08 / / 국립산림과학원"
+    },
+    {
+      "id": "RIFI1207232075",
+      "description": "[RIFI1207232075] 다리가시뭉뚝바구미 2008.06.18 / / 산림곤충다양성연구소"
+    },
+    {
+      "id": "RIFI1207232076",
+      "description": "[RIFI1207232076] 다리가시뭉뚝바구미 2007.07.15 / / 산림곤충다양성연구소"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOCF0017-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCF0017&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:46+00:00",
+    "html_sha256": "57c828347f033ca779d44b943793c27956cb26392a7c53d889702041e4a51f75",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

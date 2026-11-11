@@ -1,0 +1,147 @@
+{
+  "id": "ZMCN0002",
+  "name_ko": "부채날개매미충",
+  "scientific_name": "Euricania facialis Melichar, 1898",
+  "display_name": "부채날개매미충",
+  "family_ko": "큰날개매미충과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "꽃매미상과",
+      "name_latin": "Fulgoroidea"
+    },
+    "family": {
+      "name_ko": "큰날개매미충과",
+      "name_latin": "Ricaniidae"
+    },
+    "subfamily": {
+      "name_ko": "큰날개매미충아과",
+      "name_latin": "Ricaniinae"
+    },
+    "genus": {
+      "name_ko": "부채날개매미충속",
+      "name_latin": "Euricania"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 꽃매미상과 (Fulgoroidea)\n과 : 큰날개매미충과 (Ricaniidae)\n아과 : 큰날개매미충아과 (Ricaniinae)\n속 : 부채날개매미충속 (Euricania)",
+  "basic_information": {
+    "곤충명": "부채날개매미충",
+    "학명": "Euricania facialis Melichar, 1898"
+  },
+  "information": {
+    "general_description": "몸길이:약 9-10mm.\n양날개를 폈을때는 16-18mm 내외이다. 몸은갈색 또는 흑갈색이고 광택이 조금 난다. 머리는 크고 짧게 뭉툭하며 얼굴은 편평하다. 앞가슴등판은 매우작고 머리보다 좁다. 작은방패판은 잘 발달하였고, 중앙 종주선과 좌우에 한개씩의 융기선을 가진다. 앞날개는 부채를 편것처럼 넓고, 앞가장자리와 말단부를 제외 하고는 투명하다. 앞가장자리는 흑갈색의 띠를 가지며 그 중앙부에 회황색 점무늬가 현저하다. 날개맥은 긴 사각형의 무수한 그물눈을 이룬다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "산야의 경작지 주변 또는 초원지대에 드물게 서식한다.",
+    "habits": "뒷다리가 잘발달하여 방해를 받으면 튀어나간다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대만]\n[일본]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이:약 9-10mm.\n양날개를 폈을때는 16-18mm 내외이다. 몸은갈색 또는 흑갈색이고 광택이 조금 난다. 머리는 크고 짧게 뭉툭하며 얼굴은 편평하다. 앞가슴등판은 매우작고 머리보다 좁다. 작은방패판은 잘 발달하였고, 중앙 종주선과 좌우에 한개씩의 융기선을 가진다. 앞날개는 부채를 편것처럼 넓고, 앞가장자리와 말단부를 제외 하고는 투명하다. 앞가장자리는 흑갈색의 띠를 가지며 그 중앙부에 회황색 점무늬가 현저하다. 날개맥은 긴 사각형의 무수한 그물눈을 이룬다."
+    },
+    {
+      "title": "생태",
+      "text": "산야의 경작지 주변 또는 초원지대에 드물게 서식한다."
+    },
+    {
+      "title": "습성",
+      "text": "뒷다리가 잘발달하여 방해를 받으면 튀어나간다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대만]\n[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMCN0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMCN0002_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMCN0002_2_th.jpg",
+      "alt": "부채날개매미충 1번째 사진 : 부채날개매미충전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMCN0002_2_th2.jpg",
+      "caption": "부채날개매미충전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZMCN0002-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMCN0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMCN0002_1_th.jpg",
+      "alt": "부채날개매미충 2번째 사진 : 부채날개매미충전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMCN0002_1_th2.jpg",
+      "caption": "부채날개매미충전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMCN0002-1",
+  "specimen_examples": [
+    {
+      "id": "KLNAE634943",
+      "description": "[KLNAE634943] 부채날개매미충 / / 국립수목원"
+    },
+    {
+      "id": "KLNAE634944",
+      "description": "[KLNAE634944] 부채날개매미충 / / 국립수목원"
+    },
+    {
+      "id": "CBNE0203261002",
+      "description": "[CBNE0203261002] 부채날개매미충 2001.08.09 / / 충북대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "감나무",
+      "scientific_name": "Diospyros kaki Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "벚나무",
+      "scientific_name": "Prunus serrulata f. spontanea (Maxim.) Chin S.Chang"
+    },
+    {
+      "group": "식물",
+      "name_ko": "뽕나무",
+      "scientific_name": "Morus alba L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "차나무",
+      "scientific_name": "Camellia sinensis (L.) Kuntze"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZMCN0002-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMCN0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:18+00:00",
+    "html_sha256": "c43ee7fa1f4b24db94f3cbc0f345131a922f1b0206f1f9ab2402a41436331d42",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

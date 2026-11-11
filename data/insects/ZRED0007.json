@@ -1,0 +1,189 @@
+{
+  "id": "ZRED0007",
+  "name_ko": "배추흰나비",
+  "scientific_name": "Pieris rapae (Linnaeus, 1758)",
+  "display_name": "배추흰나비",
+  "family_ko": "흰나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "흰나비과",
+      "name_latin": "Pieridae"
+    },
+    "subfamily": {
+      "name_ko": "흰나비아과",
+      "name_latin": "Pierinae"
+    },
+    "genus": {
+      "name_ko": "흰나비속",
+      "name_latin": "Pieris"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 흰나비과 (Pieridae)\n아과 : 흰나비아과 (Pierinae)\n속 : 흰나비속 (Pieris)",
+  "basic_information": {
+    "곤충명": "배추흰나비",
+    "학명": "Pieris rapae (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "앞날개길이가 19~27mm가량된다. 앞날개는 대개 흰바탕을 띠며 연한 황색을 띠는 경우가 많으며, 날개 끝에는 검은 색의 무늬가 있다. 이 무늬는 근연종인 대만흰나비와 구별하는데 있어 가장 중요한 특징이 된다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": "몸의 색깔은 녹색이며 잔털이 빽빽하게 나 있는 특징을 가지고 있다.",
+    "egg": "알의 모양은 원주형이며, 색깔은 황색을 띤다.",
+    "pupa": "번데기의 색깔은 회황색이고 머리와 가슴에 1개의 돌기가 발달되어 있다.",
+    "ecology": "겨자과작물을 가해하는 해충이다. 유충은 잎맥만 남기고 모두 먹어버리며, 특히 봄과 가을에 피해가 심하다.",
+    "habits": "대개 암수 모두 무우, 개망초, 사산비장이, 엉겅퀴 등 여러 꽃에서 흡밀하는 것이 종종 관찰된다. 특히 황색과 보라색 계통의 꽃을 선호한다. 수컷은 습지에서 흡수하는 일을 종종 관찰할수 있다. 암컷은 잎 표면, 뒷면을 가리지 않고 한개씩 산란하는데 농약살포를 하지 않은 경작지에서 알과 애벌레를 많이 관찰할수 있다.",
+    "season": null,
+    "overwintering": "번데기",
+    "distribution": "[일본]\n[중국]\n[대만]\n[러시아]\n[유럽]\n[호주]",
+    "notes": "[보통종]\n[흡밀곤충] 무우, 개망초, 사산비장이, 엉겅퀴\n[농업해충]\n[감소추세종]",
+    "pest_control": "방제법으로 유기인제계 살충제를 뿌려준다.",
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "앞날개길이가 19~27mm가량된다. 앞날개는 대개 흰바탕을 띠며 연한 황색을 띠는 경우가 많으며, 날개 끝에는 검은 색의 무늬가 있다. 이 무늬는 근연종인 대만흰나비와 구별하는데 있어 가장 중요한 특징이 된다."
+    },
+    {
+      "title": "번데기",
+      "text": "번데기의 색깔은 회황색이고 머리와 가슴에 1개의 돌기가 발달되어 있다."
+    },
+    {
+      "title": "유충",
+      "text": "몸의 색깔은 녹색이며 잔털이 빽빽하게 나 있는 특징을 가지고 있다."
+    },
+    {
+      "title": "생태",
+      "text": "겨자과작물을 가해하는 해충이다. 유충은 잎맥만 남기고 모두 먹어버리며, 특히 봄과 가을에 피해가 심하다."
+    },
+    {
+      "title": "습성",
+      "text": "대개 암수 모두 무우, 개망초, 사산비장이, 엉겅퀴 등 여러 꽃에서 흡밀하는 것이 종종 관찰된다. 특히 황색과 보라색 계통의 꽃을 선호한다. 수컷은 습지에서 흡수하는 일을 종종 관찰할수 있다. 암컷은 잎 표면, 뒷면을 가리지 않고 한개씩 산란하는데 농약살포를 하지 않은 경작지에서 알과 애벌레를 많이 관찰할수 있다."
+    },
+    {
+      "title": "월동",
+      "text": "번데기"
+    },
+    {
+      "title": "방제법",
+      "text": "방제법으로 유기인제계 살충제를 뿌려준다."
+    },
+    {
+      "title": "알",
+      "text": "알의 모양은 원주형이며, 색깔은 황색을 띤다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[대만]\n[러시아]\n[유럽]\n[호주]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]\n[흡밀곤충] 무우, 개망초, 사산비장이, 엉겅퀴\n[농업해충]\n[감소추세종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRED0007-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRED0007_4.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRED0007_4.jpg",
+      "alt": "배추흰나비 1번째 사진 : 배추흰나비 암컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRED0007_4_th2.jpg",
+      "caption": "배추흰나비 암컷 이미지",
+      "photographed_at": null,
+      "location": "국립수목원",
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRED0007-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRED0007_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRED0007_3.jpg",
+      "alt": "배추흰나비 2번째 사진 : 배추흰나비 수컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRED0007_3_th2.jpg",
+      "caption": "배추흰나비 수컷 이미지",
+      "photographed_at": "20161010",
+      "location": "경기도 포천시 소흘읍 광릉숲",
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRED0007-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRED0007_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRED0007_2_th.jpg",
+      "alt": "배추흰나비 3번째 사진 : 배추흰나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRED0007_2_th2.jpg",
+      "caption": "배추흰나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRED0007-4",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRED0007_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRED0007_1_th.jpg",
+      "alt": "배추흰나비 4번째 사진 : 배추흰나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRED0007_1_th2.jpg",
+      "caption": "배추흰나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRED0007-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408191002",
+      "description": "[MPME0408191002] 배추흰나비 2003.07.08 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408191001",
+      "description": "[MPME0408191001] 배추흰나비 2003.07.08 / / 목포자연사박물관"
+    },
+    {
+      "id": "SJNE0306191300",
+      "description": "[SJNE0306191300] 배추흰나비 2001.06.22 / / 상주대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "무",
+      "scientific_name": "Raphanus sativus L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "배추",
+      "scientific_name": "Brassica rapa var. glabra Regel"
+    },
+    {
+      "group": "식물",
+      "name_ko": "양배추",
+      "scientific_name": "Brassica oleracea var. capitata L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "콩다닥냉이",
+      "scientific_name": "Lepidium virginicum L."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRED0007-3"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRED0007&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:31+00:00",
+    "html_sha256": "7d1c421052bc108315f44e8fffce2cb596ce80ef3a8bf6557ed5f4dc85f808be",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

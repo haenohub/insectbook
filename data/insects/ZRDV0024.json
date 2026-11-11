@@ -1,0 +1,132 @@
+{
+  "id": "ZRDV0024",
+  "name_ko": "먹그림나비",
+  "scientific_name": "Dichorragia nesimachus (Doyre, 1840)",
+  "display_name": "먹그림나비",
+  "family_ko": "네발나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "네발나비과",
+      "name_latin": "Nymphalidae"
+    },
+    "subfamily": {
+      "name_ko": "돌담무늬나비아과",
+      "name_latin": "Cyrestinae"
+    },
+    "genus": {
+      "name_ko": "먹그림나비속",
+      "name_latin": "Dichorragia"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 네발나비과 (Nymphalidae)\n아과 : 돌담무늬나비아과 (Cyrestinae)\n속 : 먹그림나비속 (Dichorragia)",
+  "basic_information": {
+    "곤충명": "먹그림나비",
+    "학명": "Dichorragia nesimachus (Doyre, 1840)"
+  },
+  "information": {
+    "general_description": "암컷이 수컷보다 크고 날개폭도 넓어 구별이 가능하다. 봄형은 여름형에 비하여 흰무늬가 발달해 있다. 날개 윗면은 푸른 기가 도는 검정색을 뒷날개의 전연부만이 청색을 띤다. 아랫면은 윗면과 무늬가 거의 같다. 특이한 날개 윗면의 흰무늬는 다른 종에서는 찾아볼 수 없어 구별가기 쉽다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "한반도 남부나 서해안, 제주특별자치도의 상록수 숲 가장자리에 서식하며, 이들 꽃에서는 흔한 나비이다. 수컷은 참나무 진이나 짐승똥, 썩은 과일에 잘 모이며, 오후 3시 이후 해질 무렵까지 계곡 주변의 나무 끝이나 낮아 보이는 산 정상에서 강한 점유행동을 한다. 햇빛이 강한 날 습지에 모일 때에는 약간 그늘진 장소를 선택하는 경향이 있다.",
+    "season": null,
+    "overwintering": "번데기",
+    "distribution": "[일본]\n[중국]\n[대만]\n[인도]",
+    "notes": "[국지적분포종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷이 수컷보다 크고 날개폭도 넓어 구별이 가능하다. 봄형은 여름형에 비하여 흰무늬가 발달해 있다. 날개 윗면은 푸른 기가 도는 검정색을 뒷날개의 전연부만이 청색을 띤다. 아랫면은 윗면과 무늬가 거의 같다. 특이한 날개 윗면의 흰무늬는 다른 종에서는 찾아볼 수 없어 구별가기 쉽다."
+    },
+    {
+      "title": "습성",
+      "text": "한반도 남부나 서해안, 제주특별자치도의 상록수 숲 가장자리에 서식하며, 이들 꽃에서는 흔한 나비이다. 수컷은 참나무 진이나 짐승똥, 썩은 과일에 잘 모이며, 오후 3시 이후 해질 무렵까지 계곡 주변의 나무 끝이나 낮아 보이는 산 정상에서 강한 점유행동을 한다. 햇빛이 강한 날 습지에 모일 때에는 약간 그늘진 장소를 선택하는 경향이 있다."
+    },
+    {
+      "title": "월동",
+      "text": "번데기"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[대만]\n[인도]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[국지적분포종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDV0024-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0024_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0024_2_th.jpg",
+      "alt": "먹그림나비 1번째 사진 : 먹그림나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0024_2_th2.jpg",
+      "caption": "먹그림나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDV0024-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0024_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0024_1_th.jpg",
+      "alt": "먹그림나비 2번째 사진 : 먹그림나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0024_1_th2.jpg",
+      "caption": "먹그림나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDV0024-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408111045",
+      "description": "[MPME0408111045] 먹그림나비 2003.08.08 / / 목포자연사박물관"
+    },
+    {
+      "id": "SJNE0306131260",
+      "description": "[SJNE0306131260] 먹그림나비 2001.07.05 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0306131261",
+      "description": "[SJNE0306131261] 먹그림나비 2001.07.05 / / 상주대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "나도밤나무",
+      "scientific_name": "Meliosma myriantha Siebold & Zucc."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDV0024-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDV0024&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:59+00:00",
+    "html_sha256": "52e4c6b34a9b9cee12e65850bf2d0ea62f04d430d31efa3d3cdeaf32cced54a9",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

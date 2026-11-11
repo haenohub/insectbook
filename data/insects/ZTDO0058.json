@@ -1,0 +1,103 @@
+{
+  "id": "ZTDO0058",
+  "name_ko": "금치레잎벌",
+  "scientific_name": "Eutomostethus metallicus (Sato, 1928)",
+  "display_name": "금치레잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "검정꼬마잎벌아과",
+      "name_latin": "Blennocampinae"
+    },
+    "genus": {
+      "name_ko": "금치레잎벌속",
+      "name_latin": "Eutomostethus"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 검정꼬마잎벌아과 (Blennocampinae)\n속 : 금치레잎벌속 (Eutomostethus)",
+  "basic_information": {
+    "곤충명": "금치레잎벌",
+    "학명": "Eutomostethus metallicus (Sato, 1928)"
+  },
+  "information": {
+    "general_description": "암컷의 몸길이는 7mm, 몸은 검고 금속성의 연두빛 반점이 있다. 날개는 기부로 갈수록 짙은 갈색이며 연문과 nervures는 검다. 머리방패는 약간 돌출하였고, 말단부는 둥글며 매끈한 말단부를 제외하고는 뚜렷한 점각이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷의 몸길이는 7mm, 몸은 검고 금속성의 연두빛 반점이 있다. 날개는 기부로 갈수록 짙은 갈색이며 연문과 nervures는 검다. 머리방패는 약간 돌출하였고, 말단부는 둥글며 매끈한 말단부를 제외하고는 뚜렷한 점각이 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0058-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0058_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0058_1_th.jpg",
+      "alt": "금치레잎벌 1번째 사진 : 금치레잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0058_1_th2.jpg",
+      "caption": "금치레잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0058-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0111273076",
+      "description": "[YNUE0111273076] 금치레잎벌 2001.04.28 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0111273075",
+      "description": "[YNUE0111273075] 금치레잎벌 2001.04.28 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTDO0058.png",
+    "reference_image_id": "ZTDO0058-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T15:10:23.749027+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "5b5a28c85602529aa73641f72ec2c8e9a317153400df9117b959bce1f660e301"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0058&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:48+00:00",
+    "html_sha256": "0dc2bd51b77621cbe6751879fa1afce9e03253e03f3f62f13d99487deaa30a4d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

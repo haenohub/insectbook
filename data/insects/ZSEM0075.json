@@ -1,0 +1,103 @@
+{
+  "id": "ZSEM0075",
+  "name_ko": "진꽃등에",
+  "scientific_name": "Rhingia laevigata Loew, 1858",
+  "display_name": "진꽃등에",
+  "family_ko": "꽃등에과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "꽃등에상과",
+      "name_latin": "Syrphoidea"
+    },
+    "family": {
+      "name_ko": "꽃등에과",
+      "name_latin": "Syrphidae"
+    },
+    "subfamily": {
+      "name_ko": "순꽃등에아과",
+      "name_latin": "Eristalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Rhingia"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 꽃등에상과 (Syrphoidea)\n과 : 꽃등에과 (Syrphidae)\n아과 : 순꽃등에아과 (Eristalinae)\n속 : (Rhingia)",
+  "basic_information": {
+    "곤충명": "진꽃등에",
+    "학명": "Rhingia laevigata Loew, 1858"
+  },
+  "information": {
+    "general_description": "성충의 몸길이는 8~10mm. 광택이 많은 흑색이다. 앞이마의 돌기는 크지는 않으나 뚜렷하고 황갈색이다. 얼굴은 황회색이고 더듬이는 황적색이다. 가슴등면에는 흰가루로 된 뚜렷하지 않은 2줄의 세로띠를 가졌고, 다리는 가늘고 황갈색이다. 배는 짧고 폭이 넓다. 제 2, 3배마디의 뒷가장자리와 중앙선은 흑색이고 뒤쪽은 모두 흑색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충의 몸길이는 8~10mm. 광택이 많은 흑색이다. 앞이마의 돌기는 크지는 않으나 뚜렷하고 황갈색이다. 얼굴은 황회색이고 더듬이는 황적색이다. 가슴등면에는 흰가루로 된 뚜렷하지 않은 2줄의 세로띠를 가졌고, 다리는 가늘고 황갈색이다. 배는 짧고 폭이 넓다. 제 2, 3배마디의 뒷가장자리와 중앙선은 흑색이고 뒤쪽은 모두 흑색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSEM0075-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0075_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0075_1_th.jpg",
+      "alt": "진꽃등에 1번째 사진 : 진꽃등에전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0075_1_th2.jpg",
+      "caption": "진꽃등에전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSEM0075-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0307201200",
+      "description": "[KUIE0307201200] 진꽃등에 1978.06.04 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307201201",
+      "description": "[KUIE0307201201] 진꽃등에 1967.09.18 / / 고려대학교"
+    },
+    {
+      "id": "YNUE0112153014",
+      "description": "[YNUE0112153014] 진꽃등에 1995.05.27 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZSEM0075-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSEM0075&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:33+00:00",
+    "html_sha256": "1a46448b211d16e8060e64c536e07600c36a91cc576583958e44f7bd1fb43aea",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

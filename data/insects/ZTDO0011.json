@@ -1,0 +1,103 @@
+{
+  "id": "ZTDO0011",
+  "name_ko": "어리노랑배잎벌",
+  "scientific_name": "Dolerus (Dolerus) armillatus Konow, 1896",
+  "display_name": "어리노랑배잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "줄잎벌아과",
+      "name_latin": "Selandriinae"
+    },
+    "genus": {
+      "name_ko": "보리잎벌속",
+      "name_latin": "Dolerus"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 줄잎벌아과 (Selandriinae)\n속 : 보리잎벌속 (Dolerus)",
+  "basic_information": {
+    "곤충명": "어리노랑배잎벌",
+    "학명": "Dolerus (Dolerus) armillatus Konow, 1896"
+  },
+  "information": {
+    "general_description": "윗입술은 작고 편평하며, 머리방패는 점각이 깊고 거칠며 때때로 비대칭적으로 오목하여 우엽은 좌엽보다 조금 길게 나타나기도 한다. malar space는 넓고 보통 안테나 제 2마디 길이보다는 길며, 복안은 작고 안쪽 가두리가 편평하거나 볼록하다. 안테나는 길고 강건하며 강모가 있고 제 4마디보다 제 3마디는 길이가 길다. pleurac는 다소 거친 점각을 가지는 반면 pectus는 매끈하고 뚜렷한 점각을 가진다. 복부는 제 2복부마디에서 제 5,6 복부마디까지 노란색이거나 황갈색이다. 가슴은 전체가 크다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[몽골]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "윗입술은 작고 편평하며, 머리방패는 점각이 깊고 거칠며 때때로 비대칭적으로 오목하여 우엽은 좌엽보다 조금 길게 나타나기도 한다. malar space는 넓고 보통 안테나 제 2마디 길이보다는 길며, 복안은 작고 안쪽 가두리가 편평하거나 볼록하다. 안테나는 길고 강건하며 강모가 있고 제 4마디보다 제 3마디는 길이가 길다. pleurac는 다소 거친 점각을 가지는 반면 pectus는 매끈하고 뚜렷한 점각을 가진다. 복부는 제 2복부마디에서 제 5,6 복부마디까지 노란색이거나 황갈색이다. 가슴은 전체가 크다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[몽골]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0011-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0011_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0011_1_th.jpg",
+      "alt": "어리노랑배잎벌 1번째 사진 : 어리노랑배잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0011_1_th2.jpg",
+      "caption": "어리노랑배잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0011-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305121053",
+      "description": "[YNUE0305121053] 어리노랑배잎벌 1996.05.18 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305121055",
+      "description": "[YNUE0305121055] 어리노랑배잎벌 1999.05.07 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305121056",
+      "description": "[YNUE0305121056] 어리노랑배잎벌 1999.05.07 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDO0011-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0011&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:34+00:00",
+    "html_sha256": "11124294c9ee1b356ab08f2dac32d68af465b7e1394d01d43359975297cbc18e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

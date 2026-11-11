@@ -1,0 +1,122 @@
+{
+  "id": "ZOBT0128",
+  "name_ko": "박하잎벌레",
+  "scientific_name": "Chrysolina (Lithopteroides) exanthematica exanthematica (Wiedemann, 1821)",
+  "display_name": "박하잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "잎벌레아과",
+      "name_latin": "Chrysomelinae"
+    },
+    "genus": {
+      "name_ko": "참잎벌레속",
+      "name_latin": "Chrysolina"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 잎벌레아과 (Chrysomelinae)\n속 : 참잎벌레속 (Chrysolina)",
+  "basic_information": {
+    "곤충명": "박하잎벌레",
+    "학명": "Chrysolina (Lithopteroides) exanthematica exanthematica (Wiedemann, 1821)"
+  },
+  "information": {
+    "general_description": "몸길이는 7.5~9.0mm, 몸색깔은 흑록색으로 광택이있다. 등판은 동흑색. 앞날개 옆에 강한 융기. 표면에 큰고 작은 돌기가 있다. 한국, 시베리아, 몽고, 일본(훗카이도,혼슈,시코쿠,큐슈), 중국, 대만, 인도에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 4~5월에 나타나 9월까지 활동한다. 적갈색의 가늘고 긴 알을 뭉쳐서 산란. 11월이면 나무 껍질 으로 들어가 월동준비한다.",
+    "habits": "기주식물 박하.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[몽골]\n[일본]\n[중국]\n[인도네시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 7.5~9.0mm, 몸색깔은 흑록색으로 광택이있다. 등판은 동흑색. 앞날개 옆에 강한 융기. 표면에 큰고 작은 돌기가 있다. 한국, 시베리아, 몽고, 일본(훗카이도,혼슈,시코쿠,큐슈), 중국, 대만, 인도에 분포되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 4~5월에 나타나 9월까지 활동한다. 적갈색의 가늘고 긴 알을 뭉쳐서 산란. 11월이면 나무 껍질 으로 들어가 월동준비한다."
+    },
+    {
+      "title": "습성",
+      "text": "기주식물 박하."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[몽골]\n[일본]\n[중국]\n[인도네시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0128-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0128_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0128_2_th.jpg",
+      "alt": "박하잎벌레 1번째 사진 : 박하잎벌레전체 옆면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0128_2_th2.jpg",
+      "caption": "박하잎벌레전체 옆면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBT0128-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0128_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0128_1_th.jpg",
+      "alt": "박하잎벌레 2번째 사진 : 박하잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0128_1_th2.jpg",
+      "caption": "박하잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0128-1",
+  "specimen_examples": [
+    {
+      "id": "ADUE0303211046",
+      "description": "[ADUE0303211046] 박하잎벌레 2002.06.12 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0303211047",
+      "description": "[ADUE0303211047] 박하잎벌레 2002.05.12 / / 안동대학교"
+    },
+    {
+      "id": "FRIE0205101095",
+      "description": "[FRIE0205101095] 박하잎벌레 1980.09.30 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0128-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0128&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:04+00:00",
+    "html_sha256": "49d14eb76c74c39814460fe4bbeea5c859f22963a209352538b92173e6b99257",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

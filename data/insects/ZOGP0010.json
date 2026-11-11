@@ -1,0 +1,118 @@
+{
+  "id": "ZOGP0010",
+  "name_ko": "넉점박이송장벌레",
+  "scientific_name": "Nicrophorus quadripunctatus Kraatz, 1877",
+  "display_name": "넉점박이송장벌레",
+  "family_ko": "송장벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "반날개상과",
+      "name_latin": "Staphylinoidea"
+    },
+    "family": {
+      "name_ko": "송장벌레과",
+      "name_latin": "Silphidae"
+    },
+    "subfamily": {
+      "name_ko": "검정송장벌레아과",
+      "name_latin": "Nicrophorinae"
+    },
+    "genus": {
+      "name_ko": "송장벌레속",
+      "name_latin": "Nicrophorus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 반날개상과 (Staphylinoidea)\n과 : 송장벌레과 (Silphidae)\n아과 : 검정송장벌레아과 (Nicrophorinae)\n속 : 송장벌레속 (Nicrophorus)",
+  "basic_information": {
+    "곤충명": "넉점박이송장벌레",
+    "학명": "Nicrophorus quadripunctatus Kraatz, 1877"
+  },
+  "information": {
+    "general_description": "한국, 일본, 중국에 분포하며, 체장은 15mm 내외이다. 몸은 광택이 나는 흑색이고 머리에는 작은 점각을 산포하고 머리 꼭대기의 양쪽에는 머리방패에 이르는 활 모양의 종구가 있다. 겹눈은 크고 촉각은 적갈색이다. 딱지날개는 등황색이고 복판의 양쪽과 중앙의 폭이 넓은 물결 모양의 가로띠는 흑색이고 어깨 부분과 딱지날개 근처에 흑색의 작은 원무늬가 있다. 전면에 거칠고 큰 점각을 밀포하였고 중앙에 두줄의 융기가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 중국에 분포하며, 체장은 15mm 내외이다. 몸은 광택이 나는 흑색이고 머리에는 작은 점각을 산포하고 머리 꼭대기의 양쪽에는 머리방패에 이르는 활 모양의 종구가 있다. 겹눈은 크고 촉각은 적갈색이다. 딱지날개는 등황색이고 복판의 양쪽과 중앙의 폭이 넓은 물결 모양의 가로띠는 흑색이고 어깨 부분과 딱지날개 근처에 흑색의 작은 원무늬가 있다. 전면에 거칠고 큰 점각을 밀포하였고 중앙에 두줄의 융기가 있다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGP0010-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0010_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0010_2_th.jpg",
+      "alt": "넉점박이송장벌레 1번째 사진 : 넉점박이송장벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0010_2_th2.jpg",
+      "caption": "넉점박이송장벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOGP0010-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0010_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0010_1_th.jpg",
+      "alt": "넉점박이송장벌레 2번째 사진 : 넉점박이송장벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGP0010_1_th2.jpg",
+      "caption": "넉점박이송장벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGP0010-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304042053",
+      "description": "[KNAE0304042053] 넉점박이송장벌레 1995.08.10 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304042054",
+      "description": "[KNAE0304042054] 넉점박이송장벌레 1995.08.11 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304042055",
+      "description": "[KNAE0304042055] 넉점박이송장벌레 1995.08.12 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOGP0010.png",
+    "reference_image_id": "ZOGP0010-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T09:59:59.256058+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "4063ee587b27a096142fb5e64f963f2d76ef3d8057d314586312c1be17c039c5"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGP0010&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:34+00:00",
+    "html_sha256": "cb00bda41ea23ce4540428795bc1e853539de330ce894d3296d6458a254e627f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

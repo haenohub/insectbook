@@ -1,0 +1,107 @@
+{
+  "id": "ZOBT0350",
+  "name_ko": "애남생이잎벌레",
+  "scientific_name": "Cassida (Cassida) piperata Hope, 1842",
+  "display_name": "애남생이잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "남생이잎벌레아과",
+      "name_latin": "Cassidinae"
+    },
+    "genus": {
+      "name_ko": "남생이잎벌레속",
+      "name_latin": "Cassida"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 남생이잎벌레아과 (Cassidinae)\n속 : 남생이잎벌레속 (Cassida)",
+  "basic_information": {
+    "곤충명": "애남생이잎벌레",
+    "학명": "Cassida (Cassida) piperata Hope, 1842"
+  },
+  "information": {
+    "general_description": "체장은 5.0~5.5㎜이며, 체형은 둥근 원형으로 되어 있다.보편적으로 적갈색을 띄고 있고, 위날개에 다수의 불규칙한 흑색의 무늬를 가지고 있다. 배는 전체적으로 흑색이며 촉각과 다리는 전체적으로 황갈색이며, 윗날개의 점각부근은 규칙적인 열상을 이루고 있다.분포는 한국, 일본, 대만,필리핀, 인도 차이나, 중국,시베리아등지이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "4월 중순~10월 중순까지 월동성충이 나타난다.5월 중순부터 산란, 알은 1개씩 2층 내막으로 구성되어 있고, 배설물은 달라붙지 않는다. 알(7일)-유충(21일)-번데기(9일) 기간이 걸린다.1년에 2화성이며 월동한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대만]\n[일본]\n[필리핀]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체장은 5.0~5.5㎜이며, 체형은 둥근 원형으로 되어 있다.보편적으로 적갈색을 띄고 있고, 위날개에 다수의 불규칙한 흑색의 무늬를 가지고 있다. 배는 전체적으로 흑색이며 촉각과 다리는 전체적으로 황갈색이며, 윗날개의 점각부근은 규칙적인 열상을 이루고 있다.분포는 한국, 일본, 대만,필리핀, 인도 차이나, 중국,시베리아등지이다."
+    },
+    {
+      "title": "생태",
+      "text": "4월 중순~10월 중순까지 월동성충이 나타난다.5월 중순부터 산란, 알은 1개씩 2층 내막으로 구성되어 있고, 배설물은 달라붙지 않는다. 알(7일)-유충(21일)-번데기(9일) 기간이 걸린다.1년에 2화성이며 월동한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대만]\n[일본]\n[필리핀]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0350-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0350_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0350_1_th.jpg",
+      "alt": "애남생이잎벌레 1번째 사진 : 애남생이잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0350_1_th2.jpg",
+      "caption": "애남생이잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0350-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0307161001",
+      "description": "[KUIE0307161001] 애남생이잎벌레 1984.06.24 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307161027",
+      "description": "[KUIE0307161027] 애남생이잎벌레 1982.05.29 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307161028",
+      "description": "[KUIE0307161028] 애남생이잎벌레 1983.06.11 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0350-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0350&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:04+00:00",
+    "html_sha256": "e443655f901e515987462ee6d5324f61345bd5c051e411e58a66d467e5620365",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

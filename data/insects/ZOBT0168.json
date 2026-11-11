@@ -1,0 +1,138 @@
+{
+  "id": "ZOBT0168",
+  "name_ko": "버들꼬마잎벌레",
+  "scientific_name": "Plagiodera versicolora (Laicharting, 1781)",
+  "display_name": "버들꼬마잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "잎벌레아과",
+      "name_latin": "Chrysomelinae"
+    },
+    "genus": {
+      "name_ko": "버들꼬마잎벌레속",
+      "name_latin": "Plagiodera"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 잎벌레아과 (Chrysomelinae)\n속 : 버들꼬마잎벌레속 (Plagiodera)",
+  "basic_information": {
+    "곤충명": "버들꼬마잎벌레",
+    "학명": "Plagiodera versicolora (Laicharting, 1781)"
+  },
+  "information": {
+    "general_description": "몸길이는 3.3~4.4mm, 몸은 원형에 가깝다. 몸은 흑색이며 날개는 광택이 있는 청람색이다. 앞날개의 불규칙 점각이 있다. 개체변이가 심하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": "어린 유충은 등쪽에 흑색 돌기가 있어 검게 보이며 노숙 유충은 황백색이고 등쪽에 흑색의 줄모양의 돌기가 있다.",
+    "egg": "알은 긴 타원형이고 산란 초기에는 황백색을 띠나 차차 황색으로 변한다.",
+    "pupa": null,
+    "ecology": "월동 성충은 4월 중순에 나와 신초(新梢) 끝에 있는 잎의 뒷면에 10~30개의 알을 낳으며 난 기간은 약 5일이다. 유충 기간은 약 3주이고 집단 생활을 하며 잎을 먹는다. 유충은 잎 뒷면에 꼬리를 부착하고 번데기가 된다. 용 기간은 4~5일이며 신 성충은 5월 하순에 나타난다. 유충, 성충은 11월까지 관찰된다.",
+    "habits": "버드나무류의 중요한 해충으로서 성충과 유충이 새 잎을 식해한다. 어린 유충과 중령(中齡) 유충은 모여서 엽육만 식해하며 피해가 심하면 나무의 수세(樹勢)가 쇠약해져 생장에 큰 지장을 준다.",
+    "season": null,
+    "overwintering": "낙엽이나 마른 풀 밑에서 무리를 지어 성충으로 월동한다.",
+    "distribution": "[일본]\n[대만]\n[인도]\n[러시아] 동시베리아지역\n[러시아] 서시베리아지역\n[유럽]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 3.3~4.4mm, 몸은 원형에 가깝다. 몸은 흑색이며 날개는 광택이 있는 청람색이다. 앞날개의 불규칙 점각이 있다. 개체변이가 심하다."
+    },
+    {
+      "title": "유충",
+      "text": "어린 유충은 등쪽에 흑색 돌기가 있어 검게 보이며 노숙 유충은 황백색이고 등쪽에 흑색의 줄모양의 돌기가 있다."
+    },
+    {
+      "title": "생태",
+      "text": "월동 성충은 4월 중순에 나와 신초(新梢) 끝에 있는 잎의 뒷면에 10~30개의 알을 낳으며 난 기간은 약 5일이다. 유충 기간은 약 3주이고 집단 생활을 하며 잎을 먹는다. 유충은 잎 뒷면에 꼬리를 부착하고 번데기가 된다. 용 기간은 4~5일이며 신 성충은 5월 하순에 나타난다. 유충, 성충은 11월까지 관찰된다."
+    },
+    {
+      "title": "습성",
+      "text": "버드나무류의 중요한 해충으로서 성충과 유충이 새 잎을 식해한다. 어린 유충과 중령(中齡) 유충은 모여서 엽육만 식해하며 피해가 심하면 나무의 수세(樹勢)가 쇠약해져 생장에 큰 지장을 준다."
+    },
+    {
+      "title": "월동",
+      "text": "낙엽이나 마른 풀 밑에서 무리를 지어 성충으로 월동한다."
+    },
+    {
+      "title": "알",
+      "text": "알은 긴 타원형이고 산란 초기에는 황백색을 띠나 차차 황색으로 변한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[대만]\n[인도]\n[러시아] 동시베리아지역\n[러시아] 서시베리아지역\n[유럽]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0168-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0168_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0168_1_th.jpg",
+      "alt": "버들꼬마잎벌레 1번째 사진 : 버들꼬마잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0168_1_th2.jpg",
+      "caption": "버들꼬마잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0168-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0306251009",
+      "description": "[FRIE0306251009] 버들꼬마잎벌레 1997.07.10 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0306251010",
+      "description": "[FRIE0306251010] 버들꼬마잎벌레 1997.07.11 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0306241025",
+      "description": "[FRIE0306241025] 버들꼬마잎벌레 1980.05.27 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "오리나무",
+      "scientific_name": "Alnus japonica (Thunb.) Steud."
+    },
+    {
+      "group": "식물",
+      "name_ko": "황철나무",
+      "scientific_name": "Populus suaveolens Fisch. ex Poit. & A.Vilm."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0168-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0168&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:39+00:00",
+    "html_sha256": "17847e51a6d4beb37f088d47ccf8ceb06b21ee2da73622461b93a471a7911607",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

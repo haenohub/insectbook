@@ -1,0 +1,107 @@
+{
+  "id": "ZRDE0009",
+  "name_ko": "검은푸른쐐기나방",
+  "scientific_name": "Parasa hilarula (Staudinger, 1887)",
+  "display_name": "검은푸른쐐기나방",
+  "family_ko": "쐐기나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "알락나방상과",
+      "name_latin": "Zygaenoidea"
+    },
+    "family": {
+      "name_ko": "쐐기나방과",
+      "name_latin": "Limacodidae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Parasa"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 알락나방상과 (Zygaenoidea)\n과 : 쐐기나방과 (Limacodidae)\n속 : (Parasa)",
+  "basic_information": {
+    "곤충명": "검은푸른쐐기나방",
+    "학명": "Parasa hilarula (Staudinger, 1887)"
+  },
+  "information": {
+    "general_description": "더듬이는 수컷이 빗살 모양이고, 암컷은 실 모양이다. 머리와 가슴의 등쪽면은 담록색을 띠나 배는 황갈색을 띤다. 대체로 Latoia sinica Moore와 유사한 편인데 앞날개의 외연에 있는 암색 부분의 나비는 본 종이 약간 넓다. 또한 기부에 있는 부분도 약간 넓은 편이다. 앞날개의 바탕색은 연두색이며, 뒷날개는 담황색을 띠는데 외연 가까이는 암색을 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[대한민국] 서울특별시\n[러시아] 극동지역\n[대만]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 수컷이 빗살 모양이고, 암컷은 실 모양이다. 머리와 가슴의 등쪽면은 담록색을 띠나 배는 황갈색을 띤다. 대체로 Latoia sinica Moore와 유사한 편인데 앞날개의 외연에 있는 암색 부분의 나비는 본 종이 약간 넓다. 또한 기부에 있는 부분도 약간 넓은 편이다. 앞날개의 바탕색은 연두색이며, 뒷날개는 담황색을 띠는데 외연 가까이는 암색을 띤다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[대한민국] 서울특별시\n[러시아] 극동지역\n[대만]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDE0009-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDE0009_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDE0009_1_th.jpg",
+      "alt": "검은푸른쐐기나방 1번째 사진 : 검은푸른쐐기나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDE0009_1_th2.jpg",
+      "caption": "검은푸른쐐기나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDE0009-1",
+  "specimen_examples": [
+    {
+      "id": "GSNE0304101016",
+      "description": "[GSNE0304101016] 검은푸른쐐기나방 1996.06.14 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0304101017",
+      "description": "[GSNE0304101017] 검은푸른쐐기나방 1996.07.14 / / 경상대학교"
+    },
+    {
+      "id": "CBNE0301131040",
+      "description": "[CBNE0301131040] 검은푸른쐐기나방 2002.06.21 / / 충북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDE0009.png",
+    "reference_image_id": "ZRDE0009-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T11:05:51.108019+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "78e15935f2b5cc974d5f078d4e7b0155d1189a0407e3365ae808542eb9f18f55"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDE0009&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:04+00:00",
+    "html_sha256": "c25b3ff6f663b59db66b66e6210a534721ac966e49408f47cbcefd40effa39fb",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "id": "ZRDS0066",
+  "name_ko": "검거세미밤나방",
+  "scientific_name": "Agrotis ipsilon (Hufnagel, 1766)",
+  "display_name": "검거세미밤나방",
+  "family_ko": "밤나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "밤나방과",
+      "name_latin": "Noctuidae"
+    },
+    "subfamily": {
+      "name_ko": "밤나방아과",
+      "name_latin": "Noctuinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Agrotis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 밤나방과 (Noctuidae)\n아과 : 밤나방아과 (Noctuinae)\n속 : (Agrotis)",
+  "basic_information": {
+    "곤충명": "검거세미밤나방",
+    "학명": "Agrotis ipsilon (Hufnagel, 1766)"
+  },
+  "information": {
+    "general_description": "날개편 길이 20～23mm. 앞날개는 회갈색 바탕인데 내횡선과 외횡선은 2중으로 되어 있으나 선명하지 않다. 뒷날개는 담갈색 바탕인데 시맥은 암갈색을 띠며, 외연부는 약간 암색을 띠고 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6～10월경에 걸쳐 연 2회 출현된다.",
+    "habits": "유충은 각종 농작물을 가해하는 해충이다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]\n[대만]\n[유럽]\n[인도]\n[호주]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 20～23mm. 앞날개는 회갈색 바탕인데 내횡선과 외횡선은 2중으로 되어 있으나 선명하지 않다. 뒷날개는 담갈색 바탕인데 시맥은 암갈색을 띠며, 외연부는 약간 암색을 띠고 있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6～10월경에 걸쳐 연 2회 출현된다."
+    },
+    {
+      "title": "습성",
+      "text": "유충은 각종 농작물을 가해하는 해충이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]\n[대만]\n[유럽]\n[인도]\n[호주]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0066-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0066_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0066_2_th.jpg",
+      "alt": "검거세미밤나방 1번째 사진 : 검거세미밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0066_2_th2.jpg",
+      "caption": "검거세미밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDS0066-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0066_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0066_1_th.jpg",
+      "alt": "검거세미밤나방 2번째 사진 : 검거세미밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0066_1_th2.jpg",
+      "caption": "검거세미밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0066-1",
+  "specimen_examples": [
+    {
+      "id": "MPNE0408101008",
+      "description": "[MPNE0408101008] 검거세미밤나방 2003.08.29 / / 목포 대학교 환경연구소"
+    },
+    {
+      "id": "MPNE0408101011",
+      "description": "[MPNE0408101011] 검거세미밤나방 2001.08.11 / / 목포 대학교 환경연구소"
+    },
+    {
+      "id": "MPNE0408101012",
+      "description": "[MPNE0408101012] 검거세미밤나방 2003.07.29 / / 목포 대학교 환경연구소"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDS0066.png",
+    "reference_image_id": "ZRDS0066-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T17:32:35.530297+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "aa1f04d72eb04faf4a24f0e47c20355611621fc6f068458b9acb090302ed82bb"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0066&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:49+00:00",
+    "html_sha256": "5513b3e83551ab9181759409e8d0b23da339a5d786b49be680a8326d06771c80",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

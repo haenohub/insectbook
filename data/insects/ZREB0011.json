@@ -1,0 +1,152 @@
+{
+  "id": "ZREB0011",
+  "name_ko": "붉은점모시나비",
+  "scientific_name": "Parnassius bremeri Bremer, 1864",
+  "display_name": "붉은점모시나비",
+  "family_ko": "호랑나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "호랑나비과",
+      "name_latin": "Papilionidae"
+    },
+    "subfamily": {
+      "name_ko": "모시나비아과",
+      "name_latin": "Parnassiinae"
+    },
+    "genus": {
+      "name_ko": "모시나비속",
+      "name_latin": "Parnassius"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 호랑나비과 (Papilionidae)\n아과 : 모시나비아과 (Parnassiinae)\n속 : 모시나비속 (Parnassius)",
+  "basic_information": {
+    "곤충명": "붉은점모시나비",
+    "학명": "Parnassius bremeri Bremer, 1864"
+  },
+  "information": {
+    "general_description": "날개편 길이 70mm내외이다. 모시같은 반투명의 날개에 붉은점이 뚜렷이 있는 것이 특징이다. 우리나라 이외에 중국, 러시아 극동지역 등지에 서식하며 동북아시아특산종으로 알려져 있다. 수컷은 복부전체에 긴털이 나 있는 반면 암컷은 복부에 털이 없고 교미한 후에는 끝에 수태낭을 달고 다닌다.",
+    "adult": null,
+    "adult_male": "복부 전체에 긴털이 나 있다.",
+    "adult_female": "복부에 털이 없고 교미한 후에는 끝에 수태낭이 생긴다.",
+    "larva": "부화 당시 애벌레는 흑색으로 몸길이가 4mm정도이고, 2령애벌레는 15mm, 3령은 17mm, 4령은 38mm, 종령애벌레는 몸길이가 40mm이고 머리의 너비는 2.8mm정도이다. 몸은 흑색으로 긴털이 무수히 나 있고 복부의 각 마디에는 붉은색의 원형무늬가 선명하게 나있다.",
+    "egg": "알은 황백색이고 만두모양이며 표면은 오돌도돌한 돌기들이 나 있다. 크기는 직경이 1.5～1.7mm이고 높이가 0.8～1.1mm정도이다.",
+    "pupa": null,
+    "ecology": "우리나라에서는 전역에 국지적으로 분포하나 그 개체수는 매우 적으며 우리나라 이외에 중국이나 러시나 동북지역의 중위도이상의 산지에 서식하는 것으로 알려려 있다. 성충은 5월 중순에서 6월 중순에 걸쳐 연 1회 발생하는 것으로 알려져 있다.\n성충은 오전 중 천천히 날면서 엉겅퀴, 기린초 등의 꽃에서 흡밀하나 물가에서 흡수하지 않는다. 암컷은 먹이식물인 기린초 주변의 지표면에 죽은가지나 마른잎에 낱개로 알을 낳으며 알속에서 부화한 1령애벌레는 알껍질 속에서 여름을 거쳐 겨울을 난다. 애벌레는 3월하순경부터 4월초순에 알껍질을 뚫고 나와 먹이식물을 먹으면서 자란다. 다자란 애벌레는 엉성한 고치를 만들고 번데기가 된다. 먹이식물로는 기린초와 돌나물이 알려져 있다.",
+    "habits": "5월 중순에서 6월 중순에 걸쳐 연 1회 발생. 암컷은 식초가 있는 곳의 주위의 마른 나무 등에 산란하는 습성이 있다.",
+    "season": null,
+    "overwintering": "알",
+    "distribution": "[중국]\n[러시아]",
+    "notes": "[감소추세종]\n[흡밀곤충] 엉겅퀴, 기린초\n[I급 멸종위기야생동식물]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 70mm내외이다. 모시같은 반투명의 날개에 붉은점이 뚜렷이 있는 것이 특징이다. 우리나라 이외에 중국, 러시아 극동지역 등지에 서식하며 동북아시아특산종으로 알려져 있다. 수컷은 복부전체에 긴털이 나 있는 반면 암컷은 복부에 털이 없고 교미한 후에는 끝에 수태낭을 달고 다닌다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "복부 전체에 긴털이 나 있다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "복부에 털이 없고 교미한 후에는 끝에 수태낭이 생긴다."
+    },
+    {
+      "title": "유충",
+      "text": "부화 당시 애벌레는 흑색으로 몸길이가 4mm정도이고, 2령애벌레는 15mm, 3령은 17mm, 4령은 38mm, 종령애벌레는 몸길이가 40mm이고 머리의 너비는 2.8mm정도이다. 몸은 흑색으로 긴털이 무수히 나 있고 복부의 각 마디에는 붉은색의 원형무늬가 선명하게 나있다."
+    },
+    {
+      "title": "생태",
+      "text": "우리나라에서는 전역에 국지적으로 분포하나 그 개체수는 매우 적으며 우리나라 이외에 중국이나 러시나 동북지역의 중위도이상의 산지에 서식하는 것으로 알려려 있다. 성충은 5월 중순에서 6월 중순에 걸쳐 연 1회 발생하는 것으로 알려져 있다.\n성충은 오전 중 천천히 날면서 엉겅퀴, 기린초 등의 꽃에서 흡밀하나 물가에서 흡수하지 않는다. 암컷은 먹이식물인 기린초 주변의 지표면에 죽은가지나 마른잎에 낱개로 알을 낳으며 알속에서 부화한 1령애벌레는 알껍질 속에서 여름을 거쳐 겨울을 난다. 애벌레는 3월하순경부터 4월초순에 알껍질을 뚫고 나와 먹이식물을 먹으면서 자란다. 다자란 애벌레는 엉성한 고치를 만들고 번데기가 된다. 먹이식물로는 기린초와 돌나물이 알려져 있다."
+    },
+    {
+      "title": "습성",
+      "text": "5월 중순에서 6월 중순에 걸쳐 연 1회 발생. 암컷은 식초가 있는 곳의 주위의 마른 나무 등에 산란하는 습성이 있다."
+    },
+    {
+      "title": "월동",
+      "text": "알"
+    },
+    {
+      "title": "알",
+      "text": "알은 황백색이고 만두모양이며 표면은 오돌도돌한 돌기들이 나 있다. 크기는 직경이 1.5～1.7mm이고 높이가 0.8～1.1mm정도이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[감소추세종]\n[흡밀곤충] 엉겅퀴, 기린초\n[I급 멸종위기야생동식물]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREB0011-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREB0011_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREB0011_2_th.jpg",
+      "alt": "붉은점모시나비 1번째 사진 : 붉은점모시나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREB0011_2_th2.jpg",
+      "caption": "붉은점모시나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREB0011-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREB0011_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREB0011_1_th.jpg",
+      "alt": "붉은점모시나비 2번째 사진 : 붉은점모시나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREB0011_1_th2.jpg",
+      "caption": "붉은점모시나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREB0011-1",
+  "specimen_examples": [
+    {
+      "id": "ADUE0305111079",
+      "description": "[ADUE0305111079] 붉은점모시나비 1971.05.21 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0305111080",
+      "description": "[ADUE0305111080] 붉은점모시나비 1970.05.20 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0305111081",
+      "description": "[ADUE0305111081] 붉은점모시나비 1973.05.18 / / 안동대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "기린초",
+      "scientific_name": "Phedimus aizoon var. floribundus H.Ohba"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREB0011-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREB0011&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:53+00:00",
+    "html_sha256": "bf5a220917943d753ea4409a7beeff11cd1c3e0dc495c24df5e66b0dafd47b30",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

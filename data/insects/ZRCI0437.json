@@ -1,0 +1,107 @@
+{
+  "id": "ZRCI0437",
+  "name_ko": "흰줄각시가지나방",
+  "scientific_name": "Ligdia japonaria Leech, 1897",
+  "display_name": "흰줄각시가지나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "가지나방아과",
+      "name_latin": "Ennominae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Ligdia"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 가지나방아과 (Ennominae)\n속 : (Ligdia)",
+  "basic_information": {
+    "곤충명": "흰줄각시가지나방",
+    "학명": "Ligdia japonaria Leech, 1897"
+  },
+  "information": {
+    "general_description": "광릉,계룡산,무주구천동과 일본에 분포하며 더듬이- 수컷은 미모상, 암컷은 실 모양. 몸은 흑갈색, 배는 담암갈색.\n날개(23~27mm)- 백색, 횡맥상에 담흑색의 무늬가 1개 있다.\n*앞날개 밑부분은 암갈색으로 등갈색 혼합. 외횡대는 담흑색으로 굵고,\n암갈색과 중황갈색을 띤다. 그 바깥쪽에는 작은 담흑색 무늬가 있다.\n외연에는 흑색 점줄이 있으나 군데군데에서 소실된다.\n연모는 백색. 뒷면은 거의 앞면과 같다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 5~8월에 출현한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "광릉,계룡산,무주구천동과 일본에 분포하며 더듬이- 수컷은 미모상, 암컷은 실 모양. 몸은 흑갈색, 배는 담암갈색.\n날개(23~27mm)- 백색, 횡맥상에 담흑색의 무늬가 1개 있다.\n*앞날개 밑부분은 암갈색으로 등갈색 혼합. 외횡대는 담흑색으로 굵고,\n암갈색과 중황갈색을 띤다. 그 바깥쪽에는 작은 담흑색 무늬가 있다.\n외연에는 흑색 점줄이 있으나 군데군데에서 소실된다.\n연모는 백색. 뒷면은 거의 앞면과 같다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 5~8월에 출현한다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0437-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0437_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0437_1_th.jpg",
+      "alt": "흰줄각시가지나방 1번째 사진 : 흰줄각시가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0437_1_th2.jpg",
+      "caption": "흰줄각시가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0437-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303061084",
+      "description": "[KNAE0303061084] 흰줄각시가지나방 2000.06.06 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303061100",
+      "description": "[KNAE0303061100] 흰줄각시가지나방 2000.08.12 / / 국립수목원"
+    },
+    {
+      "id": "KNUE0212281596",
+      "description": "[KNUE0212281596] 흰줄각시가지나방 1997.06.23 / / 강원대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCI0437-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0437&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:50+00:00",
+    "html_sha256": "b479696e2b27c7402192ee9d3bf9e4fc20daf016afe3ff068065cf49ea52255c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

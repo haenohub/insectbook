@@ -1,0 +1,103 @@
+{
+  "id": "ZOBZ0042",
+  "name_ko": "유럽무당벌레",
+  "scientific_name": "Calvia quatuordecimguttata (Linnaeus, 1758)",
+  "display_name": "유럽무당벌레",
+  "family_ko": "무당벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Coccinelloidea"
+    },
+    "family": {
+      "name_ko": "무당벌레과",
+      "name_latin": "Coccinellidae"
+    },
+    "subfamily": {
+      "name_ko": "무당벌레아과",
+      "name_latin": "Coccinellinae"
+    },
+    "genus": {
+      "name_ko": "흰점박이무당벌레속",
+      "name_latin": "Calvia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : (Coccinelloidea)\n과 : 무당벌레과 (Coccinellidae)\n아과 : 무당벌레아과 (Coccinellinae)\n속 : 흰점박이무당벌레속 (Calvia)",
+  "basic_information": {
+    "곤충명": "유럽무당벌레",
+    "학명": "Calvia quatuordecimguttata (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "체형은 방추형이며 두부의 색깔은 어두운갈색이며 그 뒷면을 보면 검은 갈색을 띠고 있음을 볼 수 있다. 다리의 길이는 짧은 편이며, 앞다리의 경절은 머리폭의 약 1.5정도 짧다.\n이들은 한국(남,북한), 일본, 러시아(연해주), 중앙아시아, 시베리아, 소아시아, 유럽, 북아메리카 등지에서 널리 서식한다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]\n[유럽]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체형은 방추형이며 두부의 색깔은 어두운갈색이며 그 뒷면을 보면 검은 갈색을 띠고 있음을 볼 수 있다. 다리의 길이는 짧은 편이며, 앞다리의 경절은 머리폭의 약 1.5정도 짧다.\n이들은 한국(남,북한), 일본, 러시아(연해주), 중앙아시아, 시베리아, 소아시아, 유럽, 북아메리카 등지에서 널리 서식한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]\n[유럽]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBZ0042-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBZ0042_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBZ0042_1_th.jpg",
+      "alt": "유럽무당벌레 1번째 사진 : 유럽무당벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBZ0042_1_th2.jpg",
+      "caption": "유럽무당벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBZ0042-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0307071076",
+      "description": "[KUIE0307071076] 유럽무당벌레 1994.06.24 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307071077",
+      "description": "[KUIE0307071077] 유럽무당벌레 1994.06.25 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307071079",
+      "description": "[KUIE0307071079] 유럽무당벌레 1988.05.23 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBZ0042-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBZ0042&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:11+00:00",
+    "html_sha256": "803148a000b2be560cef62acaac9501b583321cb857158503928841a26c87b15",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

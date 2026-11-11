@@ -1,0 +1,118 @@
+{
+  "id": "ZRFG0001",
+  "name_ko": "제비나방",
+  "scientific_name": "Acropteris iphiata (Guenée, 1857)",
+  "display_name": "제비나방",
+  "family_ko": "제비나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "제비나방과",
+      "name_latin": "Uraniidae"
+    },
+    "subfamily": {
+      "name_ko": "제비나방아과",
+      "name_latin": "Microniinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Acropteris"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 제비나방과 (Uraniidae)\n아과 : 제비나방아과 (Microniinae)\n속 : (Acropteris)",
+  "basic_information": {
+    "곤충명": "제비나방",
+    "학명": "Acropteris iphiata (Guenée, 1857)"
+  },
+  "information": {
+    "general_description": "더듬이는 실 모양, 아랫입술수염과 다리는 암회색, 머리, 가슴의 등쪽면, 배는 담회색, 앞날개의 전연부는 백색 바탕에 암회색의 가는 점이 산포, 날개끝에는 다갈색의 무늬, 기부 쪽을 향하여 넓은 암회색의 띠, 후연의 중앙을 향하여 3줄의 암회색 선, 뒷날개는 밝은 회백색 바탕에 다갈색 줄무늬가 있고 서로 연결된 듯 나타남",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 7~8월경에 출현",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[미얀마]\n[일본]\n[인도]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 실 모양, 아랫입술수염과 다리는 암회색, 머리, 가슴의 등쪽면, 배는 담회색, 앞날개의 전연부는 백색 바탕에 암회색의 가는 점이 산포, 날개끝에는 다갈색의 무늬, 기부 쪽을 향하여 넓은 암회색의 띠, 후연의 중앙을 향하여 3줄의 암회색 선, 뒷날개는 밝은 회백색 바탕에 다갈색 줄무늬가 있고 서로 연결된 듯 나타남"
+    },
+    {
+      "title": "생태",
+      "text": "성충은 7~8월경에 출현"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[미얀마]\n[일본]\n[인도]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRFG0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFG0001_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFG0001_2_th.jpg",
+      "alt": "제비나방 1번째 사진 : 제비나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFG0001_2_th2.jpg",
+      "caption": "제비나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRFG0001-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFG0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFG0001_1_th.jpg",
+      "alt": "제비나방 2번째 사진 : 제비나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFG0001_1_th2.jpg",
+      "caption": "제비나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRFG0001-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304181009",
+      "description": "[KNAE0304181009] 제비나방 1998.08.10 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304181010",
+      "description": "[KNAE0304181010] 제비나방 1998.08.11 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0302141020",
+      "description": "[KNAE0302141020] 제비나방 1997.06.18 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRFG0001-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRFG0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:29+00:00",
+    "html_sha256": "0580d09ee60d32df8752e461899bba7bdee61ce68f899de1f492ee46b0078b08",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "id": "ZOBH0205",
+  "name_ko": "호리길쭉먼지벌레",
+  "scientific_name": "Pterostichus (Badistrinus) haptoderoides haptoderoides (Tschitschérine, 1889)",
+  "display_name": "호리길쭉먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "먼지벌레아과",
+      "name_latin": "Harpalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Pterostichus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 먼지벌레아과 (Harpalinae)\n속 : (Pterostichus)",
+  "basic_information": {
+    "곤충명": "호리길쭉먼지벌레",
+    "학명": "Pterostichus (Badistrinus) haptoderoides haptoderoides (Tschitschérine, 1889)"
+  },
+  "information": {
+    "general_description": "몸길이는 8~9.5mm 이며 몸색깔은 검은색이고 앞가슴등판의 폭은 길이보다 넓으며 후각은 둔각이며 돌기가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 8~9.5mm 이며 몸색깔은 검은색이고 앞가슴등판의 폭은 길이보다 넓으며 후각은 둔각이며 돌기가 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0205-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0205_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0205_2_th.jpg",
+      "alt": "호리길쭉먼지벌레 1번째 사진 : 호리길쭉먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0205_2_th2.jpg",
+      "caption": "호리길쭉먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0205-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0205_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0205_1_th.jpg",
+      "alt": "호리길쭉먼지벌레 2번째 사진 : 호리길쭉먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0205_1_th2.jpg",
+      "caption": "호리길쭉먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0205-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0302131059",
+      "description": "[KPNE0302131059] 호리길쭉먼지벌레 1983.05.28 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0302131061",
+      "description": "[KPNE0302131061] 호리길쭉먼지벌레 1983.05.28 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0302131062",
+      "description": "[KPNE0302131062] 호리길쭉먼지벌레 1983.05.28 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0205-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0205&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:14+00:00",
+    "html_sha256": "a104f3dcfb61f13d9c93467137268b574508e8898732f9655aa78f9b798f77b5",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "id": "ZTAG0090",
+  "name_ko": "털보줄벌",
+  "scientific_name": "Anthophora (Anthophora) plumipes (Pallas, 1772)",
+  "display_name": "털보줄벌",
+  "family_ko": "꿀벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "꿀벌과",
+      "name_latin": "Apidae"
+    },
+    "subfamily": {
+      "name_ko": "꿀벌아과",
+      "name_latin": "Apinae"
+    },
+    "genus": {
+      "name_ko": "털보줄벌속",
+      "name_latin": "Anthophora"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 꿀벌과 (Apidae)\n아과 : 꿀벌아과 (Apinae)\n속 : 털보줄벌속 (Anthophora)",
+  "basic_information": {
+    "곤충명": "털보줄벌",
+    "학명": "Anthophora (Anthophora) plumipes (Pallas, 1772)"
+  },
+  "information": {
+    "general_description": "몸길이는 15mm 정도이고, 몸은 흑색이나 큰 턱 다리 및 더듬이는 적갈색 내지 암적갈색이다. 온몸에 긴 털이 촘촘히 났고, 뺨의 하부의 백색 털을 제외한 머리의 털과 가슴 등면의 털은 갈색 내지 담갈색이고 배등면의 털은 주로 더러운 황백색이다. 꼬리의 털 다발은 흑갈색이고 배마디에는 가로 띠가 없다. 뒷다리의 꽃가루 털은 반짝이는 황갈색이고 내면은 흑갈색이다. 수컷의 가운데 다리의 발목마디는 변형했다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "개나리, 배추 등의 꽃에 모인다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": "[감소추세종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 15mm 정도이고, 몸은 흑색이나 큰 턱 다리 및 더듬이는 적갈색 내지 암적갈색이다. 온몸에 긴 털이 촘촘히 났고, 뺨의 하부의 백색 털을 제외한 머리의 털과 가슴 등면의 털은 갈색 내지 담갈색이고 배등면의 털은 주로 더러운 황백색이다. 꼬리의 털 다발은 흑갈색이고 배마디에는 가로 띠가 없다. 뒷다리의 꽃가루 털은 반짝이는 황갈색이고 내면은 흑갈색이다. 수컷의 가운데 다리의 발목마디는 변형했다."
+    },
+    {
+      "title": "생태",
+      "text": "개나리, 배추 등의 꽃에 모인다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[감소추세종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0090-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0090_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0090_2_th.jpg",
+      "alt": "털보줄벌 1번째 사진 : 털보줄벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0090_2_th2.jpg",
+      "caption": "털보줄벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTAG0090-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0090_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0090_1_th.jpg",
+      "alt": "털보줄벌 2번째 사진 : 털보줄벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0090_1_th2.jpg",
+      "caption": "털보줄벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0090-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0304022057",
+      "description": "[SNUE0304022057] 털보줄벌 1995.05.27 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0303312187",
+      "description": "[SNUE0303312187] 털보줄벌 1987.05.09 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0303312188",
+      "description": "[SNUE0303312188] 털보줄벌 1987.05.20 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAG0090-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0090&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:20+00:00",
+    "html_sha256": "418bdc239ce2eee3dd55455e796699a33b6f23c74ecb3b92e9a54cf2f5b1e1ff",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

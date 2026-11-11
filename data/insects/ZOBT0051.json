@@ -1,0 +1,111 @@
+{
+  "id": "ZOBT0051",
+  "name_ko": "청남색잎벌레",
+  "scientific_name": "Smaragdina aurita hammarstroemi (Jakobson, 1901)",
+  "display_name": "청남색잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "통잎벌레아과",
+      "name_latin": "Cryptocephalinae"
+    },
+    "genus": {
+      "name_ko": "애가슴잎벌레속",
+      "name_latin": "Smaragdina"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 통잎벌레아과 (Cryptocephalinae)\n속 : 애가슴잎벌레속 (Smaragdina)",
+  "basic_information": {
+    "곤충명": "청남색잎벌레",
+    "학명": "Smaragdina aurita hammarstroemi (Jakobson, 1901)"
+  },
+  "information": {
+    "general_description": "몸길이는 4.8~6.2mm, 앞가슴등판에 약한 점각, 후각은 둥글며 각이 없다. 머리와 배판은 흑람색이며 다리는 황갈색이다. 발마디는 가늘며 제1절보다 2절이 2배가 길다. 한국(북부,중부,남부), 일본(훗가이도,혼슈,시코쿠,큐슈), 중국(만주,북부), 러시아(시베리아), 유럽에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "기주식물 오리나무, 버드나무류.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]\n[러시아]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 4.8~6.2mm, 앞가슴등판에 약한 점각, 후각은 둥글며 각이 없다. 머리와 배판은 흑람색이며 다리는 황갈색이다. 발마디는 가늘며 제1절보다 2절이 2배가 길다. 한국(북부,중부,남부), 일본(훗가이도,혼슈,시코쿠,큐슈), 중국(만주,북부), 러시아(시베리아), 유럽에 분포되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "기주식물 오리나무, 버드나무류."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0051-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0051_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0051_1_th.jpg",
+      "alt": "청남색잎벌레 1번째 사진 : 청남색잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0051_1_th2.jpg",
+      "caption": "청남색잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0051-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0306231015",
+      "description": "[FRIE0306231015] 청남색잎벌레 1999.07.20 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0306231026",
+      "description": "[FRIE0306231026] 청남색잎벌레 1999.07.20 / / 국립산림과학원"
+    },
+    {
+      "id": "HNUE1006022082",
+      "description": "[HNUE1006022082] 청남색잎벌레 1998.07.18 / / 한남대학교 자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0051-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0051&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:12+00:00",
+    "html_sha256": "4f846a0f4d18e6d826c4bb132ad1a302dcfcccac33c1f162c54b8af7251529e0",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

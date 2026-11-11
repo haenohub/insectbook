@@ -1,0 +1,103 @@
+{
+  "id": "ZTBU0290",
+  "name_ko": "니이쿠니맵시벌",
+  "scientific_name": "Diphyus niikunii (Matsumura, 1912)",
+  "display_name": "니이쿠니맵시벌",
+  "family_ko": "맵시벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "맵시벌과",
+      "name_latin": "Ichneumonidae"
+    },
+    "subfamily": {
+      "name_ko": "맵시벌아과",
+      "name_latin": "Ichneumoninae"
+    },
+    "genus": {
+      "name_ko": "세줄박이맵시벌속",
+      "name_latin": "Diphyus"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 맵시벌과 (Ichneumonidae)\n아과 : 맵시벌아과 (Ichneumoninae)\n속 : 세줄박이맵시벌속 (Diphyus)",
+  "basic_information": {
+    "곤충명": "니이쿠니맵시벌",
+    "학명": "Diphyus niikunii (Matsumura, 1912)"
+  },
+  "information": {
+    "general_description": "몸은 흑색이고, 황갈색 짧은 털이 많다. 겹눈의 안슭, 더듬이의 중앙, 작은방패판, 제2배마디의 기부, 제3배마디의 기부에 있는 2개의 무늬 및 종아리마디 기부 부근의 1무늬는 황색이고, 윗입술, 두 수염, 날개밑비늘, 도래마디, 발목마디는 적갈색이다. 뒷가슴등판에 그물 모양의 융기가 있고 아래쪽 양쪽에 치상돌기가 있다. 날개는 반투명하고 약간 암갈색이며 맥은 암갈색, 연문과 앞슭 등은 황갈색이다. 제1배마디의 끝에 많은 잔 세로 융기가 있고 제2배마디의 무늬는 양옆이 굵다. 다리는 흑색이고, 넓적다리마디의 끝에 1개의 치상돌기가 있다. 성충의 몸의 길이는 15mm정도 이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸은 흑색이고, 황갈색 짧은 털이 많다. 겹눈의 안슭, 더듬이의 중앙, 작은방패판, 제2배마디의 기부, 제3배마디의 기부에 있는 2개의 무늬 및 종아리마디 기부 부근의 1무늬는 황색이고, 윗입술, 두 수염, 날개밑비늘, 도래마디, 발목마디는 적갈색이다. 뒷가슴등판에 그물 모양의 융기가 있고 아래쪽 양쪽에 치상돌기가 있다. 날개는 반투명하고 약간 암갈색이며 맥은 암갈색, 연문과 앞슭 등은 황갈색이다. 제1배마디의 끝에 많은 잔 세로 융기가 있고 제2배마디의 무늬는 양옆이 굵다. 다리는 흑색이고, 넓적다리마디의 끝에 1개의 치상돌기가 있다. 성충의 몸의 길이는 15mm정도 이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBU0290-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0290_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0290_1_th.jpg",
+      "alt": "니이쿠니맵시벌 1번째 사진 : 니이쿠니맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0290_1_th2.jpg",
+      "caption": "니이쿠니맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBU0290-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305301023",
+      "description": "[YNUE0305301023] 니이쿠니맵시벌 1961.04.01 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305301024",
+      "description": "[YNUE0305301024] 니이쿠니맵시벌 1977.04.17 / / 영남대학교"
+    },
+    {
+      "id": "KNAE325654",
+      "description": "[KNAE325654] 니이쿠니맵시벌 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTBU0290-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBU0290&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:43+00:00",
+    "html_sha256": "83f8f2d0fcca459e3f1749f38be646d28967b6f4136b4b7d13932e3ab2b8b5a1",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

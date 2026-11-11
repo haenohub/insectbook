@@ -1,0 +1,111 @@
+{
+  "id": "ZOCF0131",
+  "name_ko": "유채좁쌀바구미",
+  "scientific_name": "Ceutorhynchus albosuturalis (Roelofs, 1875)",
+  "display_name": "유채좁쌀바구미",
+  "family_ko": "바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "바구미과",
+      "name_latin": "Curculionidae"
+    },
+    "subfamily": {
+      "name_ko": "좁쌀바구미아과",
+      "name_latin": "Ceutorhynchinae"
+    },
+    "genus": {
+      "name_ko": "좁쌀바구미속",
+      "name_latin": "Ceutorhynchus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 바구미과 (Curculionidae)\n아과 : 좁쌀바구미아과 (Ceutorhynchinae)\n속 : 좁쌀바구미속 (Ceutorhynchus)",
+  "basic_information": {
+    "곤충명": "유채좁쌀바구미",
+    "학명": "Ceutorhynchus albosuturalis (Roelofs, 1875)"
+  },
+  "information": {
+    "general_description": "몸길이 1.7-2.1mm. 체표는 흑갈색. 다리는 갈색. 앞가슴의 옆가두리, 아랫면, 소순판 및 제1간실은 백색 깃털모양의 인편이 피복. 더듬이 채찍마디는 6마디, 제2마디는 제3마디보다 길다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "십자화과 식물을 기주로 한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대한민국] 제주특별자치도\n[일본]\n[중국]\n[러시아] 극동지역",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 1.7-2.1mm. 체표는 흑갈색. 다리는 갈색. 앞가슴의 옆가두리, 아랫면, 소순판 및 제1간실은 백색 깃털모양의 인편이 피복. 더듬이 채찍마디는 6마디, 제2마디는 제3마디보다 길다."
+    },
+    {
+      "title": "생태",
+      "text": "십자화과 식물을 기주로 한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대한민국] 제주특별자치도\n[일본]\n[중국]\n[러시아] 극동지역"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCF0131-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0131_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0131_1_th.jpg",
+      "alt": "유채좁쌀바구미 1번째 사진 : 유채좁쌀바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0131_1_th2.jpg",
+      "caption": "유채좁쌀바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCF0131-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303112026",
+      "description": "[KNAE0303112026] 유채좁쌀바구미 1976.05.30 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303142008",
+      "description": "[KNAE0303142008] 유채좁쌀바구미 1997.05.21 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303142009",
+      "description": "[KNAE0303142009] 유채좁쌀바구미 1997.06.06 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOCF0131-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCF0131&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:15+00:00",
+    "html_sha256": "cf7398b41f5513ee8d708549707cc02c35d48d9196c4a33fda290091c02b4bb6",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

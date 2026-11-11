@@ -1,0 +1,135 @@
+{
+  "id": "ZOGG0031",
+  "name_ko": "참나무장발풍뎅이",
+  "scientific_name": "Proagopertha lucidula (Faldermann, 1835)",
+  "display_name": "참나무장발풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "풍뎅이아과",
+      "name_latin": "Rutelinae"
+    },
+    "genus": {
+      "name_ko": "장발풍뎅이속",
+      "name_latin": "Proagopertha"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 풍뎅이아과 (Rutelinae)\n속 : 장발풍뎅이속 (Proagopertha)",
+  "basic_information": {
+    "곤충명": "참나무장발풍뎅이",
+    "학명": "Proagopertha lucidula (Faldermann, 1835)"
+  },
+  "information": {
+    "general_description": "중국 북부에 분포하며, 몸은 둥글고, 광택이 있는 흑색 내지 구릿빛 흑색인데 드물게 녹색빛이 감돌며, 딱지날개는 담갈색 내지 황갈색이다. 앞가슴등판과 복면은 길고 연한 황백색 내지 담갈색 털이 조밀하게 덮었다. 앞가슴등판의 전각은 넓게 둥글고, 후각은 둔각이며, 기부는 중앙이 뒤쪽으로 늘어났고, 점각은 다양하며 매우 조밀하다. 중흉복판 돌기는 뚜렷하며, 수컷은 전경절 내거가 없다. 딱지날개는 거의 반투명하며, 조구점각은 작은데 불규칙한 간실점각과 분명하게 구분되지 않으며, 털은 없다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중국 북부에 분포하며, 몸은 둥글고, 광택이 있는 흑색 내지 구릿빛 흑색인데 드물게 녹색빛이 감돌며, 딱지날개는 담갈색 내지 황갈색이다. 앞가슴등판과 복면은 길고 연한 황백색 내지 담갈색 털이 조밀하게 덮었다. 앞가슴등판의 전각은 넓게 둥글고, 후각은 둔각이며, 기부는 중앙이 뒤쪽으로 늘어났고, 점각은 다양하며 매우 조밀하다. 중흉복판 돌기는 뚜렷하며, 수컷은 전경절 내거가 없다. 딱지날개는 거의 반투명하며, 조구점각은 작은데 불규칙한 간실점각과 분명하게 구분되지 않으며, 털은 없다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGG0031-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0031_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0031_2_th.jpg",
+      "alt": "참나무장발풍뎅이 1번째 사진 : 참나무장발풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0031_2_th2.jpg",
+      "caption": "참나무장발풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOGG0031-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0031_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0031_1_th.jpg",
+      "alt": "참나무장발풍뎅이 2번째 사진 : 참나무장발풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0031_1_th2.jpg",
+      "caption": "참나무장발풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGG0031-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0306162056",
+      "description": "[SNUE0306162056] 참나무장발풍뎅이 1955.04.20 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0306162057",
+      "description": "[SNUE0306162057] 참나무장발풍뎅이 1956.04.16 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0306162061",
+      "description": "[SNUE0306162061] 참나무장발풍뎅이 1957.06.05 / / 서울대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "느티나무",
+      "scientific_name": "Zelkova serrata (Thunb.) Makino"
+    },
+    {
+      "group": "식물",
+      "name_ko": "떡갈나무",
+      "scientific_name": "Quercus dentata Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "비술나무",
+      "scientific_name": "Ulmus pumila L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "시무나무",
+      "scientific_name": "Hemiptelea davidii (Hance) Planch."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGG0031-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGG0031&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:51+00:00",
+    "html_sha256": "034f09a3f6633de790dec78d089fa9b40d367303bb863181dc1213e59342f118",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

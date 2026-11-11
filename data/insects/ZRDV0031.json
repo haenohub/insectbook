@@ -1,0 +1,160 @@
+{
+  "id": "ZRDV0031",
+  "name_ko": "홍점알락나비",
+  "scientific_name": "Hestina assimilis (Linnaeus, 1758)",
+  "display_name": "홍점알락나비",
+  "family_ko": "네발나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "네발나비과",
+      "name_latin": "Nymphalidae"
+    },
+    "subfamily": {
+      "name_ko": "오색나비아과",
+      "name_latin": "Apaturinae"
+    },
+    "genus": {
+      "name_ko": "홍점알락나비속",
+      "name_latin": "Hestina"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 네발나비과 (Nymphalidae)\n아과 : 오색나비아과 (Apaturinae)\n속 : 홍점알락나비속 (Hestina)",
+  "basic_information": {
+    "곤충명": "홍점알락나비",
+    "학명": "Hestina assimilis (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "성충은 색채와 무늬가 암수 간에 큰 차이가 없다. 계절적 변이가 현저하며 봄형은 보통 크고 황녹색을 띠고 여름형은 백색을 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": "암컷은 날개 폭이 넓고 검은 부분이 수컷에 비하여 발달하지 못하였다.",
+    "larva": "유충은 머리에 뚜렷한 2개의 각상(角狀) 돌기가 있고 녹색이며 월동기에는 갈색으로 변한다.",
+    "egg": null,
+    "pupa": null,
+    "ecology": "연 2회 발생한다. 성충은 봄형이 5월 하순~6월 중순, 여름형은 8월 중순~9월 중순에 나타난다. 숲 가장자리나 산의 길가 등에서 서식하며 나무 위에서 나는 것을 흔히 볼 수 있다. 기주식물의 줄기나 가지 또는 잎에 알을 1개씩 산란하며 난 기간은 7~9일이다.",
+    "habits": "유충은 잎의 주위를 불규칙하게 식해하며 단단한 잎은 엽맥을 남기고 가해한다.",
+    "season": null,
+    "overwintering": "유충으로 낙엽 밑에서 월동한다.",
+    "distribution": "[일본]\n[중국]\n[대만]",
+    "notes": "[보통종]\n[반출금지종] 환경부고시제2001-210호",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충은 색채와 무늬가 암수 간에 큰 차이가 없다. 계절적 변이가 현저하며 봄형은 보통 크고 황녹색을 띠고 여름형은 백색을 띤다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "암컷은 날개 폭이 넓고 검은 부분이 수컷에 비하여 발달하지 못하였다."
+    },
+    {
+      "title": "유충",
+      "text": "유충은 머리에 뚜렷한 2개의 각상(角狀) 돌기가 있고 녹색이며 월동기에는 갈색으로 변한다."
+    },
+    {
+      "title": "생태",
+      "text": "연 2회 발생한다. 성충은 봄형이 5월 하순~6월 중순, 여름형은 8월 중순~9월 중순에 나타난다. 숲 가장자리나 산의 길가 등에서 서식하며 나무 위에서 나는 것을 흔히 볼 수 있다. 기주식물의 줄기나 가지 또는 잎에 알을 1개씩 산란하며 난 기간은 7~9일이다."
+    },
+    {
+      "title": "습성",
+      "text": "유충은 잎의 주위를 불규칙하게 식해하며 단단한 잎은 엽맥을 남기고 가해한다."
+    },
+    {
+      "title": "월동",
+      "text": "유충으로 낙엽 밑에서 월동한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[대만]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]\n[반출금지종] 환경부고시제2001-210호"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDV0031-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0031_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0031_3.jpg",
+      "alt": "홍점알락나비 1번째 사진 : 홍점알락나비 수컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0031_3_th2.jpg",
+      "caption": "홍점알락나비 수컷 이미지",
+      "photographed_at": "20190529",
+      "location": null,
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRDV0031-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0031_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0031_2_th.jpg",
+      "alt": "홍점알락나비 2번째 사진 : 홍점알락나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0031_2_th2.jpg",
+      "caption": "홍점알락나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDV0031-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0031_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0031_1_th.jpg",
+      "alt": "홍점알락나비 3번째 사진 : 홍점알락나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0031_1_th2.jpg",
+      "caption": "홍점알락나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDV0031-1",
+  "specimen_examples": [
+    {
+      "id": "SJNE0306131248",
+      "description": "[SJNE0306131248] 홍점알락나비 2001.05.15 / / 상주대학교"
+    },
+    {
+      "id": "ADUE0305091142",
+      "description": "[ADUE0305091142] 홍점알락나비 2002.08.19 / / 안동대학교"
+    },
+    {
+      "id": "SJNE0306131266",
+      "description": "[SJNE0306131266] 홍점알락나비 2001.06.01 / / 상주대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "팽나무",
+      "scientific_name": "Celtis sinensis Pers."
+    },
+    {
+      "group": "식물",
+      "name_ko": "풍게나무",
+      "scientific_name": "Celtis jessoensis Koidz."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDV0031-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDV0031&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:41+00:00",
+    "html_sha256": "d69c0933bb5305380e119bd67afb94b47fabeddc8ccc29556dde303e1ab0e6f3",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "id": "ZOBT0209",
+  "name_ko": "뽕나무잎벌레",
+  "scientific_name": "Fleutiauxia armata (Baly, 1874)",
+  "display_name": "뽕나무잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "긴더듬이잎벌레아과",
+      "name_latin": "Galerucinae"
+    },
+    "genus": {
+      "name_ko": "이마혹잎벌레속",
+      "name_latin": "Fleutiauxia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 긴더듬이잎벌레아과 (Galerucinae)\n속 : 이마혹잎벌레속 (Fleutiauxia)",
+  "basic_information": {
+    "곤충명": "뽕나무잎벌레",
+    "학명": "Fleutiauxia armata (Baly, 1874)"
+  },
+  "information": {
+    "general_description": "몸길이는 5.0~7.3mm, 더듬이는 흑색이며 4,5절의 아래면은 황갈색이다. 다리는 흑갈색이며, 발마다와 종아리마디는 적갈색이다. 암컷은 머리에 돌기를 가지고 있지만 수컷은 없다. 앞날개는 청록색이다. 앞가슴등판, 소순판, 배판은 흑색이다. 머리는 흑색이다. 한국, 일본(훗카이도,혼슈,시코쿠,큐슈), 동시베리아, 중국(남부)에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 4~5월발견되며 다식성이다. 5월에 뿌리근처에 알을 2~3개씩 산란. 유충은 땅속 뿌리를 섭식한다. 참나의 근경에 피해를 준다. 알의 기간은 20~30일, 연 1화성으로 유충상태 월동.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 5.0~7.3mm, 더듬이는 흑색이며 4,5절의 아래면은 황갈색이다. 다리는 흑갈색이며, 발마다와 종아리마디는 적갈색이다. 암컷은 머리에 돌기를 가지고 있지만 수컷은 없다. 앞날개는 청록색이다. 앞가슴등판, 소순판, 배판은 흑색이다. 머리는 흑색이다. 한국, 일본(훗카이도,혼슈,시코쿠,큐슈), 동시베리아, 중국(남부)에 분포되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 4~5월발견되며 다식성이다. 5월에 뿌리근처에 알을 2~3개씩 산란. 유충은 땅속 뿌리를 섭식한다. 참나의 근경에 피해를 준다. 알의 기간은 20~30일, 연 1화성으로 유충상태 월동."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0209-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0209_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0209_1_th.jpg",
+      "alt": "뽕나무잎벌레 1번째 사진 : 뽕나무잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0209_1_th2.jpg",
+      "caption": "뽕나무잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0209-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0306131009",
+      "description": "[FRIE0306131009] 뽕나무잎벌레 1984.05.10 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0303261052",
+      "description": "[FRIE0303261052] 뽕나무잎벌레 1980.05.27 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0303261053",
+      "description": "[FRIE0303261053] 뽕나무잎벌레 1981.05.26 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "닥나무",
+      "scientific_name": "Broussonetia × kazinoki Siebold"
+    },
+    {
+      "group": "식물",
+      "name_ko": "매실나무",
+      "scientific_name": "Prunus mume (Siebold) Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "복사나무",
+      "scientific_name": "Prunus persica (L.) Batsch"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0209-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0209&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:04+00:00",
+    "html_sha256": "a9577aa65b5efbbdcac3e3be207d16024455433f59271acc62a36a5896ad1748",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

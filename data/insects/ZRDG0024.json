@@ -1,0 +1,136 @@
+{
+  "id": "ZRDG0024",
+  "name_ko": "금강석녹색부전나비",
+  "scientific_name": "Favonius ultramarinus (Fixsen, 1887)",
+  "display_name": "금강석녹색부전나비",
+  "family_ko": "부전나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "부전나비과",
+      "name_latin": "Lycaenidae"
+    },
+    "subfamily": {
+      "name_ko": "녹색부전나비아과",
+      "name_latin": "Theclinae"
+    },
+    "genus": {
+      "name_ko": "녹색부전나비속",
+      "name_latin": "Favonius"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 부전나비과 (Lycaenidae)\n아과 : 녹색부전나비아과 (Theclinae)\n속 : 녹색부전나비속 (Favonius)",
+  "basic_information": {
+    "곤충명": "금강석녹색부전나비",
+    "학명": "Favonius ultramarinus (Fixsen, 1887)"
+  },
+  "information": {
+    "general_description": "암수구별은 다른 녹색 부전나비류와 같다",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "낮은 산지에 있는 떡갈나무 숲에 서식한다. 보통 수컷은 해뜨거나 해질 무렵에 활발하게 활동하며, 저녁에 떡갈나무 위에서 서로 빙글빙글 돌 듯이 나는 것을 볼 수 있다. 또 점유행동을 강하게 한다. 아침에는 물가에 모여 물을 먹고 간혹 개망초꽃 등에서 흡밀한다",
+    "season": null,
+    "overwintering": "알",
+    "distribution": "[일본]\n[중국]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암수구별은 다른 녹색 부전나비류와 같다"
+    },
+    {
+      "title": "습성",
+      "text": "낮은 산지에 있는 떡갈나무 숲에 서식한다. 보통 수컷은 해뜨거나 해질 무렵에 활발하게 활동하며, 저녁에 떡갈나무 위에서 서로 빙글빙글 돌 듯이 나는 것을 볼 수 있다. 또 점유행동을 강하게 한다. 아침에는 물가에 모여 물을 먹고 간혹 개망초꽃 등에서 흡밀한다"
+    },
+    {
+      "title": "월동",
+      "text": "알"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDG0024-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0024_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0024_2_th.jpg",
+      "alt": "금강석녹색부전나비 1번째 사진 : 금강산녹색부전나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0024_2_th2.jpg",
+      "caption": "금강산녹색부전나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDG0024-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0024_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0024_1_th.jpg",
+      "alt": "금강석녹색부전나비 2번째 사진 : 금강산녹색부전나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0024_1_th2.jpg",
+      "caption": "금강산녹색부전나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDG0024-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0305291089",
+      "description": "[FRIE0305291089] 금강석녹색부전나비 1983.06.27 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0302201012",
+      "description": "[KNAE0302201012] 금강석녹색부전나비 2000.06.20 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0302201006",
+      "description": "[KNAE0302201006] 금강석녹색부전나비 2000.06.28 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "떡갈나무",
+      "scientific_name": "Quercus dentata Thunb."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDG0024.png",
+    "reference_image_id": "ZRDG0024-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T14:55:39.785477+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "1de904284ac235c4944af0250b82b27578621c4ca2d816849143ccf1cf313362"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDG0024&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:44+00:00",
+    "html_sha256": "75c74d630ff5b9b51a5cb9e69464243df8d691e46fc5c05da0f8a8b0e6f093ef",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

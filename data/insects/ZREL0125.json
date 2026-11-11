@@ -1,0 +1,111 @@
+{
+  "id": "ZREL0125",
+  "name_ko": "검은섬들명나방",
+  "scientific_name": "Piletocera flavidiscalis Hampson, 1917",
+  "display_name": "검은섬들명나방",
+  "family_ko": "풀명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "풀명나방과",
+      "name_latin": "Crambidae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Spilomelinae"
+    },
+    "genus": {
+      "name_ko": "노랑띠들명나방속",
+      "name_latin": "Piletocera"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 풀명나방과 (Crambidae)\n아과 : (Spilomelinae)\n속 : 노랑띠들명나방속 (Piletocera)",
+  "basic_information": {
+    "곤충명": "검은섬들명나방",
+    "학명": "Piletocera flavidiscalis Hampson, 1917"
+  },
+  "information": {
+    "general_description": "날개 길이 17 mm 내외. 앞날개 전연은 흑색의 인편이 점 무늬를 이루며 이어져 있고, 날개 끝에는 전연에서 외연 쪽으로 비스듬한 황색 띠 무늬가 있다. 외연은 흑색 줄로 이어져 있다. 뒷날개는 담갈색이며, 중앙에 황색의 무늬를 이룬다. 외연은 명료한 흑색 줄로 이어져 있으며, 연모는 황색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대한민국] 전라남도\n[인도]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개 길이 17 mm 내외. 앞날개 전연은 흑색의 인편이 점 무늬를 이루며 이어져 있고, 날개 끝에는 전연에서 외연 쪽으로 비스듬한 황색 띠 무늬가 있다. 외연은 흑색 줄로 이어져 있다. 뒷날개는 담갈색이며, 중앙에 황색의 무늬를 이룬다. 외연은 명료한 흑색 줄로 이어져 있으며, 연모는 황색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대한민국] 전라남도\n[인도]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0125-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0125_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0125_1_th.jpg",
+      "alt": "검은섬들명나방 1번째 사진 : 검은섬들명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0125_1_th2.jpg",
+      "caption": "검은섬들명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0125-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0301031002",
+      "description": "[UIBE0301031002] 검은섬들명나방 1999.06.11 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301031003",
+      "description": "[UIBE0301031003] 검은섬들명나방 2002.07.04 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301031005",
+      "description": "[UIBE0301031005] 검은섬들명나방 1995.07.11 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZREL0125.png",
+    "reference_image_id": "ZREL0125-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T18:01:59.911553+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "4a7f1fed04ae02e46a6441f549aeb1d4a4c1f8c19a626946946735b092cbab48"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0125&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:59+00:00",
+    "html_sha256": "b5a35f2abe49a126099d511a7b113edd3ad51a58f5acb16f5db094d241dc91ec",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": "ZODP0025",
+  "name_ko": "물땡땡이",
+  "scientific_name": "Hydrophilus (Hydrophilus) acuminatus Motschulsky, 1854",
+  "display_name": "물땡땡이",
+  "family_ko": "물땡땡이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "물땡땡이상과",
+      "name_latin": "Hydrophiloidea"
+    },
+    "family": {
+      "name_ko": "물땡땡이과",
+      "name_latin": "Hydrophilidae"
+    },
+    "subfamily": {
+      "name_ko": "물땡땡이아과",
+      "name_latin": "Hydrophilinae"
+    },
+    "genus": {
+      "name_ko": "물땡땡이속",
+      "name_latin": "Hydrophilus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 물땡땡이상과 (Hydrophiloidea)\n과 : 물땡땡이과 (Hydrophilidae)\n아과 : 물땡땡이아과 (Hydrophilinae)\n속 : 물땡땡이속 (Hydrophilus)",
+  "basic_information": {
+    "곤충명": "물땡땡이",
+    "학명": "Hydrophilus (Hydrophilus) acuminatus Motschulsky, 1854"
+  },
+  "information": {
+    "general_description": "몸길이는 32~40mm 몸전체가 광택이 나는 흑색, 발마디 안쪽에는 황갈색의 긴털이 많이 있다. 더듬이는 황갈색이고, 앞가슴배쪽에는 뾰족한 돌기가 있다. 앞가슴등판 양옆에 곤봉모양의 홈들이 경사진 줄처럼 나열되어있고, 딱지날개에는 더 작은 점각들이 네줄로 이른다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 32~40mm 몸전체가 광택이 나는 흑색, 발마디 안쪽에는 황갈색의 긴털이 많이 있다. 더듬이는 황갈색이고, 앞가슴배쪽에는 뾰족한 돌기가 있다. 앞가슴등판 양옆에 곤봉모양의 홈들이 경사진 줄처럼 나열되어있고, 딱지날개에는 더 작은 점각들이 네줄로 이른다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZODP0025-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODP0025_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODP0025_2_th.jpg",
+      "alt": "물땡땡이 1번째 사진 : 물땡땡이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODP0025_2_th2.jpg",
+      "caption": "물땡땡이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZODP0025-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODP0025_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODP0025_1_th.jpg",
+      "alt": "물땡땡이 2번째 사진 : 물땡땡이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODP0025_1_th2.jpg",
+      "caption": "물땡땡이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZODP0025-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0408091027",
+      "description": "[KNAE0408091027] 물땡땡이 2002.09.08 / / 국립수목원"
+    },
+    {
+      "id": "FRIE0305151055",
+      "description": "[FRIE0305151055] 물땡땡이 1986.07.20 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0305151053",
+      "description": "[FRIE0305151053] 물땡땡이 1986.07.15 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZODP0025-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZODP0025&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:40+00:00",
+    "html_sha256": "27ab69bc72d9d2d3ba77d702fc6ad485a447636cb93abb874b0b8684a04ef975",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

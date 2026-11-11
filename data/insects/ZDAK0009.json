@@ -1,0 +1,113 @@
+{
+  "id": "ZDAK0009",
+  "name_ko": "가시측범잠자리",
+  "scientific_name": "Trigomphus citimus (Needham, 1931)",
+  "display_name": "가시측범잠자리",
+  "family_ko": "측범잠자리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "잠자리목",
+      "name_latin": "Odonata"
+    },
+    "family": {
+      "name_ko": "측범잠자리과",
+      "name_latin": "Gomphidae"
+    },
+    "subfamily": {
+      "name_ko": "측범잠자리아과",
+      "name_latin": "Gomphinae"
+    },
+    "genus": {
+      "name_ko": "가시측범잠자리속",
+      "name_latin": "Trigomphus"
+    }
+  },
+  "taxonomy_text": "목 : 잠자리목 (Odonata)\n과 : 측범잠자리과 (Gomphidae)\n아과 : 측범잠자리아과 (Gomphinae)\n속 : 가시측범잠자리속 (Trigomphus)",
+  "basic_information": {
+    "곤충명": "가시측범잠자리",
+    "학명": "Trigomphus citimus (Needham, 1931)"
+  },
+  "information": {
+    "general_description": "배길이 32~34mm, 뒷날개길이 26~28mm. 몸매가 홀쭉하고 배마디가 가늘다. 등가슴 앞쪽의 밑부분이 넓은 연두색 줄무늬와 그 앞쪽 앞어깨의 짧고 가는 2개의 연두색 줄무늬를 제외하고는 다른 무늬는 없음. 옆가슴은 연두색바탕에 흑색줄무늬 1개. 수컷의 교미 부속기는 가시처럼 뾰족하며, 암컷은 너비가 좁음.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "배길이 32~34mm, 뒷날개길이 26~28mm. 몸매가 홀쭉하고 배마디가 가늘다. 등가슴 앞쪽의 밑부분이 넓은 연두색 줄무늬와 그 앞쪽 앞어깨의 짧고 가는 2개의 연두색 줄무늬를 제외하고는 다른 무늬는 없음. 옆가슴은 연두색바탕에 흑색줄무늬 1개. 수컷의 교미 부속기는 가시처럼 뾰족하며, 암컷은 너비가 좁음."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZDAK0009-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAK0009_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAK0009_2_th.jpg",
+      "alt": "가시측범잠자리 1번째 사진 : 가시측범잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAK0009_2_th2.jpg",
+      "caption": "가시측범잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZDAK0009-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAK0009_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAK0009_1_th.jpg",
+      "alt": "가시측범잠자리 2번째 사진 : 가시측범잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAK0009_1_th2.jpg",
+      "caption": "가시측범잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZDAK0009-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408191177",
+      "description": "[MPME0408191177] 가시측범잠자리 2003.05.15 / / 목포자연사박물관"
+    },
+    {
+      "id": "CBNE0203161015",
+      "description": "[CBNE0203161015] 가시측범잠자리 2001.06.06 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0203161016",
+      "description": "[CBNE0203161016] 가시측범잠자리 2001.05.13 / / 충북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZDAK0009.png",
+    "reference_image_id": "ZDAK0009-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T15:37:34.940500+00:00",
+    "sha256": "01d629fcd4d3b2f51d1cba8d6e8ee622587416fcb3aeef4ffc68d97e55882de5"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZDAK0009&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:13+00:00",
+    "html_sha256": "5234093f190a023ed7428f5266140783ac6315b6c0e30663ab3ce9a24504bdec",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "id": "ZMCB0008",
+  "name_ko": "모지뿔매미",
+  "scientific_name": "Tsunozemia paradoxa (Lethierry, 1874)",
+  "display_name": "모지뿔매미",
+  "family_ko": "뿔매미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "뿔매미상과",
+      "name_latin": "Membracoidea"
+    },
+    "family": {
+      "name_ko": "뿔매미과",
+      "name_latin": "Membracidae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Centrotinae"
+    },
+    "genus": {
+      "name_ko": "모지뿔매미속",
+      "name_latin": "Tsunozemia"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 뿔매미상과 (Membracoidea)\n과 : 뿔매미과 (Membracidae)\n아과 : (Centrotinae)\n속 : 모지뿔매미속 (Tsunozemia)",
+  "basic_information": {
+    "곤충명": "모지뿔매미",
+    "학명": "Tsunozemia paradoxa (Lethierry, 1874)"
+  },
+  "information": {
+    "general_description": "몸길이: 약6-7mm 암컷이 수컷보다 더크다. 몸은 적갈색, 암갈색 또는 검정색을 띠며 온몸에는 검은점각이 산재하고 잛은 은백색의 또는 회황색의 털이 밀생한다. 때때로 온몸이 흰가루가 묻어 있기도 한다. 등면에서보면 머리는 앞가슴등판에 가려져서 보이지않고 앞가슴등판의 양측어깨 상단에 넓적한 귀 모양의 돌기가 양옆으로 발달하여 비스듬하게 좁아지는데, 어깨 모서리보다 훨씬 길게 돌출하였다. 뒷돌기는 점차 가늘고 길게 발달하여서 앞날개의 3/5까지 도달한다. 앞날개는 투명하고 기부가 경화되었으며 점각이 산재한다. 작은방패판의 기부에는 회황색의 털뭉치와 가루가 모여있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "주로 경작지 주변에 서식한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[대만]\n[일본]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이: 약6-7mm 암컷이 수컷보다 더크다. 몸은 적갈색, 암갈색 또는 검정색을 띠며 온몸에는 검은점각이 산재하고 잛은 은백색의 또는 회황색의 털이 밀생한다. 때때로 온몸이 흰가루가 묻어 있기도 한다. 등면에서보면 머리는 앞가슴등판에 가려져서 보이지않고 앞가슴등판의 양측어깨 상단에 넓적한 귀 모양의 돌기가 양옆으로 발달하여 비스듬하게 좁아지는데, 어깨 모서리보다 훨씬 길게 돌출하였다. 뒷돌기는 점차 가늘고 길게 발달하여서 앞날개의 3/5까지 도달한다. 앞날개는 투명하고 기부가 경화되었으며 점각이 산재한다. 작은방패판의 기부에는 회황색의 털뭉치와 가루가 모여있다."
+    },
+    {
+      "title": "생태",
+      "text": "주로 경작지 주변에 서식한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[대만]\n[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMCB0008-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMCB0008_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMCB0008_1_th.jpg",
+      "alt": "모지뿔매미 1번째 사진 : 모지뿔매미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMCB0008_1_th2.jpg",
+      "caption": "모지뿔매미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMCB0008-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0201144026",
+      "description": "[YNUE0201144026] 모지뿔매미 1991.05.09 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0201144027",
+      "description": "[YNUE0201144027] 모지뿔매미 1991.05.19 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0201144028",
+      "description": "[YNUE0201144028] 모지뿔매미 1991.05.10 / / 영남대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "쑥",
+      "scientific_name": "Artemisia indica Willd."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZMCB0008-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMCB0008&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:19+00:00",
+    "html_sha256": "6b5426fe3f814e245239223d46d1f47302a4fd5f306b82ca8bde7cd52aac38c7",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

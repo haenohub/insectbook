@@ -1,0 +1,107 @@
+{
+  "id": "ZOBL0072",
+  "name_ko": "우단꽃하늘소",
+  "scientific_name": "Nivellia sanguinosa (Gyllenhal, 1827)",
+  "display_name": "우단꽃하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "꽃하늘소아과",
+      "name_latin": "Lepturinae"
+    },
+    "genus": {
+      "name_ko": "우단꽃하늘소속",
+      "name_latin": "Nivellia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 꽃하늘소아과 (Lepturinae)\n속 : 우단꽃하늘소속 (Nivellia)",
+  "basic_information": {
+    "곤충명": "우단꽃하늘소",
+    "학명": "Nivellia sanguinosa (Gyllenhal, 1827)"
+  },
+  "information": {
+    "general_description": "몸의 길이는 10~15mm 이며, 두부와 촉각,다리는 검은색을 띄며 딱지날개는 황갈색을 띈다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "7~8월에 출연한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[몽골]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의 길이는 10~15mm 이며, 두부와 촉각,다리는 검은색을 띄며 딱지날개는 황갈색을 띈다."
+    },
+    {
+      "title": "생태",
+      "text": "7~8월에 출연한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[몽골]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0072-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0072_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0072_1_th.jpg",
+      "alt": "우단꽃하늘소 1번째 사진 : 우단꽃하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0072_1_th2.jpg",
+      "caption": "우단꽃하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0072-1",
+  "specimen_examples": [
+    {
+      "id": "GSNE0607232031",
+      "description": "[GSNE0607232031] 우단꽃하늘소 2003.07.24 / / 경상대학교"
+    },
+    {
+      "id": "CJUE1008242101",
+      "description": "[CJUE1008242101] 우단꽃하늘소 2000.06.09 / / 제주대학교 곤충표본관"
+    },
+    {
+      "id": "KNAE1107054150",
+      "description": "[KNAE1107054150] 우단꽃하늘소 2009.06.06 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0072-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0072&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:58+00:00",
+    "html_sha256": "bbd5eee1635229d51df22899edfa69b48eec84bb70309db305cc32ea21cc85b6",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

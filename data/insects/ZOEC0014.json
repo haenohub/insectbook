@@ -1,0 +1,133 @@
+{
+  "id": "ZOEC0014",
+  "name_ko": "넓적사슴벌레",
+  "scientific_name": "Dorcus titanus castanicolor (Motschulsky, 1861)",
+  "display_name": "넓적사슴벌레",
+  "family_ko": "사슴벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "사슴벌레과",
+      "name_latin": "Lucanidae"
+    },
+    "subfamily": {
+      "name_ko": "사슴벌레아과",
+      "name_latin": "Lucaninae"
+    },
+    "genus": {
+      "name_ko": "왕사슴벌레속",
+      "name_latin": "Dorcus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 사슴벌레과 (Lucanidae)\n아과 : 사슴벌레아과 (Lucaninae)\n속 : 왕사슴벌레속 (Dorcus)",
+  "basic_information": {
+    "곤충명": "넓적사슴벌레",
+    "학명": "Dorcus titanus castanicolor (Motschulsky, 1861)"
+  },
+  "information": {
+    "general_description": "우리나라를 비롯하여 중국, 일본에 분포한다. 몸길이는 수컷이 20~53mm이고 암컷이 20~35mm 정도이다. 넓고 광택이 있는 흑색을 띠며 머리방패의 앞쪽 중앙은 깊게 파여 2개의 삼각형처럼 보이며, 복안분안돌기(ocular canthus)는 복안의 3/4 근처까지 늘어나 있다. 큰턱은 매우 큰데 양옆의 거의 평행이다가 끝 근처에서 갑자기 굽었으며, 기부 근처의 윗면에 1개의 큰 내치가 있다. 전흉배판의 양옆에는 앞쪽과 뒷쪽의 1/3위치가 약간 돌출하였고, 후각은 경사가 져 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "낮에는 상수리나무 따위의 고목속에서 숨어 있고, 밤에는 나무진이나 과일에 모인다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "우리나라를 비롯하여 중국, 일본에 분포한다. 몸길이는 수컷이 20~53mm이고 암컷이 20~35mm 정도이다. 넓고 광택이 있는 흑색을 띠며 머리방패의 앞쪽 중앙은 깊게 파여 2개의 삼각형처럼 보이며, 복안분안돌기(ocular canthus)는 복안의 3/4 근처까지 늘어나 있다. 큰턱은 매우 큰데 양옆의 거의 평행이다가 끝 근처에서 갑자기 굽었으며, 기부 근처의 윗면에 1개의 큰 내치가 있다. 전흉배판의 양옆에는 앞쪽과 뒷쪽의 1/3위치가 약간 돌출하였고, 후각은 경사가 져 있다."
+    },
+    {
+      "title": "생태",
+      "text": "낮에는 상수리나무 따위의 고목속에서 숨어 있고, 밤에는 나무진이나 과일에 모인다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOEC0014-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOEC0014_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOEC0014_3.jpg",
+      "alt": "넓적사슴벌레 1번째 사진 : ",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOEC0014_3_th2.jpg",
+      "caption": null,
+      "photographed_at": null,
+      "location": null,
+      "photographer": "국립수목원(이승규)"
+    },
+    {
+      "id": "ZOEC0014-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEC0014_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEC0014_2_th.jpg",
+      "alt": "넓적사슴벌레 2번째 사진 : 넓적사슴벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEC0014_2_th2.jpg",
+      "caption": "넓적사슴벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOEC0014-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEC0014_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEC0014_1_th.jpg",
+      "alt": "넓적사슴벌레 3번째 사진 : 넓적사슴벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEC0014_1_th2.jpg",
+      "caption": "넓적사슴벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOEC0014-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0408101022",
+      "description": "[KNAE0408101022] 넓적사슴벌레 2001.07.19 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0408101023",
+      "description": "[KNAE0408101023] 넓적사슴벌레 2001.06.18 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0408091060",
+      "description": "[KNAE0408091060] 넓적사슴벌레 2002.09.09 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOEC0014.png",
+    "reference_image_id": "ZOEC0014-2",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T10:16:25.855974+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "21f940a68ae25cfd130af9525518d690a8bf47138b0c765288402ecfd1d0a1f2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOEC0014&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:42+00:00",
+    "html_sha256": "0ca405212f61b9602696211b8dbb54781d4e9978317a4245c1c9c6ed9168a987",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

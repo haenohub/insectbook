@@ -1,0 +1,107 @@
+{
+  "id": "ZLAO0002",
+  "name_ko": "왕물벌레",
+  "scientific_name": "Hesperocorixa hokkensis (Matsumura, 1905)",
+  "display_name": "왕물벌레",
+  "family_ko": "물벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "물벌레상과",
+      "name_latin": "Corixoidea"
+    },
+    "family": {
+      "name_ko": "물벌레과",
+      "name_latin": "Corixidae"
+    },
+    "subfamily": {
+      "name_ko": "물벌레아과",
+      "name_latin": "Corixinae"
+    },
+    "genus": {
+      "name_ko": "물벌레속",
+      "name_latin": "Hesperocorixa"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 물벌레상과 (Corixoidea)\n과 : 물벌레과 (Corixidae)\n아과 : 물벌레아과 (Corixinae)\n속 : 물벌레속 (Hesperocorixa)",
+  "basic_information": {
+    "곤충명": "왕물벌레",
+    "학명": "Hesperocorixa hokkensis (Matsumura, 1905)"
+  },
+  "information": {
+    "general_description": "몸길이 : 10-12mm\n우리나라에서 알려진 물벌레 중에서 가장 크다. 몸의 연한 청황색에 미세한 흑색 줄무늬가 발달해 있다. 머리끝은 둥글고, 수컷의 얼굴은 넓게 옴푹하다. 더듬이는 4마디이다. 맨끝마디는 가늘고 특히 선단을 향해서 가늘어지고, 길게 굽은 털이나 있다. 앞가슴등의 흑색 가로띠는 10개이고, 표면의 미세한 주름은 뚜렷하지 않다. 반시초는 평활하고, 흑색 줄무늬는 그물눈 모양이며, 연한 색부는 좁다.",
+    "adult": null,
+    "adult_male": "수컷의 앞다리 확부절은 종아리마디보다 길고, 단추 모양의 작은돌기가 30개 정도 나 있고 진한 자색이다.",
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 10-12mm\n우리나라에서 알려진 물벌레 중에서 가장 크다. 몸의 연한 청황색에 미세한 흑색 줄무늬가 발달해 있다. 머리끝은 둥글고, 수컷의 얼굴은 넓게 옴푹하다. 더듬이는 4마디이다. 맨끝마디는 가늘고 특히 선단을 향해서 가늘어지고, 길게 굽은 털이나 있다. 앞가슴등의 흑색 가로띠는 10개이고, 표면의 미세한 주름은 뚜렷하지 않다. 반시초는 평활하고, 흑색 줄무늬는 그물눈 모양이며, 연한 색부는 좁다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "수컷의 앞다리 확부절은 종아리마디보다 길고, 단추 모양의 작은돌기가 30개 정도 나 있고 진한 자색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLAO0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAO0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAO0002_1_th.jpg",
+      "alt": "왕물벌레 1번째 사진 : 왕물벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAO0002_1_th2.jpg",
+      "caption": "왕물벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLAO0002-1",
+  "specimen_examples": [
+    {
+      "id": "HNUE0408113055",
+      "description": "[HNUE0408113055] 왕물벌레 1997.08.19 / / 한남대학교 자연사박물관"
+    },
+    {
+      "id": "CBNE0408091033",
+      "description": "[CBNE0408091033] 왕물벌레 2002.07.09 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0408091035",
+      "description": "[CBNE0408091035] 왕물벌레 2002.07.08 / / 충북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLAO0002-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLAO0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:36+00:00",
+    "html_sha256": "9ba89447804335a68b3d0f3c75700e8a8ed61b69584f31cebe84118bd0cfd6d9",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

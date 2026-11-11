@@ -1,0 +1,99 @@
+{
+  "id": "ZTDK0108",
+  "name_ko": "노래기벌",
+  "scientific_name": "Cerceris hortivaga Kohl, 1880",
+  "display_name": "노래기벌",
+  "family_ko": "은주둥이벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "은주둥이벌과",
+      "name_latin": "Crabronidae"
+    },
+    "subfamily": {
+      "name_ko": "노래기벌아과",
+      "name_latin": "Philanthinae"
+    },
+    "genus": {
+      "name_ko": "노래기벌속",
+      "name_latin": "Cerceris"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 은주둥이벌과 (Crabronidae)\n아과 : 노래기벌아과 (Philanthinae)\n속 : 노래기벌속 (Cerceris)",
+  "basic_information": {
+    "곤충명": "노래기벌",
+    "학명": "Cerceris hortivaga Kohl, 1880"
+  },
+  "information": {
+    "general_description": "몸길이는 12-14mm 정도이며 몸은 흑색이다. 몸에 점각이 많다. 꼬리마디등면의 파나 모양인곳은 타원형으로 앞뒤 양끝은 좁다. 머리방패 양쪽에는 은백색 짧은 털이 나 있고 몸에는 회갈색 털이 성기게 나 있다.다리의 각 마디에 있는 불규칙한 무늬 등은 황색이다. 날개는 투명하나 끝으로 가면서 다소 흑색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 12-14mm 정도이며 몸은 흑색이다. 몸에 점각이 많다. 꼬리마디등면의 파나 모양인곳은 타원형으로 앞뒤 양끝은 좁다. 머리방패 양쪽에는 은백색 짧은 털이 나 있고 몸에는 회갈색 털이 성기게 나 있다.다리의 각 마디에 있는 불규칙한 무늬 등은 황색이다. 날개는 투명하나 끝으로 가면서 다소 흑색이다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDK0108-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0108_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0108_1_th.jpg",
+      "alt": "노래기벌 1번째 사진 : 노래기벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0108_1_th2.jpg",
+      "caption": "노래기벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDK0108-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306261006",
+      "description": "[YNUE0306261006] 노래기벌 1992.06.27 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306261017",
+      "description": "[YNUE0306261017] 노래기벌 1995.08.15 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306261018",
+      "description": "[YNUE0306261018] 노래기벌 1987.08.19 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDK0108-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDK0108&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:30+00:00",
+    "html_sha256": "98d8818e778724c7f3115d751a73543e5534aa13514a75f2cc90ba7087a54b66",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

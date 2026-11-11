@@ -1,0 +1,122 @@
+{
+  "id": "ZRDV0047",
+  "name_ko": "담색어리표범나비",
+  "scientific_name": "Melitaea protomedia Ménétriès, 1859",
+  "display_name": "담색어리표범나비",
+  "family_ko": "네발나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "네발나비과",
+      "name_latin": "Nymphalidae"
+    },
+    "subfamily": {
+      "name_ko": "네발나비아과",
+      "name_latin": "Nymphalinae"
+    },
+    "genus": {
+      "name_ko": "어리표범나비속",
+      "name_latin": "Melitaea"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 네발나비과 (Nymphalidae)\n아과 : 네발나비아과 (Nymphalinae)\n속 : 어리표범나비속 (Melitaea)",
+  "basic_information": {
+    "곤충명": "담색어리표범나비",
+    "학명": "Melitaea protomedia Ménétriès, 1859"
+  },
+  "information": {
+    "general_description": "암컷은 일반적으로 수컷보다 크고 날개모양이 둥그스름하며 날개 윗면의 바탕색은 연하며 검정색 무늬의 발달이 약하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "저산지의 초지에 서식한다. 날 때에는 낮게 이리저리 활발하게 날지만 그다지 멀리 가지 않는다. 큰까치수영이나 엉겅퀴, 개망초 등의 꽃에서 흡밀한다. 요즘 이 종의 채집이 점점 어려워지고 있는데 초지가 좁아져 개체수가 줄어드는 것으로 짐작된다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷은 일반적으로 수컷보다 크고 날개모양이 둥그스름하며 날개 윗면의 바탕색은 연하며 검정색 무늬의 발달이 약하다."
+    },
+    {
+      "title": "습성",
+      "text": "저산지의 초지에 서식한다. 날 때에는 낮게 이리저리 활발하게 날지만 그다지 멀리 가지 않는다. 큰까치수영이나 엉겅퀴, 개망초 등의 꽃에서 흡밀한다. 요즘 이 종의 채집이 점점 어려워지고 있는데 초지가 좁아져 개체수가 줄어드는 것으로 짐작된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDV0047-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0047_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0047_2_th.jpg",
+      "alt": "담색어리표범나비 1번째 사진 : 담색어리표범나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0047_2_th2.jpg",
+      "caption": "담색어리표범나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDV0047-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0047_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0047_1_th.jpg",
+      "alt": "담색어리표범나비 2번째 사진 : 담색어리표범나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0047_1_th2.jpg",
+      "caption": "담색어리표범나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDV0047-1",
+  "specimen_examples": [
+    {
+      "id": "ADUE0305091137",
+      "description": "[ADUE0305091137] 담색어리표범나비 1999.06.25 / / 안동대학교"
+    },
+    {
+      "id": "KUIE0301281072",
+      "description": "[KUIE0301281072] 담색어리표범나비 1961.06.11 / / 고려대학교"
+    },
+    {
+      "id": "KNAE0301211024",
+      "description": "[KNAE0301211024] 담색어리표범나비 1985.06.30 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDV0047-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDV0047&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:01+00:00",
+    "html_sha256": "38ce1be9107f65dd967c21ba3598000c1332beeacefa385a0982fc1fb72b3b5f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

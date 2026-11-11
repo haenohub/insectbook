@@ -1,0 +1,128 @@
+{
+  "id": "ZRDS0362",
+  "name_ko": "파밤나방",
+  "scientific_name": "Spodoptera exigua (Hübner, [1808])",
+  "display_name": "파밤나방",
+  "family_ko": "밤나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "밤나방과",
+      "name_latin": "Noctuidae"
+    },
+    "subfamily": {
+      "name_ko": "밤나방아과",
+      "name_latin": "Noctuinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Spodoptera"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 밤나방과 (Noctuidae)\n아과 : 밤나방아과 (Noctuinae)\n속 : (Spodoptera)",
+  "basic_information": {
+    "곤충명": "파밤나방",
+    "학명": "Spodoptera exigua (Hübner, [1808])"
+  },
+  "information": {
+    "general_description": "날개편 길이 11～12mm. 앞날개는 가는편인데 회갈색을 띠며, 내횡선과 외횡선은 각기 2중의 가는 암갈색 선으로 되었다. 뒷날개는 반투명한 백색인데 전연부와 외연부는 다소 암색이며, 암갈색의 외연선이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 4월과 8～9월경에 출현된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]\n[태국]\n[인도]\n[유럽]\n[이집트]\n[호주]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 11～12mm. 앞날개는 가는편인데 회갈색을 띠며, 내횡선과 외횡선은 각기 2중의 가는 암갈색 선으로 되었다. 뒷날개는 반투명한 백색인데 전연부와 외연부는 다소 암색이며, 암갈색의 외연선이 있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 4월과 8～9월경에 출현된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]\n[태국]\n[인도]\n[유럽]\n[이집트]\n[호주]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0362-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0362_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0362_2_th.jpg",
+      "alt": "파밤나방 1번째 사진 : 파밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0362_2_th2.jpg",
+      "caption": "파밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDS0362-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0362_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0362_1_th.jpg",
+      "alt": "파밤나방 2번째 사진 : 파밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0362_1_th2.jpg",
+      "caption": "파밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0362-1",
+  "specimen_examples": [
+    {
+      "id": "GSNE0408182076",
+      "description": "[GSNE0408182076] 파밤나방 2000.09.22 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0408182077",
+      "description": "[GSNE0408182077] 파밤나방 2002.07.14 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0408182078",
+      "description": "[GSNE0408182078] 파밤나방 2000.05.27 / / 경상대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "파",
+      "scientific_name": "Allium fistulosum L."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDS0362-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0362&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:33+00:00",
+    "html_sha256": "1e2a4778c4cc8b277a68359cb01fe650b6011bb7eff05617a15e1df1db46faba",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

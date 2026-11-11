@@ -1,0 +1,122 @@
+{
+  "id": "ZRCI0001",
+  "name_ko": "검정날개겨울자나방",
+  "scientific_name": "Alsophila bulawskii Beljaev, 1996",
+  "display_name": "검정날개겨울자나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "겨울자나방아과",
+      "name_latin": "Alsophilinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Alsophila"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 겨울자나방아과 (Alsophilinae)\n속 : (Alsophila)",
+  "basic_information": {
+    "곤충명": "검정날개겨울자나방",
+    "학명": "Alsophila bulawskii Beljaev, 1996"
+  },
+  "information": {
+    "general_description": "수컷의 더듬이는 톱니 모양으로 선모 모양이나, 선모가 흰띠겨울자나방보다 훨씬 길다. 몸과 날개는 한층 더 흑색을 띤다. 외횡선은 백색으로 바깥쪽에 위치하며, 제1중맥(M1)의 밑부분 근처에서 횡맥에 접하는 일이 없다. 뒷날개는 암색 때문에 외횡선이 한층 더 명료하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "수컷의 더듬이는 톱니 모양으로 선모 모양이나, 선모가 흰띠겨울자나방보다 훨씬 길다. 몸과 날개는 한층 더 흑색을 띤다. 외횡선은 백색으로 바깥쪽에 위치하며, 제1중맥(M1)의 밑부분 근처에서 횡맥에 접하는 일이 없다. 뒷날개는 암색 때문에 외횡선이 한층 더 명료하다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0001_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0001_2_th.jpg",
+      "alt": "검정날개겨울자나방 1번째 사진 : 검정날개겨울자나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0001_2_th2.jpg",
+      "caption": "검정날개겨울자나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0001-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0001_1_th.jpg",
+      "alt": "검정날개겨울자나방 2번째 사진 : 검정날개겨울자나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0001_1_th2.jpg",
+      "caption": "검정날개겨울자나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0001-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0302111018",
+      "description": "[FRIE0302111018] 검정날개겨울자나방 1985.03.15 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0212091062",
+      "description": "[FRIE0212091062] 검정날개겨울자나방 1983.03.22 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0212091063",
+      "description": "[FRIE0212091063] 검정날개겨울자나방 1985.03.22 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRCI0001.png",
+    "reference_image_id": "ZRCI0001-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T11:12:07.588334+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "a2db6931fb2fe941f789eb9d8c62eaca17b3b47beb77d6e77d367e907af316c9"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:10+00:00",
+    "html_sha256": "bbb4ae5d039688d92221b897a0f36f721fecb611596fd97bc55bcdf49e2bc195",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "ZREL0160",
+  "name_ko": "사탕무우들명나방",
+  "scientific_name": "Sitochroa verticalis (Linnaeus, 1758)",
+  "display_name": "사탕무우들명나방",
+  "family_ko": "풀명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "풀명나방과",
+      "name_latin": "Crambidae"
+    },
+    "subfamily": {
+      "name_ko": "들명나방아과",
+      "name_latin": "Pyraustinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Sitochroa"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 풀명나방과 (Crambidae)\n아과 : 들명나방아과 (Pyraustinae)\n속 : (Sitochroa)",
+  "basic_information": {
+    "곤충명": "사탕무우들명나방",
+    "학명": "Sitochroa verticalis (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "국내분포:강원특별자치도 치악산\n국외분포:한국, 일본, 아무르. 아시아. 소련, 유럽\n머리는 황갈색이고, 앞이마는 약간 돌출하였다. 더듬이는 황색이다. 아랫입술수염은 거의 앞쪽으로 향하며 황갈색인데 아랫면은 약간 색이 연하다. 가슴 및 배의 등쪽면은 담황갈색이다. 가슴, 배, 다리는 황갈색 인편에 다소 황갈색 인편이 섞여 있다. 뒷다리 종아리마디의 바깥쪽 며느리발톱은 암컷의 경우에는 안쪽 것의 절반 정도이나 수컷은 약 1/5길이이다.\n앞날개는 담황색 바탕으로 외횡선은 톱니 모양을 이루나 심한 굴곡을 이루지는 않는다. 뒷날개는 황백색인데 외연부가 흑갈색 부분을 이룬다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "기주식물:국화과(Compositae); 명아주과(Chenopodiaceae);자작나무과(Fagaceae)",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아] 극동지역",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "국내분포:강원특별자치도 치악산\n국외분포:한국, 일본, 아무르. 아시아. 소련, 유럽\n머리는 황갈색이고, 앞이마는 약간 돌출하였다. 더듬이는 황색이다. 아랫입술수염은 거의 앞쪽으로 향하며 황갈색인데 아랫면은 약간 색이 연하다. 가슴 및 배의 등쪽면은 담황갈색이다. 가슴, 배, 다리는 황갈색 인편에 다소 황갈색 인편이 섞여 있다. 뒷다리 종아리마디의 바깥쪽 며느리발톱은 암컷의 경우에는 안쪽 것의 절반 정도이나 수컷은 약 1/5길이이다.\n앞날개는 담황색 바탕으로 외횡선은 톱니 모양을 이루나 심한 굴곡을 이루지는 않는다. 뒷날개는 황백색인데 외연부가 흑갈색 부분을 이룬다."
+    },
+    {
+      "title": "습성",
+      "text": "기주식물:국화과(Compositae); 명아주과(Chenopodiaceae);자작나무과(Fagaceae)"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아] 극동지역"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0160-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0160_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0160_1_th.jpg",
+      "alt": "사탕무우들명나방 1번째 사진 : 사탕무우들명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0160_1_th2.jpg",
+      "caption": "사탕무우들명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0160-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0305011021",
+      "description": "[FRIE0305011021] 사탕무우들명나방 1983.08.14 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0302182081",
+      "description": "[KNAE0302182081] 사탕무우들명나방 1988.06.14 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0302182082",
+      "description": "[KNAE0302182082] 사탕무우들명나방 1994.08.02 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREL0160-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0160&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:28+00:00",
+    "html_sha256": "fa062a5a432448711728fa7128c1d0472a33265235a182b74afee77732176283",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

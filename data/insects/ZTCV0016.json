@@ -1,0 +1,103 @@
+{
+  "id": "ZTCV0016",
+  "name_ko": "빌로오드대모벌",
+  "scientific_name": "Eopompilus internalis (Matsumura, 1911)",
+  "display_name": "빌로오드대모벌",
+  "family_ko": "대모벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "말벌상과",
+      "name_latin": "Vespoidea"
+    },
+    "family": {
+      "name_ko": "대모벌과",
+      "name_latin": "Pompilidae"
+    },
+    "subfamily": {
+      "name_ko": "배고랑대모벌아과",
+      "name_latin": "Pepsinae"
+    },
+    "genus": {
+      "name_ko": "빌로오드대모벌속",
+      "name_latin": "Eopompilus"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 말벌상과 (Vespoidea)\n과 : 대모벌과 (Pompilidae)\n아과 : 배고랑대모벌아과 (Pepsinae)\n속 : 빌로오드대모벌속 (Eopompilus)",
+  "basic_information": {
+    "곤충명": "빌로오드대모벌",
+    "학명": "Eopompilus internalis (Matsumura, 1911)"
+  },
+  "information": {
+    "general_description": "몸은 흑색이나 빌로오드 모양 광택을 띠고 황갈색 머리털이 밀생하고 있다. 더듬이는 암갈색이고 제 1 배마디오 k제 2 배마디의 끝은 황갈색이며 그 안슭에는 황백색 세로 무늬가 있다. 큰턱의 끝 가까이에 갈색부가 있다. 뒷가슴등판은 중앙에 3 개의 세로 도랑이 있되 양쪽에 있는 것은 다만 앞슭에서만 뚜렷하다. 날개는 투명하고 다소 황색을 띠며 바깥가장자리는 넓게 암색이다. 날개맥과 연문은 암갈색이고 제 1.2 배마디의 기부에 각각 2 개의 황백색 무늬가 이TSmsep 제 2 배마디의 것은 미소하여 뚜렷하지 않다. 다리는 흑갈색이고 종아리 마디와 발목마디는 암갈색이다. 다만 앞다리의 넓적다리마디와 종아리마디의 안슭은 황갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸은 흑색이나 빌로오드 모양 광택을 띠고 황갈색 머리털이 밀생하고 있다. 더듬이는 암갈색이고 제 1 배마디오 k제 2 배마디의 끝은 황갈색이며 그 안슭에는 황백색 세로 무늬가 있다. 큰턱의 끝 가까이에 갈색부가 있다. 뒷가슴등판은 중앙에 3 개의 세로 도랑이 있되 양쪽에 있는 것은 다만 앞슭에서만 뚜렷하다. 날개는 투명하고 다소 황색을 띠며 바깥가장자리는 넓게 암색이다. 날개맥과 연문은 암갈색이고 제 1.2 배마디의 기부에 각각 2 개의 황백색 무늬가 이TSmsep 제 2 배마디의 것은 미소하여 뚜렷하지 않다. 다리는 흑갈색이고 종아리 마디와 발목마디는 암갈색이다. 다만 앞다리의 넓적다리마디와 종아리마디의 안슭은 황갈색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTCV0016-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTCV0016_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTCV0016_1_th.jpg",
+      "alt": "빌로오드대모벌 1번째 사진 : 빌로오드대모벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTCV0016_1_th2.jpg",
+      "caption": "빌로오드대모벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTCV0016-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306261037",
+      "description": "[YNUE0306261037] 빌로오드대모벌 1960.08.07 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306261038",
+      "description": "[YNUE0306261038] 빌로오드대모벌 1976.08.07 / / 영남대학교"
+    },
+    {
+      "id": "DJUE0408141120",
+      "description": "[DJUE0408141120] 빌로오드대모벌 1998.06.07 / / 대전대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTCV0016-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTCV0016&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:59+00:00",
+    "html_sha256": "cadd48f5fa7239853e508a51c2a2abedebf4d635a0e032f5f7c16119c04e2763",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

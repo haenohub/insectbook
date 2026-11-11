@@ -1,0 +1,103 @@
+{
+  "id": "ZRFL0004",
+  "name_ko": "꼬마흰띠알락나방",
+  "scientific_name": "Pseudopidorus fasciatus (Felder & Felder, 1862)",
+  "display_name": "꼬마흰띠알락나방",
+  "family_ko": "알락나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "알락나방상과",
+      "name_latin": "Zygaenoidea"
+    },
+    "family": {
+      "name_ko": "알락나방과",
+      "name_latin": "Zygaenidae"
+    },
+    "subfamily": {
+      "name_ko": "띠알락나방아과",
+      "name_latin": "Chalcosiinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Pseudopidorus"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 알락나방상과 (Zygaenoidea)\n과 : 알락나방과 (Zygaenidae)\n아과 : 띠알락나방아과 (Chalcosiinae)\n속 : (Pseudopidorus)",
+  "basic_information": {
+    "곤충명": "꼬마흰띠알락나방",
+    "학명": "Pseudopidorus fasciatus (Felder & Felder, 1862)"
+  },
+  "information": {
+    "general_description": "서울․전북특별자치도․경기도․경상북도와 중국에 분포한다. 수컷의 더듬이는 빗살 모양인데 흰띠알락나방보다는 나비가 좁다. 겹눈을 제외한 머리의 전체에는 적황색을 띠고, 비로오드 모양의 털이 나 있다. 몸의 색깔은 검은 색이 도는 남색 광택인데, 더듬이와 다리의 색깔도 마찬가지로 검은 광택이 난다. 앞날개에도 검은 바탕에 남색 광택이 있는데 날개의 기부 쪽이 현저하며, 날개의 중앙에는 제 11 맥에서 제 2 맥에 걸쳐 황색 띠가 나비 2∼3㎜ 정도로 되어 있다. 뒷날개도 바탕색은 흑색이나 중실을 중심으로 주위에 옅은 노랑색의 무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "서울․전북특별자치도․경기도․경상북도와 중국에 분포한다. 수컷의 더듬이는 빗살 모양인데 흰띠알락나방보다는 나비가 좁다. 겹눈을 제외한 머리의 전체에는 적황색을 띠고, 비로오드 모양의 털이 나 있다. 몸의 색깔은 검은 색이 도는 남색 광택인데, 더듬이와 다리의 색깔도 마찬가지로 검은 광택이 난다. 앞날개에도 검은 바탕에 남색 광택이 있는데 날개의 기부 쪽이 현저하며, 날개의 중앙에는 제 11 맥에서 제 2 맥에 걸쳐 황색 띠가 나비 2∼3㎜ 정도로 되어 있다. 뒷날개도 바탕색은 흑색이나 중실을 중심으로 주위에 옅은 노랑색의 무늬가 있다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRFL0004-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFL0004_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFL0004_1_th.jpg",
+      "alt": "꼬마흰띠알락나방 1번째 사진 : 꼬마흰띠알락나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFL0004_1_th2.jpg",
+      "caption": "꼬마흰띠알락나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRFL0004-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0203261020",
+      "description": "[FRIE0203261020] 꼬마흰띠알락나방 1982.08.16 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE371316",
+      "description": "[KNAE371316] 꼬마흰띠알락나방 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRFL0004.png",
+    "reference_image_id": "ZRFL0004-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T14:32:44.001527+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "be7132184e7748c873726e340f5d046a9da3820d8682b8ab91a5dea79f23ab64"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRFL0004&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:52+00:00",
+    "html_sha256": "00a25b12d90f5aba5cf374ef03f5bdbc69431260e606683b973f3d50d5679ec3",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": "ZOBH0029",
+  "name_ko": "지리멋쟁이딱정벌레",
+  "scientific_name": "Coptolabrus jankowskii obtusipennis (Ishikawa & Kim, 1983)",
+  "display_name": "지리멋쟁이딱정벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "딱정벌레아과",
+      "name_latin": "Carabinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Coptolabrus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 딱정벌레아과 (Carabinae)\n속 : (Coptolabrus)",
+  "basic_information": {
+    "곤충명": "지리멋쟁이딱정벌레",
+    "학명": "Coptolabrus jankowskii obtusipennis (Ishikawa & Kim, 1983)"
+  },
+  "information": {
+    "general_description": "몸길이는 수컷은 31mm, 두부는 녹색의 광택이 있고, 앞가슴 등판이 녹동색의 광택이 진하다. 딱지날개는 녹색에 가장 자리에는 금색광택이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "포식생이며, 지렁이, 달팽이, 등을 먹고 활엽수림이 발달된곳에 서식한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[포식성]\n[한국고유종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 수컷은 31mm, 두부는 녹색의 광택이 있고, 앞가슴 등판이 녹동색의 광택이 진하다. 딱지날개는 녹색에 가장 자리에는 금색광택이 있다."
+    },
+    {
+      "title": "생태",
+      "text": "포식생이며, 지렁이, 달팽이, 등을 먹고 활엽수림이 발달된곳에 서식한다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[포식성]\n[한국고유종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0029-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0029_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0029_2_th.jpg",
+      "alt": "지리멋쟁이딱정벌레 1번째 사진 : 지리멋쟁이딱정벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0029_2_th2.jpg",
+      "caption": "지리멋쟁이딱정벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0029-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0029_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0029_1_th.jpg",
+      "alt": "지리멋쟁이딱정벌레 2번째 사진 : 지리멋쟁이딱정벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0029_1_th2.jpg",
+      "caption": "지리멋쟁이딱정벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0029-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0203211044",
+      "description": "[KPNE0203211044] 지리멋쟁이딱정벌레 1985.07.23 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0203211045",
+      "description": "[KPNE0203211045] 지리멋쟁이딱정벌레 1985.07.23 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0203211047",
+      "description": "[KPNE0203211047] 지리멋쟁이딱정벌레 1990.08.18 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0029-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0029&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:29+00:00",
+    "html_sha256": "99f9e790574941bc332a10df16bec4ff8c89de6fa25ccf8e29eafdddc2884310",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "ZOAR0047",
+  "name_ko": "네눈박이거위벌레",
+  "scientific_name": "Maculphrysus quadrimaculatus (Faldermann, 1835)",
+  "display_name": "네눈박이거위벌레",
+  "family_ko": "거위벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "거위벌레과",
+      "name_latin": "Attelabidae"
+    },
+    "subfamily": {
+      "name_ko": "목거위벌레아과",
+      "name_latin": "Apoderinae"
+    },
+    "genus": {
+      "name_ko": "점박이거위벌레속",
+      "name_latin": "Maculphrysus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 거위벌레과 (Attelabidae)\n아과 : 목거위벌레아과 (Apoderinae)\n속 : 점박이거위벌레속 (Maculphrysus)",
+  "basic_information": {
+    "곤충명": "네눈박이거위벌레",
+    "학명": "Maculphrysus quadrimaculatus (Faldermann, 1835)"
+  },
+  "information": {
+    "general_description": "한국, 중국, 몽고, 러시아에 분포하며, 체장은 4.5-5.0mm 정도이다. 체색은 황토색이며, 얼굴과 머리의 아랫면 기부, 앞가슴당판의 기부의 양쪽 측면, 후흉의 아래쪽, 그리고 시초 중앙에 있는 네 개의 무늬는 흑갈색이다. 머리는 폭보다 길이가 약 2배이며, 주둥이는 폭보다 약간 길다. 시초의 점각열의 크기는 일정하며, 미절판에도 분명한 점각이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[중국]\n[몽골]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 중국, 몽고, 러시아에 분포하며, 체장은 4.5-5.0mm 정도이다. 체색은 황토색이며, 얼굴과 머리의 아랫면 기부, 앞가슴당판의 기부의 양쪽 측면, 후흉의 아래쪽, 그리고 시초 중앙에 있는 네 개의 무늬는 흑갈색이다. 머리는 폭보다 길이가 약 2배이며, 주둥이는 폭보다 약간 길다. 시초의 점각열의 크기는 일정하며, 미절판에도 분명한 점각이 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]\n[몽골]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAR0047-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0047_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0047_1_th.jpg",
+      "alt": "네눈박이거위벌레 1번째 사진 : 네눈박이거위벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0047_1_th2.jpg",
+      "caption": "네눈박이거위벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAR0047-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0204161381",
+      "description": "[SNUE0204161381] 네눈박이거위벌레 1987.05.30 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOAR0047.png",
+    "reference_image_id": "ZOAR0047-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T10:25:17.165554+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "1a18c94bc264a4bbf573446532c91dd4fec2fd3d6e3ea1aa783496157d94326d"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAR0047&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:44+00:00",
+    "html_sha256": "24889807a89665f3b0cf7237b81c4b2cd304ea022bd125043ebdca583531013a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

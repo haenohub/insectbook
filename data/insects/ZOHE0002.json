@@ -1,0 +1,87 @@
+{
+  "id": "ZOHE0002",
+  "name_ko": "대만송장풍뎅이",
+  "scientific_name": "Trox formosanus Nomura, 1973",
+  "display_name": "대만송장풍뎅이",
+  "family_ko": "송장풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "송장풍뎅이과",
+      "name_latin": "Trogidae"
+    },
+    "genus": {
+      "name_ko": "송장풍뎅이속",
+      "name_latin": "Trox"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 송장풍뎅이과 (Trogidae)\n속 : 송장풍뎅이속 (Trox)",
+  "basic_information": {
+    "곤충명": "대만송장풍뎅이",
+    "학명": "Trox formosanus Nomura, 1973"
+  },
+  "information": {
+    "general_description": "대만에 분포하며 몸은 흑갈색. 회황색 분비물로 덮혔고 매우 두꺼운 난형이나 뒤쪽이 보다 넓다. 등쪽에는 담황색의 짧은 극모들이, 이마에는 여러개의 융기부와 마모되기 쉬운 극모들이, 전흉배판의 가장자리에는 곤봉형의 담황색 극모가 돌려 나있다. 딱지날개의 조구점각은 길고 깊으며, 양옆의 융기부 때문에 불규칙한 모이이며, 간실의 융기는 대체로 타원형 내지 장타원형인데 짝수 간실은 작고 3~4개, 홀수 간실은 매우 크며 10~20갱의 극모다발을 수발한다.\nBL:6.5~7mm. BW:3.5~4.1mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "대만에 분포하며 몸은 흑갈색. 회황색 분비물로 덮혔고 매우 두꺼운 난형이나 뒤쪽이 보다 넓다. 등쪽에는 담황색의 짧은 극모들이, 이마에는 여러개의 융기부와 마모되기 쉬운 극모들이, 전흉배판의 가장자리에는 곤봉형의 담황색 극모가 돌려 나있다. 딱지날개의 조구점각은 길고 깊으며, 양옆의 융기부 때문에 불규칙한 모이이며, 간실의 융기는 대체로 타원형 내지 장타원형인데 짝수 간실은 작고 3~4개, 홀수 간실은 매우 크며 10~20갱의 극모다발을 수발한다.\nBL:6.5~7mm. BW:3.5~4.1mm."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOHE0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOHE0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOHE0002_1_th.jpg",
+      "alt": "대만송장풍뎅이 1번째 사진 : 대만송장풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOHE0002_1_th2.jpg",
+      "caption": "대만송장풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOHE0002-1",
+  "specimen_examples": [
+    {
+      "id": "SSUE0301071001",
+      "description": "[SSUE0301071001] 대만송장풍뎅이 1987.06.22 / / 성신여자대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOHE0002-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOHE0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:11+00:00",
+    "html_sha256": "ec05c02fbc31072670d259d9f7163c577f79644e3b132ca0a9731ab953351dbd",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "id": "ZMBC0007",
+  "name_ko": "깃동상투벌레",
+  "scientific_name": "Orthopagus lunulifer Uhler, 1896",
+  "display_name": "깃동상투벌레",
+  "family_ko": "상투벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "꽃매미상과",
+      "name_latin": "Fulgoroidea"
+    },
+    "family": {
+      "name_ko": "상투벌레과",
+      "name_latin": "Dictyopharidae"
+    },
+    "subfamily": {
+      "name_ko": "상투벌레아과",
+      "name_latin": "Dictyopharinae"
+    },
+    "genus": {
+      "name_ko": "깃동상투벌레속",
+      "name_latin": "Orthopagus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 꽃매미상과 (Fulgoroidea)\n과 : 상투벌레과 (Dictyopharidae)\n아과 : 상투벌레아과 (Dictyopharinae)\n속 : 깃동상투벌레속 (Orthopagus)",
+  "basic_information": {
+    "곤충명": "깃동상투벌레",
+    "학명": "Orthopagus lunulifer Uhler, 1896"
+  },
+  "information": {
+    "general_description": "몸길이:약11-13mm. 몸은 회황색 또는 담황색을 띠고, 등면에 황갈색에서 흑갈색 무늬가 산재하다. 머리는 앞가슴등판보다 훨씬 좁고, 정수리는 양 옆가장자리가 평행하고 볼록하게 융기되었다. 앞가장자리는 둥글게 돌출 하였고, 옆가장자리의 융기선과 합쳐진다. 정수리는 짧은 상투 모양이며 길이가 폭의 약 2배 이하이다. 앞가슴등판과 작은 방패판에는 세로로 발달된 3개의 융기선을 가지며, 황갈색 또는 적갈색의 희미한 세로줄 무늬가 있다. 앞날개는 크고 길게 발달하였고, 다소 평행을 이루며 선단부는 포물선을 이룬다. 날개막은 투명하며, 회합부의 기부에는 황갈색의 무늬를 후반부와 끝가장자리를 따라 흑갈색의 현저한 무늬를 가진다. 뒷날개는 잘 발달 되어있고 투명하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "경작지 주변과 초원지대에서 발견된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": "우리나라에서는 알로 월동한다.",
+    "distribution": "[대만]\n[일본]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이:약11-13mm. 몸은 회황색 또는 담황색을 띠고, 등면에 황갈색에서 흑갈색 무늬가 산재하다. 머리는 앞가슴등판보다 훨씬 좁고, 정수리는 양 옆가장자리가 평행하고 볼록하게 융기되었다. 앞가장자리는 둥글게 돌출 하였고, 옆가장자리의 융기선과 합쳐진다. 정수리는 짧은 상투 모양이며 길이가 폭의 약 2배 이하이다. 앞가슴등판과 작은 방패판에는 세로로 발달된 3개의 융기선을 가지며, 황갈색 또는 적갈색의 희미한 세로줄 무늬가 있다. 앞날개는 크고 길게 발달하였고, 다소 평행을 이루며 선단부는 포물선을 이룬다. 날개막은 투명하며, 회합부의 기부에는 황갈색의 무늬를 후반부와 끝가장자리를 따라 흑갈색의 현저한 무늬를 가진다. 뒷날개는 잘 발달 되어있고 투명하다."
+    },
+    {
+      "title": "생태",
+      "text": "경작지 주변과 초원지대에서 발견된다."
+    },
+    {
+      "title": "월동",
+      "text": "우리나라에서는 알로 월동한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대만]\n[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMBC0007-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMBC0007_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMBC0007_1_th.jpg",
+      "alt": "깃동상투벌레 1번째 사진 : 깃동상투벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMBC0007_1_th2.jpg",
+      "caption": "깃동상투벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMBC0007-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303211085",
+      "description": "[KNAE0303211085] 깃동상투벌레 1992.09.06 / / 국립수목원"
+    },
+    {
+      "id": "CBNE0203261001",
+      "description": "[CBNE0203261001] 깃동상투벌레 1995.05.10 / / 충북대학교"
+    },
+    {
+      "id": "HNUE0408144008",
+      "description": "[HNUE0408144008] 깃동상투벌레 2002.08.25 / / 한남대학교 자연사박물관"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "예덕나무",
+      "scientific_name": "Mallotus japonicus (L.f.) Müll.Arg."
+    },
+    {
+      "group": "식물",
+      "name_ko": "칡",
+      "scientific_name": "Pueraria lobata (Willd.) Ohwi"
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZMBC0007.png",
+    "reference_image_id": "ZMBC0007-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T09:44:58.587451+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "2ddd88b4504f065c05e4b3cb20e3a6af33974dc1cc2608ae19ab17e953549068"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMBC0007&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:15+00:00",
+    "html_sha256": "771019c3c471c95eb97bff443843256ea316097da3f6d95ea3267eb275f0872c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

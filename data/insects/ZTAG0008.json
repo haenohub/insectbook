@@ -1,0 +1,103 @@
+{
+  "id": "ZTAG0008",
+  "name_ko": "이시하라애꽃벌",
+  "scientific_name": "Andrena (Andrena) ishiharai Hirashima, 1953",
+  "display_name": "이시하라애꽃벌",
+  "family_ko": "애꽃벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "애꽃벌과",
+      "name_latin": "Andrenidae"
+    },
+    "subfamily": {
+      "name_ko": "애꽃벌아과",
+      "name_latin": "Andreninae"
+    },
+    "genus": {
+      "name_ko": "애꽃벌속",
+      "name_latin": "Andrena"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 애꽃벌과 (Andrenidae)\n아과 : 애꽃벌아과 (Andreninae)\n속 : 애꽃벌속 (Andrena)",
+  "basic_information": {
+    "곤충명": "이시하라애꽃벌",
+    "학명": "Andrena (Andrena) ishiharai Hirashima, 1953"
+  },
+  "information": {
+    "general_description": "암컷의 머리는 길이보다 폭이 넓다. 암컷은 가슴등면에 검은 털들이 전혀 나타나지 않으며 점각이 없는 중앙선은 좁고 약간의 점각들이 드문드문 나타난다. 복부등면에 흰털들이 비교적 많고 가운데가슴 옆면과 얼굴, 뒷다리의 꽃가루솔에 검은 털이 있다. 윗입술돌기가 깊이 패였다. 수컷은 큰턱기부에 돌기가 없고 가슴과 전신복절 측면에 검은색 털이 전혀 없다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷의 머리는 길이보다 폭이 넓다. 암컷은 가슴등면에 검은 털들이 전혀 나타나지 않으며 점각이 없는 중앙선은 좁고 약간의 점각들이 드문드문 나타난다. 복부등면에 흰털들이 비교적 많고 가운데가슴 옆면과 얼굴, 뒷다리의 꽃가루솔에 검은 털이 있다. 윗입술돌기가 깊이 패였다. 수컷은 큰턱기부에 돌기가 없고 가슴과 전신복절 측면에 검은색 털이 전혀 없다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0008-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0008_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0008_1_th.jpg",
+      "alt": "이시하라애꽃벌 1번째 사진 : 이시하라애꽃벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0008_1_th2.jpg",
+      "caption": "이시하라애꽃벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0008-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0408112008",
+      "description": "[KUIE0408112008] 이시하라애꽃벌 1998.09.03 / / 고려대학교"
+    },
+    {
+      "id": "KNAE375196",
+      "description": "[KNAE375196] 이시하라애꽃벌 / / 국립수목원"
+    },
+    {
+      "id": "KNAE480576",
+      "description": "[KNAE480576] 이시하라애꽃벌 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAG0008-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0008&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:32+00:00",
+    "html_sha256": "eb094af254de4d9f2d70d7404c8e2a7815ea4be310f1baba2d14ada655fb8412",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

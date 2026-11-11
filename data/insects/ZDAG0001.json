@@ -1,0 +1,110 @@
+{
+  "id": "ZDAG0001",
+  "name_ko": "청동잠자리",
+  "scientific_name": "Cordulia aenea (Linnaeus, 1758)",
+  "display_name": "청동잠자리",
+  "family_ko": "청동잠자리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "잠자리목",
+      "name_latin": "Odonata"
+    },
+    "family": {
+      "name_ko": "청동잠자리과",
+      "name_latin": "Corduliidae"
+    },
+    "subfamily": {
+      "name_ko": "청동잠자리아과",
+      "name_latin": "Corduliinae"
+    },
+    "genus": {
+      "name_ko": "청동잠자리속",
+      "name_latin": "Cordulia"
+    }
+  },
+  "taxonomy_text": "목 : 잠자리목 (Odonata)\n과 : 청동잠자리과 (Corduliidae)\n아과 : 청동잠자리아과 (Corduliinae)\n속 : 청동잠자리속 (Cordulia)",
+  "basic_information": {
+    "곤충명": "청동잠자리",
+    "학명": "Cordulia aenea (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "배길이 30mm, 뒷날개길이 29mm. 머리는 금록색이고 가는 털이 밀생함. 배는 흑색을 띈 금속 청람색이며 수컷의 3마디 앞가두리에는 가는 황색 줄무늬 존재. 2마디는 둥그렇게 되어 있음. 미부 상부기는 원통형이며 윗끝은 바깥쪽으로 향함. 미부 하부기는 짧고 깊이 갈라졌고 각 가지의 윗끝은 윗쪽으로 구부러지고 날카로움. 윗끝 가까이에 위로 향한 1개의 이가 있으며 음판은 작고 얇게 갈라지고 중앙에 방형의 모서리 존재. 날개는 투명하고 날개맥과 가두리의 무늬는 흑갈색.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "배길이 30mm, 뒷날개길이 29mm. 머리는 금록색이고 가는 털이 밀생함. 배는 흑색을 띈 금속 청람색이며 수컷의 3마디 앞가두리에는 가는 황색 줄무늬 존재. 2마디는 둥그렇게 되어 있음. 미부 상부기는 원통형이며 윗끝은 바깥쪽으로 향함. 미부 하부기는 짧고 깊이 갈라졌고 각 가지의 윗끝은 윗쪽으로 구부러지고 날카로움. 윗끝 가까이에 위로 향한 1개의 이가 있으며 음판은 작고 얇게 갈라지고 중앙에 방형의 모서리 존재. 날개는 투명하고 날개맥과 가두리의 무늬는 흑갈색."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZDAG0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAG0001_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAG0001_2_th.jpg",
+      "alt": "청동잠자리 1번째 사진 : 청동잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAG0001_2_th2.jpg",
+      "caption": "청동잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZDAG0001-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAG0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAG0001_1_th.jpg",
+      "alt": "청동잠자리 2번째 사진 : 청동잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAG0001_1_th2.jpg",
+      "caption": "청동잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZDAG0001-1",
+  "specimen_examples": [
+    {
+      "id": "ADUE0202181056",
+      "description": "[ADUE0202181056] 청동잠자리 2000.08.10 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0201241160",
+      "description": "[ADUE0201241160] 청동잠자리 1999.07.23 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0201241159",
+      "description": "[ADUE0201241159] 청동잠자리 1999.07.23 / / 안동대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZDAG0001-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZDAG0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:13+00:00",
+    "html_sha256": "7d33e389a5939f9fbe9e12a1b41d2029b734f2bc3c36aee7300d0528cd67f045",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

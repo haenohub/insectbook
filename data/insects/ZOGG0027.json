@@ -1,0 +1,129 @@
+{
+  "id": "ZOGG0027",
+  "name_ko": "부산풍뎅이",
+  "scientific_name": "Mimela fusania Bates, 1888",
+  "display_name": "부산풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "풍뎅이아과",
+      "name_latin": "Rutelinae"
+    },
+    "genus": {
+      "name_ko": "금줄풍뎅이속",
+      "name_latin": "Mimela"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 풍뎅이아과 (Rutelinae)\n속 : 금줄풍뎅이속 (Mimela)",
+  "basic_information": {
+    "곤충명": "부산풍뎅이",
+    "학명": "Mimela fusania Bates, 1888"
+  },
+  "information": {
+    "general_description": "중국, 대만에 분포하며, 등쪽은 광택이 강하며 녹황색인데 보통 뒷머리와 앞가슴등판은 녹색이나 전체적으로 황녹색 내지 적갈색까지의 변이가 있으며, 복면과 다리는 황갈색 내지 암갈색이다. 머리방패와 이마의 점각은 낮으나 크고 매우 조밀하여 거의 주름살 모양이다. 딱지날개의 점각은 크고 약간 말발굽 모양이며, 홀수 간실은 매우 넓은데 크기가 다양하고 불규칙하며 조밀한 점각이, 짝수 간실은 매우 좁고 조구의 양옆에 1열의 조밀한 점각열이 있다. 전흉복판 돌기는 길고 넓은 옆상이며, 아랫면은 직선형이다. 성적이형은 없다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중국, 대만에 분포하며, 등쪽은 광택이 강하며 녹황색인데 보통 뒷머리와 앞가슴등판은 녹색이나 전체적으로 황녹색 내지 적갈색까지의 변이가 있으며, 복면과 다리는 황갈색 내지 암갈색이다. 머리방패와 이마의 점각은 낮으나 크고 매우 조밀하여 거의 주름살 모양이다. 딱지날개의 점각은 크고 약간 말발굽 모양이며, 홀수 간실은 매우 넓은데 크기가 다양하고 불규칙하며 조밀한 점각이, 짝수 간실은 매우 좁고 조구의 양옆에 1열의 조밀한 점각열이 있다. 전흉복판 돌기는 길고 넓은 옆상이며, 아랫면은 직선형이다. 성적이형은 없다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGG0027-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0027_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0027_1_th.jpg",
+      "alt": "부산풍뎅이 1번째 사진 : 부산풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0027_1_th2.jpg",
+      "caption": "부산풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGG0027-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0205011016",
+      "description": "[KUIE0205011016] 부산풍뎅이 1967.05.13 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0205011017",
+      "description": "[KUIE0205011017] 부산풍뎅이 1972.05.14 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0205011018",
+      "description": "[KUIE0205011018] 부산풍뎅이 1986.05.05 / / 고려대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "감나무",
+      "scientific_name": "Diospyros kaki Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "밤나무",
+      "scientific_name": "Castanea crenata Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "복사나무",
+      "scientific_name": "Prunus persica (L.) Batsch"
+    },
+    {
+      "group": "식물",
+      "name_ko": "진달래",
+      "scientific_name": "Rhododendron mucronulatum Turcz."
+    },
+    {
+      "group": "식물",
+      "name_ko": "포도",
+      "scientific_name": "Vitis vinifera L."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGG0027-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGG0027&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:16+00:00",
+    "html_sha256": "8026df16dd43cbe9f1c5422f95cd6551e562faddc5c5e66bbc4f0ba6e1b83403",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

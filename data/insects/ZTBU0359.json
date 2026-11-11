@@ -1,0 +1,103 @@
+{
+  "id": "ZTBU0359",
+  "name_ko": "수원맵시벌",
+  "scientific_name": "Vulgichneumon suigensis (Uchida, 1927)",
+  "display_name": "수원맵시벌",
+  "family_ko": "맵시벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "맵시벌과",
+      "name_latin": "Ichneumonidae"
+    },
+    "subfamily": {
+      "name_ko": "맵시벌아과",
+      "name_latin": "Ichneumoninae"
+    },
+    "genus": {
+      "name_ko": "흰끝마디맵시벌속",
+      "name_latin": "Vulgichneumon"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 맵시벌과 (Ichneumonidae)\n아과 : 맵시벌아과 (Ichneumoninae)\n속 : 흰끝마디맵시벌속 (Vulgichneumon)",
+  "basic_information": {
+    "곤충명": "수원맵시벌",
+    "학명": "Vulgichneumon suigensis (Uchida, 1927)"
+  },
+  "information": {
+    "general_description": "♀의 얼굴은 돌출했고 큰턱은 적색이다. 더듬이 기부 1/3이 적갈색이고 중앙은 황색이며 끝은 흑갈색이다. 작은방패판은 황색이고 전중획(area supermedia)은 너비보다 길이가 길다. 날개는 황갈색으로 흐리다. 제1·2·3배마디는 담황색이고 제2·3배마디에는 거친 점각이 있고 제6·7배마디 윗면에는 황백 색 무늬가 있다. 다리는 황적색이나 뒷다리의 넓적다리마디 끝과 종아리마디 끝은 흑색이다. 7mm정도",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "♀의 얼굴은 돌출했고 큰턱은 적색이다. 더듬이 기부 1/3이 적갈색이고 중앙은 황색이며 끝은 흑갈색이다. 작은방패판은 황색이고 전중획(area supermedia)은 너비보다 길이가 길다. 날개는 황갈색으로 흐리다. 제1·2·3배마디는 담황색이고 제2·3배마디에는 거친 점각이 있고 제6·7배마디 윗면에는 황백 색 무늬가 있다. 다리는 황적색이나 뒷다리의 넓적다리마디 끝과 종아리마디 끝은 흑색이다. 7mm정도"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBU0359-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0359_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0359_1_th.jpg",
+      "alt": "수원맵시벌 1번째 사진 : 수원맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0359_1_th2.jpg",
+      "caption": "수원맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBU0359-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305301003",
+      "description": "[YNUE0305301003] 수원맵시벌 1998.06.11 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305261094",
+      "description": "[YNUE0305261094] 수원맵시벌 1988.07.30 / / 영남대학교"
+    },
+    {
+      "id": "KNAE348873",
+      "description": "[KNAE348873] 수원맵시벌 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTBU0359-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBU0359&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:35+00:00",
+    "html_sha256": "b5d71887cf0437cb44412ebf50d2bd277df5d913d3b1e83838057b2e39877d0d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

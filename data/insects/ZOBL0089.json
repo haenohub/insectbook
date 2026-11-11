@@ -1,0 +1,113 @@
+{
+  "id": "ZOBL0089",
+  "name_ko": "털보하늘소",
+  "scientific_name": "Trichoferus campestris (Faldermann, 1835)",
+  "display_name": "털보하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "하늘소아과",
+      "name_latin": "Cerambycinae"
+    },
+    "genus": {
+      "name_ko": "털보하늘소속",
+      "name_latin": "Trichoferus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 하늘소아과 (Cerambycinae)\n속 : 털보하늘소속 (Trichoferus)",
+  "basic_information": {
+    "곤충명": "털보하늘소",
+    "학명": "Trichoferus campestris (Faldermann, 1835)"
+  },
+  "information": {
+    "general_description": "몸길이는 10~19mm이며, 몸색깔은 붉은빛을 띤 갈색또는 검은빛을 띤 갈색으로 갈색의 미세한 털로 덮여 있다. 배부분은 붉은빛을 띤 갈색이고 부드러운 털로 덮여 있다. 다리의 넓적다리마디는 곤봉 모양이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[몽골]\n[중국]\n[일본]\n[러시아]\n[튀르키예공화국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 10~19mm이며, 몸색깔은 붉은빛을 띤 갈색또는 검은빛을 띤 갈색으로 갈색의 미세한 털로 덮여 있다. 배부분은 붉은빛을 띤 갈색이고 부드러운 털로 덮여 있다. 다리의 넓적다리마디는 곤봉 모양이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[몽골]\n[중국]\n[일본]\n[러시아]\n[튀르키예공화국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0089-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0089_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0089_1_th.jpg",
+      "alt": "털보하늘소 1번째 사진 : 털보하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0089_1_th2.jpg",
+      "caption": "털보하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0089-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0112244024",
+      "description": "[YNUE0112244024] 털보하늘소 1986.06.08 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0201072012",
+      "description": "[YNUE0201072012] 털보하늘소 1987.06.23 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0201072013",
+      "description": "[YNUE0201072013] 털보하늘소 1986.06.08 / / 영남대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "아까시나무",
+      "scientific_name": "Robinia pseudoacacia L."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0089-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0089&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:21+00:00",
+    "html_sha256": "b97f6681dd72dccf4878b6f0bc2d40d350029c00811437fbb472153c87b5b88e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "ZRCI0349",
+  "name_ko": "그물가지나방",
+  "scientific_name": "Chiasmia clathrata (Linnaeus, 1758)",
+  "display_name": "그물가지나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "가지나방아과",
+      "name_latin": "Ennominae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Chiasmia"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 가지나방아과 (Ennominae)\n속 : (Chiasmia)",
+  "basic_information": {
+    "곤충명": "그물가지나방",
+    "학명": "Chiasmia clathrata (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "날개편길이 22mm 내외. 앞뒷날개는 흰색 또는 연노란색 바탕에 검은색 또는 흑갈색의 굵은 횡선이 있어 그물눈모양을 이룸.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편길이 22mm 내외. 앞뒷날개는 흰색 또는 연노란색 바탕에 검은색 또는 흑갈색의 굵은 횡선이 있어 그물눈모양을 이룸."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0349-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0349_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0349_1_th.jpg",
+      "alt": "그물가지나방 1번째 사진 : 그물가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0349_1_th2.jpg",
+      "caption": "그물가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0349-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0203271114",
+      "description": "[FRIE0203271114] 그물가지나방 1982.05.17 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0703080138",
+      "description": "[KNAE0703080138] 그물가지나방 2000.08.13 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0808060012",
+      "description": "[KNAE0808060012] 그물가지나방 1996.05.10 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRCI0349.png",
+    "reference_image_id": "ZRCI0349-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T14:37:21.397398+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "eb325e6f9dde6e88df19581a5e9e676d446f210b789a5f56d77d91dafd5e95cf"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0349&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:35+00:00",
+    "html_sha256": "a43c478226e82488aae0d38e3e826a9a0f4274451bea1d4bebc9ad40e05d1e55",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

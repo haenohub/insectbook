@@ -1,0 +1,103 @@
+{
+  "id": "ZSEM0035",
+  "name_ko": "털좀넓적꽃등에",
+  "scientific_name": "Syrphus torvus Osten-Sacken, 1875",
+  "display_name": "털좀넓적꽃등에",
+  "family_ko": "꽃등에과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "꽃등에상과",
+      "name_latin": "Syrphoidea"
+    },
+    "family": {
+      "name_ko": "꽃등에과",
+      "name_latin": "Syrphidae"
+    },
+    "subfamily": {
+      "name_ko": "꽃등에아과",
+      "name_latin": "Syrphinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Syrphus"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 꽃등에상과 (Syrphoidea)\n과 : 꽃등에과 (Syrphidae)\n아과 : 꽃등에아과 (Syrphinae)\n속 : (Syrphus)",
+  "basic_information": {
+    "곤충명": "털좀넓적꽃등에",
+    "학명": "Syrphus torvus Osten-Sacken, 1875"
+  },
+  "information": {
+    "general_description": "성충의 몸길이는 11~12mm. 좀넓적꽃등에와 비슷하나 다음 점이 다르다. 수컷의 겹눈은 백색을 띤 짧은 털로 덮였는데 위쪽에 많고 아래쪽에 적다. 가슴은 조금 더 길고 가운데 가슴등판은 연한 갈색 털로 덮였다. 다리는 더 흑색이며 앞다리의 넓적다리마디는 기부 1/3이상이 흑색을 띤다. 암컷은 수컷과 마찬가지로 넓적다리마디 기부가 흑색을 띠며, 겹눈은 짧은 털로 덮였으며, 더듬이는 흑색을 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충의 몸길이는 11~12mm. 좀넓적꽃등에와 비슷하나 다음 점이 다르다. 수컷의 겹눈은 백색을 띤 짧은 털로 덮였는데 위쪽에 많고 아래쪽에 적다. 가슴은 조금 더 길고 가운데 가슴등판은 연한 갈색 털로 덮였다. 다리는 더 흑색이며 앞다리의 넓적다리마디는 기부 1/3이상이 흑색을 띤다. 암컷은 수컷과 마찬가지로 넓적다리마디 기부가 흑색을 띠며, 겹눈은 짧은 털로 덮였으며, 더듬이는 흑색을 띤다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSEM0035-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0035_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0035_1_th.jpg",
+      "alt": "털좀넓적꽃등에 1번째 사진 : 털좀넓적꽃등에전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0035_1_th2.jpg",
+      "caption": "털좀넓적꽃등에전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSEM0035-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0112182015",
+      "description": "[YNUE0112182015] 털좀넓적꽃등에 1997.08.22 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0407191118",
+      "description": "[YNUE0407191118] 털좀넓적꽃등에 1991.05.03 / / 영남대학교"
+    },
+    {
+      "id": "KKFE0606271042",
+      "description": "[KKFE0606271042] 털좀넓적꽃등에 1997.04.28 / / 경기산림환경연구소"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZSEM0035-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSEM0035&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:22+00:00",
+    "html_sha256": "4c8c094bea55639dac2bddeab9d138aa1ef5994edfd6d6df6d425a5b7157571b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

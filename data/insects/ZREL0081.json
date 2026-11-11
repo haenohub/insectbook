@@ -1,0 +1,111 @@
+{
+  "id": "ZREL0081",
+  "name_ko": "남방노랑들명나방",
+  "scientific_name": "Goniorhynchus butyrosa (Butler, 1879)",
+  "display_name": "남방노랑들명나방",
+  "family_ko": "풀명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "풀명나방과",
+      "name_latin": "Crambidae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Spilomelinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Goniorhynchus"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 풀명나방과 (Crambidae)\n아과 : (Spilomelinae)\n속 : (Goniorhynchus)",
+  "basic_information": {
+    "곤충명": "남방노랑들명나방",
+    "학명": "Goniorhynchus butyrosa (Butler, 1879)"
+  },
+  "information": {
+    "general_description": "날개 길이 17-20 mm. 앞, 뒷날개의 바탕색은 황색이며, 전연을 따라 중간까지 갈색 인편이 덮여 있고, 그 끝부분 아래쪽에는 갈색 인편으로 둘러싸인 원형의 백색 무늬가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대한민국] 제주특별자치도\n[일본]\n[중국]\n[대만]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개 길이 17-20 mm. 앞, 뒷날개의 바탕색은 황색이며, 전연을 따라 중간까지 갈색 인편이 덮여 있고, 그 끝부분 아래쪽에는 갈색 인편으로 둘러싸인 원형의 백색 무늬가 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대한민국] 제주특별자치도\n[일본]\n[중국]\n[대만]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0081-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0081_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0081_1_th.jpg",
+      "alt": "남방노랑들명나방 1번째 사진 : 남방노랑들명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0081_1_th2.jpg",
+      "caption": "남방노랑들명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0081-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0302181032",
+      "description": "[FRIE0302181032] 남방노랑들명나방 1998.07.22 / / 국립산림과학원"
+    },
+    {
+      "id": "UIBE0212271083",
+      "description": "[UIBE0212271083] 남방노랑들명나방 1998.07.21 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0212271084",
+      "description": "[UIBE0212271084] 남방노랑들명나방 1998.05.03 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZREL0081.png",
+    "reference_image_id": "ZREL0081-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T16:25:26.874239+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "f93183ef0fe624db07dc585626c8763acc02626195bbe439d84abdea1c141edc"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0081&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:20+00:00",
+    "html_sha256": "0fc2dcaf5581433144cc57ce1f5f776355977dbf37d97cb7da3da02b499de4e9",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

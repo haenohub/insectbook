@@ -1,0 +1,95 @@
+{
+  "id": "ZTDK0049",
+  "name_ko": "우수리진딧물벌",
+  "scientific_name": "Pemphredon lugubris (Fabricius, 1793)",
+  "display_name": "우수리진딧물벌",
+  "family_ko": "은주둥이벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "은주둥이벌과",
+      "name_latin": "Crabronidae"
+    },
+    "subfamily": {
+      "name_ko": "진딧물벌아과",
+      "name_latin": "Pemphredoninae"
+    },
+    "genus": {
+      "name_ko": "진딧물벌속",
+      "name_latin": "Pemphredon"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 은주둥이벌과 (Crabronidae)\n아과 : 진딧물벌아과 (Pemphredoninae)\n속 : 진딧물벌속 (Pemphredon)",
+  "basic_information": {
+    "곤충명": "우수리진딧물벌",
+    "학명": "Pemphredon lugubris (Fabricius, 1793)"
+  },
+  "information": {
+    "general_description": "암컷은 몸길이가 8-11mm 정도이고 머리방패 앞쪽의 중앙이 곧게 끊겼고 가슴의 등판조각은 미세하다. 수컷(5.5-6.0mm)의 배자루는 끝의 너비의 2배 보다 다소 크다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷은 몸길이가 8-11mm 정도이고 머리방패 앞쪽의 중앙이 곧게 끊겼고 가슴의 등판조각은 미세하다. 수컷(5.5-6.0mm)의 배자루는 끝의 너비의 2배 보다 다소 크다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDK0049-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0049_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0049_1_th.jpg",
+      "alt": "우수리진딧물벌 1번째 사진 : 우수리진딧물벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDK0049_1_th2.jpg",
+      "caption": "우수리진딧물벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDK0049-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306262080",
+      "description": "[YNUE0306262080] 우수리진딧물벌 1988.05.15 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDK0049-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDK0049&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:08+00:00",
+    "html_sha256": "7c7c7478df493508370d565b50a55ed4ffd9742a5b39e88661614e805129c2c7",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

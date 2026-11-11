@@ -1,0 +1,122 @@
+{
+  "id": "ZRDS0405",
+  "name_ko": "쌍줄푸른나방",
+  "scientific_name": "Pseudoips prasinanus (Linnaeus, 1758)",
+  "display_name": "쌍줄푸른나방",
+  "family_ko": "혹나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "혹나방과",
+      "name_latin": "Nolidae"
+    },
+    "subfamily": {
+      "name_ko": "푸른나방아과",
+      "name_latin": "Chloephorinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Pseudoips"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 혹나방과 (Nolidae)\n아과 : 푸른나방아과 (Chloephorinae)\n속 : (Pseudoips)",
+  "basic_information": {
+    "곤충명": "쌍줄푸른나방",
+    "학명": "Pseudoips prasinanus (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "날개편 길이 15~18mm. 수컷은 배의 등면에 황색 털이 나 있고, 암컷은 백색을 띤다. 앞날개의 바탕색은 연두색이지만, 중실 끝쪽의 백색 무늬는 없다. 뒷날개도 바탕색이 수컷은 황색이며 암컷은 백색을 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 7~8월경에 출현된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 15~18mm. 수컷은 배의 등면에 황색 털이 나 있고, 암컷은 백색을 띤다. 앞날개의 바탕색은 연두색이지만, 중실 끝쪽의 백색 무늬는 없다. 뒷날개도 바탕색이 수컷은 황색이며 암컷은 백색을 띤다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 7~8월경에 출현된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0405-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0405_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0405_2_th.jpg",
+      "alt": "쌍줄푸른나방 1번째 사진 : 쌍줄푸른밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0405_2_th2.jpg",
+      "caption": "쌍줄푸른밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDS0405-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0405_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0405_1_th.jpg",
+      "alt": "쌍줄푸른나방 2번째 사진 : 쌍줄푸른밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0405_1_th2.jpg",
+      "caption": "쌍줄푸른밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0405-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0408131056",
+      "description": "[KNAE0408131056] 쌍줄푸른나방 1998.08.19 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0408131058",
+      "description": "[KNAE0408131058] 쌍줄푸른나방 1998.08.19 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0408131059",
+      "description": "[KNAE0408131059] 쌍줄푸른나방 1996.05.03 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDS0405-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0405&tabId=tab1",
+    "collected_at": "2026-11-04T14:14:07+00:00",
+    "html_sha256": "9e53c29b8cc01f125e8e4a60000dde88cb1155ee38b248c20a20f552ea76214e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "id": "ZLBX0027",
+  "name_ko": "북쪽비단노린재",
+  "scientific_name": "Eurydema gebleri gebleri Kolenati, 1846",
+  "display_name": "북쪽비단노린재",
+  "family_ko": "노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "노린재상과",
+      "name_latin": "Pentatomoidea"
+    },
+    "family": {
+      "name_ko": "노린재과",
+      "name_latin": "Pentatomidae"
+    },
+    "subfamily": {
+      "name_ko": "노린재아과",
+      "name_latin": "Pentatominae"
+    },
+    "genus": {
+      "name_ko": "비단노린재속",
+      "name_latin": "Eurydema"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 노린재상과 (Pentatomoidea)\n과 : 노린재과 (Pentatomidae)\n아과 : 노린재아과 (Pentatominae)\n속 : 비단노린재속 (Eurydema)",
+  "basic_information": {
+    "곤충명": "북쪽비단노린재",
+    "학명": "Eurydema gebleri gebleri Kolenati, 1846"
+  },
+  "information": {
+    "general_description": "몸길이 : 6-9mm\n몸은 암청색 또는 청남색 광택을 띤 검정색이며, 선홍색 또는 주홍색의 현저한 무늬를 가지고 체색의 변이가 심하다. 체표면에는 미세한 검은 점각이 산재한다. 정수리의 앞과 옆가장자리는 주홍색이다. 더듬이는 제 1마디가 청남색이다. 앞가슴등판은 일반적으로 가장자리 전체와 정중선에 주홍색 무늬가 Y자형으로 나타난다. 앞날개는 어깨가 앞가슴등판과 넓이가 같고, 바깥가장자리에 주홍색 무늬가 있다. 막질부와의 경계부에 가로띠 모양의 주황색 무늬를 갖는다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "경작지 주변이나 산야의 초원지대에 흔히 서식한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 6-9mm\n몸은 암청색 또는 청남색 광택을 띤 검정색이며, 선홍색 또는 주홍색의 현저한 무늬를 가지고 체색의 변이가 심하다. 체표면에는 미세한 검은 점각이 산재한다. 정수리의 앞과 옆가장자리는 주홍색이다. 더듬이는 제 1마디가 청남색이다. 앞가슴등판은 일반적으로 가장자리 전체와 정중선에 주홍색 무늬가 Y자형으로 나타난다. 앞날개는 어깨가 앞가슴등판과 넓이가 같고, 바깥가장자리에 주홍색 무늬가 있다. 막질부와의 경계부에 가로띠 모양의 주황색 무늬를 갖는다."
+    },
+    {
+      "title": "생태",
+      "text": "경작지 주변이나 산야의 초원지대에 흔히 서식한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLBX0027-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0027_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0027_2_th.jpg",
+      "alt": "북쪽비단노린재 1번째 사진 : 북쪽비단노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0027_2_th2.jpg",
+      "caption": "북쪽비단노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZLBX0027-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0027_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0027_1_th.jpg",
+      "alt": "북쪽비단노린재 2번째 사진 : 북쪽비단노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0027_1_th2.jpg",
+      "caption": "북쪽비단노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLBX0027-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0406202236",
+      "description": "[KUIE0406202236] 북쪽비단노린재 1957.09.14 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0406202237",
+      "description": "[KUIE0406202237] 북쪽비단노린재 1958.05.25 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0406202239",
+      "description": "[KUIE0406202239] 북쪽비단노린재 1960.08.05 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLBX0027-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLBX0027&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:37+00:00",
+    "html_sha256": "1242a22fbcbdd3e8cedda0749da6bcc695c18fbbddcc6276288046a4ca58a740",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

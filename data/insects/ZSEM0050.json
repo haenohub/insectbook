@@ -1,0 +1,103 @@
+{
+  "id": "ZSEM0050",
+  "name_ko": "알락꽃등에",
+  "scientific_name": "Baccha maculata Walker, 1852",
+  "display_name": "알락꽃등에",
+  "family_ko": "꽃등에과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "꽃등에상과",
+      "name_latin": "Syrphoidea"
+    },
+    "family": {
+      "name_ko": "꽃등에과",
+      "name_latin": "Syrphidae"
+    },
+    "subfamily": {
+      "name_ko": "꽃등에아과",
+      "name_latin": "Syrphinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Baccha"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 꽃등에상과 (Syrphoidea)\n과 : 꽃등에과 (Syrphidae)\n아과 : 꽃등에아과 (Syrphinae)\n속 : (Baccha)",
+  "basic_information": {
+    "곤충명": "알락꽃등에",
+    "학명": "Baccha maculata Walker, 1852"
+  },
+  "information": {
+    "general_description": "성충은 몸길이 7~12mm. 몸은 가늘고 길며 흑색이다. 얼굴은 흑색이고 흰 가루로 덮였으며 가운데융기만이 가루가 덮이지 않고 더듬이의 기부 아래는 특히 오목하다. 더듬이는 등황색이고 제3마디는 특히 둥글다. 어깨는 황색 내지 황갈색이고 날개는 비교적 가늘며 약간 검다. 배는 가늘고 길며 수컷에서는 제3마디도 작대기 모양이고 흑색이다. 암컷에서는 제2~4마디의 기부는 황적색이고 수컷에서는 제1, 3, 4마디의 기부가 황적색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충은 몸길이 7~12mm. 몸은 가늘고 길며 흑색이다. 얼굴은 흑색이고 흰 가루로 덮였으며 가운데융기만이 가루가 덮이지 않고 더듬이의 기부 아래는 특히 오목하다. 더듬이는 등황색이고 제3마디는 특히 둥글다. 어깨는 황색 내지 황갈색이고 날개는 비교적 가늘며 약간 검다. 배는 가늘고 길며 수컷에서는 제3마디도 작대기 모양이고 흑색이다. 암컷에서는 제2~4마디의 기부는 황적색이고 수컷에서는 제1, 3, 4마디의 기부가 황적색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSEM0050-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0050_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0050_1_th.jpg",
+      "alt": "알락꽃등에 1번째 사진 : 알락꽃등에전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0050_1_th2.jpg",
+      "caption": "알락꽃등에전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSEM0050-1",
+  "specimen_examples": [
+    {
+      "id": "SJNE0201191003",
+      "description": "[SJNE0201191003] 알락꽃등에 1999.05.17 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0201191004",
+      "description": "[SJNE0201191004] 알락꽃등에 1999.05.13 / / 상주대학교"
+    },
+    {
+      "id": "CJUE0910311075",
+      "description": "[CJUE0910311075] 알락꽃등에 2005.08.10 / / 제주대학교 곤충표본관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZSEM0050-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSEM0050&tabId=tab1",
+    "collected_at": "2026-11-04T14:14:27+00:00",
+    "html_sha256": "7a1de08fb8f982c4f551532aa282d7093c52b596186c34d46be11b087feb0c3e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

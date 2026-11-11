@@ -1,0 +1,107 @@
+{
+  "id": "ZTBU0073",
+  "name_ko": "긴꼬리뾰족맵시벌",
+  "scientific_name": "Acroricnus ambulator (Smith, 1874)",
+  "display_name": "긴꼬리뾰족맵시벌",
+  "family_ko": "맵시벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "맵시벌과",
+      "name_latin": "Ichneumonidae"
+    },
+    "subfamily": {
+      "name_ko": "뾰족맵시벌아과",
+      "name_latin": "Cryptinae"
+    },
+    "genus": {
+      "name_ko": "긴꼬리뾰족맵시벌속",
+      "name_latin": "Acroricnus"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 맵시벌과 (Ichneumonidae)\n아과 : 뾰족맵시벌아과 (Cryptinae)\n속 : 긴꼬리뾰족맵시벌속 (Acroricnus)",
+  "basic_information": {
+    "곤충명": "긴꼬리뾰족맵시벌",
+    "학명": "Acroricnus ambulator (Smith, 1874)"
+  },
+  "information": {
+    "general_description": "몸은 흑색이고 겹눈 안쪽, 더듬이의 자루마디의 앞면, 더듬이의 중앙의 가락지 무늬, 날개 기부 아래에 있는 무늬, 작은방패판(뒷슭을 제외), 뒷방패판, 뒷가슴의 뒤쪽 두 개의 무늬는 황색이다. 뒷가슴등면 기부에 그물 모양의 1개의 가로 줄이 있다. 날개는 암황색으로 흐리고 앞가두리의 기부는 황갈색이고 바깥가두리는 약간 암색이다. 제1배마디는 가늘고 광택이 있다. 각 배마디의 뒷슭은 적갈색이고 다리는 황갈색이다. 그러나 밑마디와 도래마디는 흑색이고 뒷다리의 넓적다리마디와 종아리마디의 끝은 흑갈색이고 앞·가운데다리의 종아리마디와 발목마디는 황색이다. 18mm정도",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸은 흑색이고 겹눈 안쪽, 더듬이의 자루마디의 앞면, 더듬이의 중앙의 가락지 무늬, 날개 기부 아래에 있는 무늬, 작은방패판(뒷슭을 제외), 뒷방패판, 뒷가슴의 뒤쪽 두 개의 무늬는 황색이다. 뒷가슴등면 기부에 그물 모양의 1개의 가로 줄이 있다. 날개는 암황색으로 흐리고 앞가두리의 기부는 황갈색이고 바깥가두리는 약간 암색이다. 제1배마디는 가늘고 광택이 있다. 각 배마디의 뒷슭은 적갈색이고 다리는 황갈색이다. 그러나 밑마디와 도래마디는 흑색이고 뒷다리의 넓적다리마디와 종아리마디의 끝은 흑갈색이고 앞·가운데다리의 종아리마디와 발목마디는 황색이다. 18mm정도"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBU0073-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0073_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0073_1_th.jpg",
+      "alt": "긴꼬리뾰족맵시벌 1번째 사진 : 긴꼬리뾰족맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0073_1_th2.jpg",
+      "caption": "긴꼬리뾰족맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBU0073-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303251059",
+      "description": "[KNAE0303251059] 긴꼬리뾰족맵시벌 1995.09.19 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303251060",
+      "description": "[KNAE0303251060] 긴꼬리뾰족맵시벌 1994.08.23 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0608182108",
+      "description": "[KNAE0608182108] 긴꼬리뾰족맵시벌 1997.06.02 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTBU0073.png",
+    "reference_image_id": "ZTBU0073-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T08:39:41.238259+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "8b107ce24b1d453860b6523790725691f32166d014279c4d700d389e8da1da08"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBU0073&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:54+00:00",
+    "html_sha256": "f3569144e61ca07bb5e12cf48fda6e82e9e5e295c64c81a4aad6f2ba8e676475",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

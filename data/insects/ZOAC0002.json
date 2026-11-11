@@ -1,0 +1,103 @@
+{
+  "id": "ZOAC0002",
+  "name_ko": "소똥구리붙이",
+  "scientific_name": "Aegialia koreana Kim, 1979",
+  "display_name": "소똥구리붙이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "소똥구리붙이아과",
+      "name_latin": "Aegialiinae"
+    },
+    "genus": {
+      "name_ko": "소똥구리붙이속",
+      "name_latin": "Aegialia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 소똥구리붙이아과 (Aegialiinae)\n속 : 소똥구리붙이속 (Aegialia)",
+  "basic_information": {
+    "곤충명": "소똥구리붙이",
+    "학명": "Aegialia koreana Kim, 1979"
+  },
+  "information": {
+    "general_description": "한국에 분포하며 높고 둥근 난형으로 성숙동에 따라 담황갈색으로 부터 적갈색과 농흑갈색까지 있다. 광택은 강하고 전흉배판의 길이는 딱지날개 길이의 1/3정도이다. 작은 점각이 드물과 분포하고 소순판은 깊고 둥글며, 점각은 없다. 뒷날개는 단시형이며, 후경절 끝의 거치는 엽상이다. BL:3.4~4.5mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[한국고유종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국에 분포하며 높고 둥근 난형으로 성숙동에 따라 담황갈색으로 부터 적갈색과 농흑갈색까지 있다. 광택은 강하고 전흉배판의 길이는 딱지날개 길이의 1/3정도이다. 작은 점각이 드물과 분포하고 소순판은 깊고 둥글며, 점각은 없다. 뒷날개는 단시형이며, 후경절 끝의 거치는 엽상이다. BL:3.4~4.5mm."
+    },
+    {
+      "title": "특기사항",
+      "text": "[한국고유종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAC0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAC0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAC0002_1_th.jpg",
+      "alt": "소똥구리붙이 1번째 사진 : 소똥구리붙이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAC0002_1_th2.jpg",
+      "caption": "소똥구리붙이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAC0002-1",
+  "specimen_examples": [
+    {
+      "id": "SSUE0303041009",
+      "description": "[SSUE0303041009] 소똥구리붙이 1982.05.29 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0303041010",
+      "description": "[SSUE0303041010] 소똥구리붙이 1982.05.29 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0303051008",
+      "description": "[SSUE0303051008] 소똥구리붙이 1982.05.29 / / 성신여자대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAC0002-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAC0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:12+00:00",
+    "html_sha256": "76c2fd87a5a8847e5a899fde9bc36fd43d2d338c26b289f50ca9a68939b358fe",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

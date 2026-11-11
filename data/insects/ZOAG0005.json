@@ -1,0 +1,103 @@
+{
+  "id": "ZOAG0005",
+  "name_ko": "홍날개썩덩벌레",
+  "scientific_name": "Hymenalia rufipennis (Marseul, 1876)",
+  "display_name": "홍날개썩덩벌레",
+  "family_ko": "거저리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "거저리상과",
+      "name_latin": "Tenebrionoidea"
+    },
+    "family": {
+      "name_ko": "거저리과",
+      "name_latin": "Tenebrionidae"
+    },
+    "subfamily": {
+      "name_ko": "썩덩벌레아과",
+      "name_latin": "Alleculinae"
+    },
+    "genus": {
+      "name_ko": "날개썩덩벌레속",
+      "name_latin": "Hymenalia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 거저리상과 (Tenebrionoidea)\n과 : 거저리과 (Tenebrionidae)\n아과 : 썩덩벌레아과 (Alleculinae)\n속 : 날개썩덩벌레속 (Hymenalia)",
+  "basic_information": {
+    "곤충명": "홍날개썩덩벌레",
+    "학명": "Hymenalia rufipennis (Marseul, 1876)"
+  },
+  "information": {
+    "general_description": "한국, 일본, 대만, 시베리아에 분포하며, 체장은 5mm 내외이다. 머리는 작고 폭이 넓고 점각을 산포하였다. 눈은 극히 크고 촉각은 암적갈색이고 가늘고 길다. 딱지날개는 앞가슴등판보다 폭이 넓고 각각 9줄의 점각열과 회합선 근처의 기부에 1줄의 점각열이 있고 간실은 폭이 넓고 아주 작은 점각을 삼포하였다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[대만]\n[러시아]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 대만, 시베리아에 분포하며, 체장은 5mm 내외이다. 머리는 작고 폭이 넓고 점각을 산포하였다. 눈은 극히 크고 촉각은 암적갈색이고 가늘고 길다. 딱지날개는 앞가슴등판보다 폭이 넓고 각각 9줄의 점각열과 회합선 근처의 기부에 1줄의 점각열이 있고 간실은 폭이 넓고 아주 작은 점각을 삼포하였다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[대만]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAG0005-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAG0005_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAG0005_1_th.jpg",
+      "alt": "홍날개썩덩벌레 1번째 사진 : 홍날개썩덩벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAG0005_1_th2.jpg",
+      "caption": "홍날개썩덩벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAG0005-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0303251022",
+      "description": "[FRIE0303251022] 홍날개썩덩벌레 1983.06.18 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE383913",
+      "description": "[KNAE383913] 홍날개썩덩벌레 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAG0005-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAG0005&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:30+00:00",
+    "html_sha256": "eb49ea5d14ea382e4bb482d543ff7a01148dbba176ff488b765ae32012c16c61",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

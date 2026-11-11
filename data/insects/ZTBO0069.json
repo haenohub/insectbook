@@ -1,0 +1,107 @@
+{
+  "id": "ZTBO0069",
+  "name_ko": "홍가슴개미",
+  "scientific_name": "Camponotus obscuripes Mayr, 1879",
+  "display_name": "홍가슴개미",
+  "family_ko": "개미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "말벌상과",
+      "name_latin": "Vespoidea"
+    },
+    "family": {
+      "name_ko": "개미과",
+      "name_latin": "Formicidae"
+    },
+    "subfamily": {
+      "name_ko": "불개미아과",
+      "name_latin": "Formicinae"
+    },
+    "genus": {
+      "name_ko": "왕개미속",
+      "name_latin": "Camponotus"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 말벌상과 (Vespoidea)\n과 : 개미과 (Formicidae)\n아과 : 불개미아과 (Formicinae)\n속 : 왕개미속 (Camponotus)",
+  "basic_information": {
+    "곤충명": "홍가슴개미",
+    "학명": "Camponotus obscuripes Mayr, 1879"
+  },
+  "information": {
+    "general_description": "몸길이는 8-12mm 이고 몸은 흑색이고 가슴, 배자루, 제1배마디 앞쪽부분은 암적색이다. 무늬의 폭은 개체에 따라 차이가 있고 각 배마디 의 뒤쪽으로는 좁고 갈색이다. 몸에는 갈색 잔털이 났고 갈색 센털도 성기게 섞였다. 암컷은 가슴과 배의 기부가 암적색이고 날개는 담갈색이며 반투명하고 날개맥은 짙은 빛이다. 수컷은 전신이 흑색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "수컷은 5월경에 나타난다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 8-12mm 이고 몸은 흑색이고 가슴, 배자루, 제1배마디 앞쪽부분은 암적색이다. 무늬의 폭은 개체에 따라 차이가 있고 각 배마디 의 뒤쪽으로는 좁고 갈색이다. 몸에는 갈색 잔털이 났고 갈색 센털도 성기게 섞였다. 암컷은 가슴과 배의 기부가 암적색이고 날개는 담갈색이며 반투명하고 날개맥은 짙은 빛이다. 수컷은 전신이 흑색이다."
+    },
+    {
+      "title": "생태",
+      "text": "수컷은 5월경에 나타난다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBO0069-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0069_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0069_1_th.jpg",
+      "alt": "홍가슴개미 1번째 사진 : 홍가슴개미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0069_1_th2.jpg",
+      "caption": "홍가슴개미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBO0069-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306262064",
+      "description": "[YNUE0306262064] 홍가슴개미 1974.06.07 / / 영남대학교"
+    },
+    {
+      "id": "KUIE0409231021",
+      "description": "[KUIE0409231021] 홍가슴개미 1955.08.03 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0409231022",
+      "description": "[KUIE0409231022] 홍가슴개미 1955.07.05 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTBO0069-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBO0069&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:26+00:00",
+    "html_sha256": "3d954d4c81dd868842315bf70d2db7f7af03a22ffd3617667fa55c9693247e2d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

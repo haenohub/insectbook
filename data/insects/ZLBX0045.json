@@ -1,0 +1,137 @@
+{
+  "id": "ZLBX0045",
+  "name_ko": "깜보라노린재",
+  "scientific_name": "Menida violacea Motschulsky, 1861",
+  "display_name": "깜보라노린재",
+  "family_ko": "노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "노린재상과",
+      "name_latin": "Pentatomoidea"
+    },
+    "family": {
+      "name_ko": "노린재과",
+      "name_latin": "Pentatomidae"
+    },
+    "subfamily": {
+      "name_ko": "노린재아과",
+      "name_latin": "Pentatominae"
+    },
+    "genus": {
+      "name_ko": "깜보리노린재속",
+      "name_latin": "Menida"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 노린재상과 (Pentatomoidea)\n과 : 노린재과 (Pentatomidae)\n아과 : 노린재아과 (Pentatominae)\n속 : 깜보리노린재속 (Menida)",
+  "basic_information": {
+    "곤충명": "깜보라노린재",
+    "학명": "Menida violacea Motschulsky, 1861"
+  },
+  "information": {
+    "general_description": "몸길이 : 7.5-10mm\n몸은 암청색 또는 청남색을 띤다. 머리의 측엽중엽과 길이가 같다. 더듬이는 제 1마디가 갈색이고 나머지는 검다. 앞가슴등판은 앞가장자리와 옆가장자리를 따라 담황색 줄무늬가 있고, 볼록한 부분의 후반부에는 가로로 담황색 무늬를 갖는다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "산야의 산림지대에 서식 한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 7.5-10mm\n몸은 암청색 또는 청남색을 띤다. 머리의 측엽중엽과 길이가 같다. 더듬이는 제 1마디가 갈색이고 나머지는 검다. 앞가슴등판은 앞가장자리와 옆가장자리를 따라 담황색 줄무늬가 있고, 볼록한 부분의 후반부에는 가로로 담황색 무늬를 갖는다."
+    },
+    {
+      "title": "생태",
+      "text": "산야의 산림지대에 서식 한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLBX0045-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0045_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0045_2_th.jpg",
+      "alt": "깜보라노린재 1번째 사진 : 깜보라노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0045_2_th2.jpg",
+      "caption": "깜보라노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZLBX0045-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0045_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0045_1_th.jpg",
+      "alt": "깜보라노린재 2번째 사진 : 깜보라노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0045_1_th2.jpg",
+      "caption": "깜보라노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLBX0045-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0406202022",
+      "description": "[KUIE0406202022] 깜보라노린재 1963.06.05 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0406202023",
+      "description": "[KUIE0406202023] 깜보라노린재 1963.06.06 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0406202024",
+      "description": "[KUIE0406202024] 깜보라노린재 1964.06.11 / / 고려대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "감나무",
+      "scientific_name": "Diospyros kaki Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "상수리나무",
+      "scientific_name": "Quercus acutissima Carruth."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZLBX0045.png",
+    "reference_image_id": "ZLBX0045-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T10:02:36.888862+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "8a9cbf48da78d1aa92ef7c83e0d60322b8689cb746ad0dc15c6a7b627be83fdc"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLBX0045&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:20+00:00",
+    "html_sha256": "72af12997cb985d4516ae114a725fec79ed07eed8f1946f6dabcc15905c75ba3",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

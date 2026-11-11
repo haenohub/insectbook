@@ -1,0 +1,111 @@
+{
+  "id": "ZSAQ0001",
+  "name_ko": "털검정파리",
+  "scientific_name": "Calliphora grahami Aldrich, 1930",
+  "display_name": "털검정파리",
+  "family_ko": "검정파리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "쇠파리상과",
+      "name_latin": "Oestroidea"
+    },
+    "family": {
+      "name_ko": "검정파리과",
+      "name_latin": "Calliphoridae"
+    },
+    "subfamily": {
+      "name_ko": "검정파리아과",
+      "name_latin": "Calliphorinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Calliphora"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 쇠파리상과 (Oestroidea)\n과 : 검정파리과 (Calliphoridae)\n아과 : 검정파리아과 (Calliphorinae)\n속 : (Calliphora)",
+  "basic_information": {
+    "곤충명": "털검정파리",
+    "학명": "Calliphora grahami Aldrich, 1930"
+  },
+  "information": {
+    "general_description": "몸길이는 12 mm 내외이다. 수컷의 이마는 검정색, 옆이마는 황금빛 가루로 덮여 있고, 볼 역시 검정 바탕에 흰 가루가 부분적으로 덮이고 검은 털이 나 있다. 배의 등판은 남청색을 하고 옆 가장자리 부분에 흰 가루가 엷게 덮여 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "집 주위의 더러운 곳에서 모여 산다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[대만]\n[중국]",
+    "notes": "[위생해충] 위생해충으로 중요시되는 종이다.",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 12 mm 내외이다. 수컷의 이마는 검정색, 옆이마는 황금빛 가루로 덮여 있고, 볼 역시 검정 바탕에 흰 가루가 부분적으로 덮이고 검은 털이 나 있다. 배의 등판은 남청색을 하고 옆 가장자리 부분에 흰 가루가 엷게 덮여 있다."
+    },
+    {
+      "title": "습성",
+      "text": "집 주위의 더러운 곳에서 모여 산다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[대만]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[위생해충] 위생해충으로 중요시되는 종이다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSAQ0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSAQ0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSAQ0001_1_th.jpg",
+      "alt": "털검정파리 1번째 사진 : 털검정파리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSAQ0001_1_th2.jpg",
+      "caption": "털검정파리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSAQ0001-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0301099113",
+      "description": "[YNUE0301099113] 털검정파리 2000.05.21 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301099114",
+      "description": "[YNUE0301099114] 털검정파리 2000.04.22 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301099115",
+      "description": "[YNUE0301099115] 털검정파리 2000.05.22 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZSAQ0001-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSAQ0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:13+00:00",
+    "html_sha256": "dda4c38ac4086a8a1ac85c80c7f85797e60951cef154ed06b41d73005deb0d06",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

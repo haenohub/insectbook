@@ -1,0 +1,103 @@
+{
+  "id": "ZOGG0016",
+  "name_ko": "대마도줄풍뎅이",
+  "scientific_name": "Anomala sieversi Heyden, 1887",
+  "display_name": "대마도줄풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "풍뎅이아과",
+      "name_latin": "Rutelinae"
+    },
+    "genus": {
+      "name_ko": "청동풍뎅이속",
+      "name_latin": "Anomala"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 풍뎅이아과 (Rutelinae)\n속 : 청동풍뎅이속 (Anomala)",
+  "basic_information": {
+    "곤충명": "대마도줄풍뎅이",
+    "학명": "Anomala sieversi Heyden, 1887"
+  },
+  "information": {
+    "general_description": "중국 북부에 분포하며, 등이 약간 편평하고 뒤쪽이 넓으며, 피부가 강한 느낌을 준다. 등쪽은 약한 광택이 있는 녹색 내지 진한 녹색인데 약 12%정도는 적갈색 내지 검붉은색인 개체변이가 있으며, 앞가슴등판, 미절판, 복면 등은 긴 황백색의 연모가 조밀하게 나있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중국 북부에 분포하며, 등이 약간 편평하고 뒤쪽이 넓으며, 피부가 강한 느낌을 준다. 등쪽은 약한 광택이 있는 녹색 내지 진한 녹색인데 약 12%정도는 적갈색 내지 검붉은색인 개체변이가 있으며, 앞가슴등판, 미절판, 복면 등은 긴 황백색의 연모가 조밀하게 나있다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGG0016-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0016_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0016_1_th.jpg",
+      "alt": "대마도줄풍뎅이 1번째 사진 : 대마도줄풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGG0016_1_th2.jpg",
+      "caption": "대마도줄풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGG0016-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303102034",
+      "description": "[KNAE0303102034] 대마도줄풍뎅이 1991.05.10 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303102035",
+      "description": "[KNAE0303102035] 대마도줄풍뎅이 1995.05.17 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303082005",
+      "description": "[KNAE0303082005] 대마도줄풍뎅이 1990.07.05 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOGG0016-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGG0016&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:08+00:00",
+    "html_sha256": "48a1ac2d6abbd48d1eec6534dab321cce60af8a21aaaa166dedbdb14216eadd1",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

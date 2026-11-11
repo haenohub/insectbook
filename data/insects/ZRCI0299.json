@@ -1,0 +1,118 @@
+{
+  "id": "ZRCI0299",
+  "name_ko": "두줄물결자나방",
+  "scientific_name": "Xanthorhoe hortensiaria (Graeser, 1889)",
+  "display_name": "두줄물결자나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "물결자나방아과",
+      "name_latin": "Larentiinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Xanthorhoe"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 물결자나방아과 (Larentiinae)\n속 : (Xanthorhoe)",
+  "basic_information": {
+    "곤충명": "두줄물결자나방",
+    "학명": "Xanthorhoe hortensiaria (Graeser, 1889)"
+  },
+  "information": {
+    "general_description": "더듬이는 수컷이 빗살모양이고, 몸과 날개는 모두 암회색이며, 많은 물결무늬 선이 있음. 앞날개의 내횡선은 몇 개의 물결 모양 선으로 이루어지며, 그 바깥쪽은 회백색임. 날개의 중앙부는 넓게 암색을 띠며, 그 속에 다소 연한색의 띠가 있음. 외횡대는 제 3중맥(M2)에서 날카롭게 모가 지어 튀어 나와 있음. 개체에 따라서 앞날개는 2개의 띠가 후반에서 접함. 앞날개의 소실은 1개임.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은　４～６월에　출현함．",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 수컷이 빗살모양이고, 몸과 날개는 모두 암회색이며, 많은 물결무늬 선이 있음. 앞날개의 내횡선은 몇 개의 물결 모양 선으로 이루어지며, 그 바깥쪽은 회백색임. 날개의 중앙부는 넓게 암색을 띠며, 그 속에 다소 연한색의 띠가 있음. 외횡대는 제 3중맥(M2)에서 날카롭게 모가 지어 튀어 나와 있음. 개체에 따라서 앞날개는 2개의 띠가 후반에서 접함. 앞날개의 소실은 1개임."
+    },
+    {
+      "title": "생태",
+      "text": "성충은　４～６월에　출현함．"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0299-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0299_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0299_2_th.jpg",
+      "alt": "두줄물결자나방 1번째 사진 : 두줄물결자나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0299_2_th2.jpg",
+      "caption": "두줄물결자나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0299-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0299_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0299_1_th.jpg",
+      "alt": "두줄물결자나방 2번째 사진 : 두줄물결자나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0299_1_th2.jpg",
+      "caption": "두줄물결자나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0299-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0303051022",
+      "description": "[FRIE0303051022] 두줄물결자나방 1997.06.23 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0302271008",
+      "description": "[FRIE0302271008] 두줄물결자나방 1981.03.13 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0303061029",
+      "description": "[FRIE0303061029] 두줄물결자나방 1997.06.14 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCI0299-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0299&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:47+00:00",
+    "html_sha256": "acd71314f1f4737d09f6fe6da9c85f01aa04f8aaa6fdd35ea3ff967630b90c28",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

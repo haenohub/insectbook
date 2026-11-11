@@ -1,0 +1,95 @@
+{
+  "id": "ZTBU0095",
+  "name_ko": "흰빛알락뾰족맵시벌",
+  "scientific_name": "Gotra marginata (Brullé, 1846)",
+  "display_name": "흰빛알락뾰족맵시벌",
+  "family_ko": "맵시벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "맵시벌과",
+      "name_latin": "Ichneumonidae"
+    },
+    "subfamily": {
+      "name_ko": "뾰족맵시벌아과",
+      "name_latin": "Cryptinae"
+    },
+    "genus": {
+      "name_ko": "알락뾰족맵시벌속",
+      "name_latin": "Gotra"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 맵시벌과 (Ichneumonidae)\n아과 : 뾰족맵시벌아과 (Cryptinae)\n속 : 알락뾰족맵시벌속 (Gotra)",
+  "basic_information": {
+    "곤충명": "흰빛알락뾰족맵시벌",
+    "학명": "Gotra marginata (Brullé, 1846)"
+  },
+  "information": {
+    "general_description": "♀의 몸은 흑색이나 얼굴의 중앙, 그 양쪽 겹눈의 안슭의 조그만 무늬, 머리방패와 큰턱, 정수리의 양쪽 무늬, 가운데가슴의 중앙의 둥근 무늬, 작은방패판, 그 위쪽 무늬와 뒷가슴의 중앙 무늬와 양 옆구리의 무늬, 제1배마디의 기부 반과 말단의 무늬, 제2·3배마디의 뒷슭의 줄 무늬, 제6배마디 뒷슭과 제7배마디는 황백색이다. 더듬이의 중앙의 가락지 무늬는 백색이고 다리는 가늘고 앞·가운데다리는 밑마디를 제외하고 적갈색이나 도래마디와 종아리마디, 발목마디 등이 황백색인 것도 있다. 뒷다리에서는 도래마디와 종아리마디의 기부, 발목마디 등은 갈색이 도는 황백색이다. 10mm정도, 더듬이 길이는 몸길이와 거의 같고, 산란관은 약 4mm이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[필리핀]\n[인도]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "♀의 몸은 흑색이나 얼굴의 중앙, 그 양쪽 겹눈의 안슭의 조그만 무늬, 머리방패와 큰턱, 정수리의 양쪽 무늬, 가운데가슴의 중앙의 둥근 무늬, 작은방패판, 그 위쪽 무늬와 뒷가슴의 중앙 무늬와 양 옆구리의 무늬, 제1배마디의 기부 반과 말단의 무늬, 제2·3배마디의 뒷슭의 줄 무늬, 제6배마디 뒷슭과 제7배마디는 황백색이다. 더듬이의 중앙의 가락지 무늬는 백색이고 다리는 가늘고 앞·가운데다리는 밑마디를 제외하고 적갈색이나 도래마디와 종아리마디, 발목마디 등이 황백색인 것도 있다. 뒷다리에서는 도래마디와 종아리마디의 기부, 발목마디 등은 갈색이 도는 황백색이다. 10mm정도, 더듬이 길이는 몸길이와 거의 같고, 산란관은 약 4mm이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[필리핀]\n[인도]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBU0095-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0095_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0095_1_th.jpg",
+      "alt": "흰빛알락뾰족맵시벌 1번째 사진 : 흰빛알락뾰족맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0095_1_th2.jpg",
+      "caption": "흰빛알락뾰족맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBU0095-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305281008",
+      "description": "[YNUE0305281008] 흰빛알락뾰족맵시벌 1974.08.05 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTBU0095-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBU0095&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:39+00:00",
+    "html_sha256": "e01f1b7b72d328a51055e624301e413dd7f0ed8fafef67bab6dffc0a2323efba",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

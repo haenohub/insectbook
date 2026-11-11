@@ -1,0 +1,109 @@
+{
+  "id": "ZTBO0075",
+  "name_ko": "네눈개미",
+  "scientific_name": "Camponotus quadrinotatus Forel, 1886",
+  "display_name": "네눈개미",
+  "family_ko": "개미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "말벌상과",
+      "name_latin": "Vespoidea"
+    },
+    "family": {
+      "name_ko": "개미과",
+      "name_latin": "Formicidae"
+    },
+    "subfamily": {
+      "name_ko": "불개미아과",
+      "name_latin": "Formicinae"
+    },
+    "genus": {
+      "name_ko": "왕개미속",
+      "name_latin": "Camponotus"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 말벌상과 (Vespoidea)\n과 : 개미과 (Formicidae)\n아과 : 불개미아과 (Formicinae)\n속 : 왕개미속 (Camponotus)",
+  "basic_information": {
+    "곤충명": "네눈개미",
+    "학명": "Camponotus quadrinotatus Forel, 1886"
+  },
+  "information": {
+    "general_description": "몸길이는 5-8mm 정도이며 몸은 흑색이고 다리는 흑갈색이다. 제1.2배등판에는 1쌍의 갈색을 띤 백색의 둥근 무늬가 있다. 몸에는 광택이 있고 갈색털이 성기게 났다. 배자루마디는 얇고 위쪽의 언저리는 뾰족하다. 큰 개체는 머리가 크고 폭이 넓으나 작은 개체는 작고 폭이 좁다. 배의 무늬는 큰 개체의 것이 현저하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "목재를 해한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[몽골]\n[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 5-8mm 정도이며 몸은 흑색이고 다리는 흑갈색이다. 제1.2배등판에는 1쌍의 갈색을 띤 백색의 둥근 무늬가 있다. 몸에는 광택이 있고 갈색털이 성기게 났다. 배자루마디는 얇고 위쪽의 언저리는 뾰족하다. 큰 개체는 머리가 크고 폭이 넓으나 작은 개체는 작고 폭이 좁다. 배의 무늬는 큰 개체의 것이 현저하다."
+    },
+    {
+      "title": "생태",
+      "text": "목재를 해한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[몽골]\n[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBO0075-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0075_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0075_1_th.jpg",
+      "alt": "네눈개미 1번째 사진 : 네눈개미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBO0075_1_th2.jpg",
+      "caption": "네눈개미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBO0075-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE223722",
+      "description": "[KNAE223722] 네눈개미 / / 국립수목원"
+    },
+    {
+      "id": "KNAE223776",
+      "description": "[KNAE223776] 네눈개미 / / 국립수목원"
+    },
+    {
+      "id": "KNAE223794",
+      "description": "[KNAE223794] 네눈개미 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTBO0075-1",
+    "reference_review_status": "blocked",
+    "reference_review_reason": "유일한 사진에서 가슴이 핀에 크게 가려져 있고 원문의 검정 몸 및 배의 밝은 네 반점을 확인하기 어려워 종 일치 여부 확인 전 생성 보류"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBO0075&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:43+00:00",
+    "html_sha256": "7c312f946f83a6cdebf0b75ea465e1c411086b64b29de0bcac9cd5f6edd5dd4b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

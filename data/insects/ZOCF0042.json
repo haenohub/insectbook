@@ -1,0 +1,107 @@
+{
+  "id": "ZOCF0042",
+  "name_ko": "땅딸보가시털바구미",
+  "scientific_name": "Pseudocneorhinus bifasciatus Roelofs, 1879",
+  "display_name": "땅딸보가시털바구미",
+  "family_ko": "바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "바구미과",
+      "name_latin": "Curculionidae"
+    },
+    "subfamily": {
+      "name_ko": "줄바구미아과",
+      "name_latin": "Entiminae"
+    },
+    "genus": {
+      "name_ko": "가시털바구미속",
+      "name_latin": "Pseudocneorhinus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 바구미과 (Curculionidae)\n아과 : 줄바구미아과 (Entiminae)\n속 : 가시털바구미속 (Pseudocneorhinus)",
+  "basic_information": {
+    "곤충명": "땅딸보가시털바구미",
+    "학명": "Pseudocneorhinus bifasciatus Roelofs, 1879"
+  },
+  "information": {
+    "general_description": "한국(중부, 남부, 제주특별자치도), 일본, 중국, 북아메리카에 분포하며, 몸길이 5.0-6.0 mm. 앞가슴 전측 가두리에 목향엽이 있다. 촉각구는 눈을 향한다. 구상판은 좁은 V형, 융기선은 뾰족하게 융기, 뒤쪽의 나출부에 원형의 금속광택 인편이 피복. 후경절 내연에 7-9개의 치돌기가 있다. 딱지날개의 인모는 침형, 매우 짧아 제2간실 폭의 반 길이, 딱지날개는 중앙 앞 부위에서 최대폭, 체표에 조개껍빌모양의 적동색 인편이 피복, 제2간실과 제10간실이 만나는 말단 부분에 각각 1개의 혹이 형성.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "밀감속의 식물을 가해한다. 단위생식, 일본 남부 도서지역과 중국에는 수컷이 있다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국(중부, 남부, 제주특별자치도), 일본, 중국, 북아메리카에 분포하며, 몸길이 5.0-6.0 mm. 앞가슴 전측 가두리에 목향엽이 있다. 촉각구는 눈을 향한다. 구상판은 좁은 V형, 융기선은 뾰족하게 융기, 뒤쪽의 나출부에 원형의 금속광택 인편이 피복. 후경절 내연에 7-9개의 치돌기가 있다. 딱지날개의 인모는 침형, 매우 짧아 제2간실 폭의 반 길이, 딱지날개는 중앙 앞 부위에서 최대폭, 체표에 조개껍빌모양의 적동색 인편이 피복, 제2간실과 제10간실이 만나는 말단 부분에 각각 1개의 혹이 형성."
+    },
+    {
+      "title": "생태",
+      "text": "밀감속의 식물을 가해한다. 단위생식, 일본 남부 도서지역과 중국에는 수컷이 있다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCF0042-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0042_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0042_1_th.jpg",
+      "alt": "땅딸보가시털바구미 1번째 사진 : 땅딸보가시털바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0042_1_th2.jpg",
+      "caption": "땅딸보가시털바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCF0042-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0303311016",
+      "description": "[FRIE0303311016] 땅딸보가시털바구미 1980.06.29 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0303311017",
+      "description": "[FRIE0303311017] 땅딸보가시털바구미 1980.05.28 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0303311018",
+      "description": "[FRIE0303311018] 땅딸보가시털바구미 1981.06.09 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOCF0042-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCF0042&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:24+00:00",
+    "html_sha256": "0be73ed21cace7476d76aca9b61fa76a22233b51f63aad34b3c3ab9239c92c36",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

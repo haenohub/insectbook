@@ -1,0 +1,145 @@
+{
+  "id": "ZRDV0015",
+  "name_ko": "산은줄표범나비",
+  "scientific_name": "Argynnis zenobia Leech, 1890",
+  "display_name": "산은줄표범나비",
+  "family_ko": "네발나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "네발나비과",
+      "name_latin": "Nymphalidae"
+    },
+    "subfamily": {
+      "name_ko": "독나비아과",
+      "name_latin": "Heliconiinae"
+    },
+    "genus": {
+      "name_ko": "은점표범나비속",
+      "name_latin": "Argynnis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 네발나비과 (Nymphalidae)\n아과 : 독나비아과 (Heliconiinae)\n속 : 은점표범나비속 (Argynnis)",
+  "basic_information": {
+    "곤충명": "산은줄표범나비",
+    "학명": "Argynnis zenobia Leech, 1890"
+  },
+  "information": {
+    "general_description": "암수 모두 뒷날개 아랫면에 흰색과 암록색의 복잡하고 특이한 무늬가 잇어 다른 종과 쉽게 구별된다.",
+    "adult": null,
+    "adult_male": "수컷은 날개 윗면이 등황갈색이며 제2,3맥과 제1b맥에 발향린줄이 있다.",
+    "adult_female": "암컷은 암록색으로 발향린줄이 없다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "해발 700m 이상의 강원특별자치도 산지의 초지에 서식한다. 수컷은 힘차게 날다가 간혹 습한 곳에 잘 모이며, 오후에는 암수 모두 큰까치수영, 참싸리 등의 꽃에서 흡밀한다. 암컷은 대체로 확 트인 곳보다 어두운 수림 내의 환한 곳을 좋아하며, 흐린 날에도 활발히 활동하는 것으로 보인다",
+    "season": null,
+    "overwintering": "애벌레",
+    "distribution": "[러시아]\n[중국]",
+    "notes": "[국지적분포종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암수 모두 뒷날개 아랫면에 흰색과 암록색의 복잡하고 특이한 무늬가 잇어 다른 종과 쉽게 구별된다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "수컷은 날개 윗면이 등황갈색이며 제2,3맥과 제1b맥에 발향린줄이 있다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "암컷은 암록색으로 발향린줄이 없다."
+    },
+    {
+      "title": "습성",
+      "text": "해발 700m 이상의 강원특별자치도 산지의 초지에 서식한다. 수컷은 힘차게 날다가 간혹 습한 곳에 잘 모이며, 오후에는 암수 모두 큰까치수영, 참싸리 등의 꽃에서 흡밀한다. 암컷은 대체로 확 트인 곳보다 어두운 수림 내의 환한 곳을 좋아하며, 흐린 날에도 활발히 활동하는 것으로 보인다"
+    },
+    {
+      "title": "월동",
+      "text": "애벌레"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[국지적분포종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDV0015-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0015_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0015_3.jpg",
+      "alt": "산은줄표범나비 1번째 사진 : 산은줄표범나비 암컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0015_3_th2.jpg",
+      "caption": "산은줄표범나비 암컷 이미지",
+      "photographed_at": "20080711",
+      "location": "강원도 춘천시 남면 한치령",
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRDV0015-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0015_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0015_2_th.jpg",
+      "alt": "산은줄표범나비 2번째 사진 : 산은줄표범나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0015_2_th2.jpg",
+      "caption": "산은줄표범나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDV0015-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0015_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0015_1_th.jpg",
+      "alt": "산은줄표범나비 3번째 사진 : 산은줄표범나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0015_1_th2.jpg",
+      "caption": "산은줄표범나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDV0015-1",
+  "specimen_examples": [
+    {
+      "id": "ADUE0305011078",
+      "description": "[ADUE0305011078] 산은줄표범나비 2002.07.12 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0305091138",
+      "description": "[ADUE0305091138] 산은줄표범나비 1998.06.25 / / 안동대학교"
+    },
+    {
+      "id": "YNUE0210292019",
+      "description": "[YNUE0210292019] 산은줄표범나비 1988.07.29 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDV0015-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDV0015&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:36+00:00",
+    "html_sha256": "4b73591d0a5886a9036a2f48cde3c080610153e361e2c577ee6865ae6ec73edf",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

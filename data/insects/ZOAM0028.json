@@ -1,0 +1,107 @@
+{
+  "id": "ZOAM0028",
+  "name_ko": "짧은발술소바구미",
+  "scientific_name": "Araecerus tarsalis Sharp, 1891",
+  "display_name": "짧은발술소바구미",
+  "family_ko": "소바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "소바구미과",
+      "name_latin": "Anthribidae"
+    },
+    "subfamily": {
+      "name_ko": "꼬마소바구미아과",
+      "name_latin": "Choraginae"
+    },
+    "genus": {
+      "name_ko": "술소바구미속",
+      "name_latin": "Araecerus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 소바구미과 (Anthribidae)\n아과 : 꼬마소바구미아과 (Choraginae)\n속 : 술소바구미속 (Araecerus)",
+  "basic_information": {
+    "곤충명": "짧은발술소바구미",
+    "학명": "Araecerus tarsalis Sharp, 1891"
+  },
+  "information": {
+    "general_description": "한국, 일본에 분포하며, 크기는 2.1에서 3.7mm정도이다.\n체색은 어두운 적갈색이며, 황색, 갈색, 흑색의 털무늬를 가짐.\n두 겹눈 사이의 폭은 넓고, 촉각홈과 눈이 거의 붙어있다. 겹눈 사이의 폭보다 축각홈 사이의 폭이 다소 좁다.\n첫째 부절마디는 이 속에 속하는 다른 종보다 눈에 띄게 짧다. 촉각의 10번째 마디의 끝부분은 평행하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본에 분포하며, 크기는 2.1에서 3.7mm정도이다.\n체색은 어두운 적갈색이며, 황색, 갈색, 흑색의 털무늬를 가짐.\n두 겹눈 사이의 폭은 넓고, 촉각홈과 눈이 거의 붙어있다. 겹눈 사이의 폭보다 축각홈 사이의 폭이 다소 좁다.\n첫째 부절마디는 이 속에 속하는 다른 종보다 눈에 띄게 짧다. 촉각의 10번째 마디의 끝부분은 평행하다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAM0028-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0028_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0028_1_th.jpg",
+      "alt": "짧은발술소바구미 1번째 사진 : 짧은발술소바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0028_1_th2.jpg",
+      "caption": "짧은발술소바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAM0028-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0203294082",
+      "description": "[SNUE0203294082] 짧은발술소바구미 1995.05.02 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0203294084",
+      "description": "[SNUE0203294084] 짧은발술소바구미 1995.08.17 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0203294083",
+      "description": "[SNUE0203294083] 짧은발술소바구미 1995.05.25 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAM0028-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAM0028&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:41+00:00",
+    "html_sha256": "94409cda23e0a08228a338276985522d516484c40816b5f5901cd3f772bb14bd",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

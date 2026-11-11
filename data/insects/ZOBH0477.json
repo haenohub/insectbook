@@ -1,0 +1,118 @@
+{
+  "id": "ZOBH0477",
+  "name_ko": "남색납작먼지벌레",
+  "scientific_name": "Dicranoncus femoralis Chaudoir, 1850",
+  "display_name": "남색납작먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "먼지벌레아과",
+      "name_latin": "Harpalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Dicranoncus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 먼지벌레아과 (Harpalinae)\n속 : (Dicranoncus)",
+  "basic_information": {
+    "곤충명": "남색납작먼지벌레",
+    "학명": "Dicranoncus femoralis Chaudoir, 1850"
+  },
+  "information": {
+    "general_description": "몸길이는 8~9.5mm이고, 다리의 경절과 부절은 갈색이고 퇴절은 청남색이다.몸은 전체적으로 청남색을 띤다. 앞가슴등판은 타원형으로 좁은 편이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[미얀마]\n[일본]\n[인도]\n[중국]\n[네팔]\n[러시아]",
+    "notes": "[포식성]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 8~9.5mm이고, 다리의 경절과 부절은 갈색이고 퇴절은 청남색이다.몸은 전체적으로 청남색을 띤다. 앞가슴등판은 타원형으로 좁은 편이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[미얀마]\n[일본]\n[인도]\n[중국]\n[네팔]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[포식성]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0477-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0477_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0477_2_th.jpg",
+      "alt": "남색납작먼지벌레 1번째 사진 : 남색납작먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0477_2_th2.jpg",
+      "caption": "남색납작먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0477-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0477_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0477_1_th.jpg",
+      "alt": "남색납작먼지벌레 2번째 사진 : 남색납작먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0477_1_th2.jpg",
+      "caption": "남색납작먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0477-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304031040",
+      "description": "[KNAE0304031040] 남색납작먼지벌레 1992.07.15 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303261011",
+      "description": "[KNAE0303261011] 남색납작먼지벌레 1995.06.17 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0303261012",
+      "description": "[KNAE0303261012] 남색납작먼지벌레 1995.06.23 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBH0477.png",
+    "reference_image_id": "ZOBH0477-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T16:45:56.217194+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "1fff1d14402fb727351d09cee73a3fe127c514f1c09c8ca5ea8abe864935075f"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0477&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:26+00:00",
+    "html_sha256": "f569429d1f5783b16c3b11f71bee938de2de98b5ed006b18afff36d40ff6a3a1",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

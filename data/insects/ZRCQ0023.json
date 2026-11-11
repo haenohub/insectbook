@@ -1,0 +1,126 @@
+{
+  "id": "ZRCQ0023",
+  "name_ko": "큰줄점팔랑나비",
+  "scientific_name": "Zinaida zina (Evans, 1932)",
+  "display_name": "큰줄점팔랑나비",
+  "family_ko": "팔랑나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "팔랑나비과",
+      "name_latin": "Hesperiidae"
+    },
+    "subfamily": {
+      "name_ko": "팔랑나비아과",
+      "name_latin": "Hesperiinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Zinaida"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 팔랑나비과 (Hesperiidae)\n아과 : 팔랑나비아과 (Hesperiinae)\n속 : (Zinaida)",
+  "basic_information": {
+    "곤충명": "큰줄점팔랑나비",
+    "학명": "Zinaida zina (Evans, 1932)"
+  },
+  "information": {
+    "general_description": "무늬는 암수의 차이가 거의 없으나 암컷이 날개의 폭이 수컷보다 다소 넓고 흰무늬도 크다.",
+    "adult": null,
+    "adult_male": "줄점팔랑나비와 유사하나 뒷날개 윗면과 아랫면에 흰무늬 줄이 번갈아 들쭉날쭉 점과 앞날개 제1b실에 흰무늬가 있는 점 등으로 구별할 수 있다.",
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "평지에서 고산지의 초지 특히 억새가 많은 곳에 서식한다. 큰까치수영 드의 꽃에서 흡밀하는데 풀 위에 앉아 일광욕을 할 때에는 앞날개를 반쯤 펴고 앉는다. 물가에서 흡수하는 것은 모두 수컷들이다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]\n[대만]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "무늬는 암수의 차이가 거의 없으나 암컷이 날개의 폭이 수컷보다 다소 넓고 흰무늬도 크다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "줄점팔랑나비와 유사하나 뒷날개 윗면과 아랫면에 흰무늬 줄이 번갈아 들쭉날쭉 점과 앞날개 제1b실에 흰무늬가 있는 점 등으로 구별할 수 있다."
+    },
+    {
+      "title": "습성",
+      "text": "평지에서 고산지의 초지 특히 억새가 많은 곳에 서식한다. 큰까치수영 드의 꽃에서 흡밀하는데 풀 위에 앉아 일광욕을 할 때에는 앞날개를 반쯤 펴고 앉는다. 물가에서 흡수하는 것은 모두 수컷들이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]\n[대만]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCQ0023-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0023_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0023_2_th.jpg",
+      "alt": "큰줄점팔랑나비 1번째 사진 : 산팔랑나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0023_2_th2.jpg",
+      "caption": "산팔랑나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCQ0023-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0023_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0023_1_th.jpg",
+      "alt": "큰줄점팔랑나비 2번째 사진 : 산팔랑나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0023_1_th2.jpg",
+      "caption": "산팔랑나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCQ0023-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0203082015",
+      "description": "[KPNE0203082015] 큰줄점팔랑나비 1956.10.14 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0203082016",
+      "description": "[KPNE0203082016] 큰줄점팔랑나비 1980.10.14 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0203082017",
+      "description": "[KPNE0203082017] 큰줄점팔랑나비 1956.10.14 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCQ0023-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCQ0023&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:02+00:00",
+    "html_sha256": "9635a5cbce32d8aa72fb59fd28079f23e294032d1cd5fa1b3180fc4b338ecb43",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

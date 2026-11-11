@@ -1,0 +1,103 @@
+{
+  "id": "ZTBU0295",
+  "name_ko": "당홍맵시벌",
+  "scientific_name": "Eupalamus sinensis Uchida, 1937",
+  "display_name": "당홍맵시벌",
+  "family_ko": "맵시벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "맵시벌과",
+      "name_latin": "Ichneumonidae"
+    },
+    "subfamily": {
+      "name_ko": "맵시벌아과",
+      "name_latin": "Ichneumoninae"
+    },
+    "genus": {
+      "name_ko": "닮은혹뿌리진맵시벌속",
+      "name_latin": "Eupalamus"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 맵시벌과 (Ichneumonidae)\n아과 : 맵시벌아과 (Ichneumoninae)\n속 : 닮은혹뿌리진맵시벌속 (Eupalamus)",
+  "basic_information": {
+    "곤충명": "당홍맵시벌",
+    "학명": "Eupalamus sinensis Uchida, 1937"
+  },
+  "information": {
+    "general_description": "참흥맵시벌(Melanichneumon coreanus UCHIDA)과 비슷하나 빛이 황색을 띠고 흑갈색인 곳이 없다. 가운데가슴 양 옆이 다소 암색이다. 그밖에도 가슴에는 암색인 곳이 있으나 대부분은 황적색이다.성충의 몸의 길이는 15mm정도 이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "참흥맵시벌(Melanichneumon coreanus UCHIDA)과 비슷하나 빛이 황색을 띠고 흑갈색인 곳이 없다. 가운데가슴 양 옆이 다소 암색이다. 그밖에도 가슴에는 암색인 곳이 있으나 대부분은 황적색이다.성충의 몸의 길이는 15mm정도 이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBU0295-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0295_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0295_1_th.jpg",
+      "alt": "당홍맵시벌 1번째 사진 : 당홍맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0295_1_th2.jpg",
+      "caption": "당홍맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBU0295-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305281015",
+      "description": "[YNUE0305281015] 당홍맵시벌 1967.06.04 / / 영남대학교"
+    },
+    {
+      "id": "DJUE0408141112",
+      "description": "[DJUE0408141112] 당홍맵시벌 1997.07.18 / / 대전대학교"
+    },
+    {
+      "id": "YNUE0607311038",
+      "description": "[YNUE0607311038] 당홍맵시벌 2000.07.07 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTBU0295-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBU0295&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:04+00:00",
+    "html_sha256": "7feb1131bec84cc02f7b22f65af8f3e7b237b2f4741bc3707559103d17a62043",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

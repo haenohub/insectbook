@@ -1,0 +1,111 @@
+{
+  "id": "ZRCH0076",
+  "name_ko": "검은띠비늘뿔나방",
+  "scientific_name": "Carpatolechia nephomicta (Meyrick, 1932)",
+  "display_name": "검은띠비늘뿔나방",
+  "family_ko": "뿔나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "뿔나방상과",
+      "name_latin": "Gelechioidea"
+    },
+    "family": {
+      "name_ko": "뿔나방과",
+      "name_latin": "Gelechiidae"
+    },
+    "subfamily": {
+      "name_ko": "뿔나방아과",
+      "name_latin": "Gelechiinae"
+    },
+    "genus": {
+      "name_ko": "높은산비늘뿔나방속",
+      "name_latin": "Carpatolechia"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 뿔나방상과 (Gelechioidea)\n과 : 뿔나방과 (Gelechiidae)\n아과 : 뿔나방아과 (Gelechiinae)\n속 : 높은산비늘뿔나방속 (Carpatolechia)",
+  "basic_information": {
+    "곤충명": "검은띠비늘뿔나방",
+    "학명": "Carpatolechia nephomicta (Meyrick, 1932)"
+  },
+  "information": {
+    "general_description": "날개편 길이는 14-16mmr가량이다. 아랫입술수염은 흑색, 제 2 마디의 2/3, 제 3 마디의 기부는 백색임. 머리는 회황색이나 가슴 등쪽면은 회갈색임. 앞날개의 전연에서 후연부에 비스듬히 달리는 흑갈색 띠에 융기된 인편이 섞여 있음.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": "우리나라에서는 Park(1983)에 의해 검은띠뿔나방이라는 국명으로 처음 보고되었다. 큰검은띠털뿔나방(T. nigrifasciatan Park)과 형태적으로 구별이 어려우며 수컷 생식기의 형태적 차이로 구분할수 있다 (박, 2004: 한국경제곤충 21)."
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이는 14-16mmr가량이다. 아랫입술수염은 흑색, 제 2 마디의 2/3, 제 3 마디의 기부는 백색임. 머리는 회황색이나 가슴 등쪽면은 회갈색임. 앞날개의 전연에서 후연부에 비스듬히 달리는 흑갈색 띠에 융기된 인편이 섞여 있음."
+    },
+    {
+      "title": "참고사항",
+      "text": "우리나라에서는 Park(1983)에 의해 검은띠뿔나방이라는 국명으로 처음 보고되었다. 큰검은띠털뿔나방(T. nigrifasciatan Park)과 형태적으로 구별이 어려우며 수컷 생식기의 형태적 차이로 구분할수 있다 (박, 2004: 한국경제곤충 21)."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCH0076-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCH0076_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCH0076_1_th.jpg",
+      "alt": "검은띠비늘뿔나방 1번째 사진 : 검은띠비늘뿔나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCH0076_1_th2.jpg",
+      "caption": "검은띠비늘뿔나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCH0076-1",
+  "specimen_examples": [
+    {
+      "id": "CBNE0203071030",
+      "description": "[CBNE0203071030] 검은띠비늘뿔나방 2001.06.19 / / 충북대학교"
+    },
+    {
+      "id": "UIBE0303081077",
+      "description": "[UIBE0303081077] 검은띠비늘뿔나방 2002.07.03 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0303081075",
+      "description": "[UIBE0303081075] 검은띠비늘뿔나방 2001.07.09 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRCH0076.png",
+    "reference_image_id": "ZRCH0076-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T17:53:45.398476+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "3da86e1e2cc1aa4d75c1f7969f0f55cf1abb9826e385d83cc7c99b62cad9105f"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCH0076&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:55+00:00",
+    "html_sha256": "595dcf27e1ef6c707b83ed0eda6ce29f38b87e7ac7b198541f0a89540b56e2d6",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

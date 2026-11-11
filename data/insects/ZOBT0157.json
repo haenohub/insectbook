@@ -1,0 +1,142 @@
+{
+  "id": "ZOBT0157",
+  "name_ko": "남색잎벌레",
+  "scientific_name": "Plagiosterna aenea aenea (Linnaeus, 1758)",
+  "display_name": "남색잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "잎벌레아과",
+      "name_latin": "Chrysomelinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Plagiosterna"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 잎벌레아과 (Chrysomelinae)\n속 : (Plagiosterna)",
+  "basic_information": {
+    "곤충명": "남색잎벌레",
+    "학명": "Plagiosterna aenea aenea (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "몸길이는 7.0~8.0mm, 몸이 넓고 납작하다. 몸색은 흑색이며 녹색을 띄며 광택이있다. 앞가슴등판과 다리, 더듬이는 적갈색이다. 한국(북부,중부,남부), 일본(훗카이도,혼슈,시코쿠,큐슈), 러시아(시베리아, 사할리), 유럽에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 연중 볼 수 있다. 유충은 5월에 집단생활을 하며 심한 냄새를 내는 습성이 있다. 번데기는 잎뒤에 거꾸로 매달린다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]\n[유럽]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 7.0~8.0mm, 몸이 넓고 납작하다. 몸색은 흑색이며 녹색을 띄며 광택이있다. 앞가슴등판과 다리, 더듬이는 적갈색이다. 한국(북부,중부,남부), 일본(훗카이도,혼슈,시코쿠,큐슈), 러시아(시베리아, 사할리), 유럽에 분포되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 연중 볼 수 있다. 유충은 5월에 집단생활을 하며 심한 냄새를 내는 습성이 있다. 번데기는 잎뒤에 거꾸로 매달린다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]\n[유럽]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0157-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0157_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0157_2_th.jpg",
+      "alt": "남색잎벌레 1번째 사진 : 남색잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0157_2_th2.jpg",
+      "caption": "남색잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBT0157-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0157_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0157_1_th.jpg",
+      "alt": "남색잎벌레 2번째 사진 : 남색잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0157_1_th2.jpg",
+      "caption": "남색잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0157-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0305141046",
+      "description": "[FRIE0305141046] 남색잎벌레 1981.06.09 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0305141047",
+      "description": "[FRIE0305141047] 남색잎벌레 1984.05.27 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0305141049",
+      "description": "[FRIE0305141049] 남색잎벌레 1986.05.04 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "사시나무",
+      "scientific_name": "Populus tremula var. davidiana (Dode) C.K.Schneid."
+    },
+    {
+      "group": "식물",
+      "name_ko": "자작나무",
+      "scientific_name": "Betula pendula Roth"
+    },
+    {
+      "group": "식물",
+      "name_ko": "황철나무",
+      "scientific_name": "Populus suaveolens Fisch. ex Poit. & A.Vilm."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBT0157.png",
+    "reference_image_id": "ZOBT0157-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T16:44:14.514880+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "cca64a91718bdb8fb8a1130f86f213533162e1f3fc94ca6430e84950241a8061"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0157&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:27+00:00",
+    "html_sha256": "341f87e3940cb8a20cc4c5cc12a91d8d8e7be07fe54b74344ae46720540062ca",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

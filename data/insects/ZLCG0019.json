@@ -1,0 +1,107 @@
+{
+  "id": "ZLCG0019",
+  "name_ko": "껍적침노린재",
+  "scientific_name": "Velinus nodipes (Uhler, 1860)",
+  "display_name": "껍적침노린재",
+  "family_ko": "침노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "침노린재상과",
+      "name_latin": "Reduvioidea"
+    },
+    "family": {
+      "name_ko": "침노린재과",
+      "name_latin": "Reduviidae"
+    },
+    "subfamily": {
+      "name_ko": "무늬침노린재아과",
+      "name_latin": "Harpactorinae"
+    },
+    "genus": {
+      "name_ko": "껍적침노린재속",
+      "name_latin": "Velinus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 침노린재상과 (Reduvioidea)\n과 : 침노린재과 (Reduviidae)\n아과 : 무늬침노린재아과 (Harpactorinae)\n속 : 껍적침노린재속 (Velinus)",
+  "basic_information": {
+    "곤충명": "껍적침노린재",
+    "학명": "Velinus nodipes (Uhler, 1860)"
+  },
+  "information": {
+    "general_description": "몸길이 : 12-15mm\n몸은 흑색이고 수지 모양의 물질로 덮여 있는 수가 많고, 둔한 광택을 나타낸다. 머리의 위끝은 가늘고, 목도 잘록하며, 더듬이는 가늘고 길며 4마디이고 흑색이다. 앞가슴등은 중앙에서 잘록하고, 중앙에 十자모양의 요함선이 있어 앞쪽 반은 좌우 두개의 융기를 이룬다. 작은방패판은 작고 위끝은 소립상을 하고 황백색이다. 반시초는 길게 배판을 넘어 돌출하고, 갈색을 띤다. 결합판은 박편상으로 양쪽에 직립하고, 각 마디의 둘레는 물결 모양을 이룬다. 다리는 흑색이고, 넓적다리마디는 3개의 결절상으로 융기했고, 융기부와 융기부 사이는 황백색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 12-15mm\n몸은 흑색이고 수지 모양의 물질로 덮여 있는 수가 많고, 둔한 광택을 나타낸다. 머리의 위끝은 가늘고, 목도 잘록하며, 더듬이는 가늘고 길며 4마디이고 흑색이다. 앞가슴등은 중앙에서 잘록하고, 중앙에 十자모양의 요함선이 있어 앞쪽 반은 좌우 두개의 융기를 이룬다. 작은방패판은 작고 위끝은 소립상을 하고 황백색이다. 반시초는 길게 배판을 넘어 돌출하고, 갈색을 띤다. 결합판은 박편상으로 양쪽에 직립하고, 각 마디의 둘레는 물결 모양을 이룬다. 다리는 흑색이고, 넓적다리마디는 3개의 결절상으로 융기했고, 융기부와 융기부 사이는 황백색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLCG0019-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCG0019_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCG0019_1_th.jpg",
+      "alt": "껍적침노린재 1번째 사진 : 껍적침노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCG0019_1_th2.jpg",
+      "caption": "껍적침노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLCG0019-1",
+  "specimen_examples": [
+    {
+      "id": "GSNE0302211056",
+      "description": "[GSNE0302211056] 껍적침노린재 2000.06.03 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0302211058",
+      "description": "[GSNE0302211058] 껍적침노린재 1986.06.01 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0302211059",
+      "description": "[GSNE0302211059] 껍적침노린재 1984.06.10 / / 경상대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZLCG0019.png",
+    "reference_image_id": "ZLCG0019-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T10:15:22.286636+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "32d46ec250013fcc33dcfb6b960bf1cdaf602dbf6a11a401baab35ba5d5af364"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLCG0019&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:22+00:00",
+    "html_sha256": "a72623f54a78821d987003ffc2884c01c31c82217b8ab975ef05bfd40694b194",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

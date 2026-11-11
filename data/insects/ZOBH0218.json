@@ -1,0 +1,106 @@
+{
+  "id": "ZOBH0218",
+  "name_ko": "이사길쭉먼지벌레",
+  "scientific_name": "Pterostichus (Nialoe) scurra (Tschitschérine, 1901)",
+  "display_name": "이사길쭉먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "먼지벌레아과",
+      "name_latin": "Harpalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Pterostichus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 먼지벌레아과 (Harpalinae)\n속 : (Pterostichus)",
+  "basic_information": {
+    "곤충명": "이사길쭉먼지벌레",
+    "학명": "Pterostichus (Nialoe) scurra (Tschitschérine, 1901)"
+  },
+  "information": {
+    "general_description": "몸길이는 15~20mm 이며 검은색이고 광택이있다. 앞가슴등판은 폭보다 길이가 길다. 복부말단절의 돌기는 대칭이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 15~20mm 이며 검은색이고 광택이있다. 앞가슴등판은 폭보다 길이가 길다. 복부말단절의 돌기는 대칭이다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0218-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0218_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0218_2_th.jpg",
+      "alt": "이사길쭉먼지벌레 1번째 사진 : 이사길쭉먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0218_2_th2.jpg",
+      "caption": "이사길쭉먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0218-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0218_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0218_1_th.jpg",
+      "alt": "이사길쭉먼지벌레 2번째 사진 : 이사길쭉먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0218_1_th2.jpg",
+      "caption": "이사길쭉먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0218-1",
+  "specimen_examples": [
+    {
+      "id": "SJNE0408171035",
+      "description": "[SJNE0408171035] 이사길쭉먼지벌레 1982.08.11 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0202051019",
+      "description": "[SJNE0202051019] 이사길쭉먼지벌레 1971.08.07 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0202051020",
+      "description": "[SJNE0202051020] 이사길쭉먼지벌레 1971.08.07 / / 상주대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0218-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0218&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:31+00:00",
+    "html_sha256": "9c01c97127c9b8a52c0fe9101cea8e0ff9fb20a38bd058cc7851f1267ed34d06",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

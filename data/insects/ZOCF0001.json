@@ -1,0 +1,111 @@
+{
+  "id": "ZOCF0001",
+  "name_ko": "갈녹색가루바구미",
+  "scientific_name": "Phyllobius (Diallobius) incomptus Sharp, 1896",
+  "display_name": "갈녹색가루바구미",
+  "family_ko": "바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "바구미과",
+      "name_latin": "Curculionidae"
+    },
+    "subfamily": {
+      "name_ko": "줄바구미아과",
+      "name_latin": "Entiminae"
+    },
+    "genus": {
+      "name_ko": "녹색가루바구미속",
+      "name_latin": "Phyllobius"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 바구미과 (Curculionidae)\n아과 : 줄바구미아과 (Entiminae)\n속 : 녹색가루바구미속 (Phyllobius)",
+  "basic_information": {
+    "곤충명": "갈녹색가루바구미",
+    "학명": "Phyllobius (Diallobius) incomptus Sharp, 1896"
+  },
+  "information": {
+    "general_description": "한국(북부, 중부), 일본에 분포하며, 몸길이 4.8-7.3 mm. 수컷은 주둥이 정단 양측에 뿔모양의 돌출물이 있으며, 넓적다리마디 안쪽에 작은 치상돌기가 있다. 체표 등면은 원형인편이 조밀하게 덮여있다. 체표면의 원형인편의 색깔이 회갈색과 갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "관상수 및 과일수가 기주식물",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국(북부, 중부), 일본에 분포하며, 몸길이 4.8-7.3 mm. 수컷은 주둥이 정단 양측에 뿔모양의 돌출물이 있으며, 넓적다리마디 안쪽에 작은 치상돌기가 있다. 체표 등면은 원형인편이 조밀하게 덮여있다. 체표면의 원형인편의 색깔이 회갈색과 갈색이다."
+    },
+    {
+      "title": "생태",
+      "text": "관상수 및 과일수가 기주식물"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCF0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0001_1_th.jpg",
+      "alt": "갈녹색가루바구미 1번째 사진 : 갈녹색가루바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0001_1_th2.jpg",
+      "caption": "갈녹색가루바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCF0001-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0408191097",
+      "description": "[UIBE0408191097] 갈녹색가루바구미 2000.07.05 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0408191098",
+      "description": "[UIBE0408191098] 갈녹색가루바구미 1994.10.10 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0408191099",
+      "description": "[UIBE0408191099] 갈녹색가루바구미 1996.10.01 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOCF0001.png",
+    "reference_image_id": "ZOCF0001-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T16:10:54.841792+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "a64cbe0e6474eb834559159343fca60eac1c8d25334cef633571ac93f7acaaad"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCF0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:25+00:00",
+    "html_sha256": "8742977c4354b20904a000ffbb27e33881339947bf59f8aadde7f9ecc7ac5046",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

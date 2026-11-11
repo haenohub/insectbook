@@ -1,0 +1,122 @@
+{
+  "id": "ZRDU0096",
+  "name_ko": "박쥐재주나방",
+  "scientific_name": "Zaranga tukuringra Streltzov & Yakovlev, 2007",
+  "display_name": "박쥐재주나방",
+  "family_ko": "재주나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "재주나방과",
+      "name_latin": "Notodontidae"
+    },
+    "subfamily": {
+      "name_ko": "왕재주나방아과",
+      "name_latin": "Dudusinae"
+    },
+    "genus": {
+      "name_ko": "박쥐재주나방속",
+      "name_latin": "Zaranga"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 재주나방과 (Notodontidae)\n아과 : 왕재주나방아과 (Dudusinae)\n속 : 박쥐재주나방속 (Zaranga)",
+  "basic_information": {
+    "곤충명": "박쥐재주나방",
+    "학명": "Zaranga tukuringra Streltzov & Yakovlev, 2007"
+  },
+  "information": {
+    "general_description": "날개편 길이 52～70mm. 앞날개 중실에 흑색점이 있으며, 뒷날개는 백색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 5～6월, 7～8월 연 2회 출현한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[인도]\n[중국]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 52～70mm. 앞날개 중실에 흑색점이 있으며, 뒷날개는 백색이다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 5～6월, 7～8월 연 2회 출현한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[인도]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDU0096-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0096_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0096_2_th.jpg",
+      "alt": "박쥐재주나방 1번째 사진 : 박쥐재주나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0096_2_th2.jpg",
+      "caption": "박쥐재주나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDU0096-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0096_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0096_1_th.jpg",
+      "alt": "박쥐재주나방 2번째 사진 : 박쥐재주나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0096_1_th2.jpg",
+      "caption": "박쥐재주나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDU0096-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0302071082",
+      "description": "[KNAE0302071082] 박쥐재주나방 2000.08.12 / / 국립수목원"
+    },
+    {
+      "id": "GSNE0301151079",
+      "description": "[GSNE0301151079] 박쥐재주나방 2001.08.18 / / 경상대학교"
+    },
+    {
+      "id": "KNAE0301042021",
+      "description": "[KNAE0301042021] 박쥐재주나방 1991.07.26 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDU0096-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDU0096&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:03+00:00",
+    "html_sha256": "132bd773d8ea9d1ab34638f24c86c51e0d9c688ccead7be4aa4ae56408d8d70e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

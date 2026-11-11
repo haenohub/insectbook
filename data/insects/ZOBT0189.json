@@ -1,0 +1,138 @@
+{
+  "id": "ZOBT0189",
+  "name_ko": "참긴더듬이잎벌레",
+  "scientific_name": "Pyrrhalta humeralis (Chen, 1942)",
+  "display_name": "참긴더듬이잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "긴더듬이잎벌레아과",
+      "name_latin": "Galerucinae"
+    },
+    "genus": {
+      "name_ko": "참긴더듬이잎벌레속",
+      "name_latin": "Pyrrhalta"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 긴더듬이잎벌레아과 (Galerucinae)\n속 : 참긴더듬이잎벌레속 (Pyrrhalta)",
+  "basic_information": {
+    "곤충명": "참긴더듬이잎벌레",
+    "학명": "Pyrrhalta humeralis (Chen, 1942)"
+  },
+  "information": {
+    "general_description": "성충의 몸길이는 6~7 mm이고 체색은 담갈색이다. 더듬이는 검고 각 마디의 기부는 담색이다. 머리에 1개, 가슴의 등쪽에 3개의 검은 반점이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": "노숙 유충의 몸길이는 약 10 mm이고 황색 내지 황갈색이며 각 마디에 검은 반점이 있다.",
+    "egg": "알은 둥글고 황백색이며 직경은 약 0.4 mm이다.",
+    "pupa": null,
+    "ecology": "월동한 알이 4월 중순경에 부화하여 유충이 새 잎을 식해한다. 유충의 영기는 3령이며 5월 중~하순에 낙엽 밑이나 흙 속에서 번데기가 된다. 전용 기간이 약 20일, 번데기 기간이 7~14일이다. 신 성충은 6월 상~중순경에 출현하여 9월 중순부터 늦가을까지 신초(新梢), 엽병, 동아(冬芽)의 조직 내에 10여 개씩 무더기로 산란한다.",
+    "habits": "유충이 새 잎을 엽맥만 남기고 식해한다. 성충의 피해는 7월 상순~8월 상순에 많이 나타나며 유충과 동시에 가해한다. 피해로 나무가 죽지는 않으나 피해 부위가 갈변하기 때문에 경관상 좋지 않다.",
+    "season": null,
+    "overwintering": "기주식물의 동아나 가지에서 알로 월동한다.",
+    "distribution": "[일본]\n[중국]\n[러시아] 동시베리아지역",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충의 몸길이는 6~7 mm이고 체색은 담갈색이다. 더듬이는 검고 각 마디의 기부는 담색이다. 머리에 1개, 가슴의 등쪽에 3개의 검은 반점이 있다."
+    },
+    {
+      "title": "유충",
+      "text": "노숙 유충의 몸길이는 약 10 mm이고 황색 내지 황갈색이며 각 마디에 검은 반점이 있다."
+    },
+    {
+      "title": "생태",
+      "text": "월동한 알이 4월 중순경에 부화하여 유충이 새 잎을 식해한다. 유충의 영기는 3령이며 5월 중~하순에 낙엽 밑이나 흙 속에서 번데기가 된다. 전용 기간이 약 20일, 번데기 기간이 7~14일이다. 신 성충은 6월 상~중순경에 출현하여 9월 중순부터 늦가을까지 신초(新梢), 엽병, 동아(冬芽)의 조직 내에 10여 개씩 무더기로 산란한다."
+    },
+    {
+      "title": "습성",
+      "text": "유충이 새 잎을 엽맥만 남기고 식해한다. 성충의 피해는 7월 상순~8월 상순에 많이 나타나며 유충과 동시에 가해한다. 피해로 나무가 죽지는 않으나 피해 부위가 갈변하기 때문에 경관상 좋지 않다."
+    },
+    {
+      "title": "월동",
+      "text": "기주식물의 동아나 가지에서 알로 월동한다."
+    },
+    {
+      "title": "알",
+      "text": "알은 둥글고 황백색이며 직경은 약 0.4 mm이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아] 동시베리아지역"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0189-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0189_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0189_1_th.jpg",
+      "alt": "참긴더듬이잎벌레 1번째 사진 : 참긴더듬이잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0189_1_th2.jpg",
+      "caption": "참긴더듬이잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0189-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0306241027",
+      "description": "[FRIE0306241027] 참긴더듬이잎벌레 1981.08.22 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0306241029",
+      "description": "[FRIE0306241029] 참긴더듬이잎벌레 1984.07.02 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0302152025",
+      "description": "[KNAE0302152025] 참긴더듬이잎벌레 1981.08.22 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "분꽃나무",
+      "scientific_name": "Viburnum carlesii Hemsl."
+    },
+    {
+      "group": "식물",
+      "name_ko": "산가막살나무",
+      "scientific_name": "Viburnum wrightii Miq."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0189-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0189&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:47+00:00",
+    "html_sha256": "28fbd953ab369fdca0a0552f04cc81a6298b4b77b31f4b7d16d34832d216c86a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

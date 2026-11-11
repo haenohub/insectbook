@@ -1,0 +1,107 @@
+{
+  "id": "ZOGX0063",
+  "name_ko": "강변거저리",
+  "scientific_name": "Heterotarsus carinula Marseul, 1876",
+  "display_name": "강변거저리",
+  "family_ko": "거저리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "거저리상과",
+      "name_latin": "Tenebrionoidea"
+    },
+    "family": {
+      "name_ko": "거저리과",
+      "name_latin": "Tenebrionidae"
+    },
+    "subfamily": {
+      "name_ko": "거저리아과",
+      "name_latin": "Tenebrioninae"
+    },
+    "genus": {
+      "name_ko": "강변거저리속",
+      "name_latin": "Heterotarsus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 거저리상과 (Tenebrionoidea)\n과 : 거저리과 (Tenebrionidae)\n아과 : 거저리아과 (Tenebrioninae)\n속 : 강변거저리속 (Heterotarsus)",
+  "basic_information": {
+    "곤충명": "강변거저리",
+    "학명": "Heterotarsus carinula Marseul, 1876"
+  },
+  "information": {
+    "general_description": "몸길이는 10~11mm이며, 전체적으로 흑색광택이 있다. 앞가슴 등판은 둥글고 가장자리는 들쑥날쑥 하다. 날개에 세로줄이 발달하였는데 그사이는 넓고 가운데가 높다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 10~11mm이며, 전체적으로 흑색광택이 있다. 앞가슴 등판은 둥글고 가장자리는 들쑥날쑥 하다. 날개에 세로줄이 발달하였는데 그사이는 넓고 가운데가 높다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOGX0063-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGX0063_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGX0063_1_th.jpg",
+      "alt": "강변거저리 1번째 사진 : 강변거저리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOGX0063_1_th2.jpg",
+      "caption": "강변거저리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOGX0063-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE252135",
+      "description": "[KNAE252135] 강변거저리 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304112053",
+      "description": "[KNAE0304112053] 강변거저리 1990.09.05 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304112035",
+      "description": "[KNAE0304112035] 강변거저리 1993.07.28 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOGX0063.png",
+    "reference_image_id": "ZOGX0063-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T16:58:29.696229+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "c69327338edb6a0eef6d29d4671d029d60682014560820ef4c8546db3e33cc67"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOGX0063&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:40+00:00",
+    "html_sha256": "76cc0280d99baac2de0e69d99b93652c1191e49f69edc7e2001c50c507f16731",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

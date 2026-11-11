@@ -1,0 +1,111 @@
+{
+  "id": "ZLAP0004",
+  "name_ko": "꼬마땅노린재",
+  "scientific_name": "Chilocoris confusus Horváth, 1919",
+  "display_name": "꼬마땅노린재",
+  "family_ko": "땅노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "노린재상과",
+      "name_latin": "Pentatomoidea"
+    },
+    "family": {
+      "name_ko": "땅노린재과",
+      "name_latin": "Cydnidae"
+    },
+    "subfamily": {
+      "name_ko": "땅노린재아과",
+      "name_latin": "Cydninae"
+    },
+    "genus": {
+      "name_ko": "꼬마땅노린재속",
+      "name_latin": "Chilocoris"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 노린재상과 (Pentatomoidea)\n과 : 땅노린재과 (Cydnidae)\n아과 : 땅노린재아과 (Cydninae)\n속 : 꼬마땅노린재속 (Chilocoris)",
+  "basic_information": {
+    "곤충명": "꼬마땅노린재",
+    "학명": "Chilocoris confusus Horváth, 1919"
+  },
+  "information": {
+    "general_description": "몸길이 : 2-2.7mm\n가장 작은 땅노린재이다. 몸은 갈색 또는 황갈색을 띠며 광택이 있다. 전체가 긴 타원형으로서 정수리는 편평하다. 머리는 앞가장자리를 따라 짧은 가시가 줄지어 있다. 더듬이는 갈색을 띠며 비교적 굵다.앞가슴등판은 팽출했고 암컷의 앞가슴등판은 전엽의 중앙은 옴폭하며, 광택이 있다. 뒤쪽으로는 약간의 점각이 있다. 작은방패판은 정삼각형이다. 반시초는 배의 끝을 약간 넘고, 막질부는 투명하여 황색을 띤다. 다리는 갈색이고 종아리마디에는 가시가 줄지어 나 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "땅 속에서 생활하며 잡오츼 뿌리 부근이나 이끼류의 밑에서 발견된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 2-2.7mm\n가장 작은 땅노린재이다. 몸은 갈색 또는 황갈색을 띠며 광택이 있다. 전체가 긴 타원형으로서 정수리는 편평하다. 머리는 앞가장자리를 따라 짧은 가시가 줄지어 있다. 더듬이는 갈색을 띠며 비교적 굵다.앞가슴등판은 팽출했고 암컷의 앞가슴등판은 전엽의 중앙은 옴폭하며, 광택이 있다. 뒤쪽으로는 약간의 점각이 있다. 작은방패판은 정삼각형이다. 반시초는 배의 끝을 약간 넘고, 막질부는 투명하여 황색을 띤다. 다리는 갈색이고 종아리마디에는 가시가 줄지어 나 있다."
+    },
+    {
+      "title": "생태",
+      "text": "땅 속에서 생활하며 잡오츼 뿌리 부근이나 이끼류의 밑에서 발견된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLAP0004-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAP0004_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAP0004_1_th.jpg",
+      "alt": "꼬마땅노린재 1번째 사진 : 꼬마땅노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAP0004_1_th2.jpg",
+      "caption": "꼬마땅노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLAP0004-1",
+  "specimen_examples": [
+    {
+      "id": "HNUE0408181022",
+      "description": "[HNUE0408181022] 꼬마땅노린재 2001.06.28 / / 한남대학교 자연사박물관"
+    },
+    {
+      "id": "HNUE0911232070",
+      "description": "[HNUE0911232070] 꼬마땅노린재 2000.07.11 / / 한남대학교 자연사박물관"
+    },
+    {
+      "id": "HNUE0911232071",
+      "description": "[HNUE0911232071] 꼬마땅노린재 2002.07.30 / / 한남대학교 자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZLAP0004.png",
+    "reference_image_id": "ZLAP0004-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T13:33:00.706012+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "1b4538dad22d53cfc243a25f4a506a5aebaf7b100e4510bc4baa62c50e5b9c93"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLAP0004&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:33+00:00",
+    "html_sha256": "97045618d696f1c826e4cf567bcd064f8491469f1cbe7d4d4ebc37d25c21e40a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "id": "ZOEJ0044",
+  "name_ko": "차색우단풍뎅이",
+  "scientific_name": "Maladera ovatula (Fairmaire, 1891)",
+  "display_name": "차색우단풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "검정풍뎅이아과",
+      "name_latin": "Melolonthinae"
+    },
+    "genus": {
+      "name_ko": "애우단풍뎅이속",
+      "name_latin": "Maladera"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 검정풍뎅이아과 (Melolonthinae)\n속 : 애우단풍뎅이속 (Maladera)",
+  "basic_information": {
+    "곤충명": "차색우단풍뎅이",
+    "학명": "Maladera ovatula (Fairmaire, 1891)"
+  },
+  "information": {
+    "general_description": "중국, 일본, 대만에 분포하며, 몸색이 엷어서 딱부리우단풍뎅이와 비슷한 모습이나 눈이 돌출하지는 않았고, 뒷다리의 경절은 짧고 넓다. 촉각은 황갈색이며 10마디인데 수컷의 공봉부는 자루마디와 같은 길이이다. 앞가슴등판의 양옆은 약간 굽었으며, 가시털이 열을 이루고, 후각은 둔각이다. 딱지날개는 짧고, 끝은 재단상이며, 후퇴적은 광택이 없고, 후경절은 짧으나 폭은 넓다. 몸은 담적갈색이나 머리의 앞쪽과 두정은 암색이며, 등쪽은 진주빛 광택이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중국, 일본, 대만에 분포하며, 몸색이 엷어서 딱부리우단풍뎅이와 비슷한 모습이나 눈이 돌출하지는 않았고, 뒷다리의 경절은 짧고 넓다. 촉각은 황갈색이며 10마디인데 수컷의 공봉부는 자루마디와 같은 길이이다. 앞가슴등판의 양옆은 약간 굽었으며, 가시털이 열을 이루고, 후각은 둔각이다. 딱지날개는 짧고, 끝은 재단상이며, 후퇴적은 광택이 없고, 후경절은 짧으나 폭은 넓다. 몸은 담적갈색이나 머리의 앞쪽과 두정은 암색이며, 등쪽은 진주빛 광택이 있다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOEJ0044-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0044_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0044_2_th.jpg",
+      "alt": "차색우단풍뎅이 1번째 사진 : 차색우단풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0044_2_th2.jpg",
+      "caption": "차색우단풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOEJ0044-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0044_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0044_1_th.jpg",
+      "alt": "차색우단풍뎅이 2번째 사진 : 차색우단풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0044_1_th2.jpg",
+      "caption": "차색우단풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOEJ0044-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0306181007",
+      "description": "[FRIE0306181007] 차색우단풍뎅이 1999.06.25 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0306181008",
+      "description": "[FRIE0306181008] 차색우단풍뎅이 1999.07.29 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0306181009",
+      "description": "[FRIE0306181009] 차색우단풍뎅이 1999.07.13 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOEJ0044-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOEJ0044&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:44+00:00",
+    "html_sha256": "071263d7f4f955a889e69926d6b14e1406dd0c17b86114e43341b556fb64e523",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

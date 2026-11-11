@@ -1,0 +1,113 @@
+{
+  "id": "ZOCF0043",
+  "name_ko": "두줄무늬가시털바구미",
+  "scientific_name": "Pseudocneorhinus obesus Roelofs, 1873",
+  "display_name": "두줄무늬가시털바구미",
+  "family_ko": "바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "바구미과",
+      "name_latin": "Curculionidae"
+    },
+    "subfamily": {
+      "name_ko": "줄바구미아과",
+      "name_latin": "Entiminae"
+    },
+    "genus": {
+      "name_ko": "가시털바구미속",
+      "name_latin": "Pseudocneorhinus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 바구미과 (Curculionidae)\n아과 : 줄바구미아과 (Entiminae)\n속 : 가시털바구미속 (Pseudocneorhinus)",
+  "basic_information": {
+    "곤충명": "두줄무늬가시털바구미",
+    "학명": "Pseudocneorhinus obesus Roelofs, 1873"
+  },
+  "information": {
+    "general_description": "한국(중부, 남부, 제주특별자치도), 일본, 북중국, 러시아에 분포하며, 몸길이 4.3-7.0 mm. 앞가슴 전측 가두리에 목향엽이 있다. 촉각구는 눈을 향한다. 구상판은 V형 또는 U형, 뒤쪽에 넓은 나출지역이 없고, 융기선이 뒤쪽으로 예각을 이룬다. 후경절 내연에 치돌기가 없다. 제1채찍마디의 길이는 제2마디의 길이와 같거나 약간 길며, 제2마디와 제3마디의 합이 제1마디보다 매우 길다. 딱지날개의 체표 인편은 금색, 금속광택, 조개껍질 모양, 체표에 마름모꼴로 피복. 간실의 인모는 막대기모양, 제2간실폭보다 짧다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "일본에서는 단위생식, 한국 및 중국에서는 수컷이 있다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국(중부, 남부, 제주특별자치도), 일본, 북중국, 러시아에 분포하며, 몸길이 4.3-7.0 mm. 앞가슴 전측 가두리에 목향엽이 있다. 촉각구는 눈을 향한다. 구상판은 V형 또는 U형, 뒤쪽에 넓은 나출지역이 없고, 융기선이 뒤쪽으로 예각을 이룬다. 후경절 내연에 치돌기가 없다. 제1채찍마디의 길이는 제2마디의 길이와 같거나 약간 길며, 제2마디와 제3마디의 합이 제1마디보다 매우 길다. 딱지날개의 체표 인편은 금색, 금속광택, 조개껍질 모양, 체표에 마름모꼴로 피복. 간실의 인모는 막대기모양, 제2간실폭보다 짧다."
+    },
+    {
+      "title": "생태",
+      "text": "일본에서는 단위생식, 한국 및 중국에서는 수컷이 있다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCF0043-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0043_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0043_1_th.jpg",
+      "alt": "두줄무늬가시털바구미 1번째 사진 : 두줄무늬가시털바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0043_1_th2.jpg",
+      "caption": "두줄무늬가시털바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCF0043-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0201082055",
+      "description": "[YNUE0201082055] 두줄무늬가시털바구미 1991.04.30 / / 영남대학교"
+    },
+    {
+      "id": "KPNE1007016191",
+      "description": "[KPNE1007016191] 두줄무늬가시털바구미 2008.06.12 / / 경북대학교"
+    },
+    {
+      "id": "KPNE1007016192",
+      "description": "[KPNE1007016192] 두줄무늬가시털바구미 2008.06.12 / / 경북대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "감나무",
+      "scientific_name": "Diospyros kaki Thunb."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOCF0043-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCF0043&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:47+00:00",
+    "html_sha256": "e349d0a71b43ecae82f729e0f5300925294d5f8ffe3f9c7e81c05d4b0d36d686",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

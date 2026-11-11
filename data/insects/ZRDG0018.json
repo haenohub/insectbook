@@ -1,0 +1,157 @@
+{
+  "id": "ZRDG0018",
+  "name_ko": "산녹색부전나비",
+  "scientific_name": "Favonius taxila (Bremer, 1861)",
+  "display_name": "산녹색부전나비",
+  "family_ko": "부전나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "부전나비과",
+      "name_latin": "Lycaenidae"
+    },
+    "subfamily": {
+      "name_ko": "녹색부전나비아과",
+      "name_latin": "Theclinae"
+    },
+    "genus": {
+      "name_ko": "녹색부전나비속",
+      "name_latin": "Favonius"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 부전나비과 (Lycaenidae)\n아과 : 녹색부전나비아과 (Theclinae)\n속 : 녹색부전나비속 (Favonius)",
+  "basic_information": {
+    "곤충명": "산녹색부전나비",
+    "학명": "Favonius taxila (Bremer, 1861)"
+  },
+  "information": {
+    "general_description": "암수구별은 다른 녹색부전나비류와 같다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "알은 기주식물의 겨울는 밑에 한 개∼수십 여개 산란되어 있는 것이 주로 낮은 위치에서 발견된다",
+    "habits": "산지의 계곡이나 임도 주변의 참나무 숲에 서식하며 개체수는 많다. 수컷은 주로 오전 9시 전후에 점유활동을 활발히 하며, 잎 위의 이슬과 습지의 물을 흡수한다. 드물게 개망초꽃에서 흡밀하기 위해 모이는 경우가 있다.",
+    "season": null,
+    "overwintering": "알",
+    "distribution": "[일본]\n[중국]\n[러시아]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암수구별은 다른 녹색부전나비류와 같다."
+    },
+    {
+      "title": "생태",
+      "text": "알은 기주식물의 겨울는 밑에 한 개∼수십 여개 산란되어 있는 것이 주로 낮은 위치에서 발견된다"
+    },
+    {
+      "title": "습성",
+      "text": "산지의 계곡이나 임도 주변의 참나무 숲에 서식하며 개체수는 많다. 수컷은 주로 오전 9시 전후에 점유활동을 활발히 하며, 잎 위의 이슬과 습지의 물을 흡수한다. 드물게 개망초꽃에서 흡밀하기 위해 모이는 경우가 있다."
+    },
+    {
+      "title": "월동",
+      "text": "알"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDG0018-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDG0018_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDG0018_3.jpg",
+      "alt": "산녹색부전나비 1번째 사진 : 산녹색부전나비 수컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDG0018_3_th2.jpg",
+      "caption": "산녹색부전나비 수컷 이미지",
+      "photographed_at": "20150608",
+      "location": "경기도 포천시 회룡산",
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRDG0018-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0018_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0018_2_th.jpg",
+      "alt": "산녹색부전나비 2번째 사진 : 산녹색부전나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0018_2_th2.jpg",
+      "caption": "산녹색부전나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDG0018-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0018_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0018_1_th.jpg",
+      "alt": "산녹색부전나비 3번째 사진 : 산녹색부전나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0018_1_th2.jpg",
+      "caption": "산녹색부전나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDG0018-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0305291098",
+      "description": "[FRIE0305291098] 산녹색부전나비 1984.06.18 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0305291099",
+      "description": "[FRIE0305291099] 산녹색부전나비 1983.06.23 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0305091052",
+      "description": "[FRIE0305091052] 산녹색부전나비 1983.06.18 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "갈참나무",
+      "scientific_name": "Quercus aliena Blume"
+    },
+    {
+      "group": "식물",
+      "name_ko": "떡갈나무",
+      "scientific_name": "Quercus dentata Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "신갈나무",
+      "scientific_name": "Quercus mongolica Fisch. ex Ledeb."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDG0018-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDG0018&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:32+00:00",
+    "html_sha256": "1a543ef896dc218d75b2c8c872992bc15de31ab6641cf4b4256e96dad237af74",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

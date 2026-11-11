@@ -1,0 +1,160 @@
+{
+  "id": "ZTAH0001",
+  "name_ko": "홍가슴루리등에잎벌",
+  "scientific_name": "Arge captiva (F. Smith, 1874)",
+  "display_name": "홍가슴루리등에잎벌",
+  "family_ko": "등에잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "등에잎벌과",
+      "name_latin": "Argidae"
+    },
+    "subfamily": {
+      "name_ko": "등에잎벌아과",
+      "name_latin": "Arginae"
+    },
+    "genus": {
+      "name_ko": "등에잎벌속",
+      "name_latin": "Arge"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 등에잎벌과 (Argidae)\n아과 : 등에잎벌아과 (Arginae)\n속 : 등에잎벌속 (Arge)",
+  "basic_information": {
+    "곤충명": "홍가슴루리등에잎벌",
+    "학명": "Arge captiva (F. Smith, 1874)"
+  },
+  "information": {
+    "general_description": "성충의 몸길이는 10 mm 정도이며, 몸은 청남색이고 가슴은 등색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": "유충의 몸길이는 20 mm 정도이고 황녹색이며, 각 마디에 검은 반점이 있다.",
+    "egg": null,
+    "pupa": null,
+    "ecology": "흙 속의 고치 속에서 노숙 유충으로 월동하여 4월 하순~5월 상순에 번데기가 되고 5월 중순경에 우화하여 산란한다. 부화 유충은 잎 뒷면에 군서하면서 엽맥을 남기고 식해하나, 노숙 유충은 잎 전체를 식해하며 6월에 피해가 심하다. 제2세대 성충은 7월에 우화하며 유충은 8~9월에 출현하여 가해하나 6월의 피해만큼 심하지는 않다.",
+    "habits": "유충은 한 잎에 수십 마리의 유충이 모여 잎 가부터 식해하며, 대발생하여 나무를 벌거숭이로 만드는 경우가 많다.",
+    "season": null,
+    "overwintering": "흙 속의 고치 속에서 노숙 유충으로 월동한다.",
+    "distribution": "[일본]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충의 몸길이는 10 mm 정도이며, 몸은 청남색이고 가슴은 등색이다."
+    },
+    {
+      "title": "유충",
+      "text": "유충의 몸길이는 20 mm 정도이고 황녹색이며, 각 마디에 검은 반점이 있다."
+    },
+    {
+      "title": "생태",
+      "text": "흙 속의 고치 속에서 노숙 유충으로 월동하여 4월 하순~5월 상순에 번데기가 되고 5월 중순경에 우화하여 산란한다. 부화 유충은 잎 뒷면에 군서하면서 엽맥을 남기고 식해하나, 노숙 유충은 잎 전체를 식해하며 6월에 피해가 심하다. 제2세대 성충은 7월에 우화하며 유충은 8~9월에 출현하여 가해하나 6월의 피해만큼 심하지는 않다."
+    },
+    {
+      "title": "습성",
+      "text": "유충은 한 잎에 수십 마리의 유충이 모여 잎 가부터 식해하며, 대발생하여 나무를 벌거숭이로 만드는 경우가 많다."
+    },
+    {
+      "title": "월동",
+      "text": "흙 속의 고치 속에서 노숙 유충으로 월동한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAH0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAH0001_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAH0001_2_th.jpg",
+      "alt": "홍가슴루리등에잎벌 1번째 사진 : 홍가슴루리등에잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAH0001_2_th2.jpg",
+      "caption": "홍가슴루리등에잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTAH0001-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAH0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAH0001_1_th.jpg",
+      "alt": "홍가슴루리등에잎벌 2번째 사진 : 홍가슴루리등에잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAH0001_1_th2.jpg",
+      "caption": "홍가슴루리등에잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAH0001-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306281205",
+      "description": "[YNUE0306281205] 홍가슴루리등에잎벌 1986.06.24 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306281192",
+      "description": "[YNUE0306281192] 홍가슴루리등에잎벌 1984.07.26 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306281193",
+      "description": "[YNUE0306281193] 홍가슴루리등에잎벌 1987.05.30 / / 영남대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "난티나무",
+      "scientific_name": "Ulmus laciniata (Herder) Mayr ex Schwapp."
+    },
+    {
+      "group": "식물",
+      "name_ko": "느릅나무",
+      "scientific_name": "Ulmus davidiana var. japonica (Rehder) Nakai"
+    },
+    {
+      "group": "식물",
+      "name_ko": "당느릅나무",
+      "scientific_name": "Ulmus davidiana Planch."
+    },
+    {
+      "group": "식물",
+      "name_ko": "비술나무",
+      "scientific_name": "Ulmus pumila L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "참느릅나무",
+      "scientific_name": "Ulmus parvifolia Jacq."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAH0001-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAH0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:26+00:00",
+    "html_sha256": "5f245299af3fc103ed260392af9ebd32cc39f00ca632e0b4078fb9179e52916e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

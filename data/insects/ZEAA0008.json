@@ -1,0 +1,110 @@
+{
+  "id": "ZEAA0008",
+  "name_ko": "밑들이메뚜기",
+  "scientific_name": "Anapodisma miramae Dovnar-Zapolsky, 1933",
+  "display_name": "밑들이메뚜기",
+  "family_ko": "메뚜기과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "메뚜기목",
+      "name_latin": "Orthoptera"
+    },
+    "family": {
+      "name_ko": "메뚜기과",
+      "name_latin": "Acrididae"
+    },
+    "subfamily": {
+      "name_ko": "각시메뚜기아과",
+      "name_latin": "Catantopinae"
+    },
+    "genus": {
+      "name_ko": "밑들이메뚜기속",
+      "name_latin": "Anapodisma"
+    }
+  },
+  "taxonomy_text": "목 : 메뚜기목 (Orthoptera)\n과 : 메뚜기과 (Acrididae)\n아과 : 각시메뚜기아과 (Catantopinae)\n속 : 밑들이메뚜기속 (Anapodisma)",
+  "basic_information": {
+    "곤충명": "밑들이메뚜기",
+    "학명": "Anapodisma miramae Dovnar-Zapolsky, 1933"
+  },
+  "information": {
+    "general_description": "몸길이 40mm이며 몸은 녹색이고 앞가슴 양쪽에 굵은 흑색줄무늬가 있고 중앙의 종융기는 수컷의 것은 흑색이다. 앞날개는 긴 타원형이고 그 말단은 어두운 색이며 뒷허벅마디는 남색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 40mm이며 몸은 녹색이고 앞가슴 양쪽에 굵은 흑색줄무늬가 있고 중앙의 종융기는 수컷의 것은 흑색이다. 앞날개는 긴 타원형이고 그 말단은 어두운 색이며 뒷허벅마디는 남색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZEAA0008-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0008_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0008_2_th.jpg",
+      "alt": "밑들이메뚜기 1번째 사진 : 밑들이메뚜기전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0008_2_th2.jpg",
+      "caption": "밑들이메뚜기전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZEAA0008-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0008_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0008_1_th.jpg",
+      "alt": "밑들이메뚜기 2번째 사진 : 밑들이메뚜기전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/E1/ZEAA0008_1_th2.jpg",
+      "caption": "밑들이메뚜기전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZEAA0008-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0408241131",
+      "description": "[UIBE0408241131] 밑들이메뚜기 2000.08.10 / / 인천대학교"
+    },
+    {
+      "id": "ADUE0202151115",
+      "description": "[ADUE0202151115] 밑들이메뚜기 1998.08.27 / / 안동대학교"
+    },
+    {
+      "id": "YNUE0112194014",
+      "description": "[YNUE0112194014] 밑들이메뚜기 1997.08.22 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZEAA0008-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZEAA0008&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:58+00:00",
+    "html_sha256": "5f999dbb2235dd342d930c11cca2f71603a12b32b117a2cee884d9a2661670fb",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

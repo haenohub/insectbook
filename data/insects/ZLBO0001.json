@@ -1,0 +1,103 @@
+{
+  "id": "ZLBO0001",
+  "name_ko": "노랑긴쐐기노린재",
+  "scientific_name": "Gorpis (Gorpis) japonicus Kerzhner, 1968",
+  "display_name": "노랑긴쐐기노린재",
+  "family_ko": "쐐기노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "빈대상과",
+      "name_latin": "Cimicoidea"
+    },
+    "family": {
+      "name_ko": "쐐기노린재과",
+      "name_latin": "Nabidae"
+    },
+    "subfamily": {
+      "name_ko": "쐐기노린재아과",
+      "name_latin": "Nabinae"
+    },
+    "genus": {
+      "name_ko": "긴쐐기노린재속",
+      "name_latin": "Gorpis"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 빈대상과 (Cimicoidea)\n과 : 쐐기노린재과 (Nabidae)\n아과 : 쐐기노린재아과 (Nabinae)\n속 : 긴쐐기노린재속 (Gorpis)",
+  "basic_information": {
+    "곤충명": "노랑긴쐐기노린재",
+    "학명": "Gorpis (Gorpis) japonicus Kerzhner, 1968"
+  },
+  "information": {
+    "general_description": "몸길이 : 11.5~13mm\n몸은 약간 부드럽고 연한 편이며, 연한 황록색에 홍색의 무늬가 있다. 머리는 가늘고 길며 광택이 있고, 주둥이도 가늘고 길며 겹눈은 구상이다. 더듬이는 4마디, 대단히 길고 연한 갈색이며 제 1마디와 제 2마디의 기부는 홍색이 뚜렷하다. 홑눈은 겹눈보다 약간 뒤쪽에 위치한다. 앞가슴등은 전반이 가늘고 그 앞가장자리부분은 깃모양이고 중앙에 뚜렷한 가로홈이 있다. 반시초는 길고, 배끝을 넘고, 연한 황록색이며, 조상부와 혁질부 및 혁질부와 막질부와의 경계선, 혁질부의 중앙의 무늬와 그 말단부는 홍색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "활엽수의 잎뒤에 있으나 드문 종이다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 11.5~13mm\n몸은 약간 부드럽고 연한 편이며, 연한 황록색에 홍색의 무늬가 있다. 머리는 가늘고 길며 광택이 있고, 주둥이도 가늘고 길며 겹눈은 구상이다. 더듬이는 4마디, 대단히 길고 연한 갈색이며 제 1마디와 제 2마디의 기부는 홍색이 뚜렷하다. 홑눈은 겹눈보다 약간 뒤쪽에 위치한다. 앞가슴등은 전반이 가늘고 그 앞가장자리부분은 깃모양이고 중앙에 뚜렷한 가로홈이 있다. 반시초는 길고, 배끝을 넘고, 연한 황록색이며, 조상부와 혁질부 및 혁질부와 막질부와의 경계선, 혁질부의 중앙의 무늬와 그 말단부는 홍색이다."
+    },
+    {
+      "title": "생태",
+      "text": "활엽수의 잎뒤에 있으나 드문 종이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLBO0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBO0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBO0001_1_th.jpg",
+      "alt": "노랑긴쐐기노린재 1번째 사진 : 노랑긴쐐기노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBO0001_1_th2.jpg",
+      "caption": "노랑긴쐐기노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLBO0001-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0201122110",
+      "description": "[YNUE0201122110] 노랑긴쐐기노린재 1987.04.01 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZLBO0001.png",
+    "reference_image_id": "ZLBO0001-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T11:35:58.689448+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "e685939ca867707a7f4301b1235d17499a836cdb399cb301b20ca168e20cf836"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLBO0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:01+00:00",
+    "html_sha256": "7c39a1d9afe51c4f99a27d20dde07623027823ef0cdd71c851bb9c2c5d6ffd28",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

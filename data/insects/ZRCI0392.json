@@ -1,0 +1,118 @@
+{
+  "id": "ZRCI0392",
+  "name_ko": "소뿔가지나방",
+  "scientific_name": "Ennomos autumnaria (Werneburg, 1859)",
+  "display_name": "소뿔가지나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "가지나방아과",
+      "name_latin": "Ennominae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Ennomos"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 가지나방아과 (Ennominae)\n속 : (Ennomos)",
+  "basic_information": {
+    "곤충명": "소뿔가지나방",
+    "학명": "Ennomos autumnaria (Werneburg, 1859)"
+  },
+  "information": {
+    "general_description": "더듬이는 수컷이 빗살모양. 암컷은 아주 짧은 빗살모양. 몸과 날개는 등갈색. 몸의 배쪽면은 더짙은색 이고, 발목마디는 회백색. 앞,뒷날개는 외연에 가까울수록 농색, 전면에는 암색점이 흩어저 있음. 앞날개의 내횡선과 외횡선은 암색이며, 거의 굴곡하지 않음. 앞날개는 때때로 암색의 횡맥무늬. 연모는 백색 뒷면은 뒷날개가 약간 보라색이며, 암색점이 산재.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 8월에 출현함.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 수컷이 빗살모양. 암컷은 아주 짧은 빗살모양. 몸과 날개는 등갈색. 몸의 배쪽면은 더짙은색 이고, 발목마디는 회백색. 앞,뒷날개는 외연에 가까울수록 농색, 전면에는 암색점이 흩어저 있음. 앞날개의 내횡선과 외횡선은 암색이며, 거의 굴곡하지 않음. 앞날개는 때때로 암색의 횡맥무늬. 연모는 백색 뒷면은 뒷날개가 약간 보라색이며, 암색점이 산재."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 8월에 출현함."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0392-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0392_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0392_2_th.jpg",
+      "alt": "소뿔가지나방 1번째 사진 : 소뿔가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0392_2_th2.jpg",
+      "caption": "소뿔가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0392-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0392_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0392_1_th.jpg",
+      "alt": "소뿔가지나방 2번째 사진 : 소뿔가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0392_1_th2.jpg",
+      "caption": "소뿔가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0392-1",
+  "specimen_examples": [
+    {
+      "id": "KNUE0212281397",
+      "description": "[KNUE0212281397] 소뿔가지나방 1996.09.08 / / 강원대학교"
+    },
+    {
+      "id": "GSNE0302121044",
+      "description": "[GSNE0302121044] 소뿔가지나방 1997.07.19 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0302121045",
+      "description": "[GSNE0302121045] 소뿔가지나방 2000.08.21 / / 경상대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCI0392-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0392&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:15+00:00",
+    "html_sha256": "272d9ef779bd5a175d0d2c85f709989ac801241275f2fb625da04a044762a92a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

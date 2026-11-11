@@ -1,0 +1,122 @@
+{
+  "id": "ZOBT0034",
+  "name_ko": "붉은가슴잎벌레",
+  "scientific_name": "Lema (Petauristes) honorata Baly, 1873",
+  "display_name": "붉은가슴잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "긴가슴잎벌레아과",
+      "name_latin": "Criocerinae"
+    },
+    "genus": {
+      "name_ko": "닮은벼잎벌레속",
+      "name_latin": "Lema"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 긴가슴잎벌레아과 (Criocerinae)\n속 : 닮은벼잎벌레속 (Lema)",
+  "basic_information": {
+    "곤충명": "붉은가슴잎벌레",
+    "학명": "Lema (Petauristes) honorata Baly, 1873"
+  },
+  "information": {
+    "general_description": "몸길이가 5.0~6.2mm, 머리, 앞가슴은 붉은색 앞가슴등판은 청남색이며 광택이 난다. 점각으로 세로 줄무늬가 있다. 더듬이는 흑색이다. 한국(중부,남부), 일본(혼슈,시코쿠), 중국(북부,중부,남부,대만), 타이완,배트남에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 4월에 월동하며 6~7월에 나타난다. 유충은 5~6월에 식물을 잎을먹는다. 유충의 등은 점액질로 되어있다. 성충은 10까지 보인다.",
+    "habits": "기주식물 참마",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]\n[베트남]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이가 5.0~6.2mm, 머리, 앞가슴은 붉은색 앞가슴등판은 청남색이며 광택이 난다. 점각으로 세로 줄무늬가 있다. 더듬이는 흑색이다. 한국(중부,남부), 일본(혼슈,시코쿠), 중국(북부,중부,남부,대만), 타이완,배트남에 분포되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 4월에 월동하며 6~7월에 나타난다. 유충은 5~6월에 식물을 잎을먹는다. 유충의 등은 점액질로 되어있다. 성충은 10까지 보인다."
+    },
+    {
+      "title": "습성",
+      "text": "기주식물 참마"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]\n[베트남]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0034-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0034_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0034_2_th.jpg",
+      "alt": "붉은가슴잎벌레 1번째 사진 : 붉은가슴잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0034_2_th2.jpg",
+      "caption": "붉은가슴잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBT0034-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0034_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0034_1_th.jpg",
+      "alt": "붉은가슴잎벌레 2번째 사진 : 붉은가슴잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0034_1_th2.jpg",
+      "caption": "붉은가슴잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0034-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0307161106",
+      "description": "[KUIE0307161106] 붉은가슴잎벌레 1981.06.06 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307161107",
+      "description": "[KUIE0307161107] 붉은가슴잎벌레 1991.06.27 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307161108",
+      "description": "[KUIE0307161108] 붉은가슴잎벌레 1978.05.28 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0034-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0034&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:43+00:00",
+    "html_sha256": "852fda1e83d321c777b5866e20781d86e0ffc1153227413d840996ad20dc773d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

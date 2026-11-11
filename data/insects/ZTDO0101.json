@@ -1,0 +1,103 @@
+{
+  "id": "ZTDO0101",
+  "name_ko": "코리아잎벌",
+  "scientific_name": "Tenthredo (Tenthredo) arcuata Forster, 1771",
+  "display_name": "코리아잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "잎벌아과",
+      "name_latin": "Tenthredininae"
+    },
+    "genus": {
+      "name_ko": "잎벌속",
+      "name_latin": "Tenthredo"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 잎벌아과 (Tenthredininae)\n속 : 잎벌속 (Tenthredo)",
+  "basic_information": {
+    "곤충명": "코리아잎벌",
+    "학명": "Tenthredo (Tenthredo) arcuata Forster, 1771"
+  },
+  "information": {
+    "general_description": "몸길이는 13mm,더듬이 길이는 5mm,앞날개 길이는 12mm이다. 몸은 흑색이다. 머리방패, 윗입술, 큰턱 기부, 앞가슴 등판의 끝, 제 1배마디 뒷가두리 , 제 3배마디 일부, 제 9배마디 등판은 밝은 황색이다. 다리의 안쪽은 밝은 호아색 또는 갈색이고, 바깥쪽은 흑갈색 또는 흑색이다. 날개는 투명하나 앞가두리쪽은 갈색으로 흐려져 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 13mm,더듬이 길이는 5mm,앞날개 길이는 12mm이다. 몸은 흑색이다. 머리방패, 윗입술, 큰턱 기부, 앞가슴 등판의 끝, 제 1배마디 뒷가두리 , 제 3배마디 일부, 제 9배마디 등판은 밝은 황색이다. 다리의 안쪽은 밝은 호아색 또는 갈색이고, 바깥쪽은 흑갈색 또는 흑색이다. 날개는 투명하나 앞가두리쪽은 갈색으로 흐려져 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0101-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0101_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0101_1_th.jpg",
+      "alt": "코리아잎벌 1번째 사진 : 코리아잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0101_1_th2.jpg",
+      "caption": "코리아잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0101-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0301046165",
+      "description": "[YNUE0301046165] 코리아잎벌 1981.08.18 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0111261001",
+      "description": "[YNUE0111261001] 코리아잎벌 1997.05.18 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0111273043",
+      "description": "[YNUE0111273043] 코리아잎벌 2001.05.19 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDO0101-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0101&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:28+00:00",
+    "html_sha256": "1702b697e47523aa2ead131389e493fb6341d4e5db3519073de54618254a2f0e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

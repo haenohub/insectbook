@@ -1,0 +1,107 @@
+{
+  "id": "ZTBU0074",
+  "name_ko": "검둥긴꼬리뾰족맵시벌",
+  "scientific_name": "Acroricnus nigriscutellatus Uchida, 1930",
+  "display_name": "검둥긴꼬리뾰족맵시벌",
+  "family_ko": "맵시벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "맵시벌과",
+      "name_latin": "Ichneumonidae"
+    },
+    "subfamily": {
+      "name_ko": "뾰족맵시벌아과",
+      "name_latin": "Cryptinae"
+    },
+    "genus": {
+      "name_ko": "긴꼬리뾰족맵시벌속",
+      "name_latin": "Acroricnus"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 맵시벌과 (Ichneumonidae)\n아과 : 뾰족맵시벌아과 (Cryptinae)\n속 : 긴꼬리뾰족맵시벌속 (Acroricnus)",
+  "basic_information": {
+    "곤충명": "검둥긴꼬리뾰족맵시벌",
+    "학명": "Acroricnus nigriscutellatus Uchida, 1930"
+  },
+  "information": {
+    "general_description": "작은방패판이 흑색이고 ♀의 앞·가운데다리의 넓적다리마디 윗부분이 흑색이고 뒷가슴에 황색 무늬가 없는 점 등으로 긴꼬리뾰족맵시벌(Acroricnus ambulator ambulator SMITH)과 구별된다. 성충은 8∼10월에 채집되었다. 7∼20mm",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "작은방패판이 흑색이고 ♀의 앞·가운데다리의 넓적다리마디 윗부분이 흑색이고 뒷가슴에 황색 무늬가 없는 점 등으로 긴꼬리뾰족맵시벌(Acroricnus ambulator ambulator SMITH)과 구별된다. 성충은 8∼10월에 채집되었다. 7∼20mm"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBU0074-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0074_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0074_1_th.jpg",
+      "alt": "검둥긴꼬리뾰족맵시벌 1번째 사진 : 검둥긴꼬리뾰족맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0074_1_th2.jpg",
+      "caption": "검둥긴꼬리뾰족맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBU0074-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0408051056",
+      "description": "[UIBE0408051056] 검둥긴꼬리뾰족맵시벌 1999.10.08 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0408051057",
+      "description": "[UIBE0408051057] 검둥긴꼬리뾰족맵시벌 1998.06.06 / / 인천대학교"
+    },
+    {
+      "id": "MPME0408261461",
+      "description": "[MPME0408261461] 검둥긴꼬리뾰족맵시벌 1998.05.19 / / 목포자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTBU0074.png",
+    "reference_image_id": "ZTBU0074-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T17:36:35.687248+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "18b6a544db367feb341d149c862885a1d3bd58e466ac4eca6a35d4c9f1a6b9a6"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBU0074&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:50+00:00",
+    "html_sha256": "617cdd96077cc3296e9ed2842334c69681bd83f3b5d817ab73fbad11381fdbff",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

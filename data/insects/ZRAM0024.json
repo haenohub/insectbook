@@ -1,0 +1,114 @@
+{
+  "id": "ZRAM0024",
+  "name_ko": "노랑불나방",
+  "scientific_name": "Miltochrista pallida (Bremer, 1864)",
+  "display_name": "노랑불나방",
+  "family_ko": "태극나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "태극나방과",
+      "name_latin": "Erebidae"
+    },
+    "subfamily": {
+      "name_ko": "불나방아과",
+      "name_latin": "Arctiinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Miltochrista"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 태극나방과 (Erebidae)\n아과 : 불나방아과 (Arctiinae)\n속 : (Miltochrista)",
+  "basic_information": {
+    "곤충명": "노랑불나방",
+    "학명": "Miltochrista pallida (Bremer, 1864)"
+  },
+  "information": {
+    "general_description": "날개편길이 23mm 내외. 앞날개의 전연과 외연은 연노란색을 띠며 기부와 중실 끝에 1개, 아외연선을 따라 시맥에 8개의 검은색 작은 무늬가 있음.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편길이 23mm 내외. 앞날개의 전연과 외연은 연노란색을 띠며 기부와 중실 끝에 1개, 아외연선을 따라 시맥에 8개의 검은색 작은 무늬가 있음."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRAM0024-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0024_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0024_2_th.jpg",
+      "alt": "노랑불나방 1번째 사진 : 노랑불나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0024_2_th2.jpg",
+      "caption": "노랑불나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRAM0024-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0024_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0024_1_th.jpg",
+      "alt": "노랑불나방 2번째 사진 : 노랑불나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAM0024_1_th2.jpg",
+      "caption": "노랑불나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRAM0024-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304191026",
+      "description": "[KNAE0304191026] 노랑불나방 1998.08.27 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0302251001",
+      "description": "[KNAE0302251001] 노랑불나방 2000.06.07 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0302251002",
+      "description": "[KNAE0302251002] 노랑불나방 2000.06.07 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRAM0024-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRAM0024&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:19+00:00",
+    "html_sha256": "a4359becfc773270d0d8441fc5db4e2412d72e62c8fd27a215a23820f4a71c5c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

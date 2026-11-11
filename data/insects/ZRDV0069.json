@@ -1,0 +1,143 @@
+{
+  "id": "ZRDV0069",
+  "name_ko": "산네발나비",
+  "scientific_name": "Polygonia c-album (Linnaeus, 1758)",
+  "display_name": "산네발나비",
+  "family_ko": "네발나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "네발나비과",
+      "name_latin": "Nymphalidae"
+    },
+    "subfamily": {
+      "name_ko": "네발나비아과",
+      "name_latin": "Nymphalinae"
+    },
+    "genus": {
+      "name_ko": "네발나비속",
+      "name_latin": "Polygonia"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 네발나비과 (Nymphalidae)\n아과 : 네발나비아과 (Nymphalinae)\n속 : 네발나비속 (Polygonia)",
+  "basic_information": {
+    "곤충명": "산네발나비",
+    "학명": "Polygonia c-album (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "가을형은 날개 외연의 요철이 여름형보다 심하고 윗면 바탕에 암수 모두 여름형 수컷보다 짙은 적등색이다. 외연에 따르는 띠는 여름형은 검정색이나 가을형은 적갈색으로 변한다. 네발나비와 비슷하나 날개 외연의 요철이 심하고 돌출부의 끝이 둥근점으로 구별된다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "산지성의 나비로 즈로 잡목림이 많은 계곡의 습지와 임도의 가장자리에 서식하는데 네발나비와 형태가 비슷한다. 수컷은 물가에서 흡수하는 일이 많으며, 오후 해질 무렵까지 낮은 위치의 나무 위를 빠르게 날면서 점유행동을 한다. 큰까치수영, 구절초, 쥐손이풀 등의 꽃에 모여 흡밀한다.",
+    "season": null,
+    "overwintering": "성충",
+    "distribution": "[러시아]\n[대만]\n[일본]\n[중국]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "가을형은 날개 외연의 요철이 여름형보다 심하고 윗면 바탕에 암수 모두 여름형 수컷보다 짙은 적등색이다. 외연에 따르는 띠는 여름형은 검정색이나 가을형은 적갈색으로 변한다. 네발나비와 비슷하나 날개 외연의 요철이 심하고 돌출부의 끝이 둥근점으로 구별된다."
+    },
+    {
+      "title": "습성",
+      "text": "산지성의 나비로 즈로 잡목림이 많은 계곡의 습지와 임도의 가장자리에 서식하는데 네발나비와 형태가 비슷한다. 수컷은 물가에서 흡수하는 일이 많으며, 오후 해질 무렵까지 낮은 위치의 나무 위를 빠르게 날면서 점유행동을 한다. 큰까치수영, 구절초, 쥐손이풀 등의 꽃에 모여 흡밀한다."
+    },
+    {
+      "title": "월동",
+      "text": "성충"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[대만]\n[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDV0069-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0069_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0069_3.jpg",
+      "alt": "산네발나비 1번째 사진 : 산네발나비 수컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0069_3_th2.jpg",
+      "caption": "산네발나비 수컷 이미지",
+      "photographed_at": "20120709",
+      "location": null,
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRDV0069-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0069_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0069_2_th.jpg",
+      "alt": "산네발나비 2번째 사진 : 산네발나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0069_2_th2.jpg",
+      "caption": "산네발나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDV0069-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0069_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0069_1_th.jpg",
+      "alt": "산네발나비 3번째 사진 : 산네발나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0069_1_th2.jpg",
+      "caption": "산네발나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDV0069-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0306031010",
+      "description": "[FRIE0306031010] 산네발나비 1984.06.29 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0306031012",
+      "description": "[FRIE0306031012] 산네발나비 1987.07.04 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0306031013",
+      "description": "[FRIE0306031013] 산네발나비 1983.05.07 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "느릅나무",
+      "scientific_name": "Ulmus davidiana var. japonica (Rehder) Nakai"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDV0069-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDV0069&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:32+00:00",
+    "html_sha256": "5894309f1a755505bb964868b8470c8b70dc4900ae4fe9a2a016e99f0295024b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

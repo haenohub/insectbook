@@ -1,0 +1,111 @@
+{
+  "id": "ZLBN0028",
+  "name_ko": "네무늬장님노린재",
+  "scientific_name": "Adelphocoris albonotatus (Jakovlev, 1881)",
+  "display_name": "네무늬장님노린재",
+  "family_ko": "장님노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "장님노린재상과",
+      "name_latin": "Miroidea"
+    },
+    "family": {
+      "name_ko": "장님노린재과",
+      "name_latin": "Miridae"
+    },
+    "subfamily": {
+      "name_ko": "장님노린재아과",
+      "name_latin": "Mirinae"
+    },
+    "genus": {
+      "name_ko": "변색장님노린재속",
+      "name_latin": "Adelphocoris"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 장님노린재상과 (Miroidea)\n과 : 장님노린재과 (Miridae)\n아과 : 장님노린재아과 (Mirinae)\n속 : 변색장님노린재속 (Adelphocoris)",
+  "basic_information": {
+    "곤충명": "네무늬장님노린재",
+    "학명": "Adelphocoris albonotatus (Jakovlev, 1881)"
+  },
+  "information": {
+    "general_description": "몸길이 : 8mm정도\n몸은 균일하게 흑색이고, 뚜렷한 백색 무늬가 4개 있다. 머리는 흑색이고 겹눈도 흑색이며, 더듬이는 길고, 제 1마디 이하는 흑색이나, 제 2마디의 기부는 백색이다. 앞가슴등은 흑색이며, 앞가장자리는 좁은 깃 모양이고, 이 부분은 가끔 백색에 가까운 개체도 있다. 작은방패판은 흑색, 반시초도 흑색이며, 혁질부의 중앙과 설상부의 기반에 뚜렷한 설형의 백색 무늬가 있다. 막질부는 약간 투명하다. 몸의 아랫면은 균일하게 흑색이며, 뒷가슴의 냄새샘 개구의 주위는 뚜렷한 백색을 나타낸다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 8mm정도\n몸은 균일하게 흑색이고, 뚜렷한 백색 무늬가 4개 있다. 머리는 흑색이고 겹눈도 흑색이며, 더듬이는 길고, 제 1마디 이하는 흑색이나, 제 2마디의 기부는 백색이다. 앞가슴등은 흑색이며, 앞가장자리는 좁은 깃 모양이고, 이 부분은 가끔 백색에 가까운 개체도 있다. 작은방패판은 흑색, 반시초도 흑색이며, 혁질부의 중앙과 설상부의 기반에 뚜렷한 설형의 백색 무늬가 있다. 막질부는 약간 투명하다. 몸의 아랫면은 균일하게 흑색이며, 뒷가슴의 냄새샘 개구의 주위는 뚜렷한 백색을 나타낸다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLBN0028-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBN0028_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBN0028_1_th.jpg",
+      "alt": "네무늬장님노린재 1번째 사진 : 네무늬장님노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBN0028_1_th2.jpg",
+      "caption": "네무늬장님노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLBN0028-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0201122104",
+      "description": "[YNUE0201122104] 네무늬장님노린재 1999.06.02 / / 영남대학교"
+    },
+    {
+      "id": "UIBE0408021088",
+      "description": "[UIBE0408021088] 네무늬장님노린재 2000.09.22 / / 인천대학교"
+    },
+    {
+      "id": "KNAE0706110057",
+      "description": "[KNAE0706110057] 네무늬장님노린재 1997.05.15 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZLBN0028.png",
+    "reference_image_id": "ZLBN0028-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T10:46:23.146366+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "9c90a6415f575e41702a0f25a8ede21b5ee10ff253fa3137c4e7551d8ad489ee"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLBN0028&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:48+00:00",
+    "html_sha256": "cb7711e31afeb7e3e899cc04c1a1f3c6d8d0f3e83935b9614bce28f84a1c1aa7",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

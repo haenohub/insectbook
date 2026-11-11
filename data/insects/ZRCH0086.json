@@ -1,0 +1,114 @@
+{
+  "id": "ZRCH0086",
+  "name_ko": "가랑잎뿔나방",
+  "scientific_name": "Autosticha modicella (Christoph, 1882)",
+  "display_name": "가랑잎뿔나방",
+  "family_ko": "점원뿔나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "뿔나방상과",
+      "name_latin": "Gelechioidea"
+    },
+    "family": {
+      "name_ko": "점원뿔나방과",
+      "name_latin": "Autostichidae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Autosticha"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 뿔나방상과 (Gelechioidea)\n과 : 점원뿔나방과 (Autostichidae)\n속 : (Autosticha)",
+  "basic_information": {
+    "곤충명": "가랑잎뿔나방",
+    "학명": "Autosticha modicella (Christoph, 1882)"
+  },
+  "information": {
+    "general_description": "앞날개에는 3개의 흑색점이 명료하며, 외연 위의 점으로 이루어진 줄도 잘 발달됨. 앞날개의 바탕색은 황갈색이며, 연모는 바탕색과 같은 색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "앞날개에는 3개의 흑색점이 명료하며, 외연 위의 점으로 이루어진 줄도 잘 발달됨. 앞날개의 바탕색은 황갈색이며, 연모는 바탕색과 같은 색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCH0086-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCH0086_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCH0086_2_th.jpg",
+      "alt": "가랑잎뿔나방 1번째 사진 : 가랑잎뿔나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCH0086_2_th2.jpg",
+      "caption": "가랑잎뿔나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCH0086-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCH0086_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCH0086_1_th.jpg",
+      "alt": "가랑잎뿔나방 2번째 사진 : 가랑잎뿔나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCH0086_1_th2.jpg",
+      "caption": "가랑잎뿔나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCH0086-1",
+  "specimen_examples": [
+    {
+      "id": "CBNE0203061059",
+      "description": "[CBNE0203061059] 가랑잎뿔나방 2000.06.07 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0203061061",
+      "description": "[CBNE0203061061] 가랑잎뿔나방 2001.07.31 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0203061062",
+      "description": "[CBNE0203061062] 가랑잎뿔나방 2000.08.29 / / 충북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRCH0086.png",
+    "reference_image_id": "ZRCH0086-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T16:00:56.730803+00:00",
+    "sha256": "fc475039ca2001c15ea44bda775b9d996cdbb11d161bf1e725504f46c548d5c4",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCH0086&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:03+00:00",
+    "html_sha256": "2cd7758e4c22bda5da1d0c3fa9cdbbda1aefd5b381ff1dafd61f3aa0ab2a4937",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

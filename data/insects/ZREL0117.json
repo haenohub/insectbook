@@ -1,0 +1,107 @@
+{
+  "id": "ZREL0117",
+  "name_ko": "몸긴네줄들명나방",
+  "scientific_name": "Pagyda quadrilineata Butler, 1881",
+  "display_name": "몸긴네줄들명나방",
+  "family_ko": "풀명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "풀명나방과",
+      "name_latin": "Crambidae"
+    },
+    "subfamily": {
+      "name_ko": "들명나방아과",
+      "name_latin": "Pyraustinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Pagyda"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 풀명나방과 (Crambidae)\n아과 : 들명나방아과 (Pyraustinae)\n속 : (Pagyda)",
+  "basic_information": {
+    "곤충명": "몸긴네줄들명나방",
+    "학명": "Pagyda quadrilineata Butler, 1881"
+  },
+  "information": {
+    "general_description": "날개 길이 20 mm 내외. 앞날개의 외횡선 전반과 횡맥에서 후연에 이르는 선과는 평행을 이루지 않으며, 외횡선과 아외연선은 서로 만나지 않는다. 그러나, 정확한 동정은 생식기의 검경에 의하여 결정하는 것이 확실하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대한민국] 서울특별시\n[대한민국] 경기도\n[일본]\n[중국]\n[대만]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개 길이 20 mm 내외. 앞날개의 외횡선 전반과 횡맥에서 후연에 이르는 선과는 평행을 이루지 않으며, 외횡선과 아외연선은 서로 만나지 않는다. 그러나, 정확한 동정은 생식기의 검경에 의하여 결정하는 것이 확실하다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대한민국] 서울특별시\n[대한민국] 경기도\n[일본]\n[중국]\n[대만]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0117-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0117_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0117_1_th.jpg",
+      "alt": "몸긴네줄들명나방 1번째 사진 : 몸긴네줄들명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0117_1_th2.jpg",
+      "caption": "몸긴네줄들명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0117-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0302281041",
+      "description": "[KNAE0302281041] 몸긴네줄들명나방 2000.06.14 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0302281042",
+      "description": "[KNAE0302281042] 몸긴네줄들명나방 2000.06.20 / / 국립수목원"
+    },
+    {
+      "id": "UIBE0301021033",
+      "description": "[UIBE0301021033] 몸긴네줄들명나방 1998.07.16 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREL0117-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0117&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:23+00:00",
+    "html_sha256": "624c76d408622fc0af83cc9b74f898c0fdd58cede5d7d3e43ef34d9bc7608f1b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "id": "ZOFN0003",
+  "name_ko": "광릉긴나무좀",
+  "scientific_name": "Platypus koryoensis (Murayama, 1930)",
+  "display_name": "광릉긴나무좀",
+  "family_ko": "바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "바구미과",
+      "name_latin": "Curculionidae"
+    },
+    "subfamily": {
+      "name_ko": "긴나무좀아과",
+      "name_latin": "Platypodinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Platypus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 바구미과 (Curculionidae)\n아과 : 긴나무좀아과 (Platypodinae)\n속 : (Platypus)",
+  "basic_information": {
+    "곤충명": "광릉긴나무좀",
+    "학명": "Platypus koryoensis (Murayama, 1930)"
+  },
+  "information": {
+    "general_description": "성충의 몸길이는 4~5 mm이고 원통형이며 몸은 적갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 5~6월에 모갱(母坑)을 통하여 외부로 탈출하여 새로운 기주식물의 심재부를 식해한 후 산란한다. 유충은 분지공(分枝孔)을 형성 암브로시아균을 먹으며 성장한다.",
+    "habits": "쇠약한 나무나 벌도목(伐倒木)의 목질부를 가해한다. 심재(心材) 속으로 파먹어 들어가기 때문에 목재의 질을 저하시킨다.",
+    "season": null,
+    "overwintering": "가해부에서 성충으로 월동한다.",
+    "distribution": "[대만]\n[러시아] 동시베리아지역",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충의 몸길이는 4~5 mm이고 원통형이며 몸은 적갈색이다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 5~6월에 모갱(母坑)을 통하여 외부로 탈출하여 새로운 기주식물의 심재부를 식해한 후 산란한다. 유충은 분지공(分枝孔)을 형성 암브로시아균을 먹으며 성장한다."
+    },
+    {
+      "title": "습성",
+      "text": "쇠약한 나무나 벌도목(伐倒木)의 목질부를 가해한다. 심재(心材) 속으로 파먹어 들어가기 때문에 목재의 질을 저하시킨다."
+    },
+    {
+      "title": "월동",
+      "text": "가해부에서 성충으로 월동한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대만]\n[러시아] 동시베리아지역"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOFN0003-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOFN0003_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOFN0003_1_th.jpg",
+      "alt": "광릉긴나무좀 1번째 사진 : 광릉긴나무좀전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOFN0003_1_th2.jpg",
+      "caption": "광릉긴나무좀전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOFN0003-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0204221077",
+      "description": "[SNUE0204221077] 광릉긴나무좀 1981.11.11 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0204221078",
+      "description": "[SNUE0204221078] 광릉긴나무좀 1981.11.11 / / 서울대학교"
+    },
+    {
+      "id": "KNAE0611020071",
+      "description": "[KNAE0611020071] 광릉긴나무좀 2006.05.25 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "갈참나무",
+      "scientific_name": "Quercus aliena Blume"
+    },
+    {
+      "group": "식물",
+      "name_ko": "상수리나무",
+      "scientific_name": "Quercus acutissima Carruth."
+    },
+    {
+      "group": "식물",
+      "name_ko": "서어나무",
+      "scientific_name": "Carpinus laxiflora (Siebold & Zucc.) Blume"
+    },
+    {
+      "group": "식물",
+      "name_ko": "졸참나무",
+      "scientific_name": "Quercus serrata Murray"
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOFN0003.png",
+    "reference_image_id": "ZOFN0003-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T13:20:44.933299+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "d6be58afbbd6cff314e6e9caa4b474fe5097ef1fa04d5ec3f588862e7866a997"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOFN0003&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:12+00:00",
+    "html_sha256": "3e273f36358f38c68d79885e991033ce89fdad0b637e01a38cae725e180b93cf",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

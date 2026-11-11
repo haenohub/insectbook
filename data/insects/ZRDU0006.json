@@ -1,0 +1,164 @@
+{
+  "id": "ZRDU0006",
+  "name_ko": "버들재주나방",
+  "scientific_name": "Clostera anastomosis (Linnaeus, 1758)",
+  "display_name": "버들재주나방",
+  "family_ko": "재주나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "재주나방과",
+      "name_latin": "Notodontidae"
+    },
+    "subfamily": {
+      "name_ko": "애기재주나방아과",
+      "name_latin": "Pygaerinae"
+    },
+    "genus": {
+      "name_ko": "버들재주나방속",
+      "name_latin": "Clostera"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 재주나방과 (Notodontidae)\n아과 : 애기재주나방아과 (Pygaerinae)\n속 : 버들재주나방속 (Clostera)",
+  "basic_information": {
+    "곤충명": "버들재주나방",
+    "학명": "Clostera anastomosis (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "성충은 몸길이 15~20 mm, 날개 편 길이 30~40 mm이다. 체색은 회갈색으로 머리와 가슴의 중앙에 짙은 적갈색 대(帶)가 있다. 앞날개에는 3줄의 회백색 사선이 있고 중앙부에는 암갈색 반문이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": "유충의 몸길이는 35 mm 정도이고 체색은 암갈색으로 제2~3절의 등면에는 2개씩의 적색 돌기가 있다. 제4절과 11절에 있는 4개의 돌기는 흑색이고 제12절에는 6개의 적색 반문과 1개의 흰 점이 있다.",
+    "egg": null,
+    "pupa": "번데기는 암갈색이며 황백색의 엉성한 고치 속에 들어 있다.",
+    "ecology": "연 3~4회 불규칙하게 발생한다. 발생이 불규칙하여 각 충태(蟲態)를 동일 장소에서 같은 시기에 볼 수 있다. 1화기 성충은 5월 하순~6월 상순에 나타나 잎 뒷면에 무더기로 산란한다. 한 마리가 평균 400개 알을 잎에 산란한다.",
+    "habits": "부화 유충은 처음에는 군서하면서 망상(網狀)으로 엽육만 가해하지만 자라면 나무 전체에 흩어진다. 발생 수가 많을 때에는 앞자루만을 남기고 잎을 모조리 식해한다. 유충 한 마리는 약 60~95 ㎠ 의 잎을 식해하며 8월 이후 피해가 심하고 특히 포플러에 피해가 심하다.",
+    "season": null,
+    "overwintering": "어린 유충으로 수간(樹幹)의 기부(基部)에서 조그마한 고치를 만들고 그 속에서 월동한다.",
+    "distribution": "[중국]\n[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충은 몸길이 15~20 mm, 날개 편 길이 30~40 mm이다. 체색은 회갈색으로 머리와 가슴의 중앙에 짙은 적갈색 대(帶)가 있다. 앞날개에는 3줄의 회백색 사선이 있고 중앙부에는 암갈색 반문이 있다."
+    },
+    {
+      "title": "번데기",
+      "text": "번데기는 암갈색이며 황백색의 엉성한 고치 속에 들어 있다."
+    },
+    {
+      "title": "유충",
+      "text": "유충의 몸길이는 35 mm 정도이고 체색은 암갈색으로 제2~3절의 등면에는 2개씩의 적색 돌기가 있다. 제4절과 11절에 있는 4개의 돌기는 흑색이고 제12절에는 6개의 적색 반문과 1개의 흰 점이 있다."
+    },
+    {
+      "title": "생태",
+      "text": "연 3~4회 불규칙하게 발생한다. 발생이 불규칙하여 각 충태(蟲態)를 동일 장소에서 같은 시기에 볼 수 있다. 1화기 성충은 5월 하순~6월 상순에 나타나 잎 뒷면에 무더기로 산란한다. 한 마리가 평균 400개 알을 잎에 산란한다."
+    },
+    {
+      "title": "습성",
+      "text": "부화 유충은 처음에는 군서하면서 망상(網狀)으로 엽육만 가해하지만 자라면 나무 전체에 흩어진다. 발생 수가 많을 때에는 앞자루만을 남기고 잎을 모조리 식해한다. 유충 한 마리는 약 60~95 ㎠ 의 잎을 식해하며 8월 이후 피해가 심하고 특히 포플러에 피해가 심하다."
+    },
+    {
+      "title": "월동",
+      "text": "어린 유충으로 수간(樹幹)의 기부(基部)에서 조그마한 고치를 만들고 그 속에서 월동한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDU0006-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0006_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0006_2_th.jpg",
+      "alt": "버들재주나방 1번째 사진 : 버들재주나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0006_2_th2.jpg",
+      "caption": "버들재주나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDU0006-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0006_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0006_1_th.jpg",
+      "alt": "버들재주나방 2번째 사진 : 버들재주나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0006_1_th2.jpg",
+      "caption": "버들재주나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDU0006-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0301102054",
+      "description": "[KNAE0301102054] 버들재주나방 1991.08.24 / / 국립수목원"
+    },
+    {
+      "id": "FRIE0204121048",
+      "description": "[FRIE0204121048] 버들재주나방 1988.08.30 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0204121049",
+      "description": "[FRIE0204121049] 버들재주나방 1986.09.10 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "갈참나무",
+      "scientific_name": "Quercus aliena Blume"
+    },
+    {
+      "group": "식물",
+      "name_ko": "당느릅나무",
+      "scientific_name": "Ulmus davidiana Planch."
+    },
+    {
+      "group": "식물",
+      "name_ko": "버드나무",
+      "scientific_name": "Salix pierotii Miq."
+    },
+    {
+      "group": "식물",
+      "name_ko": "산사나무",
+      "scientific_name": "Crataegus pinnatifida Bunge"
+    },
+    {
+      "group": "식물",
+      "name_ko": "호랑버들",
+      "scientific_name": "Salix caprea L."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDU0006-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDU0006&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:42+00:00",
+    "html_sha256": "2e02daaef564d0341bd5ca0c795f5abc3f996b3ae6abf2d3ff2c2b74fa6d396c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

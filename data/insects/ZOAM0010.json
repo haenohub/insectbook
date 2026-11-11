@@ -1,0 +1,122 @@
+{
+  "id": "ZOAM0010",
+  "name_ko": "줄무늬소바구미",
+  "scientific_name": "Sintor dorsalis (Sharp, 1891)",
+  "display_name": "줄무늬소바구미",
+  "family_ko": "소바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "소바구미과",
+      "name_latin": "Anthribidae"
+    },
+    "subfamily": {
+      "name_ko": "소바구미아과",
+      "name_latin": "Anthribinae"
+    },
+    "genus": {
+      "name_ko": "줄무늬소바구미속",
+      "name_latin": "Sintor"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 소바구미과 (Anthribidae)\n아과 : 소바구미아과 (Anthribinae)\n속 : 줄무늬소바구미속 (Sintor)",
+  "basic_information": {
+    "곤충명": "줄무늬소바구미",
+    "학명": "Sintor dorsalis (Sharp, 1891)"
+  },
+  "information": {
+    "general_description": "크기 4.0-5.3mm\n체색은 흑색이며, 밝은 갈색의 털로 덮임.\n앞가슴등판과 시초에 이어진 역V자 형태의 흑갈색 무늬와 시초에 역V자 형태의 흑갈색 무늬를 가진다.",
+    "adult": null,
+    "adult_male": "더듬이가 암컷보다 길다.\n주둥이의 상측면에 융기선이 있으며, 정수리부분은 약간 편평하다.",
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "크기 4.0-5.3mm\n체색은 흑색이며, 밝은 갈색의 털로 덮임.\n앞가슴등판과 시초에 이어진 역V자 형태의 흑갈색 무늬와 시초에 역V자 형태의 흑갈색 무늬를 가진다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "더듬이가 암컷보다 길다.\n주둥이의 상측면에 융기선이 있으며, 정수리부분은 약간 편평하다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAM0010-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0010_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0010_2_th.jpg",
+      "alt": "줄무늬소바구미 1번째 사진 : 줄무늬소바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0010_2_th2.jpg",
+      "caption": "줄무늬소바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOAM0010-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0010_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0010_1_th.jpg",
+      "alt": "줄무늬소바구미 2번째 사진 : 줄무늬소바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0010_1_th2.jpg",
+      "caption": "줄무늬소바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAM0010-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0203274039",
+      "description": "[SNUE0203274039] 줄무늬소바구미 1977.07.20 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0203274040",
+      "description": "[SNUE0203274040] 줄무늬소바구미 1999.08.13 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0203274041",
+      "description": "[SNUE0203274041] 줄무늬소바구미 1998.05.09 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAM0010-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAM0010&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:11+00:00",
+    "html_sha256": "489a6e96df8373cc9898f02a4f434fce062cb0886cea0beffc88ebcf16bfc70e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "ZTAT0007",
+  "name_ko": "사치청벌",
+  "scientific_name": "Chrysis ignita (Linnaeus, 1758)",
+  "display_name": "사치청벌",
+  "family_ko": "청벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "청벌상과",
+      "name_latin": "Chrysidoidea"
+    },
+    "family": {
+      "name_ko": "청벌과",
+      "name_latin": "Chrysididae"
+    },
+    "subfamily": {
+      "name_ko": "청벌아과",
+      "name_latin": "Chrysidinae"
+    },
+    "genus": {
+      "name_ko": "청벌속",
+      "name_latin": "Chrysis"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 청벌상과 (Chrysidoidea)\n과 : 청벌과 (Chrysididae)\n아과 : 청벌아과 (Chrysidinae)\n속 : 청벌속 (Chrysis)",
+  "basic_information": {
+    "곤충명": "사치청벌",
+    "학명": "Chrysis ignita (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "몸길이는 6-10mm 정도이며 암컷은 몸이 흑색이나 머리와 가슴, 다리에는 보라빛 남색을 띤 흑색과 청색이 도는 남색을 섞은 무늬가 있다. 금속 광택이 있다. 온 몸에는 점각이 많으나 광택이 강하고 날개는 흑갈색을 띤다. 전신에 회색 잔털이 있다. 고리에는 같은 크기의 4개의 이가 있다. 개체에 따라 체색에는 변이가 많다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 6-10mm 정도이며 암컷은 몸이 흑색이나 머리와 가슴, 다리에는 보라빛 남색을 띤 흑색과 청색이 도는 남색을 섞은 무늬가 있다. 금속 광택이 있다. 온 몸에는 점각이 많으나 광택이 강하고 날개는 흑갈색을 띤다. 전신에 회색 잔털이 있다. 고리에는 같은 크기의 4개의 이가 있다. 개체에 따라 체색에는 변이가 많다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAT0007-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAT0007_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAT0007_1_th.jpg",
+      "alt": "사치청벌 1번째 사진 : 사치청벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAT0007_1_th2.jpg",
+      "caption": "사치청벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAT0007-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305201018",
+      "description": "[YNUE0305201018] 사치청벌 1989.07.16 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305201019",
+      "description": "[YNUE0305201019] 사치청벌 1995.08.16 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0111213014",
+      "description": "[YNUE0111213014] 사치청벌 1995.08.16 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAT0007-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAT0007&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:28+00:00",
+    "html_sha256": "5c13a4105af3533b0bc89dc03bda014451aaf2afd838c38cefe30779db1981fd",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

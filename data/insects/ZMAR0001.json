@@ -1,0 +1,162 @@
+{
+  "id": "ZMAR0001",
+  "name_ko": "귀매미",
+  "scientific_name": "Ledra auditura Walker, 1858",
+  "display_name": "귀매미",
+  "family_ko": "매미충과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "뿔매미상과",
+      "name_latin": "Membracoidea"
+    },
+    "family": {
+      "name_ko": "매미충과",
+      "name_latin": "Cicadellidae"
+    },
+    "subfamily": {
+      "name_ko": "귀매미아과",
+      "name_latin": "Ledrinae"
+    },
+    "genus": {
+      "name_ko": "귀매미속",
+      "name_latin": "Ledra"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 뿔매미상과 (Membracoidea)\n과 : 매미충과 (Cicadellidae)\n아과 : 귀매미아과 (Ledrinae)\n속 : 귀매미속 (Ledra)",
+  "basic_information": {
+    "곤충명": "귀매미",
+    "학명": "Ledra auditura Walker, 1858"
+  },
+  "information": {
+    "general_description": "몸길이:약14-17mm. 암컷이 더 크다. 매미충류 중에서 대형종에 속한다. 몸은 황갈색 바탕에 적갈색 또는 흑갈색 무늬를 가진다. 등면에는 작고 붉은색을 띈 과립형 미세돌기가 산재해있다. 머리는 앞가슴등판보다 좁고, 주걱 모양으로 넓적하며 주앙부가 돌출되어있다. 앞가슴등판의 양측에는 귀처럼 생긴 넓적한돌기가 특징적으로 발달하여있으며, 암컷의 돌기가 수컷보다 더크다. 앞날개의 후반부에는 날개맥이 그물모양으로 형성되어있고 날개맥위에는 과립형 미세돌기가 부착되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "산림지대에 흔히 분포하고있다",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대만]\n[일본]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이:약14-17mm. 암컷이 더 크다. 매미충류 중에서 대형종에 속한다. 몸은 황갈색 바탕에 적갈색 또는 흑갈색 무늬를 가진다. 등면에는 작고 붉은색을 띈 과립형 미세돌기가 산재해있다. 머리는 앞가슴등판보다 좁고, 주걱 모양으로 넓적하며 주앙부가 돌출되어있다. 앞가슴등판의 양측에는 귀처럼 생긴 넓적한돌기가 특징적으로 발달하여있으며, 암컷의 돌기가 수컷보다 더크다. 앞날개의 후반부에는 날개맥이 그물모양으로 형성되어있고 날개맥위에는 과립형 미세돌기가 부착되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "산림지대에 흔히 분포하고있다"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대만]\n[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMAR0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0001_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0001_2_th.jpg",
+      "alt": "귀매미 1번째 사진 : 귀매미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0001_2_th2.jpg",
+      "caption": "귀매미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZMAR0001-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0001_1_th.jpg",
+      "alt": "귀매미 2번째 사진 : 귀매미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0001_1_th2.jpg",
+      "caption": "귀매미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMAR0001-1",
+  "specimen_examples": [
+    {
+      "id": "GSNE0408242218",
+      "description": "[GSNE0408242218] 귀매미 1999.08.19 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0408242219",
+      "description": "[GSNE0408242219] 귀매미 1999.08.09 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0408242220",
+      "description": "[GSNE0408242220] 귀매미 1999.08.06 / / 경상대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "갈참나무",
+      "scientific_name": "Quercus aliena Blume"
+    },
+    {
+      "group": "식물",
+      "name_ko": "돌배나무",
+      "scientific_name": "Pyrus pyrifolia (Burm.f.) Nakai"
+    },
+    {
+      "group": "식물",
+      "name_ko": "떡갈나무",
+      "scientific_name": "Quercus dentata Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "벽오동나무",
+      "scientific_name": "Firmiana simplex (L.) W.Wight"
+    },
+    {
+      "group": "식물",
+      "name_ko": "상수리나무",
+      "scientific_name": "Quercus acutissima Carruth."
+    },
+    {
+      "group": "식물",
+      "name_ko": "아그배나무",
+      "scientific_name": "Malus toringo (Siebold) Siebold ex de Vriese"
+    },
+    {
+      "group": "식물",
+      "name_ko": "포도",
+      "scientific_name": "Vitis vinifera L."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZMAR0001.png",
+    "reference_image_id": "ZMAR0001-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T14:21:09.737851+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "258e9d9ffa6a3664a3abf953c5e994993001798913ca2b3554b0f81fdffaf35f"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMAR0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:32+00:00",
+    "html_sha256": "cebf795593df4a27aa6b2e208f55a96e80452e328160743c15ee7a8ffde9b734",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

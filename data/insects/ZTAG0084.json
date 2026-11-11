@@ -1,0 +1,122 @@
+{
+  "id": "ZTAG0084",
+  "name_ko": "꼬마알락꽃벌",
+  "scientific_name": "Nomada fervens Smith, 1873",
+  "display_name": "꼬마알락꽃벌",
+  "family_ko": "꿀벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "꿀벌과",
+      "name_latin": "Apidae"
+    },
+    "subfamily": {
+      "name_ko": "알락꽃벌아과",
+      "name_latin": "Nomadinae"
+    },
+    "genus": {
+      "name_ko": "알락꽃벌속",
+      "name_latin": "Nomada"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 꿀벌과 (Apidae)\n아과 : 알락꽃벌아과 (Nomadinae)\n속 : 알락꽃벌속 (Nomada)",
+  "basic_information": {
+    "곤충명": "꼬마알락꽃벌",
+    "학명": "Nomada fervens Smith, 1873"
+  },
+  "information": {
+    "general_description": "몸길이는 10mm 정도이고, 암컷은 적갈색이다. 머리방패 위의 두 줄, 더듬이 꽂힌 곳 위에 공간이 있는 얼굴과 정수리의 중앙이 흑색이가. 더듬이는 끝으로 갈수록 다소 암갈색이다. 3개의 긴 줄이 있는 가운데가슴과 뒷가슴은 흑색이다. 뒷가슴방패 아래 두 적갈색 점이 있고 그 밑에 같은 빛의 두 줄이 있다. 날개는 암색이고 투명하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[감소추세종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 10mm 정도이고, 암컷은 적갈색이다. 머리방패 위의 두 줄, 더듬이 꽂힌 곳 위에 공간이 있는 얼굴과 정수리의 중앙이 흑색이가. 더듬이는 끝으로 갈수록 다소 암갈색이다. 3개의 긴 줄이 있는 가운데가슴과 뒷가슴은 흑색이다. 뒷가슴방패 아래 두 적갈색 점이 있고 그 밑에 같은 빛의 두 줄이 있다. 날개는 암색이고 투명하다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[감소추세종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0084-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0084_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0084_2_th.jpg",
+      "alt": "꼬마알락꽃벌 1번째 사진 : 꼬마알락꽃벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0084_2_th2.jpg",
+      "caption": "꼬마알락꽃벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTAG0084-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0084_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0084_1_th.jpg",
+      "alt": "꼬마알락꽃벌 2번째 사진 : 꼬마알락꽃벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0084_1_th2.jpg",
+      "caption": "꼬마알락꽃벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0084-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0111303056",
+      "description": "[YNUE0111303056] 꼬마알락꽃벌 1997.05.22 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0111303044",
+      "description": "[YNUE0111303044] 꼬마알락꽃벌 1987.05.30 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0111303045",
+      "description": "[YNUE0111303045] 꼬마알락꽃벌 1990.05.05 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTAG0084.png",
+    "reference_image_id": "ZTAG0084-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T14:12:42.548183+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "b0dbbee7a979b141f68d552a2cc6965b3b2eb56d3ef902006684679b7e600299"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0084&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:44+00:00",
+    "html_sha256": "c7e32835be47b29957555afbe76f8fa43fd303743ea501baab97f29c966cda98",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

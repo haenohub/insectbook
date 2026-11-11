@@ -1,0 +1,111 @@
+{
+  "id": "ZLCG0025",
+  "name_ko": "비율빈침노린재",
+  "scientific_name": "Oncocephalus assimilis Reuter, 1882",
+  "display_name": "비율빈침노린재",
+  "family_ko": "침노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "침노린재상과",
+      "name_latin": "Reduvioidea"
+    },
+    "family": {
+      "name_ko": "침노린재과",
+      "name_latin": "Reduviidae"
+    },
+    "subfamily": {
+      "name_ko": "천적침노린재아과",
+      "name_latin": "Stenopodainae"
+    },
+    "genus": {
+      "name_ko": "큰침노린재속",
+      "name_latin": "Oncocephalus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 침노린재상과 (Reduvioidea)\n과 : 침노린재과 (Reduviidae)\n아과 : 천적침노린재아과 (Stenopodainae)\n속 : 큰침노린재속 (Oncocephalus)",
+  "basic_information": {
+    "곤충명": "비율빈침노린재",
+    "학명": "Oncocephalus assimilis Reuter, 1882"
+  },
+  "information": {
+    "general_description": "몸길이 : 14-17mm\n몸은 황갈색 바탕에 갈색과 흑갈색의 무늬를 가진다. 등면에는 광택이 없다. 머리는 길고 뭉툭하고 돌출하였다. 더듬이의 기부 사이에는 세로로 넓적한 한 쌍의 돌기와 작은 가시 모양의 돌기 한쌍이 있다. 더듬이는 가늘고 매우 짧아서 몸길이의 1/3정도이다. 제 2마디부터는 잔털이 밀생한다. 앞가슴등판은 앞가장자리의 양 끝과 옆가장자리의 중앙 및 뒷모서리가 원뿔처럼 돌출하였다. 중앙부는 세로홈 옆에 갈색과 흑갈색 줄무늬가 나타나며, 가로홈이 깊게 파였고 양 옆이 협착한다. 앞날개는 혁질부와 막질부의 중앙에 각각 현저한 흑갈색 무늬가 있다. 앞다리의 허벅마디는 팽대하였고 아랫면에 가시돌기가 나 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "산림 및 초원지대에서 볼 수 있고, 다른 곤충의 체액을 빨아 먹는다.",
+    "habits": null,
+    "season": null,
+    "overwintering": "성충으로 월동",
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 14-17mm\n몸은 황갈색 바탕에 갈색과 흑갈색의 무늬를 가진다. 등면에는 광택이 없다. 머리는 길고 뭉툭하고 돌출하였다. 더듬이의 기부 사이에는 세로로 넓적한 한 쌍의 돌기와 작은 가시 모양의 돌기 한쌍이 있다. 더듬이는 가늘고 매우 짧아서 몸길이의 1/3정도이다. 제 2마디부터는 잔털이 밀생한다. 앞가슴등판은 앞가장자리의 양 끝과 옆가장자리의 중앙 및 뒷모서리가 원뿔처럼 돌출하였다. 중앙부는 세로홈 옆에 갈색과 흑갈색 줄무늬가 나타나며, 가로홈이 깊게 파였고 양 옆이 협착한다. 앞날개는 혁질부와 막질부의 중앙에 각각 현저한 흑갈색 무늬가 있다. 앞다리의 허벅마디는 팽대하였고 아랫면에 가시돌기가 나 있다."
+    },
+    {
+      "title": "생태",
+      "text": "산림 및 초원지대에서 볼 수 있고, 다른 곤충의 체액을 빨아 먹는다."
+    },
+    {
+      "title": "월동",
+      "text": "성충으로 월동"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLCG0025-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCG0025_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCG0025_1_th.jpg",
+      "alt": "비율빈침노린재 1번째 사진 : 비율빈침노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCG0025_1_th2.jpg",
+      "caption": "비율빈침노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLCG0025-1",
+  "specimen_examples": [
+    {
+      "id": "GSNE0408242074",
+      "description": "[GSNE0408242074] 비율빈침노린재 2001.06.25 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0408242075",
+      "description": "[GSNE0408242075] 비율빈침노린재 2001.06.26 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0408242077",
+      "description": "[GSNE0408242077] 비율빈침노린재 1992.07.01 / / 경상대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLCG0025-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLCG0025&tabId=tab1",
+    "collected_at": "2026-11-04T14:11:57+00:00",
+    "html_sha256": "6d9463780d10b715ed052bbc4a169eb12618f70e356fa0ce8360bd97d90462b5",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

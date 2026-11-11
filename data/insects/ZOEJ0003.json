@@ -1,0 +1,103 @@
+{
+  "id": "ZOEJ0003",
+  "name_ko": "점박이긴다리풍뎅이",
+  "scientific_name": "Hoplia aureola (Pallas, 1871)",
+  "display_name": "점박이긴다리풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "검정풍뎅이아과",
+      "name_latin": "Melolonthinae"
+    },
+    "genus": {
+      "name_ko": "긴다리풍뎅이속",
+      "name_latin": "Hoplia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 검정풍뎅이아과 (Melolonthinae)\n속 : 긴다리풍뎅이속 (Hoplia)",
+  "basic_information": {
+    "곤충명": "점박이긴다리풍뎅이",
+    "학명": "Hoplia aureola (Pallas, 1871)"
+  },
+  "information": {
+    "general_description": "중국, 시베리아 동부, 몽고에 분포하며, 등쪽은 황록색 비늘로 덮였는데 가슴은 보다 청백색이 많고, 등판의 가운데는 흑갈색 비늘이 대략 4개 정도의 무늬를 형성하고, 딱지날개에는 흑갈색 비늘이 3열의 점무늬를 이루나 더러는 무늬가 나타나지 않는 개체도 있다. 복면과 다리의 비늘은 청백색 내지 은청색인 것이 많다. 후부절의 제5절 안쪽의 융기는 4-5개인데 낮고 대체로 균일하여 열상이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중국, 시베리아 동부, 몽고에 분포하며, 등쪽은 황록색 비늘로 덮였는데 가슴은 보다 청백색이 많고, 등판의 가운데는 흑갈색 비늘이 대략 4개 정도의 무늬를 형성하고, 딱지날개에는 흑갈색 비늘이 3열의 점무늬를 이루나 더러는 무늬가 나타나지 않는 개체도 있다. 복면과 다리의 비늘은 청백색 내지 은청색인 것이 많다. 후부절의 제5절 안쪽의 융기는 4-5개인데 낮고 대체로 균일하여 열상이다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOEJ0003-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0003_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0003_1_th.jpg",
+      "alt": "점박이긴다리풍뎅이 1번째 사진 : 점박이긴다리풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0003_1_th2.jpg",
+      "caption": "점박이긴다리풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOEJ0003-1",
+  "specimen_examples": [
+    {
+      "id": "SSUE0112181004",
+      "description": "[SSUE0112181004] 점박이긴다리풍뎅이 1985.05.22 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0112181003",
+      "description": "[SSUE0112181003] 점박이긴다리풍뎅이 1972.08.01 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0112181005",
+      "description": "[SSUE0112181005] 점박이긴다리풍뎅이 1970.05.28 / / 성신여자대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOEJ0003-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOEJ0003&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:17+00:00",
+    "html_sha256": "2559325703caff9c308f3f644021d159c398a705269957ac87b2b0d9ca19de10",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

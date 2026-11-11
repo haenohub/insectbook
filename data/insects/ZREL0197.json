@@ -1,0 +1,111 @@
+{
+  "id": "ZREL0197",
+  "name_ko": "꿀벌부채명나방",
+  "scientific_name": "Galleria mellonella (Linnaeus, 1758)",
+  "display_name": "꿀벌부채명나방",
+  "family_ko": "명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "명나방과",
+      "name_latin": "Pyralidae"
+    },
+    "subfamily": {
+      "name_ko": "부채명나방아과",
+      "name_latin": "Galleriinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Galleria"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 명나방과 (Pyralidae)\n아과 : 부채명나방아과 (Galleriinae)\n속 : (Galleria)",
+  "basic_information": {
+    "곤충명": "꿀벌부채명나방",
+    "학명": "Galleria mellonella (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "세계각지.에 분포하며 더듬이는 암, 수 모두 미모상이며, 머리는 백갈색이고, 앞이마는 인모에\n의해 앞으로 돌출되었다. 아랫입술수염은 담회갈색에 흑색 인편이 섞여\n있으며, 비스듬히 위로 향하나 제 3마디는 아래로 향한다.30mm 내외의\n날개를 가지고 있으며, 앞날개의 외연은 오목하게 함입되어 특징적이다.\n수컷은 작고 앞날개가 황갈색이며, 암컷은 크고 앞날개가 암갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": "꿀벌의 둥지 안에 들어가 종횡으로 굴을 만들어 가해하여 큰 피해줌.",
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 보통 8-9월에 출현하나 연 1-2회 발생한다.\n유충형태로 겨울을 지낸다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "세계각지.에 분포하며 더듬이는 암, 수 모두 미모상이며, 머리는 백갈색이고, 앞이마는 인모에\n의해 앞으로 돌출되었다. 아랫입술수염은 담회갈색에 흑색 인편이 섞여\n있으며, 비스듬히 위로 향하나 제 3마디는 아래로 향한다.30mm 내외의\n날개를 가지고 있으며, 앞날개의 외연은 오목하게 함입되어 특징적이다.\n수컷은 작고 앞날개가 황갈색이며, 암컷은 크고 앞날개가 암갈색이다."
+    },
+    {
+      "title": "유충",
+      "text": "꿀벌의 둥지 안에 들어가 종횡으로 굴을 만들어 가해하여 큰 피해줌."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 보통 8-9월에 출현하나 연 1-2회 발생한다.\n유충형태로 겨울을 지낸다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0197-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0197_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0197_1_th.jpg",
+      "alt": "꿀벌부채명나방 1번째 사진 : 꿀벌부채명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0197_1_th2.jpg",
+      "caption": "꿀벌부채명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0197-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0212171009",
+      "description": "[FRIE0212171009] 꿀벌부채명나방 2001.07.04 / / 국립산림과학원"
+    },
+    {
+      "id": "JFNE0201301099",
+      "description": "[JFNE0201301099] 꿀벌부채명나방 1996.09.19 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0201301098",
+      "description": "[JFNE0201301098] 꿀벌부채명나방 1996.09.18 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZREL0197.png",
+    "reference_image_id": "ZREL0197-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T14:59:26.632659+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "565b0dfd8a68f166fe533ab8868663a98835397d7400277fa330237dacc6b1db"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0197&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:58+00:00",
+    "html_sha256": "166aea38e3cd137b0b37f7d20dd29f971b6fe439bb9b8271acbb77605e4b31d9",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

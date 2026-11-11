@@ -1,0 +1,110 @@
+{
+  "id": "ZOBH0367",
+  "name_ko": "사천둥글먼지벌레",
+  "scientific_name": "Amara (Amara) obscuripes Bates, 1873",
+  "display_name": "사천둥글먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "먼지벌레아과",
+      "name_latin": "Harpalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Amara"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 먼지벌레아과 (Harpalinae)\n속 : (Amara)",
+  "basic_information": {
+    "곤충명": "사천둥글먼지벌레",
+    "학명": "Amara (Amara) obscuripes Bates, 1873"
+  },
+  "information": {
+    "general_description": "몸의길이는 7.5~8mm, 검은색이나 청동색의 광택이 있다. 촉각 제1마디부터 3마디부터는 적갈색이고 나머지는 흑갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의길이는 7.5~8mm, 검은색이나 청동색의 광택이 있다. 촉각 제1마디부터 3마디부터는 적갈색이고 나머지는 흑갈색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0367-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0367_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0367_2_th.jpg",
+      "alt": "사천둥글먼지벌레 1번째 사진 : 사천둥글먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0367_2_th2.jpg",
+      "caption": "사천둥글먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0367-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0367_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0367_1_th.jpg",
+      "alt": "사천둥글먼지벌레 2번째 사진 : 사천둥글먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0367_1_th2.jpg",
+      "caption": "사천둥글먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0367-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0303261030",
+      "description": "[KNAE0303261030] 사천둥글먼지벌레 1995.06.01 / / 국립수목원"
+    },
+    {
+      "id": "FRIE0304251028",
+      "description": "[FRIE0304251028] 사천둥글먼지벌레 1995.05.22 / / 국립산림과학원"
+    },
+    {
+      "id": "SJNE0302191030",
+      "description": "[SJNE0302191030] 사천둥글먼지벌레 1970.08.08 / / 상주대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0367-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0367&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:27+00:00",
+    "html_sha256": "f6a718db74e898e64b368926cd2123bb37772e893458d6a39a78aff559452778",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

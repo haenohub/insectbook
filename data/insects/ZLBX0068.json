@@ -1,0 +1,130 @@
+{
+  "id": "ZLBX0068",
+  "name_ko": "갈색큰먹노린재",
+  "scientific_name": "Scotinophara horvathi Distant, 1883",
+  "display_name": "갈색큰먹노린재",
+  "family_ko": "노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "노린재상과",
+      "name_latin": "Pentatomoidea"
+    },
+    "family": {
+      "name_ko": "노린재과",
+      "name_latin": "Pentatomidae"
+    },
+    "subfamily": {
+      "name_ko": "홍줄노린재아과",
+      "name_latin": "Podopinae"
+    },
+    "genus": {
+      "name_ko": "먹노린재속",
+      "name_latin": "Scotinophara"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 노린재상과 (Pentatomoidea)\n과 : 노린재과 (Pentatomidae)\n아과 : 홍줄노린재아과 (Podopinae)\n속 : 먹노린재속 (Scotinophara)",
+  "basic_information": {
+    "곤충명": "갈색큰먹노린재",
+    "학명": "Scotinophara horvathi Distant, 1883"
+  },
+  "information": {
+    "general_description": "몸길이 : 7.5-10mm\n몸은 암갈색을 띠고, 광택이 없다. 머리는 앞쪽으로 돌출했다. 앞가슴등판은 주름 모양의 점각이 있다. 앞가장자리의 양 끝이 뾰족한 침 모양으로 돌출하였다. 옆가장자리는 중앙부가 뾰족한 침모양의 돌기를 이룬다. 작은방패판은 크고, 선단부는 둥글다.",
+    "adult": null,
+    "adult_male": "생식마디는 가시 모양의 돌기가 뒷가장자리의 양쪽에 돌출하였다.",
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "하천의 주변의 갈대 숲에 서식한다.",
+    "habits": "낙엽 밑이나 표토층 부근에서 그루터기나 뿌리 근처를 가해한다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 7.5-10mm\n몸은 암갈색을 띠고, 광택이 없다. 머리는 앞쪽으로 돌출했다. 앞가슴등판은 주름 모양의 점각이 있다. 앞가장자리의 양 끝이 뾰족한 침 모양으로 돌출하였다. 옆가장자리는 중앙부가 뾰족한 침모양의 돌기를 이룬다. 작은방패판은 크고, 선단부는 둥글다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "생식마디는 가시 모양의 돌기가 뒷가장자리의 양쪽에 돌출하였다."
+    },
+    {
+      "title": "생태",
+      "text": "하천의 주변의 갈대 숲에 서식한다."
+    },
+    {
+      "title": "습성",
+      "text": "낙엽 밑이나 표토층 부근에서 그루터기나 뿌리 근처를 가해한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLBX0068-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0068_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0068_2_th.jpg",
+      "alt": "갈색큰먹노린재 1번째 사진 : 갈색큰먹노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0068_2_th2.jpg",
+      "caption": "갈색큰먹노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZLBX0068-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0068_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0068_1_th.jpg",
+      "alt": "갈색큰먹노린재 2번째 사진 : 갈색큰먹노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBX0068_1_th2.jpg",
+      "caption": "갈색큰먹노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLBX0068-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0303151207",
+      "description": "[KPNE0303151207] 갈색큰먹노린재 1974.04.30 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0303151210",
+      "description": "[KPNE0303151210] 갈색큰먹노린재 2002.03.30 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0303151212",
+      "description": "[KPNE0303151212] 갈색큰먹노린재 2000.03.09 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZLBX0068.png",
+    "reference_image_id": "ZLBX0068-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T16:49:42.549618+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "82674417971831f6b70df6839f62b8c6684260269c67fefd3057568bf6baf687"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLBX0068&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:35+00:00",
+    "html_sha256": "82fd789881e32088bac21c7ba6a72e409df27812fbc0df6097bb10c0e8467cd4",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

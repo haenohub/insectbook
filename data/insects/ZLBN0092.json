@@ -1,0 +1,107 @@
+{
+  "id": "ZLBN0092",
+  "name_ko": "큰흰솜털검정장님노린재",
+  "scientific_name": "Proboscidocoris (Proboscidocoris) varicornis (Jakovlev, 1904)",
+  "display_name": "큰흰솜털검정장님노린재",
+  "family_ko": "장님노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "장님노린재상과",
+      "name_latin": "Miroidea"
+    },
+    "family": {
+      "name_ko": "장님노린재과",
+      "name_latin": "Miridae"
+    },
+    "subfamily": {
+      "name_ko": "장님노린재아과",
+      "name_latin": "Mirinae"
+    },
+    "genus": {
+      "name_ko": "큰흰솜털검정장님노린재속",
+      "name_latin": "Proboscidocoris"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 장님노린재상과 (Miroidea)\n과 : 장님노린재과 (Miridae)\n아과 : 장님노린재아과 (Mirinae)\n속 : 큰흰솜털검정장님노린재속 (Proboscidocoris)",
+  "basic_information": {
+    "곤충명": "큰흰솜털검정장님노린재",
+    "학명": "Proboscidocoris (Proboscidocoris) varicornis (Jakovlev, 1904)"
+  },
+  "information": {
+    "general_description": "몸길이 : 4.5-5.5mm\n등면의 회백색 솜털은 전면에 불규칙한 반점 모양으로 모여서 산포된다. 연한 갈색부가 많다. 뒷다리의 넓적다리마디에 3개의 연한 색 부분이 있고, 종아리마디의 밑쪽 1/4을 제외하고는 넓게 연한 갈색부가 된다. 냄새샘 개구역은 크고 뚜렷하게 융기하였다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "평지, 산지의 잡초 사이에 많은 종이다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 4.5-5.5mm\n등면의 회백색 솜털은 전면에 불규칙한 반점 모양으로 모여서 산포된다. 연한 갈색부가 많다. 뒷다리의 넓적다리마디에 3개의 연한 색 부분이 있고, 종아리마디의 밑쪽 1/4을 제외하고는 넓게 연한 갈색부가 된다. 냄새샘 개구역은 크고 뚜렷하게 융기하였다."
+    },
+    {
+      "title": "생태",
+      "text": "평지, 산지의 잡초 사이에 많은 종이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLBN0092-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBN0092_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBN0092_1_th.jpg",
+      "alt": "큰흰솜털검정장님노린재 1번째 사진 : 큰흰솜털검정장님노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLBN0092_1_th2.jpg",
+      "caption": "큰흰솜털검정장님노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLBN0092-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0408232014",
+      "description": "[SNUE0408232014] 큰흰솜털검정장님노린재 2000.08.23 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0408232015",
+      "description": "[SNUE0408232015] 큰흰솜털검정장님노린재 2000.10.03 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0408232017",
+      "description": "[SNUE0408232017] 큰흰솜털검정장님노린재 2000.08.30 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLBN0092-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLBN0092&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:08+00:00",
+    "html_sha256": "9a2be7da0e4341cd0adbc4479cf469b33361c2e8b51daa3ec4b0f4a835ec00de",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

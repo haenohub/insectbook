@@ -1,0 +1,126 @@
+{
+  "id": "ZTDV0015",
+  "name_ko": "뱀허물쌍살벌",
+  "scientific_name": "Parapolybia varia (Fabricius, 1787)",
+  "display_name": "뱀허물쌍살벌",
+  "family_ko": "말벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "말벌상과",
+      "name_latin": "Vespoidea"
+    },
+    "family": {
+      "name_ko": "말벌과",
+      "name_latin": "Vespidae"
+    },
+    "subfamily": {
+      "name_ko": "쌍살벌아과",
+      "name_latin": "Polistinae"
+    },
+    "genus": {
+      "name_ko": "뱀허물쌍살벌속",
+      "name_latin": "Parapolybia"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 말벌상과 (Vespoidea)\n과 : 말벌과 (Vespidae)\n아과 : 쌍살벌아과 (Polistinae)\n속 : 뱀허물쌍살벌속 (Parapolybia)",
+  "basic_information": {
+    "곤충명": "뱀허물쌍살벌",
+    "학명": "Parapolybia varia (Fabricius, 1787)"
+  },
+  "information": {
+    "general_description": "본 종은 큰뱀허물 쌍살벌보다 색조가 강하여 노란색과의 대비가 강한 점으로 쉽게 구별된다.",
+    "adult": null,
+    "adult_male": "제1-5편절 아래의 촉각하유는 가는 선상이며, 말단 쪽으로 갈수록 넓어진다. 특히, 말단 5절의 하면을 다 덮는 형태로 발전한다. 촉각 말절은 전절과 거의 길이가 같으며, 그것의 끝은 절단상이다.",
+    "adult_female": "두순은 거의 폭과 길이가 같다. 뒷머리용골선은 큰턱의 기부 쪽에서 소실되거나 매우 흔적적이다. 두순의 중앙에는 종으로 달리는 갈색 선 무늬가 있다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "영소특성: 나뭇가지에 집을 지으며 집의 모양은 길쭉한 뱀허물 모양이다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": "아사회성벌로서, 지난해 가을부터 다음 해 가을까지 군체를 형성하는 1년생이다."
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "본 종은 큰뱀허물 쌍살벌보다 색조가 강하여 노란색과의 대비가 강한 점으로 쉽게 구별된다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "제1-5편절 아래의 촉각하유는 가는 선상이며, 말단 쪽으로 갈수록 넓어진다. 특히, 말단 5절의 하면을 다 덮는 형태로 발전한다. 촉각 말절은 전절과 거의 길이가 같으며, 그것의 끝은 절단상이다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "두순은 거의 폭과 길이가 같다. 뒷머리용골선은 큰턱의 기부 쪽에서 소실되거나 매우 흔적적이다. 두순의 중앙에는 종으로 달리는 갈색 선 무늬가 있다."
+    },
+    {
+      "title": "참고사항",
+      "text": "아사회성벌로서, 지난해 가을부터 다음 해 가을까지 군체를 형성하는 1년생이다."
+    },
+    {
+      "title": "습성",
+      "text": "영소특성: 나뭇가지에 집을 지으며 집의 모양은 길쭉한 뱀허물 모양이다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDV0015-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDV0015_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDV0015_2_th.jpg",
+      "alt": "뱀허물쌍살벌 1번째 사진 : 뱀허물쌍살벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDV0015_2_th2.jpg",
+      "caption": "뱀허물쌍살벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTDV0015-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDV0015_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDV0015_1_th.jpg",
+      "alt": "뱀허물쌍살벌 2번째 사진 : 뱀허물쌍살벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDV0015_1_th2.jpg",
+      "caption": "뱀허물쌍살벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDV0015-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0301029034",
+      "description": "[YNUE0301029034] 뱀허물쌍살벌 1983.08.11 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301029035",
+      "description": "[YNUE0301029035] 뱀허물쌍살벌 1991.05.10 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301029018",
+      "description": "[YNUE0301029018] 뱀허물쌍살벌 1991.05.10 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDV0015-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDV0015&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:38+00:00",
+    "html_sha256": "90fdbd48ea401a32bbce88b5a6e5f3958c98b2f2cba1096a5c5267b963fbd4bf",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

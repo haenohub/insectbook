@@ -1,0 +1,192 @@
+{
+  "id": "ZRED0005",
+  "name_ko": "큰줄흰나비",
+  "scientific_name": "Pieris melete Ménétriès, 1857",
+  "display_name": "큰줄흰나비",
+  "family_ko": "흰나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "흰나비과",
+      "name_latin": "Pieridae"
+    },
+    "subfamily": {
+      "name_ko": "흰나비아과",
+      "name_latin": "Pierinae"
+    },
+    "genus": {
+      "name_ko": "흰나비속",
+      "name_latin": "Pieris"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 흰나비과 (Pieridae)\n아과 : 흰나비아과 (Pierinae)\n속 : 흰나비속 (Pieris)",
+  "basic_information": {
+    "곤충명": "큰줄흰나비",
+    "학명": "Pieris melete Ménétriès, 1857"
+  },
+  "information": {
+    "general_description": "일반적으로 날개는 전반색으로 흰색을 띠는데 앞날개의 끝부위를 비롯하여 시맥을 따라 흑색을 띠는 특징을 갖는다.봄형은 여름형에 비해 일반적으로 크기가 작고 날개 윗면의 검정색 무늬의 발달도 약하나 아랫면은 반대로 시맥을 따라 검정색 비늘이 발달한다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": "암컷은 앞날개 뒷면의 검정색 무늬가 크게 발달되어 잇고 뒷날개 아랫면은 노랑색을 연하게 띠고 있어 수컷과 구별된다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "일반적으로 산지의 숲 가장자리나 계곡주변의 초지, 인가 주변에 서식하는 것으로 알려져 있다. 봄형은 4월말-6월, 여름형은 6월-10월에 걸쳐 연 3-4회 발생한다.",
+    "habits": "수컷은 습지에서 흡수하는 경우가 많이 관찰되며, 암수 모두 미나리냉이, 엉겅퀴, 꿀풀, 큰까치수영, 나무딸기 등 여러 꽃에서 흡밀한다. 암컷의 경우 기주식물의 잎 표면, 뒷면, 줄기 등 가리지 않고 산란하는 습성을 가지고 있다.",
+    "season": null,
+    "overwintering": "번데기",
+    "distribution": "[일본]\n[중국]\n[러시아]",
+    "notes": "[보통종]\n[흡밀곤충] 미나리냉이, 엉겅퀴, 꿀풀, 큰까치수영, 나무딸기 등",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "일반적으로 날개는 전반색으로 흰색을 띠는데 앞날개의 끝부위를 비롯하여 시맥을 따라 흑색을 띠는 특징을 갖는다.봄형은 여름형에 비해 일반적으로 크기가 작고 날개 윗면의 검정색 무늬의 발달도 약하나 아랫면은 반대로 시맥을 따라 검정색 비늘이 발달한다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "암컷은 앞날개 뒷면의 검정색 무늬가 크게 발달되어 잇고 뒷날개 아랫면은 노랑색을 연하게 띠고 있어 수컷과 구별된다."
+    },
+    {
+      "title": "생태",
+      "text": "일반적으로 산지의 숲 가장자리나 계곡주변의 초지, 인가 주변에 서식하는 것으로 알려져 있다. 봄형은 4월말-6월, 여름형은 6월-10월에 걸쳐 연 3-4회 발생한다."
+    },
+    {
+      "title": "습성",
+      "text": "수컷은 습지에서 흡수하는 경우가 많이 관찰되며, 암수 모두 미나리냉이, 엉겅퀴, 꿀풀, 큰까치수영, 나무딸기 등 여러 꽃에서 흡밀한다. 암컷의 경우 기주식물의 잎 표면, 뒷면, 줄기 등 가리지 않고 산란하는 습성을 가지고 있다."
+    },
+    {
+      "title": "월동",
+      "text": "번데기"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]\n[흡밀곤충] 미나리냉이, 엉겅퀴, 꿀풀, 큰까치수영, 나무딸기 등"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRED0005-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRED0005_4.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRED0005_4.jpg",
+      "alt": "큰줄흰나비 1번째 사진 : 큰줄흰나비 암컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRED0005_4_th2.jpg",
+      "caption": "큰줄흰나비 암컷 이미지",
+      "photographed_at": "20200427",
+      "location": "경기도 포천시 소흘읍 광릉숲",
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRED0005-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRED0005_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRED0005_3.jpg",
+      "alt": "큰줄흰나비 2번째 사진 : 큰줄흰나비 수컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRED0005_3_th2.jpg",
+      "caption": "큰줄흰나비 수컷 이미지",
+      "photographed_at": "20200427",
+      "location": "경기도 포천시 소흘읍 광릉숲",
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRED0005-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRED0005_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRED0005_2_th.jpg",
+      "alt": "큰줄흰나비 3번째 사진 : 큰줄흰나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRED0005_2_th2.jpg",
+      "caption": "큰줄흰나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRED0005-4",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRED0005_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRED0005_1_th.jpg",
+      "alt": "큰줄흰나비 4번째 사진 : 큰줄흰나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRED0005_1_th2.jpg",
+      "caption": "큰줄흰나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRED0005-1",
+  "specimen_examples": [
+    {
+      "id": "SJNE0306191010",
+      "description": "[SJNE0306191010] 큰줄흰나비 2002.06.20 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0306191099",
+      "description": "[SJNE0306191099] 큰줄흰나비 2002.06.28 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0306201049",
+      "description": "[SJNE0306201049] 큰줄흰나비 1999.06.06 / / 상주대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "갓",
+      "scientific_name": "Brassica juncea (L.) Czern."
+    },
+    {
+      "group": "식물",
+      "name_ko": "냉이",
+      "scientific_name": "Capsella bursa-pastoris (L.) Medik."
+    },
+    {
+      "group": "식물",
+      "name_ko": "무",
+      "scientific_name": "Raphanus sativus L."
+    },
+    {
+      "group": "식물",
+      "name_ko": "미나리냉이",
+      "scientific_name": "Cardamine leucantha (Tausch) O.E.Schulz"
+    },
+    {
+      "group": "식물",
+      "name_ko": "배추",
+      "scientific_name": "Brassica rapa var. glabra Regel"
+    },
+    {
+      "group": "식물",
+      "name_ko": "속속이풀",
+      "scientific_name": "Rorippa palustris (L.) Besser"
+    },
+    {
+      "group": "식물",
+      "name_ko": "황새냉이",
+      "scientific_name": "Cardamine flexuosa With."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRED0005-3"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRED0005&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:02+00:00",
+    "html_sha256": "f664bbbab1f58221580e461541ba5bfdf9574ec1f51f908f1ac1017ad3bc6133",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

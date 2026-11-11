@@ -1,0 +1,111 @@
+{
+  "id": "ZFCC0001",
+  "name_ko": "이질바퀴",
+  "scientific_name": "Periplaneta americana Linnaeus, 1758",
+  "display_name": "이질바퀴",
+  "family_ko": "왕바퀴과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "바퀴목",
+      "name_latin": "Blattodea"
+    },
+    "family": {
+      "name_ko": "왕바퀴과",
+      "name_latin": "Blattidae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Periplaneta"
+    }
+  },
+  "taxonomy_text": "목 : 바퀴목 (Blattodea)\n과 : 왕바퀴과 (Blattidae)\n속 : (Periplaneta)",
+  "basic_information": {
+    "곤충명": "이질바퀴",
+    "학명": "Periplaneta americana Linnaeus, 1758"
+  },
+  "information": {
+    "general_description": "몸길이는 35~40 mm로 우리 나라에서 가장 큰 바퀴이다. 몸은 광택 있는 적갈색이다. 앞가슴등판에는 가장자리에 뚜렷한 황색 무늬가 있다. 암수 모두 날개가 발달되어 있다.",
+    "adult": null,
+    "adult_male": "날개가 복부보다 약간 길다.",
+    "adult_female": "날개가 복부와 길이가 거의 같다.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충의 수명은 약 1년인데, 2~3년의 생존 기록도 있다.",
+    "habits": "온도와 습도가 비교적 높은 장소에서 서식하며, 최적 기온은 섭씨 28도이나 21~23도에서도 정상적인 활동을 한다. 일반적으로 날지 않으나, 때로는 밤에 불빛을 찾아 날아들기도 한다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": "학명을 따라 미국바퀴로 불리우기도 한다."
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 35~40 mm로 우리 나라에서 가장 큰 바퀴이다. 몸은 광택 있는 적갈색이다. 앞가슴등판에는 가장자리에 뚜렷한 황색 무늬가 있다. 암수 모두 날개가 발달되어 있다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "날개가 복부보다 약간 길다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "날개가 복부와 길이가 거의 같다."
+    },
+    {
+      "title": "참고사항",
+      "text": "학명을 따라 미국바퀴로 불리우기도 한다."
+    },
+    {
+      "title": "생태",
+      "text": "성충의 수명은 약 1년인데, 2~3년의 생존 기록도 있다."
+    },
+    {
+      "title": "습성",
+      "text": "온도와 습도가 비교적 높은 장소에서 서식하며, 최적 기온은 섭씨 28도이나 21~23도에서도 정상적인 활동을 한다. 일반적으로 날지 않으나, 때로는 밤에 불빛을 찾아 날아들기도 한다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZFCC0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/F3/ZFCC0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/F3/ZFCC0001_1_th.jpg",
+      "alt": "이질바퀴 1번째 사진 : 이질바퀴전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/F3/ZFCC0001_1_th2.jpg",
+      "caption": "이질바퀴전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZFCC0001-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0301069245",
+      "description": "[YNUE0301069245] 이질바퀴 1991.10.21 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301069246",
+      "description": "[YNUE0301069246] 이질바퀴 1991.05.13 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301069247",
+      "description": "[YNUE0301069247] 이질바퀴 1991.05.14 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZFCC0001-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZFCC0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:34+00:00",
+    "html_sha256": "005e692dc3dc1726b3eb47cd2635ab36e2457a320389a1df4182ee2def9bd9eb",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

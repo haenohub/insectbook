@@ -1,0 +1,173 @@
+{
+  "id": "ZMAS0003",
+  "name_ko": "유지매미",
+  "scientific_name": "Graptopsaltria nigrofuscata Motschulsky, 1866",
+  "display_name": "유지매미",
+  "family_ko": "매미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "매미상과",
+      "name_latin": "Cicadoidea"
+    },
+    "family": {
+      "name_ko": "매미과",
+      "name_latin": "Cicadidae"
+    },
+    "subfamily": {
+      "name_ko": "매미아과",
+      "name_latin": "Cicadinae"
+    },
+    "genus": {
+      "name_ko": "유지매미속",
+      "name_latin": "Graptopsaltria"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 매미상과 (Cicadoidea)\n과 : 매미과 (Cicadidae)\n아과 : 매미아과 (Cicadinae)\n속 : 유지매미속 (Graptopsaltria)",
+  "basic_information": {
+    "곤충명": "유지매미",
+    "학명": "Graptopsaltria nigrofuscata Motschulsky, 1866"
+  },
+  "information": {
+    "general_description": "몸길이: 약 34-36 mm. 날개 끝까지 50-60 mm. 몸의 등면은 흑색 또는흑갈색 바탕에 적갈색 무늬를 불규칙하게 가지며 변이가 심하다. 때때로 체표면에 흰가루를 산포하고 있으며, 특히 등판 주변과 복부 등면의 기부에 집중적으로 산포하고 있다. 앞날개와 뒷날개는 특히 불투명하고 갈색, 흑색 및 초록색 무늬가 서로 알록달록하게 구름 모양으로 배열되어 있으며, 변화가 심하다. 날개맥은 연두색 또는 황갈색을 띤다. 그러나 오래된 죽은 표본에서는 날개가 대부분 황갈색으로 되어 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "산야의 산림 지대에 흔히 분포하고 있으며 시골 마을에도 날아든다.",
+    "habits": "약충은 땅 속에서 활엽수 뿌리를 가해한다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이: 약 34-36 mm. 날개 끝까지 50-60 mm. 몸의 등면은 흑색 또는흑갈색 바탕에 적갈색 무늬를 불규칙하게 가지며 변이가 심하다. 때때로 체표면에 흰가루를 산포하고 있으며, 특히 등판 주변과 복부 등면의 기부에 집중적으로 산포하고 있다. 앞날개와 뒷날개는 특히 불투명하고 갈색, 흑색 및 초록색 무늬가 서로 알록달록하게 구름 모양으로 배열되어 있으며, 변화가 심하다. 날개맥은 연두색 또는 황갈색을 띤다. 그러나 오래된 죽은 표본에서는 날개가 대부분 황갈색으로 되어 있다."
+    },
+    {
+      "title": "생태",
+      "text": "산야의 산림 지대에 흔히 분포하고 있으며 시골 마을에도 날아든다."
+    },
+    {
+      "title": "습성",
+      "text": "약충은 땅 속에서 활엽수 뿌리를 가해한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMAS0003-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZMAS0003_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZMAS0003_3.jpg",
+      "alt": "유지매미 1번째 사진 : ",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZMAS0003_3_th2.jpg",
+      "caption": null,
+      "photographed_at": "20120807",
+      "location": "경기도 포천시 소흘읍 광릉숲",
+      "photographer": "국립수목원(임종옥)"
+    },
+    {
+      "id": "ZMAS0003-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAS0003_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAS0003_2_th.jpg",
+      "alt": "유지매미 2번째 사진 : 유지매미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAS0003_2_th2.jpg",
+      "caption": "유지매미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZMAS0003-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAS0003_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAS0003_1_th.jpg",
+      "alt": "유지매미 3번째 사진 : 유지매미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAS0003_1_th2.jpg",
+      "caption": "유지매미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMAS0003-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408191087",
+      "description": "[MPME0408191087] 유지매미 2000.06.25 / / 목포자연사박물관"
+    },
+    {
+      "id": "KNAE0304011068",
+      "description": "[KNAE0304011068] 유지매미 1999.09.17 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304011069",
+      "description": "[KNAE0304011069] 유지매미 2000.08.23 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "감나무",
+      "scientific_name": "Diospyros kaki Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "매실나무",
+      "scientific_name": "Prunus mume (Siebold) Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "복사나무",
+      "scientific_name": "Prunus persica (L.) Batsch"
+    },
+    {
+      "group": "식물",
+      "name_ko": "산돌배",
+      "scientific_name": "Pyrus ussuriensis Maxim. ex Rupr."
+    },
+    {
+      "group": "식물",
+      "name_ko": "소나무",
+      "scientific_name": "Pinus densiflora Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "진달래",
+      "scientific_name": "Rhododendron mucronulatum Turcz."
+    },
+    {
+      "group": "식물",
+      "name_ko": "포도",
+      "scientific_name": "Vitis vinifera L."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZMAS0003-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMAS0003&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:14+00:00",
+    "html_sha256": "e90ae00a6f449f15069b1619517fc1a920570632471b4732f1c6d821baf09a1a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

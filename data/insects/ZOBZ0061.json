@@ -1,0 +1,103 @@
+{
+  "id": "ZOBZ0061",
+  "name_ko": "노랑육점박이무당벌레",
+  "scientific_name": "Oenopia bissexnotata (Mulsant, 1850)",
+  "display_name": "노랑육점박이무당벌레",
+  "family_ko": "무당벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Coccinelloidea"
+    },
+    "family": {
+      "name_ko": "무당벌레과",
+      "name_latin": "Coccinellidae"
+    },
+    "subfamily": {
+      "name_ko": "무당벌레아과",
+      "name_latin": "Coccinellinae"
+    },
+    "genus": {
+      "name_ko": "노랑점박이무당벌레속",
+      "name_latin": "Oenopia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : (Coccinelloidea)\n과 : 무당벌레과 (Coccinellidae)\n아과 : 무당벌레아과 (Coccinellinae)\n속 : 노랑점박이무당벌레속 (Oenopia)",
+  "basic_information": {
+    "곤충명": "노랑육점박이무당벌레",
+    "학명": "Oenopia bissexnotata (Mulsant, 1850)"
+  },
+  "information": {
+    "general_description": "체형은 기다란 방추형이며, 두부의 색깔은 검은갈색이다. 등쪽은 검은 갈색에 연한 황색의 반점이 존재한다. 두부의 형태는 오각형의 형상을 띠며,긴 털이 조금 나 있다. 다리의 색깔은 검은갈색이며, 가운데 및 뒷가슴배판은 넓다란 달걀형이며, 앞다리쪽의 경절은 머리의 폭보다 더 긴 것을 볼 수 있다.\n이들의 분포는 한국, 중국(만주), 러시아(연해주, 시베리아 동부) 등지에서 서식한다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체형은 기다란 방추형이며, 두부의 색깔은 검은갈색이다. 등쪽은 검은 갈색에 연한 황색의 반점이 존재한다. 두부의 형태는 오각형의 형상을 띠며,긴 털이 조금 나 있다. 다리의 색깔은 검은갈색이며, 가운데 및 뒷가슴배판은 넓다란 달걀형이며, 앞다리쪽의 경절은 머리의 폭보다 더 긴 것을 볼 수 있다.\n이들의 분포는 한국, 중국(만주), 러시아(연해주, 시베리아 동부) 등지에서 서식한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBZ0061-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBZ0061_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBZ0061_1_th.jpg",
+      "alt": "노랑육점박이무당벌레 1번째 사진 : 노랑육점박이무당벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBZ0061_1_th2.jpg",
+      "caption": "노랑육점박이무당벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBZ0061-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0307061085",
+      "description": "[KUIE0307061085] 노랑육점박이무당벌레 1983.11.22 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307061086",
+      "description": "[KUIE0307061086] 노랑육점박이무당벌레 1992.04.20 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0307061087",
+      "description": "[KUIE0307061087] 노랑육점박이무당벌레 2000.05.20 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBZ0061-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBZ0061&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:22+00:00",
+    "html_sha256": "1c0a3d298f086ba5ed8751e452baaeb3455f33ec78787c2ed813645c607a0114",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

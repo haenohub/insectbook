@@ -1,0 +1,129 @@
+{
+  "id": "ZRFF0091",
+  "name_ko": "리치잎말이나방",
+  "scientific_name": "Acleris leechi (Walsingham, 1900)",
+  "display_name": "리치잎말이나방",
+  "family_ko": "잎말이나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎말이나방상과",
+      "name_latin": "Tortricoidea"
+    },
+    "family": {
+      "name_ko": "잎말이나방과",
+      "name_latin": "Tortricidae"
+    },
+    "subfamily": {
+      "name_ko": "잎말이나방아과",
+      "name_latin": "Tortricinae"
+    },
+    "genus": {
+      "name_ko": "꼬마노랑잎말이나방속",
+      "name_latin": "Acleris"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 잎말이나방상과 (Tortricoidea)\n과 : 잎말이나방과 (Tortricidae)\n아과 : 잎말이나방아과 (Tortricinae)\n속 : 꼬마노랑잎말이나방속 (Acleris)",
+  "basic_information": {
+    "곤충명": "리치잎말이나방",
+    "학명": "Acleris leechi (Walsingham, 1900)"
+  },
+  "information": {
+    "general_description": "한국,일본,중국,소련에 분포하며 머리, 가슴, 아랫입술수염은 황색이고, 앞날개의 바탕색도 황색.\n개체에 따라 색깔의 변이가 있음.\n날개길이:16～18mm",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": "생식기의 교미구판은 작으나 잘 발달되어 2개의 뾰족한 돌기를 가지고있음.\n교미관은 길고 앞쪽 1/3을 제외하고는 넓다. 시그눔은 작음.",
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국,일본,중국,소련에 분포하며 머리, 가슴, 아랫입술수염은 황색이고, 앞날개의 바탕색도 황색.\n개체에 따라 색깔의 변이가 있음.\n날개길이:16～18mm"
+    },
+    {
+      "title": "성충(암)",
+      "text": "생식기의 교미구판은 작으나 잘 발달되어 2개의 뾰족한 돌기를 가지고있음.\n교미관은 길고 앞쪽 1/3을 제외하고는 넓다. 시그눔은 작음."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRFF0091-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0091_7.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0091_7_th.jpg",
+      "alt": "리치잎말이나방 1번째 사진 : 리치잎말이나방가슴 확대 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0091_7_th2.jpg",
+      "caption": "리치잎말이나방가슴 확대 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRFF0091-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0091_6.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0091_6_th.jpg",
+      "alt": "리치잎말이나방 2번째 사진 : 리치잎말이나방배 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0091_6_th2.jpg",
+      "caption": "리치잎말이나방배 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRFF0091-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0091_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0091_1_th.jpg",
+      "alt": "리치잎말이나방 3번째 사진 : 리치잎말이나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0091_1_th2.jpg",
+      "caption": "리치잎말이나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRFF0091-1",
+  "specimen_examples": [
+    {
+      "id": "KNUE0408131327",
+      "description": "[KNUE0408131327] 리치잎말이나방 1986.06.27 / / 강원대학교"
+    },
+    {
+      "id": "KNUE0408131328",
+      "description": "[KNUE0408131328] 리치잎말이나방 1994.06.17 / / 강원대학교"
+    },
+    {
+      "id": "KNUE0408131329",
+      "description": "[KNUE0408131329] 리치잎말이나방 1988.06.03 / / 강원대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRFF0091-3"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRFF0091&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:39+00:00",
+    "html_sha256": "3007094595812ea3ef73fd96fa9ac5462111b7e5bc239f5ebe63fe3323292007",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

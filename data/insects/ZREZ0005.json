@@ -1,0 +1,118 @@
+{
+  "id": "ZREZ0005",
+  "name_ko": "흰뾰족날개나방",
+  "scientific_name": "Habrosyne pyritoides derasoides (Butler, 1878)",
+  "display_name": "흰뾰족날개나방",
+  "family_ko": "갈고리나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "갈고리나방상과",
+      "name_latin": "Drepanoidea"
+    },
+    "family": {
+      "name_ko": "갈고리나방과",
+      "name_latin": "Drepanidae"
+    },
+    "subfamily": {
+      "name_ko": "뾰족날개나방아과",
+      "name_latin": "Thyatirinae"
+    },
+    "genus": {
+      "name_ko": "흰뾰족날개나방속",
+      "name_latin": "Habrosyne"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 갈고리나방상과 (Drepanoidea)\n과 : 갈고리나방과 (Drepanidae)\n아과 : 뾰족날개나방아과 (Thyatirinae)\n속 : 흰뾰족날개나방속 (Habrosyne)",
+  "basic_information": {
+    "곤충명": "흰뾰족날개나방",
+    "학명": "Habrosyne pyritoides derasoides (Butler, 1878)"
+  },
+  "information": {
+    "general_description": "앞날개의 제6~10맥은 어느 것이나 소실에서 나갔고, 배 등쪽면의 털 뭉치는 1개인데 미소함. 몸은 갈색이고 배쪽면은 회백색이며, 경판은 2단으로 회갈색의 무늬가 있음. 어깨판의 끝은 백색과 황갈색의 무늬가 있고, 앞날개는 암갈색에 감람색을 띠고, 내횡선으로부터 외횡선에 이르는 사이는 삼각형이며 다갈색임. 기부　가까이의　제１실안에　백색의　짧고　경사진　줄이　있음．",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 8~9월에 출현함.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[인도]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "앞날개의 제6~10맥은 어느 것이나 소실에서 나갔고, 배 등쪽면의 털 뭉치는 1개인데 미소함. 몸은 갈색이고 배쪽면은 회백색이며, 경판은 2단으로 회갈색의 무늬가 있음. 어깨판의 끝은 백색과 황갈색의 무늬가 있고, 앞날개는 암갈색에 감람색을 띠고, 내횡선으로부터 외횡선에 이르는 사이는 삼각형이며 다갈색임. 기부　가까이의　제１실안에　백색의　짧고　경사진　줄이　있음．"
+    },
+    {
+      "title": "생태",
+      "text": "성충은 8~9월에 출현함."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[인도]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREZ0005-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREZ0005_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREZ0005_2_th.jpg",
+      "alt": "흰뾰족날개나방 1번째 사진 : 흰뾰족날개나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREZ0005_2_th2.jpg",
+      "caption": "흰뾰족날개나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREZ0005-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREZ0005_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREZ0005_1_th.jpg",
+      "alt": "흰뾰족날개나방 2번째 사진 : 흰뾰족날개나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREZ0005_1_th2.jpg",
+      "caption": "흰뾰족날개나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREZ0005-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0302131050",
+      "description": "[KNAE0302131050] 흰뾰족날개나방 1997.08.16 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0302081004",
+      "description": "[KNAE0302081004] 흰뾰족날개나방 2000.06.05 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0301092053",
+      "description": "[KNAE0301092053] 흰뾰족날개나방 1991.08.01 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREZ0005-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREZ0005&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:39+00:00",
+    "html_sha256": "bd1b6ac883d7845f142d3a90e65621f8cdb32c619fb96369051c81bbc433c2df",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

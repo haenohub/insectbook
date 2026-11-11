@@ -1,0 +1,103 @@
+{
+  "id": "ZSEM0086",
+  "name_ko": "육점박이대모꽃등에",
+  "scientific_name": "Volucella nigropicta Portschinsky, 1883",
+  "display_name": "육점박이대모꽃등에",
+  "family_ko": "꽃등에과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "꽃등에상과",
+      "name_latin": "Syrphoidea"
+    },
+    "family": {
+      "name_ko": "꽃등에과",
+      "name_latin": "Syrphidae"
+    },
+    "subfamily": {
+      "name_ko": "순꽃등에아과",
+      "name_latin": "Eristalinae"
+    },
+    "genus": {
+      "name_ko": "대모꽃등에속",
+      "name_latin": "Volucella"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 꽃등에상과 (Syrphoidea)\n과 : 꽃등에과 (Syrphidae)\n아과 : 순꽃등에아과 (Eristalinae)\n속 : 대모꽃등에속 (Volucella)",
+  "basic_information": {
+    "곤충명": "육점박이대모꽃등에",
+    "학명": "Volucella nigropicta Portschinsky, 1883"
+  },
+  "information": {
+    "general_description": "성충의 몸길이는 18~20mm. 암컷의 겹눈에는 털이 없고 이마는 광택이 있는 오렌지 색이며 폭이 넓어 머리 폭의 거의 1/4이고 앞으로 좁아져서 심히 융기했고, 가운데 홑눈보다 광택이 있는 흑색을 띤 발달모양 혹까지 가는 1개의 세로홈을 가졌고, 정수리는 머리 폭의 약1/5이다. 가운데가슴등판은 흑갈색이고 황색의 어깨혹과 연한 색의 날개 뒷혹을 가졌으며 앞가장자리부터 적갈색 가로줄까지에 거의 접하는 2개의 황갈색 세로줄이 있으며 뒷가장자리에 연한 색 삼각 무늬가 있다. 작은방패판은 흑갈색 내지 흑색이고 흑색 가장자리털이 났다. 배는 오렌지 색 내지는 연한 갈색인데 2~4 배마디에 각각 한쌍의 검은 반점이 있다. 다리는 전체적으로 짙은 갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "성충의 몸길이는 18~20mm. 암컷의 겹눈에는 털이 없고 이마는 광택이 있는 오렌지 색이며 폭이 넓어 머리 폭의 거의 1/4이고 앞으로 좁아져서 심히 융기했고, 가운데 홑눈보다 광택이 있는 흑색을 띤 발달모양 혹까지 가는 1개의 세로홈을 가졌고, 정수리는 머리 폭의 약1/5이다. 가운데가슴등판은 흑갈색이고 황색의 어깨혹과 연한 색의 날개 뒷혹을 가졌으며 앞가장자리부터 적갈색 가로줄까지에 거의 접하는 2개의 황갈색 세로줄이 있으며 뒷가장자리에 연한 색 삼각 무늬가 있다. 작은방패판은 흑갈색 내지 흑색이고 흑색 가장자리털이 났다. 배는 오렌지 색 내지는 연한 갈색인데 2~4 배마디에 각각 한쌍의 검은 반점이 있다. 다리는 전체적으로 짙은 갈색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSEM0086-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0086_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0086_1_th.jpg",
+      "alt": "육점박이대모꽃등에 1번째 사진 : 육점박이대모꽃등에전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEM0086_1_th2.jpg",
+      "caption": "육점박이대모꽃등에전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSEM0086-1",
+  "specimen_examples": [
+    {
+      "id": "CBNE0304071025",
+      "description": "[CBNE0304071025] 육점박이대모꽃등에 2002.05.12 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0304071026",
+      "description": "[CBNE0304071026] 육점박이대모꽃등에 2000.06.21 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0304071027",
+      "description": "[CBNE0304071027] 육점박이대모꽃등에 2002.06.02 / / 충북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZSEM0086-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSEM0086&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:17+00:00",
+    "html_sha256": "798d5f8af876a768cbe6def65755fdc573cd90394b59532d8403922c9bb8d158",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

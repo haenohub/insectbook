@@ -1,0 +1,114 @@
+{
+  "id": "ZLCK0006",
+  "name_ko": "큰광대노린재",
+  "scientific_name": "Poecilocoris splendidulus Esaki, 1935",
+  "display_name": "큰광대노린재",
+  "family_ko": "광대노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "노린재상과",
+      "name_latin": "Pentatomoidea"
+    },
+    "family": {
+      "name_ko": "광대노린재과",
+      "name_latin": "Scutelleridae"
+    },
+    "subfamily": {
+      "name_ko": "광대노린재아과",
+      "name_latin": "Scutellerinae"
+    },
+    "genus": {
+      "name_ko": "광대노린재속",
+      "name_latin": "Poecilocoris"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 노린재상과 (Pentatomoidea)\n과 : 광대노린재과 (Scutelleridae)\n아과 : 광대노린재아과 (Scutellerinae)\n속 : 광대노린재속 (Poecilocoris)",
+  "basic_information": {
+    "곤충명": "큰광대노린재",
+    "학명": "Poecilocoris splendidulus Esaki, 1935"
+  },
+  "information": {
+    "general_description": "몸길이 : 17-20mm\n화려한 금속광택을 띠는 미려조이며, 살아 있을 때는 보는 방향에 따라 반사색이 변한다. 몸의 등면에는 영롱하게 광택이 나는 금록색의 바탕에 홍보라빛 또는 선홍색 광택이 영롱한 무지개빛 줄무늬를 가진다. 죽은 표본에서는 광택과 반사빛이 현저히 퇴색한다. 몸의 아랫면은 청록색 광택을 띤 검정색이거나 암록색이다. 광대 노린재와 닮았으나, 줄무늬가 더 넓고 크게 발달하였다. 또한 작은방패판의 기부에는 무늬가 없다. 선단부의 줄무늬는 山자 모양을 이룬다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": "나무껍질이나 낙엽 밑에서 약충상태로 월동하며 5월 하순부터 성충으로 우화한다.",
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 17-20mm\n화려한 금속광택을 띠는 미려조이며, 살아 있을 때는 보는 방향에 따라 반사색이 변한다. 몸의 등면에는 영롱하게 광택이 나는 금록색의 바탕에 홍보라빛 또는 선홍색 광택이 영롱한 무지개빛 줄무늬를 가진다. 죽은 표본에서는 광택과 반사빛이 현저히 퇴색한다. 몸의 아랫면은 청록색 광택을 띤 검정색이거나 암록색이다. 광대 노린재와 닮았으나, 줄무늬가 더 넓고 크게 발달하였다. 또한 작은방패판의 기부에는 무늬가 없다. 선단부의 줄무늬는 山자 모양을 이룬다."
+    },
+    {
+      "title": "월동",
+      "text": "나무껍질이나 낙엽 밑에서 약충상태로 월동하며 5월 하순부터 성충으로 우화한다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLCK0006-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCK0006_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCK0006_2_th.jpg",
+      "alt": "큰광대노린재 1번째 사진 : 큰광대노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCK0006_2_th2.jpg",
+      "caption": "큰광대노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZLCK0006-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCK0006_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCK0006_1_th.jpg",
+      "alt": "큰광대노린재 2번째 사진 : 큰광대노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLCK0006_1_th2.jpg",
+      "caption": "큰광대노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLCK0006-1",
+  "specimen_examples": [
+    {
+      "id": "ADUE0207221041",
+      "description": "[ADUE0207221041] 큰광대노린재 2002.05.09 / / 안동대학교"
+    },
+    {
+      "id": "ADUE0207221042",
+      "description": "[ADUE0207221042] 큰광대노린재 2002.05.15 / / 안동대학교"
+    },
+    {
+      "id": "SNUE0201192014",
+      "description": "[SNUE0201192014] 큰광대노린재 1987.05.30 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLCK0006-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLCK0006&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:38+00:00",
+    "html_sha256": "3ef1f88176e9d44ada46288b0e61ecf2bf171fd39f741f7f057d53bac653dcaf",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

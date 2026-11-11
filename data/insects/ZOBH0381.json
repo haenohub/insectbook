@@ -1,0 +1,110 @@
+{
+  "id": "ZOBH0381",
+  "name_ko": "큰둥글먼지벌레",
+  "scientific_name": "Amara (Curtonotus) giganteus (Motschulsky, 1844)",
+  "display_name": "큰둥글먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "먼지벌레아과",
+      "name_latin": "Harpalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Amara"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 먼지벌레아과 (Harpalinae)\n속 : (Amara)",
+  "basic_information": {
+    "곤충명": "큰둥글먼지벌레",
+    "학명": "Amara (Curtonotus) giganteus (Motschulsky, 1844)"
+  },
+  "information": {
+    "general_description": "몸길이는 17.5~21mm 이며 몸색깔은 흑색의 광택이난다. 겹눈 안쪽에 긴 털이 있고, 딱지날개에 여러 개의 가는 세로 줄무늬가 있고 이 속 중에서 몸 길이가 가장 길다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[러시아]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 17.5~21mm 이며 몸색깔은 흑색의 광택이난다. 겹눈 안쪽에 긴 털이 있고, 딱지날개에 여러 개의 가는 세로 줄무늬가 있고 이 속 중에서 몸 길이가 가장 길다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[러시아]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0381-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0381_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0381_2_th.jpg",
+      "alt": "큰둥글먼지벌레 1번째 사진 : 큰둥글먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0381_2_th2.jpg",
+      "caption": "큰둥글먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0381-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0381_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0381_1_th.jpg",
+      "alt": "큰둥글먼지벌레 2번째 사진 : 큰둥글먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0381_1_th2.jpg",
+      "caption": "큰둥글먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0381-1",
+  "specimen_examples": [
+    {
+      "id": "SJNE0408161044",
+      "description": "[SJNE0408161044] 큰둥글먼지벌레 1999.10.01 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0408161045",
+      "description": "[SJNE0408161045] 큰둥글먼지벌레 1999.10.01 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0408161046",
+      "description": "[SJNE0408161046] 큰둥글먼지벌레 1999.10.01 / / 상주대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0381-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0381&tabId=tab1",
+    "collected_at": "2026-11-04T14:20:45+00:00",
+    "html_sha256": "a0a55fa8eff16822fa52f4d76ef68aee7f23fc9ad1a646f2b9f436a387164ab9",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

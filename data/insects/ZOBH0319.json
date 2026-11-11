@@ -1,0 +1,110 @@
+{
+  "id": "ZOBH0319",
+  "name_ko": "수염머리먼지벌레",
+  "scientific_name": "Harpalus (Pseudoophonus) jureceki (Jedlička, 1928)",
+  "display_name": "수염머리먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "먼지벌레아과",
+      "name_latin": "Harpalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Harpalus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 먼지벌레아과 (Harpalinae)\n속 : (Harpalus)",
+  "basic_information": {
+    "곤충명": "수염머리먼지벌레",
+    "학명": "Harpalus (Pseudoophonus) jureceki (Jedlička, 1928)"
+  },
+  "information": {
+    "general_description": "전체적인 체색은 검은색이며 두부와 전흉은 광택이 난다. 상순과 대악은 어두운 적갈색이며, 대악의 정점은 검은색이다. 볼록한 두부와 앞가슴역시 볼록하다. 시초의 형태는 타원형이며 확연한 미소무늬를 볼 수 있다.한국, 일본, 동시베리아, 중국 등지에서 분포한다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "전체적인 체색은 검은색이며 두부와 전흉은 광택이 난다. 상순과 대악은 어두운 적갈색이며, 대악의 정점은 검은색이다. 볼록한 두부와 앞가슴역시 볼록하다. 시초의 형태는 타원형이며 확연한 미소무늬를 볼 수 있다.한국, 일본, 동시베리아, 중국 등지에서 분포한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0319-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0319_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0319_2_th.jpg",
+      "alt": "수염머리먼지벌레 1번째 사진 : 수염머리먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0319_2_th2.jpg",
+      "caption": "수염머리먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0319-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0319_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0319_1_th.jpg",
+      "alt": "수염머리먼지벌레 2번째 사진 : 수염머리먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0319_1_th2.jpg",
+      "caption": "수염머리먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0319-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408191069",
+      "description": "[MPME0408191069] 수염머리먼지벌레 1998.04.06 / / 목포자연사박물관"
+    },
+    {
+      "id": "KNAE0303262039",
+      "description": "[KNAE0303262039] 수염머리먼지벌레 1990.07.22 / / 국립수목원"
+    },
+    {
+      "id": "KPNE0302131141",
+      "description": "[KPNE0302131141] 수염머리먼지벌레 1976.09.02 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0319-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0319&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:33+00:00",
+    "html_sha256": "05261340fbb2775998cad014eeb341d3d33a6750e458c8224c5d8db51ae7d8f7",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

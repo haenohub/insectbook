@@ -1,0 +1,114 @@
+{
+  "id": "ZTDO0098",
+  "name_ko": "홍다리루리잎벌",
+  "scientific_name": "Siobla zenaida (Dovnar-Zapolskij, 1930)",
+  "display_name": "홍다리루리잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "잎벌아과",
+      "name_latin": "Tenthredininae"
+    },
+    "genus": {
+      "name_ko": "홍허리잎벌속",
+      "name_latin": "Siobla"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 잎벌아과 (Tenthredininae)\n속 : 홍허리잎벌속 (Siobla)",
+  "basic_information": {
+    "곤충명": "홍다리루리잎벌",
+    "학명": "Siobla zenaida (Dovnar-Zapolskij, 1930)"
+  },
+  "information": {
+    "general_description": "몸길이는 14.5mm,더듬이 길이는 7.2mm, 앞날개 길이는 14.5mm이다. 몸은 청남색의 금속 광택이 난다. 더듬이 제 1~3채찍마디는 흑색, 더듬이 끝은 흑색 또는 갈색이다. 다리의 밑마디를 제외한 나머지 부분은 황색 또는 황갈색이다. 산란관은 갈색이다. 윗입술은 밝은 황색, 앞날개 끝가두리는 갈색으로 흐려 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 14.5mm,더듬이 길이는 7.2mm, 앞날개 길이는 14.5mm이다. 몸은 청남색의 금속 광택이 난다. 더듬이 제 1~3채찍마디는 흑색, 더듬이 끝은 흑색 또는 갈색이다. 다리의 밑마디를 제외한 나머지 부분은 황색 또는 황갈색이다. 산란관은 갈색이다. 윗입술은 밝은 황색, 앞날개 끝가두리는 갈색으로 흐려 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0098-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0098_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0098_2_th.jpg",
+      "alt": "홍다리루리잎벌 1번째 사진 : 홍다리루리잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0098_2_th2.jpg",
+      "caption": "홍다리루리잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTDO0098-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0098_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0098_1_th.jpg",
+      "alt": "홍다리루리잎벌 2번째 사진 : 홍다리루리잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0098_1_th2.jpg",
+      "caption": "홍다리루리잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0098-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0301059127",
+      "description": "[YNUE0301059127] 홍다리루리잎벌 1992.06.14 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301059128",
+      "description": "[YNUE0301059128] 홍다리루리잎벌 1996.06.25 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301059130",
+      "description": "[YNUE0301059130] 홍다리루리잎벌 1996.06.26 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDO0098-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0098&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:31+00:00",
+    "html_sha256": "326c3b1bbee881238d191b895c327ef93037715100d2ef4e4621cbf3de0577a1",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

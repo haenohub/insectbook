@@ -1,0 +1,114 @@
+{
+  "id": "ZTAG0042",
+  "name_ko": "두플렉스줄애꽃벌",
+  "scientific_name": "Lasioglossum (Evylaeus) duplex (Dalla Torre, 1896)",
+  "display_name": "두플렉스줄애꽃벌",
+  "family_ko": "꼬마꽃벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "꿀벌상과",
+      "name_latin": "Apoidea"
+    },
+    "family": {
+      "name_ko": "꼬마꽃벌과",
+      "name_latin": "Halictidae"
+    },
+    "subfamily": {
+      "name_ko": "꼬마꽃벌아과",
+      "name_latin": "Halictinae"
+    },
+    "genus": {
+      "name_ko": "줄꼬마꽃벌속",
+      "name_latin": "Lasioglossum"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 꿀벌상과 (Apoidea)\n과 : 꼬마꽃벌과 (Halictidae)\n아과 : 꼬마꽃벌아과 (Halictinae)\n속 : 줄꼬마꽃벌속 (Lasioglossum)",
+  "basic_information": {
+    "곤충명": "두플렉스줄애꽃벌",
+    "학명": "Lasioglossum (Evylaeus) duplex (Dalla Torre, 1896)"
+  },
+  "information": {
+    "general_description": "몸길이는 8-9mm정도이고, 암컷은 배의 배판 뒤쪽은 폭이 넓게 담황색이고 더듬이의 채찍마디 아래는 적갈색이다. 다리는 다소 적색을 띤다. 몸에는 황회백색의 털이 바탕으로 났고 다리의 털은 황금색에 가깝다. 머리방패는 다소 강하게 아래로 돌출했다. 배에는 에나멜처럼 광택이 있고 뚜렷한 점각은 없다. 수컷의 머리방패 기부와 그 끝은 작은 담황색 무늬가 있다",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 8-9mm정도이고, 암컷은 배의 배판 뒤쪽은 폭이 넓게 담황색이고 더듬이의 채찍마디 아래는 적갈색이다. 다리는 다소 적색을 띤다. 몸에는 황회백색의 털이 바탕으로 났고 다리의 털은 황금색에 가깝다. 머리방패는 다소 강하게 아래로 돌출했다. 배에는 에나멜처럼 광택이 있고 뚜렷한 점각은 없다. 수컷의 머리방패 기부와 그 끝은 작은 담황색 무늬가 있다"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTAG0042-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0042_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0042_2_th.jpg",
+      "alt": "두플렉스줄애꽃벌 1번째 사진 : 두플렉스줄애꽃벌머리 정면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0042_2_th2.jpg",
+      "caption": "두플렉스줄애꽃벌머리 정면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTAG0042-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0042_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0042_1_th.jpg",
+      "alt": "두플렉스줄애꽃벌 2번째 사진 : 두플렉스줄애꽃벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTAG0042_1_th2.jpg",
+      "caption": "두플렉스줄애꽃벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTAG0042-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306262046",
+      "description": "[YNUE0306262046] 두플렉스줄애꽃벌 1994.05.12 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0306278007",
+      "description": "[YNUE0306278007] 두플렉스줄애꽃벌 1967.10.01 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0111201010",
+      "description": "[YNUE0111201010] 두플렉스줄애꽃벌 1997.04.26 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTAG0042-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTAG0042&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:52+00:00",
+    "html_sha256": "494127da334d31e2d287a1f60008bab266e018e2bfaa52270c5afb193323cedc",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

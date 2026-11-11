@@ -1,0 +1,117 @@
+{
+  "id": "ZRDS0356",
+  "name_ko": "벼밤나방",
+  "scientific_name": "Sesamia inferens (Walker, 1856)",
+  "display_name": "벼밤나방",
+  "family_ko": "밤나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "밤나방과",
+      "name_latin": "Noctuidae"
+    },
+    "subfamily": {
+      "name_ko": "밤나방아과",
+      "name_latin": "Noctuinae"
+    },
+    "genus": {
+      "name_ko": "벼밤나방속",
+      "name_latin": "Sesamia"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 밤나방과 (Noctuidae)\n아과 : 밤나방아과 (Noctuinae)\n속 : 벼밤나방속 (Sesamia)",
+  "basic_information": {
+    "곤충명": "벼밤나방",
+    "학명": "Sesamia inferens (Walker, 1856)"
+  },
+  "information": {
+    "general_description": "날개편 길이 12～15mm. 앞날개는 담회갈색 바탕인데 중앙에는 세로로 가늘게 암갈색 띠무늬가 있다. 뒷날개는 백색 바탕인데 외연 부근은 다소 암갈색을 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 5～9월경에 걸쳐 연 2～3회 발생된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[대만]\n[필리핀]\n[말레이시아]\n[태국]\n[인도]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 12～15mm. 앞날개는 담회갈색 바탕인데 중앙에는 세로로 가늘게 암갈색 띠무늬가 있다. 뒷날개는 백색 바탕인데 외연 부근은 다소 암갈색을 띤다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 5～9월경에 걸쳐 연 2～3회 발생된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[대만]\n[필리핀]\n[말레이시아]\n[태국]\n[인도]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0356-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0356_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0356_1_th.jpg",
+      "alt": "벼밤나방 1번째 사진 : 벼밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0356_1_th2.jpg",
+      "caption": "벼밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0356-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0202011055",
+      "description": "[UIBE0202011055] 벼밤나방 1996.09.20 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0202011056",
+      "description": "[UIBE0202011056] 벼밤나방 2001.09.14 / / 인천대학교"
+    },
+    {
+      "id": "CBFE0405271105",
+      "description": "[CBFE0405271105] 벼밤나방 2002.09.18 / / 충북산림환경연구소"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "벼",
+      "scientific_name": "Oryza sativa L."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDS0356-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0356&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:54+00:00",
+    "html_sha256": "fa2747523ab0b01638cdbdbd883bb5db43fddf29b078e7ec29b3d0c744d53cf3",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

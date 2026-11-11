@@ -1,0 +1,132 @@
+{
+  "id": "ZOBL0226",
+  "name_ko": "깨다시수염하늘소",
+  "scientific_name": "Monochamus (Monochamus) sutor longulus Pic, 1898",
+  "display_name": "깨다시수염하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "목하늘소아과",
+      "name_latin": "Lamiinae"
+    },
+    "genus": {
+      "name_ko": "수염하늘소속",
+      "name_latin": "Monochamus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 목하늘소아과 (Lamiinae)\n속 : 수염하늘소속 (Monochamus)",
+  "basic_information": {
+    "곤충명": "깨다시수염하늘소",
+    "학명": "Monochamus (Monochamus) sutor longulus Pic, 1898"
+  },
+  "information": {
+    "general_description": "몸길이는 14~28mm이며, 몸색은 흑갈색이다. 앞가슴등판의 양쪽에 극상돌기가 있다. 소순판은 흰색의 털로 테두리가 되어 있다. 딱지날개는 흰색 점무늬가 규칙하게 산포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 14~28mm이며, 몸색은 흑갈색이다. 앞가슴등판의 양쪽에 극상돌기가 있다. 소순판은 흰색의 털로 테두리가 되어 있다. 딱지날개는 흰색 점무늬가 규칙하게 산포되어있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0226-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0226_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0226_1_th.jpg",
+      "alt": "깨다시수염하늘소 1번째 사진 : 깨다시수염하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0226_1_th2.jpg",
+      "caption": "깨다시수염하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0226-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304151001",
+      "description": "[KNAE0304151001] 깨다시수염하늘소 1994.07.10 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304151003",
+      "description": "[KNAE0304151003] 깨다시수염하늘소 1994.05.09 / / 국립수목원"
+    },
+    {
+      "id": "FRIE0304021001",
+      "description": "[FRIE0304021001] 깨다시수염하늘소 1986.06.01 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "구상나무",
+      "scientific_name": "Abies koreana E.H.Wilson"
+    },
+    {
+      "group": "식물",
+      "name_ko": "눈잣나무",
+      "scientific_name": "Pinus pumila (Pall.) Regel"
+    },
+    {
+      "group": "식물",
+      "name_ko": "잎갈나무",
+      "scientific_name": "Larix gmelinii var. olgensis (A.Henry) Ostenf. & Syrach"
+    },
+    {
+      "group": "식물",
+      "name_ko": "잣나무",
+      "scientific_name": "Pinus koraiensis Siebold & Zucc."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBL0226.png",
+    "reference_image_id": "ZOBL0226-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T10:05:33.646430+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "98d6d477e2fd05ff6b39b65352183be97015da8b034c5fcfb7860635c44712a7"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0226&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:20+00:00",
+    "html_sha256": "64e4c40118125074a2b220c80e8b558e2e9b3b12d5b73d051821b814404b1f21",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

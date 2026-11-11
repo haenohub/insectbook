@@ -1,0 +1,122 @@
+{
+  "id": "ZLAN0010",
+  "name_ko": "우리가시허리노린재",
+  "scientific_name": "Cletus schmidti Kiritshenko, 1916",
+  "display_name": "우리가시허리노린재",
+  "family_ko": "허리노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "허리노린재상과",
+      "name_latin": "Coreoidea"
+    },
+    "family": {
+      "name_ko": "허리노린재과",
+      "name_latin": "Coreidae"
+    },
+    "subfamily": {
+      "name_ko": "허리노린재아과",
+      "name_latin": "Coreinae"
+    },
+    "genus": {
+      "name_ko": "가시허리노린재족",
+      "name_latin": "Cletus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 허리노린재상과 (Coreoidea)\n과 : 허리노린재과 (Coreidae)\n아과 : 허리노린재아과 (Coreinae)\n속 : 가시허리노린재족 (Cletus)",
+  "basic_information": {
+    "곤충명": "우리가시허리노린재",
+    "학명": "Cletus schmidti Kiritshenko, 1916"
+  },
+  "information": {
+    "general_description": "몸길이 : 10-12.5mm 암컷이 약간 더 크다.\n등면은 전체가 황갈색이며, 체표면에 미세한 흑갈색 점각이 산재한다. 더듬이는 적갈색을 띠고 제 1마디는 말단부로 갈수록 굵어지며 겹눈을 포함한 머리의 폭보다 길다. 양 돌기 사이는 가로로 능선을 이룬다. 작은방패판은 선단부에 노랑색 점무늬가 있다. 혁질부는 앞가장자리가 회황색을 띤다. 회합부의 끝과 막질부의 경계지점에 현저한 노랑색 점 무늬가 있다. 앞날개의 바깥가장자리 밖으로 돌출하며, 회황색을 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "화본과 식물에 흔히 서식하며 벼, 보리 등 작물을 가해한다.",
+    "habits": "벼이삭을 흡즙하면 쌀의 품질을 저하시키며 반점미의 원이이 된다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 10-12.5mm 암컷이 약간 더 크다.\n등면은 전체가 황갈색이며, 체표면에 미세한 흑갈색 점각이 산재한다. 더듬이는 적갈색을 띠고 제 1마디는 말단부로 갈수록 굵어지며 겹눈을 포함한 머리의 폭보다 길다. 양 돌기 사이는 가로로 능선을 이룬다. 작은방패판은 선단부에 노랑색 점무늬가 있다. 혁질부는 앞가장자리가 회황색을 띤다. 회합부의 끝과 막질부의 경계지점에 현저한 노랑색 점 무늬가 있다. 앞날개의 바깥가장자리 밖으로 돌출하며, 회황색을 띤다."
+    },
+    {
+      "title": "생태",
+      "text": "화본과 식물에 흔히 서식하며 벼, 보리 등 작물을 가해한다."
+    },
+    {
+      "title": "습성",
+      "text": "벼이삭을 흡즙하면 쌀의 품질을 저하시키며 반점미의 원이이 된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLAN0010-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0010_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0010_2_th.jpg",
+      "alt": "우리가시허리노린재 1번째 사진 : 우리가시허리노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0010_2_th2.jpg",
+      "caption": "우리가시허리노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZLAN0010-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0010_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0010_1_th.jpg",
+      "alt": "우리가시허리노린재 2번째 사진 : 우리가시허리노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0010_1_th2.jpg",
+      "caption": "우리가시허리노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLAN0010-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0212236084",
+      "description": "[YNUE0212236084] 우리가시허리노린재 1997.06.02 / / 영남대학교"
+    },
+    {
+      "id": "KNAE0304022015",
+      "description": "[KNAE0304022015] 우리가시허리노린재 1995.08.11 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304022016",
+      "description": "[KNAE0304022016] 우리가시허리노린재 1995.08.12 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLAN0010-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLAN0010&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:59+00:00",
+    "html_sha256": "1c8139a3361a77762114003cb5f95a4d8afaf3a2aae87e0e6de1677007128f55",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

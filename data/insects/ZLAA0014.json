@@ -1,0 +1,122 @@
+{
+  "id": "ZLAA0014",
+  "name_ko": "꼬마뿔노린재",
+  "scientific_name": "Elasmucha dorsalis (Jakovlev, 1876)",
+  "display_name": "꼬마뿔노린재",
+  "family_ko": "뿔노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "노린재상과",
+      "name_latin": "Pentatomoidea"
+    },
+    "family": {
+      "name_ko": "뿔노린재과",
+      "name_latin": "Acanthosomatidae"
+    },
+    "subfamily": {
+      "name_ko": "뿔노린재아과",
+      "name_latin": "Acanthosomatinae"
+    },
+    "genus": {
+      "name_ko": "꼬마뿔노린재속",
+      "name_latin": "Elasmucha"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 노린재상과 (Pentatomoidea)\n과 : 뿔노린재과 (Acanthosomatidae)\n아과 : 뿔노린재아과 (Acanthosomatinae)\n속 : 꼬마뿔노린재속 (Elasmucha)",
+  "basic_information": {
+    "곤충명": "꼬마뿔노린재",
+    "학명": "Elasmucha dorsalis (Jakovlev, 1876)"
+  },
+  "information": {
+    "general_description": "몸길이 6-8mm\n몸은 황록색 또는 황갈색의 바탕색을 가지며, 광택이 있다. 검은 미세점각이 산재한다. 더듬이는 5마디이고 끝마디는 암갈색을 띤다. 앞가슴등판은 양 옆의 후반부가 뾰족하게 돌출하였으며, 그 끝은 검고 약간 후방을 향한다. 양 돌기 사이는 가로로 능선을 이루며, 후반부는 붉은색을 더 진하게 띤다. 작은방패판은 편평하고 대부분이 붉은색을 띤다. 앞날개는 혁질부의 후반부가 붉은색을 띤다.막질부는 투명하고 갈색의 희마한 무늬를 갖는다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "층층나무 또느 미나리과 식물의 꽃과 열매에 잘 모인다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 6-8mm\n몸은 황록색 또는 황갈색의 바탕색을 가지며, 광택이 있다. 검은 미세점각이 산재한다. 더듬이는 5마디이고 끝마디는 암갈색을 띤다. 앞가슴등판은 양 옆의 후반부가 뾰족하게 돌출하였으며, 그 끝은 검고 약간 후방을 향한다. 양 돌기 사이는 가로로 능선을 이루며, 후반부는 붉은색을 더 진하게 띤다. 작은방패판은 편평하고 대부분이 붉은색을 띤다. 앞날개는 혁질부의 후반부가 붉은색을 띤다.막질부는 투명하고 갈색의 희마한 무늬를 갖는다."
+    },
+    {
+      "title": "생태",
+      "text": "층층나무 또느 미나리과 식물의 꽃과 열매에 잘 모인다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLAA0014-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAA0014_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAA0014_2_th.jpg",
+      "alt": "꼬마뿔노린재 1번째 사진 : 꼬마뿔노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAA0014_2_th2.jpg",
+      "caption": "꼬마뿔노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZLAA0014-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAA0014_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAA0014_1_th.jpg",
+      "alt": "꼬마뿔노린재 2번째 사진 : 꼬마뿔노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAA0014_1_th2.jpg",
+      "caption": "꼬마뿔노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLAA0014-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0305081139",
+      "description": "[KPNE0305081139] 꼬마뿔노린재 2002.08.08 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0305081122",
+      "description": "[KPNE0305081122] 꼬마뿔노린재 1970.06.12 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0305081124",
+      "description": "[KPNE0305081124] 꼬마뿔노린재 1974.08.08 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZLAA0014.png",
+    "reference_image_id": "ZLAA0014-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T13:54:23.695768+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "78a63db0040e443e1df29e110715033236a8862c345f253f8b80b95db5f1c506"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLAA0014&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:40+00:00",
+    "html_sha256": "d4dbc4cb9ced44c8939ec56f2694ee9239c64e8e9fcb35ee9c5bccd3b61dd350",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

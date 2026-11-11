@@ -1,0 +1,99 @@
+{
+  "id": "ZTCV0014",
+  "name_ko": "흰줄대모벌",
+  "scientific_name": "Auplopus constructor (Smith, 1873)",
+  "display_name": "흰줄대모벌",
+  "family_ko": "대모벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "말벌상과",
+      "name_latin": "Vespoidea"
+    },
+    "family": {
+      "name_ko": "대모벌과",
+      "name_latin": "Pompilidae"
+    },
+    "subfamily": {
+      "name_ko": "배고랑대모벌아과",
+      "name_latin": "Pepsinae"
+    },
+    "genus": {
+      "name_ko": "거무튀튀대모벌속",
+      "name_latin": "Auplopus"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 말벌상과 (Vespoidea)\n과 : 대모벌과 (Pompilidae)\n아과 : 배고랑대모벌아과 (Pepsinae)\n속 : 거무튀튀대모벌속 (Auplopus)",
+  "basic_information": {
+    "곤충명": "흰줄대모벌",
+    "학명": "Auplopus constructor (Smith, 1873)"
+  },
+  "information": {
+    "general_description": "암컷의 몸은 흑색이고 큰턱은 흑갈색이며 앞가슴등판 뒷슭에 가는 흰줄이 있다. 뒷다리의 종아리마디 기부 부근에 백색 잔 무늬가 있다. 가운데다리와 뒷다리의 종아리마디 끝에 있는 2개의 긴 센털은 백색이고 그 외 것은 흑색이다. 날개는 투명하고 앞날개의 바깥가두리 안쪽에 회흑색 무늬가 있다. 몸에 회백색의 미세한 털이 밀생했고 때문에 얼굴. 가슴의 측면과 하면. 전신복절. 다리 등에서는 비교적 은백색을 띠고 그 밖의 부분은 다소 광택이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷의 몸은 흑색이고 큰턱은 흑갈색이며 앞가슴등판 뒷슭에 가는 흰줄이 있다. 뒷다리의 종아리마디 기부 부근에 백색 잔 무늬가 있다. 가운데다리와 뒷다리의 종아리마디 끝에 있는 2개의 긴 센털은 백색이고 그 외 것은 흑색이다. 날개는 투명하고 앞날개의 바깥가두리 안쪽에 회흑색 무늬가 있다. 몸에 회백색의 미세한 털이 밀생했고 때문에 얼굴. 가슴의 측면과 하면. 전신복절. 다리 등에서는 비교적 은백색을 띠고 그 밖의 부분은 다소 광택이 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTCV0014-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTCV0014_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTCV0014_1_th.jpg",
+      "alt": "흰줄대모벌 1번째 사진 : 흰줄대모벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTCV0014_1_th2.jpg",
+      "caption": "흰줄대모벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTCV0014-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0306261045",
+      "description": "[YNUE0306261045] 흰줄대모벌 1960.05.08 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0201174018",
+      "description": "[YNUE0201174018] 흰줄대모벌 1987.07.07 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTCV0014-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTCV0014&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:51+00:00",
+    "html_sha256": "22edb29447b83255f35b3af7241cb4c75f6376d1b557e033631fb91d9c4849cf",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "id": "ZRDV0004",
+  "name_ko": "황오색나비",
+  "scientific_name": "Apatura metis Freyer, 1829",
+  "display_name": "황오색나비",
+  "family_ko": "네발나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "네발나비과",
+      "name_latin": "Nymphalidae"
+    },
+    "subfamily": {
+      "name_ko": "오색나비아과",
+      "name_latin": "Apaturinae"
+    },
+    "genus": {
+      "name_ko": "오색나비속",
+      "name_latin": "Apatura"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 네발나비과 (Nymphalidae)\n아과 : 오색나비아과 (Apaturinae)\n속 : 오색나비속 (Apatura)",
+  "basic_information": {
+    "곤충명": "황오색나비",
+    "학명": "Apatura metis Freyer, 1829"
+  },
+  "information": {
+    "general_description": "암컷은 검정색 부분의 색이 연하고 파랑색으로 빛나는 일이 없다.",
+    "adult": null,
+    "adult_male": "수컷의 윗면 바탕색은 검정색으로 비스듬히 빛을 쪼이면 파랑색으로 빛난다. 중앙에는 주황색 띠가 있으며 아외연을 따라 갈색무늬가 있다.",
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "암컷은 오후에 기주식물의 잎 표면이나 가지 등에 한 개씩 산란한다.",
+    "habits": "평지나 산지 전국 어디든 버드나무가 많은 곳에 서식한다. 흔한 나비로 간혹 도심의 거리를 나는 경우도 있다. 암수 모두 버드나무나 참나무의 진에 잘 모이나 길가의 습지에는 수컷이 즐겨 모인다.",
+    "season": null,
+    "overwintering": "애벌레",
+    "distribution": "[일본]\n[중국]\n[대만]\n[러시아]\n[유럽]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암컷은 검정색 부분의 색이 연하고 파랑색으로 빛나는 일이 없다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "수컷의 윗면 바탕색은 검정색으로 비스듬히 빛을 쪼이면 파랑색으로 빛난다. 중앙에는 주황색 띠가 있으며 아외연을 따라 갈색무늬가 있다."
+    },
+    {
+      "title": "생태",
+      "text": "암컷은 오후에 기주식물의 잎 표면이나 가지 등에 한 개씩 산란한다."
+    },
+    {
+      "title": "습성",
+      "text": "평지나 산지 전국 어디든 버드나무가 많은 곳에 서식한다. 흔한 나비로 간혹 도심의 거리를 나는 경우도 있다. 암수 모두 버드나무나 참나무의 진에 잘 모이나 길가의 습지에는 수컷이 즐겨 모인다."
+    },
+    {
+      "title": "월동",
+      "text": "애벌레"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[대만]\n[러시아]\n[유럽]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDV0004-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0004_4.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0004_4.jpg",
+      "alt": "황오색나비 1번째 사진 : 황오색나비 황갈색형 수컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0004_4_th2.jpg",
+      "caption": "황오색나비 황갈색형 수컷 이미지",
+      "photographed_at": "20190703",
+      "location": null,
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRDV0004-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0004_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0004_3.jpg",
+      "alt": "황오색나비 2번째 사진 : 황오색나비 수컷 흑갈색형 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0004_3_th2.jpg",
+      "caption": "황오색나비 수컷 흑갈색형 이미지",
+      "photographed_at": "20170714",
+      "location": null,
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRDV0004-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0004_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0004_2_th.jpg",
+      "alt": "황오색나비 3번째 사진 : 황오색나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0004_2_th2.jpg",
+      "caption": "황오색나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDV0004-4",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0004_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0004_1_th.jpg",
+      "alt": "황오색나비 4번째 사진 : 황오색나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0004_1_th2.jpg",
+      "caption": "황오색나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDV0004-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0306031071",
+      "description": "[FRIE0306031071] 황오색나비 1988.09.03 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0306031072",
+      "description": "[FRIE0306031072] 황오색나비 1984.08.15 / / 국립산림과학원"
+    },
+    {
+      "id": "SJNE0306161014",
+      "description": "[SJNE0306161014] 황오색나비 2002.06.20 / / 상주대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "갯버들",
+      "scientific_name": "Salix gracilistyla Miq."
+    },
+    {
+      "group": "식물",
+      "name_ko": "호랑버들",
+      "scientific_name": "Salix caprea L."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDV0004-3"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDV0004&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:59+00:00",
+    "html_sha256": "582a796b4cc0d836d680bc512fa73758ed5421d8f3091283a360522ba281887a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

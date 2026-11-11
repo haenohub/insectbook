@@ -1,0 +1,118 @@
+{
+  "id": "ZMAR0102",
+  "name_ko": "노랑줄주걱매미충",
+  "scientific_name": "Hecalus lineata (Horváth, 1899)",
+  "display_name": "노랑줄주걱매미충",
+  "family_ko": "매미충과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "뿔매미상과",
+      "name_latin": "Membracoidea"
+    },
+    "family": {
+      "name_ko": "매미충과",
+      "name_latin": "Cicadellidae"
+    },
+    "subfamily": {
+      "name_ko": "매미충아과",
+      "name_latin": "Deltocephalinae"
+    },
+    "genus": {
+      "name_ko": "주걱매미충속",
+      "name_latin": "Hecalus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 뿔매미상과 (Membracoidea)\n과 : 매미충과 (Cicadellidae)\n아과 : 매미충아과 (Deltocephalinae)\n속 : 주걱매미충속 (Hecalus)",
+  "basic_information": {
+    "곤충명": "노랑줄주걱매미충",
+    "학명": "Hecalus lineata (Horváth, 1899)"
+  },
+  "information": {
+    "general_description": "몸길이:약 6-8mm. 암컷이 수컷보다 더 크다. 몸은 연두색 또는 초록색 바탕을 띠고, 등면에 주황색 또는 선홍색의 줄무늬를 가진다. 머리는 편평하고 둥근 세모꼴로 돌출되어있으며 암컷이 더 길다. 이마의 가장자리에는 때때로 암갈색의 띠무늬가 나타난다. 정수리 앞가슴등판 및 작은방패판에 걸쳐 4개 이상의 주황색 또는 선홍색의 줄무늬를 가진다. 앞날개에는 날개맥을 따라 노란줄무늬가 나타나고, 선단부는 암갈색을 띤 구름 모양의 무늬를 가진다. 암컷의 배마디 말단부는 날개 끝보다 길게 노출된다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "주로 경작지 주변이나 초원지대에 흔하게 서식한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이:약 6-8mm. 암컷이 수컷보다 더 크다. 몸은 연두색 또는 초록색 바탕을 띠고, 등면에 주황색 또는 선홍색의 줄무늬를 가진다. 머리는 편평하고 둥근 세모꼴로 돌출되어있으며 암컷이 더 길다. 이마의 가장자리에는 때때로 암갈색의 띠무늬가 나타난다. 정수리 앞가슴등판 및 작은방패판에 걸쳐 4개 이상의 주황색 또는 선홍색의 줄무늬를 가진다. 앞날개에는 날개맥을 따라 노란줄무늬가 나타나고, 선단부는 암갈색을 띤 구름 모양의 무늬를 가진다. 암컷의 배마디 말단부는 날개 끝보다 길게 노출된다."
+    },
+    {
+      "title": "생태",
+      "text": "주로 경작지 주변이나 초원지대에 흔하게 서식한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMAR0102-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0102_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0102_2_th.jpg",
+      "alt": "노랑줄주걱매미충 1번째 사진 : 노랑줄주걱매미충전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0102_2_th2.jpg",
+      "caption": "노랑줄주걱매미충전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZMAR0102-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0102_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0102_1_th.jpg",
+      "alt": "노랑줄주걱매미충 2번째 사진 : 노랑줄주걱매미충전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0102_1_th2.jpg",
+      "caption": "노랑줄주걱매미충전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMAR0102-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0407151114",
+      "description": "[KPNE0407151114] 노랑줄주걱매미충 1981.07.24 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0407151115",
+      "description": "[KPNE0407151115] 노랑줄주걱매미충 1981.08.14 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0407151116",
+      "description": "[KPNE0407151116] 노랑줄주걱매미충 1981.08.14 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZMAR0102-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMAR0102&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:26+00:00",
+    "html_sha256": "3801cf594ce07f1bd9a06c12d953a14d97c009b5f510a8cb612b1779f641b2ec",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

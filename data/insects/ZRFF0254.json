@@ -1,0 +1,129 @@
+{
+  "id": "ZRFF0254",
+  "name_ko": "광릉애기잎말이나방",
+  "scientific_name": "Olethreutes cacuminana (Kennel, 1901)",
+  "display_name": "광릉애기잎말이나방",
+  "family_ko": "잎말이나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎말이나방상과",
+      "name_latin": "Tortricoidea"
+    },
+    "family": {
+      "name_ko": "잎말이나방과",
+      "name_latin": "Tortricidae"
+    },
+    "subfamily": {
+      "name_ko": "애기잎말이나방아과",
+      "name_latin": "Olethreutinae"
+    },
+    "genus": {
+      "name_ko": "왕애기잎말이나방속",
+      "name_latin": "Olethreutes"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 잎말이나방상과 (Tortricoidea)\n과 : 잎말이나방과 (Tortricidae)\n아과 : 애기잎말이나방아과 (Olethreutinae)\n속 : 왕애기잎말이나방속 (Olethreutes)",
+  "basic_information": {
+    "곤충명": "광릉애기잎말이나방",
+    "학명": "Olethreutes cacuminana (Kennel, 1901)"
+  },
+  "information": {
+    "general_description": "경기도 남양주시 광릉, 경상남도 거제시 계룡산과 국외는 일본,아무르에 분포하며, 아랫입술수염 제 2마디의 인모는 길고 거칠며, 위아래로 벌어져 있다.\n앞날개의 바탕색은 황갈색이며, 전연은 활처럼 구부러지고 날개끝은 뾰족한 편이다. 중횡대의 안쪽 면은 거의 직선에 가까우며 환상문은 달걀 모양이며 갈색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아] 극동지역",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "경기도 남양주시 광릉, 경상남도 거제시 계룡산과 국외는 일본,아무르에 분포하며, 아랫입술수염 제 2마디의 인모는 길고 거칠며, 위아래로 벌어져 있다.\n앞날개의 바탕색은 황갈색이며, 전연은 활처럼 구부러지고 날개끝은 뾰족한 편이다. 중횡대의 안쪽 면은 거의 직선에 가까우며 환상문은 달걀 모양이며 갈색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아] 극동지역"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRFF0254-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0254_7.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0254_7_th.jpg",
+      "alt": "광릉애기잎말이나방 1번째 사진 : 광릉애기잎말이나방가슴 확대 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0254_7_th2.jpg",
+      "caption": "광릉애기잎말이나방가슴 확대 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRFF0254-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0254_6.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0254_6_th.jpg",
+      "alt": "광릉애기잎말이나방 2번째 사진 : 광릉애기잎말이나방배 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0254_6_th2.jpg",
+      "caption": "광릉애기잎말이나방배 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRFF0254-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0254_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0254_1_th.jpg",
+      "alt": "광릉애기잎말이나방 3번째 사진 : 광릉애기잎말이나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFF0254_1_th2.jpg",
+      "caption": "광릉애기잎말이나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRFF0254-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0302141079",
+      "description": "[UIBE0302141079] 광릉애기잎말이나방 1999.06.13 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0302141080",
+      "description": "[UIBE0302141080] 광릉애기잎말이나방 1999.06.13 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0302141081",
+      "description": "[UIBE0302141081] 광릉애기잎말이나방 1999.06.13 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRFF0254.png",
+    "reference_image_id": "ZRFF0254-3",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T13:22:12.000463+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "5d8c564339f935233785eb12528f85a7fdb21d647f13ca5ce8c3d259f88c55bd"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRFF0254&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:13+00:00",
+    "html_sha256": "f91c00a20e16441ffc4b49cc137c10166d08fa8602f6541dca814b79e9905513",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "ZSCO0027",
+  "name_ko": "꼬마연두집파리",
+  "scientific_name": "Pyrellia vivida Robineau-Desvoidy, 1830",
+  "display_name": "꼬마연두집파리",
+  "family_ko": "집파리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "집파리상과",
+      "name_latin": "Muscoidea"
+    },
+    "family": {
+      "name_ko": "집파리과",
+      "name_latin": "Muscidae"
+    },
+    "subfamily": {
+      "name_ko": "집파리아과",
+      "name_latin": "Muscinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Pyrellia"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 집파리상과 (Muscoidea)\n과 : 집파리과 (Muscidae)\n아과 : 집파리아과 (Muscinae)\n속 : (Pyrellia)",
+  "basic_information": {
+    "곤충명": "꼬마연두집파리",
+    "학명": "Pyrellia vivida Robineau-Desvoidy, 1830"
+  },
+  "information": {
+    "general_description": "비교적 작은 파리로 몸 전체가 광택이 있는 연두색. 수컷은 겹눈과 겹눈이 상접. 암컷은 이마 폭이 넓음. 암컷의 이마는 검정색에 검정 가루로 덮임. 더듬이는 흑갈색, 제3마디의 길이는 제2마디 기리의 약 2.5배. 가슴의 등판과 배의 등판은 광택이 있는 연두색. 한가운데센털은 0+1. 등가운데센털은 2+4. 날개는 투명한 막질. 날개맥은 황살색. 다리는 검정색. 가운데다리의 종아리마디 위쪽에 센털줄.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[독일]\n[중국]\n[일본]\n[몽골]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "비교적 작은 파리로 몸 전체가 광택이 있는 연두색. 수컷은 겹눈과 겹눈이 상접. 암컷은 이마 폭이 넓음. 암컷의 이마는 검정색에 검정 가루로 덮임. 더듬이는 흑갈색, 제3마디의 길이는 제2마디 기리의 약 2.5배. 가슴의 등판과 배의 등판은 광택이 있는 연두색. 한가운데센털은 0+1. 등가운데센털은 2+4. 날개는 투명한 막질. 날개맥은 황살색. 다리는 검정색. 가운데다리의 종아리마디 위쪽에 센털줄."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[독일]\n[중국]\n[일본]\n[몽골]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSCO0027-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSCO0027_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSCO0027_1_th.jpg",
+      "alt": "꼬마연두집파리 1번째 사진 : 꼬마연두꽃파리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSCO0027_1_th2.jpg",
+      "caption": "꼬마연두꽃파리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSCO0027-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0308041291",
+      "description": "[KUIE0308041291] 꼬마연두집파리 1974.06.16 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0308041292",
+      "description": "[KUIE0308041292] 꼬마연두집파리 1977.08.05 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0308041290",
+      "description": "[KUIE0308041290] 꼬마연두집파리 1974.06.06 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZSCO0027.png",
+    "reference_image_id": "ZSCO0027-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T14:15:09.495041+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "d6a228e827585805a1558316c8a6abf6c6e9243e051dd36e09a6e76500e12950"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSCO0027&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:46+00:00",
+    "html_sha256": "35e07f5dc532e33dc2fffb63fe8ad869f4ff494836cab3a41f41973968ae261e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

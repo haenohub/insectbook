@@ -1,0 +1,111 @@
+{
+  "id": "ZOBT0185",
+  "name_ko": "일본잎벌레",
+  "scientific_name": "Galerucella (Galerucella) nipponensis (Laboissière, 1922)",
+  "display_name": "일본잎벌레",
+  "family_ko": "잎벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "잎벌레과",
+      "name_latin": "Chrysomelidae"
+    },
+    "subfamily": {
+      "name_ko": "긴더듬이잎벌레아과",
+      "name_latin": "Galerucinae"
+    },
+    "genus": {
+      "name_ko": "딸기잎벌레속",
+      "name_latin": "Galerucella"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 잎벌레과 (Chrysomelidae)\n아과 : 긴더듬이잎벌레아과 (Galerucinae)\n속 : 딸기잎벌레속 (Galerucella)",
+  "basic_information": {
+    "곤충명": "일본잎벌레",
+    "학명": "Galerucella (Galerucella) nipponensis (Laboissière, 1922)"
+  },
+  "information": {
+    "general_description": "몸길이는 4.8~6.0mm, 더듬이는 말단절 가까이에서 길이 폭의 약 1.5배이다. 앞가슴등판은 흑색이다. 중간가슴과 뒷가슴은 흑색 배한은 적갈색이다. 한국, 일본, 동남시베리아에 분포되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 4월에 나타나며 6~8월에 20개의 앞을 잎의 표면에 산란한다.유화 유충은 2주일 정도만에 잎에서 용화한다. 1화성 성충으로 월동.",
+    "habits": "기주식물 마름.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 4.8~6.0mm, 더듬이는 말단절 가까이에서 길이 폭의 약 1.5배이다. 앞가슴등판은 흑색이다. 중간가슴과 뒷가슴은 흑색 배한은 적갈색이다. 한국, 일본, 동남시베리아에 분포되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 4월에 나타나며 6~8월에 20개의 앞을 잎의 표면에 산란한다.유화 유충은 2주일 정도만에 잎에서 용화한다. 1화성 성충으로 월동."
+    },
+    {
+      "title": "습성",
+      "text": "기주식물 마름."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBT0185-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0185_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0185_1_th.jpg",
+      "alt": "일본잎벌레 1번째 사진 : 일본잎벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBT0185_1_th2.jpg",
+      "caption": "일본잎벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBT0185-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0407231316",
+      "description": "[KPNE0407231316] 일본잎벌레 1996.06.07 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0407231317",
+      "description": "[KPNE0407231317] 일본잎벌레 1996.06.07 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0407231320",
+      "description": "[KPNE0407231320] 일본잎벌레 1999.05.22 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBT0185-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBT0185&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:40+00:00",
+    "html_sha256": "341004725a99c28e0924fb8f3c16996b5450cac62eb19e879567dd5f84e6f920",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

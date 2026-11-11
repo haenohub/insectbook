@@ -1,0 +1,98 @@
+{
+  "id": "ZODX0005",
+  "name_ko": "가슴빨간방아벌레붙이",
+  "scientific_name": "Tetraphala miles (Fowler, 1913)",
+  "display_name": "가슴빨간방아벌레붙이",
+  "family_ko": "버섯벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "머리대장상과",
+      "name_latin": "Cucujoidea"
+    },
+    "family": {
+      "name_ko": "버섯벌레과",
+      "name_latin": "Erotylidae"
+    },
+    "subfamily": {
+      "name_ko": "방아벌레붙이아과",
+      "name_latin": "Languriinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Tetraphala"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 머리대장상과 (Cucujoidea)\n과 : 버섯벌레과 (Erotylidae)\n아과 : 방아벌레붙이아과 (Languriinae)\n속 : (Tetraphala)",
+  "basic_information": {
+    "곤충명": "가슴빨간방아벌레붙이",
+    "학명": "Tetraphala miles (Fowler, 1913)"
+  },
+  "information": {
+    "general_description": "한국, 대만에 분포하며, 체장은 9-15mm 정도이다. 머리는 광택이 나는 흑색 또는 청흑색이고 작은 점각이 있으며, 머리방패는 정방형 또는 횡적으로 긴 단형이고 뒷가두리는 일적선이다. 촉각은 짧고 윗끝의 네마디는 확장하고 연결되어 구간부를 형성한다. 딱지날개는 길로 등면은 팽융하였으며 작은 점각의 종렬이 있다. 앞가슴배판 돌기의 뒷가두리는 중앙으로 절입하였다. 배는 작은 점각을 밀포하였고 한쌍의 기절와절선을 구비하였다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 대만에 분포하며, 체장은 9-15mm 정도이다. 머리는 광택이 나는 흑색 또는 청흑색이고 작은 점각이 있으며, 머리방패는 정방형 또는 횡적으로 긴 단형이고 뒷가두리는 일적선이다. 촉각은 짧고 윗끝의 네마디는 확장하고 연결되어 구간부를 형성한다. 딱지날개는 길로 등면은 팽융하였으며 작은 점각의 종렬이 있다. 앞가슴배판 돌기의 뒷가두리는 중앙으로 절입하였다. 배는 작은 점각을 밀포하였고 한쌍의 기절와절선을 구비하였다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZODX0005-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODX0005_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODX0005_1_th.jpg",
+      "alt": "가슴빨간방아벌레붙이 1번째 사진 : 가슴빨간방아벌레붙이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODX0005_1_th2.jpg",
+      "caption": "가슴빨간방아벌레붙이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZODX0005-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0408171099",
+      "description": "[UIBE0408171099] 가슴빨간방아벌레붙이 1996.09.03 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZODX0005.png",
+    "reference_image_id": "ZODX0005-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T15:24:23.359743+00:00",
+    "sha256": "2673b29a85cd645519a33c80ba7ce6c6ef878de212e336666a713527bc14d272"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZODX0005&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:08+00:00",
+    "html_sha256": "ef9250b29b9ea707e5a5ff1d7e2a9264b63ece862a2ddea4e441f4a450f43c26",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

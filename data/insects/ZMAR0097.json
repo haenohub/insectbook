@@ -1,0 +1,133 @@
+{
+  "id": "ZMAR0097",
+  "name_ko": "오구마각시매미충",
+  "scientific_name": "Drabescus ogumae Matsumura, 1912",
+  "display_name": "오구마각시매미충",
+  "family_ko": "매미충과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "뿔매미상과",
+      "name_latin": "Membracoidea"
+    },
+    "family": {
+      "name_ko": "매미충과",
+      "name_latin": "Cicadellidae"
+    },
+    "subfamily": {
+      "name_ko": "매미충아과",
+      "name_latin": "Deltocephalinae"
+    },
+    "genus": {
+      "name_ko": "각시매미충속",
+      "name_latin": "Drabescus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 뿔매미상과 (Membracoidea)\n과 : 매미충과 (Cicadellidae)\n아과 : 매미충아과 (Deltocephalinae)\n속 : 각시매미충속 (Drabescus)",
+  "basic_information": {
+    "곤충명": "오구마각시매미충",
+    "학명": "Drabescus ogumae Matsumura, 1912"
+  },
+  "information": {
+    "general_description": "몸길이: 약9-10mm. 암컷이 수컷보다 약간 더 크다. 몸은 광택을 가지며 황갈색 바탕에 흑갈색 또는 검정색의 불규칙한 무늬를 가진다. 아랫면은 갈색을 띤다. 머리는 매우 좁고 넓으며, 길이는 겹눈 사이 폭의 1/5이고 둥글게 돌츨되어있으며 앞가슴등판보다 약간 넓다. 머리와 얼굴은 검고 넓적하며, 이마의 앞가장자리는 좁은 가로홈이있고, 황갈색을 띤다. 앞가슴등판과작은 방패판 중앙부는 세로로 황갈색 무늬가 현저하개 나타나서 근사종과 쉽게 구분된다. 앞날개는 중앙부가 약간투명하고, 그 이외에도 여기저기에 투명한 점무늬가 불규칙하게 산재한다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "주로 산야의 관목류에 서식한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이: 약9-10mm. 암컷이 수컷보다 약간 더 크다. 몸은 광택을 가지며 황갈색 바탕에 흑갈색 또는 검정색의 불규칙한 무늬를 가진다. 아랫면은 갈색을 띤다. 머리는 매우 좁고 넓으며, 길이는 겹눈 사이 폭의 1/5이고 둥글게 돌츨되어있으며 앞가슴등판보다 약간 넓다. 머리와 얼굴은 검고 넓적하며, 이마의 앞가장자리는 좁은 가로홈이있고, 황갈색을 띤다. 앞가슴등판과작은 방패판 중앙부는 세로로 황갈색 무늬가 현저하개 나타나서 근사종과 쉽게 구분된다. 앞날개는 중앙부가 약간투명하고, 그 이외에도 여기저기에 투명한 점무늬가 불규칙하게 산재한다."
+    },
+    {
+      "title": "생태",
+      "text": "주로 산야의 관목류에 서식한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMAR0097-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0097_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0097_2_th.jpg",
+      "alt": "오구마각시매미충 1번째 사진 : 오구마각시매미충전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0097_2_th2.jpg",
+      "caption": "오구마각시매미충전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZMAR0097-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0097_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0097_1_th.jpg",
+      "alt": "오구마각시매미충 2번째 사진 : 오구마각시매미충전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0097_1_th2.jpg",
+      "caption": "오구마각시매미충전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMAR0097-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0305171188",
+      "description": "[KPNE0305171188] 오구마각시매미충 1982.07.27 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0305171189",
+      "description": "[KPNE0305171189] 오구마각시매미충 1982.07.27 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0305171191",
+      "description": "[KPNE0305171191] 오구마각시매미충 1997.08.13 / / 경북대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "닥나무",
+      "scientific_name": "Broussonetia × kazinoki Siebold"
+    },
+    {
+      "group": "식물",
+      "name_ko": "뽕나무",
+      "scientific_name": "Morus alba L."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZMAR0097-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMAR0097&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:18+00:00",
+    "html_sha256": "18ded6eebd2a3eb0e53823c7bab6d8cb7fe40fe17cae61bf1657961f35b8c287",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "id": "ZREL0034",
+  "name_ko": "줄은빛풀명나방",
+  "scientific_name": "Pseudargyria interruptella (Walker, 1866)",
+  "display_name": "줄은빛풀명나방",
+  "family_ko": "풀명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "풀명나방과",
+      "name_latin": "Crambidae"
+    },
+    "subfamily": {
+      "name_ko": "풀명나방아과",
+      "name_latin": "Crambinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Pseudargyria"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 풀명나방과 (Crambidae)\n아과 : 풀명나방아과 (Crambinae)\n속 : (Pseudargyria)",
+  "basic_information": {
+    "곤충명": "줄은빛풀명나방",
+    "학명": "Pseudargyria interruptella (Walker, 1866)"
+  },
+  "information": {
+    "general_description": "머리는 백색이고, 앞이마는 약간 둥근 모양을 띤다. 더듬이는 황갈색이며, 작은턱수염은 거의 백색이고, 기부가 약간 황갈색을 띤다. 가슴과 배의 등쪽면은 백색으로, 담황갈색 비늘이 섞여 있다. 다리는 황갈색을 띤다. 앞날개는 은백색 바탕에 오렌지색의 중횡선이 명료하게 나타나 보인다. 외연 후부에는 3～4개의 작은 흑색 점이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대한민국] 강원특별자치도\n[대한민국] 경상남도\n[대한민국] 전라남도\n[대만]\n[일본]\n[중국]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "머리는 백색이고, 앞이마는 약간 둥근 모양을 띤다. 더듬이는 황갈색이며, 작은턱수염은 거의 백색이고, 기부가 약간 황갈색을 띤다. 가슴과 배의 등쪽면은 백색으로, 담황갈색 비늘이 섞여 있다. 다리는 황갈색을 띤다. 앞날개는 은백색 바탕에 오렌지색의 중횡선이 명료하게 나타나 보인다. 외연 후부에는 3～4개의 작은 흑색 점이 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대한민국] 강원특별자치도\n[대한민국] 경상남도\n[대한민국] 전라남도\n[대만]\n[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0034-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0034_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0034_2_th.jpg",
+      "alt": "줄은빛풀명나방 1번째 사진 : 줄은빛포충나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0034_2_th2.jpg",
+      "caption": "줄은빛포충나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREL0034-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0034_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0034_1_th.jpg",
+      "alt": "줄은빛풀명나방 2번째 사진 : 줄은빛포충나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0034_1_th2.jpg",
+      "caption": "줄은빛포충나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0034-1",
+  "specimen_examples": [
+    {
+      "id": "CBNE0202271021",
+      "description": "[CBNE0202271021] 줄은빛풀명나방 2001.06.19 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0202271022",
+      "description": "[CBNE0202271022] 줄은빛풀명나방 2001.06.20 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0202271023",
+      "description": "[CBNE0202271023] 줄은빛풀명나방 2001.06.19 / / 충북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREL0034-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0034&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:16+00:00",
+    "html_sha256": "18726097a9252cb03fcdbde8b983f62496c3d4f3606a3bf1eec605696706673f",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

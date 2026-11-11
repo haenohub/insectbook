@@ -1,0 +1,111 @@
+{
+  "id": "ZRCI0339",
+  "name_ko": "깃검은가지나방",
+  "scientific_name": "Bupalus vestalis Staudinger, 1897",
+  "display_name": "깃검은가지나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "가지나방아과",
+      "name_latin": "Ennominae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Bupalus"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 가지나방아과 (Ennominae)\n속 : (Bupalus)",
+  "basic_information": {
+    "곤충명": "깃검은가지나방",
+    "학명": "Bupalus vestalis Staudinger, 1897"
+  },
+  "information": {
+    "general_description": "봉정암, 설악산과 한국, 일본, 중국, 아무르에 분포한다. 더듬이는 수컷이 깃털 모양이고, 암컷은 실 모양이다. 수컷의 앞날개는 백색 바탕이며, 전연과 바깥쪽이 흑색으로 데를 지어 있고, 뒷날개는 앞의 반이 흑색이다. 암컷은 전체가 암색인데 수컷의 앞날개 밑부분에는 가공이 있다. 뒷면이 수컷에서는 앞날개 전연과 외연부 및 됫날개가 담황록색으로 그 부분에 회색 비늘이 밀포되어 있다.\n날개길이 : 31mm",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6월에 출현한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "봉정암, 설악산과 한국, 일본, 중국, 아무르에 분포한다. 더듬이는 수컷이 깃털 모양이고, 암컷은 실 모양이다. 수컷의 앞날개는 백색 바탕이며, 전연과 바깥쪽이 흑색으로 데를 지어 있고, 뒷날개는 앞의 반이 흑색이다. 암컷은 전체가 암색인데 수컷의 앞날개 밑부분에는 가공이 있다. 뒷면이 수컷에서는 앞날개 전연과 외연부 및 됫날개가 담황록색으로 그 부분에 회색 비늘이 밀포되어 있다.\n날개길이 : 31mm"
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6월에 출현한다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0339-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0339_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0339_1_th.jpg",
+      "alt": "깃검은가지나방 1번째 사진 : 깃검은가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0339_1_th2.jpg",
+      "caption": "깃검은가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0339-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0302151002",
+      "description": "[KNAE0302151002] 깃검은가지나방 1980.05.22 / / 국립수목원"
+    },
+    {
+      "id": "FRIE0302191003",
+      "description": "[FRIE0302191003] 깃검은가지나방 1988.06.10 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0201231033",
+      "description": "[KNAE0201231033] 깃검은가지나방 1988.06.11 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRCI0339.png",
+    "reference_image_id": "ZRCI0339-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T09:35:30.422976+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "1310983ac56309c668cbefc3847840de5dfc1590da7276435119739693c86a15"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0339&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:13+00:00",
+    "html_sha256": "64767b2cce04033b2bf7014e97c9587c809ae1836a74a955005a703c21d99cf5",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

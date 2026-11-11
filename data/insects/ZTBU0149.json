@@ -1,0 +1,95 @@
+{
+  "id": "ZTBU0149",
+  "name_ko": "어리대모뿔자루맵시벌",
+  "scientific_name": "Opheltes glaucopterus apicalis Matsumura, 1912",
+  "display_name": "어리대모뿔자루맵시벌",
+  "family_ko": "맵시벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "맵시벌과",
+      "name_latin": "Ichneumonidae"
+    },
+    "subfamily": {
+      "name_ko": "우치다자루맵시벌아과",
+      "name_latin": "Ctenopelmatinae"
+    },
+    "genus": {
+      "name_ko": "대모뿔자루맵시벌속",
+      "name_latin": "Opheltes"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 맵시벌과 (Ichneumonidae)\n아과 : 우치다자루맵시벌아과 (Ctenopelmatinae)\n속 : 대모뿔자루맵시벌속 (Opheltes)",
+  "basic_information": {
+    "곤충명": "어리대모뿔자루맵시벌",
+    "학명": "Opheltes glaucopterus apicalis Matsumura, 1912"
+  },
+  "information": {
+    "general_description": "몸은 흑색이고, 머리·더듬이·날개 밑과 그 바로 아래의 1개의 세로 무늬, 작은방패판, 처음 3배마디와 다리의 대부분은 황갈색이고, 뒷가슴과 큰턱의 끝은 암갈색이다. 작은방패판은 다소 돌출했고 뒷가슴등판에 세로 융기가 있고 끝 3마디는 흑색이다. 다리의 밑마디는 암갈색이고 끝은 황갈색이다. 몸의 길이는 약 24mm 정도이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸은 흑색이고, 머리·더듬이·날개 밑과 그 바로 아래의 1개의 세로 무늬, 작은방패판, 처음 3배마디와 다리의 대부분은 황갈색이고, 뒷가슴과 큰턱의 끝은 암갈색이다. 작은방패판은 다소 돌출했고 뒷가슴등판에 세로 융기가 있고 끝 3마디는 흑색이다. 다리의 밑마디는 암갈색이고 끝은 황갈색이다. 몸의 길이는 약 24mm 정도이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBU0149-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0149_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0149_1_th.jpg",
+      "alt": "어리대모뿔자루맵시벌 1번째 사진 : 어리대모자루맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0149_1_th2.jpg",
+      "caption": "어리대모자루맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBU0149-1",
+  "specimen_examples": [
+    {
+      "id": "DJUE0408141091",
+      "description": "[DJUE0408141091] 어리대모뿔자루맵시벌 1993.05.05 / / 대전대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTBU0149-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBU0149&tabId=tab1",
+    "collected_at": "2026-11-04T14:15:34+00:00",
+    "html_sha256": "b3d27a07786a7cb53598e7cc4df581a68968b39488b8ea5009485e4c711ecb9c",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

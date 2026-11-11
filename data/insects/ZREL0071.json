@@ -1,0 +1,107 @@
+{
+  "id": "ZREL0071",
+  "name_ko": "검은띠흰들명나방",
+  "scientific_name": "Anania hortulata (Linnaeus, 1758)",
+  "display_name": "검은띠흰들명나방",
+  "family_ko": "풀명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "풀명나방과",
+      "name_latin": "Crambidae"
+    },
+    "subfamily": {
+      "name_ko": "들명나방아과",
+      "name_latin": "Pyraustinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Anania"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 풀명나방과 (Crambidae)\n아과 : 들명나방아과 (Pyraustinae)\n속 : (Anania)",
+  "basic_information": {
+    "곤충명": "검은띠흰들명나방",
+    "학명": "Anania hortulata (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "날개길이 31mm. 언뜻 보면 자나방과의 Abraxas속에 속하는 종을 생각나게 하는 얼룩무늬가 발달해 있음. 가슴과 앞날개 기부는 등황색임.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개길이 31mm. 언뜻 보면 자나방과의 Abraxas속에 속하는 종을 생각나게 하는 얼룩무늬가 발달해 있음. 가슴과 앞날개 기부는 등황색임."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0071-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0071_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0071_1_th.jpg",
+      "alt": "검은띠흰들명나방 1번째 사진 : 검은띠흰들명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0071_1_th2.jpg",
+      "caption": "검은띠흰들명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0071-1",
+  "specimen_examples": [
+    {
+      "id": "KNUE0407311106",
+      "description": "[KNUE0407311106] 검은띠흰들명나방 1996.06.24 / / 강원대학교"
+    },
+    {
+      "id": "KNUE0407311107",
+      "description": "[KNUE0407311107] 검은띠흰들명나방 2000.06.23 / / 강원대학교"
+    },
+    {
+      "id": "KNUE0407311109",
+      "description": "[KNUE0407311109] 검은띠흰들명나방 2000.06.23 / / 강원대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZREL0071.png",
+    "reference_image_id": "ZREL0071-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-04T17:55:03.602544+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "cd5c502216f4780ab054c3e4171ba816eed348a57f24f2c664b88f0cfcfa8476"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0071&tabId=tab1",
+    "collected_at": "2026-11-04T14:01:56+00:00",
+    "html_sha256": "f909677906e0726899c8f1aece2f43cf10110164d9daefbf71498ebe7f9e2785",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "id": "ZOCF0010",
+  "name_ko": "왕주둥이바구미",
+  "scientific_name": "Phyllolytus variabilis (Roelofs, 1873)",
+  "display_name": "왕주둥이바구미",
+  "family_ko": "바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "바구미과",
+      "name_latin": "Curculionidae"
+    },
+    "subfamily": {
+      "name_ko": "줄바구미아과",
+      "name_latin": "Entiminae"
+    },
+    "genus": {
+      "name_ko": "왕주둥이바구미속",
+      "name_latin": "Phyllolytus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 바구미과 (Curculionidae)\n아과 : 줄바구미아과 (Entiminae)\n속 : 왕주둥이바구미속 (Phyllolytus)",
+  "basic_information": {
+    "곤충명": "왕주둥이바구미",
+    "학명": "Phyllolytus variabilis (Roelofs, 1873)"
+  },
+  "information": {
+    "general_description": "한국(중부, 남부), 일본, 동북 중국, 러시아에 분포하며, 몸길이 6.5-9.5 mm. 딱지날개 제7간실은 강하게 융기. 체표 측면에 녹색 인편이 피복. 더듬이 곤봉마디는 가늘고 길다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "Castanea crenata, Qercus acuta 및 Q. dentata 를 기주식물로 함",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국(중부, 남부), 일본, 동북 중국, 러시아에 분포하며, 몸길이 6.5-9.5 mm. 딱지날개 제7간실은 강하게 융기. 체표 측면에 녹색 인편이 피복. 더듬이 곤봉마디는 가늘고 길다."
+    },
+    {
+      "title": "생태",
+      "text": "Castanea crenata, Qercus acuta 및 Q. dentata 를 기주식물로 함"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCF0010-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0010_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0010_1_th.jpg",
+      "alt": "왕주둥이바구미 1번째 사진 : 왕주둥이바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0010_1_th2.jpg",
+      "caption": "왕주둥이바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCF0010-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0203141008",
+      "description": "[SNUE0203141008] 왕주둥이바구미 1968.07.17 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0203141009",
+      "description": "[SNUE0203141009] 왕주둥이바구미 1996.08.12 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0203141011",
+      "description": "[SNUE0203141011] 왕주둥이바구미 1976.07.16 / / 서울대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "떡갈나무",
+      "scientific_name": "Quercus dentata Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "밤나무",
+      "scientific_name": "Castanea crenata Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "붉가시나무",
+      "scientific_name": "Quercus acuta Thunb."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOCF0010-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCF0010&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:45+00:00",
+    "html_sha256": "a53dcb1eabe2a87cc690047052cdfa77cf399dd4c788c22ebef7a973cc205c19",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "ZODP0023",
+  "name_ko": "잔물땡땡이",
+  "scientific_name": "Hydrochara affinis (Sharp, 1873)",
+  "display_name": "잔물땡땡이",
+  "family_ko": "물땡땡이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "물땡땡이상과",
+      "name_latin": "Hydrophiloidea"
+    },
+    "family": {
+      "name_ko": "물땡땡이과",
+      "name_latin": "Hydrophilidae"
+    },
+    "subfamily": {
+      "name_ko": "물땡땡이아과",
+      "name_latin": "Hydrophilinae"
+    },
+    "genus": {
+      "name_ko": "잔물땡땡이속",
+      "name_latin": "Hydrochara"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 물땡땡이상과 (Hydrophiloidea)\n과 : 물땡땡이과 (Hydrophilidae)\n아과 : 물땡땡이아과 (Hydrophilinae)\n속 : 잔물땡땡이속 (Hydrochara)",
+  "basic_information": {
+    "곤충명": "잔물땡땡이",
+    "학명": "Hydrochara affinis (Sharp, 1873)"
+  },
+  "information": {
+    "general_description": "한국, 일본, 동남아시아에 분포하며, 체장은 15-18mm 정도이다. 머리에는 섬세한 머리꼭대기 봉선이 있고 앞머리에는 한쌍의 八자형의 점각렬이 있고 겹눈의 안가두리를 따라 각각 한줄의 점각렬이 있다. 양 수염은 황갈색이다. 촉각은 황갈색이고 구간부는 흑갈색이다. 딱지날개에는 네줄의 점각렬과 양쪽에 각 한줄의 아주 작은 점각렬이 있고 또 바깥가두리 긑어에 분명치 한은 점각렬이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본, 동남아시아에 분포하며, 체장은 15-18mm 정도이다. 머리에는 섬세한 머리꼭대기 봉선이 있고 앞머리에는 한쌍의 八자형의 점각렬이 있고 겹눈의 안가두리를 따라 각각 한줄의 점각렬이 있다. 양 수염은 황갈색이다. 촉각은 황갈색이고 구간부는 흑갈색이다. 딱지날개에는 네줄의 점각렬과 양쪽에 각 한줄의 아주 작은 점각렬이 있고 또 바깥가두리 긑어에 분명치 한은 점각렬이 있다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZODP0023-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODP0023_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODP0023_1_th.jpg",
+      "alt": "잔물땡땡이 1번째 사진 : 잔물땡땡이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODP0023_1_th2.jpg",
+      "caption": "잔물땡땡이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZODP0023-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0408091026",
+      "description": "[KNAE0408091026] 잔물땡땡이 2002.07.28 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0301221021",
+      "description": "[KNAE0301221021] 잔물땡땡이 1991.08.16 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0301221022",
+      "description": "[KNAE0301221022] 잔물땡땡이 1991.07.15 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZODP0023-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZODP0023&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:58+00:00",
+    "html_sha256": "af93b40b8c807a2dea975928fb005371a881c98ba2438011466a51afff3efac6",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

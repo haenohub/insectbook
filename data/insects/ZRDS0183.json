@@ -1,0 +1,126 @@
+{
+  "id": "ZRDS0183",
+  "name_ko": "참산녹색밤나방",
+  "scientific_name": "Polia goliath (Oberthür, 1880)",
+  "display_name": "참산녹색밤나방",
+  "family_ko": "밤나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "밤나방과",
+      "name_latin": "Noctuidae"
+    },
+    "subfamily": {
+      "name_ko": "밤나방아과",
+      "name_latin": "Noctuinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Polia"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 밤나방과 (Noctuidae)\n아과 : 밤나방아과 (Noctuinae)\n속 : (Polia)",
+  "basic_information": {
+    "곤충명": "참산녹색밤나방",
+    "학명": "Polia goliath (Oberthür, 1880)"
+  },
+  "information": {
+    "general_description": "날개편 길이 26～30mm. 앞날개는 백색 바탕인데 흑갈색 점 무늬가 산재해 있다. 각 횡선은 물결 모양의 흑색 선이며, 쐐기 모양 무늬는 적갈색을 띤다. 뒷날개는 암갈색 바탕으로 횡맥 무늬가 있으며, 외횡선이 나타나나 뚜렷하지 않고, 외연부는 그 색깔이 짙다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 7～8월경에 출현된다.",
+    "habits": "주로 산악 지대에 서식하고 있다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 26～30mm. 앞날개는 백색 바탕인데 흑갈색 점 무늬가 산재해 있다. 각 횡선은 물결 모양의 흑색 선이며, 쐐기 모양 무늬는 적갈색을 띤다. 뒷날개는 암갈색 바탕으로 횡맥 무늬가 있으며, 외횡선이 나타나나 뚜렷하지 않고, 외연부는 그 색깔이 짙다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 7～8월경에 출현된다."
+    },
+    {
+      "title": "습성",
+      "text": "주로 산악 지대에 서식하고 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0183-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0183_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0183_2_th.jpg",
+      "alt": "참산녹색밤나방 1번째 사진 : 참산녹색밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0183_2_th2.jpg",
+      "caption": "참산녹색밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDS0183-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0183_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0183_1_th.jpg",
+      "alt": "참산녹색밤나방 2번째 사진 : 참산녹색밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0183_1_th2.jpg",
+      "caption": "참산녹색밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0183-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0212302007",
+      "description": "[KNAE0212302007] 참산녹색밤나방 1991.08.02 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0212302008",
+      "description": "[KNAE0212302008] 참산녹색밤나방 1991.08.22 / / 국립수목원"
+    },
+    {
+      "id": "JFNE0201221065",
+      "description": "[JFNE0201221065] 참산녹색밤나방 1998.09.30 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDS0183-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0183&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:57+00:00",
+    "html_sha256": "11f8ba62578198ef774015b1b65c0c8bbb7f4570093711cca13948899284164b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

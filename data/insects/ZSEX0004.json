@@ -1,0 +1,107 @@
+{
+  "id": "ZSEX0004",
+  "name_ko": "포친스키황나각다귀",
+  "scientific_name": "Tanyptera (Tanyptera) atrata portschinskyi (Enderlein, 1912)",
+  "display_name": "포친스키황나각다귀",
+  "family_ko": "각다귀과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "각다귀상과",
+      "name_latin": "Tipuloidea"
+    },
+    "family": {
+      "name_ko": "각다귀과",
+      "name_latin": "Tipulidae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Ctenophorinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Tanyptera"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 각다귀상과 (Tipuloidea)\n과 : 각다귀과 (Tipulidae)\n아과 : (Ctenophorinae)\n속 : (Tanyptera)",
+  "basic_information": {
+    "곤충명": "포친스키황나각다귀",
+    "학명": "Tanyptera (Tanyptera) atrata portschinskyi (Enderlein, 1912)"
+  },
+  "information": {
+    "general_description": "몸길이 8mm, 날개길이 9mm. 몸은 고르게 연갈색이며 더듬이는 12마디이며 가늘고 기부의 2마디가 암갈색이나 나머지 실 모양의 부분은 회갈색임. 날개는 투명하고 약간 회색이며 앞가장자리를 따라 선명한 암갈색 무늬가 있음. 갈색 부분의 끝에는 3개의 무색인 작은 무늬가 있으며 평균곤은 가늘고 길며 백색임. 기부가 조금 황색을 띠며 끝은 팽대부가 흑색임. 다리는 가늘고 거의 백색이나 약간 갈색을 띠고 각 다리의 넓적다리마디 끝은 팽대했고 암갈색이며 종아리마디의 끝도 암갈색임. 배에는 암갈색의 무늬가 존재.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "산지의 숲속에 살며 밤에는 등불에 모임.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 8mm, 날개길이 9mm. 몸은 고르게 연갈색이며 더듬이는 12마디이며 가늘고 기부의 2마디가 암갈색이나 나머지 실 모양의 부분은 회갈색임. 날개는 투명하고 약간 회색이며 앞가장자리를 따라 선명한 암갈색 무늬가 있음. 갈색 부분의 끝에는 3개의 무색인 작은 무늬가 있으며 평균곤은 가늘고 길며 백색임. 기부가 조금 황색을 띠며 끝은 팽대부가 흑색임. 다리는 가늘고 거의 백색이나 약간 갈색을 띠고 각 다리의 넓적다리마디 끝은 팽대했고 암갈색이며 종아리마디의 끝도 암갈색임. 배에는 암갈색의 무늬가 존재."
+    },
+    {
+      "title": "생태",
+      "text": "산지의 숲속에 살며 밤에는 등불에 모임."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSEX0004-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEX0004_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEX0004_1_th.jpg",
+      "alt": "포친스키황나각다귀 1번째 사진 : 밑들이각다귀전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEX0004_1_th2.jpg",
+      "caption": "밑들이각다귀전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSEX0004-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0112313006",
+      "description": "[YNUE0112313006] 포친스키황나각다귀 1992.05.13 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0112313007",
+      "description": "[YNUE0112313007] 포친스키황나각다귀 1992.05.13 / / 영남대학교"
+    },
+    {
+      "id": "KNAE0703020210",
+      "description": "[KNAE0703020210] 포친스키황나각다귀 1993.05.23 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZSEX0004-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSEX0004&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:43+00:00",
+    "html_sha256": "ee4ba9a0102a64948c26b72c4f4a9ca9fc386bed472289652694470d4bfd9fda",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

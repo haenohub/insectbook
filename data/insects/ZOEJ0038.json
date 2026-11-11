@@ -1,0 +1,110 @@
+{
+  "id": "ZOEJ0038",
+  "name_ko": "주름배우단풍뎅이",
+  "scientific_name": "Maladera gibbiventris (Brenske, 1897)",
+  "display_name": "주름배우단풍뎅이",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "검정풍뎅이아과",
+      "name_latin": "Melolonthinae"
+    },
+    "genus": {
+      "name_ko": "애우단풍뎅이속",
+      "name_latin": "Maladera"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 검정풍뎅이아과 (Melolonthinae)\n속 : 애우단풍뎅이속 (Maladera)",
+  "basic_information": {
+    "곤충명": "주름배우단풍뎅이",
+    "학명": "Maladera gibbiventris (Brenske, 1897)"
+  },
+  "information": {
+    "general_description": "중국, 대만에 분포하며, 몸은 길고 넓은 난형이며, 등쪽은 암갈색 내지 흑색이나 덜 우단모양으로 광택이 강하고, 아랫면은 갈색 내지 황갈색이다. 갓 우화한 개체는 황색이다. 촉각은 황색인데 수컷의 곤봉부는 자루마디의 2배 정도로 길고, 암컷은 자루마디보다 약간 짧은데 굵다. 제 3복부 복판은 중앙이 높게 솟아 올랐고, 전미절은 중앙 앞쪽과 그 앞마디의 뒤쪽에 돌기가 있는데 암컷은 약간 낮고, 뒤쪽의 가운데는 가로로 부채모양의 광택부가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중국, 대만에 분포하며, 몸은 길고 넓은 난형이며, 등쪽은 암갈색 내지 흑색이나 덜 우단모양으로 광택이 강하고, 아랫면은 갈색 내지 황갈색이다. 갓 우화한 개체는 황색이다. 촉각은 황색인데 수컷의 곤봉부는 자루마디의 2배 정도로 길고, 암컷은 자루마디보다 약간 짧은데 굵다. 제 3복부 복판은 중앙이 높게 솟아 올랐고, 전미절은 중앙 앞쪽과 그 앞마디의 뒤쪽에 돌기가 있는데 암컷은 약간 낮고, 뒤쪽의 가운데는 가로로 부채모양의 광택부가 있다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOEJ0038-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0038_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0038_2_th.jpg",
+      "alt": "주름배우단풍뎅이 1번째 사진 : 주름배우단풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0038_2_th2.jpg",
+      "caption": "주름배우단풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOEJ0038-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0038_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0038_1_th.jpg",
+      "alt": "주름배우단풍뎅이 2번째 사진 : 주름배우단풍뎅이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEJ0038_1_th2.jpg",
+      "caption": "주름배우단풍뎅이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOEJ0038-1",
+  "specimen_examples": [
+    {
+      "id": "SSUE0201171061",
+      "description": "[SSUE0201171061] 주름배우단풍뎅이 1982.05.20 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0201171062",
+      "description": "[SSUE0201171062] 주름배우단풍뎅이 1989.07.03 / / 성신여자대학교"
+    },
+    {
+      "id": "SSUE0201171064",
+      "description": "[SSUE0201171064] 주름배우단풍뎅이 1980.05.04 / / 성신여자대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOEJ0038-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOEJ0038&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:56+00:00",
+    "html_sha256": "a3b93c3f229fd4d447e947d9d740d314c8e3ed893d20bca52285455be033ee54",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

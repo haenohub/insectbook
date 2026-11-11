@@ -1,0 +1,137 @@
+{
+  "id": "ZMAR0004",
+  "name_ko": "금강산귀매미",
+  "scientific_name": "Neotituria kongosana (Matsumura, 1915)",
+  "display_name": "금강산귀매미",
+  "family_ko": "매미충과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "뿔매미상과",
+      "name_latin": "Membracoidea"
+    },
+    "family": {
+      "name_ko": "매미충과",
+      "name_latin": "Cicadellidae"
+    },
+    "subfamily": {
+      "name_ko": "귀매미아과",
+      "name_latin": "Ledrinae"
+    },
+    "genus": {
+      "name_ko": "금강산귀매미속",
+      "name_latin": "Neotituria"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 뿔매미상과 (Membracoidea)\n과 : 매미충과 (Cicadellidae)\n아과 : 귀매미아과 (Ledrinae)\n속 : 금강산귀매미속 (Neotituria)",
+  "basic_information": {
+    "곤충명": "금강산귀매미",
+    "학명": "Neotituria kongosana (Matsumura, 1915)"
+  },
+  "information": {
+    "general_description": "몸길이: 약11-14mm. 암컷이 수컷보다 훨씬크다.몸은 살아있을 때는 황록색 또는 초록색이지만, 죽은 표본에서는 황갈색 또는 오황색을 띤다. 등면에는 작고 적갈색을 띤 과립형 미세돌기가 드물게 산재한다. 머리는 앞가슴등판보다 좁고 주걱처럼 넓적하며, 중앙부가 포물선을 이루며 현저히 돌출하였다. 이마는 앞가쪽을 따라 붉은색 띄무늬를 가지고 있다. 앞가슴 등판의 양측 뒷모서리는 편평한 세모꼴로 크게 돌출되어있다. 앞날개의 후반부에는 날개맥이 그물 모양으로 형성되어있고, 날개맥위에는 과립형 미세돌기가 드물게 부착되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "주로 산림지대의 수관부 아래 초본류 군락에 서식한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이: 약11-14mm. 암컷이 수컷보다 훨씬크다.몸은 살아있을 때는 황록색 또는 초록색이지만, 죽은 표본에서는 황갈색 또는 오황색을 띤다. 등면에는 작고 적갈색을 띤 과립형 미세돌기가 드물게 산재한다. 머리는 앞가슴등판보다 좁고 주걱처럼 넓적하며, 중앙부가 포물선을 이루며 현저히 돌출하였다. 이마는 앞가쪽을 따라 붉은색 띄무늬를 가지고 있다. 앞가슴 등판의 양측 뒷모서리는 편평한 세모꼴로 크게 돌출되어있다. 앞날개의 후반부에는 날개맥이 그물 모양으로 형성되어있고, 날개맥위에는 과립형 미세돌기가 드물게 부착되어있다."
+    },
+    {
+      "title": "생태",
+      "text": "주로 산림지대의 수관부 아래 초본류 군락에 서식한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMAR0004-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0004_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0004_2_th.jpg",
+      "alt": "금강산귀매미 1번째 사진 : 금강산귀매미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0004_2_th2.jpg",
+      "caption": "금강산귀매미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZMAR0004-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0004_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0004_1_th.jpg",
+      "alt": "금강산귀매미 2번째 사진 : 금강산귀매미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0004_1_th2.jpg",
+      "caption": "금강산귀매미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMAR0004-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408191078",
+      "description": "[MPME0408191078] 금강산귀매미 2001.09.18 / / 목포자연사박물관"
+    },
+    {
+      "id": "UIBE0408221091",
+      "description": "[UIBE0408221091] 금강산귀매미 1994.10.04 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0408221092",
+      "description": "[UIBE0408221092] 금강산귀매미 1994.09.26 / / 인천대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "신갈나무",
+      "scientific_name": "Quercus mongolica Fisch. ex Ledeb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "칡",
+      "scientific_name": "Pueraria lobata (Willd.) Ohwi"
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZMAR0004.png",
+    "reference_image_id": "ZMAR0004-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T14:53:58.034413+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "6eebb371ef8e090799119332a89452130b5f0a4b9585725371c99960d3930e53"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMAR0004&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:44+00:00",
+    "html_sha256": "89ce0a20f9a8ea52fedc83c5c5287544dc56515640ec8ecee751ea11c5b47da6",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

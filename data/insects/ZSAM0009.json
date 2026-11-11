@@ -1,0 +1,107 @@
+{
+  "id": "ZSAM0009",
+  "name_ko": "검털파리",
+  "scientific_name": "Bibio tenebrosus Coquillett, 1898",
+  "display_name": "검털파리",
+  "family_ko": "털파리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "털파리상과",
+      "name_latin": "Bibionoidea"
+    },
+    "family": {
+      "name_ko": "털파리과",
+      "name_latin": "Bibionidae"
+    },
+    "subfamily": {
+      "name_ko": "털파리아과",
+      "name_latin": "Bibioninae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Bibio"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 털파리상과 (Bibionoidea)\n과 : 털파리과 (Bibionidae)\n아과 : 털파리아과 (Bibioninae)\n속 : (Bibio)",
+  "basic_information": {
+    "곤충명": "검털파리",
+    "학명": "Bibio tenebrosus Coquillett, 1898"
+  },
+  "information": {
+    "general_description": "체장: 11-14mm. 몸이 큰 종으로 시맥과 앞다리 종아리마디의 바깥쪽 며느리발톱의 모양으로 다른 종들과 뚜렷이 구별. 암컷의 이마 앞쪽 중앙은 비교적 부풀어 올랐으나 중앙부는 평탄. 작은턱수염은 굵고 길며 가슴은 광택이 있으나 가운데가슴등판에는 주름 모양의 폭 넓은 3개의 세로줄. 보통 머리와 가운데가슴등판에 밀생한 연한 털은 갈색 내지 흑색이지만 가슴옆판의 것들은 황색. 날개는 황갈색이고 제2전연실과 연문은 갈색. Rs는 r-m길이의 약 5배가 되며 M맥의 기부는 r-m과 같은 길이. 다리는 광택있는 흑색이고 암컷의 넓적다리마디는 갈색. 수컷의 앞다리 종아리마디는 가늘고 길며 바깥쪽 며느리발톱은 옆에서 보아 끝이 둥금. 안쪽 며느리발톱마디의 끝 반은 굵음. 배는 흑색이고 약간 갈색을 띠며 제1-2배마디등판의 옆가장자리 황색 털을 제외한 연약한 털은 갈색 내지 흑색.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[인도]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체장: 11-14mm. 몸이 큰 종으로 시맥과 앞다리 종아리마디의 바깥쪽 며느리발톱의 모양으로 다른 종들과 뚜렷이 구별. 암컷의 이마 앞쪽 중앙은 비교적 부풀어 올랐으나 중앙부는 평탄. 작은턱수염은 굵고 길며 가슴은 광택이 있으나 가운데가슴등판에는 주름 모양의 폭 넓은 3개의 세로줄. 보통 머리와 가운데가슴등판에 밀생한 연한 털은 갈색 내지 흑색이지만 가슴옆판의 것들은 황색. 날개는 황갈색이고 제2전연실과 연문은 갈색. Rs는 r-m길이의 약 5배가 되며 M맥의 기부는 r-m과 같은 길이. 다리는 광택있는 흑색이고 암컷의 넓적다리마디는 갈색. 수컷의 앞다리 종아리마디는 가늘고 길며 바깥쪽 며느리발톱은 옆에서 보아 끝이 둥금. 안쪽 며느리발톱마디의 끝 반은 굵음. 배는 흑색이고 약간 갈색을 띠며 제1-2배마디등판의 옆가장자리 황색 털을 제외한 연약한 털은 갈색 내지 흑색."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[인도]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSAM0009-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSAM0009_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSAM0009_1_th.jpg",
+      "alt": "검털파리 1번째 사진 : 검털파리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSAM0009_1_th2.jpg",
+      "caption": "검털파리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSAM0009-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0407261055",
+      "description": "[MPME0407261055] 검털파리 1997.07.14 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0407261056",
+      "description": "[MPME0407261056] 검털파리 1997.07.14 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0407261057",
+      "description": "[MPME0407261057] 검털파리 1997.07.14 / / 목포자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZSAM0009.png",
+    "reference_image_id": "ZSAM0009-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T12:07:29.685948+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "60bdc01e4a0c86342b1595ede44337fb72bd5ed0cff537111929b228a12c0e3c"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSAM0009&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:33+00:00",
+    "html_sha256": "d48dedb4f80c8031a7944b49457c59c193bcbf0607c7b7a367fc3d94bc887d83",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

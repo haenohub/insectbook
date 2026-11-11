@@ -1,0 +1,111 @@
+{
+  "id": "ZOAR0054",
+  "name_ko": "꼬마혹등목거위벌레",
+  "scientific_name": "Phymatapoderus flavimanus (Motschulsky, 1860)",
+  "display_name": "꼬마혹등목거위벌레",
+  "family_ko": "거위벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "거위벌레과",
+      "name_latin": "Attelabidae"
+    },
+    "subfamily": {
+      "name_ko": "목거위벌레아과",
+      "name_latin": "Apoderinae"
+    },
+    "genus": {
+      "name_ko": "꼬마혹등목거위벌레속",
+      "name_latin": "Phymatapoderus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 거위벌레과 (Attelabidae)\n아과 : 목거위벌레아과 (Apoderinae)\n속 : 꼬마혹등목거위벌레속 (Phymatapoderus)",
+  "basic_information": {
+    "곤충명": "꼬마혹등목거위벌레",
+    "학명": "Phymatapoderus flavimanus (Motschulsky, 1860)"
+  },
+  "information": {
+    "general_description": "몸길이는 5.5~5.8mm 이며 촉각과 다리는 황갈색이며 뒷다리의 퇴절은 남색이다. 몸에 전체는 광택이강한 청남색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "산림해충이다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 5.5~5.8mm 이며 촉각과 다리는 황갈색이며 뒷다리의 퇴절은 남색이다. 몸에 전체는 광택이강한 청남색이다."
+    },
+    {
+      "title": "생태",
+      "text": "산림해충이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAR0054-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0054_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0054_1_th.jpg",
+      "alt": "꼬마혹등목거위벌레 1번째 사진 : 꼬마혹거위벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0054_1_th2.jpg",
+      "caption": "꼬마혹거위벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAR0054-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0306131056",
+      "description": "[FRIE0306131056] 꼬마혹등목거위벌레 1998.08.27 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0303311001",
+      "description": "[FRIE0303311001] 꼬마혹등목거위벌레 1981.05.14 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0303311002",
+      "description": "[FRIE0303311002] 꼬마혹등목거위벌레 1981.05.25 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOAR0054.png",
+    "reference_image_id": "ZOAR0054-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T14:31:13.045773+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "5b6d340db3b880470d6f7c92a7444a0f08fe82e5c78749c9e99456a23fc108e7"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAR0054&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:51+00:00",
+    "html_sha256": "9e7fd33e09bb4c851a3d1c70dd53fdc40b642c962378d0440a12dfa4e323e2d2",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

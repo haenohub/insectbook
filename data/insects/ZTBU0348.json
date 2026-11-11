@@ -1,0 +1,103 @@
+{
+  "id": "ZTBU0348",
+  "name_ko": "황테맵시벌",
+  "scientific_name": "Togea albofasciata Uchida, 1926",
+  "display_name": "황테맵시벌",
+  "family_ko": "맵시벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "맵시벌과",
+      "name_latin": "Ichneumonidae"
+    },
+    "subfamily": {
+      "name_ko": "맵시벌아과",
+      "name_latin": "Ichneumoninae"
+    },
+    "genus": {
+      "name_ko": "황테맵시벌속",
+      "name_latin": "Togea"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 맵시벌과 (Ichneumonidae)\n아과 : 맵시벌아과 (Ichneumoninae)\n속 : 황테맵시벌속 (Togea)",
+  "basic_information": {
+    "곤충명": "황테맵시벌",
+    "학명": "Togea albofasciata Uchida, 1926"
+  },
+  "information": {
+    "general_description": "♀의 몸은 흑색이나 이마 양 옆과 얼굴 양 옆의 겹눈 안슭과 앞가슴의 등면, 작은방패판, 뒷가슴방패판은 황색이다. 그리고 뒷가슴의 양쪽 뒷면, 제1배마디의 뒤쪽에 있는 줄무늬는 황색이다. 뒷다리의 넓적다리마디의 끝과 종아리마디의 기부도 황색이나 발목마디는 회색이다. 왕알락그늘나방에 기생한다. 17mm정도",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "♀의 몸은 흑색이나 이마 양 옆과 얼굴 양 옆의 겹눈 안슭과 앞가슴의 등면, 작은방패판, 뒷가슴방패판은 황색이다. 그리고 뒷가슴의 양쪽 뒷면, 제1배마디의 뒤쪽에 있는 줄무늬는 황색이다. 뒷다리의 넓적다리마디의 끝과 종아리마디의 기부도 황색이나 발목마디는 회색이다. 왕알락그늘나방에 기생한다. 17mm정도"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBU0348-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0348_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0348_1_th.jpg",
+      "alt": "황테맵시벌 1번째 사진 : 황테맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0348_1_th2.jpg",
+      "caption": "황테맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBU0348-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305261135",
+      "description": "[YNUE0305261135] 황테맵시벌 1961.04.27 / / 영남대학교"
+    },
+    {
+      "id": "KNAE348676",
+      "description": "[KNAE348676] 황테맵시벌 / / 국립수목원"
+    },
+    {
+      "id": "KNAE348682",
+      "description": "[KNAE348682] 황테맵시벌 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTBU0348-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBU0348&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:02+00:00",
+    "html_sha256": "811f28154a61a10f808e8545d8e7b050afca029dbb485ad3d04075266d457a72",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

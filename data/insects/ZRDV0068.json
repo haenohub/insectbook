@@ -1,0 +1,143 @@
+{
+  "id": "ZRDV0068",
+  "name_ko": "들신선나비",
+  "scientific_name": "Nymphalis xanthomelas (Denis & Schiffermüller, 1775)",
+  "display_name": "들신선나비",
+  "family_ko": "네발나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "네발나비과",
+      "name_latin": "Nymphalidae"
+    },
+    "subfamily": {
+      "name_ko": "네발나비아과",
+      "name_latin": "Nymphalinae"
+    },
+    "genus": {
+      "name_ko": "신선나비속",
+      "name_latin": "Nymphalis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 네발나비과 (Nymphalidae)\n아과 : 네발나비아과 (Nymphalinae)\n속 : 신선나비속 (Nymphalis)",
+  "basic_information": {
+    "곤충명": "들신선나비",
+    "학명": "Nymphalis xanthomelas (Denis & Schiffermüller, 1775)"
+  },
+  "information": {
+    "general_description": "암수구별은 날개무늬로는 어렵고 배끝의 모양을 조사할 필요가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "잡목립 주변이나 개울가 등지에 동시에 서식한다. 길가의 습지에 앉아 있거나 산 정상 주변이나 임도에 앉아 일광욕을 하는 경우가 많다. 참나무의 진에 오며 간혹 꽃에서 흡밀한다. 월동후 일광욕을 하거나 강한 점유행동을 하는 경우가 있다.",
+    "season": null,
+    "overwintering": "성충",
+    "distribution": "[러시아]\n[유럽]\n[일본]\n[중국]\n[대만]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암수구별은 날개무늬로는 어렵고 배끝의 모양을 조사할 필요가 있다."
+    },
+    {
+      "title": "습성",
+      "text": "잡목립 주변이나 개울가 등지에 동시에 서식한다. 길가의 습지에 앉아 있거나 산 정상 주변이나 임도에 앉아 일광욕을 하는 경우가 많다. 참나무의 진에 오며 간혹 꽃에서 흡밀한다. 월동후 일광욕을 하거나 강한 점유행동을 하는 경우가 있다."
+    },
+    {
+      "title": "월동",
+      "text": "성충"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[유럽]\n[일본]\n[중국]\n[대만]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDV0068-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0068_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0068_3.jpg",
+      "alt": "들신선나비 1번째 사진 : 들신선나비 수컷 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDV0068_3_th2.jpg",
+      "caption": "들신선나비 수컷 이미지",
+      "photographed_at": "20120622",
+      "location": "강원도 화천군 화천읍 해산령",
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRDV0068-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0068_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0068_2_th.jpg",
+      "alt": "들신선나비 2번째 사진 : 들신선나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0068_2_th2.jpg",
+      "caption": "들신선나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDV0068-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0068_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0068_1_th.jpg",
+      "alt": "들신선나비 3번째 사진 : 들신선나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDV0068_1_th2.jpg",
+      "caption": "들신선나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDV0068-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0306031046",
+      "description": "[FRIE0306031046] 들신선나비 1984.05.30 / / 국립산림과학원"
+    },
+    {
+      "id": "FRIE0306031048",
+      "description": "[FRIE0306031048] 들신선나비 1958.06.15 / / 국립산림과학원"
+    },
+    {
+      "id": "ADUE0305101003",
+      "description": "[ADUE0305101003] 들신선나비 2001.08.20 / / 안동대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "갯버들",
+      "scientific_name": "Salix gracilistyla Miq."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDV0068-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDV0068&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:08+00:00",
+    "html_sha256": "8ca379580851c22b8601ede9d646babe0f90f7d76ace78890ea9619471a3fcfe",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

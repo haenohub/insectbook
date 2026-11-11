@@ -1,0 +1,95 @@
+{
+  "id": "ZOCR0025",
+  "name_ko": "검정땅콩물방개",
+  "scientific_name": "Agabus (Acatodes) conspicuus Sharp, 1873",
+  "display_name": "검정땅콩물방개",
+  "family_ko": "물방개과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "물방개과",
+      "name_latin": "Dytiscidae"
+    },
+    "subfamily": {
+      "name_ko": "땅콩물방개아과",
+      "name_latin": "Agabinae"
+    },
+    "genus": {
+      "name_ko": "땅콩물방개속",
+      "name_latin": "Agabus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 물방개과 (Dytiscidae)\n아과 : 땅콩물방개아과 (Agabinae)\n속 : 땅콩물방개속 (Agabus)",
+  "basic_information": {
+    "곤충명": "검정땅콩물방개",
+    "학명": "Agabus (Acatodes) conspicuus Sharp, 1873"
+  },
+  "information": {
+    "general_description": "한국, 일본에 분포하며, 체장은 11mm 내외이다. 머리와 앞가슴등판은 흑색이고 딱지날개는 황갈색 또는",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국, 일본에 분포하며, 체장은 11mm 내외이다. 머리와 앞가슴등판은 흑색이고 딱지날개는 황갈색 또는"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCR0025-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCR0025_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCR0025_1_th.jpg",
+      "alt": "검정땅콩물방개 1번째 사진 : 검정머리땅콩물방개전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCR0025_1_th2.jpg",
+      "caption": "검정머리땅콩물방개전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCR0025-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0408111002",
+      "description": "[UIBE0408111002] 검정땅콩물방개 1997.06.14 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOCR0025.png",
+    "reference_image_id": "ZOCR0025-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T11:14:02.062924+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "519a44e0457c3c3baf2cae542a75494d45f27000446d2d263e35a6a3fc1da838"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCR0025&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:14+00:00",
+    "html_sha256": "2105b80a55d48c6e5d89134ff70d1bf45dce9d1437308ea79416e23f64b5fd29",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

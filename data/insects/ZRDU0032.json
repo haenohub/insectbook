@@ -1,0 +1,142 @@
+{
+  "id": "ZRDU0032",
+  "name_ko": "검은줄재주나방",
+  "scientific_name": "Lophocosma atriplaga Staudinger, 1887",
+  "display_name": "검은줄재주나방",
+  "family_ko": "재주나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "재주나방과",
+      "name_latin": "Notodontidae"
+    },
+    "subfamily": {
+      "name_ko": "재주나방아과",
+      "name_latin": "Notodontinae"
+    },
+    "genus": {
+      "name_ko": "검은줄재주나방속",
+      "name_latin": "Lophocosma"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 재주나방과 (Notodontidae)\n아과 : 재주나방아과 (Notodontinae)\n속 : 검은줄재주나방속 (Lophocosma)",
+  "basic_information": {
+    "곤충명": "검은줄재주나방",
+    "학명": "Lophocosma atriplaga Staudinger, 1887"
+  },
+  "information": {
+    "general_description": "날개편 길이 22～24mm. 전연부에는 4개의 흑색점이 전연에 접하고 있다. 전연의 중앙에 있는 3번째 흑색점 무늬는 특히 크며 가로로 길다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 5～6월, 8～9월 연 2회 출현한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[중국]\n[일본]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 22～24mm. 전연부에는 4개의 흑색점이 전연에 접하고 있다. 전연의 중앙에 있는 3번째 흑색점 무늬는 특히 크며 가로로 길다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 5～6월, 8～9월 연 2회 출현한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[중국]\n[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDU0032-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0032_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0032_2_th.jpg",
+      "alt": "검은줄재주나방 1번째 사진 : 검은줄재주나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0032_2_th2.jpg",
+      "caption": "검은줄재주나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDU0032-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0032_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0032_1_th.jpg",
+      "alt": "검은줄재주나방 2번째 사진 : 검은줄재주나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDU0032_1_th2.jpg",
+      "caption": "검은줄재주나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDU0032-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0301082062",
+      "description": "[KNAE0301082062] 검은줄재주나방 1994.08.12 / / 국립수목원"
+    },
+    {
+      "id": "GSNE0301121005",
+      "description": "[GSNE0301121005] 검은줄재주나방 2001.07.21 / / 경상대학교"
+    },
+    {
+      "id": "FRIE0212301007",
+      "description": "[FRIE0212301007] 검은줄재주나방 2001.07.11 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "개암나무",
+      "scientific_name": "Corylus heterophylla Fisch. ex Trautv."
+    },
+    {
+      "group": "식물",
+      "name_ko": "까치박달",
+      "scientific_name": "Carpinus cordata Blume"
+    },
+    {
+      "group": "식물",
+      "name_ko": "황철나무",
+      "scientific_name": "Populus suaveolens Fisch. ex Poit. & A.Vilm."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDU0032.png",
+    "reference_image_id": "ZRDU0032-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T11:04:08.733238+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "a3a7e3dc2b2dca5b4de04fa308a2855ffeb3f691f524d411d060524e62aa73da"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDU0032&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:03+00:00",
+    "html_sha256": "df67869dcfa95616c691a0daf04a70838eae2374eb0a0fb9aa71b2583eaa471e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

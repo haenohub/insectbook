@@ -1,0 +1,103 @@
+{
+  "id": "ZREL0235",
+  "name_ko": "검투리뾰족명나방",
+  "scientific_name": "Endotricha costaemaculalis Christoph, 1881",
+  "display_name": "검투리뾰족명나방",
+  "family_ko": "명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "명나방과",
+      "name_latin": "Pyralidae"
+    },
+    "subfamily": {
+      "name_ko": "비단명나방아과",
+      "name_latin": "Pyralinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Endotricha"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 명나방과 (Pyralidae)\n아과 : 비단명나방아과 (Pyralinae)\n속 : (Endotricha)",
+  "basic_information": {
+    "곤충명": "검투리뾰족명나방",
+    "학명": "Endotricha costaemaculalis Christoph, 1881"
+  },
+  "information": {
+    "general_description": "중국 시베리아에 분포하며 앞날개는 길고 가늘며, 외연은 심한 경사를 이룬다. 앞날개의 횡선은 반원형이며, 그 바깥쪽은 담황백색 부분이 있다. 뒷날개의 2횡선은 아주 약하고, 그 중간 부분은 백색 내지 홍색을 띠지 않는다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중국 시베리아에 분포하며 앞날개는 길고 가늘며, 외연은 심한 경사를 이룬다. 앞날개의 횡선은 반원형이며, 그 바깥쪽은 담황백색 부분이 있다. 뒷날개의 2횡선은 아주 약하고, 그 중간 부분은 백색 내지 홍색을 띠지 않는다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0235-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0235_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0235_1_th.jpg",
+      "alt": "검투리뾰족명나방 1번째 사진 : 검투리뾰족명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0235_1_th2.jpg",
+      "caption": "검투리뾰족명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0235-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0301171016",
+      "description": "[FRIE0301171016] 검투리뾰족명나방 2002.06.14 / / 국립산림과학원"
+    },
+    {
+      "id": "CBNE0202231032",
+      "description": "[CBNE0202231032] 검투리뾰족명나방 2001.06.19 / / 충북대학교"
+    },
+    {
+      "id": "KNAE0611030095",
+      "description": "[KNAE0611030095] 검투리뾰족명나방 2006.06.15 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZREL0235.png",
+    "reference_image_id": "ZREL0235-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T12:11:32.223065+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "a9a52f4bfca3b7fd8b2f167be18489f0af461c62b01bb7875b12f0c084ea54af"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0235&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:34+00:00",
+    "html_sha256": "c79d27ef018bc0fd9d595a45d3aafcf5cb72668b67825ffc9bc0aef654ffc3c9",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "id": "ZRCI0385",
+  "name_ko": "날개물결가지나방",
+  "scientific_name": "Ectropis crepuscularia (Denis & Schiffermuller, 1775)",
+  "display_name": "날개물결가지나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "가지나방아과",
+      "name_latin": "Ennominae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Ectropis"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 가지나방아과 (Ennominae)\n속 : (Ectropis)",
+  "basic_information": {
+    "곤충명": "날개물결가지나방",
+    "학명": "Ectropis crepuscularia (Denis & Schiffermuller, 1775)"
+  },
+  "information": {
+    "general_description": "더듬이는 수컷이 미모상이고, 암컷은 실 모양임． 몸과 날개는 모두 회색 내지 회갈색 인데, 암색 비늘이 산재함．색깔의　명암，무늬의　강약은　개체에　따라　변화가　심함．날개의 횡선은 갈색 내지 흑갈색임． 앞날개의 내횡선은 물결 모양이고, 그 안쪽을 따라 암갈색 그늘이 수반됨．중횡선은　횡맥　부근에　있음．　외횡선은　약하게　굴곡하며，각맥을　암색으로　물들게　하고，특히　제１주맥（Cu1），제３중맥（M3)상에서　　암색의　돌기가　있음．",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 5~6월，８월에 출현함.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[러시아]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 수컷이 미모상이고, 암컷은 실 모양임． 몸과 날개는 모두 회색 내지 회갈색 인데, 암색 비늘이 산재함．색깔의　명암，무늬의　강약은　개체에　따라　변화가　심함．날개의 횡선은 갈색 내지 흑갈색임． 앞날개의 내횡선은 물결 모양이고, 그 안쪽을 따라 암갈색 그늘이 수반됨．중횡선은　횡맥　부근에　있음．　외횡선은　약하게　굴곡하며，각맥을　암색으로　물들게　하고，특히　제１주맥（Cu1），제３중맥（M3)상에서　　암색의　돌기가　있음．"
+    },
+    {
+      "title": "생태",
+      "text": "성충은 5~6월，８월에 출현함."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[러시아]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0385-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0385_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0385_2_th.jpg",
+      "alt": "날개물결가지나방 1번째 사진 : 날개물결가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0385_2_th2.jpg",
+      "caption": "날개물결가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0385-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0385_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0385_1_th.jpg",
+      "alt": "날개물결가지나방 2번째 사진 : 날개물결가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0385_1_th2.jpg",
+      "caption": "날개물결가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0385-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0304171034",
+      "description": "[KNAE0304171034] 날개물결가지나방 1999.04.09 / / 국립수목원"
+    },
+    {
+      "id": "FRIE0302131031",
+      "description": "[FRIE0302131031] 날개물결가지나방 1985.04.08 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0301022019",
+      "description": "[KNAE0301022019] 날개물결가지나방 1994.04.11 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRCI0385.png",
+    "reference_image_id": "ZRCI0385-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T16:07:33.370542+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "05cfd9cfa50d8088cac0cd7274a45c3d5ac31c3a55bb399b2907a2cff6eb5178"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0385&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:16+00:00",
+    "html_sha256": "8a90a2a9c32447e4b7c64a3b16f575710315a0f8faa5914e3a42a462f9aa781d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

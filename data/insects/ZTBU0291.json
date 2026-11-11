@@ -1,0 +1,99 @@
+{
+  "id": "ZTBU0291",
+  "name_ko": "수원별맵시벌",
+  "scientific_name": "Diphyus suigensis (Uchida, 1927)",
+  "display_name": "수원별맵시벌",
+  "family_ko": "맵시벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "맵시벌상과",
+      "name_latin": "Ichneumonoidea"
+    },
+    "family": {
+      "name_ko": "맵시벌과",
+      "name_latin": "Ichneumonidae"
+    },
+    "subfamily": {
+      "name_ko": "맵시벌아과",
+      "name_latin": "Ichneumoninae"
+    },
+    "genus": {
+      "name_ko": "세줄박이맵시벌속",
+      "name_latin": "Diphyus"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 맵시벌상과 (Ichneumonoidea)\n과 : 맵시벌과 (Ichneumonidae)\n아과 : 맵시벌아과 (Ichneumoninae)\n속 : 세줄박이맵시벌속 (Diphyus)",
+  "basic_information": {
+    "곤충명": "수원별맵시벌",
+    "학명": "Diphyus suigensis (Uchida, 1927)"
+  },
+  "information": {
+    "general_description": "♂은 흑색이나 제1배마디 기부 반과 제2배마디는 황색이다. 가운데가슴의 등면에는 거친 점각이 있고 제2배마디는 길이보다 다소 넓다. 뒷다리의 밑마디 끝의 반과 앞다리, 가운데다리의 넓적다리마디와 뒷다리의 넓적다리마디의 기부와 말단은 황색이며 뒷다리의 종아리마디 끝은 흑색이 아니다. 그밖의 것은 밑마디흰무늬맵시벌(Diphyus albicoxalis UCHIDA)과 비슷하다.성충의 몸길이는 19mm정도 이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "♂은 흑색이나 제1배마디 기부 반과 제2배마디는 황색이다. 가운데가슴의 등면에는 거친 점각이 있고 제2배마디는 길이보다 다소 넓다. 뒷다리의 밑마디 끝의 반과 앞다리, 가운데다리의 넓적다리마디와 뒷다리의 넓적다리마디의 기부와 말단은 황색이며 뒷다리의 종아리마디 끝은 흑색이 아니다. 그밖의 것은 밑마디흰무늬맵시벌(Diphyus albicoxalis UCHIDA)과 비슷하다.성충의 몸길이는 19mm정도 이다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTBU0291-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0291_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0291_1_th.jpg",
+      "alt": "수원별맵시벌 1번째 사진 : 수원별맵시벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTBU0291_1_th2.jpg",
+      "caption": "수원별맵시벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTBU0291-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305261140",
+      "description": "[YNUE0305261140] 수원별맵시벌 1961.06.11 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305261141",
+      "description": "[YNUE0305261141] 수원별맵시벌 1969.06.22 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305301026",
+      "description": "[YNUE0305301026] 수원별맵시벌 1988.07.30 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTBU0291-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTBU0291&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:35+00:00",
+    "html_sha256": "7d36db6974e05239d12b7b22cc3e7fdd40b2017e9550c0eded572235d6f66ab1",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

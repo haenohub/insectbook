@@ -1,0 +1,128 @@
+{
+  "id": "ZRCQ0019",
+  "name_ko": "수풀떠들썩팔랑나비",
+  "scientific_name": "Ochlodes venata (Bremer & Grey, 1853)",
+  "display_name": "수풀떠들썩팔랑나비",
+  "family_ko": "팔랑나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "팔랑나비과",
+      "name_latin": "Hesperiidae"
+    },
+    "subfamily": {
+      "name_ko": "팔랑나비아과",
+      "name_latin": "Hesperiinae"
+    },
+    "genus": {
+      "name_ko": "떠들썩팔랑나비속",
+      "name_latin": "Ochlodes"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 팔랑나비과 (Hesperiidae)\n아과 : 팔랑나비아과 (Hesperiinae)\n속 : 떠들썩팔랑나비속 (Ochlodes)",
+  "basic_information": {
+    "곤충명": "수풀떠들썩팔랑나비",
+    "학명": "Ochlodes venata (Bremer & Grey, 1853)"
+  },
+  "information": {
+    "general_description": "수컷은 앞날개 중실 밑에 검정색 선상 성표가 잇다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "주로 높은 산지의 초원이나 버려진 밭 주변 등에 서식한다. 암수 모두 갈퀴나물, 큰까치수영, 엉겅퀴 등의 꽃에서 흡밀하며 수컷은 습지나 새똥 등에도 잘 모인다. 경기도의 저산지에 사는 개체들은 수컷의 날개 윗면의 색이 혹화되는 특징이 나타난다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]\n[유럽]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "수컷은 앞날개 중실 밑에 검정색 선상 성표가 잇다."
+    },
+    {
+      "title": "습성",
+      "text": "주로 높은 산지의 초원이나 버려진 밭 주변 등에 서식한다. 암수 모두 갈퀴나물, 큰까치수영, 엉겅퀴 등의 꽃에서 흡밀하며 수컷은 습지나 새똥 등에도 잘 모인다. 경기도의 저산지에 사는 개체들은 수컷의 날개 윗면의 색이 혹화되는 특징이 나타난다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]\n[유럽]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCQ0019-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0019_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0019_2_th.jpg",
+      "alt": "수풀떠들썩팔랑나비 1번째 사진 : 수풀떠들썩팔랑나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0019_2_th2.jpg",
+      "caption": "수풀떠들썩팔랑나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCQ0019-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0019_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0019_1_th.jpg",
+      "alt": "수풀떠들썩팔랑나비 2번째 사진 : 수풀떠들썩팔랑나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCQ0019_1_th2.jpg",
+      "caption": "수풀떠들썩팔랑나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCQ0019-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0302122032",
+      "description": "[KNAE0302122032] 수풀떠들썩팔랑나비 1989.06.02 / / 국립수목원"
+    },
+    {
+      "id": "CBNE0201101013",
+      "description": "[CBNE0201101013] 수풀떠들썩팔랑나비 2001.06.19 / / 충북대학교"
+    },
+    {
+      "id": "CBNE0201101014",
+      "description": "[CBNE0201101014] 수풀떠들썩팔랑나비 2000.06.19 / / 충북대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "왕바랭이",
+      "scientific_name": "Eleusine indica (L.) Gaertn."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCQ0019-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCQ0019&tabId=tab1",
+    "collected_at": "2026-11-04T14:13:39+00:00",
+    "html_sha256": "cf87059d56e20859c0b8b1ecad0d9a53b468e09037a93b287badaa8b4c31207e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

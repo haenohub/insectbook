@@ -1,0 +1,106 @@
+{
+  "id": "ZOAM0029",
+  "name_ko": "홍얼룩띠소바구미",
+  "scientific_name": "Autotropis basipennis (Sharp, 1891)",
+  "display_name": "홍얼룩띠소바구미",
+  "family_ko": "소바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "소바구미과",
+      "name_latin": "Anthribidae"
+    },
+    "subfamily": {
+      "name_ko": "소바구미아과",
+      "name_latin": "Anthribinae"
+    },
+    "genus": {
+      "name_ko": "띠소바구미속",
+      "name_latin": "Autotropis"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 소바구미과 (Anthribidae)\n아과 : 소바구미아과 (Anthribinae)\n속 : 띠소바구미속 (Autotropis)",
+  "basic_information": {
+    "곤충명": "홍얼룩띠소바구미",
+    "학명": "Autotropis basipennis (Sharp, 1891)"
+  },
+  "information": {
+    "general_description": "몸길이는 3.5mm이며, 몸색은 흑색이고 갈색의 털로 무늬가 있다. 앞날개의 두개의 가로로된 넓은 갈색의 띠를 가지고 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 3.5mm이며, 몸색은 흑색이고 갈색의 털로 무늬가 있다. 앞날개의 두개의 가로로된 넓은 갈색의 띠를 가지고 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAM0029-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0029_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0029_2_th.jpg",
+      "alt": "홍얼룩띠소바구미 1번째 사진 : 홍얼룩띠소바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0029_2_th2.jpg",
+      "caption": "홍얼룩띠소바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOAM0029-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0029_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0029_1_th.jpg",
+      "alt": "홍얼룩띠소바구미 2번째 사진 : 홍얼룩띠소바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAM0029_1_th2.jpg",
+      "caption": "홍얼룩띠소바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAM0029-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0203071024",
+      "description": "[SNUE0203071024] 홍얼룩띠소바구미 1974.04.27 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAM0029-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAM0029&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:40+00:00",
+    "html_sha256": "26f973334a17d08d9febe9ae2733c86f09ec3a04d96f92362f22038a98c9dd84",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "validated_at": "2026-11-08T10:29:01.396378+00:00",
+  "requested_additional": 300,
+  "new_images_verified": 300,
+  "total_saved": 450,
+  "all_saved_png_signatures_verified": 450,
+  "saved_sha256_verified": 448,
+  "baseline_without_stored_sha256": 2,
+  "new_image_sha256_verified": 300,
+  "individual_aggregate_catalog_jobs_match": true,
+  "pending": 2853,
+  "run_status": "complete",
+  "held_reference_ids": [
+    "ZOBL0079"
+  ],
+  "anatomy_and_species_accuracy": "generated illustrations require visual/scientific review; see illustration-review.json"
+}

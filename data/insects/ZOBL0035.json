@@ -1,0 +1,107 @@
+{
+  "id": "ZOBL0035",
+  "name_ko": "넉점각시하늘소",
+  "scientific_name": "Pidonia (Omphalodera) puziloi (Solsky, 1873)",
+  "display_name": "넉점각시하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "꽃하늘소아과",
+      "name_latin": "Lepturinae"
+    },
+    "genus": {
+      "name_ko": "각시하늘소속",
+      "name_latin": "Pidonia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 꽃하늘소아과 (Lepturinae)\n속 : 각시하늘소속 (Pidonia)",
+  "basic_information": {
+    "곤충명": "넉점각시하늘소",
+    "학명": "Pidonia (Omphalodera) puziloi (Solsky, 1873)"
+  },
+  "information": {
+    "general_description": "몸의 길이는 4~6mm로 매우 작고 머리와 가슴이 흑색 더듬이와 배, 다리 부분이 양쪽날개와 합쳐지는 가운데의 줄은 황갈색이다. 딱지날개와 각 다리의 넓적다리마디의 끝쪽은 흑갈색이며 거의 검정색이다. 딱지날개는 2쌍의 작은 황색 무늬가 있으며 안쪽은 가깝고 바깥쪽은 멀어서 거의 x형에 가깝게 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의 길이는 4~6mm로 매우 작고 머리와 가슴이 흑색 더듬이와 배, 다리 부분이 양쪽날개와 합쳐지는 가운데의 줄은 황갈색이다. 딱지날개와 각 다리의 넓적다리마디의 끝쪽은 흑갈색이며 거의 검정색이다. 딱지날개는 2쌍의 작은 황색 무늬가 있으며 안쪽은 가깝고 바깥쪽은 멀어서 거의 x형에 가깝게 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0035-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0035_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0035_1_th.jpg",
+      "alt": "넉점각시하늘소 1번째 사진 : 넉점각시하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0035_1_th2.jpg",
+      "caption": "넉점각시하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0035-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0304251051",
+      "description": "[FRIE0304251051] 넉점각시하늘소 1995.06.14 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0304151034",
+      "description": "[KNAE0304151034] 넉점각시하늘소 1995.05.25 / / 국립수목원"
+    },
+    {
+      "id": "FRIE0303311012",
+      "description": "[FRIE0303311012] 넉점각시하늘소 1988.06.11 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBL0035.png",
+    "reference_image_id": "ZOBL0035-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-09T09:53:19.618346+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "78b4515309d95b314a4080463f11ba4659333df0cea97fdcd44c4ecb3d193e3d"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0035&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:31+00:00",
+    "html_sha256": "8595ff082ef2a5ef87342667291fef1f70dc4b79ea06895ec9920d9b10aa4c77",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

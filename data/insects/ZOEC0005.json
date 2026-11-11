@@ -1,0 +1,129 @@
+{
+  "id": "ZOEC0005",
+  "name_ko": "사슴벌레",
+  "scientific_name": "Lucanus dybowskyi dybowskyi Parry, 1873",
+  "display_name": "사슴벌레",
+  "family_ko": "사슴벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "사슴벌레과",
+      "name_latin": "Lucanidae"
+    },
+    "subfamily": {
+      "name_ko": "사슴벌레아과",
+      "name_latin": "Lucaninae"
+    },
+    "genus": {
+      "name_ko": "사슴벌레속",
+      "name_latin": "Lucanus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 사슴벌레과 (Lucanidae)\n아과 : 사슴벌레아과 (Lucaninae)\n속 : 사슴벌레속 (Lucanus)",
+  "basic_information": {
+    "곤충명": "사슴벌레",
+    "학명": "Lucanus dybowskyi dybowskyi Parry, 1873"
+  },
+  "information": {
+    "general_description": "중국북부, 아무르, 일본에 분포하며 적갈색,흑갈색을 띄며, 암컷이 더 진하고 매우 가는 황금색 미모로 덮혀있다. 머리의 앞쪽은 꼬끼리의 귀처럼 넓게 늘어났으며, 큰턱은 굵고 강하며 아래쪽을 향해있다. BL:27~51mm(수),25~40mm(암). ML:7~23mm.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "최근 종보호 차원에서 국외로 반출이 금지된 종이다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[반출금지종] 환경부고시제2001-210호",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중국북부, 아무르, 일본에 분포하며 적갈색,흑갈색을 띄며, 암컷이 더 진하고 매우 가는 황금색 미모로 덮혀있다. 머리의 앞쪽은 꼬끼리의 귀처럼 넓게 늘어났으며, 큰턱은 굵고 강하며 아래쪽을 향해있다. BL:27~51mm(수),25~40mm(암). ML:7~23mm."
+    },
+    {
+      "title": "생태",
+      "text": "최근 종보호 차원에서 국외로 반출이 금지된 종이다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[반출금지종] 환경부고시제2001-210호"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOEC0005-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOEC0005_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOEC0005_3.jpg",
+      "alt": "사슴벌레 1번째 사진 : ",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOEC0005_3_th2.jpg",
+      "caption": null,
+      "photographed_at": null,
+      "location": null,
+      "photographer": "국립수목원(이승규)"
+    },
+    {
+      "id": "ZOEC0005-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEC0005_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEC0005_2_th.jpg",
+      "alt": "사슴벌레 2번째 사진 : 사슴벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEC0005_2_th2.jpg",
+      "caption": "사슴벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOEC0005-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEC0005_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEC0005_1_th.jpg",
+      "alt": "사슴벌레 3번째 사진 : 사슴벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOEC0005_1_th2.jpg",
+      "caption": "사슴벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOEC0005-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408191063",
+      "description": "[MPME0408191063] 사슴벌레 1999.07.29 / / 목포자연사박물관"
+    },
+    {
+      "id": "UIBE0301282106",
+      "description": "[UIBE0301282106] 사슴벌레 2000.06.13 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301282107",
+      "description": "[UIBE0301282107] 사슴벌레 2000.06.13 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOEC0005-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOEC0005&tabId=tab1",
+    "collected_at": "2026-11-04T14:12:25+00:00",
+    "html_sha256": "f07491c9432a8a2bcb84b7ee47ee9b38869f1e7ac6c4cf780ad8f0e17d1b52eb",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

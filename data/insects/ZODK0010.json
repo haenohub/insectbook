@@ -1,0 +1,95 @@
+{
+  "id": "ZODK0010",
+  "name_ko": "제주풍뎅이붙이",
+  "scientific_name": "Saprinus (Saprinus) planiusculus Motschlsky, 1849",
+  "display_name": "제주풍뎅이붙이",
+  "family_ko": "풍뎅이붙이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "물땡땡이상과",
+      "name_latin": "Hydrophiloidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이붙이과",
+      "name_latin": "Histeridae"
+    },
+    "subfamily": {
+      "name_ko": "둥근풍뎅이붙이아과",
+      "name_latin": "Saprininae"
+    },
+    "genus": {
+      "name_ko": "둥근풍뎅이붙이속",
+      "name_latin": "Saprinus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 물땡땡이상과 (Hydrophiloidea)\n과 : 풍뎅이붙이과 (Histeridae)\n아과 : 둥근풍뎅이붙이아과 (Saprininae)\n속 : 둥근풍뎅이붙이속 (Saprinus)",
+  "basic_information": {
+    "곤충명": "제주풍뎅이붙이",
+    "학명": "Saprinus (Saprinus) planiusculus Motschlsky, 1849"
+  },
+  "information": {
+    "general_description": "몸길이는 5.2~6.6mm 이며 전체적으로 검은색의 강한 광택이 있으며 복부 제 8마디는 크게 확장되지 않았다",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[러시아]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 5.2~6.6mm 이며 전체적으로 검은색의 강한 광택이 있으며 복부 제 8마디는 크게 확장되지 않았다"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[러시아]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZODK0010-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODK0010_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODK0010_1_th.jpg",
+      "alt": "제주풍뎅이붙이 1번째 사진 : 제주풍뎅이붙이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZODK0010_1_th2.jpg",
+      "caption": "제주풍뎅이붙이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZODK0010-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0202081010",
+      "description": "[SNUE0202081010] 제주풍뎅이붙이 1968.06.18 / / 서울대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZODK0010-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZODK0010&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:38+00:00",
+    "html_sha256": "a7b10adf4f37c751618a82c793ea19026846d00a72b2694b29c827483ecdf720",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

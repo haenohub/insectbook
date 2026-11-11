@@ -1,0 +1,122 @@
+{
+  "id": "ZLAN0003",
+  "name_ko": "자귀나무허리노린재",
+  "scientific_name": "Homoeocerus (Anacanthocoris) striicornis Scott, 1874",
+  "display_name": "자귀나무허리노린재",
+  "family_ko": "허리노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "허리노린재상과",
+      "name_latin": "Coreoidea"
+    },
+    "family": {
+      "name_ko": "허리노린재과",
+      "name_latin": "Coreidae"
+    },
+    "subfamily": {
+      "name_ko": "허리노린재아과",
+      "name_latin": "Coreinae"
+    },
+    "genus": {
+      "name_ko": "배허리노린재속",
+      "name_latin": "Homoeocerus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 허리노린재상과 (Coreoidea)\n과 : 허리노린재과 (Coreidae)\n아과 : 허리노린재아과 (Coreinae)\n속 : 배허리노린재속 (Homoeocerus)",
+  "basic_information": {
+    "곤충명": "자귀나무허리노린재",
+    "학명": "Homoeocerus (Anacanthocoris) striicornis Scott, 1874"
+  },
+  "information": {
+    "general_description": "몸길이 : 17-21mm\n몸은 선록색이고, 반시초는 갈색이다. 몸은 대단히 호리호리하고 배면은 심히 팽출했다. 머리는 작고, 홑눈은 홍색이며, 겹눈은 흑갈색이다. 더듬이는 가늘고 길며 암갈색이다. 앞가슴당판은 녹색이고, 앞으로 경사지며, 전연부는 갓 모양을 이루지않았고, 옆가장자리는 뚜렷한 가는 능선을 이루고 흑색이다. 옆모서리는 짧게 돌출했으나 선단은 뾰족하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "자귀나무에서 채집된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 17-21mm\n몸은 선록색이고, 반시초는 갈색이다. 몸은 대단히 호리호리하고 배면은 심히 팽출했다. 머리는 작고, 홑눈은 홍색이며, 겹눈은 흑갈색이다. 더듬이는 가늘고 길며 암갈색이다. 앞가슴당판은 녹색이고, 앞으로 경사지며, 전연부는 갓 모양을 이루지않았고, 옆가장자리는 뚜렷한 가는 능선을 이루고 흑색이다. 옆모서리는 짧게 돌출했으나 선단은 뾰족하다."
+    },
+    {
+      "title": "생태",
+      "text": "자귀나무에서 채집된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLAN0003-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0003_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0003_1_th.jpg",
+      "alt": "자귀나무허리노린재 1번째 사진 : 자귀나무허리노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAN0003_1_th2.jpg",
+      "caption": "자귀나무허리노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLAN0003-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0408091006",
+      "description": "[KNAE0408091006] 자귀나무허리노린재 2002.10.06 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0408091007",
+      "description": "[KNAE0408091007] 자귀나무허리노린재 2002.10.06 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0408091008",
+      "description": "[KNAE0408091008] 자귀나무허리노린재 2002.10.07 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "감나무",
+      "scientific_name": "Diospyros kaki Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "자귀나무",
+      "scientific_name": "Albizia julibrissin Durazz."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLAN0003-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLAN0003&tabId=tab1",
+    "collected_at": "2026-11-04T14:17:44+00:00",
+    "html_sha256": "e75134c040c6ed02ea1476f1c095f8b2fac1271fec11203e3a76b80516ea164e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

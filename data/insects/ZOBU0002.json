@@ -1,0 +1,114 @@
+{
+  "id": "ZOBU0002",
+  "name_ko": "흰테길앞잡이",
+  "scientific_name": "Callytron inspeculare inspeculare (Horn, 1904)",
+  "display_name": "흰테길앞잡이",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "길앞잡이아과",
+      "name_latin": "Cicindelinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Callytron"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 길앞잡이아과 (Cicindelinae)\n속 : (Callytron)",
+  "basic_information": {
+    "곤충명": "흰테길앞잡이",
+    "학명": "Callytron inspeculare inspeculare (Horn, 1904)"
+  },
+  "information": {
+    "general_description": "체장은 10-12mm 정도이다. 몸은 흑색인데 청록색 모양의 광택이 있든지 또는 금록색 내지 적금색의 금속 광택이 난다. 가슴과 등은 앞뒤의 홈이 현저하고 중앙의 종조구와 같이 X자형으로 되었다. 딱지날개는 양쪽이 평행하고 적금색의 점각이 치밀하게 산포하였다. 몸아랫면은 금록색이고 다리도 같은 색이나 도래마디와 허벅다리마디의 윗끝은 적색이고 종아리마디, 발목마디도 적색이며 촉각은 암적색인데 네마디는 금속광택이 난다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대만]\n[중국]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체장은 10-12mm 정도이다. 몸은 흑색인데 청록색 모양의 광택이 있든지 또는 금록색 내지 적금색의 금속 광택이 난다. 가슴과 등은 앞뒤의 홈이 현저하고 중앙의 종조구와 같이 X자형으로 되었다. 딱지날개는 양쪽이 평행하고 적금색의 점각이 치밀하게 산포하였다. 몸아랫면은 금록색이고 다리도 같은 색이나 도래마디와 허벅다리마디의 윗끝은 적색이고 종아리마디, 발목마디도 적색이며 촉각은 암적색인데 네마디는 금속광택이 난다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대만]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBU0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0002_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0002_2_th.jpg",
+      "alt": "흰테길앞잡이 1번째 사진 : 흰테길앞잡이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0002_2_th2.jpg",
+      "caption": "흰테길앞잡이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBU0002-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0002_1_th.jpg",
+      "alt": "흰테길앞잡이 2번째 사진 : 흰테길앞잡이전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBU0002_1_th2.jpg",
+      "caption": "흰테길앞잡이전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBU0002-1",
+  "specimen_examples": [
+    {
+      "id": "DJUE0406231163",
+      "description": "[DJUE0406231163] 흰테길앞잡이 2002.07.08 / / 대전대학교"
+    },
+    {
+      "id": "DJUE0406231164",
+      "description": "[DJUE0406231164] 흰테길앞잡이 2002.07.08 / / 대전대학교"
+    },
+    {
+      "id": "DJUE0406231165",
+      "description": "[DJUE0406231165] 흰테길앞잡이 2002.07.08 / / 대전대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBU0002-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBU0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:23:56+00:00",
+    "html_sha256": "53c4fa9e1cc227a778d6c0cdd9b63822e1e45165958246ebe51431578daf5ab0",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

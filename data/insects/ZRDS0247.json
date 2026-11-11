@@ -1,0 +1,126 @@
+{
+  "id": "ZRDS0247",
+  "name_ko": "깃노랑밤나방",
+  "scientific_name": "Amphipoea ussuriensis (Petersen, 1914)",
+  "display_name": "깃노랑밤나방",
+  "family_ko": "밤나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "밤나방과",
+      "name_latin": "Noctuidae"
+    },
+    "subfamily": {
+      "name_ko": "밤나방아과",
+      "name_latin": "Noctuinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Amphipoea"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 밤나방과 (Noctuidae)\n아과 : 밤나방아과 (Noctuinae)\n속 : (Amphipoea)",
+  "basic_information": {
+    "곤충명": "깃노랑밤나방",
+    "학명": "Amphipoea ussuriensis (Petersen, 1914)"
+  },
+  "information": {
+    "general_description": "날개편 길이 14～16mm. 앞날개의 각 횡선은 물결 모양으로 잘 발달되었는데 외횡선의 바깥쪽으로는 다소 담색이다. 뒷날개는 회갈색 또는 암회갈색 바탕인데, 연모는 황색을 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 7～8월경에 출현된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 14～16mm. 앞날개의 각 횡선은 물결 모양으로 잘 발달되었는데 외횡선의 바깥쪽으로는 다소 담색이다. 뒷날개는 회갈색 또는 암회갈색 바탕인데, 연모는 황색을 띤다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 7～8월경에 출현된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0247-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0247_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0247_2_th.jpg",
+      "alt": "깃노랑밤나방 1번째 사진 : 깃노랑밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0247_2_th2.jpg",
+      "caption": "깃노랑밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDS0247-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0247_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0247_1_th.jpg",
+      "alt": "깃노랑밤나방 2번째 사진 : 깃노랑밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0247_1_th2.jpg",
+      "caption": "깃노랑밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0247-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0303051011",
+      "description": "[FRIE0303051011] 깃노랑밤나방 1998.06.24 / / 국립산림과학원"
+    },
+    {
+      "id": "KNUE0212201653",
+      "description": "[KNUE0212201653] 깃노랑밤나방 1991.08.01 / / 강원대학교"
+    },
+    {
+      "id": "KNUE0212201654",
+      "description": "[KNUE0212201654] 깃노랑밤나방 1985.08.13 / / 강원대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDS0247.png",
+    "reference_image_id": "ZRDS0247-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T09:43:25.729414+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "bcba2ba5c4b6a8bdff063c6584990ccf2c02666d62d71346147e56dbcdda2c0a"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0247&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:15+00:00",
+    "html_sha256": "6dbc1d393f08a9b5169de5ea6efc640603524e287e9977c7b68a9086d935b49e",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

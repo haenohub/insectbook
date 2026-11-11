@@ -1,0 +1,140 @@
+{
+  "id": "ZOBP0013",
+  "name_ko": "풀색꽃무지",
+  "scientific_name": "Gametis jucunda (Faldermann, 1935)",
+  "display_name": "풀색꽃무지",
+  "family_ko": "풍뎅이과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "풍뎅이상과",
+      "name_latin": "Scarabaeoidea"
+    },
+    "family": {
+      "name_ko": "풍뎅이과",
+      "name_latin": "Scarabaeidae"
+    },
+    "subfamily": {
+      "name_ko": "꽃무지아과",
+      "name_latin": "Cetoniinae"
+    },
+    "genus": {
+      "name_ko": "풀색꽃무지속",
+      "name_latin": "Gametis"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 풍뎅이상과 (Scarabaeoidea)\n과 : 풍뎅이과 (Scarabaeidae)\n아과 : 꽃무지아과 (Cetoniinae)\n속 : 풀색꽃무지속 (Gametis)",
+  "basic_information": {
+    "곤충명": "풀색꽃무지",
+    "학명": "Gametis jucunda (Faldermann, 1935)"
+  },
+  "information": {
+    "general_description": "중국, 대만, 네팔, 인도, 시베리아, 일본, 미국에 분포한다. 몸은 흑색이며, 담황색 털로 덮였으나 등쪽은 녹색이며, 앞가슴등판과 딱지날개는 담황색의 작은 무늬들이 흩어져 있다. 가끔 날개에는 1쌍의 크고 붉은색 무늬를 갖는 개체, 전체가 거의 흑색인 개체 등의 변이가 많다. 머리방패의 앞쪽은 V자형으로 깊게 파였고, 전경절은 암컷이 수컷보다 약간 넓으며, 외치는 3개인데 분명하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "중국, 대만, 네팔, 인도, 시베리아, 일본, 미국에 분포한다. 몸은 흑색이며, 담황색 털로 덮였으나 등쪽은 녹색이며, 앞가슴등판과 딱지날개는 담황색의 작은 무늬들이 흩어져 있다. 가끔 날개에는 1쌍의 크고 붉은색 무늬를 갖는 개체, 전체가 거의 흑색인 개체 등의 변이가 많다. 머리방패의 앞쪽은 V자형으로 깊게 파였고, 전경절은 암컷이 수컷보다 약간 넓으며, 외치는 3개인데 분명하다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBP0013-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBP0013_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBP0013_2.jpg",
+      "alt": "풀색꽃무지 1번째 사진 : ",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZOBP0013_2_th2.jpg",
+      "caption": null,
+      "photographed_at": "20120515",
+      "location": null,
+      "photographer": "국립수목원(임종옥)"
+    },
+    {
+      "id": "ZOBP0013-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBP0013_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBP0013_1_th.jpg",
+      "alt": "풀색꽃무지 2번째 사진 : 풀색꽃무지전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBP0013_1_th2.jpg",
+      "caption": "풀색꽃무지전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBP0013-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0408101054",
+      "description": "[KNAE0408101054] 풀색꽃무지 2001.04.15 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0408101053",
+      "description": "[KNAE0408101053] 풀색꽃무지 2001.04.15 / / 국립수목원"
+    },
+    {
+      "id": "FRIE0306181045",
+      "description": "[FRIE0306181045] 풀색꽃무지 1998.05.14 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "밤나무",
+      "scientific_name": "Castanea crenata Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "복사나무",
+      "scientific_name": "Prunus persica (L.) Batsch"
+    },
+    {
+      "group": "식물",
+      "name_ko": "붉나무",
+      "scientific_name": "Rhus chinensis Mill."
+    },
+    {
+      "group": "식물",
+      "name_ko": "온주밀감",
+      "scientific_name": "Citrus unshiu (Yu.Tanaka ex Swingle) Marcow."
+    },
+    {
+      "group": "식물",
+      "name_ko": "해당화",
+      "scientific_name": "Rosa rugosa Thunb."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBP0013-2"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBP0013&tabId=tab1",
+    "collected_at": "2026-11-04T14:21:52+00:00",
+    "html_sha256": "5b1a7865ecf6010ff8e2bab14879c8f7a5698dc27d40a3831ee472316d6583e9",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

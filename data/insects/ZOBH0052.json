@@ -1,0 +1,114 @@
+{
+  "id": "ZOBH0052",
+  "name_ko": "민줄딱정벌레",
+  "scientific_name": "Aulonocarabus (Adelocarabus) semiopacus (Reitter, 1895)",
+  "display_name": "민줄딱정벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "딱정벌레아과",
+      "name_latin": "Carabinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Aulonocarabus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 딱정벌레아과 (Carabinae)\n속 : (Aulonocarabus)",
+  "basic_information": {
+    "곤충명": "민줄딱정벌레",
+    "학명": "Aulonocarabus (Adelocarabus) semiopacus (Reitter, 1895)"
+  },
+  "information": {
+    "general_description": "몸길이는 수컷은 22~26mm 암컷은 24~29mm 이며, 일번적으로 검은색이나 다소 광택이 있다. 딱지날개는 매우 편편하다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "포식성이며, 강한 턱을 가지고 있어서 작은 절지동물들을 포식한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[포식성]\n[한국고유종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 수컷은 22~26mm 암컷은 24~29mm 이며, 일번적으로 검은색이나 다소 광택이 있다. 딱지날개는 매우 편편하다."
+    },
+    {
+      "title": "생태",
+      "text": "포식성이며, 강한 턱을 가지고 있어서 작은 절지동물들을 포식한다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[포식성]\n[한국고유종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0052-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0052_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0052_2_th.jpg",
+      "alt": "민줄딱정벌레 1번째 사진 : 민줄딱정벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0052_2_th2.jpg",
+      "caption": "민줄딱정벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0052-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0052_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0052_1_th.jpg",
+      "alt": "민줄딱정벌레 2번째 사진 : 민줄딱정벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0052_1_th2.jpg",
+      "caption": "민줄딱정벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0052-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408201062",
+      "description": "[MPME0408201062] 민줄딱정벌레 1999.07.27 / / 목포자연사박물관"
+    },
+    {
+      "id": "KNAE148636",
+      "description": "[KNAE148636] 민줄딱정벌레 / / 국립수목원"
+    },
+    {
+      "id": "KNAE148605",
+      "description": "[KNAE148605] 민줄딱정벌레 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0052-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0052&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:53+00:00",
+    "html_sha256": "ab842ae52354fa432e006862cf2b7698f3d3b661df2606130a82879278cc3976",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

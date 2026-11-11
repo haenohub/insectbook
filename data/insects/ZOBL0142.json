@@ -1,0 +1,161 @@
+{
+  "id": "ZOBL0142",
+  "name_ko": "벌호랑하늘소",
+  "scientific_name": "Cyrtoclytus capra (Germar, 1823)",
+  "display_name": "벌호랑하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "하늘소아과",
+      "name_latin": "Cerambycinae"
+    },
+    "genus": {
+      "name_ko": "벌호랑하늘소속",
+      "name_latin": "Cyrtoclytus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 하늘소아과 (Cerambycinae)\n속 : 벌호랑하늘소속 (Cyrtoclytus)",
+  "basic_information": {
+    "곤충명": "벌호랑하늘소",
+    "학명": "Cyrtoclytus capra (Germar, 1823)"
+  },
+  "information": {
+    "general_description": "체장 8.0~19.0 mm. 머리에는 거친 점각들이 산재하며 중앙 세로 융기선은 없다. 앞가슴등판의 길이는 너비와 같고 작은 혹들이 산재한다. 딱지날개의 길이는 너비의 약 2.9배이고 점각들이 많다. 날개 어깨 부분에는 연모 점이나 띠가 없고, 2개의 노란 연모 띠가 소순판을 향하는데 서로 연결되어 있지는 않으며, 말단에는 노란색의 가로 띠가 있다. 각 다리의 퇴절은 뒤쪽 1/3 지점에서 가장 굵다.",
+    "adult": null,
+    "adult_male": "뚜렷한 성적이형이 알려지지 않았다.",
+    "adult_female": "뚜렷한 성적이형이 알려지지 않았다.",
+    "larva": "가슴다리가 결여되어 있으며 앞가슴복판에는 갈색의 연모가 밀생한다는 점이 특징적이다. 머리는 앞쪽으로 서서히 좁아진다. 이마방패의 가장자리는 갈색이며 짧다. 윗입술은 볼록하고 말단 쪽으로 좁아진다. 큰턱의 말단은 둥글다. 앞가슴등판에는 2개의 넓은 연한 갈색 점들이 앞쪽 부분에 있다.",
+    "egg": "길이 1.5 mm 내외. 너비 0.8 mm 내외. 흰색이며, 길쭉하다. 뒤쪽 말단으로는 급격히 좁아진다. 난포막은 매끈하다.",
+    "pupa": "앞가슴등판은 볼록하고 기부에는 좁은 가로 홈이 있다. 중간가슴등판의 중앙은 매끈하고 털이 없다. 복부는 길쭉하고 5번째 마디부터 뒤쪽으로 가늘어진다. 각 등판에는 크고 뾰족한 강모들이 밀생한다.",
+    "ecology": "광엽수림 또는 혼합림에서 서식한다. 암컷 1개체는 평생 약 46개의 알을 산란한다.",
+    "habits": "다양한 꽃 위에서 볼 수 있으며, 참나무류 목재 집하장 등지에서 쉽게 볼 수 있다.",
+    "season": null,
+    "overwintering": "유충",
+    "distribution": null,
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": "경제적 피해 유발 해충으로 알려져 있지 않아, 종 특이적 방제법은 현재까지 없다.",
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체장 8.0~19.0 mm. 머리에는 거친 점각들이 산재하며 중앙 세로 융기선은 없다. 앞가슴등판의 길이는 너비와 같고 작은 혹들이 산재한다. 딱지날개의 길이는 너비의 약 2.9배이고 점각들이 많다. 날개 어깨 부분에는 연모 점이나 띠가 없고, 2개의 노란 연모 띠가 소순판을 향하는데 서로 연결되어 있지는 않으며, 말단에는 노란색의 가로 띠가 있다. 각 다리의 퇴절은 뒤쪽 1/3 지점에서 가장 굵다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "뚜렷한 성적이형이 알려지지 않았다."
+    },
+    {
+      "title": "성충(암)",
+      "text": "뚜렷한 성적이형이 알려지지 않았다."
+    },
+    {
+      "title": "번데기",
+      "text": "앞가슴등판은 볼록하고 기부에는 좁은 가로 홈이 있다. 중간가슴등판의 중앙은 매끈하고 털이 없다. 복부는 길쭉하고 5번째 마디부터 뒤쪽으로 가늘어진다. 각 등판에는 크고 뾰족한 강모들이 밀생한다."
+    },
+    {
+      "title": "유충",
+      "text": "가슴다리가 결여되어 있으며 앞가슴복판에는 갈색의 연모가 밀생한다는 점이 특징적이다. 머리는 앞쪽으로 서서히 좁아진다. 이마방패의 가장자리는 갈색이며 짧다. 윗입술은 볼록하고 말단 쪽으로 좁아진다. 큰턱의 말단은 둥글다. 앞가슴등판에는 2개의 넓은 연한 갈색 점들이 앞쪽 부분에 있다."
+    },
+    {
+      "title": "생태",
+      "text": "광엽수림 또는 혼합림에서 서식한다. 암컷 1개체는 평생 약 46개의 알을 산란한다."
+    },
+    {
+      "title": "습성",
+      "text": "다양한 꽃 위에서 볼 수 있으며, 참나무류 목재 집하장 등지에서 쉽게 볼 수 있다."
+    },
+    {
+      "title": "월동",
+      "text": "유충"
+    },
+    {
+      "title": "방제법",
+      "text": "경제적 피해 유발 해충으로 알려져 있지 않아, 종 특이적 방제법은 현재까지 없다."
+    },
+    {
+      "title": "알",
+      "text": "길이 1.5 mm 내외. 너비 0.8 mm 내외. 흰색이며, 길쭉하다. 뒤쪽 말단으로는 급격히 좁아진다. 난포막은 매끈하다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0142-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0142_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0142_2_th.jpg",
+      "alt": "벌호랑하늘소 1번째 사진 : 벌호랑하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0142_2_th2.jpg",
+      "caption": "벌호랑하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBL0142-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0142_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0142_1_th.jpg",
+      "alt": "벌호랑하늘소 2번째 사진 : 벌호랑하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0142_1_th2.jpg",
+      "caption": "벌호랑하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0142-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0408101060",
+      "description": "[UIBE0408101060] 벌호랑하늘소 1998.05.23 / / 인천대학교"
+    },
+    {
+      "id": "KNAE0304161017",
+      "description": "[KNAE0304161017] 벌호랑하늘소 1995.06.09 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0304161018",
+      "description": "[KNAE0304161018] 벌호랑하늘소 1995.06.05 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "거제수나무",
+      "scientific_name": "Betula costata Trautv."
+    },
+    {
+      "group": "식물",
+      "name_ko": "오리나무",
+      "scientific_name": "Alnus japonica (Thunb.) Steud."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBL0142-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0142&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:46+00:00",
+    "html_sha256": "1e0222ddbdd330f1383084ae0d61638dae283195288cbdd5e67a8638d0c647d0",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

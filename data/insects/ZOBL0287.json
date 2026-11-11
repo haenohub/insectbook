@@ -1,0 +1,107 @@
+{
+  "id": "ZOBL0287",
+  "name_ko": "고리사과하늘소",
+  "scientific_name": "Oberea (Oberea) heyrovskyi Pic, 1927",
+  "display_name": "고리사과하늘소",
+  "family_ko": "하늘소과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌레상과",
+      "name_latin": "Chrysomeloidea"
+    },
+    "family": {
+      "name_ko": "하늘소과",
+      "name_latin": "Cerambycidae"
+    },
+    "subfamily": {
+      "name_ko": "목하늘소아과",
+      "name_latin": "Lamiinae"
+    },
+    "genus": {
+      "name_ko": "사과하늘소속",
+      "name_latin": "Oberea"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 잎벌레상과 (Chrysomeloidea)\n과 : 하늘소과 (Cerambycidae)\n아과 : 목하늘소아과 (Lamiinae)\n속 : 사과하늘소속 (Oberea)",
+  "basic_information": {
+    "곤충명": "고리사과하늘소",
+    "학명": "Oberea (Oberea) heyrovskyi Pic, 1927"
+  },
+  "information": {
+    "general_description": "몸길이는 15~20mm 몸은 짧고 원통형이다. 다리와 앞가슴등판은 적갈색, 앞가슴윗쪽가운데에 한쌍의 흑색작은 무늬가있다. 딱지날개는 짙은 흑청색이며, 날개끝은 삼각모양이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 15~20mm 몸은 짧고 원통형이다. 다리와 앞가슴등판은 적갈색, 앞가슴윗쪽가운데에 한쌍의 흑색작은 무늬가있다. 딱지날개는 짙은 흑청색이며, 날개끝은 삼각모양이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBL0287-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0287_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0287_1_th.jpg",
+      "alt": "고리사과하늘소 1번째 사진 : 고리사과하늘소전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBL0287_1_th2.jpg",
+      "caption": "고리사과하늘소전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBL0287-1",
+  "specimen_examples": [
+    {
+      "id": "CBNE0212241044",
+      "description": "[CBNE0212241044] 고리사과하늘소 2002.05.14 / / 충북대학교"
+    },
+    {
+      "id": "HNUE0408171064",
+      "description": "[HNUE0408171064] 고리사과하늘소 1998.05.09 / / 한남대학교 자연사박물관"
+    },
+    {
+      "id": "KNAE0608232102",
+      "description": "[KNAE0608232102] 고리사과하늘소 2001.05.06 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBL0287.png",
+    "reference_image_id": "ZOBL0287-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T12:34:00.266984+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "bbdfd210a3b17ccb83b05f1f618e539f0b6e915900a489b6d2b2678e45d7d83d"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBL0287&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:52+00:00",
+    "html_sha256": "cd06c48e3cdf95de495479d41ad0055e9a51aa220d06dbb1c3949ec8ff2f2b87",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

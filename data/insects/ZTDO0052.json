@@ -1,0 +1,114 @@
+{
+  "id": "ZTDO0052",
+  "name_ko": "먹잎벌",
+  "scientific_name": "Taxonus carbonarius Takeuchi, 1929",
+  "display_name": "먹잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "검정날개잎벌아과",
+      "name_latin": "Allantinae"
+    },
+    "genus": {
+      "name_ko": "먹잎벌속",
+      "name_latin": "Taxonus"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 검정날개잎벌아과 (Allantinae)\n속 : 먹잎벌속 (Taxonus)",
+  "basic_information": {
+    "곤충명": "먹잎벌",
+    "학명": "Taxonus carbonarius Takeuchi, 1929"
+  },
+  "information": {
+    "general_description": "몸은 길고 윗입술은 크고 편평하며 끝이 뾰족하다. 머리방패는 볼록하며 깊고 둥글게 패여 있다. 측엽은 좁다. 큰턱은 비대칭으로 왼쪽은 세 개의 이를, 오른쪽은 한 개의 이를 갖는다. malar space는 있으나 폭은 다양하다. 복안은 subparallel하며 복안 사이는 복안 길이보다 넓다. 더듬이는 다양한 형태를 위하며, 제 3마디는 제 4마디보다 훨씬 길다. cenchri는 보통 크기이다. 뒷날개의 맥상은 다양하다. 뒷다리 넓적다리마디는 배끝까지 도달하지 못한다. 뒷다리 발목마디의 기부마디는 다음 마디들의 합보다 길다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸은 길고 윗입술은 크고 편평하며 끝이 뾰족하다. 머리방패는 볼록하며 깊고 둥글게 패여 있다. 측엽은 좁다. 큰턱은 비대칭으로 왼쪽은 세 개의 이를, 오른쪽은 한 개의 이를 갖는다. malar space는 있으나 폭은 다양하다. 복안은 subparallel하며 복안 사이는 복안 길이보다 넓다. 더듬이는 다양한 형태를 위하며, 제 3마디는 제 4마디보다 훨씬 길다. cenchri는 보통 크기이다. 뒷날개의 맥상은 다양하다. 뒷다리 넓적다리마디는 배끝까지 도달하지 못한다. 뒷다리 발목마디의 기부마디는 다음 마디들의 합보다 길다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0052-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0052_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0052_2_th.jpg",
+      "alt": "먹잎벌 1번째 사진 : 먹잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0052_2_th2.jpg",
+      "caption": "먹잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZTDO0052-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0052_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0052_1_th.jpg",
+      "alt": "먹잎벌 2번째 사진 : 먹잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0052_1_th2.jpg",
+      "caption": "먹잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0052-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305201042",
+      "description": "[YNUE0305201042] 먹잎벌 1989.05.26 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301059098",
+      "description": "[YNUE0301059098] 먹잎벌 1984.06.02 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0301059099",
+      "description": "[YNUE0301059099] 먹잎벌 1971.05.09 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDO0052-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0052&tabId=tab1",
+    "collected_at": "2026-11-04T14:09:03+00:00",
+    "html_sha256": "1111c36be536bbe75664e72b09f2cc1d72b65fa1c56fd03546723725cd1aad0a",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

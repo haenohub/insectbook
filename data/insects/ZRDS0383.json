@@ -1,0 +1,121 @@
+{
+  "id": "ZRDS0383",
+  "name_ko": "나무껍질나방",
+  "scientific_name": "Blenina senex (Butler, 1878)",
+  "display_name": "나무껍질나방",
+  "family_ko": "혹나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "혹나방과",
+      "name_latin": "Nolidae"
+    },
+    "subfamily": {
+      "name_ko": "푸른나방아과",
+      "name_latin": "Chloephorinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Blenina"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 혹나방과 (Nolidae)\n아과 : 푸른나방아과 (Chloephorinae)\n속 : (Blenina)",
+  "basic_information": {
+    "곤충명": "나무껍질나방",
+    "학명": "Blenina senex (Butler, 1878)"
+  },
+  "information": {
+    "general_description": "날개편 길이 18~20mm. 앞날개는 회녹색 또는 암녹갈색을 띠는데 인편이 매우 두텁게 깔려 있다. 뒷날개는 암갈색 바탕인데 담색의 횡선이 중앙에 나타난다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 7~8월경에 출현된다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 18~20mm. 앞날개는 회녹색 또는 암녹갈색을 띠는데 인편이 매우 두텁게 깔려 있다. 뒷날개는 암갈색 바탕인데 담색의 횡선이 중앙에 나타난다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 7~8월경에 출현된다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0383-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0383_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0383_1_th.jpg",
+      "alt": "나무껍질나방 1번째 사진 : 나무껍질밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0383_1_th2.jpg",
+      "caption": "나무껍질밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0383-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0201032016",
+      "description": "[KNAE0201032016] 나무껍질나방 1988.06.27 / / 국립수목원"
+    },
+    {
+      "id": "UIBE0202061030",
+      "description": "[UIBE0202061030] 나무껍질나방 1997.08.12 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0202061031",
+      "description": "[UIBE0202061031] 나무껍질나방 2000.08.06 / / 인천대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "감나무",
+      "scientific_name": "Diospyros kaki Thunb."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDS0383.png",
+    "reference_image_id": "ZRDS0383-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T15:36:19.520672+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "50f16efce0fe11a6e978107b9cd4f1cd67feb9d9e2d3402deb1515649d24a069"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0383&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:09+00:00",
+    "html_sha256": "84ec9e06bfbe4f9ddac57074cd74696da426366282c6538277aa42cee380eff5",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

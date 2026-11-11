@@ -1,0 +1,103 @@
+{
+  "id": "ZSEX0002",
+  "name_ko": "대모각다귀",
+  "scientific_name": "Dictenidia fasciata Coquillett, 1898",
+  "display_name": "대모각다귀",
+  "family_ko": "각다귀과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "파리목",
+      "name_latin": "Diptera"
+    },
+    "superfamily": {
+      "name_ko": "각다귀상과",
+      "name_latin": "Tipuloidea"
+    },
+    "family": {
+      "name_ko": "각다귀과",
+      "name_latin": "Tipulidae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Ctenophorinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Dictenidia"
+    }
+  },
+  "taxonomy_text": "목 : 파리목 (Diptera)\n상과 : 각다귀상과 (Tipuloidea)\n과 : 각다귀과 (Tipulidae)\n아과 : (Ctenophorinae)\n속 : (Dictenidia)",
+  "basic_information": {
+    "곤충명": "대모각다귀",
+    "학명": "Dictenidia fasciata Coquillett, 1898"
+  },
+  "information": {
+    "general_description": "몸길이 13~17mm, 날개길이 14~16mm. 몸색깔은 흑색이며 오렌지색의 무늬가 있고 광택이 있음. 머리는 흑색이며 긴 센털이 밀집함. 겹눈은 흑색이고 더듬이는 13마디이며 수컷은 뚜렷한 빗살모양이고 1,2마디는 흑색이며 3마디 이하의 몇 마디는 황갈색이나 빗살의 가지와 끝쪽의 마디는 흑갈색이고 3마디에는 가지가 1개, 4~12마디에는 각각 2개 있으며 각 마디의 뒤쪽 가지는 앞쪽가지보다 길고 겉쪽으로 향함. 수컷의 2~4배마디, 암컷의 3~4배마디는 오렌지색이며 날개는 연흑색이고 반투명하며 기부와 연문은 흑색임. 다리는 털이 밀생했고 밑마디는 흑색이도 도래마디는 오렌지색이며 넓적다리마디는 끝이 굵고 오렌지색이며 끝은 흑색임. 종아리마디는 오렌지색이고 앞다리와 가운데다리에서는 양 끝이 흑색이고 뒷다리에서는 중앙이 흑색이며 발목마디도 흑색임.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 13~17mm, 날개길이 14~16mm. 몸색깔은 흑색이며 오렌지색의 무늬가 있고 광택이 있음. 머리는 흑색이며 긴 센털이 밀집함. 겹눈은 흑색이고 더듬이는 13마디이며 수컷은 뚜렷한 빗살모양이고 1,2마디는 흑색이며 3마디 이하의 몇 마디는 황갈색이나 빗살의 가지와 끝쪽의 마디는 흑갈색이고 3마디에는 가지가 1개, 4~12마디에는 각각 2개 있으며 각 마디의 뒤쪽 가지는 앞쪽가지보다 길고 겉쪽으로 향함. 수컷의 2~4배마디, 암컷의 3~4배마디는 오렌지색이며 날개는 연흑색이고 반투명하며 기부와 연문은 흑색임. 다리는 털이 밀생했고 밑마디는 흑색이도 도래마디는 오렌지색이며 넓적다리마디는 끝이 굵고 오렌지색이며 끝은 흑색임. 종아리마디는 오렌지색이고 앞다리와 가운데다리에서는 양 끝이 흑색이고 뒷다리에서는 중앙이 흑색이며 발목마디도 흑색임."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZSEX0002-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEX0002_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEX0002_1_th.jpg",
+      "alt": "대모각다귀 1번째 사진 : 대모각다귀전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/S1/ZSEX0002_1_th2.jpg",
+      "caption": "대모각다귀전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZSEX0002-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0301241029",
+      "description": "[KNAE0301241029] 대모각다귀 1994.09.08 / / 국립수목원"
+    },
+    {
+      "id": "KUIE0308041259",
+      "description": "[KUIE0308041259] 대모각다귀 1977.06.12 / / 고려대학교"
+    },
+    {
+      "id": "KUIE0308041260",
+      "description": "[KUIE0308041260] 대모각다귀 1969.06.22 / / 고려대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZSEX0002-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZSEX0002&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:13+00:00",
+    "html_sha256": "4efb334fcf5b84cc38303ee4b1403d3b9232d80b4d0a448a201194bd1c8e3541",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

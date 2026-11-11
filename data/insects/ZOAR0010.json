@@ -1,0 +1,111 @@
+{
+  "id": "ZOAR0010",
+  "name_ko": "단풍뿔거위벌레",
+  "scientific_name": "Byctiscus venustus (Pascoe, 1875)",
+  "display_name": "단풍뿔거위벌레",
+  "family_ko": "거위벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "거위벌레과",
+      "name_latin": "Attelabidae"
+    },
+    "subfamily": {
+      "name_ko": "주둥이거위벌레아과",
+      "name_latin": "Rhynchitinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Byctiscus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 거위벌레과 (Attelabidae)\n아과 : 주둥이거위벌레아과 (Rhynchitinae)\n속 : (Byctiscus)",
+  "basic_information": {
+    "곤충명": "단풍뿔거위벌레",
+    "학명": "Byctiscus venustus (Pascoe, 1875)"
+  },
+  "information": {
+    "general_description": "체장은 5.5-8.5mm정도이다. 수컷의 더듬이는 주둥이의 가운데서 나오며, 그 부근의 주둥이는 강하게 굽어있다. 암컷은 더듬이가 가운데 바로 뒤에서 나온다. 등쪽의 색은 동자색 또는 녹색이며, 몸의 아랫면은 청남색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "단풍나무류를 기주식물로 한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[러시아]",
+    "notes": "[보통종]\n[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체장은 5.5-8.5mm정도이다. 수컷의 더듬이는 주둥이의 가운데서 나오며, 그 부근의 주둥이는 강하게 굽어있다. 암컷은 더듬이가 가운데 바로 뒤에서 나온다. 등쪽의 색은 동자색 또는 녹색이며, 몸의 아랫면은 청남색이다."
+    },
+    {
+      "title": "생태",
+      "text": "단풍나무류를 기주식물로 한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]\n[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOAR0010-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0010_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0010_1_th.jpg",
+      "alt": "단풍뿔거위벌레 1번째 사진 : 단풍뿔거위벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOAR0010_1_th2.jpg",
+      "caption": "단풍뿔거위벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOAR0010-1",
+  "specimen_examples": [
+    {
+      "id": "ADUE0304031088",
+      "description": "[ADUE0304031088] 단풍뿔거위벌레 2002.05.20 / / 안동대학교"
+    },
+    {
+      "id": "KNAE0712140150",
+      "description": "[KNAE0712140150] 단풍뿔거위벌레 2007.05.02 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0911061057",
+      "description": "[KNAE0911061057] 단풍뿔거위벌레 2007.06.02 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOAR0010-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOAR0010&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:51+00:00",
+    "html_sha256": "1342ac6d1428a6b7f5de8dd5bcaff096e0eb6cc7c6034070acde006ad7f5ff79",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": "ZMAR0162",
+  "name_ko": "황록매미충",
+  "scientific_name": "Laburrus (Laburrus) impictifrons (Boheman, 1852)",
+  "display_name": "황록매미충",
+  "family_ko": "매미충과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "뿔매미상과",
+      "name_latin": "Membracoidea"
+    },
+    "family": {
+      "name_ko": "매미충과",
+      "name_latin": "Cicadellidae"
+    },
+    "subfamily": {
+      "name_ko": "매미충아과",
+      "name_latin": "Deltocephalinae"
+    },
+    "genus": {
+      "name_ko": "황록매미충속",
+      "name_latin": "Laburrus"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 뿔매미상과 (Membracoidea)\n과 : 매미충과 (Cicadellidae)\n아과 : 매미충아과 (Deltocephalinae)\n속 : 황록매미충속 (Laburrus)",
+  "basic_information": {
+    "곤충명": "황록매미충",
+    "학명": "Laburrus (Laburrus) impictifrons (Boheman, 1852)"
+  },
+  "information": {
+    "general_description": "몸길이:수컷 약5mm, 암컷 약5.7mm.\n몸의 등면은 황색 내지 황록색이고 머리는 둥글고 황록색이며 옆가장자리에 얼굴의 갈색 줄무늬가 약간 나타난다. 정중선은 후반부에 나타나며 겹눈은 흑갈색이나 안 옆가장자리는 황갈색이다. 홑눈은 무색 투명하고 담황색으로 보이며 겹눈의 앞쪽에 약간 떨어져 있다. 앞가슴등판은 황록색이고 중앙 부분에 지붕 모양의 경계선을 가지며 뒤편에는 무색의 점각과 미세한 가로 주름이 있다. 작은방패판은 황록색이고 깔때기모양이고 가로홈은 깊고 중간이 약간 굽었다. 날개의 조상부는 황록색이나 날개맥은 색깔이 짙다. 또 끝부분은 담갈색이고 조상부 끝부터 뒷부분은 좌우가 겹친다. 몸의 밑면은 황색이다. 뒷가슴의 배판과 제1,제2배마디의 배판 중 중앙 부분은 흑색이다. 앞다리 및 가운데다리의 넓적다리마디에도 작은 흑갈색의 무늬가 있고 뒷다리의 종아리마디에는 안 옆능선에 선명한 흑색 줄무늬가 있다. 각 극모의 기점은 흑색이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[유럽]\n[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이:수컷 약5mm, 암컷 약5.7mm.\n몸의 등면은 황색 내지 황록색이고 머리는 둥글고 황록색이며 옆가장자리에 얼굴의 갈색 줄무늬가 약간 나타난다. 정중선은 후반부에 나타나며 겹눈은 흑갈색이나 안 옆가장자리는 황갈색이다. 홑눈은 무색 투명하고 담황색으로 보이며 겹눈의 앞쪽에 약간 떨어져 있다. 앞가슴등판은 황록색이고 중앙 부분에 지붕 모양의 경계선을 가지며 뒤편에는 무색의 점각과 미세한 가로 주름이 있다. 작은방패판은 황록색이고 깔때기모양이고 가로홈은 깊고 중간이 약간 굽었다. 날개의 조상부는 황록색이나 날개맥은 색깔이 짙다. 또 끝부분은 담갈색이고 조상부 끝부터 뒷부분은 좌우가 겹친다. 몸의 밑면은 황색이다. 뒷가슴의 배판과 제1,제2배마디의 배판 중 중앙 부분은 흑색이다. 앞다리 및 가운데다리의 넓적다리마디에도 작은 흑갈색의 무늬가 있고 뒷다리의 종아리마디에는 안 옆능선에 선명한 흑색 줄무늬가 있다. 각 극모의 기점은 흑색이다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[유럽]\n[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMAR0162-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0162_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0162_2_th.jpg",
+      "alt": "황록매미충 1번째 사진 : 황록매미충전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0162_2_th2.jpg",
+      "caption": "황록매미충전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZMAR0162-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0162_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0162_1_th.jpg",
+      "alt": "황록매미충 2번째 사진 : 황록매미충전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0162_1_th2.jpg",
+      "caption": "황록매미충전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMAR0162-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0407121113",
+      "description": "[KPNE0407121113] 황록매미충 1981.07.19 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0407121114",
+      "description": "[KPNE0407121114] 황록매미충 1981.07.19 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0407121116",
+      "description": "[KPNE0407121116] 황록매미충 1997.08.13 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZMAR0162-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMAR0162&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:54+00:00",
+    "html_sha256": "bce29ecad2e876cf6c9990a811d8edd3a9c63e25d1320fca3eab9e4d6f3b07c4",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

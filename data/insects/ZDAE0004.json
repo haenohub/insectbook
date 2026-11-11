@@ -1,0 +1,110 @@
+{
+  "id": "ZDAE0004",
+  "name_ko": "아시아실잠자리",
+  "scientific_name": "Ischnura asiatica (Brauer, 1865)",
+  "display_name": "아시아실잠자리",
+  "family_ko": "실잠자리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "잠자리목",
+      "name_latin": "Odonata"
+    },
+    "family": {
+      "name_ko": "실잠자리과",
+      "name_latin": "Coenagrionidae"
+    },
+    "subfamily": {
+      "name_ko": "아시아실잠자리아과",
+      "name_latin": "Ischnurinae"
+    },
+    "genus": {
+      "name_ko": "아시아실잠자리속",
+      "name_latin": "Ischnura"
+    }
+  },
+  "taxonomy_text": "목 : 잠자리목 (Odonata)\n과 : 실잠자리과 (Coenagrionidae)\n아과 : 아시아실잠자리아과 (Ischnurinae)\n속 : 아시아실잠자리속 (Ischnura)",
+  "basic_information": {
+    "곤충명": "아시아실잠자리",
+    "학명": "Ischnura asiatica (Brauer, 1865)"
+  },
+  "information": {
+    "general_description": "배길이 20~24mm, 뒷날개길이 12~19mm. 수컷은 몸 전체가 청록색이며 앞가슴 등면에 2줄의 가는 청록색 줄무늬가 있음. 옆가슴에는 일직선으로 흑색 줄무늬가 등쪽으로 나 있음. 배 2마디 등면의 흑색 무늬는 8마디의 끝까지 연결되어 있고 9마디만 옅은 청색임. 암컷은 우화직전 몸 전체가 적색 바탕에 등면 중앙부에 흑색 줄이 있으나 성숙하여 갈수록 몸 전체가 녹색을 띠게 되는 녹색형과, 색상에 별 차이가 없는 황등색형의 2가지가 있음. 이런 황등색형은 주로 남부지방에서 발견되며 드문 편임.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "배길이 20~24mm, 뒷날개길이 12~19mm. 수컷은 몸 전체가 청록색이며 앞가슴 등면에 2줄의 가는 청록색 줄무늬가 있음. 옆가슴에는 일직선으로 흑색 줄무늬가 등쪽으로 나 있음. 배 2마디 등면의 흑색 무늬는 8마디의 끝까지 연결되어 있고 9마디만 옅은 청색임. 암컷은 우화직전 몸 전체가 적색 바탕에 등면 중앙부에 흑색 줄이 있으나 성숙하여 갈수록 몸 전체가 녹색을 띠게 되는 녹색형과, 색상에 별 차이가 없는 황등색형의 2가지가 있음. 이런 황등색형은 주로 남부지방에서 발견되며 드문 편임."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZDAE0004-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAE0004_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAE0004_2_th.jpg",
+      "alt": "아시아실잠자리 1번째 사진 : 아시아실잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAE0004_2_th2.jpg",
+      "caption": "아시아실잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZDAE0004-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAE0004_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAE0004_1_th.jpg",
+      "alt": "아시아실잠자리 2번째 사진 : 아시아실잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAE0004_1_th2.jpg",
+      "caption": "아시아실잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZDAE0004-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0302032043",
+      "description": "[KNAE0302032043] 아시아실잠자리 1995.06.06 / / 국립수목원"
+    },
+    {
+      "id": "YNUE0212268001",
+      "description": "[YNUE0212268001] 아시아실잠자리 2001.05.26 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0212268008",
+      "description": "[YNUE0212268008] 아시아실잠자리 1997.07.28 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZDAE0004-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZDAE0004&tabId=tab1",
+    "collected_at": "2026-11-04T14:14:21+00:00",
+    "html_sha256": "e63229b2eaef37beb1e7c077ee4b3bb45bd294fd9df4faed6ebb706784035a42",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

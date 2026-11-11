@@ -1,0 +1,126 @@
+{
+  "id": "ZRAE0005",
+  "name_ko": "기생얼룩나방",
+  "scientific_name": "Sarbanissa venusta (Leech, [1889])",
+  "display_name": "기생얼룩나방",
+  "family_ko": "밤나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "밤나방과",
+      "name_latin": "Noctuidae"
+    },
+    "subfamily": {
+      "name_ko": "얼룩나방아과",
+      "name_latin": "Agaristinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Sarbanissa"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 밤나방과 (Noctuidae)\n아과 : 얼룩나방아과 (Agaristinae)\n속 : (Sarbanissa)",
+  "basic_information": {
+    "곤충명": "기생얼룩나방",
+    "학명": "Sarbanissa venusta (Leech, [1889])"
+  },
+  "information": {
+    "general_description": "날개편 길이 18～20mm. 날개는 회갈색 바탕으로 복잡한 노랑색 줄무늬가 여러개 있고, 중실의 안쪽과 바깥쪽에는 각기 1개씩의 흑갈색 점무늬가 있는데 바깥쪽의 것이 월등히 크다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 7～8월경에 출현한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[인도]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개편 길이 18～20mm. 날개는 회갈색 바탕으로 복잡한 노랑색 줄무늬가 여러개 있고, 중실의 안쪽과 바깥쪽에는 각기 1개씩의 흑갈색 점무늬가 있는데 바깥쪽의 것이 월등히 크다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 7～8월경에 출현한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[인도]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRAE0005-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAE0005_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAE0005_2_th.jpg",
+      "alt": "기생얼룩나방 1번째 사진 : 기생얼룩나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAE0005_2_th2.jpg",
+      "caption": "기생얼룩나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRAE0005-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAE0005_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAE0005_1_th.jpg",
+      "alt": "기생얼룩나방 2번째 사진 : 기생얼룩나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRAE0005_1_th2.jpg",
+      "caption": "기생얼룩나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRAE0005-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE64539",
+      "description": "[KNAE64539] 기생얼룩나방 / / 국립수목원"
+    },
+    {
+      "id": "SJNE0306141277",
+      "description": "[SJNE0306141277] 기생얼룩나방 2002.07.01 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0306141278",
+      "description": "[SJNE0306141278] 기생얼룩나방 2002.07.02 / / 상주대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRAE0005.png",
+    "reference_image_id": "ZRAE0005-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T15:15:46.197059+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "c70f6e22f052ea53423c972893346f2931642183888da52efc7dca1e1741d86d"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRAE0005&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:50+00:00",
+    "html_sha256": "bf73f5c50043c33ecffadc2f650599ce828b6795da77bd8bef4a60227c5210bc",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "id": "ZOCF0016",
+  "name_ko": "줄주둥이바구미",
+  "scientific_name": "Myosides seriehispidus Roelofs, 1873",
+  "display_name": "줄주둥이바구미",
+  "family_ko": "바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "바구미과",
+      "name_latin": "Curculionidae"
+    },
+    "subfamily": {
+      "name_ko": "줄바구미아과",
+      "name_latin": "Entiminae"
+    },
+    "genus": {
+      "name_ko": "줄주둥이바구미속",
+      "name_latin": "Myosides"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 바구미과 (Curculionidae)\n아과 : 줄바구미아과 (Entiminae)\n속 : 줄주둥이바구미속 (Myosides)",
+  "basic_information": {
+    "곤충명": "줄주둥이바구미",
+    "학명": "Myosides seriehispidus Roelofs, 1873"
+  },
+  "information": {
+    "general_description": "한국(중부, 남부, 울릉도, 제주특별자치도), 일본, 러시아에 분포하며, 몸길이 2.7-3.5 mm. 촉각구는 주둥이 등측면에 위치하며, 위로 향하여 있고, 짧다. 발톱기부는 분리되어 있다. 구상판이 뚜렷하다. 딱지날개 각 간실의 직립 인모는 짧고 넓은 주걱모양, 말단이 확장, 폭의 2.5-3.0배 길이.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "지표의 낙엽부토층에서 채집됨.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "한국(중부, 남부, 울릉도, 제주특별자치도), 일본, 러시아에 분포하며, 몸길이 2.7-3.5 mm. 촉각구는 주둥이 등측면에 위치하며, 위로 향하여 있고, 짧다. 발톱기부는 분리되어 있다. 구상판이 뚜렷하다. 딱지날개 각 간실의 직립 인모는 짧고 넓은 주걱모양, 말단이 확장, 폭의 2.5-3.0배 길이."
+    },
+    {
+      "title": "생태",
+      "text": "지표의 낙엽부토층에서 채집됨."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCF0016-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0016_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0016_2_th.jpg",
+      "alt": "줄주둥이바구미 1번째 사진 : 줄주둥이바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0016_2_th2.jpg",
+      "caption": "줄주둥이바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOCF0016-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0016_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0016_1_th.jpg",
+      "alt": "줄주둥이바구미 2번째 사진 : 줄주둥이바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0016_1_th2.jpg",
+      "caption": "줄주둥이바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCF0016-1",
+  "specimen_examples": [
+    {
+      "id": "SNUE0203274016",
+      "description": "[SNUE0203274016] 줄주둥이바구미 1999.07.21 / / 서울대학교"
+    },
+    {
+      "id": "RIFI1207272267",
+      "description": "[RIFI1207272267] 줄주둥이바구미 1994.08.05 / / 산림곤충다양성연구소"
+    },
+    {
+      "id": "KNAE572072",
+      "description": "[KNAE572072] 줄주둥이바구미 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOCF0016-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCF0016&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:18+00:00",
+    "html_sha256": "83a7c5c08bf773d40bc7d45d786f0ae6a00cda951a3a1670b44797696ed48035",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

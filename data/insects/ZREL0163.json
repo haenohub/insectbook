@@ -1,0 +1,122 @@
+{
+  "id": "ZREL0163",
+  "name_ko": "연무늬들명나방",
+  "scientific_name": "Syllepte pallidinotalis (Hampson, 1912)",
+  "display_name": "연무늬들명나방",
+  "family_ko": "풀명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "풀명나방과",
+      "name_latin": "Crambidae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Spilomelinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Syllepte"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 풀명나방과 (Crambidae)\n아과 : (Spilomelinae)\n속 : (Syllepte)",
+  "basic_information": {
+    "곤충명": "연무늬들명나방",
+    "학명": "Syllepte pallidinotalis (Hampson, 1912)"
+  },
+  "information": {
+    "general_description": "머리와 가슴의 등쪽면은 갈색이다. 배의 등쪽면은 황갈색이며, 각 마디 사이는 황백색을 띤다. 앞날개는 황색기가 있는 농갈색이며, 외횡선은 전연에서 제1주맥 전지(Cu1a)까지 톱니 모양을 나타내지 않는 것이 근연종과의 구별점이다. 중실 내의 백색 원형 무늬는 주위 색깔에 대조되어 아주 명료하게 나타난다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6~8월에 주로 출현하며, 발생 개체수가 많은 편이 아니다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대한민국] 경기도\n[일본]\n[중국]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "머리와 가슴의 등쪽면은 갈색이다. 배의 등쪽면은 황갈색이며, 각 마디 사이는 황백색을 띤다. 앞날개는 황색기가 있는 농갈색이며, 외횡선은 전연에서 제1주맥 전지(Cu1a)까지 톱니 모양을 나타내지 않는 것이 근연종과의 구별점이다. 중실 내의 백색 원형 무늬는 주위 색깔에 대조되어 아주 명료하게 나타난다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6~8월에 주로 출현하며, 발생 개체수가 많은 편이 아니다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대한민국] 경기도\n[일본]\n[중국]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0163-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0163_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0163_2_th.jpg",
+      "alt": "연무늬들명나방 1번째 사진 : 연무늬들명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0163_2_th2.jpg",
+      "caption": "연무늬들명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREL0163-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0163_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0163_1_th.jpg",
+      "alt": "연무늬들명나방 2번째 사진 : 연무늬들명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0163_1_th2.jpg",
+      "caption": "연무늬들명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0163-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0301032103",
+      "description": "[UIBE0301032103] 연무늬들명나방 2000.08.01 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301032104",
+      "description": "[UIBE0301032104] 연무늬들명나방 1998.06.15 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0301032105",
+      "description": "[UIBE0301032105] 연무늬들명나방 1998.07.15 / / 인천대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREL0163-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0163&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:07+00:00",
+    "html_sha256": "db1f9452fdd814249c2ac79064b336417e529966bd7f18688b62447272c68519",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

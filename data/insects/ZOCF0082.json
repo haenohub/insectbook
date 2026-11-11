@@ -1,0 +1,114 @@
+{
+  "id": "ZOCF0082",
+  "name_ko": "점박이길쭉바구미",
+  "scientific_name": "Lixus (Dilixellus) maculatus Roelofs, 1873",
+  "display_name": "점박이길쭉바구미",
+  "family_ko": "바구미과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "바구미상과",
+      "name_latin": "Curculionoidea"
+    },
+    "family": {
+      "name_ko": "바구미과",
+      "name_latin": "Curculionidae"
+    },
+    "subfamily": {
+      "name_ko": "길쭉바구미아과",
+      "name_latin": "Lixinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Lixus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : 바구미상과 (Curculionoidea)\n과 : 바구미과 (Curculionidae)\n아과 : 길쭉바구미아과 (Lixinae)\n속 : (Lixus)",
+  "basic_information": {
+    "곤충명": "점박이길쭉바구미",
+    "학명": "Lixus (Dilixellus) maculatus Roelofs, 1873"
+  },
+  "information": {
+    "general_description": "몸길이는 6.7~12.5mm이다. 매우 가늘고 긴 타원형이며, 흑갈색의 비늘 가루가 묻어있는 여러가지 형이 나타난다.몸 색깔은 흑색이며 더듬이는 적갈색이다. 앞가슴등판의 양 옆에서 세로줄무늬모양을 하며, 딱지날개에도 옆쪽에서 무늬모양을 한다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 6.7~12.5mm이다. 매우 가늘고 긴 타원형이며, 흑갈색의 비늘 가루가 묻어있는 여러가지 형이 나타난다.몸 색깔은 흑색이며 더듬이는 적갈색이다. 앞가슴등판의 양 옆에서 세로줄무늬모양을 하며, 딱지날개에도 옆쪽에서 무늬모양을 한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOCF0082-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0082_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0082_1_th.jpg",
+      "alt": "점박이길쭉바구미 1번째 사진 : 점박이길쭉바구미전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOCF0082_1_th2.jpg",
+      "caption": "점박이길쭉바구미전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOCF0082-1",
+  "specimen_examples": [
+    {
+      "id": "FRIE0205141002",
+      "description": "[FRIE0205141002] 점박이길쭉바구미 1982.06.05 / / 국립산림과학원"
+    },
+    {
+      "id": "SNUE0205031002",
+      "description": "[SNUE0205031002] 점박이길쭉바구미 1990.05.21 / / 서울대학교"
+    },
+    {
+      "id": "SNUE0205031004",
+      "description": "[SNUE0205031004] 점박이길쭉바구미 1962.07.17 / / 서울대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "쑥",
+      "scientific_name": "Artemisia indica Willd."
+    },
+    {
+      "group": "식물",
+      "name_ko": "여뀌",
+      "scientific_name": "Persicaria hydropiper (L.) Delarbre"
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOCF0082-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOCF0082&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:17+00:00",
+    "html_sha256": "28874c0671bb6431408581bf346c8f0a8736921c82a1cbae3b474326b7cf82f6",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "id": "ZRDE0012",
+  "name_ko": "노랑쐐기나방",
+  "scientific_name": "Monema flavescens Walker, 1855",
+  "display_name": "노랑쐐기나방",
+  "family_ko": "쐐기나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "알락나방상과",
+      "name_latin": "Zygaenoidea"
+    },
+    "family": {
+      "name_ko": "쐐기나방과",
+      "name_latin": "Limacodidae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Monema"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 알락나방상과 (Zygaenoidea)\n과 : 쐐기나방과 (Limacodidae)\n속 : (Monema)",
+  "basic_information": {
+    "곤충명": "노랑쐐기나방",
+    "학명": "Monema flavescens Walker, 1855"
+  },
+  "information": {
+    "general_description": "더듬이는 실 모양인데 약간 편평하며, 황갈색을 띤다. 아랫입술수염은 황갈색을 띠는데 길게 뻗어서 정수리를 지나고 있다. 얼굴은 갈색이며, 정수리는 황색을 띠고 있다. 다리는 갈색을 띠는데 뒷다리의 종아리마디에는 2쌍의 며느리발톱이 있다. 앞날개는 담황색 바탕에 중횡선과 외횡선이 날개 끝에서 비스듬히 경사져서 암갈색을 띤다. 뒷날개는 앞날개에 비해 담색이며, 외연선이 암색을 띠고 있다. 날개의 길이는 28～35 ㎜이다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": "유충의 몸길이는 24 mm 정도이며 머리는 담갈색이고 몸의 앞뒷 부분에 암자색의 무늬가 있다. 중앙 부위와 옆은 녹색이며 몸 표면에 자모(刺毛)가 있다.",
+    "egg": null,
+    "pupa": "고치는 타원형으로 회백색 바탕에 흑갈색의 무늬가 있다.",
+    "ecology": "연 1회 발생한다. 월동한 유충은 5월에 번데기가 되었다가 6월에 우화한다. 성충은 야간에 교미한 후 잎에 1~2개씩 산란한다. 유충은 6~7월에 잎을 식해한 뒷가지에 고치를 만들고 그 속에서 월동한다. 성충은 밤에만 활동하고 추광성은 수컷이 강하고 암컷은 약하다. 성충은 6～8월경에 출현한다.",
+    "habits": "어린 유충은 잎 뒷면에서 엽육만 먹지만 자란 후에는 잎의 주맥(主脈)만을 남기고 식해한다.",
+    "season": null,
+    "overwintering": "새알처럼 생긴 고치 속에서 유충으로 월동한다.",
+    "distribution": "[일본]\n[중국]\n[대만]\n[대한민국] 강원특별자치도\n[대한민국] 서울특별시\n[대한민국] 경상북도\n[대한민국] 전라남도\n[대한민국] 제주특별자치도\n[대한민국] 경상북도\n[대한민국] 충청남도\n[대한민국] 경기도\n[북한]\n[대한민국] 전북특별자치도\n[대한민국] 경상남도\n[러시아] 극동지역\n[러시아] 극동지역",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "더듬이는 실 모양인데 약간 편평하며, 황갈색을 띤다. 아랫입술수염은 황갈색을 띠는데 길게 뻗어서 정수리를 지나고 있다. 얼굴은 갈색이며, 정수리는 황색을 띠고 있다. 다리는 갈색을 띠는데 뒷다리의 종아리마디에는 2쌍의 며느리발톱이 있다. 앞날개는 담황색 바탕에 중횡선과 외횡선이 날개 끝에서 비스듬히 경사져서 암갈색을 띤다. 뒷날개는 앞날개에 비해 담색이며, 외연선이 암색을 띠고 있다. 날개의 길이는 28～35 ㎜이다."
+    },
+    {
+      "title": "번데기",
+      "text": "고치는 타원형으로 회백색 바탕에 흑갈색의 무늬가 있다."
+    },
+    {
+      "title": "유충",
+      "text": "유충의 몸길이는 24 mm 정도이며 머리는 담갈색이고 몸의 앞뒷 부분에 암자색의 무늬가 있다. 중앙 부위와 옆은 녹색이며 몸 표면에 자모(刺毛)가 있다."
+    },
+    {
+      "title": "생태",
+      "text": "연 1회 발생한다. 월동한 유충은 5월에 번데기가 되었다가 6월에 우화한다. 성충은 야간에 교미한 후 잎에 1~2개씩 산란한다. 유충은 6~7월에 잎을 식해한 뒷가지에 고치를 만들고 그 속에서 월동한다. 성충은 밤에만 활동하고 추광성은 수컷이 강하고 암컷은 약하다. 성충은 6～8월경에 출현한다."
+    },
+    {
+      "title": "습성",
+      "text": "어린 유충은 잎 뒷면에서 엽육만 먹지만 자란 후에는 잎의 주맥(主脈)만을 남기고 식해한다."
+    },
+    {
+      "title": "월동",
+      "text": "새알처럼 생긴 고치 속에서 유충으로 월동한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[대만]\n[대한민국] 강원특별자치도\n[대한민국] 서울특별시\n[대한민국] 경상북도\n[대한민국] 전라남도\n[대한민국] 제주특별자치도\n[대한민국] 경상북도\n[대한민국] 충청남도\n[대한민국] 경기도\n[북한]\n[대한민국] 전북특별자치도\n[대한민국] 경상남도\n[러시아] 극동지역\n[러시아] 극동지역"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDE0012-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDE0012_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDE0012_2_th.jpg",
+      "alt": "노랑쐐기나방 1번째 사진 : 노랑쐐기나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDE0012_2_th2.jpg",
+      "caption": "노랑쐐기나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDE0012-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDE0012_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDE0012_1_th.jpg",
+      "alt": "노랑쐐기나방 2번째 사진 : 노랑쐐기나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDE0012_1_th2.jpg",
+      "caption": "노랑쐐기나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDE0012-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0409101032",
+      "description": "[KNAE0409101032] 노랑쐐기나방 1998.06.29 / / 국립수목원"
+    },
+    {
+      "id": "GSNE0304101112",
+      "description": "[GSNE0304101112] 노랑쐐기나방 1999.07.08 / / 경상대학교"
+    },
+    {
+      "id": "GSNE0304101113",
+      "description": "[GSNE0304101113] 노랑쐐기나방 1986.07.27 / / 경상대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "느릅나무",
+      "scientific_name": "Ulmus davidiana var. japonica (Rehder) Nakai"
+    },
+    {
+      "group": "식물",
+      "name_ko": "단풍나무",
+      "scientific_name": "Acer palmatum Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "밤나무",
+      "scientific_name": "Castanea crenata Siebold & Zucc."
+    },
+    {
+      "group": "식물",
+      "name_ko": "뽕나무",
+      "scientific_name": "Morus alba L."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDE0012-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDE0012&tabId=tab1",
+    "collected_at": "2026-11-04T14:06:21+00:00",
+    "html_sha256": "e4aa3e6a885155cbd46b2dbfacf6d1e0f6873c46d0d75cb1d02d390de80b68c3",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

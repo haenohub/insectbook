@@ -1,0 +1,106 @@
+{
+  "id": "ZDAP0025",
+  "name_ko": "대륙좀잠자리",
+  "scientific_name": "Sympetrum striolatum (Charpentier, 1840)",
+  "display_name": "대륙좀잠자리",
+  "family_ko": "잠자리과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "잠자리목",
+      "name_latin": "Odonata"
+    },
+    "family": {
+      "name_ko": "잠자리과",
+      "name_latin": "Libellulidae"
+    },
+    "subfamily": {
+      "name_ko": "고추잠자리아과",
+      "name_latin": "Sympetrinae"
+    },
+    "genus": {
+      "name_ko": "좀잠자리속",
+      "name_latin": "Sympetrum"
+    }
+  },
+  "taxonomy_text": "목 : 잠자리목 (Odonata)\n과 : 잠자리과 (Libellulidae)\n아과 : 고추잠자리아과 (Sympetrinae)\n속 : 좀잠자리속 (Sympetrum)",
+  "basic_information": {
+    "곤충명": "대륙좀잠자리",
+    "학명": "Sympetrum striolatum (Charpentier, 1840)"
+  },
+  "information": {
+    "general_description": "이마 밑줄은 작고 옆쪽으로 흐르지 않았으며 아랫입술 가운데조각은 황색이고 다리의 종아리마디 바깥쪽에는 항상 황색줄이 있음. 날개가슴 앞쪽은 갈색이고 옆쪽은 올리브색이며 견봉성 1~2측봉선의 흑색 줄은 가늠. 수컷의 배, 등은 적화하는 경향이 약하고 배마디 옆쪽에 흑색 무늬가 발달할 수 있음. 암컷 생식판은 8배마디 끝을 초월하여 아랫쪽으로 돌출함. 날개는 암수 모두 밑과 앞가두리에 따라 황색을 띠우는데 특히 미숙한 암컷에서 현저함.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "이마 밑줄은 작고 옆쪽으로 흐르지 않았으며 아랫입술 가운데조각은 황색이고 다리의 종아리마디 바깥쪽에는 항상 황색줄이 있음. 날개가슴 앞쪽은 갈색이고 옆쪽은 올리브색이며 견봉성 1~2측봉선의 흑색 줄은 가늠. 수컷의 배, 등은 적화하는 경향이 약하고 배마디 옆쪽에 흑색 무늬가 발달할 수 있음. 암컷 생식판은 8배마디 끝을 초월하여 아랫쪽으로 돌출함. 날개는 암수 모두 밑과 앞가두리에 따라 황색을 띠우는데 특히 미숙한 암컷에서 현저함."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZDAP0025-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0025_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0025_2_th.jpg",
+      "alt": "대륙좀잠자리 1번째 사진 : 대륙좀잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0025_2_th2.jpg",
+      "caption": "대륙좀잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZDAP0025-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0025_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0025_1_th.jpg",
+      "alt": "대륙좀잠자리 2번째 사진 : 대륙좀잠자리전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/D1/ZDAP0025_1_th2.jpg",
+      "caption": "대륙좀잠자리전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZDAP0025-1",
+  "specimen_examples": [
+    {
+      "id": "UIBE0408201132",
+      "description": "[UIBE0408201132] 대륙좀잠자리 2003.09.26 / / 인천대학교"
+    },
+    {
+      "id": "UIBE0408201134",
+      "description": "[UIBE0408201134] 대륙좀잠자리 2003.09.23 / / 인천대학교"
+    },
+    {
+      "id": "YNUE0306281047",
+      "description": "[YNUE0306281047] 대륙좀잠자리 2001.06.05 / / 영남대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZDAP0025-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZDAP0025&tabId=tab1",
+    "collected_at": "2026-11-04T14:07:07+00:00",
+    "html_sha256": "d0f2fe01e9ae385421882e422b8b4110a90584ae81b2fbe17d42985d6584b103",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

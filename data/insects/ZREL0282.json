@@ -1,0 +1,157 @@
+{
+  "id": "ZREL0282",
+  "name_ko": "향나무알락명나방",
+  "scientific_name": "Dioryctria juniperella Yamanaka, 1990",
+  "display_name": "향나무알락명나방",
+  "family_ko": "명나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "명나방상과",
+      "name_latin": "Pyraloidea"
+    },
+    "family": {
+      "name_ko": "명나방과",
+      "name_latin": "Pyralidae"
+    },
+    "subfamily": {
+      "name_ko": "알락명나방아과",
+      "name_latin": "Phycitinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Dioryctria"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 명나방상과 (Pyraloidea)\n과 : 명나방과 (Pyralidae)\n아과 : 알락명나방아과 (Phycitinae)\n속 : (Dioryctria)",
+  "basic_information": {
+    "곤충명": "향나무알락명나방",
+    "학명": "Dioryctria juniperella Yamanaka, 1990"
+  },
+  "information": {
+    "general_description": "날개 편 길이는 21-23mm가량이다. 머리는 암재갈색이 섞인 흑갈색이다. 더듬이는 흑갈색을 띤다. 앞날개는 흑갈색의 바탕색에 백색의 인편이 나 있다. 뒷날개는 연황색이며 기부쪽의 절반은 나머지 부분에 비해 연한 빛을 띤다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6월중순부터 8월하순까지 발견된다. 주로 향나무를 먹이로 하여 살아가는 종이다. 기주로는 Juniperus chinensis L., J. chinensis var. globosa H., J. procumbens S. (Cupressaceae) 등이 Byun et al. (1997)에 의해 충북 청주에서 조사 하여 발표한 바 있으며, 일본에서는 J. sargentii H., Juniperus spp. 등이 Yamanaka (1990)에 의해 보고되고 있다.",
+    "habits": "유충은 향나무의 잎들을 모아 철하고 그 속에서 생활한다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": "[산림해충]",
+    "pest_control": null,
+    "references": "이종은 앞날개가 근연종에 비해 흑색을 띠는 특징으로 구분된다."
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "날개 편 길이는 21-23mm가량이다. 머리는 암재갈색이 섞인 흑갈색이다. 더듬이는 흑갈색을 띤다. 앞날개는 흑갈색의 바탕색에 백색의 인편이 나 있다. 뒷날개는 연황색이며 기부쪽의 절반은 나머지 부분에 비해 연한 빛을 띤다."
+    },
+    {
+      "title": "참고사항",
+      "text": "이종은 앞날개가 근연종에 비해 흑색을 띠는 특징으로 구분된다."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6월중순부터 8월하순까지 발견된다. 주로 향나무를 먹이로 하여 살아가는 종이다. 기주로는 Juniperus chinensis L., J. chinensis var. globosa H., J. procumbens S. (Cupressaceae) 등이 Byun et al. (1997)에 의해 충북 청주에서 조사 하여 발표한 바 있으며, 일본에서는 J. sargentii H., Juniperus spp. 등이 Yamanaka (1990)에 의해 보고되고 있다."
+    },
+    {
+      "title": "습성",
+      "text": "유충은 향나무의 잎들을 모아 철하고 그 속에서 생활한다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZREL0282-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0282_7.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0282_7_th.jpg",
+      "alt": "향나무알락명나방 1번째 사진 : 향나무알락명나방가슴 확대 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0282_7_th2.jpg",
+      "caption": "향나무알락명나방가슴 확대 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREL0282-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0282_6.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0282_6_th.jpg",
+      "alt": "향나무알락명나방 2번째 사진 : 향나무알락명나방배 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0282_6_th2.jpg",
+      "caption": "향나무알락명나방배 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZREL0282-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0282_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0282_1_th.jpg",
+      "alt": "향나무알락명나방 3번째 사진 : 향나무알락명나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZREL0282_1_th2.jpg",
+      "caption": "향나무알락명나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZREL0282-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0709120337",
+      "description": "[KNAE0709120337] 향나무알락명나방 2007.06.12 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0709120346",
+      "description": "[KNAE0709120346] 향나무알락명나방 2007.06.14 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0910142003",
+      "description": "[KNAE0910142003] 향나무알락명나방 2007.06.12 / / 국립수목원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "눈향나무",
+      "scientific_name": "Juniperus chinensis var. sargentii A.Henry"
+    },
+    {
+      "group": "식물",
+      "name_ko": "섬향나무",
+      "scientific_name": "Juniperus chinensis var. procumbens Siebold ex Endl."
+    },
+    {
+      "group": "식물",
+      "name_ko": "향나무",
+      "scientific_name": "Juniperus chinensis L."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZREL0282-3"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZREL0282&tabId=tab1",
+    "collected_at": "2026-11-04T14:22:10+00:00",
+    "html_sha256": "9a8d5cdd9a56f069bc16d42b7976f42dca4516a3d8cbf0e31e91eb39926151a1",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": "ZOBH0235",
+  "name_ko": "반디길쭉먼지벌레",
+  "scientific_name": "Pterostichus (Koreonialoe) ishikawai Nemoto, 1988",
+  "display_name": "반디길쭉먼지벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "먼지벌레아과",
+      "name_latin": "Harpalinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Pterostichus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 먼지벌레아과 (Harpalinae)\n속 : (Pterostichus)",
+  "basic_information": {
+    "곤충명": "반디길쭉먼지벌레",
+    "학명": "Pterostichus (Koreonialoe) ishikawai Nemoto, 1988"
+  },
+  "information": {
+    "general_description": "몸길이는 20~25mm 이며 대형종이다. 강한턱을 가지고 있으며 검은색 또는 적갈색을 보인다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 20~25mm 이며 대형종이다. 강한턱을 가지고 있으며 검은색 또는 적갈색을 보인다."
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0235-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0235_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0235_2_th.jpg",
+      "alt": "반디길쭉먼지벌레 1번째 사진 : 반디길쭉먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0235_2_th2.jpg",
+      "caption": "반디길쭉먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0235-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0235_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0235_1_th.jpg",
+      "alt": "반디길쭉먼지벌레 2번째 사진 : 반디길쭉먼지벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0235_1_th2.jpg",
+      "caption": "반디길쭉먼지벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0235-1",
+  "specimen_examples": [
+    {
+      "id": "SJNE0201291101",
+      "description": "[SJNE0201291101] 반디길쭉먼지벌레 1991.09.15 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0201291103",
+      "description": "[SJNE0201291103] 반디길쭉먼지벌레 1991.09.16 / / 상주대학교"
+    },
+    {
+      "id": "SJNE0201291104",
+      "description": "[SJNE0201291104] 반디길쭉먼지벌레 1991.09.16 / / 상주대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBH0235-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0235&tabId=tab1",
+    "collected_at": "2026-11-04T14:10:06+00:00",
+    "html_sha256": "7d2c71b6389cfaccff6d6af01c08e40a754ede239991e5ae19c5490b874fa1c6",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

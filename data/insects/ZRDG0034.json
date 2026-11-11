@@ -1,0 +1,151 @@
+{
+  "id": "ZRDG0034",
+  "name_ko": "귤빛부전나비",
+  "scientific_name": "Japonica lutea (Hewitson, 1865)",
+  "display_name": "귤빛부전나비",
+  "family_ko": "부전나비과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Papilionoidea"
+    },
+    "family": {
+      "name_ko": "부전나비과",
+      "name_latin": "Lycaenidae"
+    },
+    "subfamily": {
+      "name_ko": "녹색부전나비아과",
+      "name_latin": "Theclinae"
+    },
+    "genus": {
+      "name_ko": "귤빛부전나비속",
+      "name_latin": "Japonica"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : (Papilionoidea)\n과 : 부전나비과 (Lycaenidae)\n아과 : 녹색부전나비아과 (Theclinae)\n속 : 귤빛부전나비속 (Japonica)",
+  "basic_information": {
+    "곤충명": "귤빛부전나비",
+    "학명": "Japonica lutea (Hewitson, 1865)"
+  },
+  "information": {
+    "general_description": "암수무늬가 거의 같으며 암컷은 수컷에 비하여 날개모양이 둥그스름하다. 무늬나 배의 크기만으로는 암수를 구별하기가 어려운 경우에는 배끝을 조사할 필요가 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "암컷은 기주식물의 새눈 밑에 한 한 개씩 산란한다. 이듬해 3월 말경 부화한 애벌레는 새싹 속으로 먹고 들어가 자란다.",
+    "habits": "잡목립의 계곡 주변이나 숲 가장자리에 서식하며, 아침 일찍과 해질 무렵 활발하게 날아다닌다. 가끔 개망초꽃에서 흡밀하는 일이 있어도 물가에 모이지는 않는다.",
+    "season": null,
+    "overwintering": "알",
+    "distribution": "[중국]\n[대만]\n[러시아]",
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "암수무늬가 거의 같으며 암컷은 수컷에 비하여 날개모양이 둥그스름하다. 무늬나 배의 크기만으로는 암수를 구별하기가 어려운 경우에는 배끝을 조사할 필요가 있다."
+    },
+    {
+      "title": "생태",
+      "text": "암컷은 기주식물의 새눈 밑에 한 한 개씩 산란한다. 이듬해 3월 말경 부화한 애벌레는 새싹 속으로 먹고 들어가 자란다."
+    },
+    {
+      "title": "습성",
+      "text": "잡목립의 계곡 주변이나 숲 가장자리에 서식하며, 아침 일찍과 해질 무렵 활발하게 날아다닌다. 가끔 개망초꽃에서 흡밀하는 일이 있어도 물가에 모이지는 않는다."
+    },
+    {
+      "title": "월동",
+      "text": "알"
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[대만]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDG0034-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDG0034_3.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDG0034_3.jpg",
+      "alt": "귤빛부전나비 1번째 사진 : 귤빛부전나비 성충 이미지",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/insectPilbk/ZRDG0034_3_th2.jpg",
+      "caption": "귤빛부전나비 성충 이미지",
+      "photographed_at": "20100623",
+      "location": "강원도 춘천시 남산면 백양리",
+      "photographer": "국립수목원(손정달)"
+    },
+    {
+      "id": "ZRDG0034-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0034_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0034_2_th.jpg",
+      "alt": "귤빛부전나비 2번째 사진 : 귤빛부전나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0034_2_th2.jpg",
+      "caption": "귤빛부전나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDG0034-3",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0034_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0034_1_th.jpg",
+      "alt": "귤빛부전나비 3번째 사진 : 귤빛부전나비전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDG0034_1_th2.jpg",
+      "caption": "귤빛부전나비전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDG0034-1",
+  "specimen_examples": [
+    {
+      "id": "MPNE0408101393",
+      "description": "[MPNE0408101393] 귤빛부전나비 2004.06.05 / / 목포 대학교 환경연구소"
+    },
+    {
+      "id": "MPNE0408101394",
+      "description": "[MPNE0408101394] 귤빛부전나비 2004.06.05 / / 목포 대학교 환경연구소"
+    },
+    {
+      "id": "FRIE0305291082",
+      "description": "[FRIE0305291082] 귤빛부전나비 1984.06.18 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "떡갈나무",
+      "scientific_name": "Quercus dentata Thunb."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDG0034.png",
+    "reference_image_id": "ZRDG0034-2",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T14:31:23.034358+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "25190f55856cc9dccd3ce8a94008183bf42581ee15bd1a1fdaa0e28faa470dca"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDG0034&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:35+00:00",
+    "html_sha256": "25931d0e47ebd467ea5798b0d411cdeef5d19e7fbeb41ee440de4aa41ba829af",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

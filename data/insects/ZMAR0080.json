@@ -1,0 +1,128 @@
+{
+  "id": "ZMAR0080",
+  "name_ko": "끝동매미충",
+  "scientific_name": "Nephotettix cincticeps (Uhler, 1896)",
+  "display_name": "끝동매미충",
+  "family_ko": "매미충과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "뿔매미상과",
+      "name_latin": "Membracoidea"
+    },
+    "family": {
+      "name_ko": "매미충과",
+      "name_latin": "Cicadellidae"
+    },
+    "subfamily": {
+      "name_ko": "매미충아과",
+      "name_latin": "Deltocephalinae"
+    },
+    "genus": {
+      "name_ko": "끝동매미충속",
+      "name_latin": "Nephotettix"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 뿔매미상과 (Membracoidea)\n과 : 매미충과 (Cicadellidae)\n아과 : 매미충아과 (Deltocephalinae)\n속 : 끝동매미충속 (Nephotettix)",
+  "basic_information": {
+    "곤충명": "끝동매미충",
+    "학명": "Nephotettix cincticeps (Uhler, 1896)"
+  },
+  "information": {
+    "general_description": "몸길이:약4.5-6mm. 암컷이 수컷보다 약간 더 크다. 암수에 따라 체색의 형태가 서로다르다. 몸의 등면은 연두색 또는 초록색을 띠고있으며 광택을 지니고 있다. 아랫면은 수컷의 경우 대체로 흑갈색 또는 검정색이나, 암컷의 경우 얼굴만 검다. 머리는 둥글게 돌출되어있고, 정수리의 앞가장자리는 넓적하다. 앞날개는 암컷의 경우 단순하게 초록색을 띠며, 선단부가 다소 희미한 갈색을 띠고 있다. 수컷의 앞날개는 선단부에 검은 가로 줄무늬가 특징적으로 나타난다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[대만]\n[일본]\n[중국]\n[러시아]",
+    "notes": "[농업해충] 벼를 가해하는 유명한 농업해충이다.\n[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이:약4.5-6mm. 암컷이 수컷보다 약간 더 크다. 암수에 따라 체색의 형태가 서로다르다. 몸의 등면은 연두색 또는 초록색을 띠고있으며 광택을 지니고 있다. 아랫면은 수컷의 경우 대체로 흑갈색 또는 검정색이나, 암컷의 경우 얼굴만 검다. 머리는 둥글게 돌출되어있고, 정수리의 앞가장자리는 넓적하다. 앞날개는 암컷의 경우 단순하게 초록색을 띠며, 선단부가 다소 희미한 갈색을 띠고 있다. 수컷의 앞날개는 선단부에 검은 가로 줄무늬가 특징적으로 나타난다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[대만]\n[일본]\n[중국]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[농업해충] 벼를 가해하는 유명한 농업해충이다.\n[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMAR0080-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0080_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0080_2_th.jpg",
+      "alt": "끝동매미충 1번째 사진 : 끝동매미충전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0080_2_th2.jpg",
+      "caption": "끝동매미충전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZMAR0080-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0080_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0080_1_th.jpg",
+      "alt": "끝동매미충 2번째 사진 : 끝동매미충전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAR0080_1_th2.jpg",
+      "caption": "끝동매미충전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMAR0080-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408191080",
+      "description": "[MPME0408191080] 끝동매미충 2003.09.28 / / 목포자연사박물관"
+    },
+    {
+      "id": "KPNE0407121179",
+      "description": "[KPNE0407121179] 끝동매미충 1990.10.06 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0407121177",
+      "description": "[KPNE0407121177] 끝동매미충 1990.10.06 / / 경북대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "벼",
+      "scientific_name": "Oryza sativa L."
+    }
+  ],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZMAR0080.png",
+    "reference_image_id": "ZMAR0080-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T15:12:31.648861+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "6626ad4dbaa87597a1eaaec5c5487892e246808029bc1411625b0ea842616be0"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMAR0080&tabId=tab1",
+    "collected_at": "2026-11-04T14:05:03+00:00",
+    "html_sha256": "9dc36c6804f696a2710870828ef0b76186580e26ea268b44bba068b7511ba88d",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

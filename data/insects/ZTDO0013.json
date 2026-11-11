@@ -1,0 +1,103 @@
+{
+  "id": "ZTDO0013",
+  "name_ko": "등빨간잎벌",
+  "scientific_name": "Dolerus ephippiatus F. Smith, 1874",
+  "display_name": "등빨간잎벌",
+  "family_ko": "잎벌과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "벌목",
+      "name_latin": "Hymenoptera"
+    },
+    "superfamily": {
+      "name_ko": "잎벌상과",
+      "name_latin": "Tenthredinoidea"
+    },
+    "family": {
+      "name_ko": "잎벌과",
+      "name_latin": "Tenthredinidae"
+    },
+    "subfamily": {
+      "name_ko": "줄잎벌아과",
+      "name_latin": "Selandriinae"
+    },
+    "genus": {
+      "name_ko": "보리잎벌속",
+      "name_latin": "Dolerus"
+    }
+  },
+  "taxonomy_text": "목 : 벌목 (Hymenoptera)\n상과 : 잎벌상과 (Tenthredinoidea)\n과 : 잎벌과 (Tenthredinidae)\n아과 : 줄잎벌아과 (Selandriinae)\n속 : 보리잎벌속 (Dolerus)",
+  "basic_information": {
+    "곤충명": "등빨간잎벌",
+    "학명": "Dolerus ephippiatus F. Smith, 1874"
+  },
+  "information": {
+    "general_description": "체장은 12mm보다 작으며, 복부는 금속성 광택이 있다. Pronotum은 흑색이다. 어깨판은 황갈색이다. 윗입술은 가두리부위는 다소 V형이고, cerci의 털은 산란관 끝에 미친다. 머리는 금속성 광택이 있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[러시아]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "체장은 12mm보다 작으며, 복부는 금속성 광택이 있다. Pronotum은 흑색이다. 어깨판은 황갈색이다. 윗입술은 가두리부위는 다소 V형이고, cerci의 털은 산란관 끝에 미친다. 머리는 금속성 광택이 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[러시아]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZTDO0013-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0013_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0013_1_th.jpg",
+      "alt": "등빨간잎벌 1번째 사진 : 등빨간잎벌전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/T1/ZTDO0013_1_th2.jpg",
+      "caption": "등빨간잎벌전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZTDO0013-1",
+  "specimen_examples": [
+    {
+      "id": "YNUE0305171071",
+      "description": "[YNUE0305171071] 등빨간잎벌 1998.05.27 / / 영남대학교"
+    },
+    {
+      "id": "YNUE0305171072",
+      "description": "[YNUE0305171072] 등빨간잎벌 1997.05.05 / / 영남대학교"
+    },
+    {
+      "id": "KNAE0303241006",
+      "description": "[KNAE0303241006] 등빨간잎벌 1995.08.13 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZTDO0013-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZTDO0013&tabId=tab1",
+    "collected_at": "2026-11-04T14:08:15+00:00",
+    "html_sha256": "40ffa0203d926fe65671b31eca7d1129418bcb310b175948a5741046a1e5d7c5",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

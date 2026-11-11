@@ -1,0 +1,107 @@
+{
+  "id": "ZOBZ0057",
+  "name_ko": "열석점긴다리무당벌레",
+  "scientific_name": "Hippodamia (Hemisphaerica) tredecimpunctata (Linnaeus, 1758)",
+  "display_name": "열석점긴다리무당벌레",
+  "family_ko": "무당벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "superfamily": {
+      "name_ko": "",
+      "name_latin": "Coccinelloidea"
+    },
+    "family": {
+      "name_ko": "무당벌레과",
+      "name_latin": "Coccinellidae"
+    },
+    "subfamily": {
+      "name_ko": "무당벌레아과",
+      "name_latin": "Coccinellinae"
+    },
+    "genus": {
+      "name_ko": "다리무당벌레속",
+      "name_latin": "Hippodamia"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n상과 : (Coccinelloidea)\n과 : 무당벌레과 (Coccinellidae)\n아과 : 무당벌레아과 (Coccinellinae)\n속 : 다리무당벌레속 (Hippodamia)",
+  "basic_information": {
+    "곤충명": "열석점긴다리무당벌레",
+    "학명": "Hippodamia (Hemisphaerica) tredecimpunctata (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "몸의 형태는 방추형이며 두부의 뒷면에는 검은갈색을 띠며 뒷면 중앙에는 어두운 갈색이며 앞쪽은 다소연한색을 띤다.\n다리는 기절과 퇴절의 일부에는 연한 황색을 띤다.\n이들의 서식처는 한국, 일본, 중국북부, 러시아(연해주), 중앙아시아, 시베리아, 코카서스, 아시아소국, 유럽등에 분포한다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "이 종은 주로 습지를 선호한다. 주로 분포하는 곳은 갈대가 있는 하천변이나 염습지등에서 많이 볼 수 있다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[러시아]\n[유럽]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸의 형태는 방추형이며 두부의 뒷면에는 검은갈색을 띠며 뒷면 중앙에는 어두운 갈색이며 앞쪽은 다소연한색을 띤다.\n다리는 기절과 퇴절의 일부에는 연한 황색을 띤다.\n이들의 서식처는 한국, 일본, 중국북부, 러시아(연해주), 중앙아시아, 시베리아, 코카서스, 아시아소국, 유럽등에 분포한다."
+    },
+    {
+      "title": "습성",
+      "text": "이 종은 주로 습지를 선호한다. 주로 분포하는 곳은 갈대가 있는 하천변이나 염습지등에서 많이 볼 수 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[러시아]\n[유럽]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBZ0057-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBZ0057_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBZ0057_1_th.jpg",
+      "alt": "열석점긴다리무당벌레 1번째 사진 : 열석점긴다리무당벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBZ0057_1_th2.jpg",
+      "caption": "열석점긴다리무당벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBZ0057-1",
+  "specimen_examples": [
+    {
+      "id": "KUIE0307071115",
+      "description": "[KUIE0307071115] 열석점긴다리무당벌레 1991.08.11 / / 고려대학교"
+    },
+    {
+      "id": "FRIE0306191048",
+      "description": "[FRIE0306191048] 열석점긴다리무당벌레 1998.07.09 / / 국립산림과학원"
+    },
+    {
+      "id": "KNAE0304071066",
+      "description": "[KNAE0304071066] 열석점긴다리무당벌레 1995.08.03 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZOBZ0057-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBZ0057&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:12+00:00",
+    "html_sha256": "857aecdd54ab3d9f01a75825aa3682e9b544585b2446a45dcbebb93b634d27ea",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

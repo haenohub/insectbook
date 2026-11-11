@@ -1,0 +1,118 @@
+{
+  "id": "ZLAP0001",
+  "name_ko": "장수땅노린재",
+  "scientific_name": "Adrisa magna (Uhler, 1860)",
+  "display_name": "장수땅노린재",
+  "family_ko": "땅노린재과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "노린재상과",
+      "name_latin": "Pentatomoidea"
+    },
+    "family": {
+      "name_ko": "땅노린재과",
+      "name_latin": "Cydnidae"
+    },
+    "subfamily": {
+      "name_ko": "땅노린재아과",
+      "name_latin": "Cydninae"
+    },
+    "genus": {
+      "name_ko": "장수땅노린재속",
+      "name_latin": "Adrisa"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 노린재상과 (Pentatomoidea)\n과 : 땅노린재과 (Cydnidae)\n아과 : 땅노린재아과 (Cydninae)\n속 : 장수땅노린재속 (Adrisa)",
+  "basic_information": {
+    "곤충명": "장수땅노린재",
+    "학명": "Adrisa magna (Uhler, 1860)"
+  },
+  "information": {
+    "general_description": "몸길이 : 16-19mm\n땅노린재 중 가장 크다. 몸은 흑갈색을 띠며 광택이 있다. 체표면에는 미세한 점각이 많다. 더듬이는 4마디이고, 제 2마디가 가장 길다. 앞가슴등판은 폭이 넓고 편평하다. 작은방패판은 이등변 삼각형이다. 막짋는 크고 연한 황색이고 황갈색 무늬가 있다. 다리는 흑갈색이고 광택이 있다. 종아리마디에는 가시 모양의 센털이 밀생한다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": null,
+    "habits": "흙 속에 살며 등불에 날아오는 수가 있다.",
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 16-19mm\n땅노린재 중 가장 크다. 몸은 흑갈색을 띠며 광택이 있다. 체표면에는 미세한 점각이 많다. 더듬이는 4마디이고, 제 2마디가 가장 길다. 앞가슴등판은 폭이 넓고 편평하다. 작은방패판은 이등변 삼각형이다. 막짋는 크고 연한 황색이고 황갈색 무늬가 있다. 다리는 흑갈색이고 광택이 있다. 종아리마디에는 가시 모양의 센털이 밀생한다."
+    },
+    {
+      "title": "습성",
+      "text": "흙 속에 살며 등불에 날아오는 수가 있다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZLAP0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAP0001_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAP0001_2_th.jpg",
+      "alt": "장수땅노린재 1번째 사진 : 장수땅노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAP0001_2_th2.jpg",
+      "caption": "장수땅노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZLAP0001-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAP0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAP0001_1_th.jpg",
+      "alt": "장수땅노린재 2번째 사진 : 장수땅노린재전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/L1/ZLAP0001_1_th2.jpg",
+      "caption": "장수땅노린재전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZLAP0001-1",
+  "specimen_examples": [
+    {
+      "id": "JFNE0306061382",
+      "description": "[JFNE0306061382] 장수땅노린재 1993.09.26 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0306061383",
+      "description": "[JFNE0306061383] 장수땅노린재 1993.09.27 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0306061384",
+      "description": "[JFNE0306061384] 장수땅노린재 1993.09.28 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZLAP0001-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZLAP0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:18:07+00:00",
+    "html_sha256": "320bb66485316d70b94029935ccf0553c21f4b02d0a640c05cc1abcfc2064b04",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

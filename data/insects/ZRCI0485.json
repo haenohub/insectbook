@@ -1,0 +1,118 @@
+{
+  "id": "ZRCI0485",
+  "name_ko": "알락흰가지나방",
+  "scientific_name": "Antipercnia albinigrata (Warren, 1896)",
+  "display_name": "알락흰가지나방",
+  "family_ko": "자나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "자나방상과",
+      "name_latin": "Geometroidea"
+    },
+    "family": {
+      "name_ko": "자나방과",
+      "name_latin": "Geometridae"
+    },
+    "subfamily": {
+      "name_ko": "가지나방아과",
+      "name_latin": "Ennominae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Antipercnia"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 자나방상과 (Geometroidea)\n과 : 자나방과 (Geometridae)\n아과 : 가지나방아과 (Ennominae)\n속 : (Antipercnia)",
+  "basic_information": {
+    "곤충명": "알락흰가지나방",
+    "학명": "Antipercnia albinigrata (Warren, 1896)"
+  },
+  "information": {
+    "general_description": "계룡산(동학사, 갑사), 조계산, 지리산, 거제도, 서호진과 한국, 일본, 타이완, 중국, 인디아에 분포한다. 더듬이는 수컷이 미모상이고, 암컷은 실 모양이다. 몸과 날개는 모두 회백색이며, 정수리에 1쌍, 경판 좌우와 앞다리의 밑마디에는 각각 1개, 어깨판 좌우에 각각 2개, 가슴의 등쪽면에는 2쌍의 흑색 무늬가 있다. 배의 등쪽면 위에는 배선의 좌우에 흑색 줄무늬가 있다.\n앞날개의 기부에는 2개 정도의 흑색 무늬가 있다. 앞날개의 아기선, 앞·뒷날개의 내횡선, 외횡선, 아외연선은 흑색 무늬의 줄을 이룬다. 횡맥상에는 1개의 흑색 무늬가 있다. 외연에도 역시 흑색 무늬가 줄을 이루고, 연모는 회색이며, 뒷면은 앞면과 다르지 않다.\n날개길이 : 50∼55mm",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 6～8월에 출현한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "계룡산(동학사, 갑사), 조계산, 지리산, 거제도, 서호진과 한국, 일본, 타이완, 중국, 인디아에 분포한다. 더듬이는 수컷이 미모상이고, 암컷은 실 모양이다. 몸과 날개는 모두 회백색이며, 정수리에 1쌍, 경판 좌우와 앞다리의 밑마디에는 각각 1개, 어깨판 좌우에 각각 2개, 가슴의 등쪽면에는 2쌍의 흑색 무늬가 있다. 배의 등쪽면 위에는 배선의 좌우에 흑색 줄무늬가 있다.\n앞날개의 기부에는 2개 정도의 흑색 무늬가 있다. 앞날개의 아기선, 앞·뒷날개의 내횡선, 외횡선, 아외연선은 흑색 무늬의 줄을 이룬다. 횡맥상에는 1개의 흑색 무늬가 있다. 외연에도 역시 흑색 무늬가 줄을 이루고, 연모는 회색이며, 뒷면은 앞면과 다르지 않다.\n날개길이 : 50∼55mm"
+    },
+    {
+      "title": "생태",
+      "text": "성충은 6～8월에 출현한다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRCI0485-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0485_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0485_2_th.jpg",
+      "alt": "알락흰가지나방 1번째 사진 : 알락흰가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0485_2_th2.jpg",
+      "caption": "알락흰가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRCI0485-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0485_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0485_1_th.jpg",
+      "alt": "알락흰가지나방 2번째 사진 : 알락흰가지나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRCI0485_1_th2.jpg",
+      "caption": "알락흰가지나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRCI0485-1",
+  "specimen_examples": [
+    {
+      "id": "MPNE0408101175",
+      "description": "[MPNE0408101175] 알락흰가지나방 2004.05.17 / / 목포 대학교 환경연구소"
+    },
+    {
+      "id": "MPNE0408101176",
+      "description": "[MPNE0408101176] 알락흰가지나방 2004.05.17 / / 목포 대학교 환경연구소"
+    },
+    {
+      "id": "MPNE0408101178",
+      "description": "[MPNE0408101178] 알락흰가지나방 2004.06.01 / / 목포 대학교 환경연구소"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRCI0485-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRCI0485&tabId=tab1",
+    "collected_at": "2026-11-04T14:14:35+00:00",
+    "html_sha256": "b61f2af49f86af970ae0e8495f6828cc31aa03f88881db9c86fe35803a57e42b",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

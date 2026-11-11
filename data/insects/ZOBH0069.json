@@ -1,0 +1,118 @@
+{
+  "id": "ZOBH0069",
+  "name_ko": "긴애기맵시딱정벌레",
+  "scientific_name": "Leptinocarabus wulffiusi opacipennis (Reitter, 1895)",
+  "display_name": "긴애기맵시딱정벌레",
+  "family_ko": "딱정벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "딱정벌레목",
+      "name_latin": "Coleoptera"
+    },
+    "family": {
+      "name_ko": "딱정벌레과",
+      "name_latin": "Carabidae"
+    },
+    "subfamily": {
+      "name_ko": "딱정벌레아과",
+      "name_latin": "Carabinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Leptinocarabus"
+    }
+  },
+  "taxonomy_text": "목 : 딱정벌레목 (Coleoptera)\n과 : 딱정벌레과 (Carabidae)\n아과 : 딱정벌레아과 (Carabinae)\n속 : (Leptinocarabus)",
+  "basic_information": {
+    "곤충명": "긴애기맵시딱정벌레",
+    "학명": "Leptinocarabus wulffiusi opacipennis (Reitter, 1895)"
+  },
+  "information": {
+    "general_description": "몸길이는 수컷은 17~21mm 암컷은 19~23mm이며, 몸은 전체적으로 길죽하고, 두정은 종종 정각이 있다. 앞가슴 등판의 폭은 길이보다 약간 넓다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "포식성이며, 습기가 적당한 부식토층에서 서식한다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[포식성]\n[한국고유종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이는 수컷은 17~21mm 암컷은 19~23mm이며, 몸은 전체적으로 길죽하고, 두정은 종종 정각이 있다. 앞가슴 등판의 폭은 길이보다 약간 넓다."
+    },
+    {
+      "title": "생태",
+      "text": "포식성이며, 습기가 적당한 부식토층에서 서식한다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[포식성]\n[한국고유종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZOBH0069-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0069_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0069_2_th.jpg",
+      "alt": "긴애기맵시딱정벌레 1번째 사진 : 긴애기맵시딱정벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0069_2_th2.jpg",
+      "caption": "긴애기맵시딱정벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZOBH0069-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0069_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0069_1_th.jpg",
+      "alt": "긴애기맵시딱정벌레 2번째 사진 : 긴애기맵시딱정벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/O1/ZOBH0069_1_th2.jpg",
+      "caption": "긴애기맵시딱정벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZOBH0069-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0301271050",
+      "description": "[KPNE0301271050] 긴애기맵시딱정벌레 1976.09.06 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0301271052",
+      "description": "[KPNE0301271052] 긴애기맵시딱정벌레 1976.09.06 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0301271068",
+      "description": "[KPNE0301271068] 긴애기맵시딱정벌레 1970.07.23 / / 경북대학교"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOBH0069.png",
+    "reference_image_id": "ZOBH0069-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-08T09:16:56.116678+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "99cb32e03dd004b9174848c1e6cb99db94608a62dff2f177c1c9aadeaec6e634"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZOBH0069&tabId=tab1",
+    "collected_at": "2026-11-04T14:04:06+00:00",
+    "html_sha256": "dbadc29c81d4a18049279575f2fa5652ae288a8216257a00ef394c90b553e893",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

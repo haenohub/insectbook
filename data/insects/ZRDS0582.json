@@ -1,0 +1,118 @@
+{
+  "id": "ZRDS0582",
+  "name_ko": "왕갈고리큰나방",
+  "scientific_name": "Calyptra gruesa (Draudt, 1950)",
+  "display_name": "왕갈고리큰나방",
+  "family_ko": "태극나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "밤나방상과",
+      "name_latin": "Noctuoidea"
+    },
+    "family": {
+      "name_ko": "태극나방과",
+      "name_latin": "Erebidae"
+    },
+    "subfamily": {
+      "name_ko": "갈고리큰나방아과",
+      "name_latin": "Calpinae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Calyptra"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 밤나방상과 (Noctuoidea)\n과 : 태극나방과 (Erebidae)\n아과 : 갈고리큰나방아과 (Calpinae)\n속 : (Calyptra)",
+  "basic_information": {
+    "곤충명": "왕갈고리큰나방",
+    "학명": "Calyptra gruesa (Draudt, 1950)"
+  },
+  "information": {
+    "general_description": "주둥이는 짧아서 등황색을 띤 아랫입술수염의 기부에 감추어져 있으며, 잘 발달된 아랫입술수염이 흑갈색을 띠고 앞으로 돌출되었는데 끝이 넓적함. 머리, 경판, 가슴의 등쪽면 등은 담흑갈색을 띠는데, 경판에는 가로로 백색의 가는 줄이 쳐져 있음. 어깨판도 흑갈색인데 길게 가슴의 양 옆을 덮고 있으며, 배는 회갈색을 나타내고 있음. 앞날개의 표면은 암갈색 바탕에 약간의 보라색 광택이 나는데, 날개끝에서 후연의 중앙사이에 일직선으로 된 암적갈색의 띠가 비스듬히 있음.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "성충은 7~9월에 출현되며 포도, 감귤, 배, 복숭아, 사과 등의 과즙을 흡수함.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[중국]\n[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "주둥이는 짧아서 등황색을 띤 아랫입술수염의 기부에 감추어져 있으며, 잘 발달된 아랫입술수염이 흑갈색을 띠고 앞으로 돌출되었는데 끝이 넓적함. 머리, 경판, 가슴의 등쪽면 등은 담흑갈색을 띠는데, 경판에는 가로로 백색의 가는 줄이 쳐져 있음. 어깨판도 흑갈색인데 길게 가슴의 양 옆을 덮고 있으며, 배는 회갈색을 나타내고 있음. 앞날개의 표면은 암갈색 바탕에 약간의 보라색 광택이 나는데, 날개끝에서 후연의 중앙사이에 일직선으로 된 암적갈색의 띠가 비스듬히 있음."
+    },
+    {
+      "title": "생태",
+      "text": "성충은 7~9월에 출현되며 포도, 감귤, 배, 복숭아, 사과 등의 과즙을 흡수함."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[중국]\n[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRDS0582-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0582_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0582_2_th.jpg",
+      "alt": "왕갈고리큰나방 1번째 사진 : 큰갈고리밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0582_2_th2.jpg",
+      "caption": "큰갈고리밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRDS0582-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0582_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0582_1_th.jpg",
+      "alt": "왕갈고리큰나방 2번째 사진 : 큰갈고리밤나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRDS0582_1_th2.jpg",
+      "caption": "큰갈고리밤나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRDS0582-1",
+  "specimen_examples": [
+    {
+      "id": "JFNE0305111012",
+      "description": "[JFNE0305111012] 왕갈고리큰나방 1997.09.20 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0305111015",
+      "description": "[JFNE0305111015] 왕갈고리큰나방 1997.09.23 / / 제주자연사박물관"
+    },
+    {
+      "id": "JFNE0305111016",
+      "description": "[JFNE0305111016] 왕갈고리큰나방 1997.09.24 / / 제주자연사박물관"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZRDS0582-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRDS0582&tabId=tab1",
+    "collected_at": "2026-11-04T14:16:29+00:00",
+    "html_sha256": "e9cdd67502c8c13ff8f88731c34e27e482c9610faabcdecabfcbd81dd0dc8e34",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

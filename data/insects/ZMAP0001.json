@@ -1,0 +1,147 @@
+{
+  "id": "ZMAP0001",
+  "name_ko": "쥐머리거품벌레",
+  "scientific_name": "Eoscartopsis assimilis (Uhler, 1896)",
+  "display_name": "쥐머리거품벌레",
+  "family_ko": "쥐머리거품벌레과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "노린재목",
+      "name_latin": "Hemiptera"
+    },
+    "superfamily": {
+      "name_ko": "거품벌레상과",
+      "name_latin": "Cercopoidea"
+    },
+    "family": {
+      "name_ko": "쥐머리거품벌레과",
+      "name_latin": "Cercopidae"
+    },
+    "subfamily": {
+      "name_ko": "",
+      "name_latin": "Cercopinae"
+    },
+    "genus": {
+      "name_ko": "쥐머리거품벌레속",
+      "name_latin": "Eoscartopsis"
+    }
+  },
+  "taxonomy_text": "목 : 노린재목 (Hemiptera)\n상과 : 거품벌레상과 (Cercopoidea)\n과 : 쥐머리거품벌레과 (Cercopidae)\n아과 : (Cercopinae)\n속 : 쥐머리거품벌레속 (Eoscartopsis)",
+  "basic_information": {
+    "곤충명": "쥐머리거품벌레",
+    "학명": "Eoscartopsis assimilis (Uhler, 1896)"
+  },
+  "information": {
+    "general_description": "몸길이 : 5.5-8.5mm\n몸은 적갈색 훅갈색 검정색에이르기까지 체색의변화가 심하다. 머리를포함한 전반부 등쪽의 체색이더심하다. 머리는 앞가슴보다 길고 좁으며 얼굴이둥글게 팽창하였다. 앞날개는 반투명에 다소 경화되어있다. 선단부의 가부분은 다소 붉은색을 띤다. 뒷날개는 투명하며 잘발달되어있다.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": "5월 부터 발견되나 아직까지 생활사가 밝혀지지 않았다.",
+    "egg": null,
+    "pupa": null,
+    "ecology": "산야의 개울가 계곡 또는 경작지 주변 등 다소 습한곳에산다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]\n[중국]\n[대만]\n[러시아]",
+    "notes": "[산림해충] Chung et al.(1995)",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "몸길이 : 5.5-8.5mm\n몸은 적갈색 훅갈색 검정색에이르기까지 체색의변화가 심하다. 머리를포함한 전반부 등쪽의 체색이더심하다. 머리는 앞가슴보다 길고 좁으며 얼굴이둥글게 팽창하였다. 앞날개는 반투명에 다소 경화되어있다. 선단부의 가부분은 다소 붉은색을 띤다. 뒷날개는 투명하며 잘발달되어있다."
+    },
+    {
+      "title": "유충",
+      "text": "5월 부터 발견되나 아직까지 생활사가 밝혀지지 않았다."
+    },
+    {
+      "title": "생태",
+      "text": "산야의 개울가 계곡 또는 경작지 주변 등 다소 습한곳에산다."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]\n[중국]\n[대만]\n[러시아]"
+    },
+    {
+      "title": "특기사항",
+      "text": "[산림해충] Chung et al.(1995)"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZMAP0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAP0001_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAP0001_2_th.jpg",
+      "alt": "쥐머리거품벌레 1번째 사진 : 쥐머리거품벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAP0001_2_th2.jpg",
+      "caption": "쥐머리거품벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZMAP0001-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAP0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAP0001_1_th.jpg",
+      "alt": "쥐머리거품벌레 2번째 사진 : 쥐머리거품벌레전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/M1/ZMAP0001_1_th2.jpg",
+      "caption": "쥐머리거품벌레전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZMAP0001-1",
+  "specimen_examples": [
+    {
+      "id": "KPNE0305121131",
+      "description": "[KPNE0305121131] 쥐머리거품벌레 1980.06.28 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0305121170",
+      "description": "[KPNE0305121170] 쥐머리거품벌레 1982.07.27 / / 경북대학교"
+    },
+    {
+      "id": "KPNE0305131030",
+      "description": "[KPNE0305131030] 쥐머리거품벌레 1980.08.24 / / 경북대학교"
+    }
+  ],
+  "related_species": [
+    {
+      "group": "식물",
+      "name_ko": "감나무",
+      "scientific_name": "Diospyros kaki Thunb."
+    },
+    {
+      "group": "식물",
+      "name_ko": "버드나무",
+      "scientific_name": "Salix pierotii Miq."
+    },
+    {
+      "group": "식물",
+      "name_ko": "산돌배",
+      "scientific_name": "Pyrus ussuriensis Maxim. ex Rupr."
+    },
+    {
+      "group": "식물",
+      "name_ko": "오리나무",
+      "scientific_name": "Alnus japonica (Thunb.) Steud."
+    }
+  ],
+  "illustration": {
+    "status": "pending",
+    "image_path": null,
+    "reference_image_id": "ZMAP0001-1"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZMAP0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:19:27+00:00",
+    "html_sha256": "0334f90abc971bf8a2aee8b59d61abd5a72ae8fbda9781894290f6ef60237dd4",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

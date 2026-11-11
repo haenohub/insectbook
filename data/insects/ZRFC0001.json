@@ -1,0 +1,111 @@
+{
+  "id": "ZRFC0001",
+  "name_ko": "곡식좀나방",
+  "scientific_name": "Nemapogon granella (Linnaeus, 1758)",
+  "display_name": "곡식좀나방",
+  "family_ko": "곡식좀나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "곡식좀나방상과",
+      "name_latin": "Tineoidea"
+    },
+    "family": {
+      "name_ko": "곡식좀나방과",
+      "name_latin": "Tineidae"
+    },
+    "subfamily": {
+      "name_ko": "곡식좀나방아과",
+      "name_latin": "Nemapogoninae"
+    },
+    "genus": {
+      "name_ko": "",
+      "name_latin": "Nemapogon"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 곡식좀나방상과 (Tineoidea)\n과 : 곡식좀나방과 (Tineidae)\n아과 : 곡식좀나방아과 (Nemapogoninae)\n속 : (Nemapogon)",
+  "basic_information": {
+    "곤충명": "곡식좀나방",
+    "학명": "Nemapogon granella (Linnaeus, 1758)"
+  },
+  "information": {
+    "general_description": "국내분포:전국 체집\n국외분포:세계 각국 체집\n머리는 흐린 백색이며, 이마의 중앙부는 황색이 짙다. 아랫입술수염은\n곧고 거친 인모(鱗毛)는 없으며, 제2마디의 끝부분은 소수의 긴 철이 나있다. 제3마디는 제2마디보다 짧으면 끝이 뾰족하다.\n앞날개의 모든 맥은 서로 분리되어 있으나 제4경맥(R4)과 제5경맥(R5)은\n같은 자루를 이루고 있다. 뒷날개의 제1중맥(M1)과 제2중맥(M2)은 동일점에서 출발한다.",
+    "adult": null,
+    "adult_male": "수컷의 생식기의 그네이토스는 L자 모양이며, 파악판에는 손가락 모양의 돌기가 있다.",
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "건조과실과 저장 곡물의 해충으로 잘 알려져 있으며, 많은 건조식물을 가해한다. 야외에서는 버섯이 식이(食餌)로서 알려져 있지만 건조식용 버섯을 먹으며, 일본에서는 가끔 표고버섯에 큰 해를 끼친다고 보고되어있다. 또한 실내에서 호밀, 곡류를 비롯하여 견과류 등을 먹는 것으로 알려져 있다.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": null,
+    "notes": "[보통종]",
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "국내분포:전국 체집\n국외분포:세계 각국 체집\n머리는 흐린 백색이며, 이마의 중앙부는 황색이 짙다. 아랫입술수염은\n곧고 거친 인모(鱗毛)는 없으며, 제2마디의 끝부분은 소수의 긴 철이 나있다. 제3마디는 제2마디보다 짧으면 끝이 뾰족하다.\n앞날개의 모든 맥은 서로 분리되어 있으나 제4경맥(R4)과 제5경맥(R5)은\n같은 자루를 이루고 있다. 뒷날개의 제1중맥(M1)과 제2중맥(M2)은 동일점에서 출발한다."
+    },
+    {
+      "title": "성충(수)",
+      "text": "수컷의 생식기의 그네이토스는 L자 모양이며, 파악판에는 손가락 모양의 돌기가 있다."
+    },
+    {
+      "title": "생태",
+      "text": "건조과실과 저장 곡물의 해충으로 잘 알려져 있으며, 많은 건조식물을 가해한다. 야외에서는 버섯이 식이(食餌)로서 알려져 있지만 건조식용 버섯을 먹으며, 일본에서는 가끔 표고버섯에 큰 해를 끼친다고 보고되어있다. 또한 실내에서 호밀, 곡류를 비롯하여 견과류 등을 먹는 것으로 알려져 있다."
+    },
+    {
+      "title": "특기사항",
+      "text": "[보통종]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRFC0001-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFC0001_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFC0001_1_th.jpg",
+      "alt": "곡식좀나방 1번째 사진 : 곡식좀나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRFC0001_1_th2.jpg",
+      "caption": "곡식좀나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRFC0001-1",
+  "specimen_examples": [
+    {
+      "id": "KNAE0711090031",
+      "description": "[KNAE0711090031] 곡식좀나방 2007.04.09 / / 국립수목원"
+    },
+    {
+      "id": "KNAE0711090034",
+      "description": "[KNAE0711090034] 곡식좀나방 2007.04.09 / / 국립수목원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRFC0001.png",
+    "reference_image_id": "ZRFC0001-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T12:54:00.067512+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "bd39a97cdb91010701e82ad3efe0edd26161978648f8057308f282f3aabdd079"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRFC0001&tabId=tab1",
+    "collected_at": "2026-11-04T14:02:57+00:00",
+    "html_sha256": "a589bfe2a7acbe5c78bfca33cf2219f859d1c766ee8f4493d51370f3402c5f74",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

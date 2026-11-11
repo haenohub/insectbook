@@ -1,0 +1,122 @@
+{
+  "id": "ZRBU0004",
+  "name_ko": "금빛갈고리나방",
+  "scientific_name": "Callidrepana patrana palleolus (Motschulsky, 1866)",
+  "display_name": "금빛갈고리나방",
+  "family_ko": "갈고리나방과",
+  "taxonomy": {
+    "order": {
+      "name_ko": "나비목",
+      "name_latin": "Lepidoptera"
+    },
+    "superfamily": {
+      "name_ko": "갈고리나방상과",
+      "name_latin": "Drepanoidea"
+    },
+    "family": {
+      "name_ko": "갈고리나방과",
+      "name_latin": "Drepanidae"
+    },
+    "subfamily": {
+      "name_ko": "갈고리나방아과",
+      "name_latin": "Drepaninae"
+    },
+    "genus": {
+      "name_ko": "금빛갈고리나방속",
+      "name_latin": "Callidrepana"
+    }
+  },
+  "taxonomy_text": "목 : 나비목 (Lepidoptera)\n상과 : 갈고리나방상과 (Drepanoidea)\n과 : 갈고리나방과 (Drepanidae)\n아과 : 갈고리나방아과 (Drepaninae)\n속 : 금빛갈고리나방속 (Callidrepana)",
+  "basic_information": {
+    "곤충명": "금빛갈고리나방",
+    "학명": "Callidrepana patrana palleolus (Motschulsky, 1866)"
+  },
+  "information": {
+    "general_description": "원종은 담황갈색이고, 앞날개의 맥과 앞.뒷날개의 외횡선 바깥쪽을 따라 은빛 비늘이 흩어져 있음. 갈색의 외횡선은 날개끝 가까이에서 나가 후연에 이르러 뒷날개의 후반에서 다시 나타남. 앞날개의 날개끝 부위는 갈색이고, 아외연부에는 암색 점의 줄이 있음. 이 아종은 원종에 비해서 색깔이 한층 더 연하고 다소 대형임.",
+    "adult": null,
+    "adult_male": null,
+    "adult_female": null,
+    "larva": null,
+    "egg": null,
+    "pupa": null,
+    "ecology": "유충은 개옻나무의 잎을 먹는 것으로 알려짐.",
+    "habits": null,
+    "season": null,
+    "overwintering": null,
+    "distribution": "[일본]",
+    "notes": null,
+    "pest_control": null,
+    "references": null
+  },
+  "sections": [
+    {
+      "title": "일반특징",
+      "text": "원종은 담황갈색이고, 앞날개의 맥과 앞.뒷날개의 외횡선 바깥쪽을 따라 은빛 비늘이 흩어져 있음. 갈색의 외횡선은 날개끝 가까이에서 나가 후연에 이르러 뒷날개의 후반에서 다시 나타남. 앞날개의 날개끝 부위는 갈색이고, 아외연부에는 암색 점의 줄이 있음. 이 아종은 원종에 비해서 색깔이 한층 더 연하고 다소 대형임."
+    },
+    {
+      "title": "생태",
+      "text": "유충은 개옻나무의 잎을 먹는 것으로 알려짐."
+    },
+    {
+      "title": "국내외분포",
+      "text": "[일본]"
+    }
+  ],
+  "images": [
+    {
+      "id": "ZRBU0004-1",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBU0004_2.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBU0004_2_th.jpg",
+      "alt": "금빛갈고리나방 1번째 사진 : 금빛갈고리나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBU0004_2_th2.jpg",
+      "caption": "금빛갈고리나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    },
+    {
+      "id": "ZRBU0004-2",
+      "original_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBU0004_1.jpg",
+      "thumbnail_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBU0004_1_th.jpg",
+      "alt": "금빛갈고리나방 2번째 사진 : 금빛갈고리나방전체 등면 이미지 입니다",
+      "display_url": "https://www.nature.go.kr/fileUpload/photo/R1/ZRBU0004_1_th2.jpg",
+      "caption": "금빛갈고리나방전체 등면 이미지 입니다",
+      "photographed_at": null,
+      "location": null,
+      "photographer": null
+    }
+  ],
+  "representative_image_id": "ZRBU0004-1",
+  "specimen_examples": [
+    {
+      "id": "MPME0408111089",
+      "description": "[MPME0408111089] 금빛갈고리나방 2003.05.01 / / 목포자연사박물관"
+    },
+    {
+      "id": "MPME0408111090",
+      "description": "[MPME0408111090] 금빛갈고리나방 2003.08.28 / / 목포자연사박물관"
+    },
+    {
+      "id": "FRIE0304231023",
+      "description": "[FRIE0304231023] 금빛갈고리나방 1996.08.28 / / 국립산림과학원"
+    }
+  ],
+  "related_species": [],
+  "illustration": {
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRBU0004.png",
+    "reference_image_id": "ZRBU0004-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-05T15:01:52.103640+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "7decd682bd4396a4ec15693d1f10ef1febebc4aaf1b684eb2d4b300300c9365a"
+  },
+  "source": {
+    "provider": "국립수목원 국가생물종지식정보시스템",
+    "url": "https://www.nature.go.kr/kbi/insct/pilbk/selectInsctPilbkDtl.do?insctPilbkNo=ZRBU0004&tabId=tab1",
+    "collected_at": "2026-11-04T14:03:45+00:00",
+    "html_sha256": "6cc08741080609e7e4ecada4a4c4402bdc8615f3e52d649ca80f9a55b7601589",
+    "rights_url": "https://www.nature.go.kr/kbi/us/open/KBI_2006_030000.do",
+    "license": null
+  }
+}

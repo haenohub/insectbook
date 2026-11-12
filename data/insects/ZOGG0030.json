@@ -76,9 +76,13 @@
   ],
   "related_species": [],
   "illustration": {
-    "status": "pending",
-    "image_path": null,
-    "reference_image_id": "ZOGG0030-1"
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOGG0030.png",
+    "reference_image_id": "ZOGG0030-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-12T13:00:47.960682+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "929534a23b31c3381532cbafae879698858fd8d841c6ef5890064efdb02b2ca2"
   },
   "source": {
     "provider": "국립수목원 국가생물종지식정보시스템",

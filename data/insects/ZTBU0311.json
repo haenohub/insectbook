@@ -80,9 +80,13 @@
   ],
   "related_species": [],
   "illustration": {
-    "status": "pending",
-    "image_path": null,
-    "reference_image_id": "ZTBU0311-1"
+    "status": "generated",
+    "image_path": "assets/illustrations/ZTBU0311.png",
+    "reference_image_id": "ZTBU0311-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-12T13:07:29.322579+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "cdfb1c827d20cb83cbedf7106b686b5c95e12f9489df163b71e6d87cfa228ce5"
   },
   "source": {
     "provider": "국립수목원 국가생물종지식정보시스템",

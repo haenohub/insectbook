@@ -90,7 +90,10 @@
   "illustration": {
     "status": "pending",
     "image_path": null,
-    "reference_image_id": "ZOBZ0061-1"
+    "reference_image_id": "ZOBZ0061-1",
+    "reference_review_status": "blocked",
+    "reference_review_reason": "유일한 표본 사진에서 머리·더듬이·다리를 확인할 수 없고 표본 핀이 몸을 가려 온전한 전신 사진 확보 전 생성 보류.",
+    "reference_reviewed_at": "2026-11-12T12:32:50.191083+00:00"
   },
   "source": {
     "provider": "국립수목원 국가생물종지식정보시스템",

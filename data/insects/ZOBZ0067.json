@@ -90,7 +90,10 @@
   "illustration": {
     "status": "pending",
     "image_path": null,
-    "reference_image_id": "ZOBZ0067-1"
+    "reference_image_id": "ZOBZ0067-1",
+    "reference_review_status": "blocked",
+    "reference_review_reason": "유일한 표본 사진에서 머리·더듬이와 다리 형태를 확인할 수 없고 딱지날개가 벌어져 흰 조직 또는 손상 부위가 노출되어 정상 전체 모습을 확인하기 어려움. 온전한 전신 사진 확보 전 생성 보류.",
+    "reference_reviewed_at": "2026-11-12T12:11:51.686373+00:00"
   },
   "source": {
     "provider": "국립수목원 국가생물종지식정보시스템",

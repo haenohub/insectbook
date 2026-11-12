@@ -1,6 +1,6 @@
 # 서치! 곤충도감
 
-저장된 색연필 손그림과 국립수목원 곤충도감 원문을 연결한 반응형 웹페이지입니다. 현재 스냅샷은 실제 생성된 **721종**을 포함합니다. 그림 추가 생성 작업은 중단 상태를 유지하며 웹페이지 작업은 원본 PNG와 수집 레코드를 수정하지 않습니다.
+저장된 색연필 손그림과 국립수목원 곤충도감 원문을 연결한 반응형 웹페이지입니다. 현재 스냅샷은 실제 생성된 **800종**을 포함합니다. 이번에 추가한 79종의 그림은 종별 정보·타이틀·게임 능력치·배틀 스킬에 연결됩니다. 요청한 79종 생성 작업은 완료했으며, 추가 요청 전에는 다음 그림을 생성하지 않습니다.
 
 ## 실행
 
@@ -20,11 +20,11 @@ npm run build
 npm run preview
 ```
 
-`dist/`는 정적 웹사이트입니다. 배포에는 원본 PNG에서 자르지 않고 만든 WebP 사본(최대 1280px, 품질 90)과 연결된 원문 JSON을 사용합니다. 현재 721장 사본은 약 95MiB로 GitHub Pages 용량 제한 안에 들어갑니다. PNG 원본과 이전 수정본은 클라우드의 `assets/illustrations/`에 보존하며 Git에는 포함하지 않습니다. 배포용 WebP와 원본·사본 해시는 `assets/web-illustrations/manifest.json`으로 관리합니다. 이미지 생성 작업은 계속 중단 상태입니다.
+`dist/`는 정적 웹사이트입니다. 배포에는 원본 PNG에서 자르지 않고 만든 WebP 사본(최대 1280px, 품질 90)과 연결된 원문 JSON을 사용합니다. 현재 800장 사본은 약 102MiB로 GitHub Pages 용량 제한 안에 들어갑니다. PNG 원본과 이전 수정본은 클라우드의 `assets/illustrations/`에 보존하며 Git에는 포함하지 않습니다. 배포용 WebP와 원본·사본 해시는 `assets/web-illustrations/manifest.json`으로 관리합니다.
 
 ## GitHub Pages 배포
 
-`main`에 push하면 `.github/workflows/deploy-pages.yml`이 의존성 설치, 테스트, `/insectbook/` 경로 빌드, 721장과 원문 파일 검증, Pages 배포를 수행합니다. 저장소 **Settings → Pages → Build and deployment → Source**는 **GitHub Actions**를 사용합니다. 최초 자동 설정에 권한이 부족하면 이 항목을 직접 선택하고 Actions에서 워크플로를 다시 실행하세요.
+`main`에 push하면 `.github/workflows/deploy-pages.yml`이 의존성 설치, 테스트, `/insectbook/` 경로 빌드, 저장된 전체 그림과 원문 파일 검증, Pages 배포를 수행합니다. 저장소 **Settings → Pages → Build and deployment → Source**는 **GitHub Actions**를 사용합니다. 최초 자동 설정에 권한이 부족하면 이 항목을 직접 선택하고 Actions에서 워크플로를 다시 실행하세요.
 
 Git에 저장된 WebP만으로 빌드할 수 있어 전체 PNG 원본을 내려받을 필요가 없습니다. 클라우드에서 그림을 추가한 뒤에는 `npm run prepare:images`로 배포 사본을 갱신하세요. 이 명령은 원본 PNG가 있는 환경에서만 실행합니다.
 
@@ -49,6 +49,8 @@ VITE_BASE_PATH=/insectbook/ npm run preview -- --port 4173
 관찰함과 대결 기록은 해당 브라우저의 `localStorage`에 보관합니다. 서버 계정이나 기기 간 동기화는 없습니다. 저장소 접근이 제한되면 현재 탭의 메모리 안에서 동작합니다.
 
 ## 데이터와 타이틀
+
+추가 79종의 완료 목록과 참조 사진 검토 결과는 `data/illustration-run.json`과 `data/illustration-additional79-results.json`에 있습니다. 원본에서 전신 형태를 확인하기 어려운 5종은 보류하고 다음 순서의 곤충으로 대체했습니다. 이전 550종 작업 기록은 `data/illustration-runs/additional-550-total-1000.json`에 보존했습니다.
 
 `scripts/build-web-data.mjs`는 수집 데이터의 `generated` 또는 `approved` 상태이면서 실제 파일이 있고 `blocked`가 아닌 항목만 읽습니다. 원본을 바꾸지 않고 `data/web-catalog.json`을 생성합니다. `npm run dev`와 `npm run build`에서 자동 실행하므로 이후 그림이 늘어나면 현재 저장 목록을 다시 반영할 수 있습니다.
 

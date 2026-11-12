@@ -102,9 +102,13 @@
     }
   ],
   "illustration": {
-    "status": "pending",
-    "image_path": null,
-    "reference_image_id": "ZOAR0044-1"
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOAR0044.png",
+    "reference_image_id": "ZOAR0044-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-12T12:16:05.287147+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "11e29527d6baa30d8f5fe3aa833ae6de78c5aad8ee766e0c369d22f66b070a88"
   },
   "source": {
     "provider": "국립수목원 국가생물종지식정보시스템",

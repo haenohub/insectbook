@@ -94,7 +94,10 @@
   "illustration": {
     "status": "pending",
     "image_path": null,
-    "reference_image_id": "ZRCI0129-1"
+    "reference_image_id": "ZRCI0129-1",
+    "reference_review_status": "blocked",
+    "reference_review_reason": "유일한 표본 사진의 배 부분이 짧게 끊겨 정상 형태를 확인하기 어려우므로 온전한 전신 사진 확보 전 생성 보류한다.",
+    "reference_reviewed_at": "2026-11-12T12:43:21.076682+00:00"
   },
   "source": {
     "provider": "국립수목원 국가생물종지식정보시스템",

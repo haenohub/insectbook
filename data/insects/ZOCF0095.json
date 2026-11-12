@@ -107,9 +107,13 @@
     }
   ],
   "illustration": {
-    "status": "pending",
-    "image_path": null,
-    "reference_image_id": "ZOCF0095-1"
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOCF0095.png",
+    "reference_image_id": "ZOCF0095-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-12T12:29:21.880674+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "959b74503540356b7b6003ec621cf5750ef5e30cb55a1f452a1535f1b040648b"
   },
   "source": {
     "provider": "국립수목원 국가생물종지식정보시스템",

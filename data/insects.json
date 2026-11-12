@@ -86917,9 +86917,13 @@
         }
       ],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZOBC0001-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZOBC0001.png",
+        "reference_image_id": "ZOBC0001-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T12:04:37.909477+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "522de1b188b015a3f3cef8124bcc9930462b3b450f4874ea25e14cacb90c693a"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -87054,9 +87058,13 @@
         }
       ],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZLAA0021-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZLAA0021.png",
+        "reference_image_id": "ZLAA0021-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T12:08:34.873648+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "2ac6d626bc510ee7be58d41bbd6e19adb7b9421343ede4c967bcf94ef79fc6ff"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -87157,9 +87165,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZOGJ0015-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZOGJ0015.png",
+        "reference_image_id": "ZOGJ0015-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T12:10:46.930091+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "f166cd4e3861ab7412e74a9b8dea5a2e3b595d53b290e3953a4f83f6c8f979e4"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -87315,9 +87327,13 @@
         }
       ],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZOCF0068-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZOCF0068.png",
+        "reference_image_id": "ZOCF0068-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T12:08:36.483983+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "c8529ea511b73b9b4f69f23d0eeab6cae0bf9467212615609ab0a8817b48c3b3"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -87448,9 +87464,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZRFF0267-3"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZRFF0267.png",
+        "reference_image_id": "ZRFF0267-3",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T12:08:37.776406+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "4ba2e3f8fdcdd76539b4349a1273255498f3afeaf0df2df876f9da764c217d96"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -87551,9 +87571,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZOEK0005-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZOEK0005.png",
+        "reference_image_id": "ZOEK0005-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T12:10:48.620513+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "7043ed85d1d1b7862ea2843ab18a2f3162d5c0e7aaa276ffc05692fb175541f9"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -87658,9 +87682,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZLBN0047-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZLBN0047.png",
+        "reference_image_id": "ZLBN0047-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T12:13:46.307538+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "e0110d4751a6f665812fe21ea0c55b9b51abec4dd9f092ca7e88f73a6f1564c4"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -87763,7 +87791,10 @@
       "illustration": {
         "status": "pending",
         "image_path": null,
-        "reference_image_id": "ZOBZ0067-1"
+        "reference_image_id": "ZOBZ0067-1",
+        "reference_review_status": "blocked",
+        "reference_review_reason": "유일한 표본 사진에서 머리·더듬이와 다리 형태를 확인할 수 없고 딱지날개가 벌어져 흰 조직 또는 손상 부위가 노출되어 정상 전체 모습을 확인하기 어려움. 온전한 전신 사진 확보 전 생성 보류.",
+        "reference_reviewed_at": "2026-11-12T12:11:51.686373+00:00"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -87864,9 +87895,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZOBT0219-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZOBT0219.png",
+        "reference_image_id": "ZOBT0219-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T12:16:03.543691+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "65e794a962584249d7cc45797e978711e1881a682b22de0c6eded864f59ed365"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -87981,9 +88016,13 @@
         }
       ],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZOAR0044-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZOAR0044.png",
+        "reference_image_id": "ZOAR0044-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T12:16:05.287147+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "11e29527d6baa30d8f5fe3aa833ae6de78c5aad8ee766e0c369d22f66b070a88"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -88099,9 +88138,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZRAM0012-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZRAM0012.png",
+        "reference_image_id": "ZRAM0012-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T12:18:03.359846+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "148a3e75c95944d046ae88a7f0f8072c66fa2bc836b3feb94bfb0dc3a08e062a"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -88202,9 +88245,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZSEM0122-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZSEM0122.png",
+        "reference_image_id": "ZSEM0122-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T12:19:57.632878+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "4d1c31ee4de12306ff7d3bf10671e544c38cfc796c780a0b8a1ca092ff94b85b"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -88315,9 +88362,13 @@
         }
       ],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZOBT0208-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZOBT0208.png",
+        "reference_image_id": "ZOBT0208-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T12:19:59.309533+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "c6b70492a05af5ffdc42c748f0ba40e36cdf08ca320bdd3deafacf1ee38c122e"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -88410,9 +88461,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZTBU0168-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZTBU0168.png",
+        "reference_image_id": "ZTBU0168-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T12:22:33.669452+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "730fe387ff9e5889bb9247189801ec1e86f9063ac52c8370faace646ce6a04b2"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -88532,9 +88587,13 @@
         }
       ],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZLAN0012-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZLAN0012.png",
+        "reference_image_id": "ZLAN0012-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T12:26:37.615548+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "d541c0bc3722c67979fa6f37a0b0f3731c3fa59373fd035552595f9147f9e9a8"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -88631,9 +88690,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZSEM0036-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZSEM0036.png",
+        "reference_image_id": "ZSEM0036-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T12:26:39.304832+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "97c887b80020b02c78fd2ada83a9471f17f74e880243986afb642c3e58b5ac3a"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -88745,9 +88808,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZRAM0024-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZRAM0024.png",
+        "reference_image_id": "ZRAM0024-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T12:28:12.296295+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "12869b02c49952dc887ce9525dafa1b8ec076e48a62a5fcb9bcfb66e9644bb39"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -88859,9 +88926,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZOBH0105-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZOBH0105.png",
+        "reference_image_id": "ZOBH0105-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T12:28:13.964426+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "80a4db3deb46021b59d2fd5a6a1c246f6b108f7f7d32bf6c50ca8a9f9e2ac907"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -88981,9 +89052,13 @@
         }
       ],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZOCF0095-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZOCF0095.png",
+        "reference_image_id": "ZOCF0095-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T12:29:21.880674+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "959b74503540356b7b6003ec621cf5750ef5e30cb55a1f452a1535f1b040648b"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -89088,9 +89163,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZOAG0009-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZOAG0009.png",
+        "reference_image_id": "ZOAG0009-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T12:29:23.618969+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "5597bfab128771ba8010afe4a4f253afa83e82b50d6cc39ae09baa14a6d2c6dc"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -89243,9 +89322,13 @@
         }
       ],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZRDE0012-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZRDE0012.png",
+        "reference_image_id": "ZRDE0012-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T12:30:52.448967+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "631c94008c79cf7ec4f25db3639c4503fc25dde0ae1867f0a5da1eae90fb9314"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -89361,9 +89444,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZRBM0002-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZRBM0002.png",
+        "reference_image_id": "ZRBM0002-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T12:30:54.180248+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "b1a7c5b973305f9d22468a6ffbe7d57c687a7781322ba0d57a098361a3ccc1a9"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -89475,9 +89562,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZMAK0001-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZMAK0001.png",
+        "reference_image_id": "ZMAK0001-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T12:32:19.557244+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "b9ed7a88c6ccb0b02995dc07a9f03eadffe55005fc78ea2ec7ffb28ea16bca1a"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -89589,9 +89680,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZRCI0535-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZRCI0535.png",
+        "reference_image_id": "ZRCI0535-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T12:32:21.275261+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "a2ae61a6e8e284f3512f83f0d9a061cd133ed356bafa91c0fc2ee040f5d93b19"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -89694,7 +89789,10 @@
       "illustration": {
         "status": "pending",
         "image_path": null,
-        "reference_image_id": "ZOBZ0061-1"
+        "reference_image_id": "ZOBZ0061-1",
+        "reference_review_status": "blocked",
+        "reference_review_reason": "유일한 표본 사진에서 머리·더듬이·다리를 확인할 수 없고 표본 핀이 몸을 가려 온전한 전신 사진 확보 전 생성 보류.",
+        "reference_reviewed_at": "2026-11-12T12:32:50.191083+00:00"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -89803,9 +89901,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZRDU0095-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZRDU0095.png",
+        "reference_image_id": "ZRDU0095-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T12:34:40.415747+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "c017494c435655f86c89d224d57f00c37a429df6e686077b2d126efcee2c1636"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -89921,9 +90023,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZRCI0526-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZRCI0526.png",
+        "reference_image_id": "ZRCI0526-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T12:34:42.195759+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "2b85a8cdaa5231ebfcbeb53b74cdcd4048bdb2cc0e1582a75f6e2d6ae0650704"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -90024,9 +90130,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZREL0091-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZREL0091.png",
+        "reference_image_id": "ZREL0091-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T12:36:22.894552+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "237d5274300d992b243091c1745793cfaab1756c3d4ca148d9466f75904f7cfc"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -90135,9 +90245,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZREV0049-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZREV0049.png",
+        "reference_image_id": "ZREV0049-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T12:36:24.626461+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "c981652d21b628523d28872b9ef27a80f9f5e397b52b7690a41c4158a83d8169"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -90260,9 +90374,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZRFF0158-2"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZRFF0158.png",
+        "reference_image_id": "ZRFF0158-2",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T12:41:04.685261+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "eac826ba9ef879ebd93cf6a3ef3bfca10635f69cc5763b55bb3ff0655d913359"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -90355,9 +90473,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZMAR0220-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZMAR0220.png",
+        "reference_image_id": "ZMAR0220-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T12:38:06.998689+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "2c6e1154357a8103eb57c4bc18f4e917753c62e66dd63e700ce440294b3ae4a7"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -90458,9 +90580,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZOCW0007-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZOCW0007.png",
+        "reference_image_id": "ZOCW0007-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T12:39:37.067663+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "755f782d610a9a55eee2829423dcfb1f61f29ff35f3b158fe5833afeeeded2ed"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -90561,9 +90687,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZOBL0269-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZOBL0269.png",
+        "reference_image_id": "ZOBL0269-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T12:41:06.520659+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "aeea328135ad0a82fcd33cb78257f2813e956c267192e70ed08d9730fce8bbbb"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -90679,9 +90809,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZMAR0102-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZMAR0102.png",
+        "reference_image_id": "ZMAR0102-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T12:42:42.549456+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "bc1756d7eef9994030342786814dd0b03191ba94f2314543ffadfd975b7e5258"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -90797,9 +90931,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZRCI0458-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZRCI0458.png",
+        "reference_image_id": "ZRCI0458-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T12:42:44.328562+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "e8f3c838db84a4113a48076df5b499d7d9389f953f8b97c47205735f2acb44ba"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -90906,7 +91044,10 @@
       "illustration": {
         "status": "pending",
         "image_path": null,
-        "reference_image_id": "ZRCI0129-1"
+        "reference_image_id": "ZRCI0129-1",
+        "reference_review_status": "blocked",
+        "reference_review_reason": "유일한 표본 사진의 배 부분이 짧게 끊겨 정상 형태를 확인하기 어려우므로 온전한 전신 사진 확보 전 생성 보류한다.",
+        "reference_reviewed_at": "2026-11-12T12:43:21.076682+00:00"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -91007,9 +91148,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZLCG0022-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZLCG0022.png",
+        "reference_image_id": "ZLCG0022-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T12:48:11.782184+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "c9112d47bd8fba7fb61c9981744040d9133edffa5d82aba610a5352690fec2c2"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -91110,9 +91255,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZOGT0116-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZOGT0116.png",
+        "reference_image_id": "ZOGT0116-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T12:45:07.551617+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "af5df538a0b514356322bce7037b16b5d9a0fbe8fca1287f8354358adc746499"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -91228,9 +91377,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZSEO0026-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZSEO0026.png",
+        "reference_image_id": "ZSEO0026-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T12:48:13.611938+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "58314ff829887263e0573dea67a468b3e898a94bc67fa436b3ad1e0100369d17"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -91394,9 +91547,13 @@
         }
       ],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZRFL0001-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZRFL0001.png",
+        "reference_image_id": "ZRFL0001-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T12:49:45.544236+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "ad0979c5ad18799a696675c10ba38356771bcc24ed0fd716e1a51d038285ee1e"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -91516,9 +91673,13 @@
         }
       ],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZOBT0334-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZOBT0334.png",
+        "reference_image_id": "ZOBT0334-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T12:50:54.876583+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "8db0198cb7b1006be0e7c85686cfb817034286bcd23e263009a315688563b176"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -91615,9 +91776,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZOBH0398-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZOBH0398.png",
+        "reference_image_id": "ZOBH0398-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T12:50:56.668246+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "d59a01e9e78c762e6a12f2a1d1a3b5a52b1ab8a9300a2c5d9ac81f47de32e327"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -91733,9 +91898,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZRAM0013-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZRAM0013.png",
+        "reference_image_id": "ZRAM0013-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T12:52:15.571229+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "b14ab9575d99cdecd8b34bf0aa9615b08d75e24c2554d867c68f702f3b051a5f"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -91836,9 +92005,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZOEX0021-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZOEX0021.png",
+        "reference_image_id": "ZOEX0021-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T12:52:17.328498+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "d7703764b1fb03ceee834c6c15cd0ad46b6d6f1960d5fe9cf3aea3bdee5c625c"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -91935,9 +92108,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZTDK0108-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZTDK0108.png",
+        "reference_image_id": "ZTDK0108-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T12:53:44.564358+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "7dc88ce08dbfb398bb7334f8d85db26148d7eb4df4aa525dd17123938ffd84e4"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -92063,9 +92240,13 @@
         }
       ],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZRDU0041-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZRDU0041.png",
+        "reference_image_id": "ZRDU0041-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T12:53:46.288339+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "e5d30ed36adf2bea9b413be15bbbde3f4ee82dc9b8465e05778a457362217362"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -92181,9 +92362,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZRCI0321-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZRCI0321.png",
+        "reference_image_id": "ZRCI0321-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T12:55:29.440981+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "491034e2e0c43ac9f8ed874800261f2fce45b9b6993c9b24c6e1e9a2b26d6fea"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -92294,9 +92479,13 @@
         }
       ],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZLAN0005-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZLAN0005.png",
+        "reference_image_id": "ZLAN0005-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T12:57:14.400444+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "5a27a35e822e8351af4d0cd70452942962a6dfd3ae88a540e1b1e742da481b77"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -92427,9 +92616,13 @@
         }
       ],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZLAA0003-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZLAA0003.png",
+        "reference_image_id": "ZLAA0003-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T12:57:16.126809+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "3a0e0104dcb8b357b6edad2ca155a16b1c365a46945675edb59560c20c653070"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -92536,9 +92729,13 @@
         }
       ],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZOBL0272-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZOBL0272.png",
+        "reference_image_id": "ZOBL0272-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T12:58:50.245549+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "be5b54dff69e930e4da9aa6389a9879c704f418dd90ffd2ed0325b32cce5a252"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -92646,9 +92843,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZOBH0440-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZOBH0440.png",
+        "reference_image_id": "ZOBH0440-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T12:58:52.107890+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "c338fb209bdf28c5a77315f404d1b77b59a155e9542e95107ec429c3fce04546"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -92801,9 +93002,13 @@
         }
       ],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZREV0006-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZREV0006.png",
+        "reference_image_id": "ZREV0006-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T13:00:46.218249+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "5e04c3ccb0c6a59c2c0d879074a7c8f6b159f0d25f92f529d1d85db9b0237fef"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -92892,9 +93097,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZOGG0030-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZOGG0030.png",
+        "reference_image_id": "ZOGG0030-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T13:00:47.960682+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "929534a23b31c3381532cbafae879698858fd8d841c6ef5890064efdb02b2ca2"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -92991,9 +93200,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZOGG0036-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZOGG0036.png",
+        "reference_image_id": "ZOGG0036-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T13:02:16.604152+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "1d819b166ea77e25bd23ef643ca76a1a823d3d73fb8b1c9495fc3914d7d6799d"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -93094,9 +93307,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZOCS0003-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZOCS0003.png",
+        "reference_image_id": "ZOCS0003-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T13:02:18.323233+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "ac5532e161d29cc42ddbbda9ad18cc6c6f246dd66c3840c6c3917700f5bfac6f"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -93208,9 +93425,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZREL0104-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZREL0104.png",
+        "reference_image_id": "ZREL0104-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T13:03:58.075910+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "8adb19dc0a4d1dccb756b1e64b425f217fc0d7b7c26b90d01d21cae674e19818"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -93355,9 +93576,13 @@
         }
       ],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZRDV0062-2"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZRDV0062.png",
+        "reference_image_id": "ZRDV0062-2",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T13:05:58.226049+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "9bddfb233d5fb371221d9e8219876be121a4f222a4411221039e2fa010e2e9f6"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -93477,9 +93702,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZRDU0033-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZRDU0033.png",
+        "reference_image_id": "ZRDU0033-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T13:05:59.953346+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "0934a9641c3f91c2b3902fadb64537ba3dfe6929d2983b4b3a8452be2ea1d43e"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -93620,9 +93849,13 @@
         }
       ],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZRDS0037-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZRDS0037.png",
+        "reference_image_id": "ZRDS0037-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T13:07:27.598528+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "aa701f1b2c0b56087f10939450866c2671ab4062838c5fa18b61a458911d4bff"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -93715,9 +93948,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZTBU0311-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZTBU0311.png",
+        "reference_image_id": "ZTBU0311-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T13:07:29.322579+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "cdfb1c827d20cb83cbedf7106b686b5c95e12f9489df163b71e6d87cfa228ce5"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -93828,9 +94065,13 @@
         }
       ],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZOCS0058-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZOCS0058.png",
+        "reference_image_id": "ZOCS0058-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T13:09:08.364581+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "908fa453483ebfa4662aa68806d53cbe7780e73d674ddacd962ed7dd8b63c7dd"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -93923,9 +94164,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZTBU0345-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZTBU0345.png",
+        "reference_image_id": "ZTBU0345-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T13:09:10.031148+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "c6c9b21eadc6368043ec6ab59dd62336d6296903183fd3e6425cc97841018024"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -94026,9 +94271,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZTBU0215-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZTBU0215.png",
+        "reference_image_id": "ZTBU0215-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T13:10:46.615745+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "f87c9434e47774a6adce04478b38f47e493837969960fab2133b904da5c401c8"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -94144,9 +94393,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZRCI0381-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZRCI0381.png",
+        "reference_image_id": "ZRCI0381-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T13:10:48.250261+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "1a9fd2ffdfac6d53da4acd7510b576748434548f8fd6a55915002ac69423017a"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -94262,9 +94515,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZRAT0002-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZRAT0002.png",
+        "reference_image_id": "ZRAT0002-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T13:12:20.324737+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "5f4df27713b41abcaa54b676802b427a02cf6da7bcb71b8ca8725ad71af51f0a"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -94365,9 +94622,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZREL0156-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZREL0156.png",
+        "reference_image_id": "ZREL0156-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T13:12:22.037552+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "4e168c8bfff44c7eaae0629f2d3b1cc66cd6320275366c96d1179024df8e1e42"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -94468,9 +94729,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZSEM0110-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZSEM0110.png",
+        "reference_image_id": "ZSEM0110-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T13:13:55.903624+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "83fb2066f39983523d5a5bd04607ff575d862b485c7c23f66eb7d7ed0faf9cb1"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -94601,9 +94866,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZREP0032-2"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZREP0032.png",
+        "reference_image_id": "ZREP0032-2",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T13:13:57.837111+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "4e1d50a7743f25c9db9729ebbfef792634a65c12237ab33708daa0c37bef0cbf"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -94740,7 +95009,10 @@
       "illustration": {
         "status": "pending",
         "image_path": null,
-        "reference_image_id": "ZLCB0002-1"
+        "reference_image_id": "ZLCB0002-1",
+        "reference_review_status": "blocked",
+        "reference_review_reason": "유일한 표본 사진에서 머리·더듬이·다리가 가려져 정상 형태를 확인할 수 없으므로 온전한 전신 사진 확보 전 생성 보류한다.",
+        "reference_reviewed_at": "2026-11-12T13:14:19.667753+00:00"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -94871,9 +95143,13 @@
         }
       ],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZRDS0305-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZRDS0305.png",
+        "reference_image_id": "ZRDS0305-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T13:17:01.070146+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "9d073dbd7f4c786296aace16b6b74a55f0ae95a9ab21df24e07f5060beae0168"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -94998,7 +95274,10 @@
       "illustration": {
         "status": "pending",
         "image_path": null,
-        "reference_image_id": "ZOCF0201-1"
+        "reference_image_id": "ZOCF0201-1",
+        "reference_review_status": "blocked",
+        "reference_review_reason": "유일한 사진에서 머리 앞쪽의 주둥이·더듬이와 온전한 다리 모습을 확인하기 어려우므로 선명한 전신 사진 확보 전 생성 보류한다.",
+        "reference_reviewed_at": "2026-11-12T13:14:57.894776+00:00"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -95129,9 +95408,13 @@
         }
       ],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZMAR0017-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZMAR0017.png",
+        "reference_image_id": "ZMAR0017-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T13:17:02.911615+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "132ba0e0301a9ecc6747fe31ab1b956e7433a20f93438cfc0b4a8e8362c9d4bc"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -95247,9 +95530,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZODW0008-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZODW0008.png",
+        "reference_image_id": "ZODW0008-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T13:18:52.575371+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "afecd04554d83bdb27aec37257aafd0899c15c71908d39932d5b6be62b7ab788"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -95365,9 +95652,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZMAS0011-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZMAS0011.png",
+        "reference_image_id": "ZMAS0011-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T13:20:41.097660+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "c66d47fb1c20cac180d353c6999411257356b66cb31547f8463e0718fc5cec30"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -95536,9 +95827,13 @@
         }
       ],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZRCI0530-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZRCI0530.png",
+        "reference_image_id": "ZRCI0530-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T13:20:42.737327+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "ec5f29f187a6304c9a8886c7a9cc5229f902a35ce8dc9cd31a963c13c6377b74"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -95639,9 +95934,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZTBU0290-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZTBU0290.png",
+        "reference_image_id": "ZTBU0290-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T13:22:14.680777+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "2201e74ce0714b46478ce458d11567e7452011922b3d6828f98dfcdda1304e7c"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -95742,9 +96041,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZSEM0084-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZSEM0084.png",
+        "reference_image_id": "ZSEM0084-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T13:22:16.399662+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "b99ea5e3504ed6be1664ac21de009c6beed0781a220e72e3750dd8898d2f19e0"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -95845,9 +96148,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZTDK0112-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZTDK0112.png",
+        "reference_image_id": "ZTDK0112-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T13:24:08.651395+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "8f37110e986d17943df94542519525219985b106655160e97488fbb8ecb37c04"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -95940,9 +96247,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZTDK0017-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZTDK0017.png",
+        "reference_image_id": "ZTDK0017-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T13:24:10.307424+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "c15a797d5c35eb2077069d7debab3f137dfa60869af5435c1205740c539b99af"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -96051,9 +96362,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZRDS0407-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZRDS0407.png",
+        "reference_image_id": "ZRDS0407-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T13:26:01.667436+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "9d3ee034b778b981bae5ef37c4b15017f2f978b2e7b862117bf2bb90aec6746c"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -96150,9 +96465,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZTBU0195-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZTBU0195.png",
+        "reference_image_id": "ZTBU0195-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T13:27:36.554922+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "6d312118bf1effd65674bec5f4f1eeb96fd6ff2fca35cc0f493ecb9d001228da"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -96257,9 +96576,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZOCF0017-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZOCF0017.png",
+        "reference_image_id": "ZOCF0017-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T13:27:38.309158+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "acc6912b8db13a20f48da9754ac52b42d648c7a6e81db86798d6c36b0acfdf87"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -96375,9 +96698,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZLBX0024-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZLBX0024.png",
+        "reference_image_id": "ZLBX0024-2",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T13:29:51.872211+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "4feb40b6ff2b2d05dd641d815b22673b93e367f4abd50155f4cc6fb2fbe43d9e"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",
@@ -96493,9 +96820,13 @@
       ],
       "related_species": [],
       "illustration": {
-        "status": "pending",
-        "image_path": null,
-        "reference_image_id": "ZLCG0016-1"
+        "status": "generated",
+        "image_path": "assets/illustrations/ZLCG0016.png",
+        "reference_image_id": "ZLCG0016-1",
+        "style_id": "gentle-colored-pencil-v1",
+        "generated_at": "2026-11-12T13:29:53.720898+00:00",
+        "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+        "sha256": "c6d3ce301e27a9560dd7573d67607f25d233e05682416cede45a54a3c44a3d5d"
       },
       "source": {
         "provider": "국립수목원 국가생물종지식정보시스템",

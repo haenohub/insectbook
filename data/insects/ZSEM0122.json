@@ -88,9 +88,13 @@
   ],
   "related_species": [],
   "illustration": {
-    "status": "pending",
-    "image_path": null,
-    "reference_image_id": "ZSEM0122-1"
+    "status": "generated",
+    "image_path": "assets/illustrations/ZSEM0122.png",
+    "reference_image_id": "ZSEM0122-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-12T12:19:57.632878+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "4d1c31ee4de12306ff7d3bf10671e544c38cfc796c780a0b8a1ca092ff94b85b"
   },
   "source": {
     "provider": "국립수목원 국가생물종지식정보시스템",

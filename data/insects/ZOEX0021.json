@@ -88,9 +88,13 @@
   ],
   "related_species": [],
   "illustration": {
-    "status": "pending",
-    "image_path": null,
-    "reference_image_id": "ZOEX0021-1"
+    "status": "generated",
+    "image_path": "assets/illustrations/ZOEX0021.png",
+    "reference_image_id": "ZOEX0021-1",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-12T12:52:17.328498+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "d7703764b1fb03ceee834c6c15cd0ad46b6d6f1960d5fe9cf3aea3bdee5c625c"
   },
   "source": {
     "provider": "국립수목원 국가생물종지식정보시스템",

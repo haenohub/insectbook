@@ -132,9 +132,13 @@
     }
   ],
   "illustration": {
-    "status": "pending",
-    "image_path": null,
-    "reference_image_id": "ZRDV0062-2"
+    "status": "generated",
+    "image_path": "assets/illustrations/ZRDV0062.png",
+    "reference_image_id": "ZRDV0062-2",
+    "style_id": "gentle-colored-pencil-v1",
+    "generated_at": "2026-11-12T13:05:58.226049+00:00",
+    "prompt_sha256": "3d879307931a89e64e53034979ce03a66e5981a75e5cce67e351c172508a6694",
+    "sha256": "9bddfb233d5fb371221d9e8219876be121a4f222a4411221039e2fa010e2e9f6"
   },
   "source": {
     "provider": "국립수목원 국가생물종지식정보시스템",
